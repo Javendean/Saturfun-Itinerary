@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:ital,wght@0,600;1,600&family=Titan+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg-color: #FAFAFA;
@@ -180,7 +180,7 @@
                 </svg>
 
                 <!-- Fun & Friends (Original Black Font) -->
-                <h1 class="hero-title font-serif text-stone-900 text-6xl md:text-8xl lg:text-[7rem] font-semibold tracking-tight text-center drop-shadow-sm z-10 w-full">
+                <h1 class="hero-title font-serif text-stone-900 text-6xl md:text-8xl lg:text-[7rem] font-semibold tracking-tight text-center drop-shadow-sm z-10 w-full" style="font-family: 'Playfair Display', serif;">
                     Fun &amp; Friends
                 </h1>
 
@@ -210,11 +210,16 @@
         </section>
 
         <!-- ITINERARY CONTAINER -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12" id="itinerary-list">
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 relative" id="itinerary-list">
             <!-- Content Injected via JS -->
         </section>
 
-        <footer class="py-24 text-center text-stone-400 text-sm">
+        <!-- Silly Surprise Section -->
+        <div class="w-full h-screen bg-black flex justify-center items-center overflow-hidden relative" id="surprise-section">
+            <img src="images/friends/18273F7C-1B6B-44A9-A290-378360EB1360.JPG" class="w-full h-full object-contain mix-blend-screen opacity-0" id="surprise-img" />
+        </div>
+
+        <footer class="py-24 text-center text-stone-400 text-sm bg-black">
             <p class="serif italic text-lg mb-2">"Pure Beauty in Every Detail"</p>
             <p>Saturfun &copy; 2026</p>
         </footer>
@@ -225,8 +230,6 @@
 <script>
     gsap.registerPlugin(ScrollTrigger);
 
-    // Using the original real photos provided in user's index.html as the "original" photos.
-    // Adding beautiful AI generated images to serve as the atmospheric/animated background layer to satisfy constraints.
     const itineraryData = [
         {
             time: "11:30 AM",
@@ -237,8 +240,13 @@
                     name: "Colson Patisserie",
                     desc: "Perfect quiet starting point before the crowds.",
                     url: "https://industrycity.com/tenants/colson-patisserie/",
-                    originalPhoto: "https://images.unsplash.com/photo-1495147466023-fa5c96626c23?auto=format&fit=crop&w=800&q=80",
-                    generatedAnim: "images/colson_patisserie_1774058351778.png"
+                    originalPhoto: "images/colson_patisserie_1774058351778.png"
+                },
+                {
+                    name: "Yafa Cafe",
+                    desc: "Yemeni coffee and exceptional brunch options nearby.",
+                    url: "https://www.yafacafe.com/",
+                    originalPhoto: "images/yafa_cafe_1774058372442.png"
                 }
             ]
         },
@@ -248,11 +256,16 @@
             description: "Explore the aesthetic and maker culture of the campus, hunting for manga and experiencing authentic Japanese marketplaces.",
             places: [
                 {
-                    name: "Japan Village & BOOKOFF",
-                    desc: "A sprawling marketplace that feels like an authentic slice of Tokyo, paired with an anime treasure trove.",
+                    name: "Japan Village",
+                    desc: "A sprawling marketplace that feels like an authentic slice of Tokyo.",
                     url: "https://www.japanvillage.com/",
-                    originalPhoto: "https://images.unsplash.com/photo-1580455430070-5b565fb00e28?auto=format&fit=crop&w=800&q=80",
-                    generatedAnim: "images/japan_village_1774058396451.png"
+                    originalPhoto: "images/japan_village_1774058396451.png"
+                },
+                {
+                    name: "BOOKOFF",
+                    desc: "Incredible anime treasure trove and secondhand Japanese goods.",
+                    url: "https://www.bookoffusa.com/",
+                    originalPhoto: "images/bookoff_1774058409293.png"
                 }
             ]
         },
@@ -264,9 +277,14 @@
                 {
                     name: "Tacos El Bronco",
                     desc: "Authentic Mexican tacos to hit those protein goals.",
-                    url: "#",
-                    originalPhoto: "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=800&q=80",
-                    generatedAnim: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80" // Fallback aesthetic
+                    url: "https://tacoselbronco.net/",
+                    originalPhoto: "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=800&q=80"
+                },
+                {
+                    name: "Ba Xuyen",
+                    desc: "Legendary Banh Mi sandwiches for an active afternoon.",
+                    url: "https://www.yelp.com/biz/ba-xuyen-brooklyn",
+                    originalPhoto: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80"
                 }
             ]
         },
@@ -276,11 +294,16 @@
             description: "High-energy interaction or relaxed strategy with the group. Defuse paint bombs, climb walls, or play board games.",
             places: [
                 {
-                    name: "Beat The Bomb & Game Knight",
+                    name: "Beat The Bomb",
                     desc: "Drops your group into an arcade challenge requiring intense communication.",
                     url: "https://www.beatthebomb.com/",
-                    originalPhoto: "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=800&q=80",
-                    generatedAnim: "images/neon_portal_1774058262693.png"
+                    originalPhoto: "images/neon_portal_1774058262693.png"
+                },
+                {
+                    name: "Brooklyn Game Knight",
+                    desc: "Settle in for specialized tabletop gaming and drinks.",
+                    url: "https://www.brooklyngameknight.com/",
+                    originalPhoto: "https://images.unsplash.com/photo-1610813735114-14c1cd84e592?auto=format&fit=crop&w=800&q=80"
                 }
             ]
         },
@@ -290,11 +313,16 @@
             description: "Wind down the day with a full meal, comfort food, and premium teas as the courtyards light up.",
             places: [
                 {
-                    name: "WakuWaku & Hometown BBQ",
-                    desc: "Vibrant dining that feels like an immersive set piece, or slow-cooked BBQ for sharing.",
+                    name: "WakuWaku",
+                    desc: "Vibrant dining that feels like an immersive set piece.",
                     url: "https://industrycity.com/tenants/wakuwaku/",
-                    originalPhoto: "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80",
-                    generatedAnim: "images/abstract_glass_1774058250187.png"
+                    originalPhoto: "images/abstract_glass_1774058250187.png"
+                },
+                {
+                    name: "Hometown BBQ",
+                    desc: "Slow-cooked BBQ for sharing with the group.",
+                    url: "https://hometownbbq.com/",
+                    originalPhoto: "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80"
                 }
             ]
         }
@@ -303,29 +331,41 @@
     const container = document.getElementById('itinerary-list');
 
     itineraryData.forEach((item, index) => {
-        const place = item.places[0]; // Displaying the primary place for visual elegance
-
         const section = document.createElement('div');
-        section.className = 'itinerary-item';
+        section.className = 'itinerary-item flex flex-col lg:flex-row gap-8 lg:gap-16 py-16 border-b border-stone-200';
+        if (index % 2 !== 0) {
+            section.classList.add('lg:flex-row-reverse');
+        }
         
-        section.innerHTML = `
-            <div class="item-content section-text">
-                <span class="time">${item.time}</span>
-                <h2>${item.title}</h2>
-                <p class="text-stone-500 text-lg leading-relaxed">${item.description}</p>
-                
-                <div class="venue-card">
-                    <h3 class="text-xl font-bold mb-1">${place.name}</h3>
-                    <p class="text-sm text-stone-600 mb-3">${place.desc}</p>
-                    <a href="${place.url}" target="_blank" class="text-xs font-semibold uppercase tracking-wider text-orange-600 hover:text-orange-800 transition-colors">Visit Venue &rarr;</a>
+        // Calculate dynamic ETA placeholder
+        let etaHtml = '';
+        if (index > 0) {
+            const transitTime = Math.floor(Math.random() * 15) + 10;
+            etaHtml = `<div class="inline-flex items-center gap-2 px-3 py-1 mb-6 rounded-full bg-stone-100 text-stone-500 text-xs font-medium tracking-wide">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                ${transitTime} min transit
+            </div>`;
+        }
+        
+        const placesHtml = item.places.map(place => `
+            <div class="venue-card mt-6 bg-white p-6 rounded-xl shadow-sm border border-stone-100 hover:shadow-md hover:-translate-y-1 transition-all duration-300">
+                <h3 class="text-xl font-bold mb-2 text-stone-800">${place.name}</h3>
+                <p class="text-sm text-stone-600 mb-4">${place.desc}</p>
+                <div class="aspect-[4/3] w-full mb-4 overflow-hidden rounded-lg">
+                    <img src="${place.originalPhoto}" alt="${place.name}" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700">
                 </div>
+                <a href="${place.url}" target="_blank" class="text-xs font-semibold uppercase tracking-wider text-orange-600 hover:text-orange-800 transition-colors inline-flex items-center gap-1">Visit Venue &rarr;</a>
             </div>
-            <div class="item-images image-wrapper">
-                <div class="image-composite">
-                    <!-- The generated aesthetic image providing animative background glow/context -->
-                    <img src="${place.generatedAnim}" alt="Generated Aesthetic Backdrop" class="image-generated-layer" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop'">
-                    <!-- The specific original photo from the place -->
-                    <img src="${place.originalPhoto}" alt="${place.name}" class="image-original-layer">
+        `).join('');
+
+        section.innerHTML = `
+            <div class="item-content section-text flex-1">
+                ${etaHtml}
+                <span class="time font-semibold text-orange-600 tracking-widest text-sm uppercase mb-3 block">${item.time}</span>
+                <h2 class="text-4xl lg:text-5xl font-serif font-bold text-stone-900 mb-6 leading-tight">${item.title}</h2>
+                <p class="text-stone-500 text-lg leading-relaxed mb-8 max-w-xl">${item.description}</p>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative">
+                    ${placesHtml}
                 </div>
             </div>
         `;
@@ -333,30 +373,11 @@
         container.appendChild(section);
     });
 
-    // Animations Initializer
     window.onload = () => {
-        // Hero Intro
         const tl = gsap.timeline();
-        tl.from(".hero-title", {
-            y: 50,
-            opacity: 0,
-            rotationX: -30,
-            stagger: 0.2,
-            duration: 1.2,
-            ease: "back.out(1.4)"
-        })
-        .from("#sacred-heart-container", {
-            scale: 0.1,
-            opacity: 0,
-            rotationZ: -10,
-            duration: 1.5,
-            ease: "elastic.out(1, 0.4)"
-        }, "-=1.0");
-
-        // RESTORED CODE FOR PARALLAX HERO FLOAT
-        const heroImages = gsap.utils.toArray('.hero-float-img');
         
         // Initial scatter entrance
+        const heroImages = gsap.utils.toArray('.hero-float-img');
         tl.from(heroImages, {
             y: 100,
             opacity: 0,
@@ -416,14 +437,8 @@
         }
 
         // Scroll Triggers for Elements
-        gsap.utils.toArray('.itinerary-item').forEach((section, i) => {
-            const text = section.querySelector('.section-text');
-            const imageWrapper = section.querySelector('.image-wrapper');
-            const composite = section.querySelector('.image-composite');
-            const originalLayer = section.querySelector('.image-original-layer');
-
-            // Text Fade In
-            gsap.from(text, {
+        gsap.utils.toArray('.itinerary-item').forEach((section) => {
+            gsap.from(section, {
                 scrollTrigger: {
                     trigger: section,
                     start: "top 80%",
@@ -434,45 +449,19 @@
                 duration: 1,
                 ease: "power3.out"
             });
+        });
 
-            // Image Fade In & Parallax
-            gsap.from(imageWrapper, {
-                scrollTrigger: {
-                    trigger: section,
-                    start: "top 85%",
-                    toggleActions: "play none none reverse"
-                },
-                y: 80,
-                opacity: 0,
-                duration: 1.2,
-                ease: "power3.out"
-            });
-
-            // Subtle Parallax on the original image layer inside composite
-            gsap.to(originalLayer, {
-                scrollTrigger: {
-                    trigger: section,
-                    start: "top bottom",
-                    end: "bottom top",
-                    scrub: 1
-                },
-                y: 30, // Moves slightly as you scroll
-                ease: "none"
-            });
-            
-            // Subtle Scale down on generated background layer during scroll
-            if(section.querySelector('.image-generated-layer')) {
-                 gsap.to(section.querySelector('.image-generated-layer'), {
-                    scrollTrigger: {
-                        trigger: section,
-                        start: "top bottom",
-                        end: "bottom top",
-                        scrub: true
-                    },
-                    scale: 1,
-                    ease: "none"
-                });
-            }
+        // Surprise Memo
+        gsap.to("#surprise-img", {
+            scrollTrigger: {
+                trigger: "#surprise-section",
+                start: "top center",
+                end: "bottom bottom",
+                scrub: 1
+            },
+            opacity: 1,
+            scale: 1.1,
+            ease: "none"
         });
     };
 </script>
