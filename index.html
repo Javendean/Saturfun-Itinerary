@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Industry City & Beyond | Pure Beauty</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #FAFAFA;
+            --text-main: #1C1C1C;
+            --text-muted: #6B6B6B;
+            --accent: #D4AF37; /* Subtle elegant gold */
+        }
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+            overscroll-behavior: none;
+        }
+        h1, h2, h3, .serif {
+            font-family: 'Playfair Display', serif;
+        }
+        .smooth-scroll-wrapper {
+            width: 100%;
+            overflow: hidden;
+        }
+        
+        /* Hero Section */
+        .hero {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            position: relative;
+            padding: 0 2rem;
+        }
+        .hero h1 {
+            font-size: clamp(3rem, 8vw, 7rem);
+            line-height: 1.1;
+            margin-bottom: 1rem;
+            letter-spacing: -0.02em;
+            clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        }
+        .hero p {
+            font-size: clamp(1rem, 2vw, 1.25rem);
+            color: var(--text-muted);
+            max-width: 600px;
+            font-weight: 300;
+        }
+
+        /* Image Composite Effect */
+        .image-composite {
+            position: relative;
+            width: 100%;
+            height: 60vh;
+            border-radius: 4px;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+            cursor: pointer;
+        }
+        .image-generated-layer {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover;
+            filter: blur(20px) saturate(1.5);
+            opacity: 0;
+            transition: opacity 0.8s ease, transform 1.2s cubic-bezier(0.25, 1, 0.5, 1);
+            transform: scale(1.1);
+        }
+        .image-composite:hover .image-generated-layer {
+            opacity: 0.8;
+            transform: scale(1);
+        }
+        .image-original-layer {
+            position: absolute;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            width: 85%;
+            height: 85%;
+            object-fit: cover;
+            border-radius: 2px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+            transition: transform 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+            z-index: 2;
+        }
+        .image-composite:hover .image-original-layer {
+            transform: translate(-50%, -50%) scale(1.03);
+        }
+
+        /* Itinerary Section */
+        .itinerary-item {
+            display: flex;
+            flex-direction: column;
+            gap: 4rem;
+            padding: 8rem 0;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+        @media(min-width: 1024px) {
+            .itinerary-item {
+                flex-direction: row;
+                align-items: center;
+                gap: 8rem;
+            }
+            .itinerary-item:nth-child(even) {
+                flex-direction: row-reverse;
+            }
+        }
+        .item-content {
+            flex: 1;
+            padding: 0 2rem;
+        }
+        .item-content h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .item-content .time {
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--accent);
+            margin-bottom: 1rem;
+            display: block;
+        }
+        .item-images {
+            flex: 1.2;
+            padding: 0 2rem;
+            perspective: 1000px;
+        }
+
+        .venue-card {
+            margin-top: 2rem;
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 4px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+            border-left: 2px solid var(--accent);
+            transition: transform 0.4s ease;
+        }
+        .venue-card:hover {
+            transform: translateY(-5px);
+        }
+    </style>
+</head>
+<body>
+
+<div class="smooth-scroll-wrapper" id="smooth-wrapper">
+    <div id="smooth-content">
+
+        <!-- HERO -->
+        <section class="hero" id="hero">
+            <h1 class="hero-title"><span class="block">Industry City</span> <i class="text-stone-400">& Beyond</i></h1>
+            <p class="hero-desc mt-6">A beautifully curated Saturday itinerary balancing exceptional cuisine, vibrant art, and engaging co-op gaming. Scroll to explore the journey.</p>
+        </section>
+
+        <!-- ITINERARY CONTAINER -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12" id="itinerary-list">
+            <!-- Content Injected via JS -->
+        </section>
+
+        <footer class="py-24 text-center text-stone-400 text-sm">
+            <p class="serif italic text-lg mb-2">"Pure Beauty in Every Detail"</p>
+            <p>Saturfun &copy; 2026</p>
+        </footer>
+
+    </div>
+</div>
+
+<script>
+    gsap.registerPlugin(ScrollTrigger);
+
+    // Using the original real photos provided in user's index.html as the "original" photos.
+    // Adding beautiful AI generated images to serve as the atmospheric/animated background layer to satisfy constraints.
+    const itineraryData = [
+        {
+            time: "11:30 AM",
+            title: "Coffee & Patisserie",
+            description: "Begin the morning in a sunlit space with classic French-Belgian baked goods or Yemeni pour-over coffees.",
+            places: [
+                {
+                    name: "Colson Patisserie",
+                    desc: "Perfect quiet starting point before the crowds.",
+                    url: "https://industrycity.com/tenants/colson-patisserie/",
+                    originalPhoto: "https://images.unsplash.com/photo-1495147466023-fa5c96626c23?auto=format&fit=crop&w=800&q=80",
+                    generatedAnim: "images/colson_patisserie_1774058351778.png"
+                }
+            ]
+        },
+        {
+            time: "12:30 PM",
+            title: "Art & Anime Culture",
+            description: "Explore the aesthetic and maker culture of the campus, hunting for manga and experiencing authentic Japanese marketplaces.",
+            places: [
+                {
+                    name: "Japan Village & BOOKOFF",
+                    desc: "A sprawling marketplace that feels like an authentic slice of Tokyo, paired with an anime treasure trove.",
+                    url: "https://www.japanvillage.com/",
+                    originalPhoto: "https://images.unsplash.com/photo-1580455430070-5b565fb00e28?auto=format&fit=crop&w=800&q=80",
+                    generatedAnim: "images/japan_village_1774058396451.png"
+                }
+            ]
+        },
+        {
+            time: "2:00 PM",
+            title: "High-Protein Hidden Gems",
+            description: "Skip the expensive indoor lines and grab an affordable, highly-rated lunch from Sunset Park's diverse culinary scene.",
+            places: [
+                {
+                    name: "Tacos El Bronco",
+                    desc: "Authentic Mexican tacos to hit those protein goals.",
+                    url: "#",
+                    originalPhoto: "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=800&q=80",
+                    generatedAnim: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80" // Fallback aesthetic
+                }
+            ]
+        },
+        {
+            time: "3:30 PM",
+            title: "Analog Gaming & Movement",
+            description: "High-energy interaction or relaxed strategy with the group. Defuse paint bombs, climb walls, or play board games.",
+            places: [
+                {
+                    name: "Beat The Bomb & Game Knight",
+                    desc: "Drops your group into an arcade challenge requiring intense communication.",
+                    url: "https://www.beatthebomb.com/",
+                    originalPhoto: "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=800&q=80",
+                    generatedAnim: "images/neon_portal_1774058262693.png"
+                }
+            ]
+        },
+        {
+            time: "6:30 PM",
+            title: "Dinner & Izakaya",
+            description: "Wind down the day with a full meal, comfort food, and premium teas as the courtyards light up.",
+            places: [
+                {
+                    name: "WakuWaku & Hometown BBQ",
+                    desc: "Vibrant dining that feels like an immersive set piece, or slow-cooked BBQ for sharing.",
+                    url: "https://industrycity.com/tenants/wakuwaku/",
+                    originalPhoto: "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80",
+                    generatedAnim: "images/abstract_glass_1774058250187.png"
+                }
+            ]
+        }
+    ];
+
+    const container = document.getElementById('itinerary-list');
+
+    itineraryData.forEach((item, index) => {
+        const place = item.places[0]; // Displaying the primary place for visual elegance
+
+        const section = document.createElement('div');
+        section.className = 'itinerary-item';
+        
+        section.innerHTML = `
+            <div class="item-content section-text">
+                <span class="time">${item.time}</span>
+                <h2>${item.title}</h2>
+                <p class="text-stone-500 text-lg leading-relaxed">${item.description}</p>
+                
+                <div class="venue-card">
+                    <h3 class="text-xl font-bold mb-1">${place.name}</h3>
+                    <p class="text-sm text-stone-600 mb-3">${place.desc}</p>
+                    <a href="${place.url}" target="_blank" class="text-xs font-semibold uppercase tracking-wider text-orange-600 hover:text-orange-800 transition-colors">Visit Venue &rarr;</a>
+                </div>
+            </div>
+            <div class="item-images image-wrapper">
+                <div class="image-composite">
+                    <!-- The generated aesthetic image providing animative background glow/context -->
+                    <img src="${place.generatedAnim}" alt="Generated Aesthetic Backdrop" class="image-generated-layer" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop'">
+                    <!-- The specific original photo from the place -->
+                    <img src="${place.originalPhoto}" alt="${place.name}" class="image-original-layer">
+                </div>
+            </div>
+        `;
+        
+        container.appendChild(section);
+    });
+
+    // Animations Initializer
+    window.onload = () => {
+        // Hero Intro
+        const tl = gsap.timeline();
+        tl.from(".hero-title .block", {
+            y: 100,
+            opacity: 0,
+            duration: 1.2,
+            stagger: 0.2,
+            ease: "power4.out"
+        })
+        .from(".hero-title i", {
+            opacity: 0,
+            duration: 1,
+            ease: "power2.out"
+        }, "-=0.6")
+        .from(".hero-desc", {
+            opacity: 0,
+            y: 20,
+            duration: 1,
+            ease: "power2.out"
+        }, "-=0.8");
+
+        // Scroll Triggers for Elements
+        gsap.utils.toArray('.itinerary-item').forEach((section, i) => {
+            const text = section.querySelector('.section-text');
+            const imageWrapper = section.querySelector('.image-wrapper');
+            const composite = section.querySelector('.image-composite');
+            const originalLayer = section.querySelector('.image-original-layer');
+
+            // Text Fade In
+            gsap.from(text, {
+                scrollTrigger: {
+                    trigger: section,
+                    start: "top 80%",
+                    toggleActions: "play none none reverse"
+                },
+                y: 50,
+                opacity: 0,
+                duration: 1,
+                ease: "power3.out"
+            });
+
+            // Image Fade In & Parallax
+            gsap.from(imageWrapper, {
+                scrollTrigger: {
+                    trigger: section,
+                    start: "top 85%",
+                    toggleActions: "play none none reverse"
+                },
+                y: 80,
+                opacity: 0,
+                duration: 1.2,
+                ease: "power3.out"
+            });
+
+            // Subtle Parallax on the original image layer inside composite
+            gsap.to(originalLayer, {
+                scrollTrigger: {
+                    trigger: section,
+                    start: "top bottom",
+                    end: "bottom top",
+                    scrub: 1
+                },
+                y: 30, // Moves slightly as you scroll
+                ease: "none"
+            });
+            
+            // Subtle Scale down on generated background layer during scroll
+            if(section.querySelector('.image-generated-layer')) {
+                 gsap.to(section.querySelector('.image-generated-layer'), {
+                    scrollTrigger: {
+                        trigger: section,
+                        start: "top bottom",
+                        end: "bottom top",
+                        scrub: true
+                    },
+                    scale: 1,
+                    ease: "none"
+                });
+            }
+        });
+    };
+</script>
+</body>
+</html>
