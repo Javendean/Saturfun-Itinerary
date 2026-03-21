@@ -156,8 +156,19 @@
     <div id="smooth-content">
 
         <!-- HERO -->
-        <section class="hero" id="hero">
-            <div class="z-20 relative pointer-events-auto w-full max-w-6xl flex flex-col items-center mt-32 md:mt-12">
+        <section class="hero overflow-hidden relative min-h-screen flex items-center justify-center pt-16" id="hero">
+            <!-- GSAP Floating Parallax Images (RESTORED TO PRE-HEART WORKFLOW) -->
+            <div id="hero-gallery" class="absolute inset-0 w-full h-full z-0 overflow-visible pointer-events-none">
+                <img src="images/friends/14527096-E46D-48E6-8D9C-6E2F42562F15.JPG" class="hero-float-img absolute rounded-xl shadow-[0_30px_60px_rgba(0,0,0,0.15)] will-change-transform w-28 md:w-56 top-[15%] left-[5%] md:left-[10%] object-cover object-center" data-speed="1.4" alt="Memory" />
+                <img src="images/friends/546602C0-8686-44BD-BEED-F45064C63A8E.JPG" class="hero-float-img absolute rounded-xl shadow-[0_30px_60px_rgba(0,0,0,0.15)] will-change-transform w-24 md:w-48 top-[10%] right-[5%] md:right-[15%] object-cover object-center" data-speed="-1.0" alt="Memory" />
+                <img src="images/friends/54AE4B5F-B1C4-4B7C-9B3D-C768AF1FB056.JPG" class="hero-float-img absolute rounded-xl shadow-[0_30px_60px_rgba(0,0,0,0.15)] will-change-transform w-32 md:w-64 bottom-[15%] right-[10%] md:right-[5%] object-cover object-center" data-speed="1.2" alt="Memory" />
+                <img src="images/friends/87AFF53C-3206-4A59-9010-8C50B5828E62.JPG" class="hero-float-img absolute rounded-xl shadow-[0_30px_60px_rgba(0,0,0,0.15)] will-change-transform w-28 md:w-60 bottom-[20%] left-[8%] md:left-[12%] object-cover object-center" data-speed="-0.7" alt="Memory" />
+                <img src="images/friends/IMG_7934.jpg" class="hero-float-img absolute rounded-xl shadow-[0_30px_60px_rgba(0,0,0,0.15)] will-change-transform w-32 md:w-72 bottom-[5%] left-[50%] -translate-x-1/2 md:translate-x-0 md:left-auto md:bottom-[20%] md:right-[35%] object-cover object-center" data-speed="1.5" alt="Memory" />
+            </div>
+
+            <!-- Foreground Content -->
+            <div class="z-20 relative pointer-events-auto flex flex-col items-center justify-center w-full max-w-5xl gap-6">
+                
                 <!-- SVG Animated Filter for Fire -->
                 <svg width="0" height="0" class="absolute pointer-events-none">
                     <filter id="fire">
@@ -168,40 +179,33 @@
                     </filter>
                 </svg>
 
-                <!-- Main Title: Fun & Friends with 3D Sacred Heart -->
-                <div class="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-16 w-full px-4" style="perspective: 1200px;">
-                    <!-- 'Fun' Text -->
-                    <span class="hero-title-text block text-7xl md:text-[9rem] font-black tracking-tighter uppercase" style="color: #ff2a5f; text-shadow: 0 0 30px rgba(255,42,95,0.8), 0 0 60px rgba(255,100,0,0.5);">FUN</span>
-                    
-                    <!-- 3D Animated Sacred Heart -->
-                    <div id="sacred-heart-container" class="relative w-56 h-56 md:w-96 md:h-96" style="transform-style: preserve-3d; transition: transform 0.1s ease-out;">
-                        <!-- Base Heart -->
-                        <img src="images/sacred_heart_final_2.png" alt="Sacred Heart" class="absolute inset-0 w-full h-full object-contain filter drop-shadow-[0_0_50px_rgba(255,60,0,0.6)]" style="transform: translateZ(50px);" />
-                        <!-- Animated Fire Overlay -->
-                        <div class="absolute inset-0 w-full h-full pointer-events-none" style="mask-image: linear-gradient(to bottom, black 0%, black 45%, transparent 55%); -webkit-mask-image: linear-gradient(to bottom, black 0%, black 45%, transparent 55%); transform: translateZ(80px);">
-                            <img src="images/sacred_heart_final_2.png" class="w-full h-full object-contain filter drop-shadow-[0_0_20px_rgba(255,200,0,0.8)]" style="filter: url(#fire);" />
-                        </div>
-                    </div>
+                <!-- Fun & Friends (Original Black Font) -->
+                <h1 class="hero-title font-serif text-stone-900 text-6xl md:text-8xl lg:text-[7rem] font-semibold tracking-tight text-center drop-shadow-sm z-10 w-full">
+                    Fun &amp; Friends
+                </h1>
 
-                    <!-- '& Friends' Text -->
-                    <span class="hero-title-text block text-7xl md:text-[9rem] font-black tracking-tighter uppercase" style="color: #ffb800; text-shadow: 0 0 30px rgba(255,184,0,0.8), 0 0 60px rgba(255,50,0,0.5);">&amp; FRIENDS</span>
+                <!-- Heart In Between -->
+                <div id="sacred-heart-container" class="relative w-48 h-48 md:w-64 md:h-64 flex justify-center items-center z-10" style="transform-style: preserve-3d; transition: transform 0.1s ease-out;">
+                    <img src="images/sacred_heart_final_2.png" alt="Sacred Heart" class="absolute inset-0 w-full h-full object-contain filter drop-shadow-[0_0_50px_rgba(255,60,0,0.6)]" style="transform: translateZ(50px);" />
+                    <!-- Animated Fire Overlay -->
+                    <div class="absolute inset-0 w-full h-full pointer-events-none" style="mask-image: linear-gradient(to bottom, black 0%, black 45%, transparent 55%); -webkit-mask-image: linear-gradient(to bottom, black 0%, black 45%, transparent 55%); transform: translateZ(80px);">
+                        <img src="images/sacred_heart_final_2.png" class="w-full h-full object-contain filter drop-shadow-[0_0_20px_rgba(255,200,0,0.8)]" style="filter: url(#fire);" />
+                    </div>
                 </div>
 
-                <!-- Chrome Balloon Metallic Description Text -->
-                <p class="hero-desc mt-12 mb-8 mx-auto px-6 py-4 text-center max-w-4xl" style="
+                <!-- Industry City (Glossy Chrome CSS) -->
+                <h2 class="hero-title text-center font-black tracking-tighter uppercase relative z-10 w-full" style="
                     font-family: 'Titan One', Impact, sans-serif;
-                    font-size: clamp(1.2rem, 3.5vw, 2.5rem);
-                    line-height: 1.3;
-                    letter-spacing: 2px;
-                    text-transform: uppercase;
-                    background: linear-gradient(180deg, #ffffff 0%, #d4d4d4 38%, #888888 45%, #333333 50%, #dcdcdc 60%, #ffffff 100%);
+                    font-size: clamp(3rem, 10vw, 8.5rem);
+                    line-height: 1.1;
+                    background: linear-gradient(180deg, #ffffff 0%, #e6e6e6 30%, #999999 48%, #222222 50%, #555555 52%, #dcdcdc 75%, #ffffff 100%);
                     -webkit-background-clip: text;
                     -webkit-text-fill-color: transparent;
-                    -webkit-text-stroke: 1.5px rgba(255,255,255,0.5);
-                    filter: drop-shadow(0px 10px 15px rgba(0,0,0,0.8)) drop-shadow(0px 2px 2px rgba(255,255,255,0.9));
+                    -webkit-text-stroke: 1.5px rgba(255,255,255,0.8);
+                    filter: drop-shadow(0px 10px 15px rgba(0,0,0,0.6)) drop-shadow(0px -2px 2px rgba(255,255,255,1));
                 ">
-                A beautifully curated Saturday itinerary balancing exceptional cuisine, vibrant art, and engaging co-op gaming. Scroll to explore all your options.
-                </p>
+                    Industry City
+                </h2>
             </div>
         </section>
 
@@ -333,41 +337,75 @@
     window.onload = () => {
         // Hero Intro
         const tl = gsap.timeline();
-        tl.from(".hero-title-text", {
-            y: 80,
+        tl.from(".hero-title", {
+            y: 50,
             opacity: 0,
-            rotationX: -60,
+            rotationX: -30,
             stagger: 0.2,
-            duration: 1.5,
-            ease: "back.out(1.7)"
+            duration: 1.2,
+            ease: "back.out(1.4)"
         })
         .from("#sacred-heart-container", {
             scale: 0.1,
             opacity: 0,
-            rotationZ: -15,
-            duration: 2,
+            rotationZ: -10,
+            duration: 1.5,
             ease: "elastic.out(1, 0.4)"
-        }, "-=1.2")
-        .from(".hero-desc", {
+        }, "-=1.0");
+
+        // RESTORED CODE FOR PARALLAX HERO FLOAT
+        const heroImages = gsap.utils.toArray('.hero-float-img');
+        
+        // Initial scatter entrance
+        tl.from(heroImages, {
+            y: 100,
             opacity: 0,
-            scale: 1.1,
-            y: 30,
-            duration: 1.2,
-            ease: "power3.out"
+            scale: 0.8,
+            rotation: () => gsap.utils.random(-15, 15),
+            duration: 1.5,
+            stagger: 0.1,
+            ease: "back.out(1.2)"
         }, "-=1");
 
-        // 3D Mouse Tracking for Sacred Heart
+        // Advanced ScrollTrigger Parallax
+        heroImages.forEach(img => {
+            const speed = parseFloat(img.getAttribute('data-speed'));
+            gsap.to(img, {
+                y: () => -window.innerHeight * speed * 0.4,
+                rotation: () => gsap.utils.random(-8, 8),
+                ease: "none",
+                scrollTrigger: {
+                    trigger: "#hero",
+                    start: "top top",
+                    end: "bottom -100%",
+                    scrub: 1
+                }
+            });
+        });
+
+        // 3D Mouse Tracking for Sacred Heart & Floating Images
         const heartEl = document.getElementById('sacred-heart-container');
         if (window.matchMedia("(min-width: 768px)").matches) {
             document.addEventListener('mousemove', (e) => {
+                const x = (e.clientX / window.innerWidth - 0.5) * 40;
+                const y = (e.clientY / window.innerHeight - 0.5) * 40;
+                
+                // Track Heros
+                gsap.to(heroImages, {
+                    x: (i, el) => x * parseFloat(el.getAttribute('data-speed')),
+                    y: (i, el) => y * parseFloat(el.getAttribute('data-speed')),
+                    ease: "power2.out",
+                    duration: 1.5
+                });
+
                 if(!heartEl) return;
                 const rect = heartEl.getBoundingClientRect();
-                const x = e.clientX - (rect.left + rect.width / 2);
-                const y = e.clientY - (rect.top + rect.height / 2);
+                const hX = e.clientX - (rect.left + rect.width / 2);
+                const hY = e.clientY - (rect.top + rect.height / 2);
                 
-                // Tilt rotation limits (e.g. 40 degrees)
-                const rotateY = (x / window.innerWidth) * 50; 
-                const rotateX = -(y / window.innerHeight) * 50;
+                // Tilt rotation limits
+                const rotateY = (hX / window.innerWidth) * 50; 
+                const rotateX = -(hY / window.innerHeight) * 50;
                 
                 heartEl.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
             });
