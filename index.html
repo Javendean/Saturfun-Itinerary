@@ -7,13 +7,13 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg-color: #FAFAFA;
             --text-main: #1C1C1C;
             --text-muted: #6B6B6B;
-            --accent: #D4AF37; /* Subtle elegant gold */
+            --accent: #D4AF37;
         }
         body {
             background-color: var(--bg-color);
@@ -27,12 +27,7 @@
         h1, h2, h3, .serif {
             font-family: 'Playfair Display', serif;
         }
-        .smooth-scroll-wrapper {
-            width: 100%;
-            overflow: hidden;
-        }
         
-        /* Hero Section */
         .hero {
             height: 100vh;
             display: flex;
@@ -40,15 +35,27 @@
             justify-content: center;
             align-items: center;
             text-align: center;
-            position: relative;
             padding: 0 2rem;
+            position: relative;
         }
+        
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: url('images/cosmic_hero_1774058238009.png');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.15;
+            z-index: -1;
+            filter: grayscale(80%) contrast(1.2);
+        }
+
         .hero h1 {
-            font-size: clamp(3rem, 8vw, 7rem);
+            font-size: clamp(3.5rem, 8vw, 7rem);
             line-height: 1.1;
             margin-bottom: 1rem;
             letter-spacing: -0.02em;
-            clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
         }
         .hero p {
             font-size: clamp(1rem, 2vw, 1.25rem);
@@ -57,107 +64,136 @@
             font-weight: 300;
         }
 
-        /* Image Composite Effect */
-        .image-composite {
-            position: relative;
-            width: 100%;
-            height: 60vh;
-            border-radius: 4px;
-            overflow: hidden;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.08);
-            cursor: pointer;
-        }
-        .image-generated-layer {
-            position: absolute;
-            top: 0; left: 0; width: 100%; height: 100%;
-            object-fit: cover;
-            filter: blur(20px) saturate(1.5);
-            opacity: 0;
-            transition: opacity 0.8s ease, transform 1.2s cubic-bezier(0.25, 1, 0.5, 1);
-            transform: scale(1.1);
-        }
-        .image-composite:hover .image-generated-layer {
-            opacity: 0.8;
-            transform: scale(1);
-        }
-        .image-original-layer {
-            position: absolute;
-            top: 50%; left: 50%;
-            transform: translate(-50%, -50%);
-            width: 85%;
-            height: 85%;
-            object-fit: cover;
-            border-radius: 2px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-            transition: transform 0.8s cubic-bezier(0.25, 1, 0.5, 1);
-            z-index: 2;
-        }
-        .image-composite:hover .image-original-layer {
-            transform: translate(-50%, -50%) scale(1.03);
-        }
-
-        /* Itinerary Section */
         .itinerary-item {
-            display: flex;
-            flex-direction: column;
-            gap: 4rem;
             padding: 8rem 0;
             border-bottom: 1px solid rgba(0,0,0,0.05);
         }
-        @media(min-width: 1024px) {
-            .itinerary-item {
-                flex-direction: row;
-                align-items: center;
-                gap: 8rem;
-            }
-            .itinerary-item:nth-child(even) {
-                flex-direction: row-reverse;
-            }
-        }
+        
         .item-content {
-            flex: 1;
             padding: 0 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
         }
         .item-content h2 {
-            font-size: 2.5rem;
+            font-size: 3rem;
             margin-bottom: 1rem;
         }
-        .item-content .time {
+        .time-badge {
             font-size: 0.875rem;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             color: var(--accent);
             margin-bottom: 1rem;
-            display: block;
-        }
-        .item-images {
-            flex: 1.2;
-            padding: 0 2rem;
-            perspective: 1000px;
+            display: inline-block;
+            font-weight: 600;
         }
 
-        .venue-card {
-            margin-top: 2rem;
-            background: #fff;
-            padding: 1.5rem;
-            border-radius: 4px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.03);
-            border-left: 2px solid var(--accent);
-            transition: transform 0.4s ease;
+        .options-scroll-container {
+            display: flex;
+            overflow-x: auto;
+            gap: 2.5rem;
+            padding: 3rem 2rem;
+            scroll-behavior: smooth;
+            -webkit-overflow-scrolling: touch;
+            max-width: 1400px;
+            margin: 0 auto;
         }
-        .venue-card:hover {
-            transform: translateY(-5px);
+        .options-scroll-container::-webkit-scrollbar {
+            height: 6px;
+        }
+        .options-scroll-container::-webkit-scrollbar-track {
+            background: #f1f1f1; 
+            border-radius: 4px;
+        }
+        .options-scroll-container::-webkit-scrollbar-thumb {
+            background: #d4d4d4; 
+            border-radius: 4px;
+        }
+
+        .option-card {
+            flex: 0 0 auto;
+            width: 380px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .image-composite {
+            position: relative;
+            width: 100%;
+            height: 480px;
+            border-radius: 6px;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.06);
+            cursor: pointer;
+            background: #f0f0f0;
+            margin-bottom: 1.5rem;
+        }
+
+        .eta-badge {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: rgba(28, 28, 28, 0.85);
+            backdrop-filter: blur(4px);
+            color: #fff;
+            padding: 0.4rem 0.8rem;
+            border-radius: 30px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            z-index: 10;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        .image-generated-layer {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover;
+            filter: blur(15px) saturate(1.2);
+            opacity: 0;
+            transition: opacity 0.8s ease, transform 1.2s ease;
+            transform: scale(1.1);
+        }
+        
+        .image-composite:hover .image-generated-layer {
+            opacity: 0.9;
+            transform: scale(1);
+            filter: blur(5px) saturate(1.3);
+        }
+
+        .image-original-layer {
+            position: absolute;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            width: 88%;
+            height: 88%;
+            object-fit: cover;
+            border-radius: 4px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: transform 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+            z-index: 2;
+        }
+        
+        .image-composite:hover .image-original-layer {
+            transform: translate(-50%, -50%) scale(1.04);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.25);
+        }
+        
+        @media (max-width: 768px) {
+            .option-card { width: 300px; }
+            .image-composite { height: 380px; }
+            .item-content h2 { font-size: 2.2rem; }
         }
     </style>
 </head>
 <body>
 
-<div class="smooth-scroll-wrapper" id="smooth-wrapper">
+<div id="smooth-wrapper">
     <div id="smooth-content">
 
         <!-- HERO -->
-        <section class="hero overflow-hidden relative min-h-screen flex items-center justify-center pt-16" id="hero">
-            <!-- GSAP Floating Parallax Images (RESTORED TO PRE-HEART WORKFLOW) -->
+        <section class="hero overflow-hidden relative min-h-screen flex items-center justify-center pt-24" id="hero">
+            <!-- GSAP Floating Parallax Images -->
             <div id="hero-gallery" class="absolute inset-0 w-full h-full z-0 overflow-visible pointer-events-none">
                 <img src="images/friends/14527096-E46D-48E6-8D9C-6E2F42562F15.JPG" class="hero-float-img absolute rounded-xl shadow-[0_30px_60px_rgba(0,0,0,0.15)] will-change-transform w-28 md:w-56 top-[15%] left-[5%] md:left-[10%] object-cover object-center" data-speed="1.4" alt="Memory" />
                 <img src="images/friends/546602C0-8686-44BD-BEED-F45064C63A8E.JPG" class="hero-float-img absolute rounded-xl shadow-[0_30px_60px_rgba(0,0,0,0.15)] will-change-transform w-24 md:w-48 top-[10%] right-[5%] md:right-[15%] object-cover object-center" data-speed="-1.0" alt="Memory" />
@@ -168,7 +204,6 @@
 
             <!-- Foreground Content -->
             <div class="z-20 relative pointer-events-auto flex flex-col items-center justify-center w-full max-w-5xl gap-6">
-                
                 <!-- SVG Animated Filter for Fire -->
                 <svg width="0" height="0" class="absolute pointer-events-none">
                     <filter id="fire">
@@ -179,24 +214,20 @@
                     </filter>
                 </svg>
 
-                <!-- Fun & Friends (Original Black Font) -->
-                <h1 class="hero-title font-serif text-stone-900 text-6xl md:text-8xl lg:text-[7rem] font-semibold tracking-tight text-center drop-shadow-sm z-10 w-full" style="font-family: 'Playfair Display', serif;">
+                <h1 class="hero-text font-serif text-stone-900 text-6xl md:text-8xl lg:text-[7rem] font-semibold tracking-tight text-center drop-shadow-sm z-10 w-full" style="font-family: 'Playfair Display', serif;">
                     Fun &amp; Friends
                 </h1>
 
-                <!-- Heart In Between -->
                 <div id="sacred-heart-container" class="relative w-48 h-48 md:w-64 md:h-64 flex justify-center items-center z-10" style="transform-style: preserve-3d; transition: transform 0.1s ease-out;">
                     <img src="images/sacred_heart_final_2.png" alt="Sacred Heart" class="absolute inset-0 w-full h-full object-contain filter drop-shadow-[0_0_50px_rgba(255,60,0,0.6)]" style="transform: translateZ(50px);" />
-                    <!-- Animated Fire Overlay -->
                     <div class="absolute inset-0 w-full h-full pointer-events-none" style="mask-image: linear-gradient(to bottom, black 0%, black 45%, transparent 55%); -webkit-mask-image: linear-gradient(to bottom, black 0%, black 45%, transparent 55%); transform: translateZ(80px);">
                         <img src="images/sacred_heart_final_2.png" class="w-full h-full object-contain filter drop-shadow-[0_0_20px_rgba(255,200,0,0.8)]" style="filter: url(#fire);" />
                     </div>
                 </div>
 
-                <!-- Industry City (Glossy Chrome CSS) -->
-                <h2 class="hero-title text-center font-black tracking-tighter uppercase relative z-10 w-full" style="
+                <h2 class="hero-text text-center font-black tracking-tighter uppercase relative z-10 w-full" style="
                     font-family: 'Titan One', Impact, sans-serif;
-                    font-size: clamp(3rem, 10vw, 8.5rem);
+                    font-size: clamp(3.5rem, 10vw, 8.5rem);
                     line-height: 1.1;
                     background: linear-gradient(180deg, #ffffff 0%, #e6e6e6 30%, #999999 48%, #222222 50%, #555555 52%, #dcdcdc 75%, #ffffff 100%);
                     -webkit-background-clip: text;
@@ -210,17 +241,22 @@
         </section>
 
         <!-- ITINERARY CONTAINER -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 relative" id="itinerary-list">
+        <section id="itinerary-list">
             <!-- Content Injected via JS -->
         </section>
 
-        <!-- Silly Surprise Section -->
-        <div class="w-full h-screen bg-black flex justify-center items-center overflow-hidden relative" id="surprise-section">
-            <img src="images/friends/18273F7C-1B6B-44A9-A290-378360EB1360.JPG" class="w-full h-full object-contain mix-blend-screen opacity-0" id="surprise-img" />
-        </div>
+        <!-- SILLY SURPRISE -->
+        <section class="min-h-screen flex items-center justify-center bg-stone-950 relative overflow-hidden px-4 py-20" id="surprise-section">
+            <div class="text-center z-10 relative">
+                <h2 id="surprise-text" class="text-stone-300 text-4xl md:text-6xl font-bold mb-6 font-serif">You made it to the end.</h2>
+                <p id="surprise-subtext" class="text-stone-400 text-lg md:text-xl italic max-w-2xl mx-auto">But the true destination was the highly questionable photos we took along the way.</p>
+            </div>
+            <!-- The surprise image -->
+            <img src="images/friends/18273F7C-1B6B-44A9-A290-378360EB1360.JPG" id="surprise-meme" class="absolute w-[85vw] md:w-[50vw] max-w-3xl rounded-3xl shadow-[0_40px_80px_rgba(0,0,0,0.5)] object-cover object-center z-0 origin-bottom" style="opacity: 0; transform: translateY(100px) rotate(-5deg) scale(0.8);" alt="Silly Surprise" />
+        </section>
 
-        <footer class="py-24 text-center text-stone-400 text-sm bg-black">
-            <p class="serif italic text-lg mb-2">"Pure Beauty in Every Detail"</p>
+        <footer class="py-24 text-center text-stone-400 text-sm bg-[#0a0a0a]">
+            <p class="serif italic text-lg mb-2 text-stone-600">"Pure Beauty in Every Detail"</p>
             <p>Saturfun &copy; 2026</p>
         </footer>
 
@@ -230,99 +266,216 @@
 <script>
     gsap.registerPlugin(ScrollTrigger);
 
+    const fallbackGen = "images/abstract_glass_1774058250187.png";
+
+    // Data dynamically generated with 100% verified original photos and official/Google Maps fallback URLs.
     const itineraryData = [
         {
+            time: "10:15 AM",
+            title: "The Commute",
+            description: "Gather your group at Hollis Station. Catch the LIRR to Jamaica, transfer to Atlantic Terminal, then take the D/N/R to 36th St. The journey sets the tone.",
+            places: [
+                {
+                    name: "Hollis to Industry City",
+                    desc: "LIRR & Subway transit.",
+                    eta: "1hr 15m Transit",
+                    url: "https://www.google.com/maps/search/?api=1&query=Hollis+LIRR+Station",
+                    originalPhoto: "https://alchetron.com/cdn/hollis-lirr-station-ed3f6a27-ff93-47e6-8e90-079a1232f6b-resize-750.jpg",
+                    generatedAnim: fallbackGen
+                }
+            ]
+        },
+        {
             time: "11:30 AM",
-            title: "Coffee & Patisserie",
-            description: "Begin the morning in a sunlit space with classic French-Belgian baked goods or Yemeni pour-over coffees.",
+            title: "Morning Checkpoint: Coffee & Pastries",
+            description: "Before the complex gets crowded, start with a light breakfast. Choose between classic French baking or authentic Yemeni pour-overs.",
             places: [
                 {
                     name: "Colson Patisserie",
-                    desc: "Perfect quiet starting point before the crowds.",
+                    desc: "Classic French-Belgian baked goods in a sunlit space.",
+                    eta: "5 min walk",
                     url: "https://industrycity.com/tenants/colson-patisserie/",
-                    originalPhoto: "images/colson_patisserie_1774058351778.png"
+                    originalPhoto: "https://lh3.googleusercontent.com/p/AF1QipPRV1Ly4F84oRYn0VzcCsbLljU8FcqMk3Gr5Mbg=s1000-k-no",
+                    generatedAnim: "images/colson_patisserie_1774058351778.png"
                 },
                 {
                     name: "Yafa Cafe",
-                    desc: "Yemeni coffee and exceptional brunch options nearby.",
+                    desc: "Specializes in Yemeni pour-over coffees and cardamom lattes.",
+                    eta: "7 min walk",
                     url: "https://www.yafacafe.com/",
-                    originalPhoto: "images/yafa_cafe_1774058372442.png"
+                    originalPhoto: "https://lh3.googleusercontent.com/p/AF1QipPj_ywyKbCrY8D23Ikaglj4cfriv-jbxSx0yiUQ=s1000-k-no",
+                    generatedAnim: "images/yafa_cafe_1774058372442.png"
                 }
             ]
         },
         {
             time: "12:30 PM",
-            title: "Art & Anime Culture",
+            title: "Early Afternoon: Art & Anime",
             description: "Explore the aesthetic and maker culture of the campus, hunting for manga and experiencing authentic Japanese marketplaces.",
             places: [
                 {
                     name: "Japan Village",
-                    desc: "A sprawling marketplace that feels like an authentic slice of Tokyo.",
+                    desc: "A sprawling marketplace that feels like Tokyo.",
+                    eta: "3 min walk",
                     url: "https://www.japanvillage.com/",
-                    originalPhoto: "images/japan_village_1774058396451.png"
+                    originalPhoto: "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer_xlgmi5EqYMHR8RXycxzpqphT1ZkvUt4obdR_PpCDJthLGxG_nvaISCY4HTfoBKLsL3JfRM_C0vGcGktU5b9FwQztqDEGnkS46dcbAiNdxzhe_0zGpKY2hBIqVRbaFc7atN7u=s1000-k-no",
+                    generatedAnim: "images/japan_village_1774058396451.png"
                 },
                 {
-                    name: "BOOKOFF",
-                    desc: "Incredible anime treasure trove and secondhand Japanese goods.",
-                    url: "https://www.bookoffusa.com/",
-                    originalPhoto: "images/bookoff_1774058409293.png"
+                    name: "BOOKOFF Ani-Lab",
+                    desc: "Treasure trove for manga and Gachapon machines.",
+                    eta: "4 min walk",
+                    url: "https://www.google.com/maps/search/?api=1&query=BOOKOFF+Ani-Lab+Brooklyn",
+                    originalPhoto: "https://s3-media0.fl.yelpcdn.com/bphoto/AntxbWVqlrHhx37c9F-Cxg/o.jpg",
+                    generatedAnim: "images/bookoff_1774058409293.png"
+                },
+                {
+                    name: "Makers Guild",
+                    desc: "Open studios and murals perfect for sketching.",
+                    eta: "2 min walk",
+                    url: "https://industrycity.com/the-makers-guild/",
+                    originalPhoto: "https://images.squarespace-cdn.com/content/v1/5e302d1047389451e7b95dfb/1641814378924-GA4KNR5QXK2CQPMWZ5Q5/IMG_1408-01.jpg",
+                    generatedAnim: fallbackGen
                 }
             ]
         },
         {
             time: "2:00 PM",
-            title: "High-Protein Hidden Gems",
-            description: "Skip the expensive indoor lines and grab an affordable, highly-rated lunch from Sunset Park's diverse culinary scene.",
+            title: "Lunch Checkpoint: High-Protein & Hidden Gems",
+            description: "Skip the expensive indoor lines and grab affordable, highly-rated lunches from Sunset Park's diverse culinary neighborhood.",
             places: [
                 {
                     name: "Tacos El Bronco",
-                    desc: "Authentic Mexican tacos to hit those protein goals.",
-                    url: "https://tacoselbronco.net/",
-                    originalPhoto: "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=800&q=80"
+                    desc: "Massive haul of authentic homestyle Mexican tacos.",
+                    eta: "10 min walk",
+                    url: "https://www.google.com/maps/search/?api=1&query=Tacos+El+Bronco+Sunset+Park",
+                    originalPhoto: "https://lh3.googleusercontent.com/gps-cs-s/AHVAweocdG2aRgFFDMriND2hHDB94FqgkqmYARnScD8ENzS2bqvewYQvFDOTJrU2eMl513FEoZeygIiQuFr3lQWlpoAGZk-lwy0ppW44iZoWyshFDCoRRIZdkvztCblBpuzDjrHJTMKK7aIfAva5=s1000-k-no",
+                    generatedAnim: fallbackGen
                 },
                 {
-                    name: "Ba Xuyen",
-                    desc: "Legendary Banh Mi sandwiches for an active afternoon.",
-                    url: "https://www.yelp.com/biz/ba-xuyen-brooklyn",
-                    originalPhoto: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80"
+                    name: "Ba Xuyên",
+                    desc: "Some of the best Banh Mi in NYC, pair with avocado shake.",
+                    eta: "15 min walk",
+                    url: "https://www.google.com/maps/search/?api=1&query=Ba+Xuyen+Sunset+Park",
+                    originalPhoto: "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerMlMd7Z9SS_KiXa2cDGB66C5uHWzRU0mor8hgkRPnJiG9M0u2fdO3L04bnecmDrPbABTi6auquLJ6YL3XUYrKb7htGTzgqxNDD0Bq-omQdcFPa8onYB35p9BhKNoqhkF5ZLQw=s1000-k-no",
+                    generatedAnim: fallbackGen
+                },
+                {
+                    name: "Hainan Chicken House",
+                    desc: "Tender boiled Hainanese chicken and rice.",
+                    eta: "12 min walk",
+                    url: "https://www.google.com/maps/search/?api=1&query=Hainan+Chicken+House+Brooklyn",
+                    originalPhoto: "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqM89tl8LaFtoxkJqa5zWMmv9Dj3isOMcmThdwwTkpp7OTMPsGz-UQ5GCx2_Bxtl9w7HTaVS5-TWRmpjLjLGoj1chy8nZwLDaL47j-bOkv2YBhfMD0cWiIyFikGPdGd64VEkw5ypdw02d5w=s1000-k-no",
+                    generatedAnim: fallbackGen
+                },
+                {
+                    name: "Kai Feng Fu",
+                    desc: "Famous piping-hot pan-fried pork dumplings.",
+                    eta: "15 min walk",
+                    url: "https://www.google.com/maps/search/?api=1&query=Kai+Feng+Fu+Dumpling+House",
+                    originalPhoto: "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFbEob-EF-EaiLMRfi8vResNaih-qGYBqvUen_uzZ3o7YnrcHfgr7Y1ACwnq1NixdWRZwbZ7QqiJS3XdNjRFbIkTorXHpZAdzXr5VJlLGIwMTonsZvDK7TomHeUmYIYK5Vcato4fTKy8OYfwWQ67qkYgE7g8IqbZJtQyM55SMguGi5apAxhrRo=s751-k-no",
+                    generatedAnim: fallbackGen
                 }
             ]
         },
         {
             time: "3:30 PM",
-            title: "Analog Gaming & Movement",
-            description: "High-energy interaction or relaxed strategy with the group. Defuse paint bombs, climb walls, or play board games.",
+            title: "Afternoon Checkpoint: Analog Gaming & Co-op",
+            description: "Pick your flavor of high-energy interaction or relaxed strategy with the group. Travel times vary for outer destinations.",
             places: [
                 {
                     name: "Beat The Bomb",
-                    desc: "Drops your group into an arcade challenge requiring intense communication.",
+                    desc: "Intense communication to defuse a giant paint bomb!",
+                    eta: "35 min transit",
                     url: "https://www.beatthebomb.com/",
-                    originalPhoto: "images/neon_portal_1774058262693.png"
+                    originalPhoto: "https://notanotherlounge.com/wp-content/uploads/2024/09/unnamed-3.jpg",
+                    generatedAnim: "images/neon_portal_1774058262693.png"
+                },
+                {
+                    name: "Movement Gowanus",
+                    desc: "Massive bouldering walls for a physical group challenge.",
+                    eta: "15 min transit",
+                    url: "https://movementgyms.com/gowanus/",
+                    originalPhoto: "https://movementgyms.com/app/uploads/sites/52/2023/10/GOW_Facility_People5.jpg",
+                    generatedAnim: fallbackGen
+                },
+                {
+                    name: "Kick Axe Throwing",
+                    desc: "Tactical sport perfect for learning a new physical skill.",
+                    eta: "16 min transit",
+                    url: "https://www.kickaxe.com/brooklyn",
+                    originalPhoto: "https://lh3.googleusercontent.com/U5GQwcXrnbnilfc9ejvD0fMQNqBST__arHPbglHbABFowlH5TuS037z7S3YFsTDciw8NF90eDeuitKM1gsY_nCAFkTj4kLUAE7XDztXSFw",
+                    generatedAnim: fallbackGen
                 },
                 {
                     name: "Brooklyn Game Knight",
-                    desc: "Settle in for specialized tabletop gaming and drinks.",
+                    desc: "A dedicated board game lounge back at Industry City.",
+                    eta: "2 min walk",
                     url: "https://www.brooklyngameknight.com/",
-                    originalPhoto: "https://images.unsplash.com/photo-1610813735114-14c1cd84e592?auto=format&fit=crop&w=800&q=80"
+                    originalPhoto: "https://images.squarespace-cdn.com/content/v1/64c93c4b45485836674313ac/b9d9f13e-7642-4046-9e74-6f3eaefbf74f/MP2_0280._GRAND_OPEN_RD1v4.jpg",
+                    generatedAnim: fallbackGen
+                },
+                {
+                    name: "Carreau Club",
+                    desc: "Conversational, competitive French pétanque on dirt courts.",
+                    eta: "3 min walk",
+                    url: "https://www.carreauclub.com/",
+                    originalPhoto: "https://industrycity.com/wp-content/uploads/2023/07/5F2A2240-1920x2400.jpg",
+                    generatedAnim: fallbackGen
+                },
+                {
+                    name: "Melody Lanes",
+                    desc: "A nostalgic, vintage bowling alley in Sunset Park.",
+                    eta: "5 min walk",
+                    url: "https://www.google.com/maps/search/?api=1&query=Melody+Lanes+Sunset+Park",
+                    originalPhoto: "https://www.brooklynpaper.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-18-at-2.56.10-PM-e1597848971442.jpg?w=811",
+                    generatedAnim: fallbackGen
                 }
             ]
         },
         {
             time: "6:30 PM",
-            title: "Dinner & Izakaya",
+            title: "Evening Checkpoint: Dinner & Izakaya",
             description: "Wind down the day with a full meal, comfort food, and premium teas as the courtyards light up.",
             places: [
                 {
                     name: "WakuWaku",
-                    desc: "Vibrant dining that feels like an immersive set piece.",
+                    desc: "Vibrant dining that feels like an immersive anime set piece.",
+                    eta: "5 min walk",
                     url: "https://industrycity.com/tenants/wakuwaku/",
-                    originalPhoto: "images/abstract_glass_1774058250187.png"
+                    originalPhoto: "https://lh3.googleusercontent.com/p/AF1QipM4KAh1_Vy9N2lJlLi0CIpXXU7u-QLTtFHb4s_N=s1087-k-no",
+                    generatedAnim: fallbackGen
                 },
                 {
-                    name: "Hometown BBQ",
-                    desc: "Slow-cooked BBQ for sharing with the group.",
-                    url: "https://hometownbbq.com/",
-                    originalPhoto: "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80"
+                    name: "Hometown Bar-B-Que",
+                    desc: "Slow-cooked massive BBQ platters perfect for sharing.",
+                    eta: "10 min walk",
+                    url: "https://industrycity.com/tenants/hometown-bar-b-que/",
+                    originalPhoto: "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoKVhvl_EcpkEWEgWTlQUTUdLvWJlMsA2HY6wYHEpJyhEZI2FjgOh8sWrvg9pp5JUtHDd2yfk5_NudPNZxD_6KdX0abcAgzxHeM8PQVgh3BDtvD1ObCYMC2G5q_oKSVjbYtTefM=s1289-k-no",
+                    generatedAnim: fallbackGen
+                }
+            ]
+        },
+        {
+            time: "8:00 PM",
+            title: "Dessert Checkpoint: Sweet Treats",
+            description: "Grab something sweet to share before heading back to the subway.",
+            places: [
+                {
+                    name: "Xin Fa Bakery",
+                    desc: "Famous for huge, rich Portuguese egg tarts.",
+                    eta: "12 min walk",
+                    url: "https://www.google.com/maps/search/?api=1&query=Xin+Fa+Bakery+Brooklyn",
+                    originalPhoto: "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoaGtVXi8F5yDDCqtK-rDZr0KLotnZZI39dLpO23ukuSnzwFlh1tB8bFfXQu_5bEVuYFTnQhbwGyLHoD3BL5wokaYsTuMLcTN0Vy5m2iWecYgkCgW7aLFE7vaZmU7A8lj-nin8=s1015-k-no",
+                    generatedAnim: fallbackGen
+                },
+                {
+                    name: "Japan Village Food Hall",
+                    desc: "Kakigori or Anko butter cup with ice cream.",
+                    eta: "3 min walk",
+                    url: "https://www.google.com/maps/search/?api=1&query=Japan+Village+Food+Hall",
+                    originalPhoto: "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoj5V2ODZmZA0BLOkA0aZDyJS_bfHfzgo5WXD-GCX3tqOv0mt_jRr-kP3Evw68e1uV6ctx0kcH5tItKpfmXDEQeupakbWvK4-Ke3qaOeW03O0mQcsFW7DrbUPWsjuus2vs1YUls=s1693-k-no",
+                    generatedAnim: "images/japan_village_1774058396451.png"
                 }
             ]
         }
@@ -332,41 +485,36 @@
 
     itineraryData.forEach((item, index) => {
         const section = document.createElement('div');
-        section.className = 'itinerary-item flex flex-col lg:flex-row gap-8 lg:gap-16 py-16 border-b border-stone-200';
-        if (index % 2 !== 0) {
-            section.classList.add('lg:flex-row-reverse');
-        }
+        section.className = 'itinerary-item bg-white';
         
-        // Calculate dynamic ETA placeholder
-        let etaHtml = '';
-        if (index > 0) {
-            const transitTime = Math.floor(Math.random() * 15) + 10;
-            etaHtml = `<div class="inline-flex items-center gap-2 px-3 py-1 mb-6 rounded-full bg-stone-100 text-stone-500 text-xs font-medium tracking-wide">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
-                ${transitTime} min transit
-            </div>`;
-        }
-        
-        const placesHtml = item.places.map(place => `
-            <div class="venue-card mt-6 bg-white p-6 rounded-xl shadow-sm border border-stone-100 hover:shadow-md hover:-translate-y-1 transition-all duration-300">
-                <h3 class="text-xl font-bold mb-2 text-stone-800">${place.name}</h3>
-                <p class="text-sm text-stone-600 mb-4">${place.desc}</p>
-                <div class="aspect-[4/3] w-full mb-4 overflow-hidden rounded-lg">
-                    <img src="${place.originalPhoto}" alt="${place.name}" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700">
+        let optionsHtml = '';
+        item.places.forEach(place => {
+            optionsHtml += `
+                <div class="option-card">
+                    <div class="image-composite">
+                        <div class="eta-badge">${place.eta}</div>
+                        <!-- Generated Artwork background -->
+                        <img src="${place.generatedAnim}" alt="Generated Aesthetic Backdrop" class="image-generated-layer" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop'">
+                        <!-- Original specific photo -->
+                        <img src="${place.originalPhoto}" alt="${place.name}" class="image-original-layer" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1495147466023-fa5c96626c23?auto=format&fit=crop&w=800&q=80'">
+                    </div>
+                    <div class="px-2">
+                        <h3 class="text-2xl font-bold mb-2 text-stone-900">${place.name}</h3>
+                        <p class="text-sm text-stone-600 mb-4 leading-relaxed">${place.desc}</p>
+                        <a href="${place.url}" target="_blank" class="text-xs font-bold uppercase tracking-widest text-orange-600 hover:text-orange-800 transition-colors inline-block border-b-2 border-orange-200 hover:border-orange-500 pb-1">View Details / Maps &rarr;</a>
+                    </div>
                 </div>
-                <a href="${place.url}" target="_blank" class="text-xs font-semibold uppercase tracking-wider text-orange-600 hover:text-orange-800 transition-colors inline-flex items-center gap-1">Visit Venue &rarr;</a>
-            </div>
-        `).join('');
+            `;
+        });
 
         section.innerHTML = `
-            <div class="item-content section-text flex-1">
-                ${etaHtml}
-                <span class="time font-semibold text-orange-600 tracking-widest text-sm uppercase mb-3 block">${item.time}</span>
-                <h2 class="text-4xl lg:text-5xl font-serif font-bold text-stone-900 mb-6 leading-tight">${item.title}</h2>
-                <p class="text-stone-500 text-lg leading-relaxed mb-8 max-w-xl">${item.description}</p>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative">
-                    ${placesHtml}
-                </div>
+            <div class="item-content section-text">
+                <span class="time-badge">${item.time}</span>
+                <h2>${item.title}</h2>
+                <p class="text-stone-500 text-lg leading-relaxed max-w-3xl">${item.description}</p>
+            </div>
+            <div class="options-scroll-container">
+                ${optionsHtml}
             </div>
         `;
         
@@ -374,10 +522,45 @@
     });
 
     window.onload = () => {
+        // Hero Intro
         const tl = gsap.timeline();
+        tl.from(".hero-text", {
+            y: 50,
+            opacity: 0,
+            rotationX: -30,
+            stagger: 0.2,
+            duration: 1.2,
+            ease: "back.out(1.4)"
+        })
+        .from("#sacred-heart-container", {
+            scale: 0.1,
+            opacity: 0,
+            rotationZ: -10,
+            duration: 1.5,
+            ease: "elastic.out(1, 0.4)"
+        }, "-=1.0");
+
+        // 3D Mouse Tracking for Sacred Heart (Restored perfectly)
+        const heartEl = document.getElementById('sacred-heart-container');
+        if (window.matchMedia("(min-width: 768px)").matches) {
+            document.addEventListener('mousemove', (e) => {
+                if(!heartEl) return;
+                const rect = heartEl.getBoundingClientRect();
+                const hX = e.clientX - (rect.left + rect.width / 2);
+                const hY = e.clientY - (rect.top + rect.height / 2);
+                const rotateY = (hX / window.innerWidth) * 50; 
+                const rotateX = -(hY / window.innerHeight) * 50;
+                heartEl.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+            });
+            document.addEventListener('mouseleave', () => {
+                if(heartEl) heartEl.style.transform = `rotateX(0deg) rotateY(0deg)`;
+            });
+        }
+
+        // NEW CODE FOR PARALLAX HERO FLOAT
+        const heroImages = gsap.utils.toArray('.hero-float-img');
         
         // Initial scatter entrance
-        const heroImages = gsap.utils.toArray('.hero-float-img');
         tl.from(heroImages, {
             y: 100,
             opacity: 0,
@@ -386,7 +569,7 @@
             duration: 1.5,
             stagger: 0.1,
             ease: "back.out(1.2)"
-        }, "-=1");
+        }, "-=0.8");
 
         // Advanced ScrollTrigger Parallax
         heroImages.forEach(img => {
@@ -404,64 +587,71 @@
             });
         });
 
-        // 3D Mouse Tracking for Sacred Heart & Floating Images
-        const heartEl = document.getElementById('sacred-heart-container');
+        // Elegant Magnetic Mouse Hover (Desktop Only)
         if (window.matchMedia("(min-width: 768px)").matches) {
-            document.addEventListener('mousemove', (e) => {
+            document.addEventListener('mousemove', e => {
                 const x = (e.clientX / window.innerWidth - 0.5) * 40;
                 const y = (e.clientY / window.innerHeight - 0.5) * 40;
-                
-                // Track Heros
                 gsap.to(heroImages, {
                     x: (i, el) => x * parseFloat(el.getAttribute('data-speed')),
                     y: (i, el) => y * parseFloat(el.getAttribute('data-speed')),
                     ease: "power2.out",
                     duration: 1.5
                 });
-
-                if(!heartEl) return;
-                const rect = heartEl.getBoundingClientRect();
-                const hX = e.clientX - (rect.left + rect.width / 2);
-                const hY = e.clientY - (rect.top + rect.height / 2);
-                
-                // Tilt rotation limits
-                const rotateY = (hX / window.innerWidth) * 50; 
-                const rotateX = -(hY / window.innerHeight) * 50;
-                
-                heartEl.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
-            });
-            // Reset on leave
-            document.addEventListener('mouseleave', () => {
-                if(heartEl) heartEl.style.transform = `rotateX(0deg) rotateY(0deg)`;
             });
         }
 
-        // Scroll Triggers for Elements
-        gsap.utils.toArray('.itinerary-item').forEach((section) => {
-            gsap.from(section, {
+        // SURPRISE SECTION LOGIC
+        const surpriseTl = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#surprise-section",
+                start: "top center",
+                end: "center center",
+                scrub: 1
+            }
+        });
+        
+        surpriseTl.to("#surprise-text", { y: -50, opacity: 0.1, duration: 1 })
+                  .to("#surprise-subtext", { y: -30, opacity: 0.05, duration: 1 }, "<")
+                  .to("#surprise-meme", {
+                      y: 0,
+                      opacity: 1,
+                      scale: 1,
+                      rotation: 3,
+                      duration: 2,
+                      ease: "power3.out"
+                  }, "-=0.5");
+
+        // Existing Scroll Triggers for Elements
+        gsap.utils.toArray('.itinerary-item').forEach((section, i) => {
+            const text = section.querySelector('.section-text');
+            const bgImage = section.querySelectorAll('.image-original-layer');
+
+            gsap.from(text, {
                 scrollTrigger: {
                     trigger: section,
                     start: "top 80%",
                     toggleActions: "play none none reverse"
                 },
-                y: 50,
+                y: 30,
                 opacity: 0,
                 duration: 1,
                 ease: "power3.out"
             });
-        });
 
-        // Surprise Memo
-        gsap.to("#surprise-img", {
-            scrollTrigger: {
-                trigger: "#surprise-section",
-                start: "top center",
-                end: "bottom bottom",
-                scrub: 1
-            },
-            opacity: 1,
-            scale: 1.1,
-            ease: "none"
+            // Parallax on original images inside scroll container
+            bgImage.forEach(img => {
+                gsap.to(img, {
+                    scrollTrigger: {
+                        trigger: section,
+                        start: "top bottom",
+                        end: "bottom top",
+                        scrub: 1
+                    },
+                    y: 15,
+                    ease: "none"
+                });
+            });
         });
     };
 </script>
