@@ -116,6 +116,7 @@
             width: 380px;
             display: flex;
             flex-direction: column;
+            position: relative;
         }
 
         .image-composite {
@@ -128,6 +129,20 @@
             cursor: pointer;
             background: #f0f0f0;
             margin-bottom: 1.5rem;
+            transition: box-shadow 0.4s ease;
+        }
+
+        /* Default badge: tasteful gold ring on the image-composite when isDefault=true.
+           Layered as outer box-shadow so it doesn't disturb internal hover transforms. */
+        .option-card.is-default .image-composite {
+            box-shadow:
+                0 0 0 2px var(--accent),
+                0 20px 40px rgba(212, 175, 55, 0.18);
+        }
+        .option-card.is-default .image-composite:hover {
+            box-shadow:
+                0 0 0 2px var(--accent),
+                0 24px 48px rgba(212, 175, 55, 0.28);
         }
 
         .eta-badge {
@@ -144,6 +159,151 @@
             z-index: 10;
             letter-spacing: 0.05em;
             text-transform: uppercase;
+        }
+
+        /* Duration chip: mirrors eta-badge to the top-left, with a small clock glyph.
+           Same dark-glass surface so the two badges read as a matched pair. */
+        .duration-badge {
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            background: rgba(28, 28, 28, 0.85);
+            backdrop-filter: blur(4px);
+            color: #fff;
+            padding: 0.4rem 0.7rem 0.4rem 0.55rem;
+            border-radius: 30px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            z-index: 10;
+            letter-spacing: 0.04em;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            font-variant-numeric: tabular-nums;
+        }
+        .duration-badge svg {
+            width: 0.85rem;
+            height: 0.85rem;
+            opacity: 0.85;
+            flex-shrink: 0;
+        }
+
+        /* Default pill: small gold ribbon centered above the image, on the card frame.
+           Sits above the image-composite, so hover transforms underneath are untouched. */
+        .default-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+            align-self: flex-start;
+            margin: 0 0 0.5rem 0;
+            padding: 0.25rem 0.6rem;
+            background: var(--accent);
+            color: #1C1C1C;
+            font-size: 0.625rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.18em;
+            border-radius: 2px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* Zone strip + price band: a thin horizontal rail under the image,
+           above the venue name. Tracked-out micro type, accent-coloured zone. */
+        .place-meta-rail {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 1rem;
+            margin: 0 0 0.5rem 0;
+            padding: 0 0.125rem;
+        }
+        .zone-label {
+            font-size: 0.6875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.18em;
+            color: var(--accent);
+            font-weight: 600;
+            line-height: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .price-band {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.8125rem;
+            font-weight: 500;
+            color: var(--text-muted);
+            letter-spacing: 0.04em;
+            font-variant-numeric: tabular-nums;
+            line-height: 1;
+            flex-shrink: 0;
+        }
+        .price-band .price-spent {
+            color: var(--text-main);
+        }
+        .price-band .price-rest {
+            color: rgba(28, 28, 28, 0.18);
+        }
+
+        /* Vibe + dietary row: lives below the description, above the CTA link.
+           Wraps freely on mobile; chips are subtle, low-contrast outlines only. */
+        .place-tags {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 0.4rem;
+            margin: 0 0 1rem 0;
+        }
+        .vibe-chip {
+            font-size: 0.6875rem;
+            text-transform: lowercase;
+            letter-spacing: 0.05em;
+            padding: 0.2rem 0.55rem;
+            border: 1px solid rgba(28, 28, 28, 0.14);
+            border-radius: 30px;
+            color: var(--text-muted);
+            background: transparent;
+            font-weight: 500;
+            line-height: 1.2;
+        }
+        .dietary-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 1.35rem;
+            height: 1.35rem;
+            padding: 0 0.3rem;
+            font-size: 0.625rem;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            color: var(--text-muted);
+            border: 1px solid rgba(28, 28, 28, 0.14);
+            border-radius: 50%;
+            background: transparent;
+            font-family: 'Inter', sans-serif;
+            line-height: 1;
+        }
+        .dietary-icon[data-diet="V"] { color: #4a7c3a; border-color: rgba(74, 124, 58, 0.35); }
+        .dietary-icon[data-diet="VG"] { color: #2d6e1f; border-color: rgba(45, 110, 31, 0.35); border-radius: 30px; }
+        .dietary-icon[data-diet="GF"] { color: #8a6a1a; border-color: rgba(138, 106, 26, 0.35); border-radius: 30px; }
+        .dietary-icon[data-diet="H"] { color: #1a5e8a; border-color: rgba(26, 94, 138, 0.35); }
+
+        /* Per-checkpoint zone strip: micro-type list above the time-badge.
+           Single zone reads as a place-name; multi-zone is dot-separated. */
+        .checkpoint-zone-strip {
+            display: block;
+            font-size: 0.6875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            color: var(--text-muted);
+            font-weight: 500;
+            margin-bottom: 0.85rem;
+            line-height: 1;
+        }
+        .checkpoint-zone-strip .zone-sep {
+            display: inline-block;
+            margin: 0 0.5rem;
+            opacity: 0.4;
         }
 
         .image-generated-layer {
@@ -184,6 +344,14 @@
             .option-card { width: 300px; }
             .image-composite { height: 380px; }
             .item-content h2 { font-size: 2.2rem; }
+            .duration-badge, .eta-badge {
+                font-size: 0.6875rem;
+                padding: 0.32rem 0.6rem;
+            }
+            .duration-badge { padding-left: 0.45rem; }
+            .vibe-chip { font-size: 0.625rem; padding: 0.18rem 0.45rem; }
+            .place-meta-rail { gap: 0.5rem; }
+            .checkpoint-zone-strip { letter-spacing: 0.18em; }
         }
     </style>
 </head>
@@ -1664,15 +1832,122 @@
 
     const container = document.getElementById('itinerary-list');
 
+    // ---- Schema-aware render helpers --------------------------------------
+    // Map raw zone slugs (industry-city, bed-stuy, ...) to display names. Falls
+    // back to a Title-Case transform so any new zone reads gracefully.
+    const ZONE_LABELS = {
+        'industry-city': 'Industry City',
+        'sunset-park': 'Sunset Park',
+        'bed-stuy': 'Bed-Stuy',
+        'carroll-gardens': 'Carroll Gardens',
+        'cobble-hill': 'Cobble Hill',
+        'red-hook': 'Red Hook',
+        'williamsburg': 'Williamsburg',
+        'park-slope': 'Park Slope',
+        'gowanus': 'Gowanus',
+        'dumbo': 'DUMBO',
+        'brooklyn-heights': 'Brooklyn Heights',
+        'prospect-heights': 'Prospect Heights',
+        'greenpoint': 'Greenpoint',
+        'transit': 'Transit',
+    };
+    const formatZone = (slug) => {
+        if (!slug) return '';
+        if (ZONE_LABELS[slug]) return ZONE_LABELS[slug];
+        return slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    };
+
+    // Dietary slug -> { code, title } for the small circular badges. Items not in
+    // the map (or 'any') are intentionally dropped so we don't render noise.
+    const DIETARY_MAP = {
+        'vegetarian': { code: 'V', title: 'Vegetarian options' },
+        'vegan': { code: 'VG', title: 'Vegan options' },
+        'gluten-free': { code: 'GF', title: 'Gluten-free options' },
+        'halal': { code: 'H', title: 'Halal options' },
+    };
+
+    // Render the $/$$/$$$ price band with the "spent" portion in solid ink and
+    // the "rest" faded — gives a quick at-a-glance comparison without a number.
+    const renderPriceBand = (band) => {
+        if (!band || typeof band !== 'string') return '';
+        const spent = band.length;
+        const total = 3;
+        const dollars = '$'.repeat(total);
+        return `<span class="price-band" aria-label="Price tier ${band} of ${dollars}">`
+            + `<span class="price-spent">${'$'.repeat(spent)}</span>`
+            + `<span class="price-rest">${'$'.repeat(Math.max(0, total - spent))}</span>`
+            + `</span>`;
+    };
+
+    const renderVibeChips = (vibe) => {
+        if (!Array.isArray(vibe) || vibe.length === 0) return '';
+        return vibe.slice(0, 3)
+            .map(v => `<span class="vibe-chip">${v}</span>`)
+            .join('');
+    };
+
+    const renderDietaryIcons = (dietary) => {
+        if (!Array.isArray(dietary) || dietary.length === 0) return '';
+        const meaningful = dietary
+            .filter(d => DIETARY_MAP[d])
+            .map(d => DIETARY_MAP[d]);
+        if (meaningful.length === 0) return '';
+        return meaningful
+            .map(d => `<span class="dietary-icon" data-diet="${d.code}" title="${d.title}" aria-label="${d.title}">${d.code}</span>`)
+            .join('');
+    };
+
+    // Build the per-checkpoint zone strip. If every place shares one zone we
+    // print just that label; otherwise we list the unique zones in original
+    // order, dot-separated. Returns '' when no place has a zone.
+    const renderCheckpointZoneStrip = (places) => {
+        const zones = (places || [])
+            .map(p => p.zone)
+            .filter(Boolean);
+        if (zones.length === 0) return '';
+        const unique = [];
+        for (const z of zones) {
+            if (!unique.includes(z)) unique.push(z);
+        }
+        const labels = unique.map(formatZone);
+        const inner = labels.join('<span class="zone-sep">·</span>');
+        return `<span class="checkpoint-zone-strip">${inner}</span>`;
+    };
+
+    const DURATION_CLOCK_SVG = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8" cy="8" r="6.25"/><path d="M8 4.5V8l2.25 1.5"/></svg>';
+
     itineraryData.forEach((item, index) => {
         const section = document.createElement('div');
         section.className = 'itinerary-item bg-white';
-        
+
         let optionsHtml = '';
         item.places.forEach(place => {
+            const zoneLabel = formatZone(place.zone);
+            const priceHtml = renderPriceBand(place.priceBand);
+            const vibeHtml = renderVibeChips(place.vibe);
+            const dietaryHtml = renderDietaryIcons(place.dietary);
+            const tagsHtml = (vibeHtml || dietaryHtml)
+                ? `<div class="place-tags">${vibeHtml}${dietaryHtml}</div>`
+                : '';
+            const metaRailHtml = (zoneLabel || priceHtml)
+                ? `<div class="place-meta-rail">`
+                    + (zoneLabel ? `<span class="zone-label">${zoneLabel}</span>` : `<span class="zone-label" aria-hidden="true"></span>`)
+                    + (priceHtml || '')
+                    + `</div>`
+                : '';
+            const durationHtml = place.duration
+                ? `<div class="duration-badge" title="Time to spend here">${DURATION_CLOCK_SVG}<span>${place.duration}</span></div>`
+                : '';
+            const defaultPillHtml = place.isDefault
+                ? `<span class="default-pill" aria-label="Recommended default pick">★ Default</span>`
+                : '';
+            const cardClass = place.isDefault ? 'option-card is-default' : 'option-card';
+
             optionsHtml += `
-                <div class="option-card">
+                <div class="${cardClass}">
+                    ${defaultPillHtml}
                     <div class="image-composite">
+                        ${durationHtml}
                         <div class="eta-badge">${place.eta}</div>
                         <!-- Generated Artwork background -->
                         <img src="${place.generatedAnim}" alt="Generated Aesthetic Backdrop" class="image-generated-layer" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop'">
@@ -1680,16 +1955,21 @@
                         <img src="${place.originalPhoto}" alt="${place.name}" class="image-original-layer" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1495147466023-fa5c96626c23?auto=format&fit=crop&w=800&q=80'">
                     </div>
                     <div class="px-2">
+                        ${metaRailHtml}
                         <h3 class="text-2xl font-bold mb-2 text-stone-900">${place.name}</h3>
                         <p class="text-sm text-stone-600 mb-4 leading-relaxed">${place.desc}</p>
+                        ${tagsHtml}
                         <a href="${place.url}" target="_blank" class="text-xs font-bold uppercase tracking-widest text-orange-600 hover:text-orange-800 transition-colors inline-block border-b-2 border-orange-200 hover:border-orange-500 pb-1">View Details / Maps &rarr;</a>
                     </div>
                 </div>
             `;
         });
 
+        const checkpointZoneHtml = renderCheckpointZoneStrip(item.places);
+
         section.innerHTML = `
             <div class="item-content section-text">
+                ${checkpointZoneHtml}
                 <span class="time-badge">${item.time}</span>
                 <h2>${item.title}</h2>
                 <p class="text-stone-500 text-lg leading-relaxed max-w-3xl">${item.description}</p>
@@ -1698,7 +1978,7 @@
                 ${optionsHtml}
             </div>
         `;
-        
+
         container.appendChild(section);
     });
 
