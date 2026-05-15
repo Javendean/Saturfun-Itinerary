@@ -1,0 +1,20 @@
+{
+  "name": "saturfun",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Saturfun — interactive Brooklyn itinerary with owner chat (Mode A) and visitor RAG chat (Mode B).",
+  "scripts": {
+    "sidecar": "node sidecar/sidecar.mjs",
+    "serve": "npx live-server --port=5173 --no-browser .",
+    "seed-queue": "node tools/seed-queue.mjs",
+    "research": "node tools/research-runner.mjs --loop --interval 10m",
+    "embed": "node tools/embed-corpus.mjs"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@xenova/transformers": "^2.17.2"
+  }
+}
