@@ -14,6 +14,7 @@
     "manga-sidecar": "node sidecar/manga-sidecar.mjs",
     "manga-seed": "node tools/manga-seed-queue.mjs",
     "manga-harvest": "node tools/manga-harvest-runner.mjs --loop --interval 45s",
+    "manga-download": "node tools/manga-image-downloader.mjs",
     "manga-embed": "node tools/manga-embed-corpus.mjs"
   },
   "dependencies": {
