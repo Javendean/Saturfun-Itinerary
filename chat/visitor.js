@@ -302,14 +302,17 @@ async function streamWebLLM(userText, ctxEntries) {
 // Generation — Cloudflare Worker fallback path
 // ---------------------------------------------------------------------------
 //
-// Worker contract (documented here so the Worker-builder agent can match it):
+// Worker contract (matches the actual implementation in worker/src/index.ts):
 //   POST {WORKER_FALLBACK_URL}
 //   body: { messages: [{role, content}], context: CorpusEntry[] }
-//   response: text/event-stream of `data: {"delta": "..."}` lines, terminated by
-//             `data: [DONE]`. Errors come back as `data: {"error": "..."}`.
+//   response: text/event-stream using the native Workers AI shape:
+//     `data: {"response":"<token chunk>"}\n\n`   — repeated per delta
+//     `data: {"response":null,"usage":{...}}\n\n` — final frame, response is null
+//     `data: [DONE]\n\n`                           — terminator
+//   Errors (defensive — the Worker may also emit these): `data: {"error":"..."}`.
 //
-// We intentionally don't depend on the Vercel AI SDK on either side — a tiny
-// hand-rolled SSE protocol keeps the Worker free-tier-friendly and dependency-light.
+// We pass the native binding shape through rather than re-wrapping it; saves a
+// translation layer on the Worker side.
 
 async function streamWorker(userText, ctxEntries) {
   const bubble = dom.append('assistant', '');
@@ -355,7 +358,7 @@ async function streamWorker(userText, ctxEntries) {
         try {
           const obj = JSON.parse(payload);
           if (obj.error) { bubble.textContent = `Worker error: ${obj.error}`; return; }
-          if (obj.delta) { acc += obj.delta; bubble.textContent = acc; dom.body.scrollTop = dom.body.scrollHeight; }
+          if (typeof obj.response === 'string') { acc += obj.response; bubble.textContent = acc; dom.body.scrollTop = dom.body.scrollHeight; }
         } catch { /* ignore malformed frames */ }
       }
     }
