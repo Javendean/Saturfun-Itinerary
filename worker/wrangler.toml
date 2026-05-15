@@ -1,0 +1,39 @@
+#:schema node_modules/wrangler/config-schema.json
+# Saturfun visitor-mode chat fallback Worker.
+# Fronts CF Workers AI (@cf/meta/llama-3.3-70b-instruct-fp8-fast) for browsers
+# without WebGPU. Free-tier only — see README.md.
+
+name = "saturfun-worker"
+main = "src/index.ts"
+compatibility_date = "2025-09-01"
+compatibility_flags = ["nodejs_compat"]
+
+# ---- Workers AI binding ---------------------------------------------------
+# Exposes `env.AI.run(...)`. No additional config required.
+[ai]
+binding = "AI"
+
+# ---- KV namespace for the per-IP sliding-window rate limiter -------------
+# Create the namespaces (one for production, one for `wrangler dev`):
+#   wrangler kv namespace create RATE_LIMIT
+#   wrangler kv namespace create RATE_LIMIT --preview
+# Then paste the returned `id` and `preview_id` below.
+[[kv_namespaces]]
+binding = "RATE_LIMIT"
+id = "REPLACE_WITH_PROD_KV_ID"
+preview_id = "REPLACE_WITH_PREVIEW_KV_ID"
+
+# ---- Vars ----------------------------------------------------------------
+# Tunable knobs. Override per-environment with `[env.<name>.vars]` if needed.
+[vars]
+# Sliding-window: max requests per IP within RATE_WINDOW_SECONDS.
+RATE_LIMIT_MAX = "10"
+RATE_WINDOW_SECONDS = "60"
+# Hard ceiling per generated response (caps worst-case neuron spend).
+MAX_TOKENS = "800"
+# Comma-separated CORS origins. Append your own preview/prod origins as needed.
+ALLOWED_ORIGINS = "https://javendean.github.io,http://127.0.0.1:5173,http://localhost:5173"
+
+# ---- Observability -------------------------------------------------------
+[observability]
+enabled = true

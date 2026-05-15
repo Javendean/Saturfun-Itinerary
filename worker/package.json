@@ -1,0 +1,19 @@
+{
+  "name": "saturfun-worker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Saturfun visitor-mode chat fallback — fronts CF Workers AI (Llama 3.3 70B fp8-fast). Free tier only.",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail",
+    "typecheck": "tsc --noEmit",
+    "kv:create": "wrangler kv namespace create RATE_LIMIT && wrangler kv namespace create RATE_LIMIT --preview"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250906.0",
+    "typescript": "^5.6.2",
+    "wrangler": "^4.0.0"
+  }
+}
