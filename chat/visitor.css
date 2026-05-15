@@ -1,0 +1,50 @@
+/* Visitor-mode (Mode B) styling.
+   Loaded dynamically by chat/visitor.js so owner-mode pages don't pay for it.
+   Stays consistent with chat/bottom-sheet.css token names (--sheet-*). */
+
+.sheet-status {
+  font-family: 'JetBrains Mono', 'Menlo', monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  color: var(--sheet-muted);
+  background: rgba(0, 0, 0, 0.04);
+  border: 1px dashed var(--sheet-border);
+}
+.sheet-status[data-kind="error"] {
+  background: rgba(220, 38, 38, 0.06);
+  border-color: rgba(220, 38, 38, 0.3);
+  color: #991B1B;
+}
+
+.sheet-suggest {
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.6rem 0.85rem;
+  border-radius: 10px;
+  background: rgba(212, 175, 55, 0.1);
+  border: 1px solid rgba(212, 175, 55, 0.35);
+  font-size: 0.85rem;
+  color: var(--sheet-fg);
+}
+
+.sheet-suggest-btn {
+  background: var(--sheet-fg);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.4rem 0.85rem;
+  font-family: inherit;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+}
+.sheet-suggest-btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
