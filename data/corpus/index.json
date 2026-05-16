@@ -14343,5 +14343,245 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T16:08:32.459Z"
+  },
+  {
+    "id": "avant-garden-williamsburg",
+    "name": "Avant Garden Williamsburg (CLOSED)",
+    "desc": "PERMANENTLY CLOSED Sep 2025 — former upscale plant-based small-plates spot; exclude from itineraries",
+    "longDesc": "Avant Garden's Williamsburg outpost at 188 Havemeyer St — Overthrow Hospitality's Michelin-recommended plant-based concept — closed permanently in September 2025 per Yelp's verified status update. The original East Village location at 95 Avenue A, 2nd Floor remains open, but it's in Manhattan and outside Saturfun's Brooklyn-zoned corpus. This entry is retained as a tombstone so re-research passes don't re-add it; the live site should filter on `promotedTo: null` and the CLOSED marker in `notes`.",
+    "url": "https://www.avantgardennyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "n/a (closed)",
+    "hoursWeekend": "CLOSED PERMANENTLY",
+    "notes": "STATUS: PERMANENTLY CLOSED — Yelp lists the 188 Havemeyer St Brooklyn location as closed as of Sep 2025 (https://www.yelp.com/biz/avant-garden-brooklyn-brooklyn-2). Official site at avantgardennyc.com lists only the East Village (95 Avenue A, 2nd Fl, NY 10009) location now (avantgardennyc.com). Per corpus geographic constraint (Brooklyn zones only) and IC-anchored ~17-min drive radius, the surviving Manhattan branch is out of scope. Recommend filtering this entry out of any live itinerary surface via the CLOSED hoursWeekend value; do not promote.",
+    "sources": [
+      {
+        "url": "https://www.avantgardennyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/avant-garden-brooklyn-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/avant-garden-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T16:11:22.788Z"
+  },
+  {
+    "id": "eleven-madison-park",
+    "name": "Eleven Madison Park (Flatiron, Manhattan)",
+    "desc": "3-Michelin tasting menu with full plant-based option still available; Manhattan exception, ~22 min from IC.",
+    "longDesc": "Daniel Humm's flagship in the Art Deco Metropolitan Life North Building on Madison Square Park, holding three Michelin stars since 2022. As of Oct 14, 2025 the menu is no longer exclusively plant-based — guests now choose between a fully vegan tasting and a version that includes select animal products (fish, meat, honey-lavender duck). The full tasting runs $385/guest (seven to eight courses, ~2.5 hrs); wine pairings from $125; reservations open on the first of each month via Resy and are prepaid + non-refundable.",
+    "url": "https://www.elevenmadisonpark.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "2-3 hours",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat-Sun 12:00-13:00 & 17:00-23:00",
+    "notes": "Manhattan exception — 11 Madison Ave, Flatiron, not Brooklyn (zone field uses brooklyn-heights as nearest geographic proxy since schema is BK-only). IMPORTANT corpus-accuracy note: the original 'only fully-vegan 3-Michelin in NYC' justification no longer holds as of 2025-10-14, when EMP reintroduced animal products as a choice on the menu (source: official 'An Update on Our Menu' story). The plant-based tasting is still offered as a parallel option, so it remains the most accessible 3-star vegan-capable tasting in NYC, but it is no longer uniquely vegan-only. No on-site parking; nearest garage at 5 Madison Ave. Bar tasting ($225, 4-5 courses) accepts walk-ins. Dress code: none stated, but most guests dress up. Best paired with a daytime Flatiron/Madison Square Park walk before the 17:00 seating to amortize the Manhattan trip.",
+    "sources": [
+      {
+        "url": "https://www.elevenmadisonpark.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.elevenmadisonpark.com/stories/menu-update",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.elevenmadisonpark.com/faq",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.thelotimes.com/p/eleven-madison-park-new-menu-price-hike-2026",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/eleven-madison-park-new-york",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T16:14:07.371Z"
+  },
+  {
+    "id": "cafe-mado",
+    "name": "Cafe Mado",
+    "desc": "NYT Top 100 seasonal cafe in Prospect Heights — Oxalis team's reborn vegetable-forward gem with a back garden.",
+    "longDesc": "Opened in 2024 by the original Oxalis team in the same Washington Ave space, Cafe Mado runs a skylit atrium up front (coffee + breakfast sandwiches from 8:30am) and a vegetable-forward, seasonally rotating lunch/dinner menu in back, plus a planted back garden. Named to the New York Times 2025 100 Best Restaurants list; cited by The Infatuation as a small-plates standout. Closest spiritual successor to Olmsted in the same neighborhood — produce-driven, romantic, weekend-brunch friendly, with the same garden energy.",
+    "url": "https://www.cafemadonyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat-Sun 8:30-15:00, 17:00-22:00 (Sun dinner closes 21:00)",
+    "notes": "Pivoted from originally-assigned Faun (606 Vanderbilt Ave), which is permanently closed as of May 2026 per Yelp, Foursquare, and NYC Tourism + Conventions (all list it as closed/out of business). Cafe Mado at 791 Washington Ave fills the exact same Olmsted-shaped hole in Prospect Heights: produce-driven seasonal menu, romantic garden, foodie-press darling. Street parking on Washington/St Marks/Sterling is realistic on weekend evenings; multiple commercial lots within 4 blocks per Way.com. Brunch service is the easier reservation; dinner books out 2-3 weeks ahead on Resy (Infatuation, BKMag, Brooklyn Paper).",
+    "sources": [
+      {
+        "url": "https://www.cafemadonyc.com/location/cafemadonyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/cafe-mado",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/cafe-mado",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/brooklyn-eateries-nyt-best-restaurants-list/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2024/05/29/oxalis-is-reborn-as-cafe-mado-and-its-amazing/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/faun-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T16:17:30.989Z"
+  },
+  {
+    "id": "wallace-prospect-heights",
+    "name": "Wallace",
+    "desc": "New Vanderbilt Ave natural wine bar with martinis, gildas, oysters, and a marble bar built for lingering.",
+    "longDesc": "Soft-opened May 2026 by Brian Guay and Robert Spence (Black Mountain Wine Bar alums), Wallace pours ~50 rotating bottles spanning France, Italy, Spain, Greece, Austria, Czech Republic, and New York, with by-the-glass starting around $13. The snack-forward menu — Castelvetrano olives, bread with churned butter and fennel pollen, boquerones with yuzu olive oil, Spanish gildas, cheeses, cured meats, oysters — reads Mediterranean-adjacent and pairs well with frozen-glass martinis. Warm room with schoolhouse lights, polished wood, a long red marble bar, plus a back patio for warmer nights.",
+    "url": "http://wallacebrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "1.5-2 hr",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "Sat 13:00-24:00, Sun 13:00-23:00",
+    "notes": "PIVOT NOTE: The originally requested 'Rose's Prospect Heights' at 295 Flatbush Ave is permanently closed and was bar food/burgers, not Mediterranean (theinfatuation.com/new-york/reviews/roses; yelp.com/biz/roses-brooklyn). LaLou at 581 Vanderbilt — the obvious Mediterranean wine-bar candidate — is also marked CLOSED as of May 2026 (yelp.com/biz/lalou-brooklyn). Wallace at 663 Vanderbilt is the strongest live substitute on the same corridor: same romantic/foodie wine-bar archetype, Mediterranean-leaning snacks (gildas, boquerones, olives), and just opened (andreastrong.substack.com/p/wallace-is-the-wine-bar-prospect). Weekend parking is street-only on Vanderbilt and side streets (Park Pl, St. Marks Ave) — metered until 19:00 Sat, free Sun; arrive before 19:00 for easier spots. Drive from Industry City: ~16 min via Prospect Expwy → Flatbush Ave. Reservations recommended for weekend evenings; bar walk-ins typical. Note: not strictly Mediterranean — flag in itinerary copy as 'Mediterranean-leaning natural wine bar' to set accurate expectations.",
+    "sources": [
+      {
+        "url": "https://andreastrong.substack.com/p/wallace-is-the-wine-bar-prospect",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/wallace",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "http://wallacebrooklyn.com/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.corner.inc/place/1507308",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/roses",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lalou-brooklyn",
+        "accessed": "2026-05-16"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T16:21:12.734Z"
+  },
+  {
+    "id": "chuko-ramen-prospect-heights",
+    "name": "Chuko",
+    "desc": "Counter-style ramen-ya in Prospect Heights — pork-bone, miso, and a cult kimchi bowl in 30-45 min.",
+    "longDesc": "Chuko is a dinner-only ramen shop on Vanderbilt Avenue from chef David Koon, known for clean broths (pork-bone, soy, vegetarian miso) and a signature kimchi ramen with thick, layered heat. Bowls land in the high-teens, sides like spicy pickles and kale salad keep the ticket low, and the room is small and walk-in-friendly — a fast, satisfying counterpoint to the long-format tasting cadence of nearby Olmsted.",
+    "url": "http://chukobk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "17:30-22:00",
+    "notes": "Dinner-only; closed Tue & Wed. Saturday 5:30pm-10pm, Sunday 5:30pm-9pm (chukobk.com). Address 552 Vanderbilt Ave, Brooklyn NY 11238 — note Yelp lists 565 Vanderbilt which was the now-closed sibling Bar Chuko izakaya (yelp.com). Walk-in / online ordering; no formal weekend reservation system. Street parking on Vanderbilt is usually findable on weekends. Vegetarian miso ramen available; ask about gluten-free noodle swap before ordering.",
+    "sources": [
+      {
+        "url": "http://chukobk.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/chuko-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/chuko-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.novacircle.com/spots/north-america/united-states/new-york/kings-county/new-york/chuko-515289",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T16:23:19.843Z"
   }
 ]

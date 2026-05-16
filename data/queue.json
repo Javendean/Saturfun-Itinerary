@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Avant Garden Williamsburg — small-plates 100% vegan tasting-style with wine pairings",
-    "reason": "True vegan tasting-menu vibe, ~17 min from IC; pairs well with existing Williamsburg corpus venues for vegan-friend driving itineraries",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:26:39.523Z"
-  },
-  {
-    "topic": "Eleven Madison Park — fully plant-based 3-Michelin tasting menu (Manhattan exception)",
-    "reason": "Worth a Manhattan exception per the 'uniquely justified' rule — only fully-vegan 3-Michelin tasting in NYC, ~25 min from IC off-peak; would be the corpus's prestige vegetarian anchor for milestone celebrations",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:26:39.523Z"
-  },
-  {
-    "topic": "Faun Prospect Heights — seasonal Italian fine-dining replacement",
-    "reason": "Closest spiritual successor to Olmsted in the same neighborhood: produce-driven menu, garden patio, similar price band and foodie vibe; fills the romantic/foodie gap left by Olmsted's closure",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:28:45.784Z"
-  },
-  {
-    "topic": "Rose's Prospect Heights — Mediterranean wine-bar dinner option",
-    "reason": "Same Vanderbilt Avenue corridor, romantic/foodie vibe, weekend-friendly; provides a second Prospect Heights anchor for diversified itinerary clusters",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:28:45.784Z"
-  },
-  {
-    "topic": "Chuko Ramen Prospect Heights — casual foodie counterpoint",
-    "reason": "Different price band ($$) and tempo (30-45 min) than Olmsted's $$$ tasting cadence; useful for itineraries that need a Prospect Heights stop without the time/cost commitment of fine dining",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:28:45.784Z"
-  },
-  {
     "topic": "OddFellows Ice Cream Williamsburg late-night flavors and hours",
     "reason": "Williamsburg-native scoop shop with avant-garde flavors — alt dessert anchor in same cluster",
     "requestedBy": "agent",
@@ -4138,5 +4108,101 @@
     "reason": "Builds the pan-Asian dessert leg of a Planta-anchored evening track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T16:08:32.471Z"
+  },
+  {
+    "topic": "Reverie Brooklyn — fully-vegan kosher tasting-style small plates with natural wine + craft cocktail bar at 135 Metropolitan Ave, Williamsburg",
+    "reason": "Direct like-for-like replacement for Avant Garden's vacated slot — 28-dish small-plates dinner format with organic wine pairings, Wed–Sun 4:30–10:30pm, sits inside the same Williamsburg cluster ~15–18 min from IC; closes the vegan tasting gap in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:11:22.802Z"
+  },
+  {
+    "topic": "Planta Queen Williamsburg — plant-based pan-Asian small plates with cocktail program",
+    "reason": "Adds a second vegan small-plates option in the Williamsburg cluster with a different (Asian/dim-sum) flavor profile, useful for varied vegan-friend itineraries and re-pairings within the 10–25 min IC drive radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:11:22.802Z"
+  },
+  {
+    "topic": "Modern Love Brooklyn — Isa Chandra Moskowitz's plant-based comfort tasting in South Williamsburg/Bed-Stuy area",
+    "reason": "Diversifies the vegan corpus beyond fine-dining small plates with a comfort-leaning tasting vibe; verify current operating status since Brooklyn vegan venues have been turning over",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:11:22.803Z"
+  },
+  {
+    "topic": "Dirt Candy (LES, Manhattan) — Amanda Cohen's vegetable tasting menu",
+    "reason": "If EMP no longer earns the 'only vegan-only fine dining' anchor, Dirt Candy is the strongest fully-vegetable tasting in NYC and a more honest prestige-vegetarian anchor; ~25 min from IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:14:07.385Z"
+  },
+  {
+    "topic": "Avant Garden (Williamsburg) — vegan tasting in Brooklyn",
+    "reason": "Keeps the vegan-anchor search inside the 15-min IC radius instead of relying on a Manhattan exception; satisfies the driving-radius rule.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:14:07.385Z"
+  },
+  {
+    "topic": "Semma (West Village) — 1-Michelin South Indian, strong vegetarian half of menu",
+    "reason": "Adjacent prestige-vegetarian Manhattan candidate worth a separate Manhattan-exception evaluation; complements EMP for milestone-celebration tier.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:14:07.385Z"
+  },
+  {
+    "topic": "Wayward Fare Prospect Heights — Akhtar Nawab's seasonal Italian-leaning menu",
+    "reason": "Closer literal Italian match for the original Faun slot; same Prospect Heights zone, lesser-known regional flavors, fills the Italian-fine-dining gap Cafe Mado doesn't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:17:31.001Z"
+  },
+  {
+    "topic": "LaRina Pastificio & Vino Fort Greene — handmade pasta shop with patio + jazz brunch",
+    "reason": "Strongest pure-Italian patio option within 15-min drive of IC; Chef Silvia Barban's stuffed pastas give a more pasta-forward alternative when the user wants Italian specifically",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:17:31.001Z"
+  },
+  {
+    "topic": "Miss Ada Fort Greene — modern Mediterranean with famed backyard garden",
+    "reason": "Vibe-twin to Olmsted's garden romance with a Mediterranean spin; backyard supplies its own herbs, which matches the produce-driven brief",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:17:31.001Z"
+  },
+  {
+    "topic": "Olmsted Prospect Heights — garden-to-table tasting menu dinner",
+    "reason": "Iconic Vanderbilt Ave romantic foodie anchor with seasonal Mediterranean-inflected cooking; perfect pre/post-Wallace pairing for a Prospect Heights dinner cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:21:12.749Z"
+  },
+  {
+    "topic": "Faun Prospect Heights — wood-fired Italian-Mediterranean on Greene Ave",
+    "reason": "Strong second Prospect Heights Mediterranean dinner option in same 10-min walk radius from Wallace; expands the cluster beyond Vanderbilt itself",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:21:12.749Z"
+  },
+  {
+    "topic": "Brooklyn Crab or alternative Red Hook romantic seafood spot — verify still operating",
+    "reason": "Audit pattern: several Vanderbilt-corridor venues turned out closed; worth a sweep of existing corpus entries to flag stale data before they hit itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:21:12.749Z"
+  },
+  {
+    "topic": "Verify status of all Prospect Heights / Vanderbilt Ave corpus entries (LaLou, Rose's, others)",
+    "reason": "Two of the three top candidates in this research were permanently closed; corpus likely contains other stale Prospect Heights entries that need a freshness audit",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:21:12.749Z"
+  },
+  {
+    "topic": "Ample Hills Creamery Prospect Heights flagship",
+    "reason": "Walkable dessert anchor after Chuko — keeps a Prospect Heights track on $$ tempo without driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:23:19.853Z"
+  },
+  {
+    "topic": "Brooklyn Public Library Central Branch (Grand Army Plaza)",
+    "reason": "Free/cheap pre-dinner activity 6 min from Chuko; pairs with the casual ramen tempo for a low-cost Prospect Heights afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:23:19.853Z"
+  },
+  {
+    "topic": "Threes Brewing Greenpoint vs. Prospect Heights wine bar Olmsted-adjacent",
+    "reason": "Need a drinks node that bridges Chuko (early dinner) into a later Prospect Heights stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:23:19.853Z"
   }
 ]
