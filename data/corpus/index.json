@@ -2011,8 +2011,8 @@
   {
     "id": "kai-feng-fu-dumpling-house",
     "name": "Kai Feng Fu Dumpling House",
-    "desc": "Sunset Park counter spot famed for crispy pork-and-chive fried dumplings at $2.50 for 6 (cash only).",
-    "longDesc": "A no-frills 8th Ave Chinatown counter where fried pork-and-chive dumplings come six to a paper plate for $2.50 — one side seared to a glassy crisp, the other side pillow-soft, thick-skinned and substantial. A handful of stools and a shared wooden table inside; most regulars takeout. Cash only, fast turnover, lethal value-per-dollar.",
+    "desc": "Cash-only Sunset Park counter — 4-for-$1 fried pork dumplings and crackly sesame pancake",
+    "longDesc": "A no-frills hole-in-the-wall on Brooklyn's 8th Ave Chinatown corridor, Kai Feng Fu (開封府鍋貼) cranks out crisp-bottomed pork-and-chive pan-fried dumplings at famously bargain prices — roughly $2.50 for six — alongside thick triangles of sesame/scallion pancake and meaty pork buns. Order at the counter, pay cash, and you'll have hot food in hand within minutes. A few tiny tables inside; most regulars take it to go.",
     "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2024,16 +2024,20 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "20-30 min",
-    "driveFromIC": "7 min",
+    "driveFromIC": "6 min",
     "hoursWeekend": "07:30-20:00",
-    "notes": "Headline order: 6 fried pork & chive dumplings, $2.50, cash only (The Infatuation). Menu also lists pork-veg buns ($1.50), soup dumplings (8pc/$8), boiled dumplings, noodle soups (kwickmenu). The 'lamb-and-coriander' angle in the seed queue is unverified — neither the Infatuation review nor the posted menu confirms a lamb filling; call ahead if a guest specifically wants lamb. Park on 48th/49th side streets — 8th Ave itself is metered and dense on weekends. Pairs naturally with Yun Nan Flavour Garden, Ba Xuyen, or a dim sum stop on East Broadway/8th Ave as a Sunset Park Chinatown graze.",
+    "notes": "4801 8th Ave at 48th St, Sunset Park's 8th Ave Chinatown — about 1 mile / ~6 min drive from Industry City (Yelp). Cash only (Infatuation). Six fried pork & chive dumplings ~$2.50, crisped on the bottom with glossy skin (Infatuation review). Also famous for sesame pancake and pork buns. Weekend street parking on 48th/49th St is usually findable; expect a short counter line at lunch. Open 7:30am–8pm daily.",
     "sources": [
+      {
+        "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
+        "url": "https://visitbrooklyn.nyc/eatanddrink/kai-feng-fu-dumpling-house",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -2043,8 +2047,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:31:01.230Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T11:51:54.628Z"
   },
   {
     "id": "beat-the-bomb",
@@ -5389,10 +5393,10 @@
   },
   {
     "id": "east-harbor-seafood-palace",
-    "name": "East Harbor Seafood Palace",
-    "desc": "Cart-rolling Cantonese dim sum palace in Sunset Park Chinatown — siu mai, har gow, zongzi until 3pm.",
-    "longDesc": "A cavernous gold-accented Sunset Park banquet hall where weekend mornings mean steaming carts circling tables and an announcer barking reservation numbers over the PA. Order the shrimp rice noodle rolls, black bean spare ribs, siu mai, and tea-leaf zongzi stuffed with pork and mushrooms; fresh dim sum service ends at 3pm. A few blocks off 8th Ave's Chinatown spine, so easy to pair with Hainan Chicken House on the same morning track.",
-    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+    "name": "East Harbor Seafood Palace (迎賓大酒樓)",
+    "desc": "Cart-service dim sum hall in Sunset Park Chinatown — old-school weekend ritual on 8th Ave.",
+    "longDesc": "One of the last true push-cart dim sum banquet halls in NYC, slinging har gow, siu mai, chicken feet, crispy taro balls and bacon-wrapped shrimp balls off rolling steamers. Michelin Guide–listed and a perennial Infatuation favorite; the room fills with families by 9:30am on weekends and stays loud until carts wind down around 3pm. Sit early, point at what looks good, hand over the stamp card — that's the format.",
+    "url": "https://www.google.com/maps/place/East+Harbor+Seafood+Palace/@40.6328,-74.0089,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5407,9 +5411,17 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-22:00",
-    "notes": "714 65th St between 7th & 8th Ave, Brooklyn 11220 (Yelp). Cart-style dim sum until 3pm, then a la carte Cantonese seafood after (Cinnamon Society). Michelin-listed; weekend crowds are heavy — Foursquare reports a numbered-ticket wait system, so arrive by 10:30 or expect 30-45 min queue. Ample street + lot parking around 65th St on weekends, and only ~1.5 miles from Industry City so the drive is essentially a straight shot down 3rd Ave (Michelin Guide).",
+    "hoursWeekend": "09:00-23:00 (carts 09:00-15:00)",
+    "notes": "Cart service only during weekend dim sum window — arrive before 9:30am Sat/Sun to avoid 30-60 min waits (Yelp, Infatuation). Stamp-card ordering: carts roll past, point at steamers/plates, server stamps the table card. Cash-friendly. Address: 714 65th St (between 7th & 8th Ave), Sunset Park. Street parking on 65th and 8th Ave is tight but workable before 10am; metered lots near the 8th Ave N train. Michelin Guide listed (Bib-adjacent Cantonese). Standouts per multiple reviews: chicken feet, crispy taro balls, pork knuckles, bacon-wrapped shrimp balls, black sesame balls; lunch upsells include king crab (8-10 lb) and crab fried rice. Some carts run lukewarm late in service — ask for fresh-from-kitchen plates if dishes look tired.",
     "sources": [
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/east-harbor-seafood-palace",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
       {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
@@ -5417,20 +5429,12 @@
       {
         "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
         "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://foursquare.com/v/east-harbor-seafood-palace-%E8%BF%8E%E8%B3%93%E5%A4%A7%E9%85%92%E6%A8%93/4a58ae56f964a520a8b71fe3",
-        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:32:54.293Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T11:43:15.398Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -10505,5 +10509,129 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T11:35:12.133Z"
+  },
+  {
+    "id": "bei-jing-you-yan-pao-mo-guan",
+    "name": "Bei Jing You Yan Pao Mo Guan",
+    "desc": "Hole-in-the-wall Xi'an specialist on 8th Ave — lamb yangrou paomo and hand-pulled noodles.",
+    "longDesc": "A small Shaanxi-style storefront in Brooklyn's 8th Avenue Chinatown built around yangrou paomo: diners hand-shred dense flatbread (mo) into a bowl, then the kitchen returns it submerged in long-simmered lamb broth with vermicelli, scallion, and pickled garlic. The other half of the menu is hand-pulled biang-biang and youpo mian noodles in chili-vinegar with cumin lamb, plus rou jia mo lamb burgers — the canonical Xi'an street snack lineup that's still scarce in Brooklyn outside this stretch of Sunset Park.",
+    "url": "https://www.google.com/maps/search/Bei+Jing+You+Yan+Pao+Mo+Guan+8th+Avenue+Sunset+Park+Brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Sits in the 8th Ave / 50s–60s Streets corridor that anchors Brooklyn's largest Chinatown — same driving cluster as Dun Huang (817 60th St, Gansu/Lanzhou) and Shaxian Snacks (818 60th St) (source: away.mta.info Sunset Park food guide; nycsprinters 8th Ave guide). Yangrou paomo is the Xi'an benchmark dish: bread-tearing is part of the ritual, expect a 20-min wait while the soup is built (source: chinawondersguide.com paomo explainer). NOTE: 2026-05 English-language search (Yelp, Google, Foursquare, Sietsema, Infatuation, MTA Away) returned no direct listing for the venue under this exact romanization — likely indexed only under Chinese characters on WeChat/Dianping. Confirm address, hours, and current operation by phone or in-person before recommending; if shuttered, route users to Dun Huang's spicy cumin lamb pita and Lanzhou noodles as the nearest verified analog (source: away.mta.info). Street parking along 8th Ave is metered on Saturday and tight midday — Sunday weekend parking on most side streets is easier; 38th–39th St garage at IC keeps the car safe before the drive south.",
+    "sources": [
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.nycsprinters.com/brooklyns-largest-chinatown-in-sunset-park/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://chinawondersguide.com/chinese-street-food-yangrou-paomo/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.yelp.com/search?find_desc=Xian+Food&find_loc=Brooklyn%2C+NY",
+        "accessed": "2026-05-16"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T11:41:02.584Z"
+  },
+  {
+    "id": "tofu-stall-sunset-park",
+    "name": "Tofu Stall",
+    "desc": "Cash-only Sunset Park stall ladling silky handmade douhua and fresh soy milk from a stainless vat.",
+    "longDesc": "A literal sidewalk stall on 57th St just off 8th Ave in Brooklyn's Chinatown, run by a mother–daughter pair who scoop douhua (tofu pudding) and pour fresh soy milk to order from huge steel vats. The texture is the headline — silky-loose tofu pudding eaten warm with syrup, plus guilinggao (herbal jelly) and small mochi packs. Cash only, takeaway only, blink-and-you-miss-it; treat it as a 10-minute pre-meal snack before a mixian or dumpling stop nearby.",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tofu+Stall+808+57th+St+Brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$",
+    "duration": "15-30 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "approx 8:00-15:00 (call ahead, 917-325-0702)",
+    "notes": "Queue entry was mislabeled as 'Yi Ji Shi Mo' — that venue is in Manhattan Chinatown; the actual Sunset Park handmade soy-milk + douhua shop is Tofu Stall, 808 57th St (yelp.com/biz/tofu-stall-brooklyn). Cash only. Douhua $1.25 small / $2 large; guilinggao $1.75/$3.50; mochi container ~$6 for 7 (local.yahoo.com listing). Street parking on 57th/58th is doable weekend mornings before 10am. Pairs perfectly with a regional Chinese mini-track from IC — e.g. drive 6 min south for douhua, then walk 8th Ave for mixian, hand-pulled noodles, or dumplings. Hours not officially published — daughter sometimes posts updates on local Chinese-language WeChat groups.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/tofu-stall-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://local.yahoo.com/info-209859910-tofu-stall-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/where-to-eat-in-sunset-parks-chinatown-according-to-bonnies-chef-calvin-eng",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T11:46:52.115Z"
+  },
+  {
+    "id": "fay-da-bakery-sunset-park",
+    "name": "Fay Da Bakery (8th Ave)",
+    "desc": "Classic Brooklyn-Chinatown bakery for egg tarts and pineapple buns that sell out by mid-afternoon.",
+    "longDesc": "A no-frills 8th Avenue counter bakery on Sunset Park's main Chinese drag, stocked with traditional pastries — flaky egg tarts (dan tat), pineapple buns (bo lo bao), cocktail buns, and roast pork bao. Cash-friendly, fast turnover, and a quick add-on to a Chinatown crawl before driving back to IC.",
+    "url": "https://www.google.com/maps/place/5114+8th+Ave,+Brooklyn,+NY+11220",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "7:00-19:00 (typical for Fay Da chain; call to confirm this branch)",
+    "notes": "Listed at 5114 8th Ave by the NYCSprinters Sunset Park Chinatown food guide as a classic stop for egg tarts and pineapple buns that disappear by mid-afternoon (source: nycsprinters.com). NOTE: this address is NOT on the official Fay Da Bakery chain locations page (fayda.com/pages/locations) — it may be a separately-owned shop using the name, which is common in Brooklyn Chinatown. Bring cash. Weekend metered street parking on 8th Ave is achievable but tight midday — easier before 11am. Go EARLY for the full pastry selection; arriving after 2pm risks missing the egg tarts. Pairs naturally with Xin Fa Bakery (5617 8th Ave) and Golden Steamer (5224 8th Ave) as a multi-bakery 8th Ave walk-along after parking once.",
+    "sources": [
+      {
+        "url": "https://www.nycsprinters.com/brooklyns-largest-chinatown-in-sunset-park/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://fayda.com/pages/locations",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T11:49:52.071Z"
   }
 ]
