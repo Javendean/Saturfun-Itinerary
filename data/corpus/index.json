@@ -1139,8 +1139,8 @@
   {
     "id": "lucali-carroll-gardens",
     "name": "Lucali",
-    "desc": "Famously the best pizza in NYC per multiple authoritative lists",
-    "longDesc": "Famously the best pizza in NYC per multiple authoritative lists; candlelit, BYOB, single-room romance; Saturday hours 5-11 PM",
+    "desc": "Candlelit BYOB pizzeria with a 30-seat dining room and one of NYC's most coveted thin-crust pies.",
+    "longDesc": "Mark Iacono's Carroll Gardens institution serves blistered, hand-stretched pies and oversized calzones from a single wood-fired oven in a dim, candle-strewn dining room. No reservations: a host opens the waitlist at 4pm, lines often form by 3pm, and full nights are common — but it's BYOB, cash-only, and roughly an 8-minute drive from Industry City, which makes it the strongest 'destination pizza' alternative to a Manhattan crossing (lucali.com, theinfatuation.com).",
     "url": "https://www.lucali.com/location/lucali-brooklyn/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -1148,20 +1148,32 @@
     "vibe": [
       "foodie",
       "romantic",
-      "classic"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$$",
-    "duration": "1.5-2 hr",
-    "driveFromIC": "11 min drive",
-    "hoursWeekend": null,
-    "notes": "NO RESERVATIONS — show up at 5 PM to put name on list. Cash only. CLOSED Tuesdays. Worth the friction once.",
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "17:00-23:00 (closed Tue)",
+    "notes": "575 Henry St, Brooklyn NY 11231; cash only, BYOB, no phone or online reservations — waitlist opens 4pm at the door, often filled by 4:30pm on weekends (lucali.com). Free street parking is generally available on Henry/Carroll/Sackett but tightens after 6pm (novacircle.com). Drive from IC: Hamilton Ave → Court St → Henry, ~8 min off-peak. Calzones and the basil large pie are the marquee orders (theinfatuation.com).",
     "sources": [
       {
-        "url": "C:\\tmp\\saturfun-content-research.md",
-        "accessed": "2026-05-15T22:12:44.369Z"
+        "url": "https://www.lucali.com/location/lucali-brooklyn/",
+        "accessed": "2026-05-16T23:45:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/lucali",
+        "accessed": "2026-05-16T23:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lucali-brooklyn-3",
+        "accessed": "2026-05-16T23:45:00Z"
+      },
+      {
+        "url": "https://www.novacircle.com/spots/north-america/united-states/kings-county/brooklyn-municipality/new-york/lucali-7b10aa",
+        "accessed": "2026-05-16T23:45:00Z"
       }
     ],
     "promotedTo": null,
@@ -1171,7 +1183,7 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 7 — 6:30 PM Dinner & Izakaya",
     "neighborhood": "Carroll Gardens",
-    "lastResearchedAt": "2026-05-15T22:12:44.382Z"
+    "lastResearchedAt": "2026-05-16T23:48:37.344Z"
   },
   {
     "id": "frankies-457-spuntino-carroll-gardens",
@@ -5451,15 +5463,14 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Cart-service Cantonese dim sum palace in Sunset Park, ~5 min south of Industry City.",
-    "longDesc": "A gold-accented banquet hall on 65th St where steaming carts of har gow, siu mai, cheung fun and turnip cake roll past the table — the closest true cart-service dim sum experience to Industry City. Michelin-listed Cantonese, packed on weekends with Sunset Park families; arrive 10:30-11:00 AM for freshest rounds, carts wind down by 3 PM. Has an indoor parking lot (tight on weekends) plus street parking on 7th Ave.",
+    "desc": "Cart-style Cantonese dim sum a few blocks south of IC — the in-radius default when a Queens drive feels like too much.",
+    "longDesc": "Gold-accented Sunset Park banquet hall where steaming carts of har gow, siu mai, cheung fun and turnip cake roll past your table while waiters ferry trays from the kitchen. Open 9am-11pm daily, with the fresh cart dim sum service running until 3pm — locals advise arriving 10:30-11am to secure a table before the noon peak when wait times stretch to 30+ min. Roughly 8 minutes south of Industry City on 8th Ave, making it the closest legitimate cart dim sum experience to the IC anchor.",
     "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "photo",
       "curious"
     ],
     "dietary": [
@@ -5467,31 +5478,31 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "5 min",
-    "hoursWeekend": "09:00-22:00",
-    "notes": "714 65th St, Brooklyn, NY 11220 — roughly 1.5 mi south of IC down 3rd Ave, ~5 min by car off-peak (Yelp, Michelin). Dim sum carts run morning until ~3 PM with peak fresh rotation at noon (Cinnamon Society). Indoor parking lot + street parking, but lot fills fast on weekend dim sum rush (Yelp). Strong candidate to downgrade Asian Jewels (Flushing, 45+ min) to corpus-only — East Harbor delivers the same cart-service Cantonese format inside the 15-min anchor radius.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "09:00-23:00 (cart dim sum until 15:00)",
+    "notes": "714 65th St, Brooklyn NY 11220, between 7th & 8th Ave in Sunset Park's Chinatown. Cart service is the draw — arrive 10:30-11am on weekends to beat the noon crush (Cinnamon Society). Cash-preferred at older Cantonese banquet halls; confirm card policy on arrival. Michelin-recognized (Michelin Guide). Street parking on 65th St and 8th Ave is workable on weekends but tightens after 11am.",
     "sources": [
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-16T22:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-16T22:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
-        "accessed": "2026-05-16T22:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.opentable.com/r/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-16T22:20:00Z"
+        "url": "https://east-harbor-seafood-palace.com/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:25:01.371Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:42:32.460Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -20050,5 +20061,139 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T23:38:20.792Z"
+  },
+  {
+    "id": "pings-seafood-elmhurst",
+    "name": "Ping's Seafood (Elmhurst) — CLOSED",
+    "desc": "Former Queens Blvd dim sum spot; Yelp confirms permanently closed as of April 2026 — do not route guests here.",
+    "longDesc": "Ping's Seafood at 83-2 Queens Blvd in Elmhurst was once a well-loved cart-style dim sum hall and a logical midpoint between Industry City and Flushing on the Queens Blvd corridor. Yelp's April 2026 update marks the location as CLOSED, and there is no public reopening announcement on the brand's site or Facebook. The sister Ping's at 22 Mott St in Manhattan Chinatown is still operating, but it doesn't satisfy the driving-friendly Queens-corridor brief and offers no unique advantage over closer Sunset Park dim sum.",
+    "url": "https://www.yelp.com/biz/pings-elmhurst",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Permanently closed",
+    "notes": "DO NOT PROMOTE — Yelp listing labeled 'CLOSED — Updated April 2026' at 83-2 Queens Blvd, Elmhurst (Yelp). No reopening notice on Ping's official site pingsnewyork.com, which only lists the 22 Mott St Chinatown branch (pingsnewyork.com). The Chinatown sibling is fine but is a Manhattan visit, not a Queens-corridor driving stop, so it doesn't justify replacing this candidate. Re-route the 'Queens Blvd halfway' slot to Asian Jewels (Flushing) or Lake Pavilion (Bayside) for cart dim sum, or to East Harbor Seafood Palace on 8th Ave Sunset Park (~5 min from IC) if the goal is just great weekend dim sum with parking.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/pings-elmhurst",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://pingsnewyork.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.facebook.com/pingsnyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:40:45.979Z"
+  },
+  {
+    "id": "buvette-west-village",
+    "name": "Buvette",
+    "desc": "Jody Williams' tiny Grove St gastrothèque — all-day French-Italian café with marble bar and tartines.",
+    "longDesc": "Opened 2011 on a quiet West Village corner, Buvette is Chef Jody Williams' original gastrothèque — a 28-seat marble-bar room serving small plates, croque-forestiere tartines, steamed eggs and natural wine from 8am to 2am. It's walk-in only and reliably packed, but as a sister concept to Via Carota (Williams + Rita Sodi) it's a credible backup anchor if Carota's wait spirals — smaller, quirkier, with morning and late-night windows Carota lacks. Pair with a West Village wander; no parking, so plan for a garage or street-park in the lower 10s.",
+    "url": "https://ilovebuvette.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-02:00",
+    "notes": "Manhattan-only justified as a Via Carota backup — same chef (Jody Williams), 2-min walk apart, walk-in only at both, so floating between them de-risks the anchor (source: ilovebuvette.com/eat-drink-newyork-location). 42 Grove St, West Village; drive from IC via Brooklyn-Battery Tunnel ~20-25 min weekend, garage parking on Houston/7th Ave South. All-day menu (morning tartines, afternoon plates, evening pasta + crostini) makes it flexible for an off-peak slot when Carota's line is unworkable (source: yelp.com/biz/buvette-new-york). Cash-friendly bar seating turns over faster than tables.",
+    "sources": [
+      {
+        "url": "https://ilovebuvette.com/",
+        "accessed": "2026-05-16T23:45:00Z"
+      },
+      {
+        "url": "https://ilovebuvette.com/eat-drink-newyork-location",
+        "accessed": "2026-05-16T23:45:00Z"
+      },
+      {
+        "url": "https://ilovebuvette.com/jody-williams-bio",
+        "accessed": "2026-05-16T23:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/buvette-new-york",
+        "accessed": "2026-05-16T23:45:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/buvette-new-york",
+        "accessed": "2026-05-16T23:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T23:44:20.459Z"
+  },
+  {
+    "id": "i-sodi-west-village",
+    "name": "I Sodi",
+    "desc": "Rita Sodi's reservation-only Tuscan dining room on Bleecker & Grove in the West Village",
+    "longDesc": "Founded in 2008 by Florentine chef Rita Sodi (now partnered with Jody Williams of Via Carota and Bar Pisellino), I Sodi is the elegant, reservation-driven sibling in the Sodi/Williams trio. The candlelit room turns out handmade pasta, an iconic 40-layer lasagna, and the much-photographed lemon spaghettini; Sodi and Williams shared the 2019 James Beard Best Chef NYC award. Reservations open on Resy 28 days out and disappear within minutes, but the bar is held for walk-ins early or late in service.",
+    "url": "https://www.isodinyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "west-village",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "17:30-23:00",
+    "notes": "Address 314 Bleecker St at the corner of Grove (relocated from the original Christopher St room) — the team kept the intimate jewel-box feel after the 2022 move (isodinyc.com). Reservations on Resy drop 28 days in advance and are notoriously hard; bar seats are saved for walk-ins and turn early-evening or after ~9:30pm (Bite of the Best). Driving from Industry City takes ~20-25 min via the Brooklyn-Battery Tunnel/Hugh L. Carey; weekend on-street parking on Bleecker/Hudson is brutal — use the Edison ParkFast garage at 99 Morton or 161 Leroy. Pairs naturally with sibling concepts Via Carota (walk-in) and Bar Pisellino (aperitivo) within a 3-block walk.",
+    "sources": [
+      {
+        "url": "https://www.isodinyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/i-sodi",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.biteofthebest.com/i-sodi-west-village-nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://galavante.com/destinations/new-york-city/i-sodi/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/i-sodi/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:46:32.621Z"
   }
 ]

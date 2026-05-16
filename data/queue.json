@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Pings Seafood Elmhurst dim sum",
-    "reason": "Halfway between IC and Flushing on Queens Blvd — better drive-time fit (~25-30 min) if Flushing proves too far",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:57:58.518Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace Sunset Park",
-    "reason": "Same cart-style dim sum experience inside the 10-min IC radius — should be the default if user wants dim sum without the Queens drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:57:58.518Z"
-  },
-  {
-    "topic": "Buvette West Village — Jody Williams' gastrothèque on Grove St",
-    "reason": "Sister concept, smaller and quirkier; viable backup anchor if Via Carota wait is too long",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:00:00.042Z"
-  },
-  {
-    "topic": "I Sodi West Village — Rita Sodi's Tuscan dining room on Christopher St",
-    "reason": "Third in the same family of restaurants; reservation-only so it complements the walk-in Via Carota for planners who book ahead",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:00:00.042Z"
-  },
-  {
-    "topic": "Lucali Carroll Gardens — destination pizza 8 min from IC",
-    "reason": "Brooklyn alternative if user wants to drop the Manhattan trip entirely; equally iconic, much closer to IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:00:00.042Z"
-  },
-  {
     "topic": "Buttermilk Channel Carroll Gardens farm-to-table brunch",
     "reason": "Brooklyn farm-to-table brunch peer in the IC drive cluster — fills the Cookshop slot without leaving Brooklyn",
     "requestedBy": "agent",
@@ -6280,5 +6250,95 @@
     "reason": "8th Ave Brooklyn Chinatown cart dim sum, ~5 min from Industry City — should be the default cart dim sum anchor for IC-based itineraries before reaching to Flushing",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T23:38:20.812Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace Sunset Park 8th Ave dim sum",
+    "reason": "Massive cart-service dim sum hall ~5 min drive from IC with weekend street parking — fills the dim sum slot without leaving Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:40:45.994Z"
+  },
+  {
+    "topic": "Asian Jewels Seafood Restaurant Flushing dim sum",
+    "reason": "True cart dim sum with parking lot, ~30 min from IC via BQE — strongest Queens replacement now that Ping's Elmhurst is closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:40:45.994Z"
+  },
+  {
+    "topic": "Lake Pavilion Bayside dim sum",
+    "reason": "Less-crowded Queens cart dim sum alternative with parking; useful as a Saturday option when Flushing gridlocks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:40:45.994Z"
+  },
+  {
+    "topic": "Pacificana Sunset Park dim sum",
+    "reason": "Other long-running cart-style dim sum hall in Sunset Park Chinatown — direct comparable to East Harbor within the 10-min IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:42:32.476Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park",
+    "reason": "Yunnanese rice noodle counterpoint a few blocks from East Harbor, expands the 8th Ave food crawl options after dim sum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:42:32.476Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself) Manhattan skyline view",
+    "reason": "Natural post-dim-sum walk-it-off stop with a hilltop skyline view, slots into the same micro-itinerary as East Harbor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:42:32.476Z"
+  },
+  {
+    "topic": "I Sodi West Village — Rita Sodi's Tuscan room near Buvette/Carota",
+    "reason": "Completes the Williams-Sodi West Village triangle as a third floating anchor option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:44:20.473Z"
+  },
+  {
+    "topic": "Commerce Inn West Village — Williams/Sodi Shaker-American sibling",
+    "reason": "Same ownership group, larger room, reservations possible — true overflow valve for the Carota cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:44:20.473Z"
+  },
+  {
+    "topic": "Westville Hudson — solid casual West Village fallback with shorter waits",
+    "reason": "Non-Williams option for groups unwilling to walk-in-only gamble",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:44:20.473Z"
+  },
+  {
+    "topic": "Bar Pisellino West Village — Sodi/Williams aperitivo & espresso bar at Grove & Bleecker",
+    "reason": "Completes the trio with Via Carota and I Sodi; walk-in friendly daytime counterpart for planners building a West Village mini-crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:46:32.640Z"
+  },
+  {
+    "topic": "Commerce Inn West Village — Sodi/Williams Shaker-inspired American tavern",
+    "reason": "Fourth sibling in the family; expands the same operator's footprint into a different cuisine for variety on a multi-stop track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:46:32.640Z"
+  },
+  {
+    "topic": "Buvette West Village — Jody Williams' original gastrothèque on Grove St",
+    "reason": "Williams' solo project and the seed of the whole family; rounds out a 'Williams/Sodi pilgrimage' track for foodie users",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:46:32.640Z"
+  },
+  {
+    "topic": "Baby Luc's slice shop Carroll Gardens — Lucali walk-in spinoff",
+    "reason": "Same kitchen lineage, no-wait slice format; perfect fallback if Lucali waitlist is closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:48:37.368Z"
+  },
+  {
+    "topic": "Frankies 457 Court Street Carroll Gardens — Italian garden dining",
+    "reason": "Walkable from Lucali, strong back-garden vibe; pairs as a Carroll Gardens dinner alt",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:48:37.369Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens — sandwich shop",
+    "reason": "Daytime food anchor in the same cluster, expands the Carroll Gardens track beyond dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:48:37.369Z"
   }
 ]
