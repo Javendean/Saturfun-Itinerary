@@ -2368,10 +2368,12 @@
                     <div class="image-composite">
                         ${durationHtml}
                         <div class="eta-badge">${place.eta}</div>
-                        <!-- Generated Artwork background. onerror: break the loop + fall back to a guaranteed-local AI background. Critical: this.onerror=null prevents Chrome's ORB-blocked external fallback from looping forever (was causing 4000+ requests per page load). -->
-                        <img src="${place.generatedAnim}" alt="Generated Aesthetic Backdrop" class="image-generated-layer" onerror="this.onerror=null; this.src='images/abstract_glass_1774058250187.png';">
-                        <!-- Original specific photo. onerror: break the loop + hide so the AI background layer shows through cleanly when a remote CDN photo (yelpcdn / lh3.googleusercontent / squarespace) fails. -->
+                        <!-- Generated Artwork background. Falls back to fallbackGen when place.generatedAnim is empty (most corpus-imported venues). onerror is defense-in-depth: this.onerror=null prevents loops if even the local fallback fails. -->
+                        <img src="${place.generatedAnim || fallbackGen}" alt="Generated Aesthetic Backdrop" class="image-generated-layer" onerror="this.onerror=null; this.src='${fallbackGen}';">
+                        ${place.originalPhoto ? `
+                        <!-- Original specific photo (only rendered when present). onerror hides cleanly so the AI background layer behind shows through. -->
                         <img src="${place.originalPhoto}" alt="${place.name}" class="image-original-layer" loading="lazy" onerror="this.onerror=null; this.style.display='none';">
+                        ` : ''}
                     </div>
                     <div class="px-2">
                         ${metaRailHtml}
