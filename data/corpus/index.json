@@ -7306,41 +7306,49 @@
   {
     "id": "sunken-harbor-club",
     "name": "Sunken Harbor Club",
-    "desc": "Upscale tropical-tiki cocktail lounge tucked above Gage & Tollner in Downtown Brooklyn.",
-    "longDesc": "A second-floor cocktail bar above the landmark Gage & Tollner dining room, helmed by Chief Cocktail Officer Garret Richard with a tropical-leaning, technique-driven menu. The room reads more candlelit fine-dining than dive-tiki — refined glassware, slow-built drinks, 21+ after 7pm. Walk-in only, so come early on weekends or expect a wait at the stairs.",
-    "url": "https://www.sunkenharbor.club/location/new-york/",
+    "desc": "Nautical tiki cocktail den hidden upstairs above Gage & Tollner in Brooklyn Heights",
+    "longDesc": "An intimate 35-seat second-floor bar by St. John Frizell with a shipwreck-meets-yacht-club aesthetic and tiki cocktails treated with fine-dining precision. Walk-ins only, first-come first-served, with a single room of banquettes and bar seats — arrive early on weekends. Fills a romantic, late-night, craft-cocktail slot if Maison Premiere or Leyenda are full.",
+    "url": "https://www.sunkenharbor.club/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
       "romantic",
-      "foodie",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
     "driveFromIC": "14 min",
-    "hoursWeekend": "17:00-24:00",
-    "notes": "Address: 372 Fulton St, 2nd Floor, Brooklyn NY 11201 — one flight up from Gage & Tollner (sunkenharbor.club). Walk-in only, first-come/first-served bar seats and tables (sunkenharbor.club). 21+ after 7pm daily (sunkenharbor.club). Weekday hours 17:00-23:00, Fri-Sat 17:00-24:00 (sunkenharbor.club). ~14 min drive from Industry City via Hamilton Ave / Brooklyn-Queens Greenway; metered street parking is patchy on weekends, but garages around Fulton Mall (e.g., Hoyt St) are within a block. Pairs naturally as a nightcap after a Downtown Brooklyn / Brooklyn Heights dinner stop.",
+    "hoursWeekend": "Fri-Sat 17:00-00:00, Sun 17:00-23:00",
+    "notes": "Above Gage & Tollner at 372 Fulton St — entrance through G&T, then up the stairs (sunkenharbor.club). Walk-in only, 35-person capacity, no standing (sunkenharbor.club/location/new-york). Time Out describes the program as 'tiki with the fine dining treatment' (timeout.com). World's 50 Best lists it among Brooklyn's notable cocktail destinations (theworlds50best.com). Weekend parking is easier on side streets south of Fulton or in the Pierrepont garage; ~14 min drive from Industry City via 3rd Ave.",
     "sources": [
       {
-        "url": "https://www.sunkenharbor.club/location/new-york/",
-        "accessed": "2026-05-16T08:55:00Z"
+        "url": "https://www.sunkenharbor.club/",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/sunken-harbor-club-brooklyn",
-        "accessed": "2026-05-16T08:55:00Z"
+        "url": "https://www.sunkenharbor.club/location/new-york/",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/sunken-harbor-club",
-        "accessed": "2026-05-16T08:55:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunken-harbor-club-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theworlds50best.com/discovery/Establishments/US/Brooklyn/Sunken-Harbor-Club.html",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:58:20.903Z"
+    "lastResearchedAt": "2026-05-16T17:35:24.779Z"
   },
   {
     "id": "midnights-williamsburg",
@@ -10241,9 +10249,9 @@
   },
   {
     "id": "sunset-park-overlook",
-    "name": "Sunset Park Overlook",
-    "desc": "Free Brooklyn hilltop park with panoramic Manhattan skyline + Statue of Liberty sunset views.",
-    "longDesc": "24.5-acre public park on the bluff between 5th and 7th Avenues from 41st to 44th Street — the highest point near 5th Ave & 44th St opens onto a sweeping panorama of Lower Manhattan, the Statue of Liberty, New York Bay, Staten Island and the New Jersey hills. A natural 0.5-mi photo stop after dinner at Yun Nan or anywhere in Industry City, with a free 3-hour parking lot on the park's north side and plenty of grass to linger as the sky goes pink.",
+    "name": "Sunset Park Overlook (41st & 7th)",
+    "desc": "Free hilltop park with unobstructed Manhattan + Statue of Liberty skyline view, ~10 min from IC",
+    "longDesc": "Sunset Park sits atop a 164-foot glacial moraine — the second-highest point in Brooklyn — between 41st-44th Streets and 5th-7th Avenues, offering a panoramic sweep of New York Harbor, Lower Manhattan, the Statue of Liberty, and the hills of Staten Island and New Jersey. The northeast corner at 41st St & 7th Ave is a popular pedestrian entry to the elevated lawn, but the strongest skyline angle is the hilltop near 5th Ave & 44th St. Open 7am-10pm with no gate-close cutoff for casual sunset visits, it's the reliable free fallback when Brooklyn Bridge Park or piers feel too touristed.",
     "url": "https://www.nycgovparks.org/parks/sunset-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10256,78 +10264,74 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "5 min",
-    "hoursWeekend": "06:00-01:00",
-    "notes": "Best vantage is the hilltop at 5th Ave & 44th St — Lower Manhattan skyline, Lady Liberty and the harbor sweep all visible in one frame (decodenyc.com; yourbrooklynguide.com). Park is 24.5 acres between 41st–44th St and 5th–7th Ave (nycgovparks.org). Free parking lot on the north side allows up to 3 hours; street parking is tight on weekends so arrive ~45 min before sunset (prked.com). Standard NYC Parks hours are 6am–1am unless posted otherwise. Pair with Yun Nan Flavour Snack (0.5 mi / ~3 min drive uphill) — natural foodie→photo transition. Bring a layer; the bluff catches harbor wind.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "07:00-22:00",
+    "notes": "Free, no-ticket, no gate-close anxiety — pairs well as a backup overlook on late-sunset evenings when the Brooklyn Bridge Park/Pier 5 lots are full. Park sits on the Harbor Hill terminal moraine, 164 ft elevation, second-highest point in Brooklyn (Wikipedia: Sunset Park (Brooklyn park)). Hours 7am-10pm per NYC Parks (nycgovparks.org/parks/sunset-park). Best skyline composition is from the hilltop near 5th Ave & 44th St; the 41st & 7th corner is the most convenient pedestrian entry from the east. Street parking on 6th/7th Aves is generally findable on weekends; metered lots near the pool fill earlier. Drive from Industry City: ~10 min via 3rd Ave → 39th St → 7th Ave (Google Maps).",
     "sources": [
       {
-        "url": "https://www.nycgovparks.org/parks/sunset-park",
-        "accessed": "2026-05-16T11:10:00Z"
-      },
-      {
-        "url": "https://decodenyc.com/neighborhoods/sunset-park",
-        "accessed": "2026-05-16T11:10:00Z"
-      },
-      {
-        "url": "https://yourbrooklynguide.com/statue-of-liberty-viewpoints/",
-        "accessed": "2026-05-16T11:10:00Z"
-      },
-      {
         "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
-        "accessed": "2026-05-16T11:10:00Z"
+        "accessed": "2026-05-16T17:30:00Z"
       },
       {
-        "url": "https://prked.com/blog/sunset-park-brooklyn-parking-guide",
-        "accessed": "2026-05-16T11:10:00Z"
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-16T17:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
+        "accessed": "2026-05-16T17:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
+        "accessed": "2026-05-16T17:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:11:21.316Z"
+    "lastResearchedAt": "2026-05-16T17:29:13.343Z"
   },
   {
     "id": "bush-terminal-piers-park",
     "name": "Bush Terminal Piers Park",
-    "desc": "Free 22-acre waterfront park with tide pools, swings, and unobstructed Manhattan skyline + Statue of Liberty views.",
-    "longDesc": "A former shipping pier cleaned up and reopened in 2014, this Sunset Park waterfront stretch features engineered tide pools, restored wetlands, two multipurpose fields, and a famous set of swings facing the harbor. Walk the esplanade for unobstructed Lower Manhattan, Statue of Liberty, and Bay Ridge Channel views — golden hour is the move for photos. Functions as a quiet sister beat to Sunset Park when the hill is crowded; same skyline, no climb, plus free parking.",
+    "desc": "Hidden waterfront park with western-facing piers, Statue of Liberty views, and viral swings at golden hour",
+    "longDesc": "A reclaimed industrial waterfront opened in 2014, with a long esplanade past tide ponds and restored wetlands out onto piers that face directly west across the Upper Bay. The far pier puts you closer to the Statue of Liberty and the Manhattan skyline, with iconic harborfront swings that fill up 15-20 min before sunset. Summer hours (May 2 - Sept 30) run 8 a.m.-8 p.m., so it stays open past Green-Wood's 7 p.m. close — covering late-spring and summer sunsets through about 8:30 p.m.",
     "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "chill",
-      "photo",
-      "romantic"
+      "romantic",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "07:00-19:00",
-    "notes": "Enter at 43rd St (waterfront end); two free parking lots open 8am-8pm daily (prked.com). Park itself open 7am-7pm year-round (nycgovparks.org). Engineered tide pools + restored wetland boardwalk; iconic swing-set faces Manhattan skyline (airial.travel). Wide-angle lens recommended for skyline shots; golden hour just before sunset is peak light. Industrial road approach — quiet on weekends, very different vibe from Sunset Park proper.",
+    "duration": "45-75 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "08:00-20:00 (May 2-Sep 30)",
+    "notes": "Entrance at 43rd St & 1st Ave, just south of Industry City — essentially the same waterfront strip (NYC Parks). Western pier exposure gives unobstructed Upper Bay sunsets with Statue of Liberty silhouette and Lower Manhattan skyline (NYC Tourism). The viral harborfront swings are the marquee photo op — arrive 15-20 min ahead of golden hour to claim one (Wanderlog). Free, on-street weekend parking is plentiful on 1st Ave / 43rd St — far quieter than Red Hook or Dumbo waterfront. Closes 8 p.m. in summer, so this fits sunsets later than Green-Wood's 7 p.m. hard close (NYC Parks seasonal schedule).",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T17:30:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T17:30:00Z"
       },
       {
-        "url": "https://prked.com/blog/bush-terminal-piers-park-brooklyn-parking-guide",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://wanderlog.com/place/details/28481/bush-terminal-piers-park",
+        "accessed": "2026-05-16T17:30:00Z"
       },
       {
-        "url": "https://airial.travel/attractions/united-states/bush-terminal-piers-park-brooklyn-qQtBRZbj",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/bush-terminal-park-sunset-park",
+        "accessed": "2026-05-16T17:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:58:04.328Z"
+    "lastResearchedAt": "2026-05-16T17:26:51.648Z"
   },
   {
     "id": "owls-head-park",
@@ -15657,5 +15661,99 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T17:24:39.028Z"
+  },
+  {
+    "id": "green-wood-after-hours",
+    "name": "Green-Wood Cemetery After Hours",
+    "desc": "Ticketed after-dark tours of Brooklyn's 478-acre Victorian cemetery, ending in rare Catacombs access.",
+    "longDesc": "Green-Wood opens after sunset only a few times a year for ticketed programs — Green-Wood After Hours guided night walks (7-9pm), Moonlight Tours on full-moon dates, the spring MoonFest after-hours moon celebration, and immersive Nightfall events with illuminated paths, musicians, and performance artists. Most after-dark programs include rare access to the Catacombs, an underground vault normally closed to the public. The cemetery is a National Historic Landmark, resting place of Basquiat, Bernstein, and Boss Tweed, and sits five minutes from Industry City via 5th Ave.",
+    "url": "https://www.green-wood.com/calendar/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "by event; daytime gates 7:00-19:00, night tours typ. 19:00-21:00",
+    "notes": "Main entrance 500 25th St at 5th Ave; free street parking on weekends along 5th Ave and 25th St. After-hours events are 21+ with valid ID and ticketed (~$45-65) via Eventbrite/Fever; sell out fast around Halloween (Nightfall) and full-moon dates. Confirmed upcoming: Green-Wood After Hours Sat May 16 2026, 7-9pm (source: green-wood.com/calendar). MoonFest 2026 was Fri May 1, 6-11pm — free after-hours moon party (source: Time Out NY). Special-occasion track only: standard daytime visits don't need a ticket but the catacombs and night atmosphere are the unique draw.",
+    "sources": [
+      {
+        "url": "https://www.green-wood.com/calendar/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://feverup.com/m/76074",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/green-wood-cemetery-is-hosting-a-groovy-and-free-after-hours-moon-party-this-spring-032726",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.untappedcities.com/catacombs-green-wood-cemetery-tour/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.bkreader.com/non-profit-community/green-wood-cemeterys-fall-2025-season-brings-music-tours-and-community-traditions-11164686",
+        "accessed": "2026-05-16"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T17:31:23.187Z"
+  },
+  {
+    "id": "the-long-island-bar",
+    "name": "The Long Island Bar",
+    "desc": "Restored 1951 mid-century saloon with timeless classic cocktails by Toby Cecchini on Atlantic Ave.",
+    "longDesc": "A neon-fronted, Art-Deco-trimmed corner bar reopened in 2013 by Cosmopolitan-inventor Toby Cecchini and Joel Tompkins after sitting shuttered since 2007. The menu sticks to clean, exacting classics — the Long Island Gimlet and Pineapple Daiquiri are house signatures — alongside a tight food list anchored by the double-patty burger and fried cheese curds. Ranked #64 on North America's 50 Best Bars 2025; the L-shaped polished-wood bar, leather booths, and humming chrome facade make it one of the most photogenic late-night rooms in brownstone Brooklyn.",
+    "url": "https://www.thelongislandbar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "chill",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "14:00-00:00",
+    "notes": "110 Atlantic Ave, on the Cobble Hill/Brooklyn Heights line (Infatuation review labels it Cobble Hill). Closed Mondays; Tue-Fri 5pm-midnight, Sat-Sun 2pm-midnight (thelongislandbar.com). No dedicated parking — weekend street parking on Henry/Hicks/Clinton south of Atlantic is workable; metered Atlantic Ave spots free after 7pm Sat and all day Sun. Lively/crowded Fri-Sat evenings, no reservations. Pairs naturally with a Carroll Gardens dinner (Frankies 457, Buttermilk Channel) for a S.Brooklyn late-night arc that mirrors the Williamsburg classic-cocktail axis to the north (50best.com, theinfatuation.com).",
+    "sources": [
+      {
+        "url": "https://www.thelongislandbar.com/",
+        "accessed": "2026-05-16T17:30:00Z"
+      },
+      {
+        "url": "https://www.theworlds50best.com/discovery/Establishments/US/New-York/The-Long-Island-Bar.html",
+        "accessed": "2026-05-16T17:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/the-long-island-bar",
+        "accessed": "2026-05-16T17:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-long-island-bar-brooklyn",
+        "accessed": "2026-05-16T17:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/the-long-island-bar",
+        "accessed": "2026-05-16T17:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T17:33:36.613Z"
   }
 ]
