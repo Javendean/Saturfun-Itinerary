@@ -9557,5 +9557,211 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T10:28:51.154Z"
+  },
+  {
+    "id": "burrow-dumbo",
+    "name": "Burrow",
+    "desc": "Hidden DUMBO lobby pastry shop blending French technique with Japanese sensibility — strawberry shortcake, portrait cookies, seasonal cakes",
+    "longDesc": "Tucked inside the lobby of 68 Jay Street in DUMBO, Burrow is pastry chef Ayako Kurokawa's quiet workshop where classic French recipes meet Japanese and American influences. The strawberry shortcake is the signature — light, layered, never cloying — alongside artist-grade portrait cookies and sculptural seasonal cakes. Like Tadaima, it sells out fast and keeps short, idiosyncratic hours, so going early matters.",
+    "url": "https://www.burrow.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "20-30 min",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "Sat 13:00-17:00, closed Sun",
+    "notes": "Premise correction: Burrow is NOT in Industry City — it lives in the lobby of an industrial building at 68 Jay St, DUMBO (behindthescenesnyc.com). Reaching it from IC is a ~17 min drive up the BQE; weekend street parking around Jay/Front is workable mid-morning, harder after noon. Owner Ayako Kurokawa trained in classic French pastry but bakes with Japanese restraint — matcha, yuzu, and seasonal Japanese fruit show up rotationally (burrow.nyc). Saturday-only weekend window: 1-5 PM, and like Tadaima they routinely sell out before close, so don't make this the only backup. Sunday closed — if Tadaima sells out on a Sunday, route to a different alternate instead.",
+    "sources": [
+      {
+        "url": "https://www.burrow.nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.behindthescenesnyc.com/burrow-pastry-shop-in-dumbo/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/burrow-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/72043/hidden-bakery-becomes-pastry-destination-in-dumbo/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:33:08.941Z"
+  },
+  {
+    "id": "nazz-forge",
+    "name": "Nazz Forge",
+    "desc": "Teaching forge inside IC where you swing a hammer on a real anvil — trinkets, knives, swords by the weekend.",
+    "longDesc": "Founded in 2019 by two-time 'Forged in Fire' champion Theo Nazz, this bladesmithing studio runs structured weekend classes — 2-hour trinket sessions for first-timers, 4-hour utility/large knife builds, even sword forging on Sunday afternoons. It's not a drop-in walk-up — you book a seat online — but the small class sizes and live fire make it the most cinematic 'make a thing with your hands' anchor inside Industry City.",
+    "url": "https://www.nazzforge.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "2-4 hr",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 09:00-22:00 (class blocks)",
+    "notes": "Inside IC Building 6, entrance 52 34th St (industrycity.com). Sat: Trinkets 10a-12p, Utility Knife 1-5p, Sm/Med Knife 6-10p. Sun: Trinkets/Engraving 10a-12p, Large Knife & Sword 1-5p, Sm/Med Knife 6-10p (nazzforge.com/class-schedule). Pre-registration required; minimum age 14 with parent. 'Trinkets' (2 hr) is the lowest-commitment slot and the best fit for a makers-track stop.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/visit/explore/nazz-forge/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nazzforge.com/class-schedule",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nazzforge.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:35:10.018Z"
+  },
+  {
+    "id": "brooklyn-creative-reuse",
+    "name": "Brooklyn Creative Reuse",
+    "desc": "Nonprofit reused-materials shop + weekend craft workshops (zines, weaving, collage) inside Industry City.",
+    "longDesc": "Brooklyn Creative Reuse is a nonprofit that rescues art supplies from the landfill and resells them cheaply, while teaching artists run rotating weekend workshops — scrap-fabric weaving, wand-making, hand quilting, zines, collage, upcycled jewelry — using those reclaimed materials. The brick-and-mortar shop opened at Industry City Space C244 in April 2026 and runs Wed–Sun. It's an affordable, hands-on counterweight to a forge or pottery stop on the same IC track, with kid-friendly slots most weekends.",
+    "url": "https://brooklyncreativereuse.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "1.5-3 hr",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Fri-Sun 11:00-18:00 (workshops scheduled Sat 10:00-12:00 and Sun 13:00-16:00 windows)",
+    "notes": "Located at 254 36th Street, Space C244, inside Industry City — same complex as Japan Village, Sahadi's, ICFM (brooklyncreativereuse.org). Workshops booked via Zeffy; sample upcoming weekends include Scrap Fabric Weaving (Sun 1-4pm), Wand-Making with Carousel (Sat 10am-12pm), T-Shirt Yarn (Sat 6-8pm), Upcycled Plastic Earrings (Fri 7-9pm) (brooklyncreativereuse.org/events). Mission focuses on LGBTQIA+, BIPOC, and low-income makers; supplies are donation-priced (brooklynpaper.com). Zine Club is a recurring drop-in for DIY bookmaking. No parking on-site but IC has a paid lot at 32nd-39th Street entrances.",
+    "sources": [
+      {
+        "url": "https://brooklyncreativereuse.org/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyncreativereuse.org/events",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/brooklyn-creative-reuse-opens-sunset-park/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brownstoner.com/brooklyn-life/brooklyn-creative-reuse-open-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:37:15.354Z"
+  },
+  {
+    "id": "bklyn-clay-prospect-heights",
+    "name": "BKLYN CLAY (Prospect Heights)",
+    "desc": "Drop-in wheel-throwing TryDay Night — 2hr beginner session at a large, well-equipped ceramics studio.",
+    "longDesc": "BKLYN CLAY's Prospect Heights flagship at 535 Carlton Ave runs $85, 2-hour TryDay Night beginner wheel-throwing classes (capacity 12, ages 7+, BYO/onsite beer & wine) plus longer Saturday handbuilding workshops 10am–3pm. Instruction-led, no finished take-home piece for TryDay — you trade the keepsake for a relaxed, no-commitment intro at a larger studio than Gowanus' Gasworks. Good fallback when Gasworks' tiny class capacity is booked.",
+    "url": "https://bklynclay.com/tryday-prospect",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "TryDay Fri/Sat 19:30-21:30; Sat workshops 10:00-15:00",
+    "notes": "Task said 'Gowanus' but BKLYN CLAY is in Prospect Heights, not Gowanus — kept as the Gasworks fallback because it's the nearest large-capacity ceramics studio (15-20 min from IC via 4th Ave/Atlantic). TryDay is wheel-throwing with no take-home; Saturday workshops are bookable single sessions with finished pieces (https://bklynclay.com/schedule). Street parking on Carlton + Barclays Center garage 0.4 mi away. Second BKLYN CLAY location is Tribeca, 288 West St — skip for the IC-anchored itinerary.",
+    "sources": [
+      {
+        "url": "https://bklynclay.com/tryday-prospect",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bklynclay.com/schedule",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bklynclay.com/workshops",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.hisawyer.com/providers/bklyn-clay/1099-bklyn-clay",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:40:04.777Z"
+  },
+  {
+    "id": "brooklyn-glass",
+    "name": "Brooklyn Glass",
+    "desc": "Sunday one-day glassblowing workshop near IC — make a paperweight + tumbler from 2100°F molten glass.",
+    "longDesc": "Brooklyn Glass is a 14,000 sq ft hot shop on the Gowanus/Park Slope edge that runs a one-day glassblowing workshop on Sundays 11am–4pm. No experience needed — students gather, blow, color, and shape molten glass to take home a paperweight and a drinking tumbler the same day. The furnace floor itself is the photo op: torches, color rods, and team-driven gathering at 2100°F.",
+    "url": "https://brooklynglass.com/index.php/class/one-day-glass-blowing-workshop/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "5 hours",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sun 11:00-16:00 (workshop); shop open by class schedule",
+    "notes": "142 13th Street, Brooklyn NY 11215 — Gowanus/Park Slope edge, ~10 min drive from Industry City up 3rd Ave (source: brooklynglass.com class page). One-day workshop $285 + booking fee, Sundays only — book ahead, classes cap small. Street parking is generally available on 13th St and surrounding blocks on Sundays; alt-side rules relaxed weekends (source: NYC DOT alt-side). For a 'just watch the furnace' option without committing to a full class, Brooklyn Glass also hosts public open-studio nights and shorter Sat 5–8pm mini sessions on some weekends (source: brooklynglass.com classes index).",
+    "sources": [
+      {
+        "url": "https://brooklynglass.com/index.php/class/one-day-glass-blowing-workshop/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynglass.com/index.php/education/classes/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://coursehorse.com/nyc/classes/art/glass3/introduction-to-glassblowing-daytime-",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:42:05.246Z"
   }
 ]
