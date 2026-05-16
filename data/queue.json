@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Discover venue: felix-roasting-co-nomad (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId felix-roasting-co-nomad",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: stone-street-fidi-walk (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId stone-street-fidi-walk",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: hotel-delmano (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId hotel-delmano",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: moma-ps1-lic (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId moma-ps1-lic",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: joes-shanghai-chinatown (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId joes-shanghai-chinatown",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
     "topic": "Discover venue: tribeca-soho-gallery-walk (referenced by itinerary-candidate)",
     "reason": "candidate stop references unknown venueId tribeca-soho-gallery-walk",
     "requestedBy": "agent",
@@ -1996,5 +1966,95 @@
     "reason": "Contemporary sculpture institution ~15 min walk from Socrates; rounds out an LIC art cluster for the artist-friends cohort",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T09:15:19.009Z"
+  },
+  {
+    "topic": "Re-research existing venue: Felix Roasting Co. Astor Place",
+    "reason": "Sister location in NoHo with different interior — useful alt photo-coffee stop closer to lower Manhattan crossings from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:17:27.703Z"
+  },
+  {
+    "topic": "Best driving-friendly photo-forward coffee in Brooklyn (Williamsburg/Greenpoint)",
+    "reason": "Need Brooklyn-anchored alternatives to a Manhattan exception so itinerary builder has IC-cluster parity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:17:27.703Z"
+  },
+  {
+    "topic": "Devoción Williamsburg roastery cafe",
+    "reason": "Closer to IC, similarly photogenic (skylit greenhouse interior), strong Saturfun 'photo' + 'foodie' overlap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:17:27.703Z"
+  },
+  {
+    "topic": "Ulysses' Folk House Stone Street Irish pub",
+    "reason": "anchor tenant on Stone Street, fills out the FiDi walk cluster with a specific food/drink stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:19:43.808Z"
+  },
+  {
+    "topic": "Fraunces Tavern Pearl Street FiDi historic",
+    "reason": "two blocks from Stone Street, oldest standing structure in Manhattan — natural pairing for a curious/history track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:19:43.808Z"
+  },
+  {
+    "topic": "Brooklyn Bridge pedestrian crossing from FiDi to Dumbo",
+    "reason": "closes a Manhattan→Brooklyn loop from Stone Street back toward Dumbo and the IC drive home",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:19:43.808Z"
+  },
+  {
+    "topic": "Maison Premiere Williamsburg oyster + absinthe bar",
+    "reason": "Sibling-tier raw bar + cocktail venue in same Williamsburg cluster, useful as alt-night swap for Delmano",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:21:28.754Z"
+  },
+  {
+    "topic": "The Four Horsemen Williamsburg natural wine bar",
+    "reason": "Same neighborhood, drivable, complements Delmano's wine-forward program for a Williamsburg evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:21:28.754Z"
+  },
+  {
+    "topic": "Wythe Hotel garage parking Williamsburg",
+    "reason": "Parking anchor referenced in notes; corpus should know reliable weekend parking for the Williamsburg cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:21:28.754Z"
+  },
+  {
+    "topic": "Re-research existing venue: Sculpture Center LIC",
+    "reason": "Another LIC contemporary-art space 5 min from PS1; pairs naturally on the same Queens art loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:23:34.781Z"
+  },
+  {
+    "topic": "Best driving-friendly lunch in Long Island City near MoMA PS1",
+    "reason": "Need a food anchor to justify the LIC detour from Industry City; covers a gap in the Queens corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:23:34.781Z"
+  },
+  {
+    "topic": "Greenpoint coffee with street parking on the LIC return leg",
+    "reason": "Closes the loop back toward IC via the Pulaski Bridge with a curated coffee stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:23:34.781Z"
+  },
+  {
+    "topic": "Best soup dumplings in Sunset Park or Industry City (Brooklyn alternative to Joe's Shanghai)",
+    "reason": "If we can find a strong Brooklyn xiao long bao spot, future itineraries can avoid the Manhattan detour entirely",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:25:38.904Z"
+  },
+  {
+    "topic": "Chrystie Street public parking lot Chinatown weekend rates",
+    "reason": "Parking logistics directly affect whether Joe's Shanghai is itinerary-viable for a driving user",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:25:38.904Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor Doyers Street dim sum",
+    "reason": "Walking-distance Chinatown pairing if itinerary justifies the Manhattan leg with two stops instead of one",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:25:38.904Z"
   }
 ]

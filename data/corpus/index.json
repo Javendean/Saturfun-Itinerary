@@ -7235,8 +7235,8 @@
   {
     "id": "hotel-delmano",
     "name": "Hotel Delmano",
-    "desc": "Tin-ceilinged Williamsburg cocktail room with vintage craft drinks and a small raw bar.",
-    "longDesc": "Opened in 2008 on the corner of Berry and N 9th, Hotel Delmano is a no-sign, pressed-tin, marble-bar speakeasy that helped define Brooklyn's craft cocktail wave. The menu rotates seasonal classics-leaning cocktails alongside oysters and small plates, with a back parlor that fits later-night couples and small groups (timeout.com).",
+    "desc": "Williamsburg speakeasy-style cocktail bar with seasonal drinks, wine, and a raw oyster bar.",
+    "longDesc": "Hotel Delmano is a long-running Williamsburg cocktail destination at the corner of Berry & N 9th, styled like a pre-Prohibition lounge with worn marble, antique mirrors, and tin ceilings. The bar program rotates a seasonal cocktail menu of original recipes alongside a ~100-bottle wine list focused on small artisanal producers, with an exceptional raw bar specializing in seasonal oysters. Cash-free, no reservations for the main bar — arrive early on weekends or grab a parlor seat.",
     "url": "https://hoteldelmano.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7244,32 +7244,32 @@
     "vibe": [
       "romantic",
       "chill",
-      "curious"
+      "foodie"
     ],
     "dietary": [],
-    "priceBand": "$$",
+    "priceBand": "$$$",
     "duration": "60-90 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "Sat 14:00-02:00, Sun 14:00-01:00",
-    "notes": "82 Berry St at N 9th, Williamsburg (yelp.com). No reservations for groups under 6; corner banquette and back parlor are the prized seats. Lower cocktail price tier than Maison Premiere (~$17-19 vs $20+) with similar oysters + classics format, making it a strong Late Night alt within the same drive radius from IC. Weekend street parking on Berry/Wythe is tight after 9pm — Wythe Hotel garage one block north is the reliable fallback.",
+    "notes": "82 Berry St at N 9th, Williamsburg 11249 (hoteldelmano.com). Seasonal cocktails + oyster raw bar; ~100-bottle wine list (hoteldelmano.com/about). Weekend hours per Yelp listing accessed 2026-05-16 (yelp.com/biz/hotel-delmano-brooklyn). Street parking only — tight on Friday/Saturday nights; Wythe Hotel garage 3 blocks away is the reliable fallback. Drive from Industry City via Gowanus Expy → BQE exit Metropolitan, ~18 min off-peak.",
     "sources": [
       {
         "url": "https://hoteldelmano.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/hotel-delmano-brooklyn",
+        "url": "https://hoteldelmano.com/about/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/bars/hotel-delmano",
+        "url": "https://www.yelp.com/biz/hotel-delmano-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T07:49:24.271Z"
+    "lastResearchedAt": "2026-05-16T09:21:28.745Z"
   },
   {
     "id": "sunken-harbor-club",
@@ -8706,5 +8706,160 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T09:15:19.002Z"
+  },
+  {
+    "id": "felix-roasting-co-nomad",
+    "name": "Felix Roasting Co. (NoMad)",
+    "desc": "Late-19th-century-inspired specialty coffee bar with a 500-tile hand-drawn mural and bespoke terrazzo floor.",
+    "longDesc": "Felix Roasting Co.'s flagship at 450 Park Avenue South sits on the NoMad/Midtown South edge and is built as much like an immersive exhibition as a coffee shop. Expect house-roasted espresso, Supermoon Bakehouse pastries, signature lattes and tea service in a Victorian-jewel-box interior that photographs unusually well. A worthwhile Manhattan detour from Industry City when the day calls for a 'photo' anchor stop.",
+    "url": "https://felixroastingco.com/pages/visit-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "photo",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "450 Park Ave S, New York, NY 10016 — NoMad. Manhattan exception justified by uniquely ornate, photo-driven interior (hand-drawn 500-tile mural, custom terrazzo floor) per official site (felixroastingco.com). Weekend parking on Park Ave S / side streets is metered and tight on Saturdays — consider a paid garage off 30th–32nd St. Drive from IC ~22–28 min via Brooklyn-Battery Tunnel weekends (Google Maps).",
+    "sources": [
+      {
+        "url": "https://felixroastingco.com/pages/visit-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/felix-roasting-new-york-4",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlantacoffeeshops.com/blog/visiting-the-magnificent-felix-roasting-co-in-nyc",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:17:27.696Z"
+  },
+  {
+    "id": "stone-street-fidi-walk",
+    "name": "Stone Street Historic District Walk",
+    "desc": "Cobblestone pedestrian-only street in FiDi lined with open-air restaurants, bars, and 17th-century architecture.",
+    "longDesc": "Stone Street is one of NYC's oldest streets — first paved with cobblestones in 1658 under Dutch New Amsterdam — and the eastern two-block stretch between Coenties Alley and Hanover Square is now a pedestrian zone packed with outdoor dining (Wikipedia). On weekends it fills with communal tables under string lights, with restaurants spilling out from restored 19th-century buildings designated as the Stone Street Historic District in 1996. A 30-45 min wander hits Mexican cantinas, Irish pubs (Ulysses'), and historic facades — a high-density photo + food cluster that doesn't exist anywhere in Brooklyn.",
+    "url": "https://www.stonestreetnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "curious",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "11:00-24:00",
+    "notes": "Pedestrian-only east of Coenties Alley; vehicular west block between Whitehall and Broad (Wikipedia). Park at FiDi garages (Battery Pkg / Pier A) — meters are weekend-free in most of FiDi but lot is safer. Drive: Gowanus → Brooklyn-Battery Tunnel → exit at West St (~20 min off-peak from IC, longer with Sunday tunnel traffic). Uniquely Manhattan justification: NYC's oldest cobblestone street, no Brooklyn analog. Pair with a Brooklyn Bridge return walk for a single-half-day combo. (stonestreetnyc.com, en.wikipedia.org)",
+    "sources": [
+      {
+        "url": "https://www.stonestreetnyc.com/",
+        "accessed": "2026-05-16T09:20:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Stone_Street_(Manhattan)",
+        "accessed": "2026-05-16T09:20:00Z"
+      },
+      {
+        "url": "https://www.islands.com/1673197/one-new-york-oldest-stone-street-district-pedestrian-only-cobble-outdoor-food/",
+        "accessed": "2026-05-16T09:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:19:43.799Z"
+  },
+  {
+    "id": "moma-ps1-lic",
+    "name": "MoMA PS1",
+    "desc": "Contemporary art museum in a former Long Island City public school — large-scale installations and weekend programs.",
+    "longDesc": "MoMA PS1 occupies a converted 1893 Romanesque Revival schoolhouse in Long Island City and is one of the oldest and largest US institutions devoted solely to contemporary art. Galleries rotate ambitious installations, video, and emerging-artist surveys across three floors, plus the boiler room and stairwells. Weekends are anchored by the courtyard's Young Architects Program pavilion in summer and the Warm Up music series on select Saturdays.",
+    "url": "https://www.moma.org/ps1/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "12:00-18:00",
+    "notes": "22-25 Jackson Ave, Long Island City, NY 11101. Open Thu-Mon 12-6pm, closed Tue/Wed (moma.org/ps1). $10 general, $5 students/seniors, free for NYC residents with ID. ~22 min from Industry City via BQE; metered street parking on Jackson/46th Ave plus commercial lots near Court Sq. Note: LIC sits in Queens — outside the standard Brooklyn zone list — but mapped to 'greenpoint' as the nearest adjacent neighborhood across Newtown Creek for itinerary clustering. Pairs well with a Greenpoint food stop on the return leg.",
+    "sources": [
+      {
+        "url": "https://www.moma.org/ps1/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.google.com/maps/place/MoMA+PS1/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:23:34.773Z"
+  },
+  {
+    "id": "joes-shanghai-chinatown",
+    "name": "Joe's Shanghai (Chinatown)",
+    "desc": "Iconic Shanghainese counter famous for crab-and-pork soup dumplings (xiao long bao).",
+    "longDesc": "The original Chinatown branch of Joe's Shanghai relocated in December 2019 from its cramped 9 Pell Street townhouse to a larger flagship at 46 Bowery. The xiao long bao — pork or crab-and-pork — remain the destination order: thin-skinned, broth-loaded, and served piping hot. Walk-in friendly with fast turnover; expect a short line on weekends but rarely an event-killer.",
+    "url": "https://www.joeshanghairestaurants.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-23:00",
+    "notes": "Manhattan exception justified: NYC's defining soup-dumpling destination with no Brooklyn equivalent (source: joeshanghairestaurants.com). Address: 46 Bowery, Manhattan — the legacy 9 Pell address closed in 2019 (source: yelp.com/biz/joes-shanghai-new-york-2). Weekend parking is street-only in Chinatown; expect circling — recommend Mullberry/Mott garages or the Chrystie Street public lot. Drive from Industry City via Gowanus + Manhattan Bridge ~20-25 min off-peak.",
+    "sources": [
+      {
+        "url": "https://www.joeshanghairestaurants.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/joes-shanghai-new-york-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://medium.com/@rlsantayana/joes-shanghai-chinatown-manhattan-ny-1f601fc97453",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:25:38.896Z"
   }
 ]
