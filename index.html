@@ -883,6 +883,9 @@
         .schedule-content {
             min-width: 0;
             padding-top: 0.05rem;
+            display: flex;
+            align-items: stretch;
+            gap: 0.5rem;
         }
         .schedule-venue {
             display: flex;
@@ -896,7 +899,8 @@
             text-align: left;
             font-family: inherit;
             color: inherit;
-            width: 100%;
+            flex: 1;
+            min-width: 0;
             border-radius: 4px;
             min-height: 44px;
             transition: background 0.18s ease;
@@ -992,6 +996,61 @@
         .schedule-row[data-row-type="transit"] .schedule-transit .transit-glyph {
             font-size: 0.85rem;
             opacity: 0.75;
+        }
+
+        /* Per-stop directions launcher (Part 1).
+           Sits as a sibling of .schedule-venue so it isn't nested in the button
+           (button-in-button = bad). Fixed 44x44 to satisfy Apple HIG mobile tap. */
+        .schedule-directions {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            width: 44px;
+            min-height: 44px;
+            border-radius: 50%;
+            border: 1px solid var(--accent);
+            color: var(--accent);
+            background: rgba(212, 175, 55, 0.04);
+            text-decoration: none;
+            font-size: 1.1rem;
+            line-height: 1;
+            transition: background 0.18s ease, color 0.18s ease, transform 0.18s ease;
+        }
+        .schedule-directions:hover,
+        .schedule-directions:focus-visible {
+            background: var(--accent);
+            color: var(--bg-color);
+            transform: translateY(-1px);
+        }
+        .schedule-directions:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        /* Full-route CTA (Part 2) — one tap to navigate the whole day in Maps. */
+        .schedule-route-cta {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            background: var(--accent);
+            color: var(--bg-color);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.78rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            padding: 0.55rem 1rem;
+            border-radius: 999px;
+            text-decoration: none;
+            margin-top: 0.6rem;
+            transition: transform 0.18s ease, box-shadow 0.18s ease;
+            align-self: flex-start;
+        }
+        .schedule-route-cta:hover,
+        .schedule-route-cta:focus-visible {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 18px rgba(212, 175, 55, 0.32);
         }
 
         /* ============================================================
@@ -1148,6 +1207,16 @@
             gap: 0.3rem;
             line-height: 1.2;
         }
+        .alts-card-actions {
+            display: flex;
+            gap: 0.4rem;
+            align-items: center;
+            margin-top: 0.5rem;
+        }
+        .alts-card-actions .alts-card-swap {
+            flex: 1;
+            margin-top: 0;
+        }
         .alts-card-swap {
             background: var(--text-main);
             color: #fff;
@@ -1167,6 +1236,26 @@
         .alts-card-swap:hover {
             background: var(--accent);
             color: var(--text-main);
+        }
+        .alts-card-directions {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            border: 1px solid var(--accent);
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 1rem;
+            line-height: 1;
+            flex-shrink: 0;
+            transition: background 0.18s ease, color 0.18s ease;
+        }
+        .alts-card-directions:hover,
+        .alts-card-directions:focus-visible {
+            background: var(--accent);
+            color: var(--bg-color);
         }
         .alts-empty {
             padding: 1.5rem 1.25rem;
@@ -1232,6 +1321,10 @@
             .schedule-venue-name { font-size: 0.94rem; }
             .schedule-venue-desc { font-size: 0.74rem; }
             .schedule-venue-aside .schedule-venue-duration { font-size: 0.68rem; }
+            .schedule-route-cta {
+                width: 100%;
+                justify-content: center;
+            }
             #track-picker.is-track-active .track-picker-intro,
             #track-picker.is-track-active .track-scroll {
                 display: none;
@@ -1321,6 +1414,7 @@
                         <h3 class="schedule-track-name" id="schedule-track-name">—</h3>
                         <p class="schedule-cluster" id="schedule-cluster">—</p>
                         <p class="schedule-meta" id="schedule-meta">—</p>
+                        <a id="schedule-route-cta" class="schedule-route-cta" href="#" target="_blank" rel="noopener" aria-label="Open the full day route in Google Maps" hidden>📍 Open full route in Google Maps</a>
                     </div>
                     <div class="schedule-header-actions">
                         <button type="button" class="schedule-reset" id="schedule-reset" hidden>↻ Reset</button>
@@ -3135,6 +3229,7 @@
         const scheduleMetaEl = document.getElementById('schedule-meta');
         const scheduleResetBtn = document.getElementById('schedule-reset');
         const scheduleClearBtn = document.getElementById('schedule-clear');
+        const scheduleRouteCtaEl = document.getElementById('schedule-route-cta');
 
         const altsBackdrop = document.getElementById('alts-backdrop');
         const altsSheet = document.getElementById('alts-sheet');
@@ -3311,6 +3406,35 @@
             return Object.keys(overrides).length > 0;
         };
 
+        // ---- Directions URL builders -------------------------------------
+        // Per-stop: same format as the option-card "Get Directions" link
+        // (commit 4c9b4ca) so behavior stays consistent. "Brooklyn NY" hint
+        // disambiguates ambiguous venue names (e.g. "Sunset Park").
+        const buildDestinationQuery = (place) => {
+            const zoneText = (place.zone || '').replace(/-/g, ' ');
+            return `${place.name} ${zoneText} Brooklyn NY`.replace(/\s+/g, ' ').trim();
+        };
+        const buildStopDirectionsUrl = (place) => {
+            const q = encodeURIComponent(buildDestinationQuery(place));
+            return `https://www.google.com/maps/dir/?api=1&destination=${q}&travelmode=driving`;
+        };
+        // Full-route: Flushing origin → effective stops as waypoints → Seaford
+        // destination. Google Maps URL API caps at 9 waypoints; every existing
+        // track has ≤9 stops so we just truncate defensively if a future
+        // track ever exceeds it (keeps the CTA functional rather than 404'ing).
+        const buildRouteUrl = (effectiveStops) => {
+            const origin = encodeURIComponent('140-59 Ash Ave, Flushing, NY 11355');
+            const dest = encodeURIComponent('1331 Dale Ct, Seaford, NY 11783');
+            const waypoints = effectiveStops
+                .map(s => placeIndex.get(s.placeId))
+                .filter(Boolean)
+                .map(({ place }) => buildDestinationQuery(place))
+                .slice(0, 9)
+                .map(encodeURIComponent)
+                .join('|');
+            return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&waypoints=${waypoints}&travelmode=driving`;
+        };
+
         // ---- Schedule view render ----------------------------------------
         const renderSchedule = (track) => {
             const effectiveStops = getEffectiveStops(track);
@@ -3324,6 +3448,15 @@
                 : '';
             scheduleMetaEl.innerHTML = `<span class="tight-dot" aria-hidden="true"></span>${escapeHtml(tightLabel)}${modifiedBadge}`;
             scheduleResetBtn.hidden = !modified;
+
+            // Full-route CTA: one tap to navigate the whole day in Maps.
+            // Rendered as a sibling of the existing route-meta line so it
+            // doesn't disrupt the existing schedule-header-actions buttons.
+            const routeUrl = buildRouteUrl(effectiveStops);
+            if (scheduleRouteCtaEl) {
+                scheduleRouteCtaEl.href = routeUrl;
+                scheduleRouteCtaEl.hidden = false;
+            }
 
             // Build rows: morning bookend → for each stop: transit row + venue row → evening bookend.
             const rows = [];
@@ -3421,6 +3554,11 @@
                 const desc = place.desc || place.longDesc || '';
                 const durLabel = row.durationMin ? `${row.durationMin} min stop` : (place.duration || '');
                 const swappedMarker = row.swapped ? '<span class="swapped-marker">Swap</span>' : '';
+                // Per-stop directions: rendered as a sibling of the .schedule-venue
+                // button so we avoid invalid button-in-button nesting. The schedule
+                // click handler uses .closest('.schedule-venue') so the anchor
+                // here doesn't hijack the alternatives-sheet open behavior.
+                const stopDirectionsUrl = buildStopDirectionsUrl(place);
                 return `
                     <li class="schedule-row" data-row-type="venue" data-stop-index="${row.stopIndex}">
                         <div class="schedule-time">${escapeHtml(row.time)}</div>
@@ -3436,6 +3574,7 @@
                                     <span class="schedule-venue-caret" aria-hidden="true">▾</span>
                                 </div>
                             </button>
+                            <a href="${stopDirectionsUrl}" target="_blank" rel="noopener" class="schedule-directions" aria-label="Get driving directions to ${escapeHtml(place.name)}" title="Directions">↗</a>
                         </div>
                     </li>
                 `;
@@ -3538,13 +3677,20 @@
                 altsGrid.innerHTML = alternatives.map(alt => {
                     const img = alt.originalPhoto || alt.generatedAnim || fallbackGen;
                     const transitText = altTransitLabel(alt, prevPlace);
+                    // Per-alt directions so users can preview where an alternative
+                    // sits before swapping. Same URL builder as per-stop links
+                    // for consistency with the option-card pattern.
+                    const altDirectionsUrl = buildStopDirectionsUrl(alt);
                     return `
                         <article class="alts-card">
                             <img class="alts-card-photo" src="${escapeHtml(img)}" alt="${escapeHtml(alt.name)}" loading="lazy" onerror="this.onerror=null; this.src='${escapeHtml(fallbackGen)}';">
                             <div class="alts-card-body">
                                 <p class="alts-card-name">${escapeHtml(alt.name)}</p>
                                 <p class="alts-card-meta">${transitText}</p>
-                                <button type="button" class="alts-card-swap" data-swap-place-id="${escapeHtml(alt.id)}">Swap in</button>
+                                <div class="alts-card-actions">
+                                    <button type="button" class="alts-card-swap" data-swap-place-id="${escapeHtml(alt.id)}">Swap in</button>
+                                    <a href="${altDirectionsUrl}" target="_blank" rel="noopener" class="alts-card-directions" aria-label="Directions to ${escapeHtml(alt.name)}" title="Directions">↗</a>
+                                </div>
                             </div>
                         </article>
                     `;
