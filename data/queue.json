@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Mood Ring Bushwick astrology cocktail bar",
-    "reason": "Walkable from Sultan Room, photo-friendly themed bar, expands the Bushwick late-night options beyond music venues",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:05:55.531Z"
-  },
-  {
-    "topic": "Industry City Food Hall (non-Japan Village vendors) — bagel/coffee/dessert anchors",
-    "reason": "completes the IC anchor picture; gives breakfast/dessert options when Japan Village is mid-day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:07:53.159Z"
-  },
-  {
-    "topic": "Industry City weekend parking deep-dive (2nd Ave lot vs. street vs. validated)",
-    "reason": "every Saturday plan touches this decision; deserves a standalone reference entry",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:07:53.159Z"
-  },
-  {
-    "topic": "Sunset Park 8th Ave (Brooklyn Chinatown) dim sum — 5 min drive from IC",
-    "reason": "natural pair-with for Japan Village days when the group wants two Asian-food stops without re-parking far",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:07:53.159Z"
-  },
-  {
-    "topic": "Frankel's Delicatessen (Greenpoint) — Flushing→BQE alt breakfast first-stop",
-    "reason": "Same 'first sandwich of the day' slot from Queens but at the opposite BQE exit; comparison anchor for routing decisions",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:10:11.929Z"
-  },
-  {
     "topic": "Mazzola Bakery (Carroll Gardens, Henry St) — pair with Court Street Grocers for a single-block morning loop",
     "reason": "Lard bread + pastries 2 blocks from CSG; lets one parking spot anchor two stops",
     "requestedBy": "agent",
@@ -4684,5 +4654,101 @@
     "reason": "Anchors a Bushwick nightlife track alongside Sultan Room; iconic immersive shows pair well with a Turk's Inn dinner",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T18:22:21.466Z"
+  },
+  {
+    "topic": "The Johnson's Bushwick dive bar with jukebox",
+    "reason": "Walkable late-night counterpoint to Mood Ring — gritty dive contrast in the same corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:24:12.513Z"
+  },
+  {
+    "topic": "Birds of a Feather Bushwick Sichuan",
+    "reason": "Pre-bar dinner option near Mood Ring, expands Bushwick food coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:24:12.513Z"
+  },
+  {
+    "topic": "Bossa Nova Civic Club Bushwick dance club",
+    "reason": "Adjacent late-night dance venue, rounds out Bushwick nightlife cluster with Mood Ring + Sultan Room",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:24:12.513Z"
+  },
+  {
+    "topic": "Baolala at Industry City Food Hall",
+    "reason": "Pan-Asian grab-and-go that doubles as the in-hall coffee + tea anchor (Tue-Sun 11-8, per industrycity.com/eat-drink); fills the mid-day coffee slot Bagel Pub can't cover after 3:30PM",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:26:52.487Z"
+  },
+  {
+    "topic": "Panya Bakery at Industry City",
+    "reason": "Japanese-style bakery inside IC (Wed-Sun 8-4) — dessert/snack anchor that complements Japan Village without duplicating it",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:26:52.487Z"
+  },
+  {
+    "topic": "One Girl Cookies at Industry City",
+    "reason": "Glass-walled production bakery at IC; established Brooklyn dessert name and the most photogenic sweets stop on campus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:26:52.487Z"
+  },
+  {
+    "topic": "Devoción coffee Williamsburg flagship",
+    "reason": "If user wants a destination third-wave coffee anchor outside IC, the Williamsburg roastery is ~15 min drive and a known photo/foodie venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:26:52.487Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park free lot (43rd St & 1st Ave) as IC overflow + waterfront walk",
+    "reason": "Adjacent free lot 8 min walk from IC south end; doubles as a photo/scenic stop, expanding the IC cluster southward",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:29:26.681Z"
+  },
+  {
+    "topic": "R train Sunset Park-36 St station walk-up access to Industry City",
+    "reason": "Transit fallback entry — useful when out-of-town friends join without a car, or when the lot is full during peak events",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:29:26.682Z"
+  },
+  {
+    "topic": "Liberty View Industrial Plaza garage (850 3rd Ave) weekend rates and walk to IC",
+    "reason": "Closest commercial overflow if IC's own lot is at capacity during Markets For Makers / Holiday Shops weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:29:26.682Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace (714 65th St) — largest Sunset Park dim sum hall with weekend cart service",
+    "reason": "alternate bigger-group anchor when Pacificana waits get long; same 8th Ave corridor, ~7 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:31:19.907Z"
+  },
+  {
+    "topic": "Park Asia (6521 8th Ave) — purple-chair dim sum hall with walking soup stations",
+    "reason": "photo-vibe variant in same zone; floor-to-ceiling windows favor visual itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:31:19.907Z"
+  },
+  {
+    "topic": "Bamboo Garden (6409 8th Ave) — roast meats + dim sum carts",
+    "reason": "third Sunset Park dim sum option to round out the corpus; specializes in roast duck/pork for non-cart cravings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:31:19.907Z"
+  },
+  {
+    "topic": "Peter Pan Donut & Pastry Shop (Greenpoint) — classic post-Frankel's sugar stop",
+    "reason": "Anchors a Greenpoint breakfast pairing two blocks away on Manhattan Ave; expands a Greenpoint-track corpus the router can chain after Frankel's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:33:26.964Z"
+  },
+  {
+    "topic": "Karczma (Greenpoint Polish lunch) — for tracks that start at Frankel's and need a savory midday anchor",
+    "reason": "Greenpoint zone currently thin on non-breakfast picks; Polish pierogi/kielbasa diversifies vibe within the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:33:26.964Z"
+  },
+  {
+    "topic": "WORD Bookstore (Greenpoint browse, 126 Franklin St) — walkable cool-down after sandwich line",
+    "reason": "Adds a 'curious/chill' indoor option inside the same 10-min walk radius so Greenpoint tracks aren't food-only",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:33:26.964Z"
   }
 ]
