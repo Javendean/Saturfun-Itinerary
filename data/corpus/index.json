@@ -774,16 +774,16 @@
   {
     "id": "smorgasburg-williamsburg-saturday-only-williamsburg",
     "name": "Smorgasburg Williamsburg (Saturday-only)",
-    "desc": "Saturdays only Apr-Oct, 11 AM-6 PM at Marsha P",
-    "longDesc": "Saturdays only Apr-Oct, 11 AM-6 PM at Marsha P. Johnson State Park, 90 Kent Ave; ~75 vendors, the actual Brooklyn Saturday institution",
+    "desc": "Sat 11-6 Apr-Oct at Marsha P. Johnson State Park; ~70 vendors; the Brooklyn Saturday food institution",
+    "longDesc": "Smorgasburg's flagship Williamsburg market runs Saturdays 11 AM-6 PM, April through October, at Marsha P. Johnson State Park (90 Kent Ave). The 2026 season launched April 4 with 70+ vendors spanning every dietary lane (vegan, halal, gluten-free all well represented). From a Flushing origin it's closer than Industry City — flip your Saturday: eat first, then drive south to IC.",
     "url": "https://www.smorgasburg.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "foodie",
-      "social",
-      "photo"
+      "photo",
+      "curious"
     ],
     "dietary": [
       "vegetarian",
@@ -794,12 +794,24 @@
     "priceBand": "$$",
     "duration": "1.5-2 hr",
     "driveFromIC": "16 min drive",
-    "hoursWeekend": null,
-    "notes": "Outdoor only — weather contingent. Could replace lunch entirely.",
+    "hoursWeekend": "Sat 11:00-18:00 (Apr-Oct only; closed Sundays at this location)",
+    "notes": "Origin-shift insight: from Flushing (140-59 Ash Ave), Smorgasburg is ~20 min via LIE west → BQE south → Kosciuszko Bridge → Metropolitan Ave exit, vs ~32 min to IC via Grand Central Pkwy → BQE west (source: prior corpus IC entry + Saturday BQE traffic confirmed lighter pre-10 AM per Rubenstein traffic analysis). This means a Flushing-origin Saturday should anchor at Smorgasburg first (arrive 10:45 for the 11 AM open, ~25 min from Flushing), then drive south to IC (~16 min) rather than the reverse. Parking: Kent Ave + Wythe Ave have metered street spots; arrive before 11 to grab them. Outdoor only — weather contingent. Could replace lunch entirely. 2026 season confirmed (source: Time Out NY 2026 guide, Smorgasburg.com).",
     "sources": [
       {
-        "url": "C:\\tmp\\saturfun-content-research.md",
-        "accessed": "2026-05-15T22:12:44.369Z"
+        "url": "https://www.smorgasburg.com/",
+        "accessed": "2026-05-16T08:10:00.000Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/smorgasburg-guide",
+        "accessed": "2026-05-16T08:10:00.000Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/now-in-bklyn/smorgasburg-2026",
+        "accessed": "2026-05-16T08:10:00.000Z"
+      },
+      {
+        "url": "https://www.rubensteinandrynecki.com/blog/2024/02/safest-time-to-drive/",
+        "accessed": "2026-05-16T08:10:00.000Z"
       }
     ],
     "promotedTo": null,
@@ -809,7 +821,9 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 5 — 3:30 PM Gaming/Active",
     "neighborhood": "Williamsburg",
-    "lastResearchedAt": "2026-05-15T22:12:44.382Z"
+    "lastResearchedAt": "2026-05-16T08:13:00.363Z",
+    "driveFromFlushing": "20 min (Sat 10:30 AM, LIE → BQE south → Kosciuszko Bridge → Metropolitan Ave; 25-28 min if leaving after 11:00)",
+    "parkingNotes": "Kent Ave + Wythe Ave metered street parking; arrive before 11 AM to grab a spot near the park entrance. Free parking on N 8th-N 12th cross streets if you walk 3-5 min."
   },
   {
     "id": "public-records-gowanus",
@@ -7597,5 +7611,186 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T08:07:53.153Z"
+  },
+  {
+    "id": "court-street-grocers",
+    "name": "Court Street Grocers",
+    "desc": "Carroll Gardens sandwich landmark — house-cured meats on Caputo's seeded hoagies; a breakfast-first-stop staple.",
+    "longDesc": "The flagship of Brooklyn's modern sandwich canon at 485 Court St, with bread sourced from Balthazar and Caputo's and meats house-cured or hand-sliced in-shop. Order-counter only, mostly takeout (a few stools); the Turkish Delight (turkey, muenster, slaw, come-back sauce on rye) and the Uncle Grandpa are the signatures. Open daily 8am–5pm, so it works as a first-stop breakfast/lunch grab before driving deeper into Carroll Gardens, Red Hook, or Cobble Hill.",
+    "url": "https://www.courtstreetgrocers.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "driveFromFlushing": "30-35 min via Whitestone Expwy → GCP → BQE (I-278 W) → Hamilton Ave exit, then Court St north; weekend mornings before 10am closer to 28 min, midday Saturday can stretch to 40-45 min if BQE is backed up at the Kosciuszko or Williamsburg approach",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "Parking: no lot; street-only. Court St itself is metered Mon–Sat (free Sun) and turns over fast at lunch — better odds on side streets (President, Carroll, 1st/2nd/3rd Place, Luquer) which are residential and free on Sundays with alternate-side suspended. Weekend mornings before 10am are easiest; Saturday 12–2pm peak is the hardest window (NY Food Guy notes the Sunday brunch family rush). Pickup-friendly: order online (order.online) and double-park briefly on Court if a spot doesn't open. Drive-in from Flushing pairs naturally with continuing to Red Hook (Pioneer Works, Valentino Pier) or Smith St browsing afterward.",
+    "sources": [
+      {
+        "url": "https://www.courtstreetgrocers.com/locations",
+        "accessed": "2026-05-16T08:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
+        "accessed": "2026-05-16T08:10:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
+        "accessed": "2026-05-16T08:10:00Z"
+      },
+      {
+        "url": "https://nycfoodguy.com/2011/10/11/court-street-grocers/",
+        "accessed": "2026-05-16T08:10:00Z"
+      },
+      {
+        "url": "https://www.rubensteinandrynecki.com/blog/2024/02/safest-time-to-drive/",
+        "accessed": "2026-05-16T08:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T08:10:11.923Z"
+  },
+  {
+    "id": "socrates-sculpture-park",
+    "name": "Socrates Sculpture Park",
+    "desc": "Free 5-acre East River sculpture park with rotating outdoor commissions; pairs with Noguchi next door.",
+    "longDesc": "A community-engaged NYC public park at 32-01 Vernon Blvd in LIC, dedicated to producing and presenting large-scale public art on a 5-acre waterfront site facing Roosevelt Island and Manhattan. Three rotating visual-arts programs run yearly — the Spring/Summer Exhibition, the Socrates Annual fellowship, and the Broadway Billboard series — so the work changes every visit. Free admission, open 9am to sunset 365 days, and one block north of the Noguchi Museum, making it an easy curious+photo pairing.",
+    "url": "https://socratessculpturepark.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "09:00-sunset",
+    "notes": "Free admission, no tickets needed (socratessculpturepark.org). No on-site parking except one ADA spot at Vernon Blvd/Broadway; street parking around the park and a small public lot on 33rd Rd at Vernon Blvd next to Rainey Park (socratessculpturepark.org/visit/access-and-facilities). Best paired with Noguchi Museum one block south for a curious+photo LIC afternoon. Drive from IC: BQE north → Pulaski Bridge → Vernon Blvd, ~20-22 min off-peak weekend.",
+    "sources": [
+      {
+        "url": "https://socratessculpturepark.org/visit/directions-and-hours/",
+        "accessed": "2026-05-16T08:10:00Z"
+      },
+      {
+        "url": "https://socratessculpturepark.org/visit/access-and-facilities/",
+        "accessed": "2026-05-16T08:10:00Z"
+      },
+      {
+        "url": "https://socratessculpturepark.org/exhibitions/about/",
+        "accessed": "2026-05-16T08:10:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/socrates-sculpture-park",
+        "accessed": "2026-05-16T08:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:14:50.355Z"
+  },
+  {
+    "id": "casa-enrique-lic",
+    "name": "Casa Enrique",
+    "desc": "LIC's flagship Mexican from Chiapas-born chef Cosme Aguilar — held a Michelin star 2014-2023, still a Michelin Guide pick.",
+    "longDesc": "Chef Cosme Aguilar's regional Mexican (heavy on Chiapas roots) sits on a quiet LIC side street and earned NYC's first-ever Michelin star for a Mexican kitchen in 2014, holding it through 2022. The star was dropped in the 2023 guide but the restaurant remains a Michelin Guide-listed favorite for dishes like enchiladas de mole de Piaxtla, pollo al carbón, and the crispy frijoles tostados — the bar program leans hard into mezcal and tequila flights. Brunch service Sat-Sun from 11am makes it viable as a late-lunch driving-track anchor, not just a dinner-only stop.",
+    "url": "https://casaenriquelic.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "gluten-free",
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 11:00-22:30, Sun 11:00-22:15",
+    "notes": "Address: 5-48 49th Ave, LIC NY 11101, just off Vernon Blvd in Hunters Point (yelp.com). Earned Michelin star 2014 — held through 2022, removed 2023, but kitchen and chef unchanged and it remains a Michelin Guide entry (guide.michelin.com). Reservations on Resy and OpenTable; weekend brunch + dinner both available so it slots into either a late-lunch or dinner-track itinerary. Street parking + nearby municipal lots on 49th Ave; ~25 min drive from Industry City via BQE → Pulaski Bridge. Geographic zone tagged 'greenpoint' since LIC sits directly across Newtown Creek (closest enum option — Saturfun zones don't yet include Queens).",
+    "sources": [
+      {
+        "url": "https://casaenriquelic.com/",
+        "accessed": "2026-05-16T08:15:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/casa-enrique",
+        "accessed": "2026-05-16T08:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/casa-enrique-long-island-city",
+        "accessed": "2026-05-16T08:15:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/casa-enrique",
+        "accessed": "2026-05-16T08:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:16:51.376Z"
+  },
+  {
+    "id": "dutch-kills-lic",
+    "name": "Dutch Kills",
+    "desc": "Dim, wood-booth speakeasy serving Milk & Honey-pedigree cocktails on hand-cut ice in LIC",
+    "longDesc": "Sasha Petraske-lineage cocktail bar tucked under the 7-train viaduct on Jackson Ave, with high-backed wooden booths, candlelight, and a back-bar focused on classics built on hand-chiseled ice. No reservations, no menu in the traditional sense — bartenders ask what you're in the mood for. The room is intentionally dark and quiet, which is exactly why it works as a late-night LIC romantic anchor after dinner at Casa Enrique or M. Wells Steakhouse.",
+    "url": "https://www.dutchkillsbar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "romantic",
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "17:00-03:00",
+    "notes": "27-24 Jackson Ave, Long Island City NY 11101 — closest cross street Queens Plaza South, ~3 blocks from Queensboro Plaza N/W/7 (dutchkillsbar.com). Fri/Sat 5PM-3AM (dutchkillsbar.com/location). Cash- and card-friendly; bartender's-choice culture means specify base spirit + sweet/sour/boozy/bitter axis. Weekend street parking on Jackson Ave / Crescent St is realistic after ~7pm; metered until 10pm. Adjacent walk-in 'Debbie's' room operates Fri/Sat as overflow seating. From Industry City: Gowanus Expy → BQE N → Pulaski Bridge → Jackson Ave; budget 25-30 min if leaving IC between 6-8pm Saturday.",
+    "sources": [
+      {
+        "url": "https://www.dutchkillsbar.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.dutchkillsbar.com/location/dutch-kills/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/dutch-kills-long-island-city",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/dutch-kills",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:19:03.548Z"
   }
 ]

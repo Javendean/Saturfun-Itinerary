@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Re-research existing venue: Court Street Grocers (Carroll Gardens) — add driveFromFlushing + parking notes",
-    "reason": "common breakfast first-stop; BQE→Atlantic Ave route from Flushing changes ETA meaningfully vs IC-relative number",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:55:22.859Z"
-  },
-  {
-    "topic": "Batch re-research: all Williamsburg corpus entries (Devoción, Smorgasburg, Domino Park, etc.) for driveFromFlushing — natural Pulaski/Kosciuszko crossing makes them closer from Flushing than from IC",
-    "reason": "WBurg shifts from 'far-from-IC' to 'closer-than-IC' under Flushing origin; re-ranking unlocks new itinerary shapes",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:55:22.859Z"
-  },
-  {
-    "topic": "Socrates Sculpture Park LIC",
-    "reason": "Free 5-acre waterfront sculpture park one block from Noguchi — natural pairing for a curious+photo afternoon, and fills the under-represented LIC outdoor-art bucket",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:57:35.180Z"
-  },
-  {
-    "topic": "Casa Enrique LIC Michelin Mexican",
-    "reason": "Only Mexican restaurant in NYC with a Michelin star, anchors LIC as a serious dinner-track stop after museum-hopping",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:57:35.180Z"
-  },
-  {
-    "topic": "Dutch Kills cocktail bar LIC",
-    "reason": "Influential pre-Prohibition-style cocktail bar a few blocks from Queensboro Plaza — fills the LIC romantic/foodie drinks slot the corpus currently lacks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:57:35.180Z"
-  },
-  {
     "topic": "Socrates Sculpture Park (Vernon Blvd, LIC)",
     "reason": "Free 9am–sunset waterfront sculpture park 8 min south of Bohemian Hall — natural pre-dinner pairing and a strong photo-vibe anchor NW Queens currently lacks",
     "requestedBy": "agent",
@@ -1672,5 +1642,95 @@
     "reason": "natural pair-with for Japan Village days when the group wants two Asian-food stops without re-parking far",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T08:07:53.159Z"
+  },
+  {
+    "topic": "Frankel's Delicatessen (Greenpoint) — Flushing→BQE alt breakfast first-stop",
+    "reason": "Same 'first sandwich of the day' slot from Queens but at the opposite BQE exit; comparison anchor for routing decisions",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:10:11.929Z"
+  },
+  {
+    "topic": "Mazzola Bakery (Carroll Gardens, Henry St) — pair with Court Street Grocers for a single-block morning loop",
+    "reason": "Lard bread + pastries 2 blocks from CSG; lets one parking spot anchor two stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:10:11.929Z"
+  },
+  {
+    "topic": "Hamilton Ave / Lorraine St BQE exit parking reality for Red Hook→Carroll Gardens transitions",
+    "reason": "Validates the Flushing→Court St routing assumption used in driveFromFlushing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:10:11.929Z"
+  },
+  {
+    "topic": "Re-research existing venue: Domino Park — add driveFromFlushing field (~22 min via Kosciuszko, walkable from Smorgasburg)",
+    "reason": "Pairs naturally with Smorgasburg as a 10-min waterfront walk after eating; same Flushing-origin re-ranking applies",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:13:00.369Z"
+  },
+  {
+    "topic": "Re-research existing venue: Devoción Williamsburg flagship coffee — add to corpus + driveFromFlushing",
+    "reason": "User explicitly named Devoción in the batch list but it's currently missing from the corpus; classic Williamsburg coffee anchor for pre-Smorgasburg warmup",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:13:00.369Z"
+  },
+  {
+    "topic": "Re-research existing venue: Maison Premiere — add driveFromFlushing (~22 min) and confirm weekend brunch oysters",
+    "reason": "Romantic-vibe complement to Smorgasburg-foodie; same Williamsburg cluster, becomes viable as a Flushing-origin afternoon stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:13:00.369Z"
+  },
+  {
+    "topic": "Rainey Park LIC waterfront promenade",
+    "reason": "Adjacent green space next to Socrates — extends the LIC waterfront walk for photo/chill vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:14:50.362Z"
+  },
+  {
+    "topic": "Mar's LIC Vernon Boulevard seafood lunch",
+    "reason": "Walkable lunch pairing after Socrates+Noguchi to complete an LIC half-day arc",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:14:50.362Z"
+  },
+  {
+    "topic": "SculptureCenter LIC contemporary art",
+    "reason": "Third LIC art venue (with Noguchi + Socrates) to build a curious-vibe trio in the under-represented LIC bucket",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:14:50.362Z"
+  },
+  {
+    "topic": "Adda Indian Canteen LIC",
+    "reason": "Another Queens Michelin-Guide ethnic standout walking distance from Casa Enrique — pairs as an LIC dinner alternative in the same drive cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:16:51.386Z"
+  },
+  {
+    "topic": "Sek'end Sun LIC rooftop bar",
+    "reason": "Post-dinner drinks within 5-min walk of Casa Enrique with Manhattan-skyline view — completes an LIC dinner-track evening",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:16:51.386Z"
+  },
+  {
+    "topic": "MoMA PS1 Long Island City",
+    "reason": "Daytime cultural anchor 8 min from Casa Enrique — builds a credible LIC museum→dinner track that justifies the cross-borough drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:16:51.386Z"
+  },
+  {
+    "topic": "Donna cocktail bar Williamsburg",
+    "reason": "Leandro Feal's Cuban-Latin-leaning cocktail room — fills a Williamsburg romantic-drinks slot and pairs naturally with Dutch Kills as a 'serious cocktails' axis",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:19:03.554Z"
+  },
+  {
+    "topic": "The Long Island Bar Cobble Hill Toby Cecchini",
+    "reason": "Toby Cecchini classic-revival cocktails inside a preserved 1950s diner — Cobble Hill is ~15 min from IC and the corpus lacks a Cobble Hill drinks anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:19:03.554Z"
+  },
+  {
+    "topic": "Sunken Harbor Club Brooklyn Heights tiki",
+    "reason": "Tropical/tiki cocktail program above Gage & Tollner — gives the corpus a non-speakeasy drinks vibe within 15 min of IC for variety against Dutch Kills",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:19:03.554Z"
   }
 ]
