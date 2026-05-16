@@ -7508,42 +7508,53 @@
   {
     "id": "union-hall-park-slope",
     "name": "Union Hall",
-    "desc": "Park Slope warehouse-turned-bar with indoor bocce upstairs and a nightly comedy/music basement.",
-    "longDesc": "Union Hall is a 5,000 sq ft Park Slope landmark with cozy firesides, a library nook, and two indoor bocce courts on the main floor, plus a downstairs performance room hosting comedy and live music seven nights a week. The basement is smaller and more intimate than Littlefield — mixed seating/standing, accessed via one flight of stairs — making it a strong sibling pairing for late-night programming. Sister venue to Littlefield in Gowanus, roughly 10-12 minutes from Industry City by car.",
+    "desc": "Park Slope bar with two free indoor bocce courts upstairs and a 7-nights-a-week basement comedy/music room.",
+    "longDesc": "A 5,000 sq ft converted-warehouse bar on Union St with a library-lounge feel, fireplaces, and two full indoor bocce courts that are free to play on a first-come, first-served basis (strictly 21+). One flight down, the basement venue runs stand-up, indie comedy showcases, and live music every night of the week, usually with a ~$10-15 cover. The combination makes it a one-stop 'active + chill + late' anchor for a Park Slope track segment without leaving the building.",
     "url": "https://unionhallny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
+      "active",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
-    "duration": "90-120 min",
+    "duration": "60-120 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Fri 4pm-4am, Sat 1pm-4am, Sun 1pm-2am",
-    "notes": "702 Union St between 5th/6th Ave (unionhallny.com/info). Basement room is mixed seating/standing — arrive early for seats. Comedy + music 7 nights/week; tickets via Eventbrite. Kitchen serves until midnight Fri/Sat. Street parking in Park Slope is tough on weekends; nearby garages on 4th Ave per Parkopedia. Sibling venue to Littlefield, so a Littlefield→Union Hall double-header is plausible.",
+    "hoursWeekend": "Sat 13:00-04:00, Sun 13:00-02:00",
+    "notes": "Bocce: 2 indoor courts, free, walk-up only, 21+ at all times; courts close during scheduled league hours so weekend afternoons are the safest window (unionhallny.com/info). Basement room: stairs from main bar, comedy/music 7 nights/week — ticketed via Eventbrite (eventbrite.com/o/union-hall). Address 702 Union St, Brooklyn 11215; some street parking on 5th Ave side, paid lots ~0.3 mi at 302 2nd St (brooklyn-theater.com parking). From Industry City: up 4th Ave to Union St, ~2.5 mi / 10-15 min weekend traffic. Best slot in a track: 5-8pm pre-dinner bocce + drinks, or late-night basement show after a Park Slope dinner.",
     "sources": [
       {
         "url": "https://unionhallny.com/info",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T19:40:00Z"
       },
       {
         "url": "https://unionhallny.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T19:40:00Z"
       },
       {
-        "url": "https://en.parkopedia.com/parking/bar/union-hall-brooklyn/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/union-hall-brooklyn",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/union-hall1/",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://www.brooklyn-theater.com/venues/union-hall/parking",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://www.eventbrite.com/o/union-hall-17899496497",
+        "accessed": "2026-05-16T19:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:01:44.601Z"
+    "lastResearchedAt": "2026-05-16T19:44:28.380Z"
   },
   {
     "id": "the-bell-house",
@@ -17152,5 +17163,182 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T19:33:56.075Z"
+  },
+  {
+    "id": "lefferts-historic-house",
+    "name": "Lefferts Historic House",
+    "desc": "1783 Dutch Colonial farmhouse in Prospect Park — free, photogenic 30-min curiosity stop",
+    "longDesc": "A rare surviving Dutch Colonial farmhouse built c. 1783 by Peter Lefferts, moved into Prospect Park's Children's Corner in 1918 to save it from demolition. Reopens for the 2026 season Thursday May 14 with 'The Shirley Chisholm Way: Brooklyn's Blueprint for Change' (through Nov 15); weekends bring a working garden, indigenous-history exhibits, and hands-on demos like butter churning and flint-and-steel fire making. Admission is a $3 suggested donation, making it an easy, low-commitment add-on between BBG and Prospect Heights food stops.",
+    "url": "https://www.prospectpark.org/visit-the-park/places-to-go/lefferts-historic-house/",
+    "photoUrl": "https://www.prospectpark.org/wp-content/uploads/2023/08/RS24648_DSC02000-1024x683.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Thu-Sun 12:00-17:00 (seasonal; Jul-Aug until 18:00; closed winter, reopens spring 2026)",
+    "notes": "Located at Prospect Park's Children's Corner inside the Willink entrance (Ocean Ave + Flatbush Ave + Empire Blvd) — 5-min walk from Brooklyn Botanic Garden, so pairs naturally with a BBG/Crown Heights track (prospectpark.org). 2026 season opener May 14: Shirley Chisholm exhibit runs through Nov 15 (brooklyneagle.com). $3 suggested donation; jointly operated by Prospect Park Alliance + Historic House Trust (historichousetrust.org). No dedicated lot — use Empire Blvd or Ocean Ave street parking on weekends, or park near BBG and walk over.",
+    "sources": [
+      {
+        "url": "https://www.prospectpark.org/visit-the-park/places-to-go/lefferts-historic-house/",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lefferts_Historic_House",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://historichousetrust.org/houses/lefferts-historic-house-museum/",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/386210/lefferts-historic-house-kicks-off-2026-programming/",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/prospect-park/facilities/historichouses",
+        "accessed": "2026-05-16T19:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T19:35:57.666Z"
+  },
+  {
+    "id": "new-leaf-restaurant-fort-tryon",
+    "name": "New Leaf Restaurant & Bar",
+    "desc": "Historic 1930s fieldstone cottage in Fort Tryon Park serving contemporary American — on-site to the Cloisters.",
+    "longDesc": "Set inside a restored Olmsted-era stone cottage steps from The Met Cloisters, New Leaf serves casual-elegant contemporary American with a garden patio for weekend brunch. Proceeds from the restaurant support the New York Restoration Project, which maintains Fort Tryon Park. It's the only sit-down option inside the park itself, letting a Cloisters visit unfold without re-parking.",
+    "url": "https://thenewleafcafe.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-90 min",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "Sat-Sun brunch 10:00-15:30; dinner 18:00-22:00",
+    "notes": "Manhattan exception — paired with a Cloisters day trip rather than the IC 15-min cluster (forttryonparktrust.org). Free parking on-site and around Margaret Corbin Circle (forttryonparktrust.org/visit-and-park-map/getting-here). Drive from IC: Gowanus → Battery Tunnel → West Side Hwy → Henry Hudson Pkwy to exit 14/Fort Tryon, ~35-45 min off-peak. Reservations recommended for weekend brunch on the patio (opentable.com). Yelp shows a stale 'closed' tag — official site and OpenTable confirm active 2026 service.",
+    "sources": [
+      {
+        "url": "https://thenewleafcafe.com/directions/",
+        "accessed": "2026-05-16T19:45:00Z"
+      },
+      {
+        "url": "https://thenewleafcafe.com/menus/",
+        "accessed": "2026-05-16T19:45:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/new-leaf-restaurant-and-bar-new-york",
+        "accessed": "2026-05-16T19:45:00Z"
+      },
+      {
+        "url": "https://www.forttryonparktrust.org/sites/the-new-leaf-restaurant-and-bar/",
+        "accessed": "2026-05-16T19:45:00Z"
+      },
+      {
+        "url": "https://www.forttryonparktrust.org/visit-and-park-map/getting-here/",
+        "accessed": "2026-05-16T19:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:38:09.220Z"
+  },
+  {
+    "id": "dyckman-farmhouse-museum",
+    "name": "Dyckman Farmhouse Museum",
+    "desc": "1784 Dutch Colonial farmhouse — last of its kind in Manhattan; $1 admission, Saturday only",
+    "longDesc": "Built c. 1784 by William Dyckman, this is the only remaining Dutch Colonial farmhouse in Manhattan, sitting on a small green lot at Broadway and 204th in Inwood (dyckmanfarmhouse.org). The interior is furnished as a working-family farmhouse with hearth kitchen, parlor, bedrooms, and a reconstructed Hessian hut and smokehouse out back. At $1 admission and ~45 minutes to tour, it pairs naturally with The Cloisters as a short uptown-Manhattan history chain.",
+    "url": "https://dyckmanfarmhouse.org/",
+    "photoUrl": "https://dyckmanfarmhouse.org/wp-content/uploads/2024/03/DFM-1-April-2021-1-scaled.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "Sat 10:00-16:00, Sun closed",
+    "notes": "Actually located in Inwood, Manhattan (4881 Broadway at 204th St) — chained stop, only justifies the drive when paired with The Cloisters ~10 min north in Fort Tryon Park. Admission $1 adults, free under 10; advance tickets recommended (dyckmanfarmhouse.org/tickets). No on-site parking — use street parking on Payson/Riverside Dr or the Fort Tryon Park lots and walk down (dyckmanfarmhouse.org). Closed Sun/Mon/Tue; only Saturday works for a weekend itinerary. Closed Juneteenth, July 4, Veterans Day, Thanksgiving, Christmas Eve/Day.",
+    "sources": [
+      {
+        "url": "https://dyckmanfarmhouse.org/",
+        "accessed": "2026-05-16T19:45:00Z"
+      },
+      {
+        "url": "https://historichousetrust.org/houses/dyckman-farmhouse-museum/",
+        "accessed": "2026-05-16T19:45:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/dyckman-house-museum/",
+        "accessed": "2026-05-16T19:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T19:40:22.578Z"
+  },
+  {
+    "id": "hispanic-society-museum",
+    "name": "Hispanic Society Museum & Library",
+    "desc": "Free Beaux-Arts museum with Goya, Velázquez, El Greco, and a Sorolla room in Washington Heights",
+    "longDesc": "Tucked into the Audubon Terrace complex on Broadway at 155th, the Hispanic Society holds the largest collection of Spanish art outside Spain — Goya's Duchess of Alba, Velázquez portraits, El Greco, Luisa Roldán, and an entire vaulted gallery of Joaquín Sorolla's Vision of Spain murals. Admission is free; free street parking sits right alongside the building on 155th west of Broadway, and the Cloisters is a 6-minute drive further up Fort Washington Ave for a same-trip double-header.",
+    "url": "https://hispanicsociety.org/visit/hours-and-locations/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "Sat-Sun 12:00-17:00 (closed Mon-Wed)",
+    "notes": "Free admission; starting Jan 2, 2026 reserve a free timed ticket online before visiting (hispanicsociety.org). Free parking on W 155th St west of Broadway adjacent to the building, one-way eastbound from Riverside Dr (hispanicsociety.org/visit/visitor-information/directions/). Kinney garage backup at 614 W 153rd St. Manhattan-only but uniquely justified: pairs naturally with the Cloisters (~6 min further north) on the same northbound drive. Sorolla's Vision of Spain gallery is the photo moment (newyorklatinculture.com).",
+    "sources": [
+      {
+        "url": "https://hispanicsociety.org/visit/hours-and-locations/",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://hispanicsociety.org/visit/visitor-information/directions/",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hispanic_Society_of_America",
+        "accessed": "2026-05-16T19:40:00Z"
+      },
+      {
+        "url": "https://www.newyorklatinculture.com/hispanic-society-museum-and-library/",
+        "accessed": "2026-05-16T19:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:42:23.177Z"
   }
 ]
