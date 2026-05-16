@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Mission Dolores Park Bar Gowanus — outdoor beer garden with shuffleboard",
-    "reason": "Adjacent driving-friendly active/chill bucket candidate closer to IC (~10 min) for warm-weekend tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:22:19.669Z"
-  },
-  {
-    "topic": "The Brooklyn Strategist board game cafe Carroll Gardens",
-    "reason": "Second Brooklyn board game cafe in a different zone (carroll-gardens) — community shop + cafe with 500+ games and walk-in play; rounds out tabletop options without leaving the borough.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:24:53.526Z"
-  },
-  {
-    "topic": "Hex & Company Union Square Manhattan justification",
-    "reason": "Closest true Hex sibling to IC (~25 min via Battery Tunnel) — worth a Manhattan exception entry if user ever wants the original concept; covers TCG/RPG nights Sip & Play doesn't.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:24:53.526Z"
-  },
-  {
-    "topic": "Twenty Sided Store Williamsburg games and events",
-    "reason": "Williamsburg-zone tabletop/TCG store with weekend events — expands the 'play games on a Saturday' lane into a third zone within 15 min drive of IC.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:24:53.526Z"
-  },
-  {
-    "topic": "Brooklyn Strategist board game cafe Carroll Gardens",
-    "reason": "Direct Brooklyn comp to The Uncommons — board game cafe/club within 15-min drive of IC, fits geographic constraint where Uncommons fails",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:27:03.990Z"
-  },
-  {
     "topic": "Hex & Company board game cafe Park Slope Brooklyn",
     "reason": "Park Slope outpost of NYC board game cafe chain — sits inside Park Slope cluster zone, weekend parking more feasible than Manhattan",
     "requestedBy": "agent",
@@ -3130,5 +3100,101 @@
     "reason": "Smaller, more discovery-driven booking; gives the corpus a tier-below option for emerging-artist nights and an adjacent late dinner",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T12:54:07.396Z"
+  },
+  {
+    "topic": "Gowanus Gardens 256 4th Ave Brooklyn outdoor patio bar kitchen",
+    "reason": "Actual outdoor beer-garden-style bar across the street from the old Mission Dolores spot — fills the 'outdoor drinks near IC' bucket the original topic was reaching for",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:57:16.734Z"
+  },
+  {
+    "topic": "Seven Bridges bar Park Slope 249 4th Ave Hop Shop owners opening status",
+    "reason": "Replacement venue in the former Mission Dolores space; if open, it inherits the courtyard and is a direct 10-min-from-IC candidate",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:57:16.734Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus 333 Douglass St taproom outdoor backyard",
+    "reason": "Established Gowanus craft brewery with backyard space, ~10 min from IC — strong active/chill bucket adjacency to Royal Palms for a two-stop track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:57:16.734Z"
+  },
+  {
+    "topic": "Add 'gowanus' to zone enum in venue schema",
+    "reason": "Royal Palms, Threes Brewing, Gowanus Gardens, and Mission Dolores's replacement all sit in Gowanus proper; current taxonomy forces them into park-slope/carroll-gardens, which loses cluster precision for driving-friendly tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:57:16.734Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg board game shop + play space",
+    "reason": "Independent gaming hub with regular open play nights in Williamsburg — fills tabletop slot in a different drivable zone from Industry City",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:00:02.920Z"
+  },
+  {
+    "topic": "Brooklyn Game Lab Park Slope board game club",
+    "reason": "Park Slope tabletop spot leaning family/kids — adds a different intensity register in a zone close to IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:00:02.920Z"
+  },
+  {
+    "topic": "Hex & Co Brooklyn (or nearest borough outpost) board game cafe with full food menu",
+    "reason": "Board game cafe with kitchen and bar — complements Strategist's drop-in model with a fuller foodie + drinks angle for the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:00:02.920Z"
+  },
+  {
+    "topic": "The Uncommons Greenwich Village board game cafe",
+    "reason": "Manhattan alternative if Hex Union Square is booked — MacDougal St, similarly deep games library, closer to NYU/Washington Sq vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:02:12.232Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg TCG/RPG",
+    "reason": "Brooklyn alternative that may obviate the Manhattan trip — Williamsburg location, FNM Magic events, indie RPG community",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:02:12.232Z"
+  },
+  {
+    "topic": "Brooklyn Strategist Carroll Gardens",
+    "reason": "Carroll Gardens board game shop with kid + adult programming, ~10 min from IC, true Brooklyn substitute for the Hex experience",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:02:12.232Z"
+  },
+  {
+    "topic": "Marlow & Sons Williamsburg brunch/dinner",
+    "reason": "5-min walk from Twenty Sided on Broadway — pairs a gaming afternoon with a strong Williamsburg food stop in the same micro-cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:04:22.576Z"
+  },
+  {
+    "topic": "The Uncommons NYC board game cafe alternative",
+    "reason": "Manhattan cross-reference for the 'play games' lane; useful only as a fallback if Williamsburg is congested, but worth corpus comparison.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:04:22.576Z"
+  },
+  {
+    "topic": "Hex & Co Brooklyn board game cafe",
+    "reason": "Another driving-friendly Brooklyn tabletop venue — expands the 'games' theme into a second zone for variety on repeat Saturdays.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:04:22.576Z"
+  },
+  {
+    "topic": "Sip N' Play board game cafe Park Slope 471 5th Ave",
+    "reason": "Park Slope board-game-and-drinks cafe inside 15-min IC drive radius; closer than Brooklyn Heights and a natural alt to Brooklyn Strategist",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:06:42.398Z"
+  },
+  {
+    "topic": "Hex & Company board game cafe Brooklyn or Manhattan locations",
+    "reason": "Comparable curated-library board-game cafe chain; check if any Brooklyn outpost exists within IC drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:06:42.398Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg board games and RPG",
+    "reason": "Williamsburg game store/event space with weekend play sessions, fits 15-min IC drive cluster already in roadmap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:06:42.398Z"
   }
 ]
