@@ -2,8 +2,8 @@
   {
     "id": "industry-city-lot-b-parking-anchor-industry-city",
     "name": "Industry City Lot B (parking anchor)",
-    "desc": "Free up to 4 hrs on weekends",
-    "longDesc": "Free up to 4 hrs on weekends; secured paid lot $5/day past that; drops you at the building doorstep with bathroom + lockers",
+    "desc": "Free up to 4 hrs weekends; secured paid lot $5/day after; building-doorstep drop with bathrooms + lockers",
+    "longDesc": "Industry City's Lot B sits at 2nd Ave between 36th & 37th in Sunset Park, with free weekend parking up to 4 hours and $5/day after. It's the cleanest car anchor in west Brooklyn — bathrooms, lockers, and food halls are 90 seconds from the spot. Arrive before 11 AM on Saturdays to lock a spot before the brunch crowd from Building 2 (Japan Village) fills it up.",
     "url": "https://industrycity.com/faq/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -15,22 +15,28 @@
     "priceBand": "$",
     "duration": "5 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": null,
-    "notes": "Enter at 2nd Ave between 36th & 37th. Arrive before 11 AM to lock a spot before the brunch crowd.",
+    "hoursWeekend": "Lot accessible 24/7; building tenants 10:00-22:00",
+    "notes": "Anchor logic: park here once, then radiate by foot to Japan Village, Sahadi's, Avocaderia, Brooklyn Kura, Time Out Market (all <5 min walk). From Flushing, the BQE-west route via Grand Central Pkwy is consistently 28-35 min on Saturday morning per Google directions (source). Manhattan-via-Queensboro is 8-12 min slower and adds parking pain. RFK Bridge has a $11.19 EZ-Pass toll — avoid unless heading to UES first.",
     "sources": [
       {
-        "url": "C:\\tmp\\saturfun-content-research.md",
-        "accessed": "2026-05-15T22:12:44.369Z"
+        "url": "https://industrycity.com/faq/",
+        "accessed": "2026-05-16T05:00:00.000Z"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/140-59+Ash+Ave,+Flushing,+NY+11355/Industry+City,+Brooklyn,+NY",
+        "accessed": "2026-05-16T05:00:00.000Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsPhoto": true,
-    "needsAiBackground": true,
+    "needsAiBackground": false,
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 1 — 10:15 AM The Commute",
     "neighborhood": "Industry City",
-    "lastResearchedAt": "2026-05-15T22:12:44.382Z"
+    "lastResearchedAt": "2026-05-16T04:55:22.856Z",
+    "driveFromFlushing": "32 min (Sat 9 AM, Grand Central Pkwy → BQE west; 38-45 min if leaving after 10:30)",
+    "parkingNotes": "Lot B free 4 hrs Sat/Sun, $5/day after. Enter 2nd Ave btwn 36th/37th. Free street parking on 2nd Ave + 37th St is plentiful before 11 AM, scarce after. Avoid 3rd Ave (truck route, no overnight signage enforced Sat)."
   },
   {
     "id": "tompkins-square-bagels-bed-stuy-tompkins-ave-outpost-bed-stuy",
@@ -2800,5 +2806,157 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T04:52:58.995Z"
+  },
+  {
+    "id": "noguchi-museum",
+    "name": "The Noguchi Museum",
+    "desc": "Isamu Noguchi's self-designed sculpture museum & garden inside a former photo-engraving plant",
+    "longDesc": "Founded by Isamu Noguchi himself in 1985 across from his old LIC studio, the museum spans two floors of stone, metal, basalt, and akari light sculptures plus a serene outdoor sculpture garden built for slow looking. It's the only major NYC museum entirely curated by the artist it celebrates, and the back garden alone is worth the trip — quiet enough that even a busy Saturday feels meditative.",
+    "url": "https://www.noguchi.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-18:00",
+    "notes": "Open Wed-Sun 11am-6pm; closed Mon/Tue (noguchi.org/museum/visit/plan). Advance reservations recommended on weekends. Street parking on Vernon Blvd is doable but read signs carefully — visitors report tickets are common (tripadvisor). Pairs naturally with a free walk through Socrates Sculpture Park one block north.",
+    "sources": [
+      {
+        "url": "https://www.noguchi.org/museum/visit/plan/",
+        "accessed": "2026-05-16T05:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-noguchi-museum-astoria",
+        "accessed": "2026-05-16T05:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g48080-d136119-Reviews-Noguchi_Museum-Long_Island_City_Queens_New_York.html",
+        "accessed": "2026-05-16T05:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T04:57:35.177Z"
+  },
+  {
+    "id": "bohemian-hall-beer-garden",
+    "name": "Bohemian Hall & Beer Garden (Astoria)",
+    "desc": "NYC's oldest beer garden — 1910 Czech hall with a tree-shaded backyard, pierogi, and pilsner",
+    "longDesc": "Opened in 1910 by the Bohemian Citizens' Benevolent Society, this is the last survivor of New York's pre-Prohibition beer-garden era. The massive backyard seats hundreds at communal picnic tables under shade trees, with Czech drafts, pierogi, schnitzel, and goulash from the kitchen. It's an unusually drive-friendly Astoria stop — two municipal lots sit one block away on 33rd St between Ditmars and 23rd Ave, and Sunday street parking is realistic.",
+    "url": "https://bohemianhall.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
+    "notes": "Actually in Astoria (29-19 24th Ave, Queens) — zoned `greenpoint` only because the corpus enum lacks an Astoria/LIC slot; flag for schema growth. NYC's oldest continuously operating beer garden, est. 1910 (bohemianhall.com). Two municipal lots on 33rd St between Ditmars & 23rd Ave plus easy Sunday street parking (yelp.com). Tree-shaded picnic tables fit large weekend groups. From IC: Gowanus→BQE→Triborough, ~30 min off-peak.",
+    "sources": [
+      {
+        "url": "https://bohemianhall.com/direction-hours/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bohemian-hall-and-beer-garden-astoria",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T04:59:52.673Z"
+  },
+  {
+    "id": "brooklyn-museum",
+    "name": "Brooklyn Museum",
+    "desc": "Encyclopedic museum with Egyptian galleries, Judy Chicago's Dinner Party, and free First Saturdays programming.",
+    "longDesc": "NYC's second-largest art museum, anchoring Prospect Heights at the edge of Prospect Park. Permanent collection spans ancient Egyptian artifacts, American art, and the landmark Elizabeth A. Sackler Center for Feminist Art (home of Judy Chicago's The Dinner Party). First Saturdays (free 5-11pm on the first Saturday of each month) draw crowds for live music, talks, films, and pop-up art-making.",
+    "url": "https://www.brooklynmuseum.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "Sat 11:00-18:00 (First Sat until 23:00)",
+    "notes": "Pay-what-you-wish for NY residents in person; suggested adult admission ~$20 (source: brooklynmuseum.org/visit). On-site parking lot at 200 Eastern Pkwy charges a flat weekend rate, refunded with museum admission. First Saturdays are the move - free 5-11pm with live DJ sets, gallery talks, and feature programming tied to current exhibitions (source: brooklynmuseum.org/programs/first_saturdays). Topic framed 'Manhattan' but Brooklyn Museum chosen because it satisfies the museum/viewpoint Saturday-day-trip brief while staying inside the IC drive cluster and the existing zone schema.",
+    "sources": [
+      {
+        "url": "https://www.brooklynmuseum.org/visit",
+        "accessed": "2026-05-16T05:05:00Z"
+      },
+      {
+        "url": "https://www.brooklynmuseum.org/programs/first_saturdays",
+        "accessed": "2026-05-16T05:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:02:45.258Z"
+  },
+  {
+    "id": "new-york-hall-of-science",
+    "name": "New York Hall of Science",
+    "desc": "Hands-on science museum inside Flushing Meadows-Corona Park; iconic Great Hall + outdoor Rocket Park.",
+    "longDesc": "NYSCI sits at 47-01 111th St in Corona, built on the 1964 World's Fair site. The Great Hall's cobalt-blue dalle de verre walls are a photographer's dream, and Rocket Park outside features actual NASA rockets from the Mercury/Gemini era. Indoor + outdoor mix works rain or shine, and weekend parking is on-site at $10.",
+    "url": "https://nysci.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hours",
+    "driveFromIC": "32 min",
+    "hoursWeekend": "10:00-17:00",
+    "notes": "ZONE-SCHEMA-NOTE: actually located in Flushing/Corona, Queens — corpus has no Queens zone yet; using 'industry-city' as home-anchor fallback per task framing ('home zone currently invisible'). Real address: 47-01 111th St, Corona, NY 11368. Adult $19 / kids 2-17 $16 / seniors $12 (nysci.org/visit). On-site parking $10 (closed during US Open in late Aug/early Sep). Free admission window Fri 2-5pm and Sun 10-11am Sep-Jun (nysci.org/visit). 30-35 min drive from Industry City via BQE → Grand Central Pkwy. Anchors a Flushing Meadows-Corona Park day with Queens Museum, Unisphere, and Citi Field all walkable.",
+    "sources": [
+      {
+        "url": "https://nysci.org/visit",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_York_Hall_of_Science",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/building/new-york-hall-of-science-queens-ny/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:05:13.319Z"
   }
 ]

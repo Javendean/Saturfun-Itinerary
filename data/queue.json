@@ -1,40 +1,5 @@
 [
   {
-    "topic": "Re-compute drive times from 140-59 Ash Ave Flushing NY 11355 to all existing 68 venues; update each corpus entry with driveFromFlushing + parkingNotes",
-    "reason": "origin changed from Hollis-or-IC to Flushing; existing ETAs stale",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
-    "topic": "Discover compelling Long Island City venues (museums, cocktail bars, food, photo spots) within 20 min drive of 140-59 Ash Ave Flushing",
-    "reason": "LIC is 15 min from Flushing; under-represented in current corpus",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
-    "topic": "Discover compelling Astoria + Sunnyside venues (Greek food, Bohemian Hall, Socrates Sculpture Park, etc.) within 20 min drive of Flushing",
-    "reason": "NW Queens is geographically natural from Flushing, currently absent",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
-    "topic": "Discover compelling Manhattan venues for Saturday day trips (museums, food halls, viewpoints, comedy) reachable in 30-40 min drive from Flushing via Queensboro or RFK bridge",
-    "reason": "newly viable with car from Flushing",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
-    "topic": "Discover Flushing itself: top food (Joes Shanghai, Xian Famous Foods OG, etc.), Queens Botanical Garden, Flushing Meadows-Corona Park, the New York Hall of Science. These are 0-10 min from origin",
-    "reason": "home zone is currently invisible in itinerary",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
     "topic": "Generate 5 streamlined itinerary candidates departing 140-59 Ash Ave at 9 AM Saturday, focused on FOODIE vibe, varied geography, with realistic drive times between stops. Output as type:itinerary-candidate corpus entries with stops[]",
     "reason": "harvester should produce day plans, not only venues",
     "requestedBy": "seed",
@@ -512,5 +477,107 @@
     "reason": "Further from IC (~18 min) but rare-find rooftop + Moroccan-styled live music room worth one expanded-radius option for the Late Night block",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T04:52:59.001Z"
+  },
+  {
+    "topic": "Re-research existing venue: Japan Village (Industry City) — add driveFromFlushing + Sat parking notes",
+    "reason": "anchor-adjacent; almost every Saturday plan touches it; needs same Flushing-relative ETA",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:55:22.859Z"
+  },
+  {
+    "topic": "Re-research existing venue: Court Street Grocers (Carroll Gardens) — add driveFromFlushing + parking notes",
+    "reason": "common breakfast first-stop; BQE→Atlantic Ave route from Flushing changes ETA meaningfully vs IC-relative number",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:55:22.859Z"
+  },
+  {
+    "topic": "Batch re-research: all Williamsburg corpus entries (Devoción, Smorgasburg, Domino Park, etc.) for driveFromFlushing — natural Pulaski/Kosciuszko crossing makes them closer from Flushing than from IC",
+    "reason": "WBurg shifts from 'far-from-IC' to 'closer-than-IC' under Flushing origin; re-ranking unlocks new itinerary shapes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:55:22.859Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park LIC",
+    "reason": "Free 5-acre waterfront sculpture park one block from Noguchi — natural pairing for a curious+photo afternoon, and fills the under-represented LIC outdoor-art bucket",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:57:35.180Z"
+  },
+  {
+    "topic": "Casa Enrique LIC Michelin Mexican",
+    "reason": "Only Mexican restaurant in NYC with a Michelin star, anchors LIC as a serious dinner-track stop after museum-hopping",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:57:35.180Z"
+  },
+  {
+    "topic": "Dutch Kills cocktail bar LIC",
+    "reason": "Influential pre-Prohibition-style cocktail bar a few blocks from Queensboro Plaza — fills the LIC romantic/foodie drinks slot the corpus currently lacks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:57:35.180Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park (Vernon Blvd, LIC)",
+    "reason": "Free 9am–sunset waterfront sculpture park 8 min south of Bohemian Hall — natural pre-dinner pairing and a strong photo-vibe anchor NW Queens currently lacks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:59:52.676Z"
+  },
+  {
+    "topic": "Taverna Kyclades (Ditmars Blvd, Astoria)",
+    "reason": "Iconic Greek seafood the prompt explicitly hinted at; pairs with Bohemian Hall as the Astoria food backbone and is walkable from the same parking lots",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:59:52.676Z"
+  },
+  {
+    "topic": "Museum of the Moving Image (35th Ave, Astoria)",
+    "reason": "Weekend-friendly interactive film/TV museum with on-site parking; adds a curious/foodie-rest-day option to the NW Queens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:59:52.676Z"
+  },
+  {
+    "topic": "Brooklyn Botanic Garden (adjacent to Brooklyn Museum)",
+    "reason": "Shares the Eastern Pkwy parking footprint - natural Saturday pair with the museum, especially cherry blossom season",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:02:45.261Z"
+  },
+  {
+    "topic": "The Met Cloisters in Fort Tryon Park",
+    "reason": "Uniquely-justified Manhattan day trip with on-site lot - medieval European art in a reconstructed monastery, 35-40 min drive from IC via Manhattan/Harlem River Drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:02:45.261Z"
+  },
+  {
+    "topic": "Comedy Cellar Greenwich Village (MacDougal)",
+    "reason": "Covers the 'comedy' bucket from the brief - iconic lineup but parking constrains it to evening-only with garage; worth a curated entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:02:45.261Z"
+  },
+  {
+    "topic": "Queens Botanical Garden, Flushing (43-50 Main St) — weekend hours + $10 parking",
+    "reason": "Pairs with NYSCI as a green-space Flushing anchor; free Sun 9-11am Apr-Oct, free all winter; needed to round out a Flushing day in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:05:13.322Z"
+  },
+  {
+    "topic": "Flushing Meadows-Corona Park — Unisphere + Queens Museum cluster",
+    "reason": "The 1964 World's Fair grounds; Unisphere is a top-tier NYC photo op and Queens Museum holds the Panorama of NYC; sits 5-min walk from NYSCI",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:05:13.322Z"
+  },
+  {
+    "topic": "Nan Xiang Xiao Long Bao, Flushing (39-16 Prince St) — Michelin Bib soup dumplings, live alternative to Joe's Shanghai",
+    "reason": "Joe's Shanghai Flushing flagged CLOSED on Yelp Apr 2026 — Nan Xiang is the current go-to xiaolongbao spot in Flushing and a safer corpus add",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:05:13.322Z"
+  },
+  {
+    "topic": "Xi'an Famous Foods OG basement stall, Flushing (Golden Shopping Mall, 41-28 Main St)",
+    "reason": "Origin story of the chain — hand-pulled biang biang noodles, $10 lunch, iconic foodie pilgrimage destination 0.5mi from NYSCI",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:05:13.322Z"
+  },
+  {
+    "topic": "Flushing Chinatown food crawl: New World Mall food court + Tangoo + Joe's Steam Rice Roll",
+    "reason": "Multi-stop walking option for a Flushing food day; cheap, photogenic, distinct from anything in current Brooklyn-heavy corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:05:13.322Z"
   }
 ]
