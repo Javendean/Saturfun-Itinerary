@@ -5393,48 +5393,48 @@
   },
   {
     "id": "east-harbor-seafood-palace",
-    "name": "East Harbor Seafood Palace (迎賓大酒樓)",
-    "desc": "Cart-service dim sum hall in Sunset Park Chinatown — old-school weekend ritual on 8th Ave.",
-    "longDesc": "One of the last true push-cart dim sum banquet halls in NYC, slinging har gow, siu mai, chicken feet, crispy taro balls and bacon-wrapped shrimp balls off rolling steamers. Michelin Guide–listed and a perennial Infatuation favorite; the room fills with families by 9:30am on weekends and stays loud until carts wind down around 3pm. Sit early, point at what looks good, hand over the stamp card — that's the format.",
-    "url": "https://www.google.com/maps/place/East+Harbor+Seafood+Palace/@40.6328,-74.0089,17z",
+    "name": "East Harbor Seafood Palace",
+    "desc": "Cantonese banquet hall with classic push-cart dim sum service in Sunset Park",
+    "longDesc": "A cavernous, high-ceilinged Cantonese dining room (~200 seats) that still runs traditional steaming pushcarts on weekend mornings — har gow, taro puffs, shrimp-stuffed eggplant, and pepper spare ribs stamped onto a card as carts roll by. Eight dishes can land under $25, and the room fills with mostly Chinese regulars; aim for a 10:00 AM arrival or expect a wait. A short drive south of Industry City along 8th Ave makes it an easy lunch anchor before an afternoon track.",
+    "url": "https://east-harbor-seafood-palace.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
       "curious",
-      "photo"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "75-90 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-23:00 (carts 09:00-15:00)",
-    "notes": "Cart service only during weekend dim sum window — arrive before 9:30am Sat/Sun to avoid 30-60 min waits (Yelp, Infatuation). Stamp-card ordering: carts roll past, point at steamers/plates, server stamps the table card. Cash-friendly. Address: 714 65th St (between 7th & 8th Ave), Sunset Park. Street parking on 65th and 8th Ave is tight but workable before 10am; metered lots near the 8th Ave N train. Michelin Guide listed (Bib-adjacent Cantonese). Standouts per multiple reviews: chicken feet, crispy taro balls, pork knuckles, bacon-wrapped shrimp balls, black sesame balls; lunch upsells include king crab (8-10 lb) and crab fried rice. Some carts run lukewarm late in service — ask for fresh-from-kitchen plates if dishes look tired.",
+    "hoursWeekend": "09:00-22:00 (carts until ~15:00)",
+    "notes": "Address: 714 65th St, between 7th & 8th Ave, Sunset Park (Yelp, Michelin Guide). Traditional cart service with stamp cards; standouts include flaky Cantonese spring rolls, fried taro puffs, pepper spare ribs, and shrimp-stuffed eggplant (Cinnamon Society). Arrive before ~10:30 AM for best cart selection and no wait; fresh dim sum runs until ~3 PM. Cash + cards accepted. Phone (718) 765-0098. Street parking on 65th/66th is workable on weekend mornings; 8th Ave is the Chinatown commercial spine and gets crowded after 11. Vegetarian options exist among cart items but not a vegan-friendly room.",
     "sources": [
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/east-harbor-seafood-palace",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
       {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
         "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://east-harbor-seafood-palace.com/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T11:43:15.398Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T11:56:05.148Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -10262,8 +10262,8 @@
   {
     "id": "bush-terminal-piers-park",
     "name": "Bush Terminal Piers Park",
-    "desc": "Free hidden waterfront park with harbor-level sunset views, tide ponds, and Manhattan skyline framing",
-    "longDesc": "An eight-block-long waterfront green space on a reclaimed shipping pier, this park gives you ground-level harbor views looking straight across the Upper Bay toward Lady Liberty and Lower Manhattan. Wide lawns, tide ponds, restored wetlands, and pier-edge benches make it a quiet golden-hour spot just minutes from Industry City. Free 50-space parking lot at the entrance.",
+    "desc": "Free 22-acre waterfront park with tide pools, swings, and unobstructed Manhattan skyline + Statue of Liberty views.",
+    "longDesc": "A former shipping pier cleaned up and reopened in 2014, this Sunset Park waterfront stretch features engineered tide pools, restored wetlands, two multipurpose fields, and a famous set of swings facing the harbor. Walk the esplanade for unobstructed Lower Manhattan, Statue of Liberty, and Bay Ridge Channel views — golden hour is the move for photos. Functions as a quiet sister beat to Sunset Park when the hill is crowded; same skyline, no climb, plus free parking.",
     "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10276,33 +10276,37 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "45-60 min",
-    "driveFromIC": "6 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "07:00-19:00",
-    "notes": "Free entry, free on-site parking lot ~50 spaces at 43rd St entrance (prked.com). Alt entrance 5001 1st Ave if main is closed. Park closes 7pm year-round — works for fall/winter/early-spring sunsets but in summer (sunset after 8pm) the gates lock before golden hour, so plan a late-afternoon visit and continue sunset viewing from IC rooftops or Pier 4 outside the gates. Pairs well with a 6 min drive back to IC food halls (nycgovparks.org, nyctourism.com).",
+    "notes": "Enter at 43rd St (waterfront end); two free parking lots open 8am-8pm daily (prked.com). Park itself open 7am-7pm year-round (nycgovparks.org). Engineered tide pools + restored wetland boardwalk; iconic swing-set faces Manhattan skyline (airial.travel). Wide-angle lens recommended for skyline shots; golden hour just before sunset is peak light. Industrial road approach — quiet on weekends, very different vibe from Sunset Park proper.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
-        "accessed": "2026-05-16T11:05:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
-        "accessed": "2026-05-16T11:05:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://prked.com/blog/bush-terminal-piers-park-brooklyn-parking-guide",
-        "accessed": "2026-05-16T11:05:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://airial.travel/attractions/united-states/bush-terminal-piers-park-brooklyn-qQtBRZbj",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T11:13:11.363Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T11:58:04.328Z"
   },
   {
     "id": "owls-head-park",
     "name": "Owl's Head Park",
-    "desc": "Hilltop Bay Ridge park with skyline + Verrazzano Bridge views — free parking, big sunset payoff.",
-    "longDesc": "24-acre rolling green space at the southern tip of Brooklyn's Bay Ridge waterfront, with elevated sightlines across New York Harbor toward Staten Island, the Verrazzano-Narrows Bridge, and (on clear evenings) Lower Manhattan. Climbing the main hill to the western edge is the move at golden hour; the slope faces the bay so the sun drops directly over the water. Practical sunset-chase pick from IC: short drive, free street parking plus two park lots, and benches at the top.",
+    "desc": "24-acre Bay Ridge hill park with sweeping Verrazzano Bridge and NY Harbor sunset views.",
+    "longDesc": "A rolling 24-acre Bay Ridge park whose grassy summit delivers one of Brooklyn's best open-air panoramas: the Verrazzano-Narrows Bridge, New York Harbor, and the Lower Manhattan skyline framed by sailboats and container ships. Winding trails, a Millennium skate park, a big dog run, and benches at the crest make it an easy 30-45 minute stop. Sunset on a clear evening is the unbeatable window; free meter-free street parking is typically available on Colonial Rd and 68th St on weekends.",
     "url": "https://www.nycgovparks.org/parks/owls-head-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10310,17 +10314,22 @@
     "vibe": [
       "chill",
       "photo",
+      "active",
       "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "06:00-22:00",
-    "notes": "Anchor address: 68th St & Colonial Rd, Bay Ridge — about 3.5 mi south of Industry City via 3rd Ave or the Belt Parkway, no tolls (nycgovparks.org). Park is hilltop with 24 acres of rolling lawn; western edge faces Staten Island and the Verrazzano-Narrows Bridge for sunset (visitbrooklyn.nyc). Free parking in two lots plus metered-free street parking on surrounding blocks (prked.com). Also has skate park, dog run, playground, basketball — bring a blanket and walk to the hilltop. NYC Parks technically lists park hours as 6am-1am, but practical golden-hour use is dawn-to-dusk; arrive ~45 min before sunset to claim a west-facing bench. Note: zone forced to 'industry-city' because schema lacks a Bay Ridge / Sunset Park zone — this venue is south of the existing IC cluster.",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "Drive south from IC via 3rd Ave / Shore Pkwy to Colonial Rd & 68th St entrance (NYC Parks). 24 acres of hills, harbor and Verrazzano views, plus the Millennium skate park (open 11:00-19:00) (NYC Parks). Free street parking is generally available and meter-free in the surrounding blocks (On the Grid, Yelp). Best at golden hour — climb the central hill from the Shore Rd side for the clearest Verrazzano + harbor sightline (Visit Brooklyn).",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/owls-head-park",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/owls-head-park/facilities/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -10328,22 +10337,22 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/places/owls-head-park/",
+        "url": "https://onthegrid.city/brooklyn/bay-ridge/owls-head-park",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://prked.com/blog/owl's-head-park-brooklyn-parking-guide",
+        "url": "https://www.yelp.com/biz/owls-head-park-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.bklynr.com/the-forgotten-history-of-the-owls-head/",
+        "url": "https://en.wikipedia.org/wiki/Owl%27s_Head_Park",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:15:31.413Z"
+    "lastResearchedAt": "2026-05-16T11:59:52.740Z"
   },
   {
     "id": "ba-xuyen-banh-mi",
@@ -10633,5 +10642,84 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T11:49:52.071Z"
+  },
+  {
+    "id": "golden-steamer-sunset-park",
+    "name": "Golden Steamer (Sunset Park)",
+    "desc": "Tiny Sunset Park steam-bun specialist with cult pumpkin and salted egg yolk buns",
+    "longDesc": "A grab-and-go Chinese bakery on Brooklyn's 8th Ave Chinatown strip, famous for fluffy hand-pleated steamed buns — the pumpkin and salted egg yolk varieties are the standouts, alongside classic pork. Cash only, fast-moving line, ideal as a quick anchor before or after an Industry City wander. Pairs naturally with Xin Fa Bakery a few blocks north for an egg-tart-plus-bao mini crawl.",
+    "url": "https://www.google.com/maps/place/Golden+Steamer/@40.6428,-74.0055,17z",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "07:00-18:30",
+    "notes": "Cash only. Pumpkin and salted egg yolk buns are the must-orders; ~$1-1.50 each, ~$5 for 6 (Yelp). Tiny storefront, no seating — eat in the car or walk to Sunset Park itself a few blocks west. Weekday hours confirmed 7:00am-6:30pm; weekend hours similar per local listings — verify by phone day-of. Best to arrive before noon for full lineup; popular items sell out (The Infatuation).",
+    "sources": [
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/golden-steamer-sunset-park",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/golden-steamer-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://golden-steamer.res-menu.net/menu",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T11:53:55.503Z"
+  },
+  {
+    "id": "greenwood-battle-hill",
+    "name": "Battle Hill at Green-Wood Cemetery",
+    "desc": "Brooklyn's highest natural point (220 ft) with skyline + harbor panorama from Minerva statue.",
+    "longDesc": "Battle Hill is the highest natural point in Brooklyn at 220 feet, crowned by the 1920 Altar to Liberty and Minerva statue — Minerva eternally waves to her sister, the Statue of Liberty, across the harbor. On a clear day you get an unobstructed sweep of Lower Manhattan, the harbor, and Lady Liberty herself. About a 15-20 min uphill walk from the 5th Ave & 25th St main gate; free in-cemetery parking on weekends makes it a quick stop from IC.",
+    "url": "https://www.green-wood.com/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "photo",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "07:00-19:00",
+    "notes": "Main entrance at 5th Ave & 25th St open daily 7am-7pm year-round per official site (green-wood.com/visit). Free parking inside the cemetery; park on right-hand side of the road. Admission free. Battle Hill is near 23rd St & 7th Ave inside the grounds — bring map or use green-wood.com/map. Note: older third-party guides still cite 8am-5pm hours; trust the official site. (source: green-wood.com/visit, accessed 2026-05-16)",
+    "sources": [
+      {
+        "url": "https://www.green-wood.com/visit/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Green-Wood_Cemetery",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://prked.com/blog/the-green-wood-cemetery-brooklyn-parking-guide",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T12:01:53.559Z"
   }
 ]

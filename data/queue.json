@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Golden Steamer 5224 8th Ave — pumpkin and salted egg yolk buns",
-    "reason": "Tiny steam-bun specialist that pairs naturally with a Xin Fa egg-tart stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:01:19.914Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace 8th Ave dim sum — weekend cart service",
-    "reason": "Sit-down dim sum option to anchor a Sunset Park afternoon track when a quick-bite crawl isn't enough",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:01:19.914Z"
-  },
-  {
-    "topic": "Bush Terminal Piers Park waterfront overlook Brooklyn",
-    "reason": "Sister free waterfront vista 10 min from IC — alternative skyline beat when Sunset Park is crowded",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:03:15.629Z"
-  },
-  {
-    "topic": "Owl's Head Park Bay Ridge skyline hill",
-    "reason": "Another driving-friendly Brooklyn hill park with harbor + skyline views, 12 min south of IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:03:15.629Z"
-  },
-  {
-    "topic": "Greenwood Cemetery Battle Hill overlook public hours",
-    "reason": "Brooklyn's actual highest point with panoramic skyline view, 8 min from IC, but gated hours need verification",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:03:15.629Z"
-  },
-  {
     "topic": "Time Out Market New York DUMBO rooftop",
     "reason": "Actual DUMBO group-photo-op with Manhattan Bridge backdrop + food hall — fills the genuine DUMBO photo slot the original task assumed",
     "requestedBy": "agent",
@@ -2824,5 +2794,89 @@
     "reason": "Weekend dim sum hall completes a Sunset Park food itinerary; larger sit-down counterpoint to Kai Feng Fu's grab-and-go",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T11:51:54.642Z"
+  },
+  {
+    "topic": "Xin Fa Bakery 5617 8th Ave Brooklyn — Portuguese egg tarts and roast pork bao",
+    "reason": "Natural second stop on the 8th Ave Sunset Park Chinatown crawl, 4 blocks from Golden Steamer",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:53:55.518Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave Brooklyn — hand-pulled Yunnan rice noodles",
+    "reason": "Adds a sit-down option to the Sunset Park Chinatown cluster, walkable from Golden Steamer",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:53:55.518Z"
+  },
+  {
+    "topic": "Kaffe 1668 Sunset Park / 8th Ave specialty coffee anchor",
+    "reason": "Caffeine pairing for a Chinatown bun crawl; expands non-food density of the IC-adjacent zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:53:55.518Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 8th Ave Sunset Park",
+    "reason": "Cheap counter-service dumpling stop a few blocks north — pairs with a Sunset Park food crawl track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:56:05.159Z"
+  },
+  {
+    "topic": "Sunset Park (the park) sunset viewpoint Manhattan skyline",
+    "reason": "Adds a post-dim-sum walk-off stop with one of the best skyline views in Brooklyn, cementing a full Sunset Park afternoon track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:56:05.159Z"
+  },
+  {
+    "topic": "MADE Bush Terminal arts campus and studios",
+    "reason": "Adjacent creative-industry destination one block from the park; pairs well as a stop-pair anchor in the same 43rd-St waterfront micro-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:58:04.338Z"
+  },
+  {
+    "topic": "Brooklyn Army Terminal atrium and ferry pier",
+    "reason": "Next pier south with monumental industrial atrium + NYC Ferry stop; extends the South Brooklyn waterfront track with a third free architectural beat",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:58:04.338Z"
+  },
+  {
+    "topic": "Erie Basin Park Red Hook waterfront skyline overlook",
+    "reason": "Another free harbor-view park in the 15-min-drive radius; cluster of alternative skyline overlooks gives the itinerary engine more substitution options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:58:04.338Z"
+  },
+  {
+    "topic": "Shore Road Park Bay Ridge bike path harbor walk",
+    "reason": "Linear waterfront park immediately west of Owl's Head — pairs naturally for a longer Bay Ridge harbor leg of an IC track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:59:52.748Z"
+  },
+  {
+    "topic": "American Beauty Bay Ridge cocktail bar",
+    "reason": "Nearby evening anchor for a Bay Ridge cluster after a sunset Owl's Head stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:59:52.748Z"
+  },
+  {
+    "topic": "Hinsch's Confectionery Bay Ridge old-school soda fountain",
+    "reason": "Quirky daytime food anchor that gives the Bay Ridge zone a foodie pairing beyond the park itself",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:59:52.748Z"
+  },
+  {
+    "topic": "Green-Wood Cemetery weekend trolley tour ($30, Saturdays 1-3pm)",
+    "reason": "Curated 2-hour guided alternative to self-guided Battle Hill walk — fills a 'curious' slot in foodie-heavy clusters",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:01:53.568Z"
+  },
+  {
+    "topic": "Sunset Park summit overlook (44th St & 7th Ave)",
+    "reason": "Public park with skyline view, 5 min drive from IC, free, no gated hours — natural pair or backup if Green-Wood closes early",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:01:53.568Z"
+  },
+  {
+    "topic": "Minerva and Altar to Liberty sculpture history at Green-Wood",
+    "reason": "Adds storytelling depth to Battle Hill stop; 1920 monument tied to Revolutionary War Battle of Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:01:53.568Z"
   }
 ]
