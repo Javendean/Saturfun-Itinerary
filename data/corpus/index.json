@@ -16561,5 +16561,227 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T18:42:31.881Z"
+  },
+  {
+    "id": "rainey-park-lic",
+    "name": "Rainey Park",
+    "desc": "Quiet East River park next door to Socrates with Manhattan skyline and Roosevelt Island views",
+    "longDesc": "Rainey Park is a 9-acre waterfront greenspace on Vernon Blvd in Astoria/LIC, immediately adjacent to Socrates Sculpture Park. Renovated benches, a tree-lined promenade, basketball/handball courts, and unobstructed East River sightlines toward Roosevelt Island and the UN make it an easy chill stop after Socrates. Best for golden-hour photos and a quiet sit; minimal food onsite, so pair with a Vernon Blvd coffee or COFFEED stop.",
+    "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "Free entry, no on-site lot — closest free street parking is at 33-01 Vernon Blvd (NYC Parks). Pairs naturally with Socrates Sculpture Park next door (Yelp/QueensBuzz). Drive from IC via BQE is ~25 min off-peak; weekend Manhattan-bound bridge traffic can push it past 30. Best at golden hour for skyline photos.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.queensbuzz.com/article/295/rainey-park---long-island-city-lic-queens",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/rainey-park-astoria",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T18:46:35.463Z"
+  },
+  {
+    "id": "mars-astoria-brasserie-raw-bar",
+    "name": "Mar's",
+    "desc": "Astoria brasserie with a serious East Coast raw bar — the natural lunch pairing for a Socrates + Noguchi walk.",
+    "longDesc": "Mar's is a decade-old Astoria gastropub built around a raw bar of East Coast oysters, clams, mussels, and wild-caught shrimp, with the signature 'Mar's Plateau' as the centerpiece order. Sunday brunch leans European-brasserie (eggs benedict with smoked salmon, strapatsada with feta and tomato, steak and eggs) alongside oysters by the half-dozen. It sits a 5-minute drive (or ~15-min walk) from both Socrates Sculpture Park and the Noguchi Museum, closing the LIC/Astoria art-and-water arc with a relaxed seafood lunch rather than another café.",
+    "url": "https://lifeatmars.com/",
+    "photoUrl": "https://lifeatmars.com/wp-content/uploads/2026/03/octopus.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "Sat-Sun brunch 10:00-16:00; Fri-Sat dinner 17:00-23:30",
+    "notes": "Topic said 'LIC Vernon Boulevard' but Mar's is actually at 34-21 34th Ave, Astoria — ~0.5 mi from Socrates Sculpture Park and ~0.7 mi from the Noguchi Museum, so it still completes the LIC half-day arc (givemeastoria.com). Order driver is the raw bar; the Mar's Plateau is a dozen oysters + six clams + eight mussels + three shrimp (givemeastoria.com). Happy hour Wed-Sun 4-6 PM discounts oysters and drinks if the arc slips later (givemeastoria.com). Address and hours confirmed via Yelp and the official site (yelp.com, lifeatmars.com). Weekend street parking in Astoria's residential blocks north of 34th Ave is usually findable; alternate side rules pause on Sundays. Zone enum has no Astoria/LIC value — used 'greenpoint' as nearest available; corpus should treat this as a Queens venue, not Brooklyn.",
+    "sources": [
+      {
+        "url": "https://lifeatmars.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mars-astoria",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://givemeastoria.com/2023/02/01/pick-of-the-month-mars/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/mars",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T18:50:53.682Z"
+  },
+  {
+    "id": "sculpturecenter-lic",
+    "name": "SculptureCenter",
+    "desc": "Free non-profit contemporary sculpture museum in a Maya Lin-renovated trolley repair shop",
+    "longDesc": "SculptureCenter is a non-collecting contemporary art museum at 44-19 Purves Street in LIC, housed in a former trolley repair shop reimagined by Maya Lin in 2002. Three new exhibitions open May 28, 2026: Akinsanya Kambon: Soul Sessions, Ellen Pau: She Moves, and In Practice: Magdalena Petroni. Admission is always free; the basement project spaces and ground-floor main galleries take roughly 45-60 minutes to walk through.",
+    "url": "https://www.sculpture-center.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "12:00-18:00 (Thu-Mon, closed Tue-Wed)",
+    "notes": "Address: 44-19 Purves St, LIC 11101. Free admission, reopens for new exhibition cycle Thu May 28, 2026 after install (sculpture-center.org). Closed Tue/Wed. Maya Lin-designed renovation of a former trolley repair shop; basement project rooms are a signature feature. Pairs naturally with Noguchi Museum (~5 min away) and Socrates Sculpture Park (~8 min) for a curious-vibe LIC trio. Street parking on Purves/Jackson Ave is typically findable on weekends; metered Muni-Meter zones nearby.",
+    "sources": [
+      {
+        "url": "https://www.sculpture-center.org/",
+        "accessed": "2026-05-16T18:50:00Z"
+      },
+      {
+        "url": "https://www.sculpture-center.org/visit/93/admission-and-accessibility",
+        "accessed": "2026-05-16T18:50:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/sculpturecenter/",
+        "accessed": "2026-05-16T18:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T18:52:58.282Z"
+  },
+  {
+    "id": "adda-indian-canteen",
+    "name": "Adda Indian Canteen (East Village)",
+    "desc": "Michelin-Guide Indian by Unapologetic Foods — relocated from LIC to the East Village in May 2025.",
+    "longDesc": "Adda was Unapologetic Foods' breakthrough Queens canteen (Chintan Pandya / Roni Mazumdar) before quietly closing the 31-31 Thomson Ave LIC space and reopening May 1, 2025 at 107 1st Ave as a bigger, glossier flagship. Expect the Butter Chicken Experience (tableside, ~$42/pp), baby goat biryani, lamb parcha in saffron-cashew cream, lukhmi with wagyu cheek, and bheja fry — Infatuation rates it 8.5/10 and calls it 'more glamorous, more expensive' than the original (theinfatuation.com). The LIC building is reportedly being held by the group for a future R&D / supper-club concept (blog.resy.com).",
+    "url": "https://www.addanyc.com/",
+    "photoUrl": "https://blog.resy.com/wp-content/uploads/2025/04/Adda_spread-e1746036485693-2000x1125.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "17:00-22:00",
+    "notes": "IMPORTANT: original LIC location at 31-31 Thomson Ave is CLOSED (yelp.com lists it as such; patch.com confirmed the move in 2022, evgrieve.com tracked the East Village debut in April 2025). New address is 107 1st Ave, Manhattan — NOT in the LIC/Casa Enrique drive cluster anymore. Tue–Sun dinner only, 5–10pm; closed Mondays (addanyc.com). Weekend street parking on 1st Ave is metered and tight — recommend Icon/SP+ garages off 2nd Ave. Reservations via SevenRooms (addanyc.com); walk-ins seated at the bar. Justified as Manhattan inclusion because the Unapologetic Foods Indian fine-dining run (Semma*, Dhamaka, Masalawala & Sons) is genuinely singular and one-bridge accessible from IC.",
+    "sources": [
+      {
+        "url": "https://www.addanyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2025/04/adda-nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/adda-east-village",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://evgrieve.com/2025/04/adda-indian-canteen-is-set-to-debut-on.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/astoria-long-island-city/long-island-citys-acclaimed-adda-restaurant-moving-away-report",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/adda-indian-canteen-long-island-city",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T18:56:23.610Z"
+  },
+  {
+    "id": "sekend-sun-astoria",
+    "name": "Sek'end Sun",
+    "desc": "Former Astoria cocktail bar — reportedly closed Aug 2025; not a rooftop and not near Casa Enrique.",
+    "longDesc": "Sek'end Sun was an unpretentious, laid-back cocktail bar at 32-11 Broadway in Astoria with a cozy interior, a backyard patio with a neon 'Queens' sign, late-night happy hours and events like mix-tape bingo. Multiple 2025 review sources and the current Yelp listing indicate the venue has closed; it is also ~2 miles north of Casa Enrique (LIC/Hunters Point), not the 5-min walk the research brief assumed, and was never a rooftop with Manhattan-skyline views. Do not include in active itineraries until status is re-verified.",
+    "url": "https://www.sekendsun.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-04:00, Sun 11:00-02:00 (when open — status unverified)",
+    "notes": "STATUS WARNING: Yelp listing labeled CLOSED as of 2026 fetch; Restaurantji review (Aug 2025) reads 'it will be missed as it closes its doors this weekend' (https://www.restaurantji.com/ny/queens/sekend-sun-/). LOCATION CORRECTION: 32-11 Broadway, Astoria NY 11106 — ~2 miles from Casa Enrique (5-48 49th Ave, LIC), not a 5-min walk. FORMAT CORRECTION: ground-floor cocktail bar with backyard patio, not rooftop; no direct Manhattan-skyline view. Pre-closure vibe was chill/unpretentious with inventive cocktails and small plates (https://www.theinfatuation.com/new-york/reviews/sekend-sun). Re-verify before promoting; better candidates for the post-Casa-Enrique drinks slot are enqueued.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/sekend-sun-astoria-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/queens/sekend-sun-/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/sekend-sun",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g29837-d12176730-Reviews-Sek_end_Sun-Astoria_Queens_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://hedonistshedonist.com/blog/sekend-sun-review/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T18:59:17.816Z"
   }
 ]
