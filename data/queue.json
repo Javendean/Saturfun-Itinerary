@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Discover venue: other-half-brewing-centre-st-carroll-gardens-carroll-gardens (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId other-half-brewing-centre-st-carroll-gardens-carroll-gardens",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:18:26.841Z"
-  },
-  {
-    "topic": "Discover venue: gantry-plaza-state-park-lic (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId gantry-plaza-state-park-lic",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: russ-and-daughters-cafe-les (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId russ-and-daughters-cafe-les",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: the-high-line-manhattan (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId the-high-line-manhattan",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: socrates-sculpture-park-lic (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId socrates-sculpture-park-lic",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
     "topic": "Discover venue: felix-roasting-co-nomad (referenced by itinerary-candidate)",
     "reason": "candidate stop references unknown venueId felix-roasting-co-nomad",
     "requestedBy": "agent",
@@ -1948,5 +1918,83 @@
     "reason": "Pre-dinner drink option in same drive-cluster as Lucali for evening track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T09:04:06.894Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom (333 Douglass St)",
+    "reason": "adjacent craft-beer anchor in same drive cluster — strong food program and event programming complements Other Half's beer-only model",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:06:09.619Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens sandwiches",
+    "reason": "natural pre/post-brewery food stop walkable-ish or short drive from Other Half Centre St",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:06:09.619Z"
+  },
+  {
+    "topic": "Hunters Point South Park LIC waterfront",
+    "reason": "Directly adjacent to Gantry Plaza — extends the LIC skyline-park stop with newer piers and a tidal salt marsh; same drive, same parking pool",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:08:16.507Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park Sunset Park",
+    "reason": "Brooklyn-side counterpart 5 min from IC — gives the itinerary a true in-zone skyline alternative when LIC is too far",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:08:16.507Z"
+  },
+  {
+    "topic": "Domino Park Williamsburg waterfront",
+    "reason": "Closer Brooklyn skyline-photo option (~15 min from IC) with adjacent food (Tacocina); useful as a swap when LIC drive time blows out the schedule",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:08:16.507Z"
+  },
+  {
+    "topic": "Frankel's Delicatessen Greenpoint smoked fish bagels",
+    "reason": "Brooklyn-native appetizing/deli analog ~15 min from IC; preserves the smoked-fish brunch slot without crossing into Manhattan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:10:35.262Z"
+  },
+  {
+    "topic": "Shelsky's of Brooklyn Carroll Gardens appetizing counter",
+    "reason": "Family-run BK appetizing shop with sit-down bagels and lox boards ~10 min from IC; fills the same Russ-shaped hole inside the drive radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:10:35.262Z"
+  },
+  {
+    "topic": "Mile End Delicatessen Boerum Hill Montreal-style smoked meat",
+    "reason": "Adjacent Jewish-deli register (smoked meat vs smoked fish) ~12 min from IC; diversifies the brunch corpus with a complementary cuisine",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:10:35.262Z"
+  },
+  {
+    "topic": "Little Island at Pier 55 Manhattan",
+    "reason": "Natural pairing with High Line southern terminus — free, photo-heavy, 5-min walk from Gansevoort entrance; expands Manhattan-justified corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:12:59.281Z"
+  },
+  {
+    "topic": "Chelsea Market food hall Manhattan",
+    "reason": "Indoor food + shopping anchor directly under the High Line; covers rain-day fallback and foodie vibe for the same trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:12:59.281Z"
+  },
+  {
+    "topic": "Hudson Yards Vessel + Edge observation Manhattan",
+    "reason": "Northern terminus of the High Line; lets the planner build a full Chelsea-to-Hudson-Yards day with a single parking transaction",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:12:59.281Z"
+  },
+  {
+    "topic": "Noguchi Museum LIC",
+    "reason": "Immediately adjacent to Socrates on Vernon Blvd; indoor sculpture counterpart that lets a track pair free-outdoor + ticketed-indoor art in one walking radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:15:19.009Z"
+  },
+  {
+    "topic": "SculptureCenter Long Island City",
+    "reason": "Contemporary sculpture institution ~15 min walk from Socrates; rounds out an LIC art cluster for the artist-friends cohort",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:15:19.009Z"
   }
 ]
