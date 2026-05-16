@@ -2526,45 +2526,44 @@
   {
     "id": "hometown-bar-b-que-red-hook",
     "name": "Hometown Bar-B-Que",
-    "desc": "Texas-style brisket and ribs in a cavernous Red Hook warehouse with live music and easy parking.",
-    "longDesc": "Pitmaster Billy Durney's Red Hook smokehouse turns out central Texas brisket, lacquered pork belly, jalapeno-cheddar sausage, and lamb belly banh mi from 14-hour-smoked oak fires. The 200-seat warehouse with picnic tables, full bar, and weekend live music is order-at-the-counter and family-friendly, which makes it a forgiving 6:30 PM dinner block when timing slips. Michelin Guide listed and consistently ranked among the country's best BBQ.",
+    "desc": "Pit-smoked Texas-style BBQ on Van Brunt — brisket, ribs, jalapeño-cheddar sausage, live music nights",
+    "longDesc": "Billy Durney's Red Hook flagship turns out central-Texas-style brisket, beef ribs, and jalapeño-cheddar sausage from oak-fired offset smokers, served on butcher paper in a warehouse-sized hall (Michelin Guide listed). The bar pours local drafts and frozen margs, and weekend evenings often have live music. Order at the counter — get there before they sell out.",
     "url": "https://hometownbbq.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
-      "chill",
-      "photo"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-20:00; Sun 12:00-19:00",
-    "notes": "454 Van Brunt St, Brooklyn NY 11231. Order-at-counter, no reservations — arriving at 6:00-6:30 PM on weekends usually means a 15-25 min line but tables turn fast (Yelp). Free street parking on Van Brunt and side streets is the most plentiful in this slice of Brooklyn, plus surface lots near Fairway/Valentino Pier — easier than Carroll Gardens or Cobble Hill (Tripadvisor parking thread). Popular meats (brisket, beef rib) often sell out by 7-7:30 PM on Sundays — go for brisket + sausage early. Michelin Guide listed (guide.michelin.com). Kitchen closes 1 hour before posted close.",
+    "driveFromIC": "9 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-21:00 (or until sold out)",
+    "notes": "454 Van Brunt St, Brooklyn NY 11231 (hometownbbq.com). Free street parking on Van Brunt and side streets, though the Fairway/Brooklyn Crab block gets congested — park a few blocks south near Coffey St if needed (tripadvisor). 10-min walk to Sunny's Bar and Botanica makes this the natural anchor for the Red Hook food-then-drinks track. Order-at-counter line moves fast; meats can sell out before posted close.",
     "sources": [
       {
         "url": "https://hometownbbq.com/",
-        "accessed": "2026-05-16T04:30:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
-        "accessed": "2026-05-16T04:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
-        "accessed": "2026-05-16T04:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://m.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.tripadvisor.com/ShowTopic-g60827-i617-k9574504-Parking_at_Hometown_Barbecue-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T04:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T04:33:02.009Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T17:56:04.434Z"
   },
   {
     "id": "frankies-457-spuntino",
@@ -12238,10 +12237,10 @@
   {
     "id": "bar-blondeau",
     "name": "Bar Blondeau",
-    "desc": "6th-floor rooftop at Wythe Hotel with floor-to-ceiling Manhattan skyline views, natural wine and small plates",
-    "longDesc": "Bar Blondeau sits on the 6th floor of the Wythe Hotel with floor-to-ceiling windows facing the East River and Manhattan skyline, plus an outdoor terrace in season. The menu leans French/Spanish/Portuguese small plates with seafood, signature and frozen cocktails, and an international natural-wine list. Sunset Hour weekdays 5-7pm runs $11 cocktails — ideal for pre-show drinks one block from Brooklyn Bowl.",
+    "desc": "Sixth-floor Wythe Hotel rooftop with floor-to-ceiling Manhattan skyline views, French small plates and natural-wine cocktails.",
+    "longDesc": "Bar Blondeau sits six floors above the Wythe Hotel in Williamsburg with floor-to-ceiling windows framing unobstructed Manhattan skyline and East River views. The seafood-leaning French menu pairs with a seasonal, easy-sipping cocktail list and a deep natural-wine program, and the room shifts from a sunset hang into a late-night plant-filled lounge. Weekends open early (Sat 2pm, Sun 1pm), which makes it a viable golden-hour stop before dinner rather than only a nightcap.",
     "url": "https://www.barblondeau.com/",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.sanity.io/images/q8q5tcan/production/93d6fd92e3a8a65a7429500a98d0b51465e39091-2500x1786.jpg?w=1600&q=75&fit=max&auto=format",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
@@ -12254,9 +12253,9 @@
     ],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "17:00-01:00",
-    "notes": "80 Wythe Ave Fl 6, Brooklyn NY 11249 — one block from Brooklyn Bowl. Resy reservations recommended; floor-to-ceiling skyline views from indoor lounge plus seasonal outdoor terrace (wythehotel.com/bar-blondeau). Sunset Hour weekdays 5-7pm = $11 cocktails (barblondeau.com). Williamsburg street parking tight on weekends — Wythe Hotel valet ~$60 or use Williamsburg Hotel garage. Phone (718) 460-8006.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 14:00-01:00, Sun 13:00-00:00",
+    "notes": "6th-floor rooftop at Wythe Hotel, 80 Wythe Ave (wythehotel.com/bar-blondeau). Weekend hours from official site: Sat opens 2pm, Sun opens 1pm; Fri/Sat close 1am, Sun-Thu close midnight (barblondeau.com). Reservations on Resy strongly recommended for sunset window. Built-in sound system supports DJ plug-in for private events but regular nights are ambient music, not a DJ program (wythehotel.com/bar-blondeau). Drive from Industry City via BQE ~18 min off-peak; street parking on Wythe/Berry is hit-or-miss on weekends — Wythe Hotel valet is the reliable fallback.",
     "sources": [
       {
         "url": "https://www.barblondeau.com/",
@@ -12267,18 +12266,14 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://resy.com/cities/new-york-ny/venues/barblondeau",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.therooftopguide.com/rooftop-bars-in-new-york/bar-blondeau-at-wythe-hotel.html",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:52:05.631Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:49:55.781Z"
   },
   {
     "id": "wakuwaku-ny",
@@ -15923,5 +15918,130 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T17:47:53.270Z"
+  },
+  {
+    "id": "achilles-heel-greenpoint",
+    "name": "Achilles Heel (CLOSED Feb 2026)",
+    "desc": "Andrew Tarlow's beloved Greenpoint waterfront bar — permanently closed Feb 8, 2026 after 13 years.",
+    "longDesc": "Achilles Heel was Andrew Tarlow's 13-year-old neighborhood bar and cafe at 180 West St on the Greenpoint waterfront, famous for a tightly curated rotating menu (saucisson sec, livers & black trumpet toast, cowboy ribeye) and a serious cocktail program in a Belgian-block-floor, fireplace-warmed room. It closed permanently on Sunday February 8, 2026 due to protracted financial hardship — do NOT route guests here. Use El Pingüino, Le Crocodile, or Bar Blondeau as late-dinner Greenpoint substitutes.",
+    "url": "https://www.achillesheelnyc.com/location/achilles-heel-greenpoint-brooklyn/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "permanently closed",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "PERMANENTLY CLOSED 2026-02-08",
+    "notes": "PERMANENTLY CLOSED. Final service Sunday 2026-02-08; closure announced via Instagram 2026-02-09 citing sustained financial hardship after 13 years (whatnow.com, nationaltoday.com). Former address: 180 West St, Brooklyn NY 11222. Former weekend hours were Sat 4pm–1am / Sun 4pm–12am. This entry exists only to prevent the corpus from re-suggesting a defunct venue; flag for removal or mark closed in UI. Greenpoint late-dinner substitutes at similar Tarlow-adjacent quality: Bar Blondeau (Wythe rooftop, kitchen to ~11pm), Le Crocodile (Wythe, French brasserie, weekend service late), El Pingüino (Manhattan Ave, daily 10pm–midnight late happy hour with sardines + Ferraris).",
+    "sources": [
+      {
+        "url": "https://whatnow.com/new-york/restaurants/a-beloved-brooklyn-neighborhood-bar-has-closed-after-more-than-a-decade/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://nationaltoday.com/us/ny/brooklyn/news/2026/02/09/achilles-heel-andrew-tarlows-greenpoint-bar-and-cafe-has-closed-after-13-years/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/achilles-heel-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2026/02/best-restaurants-greenpoint-brooklyn-nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:52:01.130Z"
+  },
+  {
+    "id": "widow-jane-distillery-tour",
+    "name": "Widow Jane Distillery Flagship Tour",
+    "desc": "45-min Red Hook bourbon tour with limestone-water tasting; weekends 1/3/5 PM, $27pp",
+    "longDesc": "Widow Jane's flagship distillery tour walks small groups (max 10) through their Red Hook production floor — copper still, oak barrel room, and the Rosendale limestone mineral water that's their signature — finishing with a guided tasting of their bourbon and rye lineup. It's the same 218 Conover Street building as Botanica, so you can roll a 3 PM tour straight into cocktails next door without moving the car. Reserve ahead via AnyRoad; weekend slots sell out, especially the 1 PM.",
+    "url": "https://widowjane.com/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat-Sun tours at 1:00, 3:00, 5:00 PM; distillery open 11:00-19:00",
+    "notes": "Booking: https://app.anyroad.com/i/plugin/widowjanedistillery/tours/widow-jane-distillery-tour ($27/person, max 10 guests, must reserve) (widowjane.com/visit). Street parking on Conover/Coffey is usually findable on weekends — Red Hook has no subway, so it's a car-friendly stop. Pairs natively with Botanica (same building, opens 2 PM weekends) — do the 1 PM or 3 PM tour, then walk 20 ft to the bar (widowjane.com/botanica). Adults 21+ for the tasting portion.",
+    "sources": [
+      {
+        "url": "https://widowjane.com/visit",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://app.anyroad.com/i/plugin/widowjanedistillery/tours/widow-jane-distillery-tour",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://widowjane.com/botanica",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/widow-jane/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T17:53:54.372Z"
+  },
+  {
+    "id": "red-hook-winery",
+    "name": "The Red Hook Winery",
+    "desc": "Pier 41 urban winery with Long Island-sourced bottles, flights, and a barrel-room view onto NY Harbor.",
+    "longDesc": "Inside a converted Civil War-era warehouse on Pier 41, Red Hook Winery makes small-batch wines from Long Island and Finger Lakes grapes — winemaker-led house style ranging from oxidative orange wines to mineral chardonnays. Walk-in à la carte tastings run $20/guest (applied as credit toward flights, glasses, or bottles), or book a 60-min guided flight of six wines at $45/guest with light snacks. Indoor + outdoor seating right next to Strong Rope Brewery, with harbor views and a working barrel room visible through the tasting bar.",
+    "url": "https://redhookwinery.com/tastingroom",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Fri-Sat 12:00-20:00, Sun 12:00-18:00",
+    "notes": "Address 175 Van Dyke St, Pier 41 Suite 325A — directly next to Strong Rope Brewery, ~5 min walk to Sunny's and ~8 min walk to Botanica, completing the Red Hook drinks triangle (source: redhookwinery.com/tastingroom). À la carte $20/guest = bar credit; guided experience $45/guest covers six wines + snacks; 21+, dog-friendly, walk-ins welcome first-come first-served (source: redhookwinery.com/tastingroom). Barrel-room tours paused but returning Summer 2026 at $30/guest. Free street parking on Van Dyke and Conover is usually findable on weekends; Pier 41 has a small private lot adjacent to Hometown BBQ.",
+    "sources": [
+      {
+        "url": "https://redhookwinery.com/tastingroom",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://redhookwinery.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-red-hook-winery-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:57:59.365Z"
   }
 ]
