@@ -8576,8 +8576,8 @@
   {
     "id": "russ-and-daughters-cafe-les",
     "name": "Russ & Daughters Cafe",
-    "desc": "Century-old appetizing house's sit-down LES cafe — smoked fish boards, bagels, egg creams.",
-    "longDesc": "The full-service spinoff of the 1914 Houston Street appetizing shop, located at 127 Orchard St in the Lower East Side. Counter-service classics get the table treatment: Pastrami Russ (pastrami-cured salmon), the Mensch (sturgeon + butter), Heebster whitefish/salmon salad with horseradish dill cream — all on house bagels or bialys, plus borscht, latkes, and egg creams. Walk-in only, frequent wait; Michelin Guide listed.",
+    "desc": "Iconic LES sit-down appetizing: smoked fish boards, bagels & lox, babka French toast — walk-in only.",
+    "longDesc": "Sit-down cafe spin-off of the 1914 Russ & Daughters appetizing shop, opened 2014 at 127 Orchard St on the 100th anniversary of the original store. The Times called it one of the 10 best new restaurants in NYC; specialties are cured salmon boards, Eggs Benny on challah, latkes, caramelized chocolate babka French toast, and egg creams. 68 seats, walk-in only, no takeout from the cafe — go early or expect a ~45 min wait at peak brunch.",
     "url": "https://www.russanddaughterscafe.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8590,10 +8590,10 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "75-90 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "08:30-15:30",
-    "notes": "Manhattan LES — ~22 min from IC via Manhattan Bridge off-peak, longer on weekends; uniquely justified by 100+ year appetizing lineage and Michelin listing (guide.michelin.com). Walk-in only, text-when-ready waitlist on busy weekends (shop.russanddaughters.com). Weekend hours Sat/Sun 8:30-15:30 (yelp.com). Weekend street parking on Orchard is hostile — recommend Edison ParkFast garage on Ludlow or Essex St lot. Pair only with other Manhattan stops to avoid bridge-thrash, OR cluster in Brooklyn and treat this as a special-occasion swap.",
+    "hoursWeekend": "08:30-15:30 (last seating)",
+    "notes": "Manhattan-only justified pick: no Brooklyn equivalent for sit-down NY-Jewish appetizing of this lineage. Address 127 Orchard St, LES — fastest from IC via Hugh L. Carey Tunnel or Manhattan Bridge (zone tagged 'dumbo' as Brooklyn-side anchor since enum has no Manhattan/LES). Walk-in only, no reservations; cash & card accepted. Weekend parking: street parking on LES is brutal — use garages on Ludlow/Essex/Delancey ($25-40 for 2h). Last seating Fri-Sun is 3:30 PM, so plan an early-day stop (source: official site). Pairs well with a follow-on walk to Economy Candy or the Tenement Museum.",
     "sources": [
       {
         "url": "https://www.russanddaughterscafe.com/",
@@ -8604,35 +8604,27 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/russ-and-daughters-cafe-new-york-5",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/russ-daughters-cafe",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/russ-and-daughters-cafe",
+        "url": "https://www.theinfatuation.com/new-york/reviews/russ-daughters-cafe",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:10:35.256Z"
+    "lastResearchedAt": "2026-05-16T09:43:56.794Z"
   },
   {
     "id": "the-high-line-manhattan",
     "name": "The High Line",
-    "desc": "Elevated 1.45-mile linear park built on a former freight rail spur through Chelsea and Hudson Yards.",
-    "longDesc": "Manhattan's iconic elevated greenway runs from Gansevoort St in the Meatpacking District up to 34th St at Hudson Yards, threaded with native plantings, public art installations, and dramatic skyline + Hudson River viewpoints. Multiple stair, ramp, and elevator entrances let you drop in mid-walk; the Moynihan Connector extends access at 31st & Dyer. Best as a photo-forward stroll paired with Chelsea Market or Little Island as a follow-on stop.",
+    "desc": "1.45-mile elevated park on a converted freight rail line through Chelsea and Meatpacking",
+    "longDesc": "An elevated linear park built on a former NYC Central Railroad spur, running from Gansevoort St up to 34th St with Hudson River views, rotating public art, and seasonal plantings. Free, walk-only, and best entered at Gansevoort (south end) or via the Moynihan Connector by Hudson Yards; the park is open 7am-10pm in warm months. Uniquely justified as a Manhattan stop — it's a one-of-a-kind elevated walk with no Brooklyn equivalent.",
     "url": "https://www.thehighline.org/visit/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "industry-city",
     "vibe": [
       "photo",
-      "chill",
+      "active",
       "curious"
     ],
     "dietary": [],
@@ -8640,7 +8632,7 @@
     "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "07:00-22:00",
-    "notes": "Manhattan stop (Chelsea/Meatpacking/Hudson Yards) — uniquely justified because no Brooklyn analog exists for an elevated rail-trail park. Park admission is free but parking is not: nearest garages run $23–$85 (SP+ at 474 W 13th St is closest; One High Line Garage LLC at 530 W 23rd is 24/7) (spothero.com, parkmobile.io). Weekend hours 7am–10pm Apr 1–Nov 30, 7am–8pm Dec 1–Mar 31 (thehighline.org). Drive from IC via Hugh L. Carey Tunnel + West Side Hwy ~20–25 min off-peak. Service dogs only; no other pets. Schema gap: zone enum has no Manhattan option — tagged 'dumbo' as nearest waterfront/elevated-promenade analog.",
+    "notes": "Free public park, no onsite parking — closest garage is SP+ at 474 W 13th St, $23-85 depending on day (spothero.com). Hours 7am-10pm April-Nov, 7am-8pm Dec-March (thehighline.org). Service note: Hudson Yards Gate and Western Rail Yards have intermittent closures around May 19-21, 2026 (thehighline.org). Park from IC via Brooklyn-Battery Tunnel to West Side Highway exit at 14th St, ~22 min off-peak. Best paired with Chelsea Market at the Gansevoort entrance.",
     "sources": [
       {
         "url": "https://www.thehighline.org/visit/",
@@ -8651,10 +8643,6 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/destination/high-line",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.nycgovparks.org/parks/the-high-line",
         "accessed": "2026-05-16T00:00:00Z"
       }
@@ -8662,28 +8650,28 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:12:59.274Z"
+    "lastResearchedAt": "2026-05-16T09:45:50.047Z"
   },
   {
     "id": "socrates-sculpture-park-lic",
-    "name": "Socrates Sculpture Park (LIC)",
-    "desc": "Free outdoor sculpture park on the East River with rotating commissions and Manhattan skyline views.",
-    "longDesc": "A five-acre waterfront park in Long Island City, Queens, founded in 1986 on a former illegal dumpsite. It commissions large-scale outdoor sculpture year-round and is celebrating its 40th anniversary with the 'BEGIN AGAIN' initiative; the current 'Socrates Annual 2025: Up/Rooted' show runs through June 8, 2026. Admission is free, the park is open 9am to sunset every day, and the skyline-facing lawn is a strong photo and sketching spot for artists.",
+    "name": "Socrates Sculpture Park",
+    "desc": "Free 5-acre East River sculpture park with rotating outdoor commissions and Manhattan skyline views.",
+    "longDesc": "A 5-acre waterfront park in Long Island City founded in 1986 on a former illegal dumpsite, now showing rotating large-scale contemporary sculpture year-round on the East River. The current marquee show 'The Socrates Annual 2025: Up/Rooted' runs through June 8, 2026, alongside a newly revitalized acre called 'The Point.' Admission is free, dogs welcome, and the Manhattan/Roosevelt Island skyline view across the river is one of the best in the outer boroughs.",
     "url": "https://socratessculpturepark.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
+      "chill",
       "curious",
-      "photo",
-      "chill"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "45-60 min",
-    "driveFromIC": "25 min",
-    "hoursWeekend": "9:00-sunset",
-    "notes": "Located at 32-01 Vernon Blvd, Long Island City, NY 11106 — technically Queens, not Brooklyn (closest zone enum is greenpoint, across Newtown Creek) (socratessculpturepark.org). Admission free, open 365 days 9am-sunset (socratessculpturepark.org/visit/directions-and-hours). No on-site parking except one ADA spot, but free street parking in the surrounding LIC neighborhood (socratessculpturepark.org FAQ). Drive from Industry City via Gowanus + BQE ~25 min on weekends (top of preferred range). Pairs naturally with the adjacent Noguchi Museum for an art-focused track; user's artist-friend cohort makes the sketch-friendly lawn and rotating commissions a strong fit.",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "09:00-sunset",
+    "notes": "Actually in LIC/Queens (32-01 Vernon Blvd) — zone tagged 'greenpoint' as the closest Brooklyn-side allowed value since LIC isn't in the zone enum; geographically it sits directly across Newtown Creek from Greenpoint (source: socratessculpturepark.org/visit/directions-and-hours/). No on-site parking except one ADA spot at Vernon/Broadway; street parking in the surrounding blocks plus a small public lot on 33rd Rd & Vernon Blvd next to Rainey Park (source: socratessculpturepark.org FAQ). Free admission, open 365 days 9am-sunset (source: socratessculpturepark.org). Pair naturally with the Noguchi Museum one block south on Vernon Blvd for a curated art double-header.",
     "sources": [
       {
         "url": "https://socratessculpturepark.org/",
@@ -8696,39 +8684,34 @@
       {
         "url": "https://socratessculpturepark.org/about-us/faqs/",
         "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.nycgovparks.org/parks/socrates-sculpture-park",
-        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:15:19.002Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T09:39:46.912Z"
   },
   {
     "id": "felix-roasting-co-nomad",
     "name": "Felix Roasting Co. (NoMad)",
-    "desc": "Late-19th-century-inspired specialty coffee bar with a 500-tile hand-drawn mural and bespoke terrazzo floor.",
-    "longDesc": "Felix Roasting Co.'s flagship at 450 Park Avenue South sits on the NoMad/Midtown South edge and is built as much like an immersive exhibition as a coffee shop. Expect house-roasted espresso, Supermoon Bakehouse pastries, signature lattes and tea service in a Victorian-jewel-box interior that photographs unusually well. A worthwhile Manhattan detour from Industry City when the day calls for a 'photo' anchor stop.",
+    "desc": "Aesthetic specialty coffee bar in NoMad with espresso, coffee cocktails, and light snacks; walk-in only.",
+    "longDesc": "Flagship Felix Roasting location at 450 Park Ave S in NoMad, designed as an immersive cafe with hand-drawn murals, custom patterned terrazzo, and a heavily photographed interior. Menu is specialty espresso, coffee cocktails, tea, dairy alternatives, and light snacks (avocado toast, pastries) rather than a full lunch sit-down. Walk-in only, no reservations required (yelp).",
     "url": "https://felixroastingco.com/pages/visit-us",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "photo",
       "chill",
-      "curious"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "45-60 min",
-    "driveFromIC": "25 min",
-    "hoursWeekend": "08:00-17:00",
-    "notes": "450 Park Ave S, New York, NY 10016 — NoMad. Manhattan exception justified by uniquely ornate, photo-driven interior (hand-drawn 500-tile mural, custom terrazzo floor) per official site (felixroastingco.com). Weekend parking on Park Ave S / side streets is metered and tight on Saturdays — consider a paid garage off 30th–32nd St. Drive from IC ~22–28 min via Brooklyn-Battery Tunnel weekends (Google Maps).",
+    "driveFromIC": "25-30 min",
+    "hoursWeekend": "08:00-20:00",
+    "notes": "OUT OF PREFERRED RADIUS: located in NoMad Manhattan, 450 Park Ave S, ~25-30 min drive from Industry City via Battery Tunnel (Saturday daytime). Yelp lists Saturday 8AM-8PM (yelp.com/biz/felix-roasting-new-york-4). Official site shows '8am-5pm' on visit-us page (felixroastingco.com) — Yelp's 8-8 may reflect updated hours; verify by phone before scheduling. No reservations; walk-in upscale coffee shop. Functions as a coffee/snack stop, not a true lunch venue — pair with a separate lunch if used. Justification for Manhattan: aesthetic photo-spot and roastery quality that no IC-radius Brooklyn coffee currently matches in the corpus (candidate 2 anchor).",
     "sources": [
       {
         "url": "https://felixroastingco.com/pages/visit-us",
@@ -8739,14 +8722,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.atlantacoffeeshops.com/blog/visiting-the-magnificent-felix-roasting-co-in-nyc",
+        "url": "https://la-latte.com/listings/felix-roasting-co-nomad/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/felix-roasting-co-new-york",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:17:27.696Z"
+    "lastResearchedAt": "2026-05-16T09:49:21.095Z"
   },
   {
     "id": "stone-street-fidi-walk",
@@ -8790,39 +8777,40 @@
   {
     "id": "moma-ps1-lic",
     "name": "MoMA PS1",
-    "desc": "Contemporary art museum in a former Long Island City public school — large-scale installations and weekend programs.",
-    "longDesc": "MoMA PS1 occupies a converted 1893 Romanesque Revival schoolhouse in Long Island City and is one of the oldest and largest US institutions devoted solely to contemporary art. Galleries rotate ambitious installations, video, and emerging-artist surveys across three floors, plus the boiler room and stairwells. Weekends are anchored by the courtyard's Young Architects Program pavilion in summer and the Warm Up music series on select Saturdays.",
-    "url": "https://www.moma.org/ps1/",
+    "desc": "Contemporary art museum in a converted LIC schoolhouse; free admission since Jan 2026.",
+    "longDesc": "MoMA PS1 occupies a Romanesque Revival former public school in Long Island City and programs ambitious contemporary exhibitions, performances, and installations across multiple floors and outdoor courtyards. As of January 1, 2026, admission is free for all visitors thanks to a gift from Sonya Yu, making it NYC's largest free museum (press.moma.org). Weekend visits typically run 2-3 hours; reserve a timed entry at mo.ma/ps1tickets.",
+    "url": "https://www.momaps1.org/en/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "industry-city",
     "vibe": [
       "curious",
-      "photo",
-      "chill"
+      "photo"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
     "duration": "90-120 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "12:00-18:00",
-    "notes": "22-25 Jackson Ave, Long Island City, NY 11101. Open Thu-Mon 12-6pm, closed Tue/Wed (moma.org/ps1). $10 general, $5 students/seniors, free for NYC residents with ID. ~22 min from Industry City via BQE; metered street parking on Jackson/46th Ave plus commercial lots near Court Sq. Note: LIC sits in Queens — outside the standard Brooklyn zone list — but mapped to 'greenpoint' as the nearest adjacent neighborhood across Newtown Creek for itinerary clustering. Pairs well with a Greenpoint food stop on the return leg.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 10:00-18:00, Sun 12:00-18:00",
+    "notes": "Free admission for all visitors starting Jan 1, 2026 (press.moma.org PDF). Located at 22-25 Jackson Ave at 46th Ave (momaps1.org/en/visit). No dedicated lot — metered/street parking in LIC; weekend metering is lighter than weekdays. Closest to IC via BQE → Pulaski Bridge, ~18 min off-peak. Reservations encouraged via mo.ma/ps1tickets.",
     "sources": [
       {
-        "url": "https://www.moma.org/ps1/",
+        "url": "https://www.momaps1.org/en/visit",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.google.com/maps/place/MoMA+PS1/",
+        "url": "https://press.moma.org/wp-content/uploads/2025/12/Free-Admission-Press-Release_Final_.pdf",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/articles/moma-ps1-guide/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:23:34.773Z"
+    "lastResearchedAt": "2026-05-16T09:41:45.318Z"
   },
   {
     "id": "joes-shanghai-chinatown",

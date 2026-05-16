@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Discover venue: socrates-sculpture-park-lic",
-    "reason": "Astoria/LIC outdoor sculpture park used as candidate 2's opening anchor; not in corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Discover venue: moma-ps1-lic",
-    "reason": "Contemporary art museum in LIC used as candidate 3's second stop; not in corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Discover venue: russ-and-daughters-cafe-les",
-    "reason": "Lower East Side smoked-fish brunch sit-down referenced by candidate 1; not in corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Discover venue: the-high-line-manhattan",
-    "reason": "Chelsea elevated park walked in candidates 1, 4, 5; not in corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Discover venue: felix-roasting-co-nomad",
-    "reason": "NoMad coffee/lunch spot used by candidate 2; verify Saturday lunch hours and reservations",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
     "topic": "Discover venue: stone-street-fidi-walk",
     "reason": "FiDi cobblestone street + Battery Park walking loop in candidate 2; not a single venue but a coherent stop",
     "requestedBy": "agent",
@@ -2110,5 +2080,83 @@
     "reason": "On-site seasonal café/kiosk at the waterfront — gives the photo stop a coffee/drink anchor for the itinerary",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T09:37:44.126Z"
+  },
+  {
+    "topic": "Rainey Park LIC waterfront",
+    "reason": "Adjacent green space with the small public parking lot Socrates visitors actually use; useful as a low-cost picnic alt or buffer stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:39:46.920Z"
+  },
+  {
+    "topic": "Astoria Bohemian Hall & Beer Garden",
+    "reason": "10-min drive north of Socrates; classic Czech beer garden anchors a food/drinks leg for any LIC-Queens track expansion",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:39:46.920Z"
+  },
+  {
+    "topic": "The Noguchi Museum LIC",
+    "reason": "Stone-and-garden sculpture museum 12 min from IC, complements PS1's edgier contemporary lineup",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:41:45.325Z"
+  },
+  {
+    "topic": "Court Square Diner LIC",
+    "reason": "Classic 24-hr diner 4 min from PS1 — useful refuel anchor when chaining LIC art stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:41:45.325Z"
+  },
+  {
+    "topic": "Frankel's Delicatessen Greenpoint smoked-fish brunch",
+    "reason": "Brooklyn alternative for appetizing-style brunch with easier parking; fills the 'smoked fish' slot for car-anchored itineraries that skip Manhattan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:43:56.799Z"
+  },
+  {
+    "topic": "Shelsky's of Brooklyn Cobble Hill bagels and smoked fish",
+    "reason": "Cobble Hill counterpart ~10 min from IC; rounds out the Brooklyn smoked-fish corpus the user is missing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:43:56.799Z"
+  },
+  {
+    "topic": "Economy Candy Lower East Side",
+    "reason": "Adjacent LES stop (3 blocks from R&D Cafe) — if user ever does a Manhattan track, this is the natural pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:43:56.799Z"
+  },
+  {
+    "topic": "Little Island Manhattan — floating park at Pier 55",
+    "reason": "Pairs naturally with High Line south entry, another unique Manhattan-only outdoor experience for the photo/curious vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:45:50.053Z"
+  },
+  {
+    "topic": "Chelsea Market food hall — 9th Ave at 15th St",
+    "reason": "Direct ground-level neighbor to High Line's Gansevoort entrance; covers foodie vibe in same trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:45:50.053Z"
+  },
+  {
+    "topic": "Hudson Yards Vessel and Edge observation deck",
+    "reason": "Sits at the High Line's north terminus via the Moynihan Connector; expands the Manhattan-justified cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:45:50.053Z"
+  },
+  {
+    "topic": "Devocion Brooklyn (Williamsburg roastery cafe)",
+    "reason": "In-zone aesthetic specialty coffee alternative — Brooklyn flagship with skylit interior, 12-15 min from IC, would replace the Manhattan detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:49:21.101Z"
+  },
+  {
+    "topic": "Sey Coffee Bushwick",
+    "reason": "Critically acclaimed Brooklyn roaster with light-filled minimalist space — covers the 'destination coffee' slot without crossing into Manhattan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:49:21.101Z"
+  },
+  {
+    "topic": "Partners Coffee Williamsburg",
+    "reason": "Brooklyn specialty roaster on a candidate-2-compatible itinerary, pairs with Williamsburg lunch options already in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:49:21.101Z"
   }
 ]
