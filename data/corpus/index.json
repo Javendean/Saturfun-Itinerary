@@ -2766,10 +2766,10 @@
   {
     "id": "maison-premiere",
     "name": "Maison Premiere",
-    "desc": "New Orleans–style oyster bar with 30+ varieties, absinthe cocktails, and a romantic garden patio.",
-    "longDesc": "A Williamsburg classic styled like a turn-of-the-century French Quarter saloon, with a marble horseshoe bar, the largest absinthe selection in the US, and 30+ oysters sourced directly from the farms. Weekend brunch (Sat & Sun 10am–3:30pm) serves the full raw bar — oyster towers, plateaux, crudo, and Bloody Marys — and the ivy-covered back garden is open April–November.",
+    "desc": "Belle Époque oyster + absinthe bar with the largest U.S. absinthe selection and 30+ oyster varieties",
+    "longDesc": "Williamsburg's elegant ode to old-world oyster houses and Parisian absinthe cafés, with 30+ daily oyster varieties sourced direct from farmers and the deepest absinthe list in the United States, served with traditional drip-fountain ceremony. Belle Époque tin ceilings, marble bar, and a seasonal back garden make it the most photogenic raw bar in NYC — a sibling-tier swap for Delmano on a romantic late night.",
     "url": "https://maisonpremiere.com/",
-    "photoUrl": "",
+    "photoUrl": "https://maisonpremiere.com/wp-content/media-versions/2016/03/600w_x900h__q_90_c_Maison_Premiere_0626_web.jpg",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
@@ -2777,34 +2777,40 @@
       "foodie",
       "photo"
     ],
-    "dietary": [],
+    "dietary": [
+      "gluten-free"
+    ],
     "priceBand": "$$$",
-    "duration": "75-90 min",
+    "duration": "60-90 min",
     "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 10:00–02:00 / Sun 10:00–01:00 (brunch 10:00–15:30)",
-    "notes": "Weekend brunch oysters CONFIRMED — full raw bar served Sat & Sun 10:00–15:30 (maisonpremiere.com, opentable.com). Reservations via Resy up to 1 month out, max party 6 in dining room or garden. Garden seasonal Apr–Nov; ask for garden when booking for the photo/romantic vibe. Note: the old $1 weekend oyster happy hour referenced in older blogs is no longer offered per the official site — pricing is full menu. Drive from IC ~18 min via Prospect Expwy + BQE; from Flushing ~22 min via Grand Central Pkwy + BQE off-peak. Street parking on Bedford is tight Sat afternoons; metered lots on N 1st/Berry are the fallback. Pairs cleanly as a 1:00–2:30pm romantic anchor on a Flushing→Williamsburg afternoon track, or as the dressier counterpoint to a Smorgasburg-foodie route.",
+    "hoursWeekend": "Sat 10:00-02:00, Sun 10:00-01:00",
+    "notes": "298 Bedford Ave, Williamsburg 11249. Brunch 10am-3:30pm Sat/Sun; oyster service Sat to 12:30am, Sun to 11:30pm (maisonpremiere.com). Resy reservations up to 1 month out for parties up to 6; bar/dining room walk-ins welcome (resy.com). Seasonal back garden April-November. Street parking on Bedford/Grand; weekend metering and parking on side streets (S. 1st, Driggs) usually opens up. Recognized on North America's 50 Best Bars 2026 (theworlds50best.com). Strong alt-night swap for Hotel Delmano in the same Williamsburg cluster — same neighborhood vibe, larger raw bar, more theatrical absinthe service.",
     "sources": [
       {
         "url": "https://maisonpremiere.com/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/maison-premiere",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/maison-premiere",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T22:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/maison-premiere-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/maison-premiere",
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://www.theworlds50best.com/bars/northamerica/the-list/maison-premiere.html",
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/maison-premiere",
+        "accessed": "2026-05-16T22:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T18:44:38.625Z",
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T21:56:54.439Z",
     "driveFromFlushing": "22 min"
   },
   {
@@ -7786,48 +7792,48 @@
   {
     "id": "casa-enrique-lic",
     "name": "Casa Enrique",
-    "desc": "LIC's flagship Mexican from Chiapas-born chef Cosme Aguilar — held a Michelin star 2014-2023, still a Michelin Guide pick.",
-    "longDesc": "Chef Cosme Aguilar's regional Mexican (heavy on Chiapas roots) sits on a quiet LIC side street and earned NYC's first-ever Michelin star for a Mexican kitchen in 2014, holding it through 2022. The star was dropped in the 2023 guide but the restaurant remains a Michelin Guide-listed favorite for dishes like enchiladas de mole de Piaxtla, pollo al carbón, and the crispy frijoles tostados — the bar program leans hard into mezcal and tequila flights. Brunch service Sat-Sun from 11am makes it viable as a late-lunch driving-track anchor, not just a dinner-only stop.",
+    "desc": "NYC's only Michelin-starred Mexican — Chiapas-inflected lunch four blocks from MoMA PS1.",
+    "longDesc": "Chef Cosme Aguilar's love letter to his mother's Chiapas kitchen, holding a Michelin star continuously since 2014. Order the chicken mole de Piaxtla (almond, plantain, chocolate), enchiladas Doña Blanca in salsa verde, and aguachile negro; weekend service opens at 11am so it doubles cleanly as lunch before or after MoMA PS1, which is a 4-block walk away.",
     "url": "https://casaenriquelic.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "foodie",
-      "romantic",
-      "curious"
+      "curious",
+      "romantic"
     ],
     "dietary": [
-      "gluten-free",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
-    "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "25 min",
-    "hoursWeekend": "Sat 11:00-22:30, Sun 11:00-22:15",
-    "notes": "Address: 5-48 49th Ave, LIC NY 11101, just off Vernon Blvd in Hunters Point (yelp.com). Earned Michelin star 2014 — held through 2022, removed 2023, but kitchen and chef unchanged and it remains a Michelin Guide entry (guide.michelin.com). Reservations on Resy and OpenTable; weekend brunch + dinner both available so it slots into either a late-lunch or dinner-track itinerary. Street parking + nearby municipal lots on 49th Ave; ~25 min drive from Industry City via BQE → Pulaski Bridge. Geographic zone tagged 'greenpoint' since LIC sits directly across Newtown Creek (closest enum option — Saturfun zones don't yet include Queens).",
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:00-22:30",
+    "notes": "Actually in Long Island City (Queens) at 5-48 49th Ave — tagged 'greenpoint' as the nearest in-schema zone since LIC sits directly across Newtown Creek. ~0.4 mi / 8-min walk to MoMA PS1 (Michelin Guide). Weekend service starts 11am Sat & Sun, full lunch menu available (casaenriquelic.com hours). Drive from Industry City via Gowanus Expy → BQE → Pulaski Bridge runs ~15-22 min off-peak. Street parking is the norm but tight on weekends; several paid lots within 2 blocks (Yelp). Signature: mole de Piaxtla, enchiladas Doña Blanca, fish tacos, tres leches (The Infatuation; I Just Want To Eat review).",
     "sources": [
       {
         "url": "https://casaenriquelic.com/",
-        "accessed": "2026-05-16T08:15:00Z"
+        "accessed": "2026-05-16T22:00:00Z"
       },
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/casa-enrique",
-        "accessed": "2026-05-16T08:15:00Z"
+        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-enrique",
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/casa-enrique",
+        "accessed": "2026-05-16T22:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/casa-enrique-long-island-city",
-        "accessed": "2026-05-16T08:15:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/casa-enrique",
-        "accessed": "2026-05-16T08:15:00Z"
+        "accessed": "2026-05-16T22:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:16:51.376Z"
+    "lastResearchedAt": "2026-05-16T22:05:25.257Z"
   },
   {
     "id": "dutch-kills-lic",
@@ -16636,12 +16642,12 @@
   {
     "id": "sculpturecenter-lic",
     "name": "SculptureCenter",
-    "desc": "Non-profit contemporary sculpture museum in a Maya Lin–redesigned LIC trolley repair shop; admission always free.",
-    "longDesc": "SculptureCenter occupies a former trolley repair shop on Purves Street (aka 'Sculpture Street') reimagined by architect Maya Lin, with a raw industrial main hall plus an underground vaulted basement that artists treat as a second canvas. Programming leans into experimental, emerging, and mid-career sculpture — summer 2026 brings Akinsanya Kambon's Soul Sessions, Ellen Pau's She Moves, and In Practice: Magdalena Petroni (all May 28–mid-summer). Admission is always free, which makes it a low-stakes companion stop after Socrates Sculpture Park or before lunch in LIC.",
+    "desc": "Free contemporary-sculpture museum in a converted LIC trolley-repair shop, 5 min from MoMA PS1.",
+    "longDesc": "Founded in 1928 and rehoused by Maya Lin in a converted trolley-repair facility on Purves Street, SculptureCenter shows ambitious contemporary sculpture and time-based work across a raw ground floor and a haunting underground gallery. Reopens May 28, 2026 with Akinsanya Kambon: Soul Sessions, Ellen Pau: She Moves, and In Practice: Magdalena Petroni (all running through summer). Pairs naturally with MoMA PS1 a 5-min walk south for a single Queens contemporary-art loop.",
     "url": "https://www.sculpture-center.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "greenpoint",
     "vibe": [
       "curious",
       "chill",
@@ -16649,32 +16655,28 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
+    "duration": "45-75 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "12:00-18:00",
-    "notes": "Free admission, Thu–Mon 12–6pm; closed Tue/Wed (sculpture-center.org). Maya Lin–redesigned former trolley repair shop with a vaulted basement gallery — pairs naturally with Socrates Sculpture Park ~15 min walk north or The Noguchi Museum nearby (nyctourism.com). No on-site lot: metered street parking on Jackson Ave + several public garages within a few blocks (sculpture-center.org/visit/directions). From Industry City take BQE → Pulaski Bridge or Midtown Tunnel approach; ~20–25 min off-peak weekend.",
+    "notes": "Address: 44-19 Purves Street, LIC, NY 11101. Admission free (sculpture-center.org). Hours Thu-Mon 12-6, closed Tue/Wed (sculpture-center.org). Closed for install through May 27, 2026; normal program resumes Thu May 28, 2026 with three new shows (sculpture-center.org). 5-min walk to MoMA PS1 at 22-25 Jackson Ave — bundle them on the same Queens stop. Street parking on Purves/Crane/Jackson is usually findable on weekends; metered until 7pm. Drive from Industry City ~20-25 min via Gowanus Expressway + BQE + Pulaski Bridge off-peak.",
     "sources": [
       {
         "url": "https://www.sculpture-center.org/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.sculpture-center.org/visit/7237/directions",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T22:00:00Z"
       },
       {
         "url": "https://www.sculpture-center.org/visit/93/admission-and-accessibility",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T22:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/sculpturecenter/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T22:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:42:20.047Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T22:03:09.399Z"
   },
   {
     "id": "adda-indian-canteen",
@@ -18893,5 +18895,87 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T21:54:44.744Z"
+  },
+  {
+    "id": "the-four-horsemen",
+    "name": "The Four Horsemen",
+    "desc": "Michelin-starred natural wine bar from James Murphy with seasonal small plates and 800+ bottle list",
+    "longDesc": "Opened 2015 by LCD Soundsystem's James Murphy and partners, this glowing cedar-clad room at 295 Grand St pioneered Williamsburg's natural wine scene and later earned a Michelin star. Expect veal sweetbread skewers, oeuf mayonnaise with caviar, butter beans in parmesan broth, and fennel-pollen-butter house bread alongside a low-intervention list deep enough to spend an evening on. Intimate, candlelit, '80s samba on the speakers — pair with Lilia or Delmano for a Williamsburg evening crawl.",
+    "url": "https://www.fourhorsemenbk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat-Sun 11:00-22:45",
+    "notes": "295 Grand St, Williamsburg. Michelin-starred natural wine bar co-owned by James Murphy of LCD Soundsystem (The Infatuation review). 800+ bottle low-intervention list, small plates menu. Reservations strongly recommended via Resy; walk-ins possible at the bar early. Street parking in Williamsburg is doable on weekends but tight — budget 10 extra min. Pairs well with Lilia (pasta) or Delmano (cocktails) for a wine-forward Williamsburg evening track.",
+    "sources": [
+      {
+        "url": "https://www.fourhorsemenbk.com/",
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/four-horsemen",
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-four-horsemen-brooklyn",
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/the-four-horsemen",
+        "accessed": "2026-05-16T22:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:58:58.067Z"
+  },
+  {
+    "id": "kent-ave-garage-williamsburg",
+    "name": "Kent Ave Garage (25 Kent / 82 N 13th)",
+    "desc": "Walkable, flat-rate weekend garage one block from Wythe Hotel and the North Williamsburg waterfront",
+    "longDesc": "Indoor garage at 82 N 13th St (entrance on Kent Ave) that locks in flat weekend rates starting around $16 via SpotHero and serves as the most practical parking anchor for the Wythe / William Vale / Domino Park cluster. Wythe Hotel itself has no on-site parking and no in-house valet (only a loading zone at N 11th & Wythe), so this garage is the de-facto drop-point for the Williamsburg track. From here it's a 3-4 min walk to Wythe Hotel, Lemon's rooftop, Marlow & Sons, and the Domino Park waterfront.",
+    "url": "https://spothero.com/destination/nyc/wythe-hotel-parking",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "all-day park",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "24/7 (rates vary)",
+    "notes": "Wythe Hotel has no on-site parking or valet (wythehotel.com/accessibilty). Nearest alternatives: William Vale Hotel valet at 113 N 12th St (literally next door, starting ~$24/2hr) and Valet Garage at 34 N 7th St (cheapest entry ~$6/2hr, 7-min walk). For weekend day-trips, prebook Kent Ave Garage on SpotHero for ~$15-23 flat (spothero.com/destination/nyc/wythe-hotel-parking). Loading zone at N 11th & Wythe allows quick drop-offs before parking.",
+    "sources": [
+      {
+        "url": "https://www.wythehotel.com/accessibilty",
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/wythe-hotel-parking",
+        "accessed": "2026-05-16T22:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/wythe-hotel-parking",
+        "accessed": "2026-05-16T22:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T22:01:06.643Z"
   }
 ]
