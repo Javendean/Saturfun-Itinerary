@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Discover venue: public-records (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId public-records",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:11:55.737Z"
-  },
-  {
-    "topic": "Discover venue: sunken-harbor-club (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId sunken-harbor-club",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:11:55.737Z"
-  },
-  {
-    "topic": "Discover venue: louis-valentino-jr-park-pier",
-    "reason": "candidate 002 ends sunset at Louis Valentino Jr. Park & Pier in Red Hook — not in corpus; canonical Statue-of-Liberty sunset spot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:11:55.750Z"
-  },
-  {
-    "topic": "Discover venue: insa (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId insa",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:14:57.768Z"
-  },
-  {
-    "topic": "Discover venue: lucali (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId lucali",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:14:57.768Z"
-  },
-  {
     "topic": "Discover venue: other-half-brewing-centre-st-carroll-gardens-carroll-gardens (referenced by itinerary-candidate)",
     "reason": "candidate stop references unknown venueId other-half-brewing-centre-st-carroll-gardens-carroll-gardens",
     "requestedBy": "agent",
@@ -1906,5 +1876,77 @@
     "reason": "fills the 'art' slot in a Red Hook geographic track within 5 min of Valentino Pier",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T08:54:27.500Z"
+  },
+  {
+    "topic": "Four Horsemen Williamsburg natural-wine restaurant",
+    "reason": "Adjacent hi-fi/listening-bar-adjacent dining anchor for a different cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:56:25.316Z"
+  },
+  {
+    "topic": "Eavesdrop Brooklyn listening bar Greenpoint",
+    "reason": "Direct genre peer — strengthens the hi-fi-bar corpus across multiple zones",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:56:25.316Z"
+  },
+  {
+    "topic": "Hart's Brooklyn Bed-Stuy dinner spot",
+    "reason": "Complementary food-forward evening anchor within driving range of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:56:25.316Z"
+  },
+  {
+    "topic": "Gage & Tollner Downtown Brooklyn historic chophouse",
+    "reason": "Sits directly below Sunken Harbor Club; obvious dinner-before-cocktails pairing within the same building",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:58:20.913Z"
+  },
+  {
+    "topic": "The Long Island Bar Cobble Hill cocktail bar",
+    "reason": "Driveable Brooklyn craft-cocktail alternative ~10 min from IC if Sunken Harbor is full (walk-in-only risk)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:58:20.913Z"
+  },
+  {
+    "topic": "Leyenda Carroll Gardens Latin cocktail bar",
+    "reason": "Another Ivy Mix / driveable Brooklyn cocktail destination filling the same 'curious romantic nightcap' slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:58:20.913Z"
+  },
+  {
+    "topic": "Sunny's Bar Red Hook live music dive",
+    "reason": "Another late-night driving-anchor option near IC with a totally different vibe (waterfront bluegrass dive vs. Korean karaoke) — pairs well as an alternate Track C closer.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:02:12.764Z"
+  },
+  {
+    "topic": "Four Horsemen natural wine bar Williamsburg",
+    "reason": "Strong late-evening sit-down wine destination ~20 min from IC; balances Insa's high-energy karaoke with a quieter foodie closer for the corpus.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:02:12.764Z"
+  },
+  {
+    "topic": "House of Yes Bushwick variety show venue",
+    "reason": "Alternative late-night entertainment anchor 20-25 min from IC — themed nights and circus/drag programming expand the 'curious + photo' vibe coverage.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:02:12.764Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens — sandwich shop walkable from Lucali during wait",
+    "reason": "Pairs naturally with Lucali's 2-hr wait window; expands Carroll Gardens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:04:06.894Z"
+  },
+  {
+    "topic": "Books Are Magic Cobble Hill bookstore",
+    "reason": "Walkable browse spot to kill time during Lucali wait; rounds out an evening cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:04:06.894Z"
+  },
+  {
+    "topic": "Sunken Hundred or Leyenda cocktail bar Carroll Gardens/Cobble Hill",
+    "reason": "Pre-dinner drink option in same drive-cluster as Lucali for evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:04:06.894Z"
   }
 ]

@@ -7265,41 +7265,41 @@
   {
     "id": "sunken-harbor-club",
     "name": "Sunken Harbor Club",
-    "desc": "Fine-dining tiki on the second floor of Gage & Tollner — 21+ after 7pm, walk-in only.",
-    "longDesc": "An immersive tropical cocktail bar on the second floor of the landmarked Gage & Tollner in Brooklyn Heights, run by St. John Frizell and Garret Richard with serious tiki credentials. Walk-in only with bar seats and tables first-come, first-served; 21+ after 7pm. Late-night counterpoint to Industry City — order Mai Tais and Navy Grogs in a candlelit room of nautical bric-a-brac (timeout.com, sunkenharbor.club).",
+    "desc": "Upscale tropical-tiki cocktail lounge tucked above Gage & Tollner in Downtown Brooklyn.",
+    "longDesc": "A second-floor cocktail bar above the landmark Gage & Tollner dining room, helmed by Chief Cocktail Officer Garret Richard with a tropical-leaning, technique-driven menu. The room reads more candlelit fine-dining than dive-tiki — refined glassware, slow-built drinks, 21+ after 7pm. Walk-in only, so come early on weekends or expect a wait at the stairs.",
     "url": "https://www.sunkenharbor.club/location/new-york/",
-    "photoUrl": "https://images.getbento.com/accounts/0d731b78b985c0b254905dfc5ed63d08/media/images/83735hosp.png",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "chill",
       "romantic",
+      "foodie",
       "curious"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "17:00-00:00",
-    "notes": "372 Fulton St, 2nd Floor — entrance inside Gage & Tollner. Walk-in only, no reservations; arrive early on Fri/Sat to avoid wait (sunkenharbor.club). 21+ after 7pm. Street parking tight in Downtown Brooklyn — Pierrepont/Cadman Plaza garages are the realistic options. Counterpoint to IC late-night because it pulls the Late Night block away from waterfront/industrial toward a polished, low-lit, vintage tiki room (timeout.com).",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "17:00-24:00",
+    "notes": "Address: 372 Fulton St, 2nd Floor, Brooklyn NY 11201 — one flight up from Gage & Tollner (sunkenharbor.club). Walk-in only, first-come/first-served bar seats and tables (sunkenharbor.club). 21+ after 7pm daily (sunkenharbor.club). Weekday hours 17:00-23:00, Fri-Sat 17:00-24:00 (sunkenharbor.club). ~14 min drive from Industry City via Hamilton Ave / Brooklyn-Queens Greenway; metered street parking is patchy on weekends, but garages around Fulton Mall (e.g., Hoyt St) are within a block. Pairs naturally as a nightcap after a Downtown Brooklyn / Brooklyn Heights dinner stop.",
     "sources": [
       {
         "url": "https://www.sunkenharbor.club/location/new-york/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/bars/sunken-harbor-club",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T08:55:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sunken-harbor-club-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T08:55:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/sunken-harbor-club",
+        "accessed": "2026-05-16T08:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T07:51:16.895Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:58:20.903Z"
   },
   {
     "id": "midnights-williamsburg",
@@ -8340,40 +8340,185 @@
   {
     "id": "louis-valentino-jr-park-pier",
     "name": "Louis Valentino Jr. Park & Pier",
-    "desc": "Red Hook waterfront pier with the closest land-based front view of the Statue of Liberty.",
-    "longDesc": "Small flower-filled park on the Red Hook waterfront with a pier jutting straight at the Statue of Liberty, plus sightlines to Governors Island, Lower Manhattan, and Staten Island. Tiny sandy beach, grassy lounging spots, and free summer kayaking on Thursdays/Sundays via Red Hook Boaters. Pair it with a slice from Steve's Authentic Key Lime Pie a block away.",
+    "desc": "Red Hook waterfront park with the closest land-based head-on view of the Statue of Liberty — peak sunset spot.",
+    "longDesc": "A small Red Hook waterfront park at Coffey & Ferris with a public pier that gives one of the most unobstructed Statue of Liberty sightlines in NYC, along with Governors Island, Lower Manhattan, and Staten Island across the harbor. Free, dog-friendly, and a classic golden-hour pick for photographers; Red Hook Boaters runs free kayak sessions off the beach here in summer. Pair with a Defonte's sandwich, Steve's Key Lime Pie, or a Hometown BBQ run before the light drops.",
     "url": "https://www.nycgovparks.org/parks/valentino-pier",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
-      "chill",
       "photo",
-      "romantic"
+      "romantic",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
+    "duration": "30-60 min",
     "driveFromIC": "10 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Free public NYC park; no restrooms on-site. Street parking on Coffey St and Ferris St usually findable on weekends — Red Hook has no subway so parking pressure is lower than the rest of Brooklyn (NYC Parks). Best light is golden hour facing west across the harbor (Atlas Obscura). Red Hook Boaters offer free kayak rides summer Thursdays/Sundays.",
+    "notes": "Closest front-facing land view of the Statue of Liberty in NYC (Atlas Obscura, NYC Parks). Address: Coffey St & Ferris St / 104 Ferris St, Brooklyn 11231 (Yelp, NYC Tourism). Park is free, open 6a-1a per standard NYC Parks rule (nycgovparks.org). Sunset is the move — face due west across the harbor. Street parking on Coffey/Ferris/Van Brunt is usually findable on weekend evenings but tightens after 6pm in summer. Red Hook Boaters offers free kayaking off the small beach Sundays/Thursdays in season (redhookboaters.org). ~10 min drive from Industry City via Columbia St.",
     "sources": [
-      {
-        "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
       {
         "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
         "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.redhookboaters.org/directions",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:00:22.825Z"
+  },
+  {
+    "id": "public-records",
+    "name": "Public Records",
+    "desc": "Hi-fi listening bar, vegan cafe, and live music space in a historic Gowanus building.",
+    "longDesc": "Public Records is a multi-space music-driven campus inside the former ASPCA headquarters on the Gowanus Canal, spanning a vegan cafe, an atrium restaurant and music lounge, a club-grade Sound Room, an UPSTAIRS cocktail listening bar, and an open-air Nursery. Custom hi-fi sound system, plant-based menu, and ongoing live/DJ programming make it equally workable as a weekend daytime cafe stop or a late-night anchor. Weekend hours stretch from 10am into the early morning, so it pairs well with either brunch or post-dinner cocktails (publicrecords.nyc).",
+    "url": "https://publicrecords.nyc/",
+    "photoUrl": "https://publicrecords.nyc/wp-content/uploads/2026/01/atrium-hazy.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 10:00-04:00, Sun 10:00-21:00",
+    "notes": "233 Butler St, Brooklyn, NY 11217 — Gowanus/Carroll Gardens edge, ~3 mi from Industry City via 3rd Ave or Prospect Expy. Five distinct spaces: Cafe Public (vegan day cafe), The Atrium (restaurant + music lounge), Sound Room (live/club), UPSTAIRS (intimate hi-fi cocktail bar), The Nursery (outdoor) (publicrecords.nyc; en.wikipedia.org). Closed Mon-Tue; Wed-Thu 6p-10p; Fri 6p-4a; Sat 10a-4a; Sun 10a-9p (yelp.com). Street parking on Butler/Nevins is usually available weekends; metered lots on 3rd Ave nearby.",
+    "sources": [
+      {
+        "url": "https://publicrecords.nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Public_Records_(venue)",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/public-records-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/arts-entertainment/photos-inside-gowanuss-experimental-venue-public-records",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T08:54:27.493Z"
+    "lastResearchedAt": "2026-05-16T08:56:25.306Z"
+  },
+  {
+    "id": "insa",
+    "name": "Insa",
+    "desc": "Gowanus Korean BBQ + private karaoke rooms + late-night dance floor in one cavernous space.",
+    "longDesc": "Insa is a sprawling Korean BBQ restaurant in Gowanus with table grills, banchan, and soju cocktails up front, and a warren of private karaoke rooms in the back. Open Wednesday through Sunday evenings only — Friday and Saturday it runs until 2:00 AM, making it the strongest late-night anchor within a short drive of Industry City. Reservations for karaoke require a 20% gratuity and fill fast on weekends.",
+    "url": "https://insabrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$$",
+    "duration": "2-3 hours",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri 17:30-02:00, Sat 17:30-02:00, Sun 16:00-22:00",
+    "notes": "328 Douglass St, Brooklyn NY 11217, Gowanus (insabrooklyn.com). Closed Mon/Tue; Wed/Thu 17:30-00:00, Fri/Sat 17:30-02:00, Sun 16:00-22:00 (insabrooklyn.com/hours-and-location). Karaoke rooms require advance reservation and add 20% gratuity (insabrooklyn.com/karaoke). Street parking on Douglass/Nevins is feasible weekend evenings; ~10 min drive from IC up 3rd Ave to Douglass.",
+    "sources": [
+      {
+        "url": "https://insabrooklyn.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://insabrooklyn.com/hours-and-location",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://insabrooklyn.com/karaoke",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/insa-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:02:12.759Z"
+  },
+  {
+    "id": "lucali",
+    "name": "Lucali",
+    "desc": "Cash-only, BYOB Carroll Gardens pizzeria — thin-crust pies and calzones in a candlelit room",
+    "longDesc": "Mark Iacono's legendary Henry Street pizzeria, often cited among NYC's best pies, serves a tight menu of wood-fired thin-crust pizza and oversized calzones in an intimate, candlelit dining room. It's cash-only and BYOB with no reservations — weekend waits routinely run 2–4 hours, so put your name in early and walk Court Street while you wait.",
+    "url": "https://www.lucali.com/location/lucali-brooklyn/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "2-3 hr (incl. wait)",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 17:00-23:00, Sun 17:00-22:00",
+    "notes": "575 Henry St, Carroll Gardens. Cash-only, BYOB, no reservations — arrive by 5pm weekends to put name on the list, then leave for 2+ hrs (Yelp/Prince Street Hospitality). Closed Tuesday. One pie + one calzone feeds 2–3. Owner Mark Iacono (@lucali_bk). Curbside parking on Henry/Carroll is feasible weekends but tight; consider parking near Court St and walking.",
+    "sources": [
+      {
+        "url": "https://www.lucali.com/location/lucali-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lucali-brooklyn-3",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.princestreethg.com/location/lucali-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/lucali_bk/?hl=en",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:04:06.888Z"
   }
 ]
