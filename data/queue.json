@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Pioneer Works late event nights, Red Hook",
-    "reason": "Arts venue with periodic Second Sunday and after-hours music programming — adds a 'curious/photo' counterweight to the dive-bar anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:50:37.924Z"
-  },
-  {
-    "topic": "Union Hall Park Slope late night comedy basement",
-    "reason": "Sibling venue to Littlefield with nightly stand-up in a basement room ~10 min from IC — complements the late-night block with a smaller, more intimate alternative",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:52:59.001Z"
-  },
-  {
-    "topic": "The Bell House Gowanus live music and comedy schedule",
-    "reason": "Larger Gowanus sister venue (also Bowery-adjacent operator) — bigger headliner shows and weekend dance parties, fills the gap when Littlefield is booked private",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:52:59.001Z"
-  },
-  {
-    "topic": "Sultan Room Bushwick late night live music venue",
-    "reason": "Further from IC (~18 min) but rare-find rooftop + Moroccan-styled live music room worth one expanded-radius option for the Late Night block",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:52:59.001Z"
-  },
-  {
-    "topic": "Re-research existing venue: Japan Village (Industry City) — add driveFromFlushing + Sat parking notes",
-    "reason": "anchor-adjacent; almost every Saturday plan touches it; needs same Flushing-relative ETA",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:55:22.859Z"
-  },
-  {
     "topic": "Re-research existing venue: Court Street Grocers (Carroll Gardens) — add driveFromFlushing + parking notes",
     "reason": "common breakfast first-stop; BQE→Atlantic Ave route from Flushing changes ETA meaningfully vs IC-relative number",
     "requestedBy": "agent",
@@ -1612,5 +1582,95 @@
     "reason": "Another Van Brunt dive a few blocks north — alternate late-night anchor if Ice House is at capacity",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T07:57:47.558Z"
+  },
+  {
+    "topic": "Sunny's Bar Red Hook live bluegrass jam",
+    "reason": "Iconic Red Hook waterfront dive with Saturday bluegrass — pairs naturally with Pioneer Works on a Red Hook art+music night",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:59:52.662Z"
+  },
+  {
+    "topic": "Rooftop Reds urban vineyard Brooklyn Navy Yard / Red Hook",
+    "reason": "Romantic photo-friendly evening spot within Red Hook cluster; complements arts venue with drinks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:59:52.662Z"
+  },
+  {
+    "topic": "Light Industry experimental film screenings Brooklyn",
+    "reason": "Adjacent 'curious' programming — similar weird/arts crowd, expands the late-evening art corpus beyond Pioneer Works",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:59:52.662Z"
+  },
+  {
+    "topic": "Eagle Provisions / Korzo Haus Park Slope late dinner before Union Hall",
+    "reason": "Need a 5th-Ave Park Slope pre-show dinner that pairs with a Union Hall basement set",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:01:44.608Z"
+  },
+  {
+    "topic": "Black Forest Brooklyn beer hall Park Slope",
+    "reason": "Bocce + biergarten adjacent to Union Hall's vibe; expands Park Slope chill/active options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:01:44.608Z"
+  },
+  {
+    "topic": "Bell House Gowanus comedy and trivia nights",
+    "reason": "Third sibling venue (with Littlefield + Union Hall) under the same ownership — completes the late-night cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:01:44.608Z"
+  },
+  {
+    "topic": "Union Hall Park Slope live shows and bocce calendar",
+    "reason": "Same operator family (Bowery-adjacent indie comedy circuit) with two bocce courts — daytime/early-evening counterpart to Bell House",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:03:55.112Z"
+  },
+  {
+    "topic": "Music Hall of Williamsburg upcoming shows",
+    "reason": "Bowery Presents mid-size venue (~550 cap) — fills the next size tier above Bell House for indie headliners",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:03:55.112Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom events and music",
+    "reason": "Walking distance from Bell House — pre-show beer + occasional DJ nights round out a Gowanus night-out cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:03:55.112Z"
+  },
+  {
+    "topic": "House of Yes Bushwick immersive nightclub",
+    "reason": "Right around the corner from Sultan Room — pairs naturally for a Bushwick late-night cluster and is the canonical rare-find NYC nightlife venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:05:55.531Z"
+  },
+  {
+    "topic": "Turk's Inn Bushwick Wisconsin-supper-club restaurant",
+    "reason": "Same owners as Sultan Room and shares the kitchen — natural pre-show dinner anchor at the same address",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:05:55.531Z"
+  },
+  {
+    "topic": "Mood Ring Bushwick astrology cocktail bar",
+    "reason": "Walkable from Sultan Room, photo-friendly themed bar, expands the Bushwick late-night options beyond music venues",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:05:55.531Z"
+  },
+  {
+    "topic": "Industry City Food Hall (non-Japan Village vendors) — bagel/coffee/dessert anchors",
+    "reason": "completes the IC anchor picture; gives breakfast/dessert options when Japan Village is mid-day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:07:53.159Z"
+  },
+  {
+    "topic": "Industry City weekend parking deep-dive (2nd Ave lot vs. street vs. validated)",
+    "reason": "every Saturday plan touches this decision; deserves a standalone reference entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:07:53.159Z"
+  },
+  {
+    "topic": "Sunset Park 8th Ave (Brooklyn Chinatown) dim sum — 5 min drive from IC",
+    "reason": "natural pair-with for Japan Village days when the group wants two Asian-food stops without re-parking far",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:07:53.159Z"
   }
 ]

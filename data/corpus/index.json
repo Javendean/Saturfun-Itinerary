@@ -368,38 +368,48 @@
   {
     "id": "pioneer-works-red-hook",
     "name": "Pioneer Works",
-    "desc": "Cathedral-scale 25,000 sq ft former ironworks now hosting art + music + science residencies",
-    "longDesc": "Cathedral-scale 25,000 sq ft former ironworks now hosting art + music + science residencies; free Wed-Sun 12-6, has 20K sq ft garden + courtyard programs",
-    "url": "https://pioneerworks.org/visit",
+    "desc": "Cavernous 19th-c. ironworks turned nonprofit arts center — free Second Sundays + evening concerts",
+    "longDesc": "Boundary-pushing nonprofit in a converted Red Hook ironworks hosting exhibitions, experimental music, film, and conversations across three floors plus a garden. Galleries are free Wed–Sun 12–6pm; ticketed evening concerts (typically 8pm doors) and the monthly free Second Sundays open house (12–6pm) layer in live music, open studios, and food. Warm-weather garden programs feel quintessentially Red Hook.",
+    "url": "https://pioneerworks.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "curious",
-      "photo",
-      "weird",
-      "social"
+      "photo"
     ],
     "dietary": [],
-    "priceBand": "$",
-    "duration": "1-2 hr",
-    "driveFromIC": "8 min drive",
-    "hoursWeekend": null,
-    "notes": "Saturdays often have free open studios + special events; worth checking the calendar.",
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 12:00-18:00 galleries; evening concerts ~20:00 (varies)",
+    "notes": "159 Pioneer St, Red Hook. No on-site parking — street parking in surrounding industrial blocks is usually findable on weekends; arrive 30–60 min early on busy nights (pioneerworks.org/visit). Second Sundays are free, monthly, all-ages, 12–6pm with open studios + live music + food (pioneerworks.org). Ticketed concerts at 8pm doors throughout 2026 (pioneerworks.org/calendar). Great photo counterweight to dive-bar anchors — high-ceiling brick interior, garden, and rotating installations make for unique shots.",
     "sources": [
       {
-        "url": "C:\\tmp\\saturfun-content-research.md",
-        "accessed": "2026-05-15T22:12:44.369Z"
+        "url": "https://pioneerworks.org/",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://pioneerworks.org/calendar",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://pioneerworks.org/programs/second-sundays-may-2026",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://pioneerworks.org/music",
+        "accessed": "2026-05-16T08:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsPhoto": true,
-    "needsAiBackground": true,
+    "needsAiBackground": false,
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 3 — 12:30 PM Art & Anime",
     "neighborhood": "Red Hook",
-    "lastResearchedAt": "2026-05-15T22:12:44.382Z"
+    "lastResearchedAt": "2026-05-16T07:59:52.653Z"
   },
   {
     "id": "a-i-r-gallery-dumbo",
@@ -7406,5 +7416,186 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T07:57:47.552Z"
+  },
+  {
+    "id": "union-hall-park-slope",
+    "name": "Union Hall",
+    "desc": "Park Slope warehouse-turned-bar with indoor bocce upstairs and a nightly comedy/music basement.",
+    "longDesc": "Union Hall is a 5,000 sq ft Park Slope landmark with cozy firesides, a library nook, and two indoor bocce courts on the main floor, plus a downstairs performance room hosting comedy and live music seven nights a week. The basement is smaller and more intimate than Littlefield — mixed seating/standing, accessed via one flight of stairs — making it a strong sibling pairing for late-night programming. Sister venue to Littlefield in Gowanus, roughly 10-12 minutes from Industry City by car.",
+    "url": "https://unionhallny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Fri 4pm-4am, Sat 1pm-4am, Sun 1pm-2am",
+    "notes": "702 Union St between 5th/6th Ave (unionhallny.com/info). Basement room is mixed seating/standing — arrive early for seats. Comedy + music 7 nights/week; tickets via Eventbrite. Kitchen serves until midnight Fri/Sat. Street parking in Park Slope is tough on weekends; nearby garages on 4th Ave per Parkopedia. Sibling venue to Littlefield, so a Littlefield→Union Hall double-header is plausible.",
+    "sources": [
+      {
+        "url": "https://unionhallny.com/info",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://unionhallny.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/bar/union-hall-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:01:44.601Z"
+  },
+  {
+    "id": "the-bell-house",
+    "name": "The Bell House",
+    "desc": "Gowanus comedy/music hall in a 1920s factory — big headliners, weekend dance parties, podcast tapings.",
+    "longDesc": "Sister venue to Williamsburg's Music Hall and a bigger sibling to Littlefield, The Bell House occupies a 1920s printing factory with an 88-foot wooden barrel-vault ceiling and a 450 sq ft stage. Programming spans national touring comedians (Sam Campbell, Todd Barry, Naomi Ekperigin), The Moth StorySLAM, live podcast tapings, indie bands, and late-night DJ dance parties. Two rooms — main hall for headliners and a front lounge bar that stays open after shows.",
+    "url": "https://www.thebellhouseny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Sat-Sun 12:00-04:00 (shows typically 19:00-23:00, late DJ sets until 04:00)",
+    "notes": "149 7th Street in Gowanus, ~8 min drive from Industry City up 3rd Ave (thebellhouseny.com/visit). Street parking available but tight on show nights — they explicitly recommend transit, so leaving by 23:00 helps. Two rooms: 400-cap main hall and a separate front bar/lounge. Strong comedy slate in 2026: Heated Rivalry (5/26), Moth StorySLAM (5/27), Ear Hustle Live (5/28), Casey Balsham taping (5/29), Todd Barry taping (5/30) (thebellhouseny.com/shows). Books bigger names than Littlefield and is the natural fallback when Littlefield is privatized.",
+    "sources": [
+      {
+        "url": "https://www.thebellhouseny.com/",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://www.thebellhouseny.com/visit",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://www.thebellhouseny.com/shows",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/the-bell-house/",
+        "accessed": "2026-05-16T08:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T08:03:55.108Z"
+  },
+  {
+    "id": "sultan-room",
+    "name": "The Sultan Room",
+    "desc": "Ottoman-kitsch live music room + Kismet Garden rooftop with late-night kebab counter in Bushwick.",
+    "longDesc": "Sister venue to Turk's Inn supper club, The Sultan Room is a 70s-kitsch, imagined-Ottoman-Empire live music room and event space on Starr Street — eclectic bookings (indie, DJ nights, drag, multimedia) plus a rooftop called Kismet Garden for al-fresco drinks like a garam-masala piña colada. Friday/Saturday programming runs until 4am, and an attached late-night kebab counter from Turk's Inn keeps food coming after most Brooklyn kitchens close. Worth the ~18 min drive from Industry City when you want a rare-find venue that doesn't feel like another generic Bushwick warehouse.",
+    "url": "https://thesultanroom.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Fri-Sat 19:00-04:00; Sun 19:00-00:00 (rooftop Kismet Garden Tue-Sun 17:00-23:00)",
+    "notes": "234 Starr St, Brooklyn NY 11237, off the Jefferson L stop and around the corner from House of Yes (thesultanroom.com). No valet; street parking around the venue (turksnyc.com). Bookings vary nightly — check DICE for the show schedule (dice.fm). Attached kebab counter from Turk's Inn covers late-night food. Slightly outside the 15-min IC radius but earns the extra drive for the rooftop + room combo.",
+    "sources": [
+      {
+        "url": "https://thesultanroom.com/",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://thesultanroom.com/about-us/",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://thesultanroom.com/faqs/",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://turksnyc.com/about/",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/music-and-nightlife/6152-new-music-venue-the-sultan-room-comes-to-bushwick-with-a-late-night-kabab-counter-and-rooftop/",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://dice.fm/venue/sultan-room-rooftop-x57a",
+        "accessed": "2026-05-16T08:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:05:55.524Z"
+  },
+  {
+    "id": "japan-village",
+    "name": "Japan Village at Industry City",
+    "desc": "Japanese food hall + Sunrise Mart grocery inside Industry City — anchor stop for almost every Saturday plan",
+    "longDesc": "A 20,000+ sq ft Japanese marketplace inside Industry City featuring Sunrise Mart for groceries, snacks, and sake plus ~9 vendor stalls — Sushi Uesugi, Ramen Setagaya, Obentoyasan onigiri/bento, Hachi for takoyaki/okonomiyaki, and more. Entrance on 3rd Ave at 34th St, directly across from the rest of IC's courtyards, so it doubles as a parking landing pad for the whole day.",
+    "url": "https://www.japanvillage.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Drive from Flushing ~35-45 min via BQE/Gowanus on a typical Saturday (Whitestone Bridge → BQE-W → exit 23 Hamilton Ave; LIE → Kosciuszko → BQE adds 5-10 min if Williamsburg backs up). Parking: IC's secure 2nd Ave lot is $5 flat on weekends — best single-decision parking for a multi-stop IC Saturday (japanvillage.com/directions). Spend $50+ at Sunrise Mart or $100+ at Sushi Uesugi to get 2hr validated parking (sunrisemart.com). Free street parking is usually findable along 3rd Ave on weekends but tightens after noon. Anchor strategy: park here once, hit Japan Village for lunch, then walk the IC courtyards/Industry City Distillery/Frying Pan before driving the 10-15 min radius to Red Hook or Sunset Park stops.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/directions",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/faq/",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-16T08:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
+        "accessed": "2026-05-16T08:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T08:07:53.153Z"
   }
 ]
