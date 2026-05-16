@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Hai Long Ky bakery 8th Ave Brooklyn Chinatown char siu bao",
-    "reason": "Adjacent 8th Ave Sunset Park bakery — pairs naturally with a banh mi crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:45:17.551Z"
-  },
-  {
-    "topic": "Lan Zhou Handmade Noodle 8th Ave Brooklyn",
-    "reason": "Direct hand-pulled-noodle counterpoint to Yun Nan; lets the itinerary offer two distinct noodle styles in the same cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:47:18.777Z"
-  },
-  {
-    "topic": "Sunset Park (the actual park) sunset overlook Manhattan skyline",
-    "reason": "Free post-meal photo stop with Statue of Liberty + skyline views, 0.5 mi from Yun Nan — natural foodie→photo transition in the IC cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:47:18.777Z"
-  },
-  {
-    "topic": "Bush Terminal Piers Park sunset waterfront",
-    "reason": "Adjacent free waterfront sunset spot in IC's backyard — ground-level harbor view complements Sunset Park's hilltop view",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:49:19.241Z"
-  },
-  {
-    "topic": "Owl's Head Park Bay Ridge skyline viewpoint",
-    "reason": "Another driving-friendly hilltop park ~10 min south of IC with harbor + Verrazzano views — alternative for sunset chasers",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:49:19.241Z"
-  },
-  {
     "topic": "Ba Xuyên banh mi 8th Ave Sunset Park",
     "reason": "Iconic banh mi shop six blocks east of the park — natural pre-sunset food pairing inside the same zone",
     "requestedBy": "agent",
@@ -2590,5 +2560,101 @@
     "reason": "Pairs naturally with a banh mi crawl and rounds out a single-cluster Sunset Park morning track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T11:02:52.530Z"
+  },
+  {
+    "topic": "Xinfa Bakery 5617 8th Ave Brooklyn Portuguese egg tart",
+    "reason": "Two doors from Dragon Bay; Infatuation calls it the neighborhood's top bakery for egg tarts at $1.75 — completes the bakery hop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:06:37.418Z"
+  },
+  {
+    "topic": "Ba Xuyên 4222 8th Ave Brooklyn banh mi",
+    "reason": "The anchor banh mi stop the task mentions — eight blocks south of Dragon Bay, perfect 8th Ave morning crawl pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:06:37.418Z"
+  },
+  {
+    "topic": "Bo Ky 5121 8th Ave Brooklyn Vietnamese Chinese noodle soup",
+    "reason": "Vietnamese-Cantonese hybrid right on the strip; fills the noodle-soup slot if the bakery crawl runs into lunch",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:06:37.418Z"
+  },
+  {
+    "topic": "Bakery 1988 5716 8th Ave Brooklyn Chinese bakery",
+    "reason": "Across-the-street alternative to Dragon Bay with longer hours (7am-7pm); useful fallback when Dragon Bay sells out late afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:06:37.418Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace dim sum 8th Ave Sunset Park",
+    "reason": "Weekend cart dim sum anchor 5 min from Lan Zhou — completes a Sunset Park Chinatown morning-to-noon track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:09:15.399Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 8th Ave Brooklyn",
+    "reason": "$1 lamb dumplings hole-in-the-wall a block away — cheap, photogenic snack stop between noodles and dim sum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:09:15.399Z"
+  },
+  {
+    "topic": "Yi Lan Halal Beef Noodle Sunset Park",
+    "reason": "Halal Lanzhou variant nearby — gives the corpus a dietary-tagged alternative for the same noodle style",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:09:15.399Z"
+  },
+  {
+    "topic": "Bush Terminal Park pier sunset view Brooklyn waterfront",
+    "reason": "Alternate IC-adjacent free sunset spot — pier-level harbor view vs. Sunset Park's hilltop view, ~8 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:11:21.326Z"
+  },
+  {
+    "topic": "Owl's Head Park Bay Ridge sunset hilltop view",
+    "reason": "Second hilltop bluff overlook 12 min south of IC — extends the 'free sunset photo' cluster for return visitors",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:11:21.326Z"
+  },
+  {
+    "topic": "Ho Brah Taqueria Sunset Park late-night tacos walkable to park",
+    "reason": "Foodie back-half after the sunset stop — keeps the IC cluster moving without driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:11:21.326Z"
+  },
+  {
+    "topic": "Sunset Park (the hilltop park at 41st & 5th Ave)",
+    "reason": "Classic elevated skyline + Statue of Liberty sunset overlook, 8 min drive from IC — pairs naturally with Bush Terminal Piers as a high/low sunset combo",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:13:11.375Z"
+  },
+  {
+    "topic": "American Veterans Memorial Pier (69th St Pier, Bay Ridge)",
+    "reason": "Free waterfront pier with Verrazzano Bridge sunset view, 12 min drive from IC, extends the south-Brooklyn waterfront sunset corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:13:11.375Z"
+  },
+  {
+    "topic": "Valentino Pier, Red Hook",
+    "reason": "Iconic Statue of Liberty sunset spot 12 min from IC, already-known Red Hook anchor — verify hours and parking for sunset itinerary slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:13:11.375Z"
+  },
+  {
+    "topic": "American Veterans Memorial Pier (69th St Pier) Bay Ridge",
+    "reason": "Right under the Verrazzano — alternative water-level sunset spot 5 min further south of Owl's Head, pairs as a two-stop sunset track from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:15:31.423Z"
+  },
+  {
+    "topic": "Shore Road Promenade Bay Ridge waterfront walk",
+    "reason": "Long linear park connecting Owl's Head south to the Verrazzano — drivable trailhead with parking, good 'walk + view' filler between IC dinner and sunset",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:15:31.423Z"
+  },
+  {
+    "topic": "Best Bay Ridge dinner spot 10-15 min drive from Industry City",
+    "reason": "Corpus has no Bay Ridge food yet; needed to complete a 'sunset at Owl's Head + dinner' track without driving back north",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:15:31.423Z"
   }
 ]
