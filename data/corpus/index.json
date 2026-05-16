@@ -12031,54 +12031,44 @@
   },
   {
     "id": "sunrise-mart-brooklyn",
-    "name": "Sunrise Mart Brooklyn",
-    "desc": "Largest Sunrise Mart in NYC — 20,000 sq ft Japanese grocery inside Japan Village at Industry City",
-    "longDesc": "Anchoring the Japan Village market-food hall hybrid since 2018, this is the biggest Sunrise Mart in the city, expanded from a 2,000-sq-ft Manhattan original into a 20,000-sq-ft Brooklyn flagship. Aisles run from fresh sushi-grade fish, shabu-shabu pork, and premium wagyu to a deep snack/candy/beverage wall (Pocky, Calbee, Ramune, matcha KitKats) plus housewares and bento supplies. The shelves themselves are the photo set — neon packaging, hand-lettered Japanese signage, and a glowing fish counter.",
-    "url": "https://sunrisemart.com/pages/visit-us",
+    "name": "Sunrise Mart Brooklyn (Japan Village)",
+    "desc": "Japanese grocery inside Japan Village — onigiri, bento, sushi-grade fish, sake; 30 seconds from JTunes Karaoke",
+    "longDesc": "Sunrise Mart Brooklyn anchors Japan Village's market half with ready-made onigiri, prepared bento, sushi-grade fish, snacks, and a deep Japanese pantry — the practical 'order into your JTunes room' shop because it sits in the same Industry City building as JTunes Karaoke. Grab a bento and onigiri set, a tray of sashimi from the fish counter, plus chu-hi or canned sake from the cooler, and carry it across the courtyard into your karaoke booking without the food cooling. Free NYC delivery on orders over $100, 7 days a week, makes it a viable pre-order anchor for larger JTunes parties.",
+    "url": "https://shop.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
       "foodie",
-      "photo",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan"
+      "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-21:00",
-    "notes": "On-site within Industry City at 934 3rd Ave, Building B2 — no extra drive from IC anchor (industrycity.com). Sat 11:00–21:00, Sun 11:00–20:00 (sunrisemart.com). Pairs naturally with Japan Village food-hall stalls and Mokbar/Mr. Bing for a single shopping-then-lunch loop. Strong photo stop for snack-wall and seafood-case shots — best light early afternoon before weekend crowds peak (amny.com). Vegan/vegetarian: extensive tofu, instant ramen, mochi, and produce sections; no halal/GF certification.",
+    "driveFromIC": "0 min (inside Industry City)",
+    "hoursWeekend": "Sat 11:00-21:00; Sun 11:00-20:00",
+    "notes": "Located at 934 3rd Ave, Brooklyn 11232, inside Industry City Buildings 3 & 4 — same complex as JTunes Karaoke and the Japan Village courtyard (japanvillage.com/eat-drink). Sells fresh produce, sushi-grade fish, ready-made meals, snacks, condiments, and cosmetics (japanvillage.com/eat-drink). Online store advertises 'NOW DELIVERING 7 DAYS A WEEK' with free NYC local delivery on orders over $100, item prices roughly $2.39–$16.99 with most pantry items $3–$8 (shop.japanvillage.com). For JTunes pairings: bento + onigiri + a tray of sashimi + canned sake/chu-hi assembles a $40–60 in-room dinner per couple without leaving the building. Hot food upgrades available next door at Obentoyasan and Ramen Setagaya inside the same hall.",
     "sources": [
       {
-        "url": "https://sunrisemart.com/pages/visit-us",
+        "url": "https://www.japanvillage.com/eat-drink",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/sunrise-mart/",
+        "url": "https://shop.japanvillage.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://thebridgebk.com/brooklyn-finally-gets-a-japanese-marketplace-of-its-own/",
+        "url": "https://industrycity.com/tenants/japan-village/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:34:02.021Z"
+    "lastResearchedAt": "2026-05-16T14:48:05.428Z"
   },
   {
     "id": "mokbar-chelsea-market",
@@ -12881,5 +12871,180 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T14:35:18.560Z"
+  },
+  {
+    "id": "wakuwaku-japan-village",
+    "name": "WakuWaku",
+    "desc": "Sit-down izakaya inside Japan Village courtyard from the Angel's Share team — yakitori, kushiage, sushi, shochu cocktails.",
+    "longDesc": "WakuWaku is the 3,200 sq ft sit-down izakaya anchoring the Japan Village courtyard at Industry City, opened by the team behind Manhattan speakeasy Angel's Share. Built by Japanese carpenters with an open kitchen, tatami rooms, paper lanterns and imported tiles, it serves teishoku lunch sets ($15–$21), yakitori and kushiage skewers, sushi, and a deep shochu and sake list — the natural anchor when you want to actually sit down after browsing Sunrise Mart and the bakery stalls in the same hall.",
+    "url": "https://www.wakuwakuny.com/wakuwaku",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5df6ab81f224020f76ca1f15/1581702743541-J12K28G8IPGLCJTG60VA/DSC02157.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat-Sun 12:00-21:30",
+    "notes": "Inside Japan Village food hall at 269 36th St (Industry City Building B). Walk-ins possible but reservations recommended on weekends. Teishoku lunch sets $15–$21; izakaya shared plates in the evening (yakitori, kushiage, sushi, sake/shochu flights). Closed Mon–Tue. Same parking as Industry City (free weekend street + paid IC lots). Tatami private rooms available for groups (6sqft).",
+    "sources": [
+      {
+        "url": "https://www.wakuwakuny.com/wakuwaku",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/waku-waku/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/angels-share-speakeasy-owners-open-sit-down-japanese-restaurant-at-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/wakuwaku-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:38:25.074Z"
+  },
+  {
+    "id": "devocion-downtown-brooklyn",
+    "name": "Devoción Downtown Brooklyn",
+    "desc": "Plant-filled Colombian roastery cafe with 18-ft windows — closest Devoción to IC.",
+    "longDesc": "Devoción's Downtown Brooklyn cafe on Livingston St pours single-origin Colombian coffee roasted within ~10 days of leaving origin, in a soaring space with 18-foot floor-to-ceiling windows and an indoor tropical garden of 35+ plant species including mango, ficus, fishtail palms, and star fruit trees. The space draws from Colombian finca architecture with handmade cement tile flooring and white brick walls. A solid weekend backup if Panya is closed, with full espresso bar, pour-overs, pastries, and seating that handles a Saturday rush better than the smaller Williamsburg flagship.",
+    "url": "https://www.devocion.com/pages/devocion-cafe-downtown-brooklyn-ny",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "07:30-18:00",
+    "notes": "276 Livingston St at Bond, edge of Downtown Brooklyn / Boerum Hill (devocion.com). Weekend hours 7:30a–6p both Sat & Sun (devocion.com). NOTE: 'Devoción Sunset Park' does not exist — Devoción's Brooklyn cafes are Williamsburg (148 Grand St) and Downtown Brooklyn (276 Livingston); this Livingston location is closest to IC at ~4 mi / 12–15 min via 3rd Ave → Atlantic. NOTE: Café Kitsuné Boerum Hill (112 Bond St) is permanently CLOSED per April 2026 Yelp — do not route to it. Parking: metered street parking + several Downtown Brooklyn garages within 2 blocks (Atlantic Center, Hanover Pl); paid Sat, free Sun on most streets. Roastery freshness (~10 days from origin) is the differentiator vs generic third-wave (devocion.com).",
+    "sources": [
+      {
+        "url": "https://www.devocion.com/pages/devocion-cafe-downtown-brooklyn-ny",
+        "accessed": "2026-05-16T14:40:00Z"
+      },
+      {
+        "url": "https://www.devocion.com/pages/cafes",
+        "accessed": "2026-05-16T14:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/devoci%C3%B3n-brooklyn-11",
+        "accessed": "2026-05-16T14:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/caf%C3%A9-kitsun%C3%A9-brooklyn",
+        "accessed": "2026-05-16T14:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:40:53.792Z"
+  },
+  {
+    "id": "goldies-brooklyn-karaoke",
+    "name": "Goldie's",
+    "desc": "1970s Vegas-lounge karaoke bar in Greenpoint with private room, open till 3-4am every night.",
+    "longDesc": "Goldie's is a Nassau Ave dive done up in velvet paintings, cheetah statues, and red booth banquettes — basically a 70s Vegas fever dream with a pool table and back garden (Greenpointers). The private karaoke room fits 20 seated/30 standing and runs $150/2hr weeknights, $200/2hr Fri-Sat — the weeknight pricing and late hours make it the obvious JTunes fallback when JTunes' Thu-Sun window doesn't cover the night. Drinks stay cheap ($6 beers, tabs under $30) which keeps it sustainable for repeat use.",
+    "url": "https://goldiesbrooklyn.square.site/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "photo",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "2-3 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat-Sun 14:00-04:00",
+    "notes": "Mon-Wed 16:00-03:00, Thu 16:00-04:00, Fri 15:00-04:00, Sat-Sun 14:00-04:00 — covers every JTunes dark night (JTunes is Thu-Sun only) (square.site). Karaoke room: $150/2hr Mon-Thu, $200/2hr Fri-Sat, reservation by phone (718) 389-2348 (thebestofgreenpoint.com). Cash-friendly dive prices, $6 beers, endless goldfish snacks, pool table, back garden (greenpointers.com). 195 Nassau Ave, Brooklyn, NY 11222 — Greenpoint, NOT Sunset Park as the seed topic suggested; pair with a Greenpoint/Williamsburg cluster, not an IC-anchored evening, since it's 22 min driving from Industry City via the BQE.",
+    "sources": [
+      {
+        "url": "https://goldiesbrooklyn.square.site/",
+        "accessed": "2026-05-16T14:40:00Z"
+      },
+      {
+        "url": "https://thebestofgreenpoint.com/places/goldies-bar/",
+        "accessed": "2026-05-16T14:40:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2022/02/23/enjoy-a-happy-hour-bar-crawl-on-nassau-avenue/",
+        "accessed": "2026-05-16T14:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/goldies-brooklyn",
+        "accessed": "2026-05-16T14:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T14:43:10.163Z"
+  },
+  {
+    "id": "233-starr-karaoke",
+    "name": "233 Starr Karaoke & Eats",
+    "desc": "13 private karaoke rooms in Bushwick with BYOB, kitchen, and 250k+ song library — VIP room fits 30.",
+    "longDesc": "Bushwick's go-to private-room karaoke spot with 13 themed rooms ranging from cozy 4-tops to a 30-person VIP, fed by a 250,000+ song library (English, K-pop, Mandarin, Spanish, J-pop). Happy-hour pricing of $6/person/hour until 8pm, then $10/person; VIP room is $110/hr early, $200/hr after 8pm. BYOB allowed in private rooms and there's an in-house kitchen, so a Bushwick-cluster evening can land here without a second food stop.",
+    "url": "https://www.233starrkaraoke.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "1-2 hr",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Fri-Sat 14:00-02:00, Sun 16:00-00:00",
+    "notes": "Reservations required for K-pop machine and recommended for weekend nights; BYOB in private rooms (233starrkaraoke.com). Street parking on Starr St and surrounding Bushwick blocks is generally available on weekends (Yelp reviews). VIP room caps at 30 — good for a friend-group anchor (233starrkaraoke.com).",
+    "sources": [
+      {
+        "url": "https://www.233starrkaraoke.com/",
+        "accessed": "2026-05-16T14:40:00Z"
+      },
+      {
+        "url": "https://www.233starrkaraoke.com/private-room",
+        "accessed": "2026-05-16T14:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/233-starr-karaoke-and-eats-new-york",
+        "accessed": "2026-05-16T14:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:45:23.812Z"
   }
 ]

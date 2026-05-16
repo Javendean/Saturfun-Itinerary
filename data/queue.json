@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Hayama Japan Village Industry City",
-    "reason": "Sit-down Japanese restaurant in same courtyard — completes the Japan Village stop options beyond bakery",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:55:08.849Z"
-  },
-  {
-    "topic": "Cafe Kitsune or Devocion Sunset Park coffee alternatives near IC",
-    "reason": "Backup coffee/pastry option if Panya is closed Mon-Tue or sold out",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:55:08.849Z"
-  },
-  {
-    "topic": "Goldie's Brooklyn karaoke bar (Sunset Park) - late-night alternative to JTunes when JTunes is closed Mon-Wed",
-    "reason": "Need a karaoke fallback for weeknights and any night JTunes' Thu-Sun window doesn't cover; goldiesbrooklyn.square.site keeps coming up adjacent in searches.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:57:35.808Z"
-  },
-  {
-    "topic": "233 Starr Karaoke Bushwick private rooms",
-    "reason": "Geographic expansion into a Bushwick-cluster evening track; 233starrkaraoke.com is the canonical Bushwick private-room option and would diversify the corpus beyond Sunset Park.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:57:35.808Z"
-  },
-  {
-    "topic": "Japan Village courtyard dinner pairings (Hi-Collar onigiri, Sunrise Mart prepared foods, Osakana) - food to order into a JTunes room",
-    "reason": "JTunes' core differentiator is in-room delivery from Japan Village vendors; the corpus needs those vendor entries to power 'compose a JTunes night' itineraries.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:57:35.808Z"
-  },
-  {
     "topic": "The Whale Sunset Park multipurpose building (Brooklyn City F.C. futsal + events)",
     "reason": "Shared venue with City League — futsal + events make it a standalone active/curious anchor 7 min from IC",
     "requestedBy": "agent",
@@ -3670,5 +3640,89 @@
     "reason": "Curated beverage stop adjacent to Sunrise Mart for a drinks angle to the Japan track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T14:35:18.573Z"
+  },
+  {
+    "topic": "Sushi Uesugi Japan Village Industry City omakase",
+    "reason": "Second sit-down option in the same Japan Village courtyard — omakase counter rather than izakaya, gives the itinerary a higher-end fork for the same stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:38:25.092Z"
+  },
+  {
+    "topic": "Oldies bar Japan Village Industry City Japanese cocktails",
+    "reason": "Adjacent late-night Japanese cocktail bar from the same WakuWaku team — natural post-dinner extension of the Japan Village stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:38:25.092Z"
+  },
+  {
+    "topic": "Devoción Williamsburg flagship (148 Grand St) — pitched-roof skylight + sunlit courtyard",
+    "reason": "More dramatic photo backdrop than Livingston; pair as 'photo-first coffee stop' for Williamsburg track ~18 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:40:53.809Z"
+  },
+  {
+    "topic": "Sey Coffee Bushwick coffee + pastry alternative near IC drive radius",
+    "reason": "Destination roaster with airy minimalist space; fills gap for east-of-IC zones (Bushwick) where corpus is thin",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:40:53.809Z"
+  },
+  {
+    "topic": "Parlor Coffee Sunset Park backup near Industry City",
+    "reason": "Actually IN Sunset Park (vs nonexistent Devoción SP) — confirms whether a true walk-from-IC specialty coffee exists, closing the Panya backup gap at minimum drive time",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:40:53.810Z"
+  },
+  {
+    "topic": "Sing Sing Karaoke East Village private rooms late-night",
+    "reason": "Manhattan KTV-style backup for nights when both JTunes and Goldie's are full; well-known private-room operator",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:43:10.180Z"
+  },
+  {
+    "topic": "Insa Gowanus Korean BBQ karaoke private rooms",
+    "reason": "Closer-to-IC karaoke alternative (~10 min drive) that combines dinner + private noraebang, fills the Goldie's gap on an IC-anchored night",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:43:10.180Z"
+  },
+  {
+    "topic": "Montero's Bar Brooklyn Heights karaoke",
+    "reason": "Historic Cobble Hill/BH dive with nightly karaoke, much closer to IC than Greenpoint, expands the karaoke corpus on the south-Brooklyn side",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:43:10.180Z"
+  },
+  {
+    "topic": "Birds of a Feather Bushwick natural wine bar",
+    "reason": "Pre-karaoke drinks anchor in the same Bushwick cluster, 5 min walk from 233 Starr",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:45:23.830Z"
+  },
+  {
+    "topic": "Roberta's Bushwick pizza pre-karaoke dinner",
+    "reason": "Iconic Bushwick foodie stop within 10 min of 233 Starr — completes a food+karaoke evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:45:23.830Z"
+  },
+  {
+    "topic": "House of Yes Bushwick late-night cabaret",
+    "reason": "Higher-energy alternative finale for the Bushwick evening cluster, justifies a second visit pattern",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:45:23.830Z"
+  },
+  {
+    "topic": "Obentoyasan at Japan Village — hot bento stall for JTunes room delivery",
+    "reason": "Hot-food counterpart to Sunrise Mart's cold prepared bento; completes the JTunes courtyard dinner ladder with freshly-made hot bento usable within a 60-second walk into the karaoke room.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:48:05.442Z"
+  },
+  {
+    "topic": "Panya Bakery at Japan Village — curry pan and shokupan for karaoke snacks",
+    "reason": "Handheld carb-forward snacks (curry pan, melonpan, sandos) are ideal for greasy-fingers-OK karaoke booth eating; fills the 'late-night munchies' slot Sunrise Mart doesn't cover and stays open until 7 PM Sat/Sun.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:48:05.442Z"
+  },
+  {
+    "topic": "Handroll Bar (Temaki) at Japan Village — to-go hand rolls for JTunes parties",
+    "reason": "Premium upgrade path over Sunrise Mart's pre-packaged sashimi — fresh-rolled temaki are a more 'date-night-in-a-room' tier and round out the corpus's JTunes pairings with a $$$ option.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T14:48:05.442Z"
   }
 ]
