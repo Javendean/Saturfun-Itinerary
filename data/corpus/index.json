@@ -5566,54 +5566,49 @@
   },
   {
     "id": "time-out-market-dumbo",
-    "name": "Time Out Market New York",
-    "desc": "DUMBO food hall with 20+ chef-curated stalls under one waterfront roof, steps from Beat The Bomb.",
-    "longDesc": "Inside the Empire Stores complex at 55 Water St, Time Out Market gathers ~21 vetted NYC restaurants plus three bars, a stage, and a rooftop with Manhattan Bridge views. Hit Mr. Taka Ramen, Felice Pasta Bar, Juliana's Pizza, Avocaderia (vegan-leaning), or Jacob's Pickles depending on the crowd's mood — order at each stall, sit anywhere. Five-minute walk from Beat The Bomb, making it the cleanest pre/post-game refuel in DUMBO.",
+    "name": "Time Out Market New York (DUMBO Rooftop)",
+    "desc": "Waterfront food hall with a 5th-floor rooftop framing the Manhattan and Brooklyn Bridges — DUMBO's group photo-op + 21-vendor lunch in one stop.",
+    "longDesc": "Time Out Market occupies the Empire Stores warehouse at 55 Water Street with 21 vendors curated from NYC's best (Bark BBQ, Mori Mori hand rolls by Morimoto, Fornino, Clinton St. Baking, Jacob's Pickles) plus 3 bars and a live-music stage. The fifth-floor rooftop is the real draw: open-air sightlines straight onto the Manhattan Bridge with the skyline behind it — the classic DUMBO group photo without the cobblestone-street tourist scrum on Washington St. Expect 15-30 min weekend waits for rooftop seating; arrive before 12:30pm to claim a railing-side table.",
     "url": "https://www.timeout.com/time-out-market-new-york",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
+      "photo",
       "foodie",
-      "chill",
-      "photo"
+      "chill"
     ],
     "dietary": [
       "vegetarian",
-      "vegan",
-      "gluten-free"
+      "vegan"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "Sat 8:00-23:00, Sun 8:00-22:00",
-    "notes": "Multiple stalls = solves mixed-diet groups in one stop (Avocaderia covers vegan, Mr. Taka has GF ramen options, Felice has vegetarian pastas). Paid parking at 100 Jay St garage; nearby 85 Adams St and 90 Washington St fill at peak (timeout.com/how-to-get-here). Rooftop + Brooklyn Bridge Park frontage = strong photo backdrop. Address: 55 Water St, Brooklyn NY 11201 (Empire Stores) (timeout.com).",
+    "notes": "Anchor stop for the DUMBO photo slot — rooftop access is free, no reservation needed (timeout.com). Paid parking at 100 Jay St garage, 85 Adams St, or 90 Washington St — all fill at peak so SpotHero pre-book is wise (timeout.com/faqs, spothero.com). Four entrances; rooftop reachable via elevator or exterior stairs. Plan ~18 min drive from Industry City via Gowanus Expy → BQE → Old Fulton St exit.",
     "sources": [
       {
         "url": "https://www.timeout.com/time-out-market-new-york",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T12:10:00Z"
       },
       {
         "url": "https://www.timeout.com/time-out-market-new-york/faqs",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/time-out-market-new-york/how-to-get-here",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T12:10:00Z"
       },
       {
         "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T12:10:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/time-out-market-new-york/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T12:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T06:07:27.378Z"
+    "lastResearchedAt": "2026-05-16T12:04:05.716Z"
   },
   {
     "id": "pier-2-brooklyn-bridge-park",
@@ -10721,5 +10716,182 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T12:01:53.559Z"
+  },
+  {
+    "id": "janes-carousel-dumbo",
+    "name": "Jane's Carousel",
+    "desc": "Restored 1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge — iconic DUMBO photo subject.",
+    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel with 48 hand-carved horses, housed in an acrylic jewel-box pavilion designed by Jean Nouvel right on the East River. The transparent enclosure frames the Brooklyn Bridge, Manhattan skyline, and Pebble Beach view, making it one of the most photographed micro-spots in NYC. Rides are $2; entry to the surrounding Brooklyn Bridge Park is free, so the stop doubles as a 20-30 min photo walk including the cobblestone Empire Fulton Ferry lawn.",
+    "url": "https://janescarousel.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:00-18:00",
+    "notes": "Open Thu-Sun 11am-6pm in the Sep 18-May 13 winter season; Wed-Mon 11am-7pm May 14-Sep 18; closed Tuesdays (janescarousel.com/hours). Rides $2 each, free for kids 3 & under with paying adult. Park entry is free. Parking is limited — best options are the LAZ garage at 90 Furman St (Pier 1) or City Parking at 360 Furman St (Pier 6); on-street metered spots near Pier 2 are 3-hr max and fill fast on weekends (brooklynbridgepark.org). Pair with Pebble Beach (literally adjacent) and a walk to Time Out Market or Brooklyn Heights Promenade. Glass pavilion makes it work in light rain.",
+    "sources": [
+      {
+        "url": "https://janescarousel.com/hours/",
+        "accessed": "2026-05-16T12:05:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
+        "accessed": "2026-05-16T12:05:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/janes-carousel/",
+        "accessed": "2026-05-16T12:05:00Z"
+      },
+      {
+        "url": "https://janescarousel.com/directions/location/",
+        "accessed": "2026-05-16T12:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T12:05:58.840Z"
+  },
+  {
+    "id": "pebble-beach-dumbo",
+    "name": "Pebble Beach at Brooklyn Bridge Park",
+    "desc": "Hidden DUMBO cove with water-level Brooklyn Bridge + Manhattan skyline — the photo-track anchor.",
+    "longDesc": "A small rocky/pebble beach inside Brooklyn Bridge Park where you can descend to the East River right under the Brooklyn Bridge, with the Manhattan skyline directly across the water. Three blocks south is the famous Washington & Water Street intersection where the Manhattan Bridge frames perfectly between cobblestone buildings — pair the two for the de facto DUMBO photo set in one stop. Best in early morning or golden hour; tides matter (low tide exposes more beach).",
+    "url": "https://brooklynbridgepark.org/places-to-see/pebble-beach/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Pebble Beach sits beneath the Brooklyn Bridge between Main Street section and Empire Fulton Ferry; access via the Main St entrance (brooklynbridgepark.org). The Washington/Water St 'bridge-framed' photo spot is a 3-block walk south (thewanderlover.com). Park is open daily 6am-1am (brooklynbridgepark.org/faqs). Weekend parking: City Parking - Brooklyn Bridge Garage LLC (Furman St, 24/7) or metered street parking on Plymouth/Water St — free on Sundays (parkmobile.io). Combine with Jane's Carousel and Time Out Market within a 5-min walk for a full DUMBO photo track stop.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pebble-beach/",
+        "accessed": "2026-05-16T12:05:00Z"
+      },
+      {
+        "url": "https://triptins.com/pebble-beach/",
+        "accessed": "2026-05-16T12:05:00Z"
+      },
+      {
+        "url": "https://thewanderlover.com/dumbo-manhattan-bridge-view/",
+        "accessed": "2026-05-16T12:05:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/about/faqs/",
+        "accessed": "2026-05-16T12:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T12:08:07.234Z"
+  },
+  {
+    "id": "jacques-torres-chocolate-dumbo",
+    "name": "Jacques Torres Chocolate — DUMBO Flagship",
+    "desc": "Mr. Chocolate's original DUMBO factory-shop for hot chocolate, bonbons, and chocolate-chip cookie ice cream sandwiches.",
+    "longDesc": "The original 66 Water Street location where French pastry legend Jacques Torres opened his first chocolate factory in 2000 — handmade truffles, bean-to-bar bonbons, world-famous Wicked Hot Chocolate (with chipotle/ancho), and ice cream sandwiches built on his giant chocolate-chip cookies. Two blocks from Time Out Market and a five-minute walk from Beat The Bomb, so it slots in as the dessert cap on a DUMBO loop. Cash-and-card counter service, queue moves fast even on weekends.",
+    "url": "https://mrchocolate.com/blogs/locations/dumbo",
+    "photoUrl": "https://mrchocolate.com/cdn/shop/articles/Dumbo-Brooklyn_01_bc5d925c-93f0-4f8d-965d-c5474b8c53b5.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "20-30 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "10:00-19:00",
+    "notes": "66 Water St, Brooklyn NY 11201 — (718) 875-1269 (mrchocolate.com). Order the Wicked Hot Chocolate + a chocolate-chip cookie ice cream sandwich; bonbon box makes an easy gift on the way out. Weekend parking: metered Water/Plymouth/Jay or paid garage at 99 Gold St (~5-min walk). Pair with Beat The Bomb (2-block walk) and Time Out Market rooftop views for a complete DUMBO loop (nyctourism.com).",
+    "sources": [
+      {
+        "url": "https://mrchocolate.com/blogs/locations/dumbo",
+        "accessed": "2026-05-16T12:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/jacques-torres-chocolate-brooklyn",
+        "accessed": "2026-05-16T12:05:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/shopping/jacques-torres-chocolate-dumbo/",
+        "accessed": "2026-05-16T12:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T12:10:05.614Z"
+  },
+  {
+    "id": "cecconis-dumbo",
+    "name": "Cecconi's DUMBO",
+    "desc": "Northern Italian in Empire Stores with Manhattan-skyline terrace seats — the romantic sit-down counterpoint to Time Out Market.",
+    "longDesc": "Soho House group's Brooklyn outpost lives in a converted Empire Stores warehouse on the DUMBO waterfront, serving Northern Italian classics (whipped ricotta toast, wood-fired pizzas, lobster pasta, caprese) plus a strong cocktail and by-the-glass wine program. The terrace looks straight at the Manhattan Bridge and skyline; inside, Venetian curtains separate al fresco from a candlelit dining room. Reserve a window or terrace seat via OpenTable/Tock and you've got date-night locked in.",
+    "url": "https://www.cecconisrestaurants.com/dumbo/",
+    "photoUrl": "https://www.cecconisrestaurants.com/media/hlrhmkyy/mariell-lindhansen-1538.jpg?width=2000&height=1500&v=1db605fbcdfba20",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:30-22:00",
+    "notes": "Address 55 Water St inside Empire Stores, same block as Time Out Market — pair as 'sunset dinner' anchor after a food-hall snack run, or vice versa (source: cecconisrestaurants.com/dumbo). Weekend brunch starts 11:30am, full dinner service through 10pm; window/terrace tables book out fast for sunset, so reserve via OpenTable or Tock 1-2 weeks ahead (source: opentable.com/r/cecconis-dumbo-brooklyn). Parking: Empire Stores paid garage is steps away and SpotHero lists multiple DUMBO lots within 5-min walk; weekend street parking on Water/Plymouth is feasible but inconsistent — pre-book a garage for guaranteed (source: spothero.com/destination/nyc/dumbo-parking). Drive from Industry City via Gowanus Expy/BQE is ~15-20 min off-peak. Vegan and vegetarian dishes on the menu (source: cecconisrestaurants.com/dumbo/menus).",
+    "sources": [
+      {
+        "url": "https://www.cecconisrestaurants.com/dumbo/",
+        "accessed": "2026-05-16T12:10:00Z"
+      },
+      {
+        "url": "https://www.cecconisrestaurants.com/dumbo/menus/",
+        "accessed": "2026-05-16T12:10:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/cecconis-dumbo-brooklyn",
+        "accessed": "2026-05-16T12:10:00Z"
+      },
+      {
+        "url": "https://www.empirestoresdumbo.com/tenants/cecconis-3",
+        "accessed": "2026-05-16T12:10:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/dumbo-parking",
+        "accessed": "2026-05-16T12:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T12:12:07.509Z"
   }
 ]
