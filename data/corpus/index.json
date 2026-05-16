@@ -12845,48 +12845,40 @@
   {
     "id": "sey-coffee-bushwick",
     "name": "Sey Coffee",
-    "desc": "Light-roast micro-roastery in a skylit Bushwick warehouse — pour-overs and espresso at world-class level.",
-    "longDesc": "Sey is a world-renowned light-roast roastery in a converted Bushwick warehouse with three geometric skylights pouring daylight onto a long communal bar. The menu is short and deliberate: rotating single-origin espresso, hand-brewed pour-overs, and a tight pastry case — no laptops on weekends, which keeps the room conversational and date-friendly. Best treated as a romantic-foodie wind-down for an early/lunch omakase or as an afternoon anchor before dinner, since the cafe closes at 5 PM on weekends.",
-    "url": "https://www.seycoffee.com/pages/cafe",
+    "desc": "Acclaimed light-filled Bushwick roaster — minimalist warehouse cafe pouring single-origin pour-overs",
+    "longDesc": "Sey is one of NYC's most celebrated specialty roasters, occupying a high-ceilinged warehouse on Grattan Street with skylights, pale wood, and trailing plants that turn every cup into a photo. The bar pours seasonal pour-overs and espresso from their own meticulously sourced beans, and the airy minimalist space doubles as an unofficial design-world hangout (no laptops on weekends — it stays cafe, not co-working).",
+    "url": "https://www.seycoffee.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
-      "romantic",
-      "foodie",
+      "chill",
       "photo",
-      "chill"
+      "curious"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
-    "driveFromIC": "22 min",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "Three skylights create a famously photogenic light bar across the room — strong romantic-foodie photo moment (Coffeevine). No-laptop policy on weekends keeps the space conversational (seycoffee.com). Closes 5 PM weekends, so pair with a *lunch* omakase rather than dinner — flag in evening tracks. Street parking on Grattan/Bogart is generally available on weekends; industrial block. World-class light-roast specialty coffee, $5–7 pour-overs (Yelp, foodcurated.com).",
+    "notes": "18 Grattan St, Brooklyn NY 11206 — weekend hours 8–5, no laptops on weekends (sey.coffee). Street parking is generally available in industrial east-Bushwick on weekends. Sub-3.5 mi from Industry City, ~18 min via Hamilton Ave / BQE off-peak (yelp).",
     "sources": [
       {
         "url": "https://www.seycoffee.com/pages/cafe",
-        "accessed": "2026-05-16T14:30:00Z"
+        "accessed": "2026-05-16T23:10:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sey-coffee-brooklyn",
-        "accessed": "2026-05-16T14:30:00Z"
-      },
-      {
-        "url": "https://thecoffeevine.com/reviews/cafes/usa/new-york/new-york/sey-in-new-york/",
-        "accessed": "2026-05-16T14:30:00Z"
-      },
-      {
-        "url": "https://foodcurated.com/coffee-curated-roaster-roundups-sey-coffee/",
-        "accessed": "2026-05-16T14:30:00Z"
+        "accessed": "2026-05-16T23:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T14:31:30.748Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T23:14:02.719Z"
   },
   {
     "id": "sunrise-mart-industry-city",
@@ -16537,47 +16529,43 @@
   {
     "id": "devocion-williamsburg",
     "name": "Devoción Williamsburg",
-    "desc": "Skylit Colombian coffee roastery flagship with greenhouse-style living wall in Williamsburg.",
-    "longDesc": "Devoción's flagship NYC roastery and café roasts farm-to-cup Colombian beans (~10 days origin-to-roast) inside a converted Grand Street warehouse with a massive skylight, a living moss/plant wall, and reclaimed-wood tables that make it one of Brooklyn's most photographed coffee rooms. Easy weekend drop-in for cortados, pour-overs, and a short pastry program; quick stop before art-walking Williamsburg or Greenpoint.",
+    "desc": "Flagship Colombian roastery cafe with skylit pitched-roof interior, exposed brick, and a lush plant courtyard.",
+    "longDesc": "Devoción's Williamsburg flagship is a working roastery and cafe at 148 Grand St, designed around traditional campo architecture: an exposed-brick corridor opens onto a sunlit courtyard packed with Colombian greenery under a pitched skylight roof. A visible coffee lab hosts cuppings and trainings, and a redesigned bar with two espresso machines keeps the line moving on weekends. Direct-trade single-origin Colombian beans roasted on-site — strong photo backdrop and a credible specialty-coffee alternative to a Manhattan detour.",
     "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-    "photoUrl": "",
+    "photoUrl": "https://www.devocion.com/cdn/shop/files/Devocion_Wburg_1025_LizClayman_012_3.jpg",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "photo",
-      "foodie",
-      "chill"
+      "chill",
+      "curious",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
+    "driveFromIC": "15 min",
     "hoursWeekend": "07:30-18:00",
-    "notes": "148 Grand St, Brooklyn NY 11249 — flagship roastery with skylight + living wall, frequently cited as one of NYC's best café photo spots (devocion.com). Weekend hours 7:30am–6pm Sat/Sun (yelp.com). Closer to IC than the Manhattan locations and a stronger 'photo' overlap than the Industry City café; street parking on Grand and side streets, plus paid lots near Berry St. Drive from IC via Gowanus Expy / Williamsburg Bridge approach ≈18 min off-peak.",
+    "notes": "Flagship Brooklyn roastery at 148 Grand St, Williamsburg North Side (devocion.com). Weekend hours 7:30am–6pm (yelp.com). Skylit pitched roof, sunlit courtyard, Colombian greenery, on-site coffee lab for trainings/cuppings (devocion.com). Drive from Industry City ~15 min via Gowanus Expressway/BQE; street parking only — Williamsburg parking can be tight on weekends, plan to circle Grand/Berry/Wythe or use a paid lot near N 3rd. Replaces any Manhattan coffee detour while staying in-zone for the IC + driving-cluster itinerary.",
     "sources": [
       {
         "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-        "accessed": "2026-05-16T22:00:00Z"
+        "accessed": "2026-05-16T23:10:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
-        "accessed": "2026-05-16T22:00:00Z"
+        "accessed": "2026-05-16T23:10:00Z"
       },
       {
         "url": "https://www.devocion.com/pages/cafes",
-        "accessed": "2026-05-16T22:00:00Z"
-      },
-      {
-        "url": "https://brooklynslifestyle.com/devocion-coffee-brooklyn/",
-        "accessed": "2026-05-16T22:00:00Z"
+        "accessed": "2026-05-16T23:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:48:53.977Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:12:15.352Z"
   },
   {
     "id": "rainey-park-lic",
@@ -18633,51 +18621,60 @@
   {
     "id": "chelsea-market",
     "name": "Chelsea Market",
-    "desc": "Indoor food hall + boutique shopping under the High Line; the rain-day Manhattan anchor",
-    "longDesc": "A 100,000+ sq ft indoor food hall in the old Nabisco factory in Meatpacking, packed with stalls like Los Tacos No. 1, Lobster Place, Mokbar, Miznon, and Amy's Bread. Sits directly beneath the High Line so the day pivots indoor-outdoor without a re-park, making it the strongest rain-day fallback for an Industry City–anchored itinerary. Two paid lots flanking the W 15th St entrance handle weekend parking.",
+    "desc": "Block-long Manhattan food hall under the High Line with 50+ vendors — lobster rolls, tacos, ramen, bakeries.",
+    "longDesc": "Chelsea Market occupies the old Nabisco factory on 9th Ave between 15th and 16th, the same building the High Line enters at Gansevoort, so pairing it with a High Line walk is one ticket worth of parking. Inside: Los Tacos No. 1, The Lobster Place, Mokbar, Miznon, Amy's Bread, Creamline, and a rotating cast of 50+ stalls under exposed brick and pipework. Crowded on weekends — go before noon or after 3pm to actually move.",
     "url": "https://www.chelseamarket.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "foodie",
-      "chill",
+      "photo",
       "curious"
     ],
     "dietary": [
       "vegetarian",
-      "vegan"
+      "vegan",
+      "gluten-free"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "Sat 07:00-21:00, Sun 08:00-20:00",
-    "notes": "Manhattan venue — uniquely justified as the rain-day pairing with the High Line directly above (source: chelseamarket.com/visit). Address 75 Ninth Ave, NY 10011. Two adjacent paid lots with W 15th St entrances; budget ~$30+/2hr on weekends (source: spotangels). Drive from IC is 15-25 min via Brooklyn-Battery Tunnel + West Side Hwy. Zone tagged 'dumbo' as the closest Brooklyn-side proxy since the schema has no Manhattan enum — UI should treat as Manhattan rain-day add-on, not a Brooklyn cluster stop.",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "07:00-22:00",
+    "notes": "Manhattan exception — paired with High Line's Gansevoort entrance which sits directly above the building (chelseamarket.com). Concourse open 7am-10pm daily; individual vendors vary, double-check before going (nyctourism.com). No on-site parking — nearest garages: Icon at 95 Horatio St and SP+ at 11th Ave/15th St, both ~$25-40 for 2hrs weekend. Recommend driving in, parking once, doing High Line + Chelsea Market + Little Island as a single stop before heading back to Brooklyn (yelp.com, newyorkdearest.com).",
     "sources": [
       {
         "url": "https://www.chelseamarket.com/",
-        "accessed": "2026-05-16T21:40:00Z"
+        "accessed": "2026-05-16T23:10:00Z"
       },
       {
         "url": "https://www.chelseamarket.com/visit",
-        "accessed": "2026-05-16T21:40:00Z"
+        "accessed": "2026-05-16T23:10:00Z"
       },
       {
-        "url": "https://www.spotangels.com/nyc/chelsea-market-parking",
-        "accessed": "2026-05-16T21:40:00Z"
+        "url": "https://www.yelp.com/biz/chelsea-market-new-york",
+        "accessed": "2026-05-16T23:10:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/chelsea-market/",
+        "accessed": "2026-05-16T23:10:00Z"
+      },
+      {
+        "url": "https://newyorkdearest.com/visiting-chelsea-market-things-to-do/",
+        "accessed": "2026-05-16T23:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:35:42.571Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:07:46.742Z"
   },
   {
     "id": "hudson-yards-vessel-edge",
-    "name": "Hudson Yards: Vessel + Edge",
-    "desc": "Twin Manhattan landmarks at the High Line's north end — climb the Vessel, then float 100 floors up on Edge's glass deck.",
-    "longDesc": "Hudson Yards stacks two photogenic icons within one block: Thomas Heatherwick's 150-ft honeycomb Vessel (reopened March 2026 after a multi-year safety closure) and Edge, the Western Hemisphere's highest outdoor sky deck at 1,131 ft with an angled glass floor. Pair them with a Chelsea-to-HY walk down the High Line for a single-parking-transaction Manhattan day. Indoor Edge experience is partly under renovation through May 2026, with a new immersive installation debuting June 2026.",
-    "url": "https://www.hudsonyardsnewyork.com/discover/edge",
+    "name": "Vessel + Edge at Hudson Yards",
+    "desc": "Climbable copper sculpture and glass-floor sky deck at the High Line's north terminus",
+    "longDesc": "Vessel reopened in early 2026 with timed-entry tickets, floor-to-ceiling steel mesh on upper platforms, and free Thursday slots for NYC residents — 154 interconnected staircases climbing 16 stories above Hudson Yards Plaza. Two blocks west, Edge juts 80 ft out from the 100th floor of 30 Hudson Yards (1,131 ft up) with angled glass walls, a glass floor, and skyline-to-river panoramas; the optional City Climb adds a hands-on ascent over the building's crown. Both pair naturally with the High Line via the new Moynihan Connector and Manhattan West passage.",
+    "url": "https://www.hudsonyardsnewyork.com/discover/vessel",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
@@ -18688,36 +18685,36 @@
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "2-3 hr",
+    "duration": "90-120 min",
     "driveFromIC": "25 min",
-    "hoursWeekend": "Edge 09:00-22:00 (last elevator 21:10); Vessel 10:00-21:00",
-    "notes": "Manhattan exception justified — northern terminus of the High Line enables a Chelsea Market → High Line → Hudson Yards loop on one parking ticket (Hudson Yards Garage, ~$30 weekend flat). Vessel GA $10, flex $15; NYC residents free Thursdays (vesselnyc.com). Edge GA from $39, sunset slots higher; book 14+ days out for early-bird (edgenyc.com). Edge indoor space limited Apr-May 2026 (renovation), new immersive June 2026 (decks-nyc.com). Vessel reopened March 2026 with new safety mesh (timeout.com).",
+    "hoursWeekend": "Vessel 11:00-19:00 / Edge 09:00-22:00",
+    "notes": "Manhattan exception — uniquely justified because it anchors the High Line's north end via the Moynihan Connector and ties into the existing Manhattan-justified cluster. Vessel requires advance timed-entry tickets and security screening; locals get free Thursdays with NYC ID (hoodline.com, 2026-02). Edge weekend/sunset slots can hit 2-hour waits during peak — book online; last elevator 50 min before close (edgenyc.com). Parking: 5 Manhattan West and Hudson Yards garages run $35-60 weekend day rates; West Side Highway exit at 34th St. Drive route from IC: Gowanus → Battery Tunnel → West Side Highway, ~22-28 min off-peak. Pair with a High Line walk south or a Moynihan Train Hall stop on exit. Note: zone enum lacks Manhattan; tagged 'dumbo' as nearest thematic waterfront/photo cluster — flag for zone-enum extension.",
     "sources": [
       {
-        "url": "https://www.vesselnyc.com/faq",
+        "url": "https://www.vesselnyc.com/visit",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://hoodline.com/2026/02/hudson-yards-hotly-debated-vessel-climbs-back-to-life-with-free-thursdays-for-locals/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.edgenyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.hudsonyardsnewyork.com/discover/edge",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.edgenyc.com/get-tickets/",
         "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/news/the-infamous-vessel-at-hudson-yards-is-reopening-in-four-days-022326",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.6sqft.com/hudson-yards-vessel-and-edge-reopen-today/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://loving-newyork.com/hudson-yards-observation-deck/",
-        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:38:17.054Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:10:14.721Z"
   },
   {
     "id": "noguchi-museum-lic",
@@ -19671,5 +19668,46 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T23:02:57.864Z"
+  },
+  {
+    "id": "partners-coffee-williamsburg",
+    "name": "Partners Coffee — Cafe & Roastery",
+    "desc": "Williamsburg flagship roastery on N 6th — Brooklyn-roasted espresso pulled on a Linea PB",
+    "longDesc": "Partners Coffee's North 6th Street flagship has been the hub of the Brooklyn-born roaster since 2012, combining a working roastery, an education lab, and a customer-facing cafe in one Williamsburg space. The bar features their Bedford espresso blend pulled on a La Marzocco Linea PB, alongside pour-overs from a rotating single-origin lineup. It's a coffee-nerd anchor on the way into or out of Williamsburg lunch stops, with regulars and travelers sharing the room.",
+    "url": "https://www.partnerscoffee.com/pages/retail-locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "7:00-18:00",
+    "notes": "Address 125 N 6th St, Brooklyn NY 11249 (partnerscoffee.com retail-locations). Open Sat-Sun 7:00-18:00 (Yelp / search snippets, May 2026). Williamsburg flagship doubles as on-site roastery + education lab — they roast at this address and pull their Brooklyn-inspired Bedford espresso on a Linea PB (partnerscoffee.com homepage). Weekend parking: metered street parking on N 6th and surrounding blocks is paid Mon-Sat, free Sundays; arrive before ~10:30 to beat brunch crowd. Pairs well with later Williamsburg lunch + Bedford Ave wandering before driving back to IC via BQE.",
+    "sources": [
+      {
+        "url": "https://www.partnerscoffee.com/pages/retail-locations",
+        "accessed": "2026-05-16T23:10:00Z"
+      },
+      {
+        "url": "https://www.partnerscoffee.com/",
+        "accessed": "2026-05-16T23:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/partners-coffee-brooklyn-brooklyn",
+        "accessed": "2026-05-16T23:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:16:13.246Z"
   }
 ]
