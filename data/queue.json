@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sunken Hundred or Leyenda cocktail bar Carroll Gardens/Cobble Hill",
-    "reason": "Pre-dinner drink option in same drive-cluster as Lucali for evening track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:04:06.894Z"
-  },
-  {
-    "topic": "Threes Brewing Gowanus taproom (333 Douglass St)",
-    "reason": "adjacent craft-beer anchor in same drive cluster — strong food program and event programming complements Other Half's beer-only model",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:06:09.619Z"
-  },
-  {
-    "topic": "Court Street Grocers Carroll Gardens sandwiches",
-    "reason": "natural pre/post-brewery food stop walkable-ish or short drive from Other Half Centre St",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:06:09.619Z"
-  },
-  {
-    "topic": "Hunters Point South Park LIC waterfront",
-    "reason": "Directly adjacent to Gantry Plaza — extends the LIC skyline-park stop with newer piers and a tidal salt marsh; same drive, same parking pool",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:08:16.507Z"
-  },
-  {
-    "topic": "Bush Terminal Piers Park Sunset Park",
-    "reason": "Brooklyn-side counterpart 5 min from IC — gives the itinerary a true in-zone skyline alternative when LIC is too far",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:08:16.507Z"
-  },
-  {
     "topic": "Domino Park Williamsburg waterfront",
     "reason": "Closer Brooklyn skyline-photo option (~15 min from IC) with adjacent food (Tacocina); useful as a swap when LIC drive time blows out the schedule",
     "requestedBy": "agent",
@@ -5530,5 +5500,95 @@
     "reason": "5-min walk from Books Are Magic; covers the 'coffee + sweet during the wait' slot the cluster currently lacks",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T21:11:37.188Z"
+  },
+  {
+    "topic": "The Long Island Bar — 110 Atlantic Ave, Cobble Hill cocktail bar (gimlet famous, 9 min walk to Lucali)",
+    "reason": "Second pre-Lucali option in the same drive cluster; preserves choice if Clover Club is packed on a Saturday",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:14:18.899Z"
+  },
+  {
+    "topic": "Henry Public — 329 Henry St, Cobble Hill old-timey tavern (4 blocks from Lucali)",
+    "reason": "Cheaper $$ alternative for the same evening track; turkey-leg sandwich + Manhattan combo is a different vibe than Clover Club",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:14:18.899Z"
+  },
+  {
+    "topic": "Brooklyn Inn — 148 Hoyt St, historic 1870s neighborhood bar in Boerum Hill",
+    "reason": "Adds a no-frills dive-leaning option to the evening-track corpus when guests want pre-Lucali drinks without a cocktail-bar price tag",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:14:18.899Z"
+  },
+  {
+    "topic": "Grand Army South (Gowanus seafood/oysters residency at Threes Brewing)",
+    "reason": "The kitchen partner is a named project in its own right — worth a standalone entry so the itinerary can surface it as a food-led pick separate from the beer hall framing.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:16:27.927Z"
+  },
+  {
+    "topic": "Tiny Montgomery (Threes Brewing event venue, Gowanus)",
+    "reason": "Live music/comedy/sports-screening side space — distinct programming asset that should be itinerary-addressable independently of the taproom for evening/rainy-day branches.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:16:27.927Z"
+  },
+  {
+    "topic": "Strong Rope Brewery (Carroll Gardens, all-NY-grain microbrewery)",
+    "reason": "Smaller, hyper-local craft alternative ~10 min from IC in a different cluster (Carroll Gardens) — diversifies the beer-anchor options beyond Gowanus/Sunset Park.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:16:27.927Z"
+  },
+  {
+    "topic": "Frankel's Delicatessen Greenpoint smoked-fish sandwiches",
+    "reason": "Adjacent classic-Brooklyn deli archetype, fills a Greenpoint cluster food slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:18:34.243Z"
+  },
+  {
+    "topic": "Defonte's of Brooklyn Red Hook Italian heroes",
+    "reason": "Closer IC-radius alternative for a sandwich stop tied to Red Hook breweries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:18:34.243Z"
+  },
+  {
+    "topic": "Other Half Brewing Centre St Manhattan taproom hours and food policy",
+    "reason": "Pairs directly with this entry — confirms whether outside food is welcome before/after the Court St stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:18:34.244Z"
+  },
+  {
+    "topic": "LIC Landing pavilion cafe at Hunters Point South",
+    "reason": "Seasonal waterfront concession inside HPSP — completes the food angle for the LIC skyline stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:20:41.655Z"
+  },
+  {
+    "topic": "Newtown Creek Nature Walk at North Henry St",
+    "reason": "Cross-creek companion to HPSP's salt marsh — pairs with a Greenpoint loop after the LIC stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:20:41.655Z"
+  },
+  {
+    "topic": "WNYC Transmitter Park Greenpoint waterfront",
+    "reason": "Greenpoint-side skyline pier extends the same waterfront-views track if the user wants two zones in one drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:20:41.655Z"
+  },
+  {
+    "topic": "Brooklyn Army Terminal waterfront and ferry pier",
+    "reason": "Adjacent industrial-waterfront landmark with skyline views and weekend ferry access — extends the Sunset Park waterfront cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:22:46.160Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself, 5th Ave & 41st St)",
+    "reason": "Highest natural skyline overlook in Brooklyn, 7 min from IC — covers the daytime/picnic counterpart to Bush Terminal's water-level sunset",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:22:46.160Z"
+  },
+  {
+    "topic": "Owl's Head Park Bay Ridge sunset overlook",
+    "reason": "Hilltop park 10 min south of IC with Verrazzano + harbor views — broadens the in-zone golden-hour options beyond Sunset Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:22:46.160Z"
   }
 ]

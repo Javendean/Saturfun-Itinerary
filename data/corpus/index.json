@@ -5797,14 +5797,15 @@
   {
     "id": "threes-brewing-gowanus",
     "name": "Threes Brewing (Gowanus)",
-    "desc": "Brewery, beer garden, and small music venue in Gowanus — walkable to Bell House",
-    "longDesc": "Threes' flagship Gowanus spot at 333 Douglass St is a working brewery by day and a brewpub/beer garden/music venue by night, with the in-house Tiny Montgomery stage hosting concerts and DJ nights and Ninth Street Espresso running the coffee bar up front. It sits about a 10-minute walk from The Bell House on 7th St, making it the natural pre-show beer stop on a Gowanus night-out cluster. Check the events page before you go — programming runs from indie-rock bookings to occasional DJ sets in the back room.",
+    "desc": "Gowanus taproom with serious kitchen residency (Grand Army South) and a side event venue, Tiny Montgomery.",
+    "longDesc": "Threes' flagship Brooklyn taproom pours its own lagers, IPAs and mixed-culture beers alongside guest taps from breweries they admire, plus wine and cocktails. The kitchen is run as a residency by Grand Army South (oysters/seafood-leaning) and Ninth Street Espresso handles daytime coffee from 8am-3pm, so it works as a full afternoon-into-evening stop rather than a tasting-room blip. The adjoining Tiny Montgomery hosts live music, comedy and sports screenings, making it the strongest 'plan B if the weather turns' option in the IC-adjacent cluster.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
+      "foodie",
       "curious"
     ],
     "dietary": [
@@ -5813,34 +5814,26 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "12:00-00:00 (Sat) / 12:00-23:00 (Sun)",
-    "notes": "333 Douglass St, Brooklyn 11217 (Gowanus, just east of 4th Ave / Park Slope edge). Mon-Sat 12p-12a, Sun 12p-11p; Ninth Street Espresso 8a-3p daily (threesbrewing.com/pages/gowanus). In-house music venue 'Tiny Montgomery' books concerts and DJ nights — see events list at threesbrewing.com/pages/public-events (threesbrewing.com). Street parking is inconsistent in Gowanus; paid garages on 3rd Ave are the reliable fallback (spotangels.com). Roughly 0.5 mi / ~10 min walk to The Bell House (149 7th St), so it pairs cleanly as a pre-show beer.",
+    "hoursWeekend": "Sat 12:00-24:00, Sun 12:00-23:00",
+    "notes": "Kitchen run by Grand Army South residency (Sat 12-23:00, Sun 12-22:00); Ninth Street Espresso for daytime coffee 8-15:00 daily (threesbrewing.com/pages/gowanus). Tiny Montgomery side venue hosts live music/comedy/sports screenings — useful weather-backup. Street parking in Gowanus is generally findable on weekends but tight near 3rd Ave; complements Other Half (beer-only) by offering a real food program in the same 12-min drive cluster from IC. Border Gowanus/Park Slope — zoned park-slope as closest enum value.",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-16T18:00:00Z"
-      },
-      {
-        "url": "https://threesbrewing.com/pages/public-events",
-        "accessed": "2026-05-16T18:00:00Z"
-      },
-      {
-        "url": "https://www.songkick.com/venues/3356959-threes-brewing-gowanus",
-        "accessed": "2026-05-16T18:00:00Z"
+        "accessed": "2026-05-16T21:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-16T18:00:00Z"
+        "accessed": "2026-05-16T21:15:00Z"
       },
       {
-        "url": "https://www.spotangels.com/nyc/threes-brewing-parking",
-        "accessed": "2026-05-16T18:00:00Z"
+        "url": "https://www.beermenus.com/places/18430-threes-brewing-gowanus",
+        "accessed": "2026-05-16T21:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T18:18:23.192Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:16:27.912Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -8323,9 +8316,9 @@
   },
   {
     "id": "court-street-grocers-carroll-gardens",
-    "name": "Court Street Grocers",
-    "desc": "Cult-favorite Carroll Gardens sandwich shop and provisions store with weekend lines worth braving.",
-    "longDesc": "The Court St flagship is the original — a tight, sunlit corner store stacked with house-cured meats, oddball pantry imports, and a counter turning out hot Italian Combos, the Mighty Mighty, and seasonal specials. Cash-and-carry only seating, so grab sandwiches and take them to Carroll Park or eat them on the drive between Carroll Gardens and Red Hook. Open 7 days, 8am-5pm, which makes it a reliable mid-day fuel stop on a driving itinerary.",
+    "name": "Court Street Grocers (Carroll Gardens)",
+    "desc": "Cult Brooklyn deli with stacked sandwiches and a cozy grocery-shop counter on Court St.",
+    "longDesc": "Court Street Grocers' flagship at 485 Court St is part old-school general store, part destination sandwich shop — home of the Turkey Hill (turkey, cranberry, stuffing, gravy) and the Uncle Eddie (hot pastrami, melted muenster, slaw, Russian) plus rotating specials chalked above the counter. Order at the deli case and grab a stool, or take it to-go before/after Other Half's Carroll Gardens-adjacent taproom on Centre St. Closes at 5pm so plan it as the lunch anchor rather than dinner.",
     "url": "https://www.courtstreetgrocers.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8341,21 +8334,21 @@
     "duration": "30-45 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "Flagship at 485 Court St, Brooklyn NY 11231 (courtstreetgrocers.com/contact-hours-csg). Sandwiches are the headline — the Italian Combo and Mighty Mighty are the staples; menu rotates seasonally. Weekend parking on Court St and surrounding side streets is metered but generally findable; alternate-side rules suspended Sundays. Closes hard at 5pm so this is a lunch or late-afternoon stop, not dinner. 12-min drive from Industry City via Hamilton Ave / Smith St (Google Maps).",
+    "notes": "Hours 8am-5pm daily per Yelp listing (yelp.com/biz/court-street-grocers-brooklyn). Phone (718) 722-7229. Street parking on Court/Luquer is manageable on weekends but tight midday — try the side streets west of Court. From Other Half's Centre St taproom in Manhattan it's a ~12-15 min drive across the Brooklyn Bridge via Tillary/Hicks; from Industry City it's a quick ~10-12 min up 3rd Ave + Smith. Cash + cards. Vegetarian options on the menu but not vegan-forward. (courtstreetgrocers.com)",
     "sources": [
       {
-        "url": "https://www.courtstreetgrocers.com/contact-hours-csg",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
+        "accessed": "2026-05-16T21:15:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.courtstreetgrocers.com/locations",
+        "accessed": "2026-05-16T21:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:47:03.193Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T21:18:34.228Z"
   },
   {
     "id": "smack-mellon",
@@ -10327,45 +10320,41 @@
   {
     "id": "bush-terminal-piers-park",
     "name": "Bush Terminal Piers Park",
-    "desc": "Hidden waterfront park with western-facing piers, Statue of Liberty views, and viral swings at golden hour",
-    "longDesc": "A reclaimed industrial waterfront opened in 2014, with a long esplanade past tide ponds and restored wetlands out onto piers that face directly west across the Upper Bay. The far pier puts you closer to the Statue of Liberty and the Manhattan skyline, with iconic harborfront swings that fill up 15-20 min before sunset. Summer hours (May 2 - Sept 30) run 8 a.m.-8 p.m., so it stays open past Green-Wood's 7 p.m. close — covering late-spring and summer sunsets through about 8:30 p.m.",
+    "desc": "Reclaimed-pier waterfront park 5 min from IC with tide pools, lawns, and unobstructed Manhattan-skyline + Statue of Liberty views.",
+    "longDesc": "An eight-block stretch of former shipping piers at First Ave between 43rd and 51st Streets, converted into a 27-acre waterfront park with two multipurpose soccer/baseball fields, a small nature preserve, restored tidal wetlands, and a long pier-edge esplanade looking straight at Lower Manhattan and the Statue of Liberty. The on-site lot is free on weekends, and the west-facing piers are the closest sunset-skyline spot to Industry City — a true in-zone alternative to LIC's Gantry Plaza when you don't want to lose 40 minutes of drive each way.",
     "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "chill",
-      "romantic",
-      "photo"
+      "photo",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "45-75 min",
     "driveFromIC": "5 min",
-    "hoursWeekend": "08:00-20:00 (May 2-Sep 30)",
-    "notes": "Entrance at 43rd St & 1st Ave, just south of Industry City — essentially the same waterfront strip (NYC Parks). Western pier exposure gives unobstructed Upper Bay sunsets with Statue of Liberty silhouette and Lower Manhattan skyline (NYC Tourism). The viral harborfront swings are the marquee photo op — arrive 15-20 min ahead of golden hour to claim one (Wanderlog). Free, on-street weekend parking is plentiful on 1st Ave / 43rd St — far quieter than Red Hook or Dumbo waterfront. Closes 8 p.m. in summer, so this fits sunsets later than Green-Wood's 7 p.m. hard close (NYC Parks seasonal schedule).",
+    "hoursWeekend": "07:00-19:00",
+    "notes": "Enter at 43rd St & 1st Ave (NYC Parks). Free on-site parking lot, rarely full on weekend mornings (prked.com). Closes at dusk (7pm officially) so plan a pre-7pm visit in summer for golden hour, or pair with an IC sunset drink after. Tide pools at the south end and the viral pier swings are the photo spots; bring sneakers — paths are gravel/concrete (NYC Tourism).",
     "sources": [
       {
-        "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
-        "accessed": "2026-05-16T17:30:00Z"
-      },
-      {
         "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
-        "accessed": "2026-05-16T17:30:00Z"
+        "accessed": "2026-05-16T21:12:00Z"
       },
       {
-        "url": "https://wanderlog.com/place/details/28481/bush-terminal-piers-park",
-        "accessed": "2026-05-16T17:30:00Z"
+        "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
+        "accessed": "2026-05-16T21:12:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/bush-terminal-park-sunset-park",
-        "accessed": "2026-05-16T17:30:00Z"
+        "url": "https://prked.com/blog/bush-terminal-piers-park-brooklyn-parking-guide",
+        "accessed": "2026-05-16T21:12:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T17:26:51.648Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T21:22:46.142Z"
   },
   {
     "id": "owls-head-park",
@@ -13747,12 +13736,12 @@
   {
     "id": "clover-club",
     "name": "Clover Club",
-    "desc": "Smith Street cocktail institution since 2008 — pre-Prohibition drinks, fireplace back room, late-night vibe.",
-    "longDesc": "Julie Reiner's Clover Club has been the flag-bearer of Brooklyn's craft cocktail scene since 2008, serving expertly built classics and house riffs from a Victorian-leaning room with a fireplace-warmed back parlor. It is a four-minute walk from Frankies 457 and stays open until 2am on Saturdays, making it the canonical after-dinner stop for the Smith/Court corridor. Expect a mid-$$ cocktail program, evening fare like oysters and a daily burger, and live jazz on select nights.",
-    "url": "https://www.cloverclubny.com/",
+    "desc": "Julie Reiner's landmark Brooklyn cocktail bar — chandeliers, jazz, perfect aperitivo stop 3 blocks from Lucali",
+    "longDesc": "The Smith Street original from cocktail legend Julie Reiner (also behind the now-closed Leyenda), open since 2008 and still treated as the gold standard for classic-leaning craft drinks in Brooklyn (Time Out, NY Tourism). Velvet booths, a mahogany bar, occasional live jazz, and a Victorian-parlor mood that pairs naturally with a coal-oven pizza dinner three blocks away. Walk-in friendly at the bar; reservations on Resy for the dining room.",
+    "url": "https://cloverclubny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "cobble-hill",
+    "zone": "carroll-gardens",
     "vibe": [
       "romantic",
       "chill",
@@ -13760,28 +13749,40 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "14 min",
-    "hoursWeekend": "Sat 12:00-02:00, Sun 12:00-00:00",
-    "notes": "Pre-Prohibition program, daiquiri-and-flip-driven menu; reservations on Resy strongly recommended Fri/Sat after 8pm, walk-in seats at the bar usually open earlier in the evening (cloverclubny.com). Address 210 Smith St between Baltic & Butler — the bar's own copy places it in Cobble Hill (cloverclubny.com). Recently launched a second concept called 'The Saloon' in an adjacent space (cloverclubny.com). 4-minute walk to Frankies 457 makes it the natural post-dinner pour for any Carroll Gardens/Cobble Hill track. Live jazz appears intermittently in the back room with the fireplace (timeout.com).",
+    "duration": "45-60 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-00:00",
+    "notes": "Pre-Lucali play: park once near Henry/Court St, walk to Clover Club for two cocktails + a snack from the Evening Fare menu, then 8-min walk to Lucali for the 18:00-19:00 line. Original task asked about Sunken Hundred (closed per Yelp Mar 2026) and Leyenda (closed end of Mar 2025, team still hunting for a new space per Time Out / Drinks International / Spirits Business) — Clover Club is the direct successor since Julie Reiner founded both and it sits on the same Smith Street block. Address: 210 Smith St, Brooklyn NY 11201.",
     "sources": [
       {
-        "url": "https://www.cloverclubny.com/",
-        "accessed": "2026-05-16T15:30:00Z"
+        "url": "https://cloverclubny.com/",
+        "accessed": "2026-05-16T21:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/clover-club-brooklyn",
-        "accessed": "2026-05-16T15:30:00Z"
+        "accessed": "2026-05-16T21:15:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/clover-club",
-        "accessed": "2026-05-16T15:30:00Z"
+        "accessed": "2026-05-16T21:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunken-hundred-brooklyn-2",
+        "accessed": "2026-05-16T21:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
+        "accessed": "2026-05-16T21:15:00Z"
+      },
+      {
+        "url": "https://drinksint.com/news/fullstory.php/aid/11588/Brooklyn_92s_Leyenda_to_close_at_the_end_of_March.html",
+        "accessed": "2026-05-16T21:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T15:34:03.552Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T21:14:18.883Z"
   },
   {
     "id": "buttermilk-channel-closed",
@@ -18373,5 +18374,53 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T21:05:19.896Z"
+  },
+  {
+    "id": "hunters-point-south-park",
+    "name": "Hunters Point South Park",
+    "desc": "LIC waterfront park with cantilevered skyline overlook, tidal salt marsh, and kayak launch.",
+    "longDesc": "Sprawling 11-acre waterfront park directly south of Gantry Plaza, with a 30-foot cantilevered platform jutting over the East River for sweeping Manhattan skyline views. Phase 2 added 1.5 acres of newly-established tidal salt marsh wetlands, a kayak launch on Newtown Creek, and Nobuho Nagasawa's 'Luminescence' moon-phase sculpture installation that glows at night. Pair it with Gantry Plaza as one extended LIC waterfront stop — same drive, same parking pool.",
+    "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "photo",
+      "curious",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-75 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park is technically in Long Island City (Queens) — closest zone in the corpus enum is Greenpoint, just across Newtown Creek. Drive from Industry City via Gowanus/BQE is ~18-22 min on weekend mornings; same parking pool as Gantry Plaza (street parking on Center Blvd / 2nd St is usually findable on Sat/Sun mornings, with the paid Hunters Point South Parking Corp garage at 5-49 Borden Ave as backup). Phase 2 (opened 2018) added the cantilevered overlook + salt marsh wetlands (NYC Parks press release 21586). The southern kayak launch on Newtown Creek supports free seasonal community paddles run by HPP Conservancy. 'Luminescence' moon-dome installation is especially photogenic at dusk (Untapped New York). Pavilion has restrooms + seasonal concessions.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/hunters-point-south-park/pressrelease/21586",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.hunterspointparks.org/aboutparks",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.untappedcities.com/10-fun-facts-about-the-new-hunters-point-south-park-in-long-island-city/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.6sqft.com/photos-phase-two-of-hunters-point-south-park-officially-opens-on-the-lic-waterfront/",
+        "accessed": "2026-05-16"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:20:41.639Z"
   }
 ]
