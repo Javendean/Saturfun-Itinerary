@@ -2848,41 +2848,40 @@
   {
     "id": "littlefield-gowanus",
     "name": "Littlefield",
-    "desc": "Independent Gowanus performance space with late comedy, indie shows, and dance parties running past 2 AM on weekends.",
-    "longDesc": "Housed in a former 1920s printing press warehouse on Sackett Street, Littlefield has been one of Brooklyn's premier independent live venues since 2009. Weekend programming spans stand-up comedy, indie music, podcasts, and DJ-led dance parties, with most sets 21+ and late shows ending between 2-4 AM. The room has a state-of-the-art sound rig and a long bar, so it doubles as a hangout between sets — a good landing pad after dinner in Industry City or Park Slope.",
+    "desc": "Converted-warehouse comedy + live music room in Gowanus; nightly stand-up, podcasts, indie shows",
+    "longDesc": "Littlefield is a 6,000 sq ft independent performance venue at 635 Sackett St in Gowanus, housed in a former textile warehouse with exposed brick, a full bar, and a state-of-the-art sound system. Programming leans heavily on stand-up comedy showcases, live podcast tapings, and indie music — a polished, industrial-cool counterpoint to the bar-back comedy scene. Doors typically open ~30 min before each show; the venue is only open for ticketed events.",
     "url": "https://littlefieldnyc.com/",
-    "photoUrl": "",
+    "photoUrl": "https://littlefieldnyc.com/wp-content/uploads/2021/02/Littlefield_Google_Maps-1024x470.png",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
-      "curious",
-      "photo"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "19:30-04:00 (show-dependent)",
-    "notes": "21+ for most shows. Address: 635 Sackett St between 3rd/4th Ave (Gowanus/Park Slope border) — mapped to park-slope zone since Gowanus isn't enumerated. Street parking on 3rd Ave / Sackett is usually findable on weekends; no dedicated lot. Late comedy and dance slots commonly run 10:30 PM-2 AM (littlefieldnyc.com). Check the live calendar before going — programming varies night to night.",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "event-dependent (typically 19:00-23:30)",
+    "notes": "635 Sackett St between 3rd/4th Aves, Gowanus — technically Gowanus but bordering Park Slope/Carroll Gardens. Street parking available; read signs carefully, NYC tows aggressively in this corridor (source: littlefieldnyc.com/info). Ticket prices inclusive of fees; $1 processing surcharge at door for card/phone (source: littlefieldnyc.com/info). Venue only opens for scheduled events — check calendar before driving over.",
     "sources": [
+      {
+        "url": "https://littlefieldnyc.com/info/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
       {
         "url": "https://littlefieldnyc.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://nyc-shows.brooklynvegan.com/venues/littlefield",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://thecomedybureau.com/shows/littlefield/",
+        "url": "https://www.yelp.com/biz/littlefield-brooklyn-2",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:52:58.995Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T19:46:26.000Z"
   },
   {
     "id": "noguchi-museum",
@@ -7559,44 +7558,44 @@
   {
     "id": "the-bell-house",
     "name": "The Bell House",
-    "desc": "Gowanus comedy/music hall in a 1920s factory — big headliners, weekend dance parties, podcast tapings.",
-    "longDesc": "Sister venue to Williamsburg's Music Hall and a bigger sibling to Littlefield, The Bell House occupies a 1920s printing factory with an 88-foot wooden barrel-vault ceiling and a 450 sq ft stage. Programming spans national touring comedians (Sam Campbell, Todd Barry, Naomi Ekperigin), The Moth StorySLAM, live podcast tapings, indie bands, and late-night DJ dance parties. Two rooms — main hall for headliners and a front lounge bar that stays open after shows.",
+    "desc": "Gowanus podcast tapings, headlining standup, and indie shows in a former warehouse with rare on-street parking.",
+    "longDesc": "Two-room music and events venue at 149 7th Street in Gowanus, famous for live podcast recordings (NPR, Maximum Fun, Headgum), national standup headliners, and weird-Brooklyn variety nights. The large back hall hosts ticketed shows while the Front Bar runs as a casual pre-show pub. 21+ for most shows, strict anti-heckling policy, and — unusually for NYC — actual weekend street parking thanks to the industrial Gowanus blocks.",
     "url": "https://www.thebellhouseny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "2-3 hr",
     "driveFromIC": "8 min",
-    "hoursWeekend": "Sat-Sun 12:00-04:00 (shows typically 19:00-23:00, late DJ sets until 04:00)",
-    "notes": "149 7th Street in Gowanus, ~8 min drive from Industry City up 3rd Ave (thebellhouseny.com/visit). Street parking available but tight on show nights — they explicitly recommend transit, so leaving by 23:00 helps. Two rooms: 400-cap main hall and a separate front bar/lounge. Strong comedy slate in 2026: Heated Rivalry (5/26), Moth StorySLAM (5/27), Ear Hustle Live (5/28), Casey Balsham taping (5/29), Todd Barry taping (5/30) (thebellhouseny.com/shows). Books bigger names than Littlefield and is the natural fallback when Littlefield is privatized.",
+    "hoursWeekend": "Doors typically 7:00pm; box office opens day-of-show 1 hr before doors",
+    "notes": "149 7th Street, Gowanus, Brooklyn 11215 — short 3rd Ave shot from IC (thebellhouseny.com/visit). Street parking explicitly recommended over transit by the venue itself, which is rare; industrial blocks west of 4th Ave have weekend space. Subway backup: F/G/R Smith-9th. Programming skews comedy/podcast — Wait Wait Don't Tell Me, Sleep With Me, Maximum Fun tapings, plus national standup headliners (livenation.com). Front Bar serves food and drinks pre-show so you can roll straight from an IC dinner.",
     "sources": [
       {
-        "url": "https://www.thebellhouseny.com/",
-        "accessed": "2026-05-16T08:00:00Z"
-      },
-      {
         "url": "https://www.thebellhouseny.com/visit",
-        "accessed": "2026-05-16T08:00:00Z"
+        "accessed": "2026-05-16T20:00:00Z"
       },
       {
-        "url": "https://www.thebellhouseny.com/shows",
-        "accessed": "2026-05-16T08:00:00Z"
+        "url": "https://www.thebellhouseny.com/",
+        "accessed": "2026-05-16T20:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/nightlife/the-bell-house/",
-        "accessed": "2026-05-16T08:00:00Z"
+        "url": "https://www.livenation.com/venue/KovZ917ARvk/the-bell-house-events",
+        "accessed": "2026-05-16T20:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/music/the-bell-house",
+        "accessed": "2026-05-16T20:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T08:03:55.108Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:48:26.890Z"
   },
   {
     "id": "sultan-room",
@@ -17340,5 +17339,136 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T19:42:23.177Z"
+  },
+  {
+    "id": "flushing-meadows-unisphere",
+    "name": "Flushing Meadows Corona Park — Unisphere & Lake Loop",
+    "desc": "Free 12-story stainless-steel globe from the '64 World's Fair plus a flat lake-loop walk — zero admission, big-sky photos.",
+    "longDesc": "The Unisphere is a 140-foot, 120-foot-diameter stainless-steel globe built as the theme symbol of the 1964 New York World's Fair (motto: 'Peace Through Understanding') and now the centerpiece of Flushing Meadows Corona Park's main promenade. From there a flat promenade and the Meadow Lake loop give you 30-60 minutes of easy walking, big skyline sightlines, and unforced photo geometry — fountains around the globe are currently out of service (2025, electrical), so plan for the sculpture-and-sky composition rather than the spray. It pairs naturally with NYSCI (north) and Queens Botanical Garden (east) into a 3-stop Flushing day with one parking session.",
+    "url": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "06:00-01:00 (Unisphere plaza accessible 24h)",
+    "notes": "Actual location is Queens (Corona/Flushing), not Brooklyn — zone field uses 'industry-city' as a fallback only because the enum lacks Queens; treat as a Flushing-day anchor. Park itself: NYC Parks general hours 6am-1am; Unisphere plaza unfenced and walkable any time (nycgovparks.org). Globe = 140 ft tall, 120 ft diameter, built 1963-64 for the World's Fair (Wikipedia: Unisphere). Unisphere fountains AND mist garden have been out of service since 2025 due to electrical issues — don't promise spray (Wikipedia: Unisphere). Park is ~897 acres with Meadow + Willow Lakes south of the LIE; the Meadow Lake promenade is the natural loop walk (Wikipedia: Flushing Meadows–Corona Park). Heads up for drivers: Tide Gate Bridge on Meridian Rd inside the park is closed to vehicles, follow detour signage (nycgovparks.org). From Industry City: BQE → Gowanus → Grand Central Pkwy E, exit 9E Northern Blvd/Citi Field; ~14 mi, 25-30 min weekends. Closest paid lot is Citi Field / US Open Parking by the pedestrian bridge at 14 Ederle Promenade; Parking Lot A inside the park is the canonical Unisphere lot (parkopedia, spothero). Queens Museum sits at the west end of the same promenade — built into a 3-stop day it's a wet-weather backup that doesn't require moving the car.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park",
+        "accessed": "2026-05-16T19:50:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park/monuments/1597",
+        "accessed": "2026-05-16T19:50:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Unisphere",
+        "accessed": "2026-05-16T19:50:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park",
+        "accessed": "2026-05-16T19:50:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/flushing_meadows_corona_park_rd_new_york/",
+        "accessed": "2026-05-16T19:50:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/flushing-meadows-corona-park-parking",
+        "accessed": "2026-05-16T19:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:51:05.046Z"
+  },
+  {
+    "id": "joes-shanghai-flushing",
+    "name": "Joe's Shanghai (Flushing) — PERMANENTLY CLOSED",
+    "desc": "Original 1994 Flushing soup-dumpling shop; permanently closed — do not include in itineraries",
+    "longDesc": "Joe's Shanghai opened its original Flushing location at 136-21 37th Ave in 1994 and was widely credited with introducing Shanghainese xiao long bao (crab-and-pork soup dumplings) to mainstream NYC diners. The Flushing storefront is now permanently closed per Yelp's April 2026 listing, Google's 'permanently closed' marker, and Foursquare; the brand continues to operate at 46 Bowery in Manhattan Chinatown and a Midtown location. Reddit threads reference a fire as a contributing factor, though the parent site joeshanghairestaurants.com still shows a stale Flushing page.",
+    "url": "https://www.joeshanghairestaurants.com/flushing.html",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "CLOSED — permanently",
+    "notes": "DO NOT PROMOTE. Flushing original at 136-21 37th Ave is permanently shuttered as of confirmation April 2026 (Yelp listing tagged CLOSED, Google 'permanently closed', Foursquare 'Now Closed'). Original task brief assumed it was the iconic Flushing lunch-bridge between QBG and NYSCI — that assumption is stale. Zone is a placeholder; venue is in Flushing, Queens (not Brooklyn). Brand still operates at 46 Bowery (Manhattan Chinatown) and Midtown 49th St (Joe's Tower 49 spin-off). For the QBG/NYSCI lunch-bridge purpose, redirect to Nan Xiang Xiao Long Bao or White Bear instead (queued).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/joes-shanghai-flushing",
+        "accessed": "2026-05-16T19:50:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/joes-shanghai-%E9%B9%BF%E9%B8%A3%E6%98%A5/4b1c4e40f964a520cb0524e3",
+        "accessed": "2026-05-16T19:50:00Z"
+      },
+      {
+        "url": "https://www.joeshanghairestaurants.com/flushing.html",
+        "accessed": "2026-05-16T19:50:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Joe's_Shanghai",
+        "accessed": "2026-05-16T19:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T19:53:46.506Z"
+  },
+  {
+    "id": "louis-armstrong-house-museum",
+    "name": "Louis Armstrong House Museum",
+    "desc": "Jazz legend's preserved Corona home — 40-min guided tours hourly, Thu-Sat only",
+    "longDesc": "Satchmo's modest 1943 row house in Corona, Queens, preserved exactly as Louis and Lucille Armstrong left it — wallpapered den, mirrored bathroom, and his reel-to-reel tape collection. Visits are 40-minute guided tours capped at 10 people, departing hourly; a small exhibit and Japanese garden flank the house. Pairs naturally with Queens Botanical Garden or the Queens Museum for an eastern-Queens cultural day.",
+    "url": "https://www.louisarmstronghouse.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 11:00-16:00 (closed Sun)",
+    "notes": "Actually in Corona, Queens (not Brooklyn — routed under williamsburg as nearest gateway zone). Address: 34-56 107th St, Queens NY 11368. House Tour + Exhibit $20 adult / $14 senior-student-child; Exhibit-Only $10/$8 (louisarmstronghouse.org). Tours hourly on the hour, doors 10:45, final tour 15:00 — advance booking required, max 10 per tour. CLOSED Sunday-Wednesday — Saturday is the only weekend day this works. Street parking 'very limited' per the museum; weekend cleaning is not in effect but spots fill — allow 10 min to find a space or rideshare from the 7-train at 103 St-Corona Plaza. Drive from IC ~25 min via BQE → Grand Central Pkwy. New $26M Armstrong Center across the street opened 2023 with archives and a 75-seat performance venue.",
+    "sources": [
+      {
+        "url": "https://www.louisarmstronghouse.org/visit/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/louis-armstrong-house-museum/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://whichmuseum.com/museum/the-louis-armstrong-house-museum-queens-30112/opening-hours",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:56:11.518Z"
   }
 ]
