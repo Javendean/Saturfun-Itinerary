@@ -54,15 +54,39 @@ async function iterate() {
   await fs.writeFile(queuePath, JSON.stringify(queue, null, 2) + '\n');
   console.log(`[research] → ${next.topic}`);
 
-  const prompt = buildPrompt(next);
+  const kind = classifyTopic(next.topic);
+  const prompt = kind === 'itinerary-candidate'
+    ? await buildItineraryCandidatePrompt(next)
+    : buildPrompt(next);
   const raw = await runClaude(prompt);
   const parsed = extractJson(raw);
   if (!parsed) { console.error('[research] no JSON in claude output, skipping'); return 0; }
 
+  // Venue path: single entry. Candidate path: entries[] (multiple plans per topic).
   if (parsed.entry) await upsertCorpus(parsed.entry);
+  if (Array.isArray(parsed.entries)) {
+    for (const e of parsed.entries) {
+      if (e && e.id && e.name) await upsertCorpus(e);
+    }
+    // Fan out missing-venue follow-ups for any stop.venueId not yet in corpus.
+    const missing = await findMissingVenueIds(parsed.entries);
+    if (missing.length) {
+      await appendQueue(missing.map((id) => ({
+        topic: `Discover venue: ${id} (referenced by itinerary-candidate)`,
+        reason: `candidate stop references unknown venueId ${id}`,
+      })));
+    }
+  }
   if (Array.isArray(parsed.enqueue)) await appendQueue(parsed.enqueue);
 
   return 1;
+}
+
+// Heuristic: "Generate ... itinerary candidate(s)" routes to the candidate prompt.
+function classifyTopic(topic = '') {
+  return /^\s*generate\b/i.test(topic) && /itinerary[-\s]?candidate/i.test(topic)
+    ? 'itinerary-candidate'
+    : 'venue';
 }
 
 function buildPrompt(item) {
@@ -112,6 +136,110 @@ function buildPrompt(item) {
   ].join('\n');
 }
 
+// Build a prompt that asks Claude to produce N streamlined day plans, each as a
+// corpus entry with type:'itinerary-candidate' and a stops[] array. The plans
+// depart from 140-59 Ash Ave, Flushing and prefer reusing existing corpus venueIds.
+async function buildItineraryCandidatePrompt(item) {
+  const topic = item.topic || '';
+  const vibe = detectVibe(topic);
+  const count = detectCount(topic) || 5;
+  const corpus = await loadJson(corpusPath, []);
+  // Inline a compact venue summary so the LLM can reference known ids without re-reading.
+  // Cap at ~80 venues to keep prompt size sane; revisit if the corpus grows.
+  const venues = corpus
+    .filter((c) => c.type !== 'itinerary-candidate')
+    .slice(0, 80)
+    .map((c) => `- ${c.id} | ${c.name} | zone=${c.zone || '?'} | vibe=${(c.vibe || []).join(',') || '?'}`)
+    .join('\n');
+  const dateSlug = new Date().toISOString().slice(0, 10);
+
+  return [
+    `You are Saturfun's autonomous itinerary planner.`,
+    `Task: ${topic}`,
+    `Reason: ${item.reason || '(none)'}`,
+    ``,
+    `Origin: 140-59 Ash Ave, Flushing, NY 11355. Day: Saturday. Depart: 9:00 AM. Driver has a car.`,
+    `Primary vibe to optimize: ${vibe.toUpperCase()}.`,
+    `Produce ${count} DISTINCT streamlined day-plan candidates. Each must be plausible and geographically coherent.`,
+    ``,
+    `Existing venue corpus (prefer these venueIds; only invent new ones when no match):`,
+    venues || '(empty corpus)',
+    ``,
+    `For each candidate, choose 5-9 stops. Estimate Saturday drive times realistically (not Google ideal).`,
+    `Use WebSearch/WebFetch sparingly only to verify hours or surface a venue not in the corpus above.`,
+    ``,
+    `Output a single fenced JSON block. Top-level shape is {"entries":[...]}.`,
+    `Each entry MUST set "type":"itinerary-candidate" and follow this shape:`,
+    '```json',
+    `{`,
+    `  "entries": [`,
+    `    {`,
+    `      "id": "itin-${vibe}-${dateSlug}-001",`,
+    `      "type": "itinerary-candidate",`,
+    `      "name": "Short human plan name",`,
+    `      "vibe": "${vibe}",`,
+    `      "startTime": "9:00 AM",`,
+    `      "estTotalMin": 540,`,
+    `      "totalStops": 7,`,
+    `      "totalDriveMin": 95,`,
+    `      "zonesTouched": ["flushing","lic","manhattan-lower-east-side","industry-city","flushing"],`,
+    `      "blurb": "One-paragraph human summary of the day arc.",`,
+    `      "stops": [`,
+    `        {"time":"9:30 AM","venueId":"existing-id-or-new-slug","driveFromPrev":8,"durationMin":45,"why":"opens early, sets the tone"}`,
+    `      ],`,
+    `      "notes": "free-form planning notes, traffic warnings, parking tips",`,
+    `      "generatedAt": "${new Date().toISOString()}",`,
+    `      "generatedBy": "research-runner",`,
+    `      "enriched": true,`,
+    `      "needsAiBackground": false`,
+    `    }`,
+    `  ],`,
+    `  "enqueue": [`,
+    `    {"topic": "Discover venue: <slug>", "reason": "candidate referenced a venue not in corpus"}`,
+    `  ]`,
+    `}`,
+    '```',
+    ``,
+    `Rules:`,
+    `- ids must be unique kebab-slugs prefixed with itin-${vibe}-${dateSlug}- and a 3-digit counter.`,
+    `- First stop's driveFromPrev = drive minutes from 140-59 Ash Ave.`,
+    `- totalDriveMin should equal the sum of all driveFromPrev values.`,
+    `- totalStops should equal stops.length.`,
+    `- estTotalMin should equal totalDriveMin + sum(durationMin) approximately.`,
+    `- Prefer venueId values from the corpus list above. New venueIds are allowed but flag them in "enqueue".`,
+    `- End your response immediately after the JSON block.`,
+  ].join('\n');
+}
+
+// Scan candidate stops for venueIds not present in the corpus; used for fan-out.
+async function findMissingVenueIds(entries) {
+  const corpus = await loadJson(corpusPath, []);
+  const known = new Set(corpus.map((c) => c.id));
+  const missing = new Set();
+  for (const e of entries) {
+    for (const s of (e.stops || [])) {
+      if (s && s.venueId && !known.has(s.venueId)) missing.add(s.venueId);
+    }
+  }
+  return [...missing];
+}
+
+function detectVibe(topic) {
+  const t = topic.toLowerCase();
+  if (/photo|sunset|visual/.test(t)) return 'photo';
+  if (/active|high[-\s]?energy|climb|axe|dance/.test(t)) return 'active';
+  if (/chill|wander|relax/.test(t)) return 'chill';
+  if (/foodie|food/.test(t)) return 'foodie';
+  if (/romantic|date/.test(t)) return 'romantic';
+  if (/mixed|geograph|neighborhood/.test(t)) return 'mixed';
+  return 'mixed';
+}
+
+function detectCount(topic) {
+  const m = topic.match(/generate\s+(\d+)/i);
+  return m ? parseInt(m[1], 10) : null;
+}
+
 function runClaude(prompt) {
   return new Promise((resolve, reject) => {
     const env = { ...process.env };
@@ -120,7 +248,6 @@ function runClaude(prompt) {
       '-p', prompt,
       '--output-format', 'text',
       '--allowedTools', 'WebSearch,WebFetch,Read',
-      '--cwd', repoRoot,
     ], { env, cwd: repoRoot });
 
     let out = '', err = '';
