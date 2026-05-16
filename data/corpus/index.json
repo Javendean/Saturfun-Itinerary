@@ -2337,43 +2337,47 @@
   {
     "id": "japan-village-food-hall",
     "name": "Japan Village Food Hall",
-    "desc": "Multi-stall Japanese food hall inside Industry City — ramen, sushi, bento, bakery and Sunrise Mart grocery under one roof.",
-    "longDesc": "Sprawling Japanese marketplace in Industry City's Building 4 with ~10 food stalls (Hachi, Umami House, Ramen Setagaya, Gohei, Obentoyasan, Yamada, etc.), sit-down spots like Sushi Uesugi and Gyuya, Panya Bakery, and the full Sunrise Mart grocery plus Kuraichi sake shop. Easy parking on the IC campus, vegetarian-friendly stalls (matcha bakery, vegetable curry, udon), and a karaoke bar (JTunes) for staying late.",
+    "desc": "20,000 sq-ft Japanese food hall in IC Bldg 3/4 — ramen, onigiri, handrolls, sake bar, all under one roof",
+    "longDesc": "NYC's first dedicated Japanese food hall, anchoring Industry City Buildings 3-4 right next to BOOKOFF ANI-LAB. Ten stalls cover the spectrum: Ramen Setagaya for tonkotsu, Obentoyasan for onigiri and bento, Hachi for sushi, Handroll Bar, Moriya, Shokusaido (katsu/tempura), Umami House, Yamada, Gohei (soba/udon), plus Sake's Bar for a quick highball. Sunrise Mart grocery is attached if you want to browse Japanese snacks after eating.",
     "url": "https://www.japanvillage.com/eat-drink",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "45-75 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-20:30 (Sat), 11:00-19:00 (Sun)",
-    "notes": "Located at 934 3rd Ave, Brooklyn NY 11232 inside Industry City Building 4 (japanvillage.com). Food hall hours Sun-Thu 11-7, Fri-Sat 11-8:30 (japanvillage.com). Sunrise Mart grocery is open later (Fri-Sat to 9pm). Pair with a Sapporo at Sake's Bar then sweets from Panya Bakery for a one-stop Japan crawl — driveFromIC is effectively 0 since it's inside IC.",
+    "hoursWeekend": "Sat 11:00-20:30, Sun 11:00-19:00",
+    "notes": "Inside Industry City Buildings 3-4, entrance at 934 3rd Ave (industrycity.com). Operator's site lists Fri-Sat 11-8:30, Sun-Thu 11-7 (japanvillage.com/eat-drink); IC tenant page lists slightly later 11-9 — call (347) 584-4579 to confirm before a late visit. Same-floor adjacency to BOOKOFF ANI-LAB makes this the natural eat-stop on any manga browse loop (gothamist.com). Ten vendor stalls = group-friendly; everyone orders what they want, meet at communal tables. Vegetarian options exist (tempura veg, soba, onigiri) but no dedicated vegan/halal/GF labeling.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T04:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-16T04:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-16T04:20:00Z"
+        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:26:21.098Z"
+    "lastResearchedAt": "2026-05-16T05:24:58.245Z"
   },
   {
     "id": "cafe-here-red-hook",
@@ -4918,5 +4922,176 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T05:22:40.071Z"
+  },
+  {
+    "id": "kinokuniya-bryant-park",
+    "name": "Kinokuniya Bookstore (Bryant Park)",
+    "desc": "Three-floor Japanese flagship across from Bryant Park: English books, manga, anime goods, stationery, and a 2F cafe.",
+    "longDesc": "Kinokuniya's New York flagship is the largest Japanese bookstore in the city — three floors at 1073 6th Ave directly across from Bryant Park, with English titles on the main floor, an entire 2F dedicated to manga (Japanese + English), anime figures, art books, and Cafe Zaiya overlooking the park, plus a basement of Japanese stationery, brushes, and children's books. The build, browse, and people-watch from the cafe window is the experience — go for the manga wall, stay for the matcha lattes and onigiri.",
+    "url": "https://usa.kinokuniya.com/stores-kinokuniya-new-york",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "Sat 10:00-20:00 / Sun 11:00-19:30",
+    "notes": "Manhattan venue, not Brooklyn — zone tagged 'dumbo' as the natural launch-point (Manhattan Bridge → 6th Ave straight up). From Industry City, take the BQE → Manhattan Bridge → 6th Ave; ~25-35 min off-peak weekends. Weekend parking is the friction: Bryant Park Garage (40 W 40th St) runs $30-50 for 2 hours; cheaper Icon/SP+ lots on W 41st-43rd often $25-35 with online pre-pay. Three floors: B1 = stationery + kids + brushes/pens, 1F = English fiction/non-fiction + design + magazines, 2F = manga (massive), anime figures, art books, J-pop CDs, and Cafe Zaiya. Cafe Zaiya has onigiri, curry, matcha lattes, and dorayaki — vegetarian-friendly, gets crowded 12-2pm, window seats overlook Bryant Park (the photo shot). Larger and broader than any Brooklyn Japanese bookstore — useful as a comparison anchor for manga-curious days when the user wants depth over neighborhood vibe (source: usa.kinokuniya.com). Bryant Park itself is across the street and free — easy to pair as a sit-and-read break after browsing.",
+    "sources": [
+      {
+        "url": "https://usa.kinokuniya.com/stores-kinokuniya-new-york",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kinokuniya-bookstore-new-york-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/cafe-zaiya-new-york-10",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T05:27:29.716Z"
+  },
+  {
+    "id": "sahadis-industry-city",
+    "name": "Sahadi's at Industry City",
+    "desc": "Iconic Middle Eastern grocer + sajj-and-mezze counter inside IC's Food Hall — browse bulk spices, then eat.",
+    "longDesc": "The Industry City outpost of the legendary Atlantic Ave specialty grocer pairs a full retail floor of bulk nuts, dried fruit, olives, spices and pantry imports with an open-kitchen Mediterranean kitchen turning out sajj wraps, hummus bowls, mezze platters, deli combos and shawarma. Sit-down service includes weekend brunch (Sat–Sun 11am–3:30pm), a tap-wine/tap-beer bar with weekday happy hour (4–6pm), and cocktails — making it a rare grocery-as-restaurant browse stop walkable to BOOKOFF and the IC courtyards (sahadis.com, industrycity.com).",
+    "url": "https://industrycity.com/tenants/sahadis/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min (inside IC, walkable from BOOKOFF)",
+    "hoursWeekend": "11:00-19:00 (brunch service 11:00-15:30 Sat/Sun)",
+    "notes": "Address: 34 35th St, Building 4 — same Industry City campus as BOOKOFF, so this slots in as a no-drive add-on to that leg (industrycity.com). Strong dietary coverage: hummus bowls, mezze, falafel, salad bowls all vegetarian/vegan; pita and grain bowls available. Bulk spice + olive wall and Middle Eastern pantry imports are the 'curious browse' draw distinct from BOOKOFF's manga/CDs. Closes at 7pm — schedule before evening drinks legs (sahadis.com/pages/locations). Phone (718) 788-7500.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/tenants/sahadis/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://sahadis.com/pages/locations",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sahadis-industry-city-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://sahadis.com/pages/brunch-bar-menu",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T05:29:34.904Z"
+  },
+  {
+    "id": "micol-ceramics",
+    "name": "Micòl Ceramics",
+    "desc": "Intimate Industry City pottery studio — private + small-group wheel lessons (currently waitlisted)",
+    "longDesc": "Founder Micòl Hernandez runs a tiny porcelain-focused studio inside Industry City Building 5, teaching private and up-to-8-person wheel lessons that emphasize tableware and sculpture (industrycitystudios.org). As of May 2026 the official lessons page says 'The studio is fully booked for the next couple of months' and the info page reads 'We are closed indefinitely' — book via micol@micolceramics.com before planning around it. When open, the porcelain instruction (rare in NYC, most studios are stoneware) and on-site IC location make it a strong standalone block paired with food court / Sahadi's.",
+    "url": "https://www.micolceramics.com/lessons",
+    "photoUrl": "https://industrycitystudios.org/wp-content/uploads/2017/05/square-logo.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "By appointment — currently fully booked / closed indefinitely",
+    "notes": "Address: 51 35th Street (Industry City), 2nd Floor, Suite B226, Brooklyn NY 11232 (micolceramics.com/info). Older listings still cite Bldg 5 / 67 35th St Suite C239 — the .com info page is the authoritative current address. Porcelain-focused instruction distinguishes it from Brooklyn Clay Industries and most NYC studios (micolceramics.com/lessons). 50% non-refundable deposit on booking (micolceramics.com/lessons). Current status conflict: lessons page = 'fully booked for the next couple of months', info page = 'We are closed indefinitely' — treat as inactive until confirmed by email. Parking: Industry City lots (Bldg 5/6 garage) — weekend rate manageable.",
+    "sources": [
+      {
+        "url": "https://www.micolceramics.com/lessons",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.micolceramics.com/info",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycitystudios.org/studios/micol-ceramics/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T05:31:41.778Z"
+  },
+  {
+    "id": "tadaima-bakery",
+    "name": "Tadaima",
+    "desc": "Japanese home-style bake shop inside Industry City — matcha cookies, yuzu pound cake, refined pastries",
+    "longDesc": "Ayaka Ando's tiny second-floor Japanese bakery inside Industry City Building 5, evoking the feeling of coming home (\"tadaima\"). Refined matcha cookies, yuzu pound cakes, and seasonal Japanese confections with restrained sweetness; popular items sell out before close. Weekend-only mornings — pairs perfectly with Makers Guild browsing in the same complex.",
+    "url": "https://www.tadaimanyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat-Sun 10:00-16:00 (Thu-Fri 9:00-15:00; closed Mon-Wed)",
+    "notes": "Inside Industry City Bldg 5, entrance at 67 35th St, 2nd floor (industrycity.com). Open Thu-Sun only; weekend hours 10am-4pm (industrycity.com, yelp.com). Matcha white chocolate cookies and matcha lattes are signature; bakes sell out before close. Cash-friendly, limited seating — best as a takeaway pairing with a Makers Guild walk-through. The Infatuation review notes refined, balanced Japanese baking (theinfatuation.com).",
+    "sources": [
+      {
+        "url": "https://industrycity.com/tenants/tadaima/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tadaima-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tadaimanyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/tadaima",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:33:36.456Z"
   }
 ]
