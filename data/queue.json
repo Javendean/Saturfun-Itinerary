@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Court Square Diner LIC",
-    "reason": "Classic 24-hr diner 4 min from PS1 — useful refuel anchor when chaining LIC art stops",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:41:45.325Z"
-  },
-  {
-    "topic": "Frankel's Delicatessen Greenpoint smoked-fish brunch",
-    "reason": "Brooklyn alternative for appetizing-style brunch with easier parking; fills the 'smoked fish' slot for car-anchored itineraries that skip Manhattan",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:43:56.799Z"
-  },
-  {
-    "topic": "Shelsky's of Brooklyn Cobble Hill bagels and smoked fish",
-    "reason": "Cobble Hill counterpart ~10 min from IC; rounds out the Brooklyn smoked-fish corpus the user is missing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:43:56.799Z"
-  },
-  {
-    "topic": "Economy Candy Lower East Side",
-    "reason": "Adjacent LES stop (3 blocks from R&D Cafe) — if user ever does a Manhattan track, this is the natural pairing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:43:56.799Z"
-  },
-  {
-    "topic": "Little Island Manhattan — floating park at Pier 55",
-    "reason": "Pairs naturally with High Line south entry, another unique Manhattan-only outdoor experience for the photo/curious vibe",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:45:50.053Z"
-  },
-  {
     "topic": "Chelsea Market food hall — 9th Ave at 15th St",
     "reason": "Direct ground-level neighbor to High Line's Gansevoort entrance; covers foodie vibe in same trip",
     "requestedBy": "agent",
@@ -6064,5 +6034,83 @@
     "reason": "Japanese-style cafe near Noguchi — completes a sculpture-then-coffee morning loop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T22:54:52.413Z"
+  },
+  {
+    "topic": "SculptureCenter Long Island City",
+    "reason": "Walkable contemporary-art second stop in LIC; pairs with PS1 + diner to form a complete LIC art-and-refuel afternoon.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:56:51.970Z"
+  },
+  {
+    "topic": "Noguchi Museum Astoria",
+    "reason": "10 min drive north of Court Square; closes the LIC/Astoria sculpture loop and gives the track an off-Brooklyn variant with strong weekend draw.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:56:51.970Z"
+  },
+  {
+    "topic": "Peter Pan Donut & Pastry Shop Greenpoint",
+    "reason": "Iconic cash-only Greenpoint donut counter — pairs naturally with a Frankel's appetizing run for a single-zone morning track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:58:52.878Z"
+  },
+  {
+    "topic": "Achilles Heel Greenpoint waterfront bar",
+    "reason": "End-of-day drink anchor in same Greenpoint cluster with East River sunset views and easy street parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:58:52.878Z"
+  },
+  {
+    "topic": "WORD Bookstore Greenpoint",
+    "reason": "Short walk from Frankel's; indie bookshop fills the 'curious' slot in a Greenpoint-cluster itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:58:52.879Z"
+  },
+  {
+    "topic": "Shelsky's Brooklyn Bagels (453 4th Ave, Park Slope) — sibling bagel-only shop",
+    "reason": "Same family, closer drive from IC (~7 min), worth comparing as the bagel-forward alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:00:59.708Z"
+  },
+  {
+    "topic": "Sahadi's (187 Atlantic Ave, Cobble Hill) — Lebanese-American grocer & prepared foods",
+    "reason": "Pairs with Shelsky's as the same-zone appetizing/grocery hop; rounds out Cobble Hill food corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:00:59.708Z"
+  },
+  {
+    "topic": "Court Street Grocers (Carroll Gardens) — sandwiches and pantry",
+    "reason": "Walkable Cobble Hill/Carroll Gardens continuation; foodie cluster within 10 min of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:00:59.708Z"
+  },
+  {
+    "topic": "Russ & Daughters Cafe Orchard Street",
+    "reason": "Iconic LES sit-down complement to R&D Cafe/Economy Candy Manhattan micro-track — appetizing-shop heritage food, weekend brunch anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:02:57.878Z"
+  },
+  {
+    "topic": "Sugar Sweet Sunshine Bakery Rivington",
+    "reason": "2 blocks from Economy Candy — banana pudding + cupcakes, extends the LES sweets crawl into a duo",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:02:57.878Z"
+  },
+  {
+    "topic": "Essex Market Delancey Street",
+    "reason": "Indoor food hall 2 blocks from Economy Candy with weekend parking in the same Essex Crossing garage — natural cluster anchor for a Manhattan track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:02:57.878Z"
+  },
+  {
+    "topic": "High Line southern entry at Gansevoort Street — Manhattan elevated park walk",
+    "reason": "Direct geographic pair with Little Island (one block north); completes the Meatpacking outdoor doubleheader the user flagged",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:05:12.686Z"
+  },
+  {
+    "topic": "Whitney Museum of American Art (Gansevoort & Washington)",
+    "reason": "Caps the Little Island + High Line south arc with a curious/photo indoor option at the same intersection",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:05:12.686Z"
   }
 ]

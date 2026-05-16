@@ -16396,8 +16396,8 @@
   {
     "id": "frankels-delicatessen-greenpoint",
     "name": "Frankel's Delicatessen & Appetizing",
-    "desc": "Unpretentious Greenpoint Jewish deli for smoked-fish bagels, pastrami salmon, and house-cured classics on Baz bagels.",
-    "longDesc": "A brothers-run counter-service deli at the Greenpoint/Williamsburg border with about fifteen seats, light and nostalgic without the kitsch. The signature 'Specialty Combo #1' layers pastrami salmon, dill cucumber, and scallion cream cheese on a fresh Baz bagel; the rest of the board covers pastrami, brisket, latkes, and a $7 two-dogs-and-a-soda recession special. Doors open at 8:30 AM and close at 3:00 PM daily, and weekend bagels can sell out by early afternoon.",
+    "desc": "Counter-style Greenpoint deli for pastrami-salmon, hand-sliced lox bagels, and latkes — fast line, no scene.",
+    "longDesc": "Brothers-run Jewish deli on Manhattan Ave doing classic appetizing — cold-smoked Atlantic salmon, pastrami salmon, latkes, hot brisket, and the now-famous pastrami egg-and-cheese on a Brooklyn Bagel & Coffee bagel. About 15 counter seats; the Saturday line moves fast and McCarren Park is a block away for overflow eating. Way easier weekend parking than the Lower East Side appetizing temples.",
     "url": "https://frankelsdelicatessen.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -16410,32 +16410,32 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "08:30-15:00",
-    "notes": "631 Manhattan Ave, Brooklyn NY 11222 (Yelp). Counter-order, ~15 seats, kitchen closes 3 PM and bagels can run out on weekend afternoons — arrive before noon (search snippet). Specialty Combo #1 = pastrami salmon + dill cucumber + scallion cream cheese on Baz bagel, called 'an absolutely perfect salmon on bagel' (Infatuation). McCarren Park is ~50 steps away, useful overflow seating; street parking in Greenpoint is plausible on weekends but tighter near Manhattan Ave — budget a few extra minutes (Infatuation).",
+    "notes": "Open daily 8:30am-3pm; weekend brunch line is real but fast-moving (theinfatuation.com). Order pastrami salmon and a latke. Brooklyn-Queens Expressway is the fastest route from Industry City; metered parking on Manhattan Ave + side-street parking around Driggs/India easier than Saturday LES (yelp.com). Take orders to McCarren Park if counter is full.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/frankels-delicatessen-brooklyn",
-        "accessed": "2026-05-16T21:25:00Z"
-      },
-      {
         "url": "https://frankelsdelicatessen.com/",
-        "accessed": "2026-05-16T21:25:00Z"
+        "accessed": "2026-05-16T22:55:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/frankels-delicatessen",
-        "accessed": "2026-05-16T21:25:00Z"
+        "accessed": "2026-05-16T22:55:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/frankels-delicatessen-brooklyn",
+        "accessed": "2026-05-16T22:55:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/frankels-delicatessen-appetizing/",
-        "accessed": "2026-05-16T21:25:00Z"
+        "accessed": "2026-05-16T22:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:27:17.563Z"
+    "lastResearchedAt": "2026-05-16T22:58:52.864Z"
   },
   {
     "id": "mazzola-bakery",
@@ -18583,50 +18583,52 @@
   {
     "id": "little-island-pier-55",
     "name": "Little Island at Pier 55",
-    "desc": "Free elevated park-on-stilts in the Hudson with 360° city/river views, gardens, and an amphitheater.",
-    "longDesc": "Heatherwick-designed 2.4-acre floating park built atop 132 tulip-shaped concrete pots rising from the Hudson, with three hillside lookouts, winding garden paths, and The Amph (a 700-seat amphitheater). Free walk-in, no reservations needed; sunset views over the river and Lower Manhattan skyline are the headline shot. Pairs naturally with a High Line walk — entrance is a 5-minute stroll from the Gansevoort stairs (littleisland.org).",
+    "desc": "Floating undulating park on tulip-shaped pilings over the Hudson with skyline + river views",
+    "longDesc": "Heatherwick-designed 2.4-acre public park rising out of the Hudson on 132 concrete 'tulip' columns at Pier 55, free to enter daily 6am-11pm. Three peaked overlooks frame skyline, Statue of Liberty, and sunset views; a 687-seat amphitheater hosts free + ticketed summer programming. Pairs cleanly with a High Line south-entry walk (Gansevoort St is a 5-min stroll north) for a unique Manhattan-only outdoor doubleheader.",
     "url": "https://littleisland.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "dumbo",
     "vibe": [
-      "chill",
+      "curious",
       "photo",
-      "romantic",
-      "curious"
+      "chill",
+      "romantic"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
-    "duration": "45-75 min",
-    "driveFromIC": "20 min",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "06:00-23:00",
-    "notes": "Manhattan day-trip justified by pairing with High Line southern terminus — 5-min walk from Gansevoort St entrance (triptins.com). Entrances at W 13th & W 14th St off the West Side Highway. No on-site parking; nearest garage MPG Manhattan Parking at 450 W 17th St between 9th/10th Ave (NBC New York). Free admission; only ticketed events are Amph shows ($25-$65). Drop-off on 10th Ave. Best at golden hour for skyline + river shots.",
+    "notes": "Manhattan exception justified: floating-park architecture has no Brooklyn analogue and the High Line southern terminus (Gansevoort St) is one block north, enabling a single-park stop. Entry is always free; some Amph events are ticketed ($25-$65) and timed-entry passes can be required on peak summer afternoons (littleisland.org). Zone tagged 'dumbo' as the closest enum fit for a Hudson-edge waterfront photo experience — true location is Meatpacking/Hudson River Park, Manhattan. No on-site parking; nearest reliable weekend garage is MPG at 450 W 17th St between 9th & 10th (NBC New York). Drive from Industry City: Gowanus Expy → Hugh L. Carey Tunnel → West Side Hwy north, ~20-25 min off-peak weekend morning. Best windows: golden hour for the Overlook + Statue of Liberty sightline; weekday/early-Saturday for thinner crowds. Savory Hospitality kiosks serve coffee/sandwiches/drinks but food is light — pair with a Chelsea Market lunch.",
     "sources": [
       {
         "url": "https://littleisland.org/",
-        "accessed": "2026-05-16T21:30:00Z"
+        "accessed": "2026-05-16T23:00:00Z"
       },
       {
-        "url": "https://littleisland.org/getting-here/",
-        "accessed": "2026-05-16T21:30:00Z"
+        "url": "https://hudsonriverpark.org/locations/pier-55-little-island/",
+        "accessed": "2026-05-16T23:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Little_Island_at_Pier_55",
-        "accessed": "2026-05-16T21:30:00Z"
+        "accessed": "2026-05-16T23:00:00Z"
       },
       {
         "url": "https://www.nbcnewyork.com/entertainment/the-scene/little-island-nyc-where-is-it-can-i-park-there-is-it-really-free-and-more-to-know/3904177/",
-        "accessed": "2026-05-16T21:30:00Z"
+        "accessed": "2026-05-16T23:00:00Z"
       },
       {
-        "url": "https://triptins.com/little-island/",
-        "accessed": "2026-05-16T21:30:00Z"
+        "url": "https://www.spotangels.com/blog/cheap-parking-little-island/",
+        "accessed": "2026-05-16T23:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:33:29.668Z"
+    "lastResearchedAt": "2026-05-16T23:05:12.669Z"
   },
   {
     "id": "chelsea-market",
@@ -19536,5 +19538,138 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T22:48:59.354Z"
+  },
+  {
+    "id": "court-square-diner-lic",
+    "name": "Court Square Diner",
+    "desc": "24-hour LIC diner next to Court Square station — chrome-and-vinyl refuel anchor for PS1/MoMA-LIC art runs.",
+    "longDesc": "Classic American diner open 24/7 at the foot of the Citigroup tower, four minutes from MoMA PS1 and walkable to the 7/G/E/M Court Square stop. On-premises bakery, sprawling menu from omelettes and souvlaki to burgers, wraps and seafood — built for any hour you finish a gallery crawl. The mirrored chrome facade is a recognizable LIC landmark and shows up regularly as a Queens filming location.",
+    "url": "https://www.courtsquarediner.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Open 24 hours",
+    "notes": "Across Newtown Creek from Greenpoint in Long Island City, Queens — closest Brooklyn-zone proxy is greenpoint, but it's actually LIC (45-30 23rd St). Drive from Industry City is ~8-9 mi via BQE/Pulaski Bridge, typically 18-25 min on weekends. Pairs naturally with MoMA PS1 (4 min drive / 10 min walk) and the Noguchi/SculptureCenter cluster. Metered street parking nearby; reviewers report easy Sunday parking out front (Yelp). All baking done on premises (courtsquarediner.com). Open 24 hours, seven days — useful as a late-night anchor after Brooklyn shows or an early breakfast before driving back into BK. Cash and cards.",
+    "sources": [
+      {
+        "url": "https://www.courtsquarediner.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/court-square-diner/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/court-square-diner",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/court-square-diner-long-island-city",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T22:56:51.952Z"
+  },
+  {
+    "id": "shelskys-of-brooklyn-cobble-hill",
+    "name": "Shelsky's of Brooklyn",
+    "desc": "Old-school Jewish appetizing counter — hand-rolled bagels, hand-sliced smoked fish, schmears, deli.",
+    "longDesc": "A modern Jewish appetizing shop on the Cobble Hill / Boerum Hill border, Shelsky's hand-slices its smoked salmon, sable, whitefish and pastrami-cured lox to order and pairs it with kettle-boiled bagels and house cream cheeses. Sit-down counter plus a takeaway case of pickles, herring, knishes and rugelach — ideal as a morning anchor before driving back toward Industry City.",
+    "url": "https://shelskys.com/",
+    "photoUrl": "https://shelskys.com/wp-content/uploads/2023/05/EverythingBagelPerfect-444x458.jpeg",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "08:00-16:00",
+    "notes": "141 Court St, on the Cobble Hill/Boerum Hill border; weekend hours Sat & Sun 8a-4p (yelp, shelskys.com). Cash + card, mostly takeaway with a small counter — lines are real on weekends, especially before 11a. Hand-sliced nova, pastrami lox, and the everything bagel are the signatures (the-infatuation, tablet-mag). Street parking on Court/Atwater is feasible on weekend mornings; lot parking is scarce.",
+    "sources": [
+      {
+        "url": "https://shelskys.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/shelskys-of-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tabletmag.com/sections/community/articles/bagel-store-synagogue-shelskys-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:00:59.693Z"
+  },
+  {
+    "id": "economy-candy-les",
+    "name": "Economy Candy",
+    "desc": "87-year family-run Lower East Side sweet shop with thousands of nostalgic candies wall-to-wall.",
+    "longDesc": "Open since 1937 and still run by the Cohen-Pugliese-Liss family, Economy Candy crams every inch of 108 Rivington St with vintage Americana, imported chocolate, Pez dispensers, halva, and bulk pick-and-mix. It's the rare LES survivor that hasn't been polished into a concept — narrow aisles, hand-written signs, and stock you can't find anywhere else in NYC.",
+    "url": "https://economycandy.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-18:00",
+    "notes": "Manhattan stop — cross the Williamsburg Bridge from IC (Gowanus→BQE→Wmsbg Bridge→Delancey, ~22 min weekend). Pairs naturally with R&D Cafe 3 blocks away for a Manhattan micro-track. Parking is rough in LES; aim for metered spots on Norfolk/Suffolk or the Essex Crossing garage (Broome St). Cash + card. Stock changes constantly; the halva counter and the imported-chocolate wall are the don't-miss anchors (source: nyctourism.com, lowereastside.com).",
+    "sources": [
+      {
+        "url": "https://economycandy.com/",
+        "accessed": "2026-05-16T23:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/shopping/economy-candy/",
+        "accessed": "2026-05-16T23:00:00Z"
+      },
+      {
+        "url": "https://lowereastside.com/shopping/economy-candy/",
+        "accessed": "2026-05-16T23:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/economy-candy-new-york",
+        "accessed": "2026-05-16T23:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T23:02:57.864Z"
   }
 ]
