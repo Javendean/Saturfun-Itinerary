@@ -7664,45 +7664,41 @@
   {
     "id": "socrates-sculpture-park",
     "name": "Socrates Sculpture Park",
-    "desc": "Free 5-acre East River sculpture park with rotating outdoor commissions; pairs with Noguchi next door.",
-    "longDesc": "A community-engaged NYC public park at 32-01 Vernon Blvd in LIC, dedicated to producing and presenting large-scale public art on a 5-acre waterfront site facing Roosevelt Island and Manhattan. Three rotating visual-arts programs run yearly — the Spring/Summer Exhibition, the Socrates Annual fellowship, and the Broadway Billboard series — so the work changes every visit. Free admission, open 9am to sunset 365 days, and one block north of the Noguchi Museum, making it an easy curious+photo pairing.",
+    "desc": "Free 5-acre East River sculpture park with rotating outdoor exhibitions and Manhattan skyline views",
+    "longDesc": "A former illegal dumpsite reclaimed by sculptor Mark di Suvero in 1986, Socrates is now a 5-acre waterfront art park on Vernon Blvd with rotating large-scale outdoor sculpture and the Hallets Cove beach access. The 2025–26 'Socrates Annual: Up/Rooted' commission runs through June 8, 2026, with new works installed across the lawn and shoreline. Open daily 9am to sunset, free admission, and unbeatable golden-hour sightlines across the East River to the UN and midtown Manhattan.",
     "url": "https://socratessculpturepark.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "greenpoint",
     "vibe": [
-      "curious",
       "photo",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "22 min",
+    "duration": "30-45 min",
+    "driveFromIC": "28 min",
     "hoursWeekend": "09:00-sunset",
-    "notes": "Free admission, no tickets needed (socratessculpturepark.org). No on-site parking except one ADA spot at Vernon Blvd/Broadway; street parking around the park and a small public lot on 33rd Rd at Vernon Blvd next to Rainey Park (socratessculpturepark.org/visit/access-and-facilities). Best paired with Noguchi Museum one block south for a curious+photo LIC afternoon. Drive from IC: BQE north → Pulaski Bridge → Vernon Blvd, ~20-22 min off-peak weekend.",
+    "notes": "Geographically in Long Island City/Astoria, Queens — not Brooklyn; mapped to greenpoint as the closest available zone since Newtown Creek is the only thing between them. Free admission, no tickets. Parking: no on-site lot, but free street parking is usually findable on Vernon Blvd and the side streets, plus a small public lot at 33rd Rd & Vernon next to Rainey Park (source: socratessculpturepark.org/visit). Pairs naturally with Bohemian Hall Beer Garden 8 min north or with an Astoria food crawl. Current exhibition 'Up/Rooted' through 2026-06-08 (source: socratessculpturepark.org). Park closes at 1pm on US holidays — verify before sending users on a holiday weekend.",
     "sources": [
       {
+        "url": "https://socratessculpturepark.org/visit/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
         "url": "https://socratessculpturepark.org/visit/directions-and-hours/",
-        "accessed": "2026-05-16T08:10:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://socratessculpturepark.org/visit/access-and-facilities/",
-        "accessed": "2026-05-16T08:10:00Z"
-      },
-      {
-        "url": "https://socratessculpturepark.org/exhibitions/about/",
-        "accessed": "2026-05-16T08:10:00Z"
-      },
-      {
-        "url": "https://www.nycgovparks.org/parks/socrates-sculpture-park",
-        "accessed": "2026-05-16T08:10:00Z"
+        "url": "https://en.wikipedia.org/wiki/Socrates_Sculpture_Park",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:14:50.355Z"
+    "lastResearchedAt": "2026-05-16T08:21:27.372Z"
   },
   {
     "id": "casa-enrique-lic",
@@ -7792,5 +7788,177 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T08:19:03.548Z"
+  },
+  {
+    "id": "taverna-kyclades-astoria",
+    "name": "Taverna Kyclades",
+    "desc": "Iconic Astoria Greek seafood — grilled octopus, whole branzino, lemon potatoes; near Ditmars N/W stop.",
+    "longDesc": "A Michelin-guide-listed Astoria institution since 1995, Taverna Kyclades is the definitive Greek seafood spot on Ditmars Blvd — char-grilled octopus, whole branzino deboned tableside, taramosalata, and lemon potatoes draw a constant weekend crowd. The enclosed patio adds capacity but expect a 30–60 min wait without a reservation. Cash-and-card, no checks split.",
+    "url": "https://www.tavernakyclades.com/astoria/menu",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:30-22:00",
+    "notes": "Off the standard 10–25 min Brooklyn cluster — pure Astoria (Queens) play via BQE Exit 38; pairs naturally with Bohemian Hall Beer Garden 8 blocks south for a Greek+Czech Astoria track (tavernakyclades.com). Weekend parking is street-only on Ditmars/23rd Ave side streets (free Sat/Sun); muni-meter zones on Ditmars itself. No reservations — walk in before 6 PM or expect a long wait (Michelin Guide). Tagged 'greenpoint' as the nearest enum to Astoria; track-builder should flag this is actually Queens, not Brooklyn.",
+    "sources": [
+      {
+        "url": "https://www.tavernakyclades.com/astoria/menu",
+        "accessed": "2026-05-16T08:30:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/astoria/restaurant/taverna-kyclades",
+        "accessed": "2026-05-16T08:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/taverna-kyclades-astoria-2",
+        "accessed": "2026-05-16T08:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:23:35.317Z"
+  },
+  {
+    "id": "museum-of-the-moving-image",
+    "name": "Museum of the Moving Image",
+    "desc": "Interactive film/TV museum in Astoria with Jim Henson gallery, hands-on sound/edit booths, and weekend screenings",
+    "longDesc": "MoMI sits in a converted Astoria Studios building and is the only U.S. museum dedicated to the art, history, and technology of moving images. The core 'Behind the Screen' permanent exhibition lets visitors record their own ADR, animate, and play vintage arcade cabinets, while the standalone Jim Henson Exhibition houses 47 original puppets including Kermit and a Fraggle Rock set. General admission ($10–$20) includes a same-day ticket to a regularly scheduled film screening when one is on the calendar.",
+    "url": "https://movingimage.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "chill",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-18:00",
+    "notes": "Actually located in Astoria, Queens (36-01 35th Ave) — closest mapped zone is greenpoint, ~22 min drive from IC via BQE + Pulaski Bridge. Weekend street parking is plentiful around the museum and meters are free on Sundays (Yelp, Parkopedia). Pair with Astoria food crawl: Taverna Kyclades for Greek seafood or Sek'end Sun nearby. Current rotating shows include Jim Henson + Behind the Screen permanents; check site for temporary exhibits like 'Stories and Set Designs for The Sopranos' (source: movingimage.org). Tickets $10 general / $20 adult range — buy online to skip line.",
+    "sources": [
+      {
+        "url": "https://movingimage.org/visit/museum-admission-tickets/",
+        "accessed": "2026-05-16T08:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/museum-of-the-moving-image-astoria",
+        "accessed": "2026-05-16T08:30:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/attraction/museum-of-the-moving-image-queens-ny/",
+        "accessed": "2026-05-16T08:30:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g29837-d136165-Reviews-Museum_of_the_Moving_Image-Astoria_Queens_New_York.html",
+        "accessed": "2026-05-16T08:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:25:38.719Z"
+  },
+  {
+    "id": "brooklyn-botanic-garden",
+    "name": "Brooklyn Botanic Garden",
+    "desc": "52-acre garden behind the Brooklyn Museum — cherry esplanade, Japanese pond, fragrance garden",
+    "longDesc": "Right next door to the Brooklyn Museum and sharing its Eastern Parkway parking footprint, BBG packs 52 curated acres into one Saturday-friendly loop: the Cherry Esplanade (peak late April–early May), the Japanese Hill-and-Pond Garden, the Shakespeare Garden, and the Steinhardt Conservatory. The 990 Washington Ave lot ($7 first hour, capped at $20) sits at the back gate, so a museum + garden double-feature only requires moving the car once. Weekend cherry-bloom peak gets crowded — arrive before 10am or grab Fridays before noon when admission is free.",
+    "url": "https://www.bbg.org/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "1.5-2.5 hr",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "10:00-18:00 (8:00 open through May 10)",
+    "notes": "Adults $22 gate / $23.67 online; students+seniors $16; under 12 free; Fridays before noon free (bbg.org). Main lot at 900 Washington Ave: $7/1hr, $10/2hr, $12/3hr, $14/4hr, max $20/day; 7am–10pm, no overnight (ggmcparking.com). Three entrances: 150 Eastern Pkwy, 455 Flatbush Ave, 990 Washington Ave. Cherry blossom peak draws thousands — visit pre-10am or midweek (bbg.org/collections/cherries). Pairs perfectly with Brooklyn Museum same-trip; ~15 min drive from Industry City via Prospect Expwy.",
+    "sources": [
+      {
+        "url": "https://www.bbg.org/visit/hours",
+        "accessed": "2026-05-16T08:25:00Z"
+      },
+      {
+        "url": "https://www.bbg.org/visit/directions",
+        "accessed": "2026-05-16T08:25:00Z"
+      },
+      {
+        "url": "https://www.ggmcparking.com/locations/the-brooklyn-museum-and-botanic-garden",
+        "accessed": "2026-05-16T08:25:00Z"
+      },
+      {
+        "url": "https://www.bbg.org/collections/cherries",
+        "accessed": "2026-05-16T08:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:27:31.217Z"
+  },
+  {
+    "id": "met-cloisters",
+    "name": "The Met Cloisters",
+    "desc": "Reconstructed medieval monastery on a Hudson bluff — Met's medieval European art branch with free on-site lot.",
+    "longDesc": "The Cloisters is the Met's uptown outpost, a building stitched together from five French medieval cloisters and set inside Fort Tryon Park overlooking the Hudson and Palisades. Highlights are the Unicorn Tapestries, the Cuxa cloister with its herb garden, and Romanesque stonework — quiet, gorgeous, and the rare Manhattan museum with a real (free) parking lot. Plan ~2-3 hours plus a walk through the park.",
+    "url": "https://www.metmuseum.org/plan-your-visit/met-cloisters",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "35-40 min",
+    "hoursWeekend": "10:00-17:00",
+    "notes": "Address: 99 Margaret Corbin Dr, NYC (forttryonparktrust.org/sites/parking-the-met-cloisters). Two free public lots at Margaret Corbin Circle entrance — small and fills early on weekends/sunny days, so arrive at 10am open (yelp.com/biz/the-met-cloisters-new-york). NY/NJ/CT residents + students pay-what-you-wish (min $0.01); non-residents pay full Met admission, ticket covers same-day entry at the main Met on 5th Ave (metmuseum.org/policies/directions-and-parking). Drive: Brooklyn-Battery Tunnel → West Side Hwy → Henry Hudson Pkwy, exit Fort Tryon Park & The Cloisters (northbound-only exit). Bring a jacket — stone interiors stay cool even in summer. Pair with a walk in the Heather Garden and lunch at New Leaf Restaurant inside the park.",
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/plan-your-visit/met-cloisters",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.forttryonparktrust.org/sites/parking-the-met-cloisters/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.metmuseum.org/policies/directions-and-parking",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-met-cloisters-new-york",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:29:50.041Z"
   }
 ]
