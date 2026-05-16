@@ -6054,8 +6054,8 @@
   {
     "id": "japan-village-industry-city",
     "name": "Japan Village",
-    "desc": "20,000 sq ft Japanese food hall + sake bar inside Industry City — ramen, sushi, bento, grocery under one roof",
-    "longDesc": "A two-building Japanese marketplace in IC's Buildings 3 & 4 with 10+ food stalls (Ramen Setagaya, Handroll Bar, Hachi, Umami House, Moriya), full-service spots (Sushi Uesugi, Gyuya, Waku Waku), JTunes karaoke, and Sake's Bar pouring Japanese draft/cans, original cocktails, and sake flights. Sunrise Mart anchors the grocery side and Kuraichi handles the liquor wall — making it the densest Japanese food experience in NYC, all walkable from Sahadi's and Carreau without moving the car.",
+    "desc": "NYC's first Japanese food hall — 10 stalls + Sunrise Mart grocery, inside Industry City",
+    "longDesc": "A 20,000 sq ft Japanese marketplace tucked into Industry City's Building 4, anchored by a full Sunrise Mart grocery (in-house butcher and fishmonger) and ringed by ten food stalls — Ramen Setagaya, Gohei soba/udon, Hachi yakisoba/okonomiyaki, Shokusaido tempura/katsu, Handroll Bar, Moriya, Obentoyasan, Yamada, Umami House and Sake's Bar. Naturally pairs with a pre-drinks browse: graze a handroll or bento, then shop snacks/sake at Kuraichi before walking the courtyard to your next IC stop.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -6069,10 +6069,10 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "45-75 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-21:00 (Sake's Bar Fri-Sat 12:00-20:30)",
-    "notes": "Entrance at 934 3rd Ave, Buildings 3 & 4 (industrycity.com). Food hall Fri-Sat 11am-8:30pm, Sun 11am-7pm (japanvillage.com/eat-drink). Sake's Bar Fri-Sat 12-8:30pm, Sun 12-7:30pm, Happy Hour Fri 4-7pm (search snippet, japanvillage.com/eat-drink/sakes-bar). Pairs perfectly with the IC food-crawl loop — same parking, no driving between Sahadi's, Carreau, and Japan Village.",
+    "hoursWeekend": "Sat 11:00-20:30 / Sun 11:00-20:00 (food hall); grocery til 21:00 Sat",
+    "notes": "Located inside Industry City Building 4 at 934 3rd Ave, Brooklyn (industrycity.com/tenants/japan-village). Stand-alone food court of ~10–12 vendors plus full-service Sunrise Mart grocery — the biggest in NYC (amny.com). Aesthetic is clean and modern rather than 'Disneyland Japan' (theinfatuation.com). Strong fit as a Japan-themed IC pre-drinks anchor: handrolls/ramen/onigiri/karaaki then sake browse at Kuraichi.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
@@ -6083,18 +6083,22 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.japanvillage.com/eat-drink/sakes-bar",
+        "url": "https://www.theinfatuation.com/new-york/reviews/japan-village",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
+        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:21:02.673Z"
+    "lastResearchedAt": "2026-05-16T13:56:48.967Z"
   },
   {
     "id": "the-gutter-williamsburg",
@@ -12274,5 +12278,191 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T13:52:05.631Z"
+  },
+  {
+    "id": "wakuwaku-ny",
+    "name": "WakuWaku",
+    "desc": "Traditional Japanese izakaya at Industry City — yakitori, kushiage, sashimi, and chuhai; sister kitchen to Oldies.",
+    "longDesc": "WakuWaku is a 3,200 sq ft sit-down izakaya inside Industry City's Building 3 (originally part of the Japan Village food hall), run by the team behind Manhattan's Angel's Share. The menu spans yakitori skewers, kushiage, sashimi, chicken karaage, gyoza, teriyaki, and teishoku lunch sets, with a deep sake, shochu, and Japanese beer list. It shares ownership and a continuous space with Oldies cocktail bar next door, so the full WakuWaku food menu is available at Oldies' counter and vice versa — making this the natural Plan B (or finale dinner stop) when Oldies' 12 seats are spoken for.",
+    "url": "https://www.wakuwakuny.com/wakuwaku",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5df6ab81f224020f76ca1f15/1581702743541-J12K28G8IPGLCJTG60VA/DSC02157.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 12:00-21:30, Sun 12:00-20:30",
+    "notes": "Located in Industry City Building 3, 269 36th St, Brooklyn NY 11232 (industrycity.com). Closed Mon-Tue; Wed-Thu split service 12-2:30 + 5-8:30, Fri 12-2:30 + 5-9:30, Saturday open continuously 12-9:30pm — best Saturday coverage in the IC cluster (wakuwakuny.com). Reservations via Resy under 'WakuWaku + Oldies' (resy.com). Same operators as Oldies sake/cocktail bar; the two venues are physically adjacent and share the kitchen, so use as Plan B when Oldies' 12-seat counter is full, or as a full-dinner finale after sake flights next door (6sqft.com, visitbrooklyn.nyc). Yelp 127+ reviews flag fresh sashimi and yakitori as standouts; service can lag at peak (yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.wakuwakuny.com/wakuwaku",
+        "accessed": "2026-05-16T14:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/visit/eat/wakuwaku/",
+        "accessed": "2026-05-16T14:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/wakuwaku-brooklyn",
+        "accessed": "2026-05-16T14:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/angels-share-speakeasy-owners-open-sit-down-japanese-restaurant-at-industry-city/",
+        "accessed": "2026-05-16T14:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/oldies",
+        "accessed": "2026-05-16T14:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/wakuwaku",
+        "accessed": "2026-05-16T14:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T13:54:39.156Z"
+  },
+  {
+    "id": "kissa-kissa",
+    "name": "Kissa Kissa",
+    "desc": "Crown Heights jazz kissa — 4,500 LPs of '50s-'70s vinyl, low lights, cocktails, hi-fi rig.",
+    "longDesc": "Self-billed as the first traditional jazz kissa outside Japan, Kissa Kissa is a small Crown Heights listening bar with an internationally-curated 4,500-record collection spanning 1950s-70s hard bop, post-bop and modal jazz. Conversation stays low so the audiophile sound system can lead; the cocktail program leans classic with a few jazz-themed originals. Walk-ins welcome but Thursday-Saturday fills early — reserve for groups of 3+.",
+    "url": "https://kissakissa.us/",
+    "photoUrl": "https://kissakissa.us/wp-content/uploads/2024/07/turntable-vinyl-listening-room-kissa-kissa-jazz-vinyl-bar-brooklyn-new-york.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "crown-heights",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Fri-Sat 17:00-late, Sun 15:00-late",
+    "notes": "667 Franklin Ave, Crown Heights — text 347-507-9090 to reach venue (kissakissa.us/visit). Street parking on Franklin and surrounding blocks, generally workable but arrive early Thu-Sat (kissakissa.us/visit). First traditional jazz kissa outside Japan with ~4,500 LPs spanning '50s-'70s jazz (kissakissa.us). Walk-ins welcome; reservations recommended for Thu-Sat evenings.",
+    "sources": [
+      {
+        "url": "https://kissakissa.us/",
+        "accessed": "2026-05-16T13:55:00Z"
+      },
+      {
+        "url": "https://kissakissa.us/visit/",
+        "accessed": "2026-05-16T13:55:00Z"
+      },
+      {
+        "url": "https://kissakissa.us/gallery/",
+        "accessed": "2026-05-16T13:55:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kissa-kissa-brooklyn",
+        "accessed": "2026-05-16T13:55:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T13:59:26.217Z"
+  },
+  {
+    "id": "panya-bakery-japan-village",
+    "name": "Panya Bakery (Japan Village)",
+    "desc": "Japanese bakery inside Industry City's Japan Village — shokupan, curry pan, matcha cream puffs",
+    "longDesc": "Tucked into the Japan Village courtyard at Industry City, Panya bakes authentic Japanese breads in-house: pillowy shokupan milk bread, savory curry pan, potato croquette pan, sausage rolls, and matcha pastries. Counter ordering with indoor/outdoor seating, plus matcha, coffee, and weekend brunch. Perfect first stop before exploring the rest of Japan Village or the broader Sunset Park food crawl.",
+    "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3af498e88f485f85087c_Panya%20brunch%20photos.avif",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
+    "notes": "Located at 934 3rd Ave, Brooklyn NY 11232 inside Japan Village courtyard at Industry City (commercialobserver.com 2025-07). Signature items: shokupan, curry pan, matcha cream puffs, potato croquette pan (japanvillage.com). Weekend brunch service Wed-Sun. Walk-up counter, no reservation needed. Use IC parking lots — Panya itself is steps from the courtyard entrance.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
+        "accessed": "2026-05-16T14:00:00Z"
+      },
+      {
+        "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
+        "accessed": "2026-05-16T14:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/panya-bakery/",
+        "accessed": "2026-05-16T14:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:01:28.261Z"
+  },
+  {
+    "id": "ramen-setagaya-mt-fuji",
+    "name": "Ramen Setagaya — Mt. Fuji Ramen (Japan Village)",
+    "desc": "Signature 'Mt. Fuji' ramen at Industry City's Japan Village food hall — parmesan-snowcap on tonkotsu broth.",
+    "longDesc": "The Industry City stall of the Setagaya ramen group (whose Williamsburg flagship is known for niboshi-shio) leans tonkotsu here, fronted by the photogenic Mt. Fuji Ramen — a heap of noodles in pork-bone broth rimmed with chili-tomato espuma and crowned with freshly grated parmesan shaped like a snowcap. Black-garlic tonkotsu, black-garlic tsukemen, and spicy miso round out the lineup, with a vegan bowl on the menu. It's the easiest sit-down ramen anchor at the Japan Village hall and works as a self-contained 30–45 min lunch without committing the rest of the itinerary to the broader hall.",
+    "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f6eb0a5957e114ea6d9073_JV-%20ramen%20setagaya.avif",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:30-20:30, Sun 11:30-19:30",
+    "notes": "Located inside Japan Village at 934 3rd Ave, Industry City Bldg B2 — on-site, no extra drive (japanvillage.com). Signature Mt. Fuji Ramen ~$14 with chili-tomato espuma + parmesan snowcap (brooklynbased.com / timeout.com). Brand was founded by Tsukasa Maejima (opened first NYC location 2007, won NY Mag Best of New York). Note: the niboshi/sardine-shio Setagaya is famous for is the Williamsburg flagship at 280 Bedford Ave — the IC stall instead foregrounds tonkotsu, black-garlic tonkotsu, tsukemen, and spicy miso. Weekend parking via Industry City lots is paid but reliable. Vegan ramen bowl confirmed on menu (setagayany.com PDF).",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.setagayany.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/japan-village",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:03:48.827Z"
   }
 ]
