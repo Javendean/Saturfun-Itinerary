@@ -37,7 +37,8 @@ const dom = mountSheet();
     return;
   }
 
-  // saturfun: keep the existing visitor-mode dynamic import.
+  // saturfun: keep the existing visitor-mode dynamic import. visitor.js owns
+  // the remote-owner opt-in (tunneled sidecar) — see chat/visitor.js.
   dom.modeLabel.textContent = 'Visitor mode';
   try {
     const mod = await import('./visitor.js');
@@ -47,6 +48,7 @@ const dom = mountSheet();
       body: dom.body,
       textarea: dom.textarea,
       sendBtn: dom.sendBtn,
+      modeLabel: dom.modeLabel,
     });
   } catch (err) {
     dom.appendBanner('Visitor mode is being prepared. Check back soon.');

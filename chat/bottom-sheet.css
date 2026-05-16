@@ -202,6 +202,149 @@
 }
 .sheet-send:disabled { opacity: 0.5; cursor: not-allowed; }
 
+/* -------------------------------------------------------------------------
+   Remote-owner panel (single-user-across-devices via tunneled sidecar).
+   Collapsible, opt-in. Lives at the top of .sheet-body. See chat/visitor.js.
+   ------------------------------------------------------------------------- */
+
+.sheet-remote-owner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 1px solid var(--sheet-border);
+  border-radius: 10px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.sheet-remote-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 44px;             /* iOS tap target */
+  padding: 0.6rem 0.9rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--sheet-fg);
+  text-align: left;
+  letter-spacing: 0.01em;
+}
+.sheet-remote-toggle:hover { background: rgba(212, 175, 55, 0.05); }
+.sheet-remote-toggle:focus-visible {
+  outline: 2px solid var(--sheet-accent);
+  outline-offset: -2px;
+}
+.sheet-remote-chev {
+  color: var(--sheet-muted);
+  font-size: 0.9rem;
+  margin-left: 0.5rem;
+}
+
+.sheet-remote-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  padding: 0.25rem 0.9rem 0.9rem;
+  border-top: 1px dashed var(--sheet-border);
+}
+.sheet-remote-panel[hidden] { display: none; }
+
+.sheet-remote-label {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 0.8rem;
+  color: var(--sheet-muted);
+  letter-spacing: 0.02em;
+}
+
+.sheet-remote-input {
+  width: 100%;
+  min-height: 44px;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--sheet-border);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--sheet-fg);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.92rem;
+  box-sizing: border-box;
+}
+.sheet-remote-input:focus {
+  outline: none;
+  border-color: var(--sheet-accent);
+  box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.18);
+}
+
+.sheet-remote-btnrow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.15rem;
+}
+
+.sheet-remote-connect {
+  flex: 1 1 auto;
+  min-height: 44px;
+  min-width: 120px;
+  padding: 0 1.1rem;
+  background: var(--sheet-accent);
+  color: #1C1C1C;
+  border: none;
+  border-radius: 8px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.78rem;
+  cursor: pointer;
+  transition: filter 0.15s ease;
+}
+.sheet-remote-connect:hover { filter: brightness(1.05); }
+.sheet-remote-connect:focus-visible {
+  outline: 2px solid var(--sheet-fg);
+  outline-offset: 2px;
+}
+
+.sheet-remote-forget {
+  flex: 0 1 auto;
+  min-height: 44px;
+  min-width: 44px;
+  padding: 0 0.9rem;
+  background: #fff;
+  color: var(--sheet-muted);
+  border: 1px solid var(--sheet-border);
+  border-radius: 8px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+  cursor: pointer;
+}
+.sheet-remote-forget:hover { background: rgba(0, 0, 0, 0.03); }
+
+.sheet-remote-status {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  color: var(--sheet-muted);
+  padding-top: 0.2rem;
+  word-break: break-word;
+}
+.sheet-remote-status[data-tone="ok"]    { color: #2F6F3F; }
+.sheet-remote-status[data-tone="warn"]  { color: #8A6A14; }
+.sheet-remote-status[data-tone="error"] { color: #991B1B; }
+
+@media (max-width: 480px) {
+  .sheet-remote-btnrow { flex-direction: column; }
+  .sheet-remote-connect, .sheet-remote-forget { width: 100%; flex: 1 1 100%; }
+}
+
 @media print {
   #chat-pill, #chat-sheet { display: none !important; }
 }

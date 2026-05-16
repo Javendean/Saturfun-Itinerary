@@ -79,18 +79,30 @@ let corpus = null;            // CorpusEntry[] from index.json
 let embById = null;           // { [id]: Float32Array(384) } dequantized
 let embedder = null;          // MiniLM pipeline (lazy)
 let engine = null;            // WebLLM engine (lazy)
-let mode = null;              // 'webgpu' | 'worker' | 'unknown'
+let mode = null;              // 'webgpu' | 'worker' | 'remote-owner' | 'unknown'
 let bootPromise = null;       // single-flight init
 let history = [];             // [{ role, content }] for multi-turn context
-let dom = {};                 // { append, appendBanner, body, textarea, sendBtn }
+let dom = {};                 // { append, appendBanner, body, textarea, sendBtn, modeLabel? }
+let remoteOwnerWs = null;     // active tunneled sidecar WS, or null
+let remoteOwnerSection = null;// { root, statusEl, urlInput, passInput, connectBtn, forgetBtn, toggle }
+let remoteAssistantStream = null; // streaming bubble for remote-owner mode
+
+// localStorage keys for persistent remote-owner credentials
+const LS_REMOTE_URL = 'saturfun.remoteOwner.tunnelUrl';
+const LS_REMOTE_PASS = 'saturfun.remoteOwner.passphrase';
 
 // ---------------------------------------------------------------------------
 // Public entry point
 // ---------------------------------------------------------------------------
 
-export function init({ append, appendBanner, body, textarea, sendBtn }) {
-  dom = { append, appendBanner, body, textarea, sendBtn };
+export function init({ append, appendBanner, body, textarea, sendBtn, modeLabel }) {
+  dom = { append, appendBanner, body, textarea, sendBtn, modeLabel };
   injectCss(VISITOR_CSS_HREF);
+
+  // Owner-mode (remote) panel — sole-user-across-devices path. Renders before
+  // the visitor banner so it's the first thing the owner sees on a friend's
+  // phone. Visitors who don't know the passphrase ignore it.
+  renderRemoteOwnerSection();
 
   appendBanner(
     'Visitor mode runs entirely in your browser — no signup, no tracking. ' +
@@ -101,11 +113,29 @@ export function init({ append, appendBanner, body, textarea, sendBtn }) {
   textarea.addEventListener('keydown', (ev) => {
     if (ev.key === 'Enter' && !ev.shiftKey) { ev.preventDefault(); send(); }
   });
+
+  // If the owner previously connected from this device, try to auto-restore the
+  // remote-owner session. Failure is silent — falls back to webgpu/worker.
+  tryAutoRestoreRemoteOwner();
 }
 
 async function send() {
   const text = dom.textarea.value.trim();
   if (!text) return;
+
+  // Remote-owner mode: bypass the visitor RAG entirely. The tunneled sidecar
+  // owns the whole conversation — same protocol the local owner mode uses.
+  if (mode === 'remote-owner' && remoteOwnerWs && remoteOwnerWs.readyState === WebSocket.OPEN) {
+    dom.append('user', text);
+    dom.textarea.value = '';
+    try {
+      remoteOwnerWs.send(JSON.stringify({ type: 'prompt', text }));
+    } catch (err) {
+      dom.append('error', `Send failed: ${err?.message || err}`);
+    }
+    return;
+  }
+
   dom.append('user', text);
   dom.textarea.value = '';
   dom.sendBtn.disabled = true;
@@ -488,6 +518,283 @@ function offerResearch(query) {
   wrap.append(label, btn);
   dom.body.appendChild(wrap);
   dom.body.scrollTop = dom.body.scrollHeight;
+}
+
+// ---------------------------------------------------------------------------
+// Remote-owner mode — tunneled sidecar via cloudflared, gated by a passphrase.
+// ---------------------------------------------------------------------------
+//
+// Single-user-across-devices: the site owner runs sidecar.mjs locally with a
+// SATURFUN_REMOTE_TOKEN env var, and a cloudflared tunnel exposes ws://127.0.0.1:7331
+// at a public https URL. When the owner opens the site on any other device,
+// they enter the URL+passphrase here and the chat routes through the tunnel
+// to their local Claude Code subscription session.
+//
+// Anything visitors do never touches this code path — it's opt-in via the
+// collapsible 🔓 panel. See sidecar/REMOTE-OWNER.md.
+
+function renderRemoteOwnerSection() {
+  // Build once, before the visitor banner. The panel itself stays collapsed
+  // until the user taps the toggle pill.
+  const root = document.createElement('div');
+  root.className = 'sheet-remote-owner';
+  root.dataset.role = 'remote-owner';     // visible to the ralph loop probe
+  root.dataset.kind = 'remote-owner';     // legacy alias used by some queries
+
+  const toggle = document.createElement('button');
+  toggle.type = 'button';
+  toggle.className = 'sheet-remote-toggle';
+  toggle.setAttribute('aria-expanded', 'false');
+  toggle.innerHTML = '<span>🔓 Owner mode (remote)</span><span class="sheet-remote-chev">▾</span>';
+
+  const panel = document.createElement('div');
+  panel.className = 'sheet-remote-panel';
+  panel.hidden = true;
+
+  const urlLabel = document.createElement('label');
+  urlLabel.className = 'sheet-remote-label';
+  urlLabel.textContent = 'Tunnel URL';
+  const urlInput = document.createElement('input');
+  urlInput.type = 'url';
+  urlInput.placeholder = 'https://abc-def-ghi.trycloudflare.com';
+  urlInput.className = 'sheet-remote-input';
+  urlInput.autocomplete = 'off';
+  urlInput.spellcheck = false;
+  urlInput.inputMode = 'url';
+
+  const passLabel = document.createElement('label');
+  passLabel.className = 'sheet-remote-label';
+  passLabel.textContent = 'Passphrase';
+  const passInput = document.createElement('input');
+  passInput.type = 'password';
+  passInput.placeholder = 'shared secret';
+  passInput.className = 'sheet-remote-input';
+  passInput.autocomplete = 'off';
+  passInput.spellcheck = false;
+
+  const btnRow = document.createElement('div');
+  btnRow.className = 'sheet-remote-btnrow';
+  const connectBtn = document.createElement('button');
+  connectBtn.type = 'button';
+  connectBtn.className = 'sheet-remote-connect';
+  connectBtn.textContent = 'Connect';
+  const forgetBtn = document.createElement('button');
+  forgetBtn.type = 'button';
+  forgetBtn.className = 'sheet-remote-forget';
+  forgetBtn.textContent = 'Forget saved';
+  btnRow.append(connectBtn, forgetBtn);
+
+  const statusEl = document.createElement('div');
+  statusEl.className = 'sheet-remote-status';
+  statusEl.textContent = 'status: not connected';
+
+  panel.append(urlLabel, urlInput, passLabel, passInput, btnRow, statusEl);
+  root.append(toggle, panel);
+
+  // Restore saved credentials (read-only — the user must still hit Connect
+  // unless tryAutoRestoreRemoteOwner succeeds).
+  try {
+    const savedUrl = localStorage.getItem(LS_REMOTE_URL) || '';
+    const savedPass = localStorage.getItem(LS_REMOTE_PASS) || '';
+    if (savedUrl) urlInput.value = savedUrl;
+    if (savedPass) passInput.value = savedPass;
+  } catch { /* localStorage blocked — fine */ }
+
+  toggle.addEventListener('click', () => {
+    const open = panel.hidden;
+    panel.hidden = !open;
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    const chev = toggle.querySelector('.sheet-remote-chev');
+    if (chev) chev.textContent = open ? '▴' : '▾';
+  });
+
+  connectBtn.addEventListener('click', () => {
+    const tunnelUrl = urlInput.value.trim();
+    const passphrase = passInput.value;
+    if (!tunnelUrl || !passphrase) {
+      setRemoteStatus('status: enter both tunnel URL and passphrase', 'warn');
+      return;
+    }
+    connectRemoteOwner(tunnelUrl, passphrase, { persist: true, fromUser: true });
+  });
+
+  forgetBtn.addEventListener('click', () => {
+    try {
+      localStorage.removeItem(LS_REMOTE_URL);
+      localStorage.removeItem(LS_REMOTE_PASS);
+    } catch {}
+    urlInput.value = '';
+    passInput.value = '';
+    disconnectRemoteOwner('user requested forget');
+    setRemoteStatus('status: forgotten — saved credentials cleared', 'ok');
+  });
+
+  remoteOwnerSection = { root, toggle, panel, urlInput, passInput, connectBtn, forgetBtn, statusEl };
+
+  // Mount at top of body, before the visitor banner.
+  dom.body.appendChild(root);
+}
+
+function setRemoteStatus(text, tone = 'info') {
+  if (!remoteOwnerSection?.statusEl) return;
+  remoteOwnerSection.statusEl.textContent = text;
+  remoteOwnerSection.statusEl.dataset.tone = tone;
+}
+
+// Convert a Cloudflare https tunnel URL into the wss WebSocket URL.
+function tunnelToWs(tunnelUrl, token) {
+  let u;
+  try { u = new URL(tunnelUrl); } catch { throw new Error('invalid tunnel URL'); }
+  if (u.protocol === 'https:') u.protocol = 'wss:';
+  else if (u.protocol === 'http:') u.protocol = 'ws:';
+  else if (u.protocol !== 'wss:' && u.protocol !== 'ws:') {
+    throw new Error(`unsupported protocol: ${u.protocol}`);
+  }
+  // Strip trailing slash on pathname (cloudflared base URL has none anyway).
+  if (u.pathname === '/') u.pathname = '';
+  u.searchParams.set('token', token);
+  return u.toString();
+}
+
+function connectRemoteOwner(tunnelUrl, passphrase, { persist, fromUser } = {}) {
+  setRemoteStatus('status: connecting…', 'info');
+  let wsUrl;
+  try { wsUrl = tunnelToWs(tunnelUrl, passphrase); }
+  catch (err) {
+    setRemoteStatus(`status: ${err.message}`, 'error');
+    return;
+  }
+
+  // Tear down any existing remote socket before opening a new one.
+  if (remoteOwnerWs) {
+    try { remoteOwnerWs.close(); } catch {}
+    remoteOwnerWs = null;
+  }
+
+  let ws;
+  try { ws = new WebSocket(wsUrl); }
+  catch (err) {
+    setRemoteStatus(`status: connect failed — ${err?.message || err}`, 'error');
+    return;
+  }
+
+  // 8s timeout for the tunnel handshake. trycloudflare quick tunnels usually
+  // open in <1s; if we're past 8s the URL is wrong or the sidecar is down.
+  const openTimer = setTimeout(() => {
+    if (ws.readyState !== WebSocket.OPEN) {
+      setRemoteStatus('status: timed out — check tunnel URL and that sidecar is running', 'error');
+      try { ws.close(); } catch {}
+    }
+  }, 8000);
+
+  ws.addEventListener('open', () => {
+    clearTimeout(openTimer);
+    remoteOwnerWs = ws;
+    mode = 'remote-owner';
+    if (dom.modeLabel) dom.modeLabel.textContent = 'Owner mode (remote)';
+    setRemoteStatus('status: connected · Owner mode (remote) · Disconnect', 'ok');
+    // Swap button labels: connect → disconnect
+    remoteOwnerSection.connectBtn.textContent = 'Disconnect';
+    if (persist) {
+      try {
+        localStorage.setItem(LS_REMOTE_URL, tunnelUrl);
+        localStorage.setItem(LS_REMOTE_PASS, passphrase);
+      } catch {}
+    }
+    // Collapse the panel after a successful manual connect so the chat is the
+    // primary surface again. Auto-restore stays expanded only if the user opens it.
+    if (fromUser && !remoteOwnerSection.panel.hidden) {
+      remoteOwnerSection.panel.hidden = true;
+      remoteOwnerSection.toggle.setAttribute('aria-expanded', 'false');
+      const chev = remoteOwnerSection.toggle.querySelector('.sheet-remote-chev');
+      if (chev) chev.textContent = '▾';
+    }
+    if (fromUser) {
+      dom.appendBanner('Connected to local Claude via tunnel. Streaming responses through the sidecar.');
+    }
+  });
+
+  ws.addEventListener('message', (ev) => {
+    let msg;
+    try { msg = JSON.parse(ev.data); } catch { return; }
+
+    if (msg.type === 'hello') return;            // greet handled by status
+    if (msg.type === 'turn_start') { remoteAssistantStream = null; dom.sendBtn.disabled = true; return; }
+    if (msg.type === 'turn_end') { dom.sendBtn.disabled = false; remoteAssistantStream = null; return; }
+    if (msg.type === 'error') { dom.append('error', msg.message); return; }
+    if (msg.type !== 'event' || !msg.event) return;
+
+    const e = msg.event;
+    if (e.type === 'assistant' && e.message?.content) {
+      for (const c of e.message.content) {
+        if (c.type === 'text' && c.text) {
+          if (!remoteAssistantStream) remoteAssistantStream = dom.append('assistant', '');
+          remoteAssistantStream.textContent += c.text;
+          dom.body.scrollTop = dom.body.scrollHeight;
+        } else if (c.type === 'tool_use') {
+          dom.append('tool', `→ ${c.name}(${JSON.stringify(c.input).slice(0, 200)})`);
+        }
+      }
+    } else if (e.type === 'result' && typeof e.result === 'string') {
+      dom.append('assistant', e.result);
+    } else if (e.type === 'stream_event' && e.event?.delta?.text) {
+      if (!remoteAssistantStream) remoteAssistantStream = dom.append('assistant', '');
+      remoteAssistantStream.textContent += e.event.delta.text;
+      dom.body.scrollTop = dom.body.scrollHeight;
+    }
+  });
+
+  ws.addEventListener('close', (ev) => {
+    clearTimeout(openTimer);
+    if (ws !== remoteOwnerWs && remoteOwnerWs !== null) return; // stale socket
+    remoteOwnerWs = null;
+    remoteAssistantStream = null;
+    dom.sendBtn.disabled = false;
+    if (mode === 'remote-owner') {
+      mode = null;
+      if (dom.modeLabel) dom.modeLabel.textContent = 'Visitor mode';
+    }
+    if (remoteOwnerSection) remoteOwnerSection.connectBtn.textContent = 'Connect';
+    // 4001 = our sidecar's auth-rejected close code
+    if (ev.code === 4001) {
+      setRemoteStatus('status: rejected — wrong passphrase', 'error');
+    } else if (ev.code === 1006) {
+      setRemoteStatus('status: disconnected — could not reach tunnel (URL wrong or sidecar offline)', 'error');
+    } else {
+      setRemoteStatus(`status: disconnected (code ${ev.code}${ev.reason ? ' — ' + ev.reason : ''})`, 'warn');
+    }
+  });
+
+  ws.addEventListener('error', () => {
+    // Detailed reason comes through onclose. Just note that something went wrong.
+    clearTimeout(openTimer);
+    setRemoteStatus('status: connection error — see browser console', 'error');
+  });
+}
+
+function disconnectRemoteOwner(reason) {
+  if (remoteOwnerWs) {
+    try { remoteOwnerWs.close(1000, reason || 'client disconnect'); } catch {}
+    remoteOwnerWs = null;
+  }
+  remoteAssistantStream = null;
+  if (mode === 'remote-owner') {
+    mode = null;
+    if (dom.modeLabel) dom.modeLabel.textContent = 'Visitor mode';
+  }
+  if (remoteOwnerSection) remoteOwnerSection.connectBtn.textContent = 'Connect';
+}
+
+function tryAutoRestoreRemoteOwner() {
+  let savedUrl = null, savedPass = null;
+  try {
+    savedUrl = localStorage.getItem(LS_REMOTE_URL);
+    savedPass = localStorage.getItem(LS_REMOTE_PASS);
+  } catch { return; }
+  if (!savedUrl || !savedPass) return;
+  // Silent restore — no banner spam if the owner's machine is off. The status
+  // panel inside the collapsible reflects the outcome.
+  connectRemoteOwner(savedUrl, savedPass, { persist: false, fromUser: false });
 }
 
 // ---------------------------------------------------------------------------
