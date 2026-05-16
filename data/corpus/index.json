@@ -2695,41 +2695,45 @@
   {
     "id": "brooklyn-heights-promenade",
     "name": "Brooklyn Heights Promenade",
-    "desc": "Cantilevered esplanade with the iconic Lower Manhattan skyline — Brooklyn's classic sunset photo walk.",
-    "longDesc": "A 1/3-mile pedestrian promenade perched above the BQE delivering unobstructed west-facing views of Lower Manhattan, the Statue of Liberty, and the Brooklyn Bridge. Arrive ~30 min before sunset: golden light rakes across the FiDi towers, then the sky goes orange-pink down the East River. Free, open 24/7, benches the whole way; walk south-to-north and exit down Squibb Park Bridge into Brooklyn Bridge Park to chain a second sunset stop at the water.",
+    "desc": "Cantilevered 1,826-ft skyline walk over the BQE — golden-hour Manhattan + Statue of Liberty views.",
+    "longDesc": "A free, 24/7 pedestrian esplanade running Joralemon to Orange Street with uninterrupted views of Lower Manhattan, the Brooklyn Bridge, East River and harbor (Ellis Island, Statue of Liberty). Lined with benches, flower beds, and one playground restroom — ideal for an unhurried golden-hour stroll. From Pier 2 at Brooklyn Bridge Park it's roughly an 8-minute uphill walk via Squibb Park Bridge or Columbia Heights.",
     "url": "https://www.nycgovparks.org/parks/brooklyn-heights-promenade",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "chill",
       "romantic",
-      "photo"
+      "photo",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "open 24h",
-    "notes": "Street parking in Brooklyn Heights is metered/competitive on weekends; the reliable play from IC is to park at the Brooklyn Bridge Park Pier 6 lot (paid, dedicated, weekend availability) and walk up to the Promenade via Atlantic Ave or Squibb Park Bridge — that also sets up a two-spot sunset loop (Promenade for skyline, Pier 6/Pier 5 for harbor + Statue of Liberty). West-facing orientation means the skyline lights up roughly 20-30 min before official sunset (source: NYC Parks). The Promenade is the iconic Manhattan-skyline shot; DUMBO's Washington/Water corner is the iconic Manhattan-Bridge shot — different photo, both 15 min from IC.",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Open 24 hours",
+    "notes": "Arrive ~30 min before sunset for the color shift over the Financial District; stay through blue hour for skyline lights (nyctourism.com). On-street parking in Brooklyn Heights is very limited on weekends — nearest garages run $15+ for 2 hrs (spotangels.com). If pairing with Pier 2 rink, walk up via Squibb Park Bridge (~8 min) instead of re-parking.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/brooklyn-heights-promenade",
-        "accessed": "2026-05-16T04:45:00Z"
+        "accessed": "2026-05-16T12:15:00Z"
       },
       {
-        "url": "https://www.brooklynbridgepark.org/visit/parking/",
-        "accessed": "2026-05-16T04:45:00Z"
+        "url": "https://www.nyctourism.com/places/brooklyn-heights-promenade/",
+        "accessed": "2026-05-16T12:15:00Z"
       },
       {
-        "url": "https://www.brooklynbridgepark.org/places/squibb-park-bridge/",
-        "accessed": "2026-05-16T04:45:00Z"
+        "url": "https://en.wikipedia.org/wiki/Brooklyn_Heights_Promenade",
+        "accessed": "2026-05-16T12:15:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/brooklyn-heights-promenade-parking",
+        "accessed": "2026-05-16T12:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T04:44:35.324Z"
+    "lastResearchedAt": "2026-05-16T12:18:00.974Z"
   },
   {
     "id": "maison-premiere",
@@ -5566,16 +5570,16 @@
   },
   {
     "id": "time-out-market-dumbo",
-    "name": "Time Out Market New York (DUMBO Rooftop)",
-    "desc": "Waterfront food hall with a 5th-floor rooftop framing the Manhattan and Brooklyn Bridges — DUMBO's group photo-op + 21-vendor lunch in one stop.",
-    "longDesc": "Time Out Market occupies the Empire Stores warehouse at 55 Water Street with 21 vendors curated from NYC's best (Bark BBQ, Mori Mori hand rolls by Morimoto, Fornino, Clinton St. Baking, Jacob's Pickles) plus 3 bars and a live-music stage. The fifth-floor rooftop is the real draw: open-air sightlines straight onto the Manhattan Bridge with the skyline behind it — the classic DUMBO group photo without the cobblestone-street tourist scrum on Washington St. Expect 15-30 min weekend waits for rooftop seating; arrive before 12:30pm to claim a railing-side table.",
+    "name": "Time Out Market New York (DUMBO)",
+    "desc": "21,000 sqft food hall in Empire Stores with rooftop views of the Brooklyn and Manhattan Bridges.",
+    "longDesc": "Time Out Market occupies two floors of the historic Empire Stores warehouse at 55 Water St, plus a fifth-floor rooftop terrace looking straight at both bridges. Roughly 21 vendors curated from NYC's best chefs (Julianna's Pizza, Mr. Taka Ramen, Jacob's Pickles, Avocaderia, Pat LaFrieda, Clinton St. Bakery, Felice, Alta Calidad) plus 3 bars and a live-music stage — walk-in only, grab food first then chase a rooftop table. Ideal post-Pier 2 refuel: indoor, fast, group-friendly, and the views read like a postcard.",
     "url": "https://www.timeout.com/time-out-market-new-york",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
-      "photo",
       "foodie",
+      "photo",
       "chill"
     ],
     "dietary": [
@@ -5584,31 +5588,35 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 8:00-23:00, Sun 8:00-22:00",
-    "notes": "Anchor stop for the DUMBO photo slot — rooftop access is free, no reservation needed (timeout.com). Paid parking at 100 Jay St garage, 85 Adams St, or 90 Washington St — all fill at peak so SpotHero pre-book is wise (timeout.com/faqs, spothero.com). Four entrances; rooftop reachable via elevator or exterior stairs. Plan ~18 min drive from Industry City via Gowanus Expy → BQE → Old Fulton St exit.",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 08:00-23:00, Sun 08:00-22:00",
+    "notes": "Located inside Empire Stores at 55 Water St, Brooklyn (timeout.com). Two floors + 5th-floor rooftop with Brooklyn/Manhattan Bridge views (nyctourism.com). All seating first-come, first-served — fastest path is order downstairs then scout rooftop tables (loving-newyork.com). Vegan-friendly via Avocaderia and BKLYN Wild; multiple gluten-aware options across stalls. Parking in DUMBO is rough on weekends — easiest plan is the Empire Stores valet lot or the metered spots along Plymouth/Pearl; on a Saturday afternoon expect to circle. 12-min drive from Industry City via Gowanus Expy to Old Fulton off-ramp.",
     "sources": [
       {
         "url": "https://www.timeout.com/time-out-market-new-york",
-        "accessed": "2026-05-16T12:10:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/time-out-market-new-york/faqs",
-        "accessed": "2026-05-16T12:10:00Z"
+        "accessed": "2026-05-16T12:15:00Z"
       },
       {
         "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
-        "accessed": "2026-05-16T12:10:00Z"
+        "accessed": "2026-05-16T12:15:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/time-out-market-new-york/",
-        "accessed": "2026-05-16T12:10:00Z"
+        "accessed": "2026-05-16T12:15:00Z"
+      },
+      {
+        "url": "https://loving-newyork.com/time-out-market-nyc/",
+        "accessed": "2026-05-16T12:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/time-out-market-new-york-brooklyn",
+        "accessed": "2026-05-16T12:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:04:05.716Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T12:19:53.432Z"
   },
   {
     "id": "pier-2-brooklyn-bridge-park",
@@ -5701,35 +5709,31 @@
   },
   {
     "id": "dumbo-boulders",
-    "name": "DUMBO Boulders (The Cliffs at DUMBO)",
-    "desc": "Outdoor bouldering park under the Manhattan Bridge — North America's largest outdoor climbing wall.",
-    "longDesc": "Seasonal open-air bouldering facility tucked under the Manhattan Bridge archway at Brooklyn Bridge Park's Main Street section. Operated by The Cliffs Climbing + Fitness (now part of Movement Gyms), it offers ~30,000 sq ft of routes for all skill levels and pairs naturally with a Brooklyn Bridge Park waterfront walk and a Time Out Market lunch one block away. Bouldering only (no ropes); day passes historically ~$9 plus shoe rental.",
-    "url": "https://dumbo.thecliffsclimbing.com/",
+    "name": "DUMBO Boulders at Brooklyn Bridge Park",
+    "desc": "North America's largest outdoor bouldering wall, waterfront under the Manhattan Bridge — $9 with shoe rental.",
+    "longDesc": "Operated by The Cliffs / Movement Gyms in partnership with Brooklyn Bridge Park, DUMBO Boulders is a ~4,886 sq ft outdoor bouldering facility designed by Walltopia, set against the East River with skyline and Manhattan Bridge views. Seasonal (roughly April through fall, weather-dependent) with $9 day passes that include climbing shoes — a low-friction entry point versus indoor gyms like VITAL Williamsburg. Drop-in friendly, no membership, walk-ins fine on most weekends but expect a wait midday in summer.",
+    "url": "https://brooklynbridgepark.org/things-to-do/activities/dumbo-boulders/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "active",
-      "curious",
-      "photo"
+      "photo",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "1-2 hr",
+    "duration": "60-90 min",
     "driveFromIC": "18 min",
-    "hoursWeekend": "9:00-20:00 (seasonal, Apr-Nov, weather permitting)",
-    "notes": "Seasonal outdoor venue — open roughly mid-April through mid-November, closed when forecasts drop below 50°F (Weather Policy, dumbo.thecliffsclimbing.com). Yelp listing shows CLOSED as of Mar 2026 (yelp.com) while Brooklyn Bridge Park press materials and Secret NYC report active seasons (brooklynbridgepark.org, secretnyc.co) — verify operating status before adding to a live itinerary. Day pass historically $9 + shoe rental; bouldering only, no ropes (brooklynbridgepark.org press release). Brand transition appears underway as the Cliffs domain now redirects to movementgyms.com.",
+    "hoursWeekend": "09:00-20:00",
+    "notes": "Outdoor seasonal facility at the Main Street section of Brooklyn Bridge Park, near Plymouth & Main (DUMBO waterfront). $9 admission includes shoe rental as of 2026 season (Brooklyn Bridge Park press release). The original indoor Cliffs at DUMBO at 99 Plymouth St is permanently CLOSED (Yelp, March 2026) — do not route there. Weather-dependent: closes for rain. Weekend parking in DUMBO is tight; metered street spots on Plymouth/Adams or paid lots near Front St — arrive before 11am for best odds. Skyline + Manhattan Bridge backdrop makes this a strong photo + active combo stop; pairs naturally with Time Out Market, Brooklyn Bridge Park walk, or Jane's Carousel afterward. Different format from VITAL Williamsburg: outdoor, no top-rope, no membership, much shorter commitment (source: Brooklyn Bridge Park, Secret NYC, Mommy Poppins).",
     "sources": [
-      {
-        "url": "https://dumbo.thecliffsclimbing.com/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
       {
         "url": "https://brooklynbridgepark.org/press-releases/dumbo-boulders-at-brooklyn-bridge-park-opens-april-16th/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/the-cliffs-at-dumbo-brooklyn",
+        "url": "https://brooklynbridgepark.org/press-releases/bbp-selects-dumbo-boulders-to-operate-bouldering-wall-at-main-street/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -5737,14 +5741,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.dumbo.thecliffsclimbing.com/weather-policy",
+        "url": "https://www.yelp.com/biz/the-cliffs-at-dumbo-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://mommypoppins.com/new-york-city-kids/outdoors/dumbo-boulders-climbing-brooklyns-giant-new-wall-with-kids",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:13:48.514Z"
+    "lastResearchedAt": "2026-05-16T12:22:15.677Z"
   },
   {
     "id": "threes-brewing-gowanus",
@@ -10893,5 +10901,86 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T12:12:07.509Z"
+  },
+  {
+    "id": "bbp-pier-1-sunset",
+    "name": "Brooklyn Bridge Park — Pier 1 (Granite Prospect)",
+    "desc": "Free harbor-front sunset stop with Lower Manhattan + Brooklyn Bridge views from salvaged-granite steps.",
+    "longDesc": "Pier 1 is the northern, largest pier of Brooklyn Bridge Park, anchored by Granite Prospect — a wide cascade of stone steps salvaged from the old Roosevelt Island Bridge that face directly into the New York Harbor sunset over Lower Manhattan. The Harbor View Lawn and waterfront promenade frame the Brooklyn Bridge to the north, and a new (2025) Pier 1 Pavilion at the entrance adds year-round restrooms, water, and shaded seating. Best 30-45 min before golden hour; pairs naturally with a follow-on rooftop drink (e.g. Time Out Market Brooklyn rooftop in nearby Dumbo) for a two-vista mini-itinerary.",
+    "url": "https://brooklynbridgepark.org/places-to-see/pier-1/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free entry; park open daily 6 AM-1 AM (brooklynbridgepark.org). Granite Prospect steps face SW toward Lower Manhattan — ideal for sunset framing of the skyline + Statue of Liberty in the distance. Weekend street parking is tight on Furman St / Old Fulton; the Pier 6 surface lot and the BBP Squibb Park garage are the reliable paid options, both a 5-10 min walk to Pier 1. Pier 1 Pavilion (opened 2025) has restrooms + concession (brooklynbridgepark.org). Walkable to Time Out Market Brooklyn rooftop in ~10 min along the waterfront greenway.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-1/",
+        "accessed": "2026-05-16T12:15:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-1-pavilion/",
+        "accessed": "2026-05-16T12:15:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/",
+        "accessed": "2026-05-16T12:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T12:13:59.437Z"
+  },
+  {
+    "id": "pier-6-bbp",
+    "name": "Pier 6 — Brooklyn Bridge Park",
+    "desc": "Free sand volleyball, harbor-view lawns, Fornino pizza rooftop, and the Pilot schooner bar in one footprint.",
+    "longDesc": "Pier 6 at Brooklyn Bridge Park stacks a lot into one stop: three regulation sand volleyball courts open 6AM–11PM daily (drop-in when leagues aren't scheduled, free, first-come-first-served), Liberty Lawn for blanket picnics with Statue of Liberty views, the Pilot — a 1924 Grand Banks schooner docked on the north promenade serving sustainable seafood and drinks — and Fornino's wood-fired pizza with a rooftop deck near the entrance. Big City Volleyball runs adult co-ed leagues and monthly tournaments May–November, so weekend court availability is best mornings or after league blocks.",
+    "url": "https://brooklynbridgepark.org/places-to-see/pier-6/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "active",
+      "chill",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "60-120 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park is free; volleyball courts are free drop-in when no league/permit is scheduled (BBP site confirms first-come-first-served, source: brooklynbridgepark.org/things-to-do/volleyball). 'Pilot' is the schooner bar on the north promenade (sustainable seafood + cocktails). Fornino has a rooftop deck and public restrooms. Driving from Industry City: ~14 min via Gowanus Expy/BQE; paid garage at 360 Furman St (City Parking) is the realistic weekend option since BBP warns parking is 'severely limited' (source: brooklynbridgepark.org/places-to-see/pier-6).",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-6/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/things-to-do/volleyball/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.bigcityvolleyball.com/adult-beach-league-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T12:16:06.630Z"
   }
 ]
