@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Pier 5 picnic peninsula and harbor view lawn",
-    "reason": "Adjacent pier with grills, lawns, and another harbor angle — extends the Pier 6 parking lot into a longer waterfront circuit",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:43:29.931Z"
-  },
-  {
-    "topic": "Time Out Market New York (Empire Stores, 55 Water St, DUMBO)",
-    "reason": "Natural dinner handoff from Pebble Beach / Washington & Water — 21 stalls under one roof with a rooftop deck facing the Brooklyn Bridge; lets the DUMBO sunset track end indoors without a second drive.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:45:37.299Z"
-  },
-  {
-    "topic": "Cecconi's DUMBO (55 Water St, Empire Stores)",
-    "reason": "Sit-down Italian option in the same Empire Stores building as Time Out, for the romantic-track variant where the dinner stop needs to be a proper reservation venue, not a food hall.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:45:37.299Z"
-  },
-  {
-    "topic": "Jane's Carousel (Brooklyn Bridge Park, between Main & Old Dock St)",
-    "reason": "60-second walk from Pebble Beach inside the glass pavilion designed by Jean Nouvel — a low-effort, photogenic 'curious' stop that pads the DUMBO track for couples who want more than just the sunset shot.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:45:37.299Z"
-  },
-  {
-    "topic": "Brooklyn Bridge Park Pier 1 Greenway / Granite Prospect steps",
-    "reason": "Alternate DUMBO-adjacent sunset composition (skyline-forward, no bridge framing) one pier south — useful when Washington & Water is mobbed and the user needs a Plan B within the same 18-min drive from IC.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:45:37.299Z"
-  },
-  {
     "topic": "Bush Terminal Piers Park sunset view (Sunset Park waterfront)",
     "reason": "True on-water sunset alternative open past Green-Wood's 7pm close — fills the gap when sunset is later than the cemetery allows",
     "requestedBy": "agent",
@@ -4450,5 +4420,89 @@
     "reason": "Adjacent upscale waterfront drinks option a 5-min drive north — strengthens Brooklyn Heights drinks corpus",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T17:14:30.712Z"
+  },
+  {
+    "topic": "Pier 5 sports fields synthetic turf complex Brooklyn Bridge Park",
+    "reason": "Adjacent active-use anchor at the same pier — extends the picnic+grill stop into a half-day cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:16:20.685Z"
+  },
+  {
+    "topic": "Pier 6 flower fields and Brooklyn Heights pollinator gardens",
+    "reason": "Connects the Pier 5/6 waterfront circuit with a photo/curious stop just south of the peninsula",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:16:20.685Z"
+  },
+  {
+    "topic": "Cecconi's Dumbo (waterfront Italian inside Empire Stores)",
+    "reason": "Sit-down dinner alternative in same building when Time Out Market is mobbed; same Brooklyn Bridge view, reservation-friendly",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:18:30.883Z"
+  },
+  {
+    "topic": "Westlight rooftop bar at The William Vale (Williamsburg)",
+    "reason": "Comparable rooftop cocktail experience inside 15-min IC drive radius; useful as Williamsburg-track counterpart to Time Out's rooftop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:18:30.883Z"
+  },
+  {
+    "topic": "Brooklyn Bridge Park Pier 6 food kiosks (Brooklyn Heights side)",
+    "reason": "Cheaper, more casual waterfront-eats alternative when user wants outdoor-only dinner; complements DUMBO cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:18:30.883Z"
+  },
+  {
+    "topic": "Re-research existing venue: The River Café (1 Water St, DUMBO)",
+    "reason": "Higher-tier romantic-track dinner anchor under Brooklyn Bridge — tasting-menu pairing for users who want a step above Cecconi's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:20:34.086Z"
+  },
+  {
+    "topic": "Gran Eléctrica (5 Front St, DUMBO) Mexican patio dinner",
+    "reason": "DUMBO romantic-track variant with a different cuisine — covers couples who want sit-down + reservations but not Italian",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:20:34.086Z"
+  },
+  {
+    "topic": "Celestine (1 John St, DUMBO) Mediterranean waterfront dinner",
+    "reason": "Adjacent same-zone romantic option with East River views; fills the 'Cecconi's booked out' fallback slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:20:34.086Z"
+  },
+  {
+    "topic": "Time Out Market New York (Empire Stores, DUMBO)",
+    "reason": "Food-hall anchor 2-min walk from the carousel — fills the foodie slot in a DUMBO track that currently leans scenery-heavy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:22:35.908Z"
+  },
+  {
+    "topic": "Brooklyn Historical Society DUMBO (Empire Stores 3rd floor)",
+    "reason": "Another low-effort curious stop in the same Empire Stores complex — keeps the cluster tight for couples without a car-move",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:22:35.908Z"
+  },
+  {
+    "topic": "Front General Store (DUMBO vintage)",
+    "reason": "Adds a 'shop' beat to the DUMBO track that's neither food nor view — broadens vibe coverage for the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:22:35.908Z"
+  },
+  {
+    "topic": "Pebble Beach at Brooklyn Bridge Park (between Pier 1 and Main St)",
+    "reason": "Hidden cove with driftwood + Manhattan Bridge framing — pairs with Granite Prospect for a sunset → blue-hour two-stop walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:24:39.055Z"
+  },
+  {
+    "topic": "Squibb Park Bridge entrance to BBP from Brooklyn Heights Promenade",
+    "reason": "Alternate top-down approach to Pier 1 that lets the user park higher up Columbia Heights when Furman St garage is full",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:24:39.055Z"
+  },
+  {
+    "topic": "Fornino at Pier 6 rooftop (seasonal)",
+    "reason": "Sunset-aligned BBP food anchor at the south end — completes a Pier 6 → Pier 1 sunset chain by car or BBP shuttle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:24:39.055Z"
   }
 ]

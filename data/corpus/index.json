@@ -10880,10 +10880,10 @@
   {
     "id": "cecconis-dumbo",
     "name": "Cecconi's DUMBO",
-    "desc": "Northern Italian in Empire Stores with Manhattan-skyline terrace seats — the romantic sit-down counterpoint to Time Out Market.",
-    "longDesc": "Soho House group's Brooklyn outpost lives in a converted Empire Stores warehouse on the DUMBO waterfront, serving Northern Italian classics (whipped ricotta toast, wood-fired pizzas, lobster pasta, caprese) plus a strong cocktail and by-the-glass wine program. The terrace looks straight at the Manhattan Bridge and skyline; inside, Venetian curtains separate al fresco from a candlelit dining room. Reserve a window or terrace seat via OpenTable/Tock and you've got date-night locked in.",
+    "desc": "Northern Italian sit-down inside Empire Stores with Manhattan-skyline terrace and handmade pasta.",
+    "longDesc": "Soho House Group's Brooklyn outpost of the Mayfair classic, set in the brick-arched Empire Stores warehouse between the Brooklyn and Manhattan bridges. The menu leans Venetian-Northern Italian — wood-fired pizza, handmade pasta, cicchetti and a long wine list — served in a polished dining room or on a waterfront patio with full skyline views. A reservation-driven venue that reads as a proper romantic dinner anchor, not a food-hall stop.",
     "url": "https://www.cecconisrestaurants.com/dumbo/",
-    "photoUrl": "https://www.cecconisrestaurants.com/media/hlrhmkyy/mariell-lindhansen-1538.jpg?width=2000&height=1500&v=1db605fbcdfba20",
+    "photoUrl": "https://media.cecconis.com/media/hlrhmkyy/mariell-lindhansen-1538.jpg?width=2000&height=1500&v=1db605fbcdfba20",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
@@ -10898,33 +10898,25 @@
     "duration": "90-120 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "11:30-22:00",
-    "notes": "Address 55 Water St inside Empire Stores, same block as Time Out Market — pair as 'sunset dinner' anchor after a food-hall snack run, or vice versa (source: cecconisrestaurants.com/dumbo). Weekend brunch starts 11:30am, full dinner service through 10pm; window/terrace tables book out fast for sunset, so reserve via OpenTable or Tock 1-2 weeks ahead (source: opentable.com/r/cecconis-dumbo-brooklyn). Parking: Empire Stores paid garage is steps away and SpotHero lists multiple DUMBO lots within 5-min walk; weekend street parking on Water/Plymouth is feasible but inconsistent — pre-book a garage for guaranteed (source: spothero.com/destination/nyc/dumbo-parking). Drive from Industry City via Gowanus Expy/BQE is ~15-20 min off-peak. Vegan and vegetarian dishes on the menu (source: cecconisrestaurants.com/dumbo/menus).",
+    "notes": "Weekend Sat/Sun 11:30am-10pm; brunch + dinner service (cecconisrestaurants.com). Reservations strongly recommended for window or patio tables — book well in advance for sunset (search-summary, opentable.com). Empire Stores building is the same complex as Time Out Market, so a single-trip pairing is easy. Street parking in DUMBO is rough on weekends; nearest reliable options are the Empire Stores garage entry off Plymouth St and the Brooklyn Bridge Park lots — plan +10 min buffer (search-summary). Phone (718) 650-3900.",
     "sources": [
       {
         "url": "https://www.cecconisrestaurants.com/dumbo/",
-        "accessed": "2026-05-16T12:10:00Z"
-      },
-      {
-        "url": "https://www.cecconisrestaurants.com/dumbo/menus/",
-        "accessed": "2026-05-16T12:10:00Z"
+        "accessed": "2026-05-16T17:20:00Z"
       },
       {
         "url": "https://www.opentable.com/r/cecconis-dumbo-brooklyn",
-        "accessed": "2026-05-16T12:10:00Z"
+        "accessed": "2026-05-16T17:20:00Z"
       },
       {
-        "url": "https://www.empirestoresdumbo.com/tenants/cecconis-3",
-        "accessed": "2026-05-16T12:10:00Z"
-      },
-      {
-        "url": "https://spothero.com/destination/nyc/dumbo-parking",
-        "accessed": "2026-05-16T12:10:00Z"
+        "url": "https://www.yelp.com/biz/cecconis-dumbo-brooklyn",
+        "accessed": "2026-05-16T17:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:12:07.509Z"
+    "lastResearchedAt": "2026-05-16T17:20:34.057Z"
   },
   {
     "id": "bbp-pier-1-sunset",
@@ -15477,5 +15469,193 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T17:14:30.700Z"
+  },
+  {
+    "id": "pier-5-picnic-peninsula",
+    "name": "Pier 5 Picnic Peninsula",
+    "desc": "Waterfront BBQ peninsula with first-come grills, harbor views, and a sloped uplands lawn",
+    "longDesc": "A purpose-built picnic peninsula at the south end of Brooklyn Bridge Park with two dozen+ first-come/first-serve grills, salvaged long-leaf-pine tables, shade umbrellas, and a concession area (brooklynbridgepark.org). The adjacent Pier 5 Uplands Lawn adds sloped/terraced grass, a shaded grove, and a 30-foot promenade with sweeping views of Lower Manhattan, Governors Island, and the harbor. Combined with Pier 6 parking, it makes a long waterfront circuit walkable end-to-end.",
+    "url": "https://brooklynbridgepark.org/places-to-see/picnic-areas/picnic-peninsula/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "06:00-23:00",
+    "notes": "Grills are first-come, first-served; one-hour cap when busy and no grilling after 10pm; peninsula closes at 11pm (brooklynbridgepark.org). Uplands Lawn has a sound-attenuating berm muting BQE traffic, plus a grove with flexible seating (brooklynbridgepark.org). Pair with Pier 6 parking lot — peninsula sits one pier north for a longer waterfront walk.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/picnic-areas/picnic-peninsula/",
+        "accessed": "2026-05-16T17:20:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-5/",
+        "accessed": "2026-05-16T17:20:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-5-uplands/",
+        "accessed": "2026-05-16T17:20:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/brooklyn-bridge-park/facilities/barbecue",
+        "accessed": "2026-05-16T17:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:16:20.672Z"
+  },
+  {
+    "id": "time-out-market-new-york",
+    "name": "Time Out Market New York",
+    "desc": "21-vendor curated food hall inside Empire Stores with a Brooklyn Bridge–facing rooftop deck.",
+    "longDesc": "Time Out's editors hand-picked 21 NYC chefs and restaurants (Pat LaFrieda, Mr. Taka Ramen, Felice Pasta Bar, Clinton St. Baking, Jacob's Pickles, Bessou, Avocaderia, Juliana's Pizza) under one roof in the historic Empire Stores warehouse. The 5th-floor and rooftop deliver direct sightlines of the Brooklyn Bridge, Manhattan Bridge, and lower-Manhattan skyline — making it an easy indoor handoff after a DUMBO/Pebble Beach sunset stroll. Order at the stalls, grab a table indoors or head up the exterior stairs/elevator to the roof for drinks.",
+    "url": "https://www.timeout.com/time-out-market-new-york",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "08:00-23:00 Sat, 08:00-22:00 Sun",
+    "notes": "21 stalls + 3 bars + live-music stage + rooftop; rooftop reachable via exterior stairs or two elevators, one inside Empire Stores' first floor and one outside near the East River entrance (timeout.com). Weekend rooftop seating wait runs 15–30 min and stall lines 10–20 min at peak (zippicks.com). Street parking in DUMBO is extremely limited — nearest paid garages are 85 Adams St, 90 Washington St, and 100 Jay St (zippicks.com). Strong vegetarian/vegan coverage via Avocaderia and bakery stalls.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/time-out-market-new-york",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/time-out-market-new-york/how-to-get-here",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://zippicks.com/time-out-market-new-york-brooklyn-11201/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/time-out-market-new-york/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T17:18:30.865Z"
+  },
+  {
+    "id": "janes-carousel",
+    "name": "Jane's Carousel",
+    "desc": "1922 carousel under the Brooklyn Bridge inside a glowing Jean Nouvel glass pavilion — 60 sec from Pebble Beach.",
+    "longDesc": "A fully restored 1922 Philadelphia Toboggan Company carousel housed in a glass-walled pavilion designed by Pritzker laureate Jean Nouvel, sitting between the stone pier of the Brooklyn Bridge and the steel pier of the Manhattan Bridge at Empire Fulton Ferry. Rides are $3 and last a few minutes; after dark the pavilion turns into a 'magic lantern' that casts horse shadows on its facade, marking the hour. A high-payoff, low-effort detour for couples already in DUMBO for the bridge views.",
+    "url": "https://janescarousel.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "11:00-17:45",
+    "notes": "Closed Mon/Tue; open Wed-Sun 11:00-17:45 (janescarousel.com/hours). $3/ride, 10-ticket packs sold as keepsakes (undercovertourist.com). On the National Register of Historic Places, restored by Jane Walentas starting 1984, opened in current pavilion Sept 16 2011 (jeannouvel.com; brooklynbridgepark.org). 60-second walk from Pebble Beach — perfect pad-stop for the DUMBO track. Weekend street parking in DUMBO is tight; closest paid lots are Pearl St Triangle and Front St garages. Pavilion is climate-controlled so it works as a rainy-day fallback.",
+    "sources": [
+      {
+        "url": "https://janescarousel.com/hours/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://janescarousel.com/history/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.jeannouvel.com/en/projects/janes-carousel/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jane's_Carousel",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T17:22:35.893Z"
+  },
+  {
+    "id": "bbp-pier-1-granite-prospect",
+    "name": "Granite Prospect — Brooklyn Bridge Park Pier 1",
+    "desc": "Salvaged-granite step amphitheater facing Lower Manhattan — skyline-forward sunset Plan B one pier south of DUMBO.",
+    "longDesc": "Pier 1's Granite Prospect is a stepped seating wall built from ~300 pieces (~2,000 linear feet) of granite salvaged from the Roosevelt Island Bridge reconstruction, terraced into the hillside on the pier's western edge. Sightlines run across New York Harbor toward the Statue of Liberty and the Lower Manhattan skyline — a no-bridge-framing alternative to Washington & Water when DUMBO is mobbed. Sit on the upper risers ~45 min before sunset; the harbor light shifts fast and the steps fill quickly on clear weekends.",
+    "url": "https://brooklynbridgepark.org/places-to-see/granite-prospect/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "photo",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free public park, open 6AM–1AM daily (brooklynbridgepark.org/about/faqs). Park at LAZ garage on the south side of 90 Furman St under Squibb Bridge — closest paid option; limited 3-hr metered spaces on Furman near Pier 2 fill fast on weekends (brooklynbridgepark.org/plan-your-visit/maps-and-directions). Entry to Pier 1 is via the Old Fulton St / Furman St gate; the Granite Prospect is on the pier's southwest hillside facing the harbor. No bridge in the frame from these steps — for that, walk five minutes north to Pier 1's bridge-side lawn or continue to Pebble Beach. Bring a layer; the harbor wind on the upper risers is noticeably colder than street level.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/granite-prospect/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-1/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/about/faqs/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkwaterfronthistory.org/story/salvaged-beauty/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:24:39.028Z"
   }
 ]
