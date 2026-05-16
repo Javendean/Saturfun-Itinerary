@@ -15712,8 +15712,8 @@
   {
     "id": "the-long-island-bar",
     "name": "The Long Island Bar",
-    "desc": "Restored 1951 mid-century saloon with timeless classic cocktails by Toby Cecchini on Atlantic Ave.",
-    "longDesc": "A neon-fronted, Art-Deco-trimmed corner bar reopened in 2013 by Cosmopolitan-inventor Toby Cecchini and Joel Tompkins after sitting shuttered since 2007. The menu sticks to clean, exacting classics — the Long Island Gimlet and Pineapple Daiquiri are house signatures — alongside a tight food list anchored by the double-patty burger and fried cheese curds. Ranked #64 on North America's 50 Best Bars 2025; the L-shaped polished-wood bar, leather booths, and humming chrome facade make it one of the most photogenic late-night rooms in brownstone Brooklyn.",
+    "desc": "Restored 1950s Cobble Hill saloon serving precision classic cocktails until midnight.",
+    "longDesc": "A landmark mid-century Atlantic Avenue diner-bar revived by Toby Cecchini and Joel Tompkins, ranked #64 on North America's 50 Best Bars 2025. The kitchen turns out a tight bar-food menu (smashburgers, bocadillos) alongside flawlessly built classics — the Boulevardier and house Long Island Gimlet are the signatures. Walk-in only, neon-lit corner room with a chrome curve bar that photographs beautifully.",
     "url": "https://www.thelongislandbar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -15721,39 +15721,207 @@
     "vibe": [
       "chill",
       "romantic",
-      "photo"
+      "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "14:00-00:00",
-    "notes": "110 Atlantic Ave, on the Cobble Hill/Brooklyn Heights line (Infatuation review labels it Cobble Hill). Closed Mondays; Tue-Fri 5pm-midnight, Sat-Sun 2pm-midnight (thelongislandbar.com). No dedicated parking — weekend street parking on Henry/Hicks/Clinton south of Atlantic is workable; metered Atlantic Ave spots free after 7pm Sat and all day Sun. Lively/crowded Fri-Sat evenings, no reservations. Pairs naturally with a Carroll Gardens dinner (Frankies 457, Buttermilk Channel) for a S.Brooklyn late-night arc that mirrors the Williamsburg classic-cocktail axis to the north (50best.com, theinfatuation.com).",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Sat-Sun 14:00-00:00",
+    "notes": "Walk-in only, no reservations — arrive before 8pm on weekends or expect a queue (Yelp 2026, En Primeur Club). Closed Mondays; Tue-Fri opens 5pm. Tight street parking on Atlantic/Henry; metered Court Street usually has spots after 9pm. Cash + card. (thelongislandbar.com, Yelp)",
     "sources": [
       {
         "url": "https://www.thelongislandbar.com/",
-        "accessed": "2026-05-16T17:30:00Z"
-      },
-      {
-        "url": "https://www.theworlds50best.com/discovery/Establishments/US/New-York/The-Long-Island-Bar.html",
-        "accessed": "2026-05-16T17:30:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/the-long-island-bar",
-        "accessed": "2026-05-16T17:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-long-island-bar-brooklyn",
-        "accessed": "2026-05-16T17:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/bars/the-long-island-bar",
-        "accessed": "2026-05-16T17:30:00Z"
+        "url": "https://www.enprimeurclub.com/bars/the-long-island-bar-new-york-city",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.diffordsguide.com/bars/9NM8b7/the-long-island-bar",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T17:33:36.613Z"
+    "lastResearchedAt": "2026-05-16T17:43:13.966Z"
+  },
+  {
+    "id": "donna-williamsburg",
+    "name": "Donna (Williamsburg) — CLOSED",
+    "desc": "Rum-driven Williamsburg cocktail bar that permanently closed; program relocated to Donna NYC in the West Village.",
+    "longDesc": "Donna at 27 Broadway in South Williamsburg ran from 2012 to ~2024 as Leif Young Huckman's rum- and tropical-cocktail institution under Jeremy Oertel, in a hOmE-designed Central-American-cathedral space. It is now permanently closed at the Brooklyn address — Yelp, Foursquare, and Time Out all confirm closure, and the same team reopened a worker-owned successor as Donna NYC at 7 Cornelia Street, West Village in mid-2025. Do not route guests to the Brooklyn address; for the Williamsburg late-night cluster, use Hotel Delmano, Maison Premiere, or one of the agave-leaning enqueued alternatives.",
+    "url": "https://www.timeout.com/newyork/bars/donna",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "romantic",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "permanently closed",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "permanently closed",
+    "notes": "Williamsburg flagship at 27 Broadway is permanently closed (Yelp: CLOSED Apr 2026; Foursquare: 'Now Closed'; Time Out NY: CLOSED). Program relocated as Donna NYC, 7 Cornelia St, West Village — Fri/Sat 3pm–1am, Sun until 10pm (donnabklyn.com / donnanyc.com). Original cocktails: Brancolada (piña colada + Branca Menta), Haunted House (Appleton + rye + Swedish punsch), Coconutty (toasted-coconut mezcal + Montenegro). Avg cocktail historically ~$15–18. Do not enrich for routing — flag as defunct.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/bars/donna",
+        "accessed": "2026-05-16T17:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/donna-brooklyn",
+        "accessed": "2026-05-16T17:40:00Z"
+      },
+      {
+        "url": "https://donnabklyn.com/",
+        "accessed": "2026-05-16T17:40:00Z"
+      },
+      {
+        "url": "https://whatnow.com/new-york/restaurants/donna-a-worker-owned-collective-in-the-west-village-will-open-in-may/",
+        "accessed": "2026-05-16T17:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": false,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:39:14.175Z"
+  },
+  {
+    "id": "gage-and-tollner",
+    "name": "Gage & Tollner",
+    "desc": "Landmark 1879 Brooklyn chophouse — seafood towers, dry-aged steaks, archive recipes.",
+    "longDesc": "Reopened in 2021 inside its original 1879 Italianate brownstone (NYC-landmarked facade and interior), Gage & Tollner is a 21st-century oyster and chop house run by Sohui Kim, St. John Frizell, and Adam Shepard. The dining room serves seafood towers, big dry-aged steaks, fried chicken with cornmeal fritters, parker house rolls, and revived archive dishes under gas-lit chandeliers. Pairs naturally with Sunken Harbor Club, the tropical cocktail bar upstairs in the same building.",
+    "url": "https://www.gageandtollner.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat-Sun 11:00-22:00 (lunch + dinner)",
+    "notes": "Reservations strongly recommended via OpenTable, especially weekends (opentable.com). Same building as Sunken Harbor Club upstairs — perfect dinner-then-tiki pairing without moving the car (gageandtollner.com). Interior is a NYC-designated landmark with original 1892 gas-lit mahogany and mirrored walls (en.wikipedia.org). Smart-casual dress; the room photographs beautifully for the photo vibe even though it's not on the vibe list as primary. Closest municipal parking: Schermerhorn St garage, ~3 min walk.",
+    "sources": [
+      {
+        "url": "https://www.gageandtollner.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.gageandtollner.com/location/gage-and-tollner-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gage_and_Tollner",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/gage-tollner",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/gage-and-tollner-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:41:17.466Z"
+  },
+  {
+    "id": "grand-army-boerum-hill",
+    "name": "Grand Army",
+    "desc": "Boerum Hill cocktail bar with raw bar oysters, late hours, and a moody sit-down room",
+    "longDesc": "Corner cocktail bar at State + Hoyt with a serious original cocktail program, deep wine and beer lists, and a daily-rotating raw bar of east + west coast oysters by Chef Jon Bignelli (smoked octopus, hamachi, composed plates round it out). Happy hour drops a dozen oysters to $25 plus $1 off wine/beer, and weekend service runs until 1am, making it a strong late-night counterpoint to a tiki stop. The room is dim, lived-in, and built for ending a night with bivalves and a stirred drink.",
+    "url": "https://www.grandarmybar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Sat 14:00-01:00, Sun 14:00-22:00",
+    "notes": "336 State St on the Boerum Hill / Cobble Hill border, near BQE exits and Atlantic Ave parking (source: grandarmybar.com). Happy hour: Sat/Sun 2-4pm with $25 dozen oysters + $1 off wine/beer (source: grandarmybar.com). Raw bar features rotating east/west coast oyster selections; menu by Chef Jon Bignelli (source: nyctourism.com). For our Late Night cluster: pair as the seafood/cocktail anchor after a Red Hook or Sunset Park tiki stop — drive is short and parking is easier than Cobble Hill core because State St has metered + residential mix.",
+    "sources": [
+      {
+        "url": "https://www.grandarmybar.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/grand-army-boerum-hill/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/grand-army-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:45:11.527Z"
+  },
+  {
+    "id": "the-springs-greenpoint",
+    "name": "The Springs (PERMANENTLY CLOSED)",
+    "desc": "Former Greenpoint indoor-outdoor lounge with DJ nights and patio — permanently closed by 2026.",
+    "longDesc": "The Springs was an industrial-chic bar at 224 Franklin St in Greenpoint (often miscategorized as Williamsburg) with a large back garden, weekend DJ sets, and food via on-site truck/pop-ups. Multiple sources (Yelp, Foursquare, Tripadvisor) mark the venue as CLOSED as of January–April 2026, so it should not be routed to as an active itinerary stop. Use the enqueue suggestions below as live replacements for the same Williamsburg dinner+DJ gap.",
+    "url": "https://www.google.com/maps/place/224+Franklin+St,+Brooklyn,+NY+11222",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "n/a (closed)",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Permanently closed",
+    "notes": "Listed as CLOSED on Yelp (updated April 2026) and Foursquare (https://foursquare.com/v/the-springs/5ad26abbee712066bb51b505). Original address 224 Franklin St is in Greenpoint, NOT Williamsburg — the seed topic mislabels the zone. Phone (347) 227-7114 unanswered. Do not surface to visitors; replace with the live alternatives proposed in enqueue.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/the-springs-bar-and-lounge-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-springs-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/the-springs/5ad26abbee712066bb51b505",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d15551050-Reviews-The_Springs-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T17:47:53.270Z"
   }
 ]
