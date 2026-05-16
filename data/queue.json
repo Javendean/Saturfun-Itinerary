@@ -1,35 +1,5 @@
 [
   {
-    "topic": "L'Imprimerie Bushwick French bakery weekend pastry availability",
-    "reason": "Croissant-tier French bakery in Bushwick — adjacent zone, different European pastry tradition (French vs. Scandinavian) for itinerary variety",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:32:52.352Z"
-  },
-  {
-    "topic": "Spot Dessert Bar Brooklyn or Williamsburg Asian-fusion late-night dessert",
-    "reason": "Adds another Asian-flavor late-night dessert option to pair with the Soft Swerve slot in itineraries",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:35:06.460Z"
-  },
-  {
-    "topic": "Taiyaki NYC Williamsburg ice cream weekend hours",
-    "reason": "Fish-shaped matcha/black-sesame soft-serve in Williamsburg — direct Brooklyn alternative to Soft Swerve, fits the same Chinatown-flavor niche",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:35:06.460Z"
-  },
-  {
-    "topic": "Wenwen Greenpoint Taiwanese dessert late-night",
-    "reason": "Taiwanese shaved ice / dessert venue in Greenpoint expands the after-9pm Asian-dessert cluster the corpus is missing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:35:06.460Z"
-  },
-  {
-    "topic": "Lysee Patisserie Manhattan Korean-French dessert bar",
-    "reason": "Comparable plated dessert flight concept — useful as a Manhattan benchmark if a Williamsburg dessert track needs a competitor or alternate-night option",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:36:55.100Z"
-  },
-  {
     "topic": "Bibble & Sip Greenpoint or Midtown Asian-inspired cream puffs",
     "reason": "Lighter Japanese-leaning pastry counter that could fill the late-night dessert slot Patisserie Tomoko can't, since Bibble & Sip stays open later",
     "requestedBy": "agent",
@@ -4264,5 +4234,107 @@
     "reason": "Natural savory anchor in the same neighborhood to pair with a Fan-Fan stop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T16:34:41.812Z"
+  },
+  {
+    "topic": "Variety Coffee Roasters Bushwick — driving-friendly third-wave espresso",
+    "reason": "Natural Bushwick pairing within walking distance of L'Imprimerie; expands coffee corpus in the Bushwick cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:36:38.291Z"
+  },
+  {
+    "topic": "Ops Pizza Bushwick — natural-wine sourdough pizza dinner option",
+    "reason": "Anchors a Bushwick evening track after the morning bakery stop; weekend dinner gap in current corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:36:38.291Z"
+  },
+  {
+    "topic": "Mil Mundos Books Bushwick — bilingual indie bookstore browse",
+    "reason": "Quiet 30-min curious/chill slot to space out Bushwick food stops; underrepresented bookstore vibe in itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:36:38.291Z"
+  },
+  {
+    "topic": "Patisserie Tomoko Williamsburg Japanese-French dessert bar",
+    "reason": "Genuine Brooklyn Asian-fusion dessert match — Japanese-French pastry/dessert bar on Union Ave with mochi, matcha pastries, plated desserts; fills the actual Brooklyn-zone gap Spot Dessert Bar can't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:40:15.499Z"
+  },
+  {
+    "topic": "Nem's Japandi Bistro Williamsburg late-night matcha desserts",
+    "reason": "Japandi (Japanese-Scandinavian) cuisine with mochi, matcha, sake bar — late-night Asian-fusion dessert + drink option directly in Williamsburg cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:40:15.499Z"
+  },
+  {
+    "topic": "Cafe Kestrel or other Brooklyn matcha/wagashi late-night dessert spot",
+    "reason": "Round out Brooklyn-side Asian-dessert coverage so itineraries don't force a Manhattan crossing for every Asian-flavor sweet stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:40:15.499Z"
+  },
+  {
+    "topic": "Soft Swerve NYC Lower East Side ube/matcha soft serve weekend hours",
+    "reason": "Direct Asian-flavor soft-serve alternative — ube/black-sesame/matcha, similar Chinatown-flavor niche, closer Manhattan stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:42:21.581Z"
+  },
+  {
+    "topic": "Mochidoki Williamsburg or Brooklyn pop-up matcha mochi ice cream",
+    "reason": "Fill the Brooklyn-side Asian dessert gap left by Taiyaki Williamsburg's closure",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:42:21.581Z"
+  },
+  {
+    "topic": "Spot Dessert Bar Brooklyn matcha lava cake soft serve",
+    "reason": "Asian-fusion dessert in Brooklyn that fits the same artisan/photo-forward vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:42:21.581Z"
+  },
+  {
+    "topic": "Oddly Enough Pies or Van Leeuwen Williamsburg unusual soft serve flavors",
+    "reason": "Brooklyn-side photogenic dessert stop within 10-15 min drive of IC to replace the lost Williamsburg pin",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:42:21.581Z"
+  },
+  {
+    "topic": "Oxomoco Greenpoint wood-fired Mexican Michelin",
+    "reason": "Builds the Greenpoint cluster as a track — Michelin-starred dinner option on the same Manhattan Ave corridor as Wenwen, 5-min walk between them",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:44:42.558Z"
+  },
+  {
+    "topic": "Peter Pan Donut & Pastery Shop Greenpoint classic",
+    "reason": "Iconic morning/late-afternoon Greenpoint dessert stop — pairs with Wenwen to give the cluster a daytime sweet anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:44:42.558Z"
+  },
+  {
+    "topic": "Le Crocodile Wythe Hotel Greenpoint-Williamsburg border French bistro",
+    "reason": "Higher-end dinner alternative on the south end of the Greenpoint corridor; gives the track a romantic/special-occasion variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:44:42.558Z"
+  },
+  {
+    "topic": "WTF Coffee Lab or Variety Coffee Greenpoint third-wave",
+    "reason": "Corpus is light on Greenpoint daytime cafés; needed to make a full-day Greenpoint track viable rather than just a late-dinner detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:44:42.558Z"
+  },
+  {
+    "topic": "Librae Bakery Manhattan — Middle Eastern-French pastry boutique with plated dessert ambitions",
+    "reason": "Same 'chef-driven cross-cultural pastry gallery' archetype as Lysée; useful Manhattan benchmark #2 when scoping a Brooklyn dessert track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:47:06.793Z"
+  },
+  {
+    "topic": "Lysee's Brooklyn analogs: best plated dessert bar / pastry tasting in Williamsburg or Greenpoint 2026",
+    "reason": "Need to surface whether a Brooklyn equivalent even exists before committing to the dessert track concept",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:47:06.793Z"
+  },
+  {
+    "topic": "L'Appartement 4F Brooklyn Heights French viennoiserie + dessert program",
+    "reason": "Brooklyn-side French pastry contender already inside the 15-min IC radius via tunnel; direct candidate for the dessert anchor role Lysée would otherwise fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:47:06.793Z"
   }
 ]
