@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Yuan Yang dessert Bensonhurst Hong Kong tang shui",
-    "reason": "2174 86th St in Bensonhurst, ~15 min south of IC, open till 10pm daily — expands the corpus with a Hong Kong/Taiwanese tong sui option (grass jelly, tofu pudding, sago) that complements Win Son's bakery format.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:42:37.883Z"
-  },
-  {
-    "topic": "Spot Dessert Bar Manhattan Korean-Thai modern dessert",
-    "reason": "Manhattan-only but uniquely justified as the city's flagship modern Asian dessert tasting concept — worth evaluating for the 'special occasion' dessert slot even with the 25+ min drive.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:42:37.883Z"
-  },
-  {
-    "topic": "Re-research existing venue: Brooklyn Bridge Park Pier 6",
-    "reason": "Best car-friendly sunset pairing for Promenade — has the dedicated paid parking lot that solves Brooklyn Heights' street-parking problem and offers harbor + Statue of Liberty angle the Promenade can't.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:44:35.326Z"
-  },
-  {
-    "topic": "Re-research existing venue: DUMBO waterfront (Pebble Beach / Washington & Water)",
-    "reason": "Different sunset composition — Manhattan Bridge framing the Empire State Building rather than the FiDi skyline; 18 min from IC; pair with Empire Stores or Time Out Market for the dinner handoff.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:44:35.326Z"
-  },
-  {
-    "topic": "Re-research existing venue: Green-Wood Cemetery sunset visit (Battle Hill / Sunset Park overlook gate)",
-    "reason": "Closest of the four candidates to IC (~5 min) and has the highest elevation in Brooklyn for skyline views, but closes 7pm in summer / 5pm winter — needs an hours check before slotting into a 5 PM block.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:44:35.326Z"
-  },
-  {
     "topic": "Hotel Delmano late-night cocktails Williamsburg",
     "reason": "Classic craft cocktail room on Berry St with similar late-night energy at a slightly lower price tier — natural alt to Maison Premiere for the Late Night block.",
     "requestedBy": "agent",
@@ -1486,5 +1456,101 @@
     "reason": "Closer to IC (12-15 min) and runs a similar small-plate dessert flight format — strong same-track alternative when Tomoko is booked or closed",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T07:36:55.100Z"
+  },
+  {
+    "topic": "Fu Yuan Kitchen 2021 86th St Bensonhurst Cantonese",
+    "reason": "Savory pairing — a Cantonese dinner stop on the same 86th St Chinatown corridor that sets up the YuanYang dessert closer in one drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:39:06.166Z"
+  },
+  {
+    "topic": "Kam Hing Coffee Shop Bensonhurst sponge cake",
+    "reason": "Adds an inexpensive Cantonese sponge-cake / coffee anchor to expand the Bensonhurst cluster beyond a single dessert venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:39:06.166Z"
+  },
+  {
+    "topic": "Lucky Tea House 8th Ave Sunset Park dim sum boba",
+    "reason": "Adjacent Brooklyn Chinatown (Sunset Park 8th Ave) — closer to IC (~7 min) and broadens the Asian-dessert corpus with a different sub-neighborhood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:39:06.166Z"
+  },
+  {
+    "topic": "Lysée Patisserie Manhattan Korean-French pastry Flatiron",
+    "reason": "Genuinely Korean-led modern dessert flagship (which Spot is not) — fills the Korean dessert slot the original topic was reaching for; James Beard nominated.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:41:34.059Z"
+  },
+  {
+    "topic": "Soft Swerve Lower East Side ube black sesame Asian soft serve",
+    "reason": "Adjacent Manhattan Asian-dessert candidate with quick-stop format — different price band and faster duration than Spot, useful as a contrasting Manhattan option.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:41:34.059Z"
+  },
+  {
+    "topic": "Bonbon Lab Williamsburg modern bonbons dessert atelier",
+    "reason": "Brooklyn (Williamsburg) modern dessert candidate inside the 15-min IC drive radius — preferable to Spot for drive-friendliness and rounds out the dessert category with a Brooklyn entry.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:41:34.059Z"
+  },
+  {
+    "topic": "Fornino at Pier 6 rooftop pizza",
+    "reason": "Seasonal rooftop pizza+drinks directly on Pier 6 — converts the parking+sunset combo into a dinner stop without moving the car",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:43:29.931Z"
+  },
+  {
+    "topic": "Pilot oyster bar schooner at Pier 6",
+    "reason": "Floating historic schooner docked at Pier 6 for oysters and cocktails — unique waterfront drinks anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:43:29.931Z"
+  },
+  {
+    "topic": "Pier 5 picnic peninsula and harbor view lawn",
+    "reason": "Adjacent pier with grills, lawns, and another harbor angle — extends the Pier 6 parking lot into a longer waterfront circuit",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:43:29.931Z"
+  },
+  {
+    "topic": "Time Out Market New York (Empire Stores, 55 Water St, DUMBO)",
+    "reason": "Natural dinner handoff from Pebble Beach / Washington & Water — 21 stalls under one roof with a rooftop deck facing the Brooklyn Bridge; lets the DUMBO sunset track end indoors without a second drive.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:45:37.299Z"
+  },
+  {
+    "topic": "Cecconi's DUMBO (55 Water St, Empire Stores)",
+    "reason": "Sit-down Italian option in the same Empire Stores building as Time Out, for the romantic-track variant where the dinner stop needs to be a proper reservation venue, not a food hall.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:45:37.299Z"
+  },
+  {
+    "topic": "Jane's Carousel (Brooklyn Bridge Park, between Main & Old Dock St)",
+    "reason": "60-second walk from Pebble Beach inside the glass pavilion designed by Jean Nouvel — a low-effort, photogenic 'curious' stop that pads the DUMBO track for couples who want more than just the sunset shot.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:45:37.299Z"
+  },
+  {
+    "topic": "Brooklyn Bridge Park Pier 1 Greenway / Granite Prospect steps",
+    "reason": "Alternate DUMBO-adjacent sunset composition (skyline-forward, no bridge framing) one pier south — useful when Washington & Water is mobbed and the user needs a Plan B within the same 18-min drive from IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:45:37.299Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park sunset view (Sunset Park waterfront)",
+    "reason": "True on-water sunset alternative open past Green-Wood's 7pm close — fills the gap when sunset is later than the cemetery allows",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:47:39.155Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself) — 41st St & 7th Ave overlook",
+    "reason": "Free, no-gate-close skyline overlook ~10 min from IC; pairs as a backup for late sunset evenings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:47:39.155Z"
+  },
+  {
+    "topic": "Green-Wood Cemetery night tours & special events calendar",
+    "reason": "Green-Wood runs ticketed after-dark events (concerts, lantern tours) that legally extend access past 7pm — worth surfacing as a special-occasion track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:47:39.155Z"
   }
 ]
