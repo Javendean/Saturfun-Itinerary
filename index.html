@@ -628,16 +628,627 @@
                 0 24px 48px rgba(212, 175, 55, 0.25);
         }
 
+        /* ============================================================
+           GEOGRAPHIC-CLUSTER TRACK CARDS (v3) — extra fields per card:
+           cluster name (italic eyebrow), bookend transit (drive home),
+           tightness chip (avg walk min) plus a stop count.
+           ============================================================ */
+        .track-card .track-cluster {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: 0.82rem;
+            color: var(--text-muted);
+            margin: 0 0 0.4rem;
+            line-height: 1.3;
+        }
+        .track-card .track-tight {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            color: #2b6a3d;
+            background: rgba(43, 106, 61, 0.08);
+            border: 1px solid rgba(43, 106, 61, 0.2);
+            padding: 0.18rem 0.5rem;
+            border-radius: 30px;
+            font-weight: 600;
+            font-variant-numeric: tabular-nums;
+            margin-bottom: 0.3rem;
+            align-self: flex-start;
+        }
+        .track-card .track-bookend {
+            font-size: 0.68rem;
+            color: var(--text-muted);
+            font-weight: 500;
+            line-height: 1.4;
+            margin-top: 0.4rem;
+            font-variant-numeric: tabular-nums;
+            display: flex;
+            flex-direction: column;
+            gap: 0.15rem;
+        }
+        .track-card .track-bookend .bookend-row {
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+        .track-card .track-bookend .bookend-glyph {
+            font-size: 0.8rem;
+            opacity: 0.7;
+        }
+
+        /* Collapsed "↑ pick another track" pill — appears after selection on mobile,
+           lets users re-open the carousel without scrolling back up. */
+        .track-collapsed-pill {
+            display: none;
+            margin: 0.5rem auto 0;
+            background: transparent;
+            border: 1px solid rgba(0,0,0,0.2);
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.78rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            padding: 0.5rem 1.1rem;
+            border-radius: 30px;
+            cursor: pointer;
+            align-items: center;
+            gap: 0.4rem;
+            transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+        }
+        .track-collapsed-pill:hover {
+            background: var(--text-main);
+            color: #fff;
+            border-color: var(--text-main);
+        }
+        .track-collapsed-pill .pill-arrow { font-size: 0.9rem; }
+
+        /* ============================================================
+           SCHEDULE VIEW — vertical timeline of stops + transit segments.
+           Shown when a track is selected. Bookend rows are visually distinct
+           (outline dot) so the day arrives/departs feel like a frame.
+           ============================================================ */
+        .track-schedule {
+            max-width: 760px;
+            margin: 2rem auto 0;
+            padding: 0 2rem;
+            display: none;
+        }
+        .track-schedule[data-visible="true"] {
+            display: block;
+        }
+        .schedule-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 1.5rem;
+            padding-bottom: 1.25rem;
+            border-bottom: 1px solid rgba(0,0,0,0.08);
+            margin-bottom: 1.5rem;
+        }
+        .schedule-header-text { flex: 1; min-width: 0; }
+        .schedule-following {
+            display: block;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            color: var(--text-muted);
+            font-weight: 600;
+            margin-bottom: 0.45rem;
+        }
+        .schedule-track-name {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: clamp(1.5rem, 3vw, 1.95rem);
+            line-height: 1.15;
+            color: var(--text-main);
+            margin: 0 0 0.35rem;
+            font-weight: 600;
+        }
+        .schedule-cluster {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin: 0 0 0.45rem;
+            font-style: italic;
+            font-family: 'Playfair Display', serif;
+        }
+        .schedule-meta {
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            color: var(--text-muted);
+            margin: 0;
+            font-variant-numeric: tabular-nums;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+        .schedule-meta .tight-dot {
+            display: inline-block;
+            width: 0.5rem;
+            height: 0.5rem;
+            border-radius: 50%;
+            background: #2b9d3d;
+        }
+        .schedule-meta .modified-badge {
+            background: rgba(212, 175, 55, 0.18);
+            color: #8a6a1a;
+            padding: 0.18rem 0.5rem;
+            border-radius: 30px;
+            font-size: 0.62rem;
+            letter-spacing: 0.1em;
+            font-weight: 700;
+        }
+        .schedule-header-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+            flex-shrink: 0;
+        }
+        .schedule-reset, .schedule-clear {
+            background: transparent;
+            border: 1px solid rgba(0,0,0,0.2);
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.68rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            font-weight: 600;
+            padding: 0.4rem 0.85rem;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+            white-space: nowrap;
+        }
+        .schedule-reset:hover, .schedule-clear:hover {
+            background: var(--text-main);
+            color: #fff;
+            border-color: var(--text-main);
+        }
+
+        .schedule-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            position: relative;
+        }
+        .schedule-row {
+            display: grid;
+            grid-template-columns: 5.5rem 1.8rem 1fr;
+            gap: 0.85rem;
+            align-items: start;
+            padding: 0.6rem 0;
+            position: relative;
+            min-height: 44px;
+        }
+        .schedule-time {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: 0.95rem;
+            color: var(--text-main);
+            text-align: right;
+            padding-top: 0.15rem;
+            font-variant-numeric: tabular-nums;
+            line-height: 1.3;
+            white-space: nowrap;
+        }
+        .schedule-axis {
+            position: relative;
+            width: 1.8rem;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding-top: 0.25rem;
+        }
+        .schedule-axis::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: -0.6rem;
+            bottom: -0.6rem;
+            width: 1px;
+            background: rgba(212, 175, 55, 0.4);
+            transform: translateX(-50%);
+            z-index: 1;
+        }
+        .schedule-row:first-child .schedule-axis::before { top: 50%; }
+        .schedule-row:last-child .schedule-axis::before  { bottom: 50%; }
+        .schedule-dot {
+            position: relative;
+            z-index: 2;
+            width: 0.72rem;
+            height: 0.72rem;
+            border-radius: 50%;
+            background: var(--accent);
+            box-shadow: 0 0 0 4px var(--bg-color);
+            margin-top: 0.15rem;
+        }
+        .schedule-row[data-row-type="bookend"] .schedule-dot {
+            background: transparent;
+            border: 1.5px solid var(--accent);
+        }
+        .schedule-row[data-row-type="transit"] .schedule-dot {
+            background: transparent;
+            border: 1px dashed rgba(212, 175, 55, 0.5);
+            width: 0.45rem;
+            height: 0.45rem;
+            margin-top: 0.3rem;
+        }
+        .schedule-content {
+            min-width: 0;
+            padding-top: 0.05rem;
+        }
+        .schedule-venue {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 1rem;
+            cursor: pointer;
+            background: transparent;
+            border: none;
+            padding: 0.1rem 0;
+            text-align: left;
+            font-family: inherit;
+            color: inherit;
+            width: 100%;
+            border-radius: 4px;
+            min-height: 44px;
+            transition: background 0.18s ease;
+        }
+        .schedule-venue:hover {
+            background: rgba(212, 175, 55, 0.06);
+        }
+        .schedule-venue-main {
+            flex: 1;
+            min-width: 0;
+        }
+        .schedule-venue-name {
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            font-weight: 500;
+            color: var(--text-main);
+            line-height: 1.35;
+            margin: 0 0 0.18rem;
+            display: flex;
+            align-items: baseline;
+            gap: 0.4rem;
+            flex-wrap: wrap;
+        }
+        .schedule-venue-name .swapped-marker {
+            font-size: 0.6rem;
+            background: rgba(212, 175, 55, 0.18);
+            color: #8a6a1a;
+            padding: 0.1rem 0.4rem;
+            border-radius: 30px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            font-family: 'Inter', sans-serif;
+        }
+        .schedule-venue-desc {
+            font-size: 0.78rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+            margin: 0;
+            font-weight: 300;
+            display: -webkit-box;
+            -webkit-line-clamp: 1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .schedule-venue-aside {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 0.25rem;
+            flex-shrink: 0;
+        }
+        .schedule-venue-duration {
+            font-size: 0.72rem;
+            color: var(--text-muted);
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+            font-weight: 500;
+        }
+        .schedule-venue-caret {
+            font-size: 0.85rem;
+            color: var(--accent);
+            line-height: 1;
+            opacity: 0.7;
+        }
+        .schedule-row[data-row-type="bookend"] .schedule-bookend-label {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+        .schedule-row[data-row-type="bookend"] .schedule-bookend-label strong {
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            color: var(--text-main);
+            font-size: 0.95rem;
+            display: block;
+            margin-bottom: 0.1rem;
+        }
+        .schedule-row[data-row-type="transit"] .schedule-transit {
+            font-size: 0.74rem;
+            color: var(--text-muted);
+            font-family: 'Inter', sans-serif;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-variant-numeric: tabular-nums;
+            padding: 0.25rem 0;
+            line-height: 1.3;
+        }
+        .schedule-row[data-row-type="transit"] .schedule-transit .transit-glyph {
+            font-size: 0.85rem;
+            opacity: 0.75;
+        }
+
+        /* ============================================================
+           ALTERNATIVES BOTTOM SHEET — native mobile pattern.
+           Slides up from bottom, backdrop dimmer, drag handle at top.
+           Width responsive: full-width mobile, ~520px desktop center.
+           ============================================================ */
+        .alts-backdrop {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.45);
+            z-index: 38;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+        .alts-backdrop[data-visible="true"] {
+            opacity: 1;
+            pointer-events: auto;
+        }
+        .alts-sheet {
+            position: fixed;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: var(--bg-color);
+            color: var(--text-main);
+            border-top: 1px solid rgba(0,0,0,0.08);
+            box-shadow: 0 -20px 60px rgba(0,0,0,0.22);
+            z-index: 39;
+            display: flex;
+            flex-direction: column;
+            font-family: 'Inter', sans-serif;
+            transform: translateY(100%);
+            transition: transform 0.35s cubic-bezier(0.25, 1, 0.5, 1);
+            max-height: 80vh;
+            border-radius: 16px 16px 0 0;
+            overflow: hidden;
+        }
+        .alts-sheet[data-visible="true"] {
+            transform: translateY(0);
+        }
+        @media (min-width: 768px) {
+            .alts-sheet {
+                left: 50%;
+                right: auto;
+                width: 560px;
+                transform: translate(-50%, 100%);
+                border-radius: 16px 16px 0 0;
+            }
+            .alts-sheet[data-visible="true"] {
+                transform: translate(-50%, 0);
+            }
+        }
+        .alts-drag-handle {
+            width: 40px;
+            height: 4px;
+            background: rgba(0,0,0,0.18);
+            border-radius: 2px;
+            margin: 10px auto 0;
+            flex-shrink: 0;
+        }
+        .alts-header {
+            position: relative;
+            padding: 1rem 1.25rem 0.85rem;
+            border-bottom: 1px solid rgba(0,0,0,0.06);
+        }
+        .alts-title {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: 1.2rem;
+            margin: 0 2.5rem 0.2rem 0;
+            color: var(--text-main);
+            font-weight: 600;
+        }
+        .alts-subtitle {
+            font-size: 0.78rem;
+            color: var(--text-muted);
+            margin: 0;
+            font-variant-numeric: tabular-nums;
+        }
+        .alts-close {
+            position: absolute;
+            top: 0.85rem;
+            right: 1rem;
+            background: transparent;
+            border: none;
+            font-size: 1.2rem;
+            color: var(--text-muted);
+            cursor: pointer;
+            padding: 0.25rem 0.5rem;
+            line-height: 1;
+            width: 44px;
+            height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .alts-grid {
+            display: flex;
+            gap: 0.85rem;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            scroll-snap-type: x mandatory;
+            padding: 1rem 1.25rem 0.5rem;
+            flex: 1;
+            scrollbar-width: thin;
+        }
+        .alts-grid::-webkit-scrollbar { height: 6px; }
+        .alts-grid::-webkit-scrollbar-thumb { background: #d4d4d4; border-radius: 4px; }
+        .alts-card {
+            flex: 0 0 180px;
+            scroll-snap-align: start;
+            background: #fff;
+            border: 1px solid rgba(0,0,0,0.07);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            text-align: left;
+            font-family: 'Inter', sans-serif;
+        }
+        .alts-card-photo {
+            width: 100%;
+            height: 110px;
+            background: #f0f0f0;
+            object-fit: cover;
+            display: block;
+        }
+        .alts-card-body {
+            padding: 0.65rem 0.75rem 0.6rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.3rem;
+            flex: 1;
+        }
+        .alts-card-name {
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--text-main);
+            line-height: 1.3;
+            margin: 0;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .alts-card-meta {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            font-variant-numeric: tabular-nums;
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+            line-height: 1.2;
+        }
+        .alts-card-swap {
+            background: var(--text-main);
+            color: #fff;
+            border: none;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            font-weight: 600;
+            padding: 0.45rem 0.5rem;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 0.4rem;
+            transition: background 0.2s ease;
+            min-height: 36px;
+        }
+        .alts-card-swap:hover {
+            background: var(--accent);
+            color: var(--text-main);
+        }
+        .alts-empty {
+            padding: 1.5rem 1.25rem;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            font-style: italic;
+        }
+        .alts-footer {
+            padding: 0.85rem 1.25rem 1.1rem;
+            border-top: 1px solid rgba(0,0,0,0.06);
+            text-align: center;
+            background: #fff;
+        }
+        .alts-reset-track {
+            background: transparent;
+            border: 1px solid rgba(0,0,0,0.18);
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            font-weight: 600;
+            padding: 0.5rem 1.2rem;
+            border-radius: 30px;
+            cursor: pointer;
+            min-height: 36px;
+        }
+
         @media (max-width: 768px) {
             #track-picker { padding: 3.5rem 0 3rem; }
-            .track-card { width: 240px; }
-            .track-card .track-name { font-size: 1.2rem; }
-            .track-status-strip {
-                flex-direction: column;
-                align-items: flex-start;
-                margin: 0.75rem 1.25rem 0;
+            .track-scroll {
+                gap: 0.85rem;
+                padding: 1.5rem 1.25rem 1rem;
+                scroll-snap-type: x mandatory;
             }
-            .track-status-strip .status-actions { width: 100%; justify-content: space-between; }
+            .track-card {
+                width: 82vw;
+                max-width: 320px;
+                min-height: 220px;
+                scroll-snap-align: center;
+                flex: 0 0 auto;
+            }
+            .track-card .track-name { font-size: 1.2rem; }
+            .track-card .track-cluster { font-size: 0.78rem; }
+            .track-schedule {
+                padding: 0 1rem;
+                margin-top: 1.25rem;
+            }
+            .schedule-header {
+                flex-direction: column;
+                gap: 0.85rem;
+            }
+            .schedule-header-actions {
+                flex-direction: row;
+                width: 100%;
+            }
+            .schedule-row {
+                grid-template-columns: 4.5rem 1.6rem 1fr;
+                gap: 0.65rem;
+            }
+            .schedule-time { font-size: 0.85rem; }
+            .schedule-venue-name { font-size: 0.94rem; }
+            .schedule-venue-desc { font-size: 0.74rem; }
+            .schedule-venue-aside .schedule-venue-duration { font-size: 0.68rem; }
+            #track-picker.is-track-active .track-picker-intro,
+            #track-picker.is-track-active .track-scroll {
+                display: none;
+            }
+            #track-picker.is-track-active .track-collapsed-pill {
+                display: inline-flex;
+            }
+            #track-picker.is-track-expanded .track-picker-intro,
+            #track-picker.is-track-expanded .track-scroll {
+                display: block;
+            }
+            #track-picker.is-track-expanded .track-scroll {
+                display: flex;
+            }
+            #track-picker.is-track-expanded .track-collapsed-pill {
+                display: none;
+            }
         }
     </style>
 </head>
@@ -688,30 +1299,52 @@
             </div>
         </section>
 
-        <!-- CURATED DAY TRACKS — picker rendered by JS from `tracks` array. -->
+        <!-- CURATED DAY TRACKS — geographic clusters. Picker → schedule view → alternatives sheet. -->
         <section id="track-picker" aria-labelledby="track-picker-heading">
             <div class="track-picker-intro">
                 <span class="track-picker-eyebrow">Plan the day</span>
-                <h2 id="track-picker-heading" class="track-picker-headline">Six ways to spend the day.</h2>
-                <p class="track-picker-sub">Pick one to follow, or browse all sixty-eight options below.</p>
+                <h2 id="track-picker-heading" class="track-picker-headline">Six tight neighborhoods, six clean days.</h2>
+                <p class="track-picker-sub">Each track is a single walkable cluster — coffee to nightcap inside one neighborhood, with the morning drive from Flushing and the night drive home to Seaford bookended in. Tap any stop to swap it for a nearby alternative.</p>
             </div>
             <div class="track-scroll" id="track-scroll" role="tablist" aria-label="Curated day tracks">
                 <!-- Track cards injected via JS -->
             </div>
-            <div class="track-status-strip" id="track-status" role="status" aria-live="polite">
-                <div class="status-label">
-                    <span class="status-following">Following</span>
-                    <span class="status-track-name" id="status-track-name">—</span>
-                </div>
-                <div class="status-actions">
-                    <label class="status-toggle" title="Hide everything that isn't on this track">
-                        <input type="checkbox" id="status-hide-toggle">
-                        Show only my track
-                    </label>
-                    <button type="button" class="status-clear" id="status-clear">Clear</button>
-                </div>
+            <button type="button" id="track-collapsed-pill" class="track-collapsed-pill" aria-hidden="true">
+                <span class="pill-arrow">↑</span> Pick another track
+            </button>
+
+            <!-- Schedule view — vertical timeline rendered when a track is active. -->
+            <div id="track-schedule" class="track-schedule" data-visible="false" aria-live="polite">
+                <header class="schedule-header">
+                    <div class="schedule-header-text">
+                        <span class="schedule-following">Following</span>
+                        <h3 class="schedule-track-name" id="schedule-track-name">—</h3>
+                        <p class="schedule-cluster" id="schedule-cluster">—</p>
+                        <p class="schedule-meta" id="schedule-meta">—</p>
+                    </div>
+                    <div class="schedule-header-actions">
+                        <button type="button" class="schedule-reset" id="schedule-reset" hidden>↻ Reset</button>
+                        <button type="button" class="schedule-clear" id="schedule-clear">✕ Clear</button>
+                    </div>
+                </header>
+                <ol class="schedule-list" id="schedule-list" aria-label="Day timeline"></ol>
             </div>
         </section>
+
+        <!-- Alternatives bottom sheet. Hidden until a stop is tapped. -->
+        <div id="alts-backdrop" class="alts-backdrop" data-visible="false" aria-hidden="true"></div>
+        <aside id="alts-sheet" class="alts-sheet" data-visible="false" role="dialog" aria-modal="true" aria-labelledby="alts-title" aria-hidden="true">
+            <div class="alts-drag-handle" aria-hidden="true"></div>
+            <header class="alts-header">
+                <h3 id="alts-title" class="alts-title">Alternatives</h3>
+                <p id="alts-subtitle" class="alts-subtitle">—</p>
+                <button type="button" class="alts-close" id="alts-close" aria-label="Close alternatives">✕</button>
+            </header>
+            <div class="alts-grid" id="alts-grid"></div>
+            <footer class="alts-footer">
+                <button type="button" class="alts-reset-track" id="alts-reset-track">↻ Reset entire track</button>
+            </footer>
+        </aside>
 
         <!-- ITINERARY CONTAINER -->
         <section id="itinerary-list">
@@ -742,136 +1375,204 @@
     const fallbackGen = "images/abstract_glass_1774058250187.png";
 
     // ============================================================
-    // CURATED DAY TRACKS — six hand-designed paths through the 68
-    // venues below. Each track threads a coherent narrative
-    // (foodie / photo / game-day / chill / maximum / half-day) and
-    // pulls real place IDs from `itineraryData`. The picker UI lets
-    // users click one to dim everything else and see just that day.
+    // CURATED DAY TRACKS — GEOGRAPHIC CLUSTERS (v3).
+    // Each track is a TIGHT geographic cluster, NOT an activity-type theme.
+    // Per-segment transit between consecutive stops is the load-bearing
+    // constraint: walks ≤10 min preferred, drives ≤10 min target.
+    // Day bookends: 9:00 AM drive from 140-59 Ash Ave, Flushing →
+    // first stop; evening drive from last stop → 1331 Dale Ct, Seaford.
+    // Each stop carries an explicit transit segment so the schedule view
+    // can render the full timeline including the morning + evening drives.
     // ============================================================
     const tracks = [
         {
-            id: 'foodie-run',
-            name: 'The Foodie Run',
-            blurb: 'Yemeni pour-over → Japan Village → tacos → izakaya → egg tarts. Maximum food, minimum waiting in line.',
-            vibeIcon: '🍜',
-            estTotalMin: 460,
+            id: 'industry-city-anchor',
+            name: 'Industry City Anchor',
+            cluster: 'Industry City complex (Sunset Park 36th–41st St)',
+            vibeIcon: '🏭',
+            blurb: 'Spend the whole day inside the IC compound: French pastry, Japan Village, Sahadi\'s lunch, pétanque, anime arcade, izakaya, food-hall dessert. Almost zero transit between stops.',
+            driveFromFlushing: 30,
+            driveToSeaford: 30,
+            startTime: '9:00 AM',
+            arrivalTime: '9:30 AM',
+            endTime: '10:00 PM',
+            homeBy: '10:30 PM',
+            maxSegmentMin: 5,
+            avgSegmentMin: 3,
+            estTotalMin: 870,
             totalCost: '$$',
             stops: [
-                { checkpoint: '11:30 AM', placeId: 'yafa-cafe' },
-                { checkpoint: '12:30 PM', placeId: 'japan-village' },
-                { checkpoint: '2:00 PM',  placeId: 'tacos-el-bronco' },
-                { checkpoint: '5:00 PM',  placeId: 'bush-terminal-piers-park-sunset-park' },
-                { checkpoint: '6:30 PM',  placeId: 'wakuwaku' },
-                { checkpoint: '8:00 PM',  placeId: 'xin-fa-bakery' },
+                { time: '9:30 AM',  placeId: 'colson-patisserie',                              durationMin: 45, transit: '— arrival —',  transitMode: 'arrive', transitMin: 0 },
+                { time: '10:30 AM', placeId: 'japan-village',                                  durationMin: 75, transit: '3 min walk',   transitMode: 'walk',   transitMin: 3 },
+                { time: '12:00 PM', placeId: 'sahadi-s-at-industry-city-industry-city',       durationMin: 60, transit: '2 min walk',   transitMode: 'walk',   transitMin: 2 },
+                { time: '1:30 PM',  placeId: 'bookoff-ani-lab',                                durationMin: 45, transit: '4 min walk',   transitMode: 'walk',   transitMin: 4 },
+                { time: '2:30 PM',  placeId: 'carreau-club',                                   durationMin: 90, transit: '3 min walk',   transitMode: 'walk',   transitMin: 3 },
+                { time: '4:30 PM',  placeId: 'makers-guild',                                   durationMin: 45, transit: '2 min walk',   transitMode: 'walk',   transitMin: 2 },
+                { time: '5:30 PM',  placeId: 'brooklyn-game-knight',                           durationMin: 60, transit: '2 min walk',   transitMode: 'walk',   transitMin: 2 },
+                { time: '7:00 PM',  placeId: 'wakuwaku',                                       durationMin: 90, transit: '5 min walk',   transitMode: 'walk',   transitMin: 5 },
+                { time: '9:00 PM',  placeId: 'japan-village-food-hall',                        durationMin: 45, transit: '3 min walk',   transitMode: 'walk',   transitMin: 3 },
             ],
+            returnHome: { from: 'Industry City', to: 'Seaford', transit: '30 min drive via Belt Pkwy', transitMode: 'drive', transitMin: 30 },
         },
         {
-            id: 'photo-walk',
-            name: 'The Photo Walk',
-            blurb: 'Minimalist café, gallery hop, hilltop sunset, candlelit Oaxacan dinner, absinthe nightcap. The whole day shoots itself.',
-            vibeIcon: '📷',
-            estTotalMin: 540,
-            totalCost: '$$$',
+            id: 'sunset-park-strip',
+            name: 'Sunset Park Strip',
+            cluster: '8th Ave Chinatown + 4th/5th Ave + the actual park',
+            vibeIcon: '🌆',
+            blurb: 'Tadaima minimalist café, dim sum on 8th Ave, the hilltop park sunset, then back into the IC orbit for dinner. The diaspora-food-and-skyline day.',
+            driveFromFlushing: 32,
+            driveToSeaford: 32,
+            startTime: '9:00 AM',
+            arrivalTime: '9:32 AM',
+            endTime: '10:30 PM',
+            homeBy: '11:00 PM',
+            maxSegmentMin: 7,
+            avgSegmentMin: 5,
+            estTotalMin: 870,
+            totalCost: '$$',
             stops: [
-                { checkpoint: '11:30 AM', placeId: 'tadaima-coffee-sunset-park' },
-                { checkpoint: '12:30 PM', placeId: 'smack-mellon-dumbo' },
-                { checkpoint: '2:00 PM',  placeId: 'sahadi-s-at-industry-city-industry-city' },
-                { checkpoint: '5:00 PM',  placeId: 'sunset-park-the-actual-park-sunset-park' },
-                { checkpoint: '6:30 PM',  placeId: 'claro-gowanus' },
-                { checkpoint: '10:00 PM', placeId: 'maison-premiere-williamsburg' },
+                { time: '9:45 AM',  placeId: 'tadaima-coffee-sunset-park',                     durationMin: 45, transit: '— arrival —',  transitMode: 'arrive', transitMin: 0 },
+                { time: '10:45 AM', placeId: 'granitos-bakery-sunset-park',                    durationMin: 30, transit: '4 min drive',  transitMode: 'drive',  transitMin: 4 },
+                { time: '11:30 AM', placeId: 'park-asia-dim-sum-sunset-park',                  durationMin: 75, transit: '5 min drive',  transitMode: 'drive',  transitMin: 5 },
+                { time: '1:00 PM',  placeId: 'tacos-el-bronco',                                durationMin: 45, transit: '6 min drive',  transitMode: 'drive',  transitMin: 6 },
+                { time: '2:00 PM',  placeId: 'kai-feng-fu',                                    durationMin: 45, transit: '4 min drive',  transitMode: 'drive',  transitMin: 4 },
+                { time: '3:15 PM',  placeId: 'green-wood-cemetery-sunset-park',                durationMin: 90, transit: '6 min drive',  transitMode: 'drive',  transitMin: 6 },
+                { time: '5:00 PM',  placeId: 'sunset-park-the-actual-park-sunset-park',        durationMin: 60, transit: '4 min drive',  transitMode: 'drive',  transitMin: 4 },
+                { time: '6:15 PM',  placeId: 'bush-terminal-piers-park-sunset-park',           durationMin: 45, transit: '5 min drive',  transitMode: 'drive',  transitMin: 5 },
+                { time: '7:30 PM',  placeId: 'wakuwaku',                                       durationMin: 90, transit: '6 min drive',  transitMode: 'drive',  transitMin: 6 },
+                { time: '9:30 PM',  placeId: 'xin-fa-bakery',                                  durationMin: 30, transit: '7 min drive',  transitMode: 'drive',  transitMin: 7 },
             ],
+            returnHome: { from: 'Sunset Park', to: 'Seaford', transit: '32 min drive via Belt Pkwy', transitMode: 'drive', transitMin: 32 },
         },
         {
-            id: 'game-day',
-            name: 'The Game Day',
-            blurb: 'Bouldering, a paint bomb, shuffleboard, karaoke. High-energy from lunch until midnight — six people, one shared exhaustion.',
+            id: 'gowanus-game-night',
+            name: 'Gowanus Game Night',
+            cluster: 'Gowanus warehouses (3rd Ave + Carroll St + Union St)',
             vibeIcon: '🎯',
-            estTotalMin: 600,
+            blurb: 'Climbing → axe throwing → shuffleboard → Michelin Oaxacan → vinyl listening room. Six warehouses, all within a tight 3rd Ave corridor.',
+            driveFromFlushing: 35,
+            driveToSeaford: 35,
+            startTime: '11:30 AM',
+            arrivalTime: '12:05 PM',
+            endTime: '11:30 PM',
+            homeBy: '12:05 AM',
+            maxSegmentMin: 8,
+            avgSegmentMin: 5,
+            estTotalMin: 685,
             totalCost: '$$$',
             stops: [
-                { checkpoint: '2:00 PM',  placeId: 'tacos-el-bronco' },
-                { checkpoint: '3:30 PM',  placeId: 'beat-the-bomb' },
-                { checkpoint: '5:00 PM',  placeId: 'brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights' },
-                { checkpoint: '6:30 PM',  placeId: 'hometown-bar-b-que' },
-                { checkpoint: '8:00 PM',  placeId: 'japan-village-food-hall' },
-                { checkpoint: '10:00 PM', placeId: 'royal-palms-shuffleboard-club-gowanus' },
+                { time: '12:15 PM', placeId: 'movement-gowanus',                               durationMin: 90, transit: '— arrival —',  transitMode: 'arrive', transitMin: 0 },
+                { time: '2:00 PM',  placeId: 'threes-brewing-gowanus-gowanus',                 durationMin: 75, transit: '4 min drive',  transitMode: 'drive',  transitMin: 4 },
+                { time: '3:30 PM',  placeId: 'beat-the-bomb',                                  durationMin: 75, transit: '5 min drive',  transitMode: 'drive',  transitMin: 5 },
+                { time: '5:00 PM',  placeId: 'kick-axe-throwing',                              durationMin: 75, transit: '3 min drive',  transitMode: 'drive',  transitMin: 3 },
+                { time: '6:30 PM',  placeId: 'claro-gowanus',                                  durationMin: 90, transit: '4 min drive',  transitMode: 'drive',  transitMin: 4 },
+                { time: '8:30 PM',  placeId: 'royal-palms-shuffleboard-club-gowanus',          durationMin: 90, transit: '5 min drive',  transitMode: 'drive',  transitMin: 5 },
+                { time: '10:15 PM', placeId: 'public-records-gowanus',                         durationMin: 75, transit: '3 min drive',  transitMode: 'drive',  transitMin: 3 },
             ],
+            returnHome: { from: 'Gowanus', to: 'Seaford', transit: '35 min drive via Belt Pkwy', transitMode: 'drive', transitMin: 35 },
         },
         {
-            id: 'chill-day',
-            name: 'The Chill Day',
-            blurb: 'Long French breakfast, a gentle anime market, dumplings, a cemetery stroll, an early-Italian dinner. Home before late.',
-            vibeIcon: '🌿',
-            estTotalMin: 460,
+            id: 'red-hook-waterfront',
+            name: 'Red Hook Waterfront',
+            cluster: 'Red Hook waterfront (Pioneer to Sunny\'s, Van Brunt St spine)',
+            vibeIcon: '⚓',
+            blurb: 'Pioneer Works residency, BBQ on Van Brunt, key lime pie with the Statue of Liberty, an 1890 saloon for the bluegrass jam. Salty, low-key, walkable.',
+            driveFromFlushing: 35,
+            driveToSeaford: 35,
+            startTime: '12:00 PM',
+            arrivalTime: '12:35 PM',
+            endTime: '11:30 PM',
+            homeBy: '12:05 AM',
+            maxSegmentMin: 6,
+            avgSegmentMin: 4,
+            estTotalMin: 655,
             totalCost: '$$',
             stops: [
-                { checkpoint: '11:30 AM', placeId: 'colson-patisserie' },
-                { checkpoint: '12:30 PM', placeId: 'japan-village' },
-                { checkpoint: '2:00 PM',  placeId: 'kai-feng-fu' },
-                { checkpoint: '3:30 PM',  placeId: 'brooklyn-game-knight' },
-                { checkpoint: '5:00 PM',  placeId: 'green-wood-cemetery-sunset-park' },
-                { checkpoint: '6:30 PM',  placeId: 'frankies-457-spuntino-carroll-gardens' },
+                { time: '12:45 PM', placeId: 'red-hook-tavern-red-hook',                       durationMin: 60, transit: '— arrival —',  transitMode: 'arrive', transitMin: 0 },
+                { time: '2:00 PM',  placeId: 'pioneer-works-red-hook',                         durationMin: 90, transit: '5 min walk',   transitMode: 'walk',   transitMin: 5 },
+                { time: '3:45 PM',  placeId: 'hometown-bar-b-que-lunch-alt-red-hook',          durationMin: 45, transit: '6 min walk',   transitMode: 'walk',   transitMin: 6 },
+                { time: '4:45 PM',  placeId: 'steve-s-authentic-key-lime-pie-red-hook',        durationMin: 30, transit: '4 min walk',   transitMode: 'walk',   transitMin: 4 },
+                { time: '5:30 PM',  placeId: 'bush-terminal-piers-park-sunset-park',           durationMin: 60, transit: '5 min drive',  transitMode: 'drive',  transitMin: 5 },
+                { time: '7:00 PM',  placeId: 'claro-gowanus',                                  durationMin: 90, transit: '6 min drive',  transitMode: 'drive',  transitMin: 6 },
+                { time: '9:00 PM',  placeId: 'sunny-s-bar-red-hook',                           durationMin: 120, transit: '6 min drive',  transitMode: 'drive',  transitMin: 6 },
             ],
+            returnHome: { from: 'Red Hook', to: 'Seaford', transit: '35 min drive via Belt Pkwy', transitMode: 'drive', transitMin: 35 },
         },
         {
-            id: 'maximum-day',
-            name: 'The Maximum Day',
-            blurb: 'All nine checkpoints, all defaults, sunrise-to-late. The full Industry City pilgrimage, no shortcuts.',
-            vibeIcon: '🌅',
+            id: 'carroll-cobble',
+            name: 'Carroll Gardens & Cobble Hill',
+            cluster: 'Smith St + Court St + Atlantic Ave brownstones',
+            vibeIcon: '🍕',
+            blurb: 'Bagel breakfast on Atlantic, IPA at the OG taproom, Lucali pizza pilgrimage, gimlets at the Long Island Bar. Two brownstone blocks, one easy walking day.',
+            driveFromFlushing: 32,
+            driveToSeaford: 32,
+            startTime: '9:30 AM',
+            arrivalTime: '10:02 AM',
+            endTime: '11:00 PM',
+            homeBy: '11:32 PM',
+            maxSegmentMin: 8,
+            avgSegmentMin: 5,
             estTotalMin: 780,
             totalCost: '$$$',
             stops: [
-                { checkpoint: '10:15 AM', placeId: 'hollis-to-industry-city' },
-                { checkpoint: '11:30 AM', placeId: 'colson-patisserie' },
-                { checkpoint: '12:30 PM', placeId: 'japan-village' },
-                { checkpoint: '2:00 PM',  placeId: 'tacos-el-bronco' },
-                { checkpoint: '3:30 PM',  placeId: 'beat-the-bomb' },
-                { checkpoint: '5:00 PM',  placeId: 'sunset-park-the-actual-park-sunset-park' },
-                { checkpoint: '6:30 PM',  placeId: 'wakuwaku' },
-                { checkpoint: '8:00 PM',  placeId: 'japan-village-food-hall' },
-                { checkpoint: '10:00 PM', placeId: 'royal-palms-shuffleboard-club-gowanus' },
+                { time: '10:15 AM', placeId: 'buona-sera-bagels-en-route-on-atlantic-cobble-hill', durationMin: 30, transit: '— arrival —',  transitMode: 'arrive', transitMin: 0 },
+                { time: '11:00 AM', placeId: 'court-street-grocers-carroll-gardens-carroll-gardens', durationMin: 30, transit: '7 min walk',  transitMode: 'walk',   transitMin: 7 },
+                { time: '12:00 PM', placeId: 'maman-cobble-hill-cobble-hill',                  durationMin: 45, transit: '6 min walk',   transitMode: 'walk',   transitMin: 6 },
+                { time: '1:15 PM',  placeId: 'other-half-brewing-centre-st-carroll-gardens',   durationMin: 90, transit: '8 min walk',   transitMode: 'walk',   transitMin: 8 },
+                { time: '3:00 PM',  placeId: 'mia-s-bakery-cobble-hill',                       durationMin: 30, transit: '7 min walk',   transitMode: 'walk',   transitMin: 7 },
+                { time: '4:00 PM',  placeId: 'frankies-457-spuntino-carroll-gardens',          durationMin: 90, transit: '5 min walk',   transitMode: 'walk',   transitMin: 5 },
+                { time: '5:45 PM',  placeId: 'lucali-carroll-gardens',                         durationMin: 120, transit: '4 min walk',  transitMode: 'walk',   transitMin: 4 },
+                { time: '8:00 PM',  placeId: 'la-vara-cobble-hill',                            durationMin: 120, transit: '8 min walk',  transitMode: 'walk',   transitMin: 8 },
+                { time: '10:15 PM', placeId: 'the-long-island-bar-cobble-hill',                durationMin: 90, transit: '4 min walk',   transitMode: 'walk',   transitMin: 4 },
             ],
+            returnHome: { from: 'Cobble Hill', to: 'Seaford', transit: '32 min drive via Belt Pkwy', transitMode: 'drive', transitMin: 32 },
         },
         {
-            id: 'half-day',
-            name: 'The Half Day',
-            blurb: 'For friends arriving late — banh mi, axe throwing, bridge-park sunset, pizza pilgrimage, gimlets in a 50s diner.',
-            vibeIcon: '🌆',
-            estTotalMin: 420,
+            id: 'heights-dumbo',
+            name: 'Heights & DUMBO Promenade',
+            cluster: 'DUMBO galleries + Brooklyn Heights Promenade + Pier 6',
+            vibeIcon: '🌉',
+            blurb: 'DUMBO galleries to a Brooklyn Bridge sunset to a tiki cocktail nightcap above Gage & Tollner. The postcard waterfront day.',
+            driveFromFlushing: 38,
+            driveToSeaford: 40,
+            startTime: '11:00 AM',
+            arrivalTime: '11:38 AM',
+            endTime: '11:30 PM',
+            homeBy: '12:10 AM',
+            maxSegmentMin: 12,
+            avgSegmentMin: 7,
+            estTotalMin: 690,
             totalCost: '$$$',
             stops: [
-                { checkpoint: '2:00 PM',  placeId: 'ba-xuyen' },
-                { checkpoint: '3:30 PM',  placeId: 'kick-axe-throwing' },
-                { checkpoint: '5:00 PM',  placeId: 'brooklyn-heights-promenade-brooklyn-heights' },
-                { checkpoint: '6:30 PM',  placeId: 'lucali-carroll-gardens' },
-                { checkpoint: '10:00 PM', placeId: 'the-long-island-bar-cobble-hill' },
+                { time: '12:00 PM', placeId: 'smack-mellon-dumbo',                             durationMin: 60, transit: '— arrival —',  transitMode: 'arrive', transitMin: 0 },
+                { time: '1:15 PM',  placeId: 'a-i-r-gallery-dumbo',                            durationMin: 45, transit: '5 min walk',   transitMode: 'walk',   transitMin: 5 },
+                { time: '2:15 PM',  placeId: 'klompching-gallery-dumbo',                       durationMin: 30, transit: '3 min walk',   transitMode: 'walk',   transitMin: 3 },
+                { time: '3:00 PM',  placeId: 'brooklyn-heights-promenade-brooklyn-heights',    durationMin: 45, transit: '12 min walk',  transitMode: 'walk',   transitMin: 12 },
+                { time: '4:00 PM',  placeId: 'brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights', durationMin: 90, transit: '8 min walk', transitMode: 'walk',  transitMin: 8 },
+                { time: '6:00 PM',  placeId: 'sahadi-s-at-industry-city-industry-city',        durationMin: 60, transit: '12 min drive', transitMode: 'drive',  transitMin: 12 },
+                { time: '7:30 PM',  placeId: 'hometown-bar-b-que',                             durationMin: 75, transit: '11 min drive', transitMode: 'drive',  transitMin: 11 },
+                { time: '9:30 PM',  placeId: 'sunken-harbor-club-brooklyn-heights',            durationMin: 120, transit: '11 min drive', transitMode: 'drive', transitMin: 11 },
             ],
+            returnHome: { from: 'Brooklyn Heights', to: 'Seaford', transit: '40 min drive via Belt Pkwy', transitMode: 'drive', transitMin: 40 },
         },
     ];
 
+    // Bookend addresses surfaced in the schedule view header + footer rows.
+    const HOME_BASE = {
+        morning: { label: '140-59 Ash Ave, Flushing', short: 'Flushing' },
+        evening: { label: '1331 Dale Ct, Seaford',     short: 'Seaford'  },
+    };
+
     // Data dynamically generated with 100% verified original photos and official/Google Maps fallback URLs.
+    // NOTE: The day departs 140-59 Ash Ave, Flushing by car at ~9:00 AM. The morning checkpoint below
+    // collects on-the-way bagels + the IC parking anchor; each track's `driveFromFlushing` field surfaces
+    // the actual drive time in the schedule view bookend rows.
     const itineraryData = [
         {
-            time: "10:15 AM",
-            title: "The Commute",
-            description: "Gather your group at Hollis Station. Catch the LIRR to Jamaica, transfer to Atlantic Terminal, then take the D/N/R to 36th St. The journey sets the tone.",
+            time: "9:00 AM",
+            title: "Morning Drive: Coffee on the Way",
+            description: "Leave 140-59 Ash Ave, Flushing by car. Three optional bagel + breakfast stops on the route into Brooklyn, plus the Industry City parking anchor for when you arrive.",
             places: [
-                {
-                    id: "hollis-to-industry-city",
-                    name: "Hollis to Industry City",
-                    desc: "LIRR & Subway transit.",
-                    eta: "1hr 15m Transit",
-                    duration: "1hr 15m",
-                    url: "https://www.google.com/maps/search/?api=1&query=Hollis+LIRR+Station",
-                    originalPhoto: "https://alchetron.com/cdn/hollis-lirr-station-ed3f6a27-ff93-47e6-8e90-079a1232f6b-resize-750.jpg",
-                    generatedAnim: fallbackGen,
-                    zone: "transit",
-                    vibe: ["classic"],
-                    dietary: ["any"],
-                    priceBand: "$",
-                    isDefault: true,
-                    _inferred: ["duration", "zone", "vibe", "dietary", "priceBand"],
-                },
                 {
                     id: "industry-city-lot-b-parking-anchor-industry-city",
                     name: "Industry City Lot B (parking anchor)",
@@ -886,7 +1587,7 @@
                     vibe: ["chill"],
                     dietary: [],
                     priceBand: "$",
-                    isDefault: false,
+                    isDefault: true,
                     notes: "Enter at 2nd Ave between 36th & 37th. Arrive before 11 AM to lock a spot before the brunch crowd.",
                     why: "Free up to 4 hrs on weekends; secured paid lot $5/day past that; drops you at the building doorstep with bathroom + lockers",
                     sources: [{ url: "C:\\tmp\\saturfun-content-research.md", accessed: "2026-05-15T22:12:44.369Z" }],
@@ -2413,25 +3114,55 @@
     });
 
     // ============================================================
-    // TRACK PICKER — render cards from `tracks`, wire click-to-filter.
+    // TRACK PICKER + SCHEDULE VIEW + ALTERNATIVES SHEET (v3).
+    // Geographic-cluster tracks, per-stop swap, mobile-first carousel.
     // ============================================================
-    (function initTrackPicker() {
+    (function initTrackSystem() {
+        const pickerSection = document.getElementById('track-picker');
         const scrollEl = document.getElementById('track-scroll');
-        const statusEl = document.getElementById('track-status');
-        const statusName = document.getElementById('status-track-name');
-        const clearBtn = document.getElementById('status-clear');
-        const hideToggle = document.getElementById('status-hide-toggle');
+        const collapsedPill = document.getElementById('track-collapsed-pill');
+        const scheduleEl = document.getElementById('track-schedule');
+        const scheduleListEl = document.getElementById('schedule-list');
+        const scheduleNameEl = document.getElementById('schedule-track-name');
+        const scheduleClusterEl = document.getElementById('schedule-cluster');
+        const scheduleMetaEl = document.getElementById('schedule-meta');
+        const scheduleResetBtn = document.getElementById('schedule-reset');
+        const scheduleClearBtn = document.getElementById('schedule-clear');
+
+        const altsBackdrop = document.getElementById('alts-backdrop');
+        const altsSheet = document.getElementById('alts-sheet');
+        const altsTitle = document.getElementById('alts-title');
+        const altsSubtitle = document.getElementById('alts-subtitle');
+        const altsGrid = document.getElementById('alts-grid');
+        const altsCloseBtn = document.getElementById('alts-close');
+        const altsResetBtn = document.getElementById('alts-reset-track');
         if (!scrollEl) return;
 
-        // Build a quick lookup of placeId -> checkpointTime, so we can
-        // validate stops and find the first checkpoint of a chosen track.
+        // ---- Indices ------------------------------------------------------
+        // placeIndex: id -> { place, checkpoint } so we can look up venues
+        // for the schedule view + alternatives selection logic.
         const placeIndex = new Map();
         itineraryData.forEach(cp => {
             (cp.places || []).forEach(p => {
-                if (p && p.id) placeIndex.set(p.id, cp.time);
+                if (p && p.id) placeIndex.set(p.id, { place: p, checkpoint: cp.time });
             });
         });
 
+        // Total venue count for "All Options" reset card.
+        const totalVenueCount = placeIndex.size;
+        const checkpointCount = itineraryData.length;
+
+        // ---- State --------------------------------------------------------
+        // activeTrackId — '__all__' or a track.id.
+        // customStops — per-track override of stop placeIds (sparse). When
+        // a user swaps, we record { index -> placeId } so the original
+        // track.stops shape is preserved and we can show "modified" + reset.
+        let activeTrackId = '__all__';
+        let customStops = {};  // { [trackId]: { [stopIndex]: newPlaceId } }
+        let pendingAltStopIndex = null;
+        let lastFocusedEl = null;
+
+        // ---- Helpers ------------------------------------------------------
         const formatHrs = (mins) => {
             if (!mins || typeof mins !== 'number') return '';
             const h = Math.floor(mins / 60);
@@ -2441,49 +3172,70 @@
             return `${h}h ${m}m`;
         };
 
-        // Build the markup. First card is the "All Options" reset.
-        let html = `
-            <button type="button" class="track-card is-all-options" data-track-id="__all__" data-active="true" role="tab" aria-selected="true">
-                <span class="track-icon" aria-hidden="true">✦</span>
-                <div>
-                    <h3 class="track-name">All Options</h3>
-                    <p class="track-blurb">Browse every venue across all nine checkpoints — no filter applied.</p>
-                </div>
-                <div class="track-stats">
-                    <span>68 venues</span>
-                    <span class="track-sep">·</span>
-                    <span>9 checkpoints</span>
-                </div>
-            </button>
-        `;
+        const TRANSIT_GLYPHS = {
+            walk: '\u{1F6B6}',
+            drive: '\u{1F697}',
+            arrive: '\u{1F4CD}',
+        };
+        const transitGlyph = (mode) => TRANSIT_GLYPHS[mode] || '\u{27A4}';
 
-        tracks.forEach(track => {
-            const validStops = track.stops.filter(s => placeIndex.has(s.placeId));
-            const stopCount = validStops.length;
-            const timeLabel = formatHrs(track.estTotalMin);
-            html += `
-                <button type="button" class="track-card" data-track-id="${track.id}" role="tab" aria-selected="false">
-                    <span class="track-icon" aria-hidden="true">${track.vibeIcon || '◆'}</span>
+        const escapeHtml = (s) => {
+            if (s == null) return '';
+            return String(s).replace(/[&<>"']/g, ch => ({
+                '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+            }[ch]));
+        };
+
+        // ---- Track picker render -----------------------------------------
+        const renderPicker = () => {
+            let html = `
+                <button type="button" class="track-card is-all-options" data-track-id="__all__" data-active="true" role="tab" aria-selected="true">
+                    <span class="track-icon" aria-hidden="true">✦</span>
                     <div>
-                        <h3 class="track-name">${track.name}</h3>
-                        <p class="track-blurb">${track.blurb}</p>
+                        <h3 class="track-name">All Options</h3>
+                        <p class="track-cluster">Browse the full catalog</p>
+                        <p class="track-blurb">No track selected — every venue across every checkpoint is visible below.</p>
                     </div>
                     <div class="track-stats">
-                        <span>${stopCount} stops</span>
+                        <span>${totalVenueCount} venues</span>
                         <span class="track-sep">·</span>
-                        <span>~${timeLabel}</span>
-                        <span class="track-sep">·</span>
-                        <span>${track.totalCost}</span>
+                        <span>${checkpointCount} checkpoints</span>
                     </div>
                 </button>
             `;
-        });
 
-        scrollEl.innerHTML = html;
+            tracks.forEach(track => {
+                const stopCount = track.stops.filter(s => placeIndex.has(s.placeId)).length;
+                const timeLabel = formatHrs(track.estTotalMin);
+                const tightLabel = `${track.avgSegmentMin} min avg`;
+                html += `
+                    <button type="button" class="track-card" data-track-id="${escapeHtml(track.id)}" role="tab" aria-selected="false">
+                        <span class="track-icon" aria-hidden="true">${escapeHtml(track.vibeIcon || '◆')}</span>
+                        <span class="track-tight" title="Average transit time between consecutive stops">● ${escapeHtml(tightLabel)}</span>
+                        <div>
+                            <h3 class="track-name">${escapeHtml(track.name)}</h3>
+                            <p class="track-cluster">${escapeHtml(track.cluster)}</p>
+                            <p class="track-blurb">${escapeHtml(track.blurb)}</p>
+                        </div>
+                        <div class="track-bookend">
+                            <span class="bookend-row"><span class="bookend-glyph">\u{1F305}</span> Leave Flushing ${escapeHtml(track.startTime)} · ${track.driveFromFlushing} min drive</span>
+                            <span class="bookend-row"><span class="bookend-glyph">\u{1F31B}</span> Home in Seaford by ${escapeHtml(track.homeBy)}</span>
+                        </div>
+                        <div class="track-stats">
+                            <span>${stopCount} stops</span>
+                            <span class="track-sep">·</span>
+                            <span>~${escapeHtml(timeLabel)}</span>
+                            <span class="track-sep">·</span>
+                            <span>${escapeHtml(track.totalCost)}</span>
+                        </div>
+                    </button>
+                `;
+            });
 
-        let activeTrackId = '__all__';
-        let hideMode = false;
+            scrollEl.innerHTML = html;
+        };
 
+        // ---- Itinerary catalog filter ------------------------------------
         const allCheckpoints = () => document.querySelectorAll('#itinerary-list .itinerary-item');
         const allCards = () => document.querySelectorAll('#itinerary-list .option-card');
 
@@ -2498,25 +3250,22 @@
                 const pill = card.querySelector('.on-track-pill');
                 if (pill) pill.remove();
             });
-            if (statusEl) statusEl.setAttribute('data-visible', 'false');
         };
 
-        const applyTrack = (track) => {
-            // Bucket the track's stops by checkpoint time for O(1) lookup.
+        const applyCatalogFilter = (track, effectiveStops) => {
+            // Bucket the effective stops by checkpoint time.
             const stopsByCheckpoint = new Map();
-            const onTrackIds = new Set();
-            track.stops.forEach(s => {
-                if (!placeIndex.has(s.placeId)) return;
-                onTrackIds.add(s.placeId);
-                if (!stopsByCheckpoint.has(s.checkpoint)) {
-                    stopsByCheckpoint.set(s.checkpoint, new Set());
-                }
-                stopsByCheckpoint.get(s.checkpoint).add(s.placeId);
+            effectiveStops.forEach(s => {
+                const lookup = placeIndex.get(s.placeId);
+                if (!lookup) return;
+                const cpTime = lookup.checkpoint;
+                if (!stopsByCheckpoint.has(cpTime)) stopsByCheckpoint.set(cpTime, new Set());
+                stopsByCheckpoint.get(cpTime).add(s.placeId);
             });
 
             allCheckpoints().forEach(cp => {
                 cp.setAttribute('data-track-active', 'true');
-                cp.setAttribute('data-track-mode', hideMode ? 'hide' : 'fade');
+                cp.setAttribute('data-track-mode', 'fade');
                 const cpTime = cp.getAttribute('data-checkpoint-time');
                 const onTrackForThisCp = stopsByCheckpoint.get(cpTime);
 
@@ -2526,7 +3275,6 @@
                     card.classList.toggle('is-on-track', isOn);
                     card.classList.toggle('is-off-track', !isOn);
 
-                    // Drop any stale pill, then attach a fresh one on-track.
                     const stalePill = card.querySelector('.on-track-pill');
                     if (stalePill) stalePill.remove();
                     if (isOn) {
@@ -2538,30 +3286,304 @@
                     }
                 });
             });
-
-            if (statusEl && statusName) {
-                statusName.textContent = track.name;
-                statusEl.setAttribute('data-visible', 'true');
-            }
-
-            // Scroll to the first checkpoint that has a stop. Use a small
-            // offset so the section header reads comfortably under the picker.
-            const firstStop = track.stops.find(s => placeIndex.has(s.placeId));
-            if (firstStop) {
-                const slug = firstStop.checkpoint
-                    .toLowerCase()
-                    .replace(/[^a-z0-9]+/g, '-')
-                    .replace(/^-+|-+$/g, '');
-                const target = document.getElementById(`checkpoint-${slug}`);
-                if (target) {
-                    // setTimeout so the layout commits before scroll.
-                    setTimeout(() => {
-                        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                    }, 50);
-                }
-            }
         };
 
+        // ---- Effective stops (applies customStops overrides) -------------
+        const getEffectiveStops = (track) => {
+            const overrides = customStops[track.id] || {};
+            return track.stops.map((s, i) => {
+                if (overrides[i]) {
+                    return { ...s, placeId: overrides[i], _swapped: true };
+                }
+                return { ...s, _swapped: false };
+            });
+        };
+
+        const hasCustomStops = (track) => {
+            const overrides = customStops[track.id] || {};
+            return Object.keys(overrides).length > 0;
+        };
+
+        // ---- Schedule view render ----------------------------------------
+        const renderSchedule = (track) => {
+            const effectiveStops = getEffectiveStops(track);
+            const modified = hasCustomStops(track);
+
+            scheduleNameEl.textContent = track.name;
+            scheduleClusterEl.textContent = track.cluster;
+            const tightLabel = `● ${track.avgSegmentMin} min avg · ${track.maxSegmentMin} min max segment`;
+            const modifiedBadge = modified
+                ? '<span class="modified-badge">Modified</span>'
+                : '';
+            scheduleMetaEl.innerHTML = `<span class="tight-dot" aria-hidden="true"></span>${escapeHtml(tightLabel)}${modifiedBadge}`;
+            scheduleResetBtn.hidden = !modified;
+
+            // Build rows: morning bookend → for each stop: transit row + venue row → evening bookend.
+            const rows = [];
+            // Morning bookend.
+            rows.push({
+                type: 'bookend',
+                time: track.startTime,
+                primary: `Depart ${HOME_BASE.morning.label}`,
+                secondary: 'Day starts',
+            });
+            // Morning drive (transit row before the first stop).
+            rows.push({
+                type: 'transit',
+                time: '',
+                transit: `${track.driveFromFlushing} min drive`,
+                transitMode: 'drive',
+            });
+
+            effectiveStops.forEach((stop, i) => {
+                // Each stop after the first gets its own transit row above it
+                // (using the stop's own `transit` field).
+                if (i > 0 && stop.transitMode !== 'arrive') {
+                    rows.push({
+                        type: 'transit',
+                        time: '',
+                        transit: stop.transit,
+                        transitMode: stop.transitMode,
+                    });
+                }
+                const lookup = placeIndex.get(stop.placeId);
+                rows.push({
+                    type: 'venue',
+                    time: stop.time,
+                    placeId: stop.placeId,
+                    place: lookup ? lookup.place : null,
+                    durationMin: stop.durationMin,
+                    swapped: !!stop._swapped,
+                    stopIndex: i,
+                });
+            });
+
+            // Evening drive + bookend.
+            rows.push({
+                type: 'transit',
+                time: '',
+                transit: track.returnHome.transit,
+                transitMode: track.returnHome.transitMode,
+            });
+            rows.push({
+                type: 'bookend',
+                time: track.homeBy,
+                primary: `Home — ${HOME_BASE.evening.label}`,
+                secondary: 'Day complete',
+            });
+
+            // Render rows.
+            scheduleListEl.innerHTML = rows.map(row => {
+                if (row.type === 'bookend') {
+                    return `
+                        <li class="schedule-row" data-row-type="bookend">
+                            <div class="schedule-time">${escapeHtml(row.time)}</div>
+                            <div class="schedule-axis"><span class="schedule-dot" aria-hidden="true"></span></div>
+                            <div class="schedule-content">
+                                <div class="schedule-bookend-label">
+                                    <strong>${escapeHtml(row.primary)}</strong>
+                                    ${escapeHtml(row.secondary)}
+                                </div>
+                            </div>
+                        </li>
+                    `;
+                }
+                if (row.type === 'transit') {
+                    const glyph = transitGlyph(row.transitMode);
+                    return `
+                        <li class="schedule-row" data-row-type="transit">
+                            <div class="schedule-time"></div>
+                            <div class="schedule-axis"><span class="schedule-dot" aria-hidden="true"></span></div>
+                            <div class="schedule-content">
+                                <span class="schedule-transit"><span class="transit-glyph" aria-hidden="true">${glyph}</span>${escapeHtml(row.transit)}</span>
+                            </div>
+                        </li>
+                    `;
+                }
+                // venue row
+                if (!row.place) {
+                    return `
+                        <li class="schedule-row" data-row-type="venue">
+                            <div class="schedule-time">${escapeHtml(row.time)}</div>
+                            <div class="schedule-axis"><span class="schedule-dot" aria-hidden="true"></span></div>
+                            <div class="schedule-content"><em class="text-stone-400">Unknown venue (${escapeHtml(row.placeId)})</em></div>
+                        </li>
+                    `;
+                }
+                const place = row.place;
+                const desc = place.desc || place.longDesc || '';
+                const durLabel = row.durationMin ? `${row.durationMin} min stop` : (place.duration || '');
+                const swappedMarker = row.swapped ? '<span class="swapped-marker">Swap</span>' : '';
+                return `
+                    <li class="schedule-row" data-row-type="venue" data-stop-index="${row.stopIndex}">
+                        <div class="schedule-time">${escapeHtml(row.time)}</div>
+                        <div class="schedule-axis"><span class="schedule-dot" aria-hidden="true"></span></div>
+                        <div class="schedule-content">
+                            <button type="button" class="schedule-venue" data-stop-index="${row.stopIndex}" aria-label="${escapeHtml(place.name)} — tap to see alternatives">
+                                <div class="schedule-venue-main">
+                                    <p class="schedule-venue-name">${escapeHtml(place.name)}${swappedMarker}</p>
+                                    <p class="schedule-venue-desc">${escapeHtml(desc)}</p>
+                                </div>
+                                <div class="schedule-venue-aside">
+                                    <span class="schedule-venue-duration">${escapeHtml(durLabel)}</span>
+                                    <span class="schedule-venue-caret" aria-hidden="true">▾</span>
+                                </div>
+                            </button>
+                        </div>
+                    </li>
+                `;
+            }).join('');
+        };
+
+        // ---- Alternatives selection logic --------------------------------
+        // Same-zone first, then adjacent (when same-zone < 3). Excludes
+        // venues already in this track AND the current slot's venue. Sort
+        // by walking-distance heuristic (drive minutes from prev stop, or
+        // zone equality if prev unknown). Cap at 5.
+        const ZONE_ADJACENCY = {
+            'industry-city':    ['sunset-park', 'red-hook'],
+            'sunset-park':      ['industry-city', 'red-hook'],
+            'red-hook':         ['sunset-park', 'industry-city', 'gowanus'],
+            'gowanus':          ['carroll-gardens', 'cobble-hill', 'red-hook', 'park-slope'],
+            'carroll-gardens':  ['cobble-hill', 'gowanus', 'brooklyn-heights'],
+            'cobble-hill':      ['carroll-gardens', 'brooklyn-heights', 'gowanus'],
+            'brooklyn-heights': ['cobble-hill', 'dumbo', 'carroll-gardens'],
+            'dumbo':            ['brooklyn-heights', 'williamsburg'],
+            'williamsburg':     ['greenpoint', 'dumbo'],
+            'greenpoint':       ['williamsburg'],
+            'park-slope':       ['gowanus', 'prospect-heights'],
+            'prospect-heights': ['park-slope'],
+            'bed-stuy':         ['williamsburg', 'prospect-heights'],
+        };
+
+        const pickAlternatives = (track, stopIndex) => {
+            const effectiveStops = getEffectiveStops(track);
+            const currentStop = effectiveStops[stopIndex];
+            if (!currentStop) return [];
+            const currentLookup = placeIndex.get(currentStop.placeId);
+            const currentZone = currentLookup ? currentLookup.place.zone : null;
+            const trackPlaceIds = new Set(effectiveStops.map(s => s.placeId));
+            const prevStop = stopIndex > 0 ? effectiveStops[stopIndex - 1] : null;
+            const prevLookup = prevStop ? placeIndex.get(prevStop.placeId) : null;
+            const prevZone = prevLookup ? prevLookup.place.zone : null;
+
+            const allVenues = Array.from(placeIndex.values()).map(v => v.place);
+            const sameZone = allVenues.filter(p =>
+                p.zone === currentZone && !trackPlaceIds.has(p.id)
+            );
+
+            let candidates = sameZone;
+            if (candidates.length < 3 && currentZone) {
+                const adj = (ZONE_ADJACENCY[currentZone] || []);
+                const adjacent = allVenues.filter(p =>
+                    adj.includes(p.zone) && !trackPlaceIds.has(p.id) && p.zone !== currentZone
+                );
+                candidates = sameZone.concat(adjacent);
+            }
+
+            // Sort: same zone as prev stop first, then by name-stability.
+            candidates.sort((a, b) => {
+                const aPrev = a.zone === prevZone ? 0 : 1;
+                const bPrev = b.zone === prevZone ? 0 : 1;
+                if (aPrev !== bPrev) return aPrev - bPrev;
+                const aSame = a.zone === currentZone ? 0 : 1;
+                const bSame = b.zone === currentZone ? 0 : 1;
+                if (aSame !== bSame) return aSame - bSame;
+                return (a.name || '').localeCompare(b.name || '');
+            });
+
+            return candidates.slice(0, 5);
+        };
+
+        // Heuristic transit label for an alternative — same-zone = short walk,
+        // adjacent zone = drive. Marked "(approx)" because we don't compute
+        // precise geo distances client-side.
+        const altTransitLabel = (alt, prevPlace) => {
+            if (!prevPlace || !alt) return 'Nearby';
+            if (alt.zone === prevPlace.zone) return '\u{1F6B6} ~5 min (approx)';
+            return '\u{1F697} ~10 min (approx)';
+        };
+
+        // ---- Bottom sheet open / close -----------------------------------
+        const openAltsSheet = (track, stopIndex, triggerEl) => {
+            pendingAltStopIndex = stopIndex;
+            lastFocusedEl = triggerEl;
+
+            const effectiveStops = getEffectiveStops(track);
+            const currentStop = effectiveStops[stopIndex];
+            if (!currentStop) return;
+            const currentLookup = placeIndex.get(currentStop.placeId);
+            const currentPlace = currentLookup ? currentLookup.place : null;
+            const prevStop = stopIndex > 0 ? effectiveStops[stopIndex - 1] : null;
+            const prevLookup = prevStop ? placeIndex.get(prevStop.placeId) : null;
+            const prevPlace = prevLookup ? prevLookup.place : null;
+
+            altsTitle.textContent = currentPlace
+                ? `Alternatives near ${currentPlace.name}`
+                : 'Alternatives';
+            const durLabel = currentStop.durationMin ? `${currentStop.durationMin} min slot` : '';
+            altsSubtitle.textContent = `${currentStop.time}${durLabel ? ' · ' + durLabel : ''}`;
+
+            const alternatives = pickAlternatives(track, stopIndex);
+            if (alternatives.length === 0) {
+                altsGrid.innerHTML = '<p class="alts-empty">No nearby alternatives match this slot — stick with the current pick or try a different track.</p>';
+            } else {
+                altsGrid.innerHTML = alternatives.map(alt => {
+                    const img = alt.originalPhoto || alt.generatedAnim || fallbackGen;
+                    const transitText = altTransitLabel(alt, prevPlace);
+                    return `
+                        <article class="alts-card">
+                            <img class="alts-card-photo" src="${escapeHtml(img)}" alt="${escapeHtml(alt.name)}" loading="lazy" onerror="this.onerror=null; this.src='${escapeHtml(fallbackGen)}';">
+                            <div class="alts-card-body">
+                                <p class="alts-card-name">${escapeHtml(alt.name)}</p>
+                                <p class="alts-card-meta">${transitText}</p>
+                                <button type="button" class="alts-card-swap" data-swap-place-id="${escapeHtml(alt.id)}">Swap in</button>
+                            </div>
+                        </article>
+                    `;
+                }).join('');
+            }
+
+            altsBackdrop.setAttribute('data-visible', 'true');
+            altsBackdrop.removeAttribute('aria-hidden');
+            altsSheet.setAttribute('data-visible', 'true');
+            altsSheet.removeAttribute('aria-hidden');
+            const closeBtn = document.getElementById('alts-close');
+            if (closeBtn) setTimeout(() => closeBtn.focus(), 50);
+        };
+
+        const closeAltsSheet = () => {
+            altsBackdrop.setAttribute('data-visible', 'false');
+            altsBackdrop.setAttribute('aria-hidden', 'true');
+            altsSheet.setAttribute('data-visible', 'false');
+            altsSheet.setAttribute('aria-hidden', 'true');
+            if (lastFocusedEl && lastFocusedEl.focus) {
+                try { lastFocusedEl.focus(); } catch (e) {}
+            }
+            pendingAltStopIndex = null;
+        };
+
+        // ---- Swap handling -----------------------------------------------
+        const swapStop = (track, stopIndex, newPlaceId) => {
+            if (!customStops[track.id]) customStops[track.id] = {};
+            // If swapping back to the original, clear the override.
+            if (track.stops[stopIndex] && track.stops[stopIndex].placeId === newPlaceId) {
+                delete customStops[track.id][stopIndex];
+                if (Object.keys(customStops[track.id]).length === 0) delete customStops[track.id];
+            } else {
+                customStops[track.id][stopIndex] = newPlaceId;
+            }
+            renderSchedule(track);
+            applyCatalogFilter(track, getEffectiveStops(track));
+        };
+
+        const resetTrack = (track) => {
+            delete customStops[track.id];
+            renderSchedule(track);
+            applyCatalogFilter(track, getEffectiveStops(track));
+        };
+
+        // ---- Active card visual ------------------------------------------
         const setActiveCard = (trackId) => {
             scrollEl.querySelectorAll('.track-card').forEach(c => {
                 const isActive = c.getAttribute('data-track-id') === trackId;
@@ -2570,17 +3592,35 @@
             });
         };
 
+        // ---- Track selection ---------------------------------------------
         const handleSelection = (trackId) => {
             activeTrackId = trackId;
             setActiveCard(trackId);
+
             if (trackId === '__all__') {
                 clearFilter();
+                scheduleEl.setAttribute('data-visible', 'false');
+                pickerSection.classList.remove('is-track-active');
+                pickerSection.classList.remove('is-track-expanded');
                 return;
             }
             const track = tracks.find(t => t.id === trackId);
             if (!track) return;
-            applyTrack(track);
+
+            scheduleEl.setAttribute('data-visible', 'true');
+            renderSchedule(track);
+            applyCatalogFilter(track, getEffectiveStops(track));
+            pickerSection.classList.add('is-track-active');
+            pickerSection.classList.remove('is-track-expanded');
+
+            // Smooth-scroll the schedule into view.
+            setTimeout(() => {
+                scheduleEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 80);
         };
+
+        // ---- Event wiring ------------------------------------------------
+        renderPicker();
 
         scrollEl.addEventListener('click', (e) => {
             const card = e.target.closest('.track-card');
@@ -2590,18 +3630,61 @@
             handleSelection(trackId);
         });
 
-        if (clearBtn) {
-            clearBtn.addEventListener('click', () => handleSelection('__all__'));
-        }
-
-        if (hideToggle) {
-            hideToggle.addEventListener('change', (e) => {
-                hideMode = !!e.target.checked;
-                if (activeTrackId === '__all__') return;
-                const track = tracks.find(t => t.id === activeTrackId);
-                if (track) applyTrack(track);
+        if (collapsedPill) {
+            collapsedPill.addEventListener('click', () => {
+                pickerSection.classList.add('is-track-expanded');
             });
         }
+
+        if (scheduleClearBtn) {
+            scheduleClearBtn.addEventListener('click', () => handleSelection('__all__'));
+        }
+        if (scheduleResetBtn) {
+            scheduleResetBtn.addEventListener('click', () => {
+                const track = tracks.find(t => t.id === activeTrackId);
+                if (track) resetTrack(track);
+            });
+        }
+
+        scheduleListEl.addEventListener('click', (e) => {
+            const venueBtn = e.target.closest('.schedule-venue');
+            if (!venueBtn) return;
+            const idxAttr = venueBtn.getAttribute('data-stop-index');
+            if (idxAttr == null) return;
+            const stopIndex = parseInt(idxAttr, 10);
+            const track = tracks.find(t => t.id === activeTrackId);
+            if (!track) return;
+            openAltsSheet(track, stopIndex, venueBtn);
+        });
+
+        if (altsCloseBtn) altsCloseBtn.addEventListener('click', closeAltsSheet);
+        if (altsBackdrop) altsBackdrop.addEventListener('click', closeAltsSheet);
+        if (altsResetBtn) {
+            altsResetBtn.addEventListener('click', () => {
+                const track = tracks.find(t => t.id === activeTrackId);
+                if (track) {
+                    resetTrack(track);
+                    closeAltsSheet();
+                }
+            });
+        }
+
+        altsGrid.addEventListener('click', (e) => {
+            const swapBtn = e.target.closest('.alts-card-swap');
+            if (!swapBtn) return;
+            const newPlaceId = swapBtn.getAttribute('data-swap-place-id');
+            if (!newPlaceId || pendingAltStopIndex == null) return;
+            const track = tracks.find(t => t.id === activeTrackId);
+            if (!track) return;
+            swapStop(track, pendingAltStopIndex, newPlaceId);
+            closeAltsSheet();
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && altsSheet.getAttribute('data-visible') === 'true') {
+                closeAltsSheet();
+            }
+        });
     })();
 
     window.onload = () => {
