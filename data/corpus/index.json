@@ -11464,48 +11464,45 @@
   {
     "id": "royal-palms-shuffleboard-club",
     "name": "Royal Palms Shuffleboard Club",
-    "desc": "17,000 sq ft vintage-Florida shuffleboard hall in Gowanus — 10 regulation courts, tiki bar, rotating food trucks.",
-    "longDesc": "Brooklyn's shuffleboard institution: ten regulation courts in a warehouse decked out like a Miami senior club, with cabanas, tiki cocktails (guava rum punch, hand-shaken piña coladas), 8 craft beers on tap, and a rotating roster of food trucks parked outside. Court rental + drinks works for two-hour active/chill blocks; Saturdays run late, Sundays close at 8pm and are all-ages. Replaces the originally-suggested Mission Dolores in this slot — that bar closed permanently in 2021 and never actually had shuffleboard (it had pinball).",
-    "url": "https://www.royalpalmsshuffle.com/brooklyn",
-    "photoUrl": "",
+    "desc": "10 regulation shuffleboard courts in a 17,000 sq ft vintage-Florida bar on the Gowanus Canal — active dive energy minus the BQE haul.",
+    "longDesc": "Brooklyn's one-and-only shuffleboard bar packs 10 regulation courts, 8 cabana booths, full cocktail bar and rotating food trucks (recent: Amazigh) into a kitschy mid-century Florida-snowbird clubhouse. 21+ every day except 'Family Sundays' when all ages are welcome until 8pm. Closer-to-IC alternative to Brooklyn Bowl/The Gutter for the night-out 'active dive' slot — same competitive-bar-game vibe, walkable to Carroll Gardens/Park Slope dinner spots.",
+    "url": "https://www.royalpalmsbrooklyn.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5a6f528a8fd4d2dc09606287/9c2bffc8-df3a-4333-946a-030ad53083e7/royalpalms_05.19.24-00112.jpg",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "active",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "12 min",
+    "duration": "1.5-2 hr",
+    "driveFromIC": "11 min",
     "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-20:00",
-    "notes": "Topic originally cited 'Mission Dolores Park Bar Gowanus — outdoor beer garden with shuffleboard'; Mission Dolores at 249 4th Ave is permanently closed since 2021 and is being replaced by Seven Bridges (Hop Shop owners) (https://patch.com/new-york/parkslope/new-bar-headed-former-mission-dolores-space-park-slope). Royal Palms is the canonical Gowanus shuffleboard venue and the correct active/chill bucket candidate near IC. ~2.5 mi up 3rd Ave from Industry City (Sunset Park) to Union St; weekend street parking on Nevins/Bond/Sackett is workable, free Sundays. 21+ except Sundays (all-ages). Court rental is hourly with separate per-person price — call ahead or book online; food trucks rotate (recently Amazigh Food Truck). Indoor venue, not an outdoor beer garden — the 'outdoor' framing in the topic is incorrect.",
+    "notes": "514 Union St, Brooklyn NY 11215 — borderline Gowanus/Park Slope, ~11 min drive from Industry City via 3rd Ave/Hamilton Ave (Apple Maps). 10 regulation shuffleboard courts + 8 group cabana booths in a 17,000 sq ft space (royalpalmsbrooklyn.com). 21+ every day except 'Family Sundays' (royalpalmsbrooklyn.com). Rotating food trucks instead of in-house kitchen, full cocktail bar. Weekend street parking on Union/Nevins is feasible but plan for 5-10 min hunting; Gowanus has more open curb than Williamsburg. Booking courts in advance via the site is strongly recommended on Sat nights (Yelp reviews).",
     "sources": [
       {
         "url": "https://www.royalpalmsbrooklyn.com/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/nightlife/royal-palms-shuffleboard-club-gowanus/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T13:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-royal-palms-shuffleboard-brooklyn-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T13:35:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/mission-dolores-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.nyctourism.com/nightlife/royal-palms-shuffleboard-club-gowanus/",
+        "accessed": "2026-05-16T13:35:00Z"
       },
       {
-        "url": "https://patch.com/new-york/parkslope/new-bar-headed-former-mission-dolores-space-park-slope",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://maps.apple.com/place?place-id=I8D2B366153DF37F&address=514+Union+St%2C+Brooklyn%2C+NY+11215",
+        "accessed": "2026-05-16T13:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T12:57:16.726Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T13:42:29.748Z"
   },
   {
     "id": "brooklyn-strategist",
@@ -11993,5 +11990,203 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T13:29:30.839Z"
+  },
+  {
+    "id": "la-cigogne",
+    "name": "La Cigogne (CLOSED 2022)",
+    "desc": "[CLOSED] Former Alsatian bistro on Union St; owner relocated to Narrowsburg, NY in 2022.",
+    "longDesc": "La Cigogne ran for eight years at 215 Union St in Carroll Gardens (2014-2022) serving Alsatian classics — tarte flambée, hand-cut spätzle, and a tightly curated list of Riesling, Gewürztraminer and Pinot Blanc. Owner Damien closed the Brooklyn doors in 2022 and reopened in Narrowsburg, NY (Catskills), which is outside Industry City's drive radius. Do not surface in itinerary; retained as historical reference for the Alsatian corpus.",
+    "url": "https://www.lacigogneny.com/about-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "CLOSED PERMANENTLY (Brooklyn location)",
+    "notes": "Permanently closed at Brooklyn address in 2022 per owner statement on official site (https://www.lacigogneny.com/about-us). Yelp page tagged CLOSED (https://www.yelp.com/biz/la-cigogne-brooklyn). Surviving Narrowsburg location is ~110 mi from IC — out of scope. Originally opened Aug 2014 with gluten-free tarte flambée option (http://www.nyfjournal.com/2014/08/alsatian-cuisine-comes-carroll-gardens-la-cigogne/). Flag this entry as inactive in any UI filter; the Alsatian/regional-French slot in Carroll Gardens is now vacant — see enqueue for live replacements.",
+    "sources": [
+      {
+        "url": "https://www.lacigogneny.com/about-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/la-cigogne-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "http://www.nyfjournal.com/2014/08/alsatian-cuisine-comes-carroll-gardens-la-cigogne/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T13:32:04.302Z"
+  },
+  {
+    "id": "sunrise-mart-brooklyn",
+    "name": "Sunrise Mart Brooklyn",
+    "desc": "Largest Sunrise Mart in NYC — 20,000 sq ft Japanese grocery inside Japan Village at Industry City",
+    "longDesc": "Anchoring the Japan Village market-food hall hybrid since 2018, this is the biggest Sunrise Mart in the city, expanded from a 2,000-sq-ft Manhattan original into a 20,000-sq-ft Brooklyn flagship. Aisles run from fresh sushi-grade fish, shabu-shabu pork, and premium wagyu to a deep snack/candy/beverage wall (Pocky, Calbee, Ramune, matcha KitKats) plus housewares and bento supplies. The shelves themselves are the photo set — neon packaging, hand-lettered Japanese signage, and a glowing fish counter.",
+    "url": "https://sunrisemart.com/pages/visit-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "foodie",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "On-site within Industry City at 934 3rd Ave, Building B2 — no extra drive from IC anchor (industrycity.com). Sat 11:00–21:00, Sun 11:00–20:00 (sunrisemart.com). Pairs naturally with Japan Village food-hall stalls and Mokbar/Mr. Bing for a single shopping-then-lunch loop. Strong photo stop for snack-wall and seafood-case shots — best light early afternoon before weekend crowds peak (amny.com). Vegan/vegetarian: extensive tofu, instant ramen, mochi, and produce sections; no halal/GF certification.",
+    "sources": [
+      {
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/sunrise-mart/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://thebridgebk.com/brooklyn-finally-gets-a-japanese-marketplace-of-its-own/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:34:02.021Z"
+  },
+  {
+    "id": "mokbar-chelsea-market",
+    "name": "Mŏkbar (Chelsea Market — flagship)",
+    "desc": "Iron Chef finalist Esther Choi's flagship Korean ramen stall inside Chelsea Market food hall",
+    "longDesc": "The original Mokbar, tucked into Chelsea Market since 2014, is chef Esther Choi's flagship — bowls of gochujang pork broth ramen, kimchi ramen, bulgogi ramen, and a respectable vegan miso, plus Ho'Cakes (fried pork buns) and house kimchi. Counter seating inside one of NYC's busiest indoor food halls makes it a true rainy-day move. Note: the Brooklyn location at 212 Flatbush Ave (Gahm by Mokbar / Mokbar Brooklyn) closed permanently by September 2025; this is now the closest active Mokbar to Industry City.",
+    "url": "https://www.mokbar.com/chelsea-market",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat-Sun 12:00-21:00",
+    "notes": "Manhattan venue, uniquely justified: only active Mokbar after Park Slope closure (Patch, Sept 2025), and Chelsea Market itself is a defining indoor rainy-day foodie anchor. Drive IC → 75 9th Ave is ~22 min via Brooklyn-Battery Tunnel weekend midday; budget 30+ during peak. No on-site parking — use Chelsea garages on W 18th/W 16th ($25-40 weekend rate) or street meters. CAUTION ON FRAMING: original task tagged this as 'Korean-Mexican ramen stall in IC' — both halves are inaccurate. Mokbar is straight Korean (Choi is third-gen Korean-American), and there is no IC location (mokbar.com lists only Chelsea Market, Midtown Lexington, Newark, and Ms. Yoo LES). For a true IC rainy-day ramen anchor see enqueue items.",
+    "sources": [
+      {
+        "url": "https://www.mokbar.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.mokbar.com/chelsea-market",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/parkslope/iron-chef-finalist-s-korean-restaurant-quietly-closes-park-slope",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mokbar-brooklyn-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/mokbar-brings-its-popular-korean-soul-food-ramen-to-park-slope",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:37:59.899Z"
+  },
+  {
+    "id": "japan-village-events",
+    "name": "Japan Village at Industry City — Events Calendar",
+    "desc": "Japanese marketplace inside IC anchoring seasonal pop-ups: Summer Fest, Winter Wonderland, Spring Fair.",
+    "longDesc": "Japan Village occupies Industry City's Building 2 with a food hall, Yokocho Alley, Sunrise Mart, and 2nd-floor cultural spaces (tea ceremony, sewing classes, Bandai Namco Cross Store). It anchors three signature seasonal festivals — Summer Fest (August, free; noodle-eating, dance contests, watermelon splitting), Winter Wonderland Holiday Market (Yokocho Alley takeover with crafts + warm sake), and the Spring Fair (40+ vendors, March 7 2026, 11am–7pm). Recurring weekly: Oldies sake happy hour (Wed–Fri 5–7pm), Tea Ceremony (Mondays), Sew Mania classes (Thu–Sun).",
+    "url": "https://www.japanvillage.com/eventscalendar",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-120 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-21:00 (varies by event)",
+    "notes": "Address: 934 3rd Ave, Brooklyn NY 11232, inside Industry City Building 2 — same parking lot as the rest of IC (industrycity.com). Summer Fest is the big draw: thousands of attendees, free entry, food samples, live taiko + dance, contests with Japan-trip prizes (mommypoppins.com, brooklynnw.macaronikid.com). Spring Fair confirmed Sat Mar 7 2026, 11am–7pm, 40+ vendors (meetdaisy.co). Winter Wonderland is a Yokocho Alley holiday market — date TBA each year, check brooklynbridgeparents.com closer to November. Contact: 347-584-4578 / info@japanvillage.com. Itinerary tip: pair a festival visit with the Industry City courtyards (sumo, Memorial Day Music Fest, Rib King NYC all happen on the same campus in May 2026 per industrycity.com/events).",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eventscalendar",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/events/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://events.brooklynpaper.com/event/japan-village-summer-festival-returns-to-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://mommypoppins.com/new-york-city-kids/event/events/japan-village-summer-festival-in-industry-city",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgeparents.com/event/winter-wonderland-holiday-market-at-industry-citys-japan-village/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.meetdaisy.co/calendars/industry-city/events/japan-village-spring-fair",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://donyc.com/venues/japan-village-at-industry-city",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T13:40:26.661Z"
   }
 ]

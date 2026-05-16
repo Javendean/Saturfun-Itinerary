@@ -1,35 +1,5 @@
 [
   {
-    "topic": "La Cigogne Carroll Gardens Alsatian French wine bar",
-    "reason": "Regional French (Alsace) expands the bistro corpus beyond Provençal/Parisian defaults",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:33:17.450Z"
-  },
-  {
-    "topic": "Sunrise Mart Brooklyn (inside Japan Village)",
-    "reason": "Standalone grocery/photo stop within Japan Village — distinct enough to seed as its own micro-anchor for shopping-focused tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:35:21.632Z"
-  },
-  {
-    "topic": "Mokbar Industry City ramen",
-    "reason": "Adjacent Korean-Mexican ramen stall in IC — complementary indoor foodie anchor for rainy-day tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:35:21.632Z"
-  },
-  {
-    "topic": "Industry City Summer Fest / Japan Village events calendar",
-    "reason": "Seasonal pop-ups (Summer Fest, Winter Wonderland holiday market) drive weekend-specific itinerary variants",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:35:21.632Z"
-  },
-  {
-    "topic": "Royal Palms Shuffleboard Club Gowanus",
-    "reason": "Closer-to-IC retro-bar-game alternative (~10 min drive in Gowanus) — same 'active dive' energy with shuffleboard instead of bowling, fills the night-out slot without the BQE haul",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:37:36.696Z"
-  },
-  {
     "topic": "Brooklyn Bowl Williamsburg",
     "reason": "Polished bowling-plus-live-music counterpoint in the same zone; useful for a higher-budget night-out variant when groups want food + a show with their lanes",
     "requestedBy": "agent",
@@ -3310,5 +3280,101 @@
     "reason": "Smith Street neighbor with 2am kitchen — fills the post-dinner French slot Bar Bête doesn't cover",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T13:29:30.852Z"
+  },
+  {
+    "topic": "Bacchus Bistro & Wine Bar 409 Atlantic Ave Brooklyn",
+    "reason": "Active Bordeaux-native-owned French bistro with back garden and hundreds of regional French wines — direct replacement for the regional-French slot, ~10 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:32:04.314Z"
+  },
+  {
+    "topic": "Zimmi's Brooklyn South-of-France country cooking Maxime Pradie",
+    "reason": "Opened Dec 2024 with Provence-heritage chef (artichoke soup with foie gras, agneau en saupique) — fills the regional-French gap left by La Cigogne with a fresh, currently-operating venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:32:04.314Z"
+  },
+  {
+    "topic": "Maison Provence Brooklyn French bistro",
+    "reason": "Provence-focused bistro on the 2026 Brooklyn French short-list — expands corpus toward southern France rather than Paris-default",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:32:04.314Z"
+  },
+  {
+    "topic": "Mr. Bing Industry City (Beijing-style jianbing inside Japan Village food hall)",
+    "reason": "Adjacent food-hall stall completes a shopping+lunch loop with Sunrise Mart for foodie/curious tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:34:02.037Z"
+  },
+  {
+    "topic": "Family Mart-style Japanese snack tasting flight at Japan Village food hall",
+    "reason": "Curated walkthrough variant that turns the Sunrise Mart snack wall into a structured activity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:34:02.037Z"
+  },
+  {
+    "topic": "Cocoron / Hidden Pearl ramen alternatives within 10 min drive of IC",
+    "reason": "Need a strong Japanese ramen sit-down option to pair with Sunrise Mart shopping when food hall is overcrowded",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:34:02.037Z"
+  },
+  {
+    "topic": "Setagaya ramen at Japan Village (Industry City Building 4)",
+    "reason": "ACTUAL ramen anchor inside IC — Japanese food hall, indoor, walk to other IC vendors. Replaces the inaccurate 'Mokbar at IC' premise for rainy-day tracks.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:37:59.914Z"
+  },
+  {
+    "topic": "Japan Village food hall (Industry City)",
+    "reason": "Parent venue — 20,000 sq ft Japanese food hall with ~11 vendors (ramen, sushi, onigiri, karaage) + Sunrise Mart. Cluster anchor for an entire IC rainy-day track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:37:59.914Z"
+  },
+  {
+    "topic": "D-Jing K Korean Kitchen (Industry City Food Hall, Building 2)",
+    "reason": "Actual Korean stall inside IC — fills the 'Korean comfort at IC' role the task imagined Mokbar would play.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:37:59.914Z"
+  },
+  {
+    "topic": "Ms. Yoo (Lower East Side) — Esther Choi's other concept",
+    "reason": "If pursuing the Choi/Mokbar restaurant family, Ms. Yoo is the newer LES sibling and may justify a separate Manhattan corpus entry for date-night tracks.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:37:59.914Z"
+  },
+  {
+    "topic": "Oldies Japanese cocktail bar at Japan Village (269 36th St)",
+    "reason": "Standalone date-night anchor for romantic vibe — Wed–Fri sake/shochu happy hour 5–7pm makes it a planning lever distinct from the festivals",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:40:26.673Z"
+  },
+  {
+    "topic": "Industry City Memorial Day Music Fest + Rib King NYC May 2026",
+    "reason": "Concrete weekend programming on the IC campus that runs parallel to Japan Village seasonal pop-ups — drives multi-event itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:40:26.673Z"
+  },
+  {
+    "topic": "Brooklyn Kura sake brewery tours at Industry City",
+    "reason": "Pairs naturally with Japan Village foodie itineraries and offers a guided-tasting alternative when no festival is running",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:40:26.673Z"
+  },
+  {
+    "topic": "Bandai Namco Cross Store at Japan Village (52 35th St, 2F)",
+    "reason": "Rare US-mainland Bandai Namco retail/arcade footprint — distinct curious/photo draw that anchors anime-fan itinerary variants",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:40:26.673Z"
+  },
+  {
+    "topic": "Lavender Lake Gowanus backyard bar",
+    "reason": "Adjacent walkable bar (3 blocks from Royal Palms) with a large outdoor patio — extends the Gowanus track without driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:42:29.760Z"
+  },
+  {
+    "topic": "Insa Gowanus Korean BBQ + karaoke",
+    "reason": "Same Gowanus zone, complementary 'active foodie' anchor — BBQ + private karaoke rooms pair naturally with a Royal Palms shuffleboard night",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:42:29.760Z"
   }
 ]
