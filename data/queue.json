@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Japan Village inside Industry City — food hall + sake bar",
-    "reason": "Same IC courtyard cluster as Sahadi's and Carreau; extends the 'food crawl without driving' angle",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:31:01.440Z"
-  },
-  {
-    "topic": "Brooklyn Kura sake brewery at Industry City",
-    "reason": "Drinks-forward IC anchor; pairs with Sahadi's brunch as an afternoon pivot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:31:01.440Z"
-  },
-  {
-    "topic": "Sunset Park's Eighth Avenue dim sum corridor — best weekend pick",
-    "reason": "10-min drive from IC; expands the foodie-zone corpus beyond the IC building itself",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:31:01.440Z"
-  },
-  {
-    "topic": "Olivier Bistro Park Slope 4th Avenue classic French bistro",
-    "reason": "Closer to IC (~8 min drive), more classically Parisian than Provençal — useful contrast for a French track variant",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:33:17.450Z"
-  },
-  {
-    "topic": "Bar Bête Carroll Gardens Paris-inspired 50-seat bistro",
-    "reason": "Intimate Smith-area alternative if Levant is booked; covers the date-night French slot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:33:17.450Z"
-  },
-  {
     "topic": "La Cigogne Carroll Gardens Alsatian French wine bar",
     "reason": "Regional French (Alsace) expands the bistro corpus beyond Provençal/Parisian defaults",
     "requestedBy": "agent",
@@ -3256,5 +3226,89 @@
     "reason": "Cross-zone reference doc the itinerary view can link from every Brooklyn stop, not just Williamsburg.",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T13:19:04.230Z"
+  },
+  {
+    "topic": "Sushi Uesugi at Japan Village (omakase counter)",
+    "reason": "Adds a higher-end sit-down option inside the IC cluster for a romantic/foodie variant of the same track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:21:02.684Z"
+  },
+  {
+    "topic": "JTunes Karaoke at Japan Village",
+    "reason": "After-dinner activity that keeps the night on-site at IC without driving — pairs with Sake's Bar",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:21:02.684Z"
+  },
+  {
+    "topic": "Kuraichi sake & shochu shop at Japan Village",
+    "reason": "Take-home retail anchor; complements the food-crawl with a 'bring a bottle home' beat similar to Sahadi's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:21:02.684Z"
+  },
+  {
+    "topic": "Industry City Japan Village + Mitsuwa-style food hall pivot",
+    "reason": "Adjacent Japanese drinks/food cluster inside IC pairs naturally with Brooklyn Kura tour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:22:59.258Z"
+  },
+  {
+    "topic": "Other Half Brewing Industry City taproom",
+    "reason": "Beer counterpart to Brooklyn Kura's sake — alternative drinks anchor at IC for non-sake drinkers",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:22:59.258Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace (714 65th St, Sunset Park) — Michelin-listed Cantonese dim sum + seafood",
+    "reason": "Michelin Guide-listed alternative one block off the 8th Ave corridor; seafood-forward dim sum complements Bamboo Garden's roast-meat strength",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:25:29.676Z"
+  },
+  {
+    "topic": "Park Asia (6521 8th Ave, Sunset Park) — design-forward dim sum hall with floor-to-ceiling windows",
+    "reason": "Same corridor as Bamboo Garden but wins on ambiance/photo vibe (purple chairs, big windows) — fills the 'photo' vibe slot the corpus is light on for dim sum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:25:29.676Z"
+  },
+  {
+    "topic": "Pacificana (813 55th St, Sunset Park) — oldest dim sum hall in Sunset Park Chinatown",
+    "reason": "Historical anchor of the corridor; weekend dim sum 8am-3:30pm gives an earlier-window option for IC mornings before afternoon plans",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:25:29.676Z"
+  },
+  {
+    "topic": "Le Crocodile Williamsburg modern French brasserie at Wythe Hotel",
+    "reason": "Stronger destination French option for a Williamsburg-anchored variant; balances Olivier's neighborhood feel with a buzzier room",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:27:23.431Z"
+  },
+  {
+    "topic": "Bar Tabac Cobble Hill classic French bistro Smith Street",
+    "reason": "Another classic-Parisian comparable ~10 min from IC; useful for a Cobble Hill track with weekend brunch + sidewalk seating",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:27:23.431Z"
+  },
+  {
+    "topic": "Chez Moi Brooklyn Heights French bistro Atlantic Ave",
+    "reason": "Cozy Provençal-leaning bistro that contrasts directly with Olivier's classic Parisian register; rounds out a French-comparison set",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:27:23.431Z"
+  },
+  {
+    "topic": "Re-research existing venue: Chez Moi Brooklyn Heights French bistro",
+    "reason": "Another Smith-corridor French alternative for date-night French slot; checks if Heights option beats Carroll Gardens on parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:29:30.852Z"
+  },
+  {
+    "topic": "Le Crocodile Williamsburg Wythe Hotel brasserie",
+    "reason": "Higher-end French brasserie within 15 min of IC; useful upgrade tier above Bar Bête for special occasions",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:29:30.852Z"
+  },
+  {
+    "topic": "Bar Tabac Cobble Hill late-night French",
+    "reason": "Smith Street neighbor with 2am kitchen — fills the post-dinner French slot Bar Bête doesn't cover",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:29:30.852Z"
   }
 ]

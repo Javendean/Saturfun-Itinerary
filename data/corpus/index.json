@@ -6053,9 +6053,9 @@
   },
   {
     "id": "japan-village-industry-city",
-    "name": "Japan Village at Industry City",
-    "desc": "20,000-sq-ft Japanese marketplace inside IC: NYC's largest Sunrise Mart, food hall, sake shop.",
-    "longDesc": "Tucked inside Industry City's Building 4, Japan Village packs the city's biggest Sunrise Mart grocery alongside a 10-stall food hall (Ramen Setagaya tonkotsu, Hachi sushi-rice bowls, Panya Bakery's matcha pastries, Moriya yakitori, Handroll Bar) plus Kuraichi sake/whisky shop and Waku Waku izakaya. It's a self-contained Japanese mini-track — graze stalls for lunch, browse Japanese snacks and Hokkaido produce at Sunrise Mart, then pick up sake for later. Gets crowded on weekend afternoons; seating in the food hall is limited.",
+    "name": "Japan Village",
+    "desc": "20,000 sq ft Japanese food hall + sake bar inside Industry City — ramen, sushi, bento, grocery under one roof",
+    "longDesc": "A two-building Japanese marketplace in IC's Buildings 3 & 4 with 10+ food stalls (Ramen Setagaya, Handroll Bar, Hachi, Umami House, Moriya), full-service spots (Sushi Uesugi, Gyuya, Waku Waku), JTunes karaoke, and Sake's Bar pouring Japanese draft/cans, original cocktails, and sake flights. Sunrise Mart anchors the grocery side and Kuraichi handles the liquor wall — making it the densest Japanese food experience in NYC, all walkable from Sahadi's and Carreau without moving the car.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -6070,9 +6070,9 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min (inside IC)",
-    "hoursWeekend": "11:00-20:30",
-    "notes": "Located in Industry City Building 4 at 934 3rd Ave (japanvillage.com). Food hall hours Fri/Sat 11am-8:30pm, Sun 11am-7pm; Sunrise Mart grocery runs slightly later (yelp.com). 10+ stalls including Ramen Setagaya, Hachi, Moriya, Panya Bakery, Handroll Bar, Sake's Bar, plus Waku Waku 60-seat izakaya with tatami rooms (japanvillage.com). Kuraichi specializes in sake, shochu, Japanese whisky — good gift stop. Free IC garage parking on weekends. Pairs naturally with same-day Industry City Courtyard + Brooklyn Kura sake brewery as a Japanese-themed afternoon.",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-21:00 (Sake's Bar Fri-Sat 12:00-20:30)",
+    "notes": "Entrance at 934 3rd Ave, Buildings 3 & 4 (industrycity.com). Food hall Fri-Sat 11am-8:30pm, Sun 11am-7pm (japanvillage.com/eat-drink). Sake's Bar Fri-Sat 12-8:30pm, Sun 12-7:30pm, Happy Hour Fri 4-7pm (search snippet, japanvillage.com/eat-drink/sakes-bar). Pairs perfectly with the IC food-crawl loop — same parking, no driving between Sahadi's, Carreau, and Japan Village.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
@@ -6083,18 +6083,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "url": "https://www.japanvillage.com/eat-drink/sakes-bar",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
+        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T10:30:56.160Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:21:02.673Z"
   },
   {
     "id": "the-gutter-williamsburg",
@@ -11811,5 +11811,187 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T13:19:04.216Z"
+  },
+  {
+    "id": "brooklyn-kura",
+    "name": "Brooklyn Kura",
+    "desc": "America's first craft sake brewery — tap room at Industry City pouring rotating drafts and shochu cocktails",
+    "longDesc": "Brooklyn Kura is the country's first craft sake brewery, brewing junmai, junmai ginjo, and limited 'Number One' series sake in-house at Industry City's Building 6 since 2018 (tap room moved/expanded into Courtyard 5/6 in 2023). The taproom serves rotating sake on draft, bottle pours, shochu cocktails, and a Japanese-leaning snack menu — a perfect drinks-forward IC pivot after a Sahadi's brunch. Saturday flights run 12–9pm; guided brewery tours are bookable via UrbanSake.",
+    "url": "https://www.brooklynkura.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
+    "notes": "Located in Industry City Courtyard 5/6, Building 6, entrance 34 34th St (industrycity.com). Sake on tap rotates; shochu cocktail program is the bar's secondary draw (brooklynkura.com/pages/about). Walks zero minutes from Sahadi's, making it the natural afternoon pivot. Guided brewery tour + tasting bookable through UrbanSake (urbansake.com). Parties over 8 should email events@brooklynkura.com.",
+    "sources": [
+      {
+        "url": "https://www.brooklynkura.com/pages/about",
+        "accessed": "2026-05-16T13:30:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/brooklyn-kura/",
+        "accessed": "2026-05-16T13:30:00Z"
+      },
+      {
+        "url": "https://www.urbansake.com/all-sake-events/nyc-brooklyn-kura-guided-brewery-tour-and-sake-tasting-2026-04-10/",
+        "accessed": "2026-05-16T13:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T13:22:59.243Z"
+  },
+  {
+    "id": "bamboo-garden-sunset-park",
+    "name": "Bamboo Garden",
+    "desc": "Classic 8th Ave dim sum hall with weekend cart service until 2pm, 10 min south of IC.",
+    "longDesc": "Long-running Sunset Park / Borough Park dim sum house on the Eighth Avenue corridor, famous for roast meats and a full weekend push-cart parade of har gow, siu mai, rice noodle rolls, and pork ribs in black bean sauce. The carts run from opening until ~2pm on Saturday/Sunday — show up before noon to beat the line. Big banquet-hall energy, lazy-susan tables, easier weekend parking than any Manhattan Chinatown equivalent.",
+    "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "09:00-22:30 (dim sum carts until 14:00)",
+    "notes": "Address 6409 8th Ave, Brooklyn 11220 — south end of the Sunset Park / Borough Park Chinatown strip, straight shot down 3rd Ave from IC. Cart service is the draw; arrive 11:00-12:00 for peak variety and shortest wait (Yelp/Brokelyn). Phone (718) 238-1122. Street parking on 8th Ave or side streets (64th/65th) is usually findable on weekends — far easier than Manhattan Chinatown (Infatuation, Brokelyn). Vegetarian dumplings + turnip cakes available; not a strong halal/gluten-free option. Cash-friendly, cards accepted.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brokelyn.com/sunset-park-dim-sum/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/bamboo-garden",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/bamboo-garden-1",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:25:29.666Z"
+  },
+  {
+    "id": "olivier-bistro",
+    "name": "Olivier Bistro",
+    "desc": "Classic French bistro on 4th Ave with South-of-France roots and a generous weekend brunch.",
+    "longDesc": "Chef-owner Olivier Verdier (born in Pézenas, ex-Morandi/A Voce) runs a laid-back neighborhood French bistro at 469 4th Ave between 11th–12th, just over the Park Slope/Gowanus line. Menu leans South of France with Spanish/Italian accents — daily whole fish, oysters, steaks sold by the ounce, and a finisher of crème brûlée or moelleux au chocolat. Weekend brunch starts 10am Sat/Sun, which makes it the easiest classic-bistro stop from IC for a morning kickoff.",
+    "url": "https://olivierbistro.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "10:00-15:45 brunch, 17:00-22:45 dinner",
+    "notes": "469 4th Ave between 11th & 12th St, Brooklyn NY 11215; ph (718) 768-6600 (olivierbistro.com). Sat/Sun brunch 10:00am–3:45pm; dinner Fri–Sat until 10:45pm, Sun until 9:45pm (olivierbistro.com via Yelp). Owner Olivier Verdier is from Pézenas, South of France — kitchen has Spanish/Italian influences alongside classic bistro plates (novacircle.com). 4th Ave parking is realistic on weekend mornings; ~8 min drive from Industry City up 3rd/4th Ave. Useful French-track contrast vs. a more Provençal pick — leans classic Parisian comfort (steak, fish, crème brûlée).",
+    "sources": [
+      {
+        "url": "https://olivierbistro.com/",
+        "accessed": "2026-05-16T13:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/olivier-bistro-brooklyn",
+        "accessed": "2026-05-16T13:25:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/olivier-bistro",
+        "accessed": "2026-05-16T13:25:00Z"
+      },
+      {
+        "url": "https://www.novacircle.com/spots/north-america/united-states/new-york-state/brooklyn/jersey-city-nj/olivier-bistro-c95770",
+        "accessed": "2026-05-16T13:25:00Z"
+      },
+      {
+        "url": "https://www.jauntguide.com/destination/olivier-bistro-469-4th-ave-brooklyn-ny",
+        "accessed": "2026-05-16T13:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:27:23.416Z"
+  },
+  {
+    "id": "bar-bete-carroll-gardens",
+    "name": "Bar Bête",
+    "desc": "Narrow 50-seat Carroll Gardens bistro doing updated Paris/Montréal classics on Smith Street",
+    "longDesc": "Chef Marc St. Jacques (ex Ace Hotel, Auberge du Pommier) and partner Joe Ogrodnek run a buzzy, conversation-scaled 50-seater on Smith Street with a full bar, open kitchen, and sidewalk café in season. The menu reads like a love letter to neighborhood bistros across Paris, NYC, Montréal, and New Orleans — see the rolled omelette with peekytoe crab and seaweed butter, mushroom brioche with sherry butter, and Québécois bouilli with fork-tender short ribs (timeout.com).",
+    "url": "https://www.barbete.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5c796de692441bc73bc0666b/1577121157748-WRAGFB2I8AXNAYSPJ5L3/_DSC0900-Edit.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat-Sun dinner from 17:30 (call to confirm; hours not published on site)",
+    "notes": "Intimate Smith-area backup if Levant is booked. Reservations on barbete.com/reservations recommended — only 50 seats and the room books up on weekends. Street parking on Smith/Court is tight; nearest paid lot is the Atlantic Center garage (~7 min drive). Dishes range roughly $7-$29 (timeout.com). Vibe: 'buzzy but conversational, understated elegance, soft jazz' per GreenGrub and Time Out reviews.",
+    "sources": [
+      {
+        "url": "https://www.barbete.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/bar-bete",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.studioandprojects.co/projects/bar-bete",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://greengrub.blog/2024/10/07/bar-bete-review-cozy-french-dining-in-carroll-gardens/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T13:29:30.839Z"
   }
 ]
