@@ -1,41 +1,5 @@
 [
   {
-    "topic": "Flushing Chinatown food crawl: New World Mall food court + Tangoo + Joe's Steam Rice Roll",
-    "reason": "Multi-stop walking option for a Flushing food day; cheap, photogenic, distinct from anything in current Brooklyn-heavy corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:05:13.322Z"
-  },
-  {
-    "topic": "Discover venue: court-street-grocers-carroll-gardens (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId court-street-grocers-carroll-gardens",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:08:29.742Z"
-  },
-  {
-    "topic": "Discover venue: domino-park (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId domino-park",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:08:29.742Z"
-  },
-  {
-    "topic": "Discover venue: smack-mellon (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId smack-mellon",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:11:55.737Z"
-  },
-  {
-    "topic": "Discover venue: pioneer-works (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId pioneer-works",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:11:55.737Z"
-  },
-  {
-    "topic": "Discover venue: louis-valentino-jr-park-pier (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId louis-valentino-jr-park-pier",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:11:55.737Z"
-  },
-  {
     "topic": "Discover venue: public-records (referenced by itinerary-candidate)",
     "reason": "candidate stop references unknown venueId public-records",
     "requestedBy": "agent",
@@ -1846,5 +1810,101 @@
     "reason": "Cultural-context entry pairs well with the venue; could enqueue a kid-friendly demo or cookbook reference for itinerary lore cards",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T08:41:44.208Z"
+  },
+  {
+    "topic": "Nan Xiang Xiao Long Bao Flushing — flagship soup dumpling shop on Prince St",
+    "reason": "Most likely intended 'Tangoo' substitute; iconic XLB destination 2-block walk from New World Mall; photogenic basket shots fit foodie+photo vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:45:08.328Z"
+  },
+  {
+    "topic": "Old Street Pan Fried Dumpling 135-45 Roosevelt Ave Flushing",
+    "reason": "Alternate walking-crawl stop next door to New World Mall; sheng jian bao niche not in Brooklyn corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:45:08.328Z"
+  },
+  {
+    "topic": "Sky View Center mall + Asian dessert stops Flushing — parking + post-crawl boba/bingsu",
+    "reason": "Solves the parking question AND extends Flushing day with photogenic dessert stop (Meet Fresh, etc.); complements the savory crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:45:08.328Z"
+  },
+  {
+    "topic": "Schema gap: add `flushing` and `long-island-city` to zone enum",
+    "reason": "Multiple high-value Queens destinations (this crawl, future LIC waterfront) get mis-zoned to industry-city under current schema",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:45:08.328Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino Carroll Gardens (Court St Italian)",
+    "reason": "Sit-down dinner counterpart to CSG's sandwich lunch — same block, builds a Carroll Gardens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:47:03.199Z"
+  },
+  {
+    "topic": "Carroll Park Carroll Gardens (sandwich picnic spot)",
+    "reason": "Logical 5-min-walk pairing for eating CSG sandwiches outdoors on a weekend",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:47:03.199Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods Court St (Italian deli)",
+    "reason": "Older-school Italian deli a few blocks south — competing/complementary stop for a 'Court St food crawl' track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:47:03.199Z"
+  },
+  {
+    "topic": "A.I.R. Gallery DUMBO",
+    "reason": "Another free DUMBO nonprofit gallery within a 2-block walk — natural double-feature for an art track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:50:51.885Z"
+  },
+  {
+    "topic": "Jane's Carousel DUMBO",
+    "reason": "Iconic photo stop one block from Smack Mellon, fills a 20-min gap on a DUMBO cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:50:51.885Z"
+  },
+  {
+    "topic": "Empire Stores rooftop / Time Out Market Brooklyn",
+    "reason": "Food + view anchor that closes a DUMBO mini-track after gallery hopping.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:50:51.885Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook",
+    "reason": "iconic Red Hook food anchor 5 min from Pioneer Works — completes a curious+foodie track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:52:38.766Z"
+  },
+  {
+    "topic": "Sunny's Bar Red Hook",
+    "reason": "historic waterfront dive bar with live music, pairs as evening cap after Pioneer Works",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:52:38.766Z"
+  },
+  {
+    "topic": "Louis Valentino Jr. Park & Pier",
+    "reason": "Statue of Liberty view + photo stop 8 min from Pioneer Works, fills photo vibe within the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:52:38.766Z"
+  },
+  {
+    "topic": "Steve's Authentic Key Lime Pie Red Hook",
+    "reason": "literal next-door pairing with Valentino Pier; iconic Red Hook dessert stop with the Swingle on a stick",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:54:27.500Z"
+  },
+  {
+    "topic": "Red Hook Boaters free kayaking program",
+    "reason": "active waterfront option that could anchor a Red Hook track stop on summer weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:54:27.500Z"
+  },
+  {
+    "topic": "Pioneer Works Red Hook art center",
+    "reason": "fills the 'art' slot in a Red Hook geographic track within 5 min of Valentino Pier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:54:27.500Z"
   }
 ]

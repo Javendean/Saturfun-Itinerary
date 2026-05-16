@@ -8181,5 +8181,199 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T08:41:44.202Z"
+  },
+  {
+    "id": "flushing-chinatown-crawl",
+    "name": "Flushing Chinatown Food Crawl",
+    "desc": "Walking crawl: New World Mall food court, a Roosevelt Ave Chinese stop, and Joe's Steam Rice Roll.",
+    "longDesc": "Drive out to Flushing (~35 min from IC) for the densest Chinese food block in NYC. Park at Sky View Center or Municipal Lot 1, then walk a tight loop: Joe's Steam Rice Roll on the ground floor of 136-20 Roosevelt Ave for stone-milled cheung fun, downstairs to New World Mall's 32-stall basement food court for hand-pulled noodles and crab claypot, then a few doors down for dumplings or XLB. Cheap, photogenic, distinct from anything in the Brooklyn corpus.",
+    "url": "https://www.newworldmallnyc.com/food-court",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "90-120 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "10:00-21:00",
+    "notes": "ACTUAL LOCATION: Flushing, Queens — NOT Industry City zone (schema lacks a Flushing option; queue maintainer should add `flushing` to the zone enum). Drive is 30-45 min depending on BQE/Grand Central Pkwy traffic. Joe's Steam Rice Roll at 136-20 Roosevelt Ave grinds rice on imported stones, cash-only, Sun 10:00-20:30 (joessteamriceroll yelp). New World Mall food court same address, basement level, 10:00-22:00 daily — try Stall L25 dumplings and Pang Dong Lai crab claypot (yelp/airial.travel). The third stop 'Tangoo' did NOT surface in search — likely the user meant Tang Restaurant on Northern Blvd (Korean, not walking distance, 1mi north) OR a Roosevelt Ave dumpling spot like Nan Xiang Xiao Long Bao or Old Street Pan Fried Dumpling — recommend confirming with user before locking. Parking: Sky View Center garage on College Point Blvd ($) or Municipal Lot 1 on Linden Place; tight on weekends, arrive before 12:00.",
+    "sources": [
+      {
+        "url": "https://www.newworldmallnyc.com/food-court",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/joes-steam-rice-roll-flushing-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/new-world-mall-food-court-flushing",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/joes-steam-rice-roll/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.airial.travel/attractions/united-states/new-world-mall-food-court-FTEelQ5A",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:45:08.319Z"
+  },
+  {
+    "id": "court-street-grocers-carroll-gardens",
+    "name": "Court Street Grocers",
+    "desc": "Cult-favorite Carroll Gardens sandwich shop and provisions store with weekend lines worth braving.",
+    "longDesc": "The Court St flagship is the original — a tight, sunlit corner store stacked with house-cured meats, oddball pantry imports, and a counter turning out hot Italian Combos, the Mighty Mighty, and seasonal specials. Cash-and-carry only seating, so grab sandwiches and take them to Carroll Park or eat them on the drive between Carroll Gardens and Red Hook. Open 7 days, 8am-5pm, which makes it a reliable mid-day fuel stop on a driving itinerary.",
+    "url": "https://www.courtstreetgrocers.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "Flagship at 485 Court St, Brooklyn NY 11231 (courtstreetgrocers.com/contact-hours-csg). Sandwiches are the headline — the Italian Combo and Mighty Mighty are the staples; menu rotates seasonally. Weekend parking on Court St and surrounding side streets is metered but generally findable; alternate-side rules suspended Sundays. Closes hard at 5pm so this is a lunch or late-afternoon stop, not dinner. 12-min drive from Industry City via Hamilton Ave / Smith St (Google Maps).",
+    "sources": [
+      {
+        "url": "https://www.courtstreetgrocers.com/contact-hours-csg",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:47:03.193Z"
+  },
+  {
+    "id": "smack-mellon",
+    "name": "Smack Mellon",
+    "desc": "Nonprofit DUMBO gallery in a converted Civil War-era boiler building; free contemporary art shows.",
+    "longDesc": "Smack Mellon is a free, nonprofit contemporary art space at 92 Plymouth St in DUMBO, housed in a soaring 19th-century industrial building with exposed brick and clerestory windows. It supports emerging and under-recognized artists through studios, mentorship, and rotating exhibitions, and is a quick stop pairing well with Brooklyn Bridge Park, Time Out Market, or Jacques Torres next door.",
+    "url": "https://smackmellon.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "12:00-18:00 (Sat-Sun); closed Mon-Tue",
+    "notes": "Free admission, Wed-Sun 12-6pm (smackmellon.org). Cobblestone DUMBO block, street parking tight on weekends — try the Brooklyn Bridge Park lots at Pier 5/6 or paid garage at 99 Plymouth. Pairs with Jane's Carousel and the Washington St Manhattan Bridge photo spot one block north.",
+    "sources": [
+      {
+        "url": "https://smackmellon.org/",
+        "accessed": "2026-05-16T08:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T08:50:51.877Z"
+  },
+  {
+    "id": "pioneer-works",
+    "name": "Pioneer Works",
+    "desc": "Free Red Hook art + science center with rotating exhibitions, garden, and weekend programming",
+    "longDesc": "A multidisciplinary cultural center inside a 25,000 sq ft former ironworks at 159 Pioneer Street, hosting contemporary art exhibitions, a sculpture garden, residencies, music sets, and public science talks. Galleries and garden are free and open Wed–Sun, 12–6pm, with the bulk of programming (~85% of funds) kept free or affordable. Easy 10–12 min drive from Industry City and a natural anchor for a Red Hook track that pairs well with food/drink on Van Brunt.",
+    "url": "https://pioneerworks.org/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "12:00-18:00",
+    "notes": "159 Pioneer St, Red Hook. Galleries + garden free, Wed–Sun 12–6pm (pioneerworks.org/visit). Ticketed concerts/Second Sundays run separately — check calendar before slotting. Street parking on Pioneer/Van Brunt usually open on weekends; pairs naturally with Hometown BBQ, Brooklyn Crab, or Sunny's nearby.",
+    "sources": [
+      {
+        "url": "https://pioneerworks.org/visit",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/pioneer-works-red-hook",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:52:38.760Z"
+  },
+  {
+    "id": "louis-valentino-jr-park-pier",
+    "name": "Louis Valentino Jr. Park & Pier",
+    "desc": "Red Hook waterfront pier with the closest land-based front view of the Statue of Liberty.",
+    "longDesc": "Small flower-filled park on the Red Hook waterfront with a pier jutting straight at the Statue of Liberty, plus sightlines to Governors Island, Lower Manhattan, and Staten Island. Tiny sandy beach, grassy lounging spots, and free summer kayaking on Thursdays/Sundays via Red Hook Boaters. Pair it with a slice from Steve's Authentic Key Lime Pie a block away.",
+    "url": "https://www.nycgovparks.org/parks/valentino-pier",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free public NYC park; no restrooms on-site. Street parking on Coffey St and Ferris St usually findable on weekends — Red Hook has no subway so parking pressure is lower than the rest of Brooklyn (NYC Parks). Best light is golden hour facing west across the harbor (Atlas Obscura). Red Hook Boaters offer free kayak rides summer Thursdays/Sundays.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T08:54:27.493Z"
   }
 ]
