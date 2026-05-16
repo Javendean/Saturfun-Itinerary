@@ -8394,87 +8394,84 @@
   {
     "id": "pioneer-works",
     "name": "Pioneer Works",
-    "desc": "Free contemporary art and science center in a converted Red Hook ironworks, with exhibitions and garden.",
-    "longDesc": "Pioneer Works is a nonprofit cultural center occupying a cavernous 19th-century ironworks at 159 Pioneer St in Red Hook. Galleries and the back garden are open Wednesday-Sunday 12-6pm with free admission; rotating exhibitions span contemporary art, music, and science programming. Street parking is generally easy in Red Hook, and it's a 10-minute drive from Industry City — making it an ideal culture stop between Defonte's lunch and Hometown BBQ.",
+    "desc": "Free Red Hook art center with rotating exhibitions, science talks, and a sprawling sculpture garden.",
+    "longDesc": "Pioneer Works occupies a 25,000 sq ft former ironworks at 159 Pioneer St, hosting contemporary art exhibitions, music performances, and science residencies across cavernous double-height galleries plus an outdoor garden. Open Sat-Sun 12-6 with free admission (donation suggested); a great 45-min stop paired with Valentino Pier (~0.4 mi away) and the Red Hook waterfront. Programming rotates frequently — check the calendar for that weekend's open studios, talks, or live sets.",
     "url": "https://pioneerworks.org/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "curious",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-75 min",
-    "driveFromIC": "10 min",
+    "duration": "45-60 min",
+    "driveFromIC": "9 min",
     "hoursWeekend": "12:00-18:00",
-    "notes": "Free admission to galleries and garden, Wed-Sun 12-6pm (pioneerworks.org/visit). 159 Pioneer St, Red Hook. Street parking in Red Hook is typically easy on weekends since there is no subway access. Pairs naturally with Defonte's (5-min drive) and Hometown BBQ (3-min drive). Ticketed evening events (concerts, talks) are listed separately on the calendar.",
+    "notes": "159 Pioneer St, Red Hook — 5 min drive from Valentino Pier and walkable to Red Hook waterfront stops. Admission is free / suggested donation (pioneerworks.org/visit). Street parking is typically available on weekends in Red Hook (no metered zones on most surrounding blocks). Garden + cafe space inside the building. Programming changes weekly; check the live calendar (pioneerworks.org/calendar) before slotting.",
     "sources": [
       {
         "url": "https://pioneerworks.org/visit",
-        "accessed": "2026-05-16T15:40:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/pioneer-works-red-hook",
-        "accessed": "2026-05-16T15:40:00Z"
+        "accessed": "2026-05-16T20:45:00Z"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
-        "accessed": "2026-05-16T15:40:00Z"
+        "accessed": "2026-05-16T20:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/pioneer-works-red-hook",
+        "accessed": "2026-05-16T20:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T15:43:46.266Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T20:48:35.629Z"
   },
   {
     "id": "louis-valentino-jr-park-pier",
     "name": "Louis Valentino Jr. Park & Pier",
-    "desc": "Red Hook waterfront park with the closest land-based head-on view of the Statue of Liberty — peak sunset spot.",
-    "longDesc": "A small Red Hook waterfront park at Coffey & Ferris with a public pier that gives one of the most unobstructed Statue of Liberty sightlines in NYC, along with Governors Island, Lower Manhattan, and Staten Island across the harbor. Free, dog-friendly, and a classic golden-hour pick for photographers; Red Hook Boaters runs free kayak sessions off the beach here in summer. Pair with a Defonte's sandwich, Steve's Key Lime Pie, or a Hometown BBQ run before the light drops.",
+    "desc": "Red Hook waterfront pier with the closest front-facing land view of the Statue of Liberty in NYC.",
+    "longDesc": "A small but legendary Red Hook waterfront park at Coffey & Ferris with a wooden pier that juts into New York Harbor — locals and photographers say it offers the closest head-on land view of Lady Liberty anywhere in the five boroughs, with Governors Island, Lower Manhattan, and Staten Island all in frame. The pier has benches, a tiny pebble beach, and is dog-friendly; no restrooms on site, but Steve's Authentic Key Lime Pie is a one-block walk away. Free, open dawn to dusk, and a quick 8-minute drive from Industry City.",
     "url": "https://www.nycgovparks.org/parks/valentino-pier",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "photo",
-      "romantic",
-      "chill"
+      "chill",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-60 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "06:00-01:00",
-    "notes": "Closest front-facing land view of the Statue of Liberty in NYC (Atlas Obscura, NYC Parks). Address: Coffey St & Ferris St / 104 Ferris St, Brooklyn 11231 (Yelp, NYC Tourism). Park is free, open 6a-1a per standard NYC Parks rule (nycgovparks.org). Sunset is the move — face due west across the harbor. Street parking on Coffey/Ferris/Van Brunt is usually findable on weekend evenings but tightens after 6pm in summer. Red Hook Boaters offers free kayaking off the small beach Sundays/Thursdays in season (redhookboaters.org). ~10 min drive from Industry City via Columbia St.",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "Closest front-facing land view of the Statue of Liberty in NYC (nyctourism.com, atlasobscura.com). Free; street parking on Coffey/Ferris is usually available on weekends. Pair with Steve's Key Lime Pie one block north and Pioneer Works ~5 min drive (nycgovparks.org). Named after FDNY firefighter and Parks lifeguard Louis J. Valentino Jr. (1958–1996).",
     "sources": [
       {
-        "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T20:45:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T20:45:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T20:45:00Z"
       },
       {
-        "url": "https://www.redhookboaters.org/directions",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
+        "accessed": "2026-05-16T20:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:00:22.825Z"
+    "lastResearchedAt": "2026-05-16T20:42:59.612Z"
   },
   {
     "id": "public-records",
@@ -13833,56 +13830,47 @@
   {
     "id": "steves-authentic-key-lime-pie",
     "name": "Steve's Authentic Key Lime Pie",
-    "desc": "Fresh-squeezed key lime pies at the end of Van Dyke St, next to Valentino Pier — home of the chocolate-dipped Swingle.",
-    "longDesc": "Tucked at Pier 41 where Van Dyke Street dead-ends into NY Harbor, Steve's has been the Red Hook destination dessert since the late '90s. Order a Swingle — a frozen single-serve key lime pie dipped in Belgian dark chocolate, on a stick — and eat it on the brightly painted picnic tables out front with the Statue of Liberty in your sightline (theinfatuation.com; nyctourism.com). Pairs naturally as the third stop after Defonte's heroes and a Hometown BBQ side, all within a 7-minute walk.",
-    "url": "https://keylime.com/",
+    "desc": "Red Hook waterfront pie shack famous for the Swingle — frozen key lime tart on a stick, dipped in Belgian chocolate.",
+    "longDesc": "A Red Hook institution at 185 Van Dyke Street, tucked into a warehouse one block from Louis Valentino Jr. Pier with harbor and Statue of Liberty views. The signature Swingle is a mini key lime tart frozen on a stick and hand-dipped in Belgian dark chocolate; raspberry and white-chocolate Blonde variants rotate seasonally. Walk up, order a Swingle, and eat it on the pier — that's the move.",
+    "url": "https://keylime.com/stores/locations/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
-      "photo",
       "foodie",
       "chill",
-      "romantic"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat-Sun 11:00-20:00",
-    "notes": "Address: 185 Van Dyke St, Brooklyn NY 11231 (keylime.com/stores/locations). Weekend hours Sat 11-20:00, Sun 11-20:00 (yelp.com). Pier 41 / Valentino Park location has small adjacent parking lot but spaces fill fast on summer weekends — street parking on Van Dyke and Conover is usually findable (novacircle.com). Cash-friendly counter; pies sold in 4\", 8\", 10\" plus the signature Swingle ($6-ish) and frozen tarts. ~12 min drive from Industry City via 3rd Ave → Hamilton Ave → Van Brunt → Van Dyke. Sequencing tip: pair with Valentino Pier sunset photo stop immediately after — they're literally next door (redhookwaterstories.org).",
+    "duration": "20-30 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "11:00-20:00",
+    "notes": "Cash-friendly walk-up window; pairs perfectly with a Valentino Pier sunset stroll (source: nyctourism.com). Swingle ~$5-7; whole pies also sold. Street parking on Van Dyke is usually findable on weekends. Closed in winter some years — call (718) 858-5333 to confirm (source: keylime.com/stores/locations).",
     "sources": [
       {
         "url": "https://keylime.com/stores/locations/",
-        "accessed": "2026-05-16T15:40:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/steve-s-authentic-key-lime-pie-brooklyn",
-        "accessed": "2026-05-16T15:40:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/steves-authentic-key-lime-pies",
-        "accessed": "2026-05-16T15:40:00Z"
+        "accessed": "2026-05-16T20:45:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/steves-authentic-key-lime-pies/",
-        "accessed": "2026-05-16T15:40:00Z"
+        "accessed": "2026-05-16T20:45:00Z"
       },
       {
-        "url": "https://www.novacircle.com/spots/north-america/united-states/new-jersey/jersey-city/jersey-city-nj/steves-authentic-key-lime-pies-7c4848",
-        "accessed": "2026-05-16T15:40:00Z"
+        "url": "https://www.yelp.com/biz/steve-s-authentic-key-lime-pie-brooklyn",
+        "accessed": "2026-05-16T20:45:00Z"
       },
       {
-        "url": "https://redhookwaterstories.org/items/show/1814",
-        "accessed": "2026-05-16T15:40:00Z"
+        "url": "https://www.atlasobscura.com/places/steve-s-authentic-key-lime-pies",
+        "accessed": "2026-05-16T20:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T15:40:02.821Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T20:44:40.909Z"
   },
   {
     "id": "sunnys-bar",
@@ -18130,5 +18118,89 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T20:36:52.924Z"
+  },
+  {
+    "id": "red-hook-boaters",
+    "name": "Red Hook Boaters Free Kayaking",
+    "desc": "All-volunteer free kayaking off Louis Valentino Pier, Sunday afternoons in summer.",
+    "longDesc": "Since 2006, the Red Hook Boaters have run a completely free, first-come-first-serve kayaking program inside the protected cove at Louis Valentino Jr. Pier Park. They provide club kayaks, Coast Guard-approved PFDs, and a quick safety brief; paddles are capped at ~15-20 minutes per person so the line keeps moving. Sundays 1-4pm (June through late September) are the weekend slot; Thursdays 6-8pm run a shorter June-August window. Minors must paddle with a legal guardian present.",
+    "url": "https://www.redhookboaters.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "active",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-75 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Sun 13:00-16:00 (Jun-Sep)",
+    "notes": "Free, no reservations — line forms at the pier (redhookboaters.org/home). Sunday 1-4pm runs ~Jun 1 to late Sep; rides limited to 15-20 min each, so go early in the window for a shorter wait. Park on Coffey/Van Brunt — Red Hook has free street parking on weekends. Pair with Hometown BBQ, Pioneer Works, or a Brooklyn Crab drink afterward. Note: 2026 dates not yet posted as of May 2026; pattern matches 2025 schedule (redhookboaters.org/general-info).",
+    "sources": [
+      {
+        "url": "https://www.redhookboaters.org/home",
+        "accessed": "2026-05-16T20:45:00Z"
+      },
+      {
+        "url": "https://www.redhookboaters.org/general-info",
+        "accessed": "2026-05-16T20:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T20:46:47.618Z"
+  },
+  {
+    "id": "four-horsemen-williamsburg",
+    "name": "The Four Horsemen",
+    "desc": "Michelin-starred natural-wine bar with seasonal small plates, co-owned by LCD Soundsystem's James Murphy",
+    "longDesc": "A Williamsburg natural-wine institution at 295 Grand St, co-owned by LCD Soundsystem frontman James Murphy and run by chef Nick Curtola. Holds a Michelin star (2019) and a James Beard Award for its wine list, with a daily-changing menu of small plates designed around the bottle list. Intimate, low-lit room — listening-bar-adjacent energy, made for slow weekend dinners.",
+    "url": "https://www.fourhorsemenbk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-22:45",
+    "notes": "Fri-Sun 11:00am-10:45pm; Mon-Thu dinner only from 5:30pm (Yelp). Address 295 Grand St, Brooklyn NY 11211. Reservations via Resy strongly recommended — books out fast on weekends. Drive ~22 min from Industry City via BQE; street parking on Grand/Havemeyer is doable on weekend afternoons but tight after 6pm. Michelin star since 2019; James Beard Award for wine program (vinepair.com).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/the-four-horsemen-brooklyn",
+        "accessed": "2026-05-16T20:45:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/the-four-horsemen",
+        "accessed": "2026-05-16T20:45:00Z"
+      },
+      {
+        "url": "https://www.fourhorsemenbk.com/",
+        "accessed": "2026-05-16T20:45:00Z"
+      },
+      {
+        "url": "https://vinepair.com/articles/the-four-horsemen-ten-year-anniversary-natural-wine-influence/",
+        "accessed": "2026-05-16T20:45:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/the-four-horsemen",
+        "accessed": "2026-05-16T20:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T20:50:39.071Z"
   }
 ]
