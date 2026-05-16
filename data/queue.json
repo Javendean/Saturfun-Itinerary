@@ -1,35 +1,5 @@
 [
   {
-    "topic": "MoMA PS1 Long Island City",
-    "reason": "Daytime cultural anchor 8 min from Casa Enrique — builds a credible LIC museum→dinner track that justifies the cross-borough drive from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:16:51.386Z"
-  },
-  {
-    "topic": "Donna cocktail bar Williamsburg",
-    "reason": "Leandro Feal's Cuban-Latin-leaning cocktail room — fills a Williamsburg romantic-drinks slot and pairs naturally with Dutch Kills as a 'serious cocktails' axis",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:19:03.554Z"
-  },
-  {
-    "topic": "The Long Island Bar Cobble Hill Toby Cecchini",
-    "reason": "Toby Cecchini classic-revival cocktails inside a preserved 1950s diner — Cobble Hill is ~15 min from IC and the corpus lacks a Cobble Hill drinks anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:19:03.554Z"
-  },
-  {
-    "topic": "Sunken Harbor Club Brooklyn Heights tiki",
-    "reason": "Tropical/tiki cocktail program above Gage & Tollner — gives the corpus a non-speakeasy drinks vibe within 15 min of IC for variety against Dutch Kills",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:19:03.554Z"
-  },
-  {
-    "topic": "Noguchi Museum (9-01 33rd Rd, LIC) — paid but world-class indoor sculpture 4 min from Socrates",
-    "reason": "Natural rainy-day or winter-hour substitute for Socrates; pairs the same NW Queens art anchor with an indoor option, closing the all-weather gap in this cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:21:27.378Z"
-  },
-  {
     "topic": "Rainey Park waterfront promenade (Vernon Blvd & 33rd Rd) — free skyline strip adjacent to Socrates parking lot",
     "reason": "Lets the itinerary stretch a single drive into a 60-min Vernon Blvd walk (Rainey → Socrates → Hallets Cove) without re-parking",
     "requestedBy": "agent",
@@ -4870,5 +4840,89 @@
     "reason": "Waterfront drinks with direct Manhattan-skyline view, 4-min walk from Casa Enrique — strongest pure-view option for the LIC dinner-track evening cluster",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T18:59:17.832Z"
+  },
+  {
+    "topic": "Casa Enrique Long Island City",
+    "reason": "Michelin-starred Mexican 8 min from MoMA PS1 — completes the museum→dinner track explicitly named in the research brief",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:01:41.541Z"
+  },
+  {
+    "topic": "The Noguchi Museum Long Island City",
+    "reason": "Second LIC museum (Isamu Noguchi's sculpture garden) — pairs with PS1 to build a credible 'two-museum LIC day' justifying the cross-borough drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:01:41.541Z"
+  },
+  {
+    "topic": "Maison Premiere Williamsburg absinthe and oyster cocktail bar",
+    "reason": "Actual Williamsburg romantic-drinks slot — Belle Époque room, James Beard-winning bar program, 12-15 min drive from IC, fills the gap Donna no longer can",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:04:37.967Z"
+  },
+  {
+    "topic": "The Long Island Bar Cobble Hill classic cocktails Toby Cecchini",
+    "reason": "True 'serious cocktails axis' partner for Dutch Kills, 8-10 min from IC, classic-American room with elite mixology and easier weekend parking than Williamsburg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:04:37.967Z"
+  },
+  {
+    "topic": "Diamond Reef Bed-Stuy frozen drinks and natural wine bar",
+    "reason": "Latin-leaning frozen-cocktail focus closer to Donna's tropical DNA, ~15-18 min drive from IC, lively Brooklyn alternative to a Manhattan trek",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:04:37.967Z"
+  },
+  {
+    "topic": "Leyenda Carroll Gardens Ivy Mix Latin cocktails",
+    "reason": "Pairs with Long Island Bar as a second Cobble Hill/Carroll Gardens drinks anchor — award-winning Latin-American cocktail program, ~12 min from IC, fills agave/mezcal gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:06:31.713Z"
+  },
+  {
+    "topic": "Sunken Hundred Cobble Hill natural wine bar",
+    "reason": "Cobble Hill wine-bar counterweight to LIB's cocktails on the same Court St corridor — adds a wine option to the cluster for split-vibe groups",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:06:31.713Z"
+  },
+  {
+    "topic": "Henry Public Cobble Hill turkey-leg sandwich and old-NY bar",
+    "reason": "Walkable from LIB (Henry St), pre-Prohibition styling, complements the preserved-diner aesthetic — strong food + drink combo for a Cobble Hill track stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:06:31.713Z"
+  },
+  {
+    "topic": "Gage & Tollner Brooklyn Heights chophouse dinner",
+    "reason": "Same building, landmark Victorian dining room — natural pre-tiki pairing within one address",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:08:27.666Z"
+  },
+  {
+    "topic": "Long Island Bar Cobble Hill cocktails",
+    "reason": "Toby Cecchini's gimlets — non-tiki cocktail counterpoint 8-min drive from SHC, fills out Brooklyn drinks corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:08:27.666Z"
+  },
+  {
+    "topic": "Grand Army Bar Boerum Hill oysters cocktails",
+    "reason": "Oyster + cocktail pre-game 5-min drive from SHC; same Downtown-Brooklyn cluster for a multi-stop drinks track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:08:27.666Z"
+  },
+  {
+    "topic": "MoMA PS1 (22-25 Jackson Ave, LIC) — contemporary art kunsthalle 8 min from Noguchi",
+    "reason": "Completes the NW Queens art triangle (Socrates + Noguchi + PS1), all reachable in one cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:10:23.979Z"
+  },
+  {
+    "topic": "SculptureCenter (44-19 Purves St, LIC) — small but heavyweight contemporary sculpture museum",
+    "reason": "Adjacent indoor sculpture venue to Noguchi, expands the LIC art corpus for rainy-day routing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:10:23.979Z"
+  },
+  {
+    "topic": "Astoria Bier & Cheese (34-14 Broadway, Astoria) — post-museum cheese-and-beer stop 6 min from Noguchi",
+    "reason": "Adds an Astoria food anchor to close the loop on a NW Queens track after museums",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:10:23.979Z"
   }
 ]
