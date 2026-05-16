@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Discover venue: stone-street-fidi-walk",
-    "reason": "FiDi cobblestone street + Battery Park walking loop in candidate 2; not a single venue but a coherent stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Discover venue: joes-shanghai-chinatown",
-    "reason": "Manhattan Chinatown soup dumpling spot for candidate 3 lunch; verify Pell St location hours",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Discover venue: tribeca-soho-gallery-walk",
-    "reason": "Self-directed commercial gallery walk in Manhattan Soho/Tribeca area used by candidate 3; needs a curated gallery list",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Discover venue: asian-jewels-seafood-flushing",
-    "reason": "Flushing dim sum spot opening candidate 4; verify Northern Blvd location and cart-service hours",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Discover venue: west-village-lunch-walk",
-    "reason": "Greenwich/West Village wandering lunch segment in candidate 4; could be replaced with a single anchor like Via Carota or Buvette",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
     "topic": "Discover venue: cookshop-chelsea",
     "reason": "Chelsea farm-to-table brunch in candidate 5; verify Saturday brunch availability and outdoor seating",
     "requestedBy": "agent",
@@ -2158,5 +2128,95 @@
     "reason": "Brooklyn specialty roaster on a candidate-2-compatible itinerary, pairs with Williamsburg lunch options already in corpus",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T09:49:21.101Z"
+  },
+  {
+    "topic": "Fraunces Tavern museum + restaurant (54 Pearl St, FiDi)",
+    "reason": "Historic tavern at the corner of Stone Street block — pairs as the food anchor for this walking loop and is itself a Revolutionary War landmark",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:51:48.377Z"
+  },
+  {
+    "topic": "Castle Clinton / Battery Park harbor promenade",
+    "reason": "The Battery Park half of this loop deserves its own entry — Statue of Liberty views, free fort interior, photo anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:51:48.377Z"
+  },
+  {
+    "topic": "Charging Bull + Fearless Girl (Bowling Green)",
+    "reason": "Adjacent FiDi photo stop within the same walking loop; tourist-heavy but a canonical NYC frame and free",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:51:48.378Z"
+  },
+  {
+    "topic": "Re-research existing venue: Nom Wah Tea Parlor (13 Doyers St, Chinatown)",
+    "reason": "Closer Chinatown dim sum alternative to Joe's Shanghai if XLB line is too long; weekend brunch anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:53:40.702Z"
+  },
+  {
+    "topic": "Re-research existing venue: Mei Lai Wah Bakery (64 Bayard St)",
+    "reason": "Pair-with bakery to justify the Manhattan drive — roast pork bun + coffee under $10",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:53:40.702Z"
+  },
+  {
+    "topic": "Discover venue: Kam Hing Coffee Shop (Baxter St) sponge cake",
+    "reason": "5-min walk grab-and-go that extends a Joe's Shanghai stop into a curated Chinatown mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:53:40.702Z"
+  },
+  {
+    "topic": "The Drawing Center Soho",
+    "reason": "Free non-profit gallery on Wooster St with rotating works-on-paper shows — natural southern endpoint to a Tribeca gallery walk and worth its own entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:56:10.208Z"
+  },
+  {
+    "topic": "Dia Chelsea free contemporary art",
+    "reason": "Adjacent Manhattan free-art anchor 15 min north in Chelsea; expands the 'free Manhattan gallery day' corpus with a heavyweight installation space",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:56:10.208Z"
+  },
+  {
+    "topic": "Storefront for Art and Architecture Soho",
+    "reason": "Tiny experimental gallery on Kenmare St with rotating architecture-focused shows; rounds out a downtown art-and-design walk distinct from blue-chip Tribeca",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:56:10.208Z"
+  },
+  {
+    "topic": "Jade Asian Restaurant Flushing dim sum carts",
+    "reason": "Adjacent cart-service Cantonese dim sum hall on 136th St — direct comparison candidate to Asian Jewels",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:57:58.518Z"
+  },
+  {
+    "topic": "Pings Seafood Elmhurst dim sum",
+    "reason": "Halfway between IC and Flushing on Queens Blvd — better drive-time fit (~25-30 min) if Flushing proves too far",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:57:58.518Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace Sunset Park",
+    "reason": "Same cart-style dim sum experience inside the 10-min IC radius — should be the default if user wants dim sum without the Queens drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:57:58.518Z"
+  },
+  {
+    "topic": "Buvette West Village — Jody Williams' gastrothèque on Grove St",
+    "reason": "Sister concept, smaller and quirkier; viable backup anchor if Via Carota wait is too long",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:00:00.042Z"
+  },
+  {
+    "topic": "I Sodi West Village — Rita Sodi's Tuscan dining room on Christopher St",
+    "reason": "Third in the same family of restaurants; reservation-only so it complements the walk-in Via Carota for planners who book ahead",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:00:00.042Z"
+  },
+  {
+    "topic": "Lucali Carroll Gardens — destination pizza 8 min from IC",
+    "reason": "Brooklyn alternative if user wants to drop the Manhattan trip entirely; equally iconic, much closer to IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:00:00.042Z"
   }
 ]

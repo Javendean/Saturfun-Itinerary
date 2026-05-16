@@ -8737,42 +8737,46 @@
   },
   {
     "id": "stone-street-fidi-walk",
-    "name": "Stone Street Historic District Walk",
-    "desc": "Cobblestone pedestrian-only street in FiDi lined with open-air restaurants, bars, and 17th-century architecture.",
-    "longDesc": "Stone Street is one of NYC's oldest streets — first paved with cobblestones in 1658 under Dutch New Amsterdam — and the eastern two-block stretch between Coenties Alley and Hanover Square is now a pedestrian zone packed with outdoor dining (Wikipedia). On weekends it fills with communal tables under string lights, with restaurants spilling out from restored 19th-century buildings designated as the Stone Street Historic District in 1996. A 30-45 min wander hits Mexican cantinas, Irish pubs (Ulysses'), and historic facades — a high-density photo + food cluster that doesn't exist anywhere in Brooklyn.",
+    "name": "Stone Street + Battery Park Walking Loop",
+    "desc": "NYC's oldest cobblestone block paired with a Battery waterfront loop — historic FiDi on foot.",
+    "longDesc": "Stone Street is one of New York's oldest streets, cobbled in 1658 in New Amsterdam and now a pedestrian-only block of historic brick buildings, bars and outdoor dining. Pair it with a Battery Park loop past Castle Clinton, the harbor promenade and the Charging Bull for a compact 45–60 minute historic walk. One of the few NYC blocks where open-air drinking is permitted, so it doubles as a photo stroll or a casual sit-down anchor.",
     "url": "https://www.stonestreetnyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
       "curious",
-      "foodie",
-      "photo"
+      "photo",
+      "chill"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "30-45 min",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "11:00-24:00",
-    "notes": "Pedestrian-only east of Coenties Alley; vehicular west block between Whitehall and Broad (Wikipedia). Park at FiDi garages (Battery Pkg / Pier A) — meters are weekend-free in most of FiDi but lot is safer. Drive: Gowanus → Brooklyn-Battery Tunnel → exit at West St (~20 min off-peak from IC, longer with Sunday tunnel traffic). Uniquely Manhattan justification: NYC's oldest cobblestone street, no Brooklyn analog. Pair with a Brooklyn Bridge return walk for a single-half-day combo. (stonestreetnyc.com, en.wikipedia.org)",
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "24/7 (street); bars 11:00-02:00",
+    "notes": "Cross-river call: this is Manhattan/FiDi, not Brooklyn — zone is set to brooklyn-heights as the nearest enum value, but downstream filters should treat it as Manhattan. Drive from Industry City via the Brooklyn-Battery (Hugh L. Carey) Tunnel is ~15-18 min on a weekend morning; parking at SP+ garages on Pearl/Water/Broad. Walking loop: park near Bowling Green → Charging Bull → Stone Street cobblestones → Hanover Square → Fraunces Tavern corner → Battery Park promenade → Castle Clinton → back. Pedestrian-only blocks of Stone St are best on weekends when financial-district foot traffic is low (Wikipedia, Stone Street Historic District). Open-air drinking is allowed on the block, rare for NYC (TripAdvisor reviews). For Saturfun: this is a 'photo + curious + chill' anchor stop, not a meal — pair with a FiDi food stop (e.g. Fraunces Tavern, Adrienne's Pizza Bar on Stone St) if the track wants to eat here.",
     "sources": [
       {
-        "url": "https://www.stonestreetnyc.com/",
-        "accessed": "2026-05-16T09:20:00Z"
-      },
-      {
         "url": "https://en.wikipedia.org/wiki/Stone_Street_(Manhattan)",
-        "accessed": "2026-05-16T09:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.islands.com/1673197/one-new-york-oldest-stone-street-district-pedestrian-only-cobble-outdoor-food/",
-        "accessed": "2026-05-16T09:20:00Z"
+        "url": "https://www.stonestreetnyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d105043-Reviews-Stone_Street-New_York_City_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/stone-street-historic-district-new-york",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:19:43.799Z"
+    "lastResearchedAt": "2026-05-16T09:51:48.370Z"
   },
   {
     "id": "moma-ps1-lic",
@@ -8814,9 +8818,9 @@
   },
   {
     "id": "joes-shanghai-chinatown",
-    "name": "Joe's Shanghai (Chinatown)",
-    "desc": "Iconic Shanghainese counter famous for crab-and-pork soup dumplings (xiao long bao).",
-    "longDesc": "The original Chinatown branch of Joe's Shanghai relocated in December 2019 from its cramped 9 Pell Street townhouse to a larger flagship at 46 Bowery. The xiao long bao — pork or crab-and-pork — remain the destination order: thin-skinned, broth-loaded, and served piping hot. Walk-in friendly with fast turnover; expect a short line on weekends but rarely an event-killer.",
+    "name": "Joe's Shanghai (Bowery)",
+    "desc": "Legendary Chinatown Shanghainese counter known for crab + pork soup dumplings (xiao long bao).",
+    "longDesc": "Joe's Shanghai relocated from its iconic Pell Street home to 46 Bowery in late 2019, but the menu — and the line — followed. Order the crab-and-pork xiao long bao plus scallion pancakes and Shanghai-style braised pork; cash-only, no reservations, expect a brisk lunch rush on weekends.",
     "url": "https://www.joeshanghairestaurants.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8827,77 +8831,77 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "22 min",
+    "duration": "60-75 min",
+    "driveFromIC": "25 min",
     "hoursWeekend": "11:00-23:00",
-    "notes": "Manhattan exception justified: NYC's defining soup-dumpling destination with no Brooklyn equivalent (source: joeshanghairestaurants.com). Address: 46 Bowery, Manhattan — the legacy 9 Pell address closed in 2019 (source: yelp.com/biz/joes-shanghai-new-york-2). Weekend parking is street-only in Chinatown; expect circling — recommend Mullberry/Mott garages or the Chrystie Street public lot. Drive from Industry City via Gowanus + Manhattan Bridge ~20-25 min off-peak.",
+    "notes": "Moved from 9 Pell St to 46 Bowery in Dec 2019 — Pell St location is closed (mitziemee.com). Daily 11am–11pm per third-party listings (yelp.com). Cash-only, no reservations, plan for a wait on weekend lunch (search result summary). Manhattan exception justified: signature XLB destination with no equivalent in 15-min IC cluster; pair with a Chinatown bakery walk (e.g., Mei Lai Wah) to amortize the drive + parking.",
     "sources": [
       {
         "url": "https://www.joeshanghairestaurants.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T10:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/joes-shanghai-new-york-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T10:00:00Z"
       },
       {
-        "url": "https://medium.com/@rlsantayana/joes-shanghai-chinatown-manhattan-ny-1f601fc97453",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://mitziemee.com/nyc-soup-dumplings-at-joes-shanghai-on-bowery-st/",
+        "accessed": "2026-05-16T10:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:25:38.896Z"
+    "lastResearchedAt": "2026-05-16T09:53:40.695Z"
   },
   {
     "id": "tribeca-soho-gallery-walk",
-    "name": "Tribeca Gallery Walk (Walker St → Wooster St)",
-    "desc": "Self-guided weekend walk through 15+ blue-chip galleries clustered on Walker St, Broadway, and Wooster St.",
-    "longDesc": "Anchored at David Zwirner's 52 Walker location, this is a 90-120 min self-guided loop through the densest contemporary art district in the country — James Cohan, Bortolami, Cristin Tierney, Anat Ebgi, Marian Goodman, Alexander Gray, and Hauser & Wirth's Philip Guston space on Wooster are all within a 6-block radius. Free entry, museum-grade programming, and exhibitions rotate every 6-8 weeks so it's never the same visit twice.",
+    "name": "Tribeca & Soho Gallery Walk",
+    "desc": "Self-guided weekend walk through ~8 free contemporary galleries clustered on Walker St and nearby blocks.",
+    "longDesc": "A free, self-directed loop through Tribeca's densest contemporary art corridor — Walker Street between Broadway and West Broadway — hitting heavyweights like David Zwirner, James Cohan, Bortolami, The Hole, and Andrew Kreps, then spilling south into Soho for The Drawing Center and James Fuentes. Most spaces are open Tue–Sat 10/11am–6pm, every show is free, and the whole cluster fits inside a six-block walking radius, so you can dial the visit up to 3 hours or down to 45 minutes depending on what's hung. Saturday is the only weekend day most galleries open, so plan accordingly.",
     "url": "https://tribecaarts.org/map",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "curious",
-      "photo",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "90-120 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "10:00-18:00",
-    "notes": "Manhattan venue — uniquely justified by gallery density (no Brooklyn equivalent). Drive: BQE → Hugh Carey Tunnel → Canal St (~22 min weekend); fallback Manhattan Bridge (~25 min). Park at Edison ParkFast, 52 Thomas St (~$30/2hr, 3 min walk to anchor). Start at David Zwirner 52 Walker (Sat 10-6) (downtowngallerymap.com), then Bortolami 39 Walker, James Cohan 48 Walker, walk north on Broadway through Anat Ebgi 372 / Marian Goodman 385, finish at Hauser & Wirth 134 Wooster (downtowngallerymap.com). Most galleries close 6pm Saturday — start by 3:30pm latest. Note: zone='dumbo' is a clustering placeholder; actual location is Tribeca/SoHo Manhattan.",
+    "duration": "90-180 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 10:00-18:00 (most galleries closed Sun)",
+    "notes": "Manhattan exception, justified by cluster density: ~15 free galleries within a 6-block radius around Walker St between Broadway and West Broadway (art-collecting.com). Anchor stops: David Zwirner, James Cohan, Bortolami, The Hole, Andrew Kreps, Derek Eller on Walker; Luhring Augustine, Canada on White St; James Fuentes and The Drawing Center extending into Soho. Drive from IC via Hugh L. Carey Tunnel ~15–18 min off-peak weekends. Park at Icon/Quik Park garages near Canal & Varick or Walker & Church (~$25–35 for 3 hrs); curbside metered parking on Saturdays runs $2.25/hr and is often achievable on the side streets before 11am. Most galleries closed Sunday and Monday — plan for Saturday. The seasonal Tribeca Gallery Walk event runs Sep 10–Oct 12 (tribecaarts.org) with extended hours and special programming; outside that window the same galleries are still open on their regular Tue–Sat schedule.",
     "sources": [
       {
-        "url": "https://downtowngallerymap.com/galleries_soho-trib.php",
-        "accessed": "2026-05-16T09:30:00Z"
-      },
-      {
         "url": "https://tribecaarts.org/map",
-        "accessed": "2026-05-16T09:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/art/best-galleries-in-soho-tribeca-and-the-west-village",
-        "accessed": "2026-05-16T09:30:00Z"
+        "url": "https://art-collecting.com/galleries_ny_tribeca.htm",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://whitney.org/events/gallery-walk-tribeca",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:28:21.365Z"
+    "lastResearchedAt": "2026-05-16T09:56:10.201Z"
   },
   {
     "id": "asian-jewels-seafood-flushing",
     "name": "Asian Jewels Seafood Restaurant",
-    "desc": "MICHELIN-listed Cantonese dim sum with rolling carts in the heart of Flushing's Chinatown.",
-    "longDesc": "Banquet-hall-sized Cantonese seafood and dim sum institution at 133-30 39th Ave, Flushing. Weekend mornings are the showcase — old-school steaming carts circulate the dining room with har gow, siu mai, cheung fun, and live tank seafood. MICHELIN Guide listed; arrive early on weekends or expect a 30+ minute wait.",
+    "desc": "Old-school Hong Kong dim sum hall with rolling carts and live-tank seafood in downtown Flushing.",
+    "longDesc": "Asian Jewels is one of the last true cart-service dim sum halls in NYC — a banquet-sized room at 133-30 39th Ave (a half-block off Northern Blvd) where servers wheel har gow, siu mai, and turnip cake past your table. Featured in the MICHELIN Guide and a fixture of the Flushing dim sum scene, it also runs a full Cantonese seafood menu from live tanks at dinner.",
     "url": "http://www.asianjewelsny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
       "curious"
@@ -8907,31 +8911,31 @@
     ],
     "priceBand": "$$",
     "duration": "75-90 min",
-    "driveFromIC": "30 min",
-    "hoursWeekend": "09:00-22:00",
-    "notes": "OUT-OF-ANCHOR: this is Flushing, Queens — not Brooklyn. Drive from Industry City is ~30 min via BQE + Grand Central Pkwy on a clear weekend, longer with traffic; no Brooklyn-zone fits, mapped to greenpoint as the closest northern proxy. Cart dim sum runs morning through mid-afternoon; full seafood menu all day (source: yelp, michelin guide, official site). Street parking around 39th Ave is tight on weekend brunch hours — Flushing municipal lots on 39th/Union are the reliable option. If the goal is dim sum within the IC 10-25 min radius, East Harbor Seafood Palace in Sunset Park is the much closer analog (~5 min drive).",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "09:00-22:00 (dim sum carts 09:00-15:15)",
+    "notes": "Address is 133-30 39th Ave, Flushing, NY 11354 — half-block south of Northern Blvd, accessible via Main St or Prince St (yelp.com). Weekend dim sum starts 9am and carts run until ~3:15pm; full menu service continues to 10pm (asianjewelsny.com). Phone 718-359-8600. MICHELIN Guide listed (guide.michelin.com). FAR from Industry City — realistic drive is 35-45 min via BQE/LIE depending on traffic, exceeds the 25-min preferred radius; only justify as a destination dim sum trip, not a casual cluster stop. Street parking is tight on weekends; the Flushing municipal lot on 39th Ave and the Sheraton garage on Prince St are the practical options.",
     "sources": [
       {
-        "url": "http://www.asianjewelsny.com/",
-        "accessed": "2026-05-16T09:30:00Z"
-      },
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/asian-jewels",
-        "accessed": "2026-05-16T09:30:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/asian-jewels-seafood-restaurant-flushing-2",
-        "accessed": "2026-05-16T09:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "http://www.asianjewelsny.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/asian-jewels",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/asian-jewels-seafood-restaurant/",
-        "accessed": "2026-05-16T09:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:30:36.132Z"
+    "lastResearchedAt": "2026-05-16T09:57:58.512Z"
   },
   {
     "id": "west-village-lunch-walk",
@@ -9018,5 +9022,46 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T09:35:48.518Z"
+  },
+  {
+    "id": "via-carota",
+    "name": "Via Carota",
+    "desc": "Iconic West Village trattoria from Jody Williams & Rita Sodi — rustic Italian, all-day walk-in bar",
+    "longDesc": "A West Village institution at 51 Grove St serving rustic Northern Italian — the svizzerina (chopped steak), insalata verde, and handmade pastas have a cult following. No reservations for parties under 4; bar and walk-in tables move steadily once the 10am open hits on weekends. Worth the tunnel trip from IC as a destination lunch anchor rather than a wandering segment.",
+    "url": "https://www.viacarota.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-23:00",
+    "notes": "Manhattan exception — uniquely justified as a destination Italian anchor (Yelp 2384 photos / 1218 reviews; James Beard-recognized chefs Jody Williams + Rita Sodi). Walk-in only for parties of 1-3; arrive at open (10am) or expect a wait. Weekend street parking is brutal — use the garage at 200 W Houston or the SP+ at 200 Bleecker. Drive from Industry City is ~22 min via Hugh L. Carey Tunnel, longer with weekend BQE traffic. Replaces the prior 'west-village-lunch-walk' segment in candidate 4 with a single schedulable address (sources: viacarota.com, yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.viacarota.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/via-carota-new-york-4",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/via-carota",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:00:00.035Z"
   }
 ]
