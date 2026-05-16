@@ -1964,14 +1964,15 @@
   {
     "id": "kai-feng-fu-dumpling-house",
     "name": "Kai Feng Fu Dumpling House",
-    "desc": "Cash-only Sunset Park legend slinging $2.50 pork-and-chive fried dumplings minutes from IC.",
-    "longDesc": "A no-frills storefront in Brooklyn's Sunset Park Chinatown serving some of the city's most beloved fried and steamed dumplings — six pan-fried pork-and-chive for $2.50, plus scallion pancakes and beef noodle soup. Service is famously fast (food hits the counter within minutes of ordering) and seating is minimal, so locals grab a bag and go. A textbook foodie pit-stop on the way back from Industry City.",
-    "url": "https://kaifengfubrooklyn.kwickmenu.com/",
+    "desc": "Sunset Park Chinatown legend slinging $2.50 fried pork dumplings and scallion pancakes off 8th Ave",
+    "longDesc": "A grab-and-go counter on Brooklyn's 8th Ave Chinatown spine where six pan-fried pork dumplings cost $2.50 and the sesame and scallion pancakes draw their own line. Bare-bones seating and cash-friendly pricing make it a quick anchor stop — order at the window, eat at one of the tiny tables, then walk it off with a bakery run up the block. Open daily 7:30am–8:00pm (yelp.com).",
+    "url": "https://kaifengfubrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "curious",
       "chill"
     ],
     "dietary": [],
@@ -1979,18 +1980,18 @@
     "duration": "30-45 min",
     "driveFromIC": "8 min",
     "hoursWeekend": "07:30-20:00",
-    "notes": "4801 8th Ave, Brooklyn NY 11220 — about 1.3 miles south of Industry City along 8th Ave, easy weekend street parking on the avenue (Tripadvisor, Infatuation). Cash only, tiny dining area; best treated as a takeout stop. $2.50 buys 6 pan-fried dumplings, $2 scallion pancake, $7 beef noodle soup (Infatuation, Eat This NY). Not the Flushing Kai Feng Fu — this is the Brooklyn outpost in the heart of Sunset Park's Chinatown.",
+    "notes": "4801 8th Ave, Brooklyn NY 11220, on the 8th Ave Sunset Park Chinatown strip (yelp.com). Pan-fried pork dumplings ~$2.50/6, scallion + sesame pancakes are the other must-orders (whereyoueat.com). 7:30am–8pm daily — pairs naturally with an Xin Fa Bakery stop two blocks south. Weekend metered parking on 8th Ave is doable but tight; side streets (47th–49th) usually have spots. Cash preferred, tiny dining room, mostly takeout.",
     "sources": [
       {
-        "url": "https://kaifengfubrooklyn.kwickmenu.com/",
+        "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
+        "url": "https://kaifengfubrooklyn.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4967220-Reviews-Kai_Feng_Fu_Dumpling_House-Brooklyn_New_York.html",
+        "url": "https://whereyoueat.com/Kai-Feng-Fu-Dumpling-12450.html",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -2000,8 +2001,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T04:08:00.622Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:49:09.001Z"
   },
   {
     "id": "beat-the-bomb",
@@ -2336,29 +2337,33 @@
   },
   {
     "id": "japan-village-food-hall",
-    "name": "Japan Village Food Hall",
-    "desc": "20,000 sq-ft Japanese food hall in IC Bldg 3/4 — ramen, onigiri, handrolls, sake bar, all under one roof",
-    "longDesc": "NYC's first dedicated Japanese food hall, anchoring Industry City Buildings 3-4 right next to BOOKOFF ANI-LAB. Ten stalls cover the spectrum: Ramen Setagaya for tonkotsu, Obentoyasan for onigiri and bento, Hachi for sushi, Handroll Bar, Moriya, Shokusaido (katsu/tempura), Umami House, Yamada, Gohei (soba/udon), plus Sake's Bar for a quick highball. Sunrise Mart grocery is attached if you want to browse Japanese snacks after eating.",
-    "url": "https://www.japanvillage.com/eat-drink",
+    "name": "Japan Village",
+    "desc": "Same-roof Japanese food hall + Sunrise Mart cluster inside IC — anchors a Japan Village mini-track with WakuWaku.",
+    "longDesc": "NYC's flagship Japanese food hall, occupying the ground floor of Industry City Building 2. Houses the city's largest Sunrise Mart grocery, Panya Bakery (shokupan + curry pan), Ramen Setagaya (Mt. Fuji-style tonkotsu/niboshi-leaning bowls), and ~10 other stalls — Gohei, Obentoyasan, Hachi, Handroll Bar, Moriya, Shokusaido, Sake's Bar, Yamada, Umami House — plus Sushi Uesugi, Gyuya yakiniku, JTunes karaoke, Kuraichi sake shop, and the WakuWaku izakaya/cocktail bar that this mini-track is built around. Zero drive time when you're already at IC; lets the group graze (shokupan to go, niboshi-style ramen lunch, Sunrise Mart restock) without leaving the courtyard.",
+    "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-75 min",
+    "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-20:30, Sun 11:00-19:00",
-    "notes": "Inside Industry City Buildings 3-4, entrance at 934 3rd Ave (industrycity.com). Operator's site lists Fri-Sat 11-8:30, Sun-Thu 11-7 (japanvillage.com/eat-drink); IC tenant page lists slightly later 11-9 — call (347) 584-4579 to confirm before a late visit. Same-floor adjacency to BOOKOFF ANI-LAB makes this the natural eat-stop on any manga browse loop (gothamist.com). Ten vendor stalls = group-friendly; everyone orders what they want, meet at communal tables. Vegetarian options exist (tempura veg, soba, onigiri) but no dedicated vegan/halal/GF labeling.",
+    "hoursWeekend": "Sat 11:00-20:30 food hall / 11:00-21:00 Sunrise Mart; Sun 11:00-19:00",
+    "notes": "Located at 934 3rd Ave, Brooklyn — this IS Industry City Building 2, so it's the anchor itself, not a drive. Food hall closes 20:30 Fri-Sat, earlier other days; Sunrise Mart runs an extra 30 min later (source: japanvillage.com/eat-drink). Panya Bakery is the shokupan stop (Sat-Sun 11-19); Ramen Setagaya is the ramen stall — confirm niboshi vs. tonkotsu day-of since menu rotates (source: amny.com / japanvillage.com). Free IC garage parking on weekends. Pairs naturally with WakuWaku as the evening pivot inside the same complex.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -2366,18 +2371,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
+        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
+        "url": "https://sunrisemart.com/pages/visit-us",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T05:24:58.245Z"
+    "lastResearchedAt": "2026-05-16T06:44:03.402Z"
   },
   {
     "id": "cafe-here-red-hook",
@@ -6067,5 +6072,143 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T06:37:36.690Z"
+  },
+  {
+    "id": "oldies-industry-city",
+    "name": "Oldies",
+    "desc": "Tiny Angel's Share offshoot inside IC — sake, Toki highballs, fresh-fruit cocktails, WakuWaku snacks.",
+    "longDesc": "A 12-seat Japanese cocktail and sake bar from the Angel's Share team (Tony Yoshida), tucked into Industry City Building 3 next to Japan Village. The drinks program leans on sake, Suntory Toki highballs, and seasonal fresh-fruit cocktails ($13 classics, $12–16 wine), and the kitchen is wired into neighboring izakaya WakuWaku — so you can order oysters, sashimi, karaage, and corn tempura without leaving your stool. The name evokes Japanese kissaten/listening-bar culture; pair it as a quiet, late finale after a photo-heavy IC track.",
+    "url": "https://www.wakuwakuny.com/oldies",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min (inside IC)",
+    "hoursWeekend": "Sat 14:00-22:30, Sun 16:00-21:30",
+    "notes": "Opened Dec 19, 2019 as Angel's Share's first East-Village outpost (Brooklyn Paper, Time Out). 12 seats + counter standing; arrives-early is the move on Sat night. Closed Mon–Tue. Food menu pulled from neighboring WakuWaku izakaya (Industry City listing). Phone (347) 584-4577. No vinyl/turntable rig is confirmed in current sources despite the name — describe as 'intimate Japanese cocktail + sake bar' rather than a true vinyl listening room.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/visit/drink/oldies/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/oldies-at-industry-city-is-angels-shares-first-bar-outside-of-the-east-village-122019",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/heavens-sake-classic-japanese-cocktail-spot-opens-outpost-in-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/oldies-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:41:56.282Z"
+  },
+  {
+    "id": "the-loft-japan-village-chashitsu",
+    "name": "The Loft at Japan Village — Chashitsu Tea Ceremony",
+    "desc": "Authentic Japanese chashitsu — matcha + wagashi led by tea master Souheki Mori, on IC's 2nd-floor Japan Village.",
+    "longDesc": "Inside Industry City's Japan Village, the 20,000-sq-ft Loft hosts Chashitsu, where Setsugekka's Souheki Mori (30+ years practicing chanoyu) prepares ceremonial matcha paired with seasonal Japanese sweets in a tatami room. Browse Setomonoya's handmade pottery, BookOff, and Daiso first, then slow down for a quiet ritual that lands as the daytime contemplative counterweight to WakuWaku's evening izakaya energy in the same complex. Ceremonies are periodic and reservation-only; on non-ceremony days, Cafe Japon downstairs pours ceremonial-grade matcha lattes.",
+    "url": "https://www.theloftatjapanvillage.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min (inside IC)",
+    "hoursWeekend": "11:00-19:00 (ceremony by reservation)",
+    "notes": "Address: 934 Third Avenue, Brooklyn, 2nd floor of Japan Village inside Industry City (timeout.com). Souheki Mori of Setsugekka teahouse leads the chashitsu — ritualistic preparation of matcha emphasizing harmony/respect/purity/tranquility — with mochi or seasonal wagashi (cityguideny.com). Official Loft page currently says 'check back soon for updates regarding our Tea Ceremonies' (theloftatjapanvillage.com), so confirm cadence via Setsugekka or the Loft IG @theloftjv before booking. Note: no venue named 'Hayato' is listed at Industry City — The Loft / Chashitsu is the on-site daytime tea-ceremony match. IC has its own paid parking lot at 220 36th St; no external drive needed since this is the IC anchor itself, sitting one elevator ride from any WakuWaku-adjacent food-hall stop.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/news/five-reasons-to-visit-brooklyns-new-hub-for-japanese-culture-022422",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theloftatjapanvillage.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/the-loft-at-japan-village-has-taken-over-a-full-second-floor-at-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.setsugekkany.com/activities/tea-ceremony/open-tea-ceremony/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.cityguideny.com/article/traditional-tea-ceremonies-nyc-",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:47:15.008Z"
+  },
+  {
+    "id": "green-wood-cemetery",
+    "name": "Green-Wood Cemetery",
+    "desc": "478-acre Gothic-gated arboretum-cemetery — monk parakeets nest in the 1861 Upjohn brownstone gate",
+    "longDesc": "Founded 1838 as a Rural Cemetery Movement landmark, Green-Wood spans 478 hilltop acres with Brooklyn's highest natural point and a National Historic Landmark Gothic Revival main gate designed by Richard Upjohn in 1861 (carved brownstone, monk parakeet colony nesting in the spires). Admission is free, parking is free inside the grounds, and weekend pedestrian access runs 8am–7pm Apr–Sep with vehicle entry until 4pm. Pair with the new Weeksville-adjacent Education Center and the Catacombs Path for a 60–90 min curious/photo loop after Xin Fa.",
+    "url": "https://www.green-wood.com/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "08:00-19:00 (vehicles until 16:00)",
+    "notes": "Main entrance at 5th Ave & 25th St — the photogenic Upjohn Gothic gate (1861, brownstone, NYC landmark) with its colony of feral monk parakeets is the headline shot (source: green-wood.com/visit, Wikipedia). Free admission, free interior parking on right side of drives, no grass parking. Vehicle hours close at 4pm on weekends so plan the drive-in window after Xin Fa; pedestrian gates stay open to 7pm (source: green-wood.com/rules). New visitors center opened April 2026 with restored hub for self-guided routes (source: NY1, Commercial Observer).",
+    "sources": [
+      {
+        "url": "https://www.green-wood.com/visit/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.green-wood.com/rules/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Green-Wood_Cemetery",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://ny1.com/nyc/all-boroughs/news/2026/04/15/history--historic-cemetery--brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/green-wood-cemetery/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:51:07.054Z"
   }
 ]
