@@ -3062,6 +3062,14 @@
                 : '';
             const cardClass = place.isDefault ? 'option-card is-default' : 'option-card';
 
+            // One-click directions: build a Google Maps directions URL keyed off venue name + zone
+            // so the user lands in Maps with the destination prefilled and ready to navigate
+            // (Maps defaults origin to the user's current location). The "Brooklyn NY" hint
+            // disambiguates names like "Sunset Park" (the neighborhood vs the actual park).
+            const zoneText = (place.zone || '').replace(/-/g, ' ');
+            const directionsQuery = encodeURIComponent(`${place.name} ${zoneText} Brooklyn NY`.replace(/\s+/g, ' ').trim());
+            const directionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${directionsQuery}&travelmode=driving`;
+
             optionsHtml += `
                 <div class="${cardClass}" data-place-id="${place.id}">
                     ${defaultPillHtml}
@@ -3080,7 +3088,7 @@
                         <h3 class="text-2xl font-bold mb-2 text-stone-900">${place.name}</h3>
                         <p class="text-sm text-stone-600 mb-4 leading-relaxed">${place.desc}</p>
                         ${tagsHtml}
-                        <a href="${place.url}" target="_blank" class="text-xs font-bold uppercase tracking-widest text-orange-600 hover:text-orange-800 transition-colors inline-block border-b-2 border-orange-200 hover:border-orange-500 pb-1">View Details / Maps &rarr;</a>
+                        <a href="${directionsUrl}" target="_blank" rel="noopener" class="text-xs font-bold uppercase tracking-widest text-orange-600 hover:text-orange-800 transition-colors inline-block border-b-2 border-orange-200 hover:border-orange-500 pb-1" aria-label="Get driving directions to ${place.name}">Get Directions &rarr;</a>
                     </div>
                 </div>
             `;
