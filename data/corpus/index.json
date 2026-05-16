@@ -16636,40 +16636,45 @@
   {
     "id": "sculpturecenter-lic",
     "name": "SculptureCenter",
-    "desc": "Free non-profit contemporary sculpture museum in a Maya Lin-renovated trolley repair shop",
-    "longDesc": "SculptureCenter is a non-collecting contemporary art museum at 44-19 Purves Street in LIC, housed in a former trolley repair shop reimagined by Maya Lin in 2002. Three new exhibitions open May 28, 2026: Akinsanya Kambon: Soul Sessions, Ellen Pau: She Moves, and In Practice: Magdalena Petroni. Admission is always free; the basement project spaces and ground-floor main galleries take roughly 45-60 minutes to walk through.",
+    "desc": "Non-profit contemporary sculpture museum in a Maya Lin–redesigned LIC trolley repair shop; admission always free.",
+    "longDesc": "SculptureCenter occupies a former trolley repair shop on Purves Street (aka 'Sculpture Street') reimagined by architect Maya Lin, with a raw industrial main hall plus an underground vaulted basement that artists treat as a second canvas. Programming leans into experimental, emerging, and mid-career sculpture — summer 2026 brings Akinsanya Kambon's Soul Sessions, Ellen Pau's She Moves, and In Practice: Magdalena Petroni (all May 28–mid-summer). Admission is always free, which makes it a low-stakes companion stop after Socrates Sculpture Park or before lunch in LIC.",
     "url": "https://www.sculpture-center.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "dumbo",
     "vibe": [
       "curious",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "45-60 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "12:00-18:00 (Thu-Mon, closed Tue-Wed)",
-    "notes": "Address: 44-19 Purves St, LIC 11101. Free admission, reopens for new exhibition cycle Thu May 28, 2026 after install (sculpture-center.org). Closed Tue/Wed. Maya Lin-designed renovation of a former trolley repair shop; basement project rooms are a signature feature. Pairs naturally with Noguchi Museum (~5 min away) and Socrates Sculpture Park (~8 min) for a curious-vibe LIC trio. Street parking on Purves/Jackson Ave is typically findable on weekends; metered Muni-Meter zones nearby.",
+    "hoursWeekend": "12:00-18:00",
+    "notes": "Free admission, Thu–Mon 12–6pm; closed Tue/Wed (sculpture-center.org). Maya Lin–redesigned former trolley repair shop with a vaulted basement gallery — pairs naturally with Socrates Sculpture Park ~15 min walk north or The Noguchi Museum nearby (nyctourism.com). No on-site lot: metered street parking on Jackson Ave + several public garages within a few blocks (sculpture-center.org/visit/directions). From Industry City take BQE → Pulaski Bridge or Midtown Tunnel approach; ~20–25 min off-peak weekend.",
     "sources": [
       {
         "url": "https://www.sculpture-center.org/",
-        "accessed": "2026-05-16T18:50:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.sculpture-center.org/visit/7237/directions",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.sculpture-center.org/visit/93/admission-and-accessibility",
-        "accessed": "2026-05-16T18:50:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/sculpturecenter/",
-        "accessed": "2026-05-16T18:50:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T18:52:58.282Z"
+    "lastResearchedAt": "2026-05-16T21:42:20.047Z"
   },
   {
     "id": "adda-indian-canteen",
@@ -18591,5 +18596,174 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T21:33:29.668Z"
+  },
+  {
+    "id": "chelsea-market",
+    "name": "Chelsea Market",
+    "desc": "Indoor food hall + boutique shopping under the High Line; the rain-day Manhattan anchor",
+    "longDesc": "A 100,000+ sq ft indoor food hall in the old Nabisco factory in Meatpacking, packed with stalls like Los Tacos No. 1, Lobster Place, Mokbar, Miznon, and Amy's Bread. Sits directly beneath the High Line so the day pivots indoor-outdoor without a re-park, making it the strongest rain-day fallback for an Industry City–anchored itinerary. Two paid lots flanking the W 15th St entrance handle weekend parking.",
+    "url": "https://www.chelseamarket.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 07:00-21:00, Sun 08:00-20:00",
+    "notes": "Manhattan venue — uniquely justified as the rain-day pairing with the High Line directly above (source: chelseamarket.com/visit). Address 75 Ninth Ave, NY 10011. Two adjacent paid lots with W 15th St entrances; budget ~$30+/2hr on weekends (source: spotangels). Drive from IC is 15-25 min via Brooklyn-Battery Tunnel + West Side Hwy. Zone tagged 'dumbo' as the closest Brooklyn-side proxy since the schema has no Manhattan enum — UI should treat as Manhattan rain-day add-on, not a Brooklyn cluster stop.",
+    "sources": [
+      {
+        "url": "https://www.chelseamarket.com/",
+        "accessed": "2026-05-16T21:40:00Z"
+      },
+      {
+        "url": "https://www.chelseamarket.com/visit",
+        "accessed": "2026-05-16T21:40:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/chelsea-market-parking",
+        "accessed": "2026-05-16T21:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:35:42.571Z"
+  },
+  {
+    "id": "hudson-yards-vessel-edge",
+    "name": "Hudson Yards: Vessel + Edge",
+    "desc": "Twin Manhattan landmarks at the High Line's north end — climb the Vessel, then float 100 floors up on Edge's glass deck.",
+    "longDesc": "Hudson Yards stacks two photogenic icons within one block: Thomas Heatherwick's 150-ft honeycomb Vessel (reopened March 2026 after a multi-year safety closure) and Edge, the Western Hemisphere's highest outdoor sky deck at 1,131 ft with an angled glass floor. Pair them with a Chelsea-to-HY walk down the High Line for a single-parking-transaction Manhattan day. Indoor Edge experience is partly under renovation through May 2026, with a new immersive installation debuting June 2026.",
+    "url": "https://www.hudsonyardsnewyork.com/discover/edge",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "curious",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Edge 09:00-22:00 (last elevator 21:10); Vessel 10:00-21:00",
+    "notes": "Manhattan exception justified — northern terminus of the High Line enables a Chelsea Market → High Line → Hudson Yards loop on one parking ticket (Hudson Yards Garage, ~$30 weekend flat). Vessel GA $10, flex $15; NYC residents free Thursdays (vesselnyc.com). Edge GA from $39, sunset slots higher; book 14+ days out for early-bird (edgenyc.com). Edge indoor space limited Apr-May 2026 (renovation), new immersive June 2026 (decks-nyc.com). Vessel reopened March 2026 with new safety mesh (timeout.com).",
+    "sources": [
+      {
+        "url": "https://www.vesselnyc.com/faq",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.edgenyc.com/get-tickets/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/the-infamous-vessel-at-hudson-yards-is-reopening-in-four-days-022326",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/hudson-yards-vessel-and-edge-reopen-today/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://loving-newyork.com/hudson-yards-observation-deck/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:38:17.054Z"
+  },
+  {
+    "id": "noguchi-museum-lic",
+    "name": "The Noguchi Museum",
+    "desc": "Isamu Noguchi's serene indoor/garden sculpture museum in a converted Astoria photo-engraving plant.",
+    "longDesc": "Founded by Isamu Noguchi in 1985 inside a former photo-engraving factory, the museum houses the world's most comprehensive collection of his stone, metal, wood, and clay sculptures across two floors plus an open-air sculpture garden. The hushed concrete galleries and bamboo-fringed courtyard make it the meditative indoor counterpart to Socrates Sculpture Park four blocks south on Vernon Blvd, letting a single track pair free outdoor art with ticketed indoor minimalism.",
+    "url": "https://www.noguchi.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat-Sun 11:00-18:00",
+    "notes": "9-01 33rd Rd, Astoria — technically LIC/Astoria border, ~22 min from Industry City via BQE. $16 general admission; free on First Fridays of every month (extended to 8pm May-Sept) (noguchi.org). Street parking is metered but generally findable on weekends in this industrial pocket — easier than Manhattan museums. Pairs naturally with Socrates Sculpture Park (free, 4 blocks north) for an indoor+outdoor sculpture afternoon.",
+    "sources": [
+      {
+        "url": "https://www.noguchi.org/museum/visit/plan/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/the-noguchi-museum/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://tickets.noguchi.org/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:40:19.067Z"
+  },
+  {
+    "id": "felix-roasting-astor-place",
+    "name": "Felix Roasting Co. – Astor Place",
+    "desc": "PERMANENTLY CLOSED (Mar 2026): former NoHo Felix outpost at 2 Astor Pl",
+    "longDesc": "Felix Roasting Co.'s Astor Place café opened in 2022 at 2 Astor Pl in NoHo as a smaller, more pared-back counterpart to the floral-baroque NoMad flagship. It permanently closed on March 19, 2026 and is no longer listed on the brand's Visit Us page. For a Felix experience, use the SoHo (145 Greene St) or NoMad (450 Park Ave S) locations instead.",
+    "url": "https://felixroastingco.com/pages/visit-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "PERMANENTLY CLOSED as of 2026-03-19 per Yelp listing title 'FELIX ROASTING - CLOSED' (yelp.com/biz/felix-roasting-new-york-7). Not present on the official Visit Us page (felixroastingco.com/pages/visit-us), which now lists only Midtown (280 Park Ave), NoMad (450 Park Ave S), SoHo (145 Greene St), West SoHo at Hotel Hugo (525 Greenwich St), and Aspen. Geographically in NoHo, Manhattan — zone tagged 'dumbo' as the nearest IC-to-Manhattan crossing cluster (via Manhattan Bridge / Hugh L. Carey Tunnel, ~25 min weekend drive). Drop from active itinerary rotation; retain entry as a do-not-suggest record so the planner doesn't re-add it.",
+    "sources": [
+      {
+        "url": "https://felixroastingco.com/pages/visit-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/felix-roasting-new-york-7",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://evgrieve.com/2022/04/felix-roasting-co-opening-outpost-on.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T21:45:05.924Z"
   }
 ]
