@@ -2958,5 +2958,1965 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T05:05:13.319Z"
+  },
+  {
+    "id": "itin-foodie-2026-05-16-001",
+    "type": "itinerary-candidate",
+    "name": "Sunset Park + Industry City Asian Food Crawl",
+    "vibe": "foodie",
+    "startTime": "9:00 AM",
+    "estTotalMin": 404,
+    "totalStops": 8,
+    "totalDriveMin": 69,
+    "zonesTouched": [
+      "flushing",
+      "sunset-park",
+      "industry-city"
+    ],
+    "blurb": "Bee-line down the BQE to Sunset Park for a coffee opener, dim sum, then a slow graze through Industry City's pan-Asian food halls. Everything is within a few blocks once parked, so most 'drives' are really micro-hops.",
+    "stops": [
+      {
+        "time": "9:45 AM",
+        "venueId": "tadaima-coffee-sunset-park",
+        "driveFromPrev": 40,
+        "durationMin": 30,
+        "why": "warm, photogenic Japanese coffee bar — soft start before the dim sum onslaught"
+      },
+      {
+        "time": "10:25 AM",
+        "venueId": "park-asia-dim-sum-sunset-park",
+        "driveFromPrev": 5,
+        "durationMin": 65,
+        "why": "classic Sunset Park cart dim sum — arrive before the 11 AM rush"
+      },
+      {
+        "time": "11:40 AM",
+        "venueId": "granitos-bakery-sunset-park",
+        "driveFromPrev": 4,
+        "durationMin": 20,
+        "why": "Mexican pan dulce break to reset the palate"
+      },
+      {
+        "time": "12:10 PM",
+        "venueId": "hainan-chicken-house-sunset-park",
+        "driveFromPrev": 5,
+        "durationMin": 45,
+        "why": "Hainanese chicken rice that nobody outside Sunset Park talks about"
+      },
+      {
+        "time": "1:10 PM",
+        "venueId": "japan-village-food-hall",
+        "driveFromPrev": 8,
+        "durationMin": 60,
+        "why": "park once at Industry City; Japan Village handles the Japanese leg without driving"
+      },
+      {
+        "time": "2:20 PM",
+        "venueId": "han-dynasty-sip-co-inside-industry-city-industry-city",
+        "driveFromPrev": 2,
+        "durationMin": 60,
+        "why": "Sichuan dan dan and a sit-down break inside IC — no parking move needed"
+      },
+      {
+        "time": "3:30 PM",
+        "venueId": "colson-patisserie-industry-city",
+        "driveFromPrev": 1,
+        "durationMin": 30,
+        "why": "Belgian pastry pause, still on foot"
+      },
+      {
+        "time": "4:10 PM",
+        "venueId": "ba-xuyen",
+        "driveFromPrev": 4,
+        "durationMin": 25,
+        "why": "close out with a banh mi for the drive home — eat in the car if needed"
+      }
+    ],
+    "notes": "Park at Industry City Lot B once you arrive in the zone — most stops are walkable from there. BQE Saturday morning is usually clear; expect 35-45 min Flushing → Sunset Park. Park Asia gets a line by 11:15.",
+    "generatedAt": "2026-05-16T05:08:00.000Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:08:29.617Z"
+  },
+  {
+    "id": "itin-foodie-2026-05-16-002",
+    "type": "itinerary-candidate",
+    "name": "Carroll Gardens to Cobble Hill Italian-Spanish Slow Day",
+    "vibe": "foodie",
+    "startTime": "9:00 AM",
+    "estTotalMin": 482,
+    "totalStops": 8,
+    "totalDriveMin": 77,
+    "zonesTouched": [
+      "flushing",
+      "cobble-hill",
+      "carroll-gardens"
+    ],
+    "blurb": "Drive into the Court Street / Smith Street spine and walk the rest of the day. Bagels and bakery in the morning, a long Spanish lunch, then a marathon Italian sit-down, ending at a cocktail bar that is genuinely one of the best in the city.",
+    "stops": [
+      {
+        "time": "9:50 AM",
+        "venueId": "buona-sera-bagels-en-route-on-atlantic-cobble-hill",
+        "driveFromPrev": 45,
+        "durationMin": 25,
+        "why": "opens early on Atlantic — natural first stop driving in from Queens"
+      },
+      {
+        "time": "10:20 AM",
+        "venueId": "court-street-grocers-carroll-gardens",
+        "driveFromPrev": 6,
+        "durationMin": 30,
+        "why": "grab a sandwich for later and an espresso for now"
+      },
+      {
+        "time": "11:00 AM",
+        "venueId": "mia-s-bakery-cobble-hill",
+        "driveFromPrev": 4,
+        "durationMin": 25,
+        "why": "tiny laminated-pastry case worth a detour"
+      },
+      {
+        "time": "11:35 AM",
+        "venueId": "maman-cobble-hill-cobble-hill",
+        "driveFromPrev": 3,
+        "durationMin": 40,
+        "why": "sit-down second breakfast, photogenic interior"
+      },
+      {
+        "time": "12:30 PM",
+        "venueId": "la-vara-cobble-hill",
+        "driveFromPrev": 4,
+        "durationMin": 75,
+        "why": "long Spanish-Jewish-Moorish lunch — book ahead, this anchors the day"
+      },
+      {
+        "time": "2:00 PM",
+        "venueId": "frankies-457-spuntino-carroll-gardens",
+        "driveFromPrev": 6,
+        "durationMin": 90,
+        "why": "if not full, do a half-portion of the cavatelli + meatballs in the back garden"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "saint-julivert-fisherie-cobble-hill",
+        "driveFromPrev": 4,
+        "durationMin": 60,
+        "why": "raw bar happy hour energy, lighter after the pasta"
+      },
+      {
+        "time": "5:15 PM",
+        "venueId": "the-long-island-bar-cobble-hill",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "end on a Daiquiri and a burger at the bar — top-tier nightcap"
+      }
+    ],
+    "notes": "Park once on Court St / Smith St — most of these are within 5-block walks of each other; 'drives' here are really repositioning + parking moves. Reserve La Vara and Frankies in advance for a Saturday.",
+    "generatedAt": "2026-05-16T05:08:00.000Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:08:29.646Z"
+  },
+  {
+    "id": "itin-foodie-2026-05-16-003",
+    "type": "itinerary-candidate",
+    "name": "Red Hook BBQ + Industry City Sweet Crawl",
+    "vibe": "foodie",
+    "startTime": "9:00 AM",
+    "estTotalMin": 434,
+    "totalStops": 8,
+    "totalDriveMin": 79,
+    "zonesTouched": [
+      "flushing",
+      "red-hook",
+      "industry-city"
+    ],
+    "blurb": "Hard-charging foodie day: get to Red Hook before Hometown's line, hammer the BBQ + key lime pie one-two punch, then drift south to Industry City for an afternoon of bakery + taco + bakery, closing back in Red Hook at the Tavern.",
+    "stops": [
+      {
+        "time": "9:50 AM",
+        "venueId": "cafe-here-red-hook",
+        "driveFromPrev": 50,
+        "durationMin": 35,
+        "why": "low-key Red Hook breakfast that opens before BBQ joints do"
+      },
+      {
+        "time": "10:30 AM",
+        "venueId": "steve-s-authentic-key-lime-pie-red-hook",
+        "driveFromPrev": 3,
+        "durationMin": 20,
+        "why": "buy a swingle for the cooler, eat one walking the pier"
+      },
+      {
+        "time": "11:00 AM",
+        "venueId": "hometown-bar-b-que-red-hook",
+        "driveFromPrev": 2,
+        "durationMin": 75,
+        "why": "in line right at open — brisket sells out by mid-afternoon"
+      },
+      {
+        "time": "12:25 PM",
+        "venueId": "sahadi-s-at-industry-city-industry-city",
+        "driveFromPrev": 8,
+        "durationMin": 45,
+        "why": "olives, dips, halva — pantry-stocking break that's also lunch-2"
+      },
+      {
+        "time": "1:15 PM",
+        "venueId": "colson-patisserie-industry-city",
+        "driveFromPrev": 1,
+        "durationMin": 30,
+        "why": "kouign-amann after BBQ resets the palate"
+      },
+      {
+        "time": "1:55 PM",
+        "venueId": "tacos-el-bronco",
+        "driveFromPrev": 4,
+        "durationMin": 35,
+        "why": "al pastor + suadero from the parking-lot truck — different vibe entirely"
+      },
+      {
+        "time": "2:40 PM",
+        "venueId": "xin-fa-bakery",
+        "driveFromPrev": 3,
+        "durationMin": 25,
+        "why": "egg tarts to-go, the back-pocket Chinatown bakery move"
+      },
+      {
+        "time": "3:30 PM",
+        "venueId": "red-hook-tavern-red-hook",
+        "driveFromPrev": 8,
+        "durationMin": 90,
+        "why": "loop back to Red Hook for the early-evening burger window"
+      }
+    ],
+    "notes": "Hometown opens at 11 — being in line by 10:55 is the whole game. Red Hook parking is easy on Saturdays. The IC → Red Hook loop adds ~10 min if the BQE jams; alternate via 3rd Ave.",
+    "generatedAt": "2026-05-16T05:08:00.000Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:08:29.667Z"
+  },
+  {
+    "id": "itin-foodie-2026-05-16-004",
+    "type": "itinerary-candidate",
+    "name": "Smorgasburg Saturday + Williamsburg Cocktail Marathon",
+    "vibe": "foodie",
+    "startTime": "9:00 AM",
+    "estTotalMin": 496,
+    "totalStops": 7,
+    "totalDriveMin": 76,
+    "zonesTouched": [
+      "flushing",
+      "williamsburg",
+      "greenpoint"
+    ],
+    "blurb": "Saturday-only Smorgasburg is the spine. Win Son first to pace the eating, then graze 25+ vendors at the park, then a Greenpoint sit-down, then end the night on the city's best old-school cocktail block.",
+    "stops": [
+      {
+        "time": "9:30 AM",
+        "venueId": "win-son-bakery-williamsburg",
+        "driveFromPrev": 25,
+        "durationMin": 30,
+        "why": "Taiwanese pastries — opens 8, no line at 9:30, real food before the festival grazing"
+      },
+      {
+        "time": "10:15 AM",
+        "venueId": "smorgasburg-williamsburg-saturday-only-williamsburg",
+        "driveFromPrev": 6,
+        "durationMin": 90,
+        "why": "Saturday-only, 11 AM start — be early so vendors haven't sold out"
+      },
+      {
+        "time": "11:55 AM",
+        "venueId": "domino-park",
+        "driveFromPrev": 4,
+        "durationMin": 30,
+        "why": "walk off Smorgasburg along the water"
+      },
+      {
+        "time": "12:45 PM",
+        "venueId": "lingo-greenpoint-greenpoint",
+        "driveFromPrev": 8,
+        "durationMin": 75,
+        "why": "Eastern European tasting menu energy — sit-down counterweight to street food"
+      },
+      {
+        "time": "2:30 PM",
+        "venueId": "maison-premiere",
+        "driveFromPrev": 6,
+        "durationMin": 60,
+        "why": "oysters + absinthe — the back garden if it's open"
+      },
+      {
+        "time": "3:45 PM",
+        "venueId": "hotel-delmano-williamsburg",
+        "driveFromPrev": 2,
+        "durationMin": 60,
+        "why": "low-light bar marble across the street, classic cocktails"
+      },
+      {
+        "time": "5:15 PM",
+        "venueId": "bohemian-hall-beer-garden",
+        "driveFromPrev": 25,
+        "durationMin": 75,
+        "why": "end across the bridge in Astoria for kielbasa + a pilsner — on the way home"
+      }
+    ],
+    "notes": "Smorgasburg only runs Saturdays April–October; verify dates before locking. Williamsburg parking is rough Saturdays — consider a paid lot near McCarren. Bohemian Hall on the way back to Flushing makes the closing stop nearly free in drive time.",
+    "generatedAt": "2026-05-16T05:08:00.000Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:08:29.692Z"
+  },
+  {
+    "id": "itin-foodie-2026-05-16-005",
+    "type": "itinerary-candidate",
+    "name": "Cross-Brooklyn Bakery → Pizza Pilgrimage",
+    "vibe": "foodie",
+    "startTime": "9:00 AM",
+    "estTotalMin": 502,
+    "totalStops": 8,
+    "totalDriveMin": 87,
+    "zonesTouched": [
+      "flushing",
+      "bed-stuy",
+      "williamsburg",
+      "carroll-gardens",
+      "park-slope",
+      "gowanus"
+    ],
+    "blurb": "Multi-neighborhood foodie traversal. Start with bagels in Bed-Stuy, swing through Taiwanese pastry in Williamsburg, lunch on Italian in Carroll Gardens, take an ice cream + beer break, and end at Lucali's walk-up line — which is the whole point.",
+    "stops": [
+      {
+        "time": "9:40 AM",
+        "venueId": "tompkins-square-bagels-bed-stuy-tompkins-ave-outpost-bed-stuy",
+        "driveFromPrev": 35,
+        "durationMin": 25,
+        "why": "crisp bagels + scallion cream cheese, lighter than the Brooklyn classics"
+      },
+      {
+        "time": "10:15 AM",
+        "venueId": "win-son-bakery",
+        "driveFromPrev": 10,
+        "durationMin": 25,
+        "why": "second-breakfast scallion milk bread, doable in same neighborhood swing"
+      },
+      {
+        "time": "11:00 AM",
+        "venueId": "court-street-grocers-carroll-gardens",
+        "driveFromPrev": 15,
+        "durationMin": 35,
+        "why": "set up for lunch with an Italian combo — eat half now, save half"
+      },
+      {
+        "time": "12:00 PM",
+        "venueId": "frankies-457-spuntino",
+        "driveFromPrev": 4,
+        "durationMin": 80,
+        "why": "long sit-down lunch in the garden — the day's pacing anchor"
+      },
+      {
+        "time": "1:35 PM",
+        "venueId": "heap-s-ice-cream-park-slope",
+        "driveFromPrev": 8,
+        "durationMin": 25,
+        "why": "dessert walk, then drive south"
+      },
+      {
+        "time": "2:15 PM",
+        "venueId": "threes-brewing-gowanus-gowanus",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "a pilsner break before the dinner queue"
+      },
+      {
+        "time": "3:30 PM",
+        "venueId": "claro-gowanus",
+        "driveFromPrev": 4,
+        "durationMin": 90,
+        "why": "Oaxacan moles as a savory bridge to the pizza queue"
+      },
+      {
+        "time": "5:10 PM",
+        "venueId": "lucali-carroll-gardens",
+        "driveFromPrev": 6,
+        "durationMin": 75,
+        "why": "join the walk-up list before 5:30 doors — this is the pilgrimage finish"
+      }
+    ],
+    "notes": "Lucali is cash, walk-up-only, and lines start before doors — being there by 5:15 is essential. Day intentionally over-eats; treat Court Street + Frankies as one combined lunch if needed. BQE → Williamsburg Bridge can stack mid-Saturday; if so, swap to Pulaski.",
+    "generatedAt": "2026-05-16T05:08:00.000Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:08:29.715Z"
+  },
+  {
+    "id": "itin-photo-2026-05-16-001",
+    "type": "itinerary-candidate",
+    "name": "Golden Hour DUMBO — galleries to Brooklyn Bridge Park sunset",
+    "vibe": "photo",
+    "startTime": "9:00 AM",
+    "estTotalMin": 590,
+    "totalStops": 7,
+    "totalDriveMin": 120,
+    "zonesTouched": [
+      "flushing",
+      "cobble-hill",
+      "dumbo",
+      "red-hook",
+      "brooklyn-heights"
+    ],
+    "blurb": "Start in Cobble Hill with Maman's storybook interior, then sweep through DUMBO's gallery row for cooler indoor light. Cross to Red Hook for slow industrial frames at Pioneer Works before climbing back up to the Brooklyn Heights Promenade as the sun gets low. End on Brooklyn Bridge Park's piers, where the bridge silhouettes against pink Manhattan glass.",
+    "stops": [
+      {
+        "time": "9:55 AM",
+        "venueId": "maman-cobble-hill-cobble-hill",
+        "driveFromPrev": 55,
+        "durationMin": 50,
+        "why": "floral-tile photo bait + croissant; opens early so 10 AM beats the line"
+      },
+      {
+        "time": "11:00 AM",
+        "venueId": "klompching-gallery-dumbo",
+        "driveFromPrev": 15,
+        "durationMin": 60,
+        "why": "fine-art photography gallery; ideal warm-up before Brooklyn-shooting all day"
+      },
+      {
+        "time": "12:15 PM",
+        "venueId": "smack-mellon",
+        "driveFromPrev": 5,
+        "durationMin": 50,
+        "why": "raw post-industrial space; brick + steel frames"
+      },
+      {
+        "time": "1:30 PM",
+        "venueId": "hometown-bar-b-que-red-hook",
+        "driveFromPrev": 15,
+        "durationMin": 75,
+        "why": "smoke-fogged interior, neon, fuels the second half"
+      },
+      {
+        "time": "3:15 PM",
+        "venueId": "pioneer-works",
+        "driveFromPrev": 5,
+        "durationMin": 75,
+        "why": "cathedral-scale main hall; the prototypical Brooklyn art photo"
+      },
+      {
+        "time": "5:00 PM",
+        "venueId": "brooklyn-heights-promenade",
+        "driveFromPrev": 20,
+        "durationMin": 60,
+        "why": "low side-lit skyline view — best window of the day"
+      },
+      {
+        "time": "6:30 PM",
+        "venueId": "brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights",
+        "driveFromPrev": 5,
+        "durationMin": 100,
+        "why": "sunset over the bridge + Manhattan; carousel and pier reflections"
+      }
+    ],
+    "notes": "BQE southbound from Flushing is the bottleneck — leaving by 9 AM front-loads the worst of it. Park once in DUMBO (Pearl St lots) and Pioneer Works area (street). Sunset 5/16/2026 ~8:08 PM, so Promenade 5–6 PM = best directional light, Pier 6 6:30 PM onward catches the post-sunset blue hour.",
+    "generatedAt": "2026-05-16T05:09:29.771Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:11:55.651Z"
+  },
+  {
+    "id": "itin-photo-2026-05-16-002",
+    "type": "itinerary-candidate",
+    "name": "Red Hook Industrial — Statue of Liberty sunset",
+    "vibe": "photo",
+    "startTime": "9:00 AM",
+    "estTotalMin": 620,
+    "totalStops": 8,
+    "totalDriveMin": 110,
+    "zonesTouched": [
+      "flushing",
+      "red-hook",
+      "brooklyn-heights",
+      "red-hook"
+    ],
+    "blurb": "An anti-Manhattan day: low warehouses, cobblestones, harbor cranes, and water on three sides. Coffee at Cafe Here, contemplative gallery time at Pioneer Works, smoked brisket at Hometown, key-lime detour, then a long walk on the Promenade and Brooklyn Bridge Park while the light turns. Loop back to Sunny's for a dive-bar warm-up, then sunset at the Louis Valentino Jr. Pier where the Statue of Liberty lines up dead-center against the dropping sun.",
+    "stops": [
+      {
+        "time": "9:50 AM",
+        "venueId": "cafe-here-red-hook",
+        "driveFromPrev": 50,
+        "durationMin": 45,
+        "why": "plant-filled corner café — clean morning light for the day's opening frame"
+      },
+      {
+        "time": "11:00 AM",
+        "venueId": "pioneer-works",
+        "driveFromPrev": 10,
+        "durationMin": 75,
+        "why": "hangar-scale interior; the day's hero photo location"
+      },
+      {
+        "time": "12:30 PM",
+        "venueId": "hometown-bar-b-que-red-hook",
+        "driveFromPrev": 5,
+        "durationMin": 75,
+        "why": "backlit windows + smoke; lunch + texture shots"
+      },
+      {
+        "time": "2:00 PM",
+        "venueId": "steve-s-authentic-key-lime-pie-red-hook",
+        "driveFromPrev": 5,
+        "durationMin": 30,
+        "why": "hand-painted hangar shack on a working pier — iconic small frame"
+      },
+      {
+        "time": "2:45 PM",
+        "venueId": "brooklyn-heights-promenade",
+        "driveFromPrev": 15,
+        "durationMin": 60,
+        "why": "mid-afternoon skyline; tighter compressions with longer lens"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights",
+        "driveFromPrev": 5,
+        "durationMin": 90,
+        "why": "piers + carousel + bridge convergence at golden hour"
+      },
+      {
+        "time": "5:45 PM",
+        "venueId": "sunny-s-bar-red-hook",
+        "driveFromPrev": 15,
+        "durationMin": 75,
+        "why": "holy-grail dive interior; tin ceiling, mismatched lamps, low-light portrait practice"
+      },
+      {
+        "time": "7:15 PM",
+        "venueId": "louis-valentino-jr-park-pier",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "sunset behind Lady Liberty — the most cinematic free view in NYC on this day"
+      }
+    ],
+    "notes": "Red Hook has no subway, so the car is the unlock. Parking is easy on Conover/Van Brunt. Sunny's opens at 4 PM on Saturdays; arriving at 5:45 lets you shoot it half-empty before the regulars fill in. Valentino Pier sunset bearing is ~290° in mid-May, putting the Statue of Liberty directly under the sun ~7:50–8:10 PM.",
+    "generatedAt": "2026-05-16T05:09:29.771Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:11:55.667Z"
+  },
+  {
+    "id": "itin-photo-2026-05-16-003",
+    "type": "itinerary-candidate",
+    "name": "Sunset Park skyline — Green-Wood to Bush Terminal Piers",
+    "vibe": "photo",
+    "startTime": "9:00 AM",
+    "estTotalMin": 595,
+    "totalStops": 8,
+    "totalDriveMin": 100,
+    "zonesTouched": [
+      "flushing",
+      "sunset-park",
+      "industry-city",
+      "sunset-park"
+    ],
+    "blurb": "A south-Brooklyn day built on three legendary high-point views. Open with quiet Tadaima Coffee, spend the late morning in Green-Wood Cemetery's gothic catacombs and obelisks, eat Hainan chicken among neon Chinese signage, browse Industry City makers, then end with a triple-header: Bush Terminal Piers Park's marsh boardwalks, Carreau Club's pétanque-court strings of lights at dusk, and the obvious final frame — Sunset Park itself, where the Statue of Liberty sits between Manhattan and Jersey at the exact hour the name promises.",
+    "stops": [
+      {
+        "time": "9:50 AM",
+        "venueId": "tadaima-coffee-sunset-park",
+        "driveFromPrev": 50,
+        "durationMin": 45,
+        "why": "Japanese minimalist coffee bar; clean compositions wake up the eye"
+      },
+      {
+        "time": "11:00 AM",
+        "venueId": "green-wood-cemetery-sunset-park",
+        "driveFromPrev": 10,
+        "durationMin": 90,
+        "why": "gothic gate, monk parakeets, 478 acres of monuments — best mid-morning sun angle"
+      },
+      {
+        "time": "12:45 PM",
+        "venueId": "hainan-chicken-house-sunset-park",
+        "driveFromPrev": 10,
+        "durationMin": 60,
+        "why": "saturated red interior + Cantonese signage; lunch + frame"
+      },
+      {
+        "time": "2:00 PM",
+        "venueId": "makers-guild",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "Industry City craft floor with massive skylights for soft top light"
+      },
+      {
+        "time": "3:15 PM",
+        "venueId": "colson-patisserie-industry-city",
+        "driveFromPrev": 0,
+        "durationMin": 30,
+        "why": "pastel-pastry counter + IC courtyard backdrop"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "bush-terminal-piers-park-sunset-park",
+        "driveFromPrev": 10,
+        "durationMin": 90,
+        "why": "tidal pools, salt marsh, Manhattan across the harbor — underused"
+      },
+      {
+        "time": "6:00 PM",
+        "venueId": "carreau-club",
+        "driveFromPrev": 10,
+        "durationMin": 75,
+        "why": "string-lit gravel courts at blue hour; aperture-wide bokeh"
+      },
+      {
+        "time": "7:30 PM",
+        "venueId": "sunset-park-the-actual-park-sunset-park",
+        "driveFromPrev": 5,
+        "durationMin": 45,
+        "why": "the canonical sunset view; Manhattan-to-Statue-of-Liberty panorama"
+      }
+    ],
+    "notes": "Park once at Industry City Lot B mid-day and walk between IC, Tadaima area, and the surrounding stops. Sunset Park (the park itself) is up the hill on 41st St between 5th & 7th Aves — the slope faces due west; arrive by 7:30 PM to lock in a bench. Green-Wood requires entry through 25th St Gothic gate — closes 7 PM but you'll be done by 12:30.",
+    "generatedAt": "2026-05-16T05:09:29.771Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:11:55.688Z"
+  },
+  {
+    "id": "itin-photo-2026-05-16-004",
+    "type": "itinerary-candidate",
+    "name": "Williamsburg waterfront — Domino Park sunset",
+    "vibe": "photo",
+    "startTime": "9:00 AM",
+    "estTotalMin": 625,
+    "totalStops": 7,
+    "totalDriveMin": 140,
+    "zonesTouched": [
+      "flushing",
+      "williamsburg",
+      "greenpoint",
+      "brooklyn-heights",
+      "williamsburg"
+    ],
+    "blurb": "The day for skyline-facing waterfronts. Win Son's pastry case, Smorgasburg's saturated chaos, then Domino Park's preserved sugar-refinery cranes against Manhattan. A Noguchi Museum interlude resets the eye with stone and shadow before the Promenade's wide-angle frame. Maison Premiere's pewter bar warms into golden hour, and Domino's lawn closes the loop at sunset with the Williamsburg Bridge cutting the frame in half.",
+    "stops": [
+      {
+        "time": "9:35 AM",
+        "venueId": "win-son-bakery-williamsburg",
+        "driveFromPrev": 35,
+        "durationMin": 45,
+        "why": "Taiwanese-American bakery; window seat for street-life morning frames"
+      },
+      {
+        "time": "10:45 AM",
+        "venueId": "smorgasburg-williamsburg-saturday-only-williamsburg",
+        "driveFromPrev": 10,
+        "durationMin": 90,
+        "why": "Saturday-only; the densest single photo location of the day"
+      },
+      {
+        "time": "12:45 PM",
+        "venueId": "domino-park-williamsburg",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "midday: walk the elevated walkway between the refinery columns"
+      },
+      {
+        "time": "2:00 PM",
+        "venueId": "noguchi-museum",
+        "driveFromPrev": 30,
+        "durationMin": 90,
+        "why": "stone garden + indoor galleries; trade color for tone for an hour"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "brooklyn-heights-promenade",
+        "driveFromPrev": 30,
+        "durationMin": 60,
+        "why": "different angle on Manhattan than Domino — long-lens compressions"
+      },
+      {
+        "time": "5:15 PM",
+        "venueId": "maison-premiere",
+        "driveFromPrev": 25,
+        "durationMin": 90,
+        "why": "pewter + marble interior; oysters; golden window light on the back banquettes"
+      },
+      {
+        "time": "7:30 PM",
+        "venueId": "domino-park-williamsburg",
+        "driveFromPrev": 5,
+        "durationMin": 50,
+        "why": "return for sunset — Williamsburg Bridge silhouette + skyline glow"
+      }
+    ],
+    "notes": "Williamsburg is the closest of these zones to Flushing (~35 min Saturday). Park near Domino on Kent and treat it as the anchor; the Noguchi detour to LIC adds ~30 min each way but the contrast is the point. If Maison Premiere has a wait, Hotel Delmano next door is a near-identical mood. Sunset along Kent Ave at 8:08 PM is unobstructed.",
+    "generatedAt": "2026-05-16T05:09:29.771Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:11:55.705Z"
+  },
+  {
+    "id": "itin-photo-2026-05-16-005",
+    "type": "itinerary-candidate",
+    "name": "Gowanus warehouses → Sunken Harbor sunset cocktails",
+    "vibe": "photo",
+    "startTime": "9:00 AM",
+    "estTotalMin": 630,
+    "totalStops": 8,
+    "totalDriveMin": 105,
+    "zonesTouched": [
+      "flushing",
+      "cobble-hill",
+      "carroll-gardens",
+      "gowanus",
+      "brooklyn-heights"
+    ],
+    "blurb": "A texture-heavy day rolling through Cobble Hill's tiled cafes, Carroll Gardens brownstones, Gowanus's bowery-industrial bones, then climbing the hill to Brooklyn Heights for sunset cocktails on the Sunken Harbor Club's rooftop, with the Manhattan skyline lighting up at dusk. Public Records' kelp-tank lobby and Threes' brewery yard give two strong indoor frames between the outdoor stretches.",
+    "stops": [
+      {
+        "time": "9:55 AM",
+        "venueId": "maman-cobble-hill-cobble-hill",
+        "driveFromPrev": 55,
+        "durationMin": 45,
+        "why": "tiled-floor café; opens early; sets the day's palette"
+      },
+      {
+        "time": "11:00 AM",
+        "venueId": "mia-s-bakery-cobble-hill",
+        "driveFromPrev": 5,
+        "durationMin": 30,
+        "why": "painted-glass pastry case; storefront frame"
+      },
+      {
+        "time": "11:45 AM",
+        "venueId": "frankies-457-spuntino",
+        "driveFromPrev": 5,
+        "durationMin": 75,
+        "why": "garden room with grape vines for filtered midday light; early lunch"
+      },
+      {
+        "time": "1:15 PM",
+        "venueId": "public-records",
+        "driveFromPrev": 10,
+        "durationMin": 60,
+        "why": "plant-wrapped bar room + listening lounge; weird but very photogenic interior"
+      },
+      {
+        "time": "2:30 PM",
+        "venueId": "threes-brewing-gowanus-gowanus",
+        "driveFromPrev": 5,
+        "durationMin": 75,
+        "why": "industrial taproom + back-lot picnic tables"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "brooklyn-heights-promenade",
+        "driveFromPrev": 15,
+        "durationMin": 75,
+        "why": "long stretch on the Promenade as the sun starts to lean"
+      },
+      {
+        "time": "5:30 PM",
+        "venueId": "brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights",
+        "driveFromPrev": 5,
+        "durationMin": 90,
+        "why": "Pier 2 hammock grove + Pier 6 lawn at peak golden hour"
+      },
+      {
+        "time": "7:15 PM",
+        "venueId": "sunken-harbor-club",
+        "driveFromPrev": 5,
+        "durationMin": 75,
+        "why": "rooftop tiki bar on the Brooklyn Bridge Park edge; sunset cocktails with skyline reflection"
+      }
+    ],
+    "notes": "Sunken Harbor Club is reservation-friendly but the rooftop is walk-in; arrive by 7:15 PM to claim a west-facing rail. Parking in Cobble Hill/Carroll Gardens is easier on Saturday mornings before 11 than later. Public Records is technically a night venue but the front bar and lobby are open for daytime coffee/photos.",
+    "generatedAt": "2026-05-16T05:09:29.771Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:11:55.722Z"
+  },
+  {
+    "id": "itin-active-2026-05-16-001",
+    "type": "itinerary-candidate",
+    "name": "Boulder · Axe · Dance — Gowanus Triple Threat",
+    "vibe": "active",
+    "startTime": "9:00 AM",
+    "estTotalMin": 735,
+    "totalStops": 7,
+    "totalDriveMin": 101,
+    "zonesTouched": [
+      "flushing",
+      "cobble-hill",
+      "gowanus",
+      "park-slope",
+      "carroll-gardens",
+      "gowanus"
+    ],
+    "blurb": "Bagel fuel in Cobble Hill, two hours of bouldering at Brooklyn Boulders, a brewery reset, axes flying in Park Slope, retro shuffleboard at Royal Palms, Frankies pasta for recovery carbs, and a late dance set at Public Records. Maximum body-thrash, single tight Brooklyn cluster.",
+    "stops": [
+      {
+        "time": "9:50 AM",
+        "venueId": "buona-sera-bagels-en-route-on-atlantic-cobble-hill",
+        "driveFromPrev": 50,
+        "durationMin": 30,
+        "why": "en-route bagel + coffee to load carbs before climbing"
+      },
+      {
+        "time": "10:30 AM",
+        "venueId": "brooklyn-boulders-gowanus-gowanus",
+        "driveFromPrev": 10,
+        "durationMin": 120,
+        "why": "big bouldering block while arms are fresh; weekend morning is calmest"
+      },
+      {
+        "time": "12:45 PM",
+        "venueId": "threes-brewing-gowanus-gowanus",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "taproom lunch with food vendor; sit + recover within 5 min of next stop"
+      },
+      {
+        "time": "2:00 PM",
+        "venueId": "kick-axe-throwing",
+        "driveFromPrev": 10,
+        "durationMin": 90,
+        "why": "axe lane booking — channel the climbing adrenaline into throwing"
+      },
+      {
+        "time": "3:45 PM",
+        "venueId": "royal-palms-shuffleboard-club-gowanus",
+        "driveFromPrev": 8,
+        "durationMin": 90,
+        "why": "low-impact active phase; tropical drinks while legs recover"
+      },
+      {
+        "time": "6:00 PM",
+        "venueId": "frankies-457-spuntino",
+        "driveFromPrev": 10,
+        "durationMin": 90,
+        "why": "hearty Italian dinner before the late-night dance set"
+      },
+      {
+        "time": "8:30 PM",
+        "venueId": "public-records",
+        "driveFromPrev": 8,
+        "durationMin": 150,
+        "why": "close the day on the floor — sound system + late hours = clean exit back to Flushing"
+      }
+    ],
+    "notes": "Pre-book Brooklyn Boulders day pass + Kick Axe lane online. Royal Palms walk-ins fine Saturday afternoon. Park near Royal Palms (free street on 5th) and pivot on foot to Frankies if 2nd Ave alt-side allows. Saturday return Flushing ~12am = 30 min.",
+    "generatedAt": "2026-05-16T05:12:55.768Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:14:57.676Z"
+  },
+  {
+    "id": "itin-active-2026-05-16-002",
+    "type": "itinerary-candidate",
+    "name": "Industry City Game Crawl + Late Dance",
+    "vibe": "active",
+    "startTime": "9:00 AM",
+    "estTotalMin": 720,
+    "totalStops": 8,
+    "totalDriveMin": 96,
+    "zonesTouched": [
+      "flushing",
+      "sunset-park",
+      "industry-city",
+      "industry-city",
+      "industry-city",
+      "industry-city",
+      "gowanus",
+      "gowanus"
+    ],
+    "blurb": "Coffee at Tadaima, bowling at Melody Lanes, dim sum carb-load, pétanque at Carreau Club in the IC courtyard, board-game wind-down at Brooklyn Game Knight, taco crawl dinner, then jump to Gowanus for Public Records dance close. One zone, max variety.",
+    "stops": [
+      {
+        "time": "9:50 AM",
+        "venueId": "tadaima-coffee-sunset-park",
+        "driveFromPrev": 50,
+        "durationMin": 40,
+        "why": "opens at 8am, calm Sunset Park morning before the IC complex stirs"
+      },
+      {
+        "time": "10:45 AM",
+        "venueId": "melody-lanes",
+        "driveFromPrev": 5,
+        "durationMin": 90,
+        "why": "vintage 8-lane alley, walk-in friendly before noon; warms up the day"
+      },
+      {
+        "time": "12:30 PM",
+        "venueId": "park-asia-dim-sum-sunset-park",
+        "driveFromPrev": 6,
+        "durationMin": 75,
+        "why": "prime Saturday dim-sum window; carbs for the afternoon"
+      },
+      {
+        "time": "2:00 PM",
+        "venueId": "carreau-club",
+        "driveFromPrev": 4,
+        "durationMin": 90,
+        "why": "reserve a pétanque lane in the IC courtyard — sun + drinks + active"
+      },
+      {
+        "time": "3:45 PM",
+        "venueId": "brooklyn-game-knight",
+        "driveFromPrev": 3,
+        "durationMin": 75,
+        "why": "sit-down board game break inside IC — same complex, no drive"
+      },
+      {
+        "time": "5:15 PM",
+        "venueId": "japan-village-food-hall",
+        "driveFromPrev": 3,
+        "durationMin": 75,
+        "why": "snack-style early dinner inside IC; multiple counters = pick-your-own"
+      },
+      {
+        "time": "7:00 PM",
+        "venueId": "royal-palms-shuffleboard-club-gowanus",
+        "driveFromPrev": 12,
+        "durationMin": 120,
+        "why": "shuffleboard golden-hour session before the dance floor opens"
+      },
+      {
+        "time": "9:30 PM",
+        "venueId": "public-records",
+        "driveFromPrev": 8,
+        "durationMin": 150,
+        "why": "end on the dance floor — closest serious sound system to Royal Palms"
+      }
+    ],
+    "notes": "Park free in IC Lot B all day (validate inside if needed). Carreau requires lane reservation on Saturdays. Melody Lanes is cash-friendly but card OK. Public Records doors typically 9pm — arriving 9:30 is right.",
+    "generatedAt": "2026-05-16T05:12:55.768Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:14:57.695Z"
+  },
+  {
+    "id": "itin-active-2026-05-16-003",
+    "type": "itinerary-candidate",
+    "name": "Beat The Bomb → Pier 2 → Gowanus Late",
+    "vibe": "active",
+    "startTime": "9:00 AM",
+    "estTotalMin": 705,
+    "totalStops": 7,
+    "totalDriveMin": 92,
+    "zonesTouched": [
+      "flushing",
+      "cobble-hill",
+      "dumbo",
+      "brooklyn-heights",
+      "gowanus",
+      "gowanus",
+      "gowanus"
+    ],
+    "blurb": "Bagel run on Atlantic, the immersive Beat The Bomb experience in DUMBO, then sweat it out at Pier 2's free outdoor courts (handball/basketball/rollerskating). Drive south for a Threes lunch, axe throwing, Insa for Korean BBQ + party energy, and Public Records to finish.",
+    "stops": [
+      {
+        "time": "9:45 AM",
+        "venueId": "buona-sera-bagels-en-route-on-atlantic-cobble-hill",
+        "driveFromPrev": 45,
+        "durationMin": 30,
+        "why": "early carb load on the route into Brooklyn"
+      },
+      {
+        "time": "10:30 AM",
+        "venueId": "beat-the-bomb",
+        "driveFromPrev": 12,
+        "durationMin": 90,
+        "why": "book the 10:30 slot — 60-min team experience, paint splatter finale"
+      },
+      {
+        "time": "12:15 PM",
+        "venueId": "brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights",
+        "driveFromPrev": 8,
+        "durationMin": 120,
+        "why": "free outdoor courts on Pier 2 + waterfront walking; perfect after a confined BTB room"
+      },
+      {
+        "time": "2:30 PM",
+        "venueId": "threes-brewing-gowanus-gowanus",
+        "driveFromPrev": 12,
+        "durationMin": 75,
+        "why": "late lunch + sit-down brewery reset"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "kick-axe-throwing",
+        "driveFromPrev": 7,
+        "durationMin": 90,
+        "why": "axe block in the high-energy afternoon slot"
+      },
+      {
+        "time": "6:00 PM",
+        "venueId": "insa",
+        "driveFromPrev": 6,
+        "durationMin": 150,
+        "why": "Korean BBQ + karaoke rooms — dinner that doubles as pre-game"
+      },
+      {
+        "time": "9:00 PM",
+        "venueId": "public-records",
+        "driveFromPrev": 2,
+        "durationMin": 150,
+        "why": "two-block walk to dance floor — clean handoff"
+      }
+    ],
+    "notes": "Beat The Bomb 10:30 slot is most reliable Saturday booking. Pier 2 courts are free, first-come; bring sneakers. Insa karaoke rooms must be pre-booked (1.5–2 hr blocks). Walking from Insa to Public Records, leave the car at Insa's lot.",
+    "generatedAt": "2026-05-16T05:12:55.768Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:14:57.712Z"
+  },
+  {
+    "id": "itin-active-2026-05-16-004",
+    "type": "itinerary-candidate",
+    "name": "Double-Climb Marathon + Maison Premiere",
+    "vibe": "active",
+    "startTime": "9:00 AM",
+    "estTotalMin": 705,
+    "totalStops": 7,
+    "totalDriveMin": 87,
+    "zonesTouched": [
+      "flushing",
+      "cobble-hill",
+      "carroll-gardens",
+      "carroll-gardens",
+      "gowanus",
+      "park-slope",
+      "williamsburg",
+      "williamsburg"
+    ],
+    "blurb": "Climber's day: Maman coffee, then a long Movement Gowanus bouldering block, Court Street Grocers sandwich pickup eaten at Brooklyn Bridge Park, axe throwing for shoulder dessert, Lucali for the legendary pie, and an end-of-night romance pivot to Maison Premiere absinthe + late jazz.",
+    "stops": [
+      {
+        "time": "9:50 AM",
+        "venueId": "maman-cobble-hill-cobble-hill",
+        "driveFromPrev": 50,
+        "durationMin": 40,
+        "why": "opens 8am, espresso + almond cookie pre-climb"
+      },
+      {
+        "time": "10:45 AM",
+        "venueId": "movement-gowanus",
+        "driveFromPrev": 8,
+        "durationMin": 150,
+        "why": "big 2.5-hr bouldering session — bigger floor than BB Gowanus, more route variety"
+      },
+      {
+        "time": "1:30 PM",
+        "venueId": "court-street-grocers-carroll-gardens",
+        "driveFromPrev": 7,
+        "durationMin": 30,
+        "why": "order the Reggie to-go for park lunch"
+      },
+      {
+        "time": "2:15 PM",
+        "venueId": "brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights",
+        "driveFromPrev": 10,
+        "durationMin": 75,
+        "why": "recover with skyline views, optional Pier 2 handball if not wrecked"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "kick-axe-throwing",
+        "driveFromPrev": 8,
+        "durationMin": 90,
+        "why": "shoulder finisher — short throws, social energy"
+      },
+      {
+        "time": "6:30 PM",
+        "venueId": "lucali",
+        "driveFromPrev": 7,
+        "durationMin": 120,
+        "why": "line forms ~5pm; arriving 6:30 with one in line = realistic Saturday seat"
+      },
+      {
+        "time": "9:30 PM",
+        "venueId": "maison-premiere",
+        "driveFromPrev": 7,
+        "durationMin": 120,
+        "why": "oysters + absinthe in a romantic late room — soft, social high-energy close"
+      }
+    ],
+    "notes": "Movement Gowanus has rentals + day pass walk-in. Lucali is cash-only, no reservations — one person should line up by 5:45pm while others grab snacks. Maison Premiere open until 2am Saturday. Williamsburg → Flushing late = 25 min via BQE.",
+    "generatedAt": "2026-05-16T05:12:55.768Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:14:57.728Z"
+  },
+  {
+    "id": "itin-active-2026-05-16-005",
+    "type": "itinerary-candidate",
+    "name": "Hall of Science Head-Start → Industry City → Public Records",
+    "vibe": "active",
+    "startTime": "9:00 AM",
+    "estTotalMin": 720,
+    "totalStops": 8,
+    "totalDriveMin": 82,
+    "zonesTouched": [
+      "flushing",
+      "flushing",
+      "industry-city",
+      "industry-city",
+      "industry-city",
+      "industry-city",
+      "gowanus",
+      "gowanus"
+    ],
+    "blurb": "Use the home-zone advantage: NY Hall of Science (5 min from Ash) for the science playground + mini golf, then drive south for an Industry City game crawl — pétanque, bowling, taco lunch, board games. Cap with Royal Palms and a Public Records dance close.",
+    "stops": [
+      {
+        "time": "9:15 AM",
+        "venueId": "new-york-hall-of-science",
+        "driveFromPrev": 8,
+        "durationMin": 120,
+        "why": "open 10am Sat — but 9:15 arrival lets us park, line up; science playground + mini golf is 5 min from Ash"
+      },
+      {
+        "time": "11:30 AM",
+        "venueId": "xin-fa-bakery",
+        "driveFromPrev": 40,
+        "durationMin": 30,
+        "why": "quick Chinese bakery snack inside Industry City before active block"
+      },
+      {
+        "time": "12:15 PM",
+        "venueId": "carreau-club",
+        "driveFromPrev": 2,
+        "durationMin": 90,
+        "why": "midday pétanque lane in the IC courtyard"
+      },
+      {
+        "time": "2:00 PM",
+        "venueId": "tacos-el-bronco",
+        "driveFromPrev": 4,
+        "durationMin": 60,
+        "why": "legit Sunset Park tacos — quick fuel between active blocks"
+      },
+      {
+        "time": "3:15 PM",
+        "venueId": "melody-lanes",
+        "driveFromPrev": 3,
+        "durationMin": 90,
+        "why": "bowling block — vintage lanes, dim lighting, drinks at the counter"
+      },
+      {
+        "time": "5:00 PM",
+        "venueId": "brooklyn-game-knight",
+        "driveFromPrev": 3,
+        "durationMin": 75,
+        "why": "sit-down board game session — soft active recharge"
+      },
+      {
+        "time": "6:45 PM",
+        "venueId": "royal-palms-shuffleboard-club-gowanus",
+        "driveFromPrev": 14,
+        "durationMin": 120,
+        "why": "shuffleboard + tropical drinks dinner-adjacent; food trucks usually parked outside"
+      },
+      {
+        "time": "9:15 PM",
+        "venueId": "public-records",
+        "driveFromPrev": 8,
+        "durationMin": 150,
+        "why": "dance floor finale; closes the day in Gowanus before the 30-min drive home"
+      }
+    ],
+    "notes": "NY Hall of Science Saturday open 10am; arriving 9:15 = park + use playground area first (free), then enter when doors open. Carreau lane reservation required. Royal Palms tends to have a food truck Saturday eves but eat a small bite at Game Knight if hungry. Late return Flushing ~12am ~30 min.",
+    "generatedAt": "2026-05-16T05:12:55.768Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:14:57.745Z"
+  },
+  {
+    "id": "itin-chill-2026-05-16-001",
+    "type": "itinerary-candidate",
+    "name": "Industry City Slow Saturday",
+    "vibe": "chill",
+    "startTime": "9:00 AM",
+    "estTotalMin": 506,
+    "totalStops": 7,
+    "totalDriveMin": 71,
+    "zonesTouched": [
+      "flushing",
+      "sunset-park",
+      "industry-city",
+      "sunset-park",
+      "industry-city"
+    ],
+    "blurb": "Park once at Industry City, then orbit on foot and slow drives. Two coffees in Sunset Park to start, a long mid-day wander through Industry City's maker spaces and food hall, then the actual Sunset Park for skyline, Green-Wood for quiet beauty, and a pastry-and-bench wind-down. Designed for a day where nothing is rushed and the car barely moves after 10:30.",
+    "stops": [
+      {
+        "time": "9:40 AM",
+        "venueId": "tadaima-coffee-sunset-park",
+        "driveFromPrev": 40,
+        "durationMin": 60,
+        "why": "slow opener, Japanese-inflected calm before the borough wakes up"
+      },
+      {
+        "time": "10:45 AM",
+        "venueId": "city-league-coffee-roasters-sunset-park",
+        "driveFromPrev": 5,
+        "durationMin": 30,
+        "why": "second coffee, tighter pour, walk-in only"
+      },
+      {
+        "time": "11:25 AM",
+        "venueId": "industry-city-lot-b-parking-anchor-industry-city",
+        "driveFromPrev": 5,
+        "durationMin": 5,
+        "why": "park here and stop driving — everything else is walkable from this lot"
+      },
+      {
+        "time": "11:35 AM",
+        "venueId": "makers-guild",
+        "driveFromPrev": 0,
+        "durationMin": 85,
+        "why": "hands-on wander through artist studios; chill-curious anchor"
+      },
+      {
+        "time": "1:05 PM",
+        "venueId": "japan-village-food-hall",
+        "driveFromPrev": 0,
+        "durationMin": 60,
+        "why": "low-stakes lunch with options for everyone in the car"
+      },
+      {
+        "time": "2:15 PM",
+        "venueId": "sunset-park-the-actual-park-sunset-park",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "hilltop skyline view, blanket-on-grass slot"
+      },
+      {
+        "time": "3:25 PM",
+        "venueId": "green-wood-cemetery-sunset-park",
+        "driveFromPrev": 8,
+        "durationMin": 120,
+        "why": "long meditative wander — the chill core of the day"
+      },
+      {
+        "time": "5:33 PM",
+        "venueId": "colson-patisserie-industry-city",
+        "driveFromPrev": 8,
+        "durationMin": 45,
+        "why": "pastry + espresso wind-down before the drive home"
+      }
+    ],
+    "notes": "Total drive ~71 min keeps wheel time well under 90. Use the IC Lot B as a fixed pivot — re-parking in Sunset Park proper is annoying on Saturdays. Green-Wood main gate (25th St) closes 5 PM; enter by 3:30 PM. Skip if rain — swap Green-Wood for BOOKOFF ANI-LAB.",
+    "generatedAt": "2026-05-16T05:15:57.792Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:18:26.734Z"
+  },
+  {
+    "id": "itin-chill-2026-05-16-002",
+    "type": "itinerary-candidate",
+    "name": "DUMBO Galleries + Waterfront Drift",
+    "vibe": "chill",
+    "startTime": "9:00 AM",
+    "estTotalMin": 426,
+    "totalStops": 7,
+    "totalDriveMin": 66,
+    "zonesTouched": [
+      "flushing",
+      "cobble-hill",
+      "brooklyn-heights",
+      "dumbo",
+      "brooklyn-heights",
+      "cobble-hill"
+    ],
+    "blurb": "A waterfront-and-galleries chill arc. Bagels on Atlantic, then a slow promenade walk while the harbor light is still soft, three small-but-mighty DUMBO galleries in a tight cluster, lunch+lounging on the Brooklyn Bridge Park piers, and a Maman pastry to close. No museum stamina required — just looking, walking, sitting.",
+    "stops": [
+      {
+        "time": "9:35 AM",
+        "venueId": "buona-sera-bagels-en-route-on-atlantic-cobble-hill",
+        "driveFromPrev": 35,
+        "durationMin": 30,
+        "why": "first stop matches the route off the BQE; quick + classic"
+      },
+      {
+        "time": "10:15 AM",
+        "venueId": "brooklyn-heights-promenade-brooklyn-heights",
+        "driveFromPrev": 5,
+        "durationMin": 45,
+        "why": "slow walk with the best skyline view in the borough — morning light is the right light"
+      },
+      {
+        "time": "11:15 AM",
+        "venueId": "a-i-r-gallery-dumbo",
+        "driveFromPrev": 5,
+        "durationMin": 45,
+        "why": "women-run gallery, quiet, intimate scale to start the DUMBO loop"
+      },
+      {
+        "time": "12:15 PM",
+        "venueId": "klompching-gallery-dumbo",
+        "driveFromPrev": 3,
+        "durationMin": 30,
+        "why": "photography focus — pairs naturally after A.I.R."
+      },
+      {
+        "time": "1:00 PM",
+        "venueId": "smack-mellon-dumbo",
+        "driveFromPrev": 3,
+        "durationMin": 60,
+        "why": "former boiler room turned gallery; largest space of the three"
+      },
+      {
+        "time": "2:15 PM",
+        "venueId": "brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights",
+        "driveFromPrev": 5,
+        "durationMin": 90,
+        "why": "food kiosks, hammocks, basketball if anyone wants — long unstructured slot"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "maman-cobble-hill-cobble-hill",
+        "driveFromPrev": 10,
+        "durationMin": 60,
+        "why": "pastel-pretty wind-down with their nutty chocolate chip cookie"
+      }
+    ],
+    "notes": "DUMBO Saturday parking: aim for Pearl St near A.I.R. or the Pier 6 lot ($) if street is hopeless. Galleries are all walkable from one another (under 5 min each). If a gallery is between shows, swap in Beat The Bomb — but it's high-energy, off-vibe.",
+    "generatedAt": "2026-05-16T05:15:57.792Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:18:26.755Z"
+  },
+  {
+    "id": "itin-chill-2026-05-16-003",
+    "type": "itinerary-candidate",
+    "name": "Carroll Gardens Bakery Crawl",
+    "vibe": "chill",
+    "startTime": "9:00 AM",
+    "estTotalMin": 393,
+    "totalStops": 7,
+    "totalDriveMin": 78,
+    "zonesTouched": [
+      "flushing",
+      "cobble-hill",
+      "cobble-hill",
+      "brooklyn-heights",
+      "carroll-gardens",
+      "cobble-hill",
+      "carroll-gardens",
+      "park-slope"
+    ],
+    "blurb": "A pastry-paced loop through Brownstone Brooklyn. Bagel breakfast, two bakeries with deliberate spacing so you actually want each one, a promenade walk to reset the appetite, a Court Street Grocers sandwich lunch, then beer and ice cream to close. Maximum density of small good things, minimal logistical thinking.",
+    "stops": [
+      {
+        "time": "9:40 AM",
+        "venueId": "buona-sera-bagels-en-route-on-atlantic-cobble-hill",
+        "driveFromPrev": 40,
+        "durationMin": 30,
+        "why": "on-route from Flushing — eat in the car or on the sidewalk bench"
+      },
+      {
+        "time": "10:15 AM",
+        "venueId": "maman-cobble-hill-cobble-hill",
+        "driveFromPrev": 5,
+        "durationMin": 45,
+        "why": "second coffee + a long sit at the back banquette"
+      },
+      {
+        "time": "11:15 AM",
+        "venueId": "brooklyn-heights-promenade-brooklyn-heights",
+        "driveFromPrev": 5,
+        "durationMin": 45,
+        "why": "walk off the carbs, reset the stomach before lunch"
+      },
+      {
+        "time": "12:15 PM",
+        "venueId": "court-street-grocers-carroll-gardens-carroll-gardens",
+        "driveFromPrev": 8,
+        "durationMin": 60,
+        "why": "sandwich and a bench in Carroll Park — the central lunch of the loop"
+      },
+      {
+        "time": "1:30 PM",
+        "venueId": "mia-s-bakery-cobble-hill",
+        "driveFromPrev": 5,
+        "durationMin": 30,
+        "why": "laminated dough specialist; share one croissant standing up"
+      },
+      {
+        "time": "2:15 PM",
+        "venueId": "other-half-brewing-centre-st-carroll-gardens-carroll-gardens",
+        "driveFromPrev": 5,
+        "durationMin": 75,
+        "why": "sit-down beer slot; outdoor seating if the weather holds"
+      },
+      {
+        "time": "3:45 PM",
+        "venueId": "heap-s-ice-cream-park-slope",
+        "driveFromPrev": 10,
+        "durationMin": 30,
+        "why": "ice cream on the walk back to the car — drives home are better with cones"
+      }
+    ],
+    "notes": "Park near Court St / Sackett St — meters until 7 PM Saturdays, but turnover is fine. Maman gets a line after 11 AM; the 10:15 slot is deliberate. Skip Other Half if anyone in the group doesn't drink — swap Threes Brewing (Gowanus) which has more non-beer options.",
+    "generatedAt": "2026-05-16T05:15:57.792Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:18:26.776Z"
+  },
+  {
+    "id": "itin-chill-2026-05-16-004",
+    "type": "itinerary-candidate",
+    "name": "Brooklyn Museum Long Slot",
+    "vibe": "chill",
+    "startTime": "9:00 AM",
+    "estTotalMin": 489,
+    "totalStops": 6,
+    "totalDriveMin": 74,
+    "zonesTouched": [
+      "flushing",
+      "bed-stuy",
+      "prospect-heights",
+      "park-slope",
+      "gowanus",
+      "gowanus",
+      "carroll-gardens"
+    ],
+    "blurb": "The museum is the spine; everything else orbits it. Bagels in Bed-Stuy on the way in, a 2.5-hour Brooklyn Museum block (enough for both rotating shows + one permanent wing without rushing), ice cream as a transition, then a slow drift through Gowanus chill spots — Threes patio, Public Records' listening room — and an early Frankies dinner. Built for one person who actually wants to read the wall text.",
+    "stops": [
+      {
+        "time": "9:35 AM",
+        "venueId": "tompkins-square-bagels-bed-stuy-tompkins-ave-outpost-bed-stuy",
+        "driveFromPrev": 35,
+        "durationMin": 45,
+        "why": "sit-down bagel breakfast; pre-museum fuel"
+      },
+      {
+        "time": "10:35 AM",
+        "venueId": "brooklyn-museum-stretch-option-prospect-heights",
+        "driveFromPrev": 10,
+        "durationMin": 150,
+        "why": "main event — 2.5h is the sweet spot before museum fatigue"
+      },
+      {
+        "time": "1:15 PM",
+        "venueId": "heap-s-ice-cream-park-slope",
+        "driveFromPrev": 8,
+        "durationMin": 30,
+        "why": "palate cleanser between museum brain and afternoon"
+      },
+      {
+        "time": "2:00 PM",
+        "venueId": "threes-brewing-gowanus-gowanus",
+        "driveFromPrev": 8,
+        "durationMin": 75,
+        "why": "patio beer with food trucks; sit longer than you planned"
+      },
+      {
+        "time": "3:30 PM",
+        "venueId": "public-records-gowanus",
+        "driveFromPrev": 5,
+        "durationMin": 75,
+        "why": "daytime sound room + coffee — chill not party at this hour"
+      },
+      {
+        "time": "5:00 PM",
+        "venueId": "frankies-457-spuntino-carroll-gardens",
+        "driveFromPrev": 8,
+        "durationMin": 90,
+        "why": "early Italian dinner before the rush; back garden if weather"
+      }
+    ],
+    "notes": "Brooklyn Museum is 11 AM-6 PM Saturday — 10:35 AM arrival means 25 min for coffee/coat/security and you're inside by 11 sharp. Public Records day program is mellower than nights; check their site if a DJ schedule looks intense. Frankies takes reservations — book it.",
+    "generatedAt": "2026-05-16T05:15:57.792Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:18:26.796Z"
+  },
+  {
+    "id": "itin-chill-2026-05-16-005",
+    "type": "itinerary-candidate",
+    "name": "Greenpoint + Noguchi Arts Drift",
+    "vibe": "chill",
+    "startTime": "9:00 AM",
+    "estTotalMin": 533,
+    "totalStops": 7,
+    "totalDriveMin": 98,
+    "zonesTouched": [
+      "flushing",
+      "williamsburg",
+      "williamsburg",
+      "greenpoint",
+      "greenpoint",
+      "greenpoint",
+      "williamsburg",
+      "williamsburg"
+    ],
+    "blurb": "A North Brooklyn + LIC arc with the Noguchi Museum as the quiet center. Win Son Bakery to open, Domino Park to walk off the pastry, then Noguchi's stone galleries — possibly the most chill museum in the city. Lunch back in Greenpoint, Bohemian beer garden in Astoria as a sleeper hit, then a slow oyster + Negroni close at Maison Premiere and Hotel Delmano. Saturday afternoon paced like a Sunday.",
+    "stops": [
+      {
+        "time": "9:30 AM",
+        "venueId": "win-son-bakery-williamsburg",
+        "driveFromPrev": 30,
+        "durationMin": 45,
+        "why": "Taiwanese-American pastry + iced tea; sit at the window counter"
+      },
+      {
+        "time": "10:30 AM",
+        "venueId": "domino-park-williamsburg",
+        "driveFromPrev": 5,
+        "durationMin": 45,
+        "why": "East River walk, repurposed sugar refinery cranes, kid-watching"
+      },
+      {
+        "time": "11:30 AM",
+        "venueId": "noguchi-museum",
+        "driveFromPrev": 15,
+        "durationMin": 90,
+        "why": "opens at 11 AM Saturdays — stone and paper and natural light; the chillest museum room in NYC"
+      },
+      {
+        "time": "1:15 PM",
+        "venueId": "lingo-greenpoint-greenpoint",
+        "driveFromPrev": 15,
+        "durationMin": 75,
+        "why": "Eastern European-inflected lunch with proper seating + service"
+      },
+      {
+        "time": "2:45 PM",
+        "venueId": "bohemian-hall-beer-garden",
+        "driveFromPrev": 15,
+        "durationMin": 60,
+        "why": "Astoria's century-old beer garden — afternoon light through the trees is the move"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "maison-premiere-williamsburg",
+        "driveFromPrev": 15,
+        "durationMin": 60,
+        "why": "oyster happy hour 4-7 PM; absinthe drip; New Orleans-in-Brooklyn quiet"
+      },
+      {
+        "time": "5:15 PM",
+        "venueId": "hotel-delmano-williamsburg",
+        "driveFromPrev": 3,
+        "durationMin": 60,
+        "why": "walk-across-the-street nightcap with no late-night energy; closes the day soft"
+      }
+    ],
+    "notes": "Noguchi is Wed-Sun 11 AM-6 PM — the 11:30 arrival is intentional. Greenpoint↔Astoria via Pulaski Bridge is the shortest hop (~10-15 min) but BQE detours add up. Maison Premiere oyster HH ends 7 PM; arriving by 4 is the chill window before the dinner wave at 6.",
+    "generatedAt": "2026-05-16T05:15:57.792Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:18:26.819Z"
+  },
+  {
+    "id": "itin-romantic-2026-05-16-001",
+    "type": "itinerary-candidate",
+    "name": "Four-Borough Romantic Arc",
+    "vibe": "romantic",
+    "startTime": "9:00 AM",
+    "estTotalMin": 605,
+    "totalStops": 7,
+    "totalDriveMin": 140,
+    "zonesTouched": [
+      "flushing",
+      "lic",
+      "manhattan-les",
+      "manhattan-chelsea",
+      "brooklyn-heights",
+      "williamsburg",
+      "flushing"
+    ],
+    "blurb": "A clean east-to-west sweep that hits every borough you can drive between by lunchtime. Start with Noguchi's stone-and-water serenity in LIC, slide into a sunlit LES brunch, walk the High Line into Chelsea, then chase late-afternoon light along the Brooklyn Heights Promenade before landing in Williamsburg for Domino Park golden hour and the marble bar at Maison Premiere. The pacing front-loads art and conversation, ends in oysters and absinthe.",
+    "stops": [
+      {
+        "time": "9:25 AM",
+        "venueId": "noguchi-museum",
+        "driveFromPrev": 25,
+        "durationMin": 75,
+        "why": "opens 10 AM weekends but parking + zen garden warmup absorbs the buffer; Isamu Noguchi's indoor/outdoor gallery is the romantic anchor of the morning"
+      },
+      {
+        "time": "10:50 AM",
+        "venueId": "gantry-plaza-state-park-lic",
+        "driveFromPrev": 10,
+        "durationMin": 30,
+        "why": "Pepsi-Cola sign + Manhattan skyline framing — quick photo-walk between art and food"
+      },
+      {
+        "time": "11:50 AM",
+        "venueId": "russ-and-daughters-cafe-les",
+        "driveFromPrev": 30,
+        "durationMin": 75,
+        "why": "sit-down brunch with smoked-fish boards; book ahead for Saturday — the LES energy resets the day"
+      },
+      {
+        "time": "1:20 PM",
+        "venueId": "the-high-line-manhattan",
+        "driveFromPrev": 15,
+        "durationMin": 75,
+        "why": "park curbside near Gansevoort, walk north into Chelsea — slow handhold pace, plenty of benches"
+      },
+      {
+        "time": "3:05 PM",
+        "venueId": "brooklyn-heights-promenade",
+        "driveFromPrev": 30,
+        "durationMin": 45,
+        "why": "cross the Brooklyn Bridge by car for the view, then a short Promenade stroll with downtown skyline"
+      },
+      {
+        "time": "4:15 PM",
+        "venueId": "domino-park",
+        "driveFromPrev": 25,
+        "durationMin": 45,
+        "why": "East River breeze, sugar refinery sculpture, perfect mid-afternoon decompression before dinner"
+      },
+      {
+        "time": "5:10 PM",
+        "venueId": "maison-premiere",
+        "driveFromPrev": 5,
+        "durationMin": 120,
+        "why": "oysters + absinthe + back-garden seating; the romantic finale — arrive before the 6 PM rush"
+      }
+    ],
+    "notes": "Saturday morning Grand Central Pkwy + Triboro is the lightest path Flushing→LIC. Park at Russ & Daughters via Spring/Mulberry garages — street parking is brutal on the LES. From High Line to Brooklyn use Manhattan Bridge if BQE is red on Waze. Home leg from Maison Premiere ~35 min via Williamsburg Bridge + LIE.",
+    "generatedAt": "2026-05-16T05:19:26.878Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:22:39.990Z"
+  },
+  {
+    "id": "itin-romantic-2026-05-16-002",
+    "type": "itinerary-candidate",
+    "name": "Waterfront Promenade Loop",
+    "vibe": "romantic",
+    "startTime": "9:00 AM",
+    "estTotalMin": 603,
+    "totalStops": 7,
+    "totalDriveMin": 138,
+    "zonesTouched": [
+      "flushing",
+      "astoria",
+      "lic",
+      "manhattan-nomad",
+      "manhattan-fidi",
+      "brooklyn-heights",
+      "williamsburg",
+      "flushing"
+    ],
+    "blurb": "A waterline-following plan that maximizes river views and skyline framings across four boroughs. Begin with Astoria's industrial-shoreline sculpture park, drift through Noguchi, then hop to NoMad for a slow coffee-and-pastry lunch before walking Stone Street and Battery Park's southern tip. Crosses into Brooklyn for back-to-back pier-and-promenade golden hour, finishing with cocktails at Hotel Delmano. Heavy on water, slow on tempo.",
+    "stops": [
+      {
+        "time": "9:30 AM",
+        "venueId": "socrates-sculpture-park-lic",
+        "driveFromPrev": 30,
+        "durationMin": 45,
+        "why": "outdoor-only sculpture park on the East River; opens at sunrise and is empty Saturday mornings"
+      },
+      {
+        "time": "10:25 AM",
+        "venueId": "noguchi-museum",
+        "driveFromPrev": 8,
+        "durationMin": 60,
+        "why": "5-minute drive south from Socrates — a paired LIC art double-feature"
+      },
+      {
+        "time": "12:05 PM",
+        "venueId": "felix-roasting-co-nomad",
+        "driveFromPrev": 30,
+        "durationMin": 75,
+        "why": "baroque-interior coffee bar that doubles as a romantic lunch room; ornate but not stuffy"
+      },
+      {
+        "time": "1:50 PM",
+        "venueId": "stone-street-fidi-walk",
+        "driveFromPrev": 20,
+        "durationMin": 75,
+        "why": "cobblestone historic stretch + Battery Park esplanade; lower Manhattan emptiness on Saturday is the secret"
+      },
+      {
+        "time": "3:35 PM",
+        "venueId": "brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights",
+        "driveFromPrev": 20,
+        "durationMin": 75,
+        "why": "piers, gardens, harbor views — the long romantic walk segment"
+      },
+      {
+        "time": "5:05 PM",
+        "venueId": "brooklyn-heights-promenade",
+        "driveFromPrev": 5,
+        "durationMin": 45,
+        "why": "sunset framing of downtown across the East River — the photo moment"
+      },
+      {
+        "time": "6:25 PM",
+        "venueId": "hotel-delmano",
+        "driveFromPrev": 25,
+        "durationMin": 90,
+        "why": "low-lit speakeasy energy in Williamsburg; cocktails-and-charcuterie dinner that ends the day softly"
+      }
+    ],
+    "notes": "Two short LIC stops back-to-back avoids re-parking. FDR northbound can knot up around 1 PM — leave Battery Park no later than 3:25. Pier 6 has a paid lot; Promenade parking is easier on Henry/Joralemon side streets. Delmano takes walk-ins but waits are 30+ min after 7.",
+    "generatedAt": "2026-05-16T05:19:26.878Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:22:40.009Z"
+  },
+  {
+    "id": "itin-romantic-2026-05-16-003",
+    "type": "itinerary-candidate",
+    "name": "Art & Architecture Romance",
+    "vibe": "romantic",
+    "startTime": "9:00 AM",
+    "estTotalMin": 648,
+    "totalStops": 7,
+    "totalDriveMin": 123,
+    "zonesTouched": [
+      "flushing",
+      "lic",
+      "manhattan-chinatown",
+      "manhattan-soho",
+      "dumbo",
+      "williamsburg",
+      "flushing"
+    ],
+    "blurb": "A culture-first day arranged around looking at things together. Open with Noguchi's quiet, segue into MoMA PS1's contemporary edge, take a Chinatown soup-dumpling pivot for lunch, then wander Tribeca-into-Soho gallery row. Cross into Dumbo for Smack Mellon's gritty industrial art space before the Williamsburg evening unfolds at Domino Park and Maison Premiere. Heavy art exposure with food and water punctuating each transition.",
+    "stops": [
+      {
+        "time": "9:25 AM",
+        "venueId": "noguchi-museum",
+        "driveFromPrev": 25,
+        "durationMin": 75,
+        "why": "morning Noguchi visits are devotional — fewer people, slower pace"
+      },
+      {
+        "time": "10:55 AM",
+        "venueId": "moma-ps1-lic",
+        "driveFromPrev": 8,
+        "durationMin": 90,
+        "why": "former public school turned contemporary art museum; Warm Up Saturdays in summer but the galleries themselves are always weekend-rewarding"
+      },
+      {
+        "time": "12:55 PM",
+        "venueId": "joes-shanghai-chinatown",
+        "driveFromPrev": 25,
+        "durationMin": 60,
+        "why": "soup dumpling counter that's a romantic-in-disguise — shared plates, no pretense"
+      },
+      {
+        "time": "2:10 PM",
+        "venueId": "tribeca-soho-gallery-walk",
+        "driveFromPrev": 15,
+        "durationMin": 75,
+        "why": "a self-directed walking loop of small commercial galleries on Walker/Lispenard/Wooster; no admissions, lots of conversation"
+      },
+      {
+        "time": "3:50 PM",
+        "venueId": "smack-mellon",
+        "driveFromPrev": 20,
+        "durationMin": 45,
+        "why": "industrial Dumbo art space inside the old Anchorage; free and unusually moving"
+      },
+      {
+        "time": "5:00 PM",
+        "venueId": "domino-park",
+        "driveFromPrev": 25,
+        "durationMin": 60,
+        "why": "East River wind-down between gallery walks and dinner"
+      },
+      {
+        "time": "6:10 PM",
+        "venueId": "maison-premiere",
+        "driveFromPrev": 5,
+        "durationMin": 120,
+        "why": "oysters and absinthe close the day — the most romantic room in Brooklyn"
+      }
+    ],
+    "notes": "PS1 closes early Sundays but Saturdays go to 5:30 — you're well clear. Chinatown street parking is impossible; use the Mulberry garage. Manhattan Bridge → Dumbo via Plymouth St is the prettiest entry. Smack Mellon Saturday hours are 12-6.",
+    "generatedAt": "2026-05-16T05:19:26.878Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:22:40.032Z"
+  },
+  {
+    "id": "itin-romantic-2026-05-16-004",
+    "type": "itinerary-candidate",
+    "name": "Food Lovers' Geographic Sweep",
+    "vibe": "romantic",
+    "startTime": "9:00 AM",
+    "estTotalMin": 593,
+    "totalStops": 6,
+    "totalDriveMin": 113,
+    "zonesTouched": [
+      "flushing",
+      "lic",
+      "manhattan-west-village",
+      "manhattan-chelsea",
+      "williamsburg",
+      "flushing"
+    ],
+    "blurb": "An eating-tour that uses the four-borough sweep as connective tissue. Start in Flushing with proper dim sum, then ease into Noguchi to digest before a Greenwich Village lunch walk. The High Line + Chelsea Market mid-afternoon stretch handles the boring 'now what' window. Smorgasburg Williamsburg supplies the late-afternoon graze, and Maison Premiere closes it with oysters and the marble bar. Every stop has something to eat or something beautiful to look at — usually both.",
+    "stops": [
+      {
+        "time": "9:15 AM",
+        "venueId": "asian-jewels-seafood-flushing",
+        "driveFromPrev": 8,
+        "durationMin": 75,
+        "why": "dim sum cart-service start; only worth doing if you're already in Flushing — a head-start anchor that defines the day"
+      },
+      {
+        "time": "10:50 AM",
+        "venueId": "noguchi-museum",
+        "driveFromPrev": 25,
+        "durationMin": 60,
+        "why": "digestion break in stone gardens; pairs surprisingly well after dumplings"
+      },
+      {
+        "time": "12:20 PM",
+        "venueId": "west-village-lunch-walk",
+        "driveFromPrev": 30,
+        "durationMin": 75,
+        "why": "open-ended Greenwich/West Village wander with pastry stops; the West Village in spring is built for this"
+      },
+      {
+        "time": "1:55 PM",
+        "venueId": "the-high-line-manhattan",
+        "driveFromPrev": 15,
+        "durationMin": 90,
+        "why": "longer High Line walk into Chelsea Market for snacks and people-watching"
+      },
+      {
+        "time": "4:00 PM",
+        "venueId": "smorgasburg-williamsburg-saturday-only-williamsburg",
+        "driveFromPrev": 30,
+        "durationMin": 60,
+        "why": "Saturday-only outdoor food market; you don't need to be hungry — share three small things"
+      },
+      {
+        "time": "5:10 PM",
+        "venueId": "maison-premiere",
+        "driveFromPrev": 5,
+        "durationMin": 120,
+        "why": "oysters as palate cleanse, then dinner proper — the high-romance close-out"
+      }
+    ],
+    "notes": "Asian Jewels opens 9 AM weekends but really starts moving 9:30 — go a notch later if you want full cart selection. Greenwich Village parking is grim; aim for Bleecker garage or Houston St lot. Smorgasburg can be packed by 5 — going at 4 hits the sweet spot.",
+    "generatedAt": "2026-05-16T05:19:26.878Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:22:40.051Z"
+  },
+  {
+    "id": "itin-romantic-2026-05-16-005",
+    "type": "itinerary-candidate",
+    "name": "Sunset Crescendo",
+    "vibe": "romantic",
+    "startTime": "9:00 AM",
+    "estTotalMin": 650,
+    "totalStops": 8,
+    "totalDriveMin": 125,
+    "zonesTouched": [
+      "flushing",
+      "lic",
+      "manhattan-chelsea",
+      "brooklyn-heights",
+      "dumbo",
+      "williamsburg",
+      "flushing"
+    ],
+    "blurb": "Built backward from the perfect sunset moment at Domino Park. Mornings are slow art (Noguchi + Gantry Plaza), midday is a Chelsea brunch into a low-effort High Line walk, then the afternoon stacks Brooklyn Heights Promenade and Dumbo's Smack Mellon — both within walking-distance after one parking job. By 5:30 you're at Domino Park as the light goes warm, and dinner at Maison Premiere catches you on the right side of golden hour. Eight stops but most are short.",
+    "stops": [
+      {
+        "time": "9:25 AM",
+        "venueId": "noguchi-museum",
+        "driveFromPrev": 25,
+        "durationMin": 75,
+        "why": "opens early, sets the meditative tone for the day"
+      },
+      {
+        "time": "10:50 AM",
+        "venueId": "gantry-plaza-state-park-lic",
+        "driveFromPrev": 10,
+        "durationMin": 30,
+        "why": "quick skyline + Pepsi sign photo break before crossing into Manhattan"
+      },
+      {
+        "time": "11:55 AM",
+        "venueId": "cookshop-chelsea",
+        "driveFromPrev": 25,
+        "durationMin": 75,
+        "why": "farm-to-table Chelsea brunch with outdoor seating; lighter than the LES alternative"
+      },
+      {
+        "time": "1:25 PM",
+        "venueId": "the-high-line-manhattan",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "adjacent — walk it off post-brunch; entry at 14th, exit at 30th"
+      },
+      {
+        "time": "2:55 PM",
+        "venueId": "brooklyn-heights-promenade",
+        "driveFromPrev": 25,
+        "durationMin": 45,
+        "why": "cross into Brooklyn while afternoon light is still bright; park once and walk"
+      },
+      {
+        "time": "3:55 PM",
+        "venueId": "smack-mellon",
+        "driveFromPrev": 5,
+        "durationMin": 60,
+        "why": "5 minutes from the Promenade — Anchorage industrial art is the surprise hit of the day"
+      },
+      {
+        "time": "5:30 PM",
+        "venueId": "domino-park",
+        "driveFromPrev": 25,
+        "durationMin": 60,
+        "why": "the deliberate sunset window — golden hour from the East River side"
+      },
+      {
+        "time": "6:35 PM",
+        "venueId": "maison-premiere",
+        "driveFromPrev": 5,
+        "durationMin": 120,
+        "why": "walk-distance from Domino; oysters + absinthe close the day"
+      }
+    ],
+    "notes": "Brooklyn Heights → Dumbo via Old Fulton St is a 3-minute drive but parking near Smack Mellon is much easier than near the Promenade — flip the order if you'd rather park once at the Empire Stores garage and walk to both. May 16 sunset is ~8:08 PM; Domino at 5:30 is pre-golden but the river light is already turning by 6.",
+    "generatedAt": "2026-05-16T05:19:26.878Z",
+    "generatedBy": "research-runner",
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T05:22:40.071Z"
   }
 ]

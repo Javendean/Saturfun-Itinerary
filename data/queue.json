@@ -1,40 +1,5 @@
 [
   {
-    "topic": "Generate 5 streamlined itinerary candidates departing 140-59 Ash Ave at 9 AM Saturday, focused on FOODIE vibe, varied geography, with realistic drive times between stops. Output as type:itinerary-candidate corpus entries with stops[]",
-    "reason": "harvester should produce day plans, not only venues",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
-    "topic": "Generate 5 streamlined itinerary candidates departing 140-59 Ash Ave at 9 AM Saturday, focused on PHOTO/SUNSET/VISUAL vibe, ending with sunset somewhere photogenic. Output as type:itinerary-candidate",
-    "reason": "photo-focused day variant",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
-    "topic": "Generate 5 streamlined itinerary candidates departing 140-59 Ash Ave at 9 AM Saturday, focused on HIGH-ENERGY/ACTIVE vibe (climbing, axe-throwing, beat the bomb, late dancing). Output as type:itinerary-candidate",
-    "reason": "active-day variant",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
-    "topic": "Generate 5 streamlined itinerary candidates departing 140-59 Ash Ave at 9 AM Saturday, focused on CHILL/WANDERING vibe (long coffee, museums, parks, easy meals, no late night). Output as type:itinerary-candidate",
-    "reason": "chill-day variant",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
-    "topic": "Generate 5 streamlined itinerary candidates departing 140-59 Ash Ave at 9 AM Saturday, mixed vibe but optimizing TOTAL DISTINCT NEIGHBORHOODS visited (Flushing -> LIC -> Manhattan -> Williamsburg -> back). Output as type:itinerary-candidate",
-    "reason": "geographic-tour variant",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-16T03:48:22.572Z",
-    "attempts": 0
-  },
-  {
     "topic": "Japan Village food hall at Industry City",
     "reason": "Direct adjacency to BOOKOFF ANI-LAB on the same floor of IC Building 4 — natural pairing for manga browse + ramen/onigiri stop",
     "requestedBy": "agent",
@@ -579,5 +544,221 @@
     "reason": "Multi-stop walking option for a Flushing food day; cheap, photogenic, distinct from anything in current Brooklyn-heavy corpus",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T05:05:13.322Z"
+  },
+  {
+    "topic": "Discover venue: court-street-grocers-carroll-gardens (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId court-street-grocers-carroll-gardens",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:08:29.742Z"
+  },
+  {
+    "topic": "Discover venue: domino-park (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId domino-park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:08:29.742Z"
+  },
+  {
+    "topic": "Discover venue: smack-mellon (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId smack-mellon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:11:55.737Z"
+  },
+  {
+    "topic": "Discover venue: pioneer-works (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId pioneer-works",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:11:55.737Z"
+  },
+  {
+    "topic": "Discover venue: louis-valentino-jr-park-pier (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId louis-valentino-jr-park-pier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:11:55.737Z"
+  },
+  {
+    "topic": "Discover venue: public-records (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId public-records",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:11:55.737Z"
+  },
+  {
+    "topic": "Discover venue: sunken-harbor-club (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId sunken-harbor-club",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:11:55.737Z"
+  },
+  {
+    "topic": "Discover venue: louis-valentino-jr-park-pier",
+    "reason": "candidate 002 ends sunset at Louis Valentino Jr. Park & Pier in Red Hook — not in corpus; canonical Statue-of-Liberty sunset spot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:11:55.750Z"
+  },
+  {
+    "topic": "Discover venue: insa (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId insa",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:14:57.768Z"
+  },
+  {
+    "topic": "Discover venue: lucali (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId lucali",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:14:57.768Z"
+  },
+  {
+    "topic": "Discover venue: other-half-brewing-centre-st-carroll-gardens-carroll-gardens (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId other-half-brewing-centre-st-carroll-gardens-carroll-gardens",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:18:26.841Z"
+  },
+  {
+    "topic": "Discover venue: gantry-plaza-state-park-lic (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId gantry-plaza-state-park-lic",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: russ-and-daughters-cafe-les (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId russ-and-daughters-cafe-les",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: the-high-line-manhattan (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId the-high-line-manhattan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: socrates-sculpture-park-lic (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId socrates-sculpture-park-lic",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: felix-roasting-co-nomad (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId felix-roasting-co-nomad",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: stone-street-fidi-walk (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId stone-street-fidi-walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: hotel-delmano (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId hotel-delmano",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: moma-ps1-lic (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId moma-ps1-lic",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: joes-shanghai-chinatown (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId joes-shanghai-chinatown",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: tribeca-soho-gallery-walk (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId tribeca-soho-gallery-walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: asian-jewels-seafood-flushing (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId asian-jewels-seafood-flushing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: west-village-lunch-walk (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId west-village-lunch-walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: cookshop-chelsea (referenced by itinerary-candidate)",
+    "reason": "candidate stop references unknown venueId cookshop-chelsea",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.094Z"
+  },
+  {
+    "topic": "Discover venue: gantry-plaza-state-park-lic",
+    "reason": "Long Island City waterfront park, candidates 1 and 5 reference it as a quick photo stop; not in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: socrates-sculpture-park-lic",
+    "reason": "Astoria/LIC outdoor sculpture park used as candidate 2's opening anchor; not in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: moma-ps1-lic",
+    "reason": "Contemporary art museum in LIC used as candidate 3's second stop; not in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: russ-and-daughters-cafe-les",
+    "reason": "Lower East Side smoked-fish brunch sit-down referenced by candidate 1; not in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: the-high-line-manhattan",
+    "reason": "Chelsea elevated park walked in candidates 1, 4, 5; not in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: felix-roasting-co-nomad",
+    "reason": "NoMad coffee/lunch spot used by candidate 2; verify Saturday lunch hours and reservations",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: stone-street-fidi-walk",
+    "reason": "FiDi cobblestone street + Battery Park walking loop in candidate 2; not a single venue but a coherent stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: joes-shanghai-chinatown",
+    "reason": "Manhattan Chinatown soup dumpling spot for candidate 3 lunch; verify Pell St location hours",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: tribeca-soho-gallery-walk",
+    "reason": "Self-directed commercial gallery walk in Manhattan Soho/Tribeca area used by candidate 3; needs a curated gallery list",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: asian-jewels-seafood-flushing",
+    "reason": "Flushing dim sum spot opening candidate 4; verify Northern Blvd location and cart-service hours",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: west-village-lunch-walk",
+    "reason": "Greenwich/West Village wandering lunch segment in candidate 4; could be replaced with a single anchor like Via Carota or Buvette",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
+  },
+  {
+    "topic": "Discover venue: cookshop-chelsea",
+    "reason": "Chelsea farm-to-table brunch in candidate 5; verify Saturday brunch availability and outdoor seating",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T05:22:40.118Z"
   }
 ]
