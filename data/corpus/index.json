@@ -6279,23 +6279,24 @@
   },
   {
     "id": "sushi-uesugi",
-    "name": "Sushi Uesugi at Japan Village",
-    "desc": "Intimate omakase counter tucked inside Japan Village at Industry City — seasonal, refined, walk-in friendly.",
-    "longDesc": "A serene sushi counter adjacent to the Japan Village food hall in Industry City, Sushi Uesugi runs a tight omakase program that leans into seasonal Japanese fish with a few inventive twists like Yukke Don and the Garlic Truffle Rice. Lunch omakase starts around $50pp (10pc), making the bar accessible enough for a date or a foodie splurge without committing to a Manhattan-tier ticket. Walk-in friendly with both lunch and dinner seatings, so it slots into a Saturfun track as either the IC anchor or the dinner climax.",
+    "name": "Sushi Uesugi",
+    "desc": "Hidden-gem omakase counter inside Japan Village — chef Kenji, refined seasonal nigiri, walk-in only.",
+    "longDesc": "An intimate sushi counter tucked behind the Japan Village food hall at Industry City, run by chef Kenji. The menu balances classic Edomae nigiri with inventive plates like Yukke Don and Garlic Truffle Rice; lunch sets start around $50 for a 10-piece, while the full dinner omakase pushes into $$$ territory. Walk-in only and cozy — a quiet upgrade you can pair with browsing the same building's Japanese market and grab-and-go stalls.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7f498770e74b14c37f547_JV-%20uesugi.avif",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "romantic"
+      "romantic",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min (inside IC)",
-    "hoursWeekend": "12:00-15:00, 17:00-21:00",
-    "notes": "Located at 267 36th St adjacent to the Japan Village food hall inside Industry City (japanvillage.com). Yelp lists the address as 934 3rd Ave — same superblock, alternate frontage (yelp.com). Lunch omakase ~$50pp for 10pc per BKReader's sushi roundup; dinner runs higher. Signature: Yukke Don, Garlic Truffle Rice (japanvillage.com). Hours per official site: Sun–Thu 12–3 / 5–8, Fri–Sat 12–3 / 5–9 — Saturfun should display the Fri–Sat window. Walk-in friendly; sushi counter seating is limited so weekend dinner waits are real. Parking: use Industry City lots (free 2hr with validation at most IC venues). Pairs well with a pre-meal walk through Japan Village market for sake/snacks and post-meal espresso at Sey or a stroll on the IC courtyards.",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 12:00-15:00, 17:00-21:00; Sun 12:00-15:00, 17:00-20:00",
+    "notes": "Located at 267 36th St inside Industry City Building 4, adjacent to the Japan Village food hall (japanvillage.com). Walk-in only — no reservations, counter seats fill fast on weekends (yelp.com/biz/sushi-uesugi-brooklyn). Lunch omakase ~$50pp for 10 pieces; dinner omakase is the $$$ tier. Signature: Yukke Don, Garlic Truffle Rice, seasonal nigiri (japanvillage.com). Industry City lots + street parking on 36th/37th typically available on weekends.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
@@ -6304,16 +6305,12 @@
       {
         "url": "https://www.yelp.com/biz/sushi-uesugi-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.bkreader.com/best-of-brooklyn/best-of-brooklyn-sushi-11374680",
-        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T06:53:13.180Z"
+    "lastResearchedAt": "2026-05-16T14:07:46.841Z"
   },
   {
     "id": "panya-bakery-industry-city",
@@ -12464,5 +12461,168 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T14:03:48.827Z"
+  },
+  {
+    "id": "kuraichi-sake-spirits",
+    "name": "Kuraichi",
+    "desc": "Japan Village sake/shochu/whisky shop with NYC's largest Japanese spirits selection.",
+    "longDesc": "Specialty Japanese liquor retailer inside Japan Village at Industry City (Building 4, entrance 88 35th St). Carries premium sake, shochu, awamori, Japanese whisky, and umeshu curated by Brooklyn-based importers. Perfect take-home cap to a WakuWaku ramen + Sunrise Mart evening — grab a bottle to keep the cluster going at home.",
+    "url": "https://kuraichibk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "20-40 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-19:30",
+    "notes": "Inside Japan Village food hall, Building 4 at IC (industrycity.com). NYC's deepest Japanese spirits selection per shop description; staff offer recs across price bands (kuraichibk.com). Pairs natively with WakuWaku Mart grocery run and post-ramen evening; no tasting bar — purely retail, so plan 20-30 min for browsing. Free weekend parking in IC garages.",
+    "sources": [
+      {
+        "url": "https://kuraichibk.com/",
+        "accessed": "2026-05-16T14:05:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/kuraichi/",
+        "accessed": "2026-05-16T14:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kuraichi-brooklyn-2",
+        "accessed": "2026-05-16T14:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:05:43.401Z"
+  },
+  {
+    "id": "cafe-japon-japan-village",
+    "name": "Cafe Japon at Japan Village",
+    "desc": "Counter cafe inside Japan Village pouring matcha lattes, yuzu teas, and kakigori — weekend daily-drop alternative to Chashitsu",
+    "longDesc": "Tucked inside the 20,000-sq-ft Japan Village food hall in Industry City Building 4, Cafe Japon (aka Yamada) is a no-reservation walk-up counter for freshly whisked matcha lattes, loose-leaf and yuzu teas, kakigori shaved ice, and small Japanese-style pastries. It plugs the contemplative IC daytime slot on any weekend Chashitsu isn't running, with the bonus that you can sweep Sunrise Mart and the rest of the food hall in the same stop.",
+    "url": "https://www.japanvillage.com/eat-drink/yamada",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "2 min",
+    "hoursWeekend": "Sat 11:00-19:00 / Sun 11:00-18:00",
+    "notes": "Located inside Japan Village food hall at 934 3rd Ave, Industry City Building 4 (japanvillage.com). Menu highlights matcha lattes, yuzu teas, loose-leaf teas, kakigori, and pastries with locally sourced and Japanese ingredients (japanvillage.com/eat-drink/yamada). Page does not explicitly confirm ceremonial-grade sourcing — verify on-site before featuring that claim. Sunday-Thursday 11 AM-6 PM, Friday-Saturday 11 AM-7 PM. Walk-up counter, no reservations. Pairs naturally with Sunrise Mart browse and the rest of the Japan Village stalls (Secret NYC, The Bridge BK). Parking: IC garages a few steps away.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/yamada",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://secretnyc.co/japanese-food-hall-opening-weekend-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://thebridgebk.com/brooklyn-finally-gets-a-japanese-marketplace-of-its-own/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:09:57.872Z"
+  },
+  {
+    "id": "setomonoya-the-loft",
+    "name": "Setomonoya at The Loft",
+    "desc": "Handmade Japanese pottery & teaware shop — chawan, teapots, porcelain on Industry City's 2nd floor",
+    "longDesc": "Tucked inside The Loft at Japan Village (the 20,000 sq ft Japanese culture floor that opened above Industry City's food hall in 2022), Setomonoya specializes in individually handcrafted ceramics — teapots, teacups, bowls and chawan made with traditional techniques. It's the natural take-home stop after a tea ceremony: browse one-of-a-kind pieces, then walk out with a chawan you've already imagined drinking matcha from. Same building as the rest of Japan Village, so it folds straight into an IC afternoon.",
+    "url": "https://www.theloftatjapanvillage.com/setomonoya",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "Located on the 2nd floor of Japan Village inside Industry City at 934 3rd Ave, Brooklyn NY 11232 — same building, just upstairs (industrycity.com). 'Japanese pottery is one of the oldest Japanese crafts and art forms' — items are 'uniquely handmade with passion and care' (theloftatjapanvillage.com/setomonoya). The Loft as a whole runs Mon–Sun 11am–7pm; individual vendor hours can vary (theloftatjapanvillage.com/location). Industry City has on-site weekend parking lots. Perfect post-tea-ceremony browse — same zone, zero drive, deepens the tea-ceremony track by letting visitors take home a chawan.",
+    "sources": [
+      {
+        "url": "https://www.theloftatjapanvillage.com/setomonoya",
+        "accessed": "2026-05-16T14:10:00Z"
+      },
+      {
+        "url": "https://www.theloftatjapanvillage.com/location",
+        "accessed": "2026-05-16T14:10:00Z"
+      },
+      {
+        "url": "https://industrycity.com/the-loft-at-japan-village-has-taken-over-a-full-second-floor-at-industry-city/",
+        "accessed": "2026-05-16T14:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:12:16.083Z"
+  },
+  {
+    "id": "setsugekka-east-village",
+    "name": "Setsugekka Matcha Teahouse",
+    "desc": "Souheki Mori's intimate East Village teahouse — stone-ground matcha from a Uji grinder, ichi-go ichi-e ceremony",
+    "longDesc": "Setsugekka is tea master Souheki Mori's home teahouse, opened 2017 by Souheki and Junya Mori at 74 E 7th St. Matcha is ground fresh in-house on a traditional stone grinder sourced from Uji near Kyoto, served across three single-origin varieties from Fukuoka and Aichi. A narrow tatami platform, cherry-wood bar, seasonal poetry scrolls, and handcrafted ceramics back Mori's ichi-go ichi-e (one moment, one meeting) approach — the same Dai Nihon Chadō Gakkai lineage she teaches at Industry City.",
+    "url": "https://www.setsugekkany.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:30-17:30",
+    "notes": "Manhattan backup, NOT Brooklyn — actual address 74 E 7th St, East Village, NY 10003 between 1st & 2nd Ave; zone=dumbo is a geographic proxy for the cross-river enum constraint. Drive from IC ~22 min via Battery Tunnel + FDR or BQE + Williamsburg Bridge; weekend street parking is realistic on E 7th and adjacent blocks but metered. Same tea master as IC ceremonies — Souheki Mori, Dai Nihon Chadō Gakkai title (school traces to 16th-c. practitioners) — so this entry exists to preserve lineage continuity if IC ceremony cadence pauses (sprudge.com). Tea ceremony pricing not published on the source page; matcha tasting flights are the standard order. Closed Mondays; weekday hours 13:00-17:30 (yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.setsugekkany.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/setsugekka-east-village-new-york-4",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://sprudge.com/setsugekka-126827.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T14:14:52.269Z"
   }
 ]
