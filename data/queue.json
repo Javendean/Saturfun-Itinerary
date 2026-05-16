@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Court Street Grocers Cobble Hill — Italian sandwich destination",
-    "reason": "Walkable lunch follow-up to a Bien Cuit morning stop; same parking serves both",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:07:14.986Z"
-  },
-  {
-    "topic": "Frankies 457 Spuntino Carroll Gardens — backyard garden Italian",
-    "reason": "5-min drive south; natural lunch/dinner pairing to extend a Cobble Hill/Carroll Gardens track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:07:14.986Z"
-  },
-  {
-    "topic": "Kai Feng Fu Dumpling House Sunset Park — $1 lamb dumplings",
-    "reason": "Pairs with Xin Fa as a walkable cheap-eats double-header in the 8th Ave Chinatown, extends the morning-bake block into a savory option",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:09:18.945Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden Sunset Park — Yunnan rice noodles",
-    "reason": "Strongest savory anchor within 8 min drive of IC; diversifies the food corpus beyond the European/Italian default in nearby zones",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:09:18.945Z"
-  },
-  {
-    "topic": "Fei Long Market Sunset Park — Asian grocery with hot food bar",
-    "reason": "Photo/curious-vibe stop near Xin Fa; supports a 'graze the neighborhood' track structure rather than a single sit-down",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:09:18.945Z"
-  },
-  {
     "topic": "Don Paisa Bakery Sunset Park — Colombian pan de bono and almojábanas",
     "reason": "Adds a Colombian-bakery counterpoint to the Mexican pan dulce option within the same 5–8 min IC drive cluster",
     "requestedBy": "agent",
@@ -3844,5 +3814,83 @@
     "reason": "Walkable lunch pivot from Books Are Magic; completes a morning-to-midday Smith St crawl without driving",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T15:10:56.882Z"
+  },
+  {
+    "topic": "Re-research existing venue: Bien Cuit Smith Street bakery",
+    "reason": "Anchor partner stop for the same Cobble Hill walking pair; verify weekend pastry availability and parking notes.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:12:58.952Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino Carroll Gardens Italian",
+    "reason": "Sit-down Italian alternative on the same Court St corridor for the Cobble Hill/Carroll Gardens lunch track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:12:58.952Z"
+  },
+  {
+    "topic": "Prime Meats Carroll Gardens — Frankies sister restaurant German/Austrian on Court St",
+    "reason": "Same owners, 4-block walk from Frankies; expands Carroll Gardens cluster with a different cuisine option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:15:03.780Z"
+  },
+  {
+    "topic": "Brooklyn Farmacy & Soda Fountain Carroll Gardens — egg cream and sundae spot",
+    "reason": "Iconic dessert pairing 6 min north on Henry St; rounds out a Cobble Hill/Carroll Gardens food track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:15:03.780Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens — Italian sandwich counter",
+    "reason": "Daytime takeaway alternative to Frankies, same micro-neighborhood, picnic-friendly for Carroll Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:15:03.780Z"
+  },
+  {
+    "topic": "Bing Li Pork Chop House Sunset Park Taiwanese 8th Ave",
+    "reason": "Walkable third stop on a Sunset Park 8th Ave food crawl, adds a Taiwanese counter-style option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:17:17.639Z"
+  },
+  {
+    "topic": "Sunset Park Brooklyn weekend street parking guide 8th Ave 48th St",
+    "reason": "Logistical research for any 8th Ave Chinatown stop — drivability is the whole premise",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:17:17.639Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House (Sunset Park 8th Ave) — lamb-and-green-squash dumplings",
+    "reason": "Pairs as a cheap dumpling counterpart to Yun Nan on the same 8th Ave corridor, broadens regional Chinese coverage within 8 min of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:19:23.702Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace — Sunset Park dim sum cart hall",
+    "reason": "Weekend-prime dim sum within 10 min drive of IC, fills a banquet/family slot the corpus currently lacks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:19:23.702Z"
+  },
+  {
+    "topic": "Lan Zhou Handmade Noodle (Sunset Park) — hand-pulled lamian and beef noodle soup",
+    "reason": "Adjacent Yunnan→Lanzhou pivot keeps the noodle-shop spine but introduces northwestern Chinese flavors and live noodle-pulling as a photo moment",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:19:23.702Z"
+  },
+  {
+    "topic": "Ba Xuyên — Vietnamese banh mi shop on 8th Ave Sunset Park",
+    "reason": "Walkable from Fei Long, classic cheap-eats counter, completes a 'graze 8th Ave' mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:21:56.252Z"
+  },
+  {
+    "topic": "Sunset Park (the park) — Manhattan skyline overlook at 41st/5th Ave",
+    "reason": "Free 10-min photo stop with one of NYC's best skyline views; pairs with any Sunset Park food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:21:56.252Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden — Yunnan rice noodles in Sunset Park",
+    "reason": "Regional Chinese specialty rarely found elsewhere in BK; adds a sit-down option to balance the grazing stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:21:56.252Z"
   }
 ]

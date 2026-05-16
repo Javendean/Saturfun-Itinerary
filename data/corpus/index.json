@@ -2011,9 +2011,9 @@
   {
     "id": "kai-feng-fu-dumpling-house",
     "name": "Kai Feng Fu Dumpling House",
-    "desc": "Cash-only Sunset Park counter — 4-for-$1 fried pork dumplings and crackly sesame pancake",
-    "longDesc": "A no-frills hole-in-the-wall on Brooklyn's 8th Ave Chinatown corridor, Kai Feng Fu (開封府鍋貼) cranks out crisp-bottomed pork-and-chive pan-fried dumplings at famously bargain prices — roughly $2.50 for six — alongside thick triangles of sesame/scallion pancake and meaty pork buns. Order at the counter, pay cash, and you'll have hot food in hand within minutes. A few tiny tables inside; most regulars take it to go.",
-    "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
+    "desc": "Cash-only 8th Ave dumpling counter — pan-fried pork-and-chive at near-bargain prices.",
+    "longDesc": "A bare-bones Sunset Park institution at 4801 8th Ave where four pan-fried pork-and-chive dumplings with crisp bottoms and thick, glossy handmade wrappers run roughly $1-$2.50 depending on the day's price. Cash only, a handful of tables, near-zero ambiance — pair it with Xin Fa down the block for a $5 walkable Brooklyn Chinatown crawl. Note: menu is pork/chive/cabbage focused; despite the heading, lamb isn't a confirmed offering — call ahead if that's the goal.",
+    "url": "https://www.google.com/maps/place/Kai+Feng+Fu+Dumpling+House/@40.6429,-74.0028,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -2023,32 +2023,32 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "07:30-20:00",
-    "notes": "4801 8th Ave at 48th St, Sunset Park's 8th Ave Chinatown — about 1 mile / ~6 min drive from Industry City (Yelp). Cash only (Infatuation). Six fried pork & chive dumplings ~$2.50, crisped on the bottom with glossy skin (Infatuation review). Also famous for sesame pancake and pork buns. Weekend street parking on 48th/49th St is usually findable; expect a short counter line at lunch. Open 7:30am–8pm daily.",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "08:00-22:00",
+    "notes": "4801 8th Ave at 48th St (theinfatuation.com). Four pan-fried pork & chive dumplings ~$1-2.50, crisped bottoms and thick handmade wrappers (theinfatuation.com, eattheworldnyc.com). Cash only; ~2-3 small tables; also serves pork buns, sesame pancakes, scallion pancakes (visitbrooklyn.nyc). Weekend street parking on 8th Ave is moderately available before noon — easier than Manhattan Chinatown. Lamb dumplings not confirmed on the menu; if user specifically wants lamb, redirect to White Bear in Flushing or call ahead at 929-999-7088 (kaifengfubrooklyn.com).",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
+        "accessed": "2026-05-16T15:15:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://kaifengfubrooklyn.com/",
+        "accessed": "2026-05-16T15:15:00Z"
       },
       {
         "url": "https://visitbrooklyn.nyc/eatanddrink/kai-feng-fu-dumpling-house",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T15:15:00Z"
       },
       {
-        "url": "https://kaifengfubrooklyn.kwickmenu.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "http://www.eattheworldnyc.com/2015/09/kai-feng-fu.html",
+        "accessed": "2026-05-16T15:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T11:51:54.628Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T15:17:17.626Z"
   },
   {
     "id": "beat-the-bomb",
@@ -2561,8 +2561,8 @@
   {
     "id": "frankies-457-spuntino",
     "name": "Frankies 457 Spuntino",
-    "desc": "Twenty-year-old Carroll Gardens trattoria with a covered, heated back garden and seasonal pastas.",
-    "longDesc": "Frankies 457 Spuntino is a Carroll Gardens institution at 457 Court St, now in its 20th year, known for house-made pastas, Sicilian-style beef meatballs in marinara with pecorino, and seasonal plates like sweet potato–sage ravioli. The real draw is the back garden: grape vines climbing the walls, warm wood and tile, and overhead cover with heaters so it works year-round. Reservations open 14 days in advance on OpenTable and the room books up early on weekends.",
+    "desc": "Carroll Gardens Italian institution with a leafy backyard garden — handmade pasta, cavatelli, meatballs",
+    "longDesc": "A 20-year Court Street fixture from Frank Falcinelli and Frank Castronovo, serving rustic Italian-American with their own olive oil, cured meats, and house-made pastas like cavatelli with sage-and-brown-butter. The back garden — a stone-paved patio under a wisteria-and-fig canopy with a carriage-house extension — is the seat to request in warm weather. Menu highlights include the pine-nut-and-raisin meatballs, slow-roasted rib eye, and branzino with lemon aioli.",
     "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2575,33 +2575,33 @@
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$$",
+    "priceBand": "$$",
     "duration": "75-90 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "11:00-23:00",
-    "notes": "Open 7 days; weekend hours 11:00am–11:00pm per official site (frankiesspuntino.com). Phone (718) 403-0033. Reservations via OpenTable 14 days out; walk-ins possible at the bar but garden seats book first. Street parking on Court/Luquer/4th Place — Carroll Gardens is residential-permit-free on weekends but turnover is slow; budget 5 min to find a spot. ~12 min drive from Industry City via 3rd Ave → Hamilton Ave → Smith St → Court St. Per-person check typically $31–50 (OpenTable). Strong vegetarian options (cavatelli with sage brown butter, beet & avocado salad) but limited vegan/GF. Great 6:30 PM anchor for the Carroll Gardens track; pairs well with a Court St stroll before or a Smith St cocktail (Clover Club, Leyenda) after.",
+    "notes": "457 Court St, Brooklyn 11231 (718-403-0033). Sun–Thu 11:00–22:00, Fri–Sat 11:00–23:00 (some sources note Fri–Sat to midnight) (frankiesspuntino.com). Pastas ~$21–$30, meatball app and antipasti in the teens; private events $20–$90pp (menupages, yelp). Garden seating is first-come or specially requested at reservation — popular on weekends, arrive early or book ahead via OpenTable. Street parking on Court/4th Place is easier than Cobble Hill north of here. Natural pairing as lunch or early dinner anchor extending a Cobble Hill/Carroll Gardens track; 5–7 min drive north to Brooklyn Farmacy or south to Red Hook waterfront.",
     "sources": [
       {
         "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/frankies-spuntino-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d544913-Reviews-Frankies_457_Spuntino-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T15:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/frankies-457-spuntino-brooklyn-3",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://menupages.com/frankies-457/457-court-st-brooklyn",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/frankies-spuntino-brooklyn",
+        "accessed": "2026-05-16T15:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T07:13:48.655Z"
+    "lastResearchedAt": "2026-05-16T15:15:03.768Z"
   },
   {
     "id": "win-son-bakery-williamsburg",
@@ -5316,8 +5316,8 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Tiny Kunming-couple noodle shop in Sunset Park slinging the city's best Crossing Bridge rice noodles.",
-    "longDesc": "Husband-and-wife team from Kunming run this 5121 8th Ave storefront in Sunset Park's Chinatown, specializing in Yunnan-province rice noodles with bouncy, broth-absorbing texture. Order the signature Crossing Bridge Rice Noodles (raw proteins added tableside to a steaming bowl) or the spicy small-pot rice noodles — both rank among NYC critics' top regional Chinese picks. Cash-friendly, no-frills, 8-min drive from Industry City with abundant 8th Ave metered parking on weekends.",
+    "desc": "Kunming-style rice noodles on Sunset Park's 8th Ave Chinatown — cross-the-bridge mixian, cash only",
+    "longDesc": "A husband-and-wife takeout shop from Kunming serving Yunnan's signature dish, guoqiao mixian (cross-the-bridge noodles): rice noodles ladled into an oil-sealed broth that flash-cooks raw pork, vegetables, and quail egg at the table. Other highlights are cold mixian with sweet-salty ground pork and peanuts, hot-and-sour noodle soup, and bone-broth noodles with sliced pork. Cash-only, dirt cheap ($5–$11 a bowl), and the strongest single anchor on 8th Ave for a fast, deeply regional lunch a few minutes east of Industry City.",
     "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5328,28 +5328,36 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "11:00-21:00",
-    "notes": "5121 8th Ave, Brooklyn NY 11220; phone (718) 633-3090 (Yelp). Daily 11a-9p (NYC Tourism). Specialty: Crossing Bridge Rice Noodles + chili-broth bowls — Yunnan regional cuisine is rare in NYC, this is the standout (Time Out). Cash + small-bills friendly; tiny dining room, expect takeout overflow on weekends. Pairs naturally with an 8th Ave Chinatown stroll or a follow-up bao stop.",
+    "hoursWeekend": "10:30-22:30",
+    "notes": "Address 5121 8th Ave, Brooklyn NY 11220 (Sunset Park / 8th Ave Chinatown corridor) (nyctourism.com). Specializes in Yunnan cuisine — guoqiao mixian, hot & sour soup, noodles in bone broth with sliced pork (nyctourism.com). Dishes $5–$10, Crossing the Bridge Noodles $9.50–$11.50 (restaurant.com). Hours commonly reported 10:30am–10:30pm daily but vary by source — call (718) 633-3090 to confirm (tripadvisor; yelp). Cash-only per multiple reviews (notanotherbrooklynblog.com). Diversifies the food corpus away from the European/Italian default in the IC/Industry City zone with a lighter, aromatic regional Chinese cuisine.",
     "sources": [
       {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T15:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T15:15:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/restaurants/yun-nan-flavour-garden",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d5075334-Reviews-Yun_Nan_Flavor_Garden-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://www.restaurant.com/locations/yun-nan-flavor-garden-brooklyn-5121-8th-ave",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://notanotherbrooklynblog.com/2015/03/10/eating-8th-avenue-yun-nan-flavour-garden/",
+        "accessed": "2026-05-16T15:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T14:18:24.404Z"
+    "lastResearchedAt": "2026-05-16T15:19:23.685Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -13486,5 +13494,92 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T15:10:56.860Z"
+  },
+  {
+    "id": "court-street-grocers-cobble-hill",
+    "name": "Court Street Grocers",
+    "desc": "Cult-favorite Brooklyn deli for towering Italian heroes and chicken-cutlet sandwiches.",
+    "longDesc": "An old-school-meets-modern grocer at the Cobble Hill / Carroll Gardens line, famous for hand-built heroes like the Turkey Hero (turkey, herbed mayo, sharp provolone, pickled cabbage) and the Uncle Eddie chicken cutlet. Order at the counter and grab a sidewalk stoop — pairs perfectly with a morning Bien Cuit kouign-amann run, since both sit on the same Smith/Court corridor and share weekend street parking. Open seven days, 8am–5pm (courtstreetgrocers.com).",
+    "url": "https://www.courtstreetgrocers.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "485 Court St, Brooklyn NY 11231 — at the Cobble Hill/Carroll Gardens border, ~0.7 mi walk from Bien Cuit on Smith St (Google Maps). Open 7 days, 8am–5pm (courtstreetgrocers.com/contact-hours-csg). Try the Turkey Hero or Uncle Eddie; cash + card; small standing counter, mostly takeout (The Infatuation review).",
+    "sources": [
+      {
+        "url": "https://www.courtstreetgrocers.com/locations",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://www.courtstreetgrocers.com/contact-hours-csg",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
+        "accessed": "2026-05-16T15:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T15:12:58.938Z"
+  },
+  {
+    "id": "fei-long-market",
+    "name": "Fei Long Market",
+    "desc": "Sprawling Asian supermarket on 8th Ave with roast-meat case, fresh seafood, and snack aisles built for grazing.",
+    "longDesc": "A 30,000+ sq ft Chinese/Pan-Asian grocery anchoring Brooklyn's Sunset Park Chinatown — walls of dragon fruit and durian, live tanks, a hanging-duck/char-siu case, and a frozen aisle deep in soup dumplings and bao. The attached food court (Shanghai Dumpling House, Shall We Eat roast meats, LaoMa MaLaTang) is currently closed for renovation, so treat this as a photo + provisions stop rather than a sit-down meal. Pair with Xin Fa next door or Ba Xuyên down the avenue.",
+    "url": "https://www.nyctourism.com/restaurants/fei-long-market-sunset-park/",
+    "photoUrl": "https://images.ctfassets.net/1aemqu6a6t65/7mP5TbYOU6V4wGocPmhFzz/de2e2584be11a304b9ef6cc5cca6bbab/fei-long-market-kate-glicksberg-2447?w=1200&h=800&q=75",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "07:45-19:45",
+    "notes": "6301 8th Ave, Brooklyn — anchor of the Sunset Park Chinatown stretch (Yelp). Hot-food court CLOSED for renovation as of 2026, but grocery operates full hours (Yelp, Infatuation). Strong visual stop: lacquered ducks in window, produce pyramids, prepared-food deli case. Weekend street parking on 62nd–64th side streets is workable; small lot behind building fills fast. Grab bao + fruit to eat at Sunset Park (6 blocks east, free skyline view) if the food-court loss leaves you hungry.",
+    "sources": [
+      {
+        "url": "https://www.nyctourism.com/restaurants/fei-long-market-sunset-park/",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/fei-long-supermarket-brooklyn",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/fei-long-supermarket-food-court-brooklyn",
+        "accessed": "2026-05-16T15:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/fei-long-food-court",
+        "accessed": "2026-05-16T15:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T15:21:56.236Z"
   }
 ]
