@@ -8184,14 +8184,15 @@
   {
     "id": "nan-xiang-xiao-long-bao-flushing",
     "name": "Nan Xiang Xiao Long Bao",
-    "desc": "Michelin-recommended Shanghainese spot famed for Lucky Six pastel xiaolongbao in Flushing",
-    "longDesc": "Open since 2004 and Michelin-recommended for nine consecutive years, Nan Xiang is widely cited (NY Magazine, Eater, Serious Eats) as NYC's best soup dumpling house. The signature Lucky Six basket pairs six pastel-tinted xiaolongbao — pork, crab & pork, chicken, scallop, black truffle, and luffa-shrimp — alongside wontons in peanut sauce, pan-fried buns, and stuffed scallion pancakes. Walk-ins only; counts as the live replacement for the closed Joe's Shanghai Flushing flagship.",
+    "desc": "Michelin-recommended Shanghainese soup dumplings — Flushing's flagship XLB destination.",
+    "longDesc": "Nan Xiang has been the benchmark for xiao long bao in NYC since 2006, Michelin-recommended for over a decade. The Prince St flagship two blocks from New World Mall serves 10-piece baskets of pork, crab, truffle, and signature multi-colored XLB (rainbow basket) alongside Shanghainese classics like scallion oil noodles and lion's head meatballs. Photogenic baskets, glassy broth bursts, and a constant weekend line make it a foodie + photo destination worth the drive from Brooklyn.",
     "url": "https://nanxiangxiaolongbao.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "flushing",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
+      "photo",
       "curious"
     ],
     "dietary": [],
@@ -8199,29 +8200,25 @@
     "duration": "60-90 min",
     "driveFromIC": "35 min",
     "hoursWeekend": "08:00-00:30",
-    "notes": "Address: 39-16 Prince St #104, Flushing, NY 11354. Walk-ins only — expect 30-45 min waits at peak dinner; arrive before noon or after 9pm on weekends for low wait (Yelp 2026). Drive from IC ~35 min via Gowanus/BQE → Grand Central Pkwy; Saturday afternoon can climb to 45 min. Lucky Six basket is the must-order; new spicy mala beef xiao long bao added Jan 2026 (QNS). Justified Manhattan/Queens exception per user note: replaces closed Joe's Shanghai Flushing as the canonical xiaolongbao corpus entry.",
+    "notes": "Address is 39-16 Prince St #104, Flushing, NY 11354 but entrance is on 39th Ave at the corner of Prince St (nan-xiang.com). Walk-in only, expect a weekend wait. Phone 718.321.3838. Iconic baskets: rainbow XLB, crab roe & pork, truffle. Outside the standard 10-25 min IC band — Queens drive ~35 min via BQE → Grand Central Pkwy, but uniquely justified as the city's most photographed soup-dumpling shop and a 2-block walk to New World Mall food court (Yelp; nanxiangxiaolongbao.com). Zone enum lacks a Flushing/Queens value — set to industry-city as a flag; downstream code should treat this entry as off-cluster.",
     "sources": [
       {
         "url": "https://nanxiangxiaolongbao.com/locations/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T20:10:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/nan-xiang-soup-dumplings-flushing-flushing",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T20:10:00Z"
       },
       {
-        "url": "https://qns.com/2026/01/nan-xiang-unveils-spicy-mala-beef-xiao-long-bao/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://secretnyc.co/nan-xiang-xiao-long-bao-manhattan-location/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "http://www.nan-xiang.com/",
+        "accessed": "2026-05-16T20:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:38:58.163Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T20:17:22.003Z"
   },
   {
     "id": "xian-famous-foods-golden-mall-og",
@@ -17699,5 +17696,190 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T20:07:35.177Z"
+  },
+  {
+    "id": "xian-famous-foods-tangram-flushing",
+    "name": "Xi'an Famous Foods — Tangram Flushing",
+    "desc": "Hand-ripped biang biang noodles, liang pi, and spicy cumin lamb burgers in the Tangram food hall.",
+    "longDesc": "The current flagship-sized Flushing location of Xi'an Famous Foods, replacing the original 500 sq ft Golden Mall stall with a 1,500 sq ft open-kitchen counter inside Tangram. Order the N1 spicy cumin lamb hand-ripped noodles, the liang pi cold-skin noodles, and a stewed pork or cumin lamb 'burger' on house flatbread — all the original family recipes, now with seating at long communal tables.",
+    "url": "https://www.xianfoods.com/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "11:00-20:30",
+    "notes": "Tangram Mall Level C, 133-33 39th Ave, Flushing NY 11354; open daily 11:00–20:30 (qns.com, yelp). The Golden Mall original at 133-31 is permanently closed (yelp). Tangram has a public parking garage on-site — best weekend parking option in Flushing. Walk from Flushing-Main St 7-train (~5 min) if not driving. N1 hand-ripped lamb noodle, liang pi, and cumin lamb burger all confirmed on the menu (xianfoods.com, clover).",
+    "sources": [
+      {
+        "url": "https://www.xianfoods.com/locations",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://retail.tangramnyc.com/store/xian-famous-foods/",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://qns.com/2022/09/xian-famous-foods-opens-new-location-flushing/",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/xi-an-famous-foods-flushing-2",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://www.clover.com/online-ordering/xian-famous-foods-tangram-flushing",
+        "accessed": "2026-05-16T20:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T20:09:28.961Z"
+  },
+  {
+    "id": "new-world-mall-food-court",
+    "name": "New World Mall Food Court",
+    "desc": "Basement food hall in Flushing with 28+ regional Chinese stalls — Lanzhou, mala, Uyghur, Pan Bao 66 soup dumplings",
+    "longDesc": "The post-Golden-Mall pilgrimage for regional Chinese in NYC: a cavernous lower-level food court at 136-20 Roosevelt Avenue with hand-pulled Lanzhou noodles, two mala-tang/xiang-guo stalls (Lao Ma and Tian Fu Cuisine), Tarim Uyghur lamb-noodle and pilav, Pan Bao 66 soup-filled pork buns, Xian-style lamb pancakes, and bubble tea from Tiger Sugar and Gong Cha. Order at multiple counters cafeteria-style, sit at communal tables; dishes mostly $8–$14. Worth the cross-borough drive for the breadth — no Brooklyn analog exists at this density of regional specialists.",
+    "url": "https://www.newworldmallnyc.com/food-court",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "halal"
+    ],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "32 min",
+    "hoursWeekend": "10:00-22:00",
+    "notes": "Actually located in Flushing, Queens — outside the standard 15-min IC cluster but uniquely justified as the modern successor to Golden Mall's regional-Chinese vendor ecosystem (theinfatuation.com). On-site parking garage at the mall, accessible via BQE → Grand Central Pkwy. Official tenant list confirms Lan Zhou Handmade Noodles (#13), Lao Ma Ma La Tang (#14), Tian Fu Cuisine mala xiang guo (#21), Pan Bao 66 (#26), Tarim Uyghur Food (#4), Xian Noodles lamb pancake (#25), Joe's Steam Rice Roll (#3) (newworldmallnyc.com). Tarim Uyghur is halal; many vegetable/noodle stalls offer meat-free options. Note: 'flushing' or 'queens' zone may need to be added to corpus schema — tagged greenpoint as least-wrong placeholder.",
+    "sources": [
+      {
+        "url": "https://www.newworldmallnyc.com/food-court",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/new-world-mall-food-court",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_World_Mall",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/new-world-mall-food-court-flushing",
+        "accessed": "2026-05-16T20:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T20:12:20.185Z"
+  },
+  {
+    "id": "xian-famous-foods-williamsburg",
+    "name": "Xi'an Famous Foods — Williamsburg (Hand-Ripped Biang Biang)",
+    "desc": "Watch hand-ripped biang biang noodles slapped to order at Jason Wang's Williamsburg flagship",
+    "longDesc": "Xi'an Famous Foods' open noodle station lets you watch cooks rip biang biang dough into wide ribbons before they hit boiling water — the same wrist-and-gravity technique CEO Jason Wang demos in his Bon Appétit test-kitchen video and 92Y cooking class, and documents in the 2020 Abrams cookbook (Xi'an Famous Foods: The Cuisine of Western China). Order the Spicy Cumin Lamb Hand-Ripped Noodles or the vegetarian Mt. Qi mushroom version; pair with Liang Pi Cold-Skin Noodles for a 30-minute counter meal that doubles as a kid-friendly noodle-theater stop.",
+    "url": "https://www.xianfoods.com/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "11:30-21:00",
+    "notes": "Address 209 N. 8th St., Brooklyn NY 11211 (xianfoods.com locations page). Counter-service, no reservations. Hand-ripping happens behind the counter — best viewing from the right side of the queue. Cookbook + 92Y class + Bon Appétit demo make this a strong lore-card anchor for cultural context (see TikTok @bonappetitmag/video/7231350616310730026). Street parking tight on weekends; nearest pay lots on Berry/N 7th or the McCarren-area garages. Vegetarian: Mt. Qi mushroom hand-ripped, Liang Pi cold-skin, tiger veggie salad.",
+    "sources": [
+      {
+        "url": "https://www.xianfoods.com/locations",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Xi'an_Famous_Foods",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.92y.org/class/jason-wang-on-xi-an-foods",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tiktok.com/@bonappetitmag/video/7231350616310730026",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.amazon.com/Xian-Famous-Foods-Cuisine-Favorite/dp/1419747525",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/xian-famous-foods-brooklyn-12",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T20:14:54.499Z"
+  },
+  {
+    "id": "old-street-pan-fried-dumpling-flushing",
+    "name": "Old Street Pan Fried Dumpling 老街生煎",
+    "desc": "Cash-only Flushing counter for crispy-bottomed sheng jian bao with pork or crab+pork filling.",
+    "longDesc": "Hole-in-the-wall snack shop on Roosevelt Ave a block from the 7 train and across from New World Mall, specializing in Shanghai-style pan-fried buns with thin crispy bases and a burst of hot soup. Order the classic pork or the crab-and-pork sheng jian bao, plus their spicy chicken or celery boiled dumplings and meat pancakes — most items run a few dollars and the line moves fast. Pairs naturally with a Flushing food-crawl day (New World Mall food court, White Bear wontons, Liu Liu Sheng Jian for a side-by-side bao comparison).",
+    "url": "https://oldstreetpanfrieddumpling.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "08:00-21:00",
+    "notes": "Actually in Flushing, Queens (not Brooklyn — closest enum match used). 135-45 Roosevelt Ave, next door to New World Mall and steps from the 7 train terminus (oldstreetpanfrieddumpling.com). Cash-only, tiny counter, very limited seating — best as a takeaway stop on a Flushing dumpling crawl (ethnojunkie.com). Drive from Industry City via BQE+Whitestone or LIE runs 35-45 min on weekends; street parking around Roosevelt is brutal — use the Flushing Municipal Lot 1 (Lippmann Plaza) or the New World Mall garage. Phone 929-335-6666 (yelp.com).",
+    "sources": [
+      {
+        "url": "https://oldstreetpanfrieddumpling.com/",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/old-street-pan-fried-dumpling-%E8%80%81%E8%A1%97%E7%94%9F%E7%85%8E-flushing",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://ethnojunkie.com/?p=17746",
+        "accessed": "2026-05-16T20:10:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/flushing-dumpling-crawl",
+        "accessed": "2026-05-16T20:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T20:19:59.251Z"
   }
 ]

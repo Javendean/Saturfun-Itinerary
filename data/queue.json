@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Xi'an Famous Foods Flushing (current Tangram Mall location, 133-33 39th Ave Level C)",
-    "reason": "Live replacement for the closed OG stall — same menu (N1 hand-ripped lamb noodle, liang pi, cumin lamb burger), actually visitable in 2026, walkable from Flushing Main St 7-train",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:41:44.208Z"
-  },
-  {
-    "topic": "New World Mall Food Court, Flushing (136-20 Roosevelt Ave)",
-    "reason": "Successor food court that absorbed many Golden Mall vendors post-2019 — Lanzhou hand-pulled noodles, Tianjin jianbing, Chengdu mala stalls; the actual modern pilgrimage site for NYC regional Chinese",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:41:44.208Z"
-  },
-  {
-    "topic": "Jason Wang's biang biang noodle technique / hand-ripping demos",
-    "reason": "Cultural-context entry pairs well with the venue; could enqueue a kid-friendly demo or cookbook reference for itinerary lore cards",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:41:44.208Z"
-  },
-  {
-    "topic": "Nan Xiang Xiao Long Bao Flushing — flagship soup dumpling shop on Prince St",
-    "reason": "Most likely intended 'Tangoo' substitute; iconic XLB destination 2-block walk from New World Mall; photogenic basket shots fit foodie+photo vibe",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:45:08.328Z"
-  },
-  {
-    "topic": "Old Street Pan Fried Dumpling 135-45 Roosevelt Ave Flushing",
-    "reason": "Alternate walking-crawl stop next door to New World Mall; sheng jian bao niche not in Brooklyn corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:45:08.328Z"
-  },
-  {
     "topic": "Sky View Center mall + Asian dessert stops Flushing — parking + post-crawl boba/bingsu",
     "reason": "Solves the parking question AND extends Flushing day with photogenic dessert stop (Meet Fresh, etc.); complements the savory crawl",
     "requestedBy": "agent",
@@ -5206,5 +5176,89 @@
     "reason": "Another basement-stall format within walking distance of Golden Mall; lets the track stack two food-court stops without re-parking",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T20:07:35.191Z"
+  },
+  {
+    "topic": "Tangram Food Hall Flushing (whole hall, multi-stall option)",
+    "reason": "Same building — a full food-hall pass covers dumplings, hot pot, and dessert in one stop, extending the Flushing track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:09:28.976Z"
+  },
+  {
+    "topic": "Nan Xiang Xiao Long Bao Flushing (current location)",
+    "reason": "Michelin-recognized soup dumplings 5-min walk from Tangram; natural pairing on a Flushing food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:09:28.976Z"
+  },
+  {
+    "topic": "Fang Gourmet Tea Flushing",
+    "reason": "Serious gongfu tea tasting room within walking distance of Tangram — slow counterpoint to a noodle-and-burger lunch",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:09:28.976Z"
+  },
+  {
+    "topic": "Tarim Uyghur Food (stall inside New World Mall) — lamb pilav, hand-pulled lagman",
+    "reason": "Single-stall deep dive: halal Uyghur is rare in NYC; deserves its own entry for dietary filtering and as a destination stall, not just a line item.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:12:20.201Z"
+  },
+  {
+    "topic": "Nan Xiang Xiao Long Bao — 39-16 Prince St, Flushing",
+    "reason": "Three blocks from New World Mall; widely considered NYC's best soup dumpling. Natural pairing for a Flushing food-pilgrimage track that already justifies the cross-borough drive.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:12:20.201Z"
+  },
+  {
+    "topic": "Joe's Steam Rice Roll — Flushing original location",
+    "reason": "Cantonese cheung fun specialist that started as a New World Mall stall and expanded citywide; the Flushing flagship is the source-of-truth version and contextualizes the food court's role as an incubator.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:12:20.201Z"
+  },
+  {
+    "topic": "Xi'an Famous Foods — DeKalb Market Hall / 54 Willoughby St (Downtown Brooklyn)",
+    "reason": "Closer alternative ~12 min drive from IC with garage parking — useful for a Downtown Brooklyn track or a rainy-day swap when Williamsburg parking is brutal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:14:54.514Z"
+  },
+  {
+    "topic": "Tasty Hand-Pulled Noodles (Brooklyn Chinatown / Sunset Park hand-pulled alternatives)",
+    "reason": "Lamian (pulled) vs biang biang (ripped) contrast — a second noodle-technique lore card differentiates Sunset Park's own Chinatown stops within walking distance of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:14:54.514Z"
+  },
+  {
+    "topic": "Jason Wang's 'Xi'an Famous Foods' cookbook (Abrams 2020) as itinerary lore card",
+    "reason": "Pure cultural-context reference object — pairs with the venue card, gives users a take-home action and supports the kid-friendly cookbook-and-demo angle separate from any physical visit",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:14:54.514Z"
+  },
+  {
+    "topic": "Joe's Shanghai Flushing",
+    "reason": "Original Flushing XLB competitor — useful comparison anchor for foodie users debating which soup-dumpling stop to pick",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:17:22.017Z"
+  },
+  {
+    "topic": "Yaso Tangbao Downtown Brooklyn",
+    "reason": "Brooklyn-side XLB option for users who want soup dumplings without the 35-min Queens drive — fits the 10-25 min IC band",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:17:22.017Z"
+  },
+  {
+    "topic": "Liu Liu Sheng Jian 136-20 Roosevelt Ave Flushing",
+    "reason": "Direct head-to-head sheng jian bao comparison two doors down — Infatuation crawl pick, lets the corpus support an A/B bao tasting stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:19:59.266Z"
+  },
+  {
+    "topic": "White Bear 135-02 Roosevelt Ave Flushing wontons",
+    "reason": "Cult #6 spicy wontons one block away — rounds out a self-contained 3-stop Flushing walking crawl already implied by this entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:19:59.266Z"
+  },
+  {
+    "topic": "New World Mall Food Court J-Michelle Hot Pot and Tianjin",
+    "reason": "Anchor food court next door provides indoor seating + 20+ regional stalls if the dumpling counter is mobbed; high-density foodie content",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:19:59.266Z"
   }
 ]
