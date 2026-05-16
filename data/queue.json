@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Mazzola Bakery (Carroll Gardens, Henry St) — pair with Court Street Grocers for a single-block morning loop",
-    "reason": "Lard bread + pastries 2 blocks from CSG; lets one parking spot anchor two stops",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:10:11.929Z"
-  },
-  {
-    "topic": "Hamilton Ave / Lorraine St BQE exit parking reality for Red Hook→Carroll Gardens transitions",
-    "reason": "Validates the Flushing→Court St routing assumption used in driveFromFlushing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:10:11.929Z"
-  },
-  {
-    "topic": "Re-research existing venue: Domino Park — add driveFromFlushing field (~22 min via Kosciuszko, walkable from Smorgasburg)",
-    "reason": "Pairs naturally with Smorgasburg as a 10-min waterfront walk after eating; same Flushing-origin re-ranking applies",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:13:00.369Z"
-  },
-  {
-    "topic": "Re-research existing venue: Devoción Williamsburg flagship coffee — add to corpus + driveFromFlushing",
-    "reason": "User explicitly named Devoción in the batch list but it's currently missing from the corpus; classic Williamsburg coffee anchor for pre-Smorgasburg warmup",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:13:00.369Z"
-  },
-  {
-    "topic": "Re-research existing venue: Maison Premiere — add driveFromFlushing (~22 min) and confirm weekend brunch oysters",
-    "reason": "Romantic-vibe complement to Smorgasburg-foodie; same Williamsburg cluster, becomes viable as a Flushing-origin afternoon stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:13:00.369Z"
-  },
-  {
     "topic": "Rainey Park LIC waterfront promenade",
     "reason": "Adjacent green space next to Socrates — extends the LIC waterfront walk for photo/chill vibe",
     "requestedBy": "agent",
@@ -4750,5 +4720,95 @@
     "reason": "Adds a 'curious/chill' indoor option inside the same 10-min walk radius so Greenpoint tracks aren't food-only",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T18:33:26.964Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods (460 Court St, Carroll Gardens) — fresh mozzarella + house pasta on same Court St block as CSG",
+    "reason": "Third anchor for the Carroll Gardens single-block loop; lets the morning expand into a full Italian-American provisions crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:35:32.998Z"
+  },
+  {
+    "topic": "Court Pastry Shop (298 Court St, Carroll Gardens) — Sicilian cannoli + lobster tails, walkable from Mazzola",
+    "reason": "Direct comp/complement to Mazzola's pastry case; user can compare two heritage Italian bakeries on one trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:35:32.998Z"
+  },
+  {
+    "topic": "F. Monteleone Bakery & Cafe (355 Court St) — third heritage Italian bakery in Carroll Gardens",
+    "reason": "Rounds out the Carroll Gardens Italian-bakery corpus so the itinerary engine can pick the best fit by hours/vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:35:32.998Z"
+  },
+  {
+    "topic": "Hamilton Avenue Footbridge at Luquer St — pedestrian shortcut Red Hook↔Carroll Gardens",
+    "reason": "Lets the driver park once and let passengers walk the seam — material for multi-zone tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:37:49.774Z"
+  },
+  {
+    "topic": "Court St / Smith St curbside parking reality on Saturday afternoons",
+    "reason": "Validates the second half of the Flushing→Carroll Gardens drop; pairs with this exit intel",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:37:49.774Z"
+  },
+  {
+    "topic": "Van Brunt St (Red Hook) weekend parking reality near Fairway/Pioneer Works",
+    "reason": "The straight-down-Hamilton alternative; needed if Carroll Gardens curb is saturated",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:37:49.774Z"
+  },
+  {
+    "topic": "Marsha P. Johnson State Park Williamsburg waterfront",
+    "reason": "Sits between Smorgasburg and Domino Park — natural extension of the Flushing-day waterfront walk loop, candidate as its own photo+chill stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:40:30.989Z"
+  },
+  {
+    "topic": "Tacocina at Domino Park weekend menu",
+    "reason": "Danny Meyer's in-park taco bar gives a built-in micro-foodie stop without leaving the waterfront — adds dietary options Domino Park currently lacks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:40:30.989Z"
+  },
+  {
+    "topic": "South Williamsburg waterfront parking lots weekend rates",
+    "reason": "Domino Park has no dedicated lot; surfacing 1-2 reliable garage options (e.g., Wythe/N 4th area) would de-risk the whole Williamsburg cluster from Flushing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:40:30.989Z"
+  },
+  {
+    "topic": "Partners Coffee Williamsburg roastery (Wythe Ave)",
+    "reason": "Direct peer to Devoción — completes the Williamsburg specialty-coffee anchor set with a second tasting-room option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:42:31.899Z"
+  },
+  {
+    "topic": "Marsha P. Johnson State Park Smorgasburg Saturday site",
+    "reason": "Natural pairing 5-min drive from Devoción; corpus likely already has the Prospect Park Sunday site but not the Williamsburg Saturday one",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:42:31.899Z"
+  },
+  {
+    "topic": "Sey Coffee Bushwick roastery",
+    "reason": "Adjacent specialty-coffee cluster expanding from Williamsburg into Bushwick — fills the 'curious/photo' coffee tier in a second zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:42:31.899Z"
+  },
+  {
+    "topic": "Sauvage Williamsburg — sister restaurant brunch",
+    "reason": "Same ownership/aesthetic as Maison Premiere, 4-min drive away on Graham Ave; gives the Williamsburg romantic cluster a second viable brunch anchor if Maison is booked.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:44:38.639Z"
+  },
+  {
+    "topic": "The Four Horsemen Williamsburg natural wine lunch",
+    "reason": "Walkable from Maison Premiere; expands the foodie+romantic Williamsburg cluster for a multi-stop afternoon track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:44:38.639Z"
+  },
+  {
+    "topic": "Wythe Hotel rooftop Bar Blondeau sunset",
+    "reason": "10-min walk from Maison Premiere with East River + Manhattan skyline view; natural late-afternoon photo stop after oyster brunch.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T18:44:38.639Z"
   }
 ]
