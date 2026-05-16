@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Re-research existing venue: Kai Feng Fu Dumpling House",
-    "reason": "fill duration / zone / vibe / dietary / priceBand / photo",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Re-research existing venue: Beat The Bomb",
-    "reason": "fill duration / zone / vibe / dietary / priceBand / photo",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Re-research existing venue: Movement Gowanus",
-    "reason": "fill duration / zone / vibe / dietary / priceBand / photo",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Re-research existing venue: Kick Axe",
-    "reason": "fill duration / zone / vibe / dietary / priceBand / photo",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Re-research existing venue: Brooklyn Game Knight",
-    "reason": "fill duration / zone / vibe / dietary / priceBand / photo",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
     "topic": "Re-research existing venue: Carreau Club",
     "reason": "fill duration / zone / vibe / dietary / priceBand / photo",
     "requestedBy": "seed",
@@ -278,5 +248,95 @@
     "reason": "Large Asian grocery in the same strip — fits the 'curious' / browse-and-snack vibe and is genuinely walkable from Hainan Chicken House",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T04:05:47.880Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park — Yunnan rice noodles a few blocks from Kai Feng Fu",
+    "reason": "Pairs with Kai Feng Fu as another cheap, weekend-parking-friendly Sunset Park Chinatown stop within 10 min of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:08:00.627Z"
+  },
+  {
+    "topic": "Bahari Pizza 8th Ave Sunset Park bakery scallion pancake stops",
+    "reason": "Expands the 8th Ave corridor cluster of quick-bite foodie venues drivable from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:08:00.627Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself) Manhattan skyline overlook",
+    "reason": "Natural post-dumpling photo/active stop 0.5 mi from Kai Feng Fu, fills photo + active vibe gap near IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:08:00.627Z"
+  },
+  {
+    "topic": "The Color Factory DUMBO interactive photo experience",
+    "reason": "Same DUMBO photo-op + group-active cluster as Beat The Bomb; pairs well in a tracks itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:10:04.806Z"
+  },
+  {
+    "topic": "Time Out Market DUMBO food hall",
+    "reason": "Natural pre/post stop within 5-min walk of Beat The Bomb; fills foodie + dietary gaps in the DUMBO zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:10:04.806Z"
+  },
+  {
+    "topic": "Brooklyn Bridge Park Pier 2 roller rink and courts",
+    "reason": "Active outdoor counterpart 8 min walk from Beat The Bomb; expands DUMBO active-vibe coverage with free parking lots on Furman",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:10:04.806Z"
+  },
+  {
+    "topic": "VITAL Climbing Williamsburg — bouldering-only alternative",
+    "reason": "Adjacent climbing option in a different zone for itinerary variety",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:12:41.539Z"
+  },
+  {
+    "topic": "The Cliffs at DUMBO climbing gym",
+    "reason": "Newer DUMBO climbing gym pairs well with waterfront walk + Time Out Market",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:12:41.539Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus post-climb beer + food hall",
+    "reason": "Natural post-climb pairing 3-min drive from Movement",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:12:41.539Z"
+  },
+  {
+    "topic": "Royal Palms Shuffleboard Club Gowanus",
+    "reason": "Sister 'active bar' pairing 10 min from IC — same group-vibe niche as Kick Axe, fills out the indoor-activity track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:14:37.392Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom",
+    "reason": "Driving-friendly post-axe beer stop, complements Kick Axe in the same Gowanus cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:14:37.392Z"
+  },
+  {
+    "topic": "Brooklyn Bowl Williamsburg bowling + live music",
+    "reason": "Adjacent 'driving-friendly active venue' candidate in 15-min radius for the active/chill vibe bucket",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:14:37.392Z"
+  },
+  {
+    "topic": "Hex & Company board game cafe Park Slope",
+    "reason": "Closest sibling concept driving distance from IC — gives the corpus a second tabletop option in a different zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:16:43.183Z"
+  },
+  {
+    "topic": "The Uncommons board game cafe Manhattan",
+    "reason": "Adjacent comp to benchmark BGK against — only enqueue if user wants a Manhattan justification venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:16:43.183Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg tabletop gaming",
+    "reason": "Williamsburg tabletop retail+play spot within 15-min drive of IC, fits driving radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:16:43.183Z"
   }
 ]
