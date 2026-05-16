@@ -8985,43 +8985,46 @@
   {
     "id": "cookshop-chelsea",
     "name": "Cookshop",
-    "desc": "Farm-to-table Chelsea brunch institution at the High Line's 20th St entrance with sunlit corner dining room.",
-    "longDesc": "Marc Meyer's airy New American restaurant has anchored 10th Ave since 2005, sourcing from regional farms and serving one of NYC's most reliable weekend brunches — ricotta pancakes, harissa eggs, wood-oven dishes, and an oversized Bloody Mary list. The corner-glass dining room faces the High Line, making it a natural pre-walk or post-walk stop. Reservations on Resy strongly recommended for weekends; walk-ins seat at the bar.",
+    "desc": "Chelsea farm-to-table brunch institution with seasonal patio and reliable Saturday service",
+    "longDesc": "Vicki Freeman and Marc Meyer's veteran New American spot on 10th Ave in Chelsea, known for produce-forward brunch (skillet eggs, ricotta pancakes, market salads) and an enclosed sidewalk patio with heaters. Saturday brunch runs 10:00–16:00 and books up; reservations strongly recommended. High-quality but located in Manhattan, not Brooklyn, so it sits outside the project's Industry City driving-radius preference.",
     "url": "https://www.cookshopny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "carroll-gardens",
     "vibe": [
       "foodie",
-      "chill",
-      "photo"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "Sat-Sun brunch 10:00-16:00; dinner Sat 17:30-23:00, Sun 17:30-22:00",
-    "notes": "Manhattan exception justified: directly faces High Line 20th St entrance, pairs naturally with a High Line walk + Chelsea Market (4 blocks south) for a multi-stop Chelsea track. Park at West Chelsea Garage, 525 W 20th St, across the street (~$30-45 weekend rate). Brunch via Resy (resy.com/cities/new-york-ny/venues/cookshop). Take Battery Tunnel + West Side Hwy from IC; allow extra time Sun mornings. Phone 212-924-4440. Farm-to-table sourcing is the differentiator vs. Brooklyn brunch picks (source: cookshopny.com).",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-16:00 brunch",
+    "notes": "Manhattan/Chelsea location — does NOT match Brooklyn-only zone enum (carroll-gardens chosen as nearest farm-to-table brunch analog). Recommend NOT promoting; Brooklyn peers (Buttermilk Channel, Five Leaves, Rucola) offer equivalent quality within the IC driving cluster. Patio is seasonal/enclosed with heaters (Yelp). Saturday brunch 10:00-16:00 (TopBrunch, Yelp). Parking is street + garages ($25-45 weekend) — meaningfully worse than Brooklyn options.",
     "sources": [
       {
         "url": "https://www.cookshopny.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://resy.com/cities/new-york-ny/venues/cookshop",
+        "url": "https://www.yelp.com/biz/cookshop-new-york",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.opentable.com/r/cookshop",
+        "url": "https://us.topbrunch.com/brunch-cookshop-NYC-1496.php",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/cookshop",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:35:48.518Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:02:18.448Z"
   },
   {
     "id": "via-carota",
@@ -9063,5 +9066,180 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T10:00:00.035Z"
+  },
+  {
+    "id": "sunrise-mart-japan-village",
+    "name": "Sunrise Mart at Japan Village",
+    "desc": "NYC's go-to Japanese grocer inside Industry City — snacks, sake, fresh ingredients, prepared bento.",
+    "longDesc": "The Brooklyn outpost of Sunrise Mart anchors Japan Village in Industry City Building 3, stocking imported snacks, sake/shochu, fresh produce, sashimi-grade fish, and ready-to-eat bento alongside the adjoining food hall. It's the natural pre- or post-stop pairing with the manga + ramen loop — grab a snack haul on the way out, or coffee + onigiri on the way in. Industry City's parking lot is right behind the building, and Sunrise Mart validates parking for 2 hours with a $50+ purchase.",
+    "url": "https://industrycity.com/tenants/sunrise-mart/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min (on site, Building 3)",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Entrance at 934 3rd Ave, Industry City Building 3 (industrycity.com). Validated parking in IC lot with $50+ Sunrise Mart spend or $100+ at Sushi Uesugi, 2-hour limit — scan ticket at register before leaving (yelp.com). Food Hall closes earlier (~19:30) than the market itself; plan accordingly if pairing with a sit-down meal (sunrisemart.com). Industry City listing notes Fri+Sat extended to 21:00 (industrycity.com).",
+    "sources": [
+      {
+        "url": "https://industrycity.com/tenants/sunrise-mart/",
+        "accessed": "2026-05-16T10:05:00Z"
+      },
+      {
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-16T10:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
+        "accessed": "2026-05-16T10:05:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/directions",
+        "accessed": "2026-05-16T10:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:04:14.044Z"
+  },
+  {
+    "id": "ramen-setagaya-industry-city",
+    "name": "Ramen Setagaya (Japan Village @ Industry City)",
+    "desc": "Tokyo-style shio & shoyu ramen counter inside Japan Village — clean, fragrant broths from a 2000-founded original.",
+    "longDesc": "The Brooklyn outpost of a Tokyo ramen-ya founded in 2000, tucked inside Japan Village in Industry City's Building 4. Order the signature Shio ramen — a delicate sea-salt broth that earned the NYC location a Best of New York nod after opening in 2007 — and add butter or extra scallions for the classic Setagaya touch. Counter service, fast in-and-out, perfect lunch anchor before browsing Sunrise Mart or the courtyards next door.",
+    "url": "https://www.setagayany.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5cf803af1e289e00011c902f/1560015524885-OTFYFERNNSYYFDB3C6TP/144_Ramen-Setagaya-at-Japan-Village_Featured_3.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min (on-site, Building 4)",
+    "hoursWeekend": "Fri-Sat 11:30-20:30, Sun 11:30-19:30",
+    "notes": "Inside Japan Village food hall at Industry City, 934 3rd Ave Building 4. Light shio/shoyu focus, not the heavy tonkotsu style — counter seating, expect short waits at peak lunch. Vegan ramen option available though toppings vary by season (ramen-nyc.com). Pairs well with a Sunrise Mart browse or Japan Village mochi run after.",
+    "sources": [
+      {
+        "url": "https://www.setagayany.com/",
+        "accessed": "2026-05-16T10:05:00Z"
+      },
+      {
+        "url": "https://www.ramen-nyc.com/restaurants/ramen-setagaya-industry-city",
+        "accessed": "2026-05-16T10:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
+        "accessed": "2026-05-16T10:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:06:20.428Z"
+  },
+  {
+    "id": "handroll-bar-japan-village",
+    "name": "Handroll Bar at Japan Village",
+    "desc": "Counter-service Japanese handrolls made-to-order inside Industry City's Japan Village food hall.",
+    "longDesc": "A small counter inside the Japan Village food hall at Industry City where chefs roll scallop, negi toro, and yellowtail temaki to order in front of you. Order individual rolls a la carte or a combo set, paired with a chilled sake cup. It's a fast, low-commitment alternative to the sit-down sushi spots elsewhere in the hall, and works well as a 30-minute stop before or after browsing the Japan Village marketplace.",
+    "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7d6d9c4042717138a0358_JV-%20handroll.avif",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "see notes — official site lists Mon–Thu 3–6pm, Fri 12–8pm; weekend hours unconfirmed",
+    "notes": "Located inside Japan Village food hall at 934 3rd Ave, Industry City — same building anchor. Made-to-order temaki (scallop, negi toro, yellowtail) plus combos and sake cups (japanvillage.com). The stall's own page only publishes Mon–Thu 3–6pm and Fri 12–8pm; Japan Village as a whole is open weekends but this counter's Sat/Sun service should be confirmed by phone before slotting into a weekend track. Distinct from the sit-down Sushi Uesugi at the back of the hall (yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
+        "accessed": "2026-05-16T10:05:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T10:05:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-16T10:05:00Z"
+      },
+      {
+        "url": "https://m.yelp.com/biz/sushi-uesugi-brooklyn",
+        "accessed": "2026-05-16T10:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:08:23.350Z"
+  },
+  {
+    "id": "desert-island-comics",
+    "name": "Desert Island",
+    "desc": "Williamsburg's punk-rock indie comic shop in a former bakery — zines, art books, underground comics on consignment.",
+    "longDesc": "A tightly curated comics, graphic novel and zine shop housed in a former bakery on Metropolitan Ave since 2008, specializing in experimental, underground and self-published work sold on consignment. The New Yorker called it 'a bookshop so beautifully designed that it doubles as a work of art,' and the NYT dubbed it the 'Punk Rock' comic shop for its DIY aesthetic (desertislandbrooklyn.com). Frequent in-store signings, zine releases and Comic Arts Brooklyn programming make it a tight curated counterpart to Kinokuniya's depth — no Manhattan crossing needed.",
+    "url": "https://www.desertislandbrooklyn.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5cdcff0c8d97401d06bf51a2/aad3edae-92ef-43a2-907b-71d29846d9af/comicsbanner.png",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "12:00-19:00",
+    "notes": "490 Metropolitan Ave, Brooklyn NY 11211 — Wed–Sun 12–7pm, closed Mon/Tue (desertislandbrooklyn.com). Street parking only; Metropolitan Ave is metered/permitted weekdays but typically free on weekends — plan ~5 min for a spot. Pairs well with a Lorimer/Graham coffee stop or a walk to McCarren. Signature ice-blue stalactite window sculptures are a photo moment (desertislandbrooklyn.com). Indie/underground/zine focus differs sharply from Kinokuniya's mainstream-manga depth, so the two corpus entries don't overlap.",
+    "sources": [
+      {
+        "url": "https://www.desertislandbrooklyn.com/",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.desertislandbrooklyn.com/contact",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Desert_Island_(comic_shop)",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/desert-island-brooklyn",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/shopping/desert-island/",
+        "accessed": "2026-05-16T10:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:10:16.182Z"
   }
 ]

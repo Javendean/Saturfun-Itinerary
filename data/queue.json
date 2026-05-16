@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Discover venue: cookshop-chelsea",
-    "reason": "Chelsea farm-to-table brunch in candidate 5; verify Saturday brunch availability and outdoor seating",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
-    "topic": "Sunrise Mart at Japan Village (Japanese grocery)",
-    "reason": "Same complex as the food hall — natural pre/post stop for snack-haul; complements manga + ramen loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:24:58.250Z"
-  },
-  {
-    "topic": "Ramen Setagaya Industry City stall deep-dive",
-    "reason": "Single-vendor profile so the itinerary can recommend a specific bowl, not just 'food hall'",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:24:58.250Z"
-  },
-  {
-    "topic": "Handroll Bar at Japan Village",
-    "reason": "Counter-service handrolls are a distinct experience from ramen — gives a second visit reason for repeat itinerary users",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:24:58.250Z"
-  },
-  {
-    "topic": "Desert Island Comics Williamsburg",
-    "reason": "Brooklyn-side indie comics counterpart — tight curation vs. Kinokuniya's depth; lets the corpus offer an in-Brooklyn alternative for the curious/manga browse vibe without the Manhattan crossing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:27:29.721Z"
-  },
-  {
     "topic": "Sunrise Mart Soho (Japanese grocery)",
     "reason": "Pairs with a Kinokuniya trip — same Japanese-culture thread, walkable from Bryant Park if extending the Manhattan day; expands the J-culture corpus beyond bookstores",
     "requestedBy": "agent",
@@ -2218,5 +2188,95 @@
     "reason": "Brooklyn alternative if user wants to drop the Manhattan trip entirely; equally iconic, much closer to IC",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T10:00:00.042Z"
+  },
+  {
+    "topic": "Buttermilk Channel Carroll Gardens farm-to-table brunch",
+    "reason": "Brooklyn farm-to-table brunch peer in the IC drive cluster — fills the Cookshop slot without leaving Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:02:18.457Z"
+  },
+  {
+    "topic": "Rucola Boerum Hill Saturday brunch patio",
+    "reason": "Northern Italian seasonal brunch with corner-patio seating, ~15 min from IC — strong Cookshop analog",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:02:18.457Z"
+  },
+  {
+    "topic": "Five Leaves Greenpoint brunch outdoor",
+    "reason": "Iconic Brooklyn brunch with sidewalk seating; tests the Greenpoint zone's farm-to-table coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:02:18.457Z"
+  },
+  {
+    "topic": "Sushi Uesugi (Japan Village omakase counter)",
+    "reason": "Same complex; higher-end omakase pairing for romantic/foodie tracks — already referenced in parking validation policy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:04:14.052Z"
+  },
+  {
+    "topic": "Otafuku-Ya Brooklyn (takoyaki + okonomiyaki at Japan Village)",
+    "reason": "Adjacent food-hall stall; rounds out an in-complex Japanese mini-crawl with savory street food",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:04:14.052Z"
+  },
+  {
+    "topic": "Hi-Collar / Japan Village sake bar",
+    "reason": "Evening Japanese-drinks anchor inside IC for the chill+romantic vibe, complements the daytime snack-haul",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:04:14.052Z"
+  },
+  {
+    "topic": "Sunrise Mart at Japan Village Industry City",
+    "reason": "Adjacent in same Japan Village hall — natural pairing for a post-ramen Japanese grocery browse, expands the IC anchor cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:06:20.434Z"
+  },
+  {
+    "topic": "Mokbar Industry City Korean ramen",
+    "reason": "Direct ramen alternative in same food hall — gives itinerary a second noodle option for groups with split preferences",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:06:20.434Z"
+  },
+  {
+    "topic": "Industry City courtyards weekend events",
+    "reason": "The outdoor courtyards host rotating weekend programming (markets, music) that shape whether IC is a 'stop and eat' vs 'spend the afternoon' anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:06:20.434Z"
+  },
+  {
+    "topic": "Sushi Uesugi at Japan Village (Industry City counter-only omakase)",
+    "reason": "Third Japan Village sushi option — pairs with Handroll Bar as a higher-end repeat-visit upgrade path",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:08:23.357Z"
+  },
+  {
+    "topic": "Hachi ramen counter at Japan Village",
+    "reason": "Completes the Japan Village counter trio (handroll / sushi / ramen) so itineraries can rotate within the same anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:08:23.357Z"
+  },
+  {
+    "topic": "Confirm weekend hours for Handroll Bar — phone Japan Village",
+    "reason": "Current corpus entry has unconfirmed Sat/Sun hours; weekend-only itinerary users need this resolved",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:08:23.357Z"
+  },
+  {
+    "topic": "Quimby's Bookstore Brooklyn (Williamsburg zines)",
+    "reason": "Closest spiritual sibling to Desert Island — zine/small-press depth in Brooklyn, broadens the indie-print cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:10:16.190Z"
+  },
+  {
+    "topic": "Bergen Street Comics successor / Anyone Comics Crown Heights",
+    "reason": "Adds a second Brooklyn indie comics node further south, useful for Park Slope/Crown Heights tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:10:16.190Z"
+  },
+  {
+    "topic": "Spoonbill & Sugartown Booksellers Williamsburg",
+    "reason": "Art-book/used-book counterpart 4 min from Desert Island — natural pair-stop on a Williamsburg browse track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:10:16.190Z"
   }
 ]
