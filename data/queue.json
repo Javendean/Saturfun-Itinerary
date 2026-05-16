@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Discover venue: tribeca-soho-gallery-walk (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId tribeca-soho-gallery-walk",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: asian-jewels-seafood-flushing (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId asian-jewels-seafood-flushing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: west-village-lunch-walk (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId west-village-lunch-walk",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: cookshop-chelsea (referenced by itinerary-candidate)",
-    "reason": "candidate stop references unknown venueId cookshop-chelsea",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.094Z"
-  },
-  {
-    "topic": "Discover venue: gantry-plaza-state-park-lic",
-    "reason": "Long Island City waterfront park, candidates 1 and 5 reference it as a quick photo stop; not in corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:22:40.118Z"
-  },
-  {
     "topic": "Discover venue: socrates-sculpture-park-lic",
     "reason": "Astoria/LIC outdoor sculpture park used as candidate 2's opening anchor; not in corpus",
     "requestedBy": "agent",
@@ -2056,5 +2026,89 @@
     "reason": "Walking-distance Chinatown pairing if itinerary justifies the Manhattan leg with two stops instead of one",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T09:25:38.904Z"
+  },
+  {
+    "topic": "Re-research existing venue: hauser-wirth-wooster",
+    "reason": "Wooster St anchor for SoHo extension of the walk; deserves its own entry for itineraries that skip Tribeca and start in SoHo",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:28:21.373Z"
+  },
+  {
+    "topic": "Re-research existing venue: edison-parkfast-thomas-st",
+    "reason": "Reliable weekend parking for any Tribeca/SoHo stop; recurring dependency across Manhattan candidates",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:28:21.373Z"
+  },
+  {
+    "topic": "Best post-gallery-walk lunch spot in Tribeca with weekend parking validation",
+    "reason": "Natural pairing — after 2hr walk, user will want food before driving back to IC; pairs the Manhattan detour into a half-day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:28:21.373Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace, Sunset Park Brooklyn",
+    "reason": "Closer dim-sum-cart equivalent ~5 min from IC; fills the same foodie slot inside the anchor radius and would let us downgrade Asian Jewels from itinerary candidate to corpus reference.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:30:36.138Z"
+  },
+  {
+    "topic": "Pacificana Sunset Park dim sum",
+    "reason": "Another Sunset Park Cantonese cart house at 8th Ave; weekend driving radius fit, expands Brooklyn dim sum coverage.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:30:36.138Z"
+  },
+  {
+    "topic": "New World Mall food court Flushing",
+    "reason": "If a Flushing detour is justified, the food court within walking distance multiplies the trip's payoff per drive minute.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:30:36.138Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens sandwich shop",
+    "reason": "natural walk endpoint after Frankies 457; closes the Carroll Gardens corridor with a takeaway anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:33:39.644Z"
+  },
+  {
+    "topic": "Smith Street Cobble Hill weekend walk highlights",
+    "reason": "parallel walking corridor one block east of Court — expands lunch-walk track variants without a second drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:33:39.644Z"
+  },
+  {
+    "topic": "Frankies 570 Hudson Street West Village (Manhattan backlog)",
+    "reason": "the actual West Village sibling restaurant; keep dormant in case a uniquely-justified Manhattan track is later approved",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:33:39.644Z"
+  },
+  {
+    "topic": "Buttermilk Channel Carroll Gardens brunch",
+    "reason": "Brooklyn-side farm-to-table brunch comp ~10 min from IC; rebalances Manhattan exception with a closer alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:35:48.527Z"
+  },
+  {
+    "topic": "Sunday in Brooklyn Williamsburg brunch",
+    "reason": "Hayan Choi pastry program + hazelnut praline pancakes; popular Williamsburg brunch cluster within 15-min IC drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:35:48.527Z"
+  },
+  {
+    "topic": "High Line park 20th St entrance walking stop",
+    "reason": "Natural pair-stop with Cookshop — turns Manhattan trip into a multi-stop track instead of a single-venue detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:35:48.527Z"
+  },
+  {
+    "topic": "Pepsi-Cola sign LIC neon landmark",
+    "reason": "Iconic neon sign sitting inside Gantry Plaza — frequently the headline photo of the area and worth its own corpus entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:37:44.126Z"
+  },
+  {
+    "topic": "LIC Landing café Gantry waterfront",
+    "reason": "On-site seasonal café/kiosk at the waterfront — gives the photo stop a coffee/drink anchor for the itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T09:37:44.126Z"
   }
 ]

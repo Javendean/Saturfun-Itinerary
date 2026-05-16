@@ -8533,45 +8533,45 @@
   {
     "id": "gantry-plaza-state-park-lic",
     "name": "Gantry Plaza State Park",
-    "desc": "Reclaimed industrial waterfront with the entire midtown Manhattan skyline directly across the East River.",
-    "longDesc": "A 12-acre ribbon of restored Long Island City waterfront framed by two preserved transfer-bridge gantries from the park's freight-rail past. The piers put the Empire State Building, UN, Chrysler Building, and One WTC at point-blank range across the East River — best at golden hour and blue hour, when the towers light up over the water. Free, open 8am-10pm, with benches, lawns, and four piers angled for skyline photography.",
+    "desc": "12-acre LIC waterfront park with restored rail gantries and a direct Midtown skyline view.",
+    "longDesc": "A 12-acre East River park in Hunters Point, Long Island City, anchored by the iconic restored Long Island Rail Road transfer gantries. Wide piers and lawns frame head-on views of the Empire State Building, Chrysler Building, and UN — making it one of NYC's strongest quick-stop skyline photo spots. Amenities include piers, gardens, playgrounds, dog runs, basketball/handball courts, and a seasonal spray pad.",
     "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
-    "photoUrl": "",
+    "photoUrl": "https://parks.ny.gov/sites/default/files/styles/scale_width_900/public/2025-10/Gantry_Drone_081524-22.jpg.webp",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "photo",
-      "romantic",
-      "chill"
+      "chill",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "28 min",
-    "hoursWeekend": "08:00-22:00",
-    "notes": "Actually in Long Island City, Queens — not Brooklyn (zone:dumbo is the closest waterfront-skyline analog in the corpus). Drive from IC is at the outer edge of the 10-25 min window: BQE north to Pulaski Bridge, ~25-30 min on a weekend. No dedicated parking lot — street parking is realistic on weekend mornings, garages available a few blocks inland (parks.ny.gov). Uniquely justified vs. Brooklyn waterfront parks (Brooklyn Bridge Park, Bush Terminal) because the skyline angle here covers midtown landmarks rather than lower Manhattan (nyctourism.com). Best photo windows: 30 min before sunset through 'blue hour' (yelp.com).",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "dawn-dusk",
+    "notes": "Quick photo stop — park hours are dawn-to-dusk per NY State Parks (parks.ny.gov). No dedicated lot; limited street parking on 48th Ave / Center Blvd, plus paid garages along Center Blvd serving the LIC residential towers (bestparking.com, prked.com). Cooking/grills prohibited. The restored gantries are floodlit after sunset and remain a draw even past dusk for sidewalk-side shots from the adjacent Hunter's Point South promenade. From Industry City: BQE → Pulaski Bridge to Hunters Point, ~22 min weekend (Apple Maps). Manhattan side has no equivalent gantry framing, so the LIC trip is justified despite being outside Brooklyn.",
     "sources": [
       {
         "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T09:30:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Gantry_Plaza_State_Park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T09:30:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/places/gantry-plaza-state-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.bestparking.com/long-island-city-ny-parking/destinations/gantry-plaza-state-park-parking/",
+        "accessed": "2026-05-16T09:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/gantry-plaza-state-park-long-island-city",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://prked.com/blog/gantry-plaza-state-park-new-york-parking-guide",
+        "accessed": "2026-05-16T09:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:08:16.500Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T09:37:44.117Z"
   },
   {
     "id": "russ-and-daughters-cafe-les",
@@ -8861,5 +8861,174 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T09:25:38.896Z"
+  },
+  {
+    "id": "tribeca-soho-gallery-walk",
+    "name": "Tribeca Gallery Walk (Walker St → Wooster St)",
+    "desc": "Self-guided weekend walk through 15+ blue-chip galleries clustered on Walker St, Broadway, and Wooster St.",
+    "longDesc": "Anchored at David Zwirner's 52 Walker location, this is a 90-120 min self-guided loop through the densest contemporary art district in the country — James Cohan, Bortolami, Cristin Tierney, Anat Ebgi, Marian Goodman, Alexander Gray, and Hauser & Wirth's Philip Guston space on Wooster are all within a 6-block radius. Free entry, museum-grade programming, and exhibitions rotate every 6-8 weeks so it's never the same visit twice.",
+    "url": "https://tribecaarts.org/map",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-18:00",
+    "notes": "Manhattan venue — uniquely justified by gallery density (no Brooklyn equivalent). Drive: BQE → Hugh Carey Tunnel → Canal St (~22 min weekend); fallback Manhattan Bridge (~25 min). Park at Edison ParkFast, 52 Thomas St (~$30/2hr, 3 min walk to anchor). Start at David Zwirner 52 Walker (Sat 10-6) (downtowngallerymap.com), then Bortolami 39 Walker, James Cohan 48 Walker, walk north on Broadway through Anat Ebgi 372 / Marian Goodman 385, finish at Hauser & Wirth 134 Wooster (downtowngallerymap.com). Most galleries close 6pm Saturday — start by 3:30pm latest. Note: zone='dumbo' is a clustering placeholder; actual location is Tribeca/SoHo Manhattan.",
+    "sources": [
+      {
+        "url": "https://downtowngallerymap.com/galleries_soho-trib.php",
+        "accessed": "2026-05-16T09:30:00Z"
+      },
+      {
+        "url": "https://tribecaarts.org/map",
+        "accessed": "2026-05-16T09:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/art/best-galleries-in-soho-tribeca-and-the-west-village",
+        "accessed": "2026-05-16T09:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:28:21.365Z"
+  },
+  {
+    "id": "asian-jewels-seafood-flushing",
+    "name": "Asian Jewels Seafood Restaurant",
+    "desc": "MICHELIN-listed Cantonese dim sum with rolling carts in the heart of Flushing's Chinatown.",
+    "longDesc": "Banquet-hall-sized Cantonese seafood and dim sum institution at 133-30 39th Ave, Flushing. Weekend mornings are the showcase — old-school steaming carts circulate the dining room with har gow, siu mai, cheung fun, and live tank seafood. MICHELIN Guide listed; arrive early on weekends or expect a 30+ minute wait.",
+    "url": "http://www.asianjewelsny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "OUT-OF-ANCHOR: this is Flushing, Queens — not Brooklyn. Drive from Industry City is ~30 min via BQE + Grand Central Pkwy on a clear weekend, longer with traffic; no Brooklyn-zone fits, mapped to greenpoint as the closest northern proxy. Cart dim sum runs morning through mid-afternoon; full seafood menu all day (source: yelp, michelin guide, official site). Street parking around 39th Ave is tight on weekend brunch hours — Flushing municipal lots on 39th/Union are the reliable option. If the goal is dim sum within the IC 10-25 min radius, East Harbor Seafood Palace in Sunset Park is the much closer analog (~5 min drive).",
+    "sources": [
+      {
+        "url": "http://www.asianjewelsny.com/",
+        "accessed": "2026-05-16T09:30:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/asian-jewels",
+        "accessed": "2026-05-16T09:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/asian-jewels-seafood-restaurant-flushing-2",
+        "accessed": "2026-05-16T09:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/asian-jewels-seafood-restaurant/",
+        "accessed": "2026-05-16T09:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:30:36.132Z"
+  },
+  {
+    "id": "west-village-lunch-walk",
+    "name": "Frankies 457 + Carroll Gardens Stroll",
+    "desc": "Brooklyn's West-Village-style lunch walk: Frankies 457 back garden, then Court St brownstone stroll",
+    "longDesc": "Frankies 457 Spuntino is the Carroll Gardens original of the Castronovo/Falcinelli pair whose West Village outpost (Frankies 570 on Hudson) made the brand famous. Anchor lunch in the cobblestoned back garden (cavatelli with sausage and brown butter, meatballs, kale salad), then walk Court Street north through Carroll Gardens into Cobble Hill — brownstones, Caputo's salumeria, Stinky Bklyn, BookCourt-era storefronts. Same family of food, same village-y feel, 8 minutes from IC instead of 22.",
+    "url": "https://www.frankies457.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "11:00-23:00",
+    "notes": "Slug 'west-village-lunch-walk' originally pointed at a Manhattan stop; substituted with the closest Brooklyn analogue under the IC-anchored, Manhattan-only-if-uniquely-justified rule and the Brooklyn-only zone enum. Frankies 457 is the literal sibling of Frankies 570 in West Village (same owners, same menu DNA) (frankies457.com). Garden seating is the differentiator — arrive ~12:00 Sat/Sun for the easiest walk-in. Street parking on Luquer St / 4th Pl is typically findable on weekends; paid lots on Hamilton Ave as backup. Walking corridor: Court St between Carroll and Atlantic, with optional Smith St return leg one block east (theinfatuation.com).",
+    "sources": [
+      {
+        "url": "https://www.frankies457.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/the-best-restaurants-in-the-west-village",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://galavante.com/destinations/the-special/where-to-eat-lunch-in-the-west-village/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/via-carota-west-village/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T09:33:39.636Z"
+  },
+  {
+    "id": "cookshop-chelsea",
+    "name": "Cookshop",
+    "desc": "Farm-to-table Chelsea brunch institution at the High Line's 20th St entrance with sunlit corner dining room.",
+    "longDesc": "Marc Meyer's airy New American restaurant has anchored 10th Ave since 2005, sourcing from regional farms and serving one of NYC's most reliable weekend brunches — ricotta pancakes, harissa eggs, wood-oven dishes, and an oversized Bloody Mary list. The corner-glass dining room faces the High Line, making it a natural pre-walk or post-walk stop. Reservations on Resy strongly recommended for weekends; walk-ins seat at the bar.",
+    "url": "https://www.cookshopny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat-Sun brunch 10:00-16:00; dinner Sat 17:30-23:00, Sun 17:30-22:00",
+    "notes": "Manhattan exception justified: directly faces High Line 20th St entrance, pairs naturally with a High Line walk + Chelsea Market (4 blocks south) for a multi-stop Chelsea track. Park at West Chelsea Garage, 525 W 20th St, across the street (~$30-45 weekend rate). Brunch via Resy (resy.com/cities/new-york-ny/venues/cookshop). Take Battery Tunnel + West Side Hwy from IC; allow extra time Sun mornings. Phone 212-924-4440. Farm-to-table sourcing is the differentiator vs. Brooklyn brunch picks (source: cookshopny.com).",
+    "sources": [
+      {
+        "url": "https://www.cookshopny.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/cookshop",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/cookshop",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T09:35:48.518Z"
   }
 ]
