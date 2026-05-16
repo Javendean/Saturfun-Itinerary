@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Hex & Company board game cafe Park Slope Brooklyn",
-    "reason": "Park Slope outpost of NYC board game cafe chain — sits inside Park Slope cluster zone, weekend parking more feasible than Manhattan",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:27:03.990Z"
-  },
-  {
-    "topic": "Twenty Sided Store Williamsburg game shop play tables",
-    "reason": "Williamsburg hobby/game store with in-store play tables — adjacent vibe in active Williamsburg cluster, drive-friendly from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:27:03.990Z"
-  },
-  {
-    "topic": "The Brooklyn Strategist tabletop gaming Carroll Gardens",
-    "reason": "Tabletop play space ~10 min from IC — closer alternative to Twenty Sided and pairs with Carroll Gardens food cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:29:09.338Z"
-  },
-  {
-    "topic": "Kings Games board game shop Midwood Brooklyn",
-    "reason": "Long-running Brooklyn game retailer; useful comparison/redundancy for tabletop-curious tracks even if farther from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:29:09.338Z"
-  },
-  {
-    "topic": "Williamsburg weekend parking guide Grand Street area",
-    "reason": "Driving-radius corpus needs zone-level parking notes for Williamsburg stops like Twenty Sided",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:29:09.338Z"
-  },
-  {
     "topic": "Japan Village inside Industry City — food hall + sake bar",
     "reason": "Same IC courtyard cluster as Sahadi's and Carreau; extends the 'food crawl without driving' angle",
     "requestedBy": "agent",
@@ -3196,5 +3166,95 @@
     "reason": "Williamsburg game store/event space with weekend play sessions, fits 15-min IC drive cluster already in roadmap",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T13:06:42.398Z"
+  },
+  {
+    "topic": "The Brooklyn Strategist 148 Pierrepont St Brooklyn Heights board game cafe",
+    "reason": "Sibling business to Hex & Co. and Sip & Play's main Brooklyn competitor — sits in Brooklyn Heights cluster, 12-15 min from IC, fills the topic's original 'Hex-style cafe in Brooklyn' intent",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:09:30.019Z"
+  },
+  {
+    "topic": "Hex & Co. Union Square 801 Broadway Manhattan board game cafe",
+    "reason": "Closest real Hex location to Brooklyn if a user explicitly wants the Hex brand; Manhattan exception worth indexing for completeness even though it falls outside the driving-preferred radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:09:30.019Z"
+  },
+  {
+    "topic": "Uncommon Goods retail + Park Slope 5th Ave weekend stroll anchor venues",
+    "reason": "Sip & Play sits on the dense 5th Ave Park Slope retail strip — adjacent venues on the same block expand the Park Slope cluster's mix-and-match itinerary options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:09:30.019Z"
+  },
+  {
+    "topic": "The Brooklyn Strategist Carroll Gardens board game cafe play tables",
+    "reason": "Sister category — driving-friendly tabletop play space in Carroll Gardens cluster, expands games/play corpus beyond Williamsburg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:11:37.989Z"
+  },
+  {
+    "topic": "Hex & Company board game cafe Brooklyn play tables food",
+    "reason": "Combines food + gaming in one stop; useful for longer-duration play-track itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:11:37.989Z"
+  },
+  {
+    "topic": "Desert Island Comics Williamsburg indie comics shop",
+    "reason": "Same Grand St corridor as Twenty Sided — pair-up candidate for a Williamsburg 'curious browsers' mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:11:37.989Z"
+  },
+  {
+    "topic": "Hex & Company Brooklyn (if open) — board game cafe alternative",
+    "reason": "Another low-cost-of-entry board-game cafe model; useful comparator within Brooklyn driving radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:14:05.828Z"
+  },
+  {
+    "topic": "Atlantic Avenue Cobble Hill dinner pairing — Hibino or Sahadi's prepared foods",
+    "reason": "Natural food cluster 5 min from new Brooklyn Strategist location, pairs with afternoon gaming",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:14:05.828Z"
+  },
+  {
+    "topic": "The Brooklyn Strategist board game café Carroll Gardens",
+    "reason": "Closer-to-IC alternative for tabletop-curious tracks — café format with hourly play fee, much better fit for a 12-15 min drive slot than Midwood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:16:37.373Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg board games and TCG",
+    "reason": "North Brooklyn TCG/board game shop with weekly events; rounds out tabletop coverage in the Williamsburg cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:16:37.373Z"
+  },
+  {
+    "topic": "Hex & Co board game cafe Brooklyn location",
+    "reason": "Board game café chain with food/drink — better suited to romantic or foodie blends than a pure retailer like Kings Games",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:16:37.373Z"
+  },
+  {
+    "topic": "Re-research existing venue: Twenty Sided Store Williamsburg",
+    "reason": "Anchor venue that this parking guide supports — confirm current hours, board game library policy, and pair it explicitly to the 456 Grand garage walkthrough.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:19:04.230Z"
+  },
+  {
+    "topic": "LittleMan Parking 262 S 4th St weekend rates",
+    "reason": "Second-choice garage 0.2 mi from Grand St — useful fallback when 456 Grand is sold out on SpotHero.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:19:04.230Z"
+  },
+  {
+    "topic": "Greenpoint weekend parking guide (Manhattan Ave / Franklin St)",
+    "reason": "Adjacent driving zone with different ASP and looser meter coverage — corpus needs a parallel parking note for Greenpoint stops.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:19:04.230Z"
+  },
+  {
+    "topic": "NYC Saturday meter rules cheat sheet for Brooklyn weekenders",
+    "reason": "Cross-zone reference doc the itinerary view can link from every Brooklyn stop, not just Williamsburg.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T13:19:04.230Z"
   }
 ]

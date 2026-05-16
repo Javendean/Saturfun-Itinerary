@@ -5971,8 +5971,8 @@
   {
     "id": "twenty-sided-store",
     "name": "Twenty Sided Store",
-    "desc": "Williamsburg's flagship board-game + RPG + Magic shop with open play tables in back",
-    "longDesc": "Beloved tabletop hub on Grand St stocking board games, role-playing systems, and Magic: The Gathering, with a back room of communal tables for drop-in play and a steady calendar of community events. Open 12-7pm every day, so it slots cleanly into an afternoon Williamsburg track between food and drinks stops. Walk-ins fine for browsing and casual play; specific tournaments use their event registration.",
+    "desc": "Curated Williamsburg game shop for board games, RPGs, and Magic: The Gathering, with regular in-store events.",
+    "longDesc": "Twenty Sided is a beloved Williamsburg tabletop shop at 280 Grand St specializing in board games, role-playing games, and Magic: The Gathering, plus geeky accessories. The store hosts weekly events, demos, workshops, social mixers, and mystery parties — call ahead to confirm open-play table availability since their public pages don't list a standing open-gaming schedule.",
     "url": "https://twentysidedstore.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5982,25 +5982,29 @@
       "chill"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "1-3 hr",
-    "driveFromIC": "18 min",
+    "priceBand": "$",
+    "duration": "45-90 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "12:00-19:00",
-    "notes": "Address 280 Grand St, Brooklyn NY 11211 (twentysidedstore.com/pages/contact). Daily 12-7pm — confirmed identical Sat/Sun. Phone 718-963-1578. Yelp shows 88 reviews, 43 photos as of May 2026 (yelp.com/biz/twenty-sided-store-brooklyn). Stocks board games, RPGs, MTG; back room has gaming tables and the store hosts regular events. Street parking in central Williamsburg is tight on weekends — easier to grab a metered spot a few blocks south toward S. 2nd or use a paid lot on Berry/Wythe. L train (Lorimer/Bedford) for non-driving guests.",
+    "notes": "Sat & Sun 12-7p, same as weekday hours (twentysidedstore.com/pages/contact). 280 Grand St, Brooklyn NY 11211; phone 718-963-1578. Specializes in board games, RPGs, MTG with a calendar of events/workshops (twentysidedstore.com about-us). Street parking in south Williamsburg is workable on weekends; Domino Park lot and several Brooklyn Mini Storage / Williamsburg garage lots within 5-min walk. ~20 min drive from Industry City via Hamilton Ave / BQE. Yelp confirms hobby-shop category and event/play-space reputation (yelp.com/biz/twenty-sided-store-brooklyn).",
     "sources": [
       {
         "url": "https://twentysidedstore.com/pages/contact",
-        "accessed": "2026-05-16T06:20:00Z"
+        "accessed": "2026-05-16T13:08:00Z"
+      },
+      {
+        "url": "https://twentysidedstore.com/pages/about-us",
+        "accessed": "2026-05-16T13:08:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/twenty-sided-store-brooklyn",
-        "accessed": "2026-05-16T06:20:00Z"
+        "accessed": "2026-05-16T13:08:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T06:29:09.333Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:11:37.980Z"
   },
   {
     "id": "levant-on-smith",
@@ -11634,5 +11638,178 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T13:04:22.565Z"
+  },
+  {
+    "id": "sip-and-play",
+    "name": "Sip & Play",
+    "desc": "Park Slope's first board game cafe — 500+ games, boba/coffee/beer, 3-hour sessions",
+    "longDesc": "Park Slope's original board game cafe at 471 5th Ave with 500+ titles on the shelves, coffee/boba/beer/wine, and a sandwich-and-salad menu. Weekend admission is $12 walk-in or $15 with a guaranteed-table reservation, and sessions cap at three hours. Reliable weekend parking on the 5th Ave side streets makes it the rare Park Slope game-night spot that actually fits a driving itinerary.",
+    "url": "https://www.sipnplaynyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "2-3 hours",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 10:00-24:00, Sun 10:00-23:00",
+    "notes": "Topic was 'Hex & Company Park Slope' but Hex & Co. has NO Brooklyn location — only Manhattan (2911 Broadway, 1462 1st Ave, 801 Broadway) per hexnyc.com (source: hexnyc.com). Substituted with Sip & Play, the actual Park Slope board-game cafe at 471 5th Ave, Brooklyn 11215 (source: sipnplaynyc.com). 500+ games, $12/person Fri-Sun walk-in or $15 reservation, 3-hour sessions (source: sipnplaynyc.com). Phone (718) 971-1684. From IC (~3rd Ave & 35th St) up 4th Ave to 11th St is ~2 mi / 8-14 min depending on traffic. Park Slope side streets have metered + free weekend street parking — substantially better than any Manhattan Hex outpost (source: secretnyc.co, brooklynbridgeparents.com).",
+    "sources": [
+      {
+        "url": "https://www.sipnplaynyc.com/",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://www.hexnyc.com/",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sip-n-play-brooklyn",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/this-new-board-game-cafe-in-park-slope-has-over-200-games-010720",
+        "accessed": "2026-05-16T13:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:09:30.009Z"
+  },
+  {
+    "id": "the-brooklyn-strategist",
+    "name": "The Brooklyn Strategist",
+    "desc": "1,000+ board games, $15 walk-in play, full cafe — relocated 2025 to Brooklyn Heights from Carroll Gardens",
+    "longDesc": "Jon Freeman's beloved board-game cafe moved in 2025 from 333 Court St in Carroll Gardens to a larger space at 148 Pierrepont St in Brooklyn Heights, citing a steep rent hike (Brooklyn Eagle). The new location at the base of One Pierrepont Plaza offers a 1,000+ game library, tables sized for 2-8 players, a full cafe with hot food, and private gaming rooms. Walk-in play is $15/person; reservations available 24+ hours ahead, and Saturday's 7-11pm 'Games with Strangers' meetup is a low-friction way to drop in solo.",
+    "url": "https://thebrooklynstrategist.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "2-4 hr",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "09:00-23:00",
+    "notes": "Important corpus update: venue is no longer in Carroll Gardens — relocated 2025 to 148 Pierrepont St, Brooklyn Heights (Brooklyn Eagle). Closer to IC than Twenty Sided Store (Park Slope/Prospect Heights). Weekend street parking in Brooklyn Heights is muni-meter, tight on Saturdays; nearby Pierrepont Plaza garage is the reliable option. $15 buys ~4 hr of play. Saturday 'Games with Strangers' 7-11pm pairs well with an early Atlantic Ave / Cobble Hill dinner.",
+    "sources": [
+      {
+        "url": "https://thebrooklynstrategist.com/",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/356971/carroll-gardens-game-store-moving-to-brooklyn-heights/",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-brooklyn-strategist-brooklyn",
+        "accessed": "2026-05-16T13:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:14:05.816Z"
+  },
+  {
+    "id": "kings-games-midwood",
+    "name": "Kings Games",
+    "desc": "Long-running Midwood card-and-board-game shop with daily tournaments and a deep TCG bench.",
+    "longDesc": "Kings Games is a Brooklyn institution on East 15th & Kings Highway specializing in Magic: The Gathering, Pokémon, Yu-Gi-Oh, and Cardfight!! Vanguard, with booster boxes, singles by request, board games, miniatures, and supplies. They host dozens of tournaments and casual play events weekly and act as a hub for D&D groups and board game nights in deep south Brooklyn. About a 20-minute drive south of Industry City — farther than most tracks, but the most established tabletop retailer in the borough.",
+    "url": "https://www.kingsgames.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "10:00-20:00",
+    "notes": "Actually in Midwood (1685 E 15th St, corner of Kings Highway) — zoned as park-slope since Midwood isn't in the schema enum; treat as a south Brooklyn detour, not a Park Slope stop (kingsgames.com/directions). Weekend parking: dedicated garage between E 13th & E 14th, 1-2 min walk; metered street parking on Kings Hwy; free parking 1-2 blocks away on E 15th or Ave R (kingsgames.com/directions). B/Q to Kings Highway if not driving. Best fit for a tabletop-curious track that wants a real retailer rather than a board-game café — pair with food on Kings Highway before driving back north.",
+    "sources": [
+      {
+        "url": "https://www.kingsgames.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.kingsgames.com/directions",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kings-games-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:16:37.363Z"
+  },
+  {
+    "id": "456-grand-street-garage",
+    "name": "456 Grand Street Garage (Williamsburg parking anchor)",
+    "desc": "24/7 attended indoor garage on Grand St — the reliable weekend park for South Williamsburg stops like Twenty Sided.",
+    "longDesc": "Covered, valet-attended garage at 456 Grand Street, ~330 ft east of the Grand/Roebling corner, sitting in the middle of the South Williamsburg restaurant/bar corridor. Bookable in advance through ParkMobile and SpotHero, with a live attendant overnight, which is the difference-maker on weekends when nearby curb spots churn fast and meters run on Saturdays. Use this as the default park when visiting Twenty Sided, Caracas, Fette Sau, Marlow & Sons, or any Grand/Metropolitan venue between Union and Bushwick.",
+    "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/456-grand-street-garage",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "all-day park",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "24 hours (attendant on site)",
+    "notes": "Free street parking in Williamsburg exists in the square bounded by Grand St / Bushwick Ave / Meeker Ave, but many blocks inside that box still have alt-side signs — read the pole, especially Saturday cleaning windows (spotangels.com). NYC meters ARE enforced Saturdays citywide, free Sundays (NYC DOT). Practical weekend playbook for Grand St area: (1) first 10 min — sweep S. 1st / S. 2nd / S. 3rd between Roebling and Havemeyer for a curb spot, that pocket is residential and weekends usually have turnover; (2) if nothing in 10 min, peel into 456 Grand Street Garage (parkmobile.io) — pre-book on SpotHero for the cheapest weekend rate, walk-up is more; (3) alternates within 0.1 mi: Sam Dar / 432 Rodney St, and LittleMan Parking / 262 S 4th St (bestparking.com). Avoid: Bedford Ave corridor on Saturday afternoons — meters AND no garages with same-day reservations. Worth knowing: 184 Kent Ave garage is valet-only and quotes $180+/mo, not a casual drop-in (spotangels.com).",
+    "sources": [
+      {
+        "url": "https://www.spotangels.com/blog/the-ideal-guide-to-williamsburg-parking/",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/williamsburg-parking",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://www.bestparking.com/brooklyn-ny-parking/neighborhoods/williamsburg-parking/",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/456-grand-street-garage",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/456-grand-street-parking",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://www.nyc.gov/html/dot/html/motorist/parking-rates.shtml",
+        "accessed": "2026-05-16T13:10:00Z"
+      },
+      {
+        "url": "https://portal.311.nyc.gov/article/?kanumber=KA-01011",
+        "accessed": "2026-05-16T13:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T13:19:04.216Z"
   }
 ]
