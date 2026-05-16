@@ -13801,44 +13801,52 @@
   },
   {
     "id": "buttermilk-channel-closed",
-    "name": "Buttermilk Channel (Permanently Closed)",
-    "desc": "Former Carroll Gardens New American bistro at 524 Court St — closed as of 2026; not bookable.",
-    "longDesc": "Buttermilk Channel was a beloved Carroll Gardens neighborhood bistro known for buttermilk fried chicken on cheddar waffle, duck meatloaf, and a $38 three-course Monday prix fixe. Multiple sources confirm it has permanently closed: Yelp marks the 524 Court St listing CLOSED and The Infatuation's review now opens with 'this restaurant is permanently closed.' Stale OpenTable/Resy/visitbrooklyn shells still surface in search but no active service. Do not promote to a card — re-anchor Carroll Gardens with Popina, Long Island Bar, or Frankies 457.",
-    "url": "https://www.theinfatuation.com/new-york/reviews/buttermilk-channel",
+    "name": "Buttermilk Channel (PERMANENTLY CLOSED)",
+    "desc": "Beloved Carroll Gardens American bistro that closed Dec 2024 after 16 years; do not include in itineraries.",
+    "longDesc": "Buttermilk Channel at 524 Court St was a farm-to-table corner bistro from chef Ryan Angulo and Doug Crowell, famous for buttermilk fried chicken with cheddar waffles and pecan-pie French toast at weekend brunch. After 16 years it permanently closed at the end of December 2024; the space is being taken over by Trudie's Tavern from the Gertie team. Treat this entry as a historical record — route brunch needs to an active comp like Watty & Meg, Big Tiny, or Cafe Luluc.",
+    "url": "https://en.wikipedia.org/wiki/Buttermilk_Channel",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
       "foodie"
     ],
-    "dietary": [],
-    "priceBand": "$$$",
-    "duration": "30-45 min",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "CLOSED",
-    "notes": "PERMANENTLY CLOSED — flagged via Yelp tag (yelp.com/biz/buttermilk-channel-brooklyn) and The Infatuation review header (theinfatuation.com/new-york/reviews/buttermilk-channel). Resy venue page now returns only nav chrome with no booking widget, consistent with deprecated venues. Historic anchor strengths (group-friendly bistro, $38 Monday three-course, easier weeknight rezzo than Frankies) are gone — see enqueue for live replacements at the same neighborhood and price tier.",
+    "hoursWeekend": "CLOSED — venue shuttered Dec 2024",
+    "notes": "PERMANENTLY CLOSED as of end of December 2024 after 16 years in Carroll Gardens (Gothamist, Jan 2025; Yelp listing flagged CLOSED Apr 2026). Space at 524 Court St is being replaced by Trudie's Tavern from the Gertie team (Cobble Hill Collective). Pre-closure: brunch Sat/Sun 10:00-15:00, dinner separately; farm-to-table with neighborhood supply (Caputo's mozzarella, Esposito's sausage); separate vegetarian menu plus vegan/GF options at dinner.",
     "sources": [
       {
+        "url": "https://gothamist.com/arts-entertainment/brooklyns-beloved-corner-bistro-buttermilk-channel-to-close-after-16-years",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://gothamartnews.com/2025/01/08/buttermilk-channel-a-beloved-brooklyn-restaurant-closes-after-16-years/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.cobblehillcollective.com/p/whats-replacing-buttermilk-channel",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
         "url": "https://www.yelp.com/biz/buttermilk-channel-brooklyn",
-        "accessed": "2026-05-16T15:40:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/buttermilk-channel",
-        "accessed": "2026-05-16T15:40:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/buttermilk-channel",
-        "accessed": "2026-05-16T15:40:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/buttermilk-channel-brooklyn",
-        "accessed": "2026-05-16T15:40:00Z"
+        "url": "https://en.wikipedia.org/wiki/Buttermilk_Channel",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T15:37:54.881Z"
+    "lastResearchedAt": "2026-05-16T22:39:54.815Z"
   },
   {
     "id": "steves-authentic-key-lime-pie",
@@ -19252,5 +19260,178 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T22:22:54.849Z"
+  },
+  {
+    "id": "bar-tabac",
+    "name": "Bar Tabac",
+    "desc": "Corner French bistro anchoring Smith Street — weekend brunch with live jazz and Moules Frites",
+    "longDesc": "Sidewalk-cafe bistro at the Smith & Dean corner that's been the unofficial Smith Street weekend living room for two decades. Saturday and Sunday brunch runs 10am–5pm with Niçoise, Croque Monsieur, and signature Moules Frites; live jazz four nights a week keeps the bohemian-Brooklyn energy after dark. The natural pivot point for a Smith Street walk between Atlantic Ave and Carroll St.",
+    "url": "https://www.bartabacbistro.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "10:00-02:00",
+    "notes": "128 Smith St, corner of Dean — easiest anchor for a Smith St walking loop (Atlantic→Carroll). Weekend brunch Sat/Sun 10am–5pm; dinner runs till 2am Fri/Sat (bartabacbistro.com). Live jazz 4x/week — verify night at door (Yelp). Weekend metered parking on Smith and free on most side streets; Sunday-morning curb is the sweet spot. Pairs naturally with a Bien Cuit pastry walk-up beforehand and Books Are Magic browsing after.",
+    "sources": [
+      {
+        "url": "https://www.bartabacbistro.com/",
+        "accessed": "2026-05-16T22:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bar-tabac-brooklyn",
+        "accessed": "2026-05-16T22:35:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/bar-tabac-brooklyn",
+        "accessed": "2026-05-16T22:35:00Z"
+      },
+      {
+        "url": "https://www.jauntguide.com/guide/strolling-smith-street",
+        "accessed": "2026-05-16T22:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T22:33:56.588Z"
+  },
+  {
+    "id": "frankies-570-spuntino-west-village",
+    "name": "Frankies 570 Spuntino (West Village) — PERMANENTLY CLOSED",
+    "desc": "Former West Village sibling of Frankies 457; permanently closed — kept dormant for archival reference only.",
+    "longDesc": "Frankies 570 Spuntino at 570 Hudson Street in Manhattan's West Village was the Manhattan counterpart to the Carroll Gardens original, serving the same rustic Italian-American menu (cavatelli with sausage and brown butter, meatballs, the house olive oil). The location is permanently closed per Yelp's 'CLOSED' designation and is no longer listed on the official Frankies locations page, which now lists only Frankies 457, F&F Pizzeria, Franks Wine Bar (all Court St, Brooklyn) and Frankies Nashville. Entry retained only as a dormant Manhattan placeholder; do not promote.",
+    "url": "https://www.yelp.com/biz/frankies-570-spuntino-new-york-3",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "30-45 min",
+    "driveFromIC": "n/a (closed; was ~25-30 min to West Village)",
+    "hoursWeekend": "CLOSED — permanently",
+    "notes": "Permanently closed (Yelp listing flagged CLOSED, updated Feb 2026); omitted from official Frankies locations page (frankies457.com/pages/locations). Manhattan venue regardless — outside IC driving radius and against the Brooklyn-cluster rule. Zone field set to carroll-gardens only because the surviving Frankies brand cluster lives at 457 Court St; the actual address was 570 Hudson St, NY, NY 10014. Keep dormant; never promote.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/frankies-570-spuntino-new-york-3",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://frankies457.com/pages/locations",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.glenwoodnyc.com/manhattan-living/italian-restaurants-nyc-frankies-570-west-village/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T22:36:12.462Z"
+  },
+  {
+    "id": "sunday-in-brooklyn",
+    "name": "Sunday in Brooklyn",
+    "desc": "Williamsburg all-day spot famous for skillet pancakes with hazelnut maple praline and brown butter.",
+    "longDesc": "An internationally-known New American restaurant a block from Domino Park, Sunday in Brooklyn built its reputation on the Sunday Pancakes™ — fluffy stacks doused in housemade hazelnut maple praline and brown butter. Weekend brunch is mostly walk-in with very limited reservations on Resy, so arrive early or expect a wait. The rest of the menu leans seasonal-veg-forward with a strong cocktail and pastry program.",
+    "url": "https://www.sundayinbrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 10:00-23:00, Sun 10:00-22:00",
+    "notes": "Signature dish is the Sunday Pancakes™ in single/double/triple ($18/$23/$26) topped with hazelnut maple praline and brown butter (sundayinbrooklyn.com/menus). Weekend brunch is largely walk-in; limited Resy slots. Street parking on Wythe/N 8th-9th is feasible Sunday morning before ~10:30am; otherwise paid lots near Domino Park. Hayan Choi pastry credit could not be independently confirmed via official sources as of 2026-05-16 — flag for double-check before publishing.",
+    "sources": [
+      {
+        "url": "https://www.sundayinbrooklyn.com/menus/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.sundayinbrooklyn.com/about/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunday-in-brooklyn-brooklyn-7",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.purewow.com/food/sunday-in-brooklyn-pancake-recipe",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T22:42:04.978Z"
+  },
+  {
+    "id": "high-line-20th-st",
+    "name": "High Line — 20th St Entrance",
+    "desc": "Elevated rail-park walk on Manhattan's west side, entered at the stair across from Cookshop.",
+    "longDesc": "The 20th Street stair drops you onto the High Line right where the park widens into the Chelsea Grasslands and the 22nd Street lawn — the most photogenic stretch, with Hudson views west and brick-and-glass Chelsea east. From this entrance you can walk south toward Gansevoort (~25 min) or north to Hudson Yards (~20 min); either direction pairs cleanly with a meal at Cookshop on the same corner. Stairs-only access at this entrance (no elevator).",
+    "url": "https://www.thehighline.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "07:00-22:00",
+    "notes": "Free entry. Apr 1–Nov 30 open 7am–10pm; Dec 1–Mar 31 open 7am–8pm (thehighline.org/visit). 20th St entrance is stairs-only — nearest elevators are 14th, 16th, 23rd, 30th St. Sits directly across 10th Ave from Cookshop (156 10th Ave), making it the natural before/after-brunch walk for the Manhattan track. Weekend parking via Icon at 170 W 23rd St or Quik Park at 235 W 22nd St (parkwhiz). Manhattan-justified: only stop on the corpus where the venue *is* the route — a 25-min drive from IC delivers a 45-min linear park walk with no admission, no reservation, no weather-dependent queue.",
+    "sources": [
+      {
+        "url": "https://www.thehighline.org/visit/",
+        "accessed": "2026-05-16T22:35:00Z"
+      },
+      {
+        "url": "https://www.thehighline.org/faq/",
+        "accessed": "2026-05-16T22:35:00Z"
+      },
+      {
+        "url": "https://freetoursbyfoot.com/high-line-entrances/",
+        "accessed": "2026-05-16T22:35:00Z"
+      },
+      {
+        "url": "https://www.parkwhiz.com/high-line-20th-street-entrance-parking/",
+        "accessed": "2026-05-16T22:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T22:43:55.031Z"
   }
 ]
