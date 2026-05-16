@@ -1236,9 +1236,9 @@
   {
     "id": "claro-gowanus",
     "name": "Claro",
-    "desc": "Former-Michelin-star Oaxacan in Gowanus with house-nixtamalized criollo corn, ~6 min from Industry City",
-    "longDesc": "Chef TJ Steele's Oaxacan restaurant stone-grinds non-GMO criollo corn in-house for masa finished on a wood-fired comal, anchoring a menu of tlayudas, memelas, signature moles (including 'Elsa's Mole'), aguachiles, and coastal mariscos. The backyard — strung with lights around an open-fire kitchen — is the seat to request. Held a Michelin star 2019-2023; still Michelin Guide listed and serving by reservation, though several aggregators currently flag the listing as closed, so phone-confirm before building the night around it.",
-    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/claro",
+    "desc": "TJ Steele's Oaxacan tasting destination on the Gowanus/Park Slope border — house tortillas, moles, mezcal patio.",
+    "longDesc": "Open since 2017 and Michelin-starred from 2019–2023, Claro centers a long, slow Oaxacan menu around nixtamalized house tortillas, seven moles rotated through the year, and a curated mezcal program. The backyard-and-bar setup makes it the kind of place a Saturfun group ends a track at, not passes through. Closure ambiguity is resolved: Yelp lists it CLOSED but Tripadvisor shows a January 30, 2026 review with active service and Wikipedia lists it as a current Brooklyn restaurant.",
+    "url": "https://www.clarobk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
@@ -1252,11 +1252,15 @@
     "priceBand": "$$$",
     "duration": "90-120 min",
     "driveFromIC": "6 min",
-    "hoursWeekend": "Brunch Fri-Sun 11:30-15:30; Dinner daily 17:30-21:00 (closed Tue/Wed)",
-    "notes": "Address 284 3rd Ave, Brooklyn NY 11215 (Gowanus, on Park Slope border). Phone 347-721-3126. Michelin-starred 2019-2023; star no longer current per Wikipedia, but still Michelin Guide listed (Michelin Guide). Vegetarian options exist with advance notice — sweet potato taco and Maria Sabina mushroom dish among them; menu rotates seasonally (clarobk.com). Reservations via Resy/OpenTable, typically books days-to-weeks out on Fri/Sat (Infatuation). WARNING: Yelp and Infatuation currently mark the listing 'closed' / 'temporarily closed' as of April 2026, while Facebook activity through Dec 2025 and the live Resy page suggest active operation — confirm by phone before treating as a dinner anchor. Street parking on 3rd Ave / Carroll / President; ~2 mi straight up 3rd Ave from Industry City.",
+    "hoursWeekend": "Brunch Fri-Sun 11:30-15:30; Dinner Thu-Sun 17:30-21:00",
+    "notes": "Status as of 2026-05-16: OPERATING despite Yelp 'CLOSED' tag. Tripadvisor review dated 2026-01-30 confirms active service (https://www.tripadvisor.com/Restaurant_Review-g60827-d13174502). Wikipedia lists under 'Current' Brooklyn restaurants. Not present in Infatuation NYC closures index nor Eater closure announcements (the recent Eater 'striking Brooklyn restaurant closing' piece is about Ilis in Greenpoint, not Claro). Phone 347-721-3126 and IG @claro.bk should still be called/checked before promotion to a track — Yelp's CLOSED stamp suggests at least one community report of a service gap. Official site clarobk.com returned an expired TLS cert during fetch (2026-05-16), which is worth flagging though it's a webops issue, not a closure signal. Recommended placement: dinner cap on a Park Slope / Gowanus track, paired with a daytime IC anchor.",
     "sources": [
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/claro",
+        "url": "https://www.yelp.com/biz/claro-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d13174502-Reviews-Claro-Brooklyn_New_York.html",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -1264,15 +1268,19 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/claro",
+        "url": "https://www.instagram.com/claro.bk/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/claro-brooklyn",
+        "url": "https://www.clarobk.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://resy.com/cities/new-york-ny/venues/claro",
+        "url": "https://www.theinfatuation.com/new-york/features/nyc-restaurant-closings",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://eaterny.substack.com/p/one-of-brooklyns-most-striking-restaurants",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
@@ -1283,7 +1291,7 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 7 — 6:30 PM Dinner & Izakaya",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-16T07:21:07.323Z"
+    "lastResearchedAt": "2026-05-16T16:00:05.837Z"
   },
   {
     "id": "lingo-greenpoint-greenpoint",
@@ -14150,5 +14158,190 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T15:56:22.594Z"
+  },
+  {
+    "id": "bar-bruno-carroll-gardens",
+    "name": "Bar Bruno",
+    "desc": "Oaxacan-focused Mexican corner spot in Carroll Gardens with hand-pressed tortillas, mezcal and margs",
+    "longDesc": "Revamped in May 2026 by the Greenpoint Fish & Lobster team, Bar Bruno is now a Oaxacan-leaning Mexican kitchen at the corner of Henry and Union, helmed by chef Osmar Morales. Expect hand-pressed corn tortilla tacos, aguachile verde, chile rellenos with stretchy Oaxacan cheese, and a tequila/mezcal-forward bar with Clamato micheladas and a tight wine list. A drink-forward, neighborhood-cafe vibe that works as a lighter alternative to a full Rucola dinner in the same Boerum/Carroll Gardens corridor.",
+    "url": "https://www.business.nyctourism.com/places/bar-bruno",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "17:00-22:00",
+    "notes": "Topic premise was wrong: this is NOT a natural-wine Italian wine bar with cicchetti — it is Oaxacan/Mexican as of the May 2026 reopen under chef Osmar Morales, 8-yr vet of Greenpoint Fish & Lobster (bkmag). Menu: tacos $21, aguachile verde $22, enchiladas $24, molé de pollo $28; margarita $14, michelada $8 (bkmag). Hours 5pm-10pm daily, weekend parking generally available on Henry/Union side streets in Carroll Gardens. Corner spot at 520 Henry St at Union St (bkmag, NYC Tourism). Still a strong fit for the 'lighter, drink-forward alternative to Rucola' slot in the corridor — just route the natural-wine-Italian-cicchetti hunt to a different venue (see enqueue).",
+    "sources": [
+      {
+        "url": "https://www.bkmag.com/2026/05/04/bar-bruno-carroll-gardens-opens-greenpoint-fish-and-lobster-team/",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://www.business.nyctourism.com/places/bar-bruno",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/bar-bruno",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://andreastrong.substack.com/p/bar-bruno-begins-again",
+        "accessed": "2026-05-16T16:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T16:02:28.313Z"
+  },
+  {
+    "id": "french-louie",
+    "name": "French Louie",
+    "desc": "Modern French-American bistro on Atlantic Ave with a retractable-roof garden — steak frites, oysters, brunch.",
+    "longDesc": "From the team behind Buttermilk Channel, French Louie sits at the crossroads of Boerum Hill, Cobble Hill, Brooklyn Heights and Downtown Brooklyn. The bistro is known for a rotating selection of steak frites, fresh local fish, and East/West Coast oysters, with a backyard garden featuring a retractable roof and heat lamps for year-round outdoor dining. Vegetarian and gluten-free dishes are always available; Resy reservations open 30 days out.",
+    "url": "https://frenchlouienyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Sat 11:00-15:00 brunch, 17:00-22:30 dinner; Sun 11:00-15:00 brunch, 17:00-21:00 dinner",
+    "notes": "320 Atlantic Ave between Smith and Hoyt; phone (718) 935-1200 (frenchlouienyc.com). Backyard garden has a retractable roof + heat lamps for 4-season outdoor seating (frenchlouienyc.com). Reservations via Resy up to 30 days ahead; groups of 10+ email john@frenchlouienyc.com. Parking: street parking generally available; GGMC garage 1 block away on Smith between Atlantic/State, Alliance garage 2 blocks on Boerum Pl between Atlantic/Pacific (frenchlouienyc.com). Zoned 'carroll-gardens' because Saturfun lacks a boerum-hill zone — Atlantic Ave between Smith/Hoyt is functionally the Cobble Hill / Carroll Gardens border. Pairs well with a Cobble Hill / Boerum Hill walking cluster before/after.",
+    "sources": [
+      {
+        "url": "https://frenchlouienyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://frenchlouienyc.com/menus/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/french-louie",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/french-louie",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/french-louie",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T16:04:25.996Z"
+  },
+  {
+    "id": "harts-bed-stuy",
+    "name": "Hart's",
+    "desc": "Tiny candlelit Mediterranean spot behind the Franklin Ave subway — wood-fired plates, natural wine, intimate energy.",
+    "longDesc": "Hart's is a studio-apartment-sized Mediterranean room on the Bed-Stuy/Crown Heights edge, beloved for wood-fired fish, crudo, and seasonal small plates served by candlelight. The vibe is elbows-touching-strangers intimate with a strong natural wine list — easy date-night gravity for a couple already in the corpus's romantic-dinner pocket. Resy-only reservations and a short bar make timing the key strategic choice.",
+    "url": "https://www.hartsbrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "17:30-22:30",
+    "notes": "506 Franklin Ave at the Bed-Stuy/Crown Heights line, tucked behind the Franklin Ave C station (postcard.inc). Confirmed open every night 5:30-10:30 PM with extended Sun brunch in some seasons (hartsbrooklyn.com). Infatuation describes it as 'very dark and extra candlelit' — direct match for the romantic-dinner slot the corpus is testing. Mediterranean small-plates + wood-fired mains, natural wine focus; vegetarians have multiple dedicated plates but vegan/GF options are limited and require asking. Parking on Franklin/Classon is doable on weekend evenings but tight after 7 PM — budget 5 extra min. Resy reservations open ~30 days out and the 18-seat room fills fast for prime times. Drive from Industry City via Prospect Expy → Atlantic Ave is ~20-22 min off-peak, up to 30 min Sat 7-8 PM.",
+    "sources": [
+      {
+        "url": "https://www.hartsbrooklyn.com/",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/harts",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://www.postcard.inc/places/harts",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hart-s",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/ny/harts",
+        "accessed": "2026-05-16T16:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T16:06:24.236Z"
+  },
+  {
+    "id": "planta-williamsburg",
+    "name": "PLANTA Williamsburg",
+    "desc": "Fully plant-based Asian-leaning sushi + small-plates destination in a chic Wythe Ave space.",
+    "longDesc": "Brooklyn outpost of the PLANTA group, serving 100% plant-based sushi, dim sum-style bites, and pan-Asian mains in a contemporary Williamsburg setting on Wythe Ave. The menu shares its DNA with PLANTA Queen NoMad (Bang Bang Broccoli, Unagi Eggplant Nigiri, Spicy 'Tuna' Roll, Udon, Beef & Broccoli), making this the Brooklyn answer to the vegan pan-Asian destination gap Sans was meant to fill. Saturday 11am–10pm with weekend brunch makes it itinerary-flexible as either a late-lunch anchor or dinner spot.",
+    "url": "https://www.plantarestaurants.com/location/planta-williamsburg-new-york-city/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-105 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-22:00, Sun 11:00-21:30",
+    "notes": "Brand note: this is PLANTA Williamsburg (standard PLANTA branding), not 'Planta Queen' — the Queen-branded location is in NoMad Manhattan at 15 W 27th St (plantarestaurants.com). The Williamsburg menu still leans heavily Asian-inspired with vegan sushi, hand rolls, and dim sum-style bites, so it functionally fills the same pan-Asian-destination role in a Brooklyn-priority itinerary. 316 Wythe Ave puts it ~18 min from Industry City via the BQE; street parking is feasible on weekends but can be tight — McCarren Park and side streets off Wythe are usual fallbacks. Closed Tuesdays; weekend brunch runs 11am-4pm Sat/Sun (plantarestaurants.com). Reservations recommended via Resy (resy.com).",
+    "sources": [
+      {
+        "url": "https://www.plantarestaurants.com/location/planta-williamsburg-new-york-city/",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://www.plantarestaurants.com/location/planta-queen-new-york-city/",
+        "accessed": "2026-05-16T16:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/planta-williamsburg",
+        "accessed": "2026-05-16T16:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T16:08:32.459Z"
   }
 ]

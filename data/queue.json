@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Verify Claro operating status — phone 347-721-3126 and check Instagram @claro.bk for latest service confirmation",
-    "reason": "Closure ambiguity needs human-loop resolution before promotion to a track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:21:07.330Z"
-  },
-  {
-    "topic": "Bar Bruno Carroll Gardens — natural-wine Italian wine bar with cicchetti",
-    "reason": "Adjacent Boerum/Carroll Gardens corridor; lighter, drink-forward alternative to a full Rucola dinner in the same zone",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:23:00.856Z"
-  },
-  {
-    "topic": "French Louie Boerum Hill — French bistro on Atlantic Ave with garden",
-    "reason": "Same neighborhood, different cuisine; broadens Boerum Hill romantic-dinner coverage beyond Italian",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:23:00.856Z"
-  },
-  {
-    "topic": "Hart's Bed-Stuy — Mediterranean small plates, candlelit, similar vibe",
-    "reason": "Tests whether a farther-east zone (Bed-Stuy, ~20 min from IC) can hold a romantic-dinner slot with comparable energy",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:23:00.856Z"
-  },
-  {
-    "topic": "Planta Queen Williamsburg — fully plant-based pan-Asian destination with tasting-menu energy",
-    "reason": "Live, weekend-friendly, ~18 min drive from IC; fills the 100%-vegetarian destination gap Sans was meant to close, and adds a vegan-friend itinerary anchor in the Williamsburg cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:26:39.523Z"
-  },
-  {
     "topic": "Avant Garden Williamsburg — small-plates 100% vegan tasting-style with wine pairings",
     "reason": "True vegan tasting-menu vibe, ~17 min from IC; pairs well with existing Williamsburg corpus venues for vegan-friend driving itineraries",
     "requestedBy": "agent",
@@ -4078,5 +4048,95 @@
     "reason": "High-demand romantic-foodie anchor in Williamsburg cluster for itinerary variants",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T15:56:22.614Z"
+  },
+  {
+    "topic": "Insa Gowanus — Korean BBQ + karaoke on Union St",
+    "reason": "Same 5–8 min drive from IC; complements Claro as a late-night option in the same micro-cluster and gives the Gowanus track a second anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:00:05.853Z"
+  },
+  {
+    "topic": "Convivium Osteria Park Slope — rustic Mediterranean with garden room",
+    "reason": "Adjacent foodie-romantic dinner option in Park Slope; useful fallback if Claro phone verification fails or reservations are unavailable",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:00:05.853Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook — pit-smoked Texas brisket",
+    "reason": "Cross-zone counterweight 8 min from IC; lets a Saturfun track pivot from refined Oaxacan to casual smokehouse depending on group mood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:00:05.853Z"
+  },
+  {
+    "topic": "June Wine Bar Cobble Hill — natural wine bar with snacks",
+    "reason": "Closest real match for the original 'natural-wine bar in the Carroll Gardens corridor' brief that Bar Bruno was miscast as; ~8-10 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:02:29.260Z"
+  },
+  {
+    "topic": "Popina Columbia Waterfront — Italian-influenced small plates with natural wine",
+    "reason": "Italian-leaning, wine-forward, sits between IC and Carroll Gardens; satisfies the 'cicchetti-adjacent Italian wine bar' intent better than Bar Bruno",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:02:29.260Z"
+  },
+  {
+    "topic": "Leuca alternative: Sauced Carroll Gardens natural-wine Italian — verify existence and current status",
+    "reason": "Worth confirming whether any Court St / Smith St Italian spot currently markets as cicchetti+natural-wine to close the original gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:02:29.261Z"
+  },
+  {
+    "topic": "Buttermilk Channel Carroll Gardens — sister restaurant from same team, comfort American with strong brunch",
+    "reason": "Same hospitality group as French Louie; expands Carroll Gardens romantic/brunch coverage and validates pairing logic",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:04:26.018Z"
+  },
+  {
+    "topic": "Henry's End Brooklyn Heights — game-focused American bistro, longstanding date-night staple",
+    "reason": "Adjacent neighborhood, similar romantic-dinner price band, broadens Brooklyn Heights coverage for non-Italian fine dining",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:04:26.018Z"
+  },
+  {
+    "topic": "Chez Moi Brooklyn Heights — French bistro on Atlantic Ave / Henry St area",
+    "reason": "Direct French-bistro alternative within the Atlantic Ave corridor; helps Saturfun rank French options head-to-head",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:04:26.018Z"
+  },
+  {
+    "topic": "Cervo's Lower East Side — coastal Portuguese small plates, similar candlelit vibe",
+    "reason": "Owned by same group as Hart's (Frances/Cervo's hospitality); useful as a Manhattan benchmark to test whether Bed-Stuy or LES wins the romantic-dinner slot from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:06:24.249Z"
+  },
+  {
+    "topic": "The Fly Bed-Stuy — rotisserie chicken + natural wine bar within ~4 blocks of Hart's",
+    "reason": "Pairs with Hart's as a same-zone backup/sequel; lets the Bed-Stuy track stand up as a full evening cluster, not a one-stop detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:06:24.249Z"
+  },
+  {
+    "topic": "Place des Fêtes Clinton Hill — Mediterranean-leaning bistro from same Hart's/Cervo's team",
+    "reason": "Closer to IC (~17 min) and same culinary DNA; tests whether the Hart's vibe can be captured without the full 22-min Bed-Stuy drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:06:24.249Z"
+  },
+  {
+    "topic": "Modern Love Brooklyn (Williamsburg) — vegan comfort food brunch",
+    "reason": "Adjacent Williamsburg plant-based anchor; lower price band complement to PLANTA's tasting energy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:08:32.471Z"
+  },
+  {
+    "topic": "Hartbreakers (Williamsburg) — natural wine bar with strong vegan small plates",
+    "reason": "Pairs as a post-dinner drinks stop in the same cluster; expands vegan-friendly nightlife",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:08:32.471Z"
+  },
+  {
+    "topic": "Kopitiam Williamsburg pop-up or Eight Turn Crepe — Asian sweets nearby for a dessert handoff",
+    "reason": "Builds the pan-Asian dessert leg of a Planta-anchored evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:08:32.471Z"
   }
 ]
