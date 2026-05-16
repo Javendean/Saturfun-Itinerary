@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Threes Brewing Gowanus taproom",
-    "reason": "Driving-friendly post-axe beer stop, complements Kick Axe in the same Gowanus cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:14:37.392Z"
-  },
-  {
-    "topic": "Brooklyn Bowl Williamsburg bowling + live music",
-    "reason": "Adjacent 'driving-friendly active venue' candidate in 15-min radius for the active/chill vibe bucket",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:14:37.392Z"
-  },
-  {
-    "topic": "Hex & Company board game cafe Park Slope",
-    "reason": "Closest sibling concept driving distance from IC — gives the corpus a second tabletop option in a different zone",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:16:43.183Z"
-  },
-  {
-    "topic": "The Uncommons board game cafe Manhattan",
-    "reason": "Adjacent comp to benchmark BGK against — only enqueue if user wants a Manhattan justification venue",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:16:43.183Z"
-  },
-  {
-    "topic": "Twenty Sided Store Williamsburg tabletop gaming",
-    "reason": "Williamsburg tabletop retail+play spot within 15-min drive of IC, fits driving radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:16:43.183Z"
-  },
-  {
     "topic": "Re-research existing venue: Sahadi's Industry City",
     "reason": "Pairs naturally with Carreau as a low-effort food stop in the same IC building cluster",
     "requestedBy": "agent",
@@ -1054,5 +1024,95 @@
     "reason": "Natural decompression stop after Royal Palms — outdoor garden bar 2 min away, fills the chill/romantic gap in the Gowanus track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T06:17:52.900Z"
+  },
+  {
+    "topic": "Strong Rope Brewery Red Hook taproom",
+    "reason": "Another driving-friendly Brooklyn brewery near IC; all-NY-state ingredients angle differentiates it from Threes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:19:55.070Z"
+  },
+  {
+    "topic": "Other Half Brewing Carroll Gardens flagship",
+    "reason": "Cult-favorite hazy IPA brewery 8 min from IC; complements Threes for a beer-flight track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:19:55.070Z"
+  },
+  {
+    "topic": "Grand Army South menu deep-dive",
+    "reason": "Threes' in-house kitchen — worth its own card so itineraries can flag it as a dinner-quality stop, not just drinks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:19:55.070Z"
+  },
+  {
+    "topic": "The Gutter Williamsburg — vintage 8-lane bowling alley + craft beer bar",
+    "reason": "Smaller indie alternative to Brooklyn Bowl in same zone; group-friendly active-chill venue with longer evening hours",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:22:19.669Z"
+  },
+  {
+    "topic": "Music Hall of Williamsburg — 550-cap concert venue",
+    "reason": "Adjacent live-music option without bowling; pairs naturally as the night-cap after a Brooklyn Bowl Family Bowl afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:22:19.669Z"
+  },
+  {
+    "topic": "Mission Dolores Park Bar Gowanus — outdoor beer garden with shuffleboard",
+    "reason": "Adjacent driving-friendly active/chill bucket candidate closer to IC (~10 min) for warm-weekend tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:22:19.669Z"
+  },
+  {
+    "topic": "The Brooklyn Strategist board game cafe Carroll Gardens",
+    "reason": "Second Brooklyn board game cafe in a different zone (carroll-gardens) — community shop + cafe with 500+ games and walk-in play; rounds out tabletop options without leaving the borough.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:24:53.526Z"
+  },
+  {
+    "topic": "Hex & Company Union Square Manhattan justification",
+    "reason": "Closest true Hex sibling to IC (~25 min via Battery Tunnel) — worth a Manhattan exception entry if user ever wants the original concept; covers TCG/RPG nights Sip & Play doesn't.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:24:53.526Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg games and events",
+    "reason": "Williamsburg-zone tabletop/TCG store with weekend events — expands the 'play games on a Saturday' lane into a third zone within 15 min drive of IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:24:53.526Z"
+  },
+  {
+    "topic": "Brooklyn Strategist board game cafe Carroll Gardens",
+    "reason": "Direct Brooklyn comp to The Uncommons — board game cafe/club within 15-min drive of IC, fits geographic constraint where Uncommons fails",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:27:03.990Z"
+  },
+  {
+    "topic": "Hex & Company board game cafe Park Slope Brooklyn",
+    "reason": "Park Slope outpost of NYC board game cafe chain — sits inside Park Slope cluster zone, weekend parking more feasible than Manhattan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:27:03.990Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg game shop play tables",
+    "reason": "Williamsburg hobby/game store with in-store play tables — adjacent vibe in active Williamsburg cluster, drive-friendly from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:27:03.990Z"
+  },
+  {
+    "topic": "The Brooklyn Strategist tabletop gaming Carroll Gardens",
+    "reason": "Tabletop play space ~10 min from IC — closer alternative to Twenty Sided and pairs with Carroll Gardens food cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:29:09.338Z"
+  },
+  {
+    "topic": "Kings Games board game shop Midwood Brooklyn",
+    "reason": "Long-running Brooklyn game retailer; useful comparison/redundancy for tabletop-curious tracks even if farther from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:29:09.338Z"
+  },
+  {
+    "topic": "Williamsburg weekend parking guide Grand Street area",
+    "reason": "Driving-radius corpus needs zone-level parking notes for Williamsburg stops like Twenty Sided",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:29:09.338Z"
   }
 ]

@@ -5694,8 +5694,8 @@
   {
     "id": "threes-brewing-gowanus",
     "name": "Threes Brewing (Gowanus)",
-    "desc": "Brewpub + beer garden with Grand Army South kitchen and Ninth Street Espresso — chill post-climb pint stop.",
-    "longDesc": "Threes Brewing's Gowanus flagship is a working brewery, beer garden ('The Yard'), and music room ('Tiny Montgomery') that doubles as a daytime coffee shop via Ninth Street Espresso. The bar menu is run by Grand Army South, so you can pair a fresh house lager or hoppy ale with a real meal rather than typical brewpub fare. Roughly a 3–4 minute drive from Movement Brooklyn, making it the natural decompression stop after a climbing session.",
+    "desc": "Flagship Brooklyn brewery with skylit taproom, kitchen by Grand Army South, and a year-round outdoor Yard.",
+    "longDesc": "Threes' Gowanus flagship is a sprawling brewpub at 333 Douglass St with a high-ceilinged main bar, the Tiny Montgomery music room, and The Yard—an outdoor beer garden that's leafy in summer and tented/heated in winter. Beer covers crisp pilsners, IPAs, and barrel-aged sours brewed on-site; food comes from in-house concept Grand Army South (smashburgers, snacks, vegetarian options), with Ninth Street Espresso on the coffee side from 8am.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5710,22 +5710,26 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 12:00-00:00 (kitchen til 23:00), Sun 12:00-23:00 (kitchen til 22:00)",
-    "notes": "333 Douglass St, Brooklyn. Year-round outdoor 'Yard' with winterized bar; Ninth Street Espresso 8a-3p daily for morning coffee; Tiny Montgomery hosts bands/comedy/soccer screenings (threesbrewing.com). Food is by Grand Army South, not Meat Hook (older listings on Yelp/BeerAdvocate are out of date). Street parking on Douglass/3rd Ave is generally workable on weekends; Movement Brooklyn is ~0.5 mi north so easy reposition after climbing.",
+    "hoursWeekend": "Sat 12:00-24:00, Sun 12:00-23:00",
+    "notes": "333 Douglass St (between 3rd & 4th Aves), Gowanus border with Park Slope (threesbrewing.com). Kitchen Sat 12-23:00, Sun 12-22:00 — easy walk-in dinner+beer combo. Free street parking is generally findable on weekends in Gowanus but first-come (Yelp reviews). Pairs naturally with Kick Axe Throwing (also Gowanus, ~5 min away) for a 'throw axes → drink local IPAs' loop. Outdoor Yard makes it photo-worthy in warm weather.",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-16T06:10:00Z"
+        "accessed": "2026-05-16T06:25:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-16T06:10:00Z"
+        "accessed": "2026-05-16T06:25:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/threes-brewing",
+        "accessed": "2026-05-16T06:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:15:40.756Z"
+    "lastResearchedAt": "2026-05-16T06:19:55.065Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -5769,5 +5773,172 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T06:17:52.895Z"
+  },
+  {
+    "id": "brooklyn-bowl-williamsburg",
+    "name": "Brooklyn Bowl",
+    "desc": "16-lane bowling alley + live music venue in a converted Williamsburg ironworks — recycled-tire stage floor.",
+    "longDesc": "Brooklyn Bowl pairs 16 lanes of bowling with a 600-cap concert hall under one roof at 61 Wythe Ave, the only LEED-certified bowling alley in the U.S. Weekend afternoons run a free Family Bowl (Sat 12–5pm, Sun 1–6pm) before the 21+ shows roll in after 6pm. Walk-in lanes are $35/half hour Fri–Sun (up to 8 per lane) plus $5.95 shoes; reserve ahead on busy weekends.",
+    "url": "https://www.brooklynbowl.com/brooklyn/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "active",
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "1.5-2 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-Close, Sun 12:00-Close",
+    "notes": "Family Bowl free entry Sat 12-5pm / Sun 1-6pm — all ages welcome before 6pm (brooklynbowl.com/brooklyn-faqs). Weekend bowling $35/lane/30min, 8 guests/lane, +$5.95 shoes (brooklynbowl.com/brooklyn-bowling). 21+ after 6pm. No dedicated lot — paid garages and street parking nearby on N 11th/N 12th; ~$15-25 evening (nyctourism.com). Cashless except box office. Drive from IC ~22 min via BQE.",
+    "sources": [
+      {
+        "url": "https://www.brooklynbowl.com/brooklyn-faqs",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynbowl.com/brooklyn-bowling",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynbowl.com/brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/brooklyn-bowl/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:22:19.664Z"
+  },
+  {
+    "id": "sip-and-play-park-slope",
+    "name": "Sip & Play",
+    "desc": "Park Slope's first board game cafe — 500+ titles, boba/beer/coffee, $12 per 3-hr weekend session.",
+    "longDesc": "Sip & Play is the Park Slope sibling concept to Manhattan's Hex & Company — a dedicated board game cafe with a 500+ game library on 5th Ave between 10th and 11th Streets. Weekends run $12/person (or $15 with reservation) for a 3-hour table; the kitchen pairs sandwiches and salads with bubble tea, Joe Coffee, and beer. Casual, family/friends energy with reservations strongly recommended Fri–Sun.",
+    "url": "https://www.sipnplaynyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "2-3 hr",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "Sat 10:00-24:00, Sun 10:00-23:00",
+    "notes": "Pivoted from topic 'Hex & Company Park Slope' — Hex has no Brooklyn location; Sip & Play is the true Park Slope sibling concept (timeout.com confirms 'Park Slope's first board game cafe', 2020). 3-hr block pricing: $10 weekdays, $12 Fri–Sun walk-in, $15 with reservation via Tock (sipnplaynyc.com). 500+ game library (yelp/sipnplaynyc.com). Drinks include boba, Joe Coffee partnership, and beer (joe.coffee location page). Street parking only — 5th Ave Park Slope is metered weekends; side streets like 11th/12th typically open up. Drive from IC is ~2 mi up 4th Ave, ~10-12 min off-peak. Kitchen closes 2.5-3 hrs before bar close — order food early on weekend nights (sipnplaynyc.com).",
+    "sources": [
+      {
+        "url": "https://www.sipnplaynyc.com/",
+        "accessed": "2026-05-16T06:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sip-n-play-brooklyn",
+        "accessed": "2026-05-16T06:20:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/this-new-board-game-cafe-in-park-slope-has-over-200-games-010720",
+        "accessed": "2026-05-16T06:20:00Z"
+      },
+      {
+        "url": "https://joe.coffee/locations/ny/brooklyn/sip-and-play-brooklyn/",
+        "accessed": "2026-05-16T06:20:00Z"
+      },
+      {
+        "url": "https://www.exploretock.com/sipnplay/",
+        "accessed": "2026-05-16T06:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:24:53.521Z"
+  },
+  {
+    "id": "the-uncommons",
+    "name": "The Uncommons",
+    "desc": "Manhattan's first board game cafe — Greenwich Village lending library of 1,000+ games, $10 cover for 3 hrs",
+    "longDesc": "Located at 230 Thompson St in Greenwich Village on the NYU campus, a block from Washington Square Park, The Uncommons bills itself as Manhattan's first board game cafe. A $10 cover unlocks a lending library of over 1,000 games for 3 hours alongside Joe Coffee service. Hits capacity on weekends and holidays with waits up to 3 hours, so reservations or early arrival are advised.",
+    "url": "https://uncommonsnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "22-30 min",
+    "hoursWeekend": "Sat 10:00-24:00, Sun 10:00-23:00",
+    "notes": "MANHATTAN COMP — not a fit under the IC-anchored driving radius constraint. Address: 230 Thompson St, New York, NY 10012 (Greenwich Village / NYU). Driving from IC routes via Hugh L. Carey Tunnel (~22 min off-peak, 30+ min weekend midday) then street-parking hell around Washington Square — Manhattan parking is the disqualifier, not drive time (yelp). Cover charge $10 for 3 hrs of game access (uncommonsnyc). Peak waits up to 3 hours, reservations strongly recommended (uncommonsnyc). Use this entry as benchmark only — surface Brooklyn alternatives (Brooklyn Strategist, Hex & Co Park Slope) instead unless user explicitly wants a Manhattan justification venue.",
+    "sources": [
+      {
+        "url": "https://uncommonsnyc.com/",
+        "accessed": "2026-05-16T06:20:00Z"
+      },
+      {
+        "url": "https://uncommonsnyc.com/about/",
+        "accessed": "2026-05-16T06:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-uncommons-new-york",
+        "accessed": "2026-05-16T06:20:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Uncommons",
+        "accessed": "2026-05-16T06:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T06:27:03.984Z"
+  },
+  {
+    "id": "twenty-sided-store",
+    "name": "Twenty Sided Store",
+    "desc": "Williamsburg's flagship board-game + RPG + Magic shop with open play tables in back",
+    "longDesc": "Beloved tabletop hub on Grand St stocking board games, role-playing systems, and Magic: The Gathering, with a back room of communal tables for drop-in play and a steady calendar of community events. Open 12-7pm every day, so it slots cleanly into an afternoon Williamsburg track between food and drinks stops. Walk-ins fine for browsing and casual play; specific tournaments use their event registration.",
+    "url": "https://twentysidedstore.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "1-3 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "12:00-19:00",
+    "notes": "Address 280 Grand St, Brooklyn NY 11211 (twentysidedstore.com/pages/contact). Daily 12-7pm — confirmed identical Sat/Sun. Phone 718-963-1578. Yelp shows 88 reviews, 43 photos as of May 2026 (yelp.com/biz/twenty-sided-store-brooklyn). Stocks board games, RPGs, MTG; back room has gaming tables and the store hosts regular events. Street parking in central Williamsburg is tight on weekends — easier to grab a metered spot a few blocks south toward S. 2nd or use a paid lot on Berry/Wythe. L train (Lorimer/Bedford) for non-driving guests.",
+    "sources": [
+      {
+        "url": "https://twentysidedstore.com/pages/contact",
+        "accessed": "2026-05-16T06:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/twenty-sided-store-brooklyn",
+        "accessed": "2026-05-16T06:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T06:29:09.333Z"
   }
 ]
