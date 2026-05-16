@@ -42,12 +42,17 @@ async function main() {
   console.log(`[embed] wrote ${Object.keys(out).length} vectors to ${outPath}`);
 }
 
+// Coerce to array of strings — harvester sometimes writes vibe/dietary as a
+// single string instead of an array. Defensive so one bad entry doesn't crash
+// the whole embedding pass.
+const toArr = (v) => Array.isArray(v) ? v : (typeof v === 'string' && v ? [v] : []);
+
 function embedText(e) {
   return [
     e.name, e.desc, e.longDesc,
     `zone: ${e.zone || ''}`,
-    `vibe: ${(e.vibe || []).join(', ')}`,
-    `dietary: ${(e.dietary || []).join(', ')}`,
+    `vibe: ${toArr(e.vibe).join(', ')}`,
+    `dietary: ${toArr(e.dietary).join(', ')}`,
     `price: ${e.priceBand || ''}`,
     e.notes || '',
   ].filter(Boolean).join('. ');
