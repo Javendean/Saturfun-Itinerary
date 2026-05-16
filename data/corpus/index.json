@@ -2897,59 +2897,58 @@
   {
     "id": "noguchi-museum",
     "name": "The Noguchi Museum",
-    "desc": "Isamu Noguchi's indoor-outdoor sculpture museum and garden in a converted LIC factory",
-    "longDesc": "Founded by Isamu Noguchi himself in 1985 inside a 1920s industrial building across from his old studio, the museum holds 13 galleries plus a contemplative outdoor sculpture garden of stone, bronze, basalt, and bamboo. It is small, quiet, and famously photogenic; most visitors spend 60-90 minutes wandering both floors and the garden. A natural pairing with MoMI (~10 min away) for a rest-day loop back to Industry City.",
+    "desc": "Isamu Noguchi's serene sculpture museum and stone garden in a converted LIC factory",
+    "longDesc": "Founded by Isamu Noguchi in 1985, this two-story museum and outdoor garden occupies a former photoengraving plant across from his Long Island City studio. Galleries display stone, bronze, wood, and Akari light sculptures alongside a contemplative open-air sculpture garden — a deliberately quiet counterpoint to MoMA PS1's edgier contemporary lineup. Best paired with a Socrates Sculpture Park stop two blocks north.",
     "url": "https://www.noguchi.org/museum/visit/plan/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "industry-city",
     "vibe": [
-      "curious",
       "chill",
-      "photo"
+      "curious",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "25 min",
-    "hoursWeekend": "11:00-18:00",
-    "notes": "Address: 9-01 33rd Rd, Long Island City/Astoria, Queens, NY 11106 (closest listed zone is greenpoint, just across Newtown Creek). Open Wed-Sun 11:00-18:00, closed Mon/Tue. General admission ~$10 (seniors/students $5; under-12 free); free on the first Friday of each month and via NYC Culture Pass (yelp.com; permanentcollection.nyc). Limited street parking on 33rd Rd / Vernon Blvd — usually findable on weekends but plan to circle; muni-meter rules apply. Outdoor sculpture garden plus 13 indoor galleries; very photo-friendly, low-key, and almost meditative — fits the rest-day curious/photo brief between Industry City and MoMI.",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-18:00 (Sat-Sun)",
+    "notes": "Address 9-01 33rd Rd, Long Island City — technically Astoria edge but universally listed LIC (Yelp, Tripadvisor). Wed-Sun 11-18:00, closed Mon/Tue (Noguchi.org). Street parking is metered/limited on weekends; allow 10 min to find a spot or use the Costco/PS1 lots a few blocks south. Advance timed-entry reservations recommended (NYC Tourism). Pairs naturally with Socrates Sculpture Park (free, 2 blocks north) and MoMA PS1 (~8 min drive south).",
     "sources": [
       {
         "url": "https://www.noguchi.org/museum/visit/plan/",
-        "accessed": "2026-05-16T19:30:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/the-noguchi-museum-astoria",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-16"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/the-noguchi-museum/",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-16"
       },
       {
-        "url": "https://permanentcollection.nyc/museums/noguchi-museum/",
-        "accessed": "2026-05-16T19:30:00Z"
+        "url": "https://www.yelp.com/biz/the-noguchi-museum-astoria",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g48080-d136119-Reviews-Noguchi_Museum-Long_Island_City_Queens_New_York.html",
+        "accessed": "2026-05-16"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T19:29:54.200Z"
+    "lastResearchedAt": "2026-05-16T22:54:52.396Z"
   },
   {
     "id": "bohemian-hall-beer-garden",
     "name": "Bohemian Hall & Beer Garden",
-    "desc": "NYC's oldest beer garden (since 1910) — massive Czech courtyard with pilsners, kielbasa, and live music.",
-    "longDesc": "Operated by the Bohemian Citizens' Benevolent Society since 1910, this Astoria landmark is the last surviving turn-of-the-century beer garden in NYC, with a tree-shaded courtyard that seats roughly 800 around long communal tables. The kitchen leans Czech-Slovak (goulash, schnitzel, pierogi, kielbasa) and the taps stay heavy on Czech pilsners — Pilsner Urquell, Krušovice, Staropramen. Weekends bring live polka, brass, and rock bands plus a famously rowdy garden crowd; weekday afternoons are quieter and more family-friendly.",
-    "url": "https://bohemianhall.com/",
+    "desc": "Century-old Czech beer garden in Astoria — pilsners, kielbasa, and the largest outdoor biergarten in NYC.",
+    "longDesc": "Operated by the Bohemian Citizens' Benevolent Society since 1910, this Astoria institution pairs Czech and Slovak staples (giant pretzel with beer cheese, goulash, schnitzel, kielbasa platters) with imported Pilsner Urquell and Czechvar on tap. The tree-shaded courtyard seats hundreds at picnic tables and is the natural finish to any Queens-leaning track — loud, lively, and built for groups arriving after a Socrates Sculpture Park or Noguchi stop.",
+    "url": "https://www.bohemianhall.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "astoria",
+    "zone": "industry-city",
     "vibe": [
       "chill",
-      "foodie",
-      "curious"
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
@@ -2958,29 +2957,37 @@
     "duration": "90-120 min",
     "driveFromIC": "25 min",
     "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
-    "notes": "Address 29-19 24th Ave, Astoria, NY 11102 (official site). Two municipal lots on 33rd St between Ditmars & 23rd Ave; Sunday street parking is usually easy (Yelp/Parkopedia). Cash-friendly garden, table-service inside. Zone enum doesn't yet include Queens — flagged as 'astoria' for the NW Queens cluster.",
+    "notes": "29-19 24th Ave, Astoria, NY 11102. Two municipal lots on 33rd St between Ditmars & 23rd Ave; Sunday street parking is generally easy (Parkopedia, bohemianhall.com/directions). Weekend menu adds brunch-leaning items; vegetarian pierogi and fried cheese available. Pairs well as the late-afternoon/evening cap to a Long Island City track (Socrates ~10 min, Noguchi ~10 min, MoMA PS1 ~12 min). Cash-friendly biergarten section — credit accepted inside the hall.",
     "sources": [
       {
-        "url": "https://bohemianhall.com/direction-hours/",
-        "accessed": "2026-05-16T19:30:00Z"
+        "url": "https://www.bohemianhall.com/",
+        "accessed": "2026-05-16T22:50:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/bohemian-hall-and-beer-garden-astoria",
-        "accessed": "2026-05-16T19:30:00Z"
+        "url": "https://www.bohemianhall.com/directions",
+        "accessed": "2026-05-16T22:50:00Z"
+      },
+      {
+        "url": "https://bohemianhall.com/weekend-menu/",
+        "accessed": "2026-05-16T22:50:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/bohemian-hall-and-beer-garden-astoria",
+        "accessed": "2026-05-16T22:50:00Z"
       },
       {
         "url": "https://en.parkopedia.com/parking/bar/bohemian-hall-and-park-astoria/",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-16T22:50:00Z"
       },
       {
         "url": "https://www.nyctourism.com/nightlife/bohemian-hall-beer-garden/",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-16T22:50:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T19:27:42.659Z"
+    "lastResearchedAt": "2026-05-16T22:53:05.598Z"
   },
   {
     "id": "brooklyn-museum",
@@ -16575,8 +16582,8 @@
   {
     "id": "rainey-park-lic",
     "name": "Rainey Park",
-    "desc": "Quiet East River park next door to Socrates with Manhattan skyline and Roosevelt Island views",
-    "longDesc": "Rainey Park is a 9-acre waterfront greenspace on Vernon Blvd in Astoria/LIC, immediately adjacent to Socrates Sculpture Park. Renovated benches, a tree-lined promenade, basketball/handball courts, and unobstructed East River sightlines toward Roosevelt Island and the UN make it an easy chill stop after Socrates. Best for golden-hour photos and a quiet sit; minimal food onsite, so pair with a Vernon Blvd coffee or COFFEED stop.",
+    "desc": "Renovated LIC waterfront green space with picnic lawn and East River views of Roosevelt Island + Manhattan",
+    "longDesc": "Rainey Park sits on Vernon Blvd in Astoria/LIC, a short walk south of Socrates Sculpture Park, and reopened in July 2025 after an $8.5M rebuild that added expanded waterfront greenway, a shaded picnic lawn, fitness areas, spray showers, and new playgrounds. The promenade faces Roosevelt Island and the Upper East Side skyline directly across the East River, making it the cleanest cheap picnic alt or buffer stop near Socrates. There is no on-site lot; the small public street parking pocket near 33-01 Vernon Blvd is the one Socrates visitors actually use on weekends.",
     "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -16584,32 +16591,36 @@
     "vibe": [
       "chill",
       "photo",
-      "romantic"
+      "active"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "25 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "06:00-21:00",
-    "notes": "Free entry, no on-site lot — closest free street parking is at 33-01 Vernon Blvd (NYC Parks). Pairs naturally with Socrates Sculpture Park next door (Yelp/QueensBuzz). Drive from IC via BQE is ~25 min off-peak; weekend Manhattan-bound bridge traffic can push it past 30. Best at golden hour for skyline photos.",
+    "notes": "Actually in Astoria/LIC (Queens), not Greenpoint — zone enum has no LIC option; closest Brooklyn zone selected. Address: 34-24 Vernon Blvd between 33rd Rd and 34th Ave (corner.inc). Open 6am-9pm daily including weekends; renovated and reopened July 9, 2025 after $8.5M rebuild adding waterfront greenway, picnic lawn, spray showers, playground, fitness area (qns.com, mommypoppins.com). Closest free street parking pocket per local listings is around 33-01 Vernon Blvd, the same block Socrates Sculpture Park visitors use. Direct East River views of Roosevelt Island and Manhattan UES — strong photo stop and a low-cost picnic alternative to a sit-down lunch if pairing with Socrates.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T22:50:00Z"
       },
       {
-        "url": "https://www.queensbuzz.com/article/295/rainey-park---long-island-city-lic-queens",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://qns.com/2025/07/rainey-park-in-astoria-reopens-after-8-5-million-transformation/",
+        "accessed": "2026-05-16T22:50:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/rainey-park-astoria",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://mommypoppins.com/new-york-city-kids/parks-playgrounds/rainey-park-reopens-astoria-queens-kids",
+        "accessed": "2026-05-16T22:50:00Z"
+      },
+      {
+        "url": "https://www.corner.inc/place/462309",
+        "accessed": "2026-05-16T22:50:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T18:46:35.463Z"
+    "lastResearchedAt": "2026-05-16T22:51:13.698Z"
   },
   {
     "id": "mars-astoria-brasserie-raw-bar",
@@ -19433,5 +19444,97 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T22:43:55.031Z"
+  },
+  {
+    "id": "pepsi-cola-sign-lic",
+    "name": "Pepsi-Cola Sign (Gantry Plaza)",
+    "desc": "1940 neon Pepsi sign on the LIC waterfront — official NYC landmark with skyline backdrop",
+    "longDesc": "The 120-ft red neon Pepsi-Cola sign was built in 1940 atop the Long Island City bottling plant and relocated into Gantry Plaza State Park in 2009 after the plant was demolished. On April 12, 2016 the NYC Landmarks Preservation Commission designated it an official city landmark, making it one of the only signs in NYC with that status. It glows red against the Midtown skyline across the East River and is the headline photo of the LIC waterfront — best at golden hour and after dusk.",
+    "url": "https://www.nyctourism.com/attractions-tours/pepsi-cola-sign/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "photo",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-22:00",
+    "notes": "Located inside Gantry Plaza State Park at 4-09 47th Rd, LIC, Queens. From IC take the BQE to the Pulaski Bridge (≈22 min weekend drive) — Greenpoint-adjacent, not actually Brooklyn but lives in the same waterfront cluster. Free street parking on 48th Ave/Center Blvd is usually findable on weekends. Sign is lit at night and visible across the river from Hunters Point South Park too. NYC Landmarks Preservation Commission designated it on 2016-04-12 (Pepsi-Cola sign, Wikipedia). Built 1940 by General Outdoor Advertising; rebuilt 1993 by Artkraft Strauss (HDC Six to Celebrate).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pepsi-Cola_sign",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/pepsi-cola-sign/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://hdc.org/buildings/pepsi-cola-sign/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://qns.com/2016/04/lics-iconic-pepsi-cola-sign-is-named-a-landmark/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T22:46:05.315Z"
+  },
+  {
+    "id": "lic-landing-ottomanelli-by-the-water",
+    "name": "F. Ottomanelli By The Water (LIC Landing)",
+    "desc": "Waterfront café/burger pavilion at Hunters Point South Park with Manhattan-skyline patio seating.",
+    "longDesc": "The historic 'LIC Landing' kiosk space at 52-10 Center Blvd was taken over by Frank Ottomanelli after the COFFEED concession expired; it now runs as F. Ottomanelli By The Water with burgers, Belgian fries, poke bowls, coffee, beer and wine. Outdoor patio sits right on the East River with skyline and Pepsi-sign views — a natural coffee/drink anchor for the Gantry Plaza photo stop. Status has fluctuated (Yelp's old COFFEED listing reads CLOSED; the Ottomanelli operation is the active license-holder under the NYC Parks RFP), so call ahead before relying on a specific opening hour.",
+    "url": "https://www.frankottomanellislic.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:00-21:00 (seasonal — verify)",
+    "notes": "Located inside Hunters Point South Park at 52-10 Center Blvd, a 5-min walk south of the Gantry Plaza State Park photo piers (frankottomanellislic.com). Frank Ottomanelli won the NYC Parks RFP after COFFEED's license expired and committed ~$234K in renovations (qns.com / licpost.com via Sunnyside Post). Park-side concession so hours are weather/season dependent; the patio is the draw — pair with the Gantry pier photo stop and the LIC skyline shot. Weekend street parking on Center Blvd is doable but tight; Center Blvd garages are the fallback. Across the Pulaski Bridge from Greenpoint, so 25-min drive from Industry City is realistic outside BQE rush.",
+    "sources": [
+      {
+        "url": "https://www.frankottomanellislic.com/about",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://licpost.com/lic-landing-at-hunters-point-south-park-goes-dark-will-not-fully-reopen-until-july",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://sunnysidepost.com/outdoor-cafe-at-hunters-point-south-park-likely-to-get-new-operator",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/hunters-point-park-lic-landing/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/coffeed-lic-landing-long-island-city",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T22:48:59.354Z"
   }
 ]

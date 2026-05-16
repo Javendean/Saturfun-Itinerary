@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Pepsi-Cola sign LIC neon landmark",
-    "reason": "Iconic neon sign sitting inside Gantry Plaza — frequently the headline photo of the area and worth its own corpus entry",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:37:44.126Z"
-  },
-  {
-    "topic": "LIC Landing café Gantry waterfront",
-    "reason": "On-site seasonal café/kiosk at the waterfront — gives the photo stop a coffee/drink anchor for the itinerary",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:37:44.126Z"
-  },
-  {
-    "topic": "Rainey Park LIC waterfront",
-    "reason": "Adjacent green space with the small public parking lot Socrates visitors actually use; useful as a low-cost picnic alt or buffer stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:39:46.920Z"
-  },
-  {
-    "topic": "Astoria Bohemian Hall & Beer Garden",
-    "reason": "10-min drive north of Socrates; classic Czech beer garden anchors a food/drinks leg for any LIC-Queens track expansion",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:39:46.920Z"
-  },
-  {
-    "topic": "The Noguchi Museum LIC",
-    "reason": "Stone-and-garden sculpture museum 12 min from IC, complements PS1's edgier contemporary lineup",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:41:45.325Z"
-  },
-  {
     "topic": "Court Square Diner LIC",
     "reason": "Classic 24-hr diner 4 min from PS1 — useful refuel anchor when chaining LIC art stops",
     "requestedBy": "agent",
@@ -6004,5 +5974,95 @@
     "reason": "Northern terminus of the High Line — gives the track a strong photo-payoff endpoint if walking north from 20th St",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T22:43:55.047Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park gantries and waterfront promenade LIC",
+    "reason": "The Pepsi sign sits inside this park — the restored 1925 transfer gantries and pier benches are their own photo subject and pair as a longer waterfront walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:46:05.329Z"
+  },
+  {
+    "topic": "Hunters Point South Park sunset skyline LIC",
+    "reason": "Adjacent park immediately south of Gantry Plaza — better wide-angle of the Pepsi sign + Midtown skyline at golden hour; expands the LIC waterfront cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:46:05.329Z"
+  },
+  {
+    "topic": "Transmitter Park Greenpoint pier sunset Manhattan view",
+    "reason": "Mirror-image waterfront across the Pulaski Bridge — looks back at the Pepsi sign and Midtown from the Brooklyn side; fills the Greenpoint zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:46:05.329Z"
+  },
+  {
+    "topic": "Sweetleaf Coffee LIC Jackson Ave flagship",
+    "reason": "Backup coffee anchor if the waterfront kiosk is closed — well-known LIC indie roaster within walking distance of Gantry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:48:59.367Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park photo pier sunset spot",
+    "reason": "Pairs directly with this café entry — the photo stop itself needs its own corpus entry for itinerary linking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:48:59.367Z"
+  },
+  {
+    "topic": "Hunters Point South Park playground + lawn picnic spot",
+    "reason": "Adjacent park amenity for groups who want longer waterfront downtime around the café stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:48:59.367Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park weekend programming and parking reality check",
+    "reason": "Anchors the LIC waterfront pairing with Rainey Park; user already flagged the shared parking pocket",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:51:13.718Z"
+  },
+  {
+    "topic": "Costco Astoria gas + bathroom pit stop on 35th St",
+    "reason": "Practical buffer stop for drivers heading from IC to LIC waterfront before Rainey/Socrates",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:51:13.718Z"
+  },
+  {
+    "topic": "COFFEED at Brooklyn Grange LIC rooftop (seasonal)",
+    "reason": "Adds a non-park LIC stop within 5 min of Rainey for the same driving cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:51:13.718Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park weekend programming + parking",
+    "reason": "Free waterfront sculpture park 10 min south of Bohemian Hall; natural daytime pair for an Astoria/LIC track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:53:05.616Z"
+  },
+  {
+    "topic": "Noguchi Museum Long Island City weekend hours",
+    "reason": "Indoor art anchor 10 min from Bohemian Hall; rounds out an art→beer garden Queens loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:53:05.616Z"
+  },
+  {
+    "topic": "Astoria Bier & Cheese Ditmars location",
+    "reason": "Walkable backup/overflow drinks stop if Bohemian Hall is at capacity on warm weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:53:05.616Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park LIC",
+    "reason": "Free waterfront sculpture park 2 blocks from Noguchi — natural pairing for a stone-and-garden art track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:54:52.413Z"
+  },
+  {
+    "topic": "MoMA PS1 LIC",
+    "reason": "Contemporary art counterpoint to Noguchi's minimalism, 8 min drive south in same LIC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:54:52.413Z"
+  },
+  {
+    "topic": "Mottainai Coffee LIC",
+    "reason": "Japanese-style cafe near Noguchi — completes a sculpture-then-coffee morning loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:54:52.413Z"
   }
 ]
