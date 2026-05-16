@@ -5771,15 +5771,15 @@
   {
     "id": "threes-brewing-gowanus",
     "name": "Threes Brewing (Gowanus)",
-    "desc": "Flagship Brooklyn brewery with skylit taproom, kitchen by Grand Army South, and a year-round outdoor Yard.",
-    "longDesc": "Threes' Gowanus flagship is a sprawling brewpub at 333 Douglass St with a high-ceilinged main bar, the Tiny Montgomery music room, and The Yard—an outdoor beer garden that's leafy in summer and tented/heated in winter. Beer covers crisp pilsners, IPAs, and barrel-aged sours brewed on-site; food comes from in-house concept Grand Army South (smashburgers, snacks, vegetarian options), with Ninth Street Espresso on the coffee side from 8am.",
+    "desc": "Brewery, beer garden, and small music venue in Gowanus — walkable to Bell House",
+    "longDesc": "Threes' flagship Gowanus spot at 333 Douglass St is a working brewery by day and a brewpub/beer garden/music venue by night, with the in-house Tiny Montgomery stage hosting concerts and DJ nights and Ninth Street Espresso running the coffee bar up front. It sits about a 10-minute walk from The Bell House on 7th St, making it the natural pre-show beer stop on a Gowanus night-out cluster. Check the events page before you go — programming runs from indie-rock bookings to occasional DJ sets in the back room.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
-      "foodie"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
@@ -5787,26 +5787,34 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 12:00-24:00, Sun 12:00-23:00",
-    "notes": "333 Douglass St (between 3rd & 4th Aves), Gowanus border with Park Slope (threesbrewing.com). Kitchen Sat 12-23:00, Sun 12-22:00 — easy walk-in dinner+beer combo. Free street parking is generally findable on weekends in Gowanus but first-come (Yelp reviews). Pairs naturally with Kick Axe Throwing (also Gowanus, ~5 min away) for a 'throw axes → drink local IPAs' loop. Outdoor Yard makes it photo-worthy in warm weather.",
+    "hoursWeekend": "12:00-00:00 (Sat) / 12:00-23:00 (Sun)",
+    "notes": "333 Douglass St, Brooklyn 11217 (Gowanus, just east of 4th Ave / Park Slope edge). Mon-Sat 12p-12a, Sun 12p-11p; Ninth Street Espresso 8a-3p daily (threesbrewing.com/pages/gowanus). In-house music venue 'Tiny Montgomery' books concerts and DJ nights — see events list at threesbrewing.com/pages/public-events (threesbrewing.com). Street parking is inconsistent in Gowanus; paid garages on 3rd Ave are the reliable fallback (spotangels.com). Roughly 0.5 mi / ~10 min walk to The Bell House (149 7th St), so it pairs cleanly as a pre-show beer.",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-16T06:25:00Z"
+        "accessed": "2026-05-16T18:00:00Z"
+      },
+      {
+        "url": "https://threesbrewing.com/pages/public-events",
+        "accessed": "2026-05-16T18:00:00Z"
+      },
+      {
+        "url": "https://www.songkick.com/venues/3356959-threes-brewing-gowanus",
+        "accessed": "2026-05-16T18:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-16T06:25:00Z"
+        "accessed": "2026-05-16T18:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/threes-brewing",
-        "accessed": "2026-05-16T06:25:00Z"
+        "url": "https://www.spotangels.com/nyc/threes-brewing-parking",
+        "accessed": "2026-05-16T18:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:19:55.065Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T18:18:23.192Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -11433,41 +11441,45 @@
   {
     "id": "music-hall-of-williamsburg",
     "name": "Music Hall of Williamsburg",
-    "desc": "650-cap Bowery-run indie rock room two blocks from Brooklyn Bowl with a stacked booking calendar",
-    "longDesc": "Tri-level cocktail-and-concert venue on N 6th run by The Bowery Presents, with a 650 capacity that consistently lands national indie, rock, and electronic acts on their way up. Sightlines are good from the rail and the upstairs mezzanine, sound is sharp, and doors typically open 7pm for an 8pm show. Two paid garages (NYC Parking 22-34 N 6th, Public Parking 27 N 4th) sit within a 3-4 min walk for the IC drive-in crowd.",
-    "url": "https://www.musichallofwilliamsburg.com/",
+    "desc": "Bowery Presents' 550-650 cap tri-level rock club — the next rung above Bell House for touring indie headliners",
+    "longDesc": "Sister venue to Manhattan's Bowery Ballroom, Music Hall of Williamsburg is a tri-level cocktail-and-concert room at 66 N 6th St with bar service on each floor, an industrial-design main room, and lounge seating along the upper balconies. Capacity sits around 550-650 — the size where buzzy indie acts headline before they jump to Brooklyn Steel or Terminal 5. May 2026 lineup includes MUNA's three-night Dancing On the Wall album release run (May 16-18), Grace Ives' Girlfriend Tour (May 19 & 21), Combust (May 15), Snuffed On Sight (May 14), and Hit the Lights (May 13).",
+    "url": "https://www.musichallofwilliamsburg.com/calendar/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "curious",
       "chill",
-      "romantic"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "2-3 hr",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "19:00-23:30 (doors 7pm, show 8pm)",
-    "notes": "66 N 6th St, Brooklyn NY 11211; ~650 cap, tri-level w/ balcony (axs.com). Box office hours Mon-Sat 10:00-21:00. Bowery Presents booking — same family as Bowery Ballroom & Mercury Lounge, so calendar skews indie/alt with frequent sellouts; check site for date-of-show. Closest parking: NYC Parking Garage Corp 22/34 N 6th (3 min walk) and Public Parking 27 N 4th (4 min walk). Two blocks from Brooklyn Bowl — pair the two for a music-anchored Williamsburg night.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "doors typically 6-8pm; box office Sat 11:00-18:00",
+    "notes": "Bowery Presents room at 66 N 6th St, Brooklyn 11211 (musichallofwilliamsburg.com calendar). No house parking — street parking + alternate-side rules apply; SpotHero has reservable garages nearby, easier than Bowery Ballroom (vividseats parking page). Tri-level layout with cocktail tables means standing room downstairs / sightline seating up top. Saturday-night MUNA album release run (May 16-18) is the standout weekend draw; Grace Ives' Girlfriend Tour (May 21) fits the same indie-pop pocket. 18 min from Industry City via Brooklyn-Queens Expy off-peak; weekend show traffic adds ~5 min. Sister to Bowery Ballroom; books one tier above Bell House (~350) and below Brooklyn Steel (~1,800).",
     "sources": [
       {
-        "url": "https://www.musichallofwilliamsburg.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.musichallofwilliamsburg.com/calendar/",
+        "accessed": "2026-05-16T18:05:00Z"
       },
       {
-        "url": "https://www.axs.com/venues/125933/music-hall-of-williamsburg-brooklyn-tickets",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.bowerypresents.com/venues/music-hall-of-williamsburg",
+        "accessed": "2026-05-16T18:05:00Z"
       },
       {
-        "url": "https://www.brooklyn-theater.com/theaters/musichallofwilliamsburg/location.php",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.musichallofwilliamsburg.com/contact-us/",
+        "accessed": "2026-05-16T18:05:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/music-hall-of-williamsburg-parking",
+        "accessed": "2026-05-16T18:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:50:11.732Z"
+    "lastResearchedAt": "2026-05-16T18:16:18.803Z"
   },
   {
     "id": "royal-palms-shuffleboard-club",
@@ -16043,5 +16055,138 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T17:57:59.365Z"
+  },
+  {
+    "id": "fort-defiance",
+    "name": "Fort Defiance (PERMANENTLY CLOSED)",
+    "desc": "Historic Red Hook cocktail bar + brunch — shuttered Dec 2023 after 15 years; do not route.",
+    "longDesc": "Fort Defiance was a beloved Red Hook cocktail bar and brunch spot at 347 Van Brunt St that ran from 2008 to late 2023. Owner St. John Frizell announced closure in Nov 2023 with the line 'don't ask why we're closing — ask how in the hell we managed to stay open for as long as we did' (bkmag.com). Yelp's Apr 2026 listing confirms CLOSED status; no reopening announced. Note: the 'Friends Of Fort Defiance' nonprofit at fortdefiance.org is an unrelated Red Hook environmental/historic-preservation group, not the bar.",
+    "url": "https://www.yelp.com/biz/fort-defiance-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "romantic",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "n/a (closed)",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "CLOSED — permanently shuttered Dec 2023",
+    "notes": "DO NOT INCLUDE in itineraries. Permanently closed Nov/Dec 2023 (bkmag.com, 2023-11-23). Yelp Apr 2026 update still shows CLOSED. Address 347 Van Brunt St, Red Hook. Owner: St. John Frizell. Historic cocktail+brunch niche should be backfilled by Red Hook Tavern or Hope & Anchor in this zone. Keeping this record so re-scrapers don't re-promote it.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/fort-defiance-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2023/11/23/fort-defiance-a-red-hook-stalwart-is-closing-after-15-years/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://fortdefiance.org/home",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T18:01:11.902Z"
+  },
+  {
+    "id": "house-of-yes",
+    "name": "House of Yes",
+    "desc": "Theatrical immersive nightclub with aerialists, costumed dancers, and themed late-night parties in Bushwick.",
+    "longDesc": "House of Yes is Brooklyn's most celebrated performance-fueled nightclub — a costume-encouraged warehouse venue where aerial silk performers, burlesque dancers, and DJs share the stage on themed nights like Dirty Circus and House of Love. Located on the Bushwick/Ridgewood border at the Jefferson L stop, it's a rare-find venue with a strict consent-forward door policy and a reputation as the canonical NYC immersive nightlife destination. Pairs naturally with Sultan Room around the corner for a Bushwick late-night cluster.",
+    "url": "https://www.houseofyes.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "curious",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-4 hrs",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Fri-Sat 19:00-04:00",
+    "notes": "Address: 2 Wyckoff Ave (entrance at 408 Jefferson St), Brooklyn 11237. Cover varies $0-40 depending on event; tickets via houseofyes.org (source: discotech.me). No on-site parking — street parking is very limited; LAZ Denizen Garage nearby is the most reliable option (source: spotangels.com). Costume/dress-up strongly encouraged on themed nights. Drive from Industry City via BQE ~20 min off-peak.",
+    "sources": [
+      {
+        "url": "https://www.houseofyes.org/",
+        "accessed": "2026-05-16T18:00:00Z"
+      },
+      {
+        "url": "https://discotech.me/brooklyn/house-of-yes/",
+        "accessed": "2026-05-16T18:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/House_of_Yes_(Brooklyn)",
+        "accessed": "2026-05-16T18:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/house-of-yes-parking",
+        "accessed": "2026-05-16T18:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/house-of-yes-brooklyn",
+        "accessed": "2026-05-16T18:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T18:20:16.279Z"
+  },
+  {
+    "id": "turks-inn-bushwick",
+    "name": "The Turk's Inn",
+    "desc": "Bushwick recreation of the legendary Wisconsin supper club — steaks meet Silk Road, kitschy Ottoman decor.",
+    "longDesc": "A faithful Brooklyn revival of the iconic Hayward, WI supper club (1934-2014), rebuilt from salvaged neon, the original bar, and decades of stored memorabilia by owners who grew up dining there. The menu pairs supper-club Americana (steaks, relish trays) with Anatolian and Silk Road dishes, served under '70s kitsch chandeliers and faux-Ottoman murals. Shares its address and kitchen with The Sultan Room music venue and the Doner Kebab to-go counter — the natural pre-show dinner anchor.",
+    "url": "https://turksnyc.com/",
+    "photoUrl": "https://turksnyc.com/wp-content/uploads/2019/07/65A8580-F-1024x683.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Fri-Sat 18:00-00:00, Sun 18:00-23:00",
+    "notes": "Same address/owners as Sultan Room (234 Starr St) — book dinner before a show for a single-stop night (turksnyc.com/about). Street parking around Starr/Wyckoff is generally available on weekend evenings; Jefferson L is half a block away. Closed Mon-Tue. Menu rotates seasonally but always includes a steak-for-two and a relish tray callback to the original Wisconsin spot (gothamist.com).",
+    "sources": [
+      {
+        "url": "https://turksnyc.com/about/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/inside-turks-inn-a-bushwick-recreation-of-the-kitschy-wisconsin-supper-club",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://coolhunting.com/food-drink/turks-inn-bushwick-supper-club/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://aninteriormag.com/the-turks-inn-graces-brooklyn-with-a-70s-supper-club-and-jazzy-music-venue-straight-from-wisconsin/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T18:22:21.451Z"
   }
 ]
