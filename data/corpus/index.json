@@ -8338,41 +8338,40 @@
   {
     "id": "pioneer-works",
     "name": "Pioneer Works",
-    "desc": "Free Red Hook art + science center with rotating exhibitions, garden, and weekend programming",
-    "longDesc": "A multidisciplinary cultural center inside a 25,000 sq ft former ironworks at 159 Pioneer Street, hosting contemporary art exhibitions, a sculpture garden, residencies, music sets, and public science talks. Galleries and garden are free and open Wed–Sun, 12–6pm, with the bulk of programming (~85% of funds) kept free or affordable. Easy 10–12 min drive from Industry City and a natural anchor for a Red Hook track that pairs well with food/drink on Van Brunt.",
+    "desc": "Free contemporary art and science center in a converted Red Hook ironworks, with exhibitions and garden.",
+    "longDesc": "Pioneer Works is a nonprofit cultural center occupying a cavernous 19th-century ironworks at 159 Pioneer St in Red Hook. Galleries and the back garden are open Wednesday-Sunday 12-6pm with free admission; rotating exhibitions span contemporary art, music, and science programming. Street parking is generally easy in Red Hook, and it's a 10-minute drive from Industry City — making it an ideal culture stop between Defonte's lunch and Hometown BBQ.",
     "url": "https://pioneerworks.org/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "curious",
-      "chill",
-      "photo"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "60-90 min",
-    "driveFromIC": "11 min",
+    "duration": "45-75 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "12:00-18:00",
-    "notes": "159 Pioneer St, Red Hook. Galleries + garden free, Wed–Sun 12–6pm (pioneerworks.org/visit). Ticketed concerts/Second Sundays run separately — check calendar before slotting. Street parking on Pioneer/Van Brunt usually open on weekends; pairs naturally with Hometown BBQ, Brooklyn Crab, or Sunny's nearby.",
+    "notes": "Free admission to galleries and garden, Wed-Sun 12-6pm (pioneerworks.org/visit). 159 Pioneer St, Red Hook. Street parking in Red Hook is typically easy on weekends since there is no subway access. Pairs naturally with Defonte's (5-min drive) and Hometown BBQ (3-min drive). Ticketed evening events (concerts, talks) are listed separately on the calendar.",
     "sources": [
       {
         "url": "https://pioneerworks.org/visit",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T15:40:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/pioneer-works-red-hook",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
+        "accessed": "2026-05-16T15:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:52:38.760Z"
+    "lastResearchedAt": "2026-05-16T15:43:46.266Z"
   },
   {
     "id": "louis-valentino-jr-park-pier",
@@ -13745,5 +13744,198 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T15:34:03.552Z"
+  },
+  {
+    "id": "buttermilk-channel-closed",
+    "name": "Buttermilk Channel (Permanently Closed)",
+    "desc": "Former Carroll Gardens New American bistro at 524 Court St — closed as of 2026; not bookable.",
+    "longDesc": "Buttermilk Channel was a beloved Carroll Gardens neighborhood bistro known for buttermilk fried chicken on cheddar waffle, duck meatloaf, and a $38 three-course Monday prix fixe. Multiple sources confirm it has permanently closed: Yelp marks the 524 Court St listing CLOSED and The Infatuation's review now opens with 'this restaurant is permanently closed.' Stale OpenTable/Resy/visitbrooklyn shells still surface in search but no active service. Do not promote to a card — re-anchor Carroll Gardens with Popina, Long Island Bar, or Frankies 457.",
+    "url": "https://www.theinfatuation.com/new-york/reviews/buttermilk-channel",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "PERMANENTLY CLOSED — flagged via Yelp tag (yelp.com/biz/buttermilk-channel-brooklyn) and The Infatuation review header (theinfatuation.com/new-york/reviews/buttermilk-channel). Resy venue page now returns only nav chrome with no booking widget, consistent with deprecated venues. Historic anchor strengths (group-friendly bistro, $38 Monday three-course, easier weeknight rezzo than Frankies) are gone — see enqueue for live replacements at the same neighborhood and price tier.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/buttermilk-channel-brooklyn",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/buttermilk-channel",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/buttermilk-channel",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/buttermilk-channel-brooklyn",
+        "accessed": "2026-05-16T15:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T15:37:54.881Z"
+  },
+  {
+    "id": "steves-authentic-key-lime-pie",
+    "name": "Steve's Authentic Key Lime Pie",
+    "desc": "Fresh-squeezed key lime pies at the end of Van Dyke St, next to Valentino Pier — home of the chocolate-dipped Swingle.",
+    "longDesc": "Tucked at Pier 41 where Van Dyke Street dead-ends into NY Harbor, Steve's has been the Red Hook destination dessert since the late '90s. Order a Swingle — a frozen single-serve key lime pie dipped in Belgian dark chocolate, on a stick — and eat it on the brightly painted picnic tables out front with the Statue of Liberty in your sightline (theinfatuation.com; nyctourism.com). Pairs naturally as the third stop after Defonte's heroes and a Hometown BBQ side, all within a 7-minute walk.",
+    "url": "https://keylime.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "photo",
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat-Sun 11:00-20:00",
+    "notes": "Address: 185 Van Dyke St, Brooklyn NY 11231 (keylime.com/stores/locations). Weekend hours Sat 11-20:00, Sun 11-20:00 (yelp.com). Pier 41 / Valentino Park location has small adjacent parking lot but spaces fill fast on summer weekends — street parking on Van Dyke and Conover is usually findable (novacircle.com). Cash-friendly counter; pies sold in 4\", 8\", 10\" plus the signature Swingle ($6-ish) and frozen tarts. ~12 min drive from Industry City via 3rd Ave → Hamilton Ave → Van Brunt → Van Dyke. Sequencing tip: pair with Valentino Pier sunset photo stop immediately after — they're literally next door (redhookwaterstories.org).",
+    "sources": [
+      {
+        "url": "https://keylime.com/stores/locations/",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/steve-s-authentic-key-lime-pie-brooklyn",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/steves-authentic-key-lime-pies",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/steves-authentic-key-lime-pies/",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.novacircle.com/spots/north-america/united-states/new-jersey/jersey-city/jersey-city-nj/steves-authentic-key-lime-pies-7c4848",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://redhookwaterstories.org/items/show/1814",
+        "accessed": "2026-05-16T15:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T15:40:02.821Z"
+  },
+  {
+    "id": "sunnys-bar",
+    "name": "Sunny's Bar",
+    "desc": "Red Hook waterfront dive since 1890 with a Saturday-night bluegrass jam at 9pm",
+    "longDesc": "Sunny's is an unpretentious harborside saloon a block from the Red Hook piers, in the same family since 1890 and packed with nautical bric-a-brac and a back room built for live music. Saturdays climax with the long-running bluegrass/folk/country jam at 9pm; weekend hours are Sat noon-1am and Sun noon-midnight, which makes it a natural closing scene for a Red Hook track. Free street parking is usually findable on Conover and the surrounding cobblestone blocks.",
+    "url": "https://www.sunnysredhook.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-00:00",
+    "notes": "Saturday bluegrass jam starts ~9pm in the back room; live music nightly except Mondays, typically 8-10pm (sunnysredhook.com). Cash-friendly, intimate dive vibe — small space, can fill up after 8pm so arriving by 8:30 secures a seat. Free street parking on Conover/Beard/Reed; the cobblestone blocks are dim — share a pin when meeting friends. Address: 253 Conover St, Brooklyn 11231; phone (718) 625-8211 (yelp.com). Pairs naturally after a Red Hook dinner (Hometown BBQ, Defonte's) and waterfront sunset at Louis Valentino Jr. Pier.",
+    "sources": [
+      {
+        "url": "https://www.sunnysredhook.com/",
+        "accessed": "2026-05-16T15:35:00Z"
+      },
+      {
+        "url": "https://www.sunnysredhook.com/calendar/",
+        "accessed": "2026-05-16T15:35:00Z"
+      },
+      {
+        "url": "https://www.sunnysredhook.com/location/sunnys-bar/",
+        "accessed": "2026-05-16T15:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunnys-bar-brooklyn",
+        "accessed": "2026-05-16T15:35:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunny's_Bar",
+        "accessed": "2026-05-16T15:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/sunnys-bar/",
+        "accessed": "2026-05-16T15:35:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/sunnys",
+        "accessed": "2026-05-16T15:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T15:41:58.671Z"
+  },
+  {
+    "id": "the-good-fork-pub",
+    "name": "The Good Fork Pub",
+    "desc": "Korean-American pub on Van Brunt — gochujang cheesesteaks, KFC, kimchi beer cheese in a cozy Red Hook room.",
+    "longDesc": "Reborn in 2022 from the original 2006 Good Fork, this Sohui Kim–run pub keeps the Korean-American DNA: a 'Korean (by way of Philly) Cheesesteak' with gochujang short rib and kimchi mayo, pork-and-chive dumplings, Korean fried chicken, and kimchi beer cheese with fried wontons. The intimate train-car-shaped dining room and back garden make it one of Red Hook's most reliable sit-down dinners, with a full bar and weekend lunch service.",
+    "url": "https://www.goodfork.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "12:00-00:00",
+    "notes": "Address 391-393 Van Brunt St, Brooklyn NY 11231; phone (347) 786-9896 (goodfork.com). Reopened as 'The Good Fork Pub' in July 2022 after the original Good Fork closed in 2020 — Korean-American direction preserved, format more casual (bkmag.com). Weekend hours Sat–Sun 12:00pm–12:00am (goodfork.com). Signature item is the gochujang short-rib cheesesteak with kimchi mayo; KFC and kimchi beer cheese are also Yelp standouts (yelp.com). Red Hook street parking is generally available on weekends along Van Brunt and side streets — no dedicated lot.",
+    "sources": [
+      {
+        "url": "https://www.goodfork.com/location/the-good-fork-brooklyn/",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2022/07/27/the-good-fork-reopens-as-the-good-fork-pub/",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-good-fork-pub-brooklyn-2",
+        "accessed": "2026-05-16T15:40:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/the-good-fork-pub",
+        "accessed": "2026-05-16T15:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T15:45:55.816Z"
   }
 ]
