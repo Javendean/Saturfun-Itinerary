@@ -20,8 +20,8 @@ binding = "AI"
 # Then paste the returned `id` and `preview_id` below.
 [[kv_namespaces]]
 binding = "RATE_LIMIT"
-id = "REPLACE_WITH_PROD_KV_ID"
-preview_id = "REPLACE_WITH_PREVIEW_KV_ID"
+id = "1577fae17462426582ffc7512460ad27"
+preview_id = "91b30d15096e439d875bb1c8218d64e4"
 
 # ---- Vars ----------------------------------------------------------------
 # Tunable knobs. Override per-environment with `[env.<name>.vars]` if needed.

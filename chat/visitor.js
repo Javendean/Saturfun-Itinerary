@@ -26,7 +26,7 @@ const TEXT_EMBED_MODEL = 'Xenova/all-MiniLM-L6-v2';
 const LLM_MODEL = 'Llama-3.2-3B-Instruct-q4f16_1-MLC';
 const TOP_K = 5;
 const COSINE_FALLBACK_THRESHOLD = 0.4;        // below -> suggest research
-const WORKER_FALLBACK_URL = '/api/chat';      // Cloudflare Worker (separate agent)
+const WORKER_FALLBACK_URL = 'https://saturfun-worker.javendean.workers.dev/api/chat';  // Cloudflare Worker (deployed 2026-05-16)
 const VISITOR_CSS_HREF = 'chat/visitor.css';
 
 // CDN sources — pinned for reproducibility. esm.run is jsDelivr's ESM gateway;
