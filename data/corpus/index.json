@@ -4966,49 +4966,49 @@
   },
   {
     "id": "sahadis-industry-city",
-    "name": "Sahadi's at Industry City",
-    "desc": "Iconic Middle Eastern grocer + sajj-and-mezze counter inside IC's Food Hall — browse bulk spices, then eat.",
-    "longDesc": "The Industry City outpost of the legendary Atlantic Ave specialty grocer pairs a full retail floor of bulk nuts, dried fruit, olives, spices and pantry imports with an open-kitchen Mediterranean kitchen turning out sajj wraps, hummus bowls, mezze platters, deli combos and shawarma. Sit-down service includes weekend brunch (Sat–Sun 11am–3:30pm), a tap-wine/tap-beer bar with weekday happy hour (4–6pm), and cocktails — making it a rare grocery-as-restaurant browse stop walkable to BOOKOFF and the IC courtyards (sahadis.com, industrycity.com).",
-    "url": "https://industrycity.com/tenants/sahadis/",
+    "name": "Sahadi's Industry City",
+    "desc": "Second-gen Middle Eastern grocer's IC outpost — mezze bar, brunch, and pantry shop under one roof.",
+    "longDesc": "The 121-year-old Atlantic Ave institution's Industry City spin-off pairs a full-service cafe and bar with a curated grocery (olives, spices, prepared foods). Weekend brunch runs 11am–3:30pm with shakshuka, labneh, and house pita; the bar pours arak cocktails and natural wines until early evening. Sits in the same IC courtyard as Carreau, so zero drive time between stops.",
+    "url": "https://sahadis.com/pages/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian",
       "vegan"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
-    "driveFromIC": "0 min (inside IC, walkable from BOOKOFF)",
-    "hoursWeekend": "11:00-19:00 (brunch service 11:00-15:30 Sat/Sun)",
-    "notes": "Address: 34 35th St, Building 4 — same Industry City campus as BOOKOFF, so this slots in as a no-drive add-on to that leg (industrycity.com). Strong dietary coverage: hummus bowls, mezze, falafel, salad bowls all vegetarian/vegan; pita and grain bowls available. Bulk spice + olive wall and Middle Eastern pantry imports are the 'curious browse' draw distinct from BOOKOFF's manga/CDs. Closes at 7pm — schedule before evening drinks legs (sahadis.com/pages/locations). Phone (718) 788-7500.",
+    "duration": "45-75 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "Inside Industry City at 52 35th St, Brooklyn NY 11232 (sahadis.com). Weekend brunch 11am-3:30pm Sat/Sun (sahadis.com). Grocery + cafe + bar + events space; live music calendar on site (sahadis.com). Pairs naturally with Carreau as adjacent stop — both inside IC building cluster, walkable courtyard, no drive needed. Outpost of the 1948 Atlantic Ave original; opened at IC as a fuller dine-in concept (gothamist.com, 6sqft.com).",
     "sources": [
       {
-        "url": "https://industrycity.com/tenants/sahadis/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/sahadis-industry-city-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T06:30:00Z"
       },
       {
         "url": "https://sahadis.com/pages/brunch-bar-menu",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T06:30:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/inside-the-glorious-new-sahadis-in-industry-city",
+        "accessed": "2026-05-16T06:30:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/121-year-old-middle-eastern-grocery-sahadis-opens-second-brooklyn-location-at-industry-city/",
+        "accessed": "2026-05-16T06:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T05:29:34.904Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T06:31:01.434Z"
   },
   {
     "id": "micol-ceramics",
@@ -5777,45 +5777,43 @@
   {
     "id": "brooklyn-bowl-williamsburg",
     "name": "Brooklyn Bowl",
-    "desc": "16-lane bowling alley + live music venue in a converted Williamsburg ironworks — recycled-tire stage floor.",
-    "longDesc": "Brooklyn Bowl pairs 16 lanes of bowling with a 600-cap concert hall under one roof at 61 Wythe Ave, the only LEED-certified bowling alley in the U.S. Weekend afternoons run a free Family Bowl (Sat 12–5pm, Sun 1–6pm) before the 21+ shows roll in after 6pm. Walk-in lanes are $35/half hour Fri–Sun (up to 8 per lane) plus $5.95 shoes; reserve ahead on busy weekends.",
+    "desc": "16-lane bowling alley fused with a live-music venue and Blue Ribbon fried-chicken kitchen.",
+    "longDesc": "Brooklyn Bowl is a Williamsburg landmark on Wythe Ave that combines 16 bowling lanes, a 600-capacity concert stage hosting national touring acts, and a full kitchen run by Blue Ribbon (the fried chicken is the signature order). Weekend mornings/early afternoons are family-friendly via the all-ages 'Family Bowl' (Sat 12-5pm, Sun 12-6pm); after 6pm the room flips 21+ and the music programming takes over. Bowling is reserved by the half-hour lane (8 guests max per lane).",
     "url": "https://www.brooklynbowl.com/brooklyn/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "active",
-      "chill",
-      "curious"
+      "foodie",
+      "chill"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "1.5-2 hr",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 12:00-Close, Sun 12:00-Close",
-    "notes": "Family Bowl free entry Sat 12-5pm / Sun 1-6pm — all ages welcome before 6pm (brooklynbowl.com/brooklyn-faqs). Weekend bowling $35/lane/30min, 8 guests/lane, +$5.95 shoes (brooklynbowl.com/brooklyn-bowling). 21+ after 6pm. No dedicated lot — paid garages and street parking nearby on N 11th/N 12th; ~$15-25 evening (nyctourism.com). Cashless except box office. Drive from IC ~22 min via BQE.",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-02:00, Sun 11:00-23:00",
+    "notes": "Address: 61 Wythe Ave, Brooklyn, NY 11249 (Yelp / Apple Maps). Bowling: $30-$35 per lane per half hour, up to 8 guests (brooklynbowl.com FAQ). All-ages Family Bowl Sat 12-5pm / Sun 12-6pm; 21+ after 6pm (brooklynbowl.com FAQ). No dedicated lot — use paid garages on N 11th/Wythe or street parking, which is generally findable on weekend afternoons but tight after 7pm when shows start (brooklynbowl.com FAQ). Best fit for Saturfun: pair an early-evening Family Bowl block with a ticketed show, or use as a late-evening anchor after a Williamsburg food stop. Closed Mon/Tue.",
     "sources": [
       {
         "url": "https://www.brooklynbowl.com/brooklyn-faqs",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.brooklynbowl.com/brooklyn-bowling",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T06:35:00Z"
       },
       {
         "url": "https://www.brooklynbowl.com/brooklyn/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T06:35:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/nightlife/brooklyn-bowl/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/brooklyn-bowl-brooklyn",
+        "accessed": "2026-05-16T06:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:22:19.664Z"
+    "lastResearchedAt": "2026-05-16T06:39:38.620Z"
   },
   {
     "id": "sip-and-play-park-slope",
@@ -5940,5 +5938,134 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T06:29:09.333Z"
+  },
+  {
+    "id": "levant-on-smith",
+    "name": "Levant on Smith",
+    "desc": "French-Mediterranean bistro on Smith Street pairing prix-fixe classics with Provençal flair.",
+    "longDesc": "A warm, low-lit French bistro at 223 Smith Street that blends traditional French cuisine — beef bourguignon, coq au vin, duck confit — with Mediterranean mezze-style plates and seafood. Dinner runs a $59 three-course prix fixe Sunday–Thursday, with brunch on weekends and a 3–6pm daily happy hour, making it an easy thematic pair with Carreau's Provençal lean (timeout.com).",
+    "url": "https://www.levantonsmith.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat brunch 11:00-16:00, Sun brunch 10:00-16:00; dinner nightly",
+    "notes": "French-Mediterranean fusion explicitly stated by the restaurant — a thematic mirror to Carreau's Provençal lean (levantonsmith.com). $59 prix fixe Sun-Thu dinner, $34 prix fixe lunch (levantonsmith.com). Smith St has free weekend street parking and is ~10-12 min from Industry City via 3rd Ave/Hamilton.",
+    "sources": [
+      {
+        "url": "https://www.levantonsmith.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/levant",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/levant-on-smith/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/levant-on-smith-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:33:17.445Z"
+  },
+  {
+    "id": "japan-village-industry-city",
+    "name": "Japan Village at Industry City",
+    "desc": "20,000 sq ft Japanese food hall + Sunrise Mart inside IC — rainy-day indoor anchor with ramen, sushi, and izakaya stalls.",
+    "longDesc": "Japan Village occupies Buildings 3-4 of Industry City with a back-alley-style food hall (ramen, okonomiyaki, sushi, Japanese bakery, juice/salad bar) anchored by Sunrise Mart for groceries, sake, homemade tofu, and Japanese beef. Decorative ceiling flags, lantern-lit stalls, and the market aisles make it one of the most photo-friendly indoor spots in the IC complex — ideal for foodie + photo tracks on rainy days when you want everything under one roof. Walking distance from any other IC anchor, so it slots seamlessly into a multi-stop IC day.",
+    "url": "https://www.japanvillage.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Located at 934 3rd Ave, Buildings 3 & 4 inside Industry City (industrycity.com). Food hall hours Fri-Sat 11a-8:30p per japanvillage.com; Sunrise Mart open until 9p Fri-Sat. 11 food vendors plus market, izakaya pub, and Japanese liquor store (brooklynbased.com). Strong rainy-day fallback — no driving needed if already at IC; pair with Industry City courtyard or rooftop after.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T06:35:21.626Z"
+  },
+  {
+    "id": "the-gutter-williamsburg",
+    "name": "The Gutter",
+    "desc": "Dive-bar bowling alley in north Williamsburg with wood lanes, pool tables, and a 4am last call.",
+    "longDesc": "The Gutter is a no-frills, vintage-feeling bowling bar at 200 N 14th St on the Williamsburg/Greenpoint border. Wood lanes, pool tables, a stocked beer-and-shot bar, and a hidden event space called The Spare Room give it the grimy charm a polished Brooklyn Bowl doesn't have. 21+ only; weekends are $35 per half-hour per lane, doors at noon, last call at 4am.",
+    "url": "https://gutterbarbowl.com/williamsburg",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6924b5e6cc75dd27246cca94/ed2650bf-e861-4794-990a-80fb656ec19e/BK+pools+2.png",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "1.5-2 hr",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "12:00-04:00",
+    "notes": "200 N 14th St, Brooklyn 11249; 21+ at all times (gutterbarbowl.com/williamsburg). Weekend bowling $35/half-hour per lane (gutterbarbowl.com). Drive from IC ~20 min via BQE; no lot — street parking only in north Williamsburg on weekends, expect to circle. Lanes are first-come, no reservations (timeout.com). Pair with a Wburg dinner/drinks stop to justify the drive.",
+    "sources": [
+      {
+        "url": "https://gutterbarbowl.com/williamsburg",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-gutter-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/the-gutter-bowling-alley-and-bar",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T06:37:36.690Z"
   }
 ]

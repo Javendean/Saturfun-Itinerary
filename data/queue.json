@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Re-research existing venue: Sahadi's Industry City",
-    "reason": "Pairs naturally with Carreau as a low-effort food stop in the same IC building cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:18:44.978Z"
-  },
-  {
-    "topic": "Best driving-friendly French/Mediterranean bistro within 15 min of Industry City",
-    "reason": "Carreau leans Provençal — a thematic dinner pairing would round out a track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:18:44.978Z"
-  },
-  {
-    "topic": "Re-research existing venue: Japan Village at Industry City",
-    "reason": "Another IC indoor anchor with strong photo + foodie payoff for rainy-day fallback tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:18:44.978Z"
-  },
-  {
-    "topic": "The Gutter Williamsburg bowling bar",
-    "reason": "Adjacent vintage-bowling alternative within 20-min drive for night-out tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:20:28.699Z"
-  },
-  {
-    "topic": "Brooklyn Bowl Williamsburg live-music bowling",
-    "reason": "Complements bowling cluster with food + music angle for evening itineraries",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:20:28.699Z"
-  },
-  {
     "topic": "Sake Bar Oldies Industry City — late-night sake + vinyl bar adjacent to WakuWaku",
     "reason": "Natural second-stop pairing inside the same IC courtyard; extends a foodie/photo track into a drinks finale.",
     "requestedBy": "agent",
@@ -1114,5 +1084,95 @@
     "reason": "Driving-radius corpus needs zone-level parking notes for Williamsburg stops like Twenty Sided",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T06:29:09.338Z"
+  },
+  {
+    "topic": "Japan Village inside Industry City — food hall + sake bar",
+    "reason": "Same IC courtyard cluster as Sahadi's and Carreau; extends the 'food crawl without driving' angle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:31:01.440Z"
+  },
+  {
+    "topic": "Brooklyn Kura sake brewery at Industry City",
+    "reason": "Drinks-forward IC anchor; pairs with Sahadi's brunch as an afternoon pivot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:31:01.440Z"
+  },
+  {
+    "topic": "Sunset Park's Eighth Avenue dim sum corridor — best weekend pick",
+    "reason": "10-min drive from IC; expands the foodie-zone corpus beyond the IC building itself",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:31:01.440Z"
+  },
+  {
+    "topic": "Olivier Bistro Park Slope 4th Avenue classic French bistro",
+    "reason": "Closer to IC (~8 min drive), more classically Parisian than Provençal — useful contrast for a French track variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:33:17.450Z"
+  },
+  {
+    "topic": "Bar Bête Carroll Gardens Paris-inspired 50-seat bistro",
+    "reason": "Intimate Smith-area alternative if Levant is booked; covers the date-night French slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:33:17.450Z"
+  },
+  {
+    "topic": "La Cigogne Carroll Gardens Alsatian French wine bar",
+    "reason": "Regional French (Alsace) expands the bistro corpus beyond Provençal/Parisian defaults",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:33:17.450Z"
+  },
+  {
+    "topic": "Sunrise Mart Brooklyn (inside Japan Village)",
+    "reason": "Standalone grocery/photo stop within Japan Village — distinct enough to seed as its own micro-anchor for shopping-focused tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:35:21.632Z"
+  },
+  {
+    "topic": "Mokbar Industry City ramen",
+    "reason": "Adjacent Korean-Mexican ramen stall in IC — complementary indoor foodie anchor for rainy-day tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:35:21.632Z"
+  },
+  {
+    "topic": "Industry City Summer Fest / Japan Village events calendar",
+    "reason": "Seasonal pop-ups (Summer Fest, Winter Wonderland holiday market) drive weekend-specific itinerary variants",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:35:21.632Z"
+  },
+  {
+    "topic": "Royal Palms Shuffleboard Club Gowanus",
+    "reason": "Closer-to-IC retro-bar-game alternative (~10 min drive in Gowanus) — same 'active dive' energy with shuffleboard instead of bowling, fills the night-out slot without the BQE haul",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:37:36.696Z"
+  },
+  {
+    "topic": "Brooklyn Bowl Williamsburg",
+    "reason": "Polished bowling-plus-live-music counterpoint in the same zone; useful for a higher-budget night-out variant when groups want food + a show with their lanes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:37:36.696Z"
+  },
+  {
+    "topic": "The Spare Room at The Gutter Williamsburg",
+    "reason": "Hidden private event space inside the same venue — worth a separate entry for group-booking tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:37:36.696Z"
+  },
+  {
+    "topic": "The Gutter Williamsburg dive-bar bowling",
+    "reason": "8-lane indie alternative to Brooklyn Bowl — same neighborhood cluster, smaller and cheaper, fits chill/curious vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:39:38.626Z"
+  },
+  {
+    "topic": "Music Hall of Williamsburg live music venue",
+    "reason": "Bowery-run mid-size room two blocks from Brooklyn Bowl; same evening cluster, no bowling but stronger indie booking calendar",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:39:38.626Z"
+  },
+  {
+    "topic": "Bar Blondeau rooftop at Wythe Hotel",
+    "reason": "Pre-show drinks one block from Brooklyn Bowl with East River + Manhattan skyline view — completes a Williamsburg evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:39:38.626Z"
   }
 ]
