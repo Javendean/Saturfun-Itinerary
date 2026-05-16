@@ -353,6 +353,292 @@
             .place-meta-rail { gap: 0.5rem; }
             .checkpoint-zone-strip { letter-spacing: 0.18em; }
         }
+
+        /* ============================================================
+           CURATED DAY TRACKS — picker, cards, filter-state styles.
+           Lives between the hero and the itinerary list. The goal is
+           a planning surface: pick a track, watch the catalog
+           highlight one coherent thread through the 68 venues.
+           ============================================================ */
+        #track-picker {
+            background: #FFFFFF;
+            border-top: 1px solid rgba(0,0,0,0.05);
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+            padding: 5rem 0 4rem;
+        }
+        .track-picker-intro {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        .track-picker-eyebrow {
+            display: inline-block;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            color: var(--accent);
+            font-weight: 600;
+            margin-bottom: 0.85rem;
+        }
+        .track-picker-headline {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: clamp(1.5rem, 3vw, 2.25rem);
+            line-height: 1.25;
+            color: var(--text-main);
+            max-width: 36rem;
+            margin: 0 0 0.5rem;
+            font-weight: 400;
+        }
+        .track-picker-sub {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            max-width: 40rem;
+            font-weight: 300;
+            line-height: 1.6;
+            margin: 0;
+        }
+
+        .track-scroll {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+            gap: 1.25rem;
+            padding: 2rem 2rem 1rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            scroll-behavior: smooth;
+            -webkit-overflow-scrolling: touch;
+        }
+        .track-scroll::-webkit-scrollbar { height: 6px; }
+        .track-scroll::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 4px; }
+        .track-scroll::-webkit-scrollbar-thumb { background: #d4d4d4; border-radius: 4px; }
+
+        .track-card {
+            flex: 0 0 auto;
+            width: 280px;
+            min-height: 200px;
+            background: var(--bg-color);
+            border: 1px solid rgba(0,0,0,0.08);
+            border-radius: 6px;
+            padding: 1.25rem 1.25rem 1.1rem;
+            text-align: left;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            gap: 0.85rem;
+            transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease, background 0.25s ease;
+            font-family: 'Inter', sans-serif;
+            color: var(--text-main);
+            position: relative;
+        }
+        .track-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.07);
+            border-color: rgba(212, 175, 55, 0.45);
+        }
+        .track-card[data-active="true"] {
+            border-color: var(--accent);
+            background: #FFFDF6;
+            box-shadow:
+                0 0 0 1px var(--accent),
+                0 14px 32px rgba(212, 175, 55, 0.18);
+        }
+        .track-card .track-icon {
+            font-size: 1.5rem;
+            line-height: 1;
+            margin-bottom: 0.1rem;
+        }
+        .track-card .track-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.35rem;
+            line-height: 1.15;
+            font-weight: 600;
+            margin: 0 0 0.4rem;
+            color: var(--text-main);
+        }
+        .track-card .track-blurb {
+            font-size: 0.83rem;
+            line-height: 1.5;
+            color: var(--text-muted);
+            font-weight: 300;
+            margin: 0;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .track-card .track-stats {
+            display: flex;
+            align-items: center;
+            gap: 0.55rem;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--text-muted);
+            font-weight: 500;
+            font-variant-numeric: tabular-nums;
+            padding-top: 0.6rem;
+            border-top: 1px solid rgba(0,0,0,0.06);
+        }
+        .track-card .track-stats .track-sep {
+            opacity: 0.4;
+        }
+
+        /* "All Options" pseudo-track — reset affordance, anchored as first card. */
+        .track-card.is-all-options {
+            background: transparent;
+            border-style: dashed;
+            border-color: rgba(0,0,0,0.18);
+        }
+        .track-card.is-all-options[data-active="true"] {
+            border-style: solid;
+            background: #FFFDF6;
+        }
+        .track-card.is-all-options .track-name {
+            font-style: italic;
+        }
+
+        /* Status strip — surfaces below the picker when a track is active. */
+        .track-status-strip {
+            max-width: 1400px;
+            margin: 0.75rem auto 0;
+            padding: 0.9rem 1.25rem;
+            background: rgba(212, 175, 55, 0.08);
+            border: 1px solid rgba(212, 175, 55, 0.35);
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            font-size: 0.85rem;
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            display: none;
+        }
+        .track-status-strip[data-visible="true"] {
+            display: flex;
+        }
+        .track-status-strip .status-label {
+            display: flex;
+            align-items: center;
+            gap: 0.55rem;
+            flex-wrap: wrap;
+        }
+        .track-status-strip .status-label .status-following {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.18em;
+            color: var(--text-muted);
+            font-weight: 600;
+        }
+        .track-status-strip .status-label .status-track-name {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: 1.05rem;
+            color: var(--text-main);
+        }
+        .track-status-strip .status-actions {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            flex-shrink: 0;
+        }
+        .track-status-strip .status-toggle {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            color: var(--text-muted);
+            font-weight: 500;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            user-select: none;
+        }
+        .track-status-strip .status-toggle input {
+            accent-color: var(--accent);
+            cursor: pointer;
+        }
+        .track-status-strip .status-clear {
+            background: transparent;
+            border: 1px solid rgba(28,28,28,0.2);
+            color: var(--text-main);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            font-weight: 600;
+            padding: 0.4rem 0.85rem;
+            border-radius: 30px;
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+        }
+        .track-status-strip .status-clear:hover {
+            background: var(--text-main);
+            color: #fff;
+            border-color: var(--text-main);
+        }
+
+        /* When a track is active: fade off-track cards, highlight on-track ones. */
+        .itinerary-item[data-track-active="true"] .option-card.is-off-track {
+            opacity: 0.25;
+            filter: saturate(0.4);
+            transition: opacity 0.4s ease, filter 0.4s ease;
+        }
+        .itinerary-item[data-track-active="true"] .option-card.is-off-track .image-composite {
+            cursor: default;
+            box-shadow: 0 8px 18px rgba(0,0,0,0.04);
+        }
+        .itinerary-item[data-track-active="true"] .option-card.is-off-track .image-composite:hover .image-original-layer {
+            transform: translate(-50%, -50%);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        .itinerary-item[data-track-active="true"] .option-card.is-off-track .image-composite:hover .image-generated-layer {
+            opacity: 0;
+            transform: scale(1.1);
+        }
+
+        /* "Hide off-track" mode — removes the off-track cards entirely. */
+        .itinerary-item[data-track-mode="hide"] .option-card.is-off-track {
+            display: none;
+        }
+
+        /* On-track pill — distinct from .default-pill so a card can be both. */
+        .on-track-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+            align-self: flex-start;
+            margin: 0 0 0.4rem 0;
+            padding: 0.25rem 0.6rem;
+            background: #1C1C1C;
+            color: var(--accent);
+            font-size: 0.625rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.18em;
+            border-radius: 2px;
+            font-family: 'Inter', sans-serif;
+        }
+        .option-card.is-on-track .image-composite {
+            box-shadow:
+                0 0 0 2px var(--accent),
+                0 24px 48px rgba(212, 175, 55, 0.25);
+        }
+
+        @media (max-width: 768px) {
+            #track-picker { padding: 3.5rem 0 3rem; }
+            .track-card { width: 240px; }
+            .track-card .track-name { font-size: 1.2rem; }
+            .track-status-strip {
+                flex-direction: column;
+                align-items: flex-start;
+                margin: 0.75rem 1.25rem 0;
+            }
+            .track-status-strip .status-actions { width: 100%; justify-content: space-between; }
+        }
     </style>
 </head>
 <body>
@@ -402,6 +688,31 @@
             </div>
         </section>
 
+        <!-- CURATED DAY TRACKS — picker rendered by JS from `tracks` array. -->
+        <section id="track-picker" aria-labelledby="track-picker-heading">
+            <div class="track-picker-intro">
+                <span class="track-picker-eyebrow">Plan the day</span>
+                <h2 id="track-picker-heading" class="track-picker-headline">Six ways to spend the day.</h2>
+                <p class="track-picker-sub">Pick one to follow, or browse all sixty-eight options below.</p>
+            </div>
+            <div class="track-scroll" id="track-scroll" role="tablist" aria-label="Curated day tracks">
+                <!-- Track cards injected via JS -->
+            </div>
+            <div class="track-status-strip" id="track-status" role="status" aria-live="polite">
+                <div class="status-label">
+                    <span class="status-following">Following</span>
+                    <span class="status-track-name" id="status-track-name">—</span>
+                </div>
+                <div class="status-actions">
+                    <label class="status-toggle" title="Hide everything that isn't on this track">
+                        <input type="checkbox" id="status-hide-toggle">
+                        Show only my track
+                    </label>
+                    <button type="button" class="status-clear" id="status-clear">Clear</button>
+                </div>
+            </div>
+        </section>
+
         <!-- ITINERARY CONTAINER -->
         <section id="itinerary-list">
             <!-- Content Injected via JS -->
@@ -429,6 +740,114 @@
     gsap.registerPlugin(ScrollTrigger);
 
     const fallbackGen = "images/abstract_glass_1774058250187.png";
+
+    // ============================================================
+    // CURATED DAY TRACKS — six hand-designed paths through the 68
+    // venues below. Each track threads a coherent narrative
+    // (foodie / photo / game-day / chill / maximum / half-day) and
+    // pulls real place IDs from `itineraryData`. The picker UI lets
+    // users click one to dim everything else and see just that day.
+    // ============================================================
+    const tracks = [
+        {
+            id: 'foodie-run',
+            name: 'The Foodie Run',
+            blurb: 'Yemeni pour-over → Japan Village → tacos → izakaya → egg tarts. Maximum food, minimum waiting in line.',
+            vibeIcon: '🍜',
+            estTotalMin: 460,
+            totalCost: '$$',
+            stops: [
+                { checkpoint: '11:30 AM', placeId: 'yafa-cafe' },
+                { checkpoint: '12:30 PM', placeId: 'japan-village' },
+                { checkpoint: '2:00 PM',  placeId: 'tacos-el-bronco' },
+                { checkpoint: '5:00 PM',  placeId: 'bush-terminal-piers-park-sunset-park' },
+                { checkpoint: '6:30 PM',  placeId: 'wakuwaku' },
+                { checkpoint: '8:00 PM',  placeId: 'xin-fa-bakery' },
+            ],
+        },
+        {
+            id: 'photo-walk',
+            name: 'The Photo Walk',
+            blurb: 'Minimalist café, gallery hop, hilltop sunset, candlelit Oaxacan dinner, absinthe nightcap. The whole day shoots itself.',
+            vibeIcon: '📷',
+            estTotalMin: 540,
+            totalCost: '$$$',
+            stops: [
+                { checkpoint: '11:30 AM', placeId: 'tadaima-coffee-sunset-park' },
+                { checkpoint: '12:30 PM', placeId: 'smack-mellon-dumbo' },
+                { checkpoint: '2:00 PM',  placeId: 'sahadi-s-at-industry-city-industry-city' },
+                { checkpoint: '5:00 PM',  placeId: 'sunset-park-the-actual-park-sunset-park' },
+                { checkpoint: '6:30 PM',  placeId: 'claro-gowanus' },
+                { checkpoint: '10:00 PM', placeId: 'maison-premiere-williamsburg' },
+            ],
+        },
+        {
+            id: 'game-day',
+            name: 'The Game Day',
+            blurb: 'Bouldering, a paint bomb, shuffleboard, karaoke. High-energy from lunch until midnight — six people, one shared exhaustion.',
+            vibeIcon: '🎯',
+            estTotalMin: 600,
+            totalCost: '$$$',
+            stops: [
+                { checkpoint: '2:00 PM',  placeId: 'tacos-el-bronco' },
+                { checkpoint: '3:30 PM',  placeId: 'beat-the-bomb' },
+                { checkpoint: '5:00 PM',  placeId: 'brooklyn-bridge-park-pier-6-pier-2-brooklyn-heights' },
+                { checkpoint: '6:30 PM',  placeId: 'hometown-bar-b-que' },
+                { checkpoint: '8:00 PM',  placeId: 'japan-village-food-hall' },
+                { checkpoint: '10:00 PM', placeId: 'royal-palms-shuffleboard-club-gowanus' },
+            ],
+        },
+        {
+            id: 'chill-day',
+            name: 'The Chill Day',
+            blurb: 'Long French breakfast, a gentle anime market, dumplings, a cemetery stroll, an early-Italian dinner. Home before late.',
+            vibeIcon: '🌿',
+            estTotalMin: 460,
+            totalCost: '$$',
+            stops: [
+                { checkpoint: '11:30 AM', placeId: 'colson-patisserie' },
+                { checkpoint: '12:30 PM', placeId: 'japan-village' },
+                { checkpoint: '2:00 PM',  placeId: 'kai-feng-fu' },
+                { checkpoint: '3:30 PM',  placeId: 'brooklyn-game-knight' },
+                { checkpoint: '5:00 PM',  placeId: 'green-wood-cemetery-sunset-park' },
+                { checkpoint: '6:30 PM',  placeId: 'frankies-457-spuntino-carroll-gardens' },
+            ],
+        },
+        {
+            id: 'maximum-day',
+            name: 'The Maximum Day',
+            blurb: 'All nine checkpoints, all defaults, sunrise-to-late. The full Industry City pilgrimage, no shortcuts.',
+            vibeIcon: '🌅',
+            estTotalMin: 780,
+            totalCost: '$$$',
+            stops: [
+                { checkpoint: '10:15 AM', placeId: 'hollis-to-industry-city' },
+                { checkpoint: '11:30 AM', placeId: 'colson-patisserie' },
+                { checkpoint: '12:30 PM', placeId: 'japan-village' },
+                { checkpoint: '2:00 PM',  placeId: 'tacos-el-bronco' },
+                { checkpoint: '3:30 PM',  placeId: 'beat-the-bomb' },
+                { checkpoint: '5:00 PM',  placeId: 'sunset-park-the-actual-park-sunset-park' },
+                { checkpoint: '6:30 PM',  placeId: 'wakuwaku' },
+                { checkpoint: '8:00 PM',  placeId: 'japan-village-food-hall' },
+                { checkpoint: '10:00 PM', placeId: 'royal-palms-shuffleboard-club-gowanus' },
+            ],
+        },
+        {
+            id: 'half-day',
+            name: 'The Half Day',
+            blurb: 'For friends arriving late — banh mi, axe throwing, bridge-park sunset, pizza pilgrimage, gimlets in a 50s diner.',
+            vibeIcon: '🌆',
+            estTotalMin: 420,
+            totalCost: '$$$',
+            stops: [
+                { checkpoint: '2:00 PM',  placeId: 'ba-xuyen' },
+                { checkpoint: '3:30 PM',  placeId: 'kick-axe-throwing' },
+                { checkpoint: '5:00 PM',  placeId: 'brooklyn-heights-promenade-brooklyn-heights' },
+                { checkpoint: '6:30 PM',  placeId: 'lucali-carroll-gardens' },
+                { checkpoint: '10:00 PM', placeId: 'the-long-island-bar-cobble-hill' },
+            ],
+        },
+    ];
 
     // Data dynamically generated with 100% verified original photos and official/Google Maps fallback URLs.
     const itineraryData = [
@@ -1944,7 +2363,7 @@
             const cardClass = place.isDefault ? 'option-card is-default' : 'option-card';
 
             optionsHtml += `
-                <div class="${cardClass}">
+                <div class="${cardClass}" data-place-id="${place.id}">
                     ${defaultPillHtml}
                     <div class="image-composite">
                         ${durationHtml}
@@ -1967,6 +2386,15 @@
 
         const checkpointZoneHtml = renderCheckpointZoneStrip(item.places);
 
+        // Slug the checkpoint time so the track filter can scroll to the
+        // first stop of a chosen track (e.g. "11:30 AM" -> "checkpoint-1130-am").
+        const checkpointSlug = (item.time || '')
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, '-')
+            .replace(/^-+|-+$/g, '');
+        section.setAttribute('data-checkpoint-time', item.time);
+        section.id = `checkpoint-${checkpointSlug}`;
+
         section.innerHTML = `
             <div class="item-content section-text">
                 ${checkpointZoneHtml}
@@ -1981,6 +2409,198 @@
 
         container.appendChild(section);
     });
+
+    // ============================================================
+    // TRACK PICKER — render cards from `tracks`, wire click-to-filter.
+    // ============================================================
+    (function initTrackPicker() {
+        const scrollEl = document.getElementById('track-scroll');
+        const statusEl = document.getElementById('track-status');
+        const statusName = document.getElementById('status-track-name');
+        const clearBtn = document.getElementById('status-clear');
+        const hideToggle = document.getElementById('status-hide-toggle');
+        if (!scrollEl) return;
+
+        // Build a quick lookup of placeId -> checkpointTime, so we can
+        // validate stops and find the first checkpoint of a chosen track.
+        const placeIndex = new Map();
+        itineraryData.forEach(cp => {
+            (cp.places || []).forEach(p => {
+                if (p && p.id) placeIndex.set(p.id, cp.time);
+            });
+        });
+
+        const formatHrs = (mins) => {
+            if (!mins || typeof mins !== 'number') return '';
+            const h = Math.floor(mins / 60);
+            const m = mins % 60;
+            if (h === 0) return `${m}m`;
+            if (m === 0) return `${h}h`;
+            return `${h}h ${m}m`;
+        };
+
+        // Build the markup. First card is the "All Options" reset.
+        let html = `
+            <button type="button" class="track-card is-all-options" data-track-id="__all__" data-active="true" role="tab" aria-selected="true">
+                <span class="track-icon" aria-hidden="true">✦</span>
+                <div>
+                    <h3 class="track-name">All Options</h3>
+                    <p class="track-blurb">Browse every venue across all nine checkpoints — no filter applied.</p>
+                </div>
+                <div class="track-stats">
+                    <span>68 venues</span>
+                    <span class="track-sep">·</span>
+                    <span>9 checkpoints</span>
+                </div>
+            </button>
+        `;
+
+        tracks.forEach(track => {
+            const validStops = track.stops.filter(s => placeIndex.has(s.placeId));
+            const stopCount = validStops.length;
+            const timeLabel = formatHrs(track.estTotalMin);
+            html += `
+                <button type="button" class="track-card" data-track-id="${track.id}" role="tab" aria-selected="false">
+                    <span class="track-icon" aria-hidden="true">${track.vibeIcon || '◆'}</span>
+                    <div>
+                        <h3 class="track-name">${track.name}</h3>
+                        <p class="track-blurb">${track.blurb}</p>
+                    </div>
+                    <div class="track-stats">
+                        <span>${stopCount} stops</span>
+                        <span class="track-sep">·</span>
+                        <span>~${timeLabel}</span>
+                        <span class="track-sep">·</span>
+                        <span>${track.totalCost}</span>
+                    </div>
+                </button>
+            `;
+        });
+
+        scrollEl.innerHTML = html;
+
+        let activeTrackId = '__all__';
+        let hideMode = false;
+
+        const allCheckpoints = () => document.querySelectorAll('#itinerary-list .itinerary-item');
+        const allCards = () => document.querySelectorAll('#itinerary-list .option-card');
+
+        const clearFilter = () => {
+            allCheckpoints().forEach(cp => {
+                cp.removeAttribute('data-track-active');
+                cp.removeAttribute('data-track-mode');
+            });
+            allCards().forEach(card => {
+                card.classList.remove('is-off-track');
+                card.classList.remove('is-on-track');
+                const pill = card.querySelector('.on-track-pill');
+                if (pill) pill.remove();
+            });
+            if (statusEl) statusEl.setAttribute('data-visible', 'false');
+        };
+
+        const applyTrack = (track) => {
+            // Bucket the track's stops by checkpoint time for O(1) lookup.
+            const stopsByCheckpoint = new Map();
+            const onTrackIds = new Set();
+            track.stops.forEach(s => {
+                if (!placeIndex.has(s.placeId)) return;
+                onTrackIds.add(s.placeId);
+                if (!stopsByCheckpoint.has(s.checkpoint)) {
+                    stopsByCheckpoint.set(s.checkpoint, new Set());
+                }
+                stopsByCheckpoint.get(s.checkpoint).add(s.placeId);
+            });
+
+            allCheckpoints().forEach(cp => {
+                cp.setAttribute('data-track-active', 'true');
+                cp.setAttribute('data-track-mode', hideMode ? 'hide' : 'fade');
+                const cpTime = cp.getAttribute('data-checkpoint-time');
+                const onTrackForThisCp = stopsByCheckpoint.get(cpTime);
+
+                cp.querySelectorAll('.option-card').forEach(card => {
+                    const pid = card.getAttribute('data-place-id');
+                    const isOn = !!(onTrackForThisCp && onTrackForThisCp.has(pid));
+                    card.classList.toggle('is-on-track', isOn);
+                    card.classList.toggle('is-off-track', !isOn);
+
+                    // Drop any stale pill, then attach a fresh one on-track.
+                    const stalePill = card.querySelector('.on-track-pill');
+                    if (stalePill) stalePill.remove();
+                    if (isOn) {
+                        const pill = document.createElement('span');
+                        pill.className = 'on-track-pill';
+                        pill.setAttribute('aria-label', `On your ${track.name} track`);
+                        pill.textContent = '★ On your track';
+                        card.insertBefore(pill, card.firstChild);
+                    }
+                });
+            });
+
+            if (statusEl && statusName) {
+                statusName.textContent = track.name;
+                statusEl.setAttribute('data-visible', 'true');
+            }
+
+            // Scroll to the first checkpoint that has a stop. Use a small
+            // offset so the section header reads comfortably under the picker.
+            const firstStop = track.stops.find(s => placeIndex.has(s.placeId));
+            if (firstStop) {
+                const slug = firstStop.checkpoint
+                    .toLowerCase()
+                    .replace(/[^a-z0-9]+/g, '-')
+                    .replace(/^-+|-+$/g, '');
+                const target = document.getElementById(`checkpoint-${slug}`);
+                if (target) {
+                    // setTimeout so the layout commits before scroll.
+                    setTimeout(() => {
+                        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }, 50);
+                }
+            }
+        };
+
+        const setActiveCard = (trackId) => {
+            scrollEl.querySelectorAll('.track-card').forEach(c => {
+                const isActive = c.getAttribute('data-track-id') === trackId;
+                c.setAttribute('data-active', isActive ? 'true' : 'false');
+                c.setAttribute('aria-selected', isActive ? 'true' : 'false');
+            });
+        };
+
+        const handleSelection = (trackId) => {
+            activeTrackId = trackId;
+            setActiveCard(trackId);
+            if (trackId === '__all__') {
+                clearFilter();
+                return;
+            }
+            const track = tracks.find(t => t.id === trackId);
+            if (!track) return;
+            applyTrack(track);
+        };
+
+        scrollEl.addEventListener('click', (e) => {
+            const card = e.target.closest('.track-card');
+            if (!card) return;
+            const trackId = card.getAttribute('data-track-id');
+            if (!trackId || trackId === activeTrackId) return;
+            handleSelection(trackId);
+        });
+
+        if (clearBtn) {
+            clearBtn.addEventListener('click', () => handleSelection('__all__'));
+        }
+
+        if (hideToggle) {
+            hideToggle.addEventListener('change', (e) => {
+                hideMode = !!e.target.checked;
+                if (activeTrackId === '__all__') return;
+                const track = tracks.find(t => t.id === activeTrackId);
+                if (track) applyTrack(track);
+            });
+        }
+    })();
 
     window.onload = () => {
         // Hero Intro
