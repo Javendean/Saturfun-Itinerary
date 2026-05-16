@@ -1203,40 +1203,54 @@
   {
     "id": "claro-gowanus",
     "name": "Claro",
-    "desc": "Michelin-starred Oaxacan",
-    "longDesc": "Michelin-starred Oaxacan; outdoor backyard with hanging vines + string lights + open-air masa oven",
-    "url": "https://www.claronyc.com/",
+    "desc": "Former-Michelin-star Oaxacan in Gowanus with house-nixtamalized criollo corn, ~6 min from Industry City",
+    "longDesc": "Chef TJ Steele's Oaxacan restaurant stone-grinds non-GMO criollo corn in-house for masa finished on a wood-fired comal, anchoring a menu of tlayudas, memelas, signature moles (including 'Elsa's Mole'), aguachiles, and coastal mariscos. The backyard — strung with lights around an open-fire kitchen — is the seat to request. Held a Michelin star 2019-2023; still Michelin Guide listed and serving by reservation, though several aggregators currently flag the listing as closed, so phone-confirm before building the night around it.",
+    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/claro",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "gowanus",
+    "zone": "park-slope",
     "vibe": [
       "foodie",
-      "romantic",
-      "photo"
+      "romantic"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$$",
-    "duration": "1.5-2 hr",
-    "driveFromIC": "8 min drive",
-    "hoursWeekend": null,
-    "notes": "Reservation mandatory. Spectacular for the photo brief.",
+    "duration": "90-120 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "Brunch Fri-Sun 11:30-15:30; Dinner daily 17:30-21:00 (closed Tue/Wed)",
+    "notes": "Address 284 3rd Ave, Brooklyn NY 11215 (Gowanus, on Park Slope border). Phone 347-721-3126. Michelin-starred 2019-2023; star no longer current per Wikipedia, but still Michelin Guide listed (Michelin Guide). Vegetarian options exist with advance notice — sweet potato taco and Maria Sabina mushroom dish among them; menu rotates seasonally (clarobk.com). Reservations via Resy/OpenTable, typically books days-to-weeks out on Fri/Sat (Infatuation). WARNING: Yelp and Infatuation currently mark the listing 'closed' / 'temporarily closed' as of April 2026, while Facebook activity through Dec 2025 and the live Resy page suggest active operation — confirm by phone before treating as a dinner anchor. Street parking on 3rd Ave / Carroll / President; ~2 mi straight up 3rd Ave from Industry City.",
     "sources": [
       {
-        "url": "C:\\tmp\\saturfun-content-research.md",
-        "accessed": "2026-05-15T22:12:44.369Z"
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/claro",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Claro_(restaurant)",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/claro",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/claro-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/claro",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsPhoto": true,
-    "needsAiBackground": true,
+    "needsAiBackground": false,
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 7 — 6:30 PM Dinner & Izakaya",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-15T22:12:44.382Z"
+    "lastResearchedAt": "2026-05-16T07:21:07.323Z"
   },
   {
     "id": "lingo-greenpoint-greenpoint",
@@ -6562,5 +6576,195 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T07:11:34.357Z"
+  },
+  {
+    "id": "defontes-red-hook",
+    "name": "Defonte's of Brooklyn",
+    "desc": "1922 longshoreman-era hero shop — split a Nicky Special before Hometown brisket",
+    "longDesc": "Red Hook's century-old Italian sandwich institution, founded 1922 by Nick Defonte for Columbia Street dock workers and still run by his grandson. Order a half of the Nicky Special (ham, salami, provolone, fried eggplant, marinated mushrooms) or the steak pizzaiola — split it standing on the corner before driving 4 minutes to Hometown for the main event.",
+    "url": "https://www.defontesofbrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 6:00-16:00, Sun closed",
+    "notes": "Cash-friendly old-school counter; no real seating — eat at the sidewalk window or take it to Valentino Pier (5 min walk). Closed Sunday so this slot only works on Saturday itineraries. Cut-off is 4pm sharp — schedule the visit by ~3pm to leave runway. Featured on Diners, Drive-Ins and Dives (2012) (wikipedia). Order a HALF hero, not a whole — they are enormous and you have Hometown next (yelp, roadfood). Weekend street parking on Columbia/Lorraine is usually findable.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Defonte's",
+        "accessed": "2026-05-16T07:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/defontes-brooklyn",
+        "accessed": "2026-05-16T07:15:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/defontes-sandwich-shop/",
+        "accessed": "2026-05-16T07:15:00Z"
+      },
+      {
+        "url": "https://roadfood.com/restaurants/defontes-sandwich-shop",
+        "accessed": "2026-05-16T07:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T07:16:15.580Z"
+  },
+  {
+    "id": "brooklyn-crab",
+    "name": "Brooklyn Crab",
+    "desc": "Three-story Red Hook seafood shack with crab buckets, raw bar, and harbor views",
+    "longDesc": "Brooklyn Crab is a 2012-vintage Red Hook landmark housed in a three-story former boatyard building at 24 Reed St with sprawling deck seating and unobstructed views over NY Harbor toward the Statue of Liberty. The menu is built around crab buckets (Maine lobster, king, snow, and Dungeness), Maryland crab cakes, peel-and-eat shrimp, and an oyster raw bar. Mini-golf, bocce, and adirondack chairs out back make it a relaxed sunset-dinner anchor that pairs well with an earlier Red Hook walking loop.",
+    "url": "https://www.brooklyncrab.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
+    "notes": "Address: 24 Reed St, Brooklyn, NY 11231 (brooklyncrab.com). Spring/Summer hours: Sun-Thu 12pm-10pm, Fri-Sat 12pm-11pm (brooklyncrab.com/location). Phone (718) 643-2722. Three-story building with rooftop and outdoor deck; backyard has mini-golf + bocce. Plentiful street parking in Red Hook on weekends; the IKEA and Fairway lots are short walks away. Sunset views over NY Harbor toward Lady Liberty (timeout.com restaurants-in-red-hook).",
+    "sources": [
+      {
+        "url": "https://www.brooklyncrab.com/location/brooklyn-crab/",
+        "accessed": "2026-05-16T07:15:00Z"
+      },
+      {
+        "url": "https://www.brooklyncrab.com/",
+        "accessed": "2026-05-16T07:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-crab-brooklyn",
+        "accessed": "2026-05-16T07:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/restaurants-in-red-hook-where-to-eat-in-the-brooklyn-neighborhood",
+        "accessed": "2026-05-16T07:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T07:18:08.779Z"
+  },
+  {
+    "id": "rucola-boerum-hill",
+    "name": "Rucola",
+    "desc": "Candlelit Northern Italian on a Boerum Hill corner — farm-to-table pastas, seasonal vegetables, romantic vintage room",
+    "longDesc": "Rucola sits on a historic corner at Dean & Bond in Boerum Hill, channeling Piedmont's slow-food movement with house-made pastas, vegetable-forward antipasti, and seasonal meat/fish entrees sourced from regional farms. The room is intimate and candlelit with vintage accents and wooden furnishings — consistently called out by Infatuation and Yelp reviewers as one of the most romantic rooms in the area. Weekend dinner books up fast (effectively a 45-min walk-in wait), so reserve via Resy.",
+    "url": "https://rucolabrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Sat-Sun 10:00-16:00 brunch, 17:30-00:00 dinner",
+    "notes": "190 Dean St at Bond St, Boerum Hill (technically the Boerum Hill / Cobble Hill border — using cobble-hill zone since boerum-hill not in zone list). ~13 min drive from IC via 3rd Ave → Atlantic; metered street parking on Bond/Dean, weekend evenings tight but doable, Atlantic Ave garages as backup. Strong vegetable-forward menu (slow-food Piedmont influence) makes it a real vegetarian-friendly option in a romantic-Italian slot, complementing rather than duplicating Carroll Gardens picks like Frankies 457 (rucolabrooklyn.com/about). Reservations via Resy strongly recommended for Sat night (theinfatuation.com/new-york/reviews/rucola).",
+    "sources": [
+      {
+        "url": "https://rucolabrooklyn.com/",
+        "accessed": "2026-05-16T07:20:00Z"
+      },
+      {
+        "url": "https://rucolabrooklyn.com/menus/",
+        "accessed": "2026-05-16T07:20:00Z"
+      },
+      {
+        "url": "https://rucolabrooklyn.com/location/",
+        "accessed": "2026-05-16T07:20:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/rucola",
+        "accessed": "2026-05-16T07:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/rucola-brooklyn",
+        "accessed": "2026-05-16T07:20:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/rucola-restaurant",
+        "accessed": "2026-05-16T07:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T07:23:00.850Z"
+  },
+  {
+    "id": "sans-carroll-gardens",
+    "name": "Sans (Closed)",
+    "desc": "Closed in 2025 — former 100% vegan tasting-menu spot from ex-NoMad/EMP chef Champ Jones",
+    "longDesc": "Sans was a 100% vegan/vegetarian tasting-menu restaurant on Smith Street in Carroll Gardens (not Williamsburg as listed in some OpenTable category pages), opened by chef Champ Jones (formerly NoMad and Eleven Madison Park). Known for a five-course tasting (~$65) featuring 'olive caviar,' plum terrine, and a mushroom-farce 'TV Dinner.' Multiple directory sources (Yelp, Foursquare) confirm the venue is permanently closed as of January 2026, even though OpenTable still hosts a stale listing.",
+    "url": "https://www.opentable.com/r/sans-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$$",
+    "duration": "120 min",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "CLOSED — permanently",
+    "notes": "DO NOT PROMOTE — venue is permanently closed (Yelp 'CLOSED' tag updated Jan 2026; Foursquare 'Now Closed'). Also note: OpenTable's '20 Best Vegetarian Restaurants in Williamsburg' SEO list incorrectly geo-tags Sans as Williamsburg — actual address was 329 Smith St, Carroll Gardens 11231 (source: Infatuation, Yelp, Time Out). Keeping this record so future autonomous research doesn't re-ingest the stale OpenTable listing. Corpus still lacks a true 100%-vegetarian destination — see enqueue.",
+    "sources": [
+      {
+        "url": "https://www.opentable.com/r/sans-brooklyn",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sans-brooklyn",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/sans/5b9c18516e488e00251edf43",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/sans",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/sans",
+        "accessed": "2026-05-16T07:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T07:26:39.516Z"
   }
 ]
