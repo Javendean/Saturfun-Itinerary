@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sushi Uesugi at Japan Village",
-    "reason": "standalone omakase counter inside IC — higher-end alternative for romantic/foodie tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:26:21.101Z"
-  },
-  {
-    "topic": "Panya Bakery Industry City",
-    "reason": "Japanese bakery (curry pan, shokupan, matcha) — good chill/coffee stop separate from full food hall",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:26:21.101Z"
-  },
-  {
-    "topic": "JTunes Karaoke Industry City",
-    "reason": "evening anchor that extends a Japan Village afternoon into a late-night track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:26:21.101Z"
-  },
-  {
-    "topic": "Re-research existing venue: City League Coffee Roasters (6808 4th Ave, Sunset Park)",
-    "reason": "Family-run Sunset Park roaster with weekend 8am-4pm hours, hosts coffee classes — closest serious-coffee option to Industry City for a 5-min-drive morning anchor.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:28:34.276Z"
-  },
-  {
-    "topic": "Re-research existing venue: Yafa Cafe (Yemeni coffee, Sunset Park)",
-    "reason": "Specialty Yemeni pour-over (pistachio cappuccino, cardamom brown sugar latte) — adds a culturally distinct coffee track to the Sunset Park cluster, complements food-track Yemeni/halal stops.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:28:34.276Z"
-  },
-  {
     "topic": "Re-research existing venue: Abbotsford Road Coffee Specialists (Red Hook)",
     "reason": "Premium roaster supplying many Brooklyn cafes — strengthens Red Hook coffee depth and gives a back-up if Cafe Here is at capacity on a weekend morning.",
     "requestedBy": "agent",
@@ -1240,5 +1210,95 @@
     "reason": "9-min drive from IC, free, complements Green-Wood as the daylight bookend before a Xin Fa pastry stop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T06:51:07.059Z"
+  },
+  {
+    "topic": "Japan Village food hall (the market + casual stalls surrounding Uesugi)",
+    "reason": "Natural pre/post-omakase pairing inside the same IC building — sake shop, Japanese grocery, ramen/curry stalls turn Uesugi into a 2-stop foodie mini-track without leaving the anchor.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:53:13.186Z"
+  },
+  {
+    "topic": "Sey Coffee (Bushwick) as romantic-foodie espresso post-omakase",
+    "reason": "Higher-end coffee counter already adjacent in the corpus mental model; a romantic/foodie track needs a non-cocktail wind-down option and Sey is the strongest Brooklyn pour-over within a 15-min IC drive.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:53:13.186Z"
+  },
+  {
+    "topic": "Maison Premiere oyster + absinthe bar (Williamsburg) as romantic alternative anchor",
+    "reason": "Adds a second high-end romantic dinner anchor in a different zone so Saturfun can build a 'romantic foodie' theme with real variety instead of one Uesugi-shaped option.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:53:13.186Z"
+  },
+  {
+    "topic": "Sunrise Mart Industry City",
+    "reason": "Japanese grocery next door to Panya in Japan Village — natural pairing for a Japan-themed IC mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:55:08.849Z"
+  },
+  {
+    "topic": "Hayama Japan Village Industry City",
+    "reason": "Sit-down Japanese restaurant in same courtyard — completes the Japan Village stop options beyond bakery",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:55:08.849Z"
+  },
+  {
+    "topic": "Cafe Kitsune or Devocion Sunset Park coffee alternatives near IC",
+    "reason": "Backup coffee/pastry option if Panya is closed Mon-Tue or sold out",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:55:08.849Z"
+  },
+  {
+    "topic": "Goldie's Brooklyn karaoke bar (Sunset Park) - late-night alternative to JTunes when JTunes is closed Mon-Wed",
+    "reason": "Need a karaoke fallback for weeknights and any night JTunes' Thu-Sun window doesn't cover; goldiesbrooklyn.square.site keeps coming up adjacent in searches.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:57:35.808Z"
+  },
+  {
+    "topic": "233 Starr Karaoke Bushwick private rooms",
+    "reason": "Geographic expansion into a Bushwick-cluster evening track; 233starrkaraoke.com is the canonical Bushwick private-room option and would diversify the corpus beyond Sunset Park.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:57:35.808Z"
+  },
+  {
+    "topic": "Japan Village courtyard dinner pairings (Hi-Collar onigiri, Sunrise Mart prepared foods, Osakana) - food to order into a JTunes room",
+    "reason": "JTunes' core differentiator is in-room delivery from Japan Village vendors; the corpus needs those vendor entries to power 'compose a JTunes night' itineraries.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T06:57:35.808Z"
+  },
+  {
+    "topic": "The Whale Sunset Park multipurpose building (Brooklyn City F.C. futsal + events)",
+    "reason": "Shared venue with City League — futsal + events make it a standalone active/curious anchor 7 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:00:12.909Z"
+  },
+  {
+    "topic": "Little Boxes NYC baked goods Sunset Park",
+    "reason": "Sister-run bakery supplying City League; potential standalone foodie morning stop in same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:00:12.909Z"
+  },
+  {
+    "topic": "Devocion Brooklyn or Variety Coffee — Sunset Park-adjacent specialty coffee comparison",
+    "reason": "Need a second serious-coffee anchor option to A/B against City League for morning slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:00:12.909Z"
+  },
+  {
+    "topic": "Qahwah House (Yemeni coffee, Bay Ridge or original LES) — Bay Ridge driveable from IC",
+    "reason": "Comparison anchor for Yemeni coffee culture; adds a second cluster option if Yafa is closed/crowded",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:02:10.547Z"
+  },
+  {
+    "topic": "Mokafe Yemeni Coffee (5th Ave, Bay Ridge)",
+    "reason": "Closest direct competitor — expands corpus with a Bay Ridge-side Yemeni coffee option for south-Brooklyn coffee track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:02:10.547Z"
+  },
+  {
+    "topic": "Ayat (Bay Ridge) — Palestinian/Yemeni fusion restaurant, halal",
+    "reason": "Pairs the Yemeni coffee experience with full-meal halal Palestinian food, extending the cultural track beyond a coffee stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:02:10.547Z"
   }
 ]
