@@ -18838,47 +18838,52 @@
   },
   {
     "id": "fraunces-tavern",
-    "name": "Fraunces Tavern & Museum",
-    "desc": "1719 tavern + museum where Washington bid farewell to his officers — restaurant downstairs, four floors of Revolutionary history upstairs.",
-    "longDesc": "The oldest standing structure in Manhattan and a National Historic Landmark at 54 Pearl St, two blocks south of Stone Street. The ground floor still operates as a tavern (Independence Bar, Whiskey Bar, Tallmadge Room) while the upper floors house the Fraunces Tavern Museum, including the reconstructed Long Room where Washington said goodbye to his Continental Army officers on Dec 4, 1783. Curious-track gold: pair a museum walk-through with a beer + shepherd's pie at the bar.",
+    "name": "Fraunces Tavern",
+    "desc": "1762 Revolutionary-era tavern + museum on Pearl St — NYC's oldest bar paired with a Sons of Liberty history collection upstairs",
+    "longDesc": "Operating since 1762 at 54 Pearl St, this is the spot where Washington gave his farewell address to the Continental Army officers in 1783 — the upstairs Long Room and four adjoining floors now house a small but dense museum of Revolutionary War artifacts, flags, and period interiors. Downstairs the Porterhouse-run tavern serves traditional American food with an Irish accent (oysters, shepherd's pie, burgers) plus a deep house and craft beer list. Weekend brunch runs 11:00-15:30 with a 3-or-5-item prix-fixe, making it a natural lunch anchor for a Stone Street / Battery Park walking loop.",
     "url": "https://frauncestavern.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "curious",
+      "foodie",
       "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "Museum 12:00-17:00 daily; Tavern Sat 11:00-01:00, Sun 11:00-00:00",
-    "notes": "Manhattan exception justified: oldest building in the borough + the Washington Farewell room — no Brooklyn equivalent. Drive: BQE → Brooklyn-Battery Tunnel (I-478) → exit at West St, ~15 min off-peak weekend. Street parking is brutal in FiDi; use the Pier 6 / Battery Underground garages (5-7 min walk). Stone Street pedestrian-only block is a 2-block stroll for a follow-up drink. Museum admission ~$10 adults (sons-of-the-revolution operated). Restaurant has vegetarian options but is meat/whiskey-forward.",
+    "duration": "75-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-01:00, Sun 11:00-00:00; museum daily 12:00-17:00",
+    "notes": "Manhattan exception justified: pairs directly with the Stone Street cobblestone block one minute away as a single FiDi food+history stop. Drive from IC via the Brooklyn-Battery Tunnel (~18 min weekend); street parking is limited but FiDi garages (Battery Pl, Pearl St) are plentiful on weekends. Tavern reservations via OpenTable recommended for brunch. Museum admission is separate (~$10 adult) and self-guided (frauncestavernmuseum.org). Brunch is 3-item or 5-item prix-fixe Sat-Sun 11:00-15:30. Vegetarian options on menu but limited.",
     "sources": [
       {
         "url": "https://frauncestavern.com/",
-        "accessed": "2026-05-16T21:50:00Z"
+        "accessed": "2026-05-16T23:20:00Z"
       },
       {
-        "url": "https://www.frauncestavernmuseum.org/admissions",
-        "accessed": "2026-05-16T21:50:00Z"
+        "url": "https://frauncestavern.getbento.com/location/fraunces-tavern/",
+        "accessed": "2026-05-16T23:20:00Z"
       },
       {
-        "url": "https://www.nps.gov/places/000/fraunces-tavern.htm",
-        "accessed": "2026-05-16T21:50:00Z"
+        "url": "https://www.frauncestavernmuseum.org/",
+        "accessed": "2026-05-16T23:20:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/fraunces-tavern-new-york-6",
-        "accessed": "2026-05-16T21:50:00Z"
+        "url": "https://en.wikipedia.org/wiki/Fraunces_Tavern",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/fraunces-tavern-the-porterhouse-brewing-co",
+        "accessed": "2026-05-16T23:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:52:44.786Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T23:18:13.423Z"
   },
   {
     "id": "brooklyn-bridge-walk-fidi-to-dumbo",
@@ -19133,16 +19138,15 @@
   {
     "id": "nom-wah-tea-parlor",
     "name": "Nom Wah Tea Parlor",
-    "desc": "NYC's oldest dim sum parlor (est. 1920) on the bend of Doyers Street, Chinatown.",
-    "longDesc": "Opened in 1920 as a bakery and tea parlor, Nom Wah is Manhattan Chinatown's longest continuously running restaurant, tucked into the elbow of historic Doyers Street. The Hong Kong-style dim sum is served à la carte (not cart) all day — the OG egg roll, soup dumplings, and roast pork bao are the canonical orders. Weekend lines form by noon; Resy reservations are the only reliable workaround.",
+    "desc": "Oldest continuously-running dim sum parlor in NYC Chinatown (since 1920), all-day cart-free dim sum on demand.",
+    "longDesc": "Tucked on the bend of Doyers Street, Nom Wah has served Hong Kong–style dim sum since 1920 and is the oldest continuously operating restaurant in Manhattan's Chinatown. Unlike traditional cart service, dim sum is ordered à la carte from a checklist and prepared to order, so dumplings, rice rolls, and the signature OG egg roll arrive hot. Walk-ins only on weekends (no reservations), so expect a 30–60 min wait at peak Saturday brunch hours.",
     "url": "https://www.nomwah.com/chinatown",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/685f0b9455de2873870167ed/4b7c4e17-0629-49bd-9ca0-eb5464392284/pork-bun-paul-wagtouicz.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "foodie",
-      "curious",
-      "photo"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
@@ -19151,29 +19155,29 @@
     "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "11:00-21:00",
-    "notes": "Manhattan exception justified: only viable if Chinatown leg pairs Nom Wah with a second nearby stop (Apotheke, Joe's Shanghai, MOCA, or Columbus Park) to amortize the bridge crossing. From IC: Gowanus Expy → BQE → Manhattan Bridge → exit Canal St, ~22 min off-peak, 30+ min midday Saturday. Street parking on Pell/Mott is non-viable on weekends — use Mahayana Buddhist Temple garage at 133 Canal St or SP+ at 75 Mulberry. Walk-ins wait 45-90 min on Sat/Sun; book Resy 14 days out. Cash and card accepted, ~$25-35/pp. Hong Kong-style à la carte ordering (sources: nomwah.com, yelp.com, wikipedia).",
+    "notes": "Manhattan Chinatown venue — uniquely justified as the closer dim sum fallback to Joe's Shanghai when XLB lines exceed 45 min; drive from IC ~22 min via Gowanus + Manhattan Bridge off-peak (longer 30+ min midday Saturday). No weekend reservations at Doyers location — walk-in only (nomwah.com). Street parking in Chinatown is brutal; nearest reliable paid lot is Mott/Hester garage (~3 min walk). Zone field tagged 'dumbo' as nearest Brooklyn-bridge-adjacent proxy since schema lacks a Manhattan option — not geographically accurate. Vegetarian-friendly (turnip cake, scallion pancake, veg dumplings) but not vegan or gluten-free. Open daily 11:00–21:00 (yelp.com, nomwah.com).",
     "sources": [
       {
         "url": "https://www.nomwah.com/chinatown",
-        "accessed": "2026-05-16T22:10:00Z"
+        "accessed": "2026-05-16T23:20:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/nom-wah-tea-parlor-new-york",
-        "accessed": "2026-05-16T22:10:00Z"
+        "accessed": "2026-05-16T23:20:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Nom_Wah_Tea_Parlor",
-        "accessed": "2026-05-16T22:10:00Z"
+        "accessed": "2026-05-16T23:20:00Z"
       },
       {
         "url": "https://resy.com/cities/new-york-ny/venues/nom-wah-tea-parlor",
-        "accessed": "2026-05-16T22:10:00Z"
+        "accessed": "2026-05-16T23:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T22:15:10.489Z"
+    "lastResearchedAt": "2026-05-16T23:24:55.701Z"
   },
   {
     "id": "hauser-wirth-wooster",
@@ -19709,5 +19713,140 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T23:16:13.246Z"
+  },
+  {
+    "id": "castle-clinton-battery-park",
+    "name": "Castle Clinton & Battery Park Harbor Promenade",
+    "desc": "Free sandstone harbor fort with point-blank Statue of Liberty views from a breezy promenade.",
+    "longDesc": "An 1812-era circular sandstone fort at Manhattan's southern tip — you walk inside the open courtyard for free (no ticket needed), then loop the Battery's harbor promenade for unobstructed sightlines on the Statue of Liberty, Ellis Island, and Staten Island Ferry traffic. Pair it with a Brooklyn Bridge Park stop on the same day for a full cross-harbor track: same water, two banks, two skylines.",
+    "url": "https://www.nps.gov/cacl/index.htm",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "photo",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "07:45-17:00",
+    "notes": "Free entry to the fort interior and grounds — no ticket required (nps.gov/cacl). Open 7:45-17:00 daily incl. weekends, closed only Thanksgiving and Christmas. Drive from IC via Hugh L. Carey Tunnel (~$11 toll) is the fastest route; park at Battery Parking Garage on Greenwich St or the underground Battery Garage ($25-45 for 2 hrs — Lower Manhattan is car-hostile, budget for it). Sunset is the photo move — Statue silhouettes west across the harbor. Weekends get crowded after 11am with ferry-bound tourists; arrive before 10am for cleaner promenade shots. Skip the inside ferry ticket booth unless you actually want Liberty/Ellis — the views from the seawall are the same skyline geometry pros shoot from.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/cacl/planyourvisit/hours.htm",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nps.gov/cacl/index.htm",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://triptins.com/statue-of-liberty-view-battery-park/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.statueofliberty.org/directions-battery-park",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T23:20:33.936Z"
+  },
+  {
+    "id": "charging-bull-fearless-girl",
+    "name": "Charging Bull + Fearless Girl",
+    "desc": "Two-stop FiDi photo loop: Di Modica's bull at Bowling Green and Visbal's girl facing the NYSE",
+    "longDesc": "Arturo Di Modica's 7,100-lb bronze Charging Bull stands at Bowling Green (Broadway & Morris St) since 1989, a guerrilla artwork that became Wall Street's unofficial mascot. Kristen Visbal's Fearless Girl was moved from facing the bull in Nov 2018 and now stands on Broad St across from the NYSE, a ~5-minute walk north — the Landmarks Preservation Commission re-permitted her location through 2029. Both are free, 24/7, and pair naturally as one short FiDi walking loop before crossing the Brooklyn Bridge back to BK.",
+    "url": "https://www.nycgovparks.org/parks/bowling-green/monuments/1750",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "photo",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "24/7 (outdoor)",
+    "notes": "Actually in FiDi Manhattan — slotted into the brooklyn-heights cluster because it's the closest BK zone via the Brooklyn Bridge and pairs well as a 'cross the bridge for a photo loop' add-on. Bull: Broadway just N of Bowling Green (Broadway & Morris St). Fearless Girl: 8 Broad St facing NYSE (moved from Bowling Green Nov 28, 2018) (6sqft, Wikipedia). Free, 24/7. Weekday mornings before 9 AM are best for crowd-free photos; weekend afternoons the bull line can be 20-30 min to touch the horns (Wall Street Experience). No on-site parking — nearest weekend garages: Battery Garage (70 Greenwich St, ~$25-35 for 2 hrs) or icon parking on Beaver St. Drive from IC ~22 min via Gowanus → Battery Tunnel ($10.17 E-ZPass toll one-way). Best paired with Brooklyn Bridge walk or a quick FiDi coffee stop.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/bowling-green/monuments/1750",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Charging_Bull",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fearless_Girl",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/fearless-girl-statue-permit-new-york-city/",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://www.thewallstreetexperience.com/blog/story-behind-legendary-charging-bull/",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://downtownny.com/organization/fearless-girl-by-kristen-visbal/20-broad-street/",
+        "accessed": "2026-05-16T23:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T23:22:53.268Z"
+  },
+  {
+    "id": "mei-lai-wah-bakery",
+    "name": "Mei Lai Wah Bakery",
+    "desc": "1968 Chinatown institution — legendary $2 roast pork buns + Hong Kong cafe classics, cash-friendly.",
+    "longDesc": "Open since 1968, Mei Lai Wah relocated from 64 Bayard to a larger space at 41 Mott Street, but the playbook hasn't changed: char siu (roast pork) buns and the char siu bo lo bao (pineapple-topped, no actual pineapple) handmade daily, plus wonton noodles, pan-fried noodles, and milk tea. A roast pork bun + coffee or milk tea lands comfortably under $10, making it one of the strongest sub-$10 justifications to drive into Manhattan. Cash is preferred; the buns sell out by mid-afternoon so weekend mornings are ideal.",
+    "url": "https://meilaiwahnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:30-19:30",
+    "notes": "Note: relocated from 64 Bayard St to 41 Mott St, NY 10013 (meilaiwahnyc.com). Signature char siu bun + char siu bo lo bao handmade daily since 1968 (mottstreetgirls.com). Cash preferred; arrive before noon on weekends as roast pork buns sell out (yelp). Manhattan justification: a roast pork bun + coffee under $10 is a defensible cross-bridge anchor — pair with Columbus Park people-watching or Nom Wah dim sum to amortize the drive. Parking: street parking on Mott/Mulberry is scarce on weekends; the Mulberry St Municipal Garage (~5 min walk) is the safer bet.",
+    "sources": [
+      {
+        "url": "https://meilaiwahnyc.com/",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mei-lai-wah-bakery-new-york",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://www.mottstreetgirls.com/chinatown/mei-lai-wah-bakery",
+        "accessed": "2026-05-16T23:20:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/mei-lai-wah/",
+        "accessed": "2026-05-16T23:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T23:27:02.559Z"
   }
 ]

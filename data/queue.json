@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Fraunces Tavern museum + restaurant (54 Pearl St, FiDi)",
-    "reason": "Historic tavern at the corner of Stone Street block — pairs as the food anchor for this walking loop and is itself a Revolutionary War landmark",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:51:48.377Z"
-  },
-  {
-    "topic": "Castle Clinton / Battery Park harbor promenade",
-    "reason": "The Battery Park half of this loop deserves its own entry — Statue of Liberty views, free fort interior, photo anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:51:48.377Z"
-  },
-  {
-    "topic": "Charging Bull + Fearless Girl (Bowling Green)",
-    "reason": "Adjacent FiDi photo stop within the same walking loop; tourist-heavy but a canonical NYC frame and free",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:51:48.378Z"
-  },
-  {
-    "topic": "Re-research existing venue: Nom Wah Tea Parlor (13 Doyers St, Chinatown)",
-    "reason": "Closer Chinatown dim sum alternative to Joe's Shanghai if XLB line is too long; weekend brunch anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:53:40.702Z"
-  },
-  {
-    "topic": "Re-research existing venue: Mei Lai Wah Bakery (64 Bayard St)",
-    "reason": "Pair-with bakery to justify the Manhattan drive — roast pork bun + coffee under $10",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:53:40.702Z"
-  },
-  {
     "topic": "Discover venue: Kam Hing Coffee Shop (Baxter St) sponge cake",
     "reason": "5-min walk grab-and-go that extends a Joe's Shanghai stop into a curated Chinatown mini-track",
     "requestedBy": "agent",
@@ -6160,5 +6130,95 @@
     "reason": "Driving-friendly specialty option deeper into East Williamsburg with easier weekend street parking than N 6th",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T23:16:13.261Z"
+  },
+  {
+    "topic": "Stone Street Historic District cobblestone block (FiDi outdoor dining alley)",
+    "reason": "Sits one block from Fraunces Tavern; completes the FiDi walking loop with outdoor seating + Dutch-era streetscape",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:18:13.443Z"
+  },
+  {
+    "topic": "Pier A Harbor House (Battery Park waterfront restaurant)",
+    "reason": "Five-minute walk from Fraunces toward the harbor; gives the loop a water-view drinks stop with Statue of Liberty sightlines",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:18:13.443Z"
+  },
+  {
+    "topic": "The Battery / Castle Clinton National Monument",
+    "reason": "Free outdoor anchor that pairs with Fraunces' Revolutionary-era theme and adds a green-space leg to the FiDi loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:18:13.443Z"
+  },
+  {
+    "topic": "Pier A Harbor House at Battery Park",
+    "reason": "Adjacent waterfront restaurant/bar at the north edge of Battery Park — natural post-fort food + drink pairing with the same harbor views",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:20:33.957Z"
+  },
+  {
+    "topic": "Bowling Green and the Charging Bull",
+    "reason": "Two-block walk north from Castle Clinton — completes a Lower Manhattan walking loop with the city's most-photographed statue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:20:33.957Z"
+  },
+  {
+    "topic": "Stone Street historic district lunch",
+    "reason": "Pedestrianized cobblestone block 5 min walk from Battery — solves the 'where to eat after' problem for a Lower Manhattan track day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:20:33.957Z"
+  },
+  {
+    "topic": "Stone Street Historic District (FiDi)",
+    "reason": "Cobblestone pedestrian alley with outdoor seating, natural lunch/drinks stop after the bull loop, ~6-min walk from Fearless Girl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:22:53.287Z"
+  },
+  {
+    "topic": "Battery Park esplanade + SeaGlass Carousel",
+    "reason": "Free harbor views and Statue of Liberty sightline 2 blocks south of Charging Bull, completes the FiDi mini-loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:22:53.287Z"
+  },
+  {
+    "topic": "Brooklyn Bridge pedestrian walkway (Manhattan-side entry at City Hall)",
+    "reason": "Natural connector to walk the loop back to BK on foot for the iconic skyline shot, ~15-min walk from the bull",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:22:53.287Z"
+  },
+  {
+    "topic": "Nom Wah Nolita (10 Kenmare St) — sister location with reservations",
+    "reason": "Same kitchen DNA, takes Resy reservations, removes the no-reservation wait problem at Doyers",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:24:55.717Z"
+  },
+  {
+    "topic": "Joe's Steam Rice Roll (Chinatown) — cheong fun specialist",
+    "reason": "Quick (~15 min) Chinatown bite that pairs with a longer Nom Wah anchor or replaces it if line is impossible",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:24:55.718Z"
+  },
+  {
+    "topic": "Golden Diner (Two Bridges) — modern American Chinatown-adjacent brunch",
+    "reason": "Different cuisine fallback in the same drive-radius if both Nom Wah and Joe's Shanghai are slammed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:24:55.718Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor (13 Doyers St) — oldest dim sum parlor in NYC",
+    "reason": "Pairs with Mei Lai Wah as a Chinatown two-stop combo, justifies the Manhattan drive with a second iconic anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:27:02.577Z"
+  },
+  {
+    "topic": "Columbus Park (67 Mulberry St) — Cantonese opera + xiangqi tables on weekends",
+    "reason": "Free outdoor scene 3 min walk from Mei Lai Wah; turns a bun run into a 'curious' track stop with photo potential",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:27:02.577Z"
+  },
+  {
+    "topic": "Mulberry Street Municipal Garage parking rates and weekend availability",
+    "reason": "Solves the recurring 'where do we park in Chinatown' friction for any Manhattan-anchored track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:27:02.577Z"
   }
 ]
