@@ -16366,8 +16366,8 @@
   {
     "id": "frankels-delicatessen-greenpoint",
     "name": "Frankel's Delicatessen & Appetizing",
-    "desc": "Old-school Greenpoint Jewish deli slinging hand-cut pastrami egg-and-cheese bagels until sold out.",
-    "longDesc": "Opened in 2016 by Zach Frankel and Taylor McEwan at 631 Manhattan Ave, Frankel's is the BQE-north counterpart to a Queens breakfast-sando run — a bright, narrow counter joint that does pastrami in hand-sliced hunks, fluffy scrambled eggs, melted American, and house-baked bagels (Infatuation, Eat This NY). Line moves fast but seating is tight (mostly counter stools), and they close when product runs out, so arriving before 11am on a weekend is the move.",
+    "desc": "Unpretentious Greenpoint Jewish deli for smoked-fish bagels, pastrami salmon, and house-cured classics on Baz bagels.",
+    "longDesc": "A brothers-run counter-service deli at the Greenpoint/Williamsburg border with about fifteen seats, light and nostalgic without the kitsch. The signature 'Specialty Combo #1' layers pastrami salmon, dill cucumber, and scallion cream cheese on a fresh Baz bagel; the rest of the board covers pastrami, brisket, latkes, and a $7 two-dogs-and-a-soda recession special. Doors open at 8:30 AM and close at 3:00 PM daily, and weekend bagels can sell out by early afternoon.",
     "url": "https://frankelsdelicatessen.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -16376,38 +16376,36 @@
       "foodie",
       "chill"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "08:30-15:00 (or sold out)",
-    "notes": "Same 'first sandwich of the day' slot as a Flushing/Queens stop but at the opposite BQE exit — instead of running south on the BQE from Flushing to IC, you exit at McGuinness/Greenpoint Ave (Yelp, Infatuation). Pastrami egg & cheese on a bagel is the signature (TikTok @imonalunchbreak, Brooklyn Bagel Blog). Cash-friendly, weekend street parking on Manhattan Ave side streets is workable before ~10am. Hard close ~3pm and they sell out earlier on Saturdays — bake this into routing as the *first* stop of any Greenpoint-anchored track, not a mid-day option.",
+    "hoursWeekend": "08:30-15:00",
+    "notes": "631 Manhattan Ave, Brooklyn NY 11222 (Yelp). Counter-order, ~15 seats, kitchen closes 3 PM and bagels can run out on weekend afternoons — arrive before noon (search snippet). Specialty Combo #1 = pastrami salmon + dill cucumber + scallion cream cheese on Baz bagel, called 'an absolutely perfect salmon on bagel' (Infatuation). McCarren Park is ~50 steps away, useful overflow seating; street parking in Greenpoint is plausible on weekends but tighter near Manhattan Ave — budget a few extra minutes (Infatuation).",
     "sources": [
       {
-        "url": "https://frankelsdelicatessen.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/frankels-delicatessen-brooklyn",
+        "accessed": "2026-05-16T21:25:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/frankels-delicatessen-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://frankelsdelicatessen.com/",
+        "accessed": "2026-05-16T21:25:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/frankels-delicatessen",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T21:25:00Z"
       },
       {
-        "url": "https://eatthisny.com/2025/01/09/corned-beef-pastrami/pastrami-in-new-york-frankels-delicatessen-appetizing/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://brooklynbagelblog.com/review/frankels-delicatessen-appetizing/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.nyctourism.com/restaurants/frankels-delicatessen-appetizing/",
+        "accessed": "2026-05-16T21:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T18:33:26.949Z"
+    "lastResearchedAt": "2026-05-16T21:27:17.563Z"
   },
   {
     "id": "mazzola-bakery",
@@ -18422,5 +18420,176 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T21:20:41.639Z"
+  },
+  {
+    "id": "domino-park",
+    "name": "Domino Park",
+    "desc": "6-acre waterfront park on the old Sugar Refinery site with elevated walkway and unobstructed Manhattan skyline views.",
+    "longDesc": "Built on the former Domino Sugar Refinery in South Williamsburg, this Two Trees-developed park stretches a quarter-mile along the East River with a 30-foot elevated walkway supported by 21 preserved refinery columns. The lawn, fog bridge, and bocce/volleyball courts sit directly across from a wide-open Manhattan skyline — best at golden hour. In-park food comes from Tacocina (Danny Meyer's taqueria), so you can shoot photos and eat without moving the car.",
+    "url": "https://www.dominopark.com/",
+    "photoUrl": "https://sanity-prod-domino-park.b-cdn.net/images/4shd8slw/production/1af413f097600090224f20b81d1dbe2afc6c36fb-4096x2916.jpg?w=1600&q=80&fit=clip&auto=format",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "photo",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "45-75 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "06:00-23:00",
+    "notes": "Entrance at 15 River St (entries along Kent Ave at S5/S3/Grand). Free; park is open daily 6am-11pm (dominopark.com). Tacocina open Fri-Sat 11am-10pm, Sun 11am-9pm (dominopark.com). No on-site lot; nearest paid parking is 325 Kent Ave garage, otherwise street parking on Kent/Wythe (hellolittlehome.com, bklyndesigns.com). Elevated walkway above Tacocina is the prime skyline-photo spot — early morning or pre-sunset avoids weekend crowds. Strong swap for LIC Gantry when BQE northbound times spike.",
+    "sources": [
+      {
+        "url": "https://www.dominopark.com/",
+        "accessed": "2026-05-16T21:30:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Domino_Park",
+        "accessed": "2026-05-16T21:30:00Z"
+      },
+      {
+        "url": "https://hellolittlehome.com/domino-park-brooklyn/",
+        "accessed": "2026-05-16T21:30:00Z"
+      },
+      {
+        "url": "https://bklyndesigns.com/domino-park/",
+        "accessed": "2026-05-16T21:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T21:25:05.605Z"
+  },
+  {
+    "id": "shelskys-of-brooklyn",
+    "name": "Shelsky's of Brooklyn",
+    "desc": "Family-run appetizing counter — hand-rolled bagels, lox boards, smoked fish, schmears.",
+    "longDesc": "Peter Shelsky's Court Street appetizing shop is Brooklyn's answer to Russ & Daughters: hand-rolled, kettle-boiled bagels, a deep smoked-fish case (gravlax, pastrami salmon, sable, whitefish), bialys, and herring. There's a small counter for sit-down bagel sandwiches and lox boards, plus catering platters — about a 12-minute drive from Industry City, with street parking on Court and the side streets on weekends.",
+    "url": "https://shelskys.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "08:00-16:00",
+    "notes": "Sit-down seats are limited — counter-forward, expect a short wait on weekend mornings (yelp.com). Lox boards and the smoked-fish bagel sandwiches are the signature order; ask about pastrami salmon and gravlax cuts. Street parking on Court St and on Atlantic-side blocks is workable on Saturdays. Sister bakery 'Shelsky's Brooklyn Bagels' at 453 4th Ave (South Slope) is a separate stop — different hours, more of a grab-and-go bagel counter (shelskys.com).",
+    "sources": [
+      {
+        "url": "https://shelskys.com/",
+        "accessed": "2026-05-16T21:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn",
+        "accessed": "2026-05-16T21:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:29:13.194Z"
+  },
+  {
+    "id": "mile-end-delicatessen",
+    "name": "Mile End Delicatessen",
+    "desc": "Counter-service Montreal-style smoked meat deli — hand-cut brisket on rye, since 2010.",
+    "longDesc": "Mile End brought Montreal's pepper-and-coriander-cured, hand-sliced smoked meat tradition to Brooklyn in 2010 and remains the city's reference point for it. The Hoyt St flagship is a tight counter-and-communal-table room serving the signature smoked meat sandwich, poutine, latkes, and a Canadian-Jewish breakfast menu on weekends. Tiny footprint, brisk turnover — grab a stool, order at the counter, or take the sandwich to-go from the sidewalk window.",
+    "url": "https://www.mileenddeli.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "09:00-21:00",
+    "notes": "Address 97 Hoyt St, Brooklyn NY 11217 (Boerum Hill/Cobble Hill seam). Phone (718) 852-7510. Reservations available on Resy but most seating is counter/communal walk-in; sidewalk takeout window relieves the queue (yelp.com, resy.com). Street parking on weekends is reportedly easier than weekdays (yelp.com). Signature: Montreal smoked meat sandwich on rye with mustard; weekend brunch adds smoked-meat hash and challah french toast. Pairs with [[russ-and-daughters]] as a deli double-feature — smoked meat vs smoked fish — without overlapping cuisine.",
+    "sources": [
+      {
+        "url": "https://www.mileenddeli.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mile-end-delicatessen-brooklyn-3",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/mile-end-delicatessen",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/mile-end",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:31:26.215Z"
+  },
+  {
+    "id": "little-island-pier-55",
+    "name": "Little Island at Pier 55",
+    "desc": "Free elevated park-on-stilts in the Hudson with 360° city/river views, gardens, and an amphitheater.",
+    "longDesc": "Heatherwick-designed 2.4-acre floating park built atop 132 tulip-shaped concrete pots rising from the Hudson, with three hillside lookouts, winding garden paths, and The Amph (a 700-seat amphitheater). Free walk-in, no reservations needed; sunset views over the river and Lower Manhattan skyline are the headline shot. Pairs naturally with a High Line walk — entrance is a 5-minute stroll from the Gansevoort stairs (littleisland.org).",
+    "url": "https://littleisland.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-75 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "06:00-23:00",
+    "notes": "Manhattan day-trip justified by pairing with High Line southern terminus — 5-min walk from Gansevoort St entrance (triptins.com). Entrances at W 13th & W 14th St off the West Side Highway. No on-site parking; nearest garage MPG Manhattan Parking at 450 W 17th St between 9th/10th Ave (NBC New York). Free admission; only ticketed events are Amph shows ($25-$65). Drop-off on 10th Ave. Best at golden hour for skyline + river shots.",
+    "sources": [
+      {
+        "url": "https://littleisland.org/",
+        "accessed": "2026-05-16T21:30:00Z"
+      },
+      {
+        "url": "https://littleisland.org/getting-here/",
+        "accessed": "2026-05-16T21:30:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Little_Island_at_Pier_55",
+        "accessed": "2026-05-16T21:30:00Z"
+      },
+      {
+        "url": "https://www.nbcnewyork.com/entertainment/the-scene/little-island-nyc-where-is-it-can-i-park-there-is-it-really-free-and-more-to-know/3904177/",
+        "accessed": "2026-05-16T21:30:00Z"
+      },
+      {
+        "url": "https://triptins.com/little-island/",
+        "accessed": "2026-05-16T21:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T21:33:29.668Z"
   }
 ]

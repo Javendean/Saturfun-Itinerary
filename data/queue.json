@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Domino Park Williamsburg waterfront",
-    "reason": "Closer Brooklyn skyline-photo option (~15 min from IC) with adjacent food (Tacocina); useful as a swap when LIC drive time blows out the schedule",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:08:16.507Z"
-  },
-  {
-    "topic": "Frankel's Delicatessen Greenpoint smoked fish bagels",
-    "reason": "Brooklyn-native appetizing/deli analog ~15 min from IC; preserves the smoked-fish brunch slot without crossing into Manhattan",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:10:35.262Z"
-  },
-  {
-    "topic": "Shelsky's of Brooklyn Carroll Gardens appetizing counter",
-    "reason": "Family-run BK appetizing shop with sit-down bagels and lox boards ~10 min from IC; fills the same Russ-shaped hole inside the drive radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:10:35.262Z"
-  },
-  {
-    "topic": "Mile End Delicatessen Boerum Hill Montreal-style smoked meat",
-    "reason": "Adjacent Jewish-deli register (smoked meat vs smoked fish) ~12 min from IC; diversifies the brunch corpus with a complementary cuisine",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:10:35.262Z"
-  },
-  {
-    "topic": "Little Island at Pier 55 Manhattan",
-    "reason": "Natural pairing with High Line southern terminus — free, photo-heavy, 5-min walk from Gansevoort entrance; expands Manhattan-justified corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:12:59.281Z"
-  },
-  {
     "topic": "Chelsea Market food hall Manhattan",
     "reason": "Indoor food + shopping anchor directly under the High Line; covers rain-day fallback and foodie vibe for the same trip",
     "requestedBy": "agent",
@@ -5590,5 +5560,89 @@
     "reason": "Hilltop park 10 min south of IC with Verrazzano + harbor views — broadens the in-zone golden-hour options beyond Sunset Park",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T21:22:46.160Z"
+  },
+  {
+    "topic": "Tacocina at Domino Park (Danny Meyer taqueria, in-park food)",
+    "reason": "Pairs natively with Domino Park as the on-site food stop — covers the 'eat without moving the car' use case",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:25:05.632Z"
+  },
+  {
+    "topic": "Marsha at the Refinery (rooftop bar atop One Domino Square)",
+    "reason": "Adjacent skyline-view venue if user wants to extend the Williamsburg waterfront stop into evening drinks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:25:05.633Z"
+  },
+  {
+    "topic": "Wythe Hotel rooftop / Lemon's bar",
+    "reason": "Backup Williamsburg skyline photo+drinks option 5 min north when Domino Park is overcrowded",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:25:05.633Z"
+  },
+  {
+    "topic": "Shelsky's Brooklyn Appetizing Cobble Hill smoked fish board",
+    "reason": "Closer-to-IC appetizing analog (~10 min drive) for the same brunch slot; lets the track stay south Brooklyn if Greenpoint feels far",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:27:17.580Z"
+  },
+  {
+    "topic": "Baz Bagel Brooklyn supplier of Frankel's bagels",
+    "reason": "Frankel's uses Baz bagels — worth tracing whether Baz has a standalone Brooklyn counter that fits the IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:27:17.580Z"
+  },
+  {
+    "topic": "Greenpoint weekend street-parking reality for Manhattan Ave brunch",
+    "reason": "Driving-cluster premise hinges on parking; a parking-focused note would harden any Greenpoint stop in the itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:27:17.581Z"
+  },
+  {
+    "topic": "Frankel's Delicatessen Greenpoint appetizing brunch",
+    "reason": "Another sit-down appetizing counter inside the drive radius — fills the same Russ-shaped hole on a different morning",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:29:13.206Z"
+  },
+  {
+    "topic": "Sahadi's Atlantic Avenue Middle Eastern grocer",
+    "reason": "Iconic Brooklyn specialty grocer 5 min from Shelsky's — strengthens the Cobble Hill/Carroll Gardens food-shopping track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:29:13.206Z"
+  },
+  {
+    "topic": "Frankel's Delicatessen Greenpoint house-cured pastrami",
+    "reason": "Modern Jewish deli further north — extends the smoked-meat register into Greenpoint cluster with a different cure profile",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:31:26.231Z"
+  },
+  {
+    "topic": "Shelsky's of Brooklyn Cobble Hill appetizing store smoked fish",
+    "reason": "Sits two blocks from Mile End on Court St; lets a Cobble Hill track pair smoked meat + smoked fish in one walkable loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:31:26.231Z"
+  },
+  {
+    "topic": "David's Brisket House Bed-Stuy pastrami sandwich",
+    "reason": "Legendary Yemeni-run kosher-style pastrami counter — broadens Brooklyn deli corpus into Bed-Stuy with a working-class price point",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:31:26.232Z"
+  },
+  {
+    "topic": "Whitney Museum of American Art Meatpacking",
+    "reason": "Adjacent to High Line southern terminus + Little Island; strong art anchor that completes a Manhattan west-side mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:33:29.682Z"
+  },
+  {
+    "topic": "Chelsea Market food hall",
+    "reason": "Indoor rain-backup + foodie stop one block east of High Line; pairs with Little Island/High Line combo for full half-day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:33:29.682Z"
+  },
+  {
+    "topic": "Pier 57 Rooftop Park & Market 57",
+    "reason": "Free rooftop two piers north of Little Island with Jue Lan / Anthony Bourdain food hall — clusters tightly with Pier 55 for a single-park-hop session",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T21:33:29.682Z"
   }
 ]
