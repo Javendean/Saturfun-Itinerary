@@ -1,35 +1,5 @@
 [
   {
-    "topic": "NY State Pavilion Tent of Tomorrow restoration tours",
-    "reason": "Adjacent World's Fair landmark in the same park, occasionally open for guided tours — pairs naturally with Unisphere stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:36:23.851Z"
-  },
-  {
-    "topic": "Lemon ice King of Corona",
-    "reason": "Classic Italian ices stand a 6-min drive from the park; iconic Queens food stop to extend the cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:36:23.851Z"
-  },
-  {
-    "topic": "Nan Xiang Xiao Long Bao K-Town Manhattan location (32nd St)",
-    "reason": "Closer-to-IC alternate for the same Lucky Six soup dumplings if Flushing drive is too far; recently opened Manhattan branch per Secret NYC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:38:58.168Z"
-  },
-  {
-    "topic": "White Bear Flushing — fish-skin wontons in chili oil",
-    "reason": "Adjacent Flushing single-dish legend that pairs well with Nan Xiang for a Queens food-crawl track; cash-only counter, ~5 min from Prince St",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:38:58.168Z"
-  },
-  {
-    "topic": "Tianjin Dumpling House, Golden Mall Flushing — lamb & squash dumplings",
-    "reason": "Stall-style counterpart to round out a Flushing dumpling track; reinforces the cuisine-unique justification for the long drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:38:58.168Z"
-  },
-  {
     "topic": "Xi'an Famous Foods Flushing (current Tangram Mall location, 133-33 39th Ave Level C)",
     "reason": "Live replacement for the closed OG stall — same menu (N1 hand-ripped lamb noodle, liang pi, cumin lamb burger), actually visitable in 2026, walkable from Flushing Main St 7-train",
     "requestedBy": "agent",
@@ -5140,5 +5110,101 @@
     "reason": "Lunch anchor between Armstrong House and Citi Field; mozzarella heroes, classic neighborhood vibe",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T19:56:11.535Z"
+  },
+  {
+    "topic": "Queens Museum — Panorama of the City of New York",
+    "reason": "Indoor 1964 World's Fair sibling 5-min walk from the Pavilion; 9,335-square-foot scale model of NYC, strong rainy-day pair for the Tent of Tomorrow",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:58:10.273Z"
+  },
+  {
+    "topic": "Louis Armstrong House Museum guided tour, Corona",
+    "reason": "10 min drive from Flushing Meadows; jazz-history anchor that completes a Queens-day itinerary alongside the Pavilion and Unisphere",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:58:10.273Z"
+  },
+  {
+    "topic": "Arthur Ashe Stadium / USTA Billie Jean King Center off-season public tours",
+    "reason": "Adjacent to the Pavilion inside the same park; expands the World's Fair-grounds cluster with a sports landmark",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:58:10.273Z"
+  },
+  {
+    "topic": "Leo's Latticini (Mama's of Corona) sandwiches",
+    "reason": "Two blocks from Lemon Ice King; legendary Italian deli that completes a Corona food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:00:29.766Z"
+  },
+  {
+    "topic": "Queens Museum at Flushing Meadows-Corona Park",
+    "reason": "6-min drive from Lemon Ice King; Panorama of the City of NY makes a strong art anchor for a Queens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:00:29.766Z"
+  },
+  {
+    "topic": "Tortilleria Nixtamal Corona",
+    "reason": "Heritage masa tacos a few blocks south on 104th St; rounds out a Corona driving-day with savory before/after ices",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:00:29.766Z"
+  },
+  {
+    "topic": "Zone enum gap: add 'corona' or 'queens' to Saturfun zones",
+    "reason": "Corpus is growing a Queens cluster (Lemon Ice King, likely Leo's, Queens Museum) but no zone tag fits — needed before promotion",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:00:29.766Z"
+  },
+  {
+    "topic": "Joe's Shanghai Chinatown 46 Bowery soup dumplings location",
+    "reason": "Classic XLB benchmark in Chinatown — 15-20 min from IC via Manhattan Bridge, even closer than K-Town and historically the original NYC XLB destination",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:03:03.244Z"
+  },
+  {
+    "topic": "Kings County Imperial Williamsburg or LES Chinese restaurant",
+    "reason": "Brooklyn-anchored Shanghainese-leaning option that keeps the corpus in-zone vs. forcing Manhattan trips for dumplings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:03:03.244Z"
+  },
+  {
+    "topic": "Nan Xiang Express East Village St Marks 15 location",
+    "reason": "Same brand's casual EV counter — Manhattan but quicker in/out, viable for a Williamsburg-paired itinerary stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:03:03.244Z"
+  },
+  {
+    "topic": "Joe's Shanghai Flushing — original soup dumpling location",
+    "reason": "Third anchor for a Queens dumpling-crawl track; historic XLB origin spot, complements Nan Xiang + White Bear",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:05:14.801Z"
+  },
+  {
+    "topic": "Tian Jin Dumpling House — Golden Mall basement food court",
+    "reason": "Adjacent Flushing single-dish legend (lamb-stuffed dumplings) in the underground food court scene; deepens Queens crawl options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:05:14.801Z"
+  },
+  {
+    "topic": "Spicy Village Manhattan Chinatown — hand-ripped noodles",
+    "reason": "If Flushing trip is a no-go, this is the closest analog single-dish counter (cash-only feel, one famous dish) in a tighter drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:05:14.801Z"
+  },
+  {
+    "topic": "Xi'an Famous Foods Flushing — hand-ripped biang-biang noodles with cumin lamb",
+    "reason": "Pairs with Tianjin lamb-squash on a Flushing track; different region (Shaanxi vs Tianjin) so it deepens the cuisine story rather than duplicating",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:07:35.191Z"
+  },
+  {
+    "topic": "Nan Xiang Xiao Long Bao Flushing — crab & pork soup dumplings",
+    "reason": "Sit-down counterpart in the same Flushing dumpling track; Michelin Bib Gourmand caliber XLB to balance the stall stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:07:35.191Z"
+  },
+  {
+    "topic": "New World Mall food court Flushing — Lanzhou hand-pulled noodle stall",
+    "reason": "Another basement-stall format within walking distance of Golden Mall; lets the track stack two food-court stops without re-parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:07:35.191Z"
   }
 ]
