@@ -6094,45 +6094,41 @@
   },
   {
     "id": "the-gutter-williamsburg",
-    "name": "The Gutter",
-    "desc": "Dive-bar bowling alley with 8 vintage lanes, pool, and a live-music back room (gutterbarbowl.com).",
-    "longDesc": "Williamsburg's longest-running indie bowling alley: eight reclaimed mid-century lanes, a full dive bar up front, pool tables, and 'The Spare Room' venue in back that runs live bands and comedy Thu-Sat (9pm-midnight, $5 cover). Strict 21+ at all times, so it's a pure adult group activity. Lanes are $30/half-hour Sun-Thu and $35/half-hour Fri-Sat ($6 shoes, $4 socks); reservations are by phone for parties only, otherwise walk-in.",
+    "name": "The Gutter Williamsburg",
+    "desc": "Vintage 8-lane bowling alley with craft beer bar, open until 4 AM nightly, 21+",
+    "longDesc": "A salvaged-wood, mid-century-styled bowling alley on the Greenpoint/Williamsburg border with eight short lanes, a long craft beer bar, pinball, and a back room for events. Lanes run $30/half hour Sun-Thu and $35/half hour Fri-Sat (shoes $6, socks $4), and the kitchen + bar keep going until 4 AM, making it the best late-night active-chill venue within 25 min of Industry City. 21+ at all times, so plan it as the closing stop of a Williamsburg track.",
     "url": "https://gutterbarbowl.com/williamsburg",
     "photoUrl": "https://images.squarespace-cdn.com/content/v1/6924b5e6cc75dd27246cca94/ed2650bf-e861-4794-990a-80fb656ec19e/BK+pools+2.png",
     "aiBackgroundUrl": "",
-    "zone": "williamsburg",
+    "zone": "greenpoint",
     "vibe": [
       "active",
       "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-120 min",
-    "driveFromIC": "20 min",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "12:00-04:00",
-    "notes": "21+ at all times — confirm group composition before slotting (gutterbarbowl.com). Walk-in for casual lanes, call (718) 387-3585 for party bookings; no online reservation system (gutterbarbowl.com FAQ). Street parking in North Williamsburg is tight on Sat nights — budget 10 min to find a spot or use Kent Ave lots. From Industry City take the BQE north (~7 mi, 18-22 min weekend daytime). Live music in The Spare Room Thu/Fri/Sat 9pm-12am, $5 cover (timeout.com).",
+    "notes": "200 N 14th St, Brooklyn NY 11222 — technically Greenpoint by zip but branded 'Williamsburg' (gutterbarbowl.com/williamsburg). 8 lanes (yelp.com/biz/the-gutter-brooklyn). Lane pricing Sun-Thu $30/30min, Fri-Sat $35/30min, shoes $6 / socks $4 (gutterbarbowl.com). Hours: Mon-Thu 4pm-4am, Fri 2pm-4am, Sat-Sun 12pm-4am, 21+ at all times (gutterbarbowl.com). Weekend street parking on N 14th / Berry / Wythe is doable Sat afternoons but tightens after 6pm — IC drivers should arrive early or use the McCarren Park area. Smaller and grungier than Brooklyn Bowl: no live-music venue attached, lower ceilings, more dive-bar than concert-hall energy. Reservations recommended weekends — walk-ins often face 60-90 min waits.",
     "sources": [
       {
         "url": "https://gutterbarbowl.com/williamsburg",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T12:50:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-gutter-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/bars/the-gutter-bowling-alley-and-bar",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T12:50:00Z"
       },
       {
         "url": "https://www.nyctourism.com/nightlife/the-gutter-bowling-alley-and-bar/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T12:50:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:41:01.089Z"
+    "lastResearchedAt": "2026-05-16T12:52:13.598Z"
   },
   {
     "id": "oldies-industry-city",
@@ -11241,9 +11237,9 @@
   },
   {
     "id": "other-half-brewing-carroll-gardens",
-    "name": "Other Half Brewing — Centre Street Taproom",
-    "desc": "Original Brooklyn taproom of the hop-forward IPA cult brewery; BYO/delivery food, dog-friendly.",
-    "longDesc": "Other Half's flagship Carroll Gardens taproom sits on a quiet industrial block at the Gowanus seam, pouring the brewery's hazy DDH IPAs, fruited sours, and seasonal limited drops fresh from the production line behind the bar. No kitchen on-site — order delivery or bring food in — and the patio plus garage-door front make it a reliable weekend hang. Two blocks from Smith-9th subway with street parking that thins out by mid-Saturday.",
+    "name": "Other Half Brewing — Centre Street Flagship",
+    "desc": "Original flagship taproom of the cult NE-IPA brewery — 20 drafts, dog-friendly, BYO food allowed.",
+    "longDesc": "The 2014 flagship of Other Half Brewing, where the now-legendary hazy IPA program was born, sitting at the meeting point of Carroll Gardens, Red Hook, and Gowanus. The taproom pours 20 rotating drafts spanning New England IPAs, imperial stouts, lagers, and experimental sours, plus cans/bottles to-go and merch. No kitchen, but light snacks are sold and outside delivery is encouraged from neighborhood spots like Court Street Grocers and F&F Pizzeria — pairs perfectly with a Threes/Industry City beer-flight track.",
     "url": "https://otherhalfbrewing.com/location/centre-street/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -11255,9 +11251,9 @@
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "8-10 min",
     "hoursWeekend": "Sat 10:00-24:00, Sun 11:00-21:00",
-    "notes": "195 Centre St, Brooklyn NY 11231 (Yelp, Other Half site). No food served — BYOF or delivery welcomed (Other Half site). Dogs allowed if leashed and well-behaved (Other Half site). Two blocks from Smith-9th St F/G station; ~10 min drive north from Industry City via 3rd Ave. Sits ~5 min from Movement Gowanus, making it a natural post-climb beer stop. Expect rotating DDH IPA drops on weekends — check IG for fresh-release timing.",
+    "notes": "Cult-favorite brewery founded 2014; flagship is at the Carroll Gardens / Red Hook / Gowanus crossroads (source: otherhalfbrewing.com). 20 rotating drafts plus wine/cider/soft drinks; cans + bottles to-go; merch in-stock (source: otherhalfbrewing.com). Dog-friendly, wheelchair accessible, supervised kids allowed (source: otherhalfbrewing.com). No food service — BYO/delivery from Court Street Grocers, F&F Pizzeria, Via Roma encouraged (source: otherhalfbrewing.com). Street parking only — site itself recommends F/G to Smith-9th, but driving from IC is ~1.7 mi up 3rd Ave/Hamilton, typically 8-10 min weekend (source: Yelp, otherhalfbrewing.com). Pairs naturally with Threes Brewing for a two-stop beer-flight track.",
     "sources": [
       {
         "url": "https://otherhalfbrewing.com/location/centre-street/",
@@ -11275,47 +11271,53 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T12:36:39.734Z"
+    "lastResearchedAt": "2026-05-16T12:47:54.648Z"
   },
   {
     "id": "strong-rope-brewery-red-hook",
-    "name": "Strong Rope Brewery (Red Hook)",
-    "desc": "All-NY-grain taproom with harbor views, picnic tables, and a rotating local-malt lineup.",
-    "longDesc": "Family-run brewpub on Red Hook's waterfront where every beer is made with 100% New York-grown grain and hops sourced from named farm partners. The Van Dyke Street taproom has an airy indoor bar plus picnic seating with unparalleled views of New York Harbor, and is family- and dog-friendly. Rotating taps lean toward regional malt-forward ales, lagers, and seasonals, with NY State wine, cider, and spirits also poured.",
+    "name": "Strong Rope Brewery (Red Hook Taproom)",
+    "desc": "All-NY-state-ingredient brewery in a Red Hook waterfront warehouse — terroir-driven beer 10 min from IC",
+    "longDesc": "Founded in 2015 with a strict 100% New York State sourcing rule (grain, hops, yeast, fruit), Strong Rope now operates exclusively from its Red Hook taproom at 185 Van Dyke St after closing the original Gowanus location on March 28, 2026. The lineup leans toward farmhouse saisons, lagers, and NY-malt-forward ales — including River Dragon, a Hudson Valley saison shipped down the river on the Schooner Apollonia. Joe Coffee occupies the front counter, and the cobblestone warehouse vibe makes it a strong contrast to the slicker Threes/Other Half taprooms.",
     "url": "https://www.strongropebrewery.com/taproom",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "curious"
+      "curious",
+      "foodie"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "12:00-23:00 (Sun 12:00-21:00)",
-    "notes": "Address 185 Van Dyke St, Brooklyn — street parking only; do NOT park in the 175 Van Dyke lot (towed) (strongropebrewery.com/taproom). 100% NY-grown grain + hops sourced from named farm partners (strongropebrewery.com/about). Red Hook taproom opened 2021 on the harbor (pulsd.com).",
+    "hoursWeekend": "12:00-23:00",
+    "notes": "100% NY-state ingredients is the real differentiator vs. Threes/Other Half — saisons and lagers built around Hudson Valley malt and Finger Lakes hops (strongropebrewery.com). Originally at 574 President St for 10 years; consolidated to Red Hook in March 2026 (yelp.com). Street parking on Van Dyke and Conover is generally available on weekend afternoons; Joe Coffee sharing the space means a built-in non-drinker option (joe.coffee). No kitchen — food trucks rotate Fri/Sat; BYO food is welcome.",
     "sources": [
       {
         "url": "https://www.strongropebrewery.com/taproom",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.strongropebrewery.com/about",
+        "url": "https://www.yelp.com/biz/strong-rope-brewery-brooklyn-3",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://pulsd.com/new-york/institutions/strong-rope-brewery-red-hook",
+        "url": "https://joe.coffee/locations/ny/brooklyn/strong-rope-brewery-red-hook-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.business.nyctourism.com/places/strong-rope-brewery-red-hook",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T12:38:39.584Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T12:45:56.743Z"
   },
   {
     "id": "lavender-lake",
@@ -11364,5 +11366,95 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T12:43:43.304Z"
+  },
+  {
+    "id": "grand-army-south-gowanus",
+    "name": "Grand Army South (Threes Brewing Gowanus)",
+    "desc": "Threes Brewing's in-house kitchen by the Grand Army Bar team — smash burgers, fried chicken, steak frites.",
+    "longDesc": "Grand Army South is the resident kitchen inside Threes Brewing's Gowanus brewery taproom, run by the team behind the cocktail bar Grand Army in Boerum Hill. The menu reads like elevated bar food with a Brooklyn-bistro spine: smash burger, falafel burger, fried chicken, chili crab fries, steak frites, plus a vegetarian-leaning Papa Dulce (roasted sweet potato, farro, salsa rosa, avocado, queso fresco) and snacks like corn ribs and popcorn. Pair it with whatever Threes pilsner is fresh on tap and it doubles as a real dinner stop, not just a beer-with-fries afterthought.",
+    "url": "https://www.grandarmysouth.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/69dd25b10c080c447ce2023c/9322e3fc-24f4-4f75-98b3-9fba5bfad664/GrandArmy_Hero.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
+    "notes": "333 Douglass St, Brooklyn NY 11217, inside Threes Brewing Gowanus taproom (grandarmybar.com/threesbrewery). Sister outpost recently relaunched inside Threes Greenpoint with the same menu (greenpointers.com, 2026-03-06). ZipPicks rates the smash burger 8.3/10 and categorizes it under Park Slope dining (zippicks.com). Street parking on Douglass/Nevins is usually fine on weekends; the brewery itself doesn't validate. Good 'dinner-quality' flag for itineraries that previously listed Threes as a drinks-only stop.",
+    "sources": [
+      {
+        "url": "https://www.grandarmybar.com/threesbrewery",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.grandarmysouth.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2026/03/06/threes-brewing-reopens-greenpoint-outpost-with-new-menu-from-grand-army-south/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://zippicks.com/grand-army-south-threes-brewing-gowanus-brooklyn-11217/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T12:50:00.771Z"
+  },
+  {
+    "id": "music-hall-of-williamsburg",
+    "name": "Music Hall of Williamsburg",
+    "desc": "Intimate 550-cap Bowery Presents room hosting indie touring acts on a tight Williamsburg block.",
+    "longDesc": "Operated by The Bowery Presents at 66 North 6th Street, Music Hall of Williamsburg is the borough's flagship mid-size indie/rock club — capacity 550, sister venue to Manhattan's Bowery Ballroom, with a steep tiered floor and balcony that put even the back row close to the stage. Doors are typically 7pm with most shows ending by 11pm-midnight, so it slots cleanly as a Brooklyn Bowl Family-Bowl-to-night-cap pivot. No on-site parking; nearest covered garages (NYC Parking Garage Corp at 22-34 N 6th, Public Parking at 27 N 4th) are a 3-4 minute walk and open 24h.",
+    "url": "https://www.musichallofwilliamsburg.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "doors 7pm (show-dependent)",
+    "notes": "Capacity 550, operated by The Bowery Presents — sister to Bowery Ballroom (en.wikipedia.org/wiki/Music_Hall_of_Williamsburg). No house parking; weekend street parking is alternate-side and competitive — book SpotHero or use NYC Parking Garage Corp (22-34 N 6th, 3-min walk, 24h) (brooklyn-theater.com/venues/musichallofwilliamsburg/parking). Pairs naturally after a 4-6pm Family Bowl at Brooklyn Bowl in Wmsbg (8-min walk between venues). Manhattan-adjacent feel without the bridge — only justified over a Manhattan room because it keeps the night on the BK side of the BQE.",
+    "sources": [
+      {
+        "url": "https://www.musichallofwilliamsburg.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Music_Hall_of_Williamsburg",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.bowerypresents.com/venues/music-hall-of-williamsburg",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklyn-theater.com/venues/musichallofwilliamsburg/parking",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/music-hall-of-williamsburg-parking",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T12:54:07.385Z"
   }
 ]

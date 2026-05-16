@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Strong Rope Brewery Red Hook taproom",
-    "reason": "Another driving-friendly Brooklyn brewery near IC; all-NY-state ingredients angle differentiates it from Threes",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:19:55.070Z"
-  },
-  {
-    "topic": "Other Half Brewing Carroll Gardens flagship",
-    "reason": "Cult-favorite hazy IPA brewery 8 min from IC; complements Threes for a beer-flight track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:19:55.070Z"
-  },
-  {
-    "topic": "Grand Army South menu deep-dive",
-    "reason": "Threes' in-house kitchen — worth its own card so itineraries can flag it as a dinner-quality stop, not just drinks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:19:55.070Z"
-  },
-  {
-    "topic": "The Gutter Williamsburg — vintage 8-lane bowling alley + craft beer bar",
-    "reason": "Smaller indie alternative to Brooklyn Bowl in same zone; group-friendly active-chill venue with longer evening hours",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:22:19.669Z"
-  },
-  {
-    "topic": "Music Hall of Williamsburg — 550-cap concert venue",
-    "reason": "Adjacent live-music option without bowling; pairs naturally as the night-cap after a Brooklyn Bowl Family Bowl afternoon",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T06:22:19.669Z"
-  },
-  {
     "topic": "Mission Dolores Park Bar Gowanus — outdoor beer garden with shuffleboard",
     "reason": "Adjacent driving-friendly active/chill bucket candidate closer to IC (~10 min) for warm-weekend tracks",
     "requestedBy": "agent",
@@ -3094,5 +3064,71 @@
     "reason": "Adjacent zone (Red Hook) chill decompression bar with patio — within 10 min drive of IC and Royal Palms",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T12:43:43.314Z"
+  },
+  {
+    "topic": "Strong Rope Brewery Red Hook taproom",
+    "reason": "Another small Red Hook-adjacent brewery for extending the beer-flight track without leaving the 10-min IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:47:54.657Z"
+  },
+  {
+    "topic": "Fort Hamilton Distillery Industry City tasting room",
+    "reason": "Spirits counterpart to the Threes/Other Half beer track, walkable inside IC complex",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:47:54.657Z"
+  },
+  {
+    "topic": "Threes Brewing Greenpoint (reopened 2026 with Grand Army South kitchen)",
+    "reason": "Sister venue — gives itineraries a north-Brooklyn equivalent when routing through Greenpoint/Williamsburg instead of Gowanus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:50:00.782Z"
+  },
+  {
+    "topic": "Grand Army Bar (Boerum Hill original — oysters + cocktails)",
+    "reason": "The parent venue; useful as a romantic/late-night drink stop ~12 min from IC to complete the Grand Army family on the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:50:00.783Z"
+  },
+  {
+    "topic": "Other Half Brewing Industry City taproom — food truck rotation",
+    "reason": "Closest brewery-with-food alternative to Threes inside IC itself; helps the itinerary engine pick between 'stay-in-IC' vs 'drive-to-Gowanus' for beer+dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:50:00.783Z"
+  },
+  {
+    "topic": "The Gutter Lower East Side (77 Essex St) — Manhattan sibling location with pub + arcade",
+    "reason": "Same-brand sister venue useful if user ever expands beyond Brooklyn; lets the corpus compare LES nightlife vs Brooklyn drive-friendly version",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:52:13.606Z"
+  },
+  {
+    "topic": "Frost Pizzeria + Gutter combo — classic old-school Italian slice spot 4 blocks from The Gutter",
+    "reason": "Natural pre-bowling food pairing in same Greenpoint micro-cluster; fills the 'cheap eats before a late activity' slot in a Williamsburg track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:52:13.606Z"
+  },
+  {
+    "topic": "Skinny Dennis honky-tonk bar on Metropolitan Ave Williamsburg",
+    "reason": "Late-night zero-cover live country/blues bar 10 min from The Gutter — complements an 'active then chill' Williamsburg evening arc",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:52:13.606Z"
+  },
+  {
+    "topic": "Brooklyn Steel — 1,800-cap Bowery Presents venue in East Williamsburg",
+    "reason": "Bigger-room sibling for nights when the headliner outgrows MHOW; covers larger touring acts while staying car-friendly with on-site lot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:54:07.396Z"
+  },
+  {
+    "topic": "Warsaw — Polish National Home concert hall + pierogi in Greenpoint",
+    "reason": "Unique food+show combo 10 min north of Wmsbg; rare 'eat then watch in same room' angle that diversifies the night-cap track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:54:07.396Z"
+  },
+  {
+    "topic": "Baby's All Right — 280-cap club + restaurant on Broadway, South Williamsburg",
+    "reason": "Smaller, more discovery-driven booking; gives the corpus a tier-below option for emerging-artist nights and an adjacent late dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T12:54:07.396Z"
   }
 ]
