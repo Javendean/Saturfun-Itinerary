@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Brooklyn Clay Industries pottery classes Gowanus weekend drop-in",
-    "reason": "Direct active substitute if Micòl stays closed — stoneware wheel, walkable from IC via Park Slope drive, listed alongside Micòl in every Brooklyn pottery roundup",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:31:41.782Z"
-  },
-  {
-    "topic": "Choplet Ceramic Studio Greenpoint weekend wheel class",
-    "reason": "Top-rated wheel-throwing studio inside 15-min drive radius (Greenpoint cluster), reliable Sat/Sun availability",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:31:41.782Z"
-  },
-  {
-    "topic": "BKLYN Clay Red Hook weekend pottery wheel single-session class",
-    "reason": "Red Hook is in user's 15-min-drive cluster from IC; offers one-off classes (better fit for itinerary than multi-week courses)",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:31:41.782Z"
-  },
-  {
-    "topic": "Makers Guild Industry City — Japanese craft + gift shop hours and parking",
-    "reason": "Direct upstream pairing for Tadaima; user flagged this as the browse-then-eat combo",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:33:36.463Z"
-  },
-  {
-    "topic": "Japan Village at Industry City — Sunrise Mart + food hall stalls",
-    "reason": "Adjacent Japanese cluster inside the same complex; extends the IC Japanese mini-track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:33:36.463Z"
-  },
-  {
     "topic": "Burrow Industry City — Japanese-influenced pastry alternative when Tadaima sells out",
     "reason": "Backup pastry stop in the same building if matcha cookies are gone before close",
     "requestedBy": "agent",
@@ -2338,5 +2308,107 @@
     "reason": "Free Manhattan-skyline anchor 10-min walk from Sahadi's; gives the Cobble Hill track a photo + romantic capstone",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T10:20:02.147Z"
+  },
+  {
+    "topic": "The Pottery Studio Brooklyn — 9th Street Gowanus weekend wheel classes",
+    "reason": "Actual Gowanus pottery studio walkable from R-train; fills the geographic gap the Brooklyn Clay Industries 'Gowanus' tag falsely implied",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:22:14.019Z"
+  },
+  {
+    "topic": "Slow Burn Ceramics — 65 15th Street community clay studio weekend access",
+    "reason": "Closer to IC (15th St / 3rd Ave edge of Gowanus, ~8 min drive); community membership model that may allow open-studio weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:22:14.019Z"
+  },
+  {
+    "topic": "Artshack Brooklyn — Bed-Stuy nonprofit pottery weekend workshops",
+    "reason": "Sliding-scale community ceramics; expands corpus beyond commercial studios into the nonprofit art-class lane",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:22:14.019Z"
+  },
+  {
+    "topic": "Paulie Gee's Greenpoint wood-fired pizza dinner",
+    "reason": "Walkable post-class dinner anchor in the same Greenpoint cluster — pairs with a 6pm wheel-class finish",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:24:32.548Z"
+  },
+  {
+    "topic": "BKLYN CLAY Industry City ceramic studio weekend class",
+    "reason": "Alternative ceramic-studio candidate inside IC itself; lets the engine compare an in-cluster option vs the Greenpoint drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:24:32.548Z"
+  },
+  {
+    "topic": "Champion Coffee Greenpoint pre-class espresso stop",
+    "reason": "Short stop adjacent to Choplet for the 10am Sunday session; rounds out a Greenpoint micro-itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:24:32.548Z"
+  },
+  {
+    "topic": "Clayhouse Brooklyn one-time wheel class — Gowanus/Park Slope area",
+    "reason": "Closer to IC than Prospect Heights; fills the actual Red Hook/Gowanus pottery slot the user asked for",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:26:29.183Z"
+  },
+  {
+    "topic": "Brooklyn Clay Industries one-time class — Gowanus",
+    "reason": "Explicitly offers single-session classes (per search result title), Gowanus is in the 15-min IC drive cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:26:29.183Z"
+  },
+  {
+    "topic": "Choplet Ceramic Studio Greenpoint single-session wheel class",
+    "reason": "Greenpoint expansion of the pottery vertical; balances Brooklyn-side coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:26:29.183Z"
+  },
+  {
+    "topic": "Red Hook weekend single-session craft/maker class (alt to pottery)",
+    "reason": "Original task asked for Red Hook specifically; surfacing actual Red Hook alternatives keeps that geographic cluster honest",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:26:29.183Z"
+  },
+  {
+    "topic": "Re-research existing venue: KAJIHA at Makers Guild Industry City",
+    "reason": "Second Japanese-leaning tenant in same hall as Tadaima — direct co-stop for the same track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:28:51.170Z"
+  },
+  {
+    "topic": "Saskia jewelry studio Industry City Makers Guild — jewelry-making party hours",
+    "reason": "Hands-on workshop option inside the same Makers Guild floor; fits 'curious/active' track variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:28:51.170Z"
+  },
+  {
+    "topic": "Japan Village Industry City — Sunrise Mart + food hall hours weekend",
+    "reason": "Adjacent Japanese retail+food anchor in IC itself; natural extension of the Tadaima/Makers Guild Japanese-craft thread",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:28:51.170Z"
+  },
+  {
+    "topic": "Brooklyn Kura sake brewery & tasting room (Industry City)",
+    "reason": "Same-complex Japanese pairing — completes an IC sake-and-snacks afternoon with Japan Village's Kuraichi shop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:30:56.167Z"
+  },
+  {
+    "topic": "Panya Bakery Industry City matcha & Japanese pastries",
+    "reason": "Dedicated bakery stall inside Japan Village; worth its own entry as a coffee/dessert anchor for early-morning IC starts",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:30:56.167Z"
+  },
+  {
+    "topic": "Ramen Setagaya at Japan Village — tonkotsu specifics",
+    "reason": "Standalone ramen anchor for cold-weather IC trips; user values single-dish destination meals",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:30:56.167Z"
+  },
+  {
+    "topic": "Waku Waku izakaya (Industry City) — dinner + tatami rooms",
+    "reason": "Evening counterpart to daytime Japan Village graze; 60 seats with private tatami fits the user's friend-group format",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:30:56.167Z"
   }
 ]

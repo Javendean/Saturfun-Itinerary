@@ -6037,9 +6037,9 @@
   },
   {
     "id": "japan-village-industry-city",
-    "name": "Japan Village",
-    "desc": "Japanese food hall + Sunrise Mart grocer inside Industry City — ramen, okonomiyaki, snacks, and pantry haul under one roof.",
-    "longDesc": "A 20,000-sq-ft Japanese marketplace tucked into Industry City Building B2, anchoring a Sunrise Mart grocery with a back-alley-style food hall serving ramen, okonomiyaki, bento, rice bowls, teppanyaki, and Japanese sweets. Upstairs The Loft hosts tea ceremonies, sake bars, and rotating cultural events. Pairs perfectly with a BOOKOFF browse next door and a Sahadi's run for a Japanese/Middle-Eastern grocer-crawl.",
+    "name": "Japan Village at Industry City",
+    "desc": "20,000-sq-ft Japanese marketplace inside IC: NYC's largest Sunrise Mart, food hall, sake shop.",
+    "longDesc": "Tucked inside Industry City's Building 4, Japan Village packs the city's biggest Sunrise Mart grocery alongside a 10-stall food hall (Ramen Setagaya tonkotsu, Hachi sushi-rice bowls, Panya Bakery's matcha pastries, Moriya yakitori, Handroll Bar) plus Kuraichi sake/whisky shop and Waku Waku izakaya. It's a self-contained Japanese mini-track — graze stalls for lunch, browse Japanese snacks and Hokkaido produce at Sunrise Mart, then pick up sake for later. Gets crowded on weekend afternoons; seating in the food hall is limited.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -6054,35 +6054,31 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min (on-site, Building B2)",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
-    "notes": "Located at 934 3rd Ave, Brooklyn NY 11232 inside Industry City (Japan Village website, japanvillage.com). Weekend hours: Sat 11:00-21:00, Sun 11:00-20:00 (Yelp, May 2026). Free/abundant weekend parking under the Gowanus Expressway overpass and along 2nd Ave side streets (Industry City directions). Food stalls take cash + card; Sunrise Mart accepts standard payment. Stack with BOOKOFF (same complex) and Sahadi's (~10 min drive) for the Japanese/Middle-Eastern grocer-crawl micro-leg. Loft hosts ticketed tea ceremonies — check calendar in advance.",
+    "driveFromIC": "0 min (inside IC)",
+    "hoursWeekend": "11:00-20:30",
+    "notes": "Located in Industry City Building 4 at 934 3rd Ave (japanvillage.com). Food hall hours Fri/Sat 11am-8:30pm, Sun 11am-7pm; Sunrise Mart grocery runs slightly later (yelp.com). 10+ stalls including Ramen Setagaya, Hachi, Moriya, Panya Bakery, Handroll Bar, Sake's Bar, plus Waku Waku 60-seat izakaya with tatami rooms (japanvillage.com). Kuraichi specializes in sake, shochu, Japanese whisky — good gift stop. Free IC garage parking on weekends. Pairs naturally with same-day Industry City Courtyard + Brooklyn Kura sake brewery as a Japanese-themed afternoon.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/",
-        "accessed": "2026-05-16T10:15:00Z"
-      },
-      {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://sunrisemart.com/pages/visit-us",
-        "accessed": "2026-05-16T10:15:00Z"
+        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:16:03.033Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:30:56.160Z"
   },
   {
     "id": "the-gutter-williamsburg",
@@ -9414,5 +9410,152 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T10:20:02.137Z"
+  },
+  {
+    "id": "brooklyn-clay-industries",
+    "name": "Brooklyn Clay Industries",
+    "desc": "BYOB one-time pottery classes — Sunday wheel intro, Saturday handbuilding — $85, 2 hrs",
+    "longDesc": "Note: the studio is at 63 Flushing Ave in the Brooklyn Navy Yard (Building 62, Suite 306), not Gowanus as commonly tagged in roundups. Weekend drop-in offerings rotate as 'BYOB Intro to Pottery Wheel' on select Sundays and 'BYOB Hand Building' on Saturdays, both $85 and beginner-friendly. Stoneware wheel work in a fully-equipped shared studio; bi-weekly listings mean weekend availability needs to be checked the week before.",
+    "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "varies by class — Sun wheel intros + Sat handbuilding, BYOB",
+    "notes": "Actual address is 63 Flushing Ave, Building 62 #306, Navy Yard — NOT Gowanus (roundups conflate the two) (brooklynclayindustries.com). One-time classes $85, listed bi-weekly with 2-week to 1-month lead; must reserve in advance, no walk-ins (brooklynclayindustries.com/classes/one-time-class). For an actual Gowanus stoneware option see The Pottery Studio on 9th St or Slow Burn Ceramics on 15th St. Office: (718) 596-4029.",
+    "sources": [
+      {
+        "url": "https://www.brooklynclayindustries.com/",
+        "accessed": "2026-05-16T10:30:00Z"
+      },
+      {
+        "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
+        "accessed": "2026-05-16T10:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:22:14.011Z"
+  },
+  {
+    "id": "choplet-greenpoint",
+    "name": "Choplet Ceramic Studio – Greenpoint",
+    "desc": "$90 two-hour weekend wheel-throwing workshop in a new Greenpoint studio; clay, glaze, and one firing included.",
+    "longDesc": "Choplet's Greenpoint location opened November 2025 at 121 Meserole Ave and runs a One Day Wheel Throwing workshop on Saturdays and Sundays for $90 per person. The 2-hour session teaches the basics of centering and pulling on the wheel; cost covers instruction, clay, tools, glaze, and firing of one finished piece (extra pieces are $15 each). A separate 21+ Sip & Spin night runs Fridays for a more social variant.",
+    "url": "https://choplet.com/ceramic-classes/classes-at-choplet-greenpoint/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 4:00-6:00pm workshop, Sun 10:00am-12:00pm workshop",
+    "notes": "Greenpoint studio opened Nov 1, 2025 (choplet.com/ceramic-classes/classes-at-choplet-greenpoint/). One Day Wheel Throwing is $90 / 2hr, Sat & Sun (choplet.com/custom_classes/one-day-wheel-throwing-2/). Booking via choplet.com or CourseHorse; phone 347-289-1067. Monthly unlimited access tier starts $170 if a guest wants to repeat. Metered street parking on Meserole/Manhattan Ave is generally available on weekends — easier than the Williamsburg sister studio. Bring clothes you don't mind getting dirty; pickup of fired pieces happens 2-3 weeks later.",
+    "sources": [
+      {
+        "url": "https://choplet.com/ceramic-classes/classes-at-choplet-greenpoint/",
+        "accessed": "2026-05-16T10:30:00Z"
+      },
+      {
+        "url": "https://choplet.com/custom_classes/one-day-wheel-throwing-2/",
+        "accessed": "2026-05-16T10:30:00Z"
+      },
+      {
+        "url": "https://choplet.com/contact-directions/",
+        "accessed": "2026-05-16T10:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/choplet-brooklyn",
+        "accessed": "2026-05-16T10:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:24:32.540Z"
+  },
+  {
+    "id": "bklyn-clay-tryday-night",
+    "name": "BKLYN CLAY — TryDay Night (Wheel Intro)",
+    "desc": "2-hour Fri/Sat 7:30pm wheel-throwing intro, $85, beer & wine on site, ages 7+ welcome.",
+    "longDesc": "BKLYN CLAY's TryDay Night is a single-session, drop-in wheel-throwing class at their Prospect Heights studio (535 Carlton Ave) — every Friday and Saturday at 7:30pm, 2 hours, 12 students per instructor, $85 per person. Beer and wine are sold on site (no BYOB). It's a try-it-out experience: you won't take home a finished piece, but you'll get hands-on time at the wheel in a warm, low-pressure setting — ideal as a weekend itinerary stop after dinner.",
+    "url": "https://bklynclay.com/tryday",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "curious",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Fri & Sat 7:30pm session (2 hr)",
+    "notes": "Task specified Red Hook but BKLYN CLAY has no Red Hook studio — their Brooklyn location is 535 Carlton Ave in Prospect Heights, the other is Tribeca, Manhattan (https://bklynclay.com/tryday). $85/person, ages 7+, under-16 must have an enrolled adult. 48-hr cancellation policy. Beer & wine sold on site, no BYOB. Street parking in Prospect Heights is feasible on weekends but tight; ~15-20 min drive from Industry City via 4th Ave or Atlantic.",
+    "sources": [
+      {
+        "url": "https://bklynclay.com/tryday",
+        "accessed": "2026-05-16T10:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:26:29.176Z"
+  },
+  {
+    "id": "makers-guild-industry-city",
+    "name": "The Makers Guild at Industry City",
+    "desc": "25,000-sqft artisan-retail floor where you shop directly inside maker studios — pairs with Tadaima.",
+    "longDesc": "Building 5, 2nd floor of Industry City: a curated retail-workshop hybrid with roughly nine permanent studios (jewelry, ceramics, candles, textiles, art supplies, yarn, apothecary) where the makers literally craft on-site beside their wares, plus rotating pop-ups. Japanese-leaning vendors include Tadaima (matcha shortbreads, black-sesame madeleines) and KAJIHA, making it a natural browse-then-eat combo. Building hours run 9am–9pm; individual studios keep their own (often shorter) schedules, so weekend afternoons are the safest window.",
+    "url": "https://industrycity.com/shop/the-makers-guild/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "9:00-21:00 (building); individual shops vary, typ. 11:00-18:00",
+    "notes": "Located at 51 35th St, Bldg 5, 2nd Fl, Sunset Park (industrycity.com/shop/the-makers-guild). Parking: free along 3rd Ave + Industry City's secure 2nd Ave lot at $5/weekend day (industrycity.com/faq). Tadaima and KAJIHA are the Japanese-leaning tenants — confirm their individual hours via the IC Business Directory before going (industrycity.com/faq).",
+    "sources": [
+      {
+        "url": "https://industrycity.com/shop/the-makers-guild/",
+        "accessed": "2026-05-16T10:25:00Z"
+      },
+      {
+        "url": "https://industrycity.com/faq/",
+        "accessed": "2026-05-16T10:25:00Z"
+      },
+      {
+        "url": "https://cottagesgardens.com/inside-industry-citys-makers-guild/",
+        "accessed": "2026-05-16T10:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:28:51.154Z"
   }
 ]
