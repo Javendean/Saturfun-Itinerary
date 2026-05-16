@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Don Paisa Bakery Sunset Park — Colombian pan de bono and almojábanas",
-    "reason": "Adds a Colombian-bakery counterpoint to the Mexican pan dulce option within the same 5–8 min IC drive cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:11:34.362Z"
-  },
-  {
-    "topic": "Tacos El Bronco 5th Ave Sunset Park — al pastor trompo tacos",
-    "reason": "Pairs with La Flor for a Sunset Park Mexican morning-into-lunch corridor along 5th Ave",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:11:34.362Z"
-  },
-  {
-    "topic": "Café con Leche options near Industry City — driving-friendly morning coffee within 10 min",
-    "reason": "La Flor covers Mexican coffee; corpus still thin on espresso-forward cafés with parking in the IC/Sunset Park/Greenwood ring",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:11:34.362Z"
-  },
-  {
-    "topic": "Prime Meats Carroll Gardens — German-Austrian sister-spot down the block",
-    "reason": "Same Frank Castronovo/Frank Falcinelli team, complements Frankies for a different cuisine in the same 12-min-from-IC cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:13:48.661Z"
-  },
-  {
-    "topic": "Clover Club Smith Street cocktail bar — post-dinner pairing",
-    "reason": "Iconic Brooklyn cocktail program 4 min walk from Frankies; natural after-dinner stop for the Carroll Gardens track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:13:48.661Z"
-  },
-  {
     "topic": "Buttermilk Channel Court Street — New American with $30 prix fixe Monday",
     "reason": "Another Carroll Gardens anchor candidate with stronger weeknight value and easier reservations as a Frankies alternative",
     "requestedBy": "agent",
@@ -3892,5 +3862,95 @@
     "reason": "Regional Chinese specialty rarely found elsewhere in BK; adds a sit-down option to balance the grazing stops",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T15:21:56.252Z"
+  },
+  {
+    "topic": "Sabor de Colombia Restaurant and Bakery (4601 5th Ave, Sunset Park) — Colombian arepas/empanadas/tamales sit-down counterpart to Pariscien",
+    "reason": "Larger Colombian restaurant+bakery on 5th Ave with full Bandeja Paisa menu; pairs as a meal venue when the bakery stop isn't enough",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:24:49.713Z"
+  },
+  {
+    "topic": "Calibella Bakery & Piqueteadero (Brooklyn) — Colombian pan de queso, buñuelos, piqueteadero platters",
+    "reason": "Adds a third Colombian-bakery data point with shareable piqueteadero plates, useful for groups in the IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:24:49.713Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panadería (4703 4th Ave, Sunset Park) — Salvadoran/Mexican pan dulce two blocks from Pariscien",
+    "reason": "Directly cross-references the Mexican pan dulce option already in the corpus; same block, different Latin tradition for A/B contrast",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:24:49.713Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia 5th Ave Sunset Park — Mexican bakery for conchas and tres leches",
+    "reason": "Completes a Sunset Park Mexican corridor: La Flor (coffee/breakfast) → El Bronco (tacos) → Don Paco (pan dulce dessert)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:26:56.683Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos Bushwick — fresh-pressed tortillas eaten in the factory",
+    "reason": "Alternate Mexican track outside Sunset Park; rounds out corpus geographic spread for a Bushwick foodie day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:26:56.683Z"
+  },
+  {
+    "topic": "Sunset Park (the actual park) 44th-41st St between 5th-7th Ave — Manhattan skyline view",
+    "reason": "Natural post-taco 15-min walk-it-off stop two blocks uphill from El Bronco; binds the cluster geographically",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:26:56.684Z"
+  },
+  {
+    "topic": "Yafa Café (Sunset Park Yemeni coffee house)",
+    "reason": "Walking distance to IC, fills Middle Eastern espresso gap (cardamom/pistachio cappuccino, tahini chai) — distinct from the Latin and Italian-Brooklyn norm in the corpus.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:29:36.020Z"
+  },
+  {
+    "topic": "City League Coffee Roasters (Sunset Park, 6808 4th Ave)",
+    "reason": "Family-run specialty roaster inside the IC zone itself, adds a sub-10-minute drive option and a roastery angle the corpus is missing.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:29:36.020Z"
+  },
+  {
+    "topic": "Café Grumpy Park Slope (383 7th Ave)",
+    "reason": "Brooklyn specialty-coffee mainstay with confirmed SpotHero parking nearby and 7am weekend open — covers the 'classic third-wave espresso' slot driving-friendly.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:29:36.020Z"
+  },
+  {
+    "topic": "F&F Restaurant and Bar — 465 Court St successor to Prime Meats (Castronovo/Falcinelli pizza tavern)",
+    "reason": "Live, bookable Frankies-team venue at the exact Prime Meats address; fills the same Carroll Gardens cluster slot for the IC + Frankies itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:31:55.932Z"
+  },
+  {
+    "topic": "Radegast Hall & Biergarten Williamsburg — German-Austrian beer hall with sausages and live music",
+    "reason": "Actual operating German-Austrian option in Brooklyn for users who wanted the Prime Meats cuisine experience; ~20 min from IC, weekend street parking in S. Williamsburg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:31:55.932Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino Carroll Gardens — original Castronovo/Falcinelli Italian-American (still open)",
+    "reason": "The Prime Meats sister restaurant that survived; verify it's already in corpus and re-enrich with current 2026 hours/menu if stale",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:31:55.932Z"
+  },
+  {
+    "topic": "Leyenda Smith Street Brooklyn cocktail bar — Julie Reiner's pan-Latin sibling to Clover Club",
+    "reason": "Same operator, half-block away, agave-forward menu — gives the corridor a second cocktail anchor for a different mood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:34:03.566Z"
+  },
+  {
+    "topic": "Long Island Bar Atlantic Avenue Cobble Hill — classic American cocktails in a restored diner",
+    "reason": "10-minute walk from Frankies/Clover Club, anchors an Atlantic Ave alternative when Clover Club is at capacity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:34:03.566Z"
+  },
+  {
+    "topic": "Sunken Harbor Club Brooklyn Heights — tiki cocktail bar above Gage & Tollner",
+    "reason": "Adjacent zone destination cocktail program; pairs with the Brooklyn Heights/Downtown track for cross-zone routing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T15:34:03.566Z"
   }
 ]

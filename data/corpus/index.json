@@ -1894,40 +1894,40 @@
   {
     "id": "tacos-el-bronco",
     "name": "Tacos El Bronco",
-    "desc": "Sunset Park's late-night Mexican institution — al pastor, suadero, lengua tacos open past midnight on weekends.",
-    "longDesc": "A 30+ year Sunset Park staple on 4th Ave with sit-down tables and a counter, slinging al pastor off the trompo, suadero, lengua, and cabeza tacos plus tortas and aguas frescas. Open until 2am Friday and Saturday, it's the default post-Industry City wind-down — order at the counter, grab a Jarritos, and eat tacos under fluorescent lights with the late-night Sunset Park crowd.",
+    "desc": "Cash-only Sunset Park taqueria with a real al pastor trompo and $3 small tacos that punch way above their price.",
+    "longDesc": "Mariano Tapia's 2008 cart-turned-taqueria a few blocks south of Industry City, with a vertical al pastor spit spinning by the window. The Infatuation's pro move: skip the big plates and order the $3 small tacos — double tortillas, onions, cilantro — and don't sleep on the campechanos (beef, sausage, crispy pork skin). Cash only.",
     "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
-      "foodie"
+      "foodie",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "11:00-02:00",
-    "notes": "4324 4th Ave at 44th St, ~10 min drive north on 3rd/4th Ave from IC. Fri-Sat until 2am, Sun-Thu until 1am (Yelp). Street parking on 4th Ave and side streets is generally findable late night. Cash-friendly. Al pastor and suadero are the move; skip the burritos. Bklyner named it among the top 5 tacos in Sunset Park (bklyner.com).",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "11:00-02:00 (Sun 11:00-01:00)",
+    "notes": "Address is 4324 4th Ave, Brooklyn NY 11232 — task title said 5th Ave but the trompo is on 4th Ave at 44th St (Yelp, Infatuation). Cash only. Tacos $3 each; The Infatuation calls al pastor 'a must-order' but rates campechanos as the superior pick (The Infatuation). Trompo visible from the street — strong photo moment. Weekend street parking on 4th Ave is doable; alt-side rules don't apply Sun.",
     "sources": [
       {
+        "url": "https://www.theinfatuation.com/new-york/reviews/tacos-el-bronco",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
         "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
-        "accessed": "2026-05-16T05:35:00Z"
+        "accessed": "2026-05-16T15:30:00Z"
       },
       {
-        "url": "https://bklyner.com/get-best-taco-sunset-park-sunset-park/",
-        "accessed": "2026-05-16T05:35:00Z"
-      },
-      {
-        "url": "https://onthegrid.city/brooklyn/sunset-park/tacos-el-bronco",
-        "accessed": "2026-05-16T05:35:00Z"
+        "url": "https://visitbrooklyn.nyc/eatanddrink/cuisine/mexican/tacos-el-bronco-2",
+        "accessed": "2026-05-16T15:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T05:43:00.056Z"
+    "lastResearchedAt": "2026-05-16T15:26:56.672Z"
   },
   {
     "id": "ba-xuyen",
@@ -13581,5 +13581,169 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T15:21:56.236Z"
+  },
+  {
+    "id": "pariscien-bakery",
+    "name": "Pariscien Bakery",
+    "desc": "Old-school Sunset Park Colombian panadería: warm pan de bono, almojábanas, and boiled-milk café",
+    "longDesc": "A small, lively Colombian bakery on 4th Avenue that locals call the best in the area for traditional breads — pan de bono, almojábanas, buñuelos, cambray, rosca — pulled fresh through the morning. The counter also slings cheese and meat empanadas, aborrajados (cheese-stuffed sweet plantain), and what reviewers describe as 'simply the best Colombian coffee with traditional boiled milk' in the neighborhood. Cash-friendly, no-frills, very fast in-and-out — ideal as a 20-minute pan-dulce counterpoint stop within the IC cluster.",
+    "url": "https://www.yelp.com/biz/pariscien-bakery-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "Sat 06:00-21:00, Sun 07:00-21:00",
+    "notes": "Topic was filed as 'Don Paisa Bakery' but no venue by that name exists in Sunset Park — Pariscien Bakery is the matching Colombian-bakery counterpart per Yelp/Eat the World NYC coverage (eattheworldnyc.com, 2017) and Restaurantji listings. Pan de bono, cambray, and rosca are specifically singled out in reviews; coffee is the secondary draw. Address: 4823 4th Ave, Brooklyn, NY 11220 — roughly 10 blocks south of Industry City's 36th–39th St footprint, ~5 min by car with easy 4th Ave curb parking on weekend mornings. Functions well as a Colombian-bakery alternative to the Mexican pan dulce option (e.g., Don Paco Lopez two blocks north at 4703 4th Ave) within the same IC drive cluster.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/pariscien-bakery-brooklyn",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/pariscien-/",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "http://www.eattheworldnyc.com/2017/01/pariscien-bakery.html",
+        "accessed": "2026-05-16T15:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T15:24:49.695Z"
+  },
+  {
+    "id": "casita-of-brooklyn-park-slope",
+    "name": "Casita of Brooklyn",
+    "desc": "Latin-Greek corner cafe in Park Slope pulling one of the borough's most reliable cafés con leche.",
+    "longDesc": "Casita is a family-run Park Slope coffee shop on a quiet residential block where the espresso program leans Cuban/Latin — the café con leche is the house signature, paired with empanadas, guava-and-cheese pastries, spanakopita and other Latin-Greek crossover bites. Calmer and less precious than Park Slope's specialty roasters, it's a strong morning anchor 10-12 minutes north of Industry City before driving back south for the day.",
+    "url": "https://www.casitaofbk.com/",
+    "photoUrl": "https://lirp.cdn-website.com/2186a715/dms3rep/multi/opt/IMG_9765-1-1920w.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "07:00-18:00",
+    "notes": "Address 318 11th St, Brooklyn NY 11215 — between 5th and 6th Ave, residential side-street parking usually findable on weekend mornings (avoid 5th Ave meters). Café con leche is a reviewer-favorite signature (The Infatuation, Yelp). Pair with empanadas + guava-cheese pastry for a sit-down breakfast, or grab to-go before heading back down 4th Ave to Industry City. Latin-Greek menu means non-Mexican Latin coffee coverage that complements La Flor's Mexican focus already in the corpus.",
+    "sources": [
+      {
+        "url": "https://www.casitaofbk.com/",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/casita-of-brooklyn",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/casita-brooklyn-2",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://joe.coffee/locations/ny/brooklyn/casita-of-brooklyn-brooklyn/",
+        "accessed": "2026-05-16T15:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T15:29:36.004Z"
+  },
+  {
+    "id": "prime-meats-carroll-gardens",
+    "name": "Prime Meats (Closed 2018)",
+    "desc": "Castronovo/Falcinelli's beloved German-Austrian tavern next to Frankies 457 — permanently closed November 2018.",
+    "longDesc": "Prime Meats opened in 2010 at 465 Court Street, two doors down from Frankies 457 Spuntino, serving Bavarian pretzels, weisswurst, spaetzle, bone marrow, and Vesper Brett under chef Damon Wise alongside an Austrian-leaning wine list. The Franks closed it in November 2018 to make way for an expanded F&F concept; the address now houses F&F Restaurant and Bar (pizza, pies, cocktails) — not a German-Austrian replacement. Worth knowing about for the Frankies story but not bookable for a Saturfun itinerary.",
+    "url": "https://brooklyneagle.com/articles/2018/11/28/prime-meats-in-carroll-gardens-is-closing-this-weekend/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "closed",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Permanently closed (Nov 2018)",
+    "notes": "Closed Nov 25, 2018 per Brooklyn Eagle; same Frank Castronovo/Frank Falcinelli team that runs Frankies 457 Spuntino next door (Brooklyn Eagle 2018-11-28). Space turned over to F&F Pizzeria expansion and is now F&F Restaurant and Bar — pizza, pies, cocktails, NOT German-Austrian (Time Out NY, Yelp). For an actual German-Austrian Brooklyn option, see Radegast Hall in Williamsburg (proposed via enqueue). Do not surface Prime Meats as bookable; keep as historical/context node only.",
+    "sources": [
+      {
+        "url": "https://brooklyneagle.com/articles/2018/11/28/prime-meats-in-carroll-gardens-is-closing-this-weekend/",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/f-f-restaurant-and-bar",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/f-and-f-restaurant-and-bar-brooklyn",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/prime-meats/",
+        "accessed": "2026-05-16T15:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T15:31:55.908Z"
+  },
+  {
+    "id": "clover-club",
+    "name": "Clover Club",
+    "desc": "Smith Street cocktail institution since 2008 — pre-Prohibition drinks, fireplace back room, late-night vibe.",
+    "longDesc": "Julie Reiner's Clover Club has been the flag-bearer of Brooklyn's craft cocktail scene since 2008, serving expertly built classics and house riffs from a Victorian-leaning room with a fireplace-warmed back parlor. It is a four-minute walk from Frankies 457 and stays open until 2am on Saturdays, making it the canonical after-dinner stop for the Smith/Court corridor. Expect a mid-$$ cocktail program, evening fare like oysters and a daily burger, and live jazz on select nights.",
+    "url": "https://www.cloverclubny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "romantic",
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "Sat 12:00-02:00, Sun 12:00-00:00",
+    "notes": "Pre-Prohibition program, daiquiri-and-flip-driven menu; reservations on Resy strongly recommended Fri/Sat after 8pm, walk-in seats at the bar usually open earlier in the evening (cloverclubny.com). Address 210 Smith St between Baltic & Butler — the bar's own copy places it in Cobble Hill (cloverclubny.com). Recently launched a second concept called 'The Saloon' in an adjacent space (cloverclubny.com). 4-minute walk to Frankies 457 makes it the natural post-dinner pour for any Carroll Gardens/Cobble Hill track. Live jazz appears intermittently in the back room with the fireplace (timeout.com).",
+    "sources": [
+      {
+        "url": "https://www.cloverclubny.com/",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/clover-club-brooklyn",
+        "accessed": "2026-05-16T15:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/clover-club",
+        "accessed": "2026-05-16T15:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T15:34:03.552Z"
   }
 ]
