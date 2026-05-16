@@ -6766,5 +6766,217 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T07:26:39.516Z"
+  },
+  {
+    "id": "olmsted-prospect-heights",
+    "name": "Olmsted (PERMANENTLY CLOSED)",
+    "desc": "CLOSED Aug 17, 2025 — Greg Baxtrom's nine-year Prospect Heights garden-to-table run has ended; remove from itinerary.",
+    "longDesc": "Olmsted at 659 Vanderbilt Ave served its final dinner on Sunday, August 17, 2025 after nine years. Chef Greg Baxtrom cited post-COVID financial pressure ('dead weight' from pre-pandemic expansion) and personal recovery priorities; he continues to operate Five Acres at Rockefeller Center (Manhattan). This entry should be deleted or hard-marked closed in any active itinerary; do not route guests here.",
+    "url": "https://www.timeout.com/newyork/news/this-iconic-brooklyn-restaurant-is-closing-after-nearly-a-decade-080525",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "n/a — closed",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "PERMANENTLY CLOSED",
+    "notes": "Yelp confirms 'CLOSED' tag as of May 2026 (yelp.com/biz/olmsted-brooklyn). Last service Sun Aug 17, 2025 per Time Out NY (timeout.com 08/05/25) and Patch (patch.com/new-york/prospectheights). Reason: financial strain + chef sobriety/mental-health prioritization (Eater via whatnow.com). Baxtrom's surviving venture is Five Acres at Rockefeller Center — Manhattan, so only includable if uniquely justified per IC-anchor rule. Action: drop from itinerary and replace with a Prospect Heights or adjacent foodie anchor.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/news/this-iconic-brooklyn-restaurant-is-closing-after-nearly-a-decade-080525",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/prospectheights/popular-eatery-set-close-after-nearly-decade-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/olmsted-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://whatnow.com/new-york/restaurants/beloved-brooklyn-restaurant-from-chef-baxtrom-closes-august-17/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T07:28:45.778Z"
+  },
+  {
+    "id": "van-leeuwen-williamsburg",
+    "name": "Van Leeuwen Ice Cream — Williamsburg Flagship",
+    "desc": "Late-night Williamsburg scoop shop with classic + vegan flavors, open till midnight (1am Fri/Sat).",
+    "longDesc": "Van Leeuwen's 1,200 sq ft Williamsburg flagship at 204 Wythe Ave is the brand's largest Brooklyn shop, slinging eleven dairy classics (vanilla bean, mint chip, salted caramel, Honeycomb, Earl Grey tea) alongside an equally deep vegan lineup (planet earth, chocolate chip cookie dough, matcha). Weekend service runs until 1am, making it one of the few quality late-night dessert anchors in BK and an easy capper after a Williamsburg dinner or bar stop. Cash + card, plenty of indoor seating, and the storefront is photogenic in classic Van Leeuwen yellow.",
+    "url": "https://vanleeuwenicecream.com/scoop-shops/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:00-01:00",
+    "notes": "Located at 204 Wythe Ave between N 5th & N 6th (Yelp). Sun-Thu close midnight, Fri-Sat close 1am — uniquely late for an ice-cream stop (Yelp). Vegan menu is a full parallel lineup, not an afterthought, which makes this the safest mixed-group dessert pick. Street parking on Wythe/Berry is feasible but slow on weekends; Wythe Hotel garage 2 blocks away is a fallback.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/van-leeuwen-ice-cream-williamsburg-brooklyn",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://vanleeuwenicecream.com/scoop-shops/",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2016/08/02/van-leeuwen-ice-cream-greenpoint/",
+        "accessed": "2026-05-16T07:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T07:30:38.332Z"
+  },
+  {
+    "id": "bakeri-williamsburg",
+    "name": "Bakeri Williamsburg",
+    "desc": "Norwegian-rooted European bakery on Wythe Ave — cardamom buns, scones, freshly baked breads in a romantic vintage room.",
+    "longDesc": "Bakeri is a Williamsburg institution founded by Norwegian-born Nina Solheim Mendez, serving European-style breads and pastries made on premises. Signature items include cardamom skoleboller (custard-filled buns), kringle, scones, and seasonal galettes, paired with espresso in a candlelit, apron-wearing-staff setting. It is a daytime/early-evening stop only — closes at 6pm — so use it as an afternoon pastry break, not a post-dinner dessert run.",
+    "url": "https://www.bakeribrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "08:00-18:00",
+    "notes": "Address: 150 Wythe Ave, Williamsburg (yelp.com/biz/bakeri-brooklyn). Norwegian/Scandinavian-European angle via founder's heritage (gourmadela.com/bakeri-williamsburg). Closes 6pm weekends — NOT a late-evening option; pair earlier in the itinerary as the afternoon pastry/coffee anchor (yelp). Cash + card; small indoor seating + a back garden; very photogenic for a track-day photo stop.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/bakeri-brooklyn",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://www.bakeribrooklyn.com/",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://www.gourmadela.com/bakeri-williamsburg/",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://newyorkspork.com/best-bakeries-williamsburg-brooklyn/",
+        "accessed": "2026-05-16T07:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T07:32:52.345Z"
+  },
+  {
+    "id": "soft-swerve-dekalb",
+    "name": "Soft Swerve — DeKalb Market Hall",
+    "desc": "Asian-flavor soft-serve (ube, matcha, black sesame) open until 10:30pm in Downtown Brooklyn.",
+    "longDesc": "Soft Swerve's Brooklyn outpost lives inside DeKalb Market Hall and stays open until 10:30pm every night of the week — uniquely late among NYC Asian-flavor dessert shops. The menu centers on ube (purple yam), matcha, and black sesame soft-serve with crunchy toppings (Fruity Pebbles, Oreo, mochi), giving Brooklyn the late-night Chinatown-style ice cream slot that 8th Ave bakeries close out at 6pm. The food hall setting also lets the group grab supporting bites (Han Dynasty, Hard Times Sundaes) if anyone is hungry.",
+    "url": "https://www.softswervenyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "12:00-22:30",
+    "notes": "Inside DeKalb Market Hall, basement level (Albee Square W entrance). Sat/Sun 12pm–10:30pm per softswervenyc.com — the only NYC Soft Swerve that runs past 10pm and the closest late-night substitute for Manhattan's Chinatown Ice Cream Factory (which closes 9–10pm). Weekend parking: DeKalb Garage (149 Bond St) and metered street on Flatbush Ave Extension; better after 7pm. Chinatown Ice Cream Factory itself has no Brooklyn location — Soft Swerve fills that gap (softswervenyc.com).",
+    "sources": [
+      {
+        "url": "https://www.softswervenyc.com/",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://downtownbrooklyn.com/listing/soft-swerve/",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/soft-swerve-brooklyn-2",
+        "accessed": "2026-05-16T07:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T07:35:06.454Z"
+  },
+  {
+    "id": "patisserie-tomoko-williamsburg",
+    "name": "Patisserie Tomoko",
+    "desc": "Tiny Williamsburg dessert bar fusing French pastry with Japanese flavors (yuzu, matcha, sake pairings)",
+    "longDesc": "Chef Tomoko Kato's intimate Union Ave shop runs a Japanese-French dessert bar with three-course plated tasting flights and wine or sake pairings, alongside a counter selling matcha crepe cakes, yuzu chocolate mousse, and seasonal entremets. Seats only a handful at the bar so reservations or a 6pm arrival are realistic for a Saturday slot. Closes 8pm Friday and Saturday, so it slots in as a pre-dinner or early-dessert anchor rather than a late nightcap.",
+    "url": "https://patisserietomoko.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-18:00",
+    "notes": "Address 568 Union Ave, Brooklyn NY 11211; phone (718) 388-7121 (Yelp, official site). Tue-Thu 12-6, Fri-Sat 12-8, Sun 12-6, closed Mon — confirmed May 2026 (patisserietomoko.com). Three-course dessert flight with optional wine/sake pairing is the signature experience; takeout counter for matcha mille crepe and yuzu chocolate items. Street parking in Williamsburg around Union Ave is metered/limited; Saturday evening is feasible but tight. Because of the 8pm Sat close, treat this as a 6-7:30pm dessert anchor — not interchangeable with later-closing Japanese spots like Win Son. Manhattan-style intimate counter feel; works for the 'curious' / 'romantic' tracks.",
+    "sources": [
+      {
+        "url": "https://patisserietomoko.com/",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/patisserie-tomoko-brooklyn-2",
+        "accessed": "2026-05-16T07:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/patisserie-tomoko",
+        "accessed": "2026-05-16T07:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T07:36:55.091Z"
   }
 ]

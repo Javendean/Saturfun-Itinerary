@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Re-research existing venue: Olmsted Prospect Heights (verify closure status)",
-    "reason": "Yelp shows CLOSED tag as of May 2026 — needs confirmation and removal/replacement in any existing itinerary references",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:36:07.449Z"
-  },
-  {
-    "topic": "Van Leeuwen Ice Cream Williamsburg late-night hours and signature flavors",
-    "reason": "classic ice-cream anchor for an 8-10pm dessert slot, multiple Williamsburg locations driveable from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:39:21.120Z"
-  },
-  {
-    "topic": "Lighthouse Outpost or Bakeri Williamsburg late-evening dessert and pastry availability",
-    "reason": "second Williamsburg dessert option to diversify beyond Taiwanese-American — Scandinavian/European pastry angle",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:39:21.120Z"
-  },
-  {
-    "topic": "Soft Swerve or Chinatown Ice Cream Factory Brooklyn locations open past 9pm",
-    "reason": "Asian-flavor soft-serve niche covers the Brooklyn Chinatown gap that 8th Ave bakeries leave open after 6pm",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:39:21.120Z"
-  },
-  {
-    "topic": "Patisserie Tomoko Williamsburg Japanese-French dessert bar",
-    "reason": "Strong Japanese candidate for an earlier 6-7pm dessert block — yuzu chocolate mousse and matcha crepe cake, but closes 8pm Sat so it can't anchor the 8pm slot like Win Son does.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:42:37.883Z"
-  },
-  {
     "topic": "Yuan Yang dessert Bensonhurst Hong Kong tang shui",
     "reason": "2174 86th St in Bensonhurst, ~15 min south of IC, open till 10pm daily — expands the corpus with a Hong Kong/Taiwanese tong sui option (grass jelly, tofu pudding, sago) that complements Win Son's bakery format.",
     "requestedBy": "agent",
@@ -1426,5 +1396,95 @@
     "reason": "Worth a Manhattan exception per the 'uniquely justified' rule — only fully-vegan 3-Michelin tasting in NYC, ~25 min from IC off-peak; would be the corpus's prestige vegetarian anchor for milestone celebrations",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T07:26:39.523Z"
+  },
+  {
+    "topic": "Faun Prospect Heights — seasonal Italian fine-dining replacement",
+    "reason": "Closest spiritual successor to Olmsted in the same neighborhood: produce-driven menu, garden patio, similar price band and foodie vibe; fills the romantic/foodie gap left by Olmsted's closure",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:28:45.784Z"
+  },
+  {
+    "topic": "Rose's Prospect Heights — Mediterranean wine-bar dinner option",
+    "reason": "Same Vanderbilt Avenue corridor, romantic/foodie vibe, weekend-friendly; provides a second Prospect Heights anchor for diversified itinerary clusters",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:28:45.784Z"
+  },
+  {
+    "topic": "Chuko Ramen Prospect Heights — casual foodie counterpoint",
+    "reason": "Different price band ($$) and tempo (30-45 min) than Olmsted's $$$ tasting cadence; useful for itineraries that need a Prospect Heights stop without the time/cost commitment of fine dining",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:28:45.784Z"
+  },
+  {
+    "topic": "OddFellows Ice Cream Williamsburg late-night flavors and hours",
+    "reason": "Williamsburg-native scoop shop with avant-garde flavors — alt dessert anchor in same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:30:38.339Z"
+  },
+  {
+    "topic": "Caffe Panna or Malai Ice Cream Brooklyn outpost driving-friendly",
+    "reason": "South-Asian-spiced and Italian-style competitors expand the dessert axis beyond Van Leeuwen",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:30:38.339Z"
+  },
+  {
+    "topic": "Best late-night dessert spots open past midnight Brooklyn driveable from Industry City",
+    "reason": "Builds a dedicated late-night dessert tier for the 10pm-1am slot the itinerary currently underserves",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:30:38.339Z"
+  },
+  {
+    "topic": "Patisserie Tomoko Williamsburg late-night dessert tasting bar",
+    "reason": "True late-evening Williamsburg dessert option (Japanese-French, open past 10pm) — fills the gap Bakeri cannot, complements Scandinavian angle with a different European-fusion lens",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:32:52.352Z"
+  },
+  {
+    "topic": "Fan-Fan Doughnuts Bed-Stuy weekend hours and signature doughnuts",
+    "reason": "Black-owned, nationally acclaimed doughnut shop within driving radius of IC; expands dessert-zone coverage beyond Williamsburg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:32:52.352Z"
+  },
+  {
+    "topic": "L'Imprimerie Bushwick French bakery weekend pastry availability",
+    "reason": "Croissant-tier French bakery in Bushwick — adjacent zone, different European pastry tradition (French vs. Scandinavian) for itinerary variety",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:32:52.352Z"
+  },
+  {
+    "topic": "Spot Dessert Bar Brooklyn or Williamsburg Asian-fusion late-night dessert",
+    "reason": "Adds another Asian-flavor late-night dessert option to pair with the Soft Swerve slot in itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:35:06.460Z"
+  },
+  {
+    "topic": "Taiyaki NYC Williamsburg ice cream weekend hours",
+    "reason": "Fish-shaped matcha/black-sesame soft-serve in Williamsburg — direct Brooklyn alternative to Soft Swerve, fits the same Chinatown-flavor niche",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:35:06.460Z"
+  },
+  {
+    "topic": "Wenwen Greenpoint Taiwanese dessert late-night",
+    "reason": "Taiwanese shaved ice / dessert venue in Greenpoint expands the after-9pm Asian-dessert cluster the corpus is missing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:35:06.460Z"
+  },
+  {
+    "topic": "Lysee Patisserie Manhattan Korean-French dessert bar",
+    "reason": "Comparable plated dessert flight concept — useful as a Manhattan benchmark if a Williamsburg dessert track needs a competitor or alternate-night option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:36:55.100Z"
+  },
+  {
+    "topic": "Bibble & Sip Greenpoint or Midtown Asian-inspired cream puffs",
+    "reason": "Lighter Japanese-leaning pastry counter that could fill the late-night dessert slot Patisserie Tomoko can't, since Bibble & Sip stays open later",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:36:55.100Z"
+  },
+  {
+    "topic": "Chocolate Room Park Slope dessert tasting flight",
+    "reason": "Closer to IC (12-15 min) and runs a similar small-plate dessert flight format — strong same-track alternative when Tomoko is booked or closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:36:55.100Z"
   }
 ]
