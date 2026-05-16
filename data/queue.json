@@ -1,35 +1,5 @@
 [
   {
-    "topic": "OddFellows Ice Cream Williamsburg late-night flavors and hours",
-    "reason": "Williamsburg-native scoop shop with avant-garde flavors — alt dessert anchor in same cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:30:38.339Z"
-  },
-  {
-    "topic": "Caffe Panna or Malai Ice Cream Brooklyn outpost driving-friendly",
-    "reason": "South-Asian-spiced and Italian-style competitors expand the dessert axis beyond Van Leeuwen",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:30:38.339Z"
-  },
-  {
-    "topic": "Best late-night dessert spots open past midnight Brooklyn driveable from Industry City",
-    "reason": "Builds a dedicated late-night dessert tier for the 10pm-1am slot the itinerary currently underserves",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:30:38.339Z"
-  },
-  {
-    "topic": "Patisserie Tomoko Williamsburg late-night dessert tasting bar",
-    "reason": "True late-evening Williamsburg dessert option (Japanese-French, open past 10pm) — fills the gap Bakeri cannot, complements Scandinavian angle with a different European-fusion lens",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:32:52.352Z"
-  },
-  {
-    "topic": "Fan-Fan Doughnuts Bed-Stuy weekend hours and signature doughnuts",
-    "reason": "Black-owned, nationally acclaimed doughnut shop within driving radius of IC; expands dessert-zone coverage beyond Williamsburg",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:32:52.352Z"
-  },
-  {
     "topic": "L'Imprimerie Bushwick French bakery weekend pastry availability",
     "reason": "Croissant-tier French bakery in Bushwick — adjacent zone, different European pastry tradition (French vs. Scandinavian) for itinerary variety",
     "requestedBy": "agent",
@@ -4204,5 +4174,95 @@
     "reason": "Need a drinks node that bridges Chuko (early dinner) into a later Prospect Heights stop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T16:23:19.853Z"
+  },
+  {
+    "topic": "Van Leeuwen Ice Cream Williamsburg Bedford Ave flagship",
+    "reason": "Direct comparable — Brooklyn-born artisanal scoops with later hours, slots into same dessert-anchor role",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:25:22.387Z"
+  },
+  {
+    "topic": "Soft Swerve Williamsburg ube/black sesame soft serve",
+    "reason": "Distinct Asian-flavor soft-serve alternative within the cluster, fills the curious/photo vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:25:22.387Z"
+  },
+  {
+    "topic": "Domino Park weekend evening food + scenery loop (Tacocina + waterfront)",
+    "reason": "Pairs naturally with OddFellows as a single Domino Park stop for itinerary chaining",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:25:22.388Z"
+  },
+  {
+    "topic": "Caffè Panna Greenpoint (16 Norman Ave) Italian-style gelato outpost",
+    "reason": "Italian-American gelato counterpoint to Malai; opened 2024 in a 5,000 sqft factory/shop, Wed-Sun late hours — extends the dessert axis at the far edge of the 25-min drive window",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:27:41.987Z"
+  },
+  {
+    "topic": "Brooklyn Farmacy & Soda Fountain (Carroll Gardens) old-school egg creams and sundaes",
+    "reason": "Pairs naturally with Malai on a Smith/Court dessert crawl; nostalgia/photo-vibe slot the corpus is missing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:27:41.987Z"
+  },
+  {
+    "topic": "Hijiki Dessert Bar or other Brooklyn Japanese kakigori spot",
+    "reason": "Third dessert culture (Japanese shaved ice / matcha soft serve) would round out the spiced/Italian/Japanese trio beyond Van Leeuwen",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:27:41.987Z"
+  },
+  {
+    "topic": "Junior's Restaurant & Cheesecake — 386 Flatbush Ave Ext, Downtown Brooklyn (Fri/Sat until midnight)",
+    "reason": "Iconic Brooklyn cheesecake institution; perfect 11pm-midnight dessert anchor for a Downtown Brooklyn / Fort Greene track even though it closes before 3am",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:30:12.796Z"
+  },
+  {
+    "topic": "7th Avenue Donuts — 24-hour Park Slope diner with fresh donuts and pie",
+    "reason": "Fills the truly-overnight (1am-6am) dessert gap that Insomnia can't cover; second Park Slope anchor for the late tier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:30:12.796Z"
+  },
+  {
+    "topic": "Bay Ridge kunafa & baklava — late-night Middle Eastern dessert cluster on 5th Ave around 70s-80s",
+    "reason": "Underrepresented zone in the corpus; Bay Ridge sweet shops routinely run past 1am on weekends and add a non-Western dessert profile to the night tier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:30:12.796Z"
+  },
+  {
+    "topic": "Burrow Dumbo Japanese hidden bakery cheesecake",
+    "reason": "True late-afternoon Japanese pastry counter in Dumbo (~10 min from IC) — keeps Japanese-pastry angle alive if Tomoko's earlier close kills the after-dinner slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:32:35.060Z"
+  },
+  {
+    "topic": "L'Appartement 4F Brooklyn Heights French bakery croissant",
+    "reason": "Brings a strict-French viennoiserie option into the driving cluster; complements Tomoko's fusion lens with classic technique",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:32:35.060Z"
+  },
+  {
+    "topic": "Win Son Bakery East Williamsburg Taiwanese-American",
+    "reason": "Different Asian-European dessert axis (mochi donuts, Taiwanese milk bread) in the same Williamsburg cluster, evening hours friendlier than Tomoko's 8pm cap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:32:35.060Z"
+  },
+  {
+    "topic": "Saraghina Bakery Bed-Stuy weekend pastry + pizza counter",
+    "reason": "Same Bed-Stuy cluster as Fan-Fan; builds a morning-pastry + savory-lunch dessert-zone pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:34:41.811Z"
+  },
+  {
+    "topic": "L'Appartement 4F Brooklyn Heights croissants weekend hours",
+    "reason": "Completes a Brooklyn pastry triangle (Bed-Stuy / Heights / IC) for the dessert track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:34:41.812Z"
+  },
+  {
+    "topic": "Peaches HotHouse Bed-Stuy Nashville hot chicken brunch",
+    "reason": "Natural savory anchor in the same neighborhood to pair with a Fan-Fan stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T16:34:41.812Z"
   }
 ]
