@@ -6037,49 +6037,52 @@
   },
   {
     "id": "japan-village-industry-city",
-    "name": "Japan Village at Industry City",
-    "desc": "20,000 sq ft Japanese food hall + Sunrise Mart inside IC — rainy-day indoor anchor with ramen, sushi, and izakaya stalls.",
-    "longDesc": "Japan Village occupies Buildings 3-4 of Industry City with a back-alley-style food hall (ramen, okonomiyaki, sushi, Japanese bakery, juice/salad bar) anchored by Sunrise Mart for groceries, sake, homemade tofu, and Japanese beef. Decorative ceiling flags, lantern-lit stalls, and the market aisles make it one of the most photo-friendly indoor spots in the IC complex — ideal for foodie + photo tracks on rainy days when you want everything under one roof. Walking distance from any other IC anchor, so it slots seamlessly into a multi-stop IC day.",
+    "name": "Japan Village",
+    "desc": "Japanese food hall + Sunrise Mart grocer inside Industry City — ramen, okonomiyaki, snacks, and pantry haul under one roof.",
+    "longDesc": "A 20,000-sq-ft Japanese marketplace tucked into Industry City Building B2, anchoring a Sunrise Mart grocery with a back-alley-style food hall serving ramen, okonomiyaki, bento, rice bowls, teppanyaki, and Japanese sweets. Upstairs The Loft hosts tea ceremonies, sake bars, and rotating cultural events. Pairs perfectly with a BOOKOFF browse next door and a Sahadi's run for a Japanese/Middle-Eastern grocer-crawl.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "photo",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan"
+      "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min",
+    "driveFromIC": "0 min (on-site, Building B2)",
     "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
-    "notes": "Located at 934 3rd Ave, Buildings 3 & 4 inside Industry City (industrycity.com). Food hall hours Fri-Sat 11a-8:30p per japanvillage.com; Sunrise Mart open until 9p Fri-Sat. 11 food vendors plus market, izakaya pub, and Japanese liquor store (brooklynbased.com). Strong rainy-day fallback — no driving needed if already at IC; pair with Industry City courtyard or rooftop after.",
+    "notes": "Located at 934 3rd Ave, Brooklyn NY 11232 inside Industry City (Japan Village website, japanvillage.com). Weekend hours: Sat 11:00-21:00, Sun 11:00-20:00 (Yelp, May 2026). Free/abundant weekend parking under the Gowanus Expressway overpass and along 2nd Ave side streets (Industry City directions). Food stalls take cash + card; Sunrise Mart accepts standard payment. Stack with BOOKOFF (same complex) and Sahadi's (~10 min drive) for the Japanese/Middle-Eastern grocer-crawl micro-leg. Loft hosts ticketed tea ceremonies — check calendar in advance.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T10:15:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T10:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T10:15:00Z"
       },
       {
-        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-16T10:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T06:35:21.626Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:16:03.033Z"
   },
   {
     "id": "the-gutter-williamsburg",
@@ -9241,5 +9244,175 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T10:10:16.182Z"
+  },
+  {
+    "id": "sunrise-mart-soho",
+    "name": "Sunrise Mart Soho",
+    "desc": "Japanese grocery in Soho with an in-house kitchen — bento, onigiri, and pantry staples all under one roof.",
+    "longDesc": "Sister to the original East Village shop (open since 1995), the Soho branch on Broome St stocks a deep Japanese pantry — sauces, snacks, fresh produce, sake/shochu, dashi packs, kewpie, frozen gyoza — plus a working kitchen that fires bento, onigiri, curry, and katsu sandwiches midday. It's the natural pairing with a Kinokuniya trip: same J-culture thread, walkable through Soho, and a much calmer shopping experience than a Sunday Mitsuwa run.",
+    "url": "https://sunrisemart.com/pages/visit-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-20:00 (kitchen 12:00-17:30)",
+    "notes": "494 Broome St, NYC 10013 — Manhattan exception justified as the Kinokuniya pairing (J-culture corpus expansion). Store 11–8 weekends; kitchen window is 12–5:30 so time the visit accordingly for the hot bento case (sunrisemart.com/pages/visit-us). Drive ~22 min from Industry City via Brooklyn-Battery Tunnel; Soho weekend parking is paid-garage only — SP+ at 252 Lafayette or Icon at 199 Sullivan are the closest reliable options. Phone (212) 219-0033.",
+    "sources": [
+      {
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunrise-mart-new-york-2",
+        "accessed": "2026-05-16T10:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:12:12.576Z"
+  },
+  {
+    "id": "bryant-park-weekend",
+    "name": "Bryant Park",
+    "desc": "Free Midtown lawn with open-air Reading Room, lawn games, and a packed weekend programming calendar",
+    "longDesc": "A 9.6-acre Midtown green space directly across 6th Ave from Kinokuniya, Bryant Park offers a fully programmed free day out: the open-air Reading Room (yellow-umbrella seating with rotating books, magazines, and newspapers, April–October) sits steps from the Le Carrousel, ping-pong, chess/backgammon, putting green, and a 6,000 sq ft lawn used for picnic blankets and bistro-chair lounging. Weekend mornings layer in juggling, Art Cart, board games, and storytelling; summer 2026 brings the free Picnic Performances series (opens May 28) with 24 music/dance/opera/circus nights on the lawn (Variety, 2026). Parking is the catch — the park itself has none; nearby Icon and ProPark garages on W 41st–43rd run $35–60 for a weekend afternoon, so this only pencils on a Manhattan-anchored day already paired with Kinokuniya.",
+    "url": "https://bryantpark.org/calendar",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "30-45 min (Manhattan exception — pair with Kinokuniya)",
+    "hoursWeekend": "07:00-22:00 (park); Reading Room 11:00-19:00 Apr-Oct",
+    "notes": "Manhattan exception, justified only as the natural across-the-street pairing with Kinokuniya (1073 6th Ave) — both share the W 40th–42nd block. Free entry, free chairs/blankets first-come first-served, no registration for any Picnic Performance (bryantpark.org). Weekend rotating roster includes Juggling 10am, Art Cart 11am, Games 11:30am, plus author talks and kids' storytelling (bryantpark.org/calendar). Reading Room is on the 42nd St side under signature yellow umbrellas (Time Out). Drive is honest 30–45 min via Battery Tunnel + congestion zone toll ($9 peak); recommend NOT driving — Kinokuniya day should be subway/Uber. Photo-friendly: carousel, lawn, umbrellas, Empire State sightline from SE corner.",
+    "sources": [
+      {
+        "url": "https://bryantpark.org/calendar",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://bryantpark.org/activities/picnic-performances",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://variety.com/2026/music/news/bryant-park-2026-free-summer-concert-schedule-1236722897/",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/bryant-park-is-hosting-a-giant-free-reading-party-on-its-lawn-this-summer-051326",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/bryant-park/events",
+        "accessed": "2026-05-16T10:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:14:12.868Z"
+  },
+  {
+    "id": "li-lac-chocolates-industry-city",
+    "name": "Li-Lac Chocolates Factory & Shop",
+    "desc": "Through-the-window view into a working chocolate factory + retail counter, all on IC's ground floor",
+    "longDesc": "Manhattan's oldest chocolate house (since 1923) runs its production facility at Industry City with a ground-floor viewing window onto the kitchen — copper kettles, marble tables, and 1920s-era equipment still in use. The adjoining shop sells 120+ fresh items and offers complimentary samples; production isn't guaranteed every visit but the shelves are stocked daily. Perfect 20-30 min curiosity stop between bigger IC plans.",
+    "url": "https://www.li-lacchocolates.com/pages/visit-our-factory",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "20-30 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-17:30",
+    "notes": "Located at 68 35th St between 2nd & 3rd Ave, ground floor of Industry City (li-lacchocolates.com/visit-our-factory). Weekend hours Sat-Sun 11:00 a.m. - 5:30 p.m. — closes earlier than most IC food vendors, plan it before 5pm. Viewing window shows fudge cooking, hand-dipping, and s'mores enrobing depending on the day; production may not be running during every visit (official site disclaimer). Free samples on request. Sits inside Industry City complex, so weekend lot parking is the same as any other IC stop. Phone (212) 924-2280.",
+    "sources": [
+      {
+        "url": "https://www.li-lacchocolates.com/pages/visit-our-factory",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/li-lac-chocolates/",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/li-lac-chocolates-industry-city-brooklyn-2",
+        "accessed": "2026-05-16T10:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:18:02.904Z"
+  },
+  {
+    "id": "sahadis-atlantic-ave",
+    "name": "Sahadi's (Atlantic Avenue Flagship)",
+    "desc": "1948 Lebanese specialty grocer — open bulk bins of olives, spices, nuts, dips, and Levantine pantry.",
+    "longDesc": "The original Sahadi's, on Atlantic Ave since 1948, is a Brooklyn-rite-of-passage browse experience: deli counter doling out hummus, baba ganoush, muhammara, and labneh by the pound, plus open bins of olives, spices, dried fruit, and house-roasted nuts. Cash-and-stamp queue system slows you down on purpose, which is the point — you wander, sniff, taste samples, and assemble a picnic. Pair with Damascus Bakery two doors down for fresh pita and ka'ak, then continue west on Atlantic for Brooklyn Heights Promenade views.",
+    "url": "https://sahadis.com/pages/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "10:00-19:00",
+    "notes": "187 Atlantic Ave, between Court & Clinton — Cobble Hill / Brooklyn Heights border (sahadis.com). Daily 10a-7p (Yelp, May 2026). Cash-faster than card; deli has its own ticket queue. Street parking on side streets (Henry, Clinton); muni lot at Schermerhorn/Boerum Pl ~5-min walk. From Industry City: Gowanus Expy to Atlantic Ave exit ~12 min off-peak, ~18 min Saturday midday. Anchors a Cobble Hill / Brooklyn Heights cluster alternative to IC: chain with Damascus Bakery (pita, ka'ak), Brooklyn Farmacy egg cream, and Brooklyn Heights Promenade for a full half-day track.",
+    "sources": [
+      {
+        "url": "https://sahadis.com/pages/locations",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sahadis-brooklyn",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://www.business.nyctourism.com/places/sahadis",
+        "accessed": "2026-05-16T10:15:00Z"
+      },
+      {
+        "url": "https://citylore.org/places/sahadis/",
+        "accessed": "2026-05-16T10:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:20:02.137Z"
   }
 ]
