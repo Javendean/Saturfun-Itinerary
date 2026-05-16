@@ -9,6 +9,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="chat/bottom-sheet.css">
+    <!-- Leaflet CSS for the at-a-glance map view (loaded eagerly so first paint of the toggle isn't FOUC'd). -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <style>
         :root {
             --bg-color: #FAFAFA;
@@ -705,6 +709,185 @@
             border-color: var(--text-main);
         }
         .track-collapsed-pill .pill-arrow { font-size: 0.9rem; }
+
+        /* ============================================================
+           AT-A-GLANCE MAP VIEW
+           --------------------
+           Interactive Leaflet map showing every venue from itineraryData
+           as a clickable pin. Collapsed by default so it doesn't eat
+           hero real estate; expands to ~65vh when the user opts in.
+           Tile attribution is required by OpenStreetMap's licence —
+           Leaflet renders it automatically inside .leaflet-control-attribution.
+           ============================================================ */
+        #saturfun-map-section {
+            max-width: 1200px;
+            margin: 1.5rem auto 0;
+            padding: 2.5rem 1.25rem 0;
+            text-align: center;
+        }
+        .map-section-eyebrow {
+            display: inline-block;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            color: var(--text-muted);
+            margin-bottom: 0.6rem;
+        }
+        .map-section-headline {
+            font-size: clamp(1.4rem, 3vw, 2rem);
+            line-height: 1.2;
+            margin: 0 0 0.5rem;
+            color: var(--text-main);
+        }
+        .map-section-sub {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            max-width: 640px;
+            margin: 0 auto 1.25rem;
+        }
+        #saturfun-map-toggle {
+            background: var(--text-main);
+            color: #fff;
+            border: 1px solid var(--text-main);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.78rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            padding: 0.7rem 1.6rem;
+            border-radius: 30px;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
+        }
+        #saturfun-map-toggle:hover { background: #000; transform: translateY(-1px); }
+        #saturfun-map-toggle .toggle-arrow {
+            display: inline-block;
+            font-size: 0.7rem;
+            transition: transform 0.25s ease;
+        }
+        #saturfun-map-section[data-map-open="true"] #saturfun-map-toggle .toggle-arrow {
+            transform: rotate(180deg);
+        }
+        /* Wrapper collapses to height 0 when closed so layout doesn't reserve
+           empty space. Inner #saturfun-map keeps a fixed height so Leaflet
+           can render correctly the first time it becomes visible (Leaflet
+           needs the container to have a non-zero height at init time —
+           we lazily invoke L.map() the first time the user opens it). */
+        .saturfun-map-wrap {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease;
+            margin-top: 0;
+        }
+        #saturfun-map-section[data-map-open="true"] .saturfun-map-wrap {
+            max-height: 1600px; /* big enough to never clip; transition still feels natural */
+            margin-top: 1.5rem;
+        }
+        #saturfun-map {
+            height: 65vh;
+            min-height: 380px;
+            max-height: 720px;
+            width: 100%;
+            border-radius: 14px;
+            border: 1px solid rgba(0,0,0,0.08);
+            box-shadow: 0 14px 28px -16px rgba(0,0,0,0.18);
+            background: #f1efe9; /* soft tile-load placeholder */
+        }
+        .saturfun-map-footer {
+            margin-top: 0.9rem;
+            font-size: 0.82rem;
+            color: var(--text-muted);
+            text-align: center;
+        }
+        .saturfun-map-footer a {
+            color: var(--text-main);
+            font-weight: 600;
+            text-decoration: underline;
+            text-decoration-color: rgba(212,175,55,0.6);
+            text-underline-offset: 3px;
+        }
+        .saturfun-map-footer a:hover { text-decoration-color: var(--accent); }
+
+        /* Custom gold pin markers via Leaflet's divIcon. Small, on-brand,
+           with a subtle white halo so they stay visible on busy tiles. */
+        .saturfun-pin {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 3px solid #fff;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.35), 0 0 0 1px rgba(0,0,0,0.15);
+            cursor: pointer;
+            transition: transform 0.15s ease;
+        }
+        .saturfun-pin:hover { transform: scale(1.15); }
+
+        /* Popup styling — keep it tight and readable on phone. */
+        .leaflet-popup-content-wrapper {
+            border-radius: 10px;
+            padding: 2px 4px;
+        }
+        .leaflet-popup-content {
+            margin: 12px 14px;
+            font-family: 'Inter', sans-serif;
+            max-width: 240px;
+        }
+        .map-popup h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.05rem;
+            line-height: 1.25;
+            margin: 0 0 6px;
+            color: var(--text-main);
+        }
+        .map-popup-meta {
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin: 0 0 8px;
+        }
+        .map-popup-desc {
+            font-size: 0.85rem;
+            line-height: 1.4;
+            color: var(--text-main);
+            margin: 0 0 10px;
+        }
+        .map-popup-cta {
+            display: inline-block;
+            font-size: 0.72rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            color: #c2410c; /* matches existing orange-600 directions accent */
+            text-decoration: none;
+            border-bottom: 2px solid rgba(212,175,55,0.4);
+            padding-bottom: 2px;
+        }
+        .map-popup-cta:hover { color: #9a3412; border-bottom-color: var(--accent); }
+
+        /* Cluster bubble tint — override default leaflet.markercluster blue
+           so it visually agrees with the gold accent. */
+        .marker-cluster-small,
+        .marker-cluster-small div {
+            background-color: rgba(212,175,55,0.30) !important;
+        }
+        .marker-cluster-small div { background-color: rgba(212,175,55,0.65) !important; color: #1c1c1c !important; font-weight: 600; }
+        .marker-cluster-medium,
+        .marker-cluster-medium div { background-color: rgba(212,175,55,0.30) !important; }
+        .marker-cluster-medium div { background-color: rgba(212,175,55,0.7) !important; color: #1c1c1c !important; font-weight: 600; }
+        .marker-cluster-large,
+        .marker-cluster-large div { background-color: rgba(212,175,55,0.35) !important; }
+        .marker-cluster-large div { background-color: rgba(212,175,55,0.8) !important; color: #1c1c1c !important; font-weight: 700; }
+
+        @media (max-width: 640px) {
+            #saturfun-map-section { padding: 2rem 0.9rem 0; }
+            #saturfun-map { height: 60vh; min-height: 320px; border-radius: 10px; }
+            .map-popup { max-width: 200px; }
+        }
 
         /* ============================================================
            SCHEDULE VIEW — vertical timeline of stops + transit segments.
@@ -1439,6 +1622,30 @@
                 <button type="button" class="alts-reset-track" id="alts-reset-track">↻ Reset entire track</button>
             </footer>
         </aside>
+
+        <!-- AT-A-GLANCE MAP VIEW
+             Interactive Leaflet map of every venue in itineraryData. Collapsed
+             by default; the user opts in. Markers are joined at runtime with
+             coords from data/venue-coords.json (generated by tools/geocode-venues.mjs).
+             Footer links to the optional KML import for Google My Maps. -->
+        <section id="saturfun-map-section" aria-labelledby="saturfun-map-heading" data-map-open="false">
+            <span class="map-section-eyebrow">See it all on one map</span>
+            <h2 id="saturfun-map-heading" class="map-section-headline">Every spot, one map · 67 venues across Brooklyn, Manhattan &amp; Queens</h2>
+            <p class="map-section-sub">Pan and zoom to see what's nearby at any point in the day. Tap a pin for venue details and one-tap directions.</p>
+            <button type="button" id="saturfun-map-toggle" aria-expanded="false" aria-controls="saturfun-map">
+                <span class="toggle-label">Show map</span>
+                <span class="toggle-arrow" aria-hidden="true">▾</span>
+            </button>
+            <div class="saturfun-map-wrap">
+                <div id="saturfun-map" role="region" aria-label="Interactive map of all Saturfun venues"></div>
+                <p class="saturfun-map-footer">
+                    Want this inside Google Maps natively?
+                    <a href="https://www.google.com/maps/d/u/0/" target="_blank" rel="noopener" id="saturfun-mymaps-link">Import the KML file →</a>
+                    &nbsp;·&nbsp;
+                    <a href="data/saturfun-venues.kml" download id="saturfun-kml-download">Download KML</a>
+                </p>
+            </div>
+        </section>
 
         <!-- ITINERARY CONTAINER -->
         <section id="itinerary-list">
@@ -3043,6 +3250,11 @@
         },
     ];
 
+    // Expose itineraryData to the at-a-glance map module (which lives in a
+    // separate <script> tag at the end of the document) so it can render
+    // markers without re-parsing the literal.
+    window.itineraryData = itineraryData;
+
     const container = document.getElementById('itinerary-list');
 
     // ---- Schema-aware render helpers --------------------------------------
@@ -3973,6 +4185,181 @@
             });
         });
     };
+</script>
+
+<!-- Leaflet + leaflet.markercluster for the at-a-glance map view. Loaded
+     here (after the main render) so they don't block first paint. -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+    // ============================================================
+    // AT-A-GLANCE MAP — Leaflet init + lazy marker hydration
+    // ============================================================
+    // Defers L.map() until the user opens the section so we don't
+    // pay the tile-load cost on every page view. Re-uses the global
+    // `itineraryData` (defined inline above) joined with a fetched
+    // venue-coords.json file. All-free stack: OpenStreetMap tiles,
+    // no API key required.
+    (function initSaturfunMap() {
+        const section = document.getElementById('saturfun-map-section');
+        const toggle = document.getElementById('saturfun-map-toggle');
+        const mapEl = document.getElementById('saturfun-map');
+        if (!section || !toggle || !mapEl) return;
+
+        // Saturfun branding accent — matches --accent in :root.
+        const ACCENT = '#D4AF37';
+        // Initial view: centered between Industry City and Brooklyn Heights
+        // at zoom 12 so the user immediately sees every cluster.
+        const CENTER = [40.6700, -73.9950];
+        const INIT_ZOOM = 12;
+
+        let mapInstance = null;
+        let coordsPromise = null;
+
+        function fetchCoords() {
+            if (coordsPromise) return coordsPromise;
+            // Cache-bust by ?v= so the new coords data lands when we push
+            // updates to GitHub Pages without users having to hard-refresh.
+            coordsPromise = fetch('data/venue-coords.json?v=' + (window.SATURFUN_BUILD || Date.now()))
+                .then(r => {
+                    if (!r.ok) throw new Error('HTTP ' + r.status);
+                    return r.json();
+                })
+                .catch(err => {
+                    console.warn('[saturfun-map] coords fetch failed:', err);
+                    return {};
+                });
+            return coordsPromise;
+        }
+
+        function escapeHtml(s) {
+            return String(s == null ? '' : s)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+        }
+
+        function zoneText(z) { return (z || '').replace(/-/g, ' '); }
+
+        function buildPopupHtml(place) {
+            const zt = zoneText(place.zone);
+            const directionsQuery = encodeURIComponent(
+                `${place.name} ${zt} Brooklyn NY`.replace(/\s+/g, ' ').trim()
+            );
+            const directionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${directionsQuery}&travelmode=driving`;
+            const metaBits = [];
+            if (zt) metaBits.push(escapeHtml(zt));
+            if (place.duration) metaBits.push(escapeHtml(place.duration));
+            if (place.priceBand) metaBits.push(escapeHtml(place.priceBand));
+            return (
+                '<div class="map-popup">' +
+                    '<h3>' + escapeHtml(place.name) + '</h3>' +
+                    (metaBits.length ? '<p class="map-popup-meta">' + metaBits.join(' · ') + '</p>' : '') +
+                    (place.desc ? '<p class="map-popup-desc">' + escapeHtml(place.desc) + '</p>' : '') +
+                    '<a href="' + directionsUrl + '" target="_blank" rel="noopener" class="map-popup-cta">Get Directions →</a>' +
+                '</div>'
+            );
+        }
+
+        function hydrateMap() {
+            if (mapInstance) return;
+            if (typeof L === 'undefined') {
+                console.warn('[saturfun-map] Leaflet not loaded yet');
+                return;
+            }
+
+            mapInstance = L.map(mapEl, {
+                zoomControl: true,
+                scrollWheelZoom: true,
+                center: CENTER,
+                zoom: INIT_ZOOM,
+            });
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            }).addTo(mapInstance);
+
+            // Use marker clustering if it loaded (graceful fallback to plain
+            // L.layerGroup so missing CDN doesn't break the map entirely).
+            const layer = (typeof L.markerClusterGroup === 'function')
+                ? L.markerClusterGroup({
+                    showCoverageOnHover: false,
+                    spiderfyOnMaxZoom: true,
+                    disableClusteringAtZoom: 16,
+                    maxClusterRadius: 45,
+                })
+                : L.layerGroup();
+
+            const pinIcon = L.divIcon({
+                className: 'saturfun-pin-wrap',
+                html: '<div class="saturfun-pin"></div>',
+                iconSize: [18, 18],
+                iconAnchor: [9, 9],
+                popupAnchor: [0, -10],
+            });
+
+            fetchCoords().then(coords => {
+                let added = 0;
+                const bounds = [];
+                if (!Array.isArray(window.itineraryData)) {
+                    console.warn('[saturfun-map] itineraryData not in scope');
+                    return;
+                }
+                for (const checkpoint of window.itineraryData) {
+                    for (const place of (checkpoint.places || [])) {
+                        const c = coords[place.id];
+                        if (!c || !Number.isFinite(c.lat) || !Number.isFinite(c.lng)) continue;
+                        const marker = L.marker([c.lat, c.lng], { icon: pinIcon, title: place.name });
+                        marker.bindPopup(buildPopupHtml(place), { maxWidth: 260 });
+                        layer.addLayer(marker);
+                        bounds.push([c.lat, c.lng]);
+                        added++;
+                    }
+                }
+                mapInstance.addLayer(layer);
+                mapInstance.__saturfunMarkerCount = added;
+                if (bounds.length >= 2) {
+                    // Snap to fit all venues with a little padding so pins
+                    // near the edges aren't clipped behind the controls.
+                    mapInstance.fitBounds(bounds, { padding: [30, 30], maxZoom: 14 });
+                }
+                console.log('[saturfun-map] added', added, 'markers');
+            });
+
+            // Leaflet needs invalidateSize() if the container was hidden
+            // when L.map() was called — the CSS max-height expand can
+            // race the init. Schedule one tick after expand.
+            requestAnimationFrame(() => {
+                requestAnimationFrame(() => mapInstance.invalidateSize());
+            });
+        }
+
+        function setOpen(open) {
+            section.setAttribute('data-map-open', open ? 'true' : 'false');
+            toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+            toggle.querySelector('.toggle-label').textContent = open ? 'Hide map' : 'Show map';
+            if (open) {
+                hydrateMap();
+                // After expand transition completes, give Leaflet a final
+                // size recompute (the wrap finishes growing to its full
+                // max-height ~400ms later).
+                setTimeout(() => { if (mapInstance) mapInstance.invalidateSize(); }, 450);
+            }
+        }
+
+        toggle.addEventListener('click', () => {
+            const isOpen = section.getAttribute('data-map-open') === 'true';
+            setOpen(!isOpen);
+        });
+
+        // Expose itineraryData to window so the map can read it without
+        // hoisting concerns — the main inline script defines it as a
+        // const inside its own scope so we have to re-export. We do
+        // this from inside the main inline script too (next edit).
+    })();
 </script>
 
 <!-- Saturfun chat (bottom-sheet). Locked surfaces above this point. -->
