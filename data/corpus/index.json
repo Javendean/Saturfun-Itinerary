@@ -2925,39 +2925,44 @@
   },
   {
     "id": "bohemian-hall-beer-garden",
-    "name": "Bohemian Hall & Beer Garden (Astoria)",
-    "desc": "NYC's oldest beer garden — 1910 Czech hall with a tree-shaded backyard, pierogi, and pilsner",
-    "longDesc": "Opened in 1910 by the Bohemian Citizens' Benevolent Society, this is the last survivor of New York's pre-Prohibition beer-garden era. The massive backyard seats hundreds at communal picnic tables under shade trees, with Czech drafts, pierogi, schnitzel, and goulash from the kitchen. It's an unusually drive-friendly Astoria stop — two municipal lots sit one block away on 33rd St between Ditmars and 23rd Ave, and Sunday street parking is realistic.",
+    "name": "Bohemian Hall & Beer Garden",
+    "desc": "NYC's oldest beer garden (est. 1910) — Czech-Slovak pilsners, pierogi, and a tree-shaded backyard that seats hundreds.",
+    "longDesc": "Operated by the Bohemian Citizens' Benevolent Society since 1910 and famously surviving Prohibition, this Astoria institution pairs a cavernous indoor hall (dart leagues, polka nights) with a huge gravel beer garden under string lights. The kitchen runs Czech-Slovak comfort food — pierogi, goulash, schnitzel, kielbasa, lentil soup, giant soft pretzels — alongside Pilsner Urquell, Krušovice, Staropramen and rotating Czech taps. Weekend afternoons get crowded fast; arrive before 2pm to grab a picnic table.",
     "url": "https://bohemianhall.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "chill",
-      "foodie"
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "90-120 min",
-    "driveFromIC": "30 min",
+    "driveFromIC": "28 min",
     "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
-    "notes": "Actually in Astoria (29-19 24th Ave, Queens) — zoned `greenpoint` only because the corpus enum lacks an Astoria/LIC slot; flag for schema growth. NYC's oldest continuously operating beer garden, est. 1910 (bohemianhall.com). Two municipal lots on 33rd St between Ditmars & 23rd Ave plus easy Sunday street parking (yelp.com). Tree-shaded picnic tables fit large weekend groups. From IC: Gowanus→BQE→Triborough, ~30 min off-peak.",
+    "notes": "Actually located in Astoria, Queens — bucketed under 'greenpoint' as nearest available zone (it's directly across Newtown Creek). Address: 29-19 24th Ave, Astoria, NY 11102 (bohemianhall.com). Walkable 8 blocks from Taverna Kyclades, so pairs naturally as a Queens-day post-dinner stop. Street parking is the norm — no dedicated lot, but the 24th Ave / 31st St blocks usually have weekend spots; same parking pattern as Kyclades (Bohemian Hall website; Yelp Updated May 2026). Cash bar at entry kiosk for beer tickets is the traditional flow. Vegetarian-doable via pierogi, lentil soup, pretzels, fried cheese; not strong for vegan or gluten-free. No reservations for the outdoor garden — first come, first served.",
     "sources": [
       {
-        "url": "https://bohemianhall.com/direction-hours/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://bohemianhall.com/",
+        "accessed": "2026-05-16T19:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/bohemian-hall-and-beer-garden-astoria",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T19:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/bohemian-hall-and-beer-garden",
+        "accessed": "2026-05-16T19:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:59:52.673Z"
+    "lastResearchedAt": "2026-05-16T19:17:58.523Z"
   },
   {
     "id": "brooklyn-museum",
@@ -7729,41 +7734,41 @@
   {
     "id": "socrates-sculpture-park",
     "name": "Socrates Sculpture Park",
-    "desc": "Free 5-acre East River sculpture park with rotating outdoor exhibitions and Manhattan skyline views",
-    "longDesc": "A former illegal dumpsite reclaimed by sculptor Mark di Suvero in 1986, Socrates is now a 5-acre waterfront art park on Vernon Blvd with rotating large-scale outdoor sculpture and the Hallets Cove beach access. The 2025–26 'Socrates Annual: Up/Rooted' commission runs through June 8, 2026, with new works installed across the lawn and shoreline. Open daily 9am to sunset, free admission, and unbeatable golden-hour sightlines across the East River to the UN and midtown Manhattan.",
+    "desc": "Free 4.5-acre waterfront sculpture park in Astoria with Manhattan skyline backdrop.",
+    "longDesc": "Outdoor museum on the East River at 32-01 Vernon Blvd in Astoria/LIC, with rotating large-scale commissioned sculpture set against an unobstructed Manhattan skyline. Open daily 9am to sunset, free admission, no tickets required (socratessculpturepark.org). Quick pre-dinner walk-through (30-45 min) that pairs cleanly with Kyclades on the Queens track.",
     "url": "https://socratessculpturepark.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "photo",
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "28 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "09:00-sunset",
-    "notes": "Geographically in Long Island City/Astoria, Queens — not Brooklyn; mapped to greenpoint as the closest available zone since Newtown Creek is the only thing between them. Free admission, no tickets. Parking: no on-site lot, but free street parking is usually findable on Vernon Blvd and the side streets, plus a small public lot at 33rd Rd & Vernon next to Rainey Park (source: socratessculpturepark.org/visit). Pairs naturally with Bohemian Hall Beer Garden 8 min north or with an Astoria food crawl. Current exhibition 'Up/Rooted' through 2026-06-08 (source: socratessculpturepark.org). Park closes at 1pm on US holidays — verify before sending users on a holiday weekend.",
+    "notes": "Actually located in Astoria/LIC (Queens), not Greenpoint — closest zone in current enum. ~8 min drive from Kyclades (33-07 Ditmars Blvd), making it an ideal pre-dinner stop on the Queens track. No on-site parking; use street parking in the neighborhood or the small public lot at 33rd Rd & Vernon Blvd next to Rainey Park (socratessculpturepark.org/visit/directions-and-hours). Free admission, golden-hour light on the Manhattan skyline is the photo payoff. Closes early (1 PM) on US holidays.",
     "sources": [
       {
-        "url": "https://socratessculpturepark.org/visit/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://socratessculpturepark.org/visit/directions-and-hours/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T19:15:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Socrates_Sculpture_Park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://socratessculpturepark.org/about-us/faqs/",
+        "accessed": "2026-05-16T19:15:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/socrates-sculpture-park",
+        "accessed": "2026-05-16T19:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:21:27.372Z"
+    "lastResearchedAt": "2026-05-16T19:23:19.023Z"
   },
   {
     "id": "casa-enrique-lic",
@@ -16917,5 +16922,144 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T19:06:31.699Z"
+  },
+  {
+    "id": "rainey-park",
+    "name": "Rainey Park (Astoria Waterfront)",
+    "desc": "Free East River promenade on Vernon Blvd — direct skyline views, contiguous with Socrates Sculpture Park",
+    "longDesc": "Reopened July 2025 after an $8.5M reconstruction, Rainey Park is a 7.6-acre waterfront strip in Astoria/LIC running along the East River with unobstructed views of Roosevelt Island and the Midtown Manhattan skyline. The new layout adds expanded greenways, a spray plaza, two-section playground, soccer field, basketball courts, picnic areas, and bike racks. Walk the promenade north and you flow straight into Socrates Sculpture Park, then Hallets Cove — a single Vernon Blvd parking session unlocks ~0.6 mi of continuous skyline walking.",
+    "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "ACTUAL LOCATION: Vernon Blvd between 33rd Rd & 34th Ave, Astoria, Queens 11106 — not Brooklyn (zone enum forced to closest waterfront analog `dumbo`). Drive from Industry City via Gowanus/BQE ~25 min weekend, longer weekdays. Free street parking on Vernon Blvd; Socrates Sculpture Park's free lot (32-01 Vernon Blvd, ~2 min walk south) is the standard anchor — park once, walk the whole strip. Reopened 2025-07-09 after $8.5M NYC Parks reconstruction; pre-2025 photos show the old layout (source: qns.com 2025-07; nycdotprojects.info). Skyline views face west across the East River toward Roosevelt Island + Midtown — best light is late afternoon / golden hour. Sunset views especially strong June-September. Park officially closes 21:00; promenade walkway technically accessible later but unlit sections exist.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
+        "accessed": "2026-05-16T19:15:00Z"
+      },
+      {
+        "url": "https://qns.com/2025/07/rainey-park-in-astoria-reopens-after-8-5-million-transformation/",
+        "accessed": "2026-05-16T19:15:00Z"
+      },
+      {
+        "url": "https://nycdotprojects.info/project-updates/astorias-rainey-park-reopens",
+        "accessed": "2026-05-16T19:15:00Z"
+      },
+      {
+        "url": "https://mommypoppins.com/new-york-city-kids/parks-playgrounds/rainey-park-reopens-astoria-queens-kids",
+        "accessed": "2026-05-16T19:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:12:42.417Z"
+  },
+  {
+    "id": "astoria-park-pool-hellgate",
+    "name": "Astoria Park & Pool (Hell Gate Bridge views)",
+    "desc": "NYC's largest/oldest free outdoor pool, riverside promenade framed by the Hell Gate and RFK bridges.",
+    "longDesc": "Astoria Park anchors NW Queens with a 54,450 sq ft Olympic-trial-era pool (the city's biggest, free) plus the Shore Boulevard Promenade hugging the East River directly beneath the steel arch of the Hell Gate Bridge. Outside pool season (late June through early September) the park still delivers a running track, picnic lawns, and the most cinematic ground-level Hell Gate + RFK Triboro framing in the city. Pair with Socrates Sculpture Park and Bohemian Hall to make a full Queens day from Industry City.",
+    "url": "https://www.nycgovparks.org/parks/astoria-park/facilities/outdoor-pools/astoria-pool",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "Park 06:00-23:00; Pool (summer only) 11:00-15:00 & 16:00-19:00",
+    "notes": "Free admission. Pool open ~late-June to early-September with a daily 3-4pm cleaning break (NYC Parks). NYC public-pool rules: plain white t-shirt over swimsuit required to enter deck, padlock required for locker, no phones/cameras in pool area. Weekend parking lot at park entrance on 19th St and a second lot under the RFK Bridge at Hoyt Ave N. Shore Boulevard Promenade is the photo spot — best light is golden hour for Hell Gate Bridge silhouettes. Drive from IC: BQE north to Triborough/RFK Bridge, ~30 min off-peak weekend.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/astoria-park/facilities/outdoor-pools/astoria-pool",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://astoriapost.com/astoria-pool-opens-june-27th-kicking-off-outdoor-swim-season",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/astoria-park",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Astoria_Park",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:15:39.910Z"
+  },
+  {
+    "id": "bier-and-cheese-collective-astoria",
+    "name": "The Bier and Cheese Collective (Ditmars)",
+    "desc": "Curated craft-beer bottle shop + cheese counter — customize a 4-pour flight to pair with a cheese board.",
+    "longDesc": "The surviving Astoria outpost of the former Astoria Bier & Cheese (the Broadway location closed in 2025), this Ditmars storefront keeps the same beer-and-cheese DNA: 12 rotating taps with build-your-own 4-beer flights, mix-and-match six-packs from 200+ bottles/cans, and a counter of cheeses and charcuterie cut to order. Pairing plates and meat-and-cheese boards make it a low-effort late-afternoon graze; staff are working cheesemongers and will guide flights if you ask. Adjacent to the Astoria–Ditmars N/W terminus on the 31st St corridor.",
+    "url": "https://www.bierandcheese.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-19:00",
+    "notes": "IMPORTANT: the user-named location (Astoria Bier & Cheese, 34-14 Broadway) permanently closed in 2025 per Queens Post (https://queenspost.com/over-50-businesses-close-in-astoria-in-the-past-two-years-latest-being-selo-restaurant-on-broadway). This entry redirects to the operating sister bar at 35-11 Ditmars Blvd under the rebranded name 'The Bier and Cheese Collective' — same owners, same craft-beer-plus-cheese concept (bierandcheese.com). Located in Astoria, Queens (not Brooklyn — zone field set to nearest geographic enum value 'greenpoint' which borders Astoria across Newtown Creek). Drive from Industry City ~28-32 min via BQE — past the user's 10-25 min preferred radius, justified only as a third-stop add-on to a Greek-meal anchor in Astoria. Build-your-own 4-beer flight (12 taps), pairing plates pair four 5oz pours with labeled cheeses (~$18 at the prior Broadway shop; menu rotates with kegs). Weekend parking generally findable on side streets off Ditmars (29th-33rd Sts); Sundays suspend alternate-side rules. Vegetarian-friendly by default; vegan/GF require staff guidance on individual cheeses.",
+    "sources": [
+      {
+        "url": "https://www.bierandcheese.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/astoria-bier-cheese/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/the-bier-and-cheese-collective/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-bier-and-cheese-collective-astoria",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://queenspost.com/over-50-businesses-close-in-astoria-in-the-past-two-years-latest-being-selo-restaurant-on-broadway",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.beermenus.com/places/15142-astoria-bier-and-cheese-ditmars",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:21:05.827Z"
   }
 ]

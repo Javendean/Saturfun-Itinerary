@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Rainey Park waterfront promenade (Vernon Blvd & 33rd Rd) — free skyline strip adjacent to Socrates parking lot",
-    "reason": "Lets the itinerary stretch a single drive into a 60-min Vernon Blvd walk (Rainey → Socrates → Hallets Cove) without re-parking",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:21:27.378Z"
-  },
-  {
-    "topic": "Astoria Park public pool & Hell Gate Bridge views (19th St & 23rd Dr)",
-    "reason": "Larger free outdoor anchor 10 min further north; completes a NW Queens trio (Socrates + Bohemian + Astoria Park) the corpus currently lacks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:21:27.378Z"
-  },
-  {
-    "topic": "Bohemian Hall & Beer Garden (Astoria) — Czech-Slovak biergarten 8 blocks from Taverna Kyclades",
-    "reason": "Completes the Astoria food backbone; same parking lots, walkable from Kyclades — anchors a Queens-day track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:23:35.323Z"
-  },
-  {
-    "topic": "Astoria Bier & Cheese (31st St, Astoria) — late-afternoon cheese flight + craft beer",
-    "reason": "Lighter Astoria third-stop option for a Greek-then-grazing arc; adjacent to N/W line",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:23:35.323Z"
-  },
-  {
-    "topic": "Socrates Sculpture Park (Astoria waterfront) — free outdoor sculpture park with Manhattan skyline view",
-    "reason": "Pre-dinner photo/curious vibe within 10 min drive of Kyclades; extends the Queens track beyond food",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:23:35.323Z"
-  },
-  {
     "topic": "Taverna Kyclades Astoria",
     "reason": "Iconic Greek seafood ~5 min from MoMI — natural lunch pairing on a curious/foodie Astoria day",
     "requestedBy": "agent",
@@ -4924,5 +4894,95 @@
     "reason": "Adds an Astoria food anchor to close the loop on a NW Queens track after museums",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T19:10:23.979Z"
+  },
+  {
+    "topic": "Hallets Cove waterfront (Astoria, 8th St & Astoria Blvd)",
+    "reason": "Northern endpoint of the Vernon Blvd skyline walk — completes the Rainey → Socrates → Hallets corridor and lets the itinerary stretch the single parking event to ~0.6 mi of continuous waterfront",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:12:42.431Z"
+  },
+  {
+    "topic": "Noguchi Museum (9-01 33rd Rd, Long Island City)",
+    "reason": "Directly across Vernon Blvd from Socrates parking lot — indoor sculpture pairing for the same parking anchor, rainy-day fallback for the waterfront strip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:12:42.431Z"
+  },
+  {
+    "topic": "Bohemian Hall & Beer Garden (29-19 24th Ave, Astoria)",
+    "reason": "Closest evening food/drink anchor to the Vernon Blvd waterfront cluster — Czech beer garden ~6 min drive from Rainey, weekend parking on 24th Ave; converts the waterfront walk into a full afternoon→evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:12:42.431Z"
+  },
+  {
+    "topic": "Pye Boat Noodle (35-13 Broadway, Astoria) — Thai boat-noodle anchor 8 min drive from Astoria Park",
+    "reason": "Adds a post-swim dinner stop inside the NW Queens cluster; foodie tag the cluster currently lacks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:15:39.924Z"
+  },
+  {
+    "topic": "Rainey Park waterfront (Vernon Blvd, LIC/Astoria border) — quieter Manhattan-skyline promenade",
+    "reason": "Lower-traffic alternative to Socrates with the same Roosevelt Island/Manhattan view; fills a chill/photo slot between Socrates and Astoria Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:15:39.924Z"
+  },
+  {
+    "topic": "Sanford's Restaurant (30-13 Broadway, Astoria) — 24hr diner with full bar",
+    "reason": "Late-night anchor for any Queens itinerary; covers the 'after everything else closes' slot the corpus is thin on",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:15:39.924Z"
+  },
+  {
+    "topic": "Sek'end Sun (Astoria cocktail bar, ~10 min walk from Bohemian Hall)",
+    "reason": "Late-night cocktail nightcap closes the Queens-day track without leaving the neighborhood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:17:58.537Z"
+  },
+  {
+    "topic": "Astoria Park & Hell Gate Bridge waterfront (free, photogenic)",
+    "reason": "Daytime photo/active anchor that pairs with Kyclades + Bohemian Hall on a Queens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:17:58.537Z"
+  },
+  {
+    "topic": "Mar's Astoria (oysters + seafood, 31st Ave)",
+    "reason": "Alt food anchor for the Astoria cluster if the user wants raw bar instead of Greek seafood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:17:58.537Z"
+  },
+  {
+    "topic": "Taverna Kyclades (Ditmars, Astoria) — Greek anchor for an Astoria third-stop arc",
+    "reason": "Pairs naturally with the cheese-flight as the 'Greek-then-grazing' meal anchor the user described, walking distance from Bier & Cheese Collective",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:21:05.844Z"
+  },
+  {
+    "topic": "Bohemian Hall & Beer Garden (24th Ave, Astoria) — alternative beer-forward Astoria stop with outdoor seating",
+    "reason": "If the cheese-flight is too light, the historic beer garden is a heavier-vibe substitute within the same N/W corridor cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:21:05.844Z"
+  },
+  {
+    "topic": "Sunny's Bar (Red Hook) — chill bar alternative within the 10-25 min IC radius",
+    "reason": "If Astoria's drive time disqualifies the cheese-flight option, Sunny's gives a comparable 'chill third stop' inside the preferred drive band",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:21:05.844Z"
+  },
+  {
+    "topic": "Noguchi Museum (9-01 33rd Rd, LIC)",
+    "reason": "Literally next door to Socrates — natural sculpture-park + indoor-gallery pairing for a more 'curious' Queens-track variant; paid admission, weekend hours 11-6",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:23:19.044Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park (LIC waterfront, Center Blvd)",
+    "reason": "Alternate Queens photo spot with the iconic Pepsi-Cola sign and direct Midtown skyline view; ~5 min from Kyclades, fully free",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:23:19.044Z"
+  },
+  {
+    "topic": "Rainey Park (Vernon Blvd & 34th Ave, Astoria)",
+    "reason": "Adjacent green space with the actual public parking lot Socrates visitors use — worth its own entry as a low-key picnic alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T19:23:19.044Z"
   }
 ]
