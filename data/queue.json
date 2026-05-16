@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Best driving-friendly coffee spots in Industry City, Sunset Park, or 10-15 min drive radius",
-    "reason": "expand 11:30 AM Coffee block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Specialty pastry / morning bakery near Industry City with weekend parking",
-    "reason": "expand 11:30 AM Coffee block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Pre-dinner dinner alternatives in Red Hook, Carroll Gardens, Cobble Hill, Park Slope",
-    "reason": "expand 6:30 PM Dinner block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Distinctive Brooklyn dinner spots within 15 min drive of Industry City, vegetarian-friendly",
-    "reason": "expand 6:30 PM Dinner block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Late-evening dessert venues open past 9 PM in Sunset Park, Brooklyn Chinatown, Williamsburg",
-    "reason": "expand 8:00 PM Dessert block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
     "topic": "Korean / Japanese / Taiwanese dessert shops within driving radius of IC",
     "reason": "expand 8:00 PM Dessert block",
     "requestedBy": "seed",
@@ -386,5 +356,101 @@
     "reason": "evening anchor that extends a Japan Village afternoon into a late-night track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T04:26:21.101Z"
+  },
+  {
+    "topic": "Re-research existing venue: City League Coffee Roasters (6808 4th Ave, Sunset Park)",
+    "reason": "Family-run Sunset Park roaster with weekend 8am-4pm hours, hosts coffee classes — closest serious-coffee option to Industry City for a 5-min-drive morning anchor.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:28:34.276Z"
+  },
+  {
+    "topic": "Re-research existing venue: Yafa Cafe (Yemeni coffee, Sunset Park)",
+    "reason": "Specialty Yemeni pour-over (pistachio cappuccino, cardamom brown sugar latte) — adds a culturally distinct coffee track to the Sunset Park cluster, complements food-track Yemeni/halal stops.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:28:34.276Z"
+  },
+  {
+    "topic": "Re-research existing venue: Abbotsford Road Coffee Specialists (Red Hook)",
+    "reason": "Premium roaster supplying many Brooklyn cafes — strengthens Red Hook coffee depth and gives a back-up if Cafe Here is at capacity on a weekend morning.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:28:34.276Z"
+  },
+  {
+    "topic": "Bien Cuit Cobble Hill bakery — driving-friendly viennoiserie destination",
+    "reason": "Top-rated dark-bake croissants ~12 min drive from IC; strong alt for a Cobble Hill cluster morning",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:30:46.273Z"
+  },
+  {
+    "topic": "Xin Fa Bakery Sunset Park — Hong Kong-style egg tarts",
+    "reason": "Walking distance from IC; adds a non-European morning-bake option and cross-cultural variety to the Coffee block",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:30:46.273Z"
+  },
+  {
+    "topic": "La Flor de Izúcar Sunset Park — Mexican pan dulce and conchas",
+    "reason": "Sub-5-min drive from IC; expands the morning corpus with a dietary/foodie pan-dulce option and pairs with café con leche",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:30:46.273Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino Carroll Gardens — early dinner with garden",
+    "reason": "Iconic Carroll Gardens Italian, ~12 min from IC, reservations possible, complementary mid-priced dinner option for the 6:30 PM block when guests want sit-down vs. BBQ counter",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:33:02.013Z"
+  },
+  {
+    "topic": "Defonte's of Brooklyn Red Hook — heroes pre-dinner snack",
+    "reason": "Adjacent Red Hook anchor; a half-hero stop turns Hometown into a two-stop Red Hook track, expanding the geographic-track corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:33:02.013Z"
+  },
+  {
+    "topic": "Brooklyn Crab Red Hook — three-story waterfront seafood",
+    "reason": "Another Red Hook dinner anchor with parking + sunset views over NY Harbor; gives the Red Hook cluster a non-BBQ dinner alternative for the same zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:33:02.013Z"
+  },
+  {
+    "topic": "Claro Gowanus — Michelin-starred Oaxacan with house-nixtamalized corn, 6 min from IC",
+    "reason": "Closer to IC than Frankies and Michelin-rated; vegetarian options exist (sweet potato taco, Maria Sabina mushroom) with advance notice — strong alternate dinner anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:36:07.448Z"
+  },
+  {
+    "topic": "Rucola Boerum Hill — Northern Italian, candlelit, strong vegetable-forward menu",
+    "reason": "Fills the 'romantic intimate Italian' slot in a different zone (Boerum Hill) at similar drive time, broadens neighborhood coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:36:07.448Z"
+  },
+  {
+    "topic": "Sans Williamsburg — fully vegetarian/vegan tasting-menu spot from OpenTable 2026 list",
+    "reason": "User corpus currently lacks a 100%-vegetarian destination restaurant; Sans would unlock vegan-friend itineraries without the 'vegetarian-friendly steakhouse' compromise",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:36:07.448Z"
+  },
+  {
+    "topic": "Re-research existing venue: Olmsted Prospect Heights (verify closure status)",
+    "reason": "Yelp shows CLOSED tag as of May 2026 — needs confirmation and removal/replacement in any existing itinerary references",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:36:07.449Z"
+  },
+  {
+    "topic": "Van Leeuwen Ice Cream Williamsburg late-night hours and signature flavors",
+    "reason": "classic ice-cream anchor for an 8-10pm dessert slot, multiple Williamsburg locations driveable from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:39:21.120Z"
+  },
+  {
+    "topic": "Lighthouse Outpost or Bakeri Williamsburg late-evening dessert and pastry availability",
+    "reason": "second Williamsburg dessert option to diversify beyond Taiwanese-American — Scandinavian/European pastry angle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:39:21.120Z"
+  },
+  {
+    "topic": "Soft Swerve or Chinatown Ice Cream Factory Brooklyn locations open past 9pm",
+    "reason": "Asian-flavor soft-serve niche covers the Brooklyn Chinatown gap that 8th Ave bakeries leave open after 6pm",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:39:21.120Z"
   }
 ]
