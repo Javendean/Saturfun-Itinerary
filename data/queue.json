@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Greenpoint coffee with street parking on the LIC return leg",
-    "reason": "Closes the loop back toward IC via the Pulaski Bridge with a curated coffee stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:23:34.781Z"
-  },
-  {
-    "topic": "Best soup dumplings in Sunset Park or Industry City (Brooklyn alternative to Joe's Shanghai)",
-    "reason": "If we can find a strong Brooklyn xiao long bao spot, future itineraries can avoid the Manhattan detour entirely",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:25:38.904Z"
-  },
-  {
-    "topic": "Chrystie Street public parking lot Chinatown weekend rates",
-    "reason": "Parking logistics directly affect whether Joe's Shanghai is itinerary-viable for a driving user",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:25:38.904Z"
-  },
-  {
-    "topic": "Nom Wah Tea Parlor Doyers Street dim sum",
-    "reason": "Walking-distance Chinatown pairing if itinerary justifies the Manhattan leg with two stops instead of one",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:25:38.904Z"
-  },
-  {
-    "topic": "Re-research existing venue: hauser-wirth-wooster",
-    "reason": "Wooster St anchor for SoHo extension of the walk; deserves its own entry for itineraries that skip Tribeca and start in SoHo",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:28:21.373Z"
-  },
-  {
     "topic": "Re-research existing venue: edison-parkfast-thomas-st",
     "reason": "Reliable weekend parking for any Tribeca/SoHo stop; recurring dependency across Manhattan candidates",
     "requestedBy": "agent",
@@ -5818,5 +5788,101 @@
     "reason": "Ramen-shaped option for the same Industry City→LIC detour; differentiates from Casa Enrique on cuisine and pace (faster turn).",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T22:05:25.273Z"
+  },
+  {
+    "topic": "Variety Coffee Roasters Greenpoint (Manhattan Ave) — driving-friendly evaluation",
+    "reason": "Strong second-wave-of-third-wave option; need to assess whether Manhattan Ave parking ever works on weekends or if it's a non-starter vs Freeman St",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:07:51.429Z"
+  },
+  {
+    "topic": "Champion Coffee Greenpoint (West St) — return-leg coffee candidate",
+    "reason": "Closest cafe to the Pulaski Bridge landing — quieter than Sweetleaf, expands the Greenpoint coffee corpus with an even faster in-and-out option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:07:51.429Z"
+  },
+  {
+    "topic": "Devoción Williamsburg (Grand St) flagship — driving evaluation",
+    "reason": "Direct-trade Colombian roaster with the moss wall photo moment; tests whether the Williamsburg cluster has a coffee anchor strong enough to compete with Greenpoint on the LIC return route",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:07:51.429Z"
+  },
+  {
+    "topic": "Pacificana dim sum hall Sunset Park 813 55th St — weekend cart service + XLB",
+    "reason": "Cantonese dim sum cart palace ~5 min from IC; pairs differently than a quick counter, gives weekend brunch option with XLB on the cart menu",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:10:30.313Z"
+  },
+  {
+    "topic": "Mr Bun Bensonhurst 2048 86th St — thin-skin pork and crab xiao long bao",
+    "reason": "Frequently cited as Brooklyn's best XLB; ~10-12 min drive from IC with street parking, anime-decor casual vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:10:30.313Z"
+  },
+  {
+    "topic": "Liu's Shanghai pork and dried scallop xiao long bao Brooklyn",
+    "reason": "Infatuation singles out their pork-and-scallop XLB as a city-wide favorite; worth a research pass to confirm current Brooklyn location and IC drive time",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:10:30.313Z"
+  },
+  {
+    "topic": "Joe's Shanghai 46 Bowery weekend wait times soup dumplings",
+    "reason": "The anchor restaurant this parking research enables — need its hours, wait realities, and whether it's worth the Manhattan detour vs Brooklyn dumpling alternatives",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:12:59.561Z"
+  },
+  {
+    "topic": "24-hour parking garage near Bowery Chinatown for late dinners",
+    "reason": "Chrystie Garage closes 7pm Sat/Sun; need a backup that handles 8-10pm dinner pickups",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:12:59.562Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor Doyers Street weekend dim sum",
+    "reason": "If user is already parking on Chrystie for Joe's Shanghai, Nom Wah is 4 min walk and stacks the trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:12:59.562Z"
+  },
+  {
+    "topic": "Apotheke cocktail bar 9 Doyers Street Chinatown",
+    "reason": "Two-doors-down speakeasy on the same Doyers bend — converts Nom Wah lunch into a day-into-evening Chinatown pairing that justifies the Manhattan leg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:15:10.503Z"
+  },
+  {
+    "topic": "Museum of Chinese in America (MOCA) 215 Centre Street",
+    "reason": "5-min walk from Nom Wah; cultural anchor that turns a meal into a full Chinatown half-day track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:15:10.503Z"
+  },
+  {
+    "topic": "Columbus Park Chinatown morning tai chi and xiangqi",
+    "reason": "Free, photogenic, 4-min walk from Doyers — gives the Chinatown cluster a no-cost 'curious/photo' beat alongside the food stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:15:10.503Z"
+  },
+  {
+    "topic": "Mahayana Buddhist Temple 133 Canal Street",
+    "reason": "Largest Buddhist temple in NYC, 16-ft golden Buddha, 6-min walk — same garage doubles as Nom Wah parking, perfect bundled stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:15:10.504Z"
+  },
+  {
+    "topic": "The Drawing Center 35 Wooster St SoHo",
+    "reason": "Same block as Hauser & Wirth — works-on-paper museum, perfect second stop on a Wooster St walk, and directly relevant to the manga-panel/drawing-challenge sub-feature",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:17:11.617Z"
+  },
+  {
+    "topic": "Manuela restaurant Hauser & Wirth Wooster Street",
+    "reason": "Hauser & Wirth's first NYC restaurant is co-located with the gallery — completes a single-stop art+meal anchor for SoHo itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:17:11.617Z"
+  },
+  {
+    "topic": "Dover Street Market New York Lexington Ave",
+    "reason": "Adjacent SoHo-adjacent retail-as-art destination; pairs with Wooster St gallery loop for a curious/photo afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:17:11.617Z"
   }
 ]
