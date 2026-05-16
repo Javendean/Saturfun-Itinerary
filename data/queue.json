@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Korean / Japanese / Taiwanese dessert shops within driving radius of IC",
-    "reason": "expand 8:00 PM Dessert block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Sunset photo + walk spots accessible by car: Greenwood Cemetery, BBP Pier 6, Brooklyn Heights Promenade, DUMBO waterfront",
-    "reason": "candidate 5 PM Sunset Wander block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Late-night Williamsburg cocktail bars with weekend availability and parking",
-    "reason": "candidate 10 PM Late Night block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Red Hook late-night bars and music venues with parking",
-    "reason": "candidate 10 PM Late Night block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
-    "topic": "Comedy clubs and live music venues in Brooklyn open past 10 PM, 20 min drive from IC max",
-    "reason": "candidate 10 PM Late Night block",
-    "requestedBy": "seed",
-    "enqueuedAt": "2026-05-15T21:12:17.939Z"
-  },
-  {
     "topic": "Re-compute drive times from 140-59 Ash Ave Flushing NY 11355 to all existing 68 venues; update each corpus entry with driveFromFlushing + parkingNotes",
     "reason": "origin changed from Hollis-or-IC to Flushing; existing ETAs stale",
     "requestedBy": "seed",
@@ -452,5 +422,95 @@
     "reason": "Asian-flavor soft-serve niche covers the Brooklyn Chinatown gap that 8th Ave bakeries leave open after 6pm",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T04:39:21.120Z"
+  },
+  {
+    "topic": "Patisserie Tomoko Williamsburg Japanese-French dessert bar",
+    "reason": "Strong Japanese candidate for an earlier 6-7pm dessert block — yuzu chocolate mousse and matcha crepe cake, but closes 8pm Sat so it can't anchor the 8pm slot like Win Son does.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:42:37.883Z"
+  },
+  {
+    "topic": "Yuan Yang dessert Bensonhurst Hong Kong tang shui",
+    "reason": "2174 86th St in Bensonhurst, ~15 min south of IC, open till 10pm daily — expands the corpus with a Hong Kong/Taiwanese tong sui option (grass jelly, tofu pudding, sago) that complements Win Son's bakery format.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:42:37.883Z"
+  },
+  {
+    "topic": "Spot Dessert Bar Manhattan Korean-Thai modern dessert",
+    "reason": "Manhattan-only but uniquely justified as the city's flagship modern Asian dessert tasting concept — worth evaluating for the 'special occasion' dessert slot even with the 25+ min drive.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:42:37.883Z"
+  },
+  {
+    "topic": "Re-research existing venue: Brooklyn Bridge Park Pier 6",
+    "reason": "Best car-friendly sunset pairing for Promenade — has the dedicated paid parking lot that solves Brooklyn Heights' street-parking problem and offers harbor + Statue of Liberty angle the Promenade can't.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:44:35.326Z"
+  },
+  {
+    "topic": "Re-research existing venue: DUMBO waterfront (Pebble Beach / Washington & Water)",
+    "reason": "Different sunset composition — Manhattan Bridge framing the Empire State Building rather than the FiDi skyline; 18 min from IC; pair with Empire Stores or Time Out Market for the dinner handoff.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:44:35.326Z"
+  },
+  {
+    "topic": "Re-research existing venue: Green-Wood Cemetery sunset visit (Battle Hill / Sunset Park overlook gate)",
+    "reason": "Closest of the four candidates to IC (~5 min) and has the highest elevation in Brooklyn for skyline views, but closes 7pm in summer / 5pm winter — needs an hours check before slotting into a 5 PM block.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:44:35.326Z"
+  },
+  {
+    "topic": "Hotel Delmano late-night cocktails Williamsburg",
+    "reason": "Classic craft cocktail room on Berry St with similar late-night energy at a slightly lower price tier — natural alt to Maison Premiere for the Late Night block.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:47:44.060Z"
+  },
+  {
+    "topic": "Sunken Harbor Club Brooklyn Heights late-night tiki",
+    "reason": "Different zone (Brooklyn Heights) but ~12 min drive from IC and a strong tiki/late-night counterpoint for Late Night block diversification.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:47:44.060Z"
+  },
+  {
+    "topic": "Midnights Williamsburg late dinner + DJ bar",
+    "reason": "Official hours appear to have shortened to midnight close, but DJ-driven cocktail program is unique; worth a follow-up to confirm whether weekend hours are seasonal.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:47:44.060Z"
+  },
+  {
+    "topic": "Botanica Bar at Widow Jane Distillery, Red Hook",
+    "reason": "Adjacent late-night option — distillery tasting room with cocktails and occasional live sets, walkable from Sunny's, expands Red Hook late-night cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:50:37.924Z"
+  },
+  {
+    "topic": "Brooklyn Ice House, Red Hook",
+    "reason": "Casual dive complement to Sunny's — late kitchen + cheap beers + outdoor patio, fills the 'food after music' gap in a Red Hook track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:50:37.924Z"
+  },
+  {
+    "topic": "Pioneer Works late event nights, Red Hook",
+    "reason": "Arts venue with periodic Second Sunday and after-hours music programming — adds a 'curious/photo' counterweight to the dive-bar anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:50:37.924Z"
+  },
+  {
+    "topic": "Union Hall Park Slope late night comedy basement",
+    "reason": "Sibling venue to Littlefield with nightly stand-up in a basement room ~10 min from IC — complements the late-night block with a smaller, more intimate alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:52:59.001Z"
+  },
+  {
+    "topic": "The Bell House Gowanus live music and comedy schedule",
+    "reason": "Larger Gowanus sister venue (also Bowery-adjacent operator) — bigger headliner shows and weekend dance parties, fills the gap when Littlefield is booked private",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:52:59.001Z"
+  },
+  {
+    "topic": "Sultan Room Bushwick late night live music venue",
+    "reason": "Further from IC (~18 min) but rare-find rooftop + Moroccan-styled live music room worth one expanded-radius option for the Late Night block",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T04:52:59.001Z"
   }
 ]
