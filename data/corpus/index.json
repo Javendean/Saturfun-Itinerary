@@ -2296,12 +2296,12 @@
   {
     "id": "xin-fa-bakery",
     "name": "Xin Fa Bakery",
-    "desc": "Sunset Park Chinatown bakery famous for $1.75 Portuguese egg tarts and bubble tea, baked fresh in limited daily batches.",
-    "longDesc": "Tucked into Brooklyn's Sunset Park Chinatown on 8th Ave, Xin Fa is a cult-favorite Chinese bakery known for crisp, caramelized Portuguese egg tarts at just $1.75 a piece, sold by the box to regulars who line up early. Beyond the tarts, the case carries fluffy buns, savory pastries, dim sum bites, and a wide menu of bubble teas and fruit smoothies (mango, lychee). It is a quick, cash-friendly stop and an easy detour from Industry City.",
-    "url": "https://www.nyctourism.com/restaurants/xin-fa-bakery/",
+    "desc": "8th Ave Chinatown's cult Chinese bakery — Portuguese egg tarts, scallion pancakes, $1.50 buns, line out the door",
+    "longDesc": "The anchor stop of Sunset Park's 8th Ave Chinatown. The Infatuation calls these the best Portuguese egg tarts in the five boroughs — massive, custardy, jiggly, baked in waves throughout the day so the line moves fast. Round out a quick grazing run with savory scallion pancake (cong you bing), pork floss bun, coconut bread, and a milk tea. Eat curbside, then walk 8th Ave between 50th and 60th.",
+    "url": "https://www.theinfatuation.com/new-york/reviews/xin-fa-bakery",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "park-slope",
     "vibe": [
       "foodie",
       "curious",
@@ -2311,28 +2311,28 @@
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "07:30-17:30",
-    "notes": "Located at 5617 8th Ave, Brooklyn 11220 in Sunset Park's Chinatown, ~7 min drive north of Industry City via 3rd Ave (nyctourism.com). Portuguese egg tarts are the headline item at $1.75 each, baked in limited daily batches — go earlier on weekends (yelp.com). Cash-friendly, grab-and-go format; street parking is generally available on 8th Ave and adjacent side streets on weekends. Pairs well with a Sunset Park stroll or a Greenwood Cemetery visit.",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "07:00-20:00",
+    "notes": "5617 8th Ave, Brooklyn NY 11220 — solid 8th Ave Chinatown anchor (Infatuation review). Cash-friendly, fast-moving line; eat on the sidewalk and walk the corridor. Park on side streets between 56th-58th — 8th Ave itself is metered and busy on weekends. Scallion pancake is a standard item at the counter but call ahead (718-871-2889) if it's the must-have. Sunset Park technically sits south of Park Slope; the closest zone tag in the Saturfun set is park-slope.",
     "sources": [
       {
-        "url": "https://www.nyctourism.com/restaurants/xin-fa-bakery/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/xin-fa-bakery",
+        "accessed": "2026-05-16T06:05:00Z"
+      },
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-16T06:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://xinfabakery.shop/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T06:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:24:25.092Z"
+    "lastResearchedAt": "2026-05-16T06:01:19.909Z"
   },
   {
     "id": "japan-village-food-hall",
@@ -5258,9 +5258,9 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Kunming-run Sunset Park noodle shop where crossing-the-bridge mixian arrives DIY in scalding broth",
-    "longDesc": "A tiny cash-only counter run by a couple from Kunming, serving Yunnan rice-noodle classics rarely found in NYC — including guoqiao mixian (crossing-the-bridge noodles), arriving disassembled with raw beef or lamb strips, vegetables, mixian, and a screaming-hot bowl of chicken broth you assemble at the table. Best-sellers also include cold skinny rice noodles with ground pork, chili oil and roasted peanuts, plus hot-and-sour soup with pork dumplings. Most dishes hover around $6-10; cash only.",
-    "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
+    "desc": "Cash-only Yunnan rice-noodle counter on 8th Ave — crossing-the-bridge mixian and crispy-meat soups",
+    "longDesc": "A husband-and-wife Kunming kitchen on Sunset Park's 8th Ave Chinatown strip, specializing in Yunnan mixian rice noodles — order the crossing-the-bridge bowl that arrives disassembled with raw beef or lamb and a screaming-hot chicken broth to poach everything tableside, or the cold mixian with sweet-salty ground pork and peanuts. Cash-only, no-frills storefront, dishes hit the counter fast at well-under-$15 prices, making it a perfect quick pairing stop with Kai Feng Fu's lamb dumplings two blocks away.",
+    "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5270,32 +5270,28 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "8 min",
+    "duration": "30-45 min",
+    "driveFromIC": "9 min",
     "hoursWeekend": "09:00-21:00",
-    "notes": "5121 8th Ave, Brooklyn NY 11220 — two blocks from Hainan Chicken House and a natural second stop on an 8th Ave Chinatown loop (nyctourism.com). Signature dish is guoqiao mixian, served DIY with raw proteins cooked tableside in a fragrant broth (timeout.com). Cash only; weekend hours 9am-9pm Sat/Sun (yelp.com). Street parking is generally findable on weekends along 51st/52nd off 8th Ave; the 8th Ave corridor itself is busy with double-parkers — plan a side street.",
+    "notes": "5121 8th Ave, Brooklyn NY 11220, (718) 633-3090. Cash-only and largely takeout-oriented — tiny counter seating only (notanotherbrooklynblog.com). Kunming-native owners; signature dish is crossing-the-bridge noodles served deconstructed with boiling chicken broth (nyctourism.com). Two blocks south of Kai Feng Fu Dumpling House — easy weekend metered parking on 8th Ave or the side streets. Pair as a noodle-second-stop after dumplings, or vice versa.",
     "sources": [
       {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-16T05:50:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/yun-nan-flavour-garden",
-        "accessed": "2026-05-16T05:50:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-16T05:50:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
-        "accessed": "2026-05-16T05:50:00Z"
+        "url": "https://notanotherbrooklynblog.com/2015/03/10/eating-8th-avenue-yun-nan-flavour-garden/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T05:51:22.155Z"
+    "lastResearchedAt": "2026-05-16T05:58:48.545Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -5424,5 +5420,139 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T05:56:47.053Z"
+  },
+  {
+    "id": "sunset-park-skyline-overlook",
+    "name": "Sunset Park (Manhattan Skyline Overlook)",
+    "desc": "Brooklyn's second-highest hilltop park with sweeping Manhattan skyline, harbor and Statue of Liberty views",
+    "longDesc": "A 24.5-acre hilltop park between 41st-44th Sts and 5th-7th Aves, just 0.5 mi uphill from Kai Feng Fu and Industry City. The bluff at the park's crest opens onto a wide-screen panorama of Lower Manhattan, the Statue of Liberty, NY Harbor, and the green ridges of Staten Island and New Jersey — the city's best free skyline overlook south of the Brooklyn Bridge. Locals picnic on the lawn past sunset for the sparkle of the skyline lights against the park.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "photo",
+      "active",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Sited on the second-highest point in Brooklyn; the bluff affords a thrilling view of the harbor, Manhattan skyline, Statue of Liberty, Staten Island and New Jersey (nycgovparks.org). Playground area posted 06:00-21:00 but the park lawn/overlook follows NYC Parks general 06:00-01:00 rule. Free street parking on weekends along 6th/7th Ave; from IC drive south on 3rd Ave, left up 41st St, ~6 min. Pair as the photo/active beat right after dim sum at Kai Feng Fu (0.5 mi / ~3 min drive uphill). Best skyline light: golden hour through dusk. No restrooms reliably open — use IC or Kai Feng Fu first.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-16T05:58:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park/highlights/166",
+        "accessed": "2026-05-16T05:58:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
+        "accessed": "2026-05-16T05:58:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-16T05:58:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:03:15.623Z"
+  },
+  {
+    "id": "color-factory-nyc",
+    "name": "Color Factory NYC",
+    "desc": "14-room immersive color/photo playground in SoHo — confetti, ball pit, sweet treats",
+    "longDesc": "Color Factory's NYC outpost (note: SoHo, not DUMBO — the brand has no DUMBO location) packs 14 interactive rooms — a giant blue ball pit, a dance floor that triggers light, confetti rooms, scratch-and-sniff installs and tasting moments — into a self-paced photo crawl. The current 'Colors in Bloom' exhibit (through May 11, 2026) themes oversized blossoms across rooms. Voted #1 Immersive Art Experience by USA Today; tickets $35-52 with sweet treats and keepsakes included.",
+    "url": "https://www.colorfactory.co/locations/new-york-city",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "curious",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-19:00",
+    "notes": "ZONE MISMATCH: requested as DUMBO but actually located at 251 Spring St, SoHo, Manhattan 10013 (source: colorfactory.co/locations/new-york-city). Manhattan justification — there is no DUMBO equivalent of this specific immersive color/photo brand, and it pairs thematically with Beat The Bomb as a 'group-active photo-op' track. Drive: IC → Brooklyn-Battery Tunnel → SoHo, ~22 min weekend; discounted parking at nearby Laz Parking garage referenced on site. Current exhibit 'Colors in Bloom' Feb 27-May 11, 2026 (source: web search 2026-05-16). Tickets $35-52 (source: colorfactory.co); duration estimated 75-90 min based on 14-room layout and review aggregates.",
+    "sources": [
+      {
+        "url": "https://www.colorfactory.co/locations/new-york-city",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.colorfactory.co/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://feverup.com/en/new-york/venue/color-factory-nyc-interactive-art-museum",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T06:05:32.174Z"
+  },
+  {
+    "id": "time-out-market-dumbo",
+    "name": "Time Out Market New York",
+    "desc": "DUMBO food hall with 20+ chef-curated stalls under one waterfront roof, steps from Beat The Bomb.",
+    "longDesc": "Inside the Empire Stores complex at 55 Water St, Time Out Market gathers ~21 vetted NYC restaurants plus three bars, a stage, and a rooftop with Manhattan Bridge views. Hit Mr. Taka Ramen, Felice Pasta Bar, Juliana's Pizza, Avocaderia (vegan-leaning), or Jacob's Pickles depending on the crowd's mood — order at each stall, sit anywhere. Five-minute walk from Beat The Bomb, making it the cleanest pre/post-game refuel in DUMBO.",
+    "url": "https://www.timeout.com/time-out-market-new-york",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 8:00-23:00, Sun 8:00-22:00",
+    "notes": "Multiple stalls = solves mixed-diet groups in one stop (Avocaderia covers vegan, Mr. Taka has GF ramen options, Felice has vegetarian pastas). Paid parking at 100 Jay St garage; nearby 85 Adams St and 90 Washington St fill at peak (timeout.com/how-to-get-here). Rooftop + Brooklyn Bridge Park frontage = strong photo backdrop. Address: 55 Water St, Brooklyn NY 11201 (Empire Stores) (timeout.com).",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/time-out-market-new-york",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/time-out-market-new-york/faqs",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/time-out-market-new-york/how-to-get-here",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/time-out-market-new-york/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T06:07:27.378Z"
   }
 ]
