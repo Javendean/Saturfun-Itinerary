@@ -25,9 +25,33 @@ const EMBEDDINGS_URL = 'data/corpus/embeddings.json';
 const TEXT_EMBED_MODEL = 'Xenova/all-MiniLM-L6-v2';
 const LLM_MODEL = 'Llama-3.2-3B-Instruct-q4f16_1-MLC';
 const TOP_K = 5;
+const TOP_K_ZONE = 8;                         // wider top-K when query names a specific zone
+const ZONE_BOOST = 0.08;                      // additive bonus when entry zone matches query
 const COSINE_FALLBACK_THRESHOLD = 0.4;        // below -> suggest research
 const WORKER_FALLBACK_URL = 'https://saturfun-worker.javendean.workers.dev/api/chat';  // Cloudflare Worker (deployed 2026-05-16)
 const VISITOR_CSS_HREF = 'chat/visitor.css';
+
+// Zone slug -> phrases that should trigger zone-aware retrieval. Mirrored from
+// tools/embed-corpus.mjs ZONE_PHRASES so retrieval and embedding agree on the
+// canonical surface forms.
+const ZONE_QUERY_PATTERNS = {
+  'industry-city':   /\b(industry\s*city|industry-city|ic\b)/i,
+  'sunset-park':     /\bsunset\s*park\b/i,
+  'williamsburg':    /\bwilliamsburg\b/i,
+  'park-slope':      /\bpark\s*slope\b/i,
+  'carroll-gardens': /\bcarroll\s*gardens\b/i,
+  'brooklyn-heights':/\bbrooklyn\s*heights\b/i,
+  'gowanus':         /\bgowanus\b/i,
+  'red-hook':        /\bred\s*hook\b/i,
+  'fort-greene':     /\bfort\s*greene\b/i,
+  'dumbo':           /\bdumbo\b/i,
+  'bushwick':        /\bbushwick\b/i,
+  'greenpoint':      /\bgreenpoint\b/i,
+  'cobble-hill':     /\bcobble\s*hill\b/i,
+  'prospect-heights':/\bprospect\s*heights\b/i,
+  'crown-heights':   /\bcrown\s*heights\b/i,
+  'flushing':        /\bflushing\b/i,
+};
 
 // CDN sources — pinned for reproducibility. esm.run is jsDelivr's ESM gateway;
 // esm.sh is the documented fallback.
@@ -223,8 +247,22 @@ async function dynamicImport(primary, fallback) {
 // Retrieval
 // ---------------------------------------------------------------------------
 
+// Returns the zone slugs the query literally mentions (e.g., "what restaurants
+// at Industry City" -> ["industry-city"]). Used to widen K and boost matching
+// entries — zone-targeted queries want a survey, not the global top-5.
+function detectZones(query) {
+  const hits = [];
+  for (const [slug, re] of Object.entries(ZONE_QUERY_PATTERNS)) {
+    if (re.test(query)) hits.push(slug);
+  }
+  return hits;
+}
+
 async function retrieve(query) {
   if (!corpus?.length || !Object.keys(embById).length) return [];
+
+  const zones = detectZones(query);
+  const k = zones.length ? TOP_K_ZONE : TOP_K;
 
   let qvec;
   if (embedder) {
@@ -233,17 +271,23 @@ async function retrieve(query) {
   } else {
     // Worker-fallback path: ask the Worker to embed too. For now, do a plain
     // keyword-overlap rank so we still send *something* useful as context.
-    return keywordRank(query, corpus, TOP_K);
+    return keywordRank(query, corpus, k);
   }
 
   const scored = [];
   for (const entry of corpus) {
     const v = embById[entry.id];
     if (!v) continue;
-    scored.push({ entry, score: cosine(qvec, v) });
+    let score = cosine(qvec, v);
+    // Tie-breaker / recall booster for zone-targeted queries. Cosine across
+    // similar venues clusters tightly (often within 0.02), so even +0.08 reliably
+    // floats same-zone matches above out-of-zone noise without overpowering
+    // truly off-topic results.
+    if (zones.length && zones.includes(entry.zone)) score += ZONE_BOOST;
+    scored.push({ entry, score });
   }
   scored.sort((a, b) => b.score - a.score);
-  return scored.slice(0, TOP_K);
+  return scored.slice(0, k);
 }
 
 function cosine(a, b) {

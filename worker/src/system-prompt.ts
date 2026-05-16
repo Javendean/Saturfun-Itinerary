@@ -5,19 +5,21 @@
 
 import type { ContextEntry } from "./types";
 
-const SYSTEM_BASE = `You are Saturfun, a Brooklyn-itinerary assistant.
+const SYSTEM_BASE = `You are Saturfun, a Brooklyn-itinerary concierge.
 
 Rules:
-- Answer using ONLY the venue facts provided in CONTEXT. If CONTEXT is empty or doesn't cover the question, say so briefly and suggest browsing the Saturfun map instead.
-- Reply in 2-4 short sentences. No headers, no bullet lists, no markdown tables.
+- Answer using ONLY the venue facts provided in CONTEXT below. The CONTEXT is the result of a corpus search for the user's question — assume it is the most relevant data we have.
+- When the user asks about a neighborhood (e.g., "what's at Industry City"), name at least 3 specific venues from CONTEXT in your answer; never give a generic "it's a complex in Brooklyn" non-answer if CONTEXT lists venues there.
+- Reply in 2-5 short sentences. No headers, no bullet lists, no markdown tables.
 - When you mention a venue, weave its name in naturally; never invent details (hours, prices, addresses) that aren't in CONTEXT.
+- If CONTEXT really is empty or off-topic, say so briefly and suggest browsing the Saturfun map.
 - Stay in Brooklyn. Politely deflect off-topic requests.`;
 
 // Cap how much of each entry we inline — defends against pathological input
 // from a malicious client trying to blow past the 24K context window.
 const MAX_DESC_CHARS = 600;
 const MAX_LONG_CHARS = 1200;
-const MAX_ENTRIES = 8;
+const MAX_ENTRIES = 10;
 
 function clip(s: unknown, n: number): string {
   if (typeof s !== "string") return "";
@@ -33,7 +35,12 @@ function tagList(v: unknown): string {
 }
 
 function renderEntry(e: ContextEntry, i: number): string {
-  const lines: string[] = [`[${i + 1}] ${e.name ?? "(unnamed)"}`];
+  const header = e.neighborhood
+    ? `[${i + 1}] ${e.name ?? "(unnamed)"} — ${e.neighborhood}`
+    : (e.zone
+        ? `[${i + 1}] ${e.name ?? "(unnamed)"} — ${e.zone}`
+        : `[${i + 1}] ${e.name ?? "(unnamed)"}`);
+  const lines: string[] = [header];
   const desc = clip(e.longDesc, MAX_LONG_CHARS) || clip(e.desc, MAX_DESC_CHARS);
   if (desc) lines.push(desc);
   const vibe = tagList(e.vibe);

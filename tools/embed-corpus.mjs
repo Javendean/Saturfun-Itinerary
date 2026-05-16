@@ -47,15 +47,63 @@ async function main() {
 // the whole embedding pass.
 const toArr = (v) => Array.isArray(v) ? v : (typeof v === 'string' && v ? [v] : []);
 
+// Map machine zone slugs to the human phrases real queries use ("what's at
+// Industry City?", "vegetarian dinner in Williamsburg"). MiniLM weights opening
+// tokens heavily, so we hoist these to the front of the embed text — this is
+// the single biggest lever for zone-targeted recall.
+const ZONE_PHRASES = {
+  'industry-city': 'Industry City Sunset Park Brooklyn',
+  'sunset-park': 'Sunset Park Brooklyn',
+  'williamsburg': 'Williamsburg Brooklyn',
+  'park-slope': 'Park Slope Brooklyn',
+  'carroll-gardens': 'Carroll Gardens Brooklyn',
+  'brooklyn-heights': 'Brooklyn Heights Brooklyn',
+  'gowanus': 'Gowanus Brooklyn',
+  'red-hook': 'Red Hook Brooklyn',
+  'fort-greene': 'Fort Greene Brooklyn',
+  'dumbo': 'Dumbo Brooklyn',
+  'bushwick': 'Bushwick Brooklyn',
+  'greenpoint': 'Greenpoint Brooklyn',
+  'cobble-hill': 'Cobble Hill Brooklyn',
+  'prospect-heights': 'Prospect Heights Brooklyn',
+  'crown-heights': 'Crown Heights Brooklyn',
+  'flushing': 'Flushing Queens',
+};
+
+function zonePhrase(slug) {
+  if (!slug) return '';
+  if (ZONE_PHRASES[slug]) return ZONE_PHRASES[slug];
+  // Generic fallback: turn "some-zone-slug" into "Some Zone Slug".
+  return String(slug).split('-').map((w) => w ? w[0].toUpperCase() + w.slice(1) : '').join(' ').trim();
+}
+
 function embedText(e) {
-  return [
+  const zone = zonePhrase(e.zone);
+  const neighborhood = e.neighborhood || zone;
+  // Lead the text with location signal (MiniLM is order-sensitive). Then a
+  // synthetic sentence with the name + neighborhood so generic queries like
+  // "restaurants at Industry City" can match short-desc entries like
+  // "Han Dynasty / Sip & Co" whose name omits the neighborhood.
+  const lead = [
+    neighborhood && zone ? `${neighborhood}, ${zone}` : (neighborhood || zone),
+    e.name ? `${e.name} in ${neighborhood || zone || 'Brooklyn'}` : '',
+  ].filter(Boolean).join('. ');
+  const body = [
     e.name, e.desc, e.longDesc,
-    `zone: ${e.zone || ''}`,
+    `neighborhood: ${neighborhood || ''}`,
+    `zone: ${zone || ''}`,
     `vibe: ${toArr(e.vibe).join(', ')}`,
     `dietary: ${toArr(e.dietary).join(', ')}`,
     `price: ${e.priceBand || ''}`,
+    e.duration ? `duration: ${e.duration}` : '',
+    e.hoursWeekend ? `hours: ${e.hoursWeekend}` : '',
+    e.driveFromIC ? `from Industry City: ${e.driveFromIC}` : '',
+    e.parkingNotes || '',
+    e.sourceCheckpoint || '',
+    e.discoveryAngle || '',
     e.notes || '',
   ].filter(Boolean).join('. ');
+  return lead ? `${lead}. ${body}` : body;
 }
 
 // Per-vector int8 quantization with stored scale. Loader divides by scale to reconstruct.
