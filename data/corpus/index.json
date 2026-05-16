@@ -2887,8 +2887,8 @@
   {
     "id": "noguchi-museum",
     "name": "The Noguchi Museum",
-    "desc": "Indoor-outdoor sculpture museum designed by Isamu Noguchi himself, 4 min from Socrates",
-    "longDesc": "Isamu Noguchi's two-floor former studio in LIC, converted into a museum showcasing his stone, metal, wood, and paper-lantern sculptures across 10 galleries plus an open-air sculpture garden. The pairing with Socrates Sculpture Park (4-min drive) makes this a perfect all-weather NW Queens art anchor — when Socrates is rained out, Noguchi's indoor galleries and skylit atrium carry the visit. General admission $16, first Friday of every month is free (source: noguchi.org).",
+    "desc": "Isamu Noguchi's indoor-outdoor sculpture museum and garden in a converted LIC factory",
+    "longDesc": "Founded by Isamu Noguchi himself in 1985 inside a 1920s industrial building across from his old studio, the museum holds 13 galleries plus a contemplative outdoor sculpture garden of stone, bronze, basalt, and bamboo. It is small, quiet, and famously photogenic; most visitors spend 60-90 minutes wandering both floors and the garden. A natural pairing with MoMI (~10 min away) for a rest-day loop back to Industry City.",
     "url": "https://www.noguchi.org/museum/visit/plan/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2902,67 +2902,75 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "25 min",
-    "hoursWeekend": "11:00-18:00 (Wed-Sun, last entry 17:30)",
-    "notes": "Located at 9-01 33rd Rd, LIC (officially Astoria zip). Closed Mon/Tue. No on-site parking — street parking on 33rd Rd / Vernon Blvd is generally available on weekends in this industrial-adjacent block. Free First Fridays each month; extended to 8pm May–Sep. Pair with Socrates Sculpture Park (4 min north on Vernon Blvd) for a free outdoor + paid indoor NW Queens art double-header. Drive from IC takes the BQE north (~25 min off-peak, 35+ peak) (source: noguchi.org/museum/visit/plan/, yelp.com/biz/the-noguchi-museum-astoria).",
+    "hoursWeekend": "11:00-18:00",
+    "notes": "Address: 9-01 33rd Rd, Long Island City/Astoria, Queens, NY 11106 (closest listed zone is greenpoint, just across Newtown Creek). Open Wed-Sun 11:00-18:00, closed Mon/Tue. General admission ~$10 (seniors/students $5; under-12 free); free on the first Friday of each month and via NYC Culture Pass (yelp.com; permanentcollection.nyc). Limited street parking on 33rd Rd / Vernon Blvd — usually findable on weekends but plan to circle; muni-meter rules apply. Outdoor sculpture garden plus 13 indoor galleries; very photo-friendly, low-key, and almost meditative — fits the rest-day curious/photo brief between Industry City and MoMI.",
     "sources": [
       {
         "url": "https://www.noguchi.org/museum/visit/plan/",
-        "accessed": "2026-05-16T19:00:00Z"
+        "accessed": "2026-05-16T19:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-noguchi-museum-astoria",
-        "accessed": "2026-05-16T19:00:00Z"
+        "accessed": "2026-05-16T19:30:00Z"
       },
       {
-        "url": "https://whichmuseum.com/museum/the-noguchi-museum-new-york-9341/opening-hours",
-        "accessed": "2026-05-16T19:00:00Z"
+        "url": "https://www.nyctourism.com/museums-galleries/the-noguchi-museum/",
+        "accessed": "2026-05-16T19:30:00Z"
+      },
+      {
+        "url": "https://permanentcollection.nyc/museums/noguchi-museum/",
+        "accessed": "2026-05-16T19:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T19:10:23.965Z"
+    "lastResearchedAt": "2026-05-16T19:29:54.200Z"
   },
   {
     "id": "bohemian-hall-beer-garden",
     "name": "Bohemian Hall & Beer Garden",
-    "desc": "NYC's oldest beer garden (est. 1910) — Czech-Slovak pilsners, pierogi, and a tree-shaded backyard that seats hundreds.",
-    "longDesc": "Operated by the Bohemian Citizens' Benevolent Society since 1910 and famously surviving Prohibition, this Astoria institution pairs a cavernous indoor hall (dart leagues, polka nights) with a huge gravel beer garden under string lights. The kitchen runs Czech-Slovak comfort food — pierogi, goulash, schnitzel, kielbasa, lentil soup, giant soft pretzels — alongside Pilsner Urquell, Krušovice, Staropramen and rotating Czech taps. Weekend afternoons get crowded fast; arrive before 2pm to grab a picnic table.",
+    "desc": "NYC's oldest beer garden (since 1910) — massive Czech courtyard with pilsners, kielbasa, and live music.",
+    "longDesc": "Operated by the Bohemian Citizens' Benevolent Society since 1910, this Astoria landmark is the last surviving turn-of-the-century beer garden in NYC, with a tree-shaded courtyard that seats roughly 800 around long communal tables. The kitchen leans Czech-Slovak (goulash, schnitzel, pierogi, kielbasa) and the taps stay heavy on Czech pilsners — Pilsner Urquell, Krušovice, Staropramen. Weekends bring live polka, brass, and rock bands plus a famously rowdy garden crowd; weekday afternoons are quieter and more family-friendly.",
     "url": "https://bohemianhall.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "astoria",
     "vibe": [
       "chill",
       "foodie",
-      "photo"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "90-120 min",
-    "driveFromIC": "28 min",
+    "driveFromIC": "25 min",
     "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
-    "notes": "Actually located in Astoria, Queens — bucketed under 'greenpoint' as nearest available zone (it's directly across Newtown Creek). Address: 29-19 24th Ave, Astoria, NY 11102 (bohemianhall.com). Walkable 8 blocks from Taverna Kyclades, so pairs naturally as a Queens-day post-dinner stop. Street parking is the norm — no dedicated lot, but the 24th Ave / 31st St blocks usually have weekend spots; same parking pattern as Kyclades (Bohemian Hall website; Yelp Updated May 2026). Cash bar at entry kiosk for beer tickets is the traditional flow. Vegetarian-doable via pierogi, lentil soup, pretzels, fried cheese; not strong for vegan or gluten-free. No reservations for the outdoor garden — first come, first served.",
+    "notes": "Address 29-19 24th Ave, Astoria, NY 11102 (official site). Two municipal lots on 33rd St between Ditmars & 23rd Ave; Sunday street parking is usually easy (Yelp/Parkopedia). Cash-friendly garden, table-service inside. Zone enum doesn't yet include Queens — flagged as 'astoria' for the NW Queens cluster.",
     "sources": [
       {
-        "url": "https://bohemianhall.com/",
-        "accessed": "2026-05-16T19:15:00Z"
+        "url": "https://bohemianhall.com/direction-hours/",
+        "accessed": "2026-05-16T19:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/bohemian-hall-and-beer-garden-astoria",
-        "accessed": "2026-05-16T19:15:00Z"
+        "accessed": "2026-05-16T19:30:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/bars/bohemian-hall-and-beer-garden",
-        "accessed": "2026-05-16T19:15:00Z"
+        "url": "https://en.parkopedia.com/parking/bar/bohemian-hall-and-park-astoria/",
+        "accessed": "2026-05-16T19:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/bohemian-hall-beer-garden/",
+        "accessed": "2026-05-16T19:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T19:17:58.523Z"
+    "lastResearchedAt": "2026-05-16T19:27:42.659Z"
   },
   {
     "id": "brooklyn-museum",
@@ -7862,43 +7870,46 @@
   {
     "id": "taverna-kyclades-astoria",
     "name": "Taverna Kyclades",
-    "desc": "Iconic Astoria Greek seafood — grilled octopus, whole branzino, lemon potatoes; near Ditmars N/W stop.",
-    "longDesc": "A Michelin-guide-listed Astoria institution since 1995, Taverna Kyclades is the definitive Greek seafood spot on Ditmars Blvd — char-grilled octopus, whole branzino deboned tableside, taramosalata, and lemon potatoes draw a constant weekend crowd. The enclosed patio adds capacity but expect a 30–60 min wait without a reservation. Cash-and-card, no checks split.",
-    "url": "https://www.tavernakyclades.com/astoria/menu",
+    "desc": "Iconic Greek seafood taverna on Ditmars — grilled whole fish, octopus, lemon-potatoes; the Astoria seafood benchmark.",
+    "longDesc": "Family-run since 1996 and a permanent fixture of Greek Astoria, Taverna Kyclades centers around a fresh-catch seafood bar with whole branzino, dorade, lavraki, octopus and grilled calamari served simply with ladolemono and oregano. Lunch lands fast: order the grilled octopus and a whole fish, split horta and lemon potatoes, and you've eaten the dish that made Ditmars famous. No reservations on weekends — write your name on the list and stroll Ditmars for 20 minutes.",
+    "url": "https://www.tavernakyclades.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "foodie",
-      "romantic"
+      "curious"
     ],
     "dietary": [
-      "vegetarian",
       "gluten-free"
     ],
     "priceBand": "$$",
     "duration": "75-90 min",
     "driveFromIC": "25 min",
-    "hoursWeekend": "11:30-22:00",
-    "notes": "Off the standard 10–25 min Brooklyn cluster — pure Astoria (Queens) play via BQE Exit 38; pairs naturally with Bohemian Hall Beer Garden 8 blocks south for a Greek+Czech Astoria track (tavernakyclades.com). Weekend parking is street-only on Ditmars/23rd Ave side streets (free Sat/Sun); muni-meter zones on Ditmars itself. No reservations — walk in before 6 PM or expect a long wait (Michelin Guide). Tagged 'greenpoint' as the nearest enum to Astoria; track-builder should flag this is actually Queens, not Brooklyn.",
+    "hoursWeekend": "12:00-23:30",
+    "notes": "Actually in Astoria, Queens (zone marked 'greenpoint' as nearest BK neighbor — Astoria isn't in the zone enum). Address 36-01 Ditmars Blvd, NY 11105 (older 33-07 listings are pre-move). Cash + card; walk-ins only, weekend wait commonly 30-45 min at peak. Street parking on Ditmars/23rd Ave usually findable on weekend afternoons; valet not standard. ~5-min walk or 1-min drive from Museum of the Moving Image — ideal MoMI lunch anchor (tavernakyclades.com). Vegetarian options exist (horta, gigantes, Greek salad) but the kitchen's identity is seafood. Phone 718-545-8666 (yelp.com, michelin.com).",
     "sources": [
       {
-        "url": "https://www.tavernakyclades.com/astoria/menu",
-        "accessed": "2026-05-16T08:30:00Z"
-      },
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/astoria/restaurant/taverna-kyclades",
-        "accessed": "2026-05-16T08:30:00Z"
+        "url": "https://www.tavernakyclades.com/",
+        "accessed": "2026-05-16T19:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/taverna-kyclades-astoria-2",
-        "accessed": "2026-05-16T08:30:00Z"
+        "accessed": "2026-05-16T19:30:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/astoria/restaurant/taverna-kyclades",
+        "accessed": "2026-05-16T19:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/taverna-kyclades/",
+        "accessed": "2026-05-16T19:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:23:35.317Z"
+    "lastResearchedAt": "2026-05-16T19:25:32.552Z"
   },
   {
     "id": "museum-of-the-moving-image",
@@ -17061,5 +17072,85 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T19:21:05.827Z"
+  },
+  {
+    "id": "prospect-park-audubon-center",
+    "name": "Prospect Park Audubon Center at the Boathouse",
+    "desc": "Lakeside Beaux-Arts boathouse and free nature center on the Lullwater — turtles, warblers, ranger-led walks.",
+    "longDesc": "The 1905 Beaux-Arts Boathouse sits on the Lullwater and houses the Audubon Center, the first urban nature center in the country. Weekends bring free animal encounters, naturalist-led nature walks, and birdwatching intros (Apr–Oct programming season). Pair it with a 20-minute loop walk to the Lullwater Bridge and Camperdown Elm — easy, low-cost third stop after BBG/Brooklyn Museum.",
+    "url": "https://www.prospectpark.org/visit-the-park/places-to-go/audubon-center/",
+    "photoUrl": "https://www.prospectpark.org/wp-content/uploads/2021/04/cooter3-1024x922.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "10:00-13:00",
+    "notes": "Free admission and free public programming; closest entry is Lincoln Road / Ocean Ave (east side of park) — much closer than Grand Army Plaza if you're driving in from IC (Prospect Park Alliance). No on-site parking, but a ~30-car lot one block away and ample weekend street parking on Ocean Ave (SpotAngels). Programming resumed Apr 11, 2026; check the May 16 NYRR Brooklyn Half Marathon overlap which can affect park access on race morning. Building is the only lakeside structure left and a NYC Landmark — strong photo stop (Wikipedia).",
+    "sources": [
+      {
+        "url": "https://www.prospectpark.org/visit-the-park/places-to-go/audubon-center/",
+        "accessed": "2026-05-16T19:30:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Prospect_Park_Boathouse",
+        "accessed": "2026-05-16T19:30:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/prospect-park-boathouse-parking",
+        "accessed": "2026-05-16T19:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T19:31:56.700Z"
+  },
+  {
+    "id": "cheryls-global-soul",
+    "name": "Cheryl's Global Soul",
+    "desc": "Globally-spiced brunch & comfort food a 5-min walk from Brooklyn Botanic Garden's east entrance.",
+    "longDesc": "Chef Cheryl Smith's longtime Prospect Heights spot serves world-inspired soul food — buttermilk pancakes with Chantilly cream, salmon hash with poached egg, jerk wings, coconut-curry bowls, and a cranberry-blue salad for veg eaters. Brunch runs weekend mornings first-come-first-served (expect a wait 11am–1pm), so anchor here before walking down Eastern Parkway to BBG or the Brooklyn Museum.",
+    "url": "https://cherylsglobalsoul.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "10:00-21:00",
+    "notes": "236 Underhill Ave, ~5-min walk from BBG's Eastern Pkwy/Washington Ave entrance and the Brooklyn Museum (cherylsglobalsoul.com). Weekend brunch is first come first served starting 10am with peak waits 11am–1pm (yelp.com). Menu blends Southern soul with global flavors — pancakes w/ Chantilly + blueberry compote, chicken & pancakes, salmon hash, jerk wings, coconut curry wings bowl, tonkatsu bowl, plus veg salads (cherylsglobalsoul.com). Street parking on Underhill/Washington is realistic on weekends; lot at Brooklyn Museum is a backup. Phone (347) 529-2855.",
+    "sources": [
+      {
+        "url": "https://cherylsglobalsoul.com/",
+        "accessed": "2026-05-16T19:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/cheryls-global-soul-brooklyn",
+        "accessed": "2026-05-16T19:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/cheryls-global-soul",
+        "accessed": "2026-05-16T19:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T19:33:56.075Z"
   }
 ]
