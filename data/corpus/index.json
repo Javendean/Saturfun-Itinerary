@@ -6095,22 +6095,22 @@
   {
     "id": "the-gutter-williamsburg",
     "name": "The Gutter",
-    "desc": "Dive-bar bowling alley in north Williamsburg with wood lanes, pool tables, and a 4am last call.",
-    "longDesc": "The Gutter is a no-frills, vintage-feeling bowling bar at 200 N 14th St on the Williamsburg/Greenpoint border. Wood lanes, pool tables, a stocked beer-and-shot bar, and a hidden event space called The Spare Room give it the grimy charm a polished Brooklyn Bowl doesn't have. 21+ only; weekends are $35 per half-hour per lane, doors at noon, last call at 4am.",
+    "desc": "Dive-bar bowling alley with 8 vintage lanes, pool, and a live-music back room (gutterbarbowl.com).",
+    "longDesc": "Williamsburg's longest-running indie bowling alley: eight reclaimed mid-century lanes, a full dive bar up front, pool tables, and 'The Spare Room' venue in back that runs live bands and comedy Thu-Sat (9pm-midnight, $5 cover). Strict 21+ at all times, so it's a pure adult group activity. Lanes are $30/half-hour Sun-Thu and $35/half-hour Fri-Sat ($6 shoes, $4 socks); reservations are by phone for parties only, otherwise walk-in.",
     "url": "https://gutterbarbowl.com/williamsburg",
     "photoUrl": "https://images.squarespace-cdn.com/content/v1/6924b5e6cc75dd27246cca94/ed2650bf-e861-4794-990a-80fb656ec19e/BK+pools+2.png",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "chill",
-      "active"
+      "active",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "1.5-2 hr",
+    "duration": "60-120 min",
     "driveFromIC": "20 min",
     "hoursWeekend": "12:00-04:00",
-    "notes": "200 N 14th St, Brooklyn 11249; 21+ at all times (gutterbarbowl.com/williamsburg). Weekend bowling $35/half-hour per lane (gutterbarbowl.com). Drive from IC ~20 min via BQE; no lot — street parking only in north Williamsburg on weekends, expect to circle. Lanes are first-come, no reservations (timeout.com). Pair with a Wburg dinner/drinks stop to justify the drive.",
+    "notes": "21+ at all times — confirm group composition before slotting (gutterbarbowl.com). Walk-in for casual lanes, call (718) 387-3585 for party bookings; no online reservation system (gutterbarbowl.com FAQ). Street parking in North Williamsburg is tight on Sat nights — budget 10 min to find a spot or use Kent Ave lots. From Industry City take the BQE north (~7 mi, 18-22 min weekend daytime). Live music in The Spare Room Thu/Fri/Sat 9pm-12am, $5 cover (timeout.com).",
     "sources": [
       {
         "url": "https://gutterbarbowl.com/williamsburg",
@@ -6123,12 +6123,16 @@
       {
         "url": "https://www.timeout.com/newyork/bars/the-gutter-bowling-alley-and-bar",
         "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/the-gutter-bowling-alley-and-bar/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T06:37:36.690Z"
+    "lastResearchedAt": "2026-05-16T12:41:01.089Z"
   },
   {
     "id": "oldies-industry-city",
@@ -11190,5 +11194,175 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T12:32:21.753Z"
+  },
+  {
+    "id": "grand-army-south-threes-gowanus",
+    "name": "Grand Army South @ Threes Brewing Gowanus",
+    "desc": "Smash double burgers and crab-loaded fries from the Grand Army team, served inside Threes' Gowanus taproom.",
+    "longDesc": "Grand Army (the celebrated Boerum Hill cocktail-and-oyster bar) runs the in-house kitchen at Threes Brewing Gowanus, turning the brewpub into a legit dinner stop. The double smash burger and loaded crab fries are the anchor orders; the rest of the menu covers fried chicken, steak frites, a Papa Dulce sweet-potato-and-farro bowl, and a falafel/shrimp burger lineup for non-beef eaters. Kitchen runs to 11pm Fri–Sat, perfectly timed to a Threes flight (sources: zippicks.com, threesbrewing.com, grandarmysouth.com).",
+    "url": "https://www.grandarmysouth.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
+    "notes": "Address: 333 Douglass St, Brooklyn NY 11217 — Gowanus/Park Slope border, ~11 min drive from Industry City via 3rd Ave (threesbrewing.com). Anchor order: double smash burger + loaded crab fries (zippicks 8.3/10, 'late-night bar-food anchors'). Vegetarian-friendly via Papa Dulce bowl + falafel burger. Peak wait 15-30 min on Fri/Sat 9-11pm; arrive by 8 for a clean seat. Pair with Threes' tap list — kitchen and brewery share the room so one stop covers dinner + drinks. Sister kitchen reopened in Greenpoint March 2026 (greenpointers.com) — same menu, useful overflow option if Gowanus is slammed. Street parking generally available on Douglass/Nevins on weekends.",
+    "sources": [
+      {
+        "url": "https://www.grandarmysouth.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://threesbrewing.com/pages/gowanus",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://zippicks.com/grand-army-south-threes-brewing-gowanus-brooklyn-11217/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2026/03/06/threes-brewing-reopens-greenpoint-outpost-with-new-menu-from-grand-army-south/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T12:34:38.651Z"
+  },
+  {
+    "id": "other-half-brewing-carroll-gardens",
+    "name": "Other Half Brewing — Centre Street Taproom",
+    "desc": "Original Brooklyn taproom of the hop-forward IPA cult brewery; BYO/delivery food, dog-friendly.",
+    "longDesc": "Other Half's flagship Carroll Gardens taproom sits on a quiet industrial block at the Gowanus seam, pouring the brewery's hazy DDH IPAs, fruited sours, and seasonal limited drops fresh from the production line behind the bar. No kitchen on-site — order delivery or bring food in — and the patio plus garage-door front make it a reliable weekend hang. Two blocks from Smith-9th subway with street parking that thins out by mid-Saturday.",
+    "url": "https://otherhalfbrewing.com/location/centre-street/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 10:00-24:00, Sun 11:00-21:00",
+    "notes": "195 Centre St, Brooklyn NY 11231 (Yelp, Other Half site). No food served — BYOF or delivery welcomed (Other Half site). Dogs allowed if leashed and well-behaved (Other Half site). Two blocks from Smith-9th St F/G station; ~10 min drive north from Industry City via 3rd Ave. Sits ~5 min from Movement Gowanus, making it a natural post-climb beer stop. Expect rotating DDH IPA drops on weekends — check IG for fresh-release timing.",
+    "sources": [
+      {
+        "url": "https://otherhalfbrewing.com/location/centre-street/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/other-half-brewing-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/other-half-brewing",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T12:36:39.734Z"
+  },
+  {
+    "id": "strong-rope-brewery-red-hook",
+    "name": "Strong Rope Brewery (Red Hook)",
+    "desc": "All-NY-grain taproom with harbor views, picnic tables, and a rotating local-malt lineup.",
+    "longDesc": "Family-run brewpub on Red Hook's waterfront where every beer is made with 100% New York-grown grain and hops sourced from named farm partners. The Van Dyke Street taproom has an airy indoor bar plus picnic seating with unparalleled views of New York Harbor, and is family- and dog-friendly. Rotating taps lean toward regional malt-forward ales, lagers, and seasonals, with NY State wine, cider, and spirits also poured.",
+    "url": "https://www.strongropebrewery.com/taproom",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "12:00-23:00 (Sun 12:00-21:00)",
+    "notes": "Address 185 Van Dyke St, Brooklyn — street parking only; do NOT park in the 175 Van Dyke lot (towed) (strongropebrewery.com/taproom). 100% NY-grown grain + hops sourced from named farm partners (strongropebrewery.com/about). Red Hook taproom opened 2021 on the harbor (pulsd.com).",
+    "sources": [
+      {
+        "url": "https://www.strongropebrewery.com/taproom",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.strongropebrewery.com/about",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://pulsd.com/new-york/institutions/strong-rope-brewery-red-hook",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T12:38:39.584Z"
+  },
+  {
+    "id": "lavender-lake",
+    "name": "Lavender Lake",
+    "desc": "Beloved Brooklyn cocktail bar with a big string-lit backyard — reborn in South Williamsburg after Gowanus demolition.",
+    "longDesc": "The 2012 Gowanus original (383 Carroll St) was torn down in March 2022; owners Mandy Jacques and Adam Sober reopened at 53 Broadway in March 2024, bringing back the cozy reclaimed-wood interior and the standout backyard garden with picnic tables and overhead lights. Solid craft cocktails, an LL Bacon Burger, weekend brunch, and the same chill neighborhood feel — just one neighborhood north. Not a same-block follow-on to Royal Palms anymore, but still one of the best backyard bars in Brooklyn.",
+    "url": "http://www.lavenderlake.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
+    "notes": "Relocated from Gowanus (383 Carroll St, demolished March 2022) to 53 Broadway, Brooklyn NY 11249 — reopened March 4, 2024 (patch.com, nyctourism). Hours: closed Mon-Tue, Wed-Thu 16:00-00:00, Fri 16:00-01:00, Sat 12:00-01:00, Sun 12:00-22:00 (yelp, timeout). Backyard is the draw — string lights, picnic seating, fills up by 4pm on warm weekends. NOTE: no longer a 2-min Gowanus walk from Royal Palms — it is ~15 min drive north in South Williamsburg under the Williamsburg Bridge. Weekend street parking on Broadway/Bedford is metered and tight; Wythe Hotel garage is a paid fallback. If the Gowanus track needs a true chill decompression stop near Royal Palms, see enqueue.",
+    "sources": [
+      {
+        "url": "http://www.lavenderlake.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/lavender-lake",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/parkslope/gowanus-lavender-lake-close-ahead-building-demolition",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.business.nyctourism.com/places/lavender-lake",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d6558666-Reviews-Lavender_Lake-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T12:43:43.304Z"
   }
 ]
