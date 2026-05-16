@@ -5840,9 +5840,9 @@
   {
     "id": "brooklyn-bowl-williamsburg",
     "name": "Brooklyn Bowl",
-    "desc": "16-lane bowling alley fused with a live-music venue and Blue Ribbon fried-chicken kitchen.",
-    "longDesc": "Brooklyn Bowl is a Williamsburg landmark on Wythe Ave that combines 16 bowling lanes, a 600-capacity concert stage hosting national touring acts, and a full kitchen run by Blue Ribbon (the fried chicken is the signature order). Weekend mornings/early afternoons are family-friendly via the all-ages 'Family Bowl' (Sat 12-5pm, Sun 12-6pm); after 6pm the room flips 21+ and the music programming takes over. Bowling is reserved by the half-hour lane (8 guests max per lane).",
-    "url": "https://www.brooklynbowl.com/brooklyn/",
+    "desc": "16-lane bowling alley + live music venue + full-service Blue Ribbon kitchen under one Williamsburg roof",
+    "longDesc": "Iconic Williamsburg hybrid: 16 LEED-certified bowling lanes, a 600-capacity concert stage that books national touring acts nightly, and a full-service restaurant by Blue Ribbon (fried chicken is the move). Saturdays open at 11am with family bowling 12-5pm before the venue flips into late-night show mode through 2am — book lanes in advance, they fill fast on weekend nights with shows.",
+    "url": "https://www.brooklynbowl.com/brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
@@ -5854,29 +5854,29 @@
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$",
-    "duration": "90-120 min",
-    "driveFromIC": "18 min",
+    "priceBand": "$$$",
+    "duration": "2-4 hrs",
+    "driveFromIC": "22 min",
     "hoursWeekend": "Sat 11:00-02:00, Sun 11:00-23:00",
-    "notes": "Address: 61 Wythe Ave, Brooklyn, NY 11249 (Yelp / Apple Maps). Bowling: $30-$35 per lane per half hour, up to 8 guests (brooklynbowl.com FAQ). All-ages Family Bowl Sat 12-5pm / Sun 12-6pm; 21+ after 6pm (brooklynbowl.com FAQ). No dedicated lot — use paid garages on N 11th/Wythe or street parking, which is generally findable on weekend afternoons but tight after 7pm when shows start (brooklynbowl.com FAQ). Best fit for Saturfun: pair an early-evening Family Bowl block with a ticketed show, or use as a late-evening anchor after a Williamsburg food stop. Closed Mon/Tue.",
+    "notes": "61 Wythe Ave, Williamsburg waterfront (brooklynbowl.com). No dedicated lot — use paid garages or street parking on weekend (brooklynbowl.com/brooklyn-faqs). Lanes bookable via venue site; show-night lanes priced premium. Blue Ribbon kitchen runs full menu late. Best for higher-budget group night-out variant when crew wants bowling + ticketed live show stacked.",
     "sources": [
       {
-        "url": "https://www.brooklynbowl.com/brooklyn-faqs",
-        "accessed": "2026-05-16T06:35:00Z"
+        "url": "https://www.brooklynbowl.com/brooklyn",
+        "accessed": "2026-05-16T13:45:00Z"
       },
       {
-        "url": "https://www.brooklynbowl.com/brooklyn/",
-        "accessed": "2026-05-16T06:35:00Z"
+        "url": "https://www.brooklynbowl.com/brooklyn-faqs",
+        "accessed": "2026-05-16T13:45:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/brooklyn-bowl-brooklyn",
-        "accessed": "2026-05-16T06:35:00Z"
+        "accessed": "2026-05-16T13:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:39:38.620Z"
+    "lastResearchedAt": "2026-05-16T13:44:23.226Z"
   },
   {
     "id": "sip-and-play-park-slope",
@@ -6098,41 +6098,42 @@
   },
   {
     "id": "the-gutter-williamsburg",
-    "name": "The Gutter Williamsburg",
-    "desc": "Vintage 8-lane bowling alley with craft beer bar, open until 4 AM nightly, 21+",
-    "longDesc": "A salvaged-wood, mid-century-styled bowling alley on the Greenpoint/Williamsburg border with eight short lanes, a long craft beer bar, pinball, and a back room for events. Lanes run $30/half hour Sun-Thu and $35/half hour Fri-Sat (shoes $6, socks $4), and the kitchen + bar keep going until 4 AM, making it the best late-night active-chill venue within 25 min of Industry City. 21+ at all times, so plan it as the closing stop of a Williamsburg track.",
+    "name": "The Gutter",
+    "desc": "8-lane dive-bar bowling alley in Williamsburg with cheap drinks, pool tables, and a retro vibe (21+).",
+    "longDesc": "The Gutter is a beloved Williamsburg institution: an unpretentious bowling alley grafted onto a dive bar, with eight lanes, pool tables, and a back lounge called The Spare Room. It's the indie, cheaper, more chaotic cousin to Brooklyn Bowl—no bands, no food hype, just lanes, beer, and 4 AM closing time. 21+ only, so plan around that.",
     "url": "https://gutterbarbowl.com/williamsburg",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6924b5e6cc75dd27246cca94/ed2650bf-e861-4794-990a-80fb656ec19e/BK+pools+2.png",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "williamsburg",
     "vibe": [
-      "active",
-      "chill"
+      "chill",
+      "curious",
+      "active"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "90-120 min",
+    "duration": "60-90 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "12:00-04:00",
-    "notes": "200 N 14th St, Brooklyn NY 11222 — technically Greenpoint by zip but branded 'Williamsburg' (gutterbarbowl.com/williamsburg). 8 lanes (yelp.com/biz/the-gutter-brooklyn). Lane pricing Sun-Thu $30/30min, Fri-Sat $35/30min, shoes $6 / socks $4 (gutterbarbowl.com). Hours: Mon-Thu 4pm-4am, Fri 2pm-4am, Sat-Sun 12pm-4am, 21+ at all times (gutterbarbowl.com). Weekend street parking on N 14th / Berry / Wythe is doable Sat afternoons but tightens after 6pm — IC drivers should arrive early or use the McCarren Park area. Smaller and grungier than Brooklyn Bowl: no live-music venue attached, lower ceilings, more dive-bar than concert-hall energy. Reservations recommended weekends — walk-ins often face 60-90 min waits.",
+    "hoursWeekend": "Sat-Sun 12:00-04:00, Fri 14:00-04:00",
+    "notes": "200 N 14th St, Brooklyn 11249, on the Williamsburg/Greenpoint edge near the East River (gutterbarbowl.com). Lane pricing $35/half-hour Fri-Sat, $30 Sun-Thu; shoes $6, socks $4 (gutterbarbowl.com). 21+ at all times — hard constraint vs. Brooklyn Bowl which is more flexible. Friday/Saturday are hourly-rate only, walk-in (yelp.com). Street parking in north Williamsburg is tight on weekends; allow 10-15 min to find a spot, or use the lot at 184 Kent Ave. Drive from Industry City is ~22 min via the BQE off-peak.",
     "sources": [
       {
         "url": "https://gutterbarbowl.com/williamsburg",
-        "accessed": "2026-05-16T12:50:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-gutter-brooklyn",
-        "accessed": "2026-05-16T12:50:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/nightlife/the-gutter-bowling-alley-and-bar/",
-        "accessed": "2026-05-16T12:50:00Z"
+        "url": "https://www.timeout.com/newyork/bars/the-gutter-bowling-alley-and-bar",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:52:13.598Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:48:17.643Z"
   },
   {
     "id": "oldies-industry-city",
@@ -11418,48 +11419,41 @@
   {
     "id": "music-hall-of-williamsburg",
     "name": "Music Hall of Williamsburg",
-    "desc": "Intimate 550-cap Bowery Presents room hosting indie touring acts on a tight Williamsburg block.",
-    "longDesc": "Operated by The Bowery Presents at 66 North 6th Street, Music Hall of Williamsburg is the borough's flagship mid-size indie/rock club — capacity 550, sister venue to Manhattan's Bowery Ballroom, with a steep tiered floor and balcony that put even the back row close to the stage. Doors are typically 7pm with most shows ending by 11pm-midnight, so it slots cleanly as a Brooklyn Bowl Family-Bowl-to-night-cap pivot. No on-site parking; nearest covered garages (NYC Parking Garage Corp at 22-34 N 6th, Public Parking at 27 N 4th) are a 3-4 minute walk and open 24h.",
+    "desc": "650-cap Bowery-run indie rock room two blocks from Brooklyn Bowl with a stacked booking calendar",
+    "longDesc": "Tri-level cocktail-and-concert venue on N 6th run by The Bowery Presents, with a 650 capacity that consistently lands national indie, rock, and electronic acts on their way up. Sightlines are good from the rail and the upstairs mezzanine, sound is sharp, and doors typically open 7pm for an 8pm show. Two paid garages (NYC Parking 22-34 N 6th, Public Parking 27 N 4th) sit within a 3-4 min walk for the IC drive-in crowd.",
     "url": "https://www.musichallofwilliamsburg.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "curious",
-      "chill"
+      "chill",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "2-3 hr",
     "driveFromIC": "22 min",
-    "hoursWeekend": "doors 7pm (show-dependent)",
-    "notes": "Capacity 550, operated by The Bowery Presents — sister to Bowery Ballroom (en.wikipedia.org/wiki/Music_Hall_of_Williamsburg). No house parking; weekend street parking is alternate-side and competitive — book SpotHero or use NYC Parking Garage Corp (22-34 N 6th, 3-min walk, 24h) (brooklyn-theater.com/venues/musichallofwilliamsburg/parking). Pairs naturally after a 4-6pm Family Bowl at Brooklyn Bowl in Wmsbg (8-min walk between venues). Manhattan-adjacent feel without the bridge — only justified over a Manhattan room because it keeps the night on the BK side of the BQE.",
+    "hoursWeekend": "19:00-23:30 (doors 7pm, show 8pm)",
+    "notes": "66 N 6th St, Brooklyn NY 11211; ~650 cap, tri-level w/ balcony (axs.com). Box office hours Mon-Sat 10:00-21:00. Bowery Presents booking — same family as Bowery Ballroom & Mercury Lounge, so calendar skews indie/alt with frequent sellouts; check site for date-of-show. Closest parking: NYC Parking Garage Corp 22/34 N 6th (3 min walk) and Public Parking 27 N 4th (4 min walk). Two blocks from Brooklyn Bowl — pair the two for a music-anchored Williamsburg night.",
     "sources": [
       {
         "url": "https://www.musichallofwilliamsburg.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Music_Hall_of_Williamsburg",
+        "url": "https://www.axs.com/venues/125933/music-hall-of-williamsburg-brooklyn-tickets",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.bowerypresents.com/venues/music-hall-of-williamsburg",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.brooklyn-theater.com/venues/musichallofwilliamsburg/parking",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://spothero.com/destination/nyc/music-hall-of-williamsburg-parking",
+        "url": "https://www.brooklyn-theater.com/theaters/musichallofwilliamsburg/location.php",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T12:54:07.385Z"
+    "lastResearchedAt": "2026-05-16T13:50:11.732Z"
   },
   {
     "id": "royal-palms-shuffleboard-club",
@@ -12188,5 +12182,97 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T13:40:26.661Z"
+  },
+  {
+    "id": "spare-room-gutter-williamsburg",
+    "name": "The Spare Room at The Gutter",
+    "desc": "Hidden 100-cap back room behind a Williamsburg bowling alley — karaoke, comedy, live music, and group bookings",
+    "longDesc": "Tucked behind The Gutter's lanes at 200 N 14th St, The Spare Room is a ~100-capacity speakeasy-style performance venue running Saturday Night Karaoke (11pm onward, hosted by Mike Cicchetti), Monday comedy open mics, Wednesday's 'Comedians You Should Know' showcase, and weeknight live bands. The whole room is bookable for private parties — a strong move for a group track that wants bowling + a curated set on the same ticket. Most weekly programming is free or pay-what-you-can with RSVP.",
+    "url": "https://gutterbarbowl.com/spareroom",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "1-2 hr",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat ~6pm-2am (karaoke 11pm+)",
+    "notes": "Same building as The Gutter bowling — perfect pairing for a group-booking track: lanes first, then the back room for karaoke or a comedy set (gutterbarbowl.com/spareroom). Cap ~100, address 200 N 14th St, Brooklyn (foursquare.com, yelp.com). Sat Night Karaoke is the signature weekend draw and is free with RSVP. For private events use the contact form on the main Gutter site. Street parking in this stretch of Williamsburg is manageable on weekends but not guaranteed; backup is metered lots near Bedford.",
+    "sources": [
+      {
+        "url": "https://gutterbarbowl.com/spareroom",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bandnada.com/b/gutterspareroom",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/the-spare-room/6277cb885069294af39fc208",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-gutter-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynvegan.com/the-gutter-turn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:46:25.964Z"
+  },
+  {
+    "id": "bar-blondeau",
+    "name": "Bar Blondeau",
+    "desc": "6th-floor rooftop at Wythe Hotel with floor-to-ceiling Manhattan skyline views, natural wine and small plates",
+    "longDesc": "Bar Blondeau sits on the 6th floor of the Wythe Hotel with floor-to-ceiling windows facing the East River and Manhattan skyline, plus an outdoor terrace in season. The menu leans French/Spanish/Portuguese small plates with seafood, signature and frozen cocktails, and an international natural-wine list. Sunset Hour weekdays 5-7pm runs $11 cocktails — ideal for pre-show drinks one block from Brooklyn Bowl.",
+    "url": "https://www.barblondeau.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "romantic",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "17:00-01:00",
+    "notes": "80 Wythe Ave Fl 6, Brooklyn NY 11249 — one block from Brooklyn Bowl. Resy reservations recommended; floor-to-ceiling skyline views from indoor lounge plus seasonal outdoor terrace (wythehotel.com/bar-blondeau). Sunset Hour weekdays 5-7pm = $11 cocktails (barblondeau.com). Williamsburg street parking tight on weekends — Wythe Hotel valet ~$60 or use Williamsburg Hotel garage. Phone (718) 460-8006.",
+    "sources": [
+      {
+        "url": "https://www.barblondeau.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.wythehotel.com/bar-blondeau",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/barblondeau",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.therooftopguide.com/rooftop-bars-in-new-york/bar-blondeau-at-wythe-hotel.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T13:52:05.631Z"
   }
 ]
