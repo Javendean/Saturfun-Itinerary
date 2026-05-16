@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Ba Xuyên banh mi 8th Ave Sunset Park",
-    "reason": "Iconic banh mi shop six blocks east of the park — natural pre-sunset food pairing inside the same zone",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:49:19.241Z"
-  },
-  {
-    "topic": "Bamboo Garden dim sum (6217 8th Ave, Sunset Park)",
-    "reason": "Classic cart-style dim sum 0.7 mi south on same 8th Ave corridor — anchors a morning slot on the same Chinatown loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:51:22.160Z"
-  },
-  {
-    "topic": "Kai Feng Fu Dumpling House (4801 8th Ave, Sunset Park)",
-    "reason": "$1 lamb-and-coriander boiled dumplings legend, two blocks north of Yun Nan — fits the cheap-eats crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:51:22.160Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace (714 65th St, Sunset Park)",
-    "reason": "Banquet-hall dim sum just east of 8th Ave — adds a bigger-group dinner option to the cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:51:22.160Z"
-  },
-  {
-    "topic": "Pacificana Sunset Park dim sum 55th St",
-    "reason": "Direct stylistic alternative to East Harbor — larger upstairs banquet hall, also cart service, gives the recommender a fallback when East Harbor's wait is brutal",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:53:41.474Z"
-  },
-  {
     "topic": "Yun Nan Flavour Garden Sunset Park Yunnanese rice noodles",
     "reason": "Non-Cantonese Chinese option in the same 8th Ave Chinatown strip; expands the Sunset Park lunch cluster beyond dim sum",
     "requestedBy": "agent",
@@ -2656,5 +2626,77 @@
     "reason": "Corpus has no Bay Ridge food yet; needed to complete a 'sunset at Owl's Head + dinner' track without driving back north",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T11:15:31.423Z"
+  },
+  {
+    "topic": "Sunset Park summit lawn — Manhattan skyline sunset viewpoint",
+    "reason": "Natural pairing with Ba Xuyên: 8-min walk west, frames the banh mi as a pre-sunset food stop and adds the actual sunset moment as its own scoutable stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:17:39.029Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden — Sunset Park 8th Ave hand-pulled noodles",
+    "reason": "Same 8th Ave Chinatown strip as Ba Xuyên, fills out a 'Brooklyn Chinatown crawl' micro-track adjacent to IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:17:39.029Z"
+  },
+  {
+    "topic": "Kaiser Tiger / Lan Zhou Handmade Noodle 8th Ave",
+    "reason": "Cheap-eats density on 8th Ave is the unique angle of this zone; one more entry locks in a 3-stop food crawl option for the IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:17:39.029Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace dim sum (714 65th St, Sunset Park)",
+    "reason": "The other big Sunset Park cart-style dim sum hall — natural A/B alternative on the same morning loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:20:11.474Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden (5121 8th Ave, Sunset Park)",
+    "reason": "Yunnan rice noodles round out the 8th Ave Chinatown cluster with a non-Cantonese counterpoint",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:20:11.474Z"
+  },
+  {
+    "topic": "Yi Ji Shi Mo Tofu (5223 8th Ave, Sunset Park) — fresh stone-ground tofu pudding and soy milk",
+    "reason": "Same 8th Ave Chinatown corridor cheap-eats cluster; rounds out a dumpling+tofu crawl 10 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:22:25.862Z"
+  },
+  {
+    "topic": "Lan Zhou Hand Pull Noodles (4920 8th Ave) — beef noodle soup hand-pulled to order",
+    "reason": "Across-the-street complement to Kai Feng Fu; lets a cluster carry dumplings + noodles + tofu without driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:22:25.862Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace (714 65th St) — old-school weekend dim sum cart service",
+    "reason": "Sunset Park's anchor sit-down option for a different mood — pairs well as a 'go bigger' upgrade slot in the same zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:22:25.862Z"
+  },
+  {
+    "topic": "Pacificana dim sum 55th & 8th Ave Sunset Park",
+    "reason": "Direct cart-style dim sum competitor a few blocks north — useful for A/B group-dinner comparison in the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:24:28.731Z"
+  },
+  {
+    "topic": "Bian Dang Taiwanese Sunset Park 8th Ave",
+    "reason": "Adds a fast/cheap Taiwanese option to the 8th Ave food corridor to balance East Harbor's banquet heft",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:24:28.731Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House Sunset Park 8th Ave",
+    "reason": "Soup-dumpling counterpart to the cart-hall dim sum entries; adds a cheap-eats Sunset Park option under $10 within 6 min of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:26:36.452Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself) sunset hill view Brooklyn",
+    "reason": "Natural post-dim-sum walk anchor — the namesake hilltop is 8 min from Pacificana with skyline views, ties the food stop into a full track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:26:36.452Z"
   }
 ]
