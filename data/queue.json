@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Lysée Patisserie Manhattan Korean-French pastry Flatiron",
-    "reason": "Genuinely Korean-led modern dessert flagship (which Spot is not) — fills the Korean dessert slot the original topic was reaching for; James Beard nominated.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:41:34.059Z"
-  },
-  {
-    "topic": "Soft Swerve Lower East Side ube black sesame Asian soft serve",
-    "reason": "Adjacent Manhattan Asian-dessert candidate with quick-stop format — different price band and faster duration than Spot, useful as a contrasting Manhattan option.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:41:34.059Z"
-  },
-  {
-    "topic": "Bonbon Lab Williamsburg modern bonbons dessert atelier",
-    "reason": "Brooklyn (Williamsburg) modern dessert candidate inside the 15-min IC drive radius — preferable to Spot for drive-friendliness and rounds out the dessert category with a Brooklyn entry.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:41:34.059Z"
-  },
-  {
-    "topic": "Fornino at Pier 6 rooftop pizza",
-    "reason": "Seasonal rooftop pizza+drinks directly on Pier 6 — converts the parking+sunset combo into a dinner stop without moving the car",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:43:29.931Z"
-  },
-  {
-    "topic": "Pilot oyster bar schooner at Pier 6",
-    "reason": "Floating historic schooner docked at Pier 6 for oysters and cocktails — unique waterfront drinks anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T07:43:29.931Z"
-  },
-  {
     "topic": "Pier 5 picnic peninsula and harbor view lawn",
     "reason": "Adjacent pier with grills, lawns, and another harbor angle — extends the Pier 6 parking lot into a longer waterfront circuit",
     "requestedBy": "agent",
@@ -4396,5 +4366,89 @@
     "reason": "Modern cheese-foam/fruit-tea brand on 8th Ave — expands boba corpus beyond traditional milk tea and is uniquely Sunset Park (no other NYC Heytea this close to IC)",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T17:03:21.841Z"
+  },
+  {
+    "topic": "Jungsik Bakery Tribeca Korean pastry counter",
+    "reason": "Eunji Lee's pre-Lysée home — gives a second Manhattan Korean-pastry data point and a back-up if Lysée is sold out",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:05:29.475Z"
+  },
+  {
+    "topic": "Librae Bakery East Village Middle-Eastern viennoiserie",
+    "reason": "Adjacent 'chef-driven cross-cultural pastry' tier; expands beyond Korean-French into the broader fusion-patisserie corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:05:29.475Z"
+  },
+  {
+    "topic": "Layla Bagels Park Slope Korean-influenced bagel",
+    "reason": "Brooklyn-side Korean-American baking that fits the IC driving radius (10-15 min) and complements a Manhattan dessert trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:05:29.475Z"
+  },
+  {
+    "topic": "Soft Swerve Downtown Brooklyn 445 Albee Square W — closer-to-IC alternative",
+    "reason": "Same brand/menu but in Brooklyn — likely much shorter drive than LES and avoids Manhattan parking; worth comparing for the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:07:16.639Z"
+  },
+  {
+    "topic": "Taiyaki NYC Williamsburg ice cream fish cone",
+    "reason": "Adjacent Asian soft-serve format (taiyaki-cone) in Brooklyn — closer to IC and photo-strong",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:07:16.639Z"
+  },
+  {
+    "topic": "Chinatown Ice Cream Factory Manhattan",
+    "reason": "Classic Asian-flavor ice cream Manhattan counterpoint — different price/format band, would round out the Asian-dessert sub-corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:07:16.639Z"
+  },
+  {
+    "topic": "Ferrane Bakery Brooklyn Heights Swedish pastry",
+    "reason": "New (2025) Swedish bakery from the BonBon co-founder serving cinnamon buns and princess cakes — fills the modern-pastry slot in Brooklyn Heights, ~15 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:10:41.005Z"
+  },
+  {
+    "topic": "Burrow Pastries DUMBO hidden patisserie",
+    "reason": "Speakeasy-style Japanese-French patisserie tucked inside a DUMBO office building — strong photo/curious vibe, rounds out the dessert category with a contrasting style",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:10:41.005Z"
+  },
+  {
+    "topic": "Fine & Raw Chocolate Factory East Williamsburg",
+    "reason": "Bean-to-bar factory with cafe and bonbons; weekday-only so cannot anchor weekend itineraries but worth indexing as a weekday/holiday-week option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:10:41.005Z"
+  },
+  {
+    "topic": "Pilot House at Brooklyn Bridge Park Pier 5",
+    "reason": "Adjacent rooftop bar a few piers north — same harbor-sunset itinerary slot, complementary alternative when Fornino is at capacity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:12:34.404Z"
+  },
+  {
+    "topic": "Pier 6 Flower Field and volleyball courts",
+    "reason": "Free pre-dinner activity feet from Fornino — extends the Pier 6 stop without driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:12:34.404Z"
+  },
+  {
+    "topic": "Jane's Carousel at Brooklyn Bridge Park",
+    "reason": "Photogenic 10-min stop on the same Brooklyn Bridge Park drive corridor — pairs with Pier 6 dinner for a north-shore evening loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:12:34.404Z"
+  },
+  {
+    "topic": "Brooklyn Bridge Park Pier 6 sunset gardens + Granite Prospect viewpoint walk",
+    "reason": "Natural pre/post-Pilot anchor in same zone with no extra drive; rounds out a Brooklyn Heights track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:14:30.712Z"
+  },
+  {
+    "topic": "Estuary cocktail bar at 1 Hotel Brooklyn Bridge",
+    "reason": "Adjacent upscale waterfront drinks option a 5-min drive north — strengthens Brooklyn Heights drinks corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T17:14:30.712Z"
   }
 ]
