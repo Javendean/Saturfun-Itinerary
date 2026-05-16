@@ -1,35 +1,5 @@
 [
   {
-    "topic": "La Flor Bakery Sunset Park",
-    "reason": "Comparison panaderia a few blocks away — helps the corpus rank Don Paco vs neighborhood peers",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:40:53.762Z"
-  },
-  {
-    "topic": "Tacos Matamoros — 5th Ave Sunset Park late-night Mexican alternative",
-    "reason": "Second-strongest late-night taco option in the same cluster; useful as a same-zone alternate stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:43:00.061Z"
-  },
-  {
-    "topic": "Sunset Park Diner & Donuts — 24hr diner on 4th Ave",
-    "reason": "Only confirmed 24-hour option in Sunset Park; fills the 2am+ slot when El Bronco closes",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:43:00.061Z"
-  },
-  {
-    "topic": "Industry City Night Market schedule and vendor lineup",
-    "reason": "Seasonal IC late-event that could anchor a different itinerary track when running",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:43:00.061Z"
-  },
-  {
-    "topic": "Little Thanh Da 5624 8th Ave banh mi counter",
-    "reason": "Sibling shop directly on 8th Ave — third option in the Sunset Park banh mi triangle alongside Ba Xuyên and Thanh Đa",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:45:17.551Z"
-  },
-  {
     "topic": "Hai Long Ky bakery 8th Ave Brooklyn Chinatown char siu bao",
     "reason": "Adjacent 8th Ave Sunset Park bakery — pairs naturally with a banh mi crawl",
     "requestedBy": "agent",
@@ -2530,5 +2500,95 @@
     "reason": "Cross-zone Mexican benchmark for the corpus — same cuisine, completely different vibe (factory-floor tacos) for variety",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T10:52:42.695Z"
+  },
+  {
+    "topic": "Tacos El Bronco 5th Ave Sunset Park",
+    "reason": "Other Mexican anchor on the same 5th Ave corridor — completes the panaderia/taqueria pairing near Don Paco",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:54:31.833Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia Sunset Park",
+    "reason": "Direct comparison venue for ranking; ensures both peers are in the corpus side-by-side",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:54:31.833Z"
+  },
+  {
+    "topic": "Tacos El Bronco — 4324 5th Ave Sunset Park taqueria",
+    "reason": "Direct neighbor on the same 5th Ave Mexican corridor; expands late-night taco cluster for cross-comparison",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:56:30.359Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia — Sunset Park Mexican bakery for late-night pan dulce",
+    "reason": "Pairs naturally with a Matamoros stop; rounds out the Sunset Park Mexican cluster with a dessert/coffee option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:56:30.359Z"
+  },
+  {
+    "topic": "Melody Lanes — Sunset Park retro bowling alley late-night",
+    "reason": "Non-food activity in the same 5-min radius; lets the cluster mix food + activity instead of stacking taquerias",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:56:30.359Z"
+  },
+  {
+    "topic": "Kellogg's Diner (Williamsburg) — 24hr diner alternative on the north end of Brooklyn",
+    "reason": "Second 24/7 diner option to balance late-night coverage when itinerary lands closer to Williamsburg/Greenpoint than IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:58:21.993Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos (Bushwick) — late tortilla factory taqueria",
+    "reason": "Pairs with 24hr diner research as a 'where do we eat at 2am' cluster; adds a non-diner option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:58:21.993Z"
+  },
+  {
+    "topic": "Brooklyn Bagel & Coffee Co. (Greenwood Heights) — early-morning donut/bagel anchor near IC",
+    "reason": "Adjacent walking-distance dawn option that complements a late-night Sunset Park Diner stop on overnight itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T10:58:21.993Z"
+  },
+  {
+    "topic": "Smorgasburg Prospect Park weekend food market 2026 schedule",
+    "reason": "Weekend-equivalent open-air food market within 10-min drive of IC — fills the weekend gap that Brooklyn Night Market (Mon-only) cannot anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:00:50.919Z"
+  },
+  {
+    "topic": "Sunset Park Greenmarket Saturday hours and vendors",
+    "reason": "Saturday-morning IC-adjacent market option to pair with an afternoon IC track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:00:50.919Z"
+  },
+  {
+    "topic": "Industry City Food Hall Japan Village vendors",
+    "reason": "Always-open IC food cluster to substitute when the Night Market isn't running (Nov-Mar, or non-last-Mondays)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:00:50.919Z"
+  },
+  {
+    "topic": "BK Eats Here June 13-14 2026 Industry City event",
+    "reason": "Separate weekend food event at IC (50 curated vendors) flagged by SecretNYC — distinct from the monthly Night Market and worth its own entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:00:50.919Z"
+  },
+  {
+    "topic": "Bánh Mì Bay Ridge or other Brooklyn banh mi outside Sunset Park for comparison anchor",
+    "reason": "Expands the banh mi corpus beyond the 8th Ave triangle so itineraries can route west on weekends when Sunset Park is crushed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:02:52.530Z"
+  },
+  {
+    "topic": "Sunset Park weekend street-parking map / lot near 8th Ave & 57th",
+    "reason": "All three banh mi pins are cash + takeout + curbside-eating — parking intel is the actual blocker, not the food",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:02:52.530Z"
+  },
+  {
+    "topic": "Cà phê Vy or other Sunset Park Vietnamese iced coffee stop",
+    "reason": "Pairs naturally with a banh mi crawl and rounds out a single-cluster Sunset Park morning track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T11:02:52.530Z"
   }
 ]

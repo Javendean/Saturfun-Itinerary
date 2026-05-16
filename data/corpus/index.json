@@ -5187,9 +5187,9 @@
   {
     "id": "tacos-matamoros",
     "name": "Tacos Matamoros",
-    "desc": "Family-run Sunset Park taqueria on 5th Ave — carnitas, handmade tortillas, $5 margs till 1am.",
-    "longDesc": "A long-running, locals-packed Mexican spot on Sunset Park's 5th Ave corridor about 10 blocks south of Industry City. Known for large, well-priced tacos (carnitas and al pastor are crowd picks), handmade tortillas, hearty enchiladas, and a casual no-frills dining room. Pairs naturally with El Bronco for a 5th Ave taco crawl — the two sit ~6 blocks apart.",
-    "url": "https://tacosmatamoros.shop/",
+    "desc": "Sunset Park institution for al pastor, cabeza and tortas on 5th Ave's Mexican corridor",
+    "longDesc": "A cash-only Sunset Park cornerstone where a sprawling menu of small soft-corn-tortilla tacos, tamales, tortas and mole plates anchors one of the neighborhood's busiest dining rooms. The al pastor — juicy slow-roasted pork with crisp seared edges — is regularly called among NYC's best, and the cabeza taco has landed on the Infatuation's 26-best-tacos list. Open late nightly, six blocks south of Industry City on 5th Ave's Mexican strip.",
+    "url": "https://www.tacosmatamoros.shop/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5197,17 +5197,19 @@
       "foodie",
       "chill"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
     "duration": "45-60 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "11:00-01:00",
-    "notes": "4508 5th Ave, Brooklyn (between 45th–46th St); ~1.2 mi / 8-min drive south of IC down 3rd or 5th Ave. Free street parking is usually findable on weekends along 4th/6th Ave side streets. Cash-friendly, family-run, BYOB for beer; $5 margaritas all day (Tripadvisor). Pair with Tacos El Bronco (4324 4th Ave) for a two-stop crawl — they're a 4-min drive or 10-min walk apart. Signature: carnitas tacos, chicken tostadas, handmade tortillas, tamales (Tripadvisor, Yelp).",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "11:00-23:00",
+    "notes": "Cash-only — bring bills (Yelp, Infatuation). 4508 5th Ave between 45th & 46th St; street parking on 5th Ave or side streets, generally easier than Williamsburg. Al pastor and cabeza tacos are the signatures; tortas and pasteles with guava noted as late-night picks (Yelp). Closing time varies 11pm–1am by source — call 718-871-7627 if arriving after 10:30pm. Same-zone alternate to other late-night Mexican stops in the cluster (Infatuation).",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/tacos-matamoros-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/tacos-matamoros",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -5215,14 +5217,14 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://tacosmatamoros.shop/",
+        "url": "https://brokelyn.com/a-12-taco-tour-of-sunset-park/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T05:38:54.774Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:56:30.350Z"
   },
   {
     "id": "don-paco-lopez-panaderia",
@@ -9948,5 +9950,173 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T10:52:42.688Z"
+  },
+  {
+    "id": "la-flor-de-izucar-sunset-park",
+    "name": "La Flor de Izúcar Café",
+    "desc": "Family-run Mexican panadería on 5th Ave serving conchas, café de olla and tortas since 1990.",
+    "longDesc": "Sunset Park institution since 1990, baking concha, cuernos and pan dulce in-house alongside hot tortas and café de olla. Open nearly 24/7 (closes briefly Sun night/Mon morning), so it doubles as both a pre-IC pastry stop and a late-night sweet run. Sits on the busy 5th Ave commercial strip with a steady Mexican-Brooklyn breakfast crowd.",
+    "url": "https://flordeizucar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "open 24 hours (Sat-Sun)",
+    "notes": "4021 5th Ave, Brooklyn NY 11232 — about 8 blocks east of Industry City, easy street parking on weekends in 5th Ave side streets (Tripadvisor/Yelp). Reviewers consistently praise the conchas, tres leches and café de olla; weekend brunch line moves quickly because most orders are takeaway (Yelp). Strong comparison point against Don Paco — both Mexican, both ~$, but La Flor leans pan dulce + sandwiches while Don Paco leans birria/tacos.",
+    "sources": [
+      {
+        "url": "https://flordeizucar.com/about-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/la-flor-bakery-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1145557-Reviews-La_Flor_De_Izucar-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T10:54:31.826Z"
+  },
+  {
+    "id": "sunset-park-diner-and-donuts",
+    "name": "Sunset Park Diner & Donuts",
+    "desc": "24/7 family-run diner with house-made donuts — fills the 2am+ gap when El Bronco closes.",
+    "longDesc": "A genuine 24-hour neighborhood diner at 889 5th Ave on the Sunset Park / Greenwood Heights border, four uphill blocks from Industry City. The menu is classic diner — omelets, pancakes, burgers, milkshakes — alongside donuts fried in-house. Cash only, takeout and delivery available, and reliably open every hour of every day, which makes it the default late-night/early-morning anchor when most of the IC-cluster kitchens have shut down.",
+    "url": "https://sunsetparkdinerdonuts.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "24 hours",
+    "notes": "Address is 889 5th Ave (task brief said 4th Ave — correct per official site and Yelp). Cash only — warn before late-night routing (sunsetparkdinerdonuts.com). Donuts are made on premises; omelets, pancakes, milkshakes round out a classic diner menu. Open 24/7 every day, no shortened hours (Yelp, official site). ~5 min drive uphill from Industry City via 36th St; on-street parking is generally easy after midnight on 5th Ave.",
+    "sources": [
+      {
+        "url": "https://sunsetparkdinerdonuts.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunset-park-diner-and-donuts-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://onthegrid.city/brooklyn/sunset-park/sunset-park-diner-donuts",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T10:58:21.986Z"
+  },
+  {
+    "id": "brooklyn-night-market-industry-city",
+    "name": "Brooklyn Night Market at Industry City",
+    "desc": "Monthly open-air night market with 50+ global food vendors, live music, and pop-up shopping on IC's 36th St plaza.",
+    "longDesc": "MASC Hospitality's Brooklyn Night Market returns for its third season in 2026, running the last Monday of every month from April 29 through October on 36th Street between 2nd and 3rd Avenue inside Industry City. Each event draws 6,000+ guests across two blocks with 50+ vendors spanning food from 40+ countries (Filipino lechon/sisig, aguachile, Caribbean fishcakes, jerk chicken, Korean rice dogs, fried lasagna, desserts) plus apparel and lifestyle pop-ups; ~70% of vendors are minority-, female-, or immigrant-owned. Free entry with optional online RSVP for raffles; live performances and family activities throughout the night.",
+    "url": "https://industrycity.com/event/brooklyn-night-market/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "90-150 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Closed (last Mon of month, 16:00-22:00, Apr-Oct)",
+    "notes": "Monday-only seasonal event — not a weekend anchor, but ideal for a Monday-night detour track when running (industrycity.com). 50+ international food vendors across two blocks of 36th St between 2nd/3rd Ave; live music + performances (industrycity.com). IC paid lots ~$15 but fill fast after 6pm — arrive by 5pm or street park on 2nd Ave (secretnyc.co). Free entry; RSVP online via MASC/weeathere.com for raffle entry. 220 36th St, Brooklyn NY 11232. Best for foodie + photo tracks; pair with a sunset walk on the IC waterfront before the market opens at 4pm.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/brooklyn-night-market-will-return-for-its-third-season-this-spring/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/brooklyn-night-market-brings-the-party-and-food-to-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://secretnyc.co/nyc-2026-night-market-schedule/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.weeathere.com/bknm",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T11:00:50.911Z"
+  },
+  {
+    "id": "little-thanh-da",
+    "name": "Little Thanh Đa",
+    "desc": "Cash-only takeout banh mi counter on 8th Ave with crackly baguettes and a deep Vietnamese drink list.",
+    "longDesc": "A tiny no-frills Sunset Park sandwich shop turning out classic banh mi — chả lụa, BBQ pork, meatball, shredded chicken — on baguettes that hit the right shatter-then-pillow texture. The drink case is its own draw: ice Horlick, ice Ovaltine, soda chanh muối, plus chôm chôm and sầu riêng sinh tố shakes. Cash only, takeout only, opens early (7:30am) which makes it a strong pre-roam IC breakfast option.",
+    "url": "https://www.yelp.com/biz/little-thanh-da-inc-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "15-30 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "07:30-18:45",
+    "notes": "Third pin in the Sunset Park banh mi triangle: Ba Xuyên (4222 8th Ave) and Thanh Đa (5004 7th Ave) flank it, but Little Thanh Đa is the 8th-Ave sibling of the Thanh Đa name and a separate operation. Cash only, takeout only, no seating (yelp.com). Street parking is doable on weekend mornings around 56th/57th & 8th; meter zone after 9am. Tight enough that you can hit two of the three banh mi spots in one stop and side-by-side them in the car.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/little-thanh-da-inc-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://littlethanhdainc.restaurants-us.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://mindtrip.ai/restaurant/new-york-city/little-thanh-da/re-TmN0MNTm",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/little-thanh-da-/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T11:02:52.523Z"
   }
 ]
