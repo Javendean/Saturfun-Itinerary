@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Comedy Cellar Greenwich Village (MacDougal)",
-    "reason": "Covers the 'comedy' bucket from the brief - iconic lineup but parking constrains it to evening-only with garage; worth a curated entry",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:02:45.261Z"
-  },
-  {
-    "topic": "Queens Botanical Garden, Flushing (43-50 Main St) — weekend hours + $10 parking",
-    "reason": "Pairs with NYSCI as a green-space Flushing anchor; free Sun 9-11am Apr-Oct, free all winter; needed to round out a Flushing day in the corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:05:13.322Z"
-  },
-  {
-    "topic": "Flushing Meadows-Corona Park — Unisphere + Queens Museum cluster",
-    "reason": "The 1964 World's Fair grounds; Unisphere is a top-tier NYC photo op and Queens Museum holds the Panorama of NYC; sits 5-min walk from NYSCI",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:05:13.322Z"
-  },
-  {
-    "topic": "Nan Xiang Xiao Long Bao, Flushing (39-16 Prince St) — Michelin Bib soup dumplings, live alternative to Joe's Shanghai",
-    "reason": "Joe's Shanghai Flushing flagged CLOSED on Yelp Apr 2026 — Nan Xiang is the current go-to xiaolongbao spot in Flushing and a safer corpus add",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:05:13.322Z"
-  },
-  {
-    "topic": "Xi'an Famous Foods OG basement stall, Flushing (Golden Shopping Mall, 41-28 Main St)",
-    "reason": "Origin story of the chain — hand-pulled biang biang noodles, $10 lunch, iconic foodie pilgrimage destination 0.5mi from NYSCI",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T05:05:13.322Z"
-  },
-  {
     "topic": "Flushing Chinatown food crawl: New World Mall food court + Tangoo + Joe's Steam Rice Roll",
     "reason": "Multi-stop walking option for a Flushing food day; cheap, photogenic, distinct from anything in current Brooklyn-heavy corpus",
     "requestedBy": "agent",
@@ -1792,5 +1762,89 @@
     "reason": "Free Goya/Velázquez collection in Washington Heights — uniquely-justified Manhattan combo with the Cloisters on the same drive",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T08:29:50.050Z"
+  },
+  {
+    "topic": "Union Hall Park Slope (basement comedy + bocce)",
+    "reason": "BK-native comedy alternative inside the 15-min IC drive radius — solves the parking pain and fits the geographic-track model better than a Manhattan trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:32:07.713Z"
+  },
+  {
+    "topic": "Littlefield Gowanus (comedy + live shows venue)",
+    "reason": "Industrial-cool comedy/music room a few blocks from IC; expands the evening-entertainment corpus in the anchor zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:32:07.713Z"
+  },
+  {
+    "topic": "The Bell House Gowanus (comedy podcasts + variety)",
+    "reason": "Podcast-tapings and big-name standup nights, ~8 min drive from IC with street parking that actually exists on weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:32:07.713Z"
+  },
+  {
+    "topic": "Flushing Meadows Corona Park — Unisphere & lake loop",
+    "reason": "Free outdoor anchor adjacent to NYSCI and QBG; fills out a 3-stop Flushing day without adding admission cost",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:34:25.451Z"
+  },
+  {
+    "topic": "Joe's Shanghai original (Flushing) — soup dumplings",
+    "reason": "Iconic Flushing food stop to bridge QBG/NYSCI lunch slot; under 5 min drive from both, weekend-open",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:34:25.451Z"
+  },
+  {
+    "topic": "Louis Armstrong House Museum, Corona",
+    "reason": "Cultural pair with QBG in eastern Queens; ticketed tours on weekends; differentiates the Flushing-day vibe from pure green-space",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:34:25.451Z"
+  },
+  {
+    "topic": "NY State Pavilion Tent of Tomorrow restoration tours",
+    "reason": "Adjacent World's Fair landmark in the same park, occasionally open for guided tours — pairs naturally with Unisphere stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:36:23.851Z"
+  },
+  {
+    "topic": "Lemon ice King of Corona",
+    "reason": "Classic Italian ices stand a 6-min drive from the park; iconic Queens food stop to extend the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:36:23.851Z"
+  },
+  {
+    "topic": "Nan Xiang Xiao Long Bao K-Town Manhattan location (32nd St)",
+    "reason": "Closer-to-IC alternate for the same Lucky Six soup dumplings if Flushing drive is too far; recently opened Manhattan branch per Secret NYC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:38:58.168Z"
+  },
+  {
+    "topic": "White Bear Flushing — fish-skin wontons in chili oil",
+    "reason": "Adjacent Flushing single-dish legend that pairs well with Nan Xiang for a Queens food-crawl track; cash-only counter, ~5 min from Prince St",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:38:58.168Z"
+  },
+  {
+    "topic": "Tianjin Dumpling House, Golden Mall Flushing — lamb & squash dumplings",
+    "reason": "Stall-style counterpart to round out a Flushing dumpling track; reinforces the cuisine-unique justification for the long drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:38:58.168Z"
+  },
+  {
+    "topic": "Xi'an Famous Foods Flushing (current Tangram Mall location, 133-33 39th Ave Level C)",
+    "reason": "Live replacement for the closed OG stall — same menu (N1 hand-ripped lamb noodle, liang pi, cumin lamb burger), actually visitable in 2026, walkable from Flushing Main St 7-train",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:41:44.208Z"
+  },
+  {
+    "topic": "New World Mall Food Court, Flushing (136-20 Roosevelt Ave)",
+    "reason": "Successor food court that absorbed many Golden Mall vendors post-2019 — Lanzhou hand-pulled noodles, Tianjin jianbing, Chengdu mala stalls; the actual modern pilgrimage site for NYC regional Chinese",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:41:44.208Z"
+  },
+  {
+    "topic": "Jason Wang's biang biang noodle technique / hand-ripping demos",
+    "reason": "Cultural-context entry pairs well with the venue; could enqueue a kid-friendly demo or cookbook reference for itinerary lore cards",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T08:41:44.208Z"
   }
 ]

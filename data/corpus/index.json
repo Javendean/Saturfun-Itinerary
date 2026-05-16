@@ -7960,5 +7960,226 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T08:29:50.041Z"
+  },
+  {
+    "id": "comedy-cellar-macdougal",
+    "name": "Comedy Cellar (MacDougal St)",
+    "desc": "Iconic Greenwich Village basement club — surprise A-list drop-ins, four shows a night on weekends.",
+    "longDesc": "The Comedy Cellar at 117 MacDougal is the room every working NYC comic wants to play, and unannounced sets from Chappelle, Burr, Attell, and Jerry Seinfeld are a regular occurrence rather than a rumor. Weekend shows run 6:45pm / 8:45pm / 10:45pm / 12:30am at $25 a seat with a two-item food-or-drink minimum, so plan it as a 90-120 minute commitment plus a meal next door at the Olive Tree Cafe. No on-site parking — book a SpotHero/Icon garage near Thompson St or Minetta Lane before you leave Brooklyn, because circling MacDougal on a Saturday night is a losing game.",
+    "url": "https://www.comedycellar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 18:45-02:00; Sun 13:30-00:30",
+    "notes": "Manhattan exception — only justifies the drive after dark when IC traffic dies; treat as the evening cap of a track, not a daytime stop. Zone tagged 'brooklyn-heights' for routing-proximity (closest BK launch point via Hugh Carey Tunnel) since schema has no Manhattan zone. Pre-book parking via SpotHero — closest garages are 221 Thompson St and Minetta/W 3rd between 6th & MacDougal (https://spothero.com/destination/nyc/comedy-cellar-parking). Two-item minimum applies on top of $25 cover; budget ~$40/person all-in. Lineups are not announced — that's the point. Reservations on comedycellar.com open ~30 days out and Friday/Saturday primetime slots vanish within hours. Address & reviews: https://www.yelp.com/biz/comedy-cellar-new-york.",
+    "sources": [
+      {
+        "url": "https://www.comedycellar.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/comedy-cellar-parking",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/comedy-cellar-new-york",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:32:07.708Z"
+  },
+  {
+    "id": "queens-botanical-garden",
+    "name": "Queens Botanical Garden",
+    "desc": "39-acre Flushing garden with rose, herb & bee gardens — free Sun 9-11am Apr-Oct, free all winter.",
+    "longDesc": "A 39-acre living museum at 43-50 Main St in Flushing with formal rose, herb, perennial, and bee gardens plus a LEED Platinum visitor center. Pairs naturally with NYSCI for a Flushing day; under a 10-min drive between them. Free admission Sundays 9-11am and Wednesdays 3-6pm (Apr-Oct), and free all winter Nov-Mar.",
+    "url": "https://queensbotanical.org/",
+    "photoUrl": "https://queensbotanical.org/wp-content/uploads/2026/02/2017.8.1_CREDIT-Jess-Brey36-1-720x540.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "flushing",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "32 min",
+    "hoursWeekend": "Sat-Sun 8:00-18:00 (Apr-Oct), 8:00-16:30 (Nov-Mar); closed Mon",
+    "notes": "Address 43-50 Main St, Flushing NY 11355; parking lot at 42-80 Crommelin St, $8 weekday / $10 weekend & holiday Mondays (queensbotanical.org/directions). Admission $6 adults / $4 seniors-students / free under 4. Free windows: Sun 9-11am and Wed 3-6pm Apr-Oct, and free all winter Nov-Mar (tripadvisor, klook). Pairs with NYSCI as a Flushing anchor — ~8 min drive between them. From Industry City: BQE → Grand Central Pkwy, realistic 30-35 min off-peak.",
+    "sources": [
+      {
+        "url": "https://queensbotanical.org/",
+        "accessed": "2026-05-16T08:35:00Z"
+      },
+      {
+        "url": "https://queensbotanical.org/directions/",
+        "accessed": "2026-05-16T08:35:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g47729-d557564-Reviews-Queens_Botanical_Garden-Flushing_Queens_New_York.html",
+        "accessed": "2026-05-16T08:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/queens-botanical-garden/",
+        "accessed": "2026-05-16T08:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T08:34:25.444Z"
+  },
+  {
+    "id": "flushing-meadows-unisphere-queens-museum",
+    "name": "Flushing Meadows-Corona Park: Unisphere + Queens Museum",
+    "desc": "1964 World's Fair grounds anchored by the steel Unisphere and the Panorama of NYC inside the Queens Museum.",
+    "longDesc": "Flushing Meadows-Corona Park is the 1964 World's Fair site, home to the 12-story stainless-steel Unisphere (open 24/7, free, an iconic NYC photo op) and the Queens Museum housed in the original New York City Building. Inside, the Panorama of the City of New York is a 9,335 sq ft architectural model containing 895,000 individual structures — every building constructed in all five boroughs before 1992 (queensmuseum.org). The Unisphere, NY State Pavilion towers, and reflecting pools sit a 5-minute walk from the museum and from NYSCI, making this a dense cluster for one stop.",
+    "url": "https://queensmuseum.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "1.5-2.5 hr",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "Park: 24/7 (Unisphere always visible) · Queens Museum Sat-Sun 11:00-17:00",
+    "notes": "Queens Museum admission is pay-what-you-wish (queensmuseum.org). Free park lots on the south, east, and west sides; Queens Museum/Zoo lot is convenient — avoid Citi Field or US Open event days when parking near-impossible (nycgovparks.org, exp1.com). Drive IC→park is BQE → Grand Central Pkwy, ~25-35 min off-peak. Pair with NYSCI (5-min walk) for a science-and-design afternoon.",
+    "sources": [
+      {
+        "url": "https://queensmuseum.org/visit/",
+        "accessed": "2026-05-16T08:35:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Queens_Museum",
+        "accessed": "2026-05-16T08:35:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park/highlights/12761",
+        "accessed": "2026-05-16T08:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/flushing-meadows-corona-park/",
+        "accessed": "2026-05-16T08:35:00Z"
+      },
+      {
+        "url": "https://www.exp1.com/blog/flushing-meadows-corona-park-yesterday-and-today/",
+        "accessed": "2026-05-16T08:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:36:23.845Z"
+  },
+  {
+    "id": "nan-xiang-xiao-long-bao-flushing",
+    "name": "Nan Xiang Xiao Long Bao",
+    "desc": "Michelin-recommended Shanghainese spot famed for Lucky Six pastel xiaolongbao in Flushing",
+    "longDesc": "Open since 2004 and Michelin-recommended for nine consecutive years, Nan Xiang is widely cited (NY Magazine, Eater, Serious Eats) as NYC's best soup dumpling house. The signature Lucky Six basket pairs six pastel-tinted xiaolongbao — pork, crab & pork, chicken, scallop, black truffle, and luffa-shrimp — alongside wontons in peanut sauce, pan-fried buns, and stuffed scallion pancakes. Walk-ins only; counts as the live replacement for the closed Joe's Shanghai Flushing flagship.",
+    "url": "https://nanxiangxiaolongbao.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "flushing",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "08:00-00:30",
+    "notes": "Address: 39-16 Prince St #104, Flushing, NY 11354. Walk-ins only — expect 30-45 min waits at peak dinner; arrive before noon or after 9pm on weekends for low wait (Yelp 2026). Drive from IC ~35 min via Gowanus/BQE → Grand Central Pkwy; Saturday afternoon can climb to 45 min. Lucky Six basket is the must-order; new spicy mala beef xiao long bao added Jan 2026 (QNS). Justified Manhattan/Queens exception per user note: replaces closed Joe's Shanghai Flushing as the canonical xiaolongbao corpus entry.",
+    "sources": [
+      {
+        "url": "https://nanxiangxiaolongbao.com/locations/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/nan-xiang-soup-dumplings-flushing-flushing",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://qns.com/2026/01/nan-xiang-unveils-spicy-mala-beef-xiao-long-bao/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://secretnyc.co/nan-xiang-xiao-long-bao-manhattan-location/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:38:58.163Z"
+  },
+  {
+    "id": "xian-famous-foods-golden-mall-og",
+    "name": "Xi'an Famous Foods — OG Golden Mall Basement Stall (CLOSED 2019)",
+    "desc": "Historic origin stall of Jason Wang's chain — permanently closed when Golden Mall shut for renovations in July 2019.",
+    "longDesc": "The 200-sq-ft basement stall (Stall #36) at Flushing's Golden Shopping Mall is where Jason Wang's father David Shi opened Xi'an Famous Foods in late 2005, introducing hand-ripped biang biang noodles, liang pi cold-skin noodles, and spicy cumin lamb burgers to America. Anthony Bourdain's 2007 visit launched it into foodie legend. The original stall and the entire Golden Mall food court permanently closed on July 30, 2019 for a long-stalled renovation; the building remains shuttered as of 2026. Pilgrims should redirect to the current Flushing branch inside Tangram Mall (133-33 39th Ave, Level C), which carries the full menu including the iconic N1 hand-ripped lamb noodle.",
+    "url": "https://www.xianfoods.com/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "CLOSED — permanently shut 2019-07-30",
+    "notes": "PERMANENTLY CLOSED — do not route to 41-28 Main St; the Golden Mall building has been shuttered since 2019 (untappedcities.com, patch.com). Address kept here only as origin-story lore. Geographic note: Flushing is Queens, not Brooklyn — outside the standard 10-25 min IC radius (~35 min via BQE, 0.5mi from NYSCI). The zone enum has no Queens option; using 'industry-city' as default-anchor fallback. Live equivalent is Xi'an Famous Foods Flushing at Tangram Mall, 133-33 39th Ave Level C, open daily 11:00-20:30 (xianfoods.com/locations). Signature dishes carried over: N1 hand-ripped lamb noodle in soup, A1 liang pi cold-skin noodles, M2 spicy cumin lamb burger (Bourdain's pick).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Xi'an_Famous_Foods",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/xian-famous-foods-flushing",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.untappedcities.com/beloved-golden-mall-food-court-in-flushing-is-now-closed-video-photos/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/flushing-murray-hill/flushings-golden-shopping-mall-close-renovations",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.xianfoods.com/locations",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.facebook.com/xianfoods/photos/our-original-basement-storefront-in-flushing-golden-shopping-mall-will-be-closin/10154625059591009/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T08:41:44.202Z"
   }
 ]
