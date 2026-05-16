@@ -2738,50 +2738,53 @@
   {
     "id": "maison-premiere",
     "name": "Maison Premiere",
-    "desc": "Candlelit Williamsburg oyster + absinthe house with a back garden, pouring craft cocktails until 2 AM Saturday.",
-    "longDesc": "A New Orleans-inspired cocktail and oyster bar on Bedford Ave that ranks among NYC's top late-night drinking rooms (theinfatuation.com). Sazeracs, absinthe drip service, and pristine raw-bar plates by candlelight; the leafy back garden is the photo move. Drive up from Industry City in roughly 18 minutes via the BQE and park at Secure Parking Williamsburg (312 Broadway) or the 321 Wythe Ave Garage at 288 Berry — both a short walk south.",
+    "desc": "James Beard-winning oyster + absinthe bar with hidden garden; Williamsburg's most romantic dinner.",
+    "longDesc": "A New Orleans-by-way-of-Belle-Epoque oyster house on Bedford Ave with 30+ daily oyster varieties, the largest absinthe selection in the United States, and a marble horseshoe bar. The lush hidden back garden is widely cited as Brooklyn's most romantic outdoor seat, and the kitchen's short seafood menu punches well above bar-snack weight. James Beard Award winner and 2026 North America's 50 Best Bars listee.",
     "url": "https://maisonpremiere.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "romantic",
-      "chill",
       "foodie",
       "photo"
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "11:00-02:00",
-    "notes": "Saturday close at 2 AM confirmed via search aggregation of Yelp + official site; address 298 Bedford Ave, Williamsburg. Cocktails skew $18+ — sits above Midnights and similar mid-tier rooms on price (theinfatuation.com). Parking: Secure Parking Williamsburg at 312 Broadway (24/7, valet) plus 288 Berry / 101 Bedford garages within a 4–6 block walk (spotangels.com). Avoid the immediate Bedford Ave curb on weekends — meters + heavy foot traffic. Strongly photo-friendly interior; bring a date.",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 10:00-02:00, Sun 10:00-01:00",
+    "notes": "Anchor-grade romantic dinner alternative to Uesugi, sited in a different cluster so itineraries can build a 'romantic foodie' theme around Williamsburg instead of always routing toward IC-adjacent zones. Happy Hour Sat/Sun 11am-1pm offers $1.50 oysters and $1 off drinks — useful late-morning anchor on brunch-leaning itineraries (timeout.com, maisonpremiere.com). Hidden back garden is the photo/romantic centerpiece — golden hour is the move (theinfatuation.com, best-brooklyn.com). Street parking only on Bedford/N. 1st; expect to circle 5-10 min on weekend nights — flag in itinerary copy. Reservations strongly recommended via Resy; walk-ins possible at the horseshoe bar (resy.com).",
     "sources": [
       {
         "url": "https://maisonpremiere.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/maison-premiere-brooklyn",
+        "url": "https://www.timeout.com/newyork/bars/maison-premiere",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/guides/the-best-williamsburg-bars",
+        "url": "https://www.theinfatuation.com/new-york/reviews/maison-premiere",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.spotangels.com/nyc/williamsburg-parking",
+        "url": "https://www.theworlds50best.com/bars/northamerica/the-list/maison-premiere.html",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/secure-parking-williamsburg-brooklyn",
+        "url": "https://resy.com/cities/new-york-ny/venues/maison-premiere",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.best-brooklyn.com/bars/maison-premiere/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:47:44.056Z"
+    "lastResearchedAt": "2026-05-16T14:33:33.626Z"
   },
   {
     "id": "sunnys-bar-red-hook",
@@ -7591,9 +7594,9 @@
   },
   {
     "id": "japan-village",
-    "name": "Japan Village at Industry City",
-    "desc": "Japanese food hall + Sunrise Mart grocery inside Industry City — anchor stop for almost every Saturday plan",
-    "longDesc": "A 20,000+ sq ft Japanese marketplace inside Industry City featuring Sunrise Mart for groceries, snacks, and sake plus ~9 vendor stalls — Sushi Uesugi, Ramen Setagaya, Obentoyasan onigiri/bento, Hachi for takoyaki/okonomiyaki, and more. Entrance on 3rd Ave at 34th St, directly across from the rest of IC's courtyards, so it doubles as a parking landing pad for the whole day.",
+    "name": "Japan Village",
+    "desc": "20,000 sq ft Japanese food hall inside Industry City — ramen, handrolls, sake shop, Sunrise Mart grocery.",
+    "longDesc": "NYC's first full-scale Japanese food hall, anchored by Sunrise Mart grocery and Kuraichi sake/whisky bottle shop, with ~10 casual stalls (Ramen Setagaya, Handroll Bar, Gohei, Umami House, Yamada, Hachi, Moriya, Obentoyasan, Shokusaido, Sake's Bar) plus Panya Bakery for matcha and shokupan. Pairs naturally with Sushi Uesugi inside the same Industry City building: warm up with a sake flight at Kuraichi, then walk down the corridor to omakase, or grab curry pan from Panya on the way out.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7607,32 +7610,36 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "45-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
-    "notes": "Drive from Flushing ~35-45 min via BQE/Gowanus on a typical Saturday (Whitestone Bridge → BQE-W → exit 23 Hamilton Ave; LIE → Kosciuszko → BQE adds 5-10 min if Williamsburg backs up). Parking: IC's secure 2nd Ave lot is $5 flat on weekends — best single-decision parking for a multi-stop IC Saturday (japanvillage.com/directions). Spend $50+ at Sunrise Mart or $100+ at Sushi Uesugi to get 2hr validated parking (sunrisemart.com). Free street parking is usually findable along 3rd Ave on weekends but tightens after noon. Anchor strategy: park here once, hit Japan Village for lunch, then walk the IC courtyards/Industry City Distillery/Frying Pan before driving the 10-15 min radius to Red Hook or Sunset Park stops.",
+    "hoursWeekend": "11:00-21:00 (Sat) / 11:00-20:00 (Sun); Kuraichi 12:00-19:30; Panya 11:00-19:00",
+    "notes": "Inside Industry City Building 4, 934 3rd Ave (Sunrise Mart Sun-Thu 11-20, Fri-Sat 11-21) (japanvillage.com). Same building as Sushi Uesugi — ideal pre/post-omakase pairing: Kuraichi sake tastings before, Panya curry pan or Ramen Setagaya tsukemen after. Sunrise Mart sells sushi-grade fish and imported Japanese pantry — useful for take-home (japanvillage.com). Free IC weekend parking on-site.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/directions",
-        "accessed": "2026-05-16T08:00:00Z"
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T14:30:00Z"
       },
       {
-        "url": "https://industrycity.com/faq/",
-        "accessed": "2026-05-16T08:00:00Z"
+        "url": "https://www.japanvillage.com/",
+        "accessed": "2026-05-16T14:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-16T08:00:00Z"
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/japan-village",
+        "accessed": "2026-05-16T14:30:00Z"
       },
       {
         "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
-        "accessed": "2026-05-16T08:00:00Z"
+        "accessed": "2026-05-16T14:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T08:07:53.153Z"
+    "lastResearchedAt": "2026-05-16T14:29:08.797Z"
   },
   {
     "id": "court-street-grocers",
@@ -12741,5 +12748,138 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T14:25:02.534Z"
+  },
+  {
+    "id": "sunset-park-hilltop",
+    "name": "Sunset Park (Hilltop)",
+    "desc": "Free Brooklyn hilltop with a panoramic Manhattan + Statue of Liberty sunset view — bring a picnic.",
+    "longDesc": "Sunset Park sits on a bluff between 5th and 7th Avenues at 41st–44th Streets, and from the high point at 5th Ave and 44th St the Lower Manhattan skyline, Statue of Liberty, and the sweep of New York Bay unfold in one frame. Locals come for sunset picnics on the lawn or benches; the park is free, open sunrise-to-sunset, and quieter than the East River parks. It pairs naturally with a Xin Fa pastry pickup on 8th Ave or a coffee from Industry City before heading up the hill.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-90 min",
+    "driveFromIC": "9 min",
+    "hoursWeekend": "sunrise-sunset",
+    "notes": "Hilltop viewpoint is at 5th Ave & 44th St — that's where the Manhattan/Statue of Liberty sightline opens up (nycgovparks). Free 3-hour parking lot on the north side of the park, open 24/7; street parking on 6th/7th Aves works on weekends but fills near sunset (Parkopedia, prked). Address: 6th Ave & 44th St, Brooklyn 11220. Bring a blanket; benches on the upper terrace face west. Park is unlit after dark — arrive ~45 min before sunset and pair with Xin Fa Bakery (8th Ave) on the way in.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://yourbrooklynguide.com/brooklyn-sunset-spots/",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/neighborhood/Sunset-Park-New-York-City-Brooklyn-NY/",
+        "accessed": "2026-05-16T14:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T14:26:57.292Z"
+  },
+  {
+    "id": "sey-coffee-bushwick",
+    "name": "Sey Coffee",
+    "desc": "Light-roast micro-roastery in a skylit Bushwick warehouse — pour-overs and espresso at world-class level.",
+    "longDesc": "Sey is a world-renowned light-roast roastery in a converted Bushwick warehouse with three geometric skylights pouring daylight onto a long communal bar. The menu is short and deliberate: rotating single-origin espresso, hand-brewed pour-overs, and a tight pastry case — no laptops on weekends, which keeps the room conversational and date-friendly. Best treated as a romantic-foodie wind-down for an early/lunch omakase or as an afternoon anchor before dinner, since the cafe closes at 5 PM on weekends.",
+    "url": "https://www.seycoffee.com/pages/cafe",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "Three skylights create a famously photogenic light bar across the room — strong romantic-foodie photo moment (Coffeevine). No-laptop policy on weekends keeps the space conversational (seycoffee.com). Closes 5 PM weekends, so pair with a *lunch* omakase rather than dinner — flag in evening tracks. Street parking on Grattan/Bogart is generally available on weekends; industrial block. World-class light-roast specialty coffee, $5–7 pour-overs (Yelp, foodcurated.com).",
+    "sources": [
+      {
+        "url": "https://www.seycoffee.com/pages/cafe",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sey-coffee-brooklyn",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://thecoffeevine.com/reviews/cafes/usa/new-york/new-york/sey-in-new-york/",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://foodcurated.com/coffee-curated-roaster-roundups-sey-coffee/",
+        "accessed": "2026-05-16T14:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:31:30.748Z"
+  },
+  {
+    "id": "sunrise-mart-industry-city",
+    "name": "Sunrise Mart",
+    "desc": "Largest Sunrise Mart in NYC — Japanese groceries, snacks, sake, and prepared meals inside Japan Village",
+    "longDesc": "NYC's go-to market for fresh Japanese ingredients, imported snacks, sake, and ready-to-eat meals, located inside the Japan Village marketplace in Industry City's Building 3. Pair it with a pastry stop at Panya next door for an easy Japan-themed mini-track without leaving the complex.",
+    "url": "https://industrycity.com/tenants/sunrise-mart/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Inside Japan Village at 934 3rd Ave, Building 3 (industrycity.com). Weekend hours Fri/Sat 11am-9pm, Sunday 11am-8pm (industrycity.com). Stocks fresh Japanese ingredients, imported snacks, sake/shochu, bento and onigiri; natural pairing with Panya for a Japan mini-track (yelp.com).",
+    "sources": [
+      {
+        "url": "https://industrycity.com/tenants/sunrise-mart/",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
+        "accessed": "2026-05-16T14:30:00Z"
+      },
+      {
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-16T14:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T14:35:18.560Z"
   }
 ]
