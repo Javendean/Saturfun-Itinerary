@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sky View Center mall + Asian dessert stops Flushing — parking + post-crawl boba/bingsu",
-    "reason": "Solves the parking question AND extends Flushing day with photogenic dessert stop (Meet Fresh, etc.); complements the savory crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:45:08.328Z"
-  },
-  {
-    "topic": "Schema gap: add `flushing` and `long-island-city` to zone enum",
-    "reason": "Multiple high-value Queens destinations (this crawl, future LIC waterfront) get mis-zoned to industry-city under current schema",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:45:08.328Z"
-  },
-  {
-    "topic": "Frankies 457 Spuntino Carroll Gardens (Court St Italian)",
-    "reason": "Sit-down dinner counterpart to CSG's sandwich lunch — same block, builds a Carroll Gardens cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:47:03.199Z"
-  },
-  {
-    "topic": "Carroll Park Carroll Gardens (sandwich picnic spot)",
-    "reason": "Logical 5-min-walk pairing for eating CSG sandwiches outdoors on a weekend",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:47:03.199Z"
-  },
-  {
-    "topic": "Caputo's Fine Foods Court St (Italian deli)",
-    "reason": "Older-school Italian deli a few blocks south — competing/complementary stop for a 'Court St food crawl' track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T08:47:03.199Z"
-  },
-  {
     "topic": "A.I.R. Gallery DUMBO",
     "reason": "Another free DUMBO nonprofit gallery within a 2-block walk — natural double-feature for an art track.",
     "requestedBy": "agent",
@@ -5260,5 +5230,101 @@
     "reason": "Anchor food court next door provides indoor seating + 20+ regional stalls if the dumpling counter is mobbed; high-density foodie content",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T20:19:59.266Z"
+  },
+  {
+    "topic": "Meet Fresh Flushing (New World Mall, 133-36 37th Ave) — Taiwanese shaved ice + boba",
+    "reason": "The dessert payoff venue for a Sky View-anchored Flushing day; 4-min walk from the garage, photogenic Q-mochi bingsu and black sugar boba shaved ice",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:22:43.353Z"
+  },
+  {
+    "topic": "New World Mall Food Court Flushing (basement food hall)",
+    "reason": "37-stall pan-Asian food court directly across from Sky View — natural savory-crawl complement to the dessert stop, same parking validation play",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:22:43.353Z"
+  },
+  {
+    "topic": "Tiger Sugar Flushing (brown sugar boba) — Main St",
+    "reason": "Alternate post-crawl boba within 5-min walk of Sky View if Meet Fresh has a line; visually distinct tiger-stripe drink for photo vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:22:43.353Z"
+  },
+  {
+    "topic": "SPOT Dessert Bar Flushing — Korean-Japanese fusion desserts",
+    "reason": "Higher-end photogenic dessert option (matcha lava cake, bonsai pots) to extend the Flushing dessert axis for foodie+photo tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:22:43.353Z"
+  },
+  {
+    "topic": "SCHEMA PATCH: extend zone enum with 'long-island-city' and 'flushing'",
+    "reason": "This Gantry Plaza entry and every future LIC/Flushing venue is currently mis-zoned to industry-city; corpus integrity and downstream zone filters depend on the patch landing before more Queens crawls",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:24:52.283Z"
+  },
+  {
+    "topic": "Hunters Point South Park (LIC waterfront, southern extension of Gantry Plaza)",
+    "reason": "Adjacent waterfront with newer playgrounds + lawn, expands LIC cluster and stress-tests the new zone enum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:24:52.284Z"
+  },
+  {
+    "topic": "MoMA PS1, Long Island City",
+    "reason": "Indoor LIC anchor for rainy-day swap; pairs with Gantry Plaza on the same drive and broadens vibe coverage to 'curious'",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:24:52.284Z"
+  },
+  {
+    "topic": "Casa Enrique (Michelin-starred Mexican, LIC)",
+    "reason": "Strong dinner pairing for a Gantry sunset track; covers foodie/$$$/dietary tags missing from current LIC coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:24:52.284Z"
+  },
+  {
+    "topic": "Prime Meats Carroll Gardens (Court St German-Italian sibling)",
+    "reason": "Castronovo-Falcinelli's sister spot a few doors down — completes the Frankies-block Carroll Gardens cluster with a brunch option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:26:50.506Z"
+  },
+  {
+    "topic": "Sahadi's Atlantic Ave Middle Eastern market",
+    "reason": "10-minute walk north from Frankies; gives the Carroll Gardens cluster a daytime market/photo stop with halal-friendly options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:26:50.506Z"
+  },
+  {
+    "topic": "Court Street Grocers Smith Street (sandwich pickup anchor)",
+    "reason": "The picnic only works because CSG is the sandwich source — needs its own entry for the 5-min-walk pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:28:47.062Z"
+  },
+  {
+    "topic": "Van Voorhees Park Brooklyn Heights (alternate sandwich picnic spot near BQE)",
+    "reason": "Driving-friendly alternative outdoor picnic spot for sandwich-from-deli pairings, expands picnic corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:28:47.062Z"
+  },
+  {
+    "topic": "Smith Street stretch Carroll Gardens (post-picnic stroll)",
+    "reason": "Logical 'what to do after the picnic' — shops + cafes within the same cluster as Carroll Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:28:47.062Z"
+  },
+  {
+    "topic": "G. Esposito & Sons Jersey Pork Store on Court St",
+    "reason": "Adjacent 100-year-old pork store half a block from Caputo's; essential second stop on a Court St food crawl track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:30:39.663Z"
+  },
+  {
+    "topic": "Frankie's 457 Spuntino Court Street",
+    "reason": "Sit-down Italian on the same Court St strip with a famous back garden; anchors the lunch slot of a Carroll Gardens food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:30:39.663Z"
+  },
+  {
+    "topic": "Mazzola Bakery Court Street Brooklyn",
+    "reason": "Old-school Carroll Gardens bakery known for lard bread and prosciutto bread; rounds out the crawl with carbs and morning pastry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T20:30:39.663Z"
   }
 ]

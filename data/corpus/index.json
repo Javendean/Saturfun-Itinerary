@@ -2584,8 +2584,8 @@
   {
     "id": "frankies-457-spuntino",
     "name": "Frankies 457 Spuntino",
-    "desc": "Carroll Gardens Italian institution with a leafy backyard garden — handmade pasta, cavatelli, meatballs",
-    "longDesc": "A 20-year Court Street fixture from Frank Falcinelli and Frank Castronovo, serving rustic Italian-American with their own olive oil, cured meats, and house-made pastas like cavatelli with sage-and-brown-butter. The back garden — a stone-paved patio under a wisteria-and-fig canopy with a carriage-house extension — is the seat to request in warm weather. Menu highlights include the pine-nut-and-raisin meatballs, slow-roasted rib eye, and branzino with lemon aioli.",
+    "desc": "20-year Carroll Gardens Italian on Court St with a leafy back garden and Castronovo-Falcinelli cavatelli",
+    "longDesc": "Frank Castronovo and Frank Falcinelli's Court Street stalwart, now in its 20th year, serves Tuscan-leaning Italian out of a Carroll Gardens brownstone with a carriage-house garden out back. The cavatelli with sausage and pappardelle with lamb ragù are the long-running signatures; weekend nights, the garden tables are the prize. About 18 minutes from Industry City and on the same Court St block as the neighborhood's best sandwich shops, so it doubles as the dinner anchor of a Carroll Gardens cluster.",
     "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2598,33 +2598,37 @@
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$",
-    "duration": "75-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "11:00-23:00",
-    "notes": "457 Court St, Brooklyn 11231 (718-403-0033). Sun–Thu 11:00–22:00, Fri–Sat 11:00–23:00 (some sources note Fri–Sat to midnight) (frankiesspuntino.com). Pastas ~$21–$30, meatball app and antipasti in the teens; private events $20–$90pp (menupages, yelp). Garden seating is first-come or specially requested at reservation — popular on weekends, arrive early or book ahead via OpenTable. Street parking on Court/4th Place is easier than Cobble Hill north of here. Natural pairing as lunch or early dinner anchor extending a Cobble Hill/Carroll Gardens track; 5–7 min drive north to Brooklyn Farmacy or south to Red Hook waterfront.",
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
+    "notes": "Reservations strongly recommended weekends via OpenTable (opentable.com/r/frankies-spuntino-brooklyn). Back garden + carriage-house seating is the highlight in warm weather (Tripadvisor reviews). Court St curbside parking is metered but workable on a Saturday before 6pm; otherwise side streets toward Smith. Pairs naturally with a Carroll Gardens lunch stop on the same block.",
     "sources": [
       {
         "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
-        "accessed": "2026-05-16T15:15:00Z"
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://www.frankiesspuntino.com/menus/",
+        "accessed": "2026-05-16T20:25:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/frankies-457-spuntino-brooklyn-3",
-        "accessed": "2026-05-16T15:15:00Z"
+        "accessed": "2026-05-16T20:25:00Z"
       },
       {
-        "url": "https://menupages.com/frankies-457/457-court-st-brooklyn",
-        "accessed": "2026-05-16T15:15:00Z"
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d544913-Reviews-Frankies_457_Spuntino-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T20:25:00Z"
       },
       {
         "url": "https://www.opentable.com/r/frankies-spuntino-brooklyn",
-        "accessed": "2026-05-16T15:15:00Z"
+        "accessed": "2026-05-16T20:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T15:15:03.768Z"
+    "lastResearchedAt": "2026-05-16T20:26:50.489Z"
   },
   {
     "id": "win-son-bakery-williamsburg",
@@ -17881,5 +17885,174 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T20:19:59.251Z"
+  },
+  {
+    "id": "sky-view-center-flushing",
+    "name": "Sky View Center (The Shops at Skyview)",
+    "desc": "Flushing's parking-friendly mall anchor — 2,500 spaces, 3 hrs free, dessert + boba inside and next door",
+    "longDesc": "Six-level garage at 40-24 College Point Blvd with 2,500 spaces and the first 3 hours free — the rational base camp for a Flushing food/dessert crawl by car. The mall itself houses BJ's, Target, Bowlero and a food court; the real prize is that New World Mall (Meet Fresh, food court, bubble tea) is a 4-minute walk south, so you park once and graze both buildings without hunting a meter on Main St.",
+    "url": "https://www.theshopsatskyviewny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "10:00-20:00",
+    "notes": "Actually in Flushing, Queens — using 'industry-city' as fallback until the zone enum gains 'flushing' (schema gap already queued). Parking garage open ~early morning to midnight, 3 hrs free with validation (theshopsatskyviewny.com/parking). Mall hours Sat-Sun 10-8; some restaurants and the garage stay open later. Pair with Meet Fresh at 133-36 37th Ave (New World Mall, Mon-Thu/Sun 12-9, Fri-Sat 12-10) for post-crawl black sugar boba shaved ice or Q-mochi milk bingsu. From IC: BQE → Grand Central Pkwy → Northern Blvd, ~25 min off-peak, 30-40 min Saturday lunch rush.",
+    "sources": [
+      {
+        "url": "https://www.theshopsatskyviewny.com/parking/",
+        "accessed": "2026-05-16T20:30:00Z"
+      },
+      {
+        "url": "https://www.theshopsatskyviewny.com/about/",
+        "accessed": "2026-05-16T20:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/meet-fresh-flushing-3",
+        "accessed": "2026-05-16T20:30:00Z"
+      },
+      {
+        "url": "https://meetfresh.us/black-sugar-boba-milky-shaved-ice/",
+        "accessed": "2026-05-16T20:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T20:22:43.335Z"
+  },
+  {
+    "id": "gantry-plaza-state-park",
+    "name": "Gantry Plaza State Park",
+    "desc": "Restored gantry cranes, Pepsi-Cola sign, and the most cinematic Midtown skyline view in Queens.",
+    "longDesc": "A 12-acre LIC waterfront park built around the preserved Long Island Rail Road float-bridge gantries, with four piers that put you directly across the East River from the UN and Midtown. The restored neon Pepsi-Cola sign and the gantries themselves are a top-tier golden-hour photo backdrop, and the lawn + piers make it an easy chill stop before or after dinner in LIC. Free, open daily 8:00-22:00, with a small dedicated park parking lot at 46th Ave & Center Blvd plus several commercial garages within two blocks.",
+    "url": "https://parks.ny.gov/parks/149",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-22:00",
+    "notes": "SCHEMA GAP: this venue is in Long Island City, Queens, not Industry City. Zoned to 'industry-city' as the closest legal enum value pending the `long-island-city` addition flagged in this crawl's reason. Route from IC: BQE N -> Pulaski Bridge -> 11th St (~22 min off-peak, 30+ min Sat afternoon). Park lot at 46th Ave/Center Blvd fills fast on weekends; SpotHero garages on Center Blvd and 5th St are reliable backups (source: spothero.com). Free entry, no reservation, dogs on leash, restrooms on site (source: parks.ny.gov, nyctourism.com).",
+    "sources": [
+      {
+        "url": "https://parks.ny.gov/parks/149",
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/gantry-plaza-state-park/",
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gantry_Plaza_State_Park",
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/gantry-plaza-state-park-parking",
+        "accessed": "2026-05-16T20:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T20:24:52.267Z"
+  },
+  {
+    "id": "carroll-park",
+    "name": "Carroll Park",
+    "desc": "Shady Carroll Gardens square with benches and a playground — perfect bench-picnic stop for CSG sandwiches.",
+    "longDesc": "One of Brooklyn's oldest neighborhood parks, Carroll Park sits at 375 Court St between President and Carroll, a 5-minute walk south of Court Street Grocers. The shaded bench area and tree-lined paths make it the natural picnic landing for sandwiches, with a playground, basketball, and bocce going on around you on weekends. It's a real neighborhood scene, not a tourist green — local families, dog walkers, and bagel-eating regulars (visitbrooklyn.nyc, onthegrid.city).",
+    "url": "https://www.nycgovparks.org/parks/carroll-park/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "06:00-21:00 (NYC Parks standard; dawn-dusk in winter)",
+    "notes": "Pair with a sandwich pickup at Court Street Grocers on Smith St (~5 min walk via Sackett or President). Street parking is realistic on weekends along Smith, President, or Carroll Sts; metered closer to Court. Benches in the shaded southwest corner are the picnic-friendliest. Restrooms onsite. Address: 375 Court St between President & Carroll (nycgovparks.org). Weekend energy is family/playground-heavy — bring shades and claim a bench early (onthegrid.city).",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/carroll-park/",
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://onthegrid.city/brooklyn/carroll-gardens/carroll-park",
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/thingstodo/carroll-park",
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/carroll-park-brooklyn",
+        "accessed": "2026-05-16T20:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T20:28:47.042Z"
+  },
+  {
+    "id": "caputos-fine-foods",
+    "name": "Caputo's Fine Foods",
+    "desc": "Family-run Italian deli on Court St since 1973 — fresh mozzarella, cured meats, and house pasta",
+    "longDesc": "A boutique Italian grocer in Carroll Gardens, family-owned and operated since 1973 when Giuseppe and Flora Caputo opened it after emigrating from Southern Italy. The Court St shop is beloved for its fresh-pulled mozzarella, house-made pastas and ravioli, imported cured meats, and a deep selection of olive oils, sauces, and Italian pantry staples. It's the older-school counterpart to nearby G. Esposito and Frankie's, a quintessential stop on a Court St food crawl.",
+    "url": "https://www.caputosfinefoods.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6226425079693c1bbe9e8bfe/71629a34-de9b-42bd-bfdc-169b55676f52/caputo+bag+store+tall.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "20-30 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 9:00-17:00, Sun 9:00-14:30",
+    "notes": "460 Court St between 3rd and 4th Place; closed Mondays (caputosfinefoods.com). Closes early Sunday (2:30 PM) — best as a Saturday late-morning/midday stop. Pairs naturally with G. Esposito (pork store, half a block away) and Frankie's 457 (Court Street Spuntino) for a 'Court St food crawl' track. Weekend metered street parking on Court St; side streets (3rd/4th Place, Luquer) usually have spots on weekends.",
+    "sources": [
+      {
+        "url": "https://www.caputosfinefoods.com/",
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/caputos-fine-foods-brooklyn",
+        "accessed": "2026-05-16T20:25:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/shopping/caputos-fine-foods/",
+        "accessed": "2026-05-16T20:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-16T20:30:39.645Z"
   }
 ]
