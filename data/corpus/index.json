@@ -5444,47 +5444,47 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Cantonese banquet hall with classic push-cart dim sum service in Sunset Park",
-    "longDesc": "A cavernous, high-ceilinged Cantonese dining room (~200 seats) that still runs traditional steaming pushcarts on weekend mornings — har gow, taro puffs, shrimp-stuffed eggplant, and pepper spare ribs stamped onto a card as carts roll by. Eight dishes can land under $25, and the room fills with mostly Chinese regulars; aim for a 10:00 AM arrival or expect a wait. A short drive south of Industry City along 8th Ave makes it an easy lunch anchor before an afternoon track.",
-    "url": "https://east-harbor-seafood-palace.com/",
+    "desc": "Cart-service Cantonese dim sum palace in Sunset Park, ~5 min south of Industry City.",
+    "longDesc": "A gold-accented banquet hall on 65th St where steaming carts of har gow, siu mai, cheung fun and turnip cake roll past the table — the closest true cart-service dim sum experience to Industry City. Michelin-listed Cantonese, packed on weekends with Sunset Park families; arrive 10:30-11:00 AM for freshest rounds, carts wind down by 3 PM. Has an indoor parking lot (tight on weekends) plus street parking on 7th Ave.",
+    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "photo",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "75-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-22:00 (carts until ~15:00)",
-    "notes": "Address: 714 65th St, between 7th & 8th Ave, Sunset Park (Yelp, Michelin Guide). Traditional cart service with stamp cards; standouts include flaky Cantonese spring rolls, fried taro puffs, pepper spare ribs, and shrimp-stuffed eggplant (Cinnamon Society). Arrive before ~10:30 AM for best cart selection and no wait; fresh dim sum runs until ~3 PM. Cash + cards accepted. Phone (718) 765-0098. Street parking on 65th/66th is workable on weekend mornings; 8th Ave is the Chinatown commercial spine and gets crowded after 11. Vegetarian options exist among cart items but not a vegan-friendly room.",
+    "duration": "60-90 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "714 65th St, Brooklyn, NY 11220 — roughly 1.5 mi south of IC down 3rd Ave, ~5 min by car off-peak (Yelp, Michelin). Dim sum carts run morning until ~3 PM with peak fresh rotation at noon (Cinnamon Society). Indoor parking lot + street parking, but lot fills fast on weekend dim sum rush (Yelp). Strong candidate to downgrade Asian Jewels (Flushing, 45+ min) to corpus-only — East Harbor delivers the same cart-service Cantonese format inside the 15-min anchor radius.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+        "accessed": "2026-05-16T22:20:00Z"
       },
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+        "accessed": "2026-05-16T22:20:00Z"
       },
       {
         "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16T22:20:00Z"
       },
       {
-        "url": "https://east-harbor-seafood-palace.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.opentable.com/r/east-harbor-seafood-palace-brooklyn",
+        "accessed": "2026-05-16T22:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:56:05.148Z"
+    "lastResearchedAt": "2026-05-16T22:25:01.371Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -8322,9 +8322,9 @@
   },
   {
     "id": "court-street-grocers-carroll-gardens",
-    "name": "Court Street Grocers (Carroll Gardens)",
-    "desc": "Cult Brooklyn deli with stacked sandwiches and a cozy grocery-shop counter on Court St.",
-    "longDesc": "Court Street Grocers' flagship at 485 Court St is part old-school general store, part destination sandwich shop — home of the Turkey Hill (turkey, cranberry, stuffing, gravy) and the Uncle Eddie (hot pastrami, melted muenster, slaw, Russian) plus rotating specials chalked above the counter. Order at the deli case and grab a stool, or take it to-go before/after Other Half's Carroll Gardens-adjacent taproom on Centre St. Closes at 5pm so plan it as the lunch anchor rather than dinner.",
+    "name": "Court Street Grocers",
+    "desc": "Carroll Gardens deli-grocer beloved for inventive hot heroes and pristine pantry takeaway.",
+    "longDesc": "The flagship 485 Court Street shop blends an old-school neighborhood grocer with a sandwich counter that turns out the Turkey Hero (Thanksgiving-on-bread), the Cubano, and the Uncle Eddie hot pastrami. Order at the counter, browse Sicilian olive oil and fresh pasta while you wait, and take the wax-paper bundle two blocks south to Carroll Park or back to Industry City for a stoop lunch. A natural walking endpoint after browsing the Frankies 457 corridor on Court Street.",
     "url": "https://www.courtstreetgrocers.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8340,21 +8340,25 @@
     "duration": "30-45 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "Hours 8am-5pm daily per Yelp listing (yelp.com/biz/court-street-grocers-brooklyn). Phone (718) 722-7229. Street parking on Court/Luquer is manageable on weekends but tight midday — try the side streets west of Court. From Other Half's Centre St taproom in Manhattan it's a ~12-15 min drive across the Brooklyn Bridge via Tillary/Hicks; from Industry City it's a quick ~10-12 min up 3rd Ave + Smith. Cash + cards. Vegetarian options on the menu but not vegan-forward. (courtstreetgrocers.com)",
+    "notes": "485 Court St near the Carroll/Smith St border; counter open daily 8a-5p (Yelp, May 2026). Weekend metered street parking on Court St plus free side-street spots on Luquer/Nelson. Cash + cards; phone (718) 722-7229. Best heroes: Turkey Hero, Cubano, Uncle Eddie pastrami; vegetarian Italian Combo is solid. Pairs naturally with a Frankies 457 dinner anchor or a Carroll Park bench picnic (theinfatuation.com review).",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
-        "accessed": "2026-05-16T21:15:00Z"
+        "url": "https://www.courtstreetgrocers.com/locations",
+        "accessed": "2026-05-16T22:20:00Z"
       },
       {
-        "url": "https://www.courtstreetgrocers.com/locations",
-        "accessed": "2026-05-16T21:15:00Z"
+        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
+        "accessed": "2026-05-16T22:20:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
+        "accessed": "2026-05-16T22:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:18:34.228Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T22:31:24.272Z"
   },
   {
     "id": "smack-mellon",
@@ -10505,46 +10509,51 @@
   {
     "id": "pacificana",
     "name": "Pacificana",
-    "desc": "Sunset Park's OG dim sum banquet hall — cart service, weekend wait, $4 basement garage.",
-    "longDesc": "Pacificana has been Sunset Park Chinatown's flagship dim sum hall since 2004, with waitstaff pushing carts of dumplings, stewed meats, stuffed vegetables and pastries through a cavernous upstairs banquet room that doubles as a wedding venue. It's the natural fallback when East Harbor is two-hours-out — opens at 8am on weekends (an hour earlier than weekdays) and the same 813 55th Street building has a small basement garage at roughly $4 per car, which is the rare Sunset Park dim sum spot where parking isn't the failure point.",
+    "desc": "Cavernous old-school Sunset Park dim sum hall with rolling carts and a full Cantonese menu.",
+    "longDesc": "Second-floor banquet-hall-style room at 813 55th St (at 8th Ave) running classic cart-service dim sum — har gow, siu mai, cheung fun, taro puffs pushed past your table by aunties (eattheworldnyc.com). Backed by a deep Cantonese seafood menu for dinner; one of the last true cart dim sum experiences left in NYC. Best before 11am or right before service ends at 3:30pm to skip the family-party rush (Bklyner).",
     "url": "http://pacificanabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "5 min",
-    "hoursWeekend": "08:00-23:30 (dim sum carts 08:00-15:30)",
-    "notes": "Address: 813 55th St, Brooklyn NY 11220, (718) 871-2880. Cart service, large banquet-hall room used for weddings (bklyner). Weekend wait is rough after 11am — go either 8-10:30am or right before 3pm cutoff. Parking: basement garage in the same building ~$4 if you can grab a slot, otherwise free street on Sundays. Dim sum range $1-$27.95 per cart item plus full entrees (beef/chicken curry, stuffed bean curd, noodles). Use as East Harbor fallback in the Sunset Park track; pairs naturally with a post-meal walk up to Sunset Park itself or a drive to Industry City.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "08:00-15:30 dim sum, dinner to 23:00",
+    "notes": "813 55th St (at 8th Ave), 2nd floor, elevator + stairs (pacificanabrooklyn.com). Basement garage on 55th St ~$4 if you can grab a space; Sunday street parking is free but tight (Tripadvisor). Cart service weekends 8:00-15:30, weekdays 9:00-15:30. Phone (718) 871-2880. Cash-friendly. Pairs well with an IC visit before or after.",
     "sources": [
       {
         "url": "http://pacificanabrooklyn.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16"
       },
       {
         "url": "https://bklyner.com/where-to-go-for-the-dim-sum-in-sunset-park-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/pacificana-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-16"
       },
       {
-        "url": "https://www.opentable.com/r/pacificana-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "http://www.eattheworldnyc.com/2008/11/pacificana.html",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1006410-Reviews-Pacificana-Brooklyn_New_York.html",
+        "accessed": "2026-05-16"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:26:36.444Z"
+    "lastResearchedAt": "2026-05-16T22:27:02.724Z"
   },
   {
     "id": "lucky-eight-restaurant",
@@ -17719,47 +17728,48 @@
   {
     "id": "new-world-mall-food-court",
     "name": "New World Mall Food Court",
-    "desc": "Basement food hall in Flushing with 28+ regional Chinese stalls — Lanzhou, mala, Uyghur, Pan Bao 66 soup dumplings",
-    "longDesc": "The post-Golden-Mall pilgrimage for regional Chinese in NYC: a cavernous lower-level food court at 136-20 Roosevelt Avenue with hand-pulled Lanzhou noodles, two mala-tang/xiang-guo stalls (Lao Ma and Tian Fu Cuisine), Tarim Uyghur lamb-noodle and pilav, Pan Bao 66 soup-filled pork buns, Xian-style lamb pancakes, and bubble tea from Tiger Sugar and Gong Cha. Order at multiple counters cafeteria-style, sit at communal tables; dishes mostly $8–$14. Worth the cross-borough drive for the breadth — no Brooklyn analog exists at this density of regional specialists.",
+    "desc": "Basement food court with 30+ stalls — hand-pulled noodles, soup buns, Uyghur skewers, jianbing under one roof.",
+    "longDesc": "The largest pan-Asian food court in NYC, tucked in the basement of New World Mall on Roosevelt Ave. Around 30 stalls span Chinese regional, Uyghur, Malaysian, Thai, Vietnamese, Korean, and Japanese — must-orders include Lanzhou Handmade Noodles' knife-cut lamb soup, Pan Bao 66's pan-fried pork buns, and Xinjiang-style cumin lamb skewers. Cafeteria seating; cash and card both work; go hungry and split everything.",
     "url": "https://www.newworldmallnyc.com/food-court",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "curious",
+      "photo"
     ],
     "dietary": [
-      "vegetarian",
-      "halal"
+      "halal",
+      "vegetarian"
     ],
     "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "32 min",
+    "driveFromIC": "30 min",
     "hoursWeekend": "10:00-22:00",
-    "notes": "Actually located in Flushing, Queens — outside the standard 15-min IC cluster but uniquely justified as the modern successor to Golden Mall's regional-Chinese vendor ecosystem (theinfatuation.com). On-site parking garage at the mall, accessible via BQE → Grand Central Pkwy. Official tenant list confirms Lan Zhou Handmade Noodles (#13), Lao Ma Ma La Tang (#14), Tian Fu Cuisine mala xiang guo (#21), Pan Bao 66 (#26), Tarim Uyghur Food (#4), Xian Noodles lamb pancake (#25), Joe's Steam Rice Roll (#3) (newworldmallnyc.com). Tarim Uyghur is halal; many vegetable/noodle stalls offer meat-free options. Note: 'flushing' or 'queens' zone may need to be added to corpus schema — tagged greenpoint as least-wrong placeholder.",
+    "notes": "QUEENS DETOUR — not a Brooklyn cluster; only worth the drive if stacked with other Flushing stops (Main St Chinatown, SkyView, Queens Botanical). Address 136-20 Roosevelt Ave, Flushing NY 11354 — mall hours 10a–10p daily, individual stalls roughly 10:30a–9:30p (newworldmallnyc.com). 350-spot underground garage; weekend parking fills up fast and is paid, but 2 hrs validated free with a JMart upstairs purchase (yelp). Halal at the Uyghur/Xinjiang stalls; vegetarian doable at the noodle and Buddhist-Chinese counters. Standouts per The Infatuation: Lanzhou hand-pulled, Pan Bao 66 soup buns, mala tang, jianbing.",
     "sources": [
       {
         "url": "https://www.newworldmallnyc.com/food-court",
-        "accessed": "2026-05-16T20:10:00Z"
+        "accessed": "2026-05-16T22:30:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/new-world-mall-food-court",
-        "accessed": "2026-05-16T20:10:00Z"
+        "accessed": "2026-05-16T22:30:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/New_World_Mall",
-        "accessed": "2026-05-16T20:10:00Z"
+        "url": "https://www.nyctourism.com/shopping/new-world-mall/",
+        "accessed": "2026-05-16T22:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/new-world-mall-food-court-flushing",
-        "accessed": "2026-05-16T20:10:00Z"
+        "accessed": "2026-05-16T22:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:12:20.185Z"
+    "lastResearchedAt": "2026-05-16T22:29:20.583Z"
   },
   {
     "id": "xian-famous-foods-williamsburg",
@@ -19189,5 +19199,58 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-16T22:17:11.600Z"
+  },
+  {
+    "id": "locanda-verde-tribeca",
+    "name": "Locanda Verde",
+    "desc": "Andrew Carmellini's casual Italian taverna inside De Niro's Greenwich Hotel — Tribeca's anchor lunch.",
+    "longDesc": "Chef Andrew Carmellini's award-winning urban Italian taverna inside Robert De Niro's Greenwich Hotel at the corner of Greenwich and N Moore. Sidewalk terrace, café seating, and warm banquettes make it the natural decompression spot after a gallery walk through Tribeca's White/Walker/Franklin St cluster. Sheep's milk ricotta, lamb meatball sliders, and the cacio e pepe are the long-running orders.",
+    "url": "https://www.locandaverdenyc.com/location/tribeca/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "08:00-23:00",
+    "notes": "ACTUAL LOCATION: 377 Greenwich St, Tribeca, Manhattan (zone enum lacks tribeca — tagged dumbo as nearest cross-river neighbor). Pairs natively with the Tribeca gallery cluster (Whitney's Tribeca Gallery Walk surveys 40+ galleries here). Parking: Icon Parking garages at 374 Greenwich St and 376 Greenwich St are on the same block — no restaurant validation, but SpotHero pre-bookings run ~$25-38 for 2hrs (spothero.com). From Industry City, take Gowanus Expy → Brooklyn-Battery Tunnel → Hudson St N, ~15-20 min off-peak. Saturday brunch is the move; lunch service runs ~11:30-15:00 then continues into dinner. Reservations strongly recommended on weekends (opentable.com). Hotel front desk: 212-941-8900; restaurant: 212-925-3797.",
+    "sources": [
+      {
+        "url": "https://www.locandaverdenyc.com/location/tribeca/",
+        "accessed": "2026-05-16T22:30:00Z"
+      },
+      {
+        "url": "https://www.thegreenwichhotel.com/the-guide/locanda-verde/",
+        "accessed": "2026-05-16T22:30:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/locanda-verde-parking",
+        "accessed": "2026-05-16T22:30:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/locanda-verde-parking",
+        "accessed": "2026-05-16T22:30:00Z"
+      },
+      {
+        "url": "https://whitney.org/events/gallery-walk-tribeca",
+        "accessed": "2026-05-16T22:30:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/locanda-verde-new-york-2",
+        "accessed": "2026-05-16T22:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T22:22:54.849Z"
   }
 ]

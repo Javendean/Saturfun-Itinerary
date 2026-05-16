@@ -1,41 +1,5 @@
 [
   {
-    "topic": "Re-research existing venue: edison-parkfast-thomas-st",
-    "reason": "Reliable weekend parking for any Tribeca/SoHo stop; recurring dependency across Manhattan candidates",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:28:21.373Z"
-  },
-  {
-    "topic": "Best post-gallery-walk lunch spot in Tribeca with weekend parking validation",
-    "reason": "Natural pairing — after 2hr walk, user will want food before driving back to IC; pairs the Manhattan detour into a half-day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:28:21.373Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace, Sunset Park Brooklyn",
-    "reason": "Closer dim-sum-cart equivalent ~5 min from IC; fills the same foodie slot inside the anchor radius and would let us downgrade Asian Jewels from itinerary candidate to corpus reference.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:30:36.138Z"
-  },
-  {
-    "topic": "Pacificana Sunset Park dim sum",
-    "reason": "Another Sunset Park Cantonese cart house at 8th Ave; weekend driving radius fit, expands Brooklyn dim sum coverage.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:30:36.138Z"
-  },
-  {
-    "topic": "New World Mall food court Flushing",
-    "reason": "If a Flushing detour is justified, the food court within walking distance multiplies the trip's payoff per drive minute.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:30:36.138Z"
-  },
-  {
-    "topic": "Court Street Grocers Carroll Gardens sandwich shop",
-    "reason": "natural walk endpoint after Frankies 457; closes the Carroll Gardens corridor with a takeaway anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T09:33:39.644Z"
-  },
-  {
     "topic": "Smith Street Cobble Hill weekend walk highlights",
     "reason": "parallel walking corridor one block east of Court — expands lunch-walk track variants without a second drive",
     "requestedBy": "agent",
@@ -5884,5 +5848,89 @@
     "reason": "Adjacent SoHo-adjacent retail-as-art destination; pairs with Wooster St gallery loop for a curious/photo afternoon",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T22:17:11.617Z"
+  },
+  {
+    "topic": "Frenchette Tribeca (241 W Broadway) — Riad Nasr + Lee Hanson Parisian bistro, James Beard winner",
+    "reason": "Strongest alternate Tribeca anchor; same drive-from-IC profile; covers French/wine-forward axis Locanda doesn't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:22:54.871Z"
+  },
+  {
+    "topic": "The Odeon (145 W Broadway) — iconic 1980 Tribeca brasserie, all-day menu",
+    "reason": "Lower price band ($$) Tribeca classic for budget-conscious itineraries; Keith McNally history is a draw",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:22:54.871Z"
+  },
+  {
+    "topic": "Bubby's Tribeca (120 Hudson St) — American brunch, no-reservation weekend wait",
+    "reason": "Casual counterweight to Locanda Verde; document the 30-60min weekend wait so itinerary planner can route around it",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:22:54.871Z"
+  },
+  {
+    "topic": "Pacificana dim sum, Sunset Park Brooklyn",
+    "reason": "Second cart-service Cantonese option on 8th Ave/55th — useful backup if East Harbor lot is full or for variety in the same 5-min radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:25:01.390Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden, Sunset Park",
+    "reason": "Iconic Yunnanese rice noodle spot ~5 min from IC; expands the Sunset Park food cluster beyond Cantonese for foodie/curious tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:25:01.390Z"
+  },
+  {
+    "topic": "Ho Brah Taqueria, Sunset Park 5th Ave",
+    "reason": "Adds a casual Mexican counterpoint inside the IC cluster — useful when a track wants light/cheap lunch instead of a sit-down dim sum block",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:25:01.390Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace Sunset Park dim sum",
+    "reason": "Direct competitor on 8th Ave — completes the Sunset Park cart dim sum comparison set",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:27:02.741Z"
+  },
+  {
+    "topic": "Ba Xuyen banh mi Sunset Park 8th Ave",
+    "reason": "Vietnamese counterweight to the dim sum-heavy Sunset Park entries; pre/post dim sum quick bite",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:27:02.741Z"
+  },
+  {
+    "topic": "Joe's Steam Rice Roll Flushing Main St",
+    "reason": "Cult single-dish anchor 5 min walk from New World Mall — turns the food court into a two-stop Flushing crawl that justifies the drive from IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:29:20.602Z"
+  },
+  {
+    "topic": "Tangram Food Hall Flushing",
+    "reason": "Newer upscale Asian food hall ~8 min walk away with its own parking — gives the Flushing detour a second indoor anchor for bad weather days.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:29:20.602Z"
+  },
+  {
+    "topic": "Queens Botanical Garden weekend hours and parking",
+    "reason": "10 min from New World Mall; converts a pure-eating trip into a balanced foodie+outdoor day, which is the stacking pattern the user prefers for long detours.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:29:20.602Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods Carroll Gardens fresh mozzarella & prepared Italian",
+    "reason": "another Court St takeaway anchor; perfect pairing or alternate to CSG for the Carroll Gardens corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:31:24.287Z"
+  },
+  {
+    "topic": "Mazzola Bakery Carroll Gardens lard bread",
+    "reason": "decades-old bakery one block from CSG; rounds out a Court St food-crawl mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:31:24.287Z"
+  },
+  {
+    "topic": "Carroll Park Carroll Gardens picnic + bocce",
+    "reason": "natural eat-your-hero destination two blocks south of CSG; gives the corridor a non-food stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T22:31:24.287Z"
   }
 ]
