@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Re-research existing venue: Abbotsford Road Coffee Specialists (Red Hook)",
-    "reason": "Premium roaster supplying many Brooklyn cafes — strengthens Red Hook coffee depth and gives a back-up if Cafe Here is at capacity on a weekend morning.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:28:34.276Z"
-  },
-  {
-    "topic": "Bien Cuit Cobble Hill bakery — driving-friendly viennoiserie destination",
-    "reason": "Top-rated dark-bake croissants ~12 min drive from IC; strong alt for a Cobble Hill cluster morning",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:30:46.273Z"
-  },
-  {
-    "topic": "Xin Fa Bakery Sunset Park — Hong Kong-style egg tarts",
-    "reason": "Walking distance from IC; adds a non-European morning-bake option and cross-cultural variety to the Coffee block",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:30:46.273Z"
-  },
-  {
-    "topic": "La Flor de Izúcar Sunset Park — Mexican pan dulce and conchas",
-    "reason": "Sub-5-min drive from IC; expands the morning corpus with a dietary/foodie pan-dulce option and pairs with café con leche",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:30:46.273Z"
-  },
-  {
-    "topic": "Frankies 457 Spuntino Carroll Gardens — early dinner with garden",
-    "reason": "Iconic Carroll Gardens Italian, ~12 min from IC, reservations possible, complementary mid-priced dinner option for the 6:30 PM block when guests want sit-down vs. BBQ counter",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T04:33:02.013Z"
-  },
-  {
     "topic": "Defonte's of Brooklyn Red Hook — heroes pre-dinner snack",
     "reason": "Adjacent Red Hook anchor; a half-hero stop turns Hometown into a two-stop Red Hook track, expanding the geographic-track corpus",
     "requestedBy": "agent",
@@ -1300,5 +1270,95 @@
     "reason": "Pairs the Yemeni coffee experience with full-meal halal Palestinian food, extending the cultural track beyond a coffee stop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T07:02:10.547Z"
+  },
+  {
+    "topic": "Baked Red Hook (bakery + coffee, 359 Van Brunt St)",
+    "reason": "True weekend-open Red Hook coffee backup if Cafe Here is at capacity — bakery pastries + coffee on Van Brunt, native to the neighborhood and the original gap this re-research was meant to fill.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:05:11.127Z"
+  },
+  {
+    "topic": "Brooklyn Roasting Company - Industry City location",
+    "reason": "Specialty roaster with weekend retail hours physically inside Industry City — zero-drive backup for the morning coffee slot before the Red Hook leg begins.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:05:11.127Z"
+  },
+  {
+    "topic": "Hungry Ghost Coffee - Red Hook/Carroll Gardens",
+    "reason": "Local Brooklyn micro-chain with weekend hours; expands driving-friendly Red Hook-adjacent coffee depth beyond a single anchor.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:05:11.127Z"
+  },
+  {
+    "topic": "Books Are Magic Cobble Hill bookstore — 225 Smith St indie shop",
+    "reason": "Two-block walk from Bien Cuit; completes a chill morning Cobble Hill cluster with browsing after pastries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:07:14.986Z"
+  },
+  {
+    "topic": "Court Street Grocers Cobble Hill — Italian sandwich destination",
+    "reason": "Walkable lunch follow-up to a Bien Cuit morning stop; same parking serves both",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:07:14.986Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino Carroll Gardens — backyard garden Italian",
+    "reason": "5-min drive south; natural lunch/dinner pairing to extend a Cobble Hill/Carroll Gardens track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:07:14.986Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House Sunset Park — $1 lamb dumplings",
+    "reason": "Pairs with Xin Fa as a walkable cheap-eats double-header in the 8th Ave Chinatown, extends the morning-bake block into a savory option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:09:18.945Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park — Yunnan rice noodles",
+    "reason": "Strongest savory anchor within 8 min drive of IC; diversifies the food corpus beyond the European/Italian default in nearby zones",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:09:18.945Z"
+  },
+  {
+    "topic": "Fei Long Market Sunset Park — Asian grocery with hot food bar",
+    "reason": "Photo/curious-vibe stop near Xin Fa; supports a 'graze the neighborhood' track structure rather than a single sit-down",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:09:18.945Z"
+  },
+  {
+    "topic": "Don Paisa Bakery Sunset Park — Colombian pan de bono and almojábanas",
+    "reason": "Adds a Colombian-bakery counterpoint to the Mexican pan dulce option within the same 5–8 min IC drive cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:11:34.362Z"
+  },
+  {
+    "topic": "Tacos El Bronco 5th Ave Sunset Park — al pastor trompo tacos",
+    "reason": "Pairs with La Flor for a Sunset Park Mexican morning-into-lunch corridor along 5th Ave",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:11:34.362Z"
+  },
+  {
+    "topic": "Café con Leche options near Industry City — driving-friendly morning coffee within 10 min",
+    "reason": "La Flor covers Mexican coffee; corpus still thin on espresso-forward cafés with parking in the IC/Sunset Park/Greenwood ring",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:11:34.362Z"
+  },
+  {
+    "topic": "Prime Meats Carroll Gardens — German-Austrian sister-spot down the block",
+    "reason": "Same Frank Castronovo/Frank Falcinelli team, complements Frankies for a different cuisine in the same 12-min-from-IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:13:48.661Z"
+  },
+  {
+    "topic": "Clover Club Smith Street cocktail bar — post-dinner pairing",
+    "reason": "Iconic Brooklyn cocktail program 4 min walk from Frankies; natural after-dinner stop for the Carroll Gardens track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:13:48.661Z"
+  },
+  {
+    "topic": "Buttermilk Channel Court Street — New American with $30 prix fixe Monday",
+    "reason": "Another Carroll Gardens anchor candidate with stronger weeknight value and easier reservations as a Frankies alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T07:13:48.661Z"
   }
 ]
