@@ -2726,14 +2726,15 @@
   {
     "id": "win-son-bakery",
     "name": "Win Son Bakery",
-    "desc": "Taiwanese-American cafe-bakery with sugar-crusted mochi donuts, custard toast, and fan tuan, open till 10pm Saturdays.",
-    "longDesc": "Sister spot to the Win Son restaurant across the street, this Graham Ave bakery is one of NYC's most celebrated Taiwanese pastry counters — chewy mochi donuts rolled in raw sugar, thick-cut milk-bread custard toast, black sesame soft-serve, and savory fan tuan if anyone's still hungry. The dessert case rotates weekly and there's espresso plus a small natural-wine list, which makes the 8pm slot feel like a real wind-down rather than a grab-and-go. Park on Devoe St or Metropolitan Ave side streets; the BQE in from Industry City takes about 20 minutes on a weekend evening.",
+    "desc": "Taiwanese-American café on Graham Ave — mochi donuts, scallion milk bread, dan bing, open till 10pm on weekends.",
+    "longDesc": "Sister bakery to the acclaimed Win Son restaurant across the street, this East Williamsburg corner café has become a destination for its mochi donuts, fan tuan rice rolls, and Taiwanese milk bread sandwiches. Unlike most pastry shops in the area, the kitchen runs full breakfast-through-dinner service with beer and wine, and stays open until 10pm Thursday through Saturday — making it a rare late-evening Taiwanese sweets stop. Pair a black sesame mochi donut with an iced oolong on the way back to the car.",
     "url": "https://winsonbrooklyn.com/bakery",
-    "photoUrl": "https://winsonbrooklyn.com/contentful-assets/20a1b046149de91c97b0680d3c5cc80c-winson_brooklyn.jpg?fm=jpg&fl=progressive",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "foodie",
+      "curious",
       "chill"
     ],
     "dietary": [
@@ -2742,26 +2743,22 @@
     "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 09:00-22:00, Sun 09:00-21:00",
-    "notes": "Famous for sugar-encrusted mochi donuts and custard toast (winsonbrooklyn.com/bakery). Open until 10pm Saturdays — comfortably covers the 8pm dessert block. Beer/wine/spirits license means an after-dessert drink is possible without a second stop. Parking on Devoe/Metropolitan side streets is usually findable on weekends.",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "164 Graham Ave at Conselyea St, East Williamsburg (winsonbrooklyn.com/bakery). Sat hours 9am-10pm, Sun 9am-9pm — much later than Tomoko's 8pm cap (winsonbrooklyn.com). Sister to Win Son restaurant at 159 Graham across the street (yelp.com). Beer and wine list; full breakfast/lunch/dinner service alongside the pastry case. Metered street parking on Graham/Conselyea, generally findable on weekends.",
     "sources": [
       {
         "url": "https://winsonbrooklyn.com/bakery",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T19:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/win-son-bakery-brooklyn-9",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/restaurants/win-son-bakery/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T19:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T04:42:37.879Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:03:06.451Z"
   },
   {
     "id": "brooklyn-heights-promenade",
@@ -32157,46 +32154,160 @@
   {
     "id": "lappartement-4f-brooklyn-heights",
     "name": "L'Appartement 4F",
-    "desc": "Parisian-trained bakery on Montague St — hand-rolled croissants and slow-fermented sourdough.",
-    "longDesc": "Husband-and-wife team Ashley Coifman and Gautier Coiffard's Brooklyn Heights flagship recreates a Paris apartment-kitchen aesthetic with strict French viennoiserie technique. Expect a line out the door for their lamination-perfect butter croissants, kouign-amann, tahini chocolate chip cookies, and naturally-leavened country loaves. Weekend service is morning-only (8am–4pm), so plan it as the first stop on a Heights/Dumbo cluster.",
+    "desc": "Hand-rolled Parisian croissants and slow-fermented sourdough on Montague Street — arrive early before pastries sell out.",
+    "longDesc": "L'Appartement 4F started as an apartment supper club and has become Brooklyn Heights' most-talked-about French bakery, with lines forming before opening for the hand-rolled croissants, kouign-amann, and pain au chocolat. The Montague Street shop also bakes slow-fermented sourdough and seasonal viennoiserie that frequently sell out by midday, so plan a morning stop. Pair it with a stroll on the Brooklyn Heights Promenade for one of the best harbor views in the city.",
     "url": "https://www.lappartement4f.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
       "foodie",
-      "photo",
-      "romantic"
+      "romantic",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "08:00-16:00",
-    "notes": "115 Montague St, Brooklyn NY 11201; (347) 599-0006 (lappartement4f.com). Weekend hours Sat-Sun 8am-4pm — morning-only, plan as first cluster stop. Signature: hand-rolled croissants, kouign-amann, slow-fermented sourdough, tahini chocolate chip cookies (Yelp; Craft to Crumb). Small facility handles nuts — flag allergies. Street parking in Brooklyn Heights is tight on Saturdays; Sundays easier with alternate-side suspended. Same address hosts L'Apero natural wine bar Wed-Sat 6-10pm (separate evening concept).",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat-Sun 08:00-16:00",
+    "notes": "Address: 115 Montague St, Brooklyn Heights (lappartement4f.com). Weekend hours Sat-Sun 8a-4p; croissants and kouign-amann routinely sell out — Yelp reviewers report some items gone by 8:15am (yelp.com/biz/l-appartement-4f-brooklyn). Pair with Promenade walk; metered street parking on Montague + Pierrepont, garage at Pierrepont/Cadman Plaza for guaranteed weekend spot.",
     "sources": [
       {
         "url": "https://www.lappartement4f.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T19:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/l-appartement-4f-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://crafttocrumb.com/lappartement-4f-otherworldly-croissants-in-brooklyn-ny/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/lappartement-4f",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T19:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T19:00:56.655Z"
+    "lastResearchedAt": "2026-05-17T19:06:53.193Z"
+  },
+  {
+    "id": "saraghina-bakery",
+    "name": "Saraghina Bakery",
+    "desc": "Naturally leavened Italian bakery + focaccia-style pizza counter on a quiet Bed-Stuy corner.",
+    "longDesc": "Saraghina Bakery on Halsey St specializes in slow-fermented breads (La Micca, Il Bastone, Il Filone) made from certified-organic flour, plus plain/chocolate/almond croissants for a morning pastry stop. The counter also slings focaccia-style pizzas — Plain, Onion, Barese (olives + sun-dried tomato), Rossa (tomato/capers), and Margherita — alongside panini, gelato and sorbet, making it a single-stop morning-into-lunch hub a few blocks from sister restaurant Saraghina on Lewis Ave.",
+    "url": "https://www.saraghinabakery.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "08:00-19:00",
+    "notes": "433 Halsey St, Brooklyn NY 11233; open every day 8am-7pm including weekends (saraghinabakery.com). Focaccia-style pizzas + croissants make it a strong morning-pastry or savory-lunch pairing in the same Bed-Stuy cluster as Fan-Fan Doughnuts. Sister Neapolitan-pizza restaurant Saraghina sits two blocks away at 350 Lewis Ave for a dinner upgrade. Residential Halsey/Lewis area generally has weekend street parking; alternate-side suspended Sundays. Yelp lists 88+ photos and 102+ reviews as of Mar 2026 (yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.saraghinabakery.com/",
+        "accessed": "2026-05-17T19:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/saraghina-bakery-brooklyn",
+        "accessed": "2026-05-17T19:05:00Z"
+      },
+      {
+        "url": "https://www.saraghina.com/",
+        "accessed": "2026-05-17T19:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:05:05.784Z"
+  },
+  {
+    "id": "peaches-hothouse-bed-stuy",
+    "name": "Peaches HotHouse",
+    "desc": "Nashville-style hot chicken with three heat tiers, anchoring a Bed-Stuy soul-food brunch on Tompkins Ave",
+    "longDesc": "Sibling to Peaches across Lewis Ave, HotHouse is the Bed-Stuy hot-chicken specialist from B+C Restaurants — fried chicken, shrimp, and catfish dialed Regular, Hot, or Extra Hot, plus Southern sides like mac, cornbread, and collards. Sunday opens at 10am with mimosas, Bellinis, and Brownstone Punch, making it the savory weekend-brunch anchor opposite Fan-Fan Doughnuts a few blocks north. Counter-style room, exposed brick, busy and loud at peak — go early or expect a wait.",
+    "url": "https://www.bcrestaurantgroup.com/location/peaches-hot-house-bed-stuy/",
+    "photoUrl": "https://images.getbento.com/accounts/90dc4b97f8c54efb824b3b2644b332ff/media/images/983776944032757626455_322b2466dc_k.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 10:00-22:00",
+    "notes": "415 Tompkins Ave, Brooklyn NY 11216 (bcrestaurantgroup.com). Entrées $17-18 (chicken/shrimp/catfish) with spice tiered Regular/Hot/Extra Hot; cornbread from $3 (bcrestaurantgroup.com). Weekend brunch confirmed via Yelp/OpenTable presence and Sunday 10am open with Bellini/mimosa program (yelp.com). Street parking on Tompkins/Halsey is typically free and findable on weekend mornings before noon. Pairs natively with Fan-Fan Doughnuts on Bedford Ave (~3 min drive north) for a savory→sweet Bed-Stuy doubleheader.",
+    "sources": [
+      {
+        "url": "https://www.bcrestaurantgroup.com/location/peaches-hot-house-bed-stuy/",
+        "accessed": "2026-05-17T19:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/peaches-hothouse-brooklyn",
+        "accessed": "2026-05-17T19:05:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/peaches-hothouse-brooklyn",
+        "accessed": "2026-05-17T19:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:08:54.855Z"
+  },
+  {
+    "id": "variety-coffee-bushwick",
+    "name": "Variety Coffee Roasters (Bushwick)",
+    "desc": "Third-wave roastery-cafe in a refinished Bushwick paint store — Loring-roasted espresso, brick, brass, vintage Pioneer hi-fi.",
+    "longDesc": "Variety's Bushwick flagship occupies a 1,200 sq ft corner at 146 Wyckoff Ave with reclaimed Alabama sewing-factory floors, a hand-built bar, and a Conant Metal & Light chandelier from Vermont (sprudge.com). The back-room Loring S15 Falcon and two-barrel Probat sample roaster feed a La Marzocco Linea with Piero cap upgrades and a steam foot-pedal, pulling consistently clean espresso sourced via Coffee Shrub and Red Fox Coffee Merchants. Pastries from Ceci-Cela, Blue Sky Bakery, and Ovenly round out a relaxed, laptop-friendly room with vintage Cambridge Audio speakers playing low groovy sets.",
+    "url": "https://varietycoffeeroasters.com/pages/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "07:00-21:00",
+    "notes": "Walking distance to L'Imprimerie for a natural Bushwick coffee→bakery pairing. Weekend street parking on Wyckoff/Himrod is doable but variable — circle 5-10 min or use a paid lot near Jefferson L (yelp.com). Order an Americano or a single-origin pourover; the Loring roast profile (sprudge.com) shines black. Laptop-friendly but always busy — solo seating at the long marble brasserie tables. Cash and card both fine; menu is espresso, drip via French-press-into-airpots, cold brew, and a small pastry case (sprudge.com).",
+    "sources": [
+      {
+        "url": "https://sprudge.com/variety-coffee-bushwick-54629.html",
+        "accessed": "2026-05-17T19:05:00Z"
+      },
+      {
+        "url": "https://varietycoffeeroasters.com/pages/locations",
+        "accessed": "2026-05-17T19:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/variety-brooklyn-2",
+        "accessed": "2026-05-17T19:05:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d12092287-Reviews-Variety_Coffee_Roasters-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T19:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:11:12.011Z"
   }
 ]
