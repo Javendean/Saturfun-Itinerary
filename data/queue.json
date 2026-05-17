@@ -1,35 +1,5 @@
 [
   {
-    "topic": "American Veterans Memorial Pier (69th St Pier) Bay Ridge",
-    "reason": "Right under the Verrazzano — alternative water-level sunset spot 5 min further south of Owl's Head, pairs as a two-stop sunset track from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:15:31.423Z"
-  },
-  {
-    "topic": "Shore Road Promenade Bay Ridge waterfront walk",
-    "reason": "Long linear park connecting Owl's Head south to the Verrazzano — drivable trailhead with parking, good 'walk + view' filler between IC dinner and sunset",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:15:31.423Z"
-  },
-  {
-    "topic": "Best Bay Ridge dinner spot 10-15 min drive from Industry City",
-    "reason": "Corpus has no Bay Ridge food yet; needed to complete a 'sunset at Owl's Head + dinner' track without driving back north",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:15:31.423Z"
-  },
-  {
-    "topic": "Sunset Park summit lawn — Manhattan skyline sunset viewpoint",
-    "reason": "Natural pairing with Ba Xuyên: 8-min walk west, frames the banh mi as a pre-sunset food stop and adds the actual sunset moment as its own scoutable stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:17:39.029Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden — Sunset Park 8th Ave hand-pulled noodles",
-    "reason": "Same 8th Ave Chinatown strip as Ba Xuyên, fills out a 'Brooklyn Chinatown crawl' micro-track adjacent to IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:17:39.029Z"
-  },
-  {
     "topic": "Kaiser Tiger / Lan Zhou Handmade Noodle 8th Ave",
     "reason": "Cheap-eats density on 8th Ave is the unique angle of this zone; one more entry locks in a 3-stop food crawl option for the IC cluster",
     "requestedBy": "agent",
@@ -7552,5 +7522,101 @@
     "reason": "Free contemporary art venue 5 min from Valentino — daytime pairing for Red Hook track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T03:49:00.876Z"
+  },
+  {
+    "topic": "Shore Road Promenade Bay Ridge (linear waterfront connecting Owl's Head to 69th St Pier)",
+    "reason": "The connective tissue between the two sunset anchors — bike/walk path with bridge views the whole way; lets the track flex from drive-stop to drive+stroll",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:51:16.351Z"
+  },
+  {
+    "topic": "Salty Dog Bar & Grill Bay Ridge (post-sunset Verrazzano drink stop)",
+    "reason": "Closes the Shore Road sunset track with a Bay Ridge local-favorite bar 5 min inland; firefighter-themed, late-night kitchen, fills the after-dark slot the pier can't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:51:16.351Z"
+  },
+  {
+    "topic": "Greenhouse Cafe 3rd Ave Bay Ridge (covered garden dinner near the pier)",
+    "reason": "Year-round atrium dining 8 min from the pier — gives the Bay Ridge sunset track a sit-down food anchor that Industry City restaurants can't cover at this distance",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:51:16.351Z"
+  },
+  {
+    "topic": "American Veterans Memorial Pier (69th St Pier) Bay Ridge sunset spot",
+    "reason": "Specific photo-anchor pier inside the Shore Road corridor — deserves its own entry as a 20-min sunset stop with parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:53:35.159Z"
+  },
+  {
+    "topic": "Owl's Head Park Bay Ridge hilltop skyline view",
+    "reason": "Northern bookend of the promenade with a hilltop Manhattan/harbor view + skate park — different vibe (curious/active) than the flat seawall walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:53:35.159Z"
+  },
+  {
+    "topic": "Bay Ridge Greek/Middle Eastern dinner spot near 3rd Ave drivable from IC",
+    "reason": "Natural pairing — Bay Ridge is the food half of a 'dinner + Shore Road sunset' itinerary, currently underrepresented in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:53:35.159Z"
+  },
+  {
+    "topic": "Narrows Botanical Gardens Bay Ridge",
+    "reason": "Volunteer-run garden one block off the promenade at 69th-72nd; adds a 20-min 'curious' stop to the same drive cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:53:35.159Z"
+  },
+  {
+    "topic": "Greenhouse Cafe Bay Ridge (3rd Ave) — glass-roofed garden room dinner",
+    "reason": "Adds a romantic/photo-friendly Bay Ridge alternative with a covered garden vibe, different from Tanoreen's mezze format; rounds out the southern-Brooklyn dinner shelf",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:55:47.433Z"
+  },
+  {
+    "topic": "Gino's of Bay Ridge — classic red-sauce Italian on 5th Ave",
+    "reason": "Bay Ridge has a deep Italian-American bench and the corpus has none; Gino's is the longest-running neighborhood pick and complements Tanoreen as a $$ comfort option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:55:47.434Z"
+  },
+  {
+    "topic": "Owl's Head Park sunset viewpoint (Bay Ridge harbor overlook)",
+    "reason": "The track this dinner unblocks needs its activity anchor; Owl's Head is the Bay Ridge sunset spot 4 min from Tanoreen and currently missing from the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:55:47.434Z"
+  },
+  {
+    "topic": "Add 'bay-ridge' to corpus zone enum",
+    "reason": "Schema gap surfaced by this entry; future Bay Ridge venues (69th St Pier, Shore Rd Greenway, Faicco's etc.) will need it to avoid mis-zoning under industry-city",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:55:47.434Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park — waterfront sunset alternative in Sunset Park with direct harbor sightline",
+    "reason": "Second free skyline-sunset stop within 10 min of IC; complements the hilltop view with a water-level perspective",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:57:43.014Z"
+  },
+  {
+    "topic": "Industry City rooftop / Japan Village courtyard at golden hour — IC-anchored sunset option",
+    "reason": "Indoor-adjacent fallback for rainy/cold evenings while keeping the IC anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:57:43.014Z"
+  },
+  {
+    "topic": "Tacos El Bronco (5th Ave & 43rd) — Mexican taco truck for pre-sunset takeout on the way to the summit",
+    "reason": "Completes a banh-mi-OR-tacos pairing for the Sunset Park summit picnic moment, both <2 blocks from the lawn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:57:43.014Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace — 8th Ave dim sum cart hall",
+    "reason": "Anchors the Brooklyn Chinatown crawl with a sit-down weekend dim sum option a few blocks south of Yun Nan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:00:09.634Z"
+  },
+  {
+    "topic": "Lucky Eight Restaurant 5204 8th Ave Brooklyn Cantonese BBQ",
+    "reason": "Classic Cantonese roast-meats counter directly across from Yun Nan, rounds out a savory crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:00:09.634Z"
   }
 ]
