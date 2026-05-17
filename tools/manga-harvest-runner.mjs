@@ -25,6 +25,10 @@ const repoRoot   = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '.
 const queuePath  = path.join(repoRoot, 'data', 'manga-queue.json');
 const corpusDir  = path.join(repoRoot, 'data', 'manga-corpus');
 const corpusPath = path.join(corpusDir, 'index.json');
+const profilePath = path.join(corpusDir, 'taste-profile.json');
+
+// Loaded at boot; injected into every discovery prompt.
+let tasteProfile = null;
 
 const MODEL = 'claude-opus-4-7[1m]';
 const TRACEMOE_URL = 'https://api.trace.moe/search?cutBorders';
@@ -75,6 +79,7 @@ const angleHandlers = {
 
 async function main() {
   await fs.mkdir(corpusDir, { recursive: true });
+  await loadTasteProfile();
 
   if (!args.loop) {
     await iterate();
@@ -131,6 +136,16 @@ async function iterate() {
   if (args.angle) {
     idx = queue.findIndex((q) => q.discoveryAngle === args.angle);
     if (idx < 0) { console.log(`[manga-harvest] no items for angle=${args.angle}`); return 0; }
+  } else {
+    // Tier-bias the queue per the user's taste profile. The profile maps tiers
+    // (famous/well-known/deep-cut/lesser-known) to angles roughly:
+    //   famous       -> fan-archive (canonical iconic)
+    //   well-known   -> splash-transition (mid-tier polished craft)
+    //   deep-cut     -> artist-deep-dive (rare from masters)
+    //   lesser-known -> artist-deep-dive (obscure but worthy)
+    // When the user's top tier is deep-cut / lesser-known, weight toward
+    // artist-deep-dive; when famous, fan-archive; etc.
+    idx = pickBiasedQueueIndex(queue);
   }
 
   const [item] = queue.splice(idx, 1);
@@ -166,20 +181,20 @@ async function handleReverseImage(item) {
     console.warn(`[manga-harvest] tracemoe lookup failed: ${err.message} — continuing without it`);
   }
 
-  const prompt = [
+  const prompt = withTaste([
     `You are a manga-panel research curator helping an artist build a 10-minute drawing reference archive.`,
     `Below is a seed panel image. ${traceMoe?.summary ? 'TraceMoe identified it as: ' + traceMoe.summary : 'TraceMoe did not return a confident match.'}`,
     ``,
     `Task: identify this panel (manga, chapter, page, artist) and propose 5 nearby panels worth archiving — same volume or adjacent volumes — that share visual energy or technique. For each panel produce a full PanelEntry. Emit one fenced JSON block.`,
     ``,
     jsonShapeHint(),
-  ].join('\n');
+  ].join('\n'));
 
   return await callAgent(prompt, { imagePath: absSeed });
 }
 
 async function handleArtistDeepDive(item) {
-  const prompt = [
+  const prompt = withTaste([
     `You are a manga-craft historian helping an artist build a 10-minute drawing reference archive.`,
     `Topic: ${item.topic}`,
     `Reason: ${item.reason || '(none)'}`,
@@ -187,13 +202,13 @@ async function handleArtistDeepDive(item) {
     `Task: list 8-12 specific rare or canonical-but-instructive panels matching the topic. Use WebSearch / WebFetch as needed to verify chapter and page numbers. Prioritize tankobon-only panels, splash pages, and craft-rich frames over story-progression panels.`,
     ``,
     jsonShapeHint(),
-  ].join('\n');
+  ].join('\n'));
 
   return await callAgent(prompt);
 }
 
 async function handleFanArchive(item) {
-  const prompt = [
+  const prompt = withTaste([
     `You are a manga-curation researcher helping an artist build a 10-minute drawing reference archive.`,
     `Topic: ${item.topic}`,
     `Reason: ${item.reason || '(none)'}`,
@@ -201,13 +216,13 @@ async function handleFanArchive(item) {
     `Task: use WebFetch to pull the named source (or its closest discoverable equivalent), extract panel references with manga + chapter + page where available, and pull out any commentary on why the community considers them noteworthy. Aim for 6-15 panels. Skip panels that are story spoilers without craft value.`,
     ``,
     jsonShapeHint(),
-  ].join('\n');
+  ].join('\n'));
 
   return await callAgent(prompt);
 }
 
 async function handleSplashTransition(item) {
-  const prompt = [
+  const prompt = withTaste([
     `You are a manga-craft historian helping an artist build a 10-minute drawing reference archive.`,
     `Topic: ${item.topic}`,
     `Reason: ${item.reason || '(none)'}`,
@@ -215,7 +230,7 @@ async function handleSplashTransition(item) {
     `Task: identify the strongest 8-12 splash pages, double-spreads, or wordless transition pages matching the topic. Use WebSearch / WebFetch to verify chapter and page. Emphasize composition, perspective, and lighting in techniqueNotes.`,
     ``,
     jsonShapeHint(),
-  ].join('\n');
+  ].join('\n'));
 
   return await callAgent(prompt);
 }
@@ -420,6 +435,80 @@ function parseInterval(s) {
 }
 
 function sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
+
+// --- Taste profile integration ------------------------------------------
+// Read by /manga/calibrate.html and written by the user via "Download
+// taste-profile.json", then placed at data/manga-corpus/taste-profile.json.
+// Missing-file is non-fatal — harvester runs uncalibrated with a warning.
+async function loadTasteProfile() {
+  try {
+    const raw = await fs.readFile(profilePath, 'utf8');
+    const parsed = JSON.parse(raw);
+    if (!parsed || typeof parsed !== 'object') throw new Error('not an object');
+    if (!parsed.harvesterPromptInjection) {
+      console.warn('[manga-harvest] taste-profile.json missing harvesterPromptInjection; ignoring');
+      tasteProfile = null;
+      return;
+    }
+    tasteProfile = parsed;
+    const topTier = tasteProfile.aggregates?.topTier || '(unknown)';
+    const rated = tasteProfile.aggregates?.ratedCount ?? '?';
+    console.log(`[manga-harvest] taste profile loaded (${rated} ratings, top tier=${topTier})`);
+  } catch (err) {
+    if (err.code === 'ENOENT') {
+      console.warn('[manga-harvest] WARN: no taste-profile.json — running uncalibrated.');
+      console.warn('[manga-harvest]   Take the calibration at /manga/calibrate.html, download the JSON,');
+      console.warn(`[manga-harvest]   drop it at ${path.relative(repoRoot, profilePath)}`);
+    } else {
+      console.warn('[manga-harvest] taste profile load failed:', err.message);
+    }
+    tasteProfile = null;
+  }
+}
+
+// Prepend the synthesized reader-taste preamble to every discovery prompt.
+function withTaste(promptBody) {
+  if (!tasteProfile?.harvesterPromptInjection) return promptBody;
+  return [
+    '═══ READER TASTE GUIDANCE (from /manga/calibrate.html) ═══',
+    tasteProfile.harvesterPromptInjection,
+    '═══ END TASTE GUIDANCE ═══',
+    '',
+    promptBody,
+  ].join('\n');
+}
+
+// Bias which queue item to pop based on the user's top tier. Returns 0
+// when uncalibrated (FIFO) or when no preferred item is available.
+function pickBiasedQueueIndex(queue) {
+  if (!queue.length) return 0;
+  if (!tasteProfile?.aggregates?.tierEnthusiasm) return 0;
+
+  const tierEnth = tasteProfile.aggregates.tierEnthusiasm;
+  // Map tiers -> angles (rough heuristic; falls through to FIFO when nothing matches).
+  const tierAngleMap = {
+    'famous': ['fan-archive', 'artist-deep-dive'],
+    'well-known': ['splash-transition', 'artist-deep-dive'],
+    'deep-cut': ['artist-deep-dive', 'splash-transition'],
+    'lesser-known': ['artist-deep-dive', 'fan-archive'],
+  };
+
+  // Rank tiers by enthusiasm descending; for each preferred tier in turn try
+  // to find a queue item whose discoveryAngle is in that tier's angle list.
+  const tiersByScore = Object.entries(tierEnth)
+    .sort((a, b) => b[1] - a[1])
+    .map(([t]) => t);
+
+  for (const tier of tiersByScore) {
+    const angles = tierAngleMap[tier];
+    if (!angles) continue;
+    for (const angle of angles) {
+      const idx = queue.findIndex((q) => q.discoveryAngle === angle);
+      if (idx >= 0) return idx;
+    }
+  }
+  return 0;
+}
 
 function parseArgs(argv) {
   const out = { loop: false };

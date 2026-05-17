@@ -5378,9 +5378,9 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Cash-only Sunset Park noodle shop from Kunming-born owners slinging guoqiao mixian and bone-broth bowls",
-    "longDesc": "A tiny, beloved Yunnan specialist on the 8th Ave Chinatown strip run by a couple from Kunming. The signature is guoqiao (crossing-the-bridge) mixian — DIY rice noodles assembled at the table in a screaming-hot chicken-bone broth — plus hand-pulled wheat noodles, hot-and-sour soup, and Yunnan-style sliced pork bowls. Bowls run $8-12, it's cash only, and seating is cramped enough that most regulars get it to go.",
-    "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
+    "desc": "Hole-in-the-wall Kunming-style Yunnan kitchen famed for housemade rice noodles and Crossing-the-Bridge broth.",
+    "longDesc": "Run by a husband-and-wife team from Kunming, this tiny Sunset Park storefront is one of NYC's most authentic Yunnan kitchens, with thick housemade rice noodles in salty beef-or-pork stew and the signature Crossing the Bridge bowl built tableside in piping-hot broth. About 10 cramped seats, near-takeout-only feel, bowls in the $5-$10 range — a non-Cantonese counterpoint to the rest of 8th Ave Chinatown.",
+    "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5391,31 +5391,31 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-21:00",
-    "notes": "5121 8th Ave, Brooklyn NY 11220 — heart of Sunset Park's 8th Ave Chinatown, ~1.6 mi straight up 8th Ave from Industry City (NYC Tourism). Cash only per Yelp and Spec coverage; bring small bills. Order guoqiao mixian — listed as a 'hard-to-find regional dish' (nyctourism.com) — plus a side of cold noodles or hot-and-sour soup. Pairs naturally with a Ba Xuyên bánh mì stop two blocks away on 8th & 42nd for a Sunset Park crawl. Street parking on side streets (50th/51st) is reasonable on weekends but tight at lunch rush.",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "11:00-21:30",
+    "notes": "5121 8th Ave at ~51st St, ~1.2 mi north of Industry City — straight shot up 3rd/4th Ave to 8th. Weekend metered street parking on 8th Ave and side streets is reasonable but tight at lunch; try 9th Ave one block over. Cash-friendly, tiny dining room (about 10 seats) so plan an off-peak window or order to go. Signature Crossing the Bridge Rice Noodles with beef or lamb; housemade thick rice noodles in beef/pork stew are the move (stuyspec.com, nyctourism.com). Pairs naturally with the 8th Ave Chinatown cluster (East Harbor dim sum, Kai Feng Fu dumplings) as a non-Cantonese stop.",
     "sources": [
       {
-        "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T04:05:00Z"
       },
       {
-        "url": "https://www.bkreader.com/best-of-brooklyn/best-of-brooklyn-top-5-noodle-shops-7151554",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
+        "accessed": "2026-05-17T04:05:00Z"
       },
       {
         "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T04:05:00Z"
+      },
+      {
+        "url": "https://notanotherbrooklynblog.com/2015/03/10/eating-8th-avenue-yun-nan-flavour-garden/",
+        "accessed": "2026-05-17T04:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:00:09.608Z"
+    "lastResearchedAt": "2026-05-17T04:06:54.437Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -5463,8 +5463,8 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Cart-service weekend dim sum in Sunset Park's 8th Ave Chinatown — har gow, taro puffs, pepper spare ribs.",
-    "longDesc": "One of Brooklyn's last true cart-service dim sum halls (迎賓大酒樓), packed every weekend morning with locals flagging down carts of har gow, fried taro puffs, eggplant stuffed with shrimp, and pepper spare ribs. Arrive before 10:30am Saturday/Sunday — quality and selection visibly drop after the early rush, and the wait grows past an hour. A Michelin Guide listing and a ~$10–15/person check make it the anchor of a Sunset Park Chinatown morning track.",
+    "desc": "Cart-style Cantonese dim sum hall in Sunset Park — gold-accented banquet room, weekend crowds, number-announcer waits.",
+    "longDesc": "One of Brooklyn's last true push-cart dim sum palaces, set inside a sprawling gold-and-red banquet room on 65th St in Sunset Park's Chinatown. Steaming carts roll past with har gow, siu mai, turnip cake, chicken feet, and rice-noodle rolls; servers shout reservation numbers over a PA as families pack the room from 9am on weekends. Michelin-listed and a long-running local favorite for groups large enough to justify a full table of small plates.",
     "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5473,30 +5473,32 @@
       "foodie",
       "curious"
     ],
-    "dietary": [],
-    "priceBand": "$",
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "6 min",
     "hoursWeekend": "09:00-22:00",
-    "notes": "Address: 714 65th St (between 7th & 8th Ave), Sunset Park, Brooklyn 11220 — technically Sunset Park, not Industry City proper, but ~10 min drive south on 7th Ave from IC. Cart service active during dim sum hours (~9am–3pm). Crowds peak 11am–1pm weekends; aim for 9:30–10:30am seating to avoid wait + get freshest har gow (Cinnamon Society). Stamp-card ordering — flag carts as they pass. Street parking on 65th/66th/67th feasible early; metered 8th Ave spots after ~11am are tough. Pairs naturally with Lan Zhou Handmade Noodle (~5 min walk up 8th Ave) and Ba Xuyên banh mi later in the track. Phone (718) 765-0098.",
+    "notes": "~1.4 mi / 6 min drive south from IC down 3rd Ave; metered street parking on 65th/8th Ave plus a municipal lot nearby. Weekend dim sum service uses traditional rolling carts (rare in NYC now) and runs roughly 9am-3pm before the menu switches to seafood/banquet dinner. Crowds peak 11am-1pm Sat/Sun — arrive before 10:30 or expect a 30-60 min wait with number-call seating (Michelin Guide). Vegetarian options exist (turnip cake, veg dumplings, lo mai gai without meat) but it is not a veg-focused kitchen (Yelp).",
     "sources": [
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T04:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T04:05:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d2551095-Reviews-East_Harbor_Seafood_Palace-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T04:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T03:31:01.386Z"
+    "lastResearchedAt": "2026-05-17T04:04:59.929Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -10611,10 +10613,10 @@
   },
   {
     "id": "tofu-stall-sunset-park",
-    "name": "Tofu Stall",
-    "desc": "Cash-only Sunset Park stall ladling silky handmade douhua and fresh soy milk from a stainless vat.",
-    "longDesc": "A literal sidewalk stall on 57th St just off 8th Ave in Brooklyn's Chinatown, run by a mother–daughter pair who scoop douhua (tofu pudding) and pour fresh soy milk to order from huge steel vats. The texture is the headline — silky-loose tofu pudding eaten warm with syrup, plus guilinggao (herbal jelly) and small mochi packs. Cash only, takeaway only, blink-and-you-miss-it; treat it as a 10-minute pre-meal snack before a mixian or dumpling stop nearby.",
-    "url": "https://www.google.com/maps/search/?api=1&query=Tofu+Stall+808+57th+St+Brooklyn",
+    "name": "Tofu Stall (8th Ave Tofu Pudding Lady)",
+    "desc": "Cash-only Sunset Park street stall ladling silky stone-ground douhua and fresh soy milk off 8th Ave.",
+    "longDesc": "A mother-and-daughter operation works a sidewalk setup just off Brooklyn's 8th Ave Chinatown, scooping steaming tofu pudding (douhua) out of a tall stainless-steel vat and finishing it with sweet ginger syrup. The same stand pours freshly pressed soy milk and stocks guilinggao (herbal turtle jelly) — small $1.25 / large $2.00 for douhua, $1.75 / $3.50 for jelly. Cash only, menu hand-written in Chinese, point-and-pay; eat standing or take it to a curb.",
+    "url": "https://www.yelp.com/biz/tofu-stall-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -10624,31 +10626,44 @@
     ],
     "dietary": [
       "vegetarian",
-      "vegan"
+      "vegan",
+      "gluten-free"
     ],
     "priceBand": "$",
-    "duration": "15-30 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "approx 8:00-15:00 (call ahead, 917-325-0702)",
-    "notes": "Queue entry was mislabeled as 'Yi Ji Shi Mo' — that venue is in Manhattan Chinatown; the actual Sunset Park handmade soy-milk + douhua shop is Tofu Stall, 808 57th St (yelp.com/biz/tofu-stall-brooklyn). Cash only. Douhua $1.25 small / $2 large; guilinggao $1.75/$3.50; mochi container ~$6 for 7 (local.yahoo.com listing). Street parking on 57th/58th is doable weekend mornings before 10am. Pairs perfectly with a regional Chinese mini-track from IC — e.g. drive 6 min south for douhua, then walk 8th Ave for mixian, hand-pulled noodles, or dumplings. Hours not officially published — daughter sometimes posts updates on local Chinese-language WeChat groups.",
+    "duration": "15-25 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "approx 07:00-15:00 weekends; cash only, can sell out and pack up early",
+    "notes": "Seed address (5223 8th Ave) is actually King's Kitchen, a Cantonese roast/dim-sum spot; Yi Ji Shi Mo is a Manhattan Chinatown rice-roll shop at 88 Elizabeth St with no Brooklyn branch (yelp.com, theinfatuation.com). The Sunset Park stone-ground douhua + soy milk vendor the seed is reaching for is the so-called 'Tofu Stall' / '8th Ave Tofu Pudding Lady' at 808 57th St near 8th Ave (gothamist.com, yelp.com). Pairs naturally with a Kai Feng Fu dumpling stop and a King's Kitchen siu mei pickup — full 8th Ave cheap-eats crawl ~10 min from IC. Street parking on 57th/58th is workable on weekend mornings; metered 8th Ave is tighter after 10am. Bring small bills.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/tofu-stall-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://local.yahoo.com/info-209859910-tofu-stall-brooklyn/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://gothamist.com/food/where-to-eat-in-sunset-parks-chinatown-according-to-bonnies-chef-calvin-eng",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2020/11/the-ultimate-guide-to-brooklyns-chinatown-according-to-stephanie-shih/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tiktok.com/@thebingbuzz/video/7378671521675349291",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kings-kitchen-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yi-ji-shi-mo-noodle-corp-new-york-5",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T11:46:52.115Z"
+    "lastResearchedAt": "2026-05-17T04:09:58.343Z"
   },
   {
     "id": "fay-da-bakery-sunset-park",
@@ -23094,5 +23109,97 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T03:57:42.989Z"
+  },
+  {
+    "id": "lan-zhou-noodles-8th-ave",
+    "name": "Lan Zhou Hand-Pulled Noodles (8th Ave)",
+    "desc": "Counter-watch Lanzhou hand-pulled beef noodle soup in Brooklyn's Chinatown — cash-only, under $20, huge bowls.",
+    "longDesc": "The 8th Ave outpost of Brooklyn's go-to Lanzhou noodle joint sits at 63rd Street in Sunset Park's Chinatown, where you can watch a chef stretch dough into chewy hand-pulled noodles from the counter (cherrypatter.com). The signature beef noodle soup arrives in a hearty broth with bok choy and braised beef; you pick noodle thickness and spice level, all served fast and cheap (restaurantji.com). Note: the older 5924 8th Ave storefront closed in Dec 2025 — 6301 is the live location (yelp.com).",
+    "url": "https://www.grubhub.com/restaurant/lan-zhou-noodles-6301-8th-ave-brooklyn/2848196",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "10:00-21:30",
+    "notes": "Cash-only, bring small bills; bowls under $15 even with extra toppings (restaurantji.com). Counter seats give the best view of the noodle-pulling — sit there if you can. Weekend street parking on 63rd or side streets off 8th Ave is usually findable. Pair with Tiger Sugar boba at 5903 8th Ave (3 blocks north) and a Chinese bakery for a true 8th Ave crawl. Original Yelp listing for 5924 8th Ave marked CLOSED as of Dec 2025 — confirmed 6301 8th Ave is the operating storefront via Grubhub + Sunset Park 7th Ave sister branch (lan-zhou-noodles.menu-world.com).",
+    "sources": [
+      {
+        "url": "https://www.grubhub.com/restaurant/lan-zhou-noodles-6301-8th-ave-brooklyn/2848196",
+        "accessed": "2026-05-17T04:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lanzhou-noodle-brooklyn",
+        "accessed": "2026-05-17T04:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lanzhou-hand-pull-noodle-brooklyn",
+        "accessed": "2026-05-17T04:05:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/lan-zhou-noodles-/",
+        "accessed": "2026-05-17T04:05:00Z"
+      },
+      {
+        "url": "https://cherrypatter.com/2009/05/lan-zhou-hand-pulled-noodles-just-blocks-away/",
+        "accessed": "2026-05-17T04:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T04:03:01.495Z"
+  },
+  {
+    "id": "wong-wong-noodle-soup",
+    "name": "Wong Wong Noodle Soup",
+    "desc": "Lanzhou-style hand-pulled noodles in beef broth, walking distance from Kai Feng Fu",
+    "longDesc": "Hole-in-the-wall counter shop in Sunset Park Chinatown where the cook stretches Lanzhou-style hand-pulled noodles to order. The lamb hand-pulled noodle soup and zhajiangmian (meat & bean sauce noodles) are the calling cards — chewy, springy strands, served with a separate bowl of clear broth. Cash-friendly, English paper menu available, two dishes for about $11.50. Stands in for the (now-closed) Lanzhou Hand Pull Noodle at 5924 8th Ave so the Sunset Park dumpling+noodle cluster still works on foot.",
+    "url": "https://www.google.com/maps/place/Wong+Wong+Noodle+Shop/@40.6438,-74.0083",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "10:00-19:00 (pickup-leaning; call ahead)",
+    "notes": "Address sanity check: the queued address '4920 8th Ave' could not be verified as a noodle shop — that lot reads as residential next to Flower King at 4921 (Zillow/Yelp). The original Sunset Park 'Lan Zhou Hand Pull Noodle' / 'Wong Good Hand Pull Noodle' at 5924 8th Ave is marked CLOSED on Yelp as of Dec 2025 / Mar 2026. Wong Wong Noodle Soup at 5410 8th Ave is the closest still-active Lanzhou-style hand-pulled shop to Kai Feng Fu (4801 8th Ave) — 6 blocks south, ~7-minute walk, so the dumplings+noodles+tofu cluster still works without re-parking (MTA Away food guide; Bao & Butter review). If you want the more polished Lanzhou option, Dun Huang at 817 60th St is the consensus best in the neighborhood and runs 11:00-22:00 daily — but it's a separate parking move from Kai Feng Fu.",
+    "sources": [
+      {
+        "url": "https://www.baoandbutter.com/cuisine/chinese/fujian/wong-wong-noodle-soup-%E6%97%BA%E6%97%BA%E7%BD%B1%E5%B7%9E%E6%89%8B%E6%8B%89%E9%BA%B5-sunset-park-brooklyn/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/wong-good-hand-pull-noodle-brooklyn",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lanzhou-hand-pull-noodle-brooklyn",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://dhnoodles.com/restaurant-location/sunset-park/",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T04:14:42.572Z"
   }
 ]

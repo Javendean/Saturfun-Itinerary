@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taste Calibration | Panel Vault | Saturfun</title>
+    <!-- marker: manga-calibrate-v1 (used by ralph loop to verify CDN flip) -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,800;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --vault-ink: #0E0E10;
+            --vault-paper: #F2EFE9;
+            --vault-blood: #B33A3A;
+            --vault-muted: #5A5A5A;
+            --vault-gold: #D4AF37;
+            --vault-line: rgba(242, 239, 233, 0.12);
+            --vault-card: rgba(242, 239, 233, 0.04);
+        }
+        * { box-sizing: border-box; }
+        html, body { margin: 0; padding: 0; min-height: 100%; }
+        body {
+            background: var(--vault-ink);
+            color: var(--vault-paper);
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden;
+            line-height: 1.5;
+        }
+        h1, h2, h3, .serif { font-family: 'Playfair Display', serif; }
+        a { color: var(--vault-gold); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        /* --- Header --- */
+        .cal-header {
+            border-bottom: 1px solid var(--vault-line);
+            padding: 1rem 1.5rem;
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            gap: 1rem;
+            position: sticky;
+            top: 0;
+            background: var(--vault-ink);
+            z-index: 10;
+        }
+        .cal-header .brand {
+            font-family: 'Playfair Display', serif;
+            font-weight: 600;
+            font-size: 1rem;
+            letter-spacing: 0.02em;
+        }
+        .cal-header .brand em { font-style: italic; color: var(--vault-blood); }
+        .cal-header .crumb {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: var(--vault-muted);
+        }
+        .cal-header .crumb a { color: var(--vault-muted); }
+
+        /* --- Progress bar --- */
+        .progress-wrap {
+            background: rgba(242, 239, 233, 0.06);
+            height: 4px;
+            width: 100%;
+            position: relative;
+        }
+        .progress-fill {
+            background: linear-gradient(90deg, var(--vault-blood), var(--vault-gold));
+            height: 100%;
+            width: 0%;
+            transition: width 0.35s ease;
+        }
+
+        /* --- Main --- */
+        main {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 1.5rem 1.25rem 6rem;
+        }
+        .panel-count {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: var(--vault-muted);
+            margin-bottom: 0.5rem;
+            text-align: center;
+        }
+        .panel-count strong { color: var(--vault-paper); font-weight: 600; }
+
+        /* --- Image stage --- */
+        .panel-stage {
+            background: var(--vault-card);
+            border: 1px solid var(--vault-line);
+            border-radius: 6px;
+            padding: 1.5rem;
+            text-align: center;
+            margin-bottom: 1.25rem;
+        }
+        .panel-stage .panel-imgwrap {
+            min-height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #060607;
+            border-radius: 4px;
+            margin-bottom: 1rem;
+            position: relative;
+            overflow: hidden;
+        }
+        .panel-stage img {
+            max-width: 100%;
+            max-height: 60vh;
+            height: auto;
+            display: block;
+            transition: opacity 0.25s ease;
+        }
+        .panel-stage img.loading { opacity: 0; }
+        .panel-stage .img-spinner {
+            position: absolute;
+            font-size: 0.7rem;
+            color: var(--vault-muted);
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+        }
+        .panel-stage .img-fail {
+            color: var(--vault-blood);
+            font-size: 0.8rem;
+            padding: 2rem;
+            font-style: italic;
+        }
+        .panel-meta {
+            margin-top: 0.5rem;
+            color: var(--vault-paper);
+        }
+        .panel-meta .manga-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin: 0;
+            line-height: 1.2;
+        }
+        .panel-meta .manga-name em {
+            font-style: italic;
+            color: var(--vault-blood);
+            font-weight: 400;
+        }
+        .panel-meta .artist {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--vault-gold);
+            margin-top: 0.35rem;
+            font-weight: 500;
+        }
+        .panel-meta .panel-hint {
+            font-size: 0.85rem;
+            color: var(--vault-muted);
+            margin-top: 0.5rem;
+            font-style: italic;
+        }
+        .panel-meta .tier-pill {
+            display: inline-block;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            padding: 0.25rem 0.6rem;
+            border-radius: 999px;
+            margin-top: 0.6rem;
+            background: rgba(212, 175, 55, 0.12);
+            color: var(--vault-gold);
+            border: 1px solid rgba(212, 175, 55, 0.25);
+        }
+
+        /* --- Question groups --- */
+        .qgroup {
+            margin-bottom: 1.25rem;
+            padding: 1rem 1.1rem;
+            background: var(--vault-card);
+            border: 1px solid var(--vault-line);
+            border-radius: 6px;
+        }
+        .qgroup .qlabel {
+            font-family: 'Playfair Display', serif;
+            font-size: 0.95rem;
+            font-weight: 600;
+            margin: 0 0 0.65rem;
+            color: var(--vault-paper);
+        }
+        .qgroup .qhint {
+            font-size: 0.72rem;
+            color: var(--vault-muted);
+            margin-bottom: 0.65rem;
+            text-transform: lowercase;
+            letter-spacing: 0.02em;
+        }
+
+        /* Excitement scale */
+        .excite-row {
+            display: flex;
+            gap: 0.4rem;
+            justify-content: space-between;
+        }
+        .excite-btn {
+            flex: 1;
+            min-height: 44px;
+            background: rgba(242, 239, 233, 0.04);
+            border: 1px solid var(--vault-line);
+            color: var(--vault-paper);
+            font-family: inherit;
+            font-size: 1rem;
+            font-weight: 600;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            padding: 0.5rem;
+            position: relative;
+        }
+        .excite-btn:hover {
+            background: rgba(242, 239, 233, 0.08);
+            transform: translateY(-1px);
+        }
+        .excite-btn.active {
+            background: var(--vault-blood);
+            border-color: var(--vault-blood);
+            color: #fff;
+            box-shadow: 0 4px 12px rgba(179, 58, 58, 0.4);
+        }
+        .excite-btn .sub {
+            display: block;
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-weight: 400;
+            opacity: 0.7;
+            margin-top: 0.15rem;
+        }
+
+        /* Multi-select chips */
+        .chip-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+        }
+        .chip {
+            display: inline-block;
+            padding: 0.5rem 0.8rem;
+            font-size: 0.8rem;
+            background: rgba(242, 239, 233, 0.04);
+            border: 1px solid var(--vault-line);
+            border-radius: 999px;
+            cursor: pointer;
+            color: var(--vault-paper);
+            font-family: inherit;
+            transition: all 0.15s ease;
+            min-height: 36px;
+            line-height: 1.2;
+        }
+        .chip:hover {
+            background: rgba(242, 239, 233, 0.08);
+        }
+        .chip.active {
+            background: rgba(212, 175, 55, 0.15);
+            border-color: var(--vault-gold);
+            color: var(--vault-gold);
+        }
+
+        /* Radio chips (single-select) */
+        .radio-row {
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+        .radio-chip {
+            display: flex;
+            align-items: center;
+            padding: 0.7rem 0.9rem;
+            font-size: 0.85rem;
+            background: rgba(242, 239, 233, 0.04);
+            border: 1px solid var(--vault-line);
+            border-radius: 4px;
+            cursor: pointer;
+            color: var(--vault-paper);
+            font-family: inherit;
+            transition: all 0.15s ease;
+            min-height: 44px;
+            gap: 0.6rem;
+            text-align: left;
+        }
+        .radio-chip:hover { background: rgba(242, 239, 233, 0.08); }
+        .radio-chip.active {
+            background: rgba(179, 58, 58, 0.15);
+            border-color: var(--vault-blood);
+            color: var(--vault-paper);
+        }
+        .radio-chip .indicator {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            border: 1.5px solid var(--vault-muted);
+            flex-shrink: 0;
+            transition: all 0.15s ease;
+        }
+        .radio-chip.active .indicator {
+            border-color: var(--vault-blood);
+            background: var(--vault-blood);
+            box-shadow: inset 0 0 0 3px var(--vault-ink);
+        }
+
+        /* --- Nav bar --- */
+        .nav-bar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(14, 14, 16, 0.98);
+            border-top: 1px solid var(--vault-line);
+            padding: 0.75rem 1rem;
+            display: flex;
+            gap: 0.5rem;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 5;
+            backdrop-filter: blur(8px);
+        }
+        .nav-bar button {
+            min-height: 44px;
+            padding: 0.65rem 1.2rem;
+            font-family: inherit;
+            font-size: 0.85rem;
+            font-weight: 500;
+            border-radius: 4px;
+            cursor: pointer;
+            border: 1px solid var(--vault-line);
+            background: rgba(242, 239, 233, 0.04);
+            color: var(--vault-paper);
+            transition: all 0.15s ease;
+            letter-spacing: 0.02em;
+        }
+        .nav-bar button:hover:not(:disabled) {
+            background: rgba(242, 239, 233, 0.1);
+        }
+        .nav-bar button.primary {
+            background: var(--vault-blood);
+            border-color: var(--vault-blood);
+            color: #fff;
+            font-weight: 600;
+        }
+        .nav-bar button.primary:hover:not(:disabled) {
+            filter: brightness(1.1);
+        }
+        .nav-bar button:disabled {
+            opacity: 0.35;
+            cursor: not-allowed;
+        }
+        .nav-bar .nav-skip {
+            color: var(--vault-muted);
+            background: transparent;
+            border: none;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+        }
+        .nav-bar .nav-skip:hover { color: var(--vault-paper); background: transparent; }
+
+        /* --- Summary screen --- */
+        .summary {
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+        .summary h1 {
+            font-size: clamp(2rem, 6vw, 3rem);
+            margin: 0 0 0.5rem;
+        }
+        .summary h1 em { font-style: italic; color: var(--vault-blood); }
+        .summary p.lead {
+            color: rgba(242, 239, 233, 0.7);
+            font-size: 1rem;
+            max-width: 480px;
+            margin: 0 auto 2rem;
+        }
+        .summary .profile-block {
+            background: var(--vault-card);
+            border: 1px solid var(--vault-line);
+            border-radius: 6px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }
+        .summary .profile-block h3 {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: var(--vault-gold);
+            margin: 0 0 0.75rem;
+            font-family: 'Inter', sans-serif;
+            font-weight: 600;
+        }
+        .summary .profile-block .injection-text {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            line-height: 1.5;
+            font-size: 1rem;
+            color: var(--vault-paper);
+        }
+        .summary .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 0.75rem;
+            margin-top: 1rem;
+        }
+        .summary .stat-card {
+            background: rgba(0, 0, 0, 0.25);
+            border-radius: 4px;
+            padding: 0.75rem;
+            border: 1px solid var(--vault-line);
+        }
+        .summary .stat-card .stat-label {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--vault-muted);
+            margin-bottom: 0.3rem;
+        }
+        .summary .stat-card .stat-value {
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            color: var(--vault-paper);
+        }
+        .summary .actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            justify-content: center;
+            margin-top: 1.5rem;
+        }
+        .summary .actions button {
+            min-height: 44px;
+            padding: 0.75rem 1.5rem;
+            font-family: inherit;
+            font-size: 0.85rem;
+            font-weight: 600;
+            border-radius: 4px;
+            cursor: pointer;
+            border: 1px solid var(--vault-gold);
+            background: var(--vault-gold);
+            color: var(--vault-ink);
+            transition: all 0.15s ease;
+            letter-spacing: 0.02em;
+        }
+        .summary .actions button:hover {
+            filter: brightness(1.1);
+        }
+        .summary .actions button.secondary {
+            background: transparent;
+            color: var(--vault-paper);
+            border-color: var(--vault-line);
+        }
+        .summary .actions button.secondary:hover {
+            background: rgba(242, 239, 233, 0.06);
+        }
+        .summary .restart {
+            margin-top: 2rem;
+            font-size: 0.8rem;
+            color: var(--vault-muted);
+        }
+        .summary .restart a { color: var(--vault-muted); text-decoration: underline; }
+
+        /* --- Toast --- */
+        .toast {
+            position: fixed;
+            bottom: 5.5rem;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--vault-paper);
+            color: var(--vault-ink);
+            padding: 0.65rem 1.25rem;
+            border-radius: 999px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.25s ease, transform 0.25s ease;
+            z-index: 20;
+        }
+        .toast.show {
+            opacity: 1;
+            transform: translateX(-50%) translateY(-6px);
+        }
+
+        /* --- Mobile tweaks --- */
+        @media (max-width: 480px) {
+            main { padding: 1rem 0.85rem 6rem; }
+            .panel-stage { padding: 1rem; }
+            .panel-meta .manga-name { font-size: 1.1rem; }
+            .nav-bar button { padding: 0.55rem 0.9rem; font-size: 0.8rem; }
+            .excite-btn { font-size: 0.9rem; padding: 0.5rem 0.25rem; }
+            .excite-btn .sub { font-size: 0.5rem; }
+            .qgroup { padding: 0.85rem 0.9rem; }
+        }
+
+        .kbd-hint {
+            font-size: 0.7rem;
+            color: var(--vault-muted);
+            text-align: center;
+            margin-top: 1rem;
+            letter-spacing: 0.05em;
+        }
+        .kbd-hint kbd {
+            background: rgba(242, 239, 233, 0.08);
+            border: 1px solid var(--vault-line);
+            border-radius: 3px;
+            padding: 0.1rem 0.4rem;
+            font-family: ui-monospace, monospace;
+            font-size: 0.7rem;
+            color: var(--vault-paper);
+        }
+    </style>
+</head>
+<body>
+
+<header class="cal-header">
+    <span class="brand">Saturfun · Panel <em>Vault</em></span>
+    <span class="crumb"><a href="../manga.html">← Vault</a></span>
+</header>
+<div class="progress-wrap"><div class="progress-fill" id="progress"></div></div>
+
+<main id="main">
+    <!-- Populated by JS. Either the per-panel calibration card or the summary screen. -->
+</main>
+
+<div class="toast" id="toast">Saved</div>
+
+<script>
+// ────────────────────────────────────────────────────────────────────────────
+// Taste calibration wizard. Single-purpose page. Saves to localStorage.
+// Reads /manga/calibration-set.json. Produces a downloadable taste-profile.json
+// the user can drop into data/manga-corpus/ for the harvester to pick up.
+//
+// Storage shape (key 'saturfun.mangaTasteProfile.v1'):
+//   { version: 1, panelCount: number, calibratedAt: ISO, ratingsByPanelId: {...},
+//     aggregates: {...}, harvesterPromptInjection: string }
+// ────────────────────────────────────────────────────────────────────────────
+
+const STORAGE_KEY = 'saturfun.mangaTasteProfile.v1';
+const PULL_IN_OPTIONS = [
+    'composition', 'line quality', 'mood/atmosphere', 'character',
+    'action/dynamics', 'perspective', 'screentone', 'lighting',
+    'negative space', 'detail density',
+];
+const DRAWING_OPTIONS = [
+    { value: 'study-prime', label: 'Yes — prime study material' },
+    { value: 'both',        label: 'Both study and admire' },
+    { value: 'admire-only', label: 'Admire only — too complex / not my reach' },
+];
+const RARITY_OPTIONS = [
+    { value: 'familiar',     label: 'Familiar / iconic' },
+    { value: 'known-to-fans', label: 'Known to fans, not everyone' },
+    { value: 'rare-gem',     label: "Rare gem — didn't know it" },
+];
+const EXCITE_LABELS = ['Skip', 'Meh', 'OK', 'Good', 'Yes!'];
+
+// ----- State -------------------------------------------------------------
+let panels = [];
+let currentIdx = 0;
+let state = loadState();
+
+function loadState() {
+    try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (!raw) return blankState();
+        const parsed = JSON.parse(raw);
+        if (parsed && typeof parsed === 'object' && parsed.ratingsByPanelId) return parsed;
+    } catch (err) {
+        console.warn('[calibrate] corrupt state, resetting:', err);
+    }
+    return blankState();
+}
+function blankState() {
+    return {
+        version: 1,
+        startedAt: new Date().toISOString(),
+        ratingsByPanelId: {},
+    };
+}
+function saveState() {
+    try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    } catch (err) {
+        console.error('[calibrate] save failed:', err);
+    }
+}
+
+// ----- Boot --------------------------------------------------------------
+(async function boot() {
+    try {
+        const res = await fetch('calibration-set.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        panels = await res.json();
+    } catch (err) {
+        document.getElementById('main').innerHTML = `
+            <div style="text-align:center;padding:4rem 1rem;color:#B33A3A;">
+                <h2 style="font-family:'Playfair Display',serif;">Couldn't load calibration set.</h2>
+                <p style="color:#5A5A5A;font-size:0.85rem;">${escapeHtml(err.message || String(err))}</p>
+            </div>`;
+        return;
+    }
+    // Resume at the first unrated panel, or stay at 0 if everything was rated.
+    const firstUnrated = panels.findIndex(p => !state.ratingsByPanelId[p.id]?.completed);
+    currentIdx = firstUnrated >= 0 ? firstUnrated : panels.length;
+    render();
+    bindKeyboard();
+})();
+
+// ----- Render dispatcher ------------------------------------------------
+function render() {
+    updateProgress();
+    if (currentIdx >= panels.length) {
+        renderSummary();
+    } else {
+        renderPanel(panels[currentIdx]);
+    }
+}
+
+function updateProgress() {
+    const total = panels.length || 1;
+    const completed = Object.values(state.ratingsByPanelId).filter(r => r.completed).length;
+    const pct = Math.round((completed / total) * 100);
+    document.getElementById('progress').style.width = pct + '%';
+}
+
+// ----- Per-panel screen -------------------------------------------------
+function renderPanel(panel) {
+    const rating = state.ratingsByPanelId[panel.id] || {
+        excitement: null, pulledInBy: [], drawing: null, rarity: null,
+    };
+    const main = document.getElementById('main');
+
+    main.innerHTML = `
+        <p class="panel-count">Panel <strong>${currentIdx + 1}</strong> of <strong>${panels.length}</strong></p>
+
+        <div class="panel-stage">
+            <div class="panel-imgwrap">
+                <span class="img-spinner">Loading…</span>
+                <img id="panel-img" class="loading"
+                     alt="${escapeHtml(panel.manga)} — ${escapeHtml(panel.artist)}">
+            </div>
+            <div class="panel-meta">
+                <p class="manga-name">${escapeHtml(panel.manga)}</p>
+                <p class="artist">${escapeHtml(panel.artist)}</p>
+                ${panel.panelHint ? `<p class="panel-hint">${escapeHtml(panel.panelHint)}</p>` : ''}
+                <span class="tier-pill">${escapeHtml(tierLabel(panel.tier))}</span>
+            </div>
+        </div>
+
+        <div class="qgroup">
+            <p class="qlabel">How excited are you?</p>
+            <p class="qhint">1 = skip · 5 = yes please. Keyboard: <kbd>1</kbd>–<kbd>5</kbd>.</p>
+            <div class="excite-row" id="excite-row" role="radiogroup" aria-label="Excitement level">
+                ${[1,2,3,4,5].map(n => `
+                    <button class="excite-btn ${rating.excitement === n ? 'active' : ''}"
+                            data-excite="${n}" role="radio" aria-checked="${rating.excitement === n}">
+                        ${n}<span class="sub">${EXCITE_LABELS[n-1]}</span>
+                    </button>`).join('')}
+            </div>
+        </div>
+
+        <div class="qgroup">
+            <p class="qlabel">What pulls you in?</p>
+            <p class="qhint">Pick any number. Helps the harvester learn what to look for.</p>
+            <div class="chip-row" id="chip-row">
+                ${PULL_IN_OPTIONS.map(opt => `
+                    <button class="chip ${rating.pulledInBy.includes(opt) ? 'active' : ''}"
+                            data-chip="${escapeAttr(opt)}">${escapeHtml(opt)}</button>`).join('')}
+            </div>
+        </div>
+
+        <div class="qgroup">
+            <p class="qlabel">For drawing practice?</p>
+            <div class="radio-row" id="drawing-row">
+                ${DRAWING_OPTIONS.map(opt => `
+                    <button class="radio-chip ${rating.drawing === opt.value ? 'active' : ''}"
+                            data-drawing="${escapeAttr(opt.value)}">
+                        <span class="indicator"></span><span>${escapeHtml(opt.label)}</span>
+                    </button>`).join('')}
+            </div>
+        </div>
+
+        <div class="qgroup">
+            <p class="qlabel">Rarity (to your eye)?</p>
+            <div class="radio-row" id="rarity-row">
+                ${RARITY_OPTIONS.map(opt => `
+                    <button class="radio-chip ${rating.rarity === opt.value ? 'active' : ''}"
+                            data-rarity="${escapeAttr(opt.value)}">
+                        <span class="indicator"></span><span>${escapeHtml(opt.label)}</span>
+                    </button>`).join('')}
+            </div>
+        </div>
+
+        <p class="kbd-hint">Navigate: <kbd>←</kbd> back · <kbd>→</kbd> next · <kbd>S</kbd> skip</p>
+    `;
+
+    // Inject the nav bar (overwrite any prior one).
+    let nav = document.getElementById('nav-bar');
+    if (!nav) {
+        nav = document.createElement('div');
+        nav.id = 'nav-bar';
+        nav.className = 'nav-bar';
+        document.body.appendChild(nav);
+    }
+    nav.style.display = 'flex';
+    nav.innerHTML = `
+        <button id="btn-prev" ${currentIdx === 0 ? 'disabled' : ''}>← Prev</button>
+        <button class="nav-skip" id="btn-skip">Skip</button>
+        <button class="primary" id="btn-next">Next →</button>
+    `;
+
+    // Load the image (handle failure with a graceful fallback).
+    const img = document.getElementById('panel-img');
+    const spinner = main.querySelector('.img-spinner');
+    img.onload = () => {
+        img.classList.remove('loading');
+        if (spinner) spinner.style.display = 'none';
+    };
+    img.onerror = () => {
+        if (spinner) spinner.remove();
+        const wrap = main.querySelector('.panel-imgwrap');
+        if (wrap) {
+            wrap.innerHTML = `<div class="img-fail">Couldn't load this panel image.<br>Rate based on description, or skip.</div>`;
+        }
+    };
+    img.src = panel.imageUrl;
+
+    // Wire interactions.
+    wirePanel(panel);
+}
+
+function wirePanel(panel) {
+    const ensureRating = () => {
+        if (!state.ratingsByPanelId[panel.id]) {
+            state.ratingsByPanelId[panel.id] = {
+                excitement: null, pulledInBy: [], drawing: null, rarity: null,
+            };
+        }
+        return state.ratingsByPanelId[panel.id];
+    };
+    const markCompleted = () => {
+        const r = ensureRating();
+        r.completed = r.excitement != null;
+        r.lastUpdatedAt = new Date().toISOString();
+    };
+
+    document.getElementById('excite-row').addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-excite]');
+        if (!btn) return;
+        const n = parseInt(btn.dataset.excite, 10);
+        const r = ensureRating();
+        r.excitement = n;
+        markCompleted();
+        saveState();
+        updateProgress();
+        toast('Saved');
+        // Refresh row state without full re-render.
+        document.querySelectorAll('#excite-row .excite-btn').forEach((b) => {
+            const isActive = parseInt(b.dataset.excite, 10) === n;
+            b.classList.toggle('active', isActive);
+            b.setAttribute('aria-checked', isActive);
+        });
+    });
+
+    document.getElementById('chip-row').addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-chip]');
+        if (!btn) return;
+        const opt = btn.dataset.chip;
+        const r = ensureRating();
+        if (r.pulledInBy.includes(opt)) {
+            r.pulledInBy = r.pulledInBy.filter((x) => x !== opt);
+        } else {
+            r.pulledInBy = [...r.pulledInBy, opt];
+        }
+        markCompleted();
+        saveState();
+        btn.classList.toggle('active');
+    });
+
+    document.getElementById('drawing-row').addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-drawing]');
+        if (!btn) return;
+        const r = ensureRating();
+        r.drawing = btn.dataset.drawing;
+        markCompleted();
+        saveState();
+        document.querySelectorAll('#drawing-row .radio-chip').forEach((b) => {
+            b.classList.toggle('active', b.dataset.drawing === r.drawing);
+        });
+    });
+
+    document.getElementById('rarity-row').addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-rarity]');
+        if (!btn) return;
+        const r = ensureRating();
+        r.rarity = btn.dataset.rarity;
+        markCompleted();
+        saveState();
+        document.querySelectorAll('#rarity-row .radio-chip').forEach((b) => {
+            b.classList.toggle('active', b.dataset.rarity === r.rarity);
+        });
+    });
+
+    document.getElementById('btn-prev').addEventListener('click', () => navTo(currentIdx - 1));
+    document.getElementById('btn-next').addEventListener('click', () => navTo(currentIdx + 1));
+    document.getElementById('btn-skip').addEventListener('click', () => {
+        // Skip records an explicit "not rated, skipped" state.
+        const r = ensureRating();
+        r.skipped = true;
+        r.completed = false;
+        r.lastUpdatedAt = new Date().toISOString();
+        saveState();
+        navTo(currentIdx + 1);
+    });
+}
+
+function navTo(idx) {
+    currentIdx = Math.max(0, Math.min(panels.length, idx));
+    render();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ----- Summary screen ---------------------------------------------------
+function renderSummary() {
+    const nav = document.getElementById('nav-bar');
+    if (nav) nav.style.display = 'none';
+
+    const profile = computeProfile();
+    state.aggregates = profile.aggregates;
+    state.harvesterPromptInjection = profile.harvesterPromptInjection;
+    state.panelCount = panels.length;
+    state.calibratedAt = new Date().toISOString();
+    saveState();
+
+    const rated = Object.values(state.ratingsByPanelId).filter(r => r.completed).length;
+    const skipped = Object.values(state.ratingsByPanelId).filter(r => r.skipped && !r.completed).length;
+
+    const main = document.getElementById('main');
+    main.innerHTML = `
+        <div class="summary">
+            <h1>Your taste, <em>archived.</em></h1>
+            <p class="lead">
+                ${rated} of ${panels.length} panels calibrated${skipped ? `, ${skipped} skipped` : ''}.
+                The harvester will use this profile as a preamble on every discovery run.
+            </p>
+
+            <div class="profile-block">
+                <h3>Harvester preamble</h3>
+                <div class="injection-text">${escapeHtml(profile.harvesterPromptInjection)}</div>
+            </div>
+
+            <div class="profile-block">
+                <h3>Aggregates</h3>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-label">Rarity lean</div>
+                        <div class="stat-value">${escapeHtml(profile.aggregates.rarityPreference)}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Drawing orientation</div>
+                        <div class="stat-value">${escapeHtml(profile.aggregates.drawingOrientation)}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Top tier</div>
+                        <div class="stat-value">${escapeHtml(profile.aggregates.topTier || '—')}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Top pull-ins</div>
+                        <div class="stat-value">${escapeHtml((profile.aggregates.preferredPullIns || []).slice(0, 3).join(', ') || '—')}</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="profile-block">
+                <h3>Top 5 panels by excitement</h3>
+                <ol style="margin:0;padding-left:1.2rem;color:var(--vault-paper);font-size:0.9rem;line-height:1.7;">
+                    ${(profile.aggregates.topExcitedPanels || []).slice(0, 5).map(p => `
+                        <li><strong>${escapeHtml(p.manga)}</strong> · ${escapeHtml(p.artist)}
+                            <span style="color:var(--vault-muted);font-size:0.78rem;">(excitement ${p.excitement} · ${escapeHtml(p.tier)})</span></li>
+                    `).join('') || '<li style="color:var(--vault-muted);font-style:italic;">No high-excitement panels yet.</li>'}
+                </ol>
+            </div>
+
+            <div class="actions">
+                <button id="btn-download">Download taste-profile.json</button>
+                <button class="secondary" id="btn-copy">Copy profile to clipboard</button>
+            </div>
+
+            <p class="restart">
+                Taste evolves. <a href="#" id="btn-restart">Restart calibration</a> ·
+                <a href="../manga.html">Back to the Vault</a>
+            </p>
+        </div>
+    `;
+
+    document.getElementById('btn-download').addEventListener('click', downloadProfile);
+    document.getElementById('btn-copy').addEventListener('click', copyProfile);
+    document.getElementById('btn-restart').addEventListener('click', (e) => {
+        e.preventDefault();
+        if (!confirm('Reset all ratings and start over? This cannot be undone.')) return;
+        state = blankState();
+        saveState();
+        currentIdx = 0;
+        render();
+    });
+}
+
+// ----- Profile computation ----------------------------------------------
+function computeProfile() {
+    const ratings = panels.map(p => ({
+        panel: p,
+        rating: state.ratingsByPanelId[p.id],
+    })).filter(r => r.rating && r.rating.completed);
+
+    // Aggregate counters
+    const tierTotals = {}; // tier -> { sum, count }
+    const pullInCounts = {};
+    const drawingCounts = { 'study-prime': 0, both: 0, 'admire-only': 0 };
+    const rarityCounts = { familiar: 0, 'known-to-fans': 0, 'rare-gem': 0 };
+
+    for (const { panel, rating } of ratings) {
+        const tier = panel.tier || 'unknown';
+        if (!tierTotals[tier]) tierTotals[tier] = { sum: 0, count: 0 };
+        tierTotals[tier].sum += rating.excitement || 0;
+        tierTotals[tier].count += 1;
+        for (const p of (rating.pulledInBy || [])) {
+            pullInCounts[p] = (pullInCounts[p] || 0) + 1;
+        }
+        if (rating.drawing && drawingCounts[rating.drawing] != null) drawingCounts[rating.drawing] += 1;
+        if (rating.rarity && rarityCounts[rating.rarity] != null) rarityCounts[rating.rarity] += 1;
+    }
+
+    const tierEnthusiasm = {};
+    for (const [tier, { sum, count }] of Object.entries(tierTotals)) {
+        tierEnthusiasm[tier] = count > 0 ? +(sum / count).toFixed(2) : 0;
+    }
+    const tierEntries = Object.entries(tierEnthusiasm).sort((a, b) => b[1] - a[1]);
+    const topTier = tierEntries[0]?.[0] || null;
+
+    const preferredPullIns = Object.entries(pullInCounts)
+        .sort((a, b) => b[1] - a[1])
+        .map(([name]) => name);
+
+    const topExcitedPanels = ratings
+        .filter(r => (r.rating.excitement || 0) >= 4)
+        .sort((a, b) => (b.rating.excitement || 0) - (a.rating.excitement || 0))
+        .slice(0, 8)
+        .map(({ panel, rating }) => ({
+            id: panel.id,
+            manga: panel.manga,
+            artist: panel.artist,
+            tier: panel.tier,
+            excitement: rating.excitement,
+        }));
+
+    // Drawing orientation
+    const totalDrawing = drawingCounts['study-prime'] + drawingCounts.both + drawingCounts['admire-only'];
+    let drawingOrientation = 'balanced';
+    if (totalDrawing > 0) {
+        const studyShare = (drawingCounts['study-prime'] + drawingCounts.both * 0.5) / totalDrawing;
+        if (studyShare > 0.6) drawingOrientation = 'drawing-focused';
+        else if (studyShare < 0.35) drawingOrientation = 'admire-focused';
+    }
+
+    // Rarity preference
+    let rarityPreference = 'balanced';
+    const totalRarity = rarityCounts.familiar + rarityCounts['known-to-fans'] + rarityCounts['rare-gem'];
+    if (totalRarity > 0) {
+        const rareShare = (rarityCounts['rare-gem'] + rarityCounts['known-to-fans'] * 0.5) / totalRarity;
+        if (rareShare > 0.6) rarityPreference = 'leans rare';
+        else if (rareShare < 0.35) rarityPreference = 'leans familiar';
+    }
+
+    const aggregates = {
+        ratedCount: ratings.length,
+        tierEnthusiasm,
+        topTier,
+        preferredPullIns,
+        topExcitedPanels,
+        drawingOrientation,
+        rarityPreference,
+        pullInCounts,
+        drawingCounts,
+        rarityCounts,
+    };
+
+    const harvesterPromptInjection = composeInjection(aggregates, ratings);
+
+    return { aggregates, harvesterPromptInjection };
+}
+
+function composeInjection(agg, ratings) {
+    const lines = [];
+    lines.push('READER TASTE PROFILE (use as bias when picking panels to surface):');
+
+    // Tier preference
+    if (agg.topTier) {
+        const tierMap = {
+            'famous': 'iconic, widely-known panels',
+            'well-known': 'mid-tier well-known panels (known to fans, not omnipresent)',
+            'deep-cut': 'deep cuts from famous artists',
+            'lesser-known': 'lesser-known artists worth knowing',
+        };
+        lines.push(`• Strongest enthusiasm for: ${tierMap[agg.topTier] || agg.topTier}.`);
+    }
+
+    // Pull-ins
+    if (agg.preferredPullIns?.length) {
+        lines.push(`• What pulls them in (in order): ${agg.preferredPullIns.slice(0, 5).join(', ')}.`);
+    }
+
+    // Rarity
+    lines.push(`• Rarity preference: ${agg.rarityPreference}.`);
+
+    // Drawing orientation
+    if (agg.drawingOrientation === 'drawing-focused') {
+        lines.push('• Strongly drawing-focused — prioritize panels viable for a 10-minute pencil study (clear forms, comprehensible composition, not impossibly dense).');
+    } else if (agg.drawingOrientation === 'admire-focused') {
+        lines.push('• Admire-focused — extreme complexity and density welcome even when unreproducible in 10 minutes.');
+    } else {
+        lines.push('• Balanced between drawable study material and admire-only spectacle.');
+    }
+
+    // Top hits as exemplars
+    if (agg.topExcitedPanels?.length) {
+        const top3 = agg.topExcitedPanels.slice(0, 3);
+        lines.push(`• Highest-excitement exemplars: ${top3.map(p => `${p.manga} (${p.artist})`).join('; ')}.`);
+    }
+
+    // Closing directive
+    lines.push('Use this to bias which artists, tiers, and craft axes you surface. Avoid the "popular shonen catalog" trap unless the famous tier scored highest.');
+
+    return lines.join(' ');
+}
+
+// ----- Export -----------------------------------------------------------
+function downloadProfile() {
+    const payload = {
+        version: 1,
+        calibratedAt: state.calibratedAt || new Date().toISOString(),
+        panelCount: panels.length,
+        ratingsByPanelId: state.ratingsByPanelId,
+        aggregates: state.aggregates,
+        harvesterPromptInjection: state.harvesterPromptInjection,
+    };
+    const blob = new Blob([JSON.stringify(payload, null, 2) + '\n'], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'taste-profile.json';
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => { document.body.removeChild(a); URL.revokeObjectURL(url); }, 100);
+    toast('Downloaded taste-profile.json');
+}
+
+async function copyProfile() {
+    const payload = {
+        version: 1,
+        calibratedAt: state.calibratedAt || new Date().toISOString(),
+        panelCount: panels.length,
+        ratingsByPanelId: state.ratingsByPanelId,
+        aggregates: state.aggregates,
+        harvesterPromptInjection: state.harvesterPromptInjection,
+    };
+    const text = JSON.stringify(payload, null, 2);
+    try {
+        await navigator.clipboard.writeText(text);
+        toast('Profile copied');
+    } catch (err) {
+        // Fallback for non-secure or unsupported contexts.
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        ta.style.position = 'fixed'; ta.style.opacity = '0';
+        document.body.appendChild(ta); ta.select();
+        try { document.execCommand('copy'); toast('Profile copied'); }
+        catch { toast('Copy failed — use download'); }
+        document.body.removeChild(ta);
+    }
+}
+
+// ----- Keyboard ---------------------------------------------------------
+function bindKeyboard() {
+    document.addEventListener('keydown', (e) => {
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+        if (currentIdx >= panels.length) return;
+        if (e.key === 'ArrowLeft') { e.preventDefault(); navTo(currentIdx - 1); return; }
+        if (e.key === 'ArrowRight') { e.preventDefault(); navTo(currentIdx + 1); return; }
+        if (e.key === 's' || e.key === 'S') {
+            const skip = document.getElementById('btn-skip');
+            if (skip) skip.click();
+            return;
+        }
+        if (['1','2','3','4','5'].includes(e.key)) {
+            const btn = document.querySelector(`[data-excite="${e.key}"]`);
+            if (btn) btn.click();
+        }
+    });
+}
+
+// ----- Helpers ----------------------------------------------------------
+function escapeHtml(s) {
+    return String(s ?? '').replace(/[&<>"']/g, (c) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+    }[c]));
+}
+function escapeAttr(s) { return escapeHtml(s); }
+function tierLabel(tier) {
+    return ({
+        'famous': 'Famous / iconic',
+        'well-known': 'Well-known',
+        'deep-cut': 'Deep cut',
+        'lesser-known': 'Lesser-known',
+    })[tier] || tier || '—';
+}
+
+let toastTimer = null;
+function toast(msg) {
+    const t = document.getElementById('toast');
+    if (!t) return;
+    t.textContent = msg;
+    t.classList.add('show');
+    if (toastTimer) clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => t.classList.remove('show'), 1400);
+}
+</script>
+
+</body>
+</html>

@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Kaiser Tiger / Lan Zhou Handmade Noodle 8th Ave",
-    "reason": "Cheap-eats density on 8th Ave is the unique angle of this zone; one more entry locks in a 3-stop food crawl option for the IC cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:17:39.029Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace dim sum (714 65th St, Sunset Park)",
-    "reason": "The other big Sunset Park cart-style dim sum hall — natural A/B alternative on the same morning loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:20:11.474Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden (5121 8th Ave, Sunset Park)",
-    "reason": "Yunnan rice noodles round out the 8th Ave Chinatown cluster with a non-Cantonese counterpoint",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:20:11.474Z"
-  },
-  {
-    "topic": "Yi Ji Shi Mo Tofu (5223 8th Ave, Sunset Park) — fresh stone-ground tofu pudding and soy milk",
-    "reason": "Same 8th Ave Chinatown corridor cheap-eats cluster; rounds out a dumpling+tofu crawl 10 min from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:22:25.862Z"
-  },
-  {
-    "topic": "Lan Zhou Hand Pull Noodles (4920 8th Ave) — beef noodle soup hand-pulled to order",
-    "reason": "Across-the-street complement to Kai Feng Fu; lets a cluster carry dumplings + noodles + tofu without driving",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:22:25.862Z"
-  },
-  {
     "topic": "East Harbor Seafood Palace (714 65th St) — old-school weekend dim sum cart service",
     "reason": "Sunset Park's anchor sit-down option for a different mood — pairs well as a 'go bigger' upgrade slot in the same zone",
     "requestedBy": "agent",
@@ -7618,5 +7588,95 @@
     "reason": "Classic Cantonese roast-meats counter directly across from Yun Nan, rounds out a savory crawl",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T04:00:09.634Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden (5121 8th Ave, Brooklyn) — Yunnan-style cold noodles and rice-noodle soups",
+    "reason": "Adds a second regional Chinese cuisine to the 8th Ave crawl so the 3-stop option doesn't repeat Lanzhou noodles",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:03:01.517Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace (714 65th St, Brooklyn) — weekend cart dim sum",
+    "reason": "Anchors the 8th Ave crawl with a proper sit-down dim sum stop within 2 blocks of Lan Zhou for a multi-vibe afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:03:01.517Z"
+  },
+  {
+    "topic": "Tiger Sugar 5903 8th Ave Brooklyn — brown sugar boba dessert stop",
+    "reason": "Closes the crawl with the third stop (sweet) and confirms whether the prompt's 'Kaiser Tiger' was actually pointing at Tiger Sugar",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:03:01.517Z"
+  },
+  {
+    "topic": "Pacificana dim sum (813 55th St, Sunset Park) — cart-style alternative on 8th Ave Chinatown",
+    "reason": "Direct A/B with East Harbor on the same morning loop; lets the itinerary offer two cart-hall options 6-8 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:04:59.951Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House (4801 8th Ave, Sunset Park) — $1 boiled dumpling counter for grab-and-go",
+    "reason": "Cheap, fast counterpoint to a sit-down dim sum stop; pairs as a 'walk it off' second bite in the Sunset Park cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:04:59.951Z"
+  },
+  {
+    "topic": "Ho Brah Taqueria or Industry City food hall coffee — post-dim-sum espresso back at IC anchor",
+    "reason": "Closes the morning loop by returning to IC for caffeine/dessert before the afternoon track begins",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:04:59.951Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House (4801 8th Ave, Sunset Park)",
+    "reason": "$1-tier pork-and-chive dumplings two blocks south — completes a cheap-eats 8th Ave crawl with Yun Nan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:06:54.459Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace (714 65th St, Sunset Park)",
+    "reason": "Cart-style dim sum anchor of 8th Ave Chinatown; pairs as weekend brunch counterpart to Yun Nan's dinner-leaning noodle bowls",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:06:54.459Z"
+  },
+  {
+    "topic": "Lan Zhou Handmade Noodle (5924 8th Ave, Sunset Park)",
+    "reason": "Hand-pulled lamian comparison point to Yun Nan's rice noodles within the same driving cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:06:54.459Z"
+  },
+  {
+    "topic": "King's Kitchen — 5223 8th Ave, Sunset Park (Cantonese roasts, congee, dim sum)",
+    "reason": "The actual venue at the seed address; legit cheap-eats anchor on the 8th Ave crawl, soy-sauce chicken and BBQ ribs cluster with the tofu stall",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:09:58.363Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House — 4801 8th Ave, Sunset Park (boiled pork+chive dumplings)",
+    "reason": "Iconic $0.25/dumpling stop two blocks from Tofu Stall; completes the dumpling+tofu crawl premise in the seed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:09:58.364Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden — 5121 8th Ave, Sunset Park (Yunnan rice noodles, fried potato)",
+    "reason": "Regional Yunnan option on the same corridor; broadens the cluster beyond Cantonese/Fujianese defaults",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:09:58.364Z"
+  },
+  {
+    "topic": "Dun Huang Sunset Park (817 60th St) — Lanzhou hand-pulled beef noodles",
+    "reason": "Consensus best-in-class Lanzhou hand-pulled in Brooklyn per The Infatuation + MTA Away; bigger menu (cumin lamb skewers, Xinjiang dishes) makes it a stronger destination if the cluster centers on noodles rather than dumplings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:14:42.601Z"
+  },
+  {
+    "topic": "Hainan Chicken House (4807 8th Ave) — Hainanese poached chicken & rice",
+    "reason": "Literally next door to Kai Feng Fu (4801 8th Ave), so it extends the same parking spot into a three-stop walking cluster of dumplings + noodles + Hainan chicken without re-driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:14:42.601Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden (5121 8th Ave) — crossing-the-bridge rice noodles",
+    "reason": "Different noodle tradition (Yunnan, not Lanzhou) and an underrepresented regional cuisine; fills a 'curious foodie' slot in the Sunset Park cluster between Kai Feng Fu and Wong Wong",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:14:42.601Z"
   }
 ]
