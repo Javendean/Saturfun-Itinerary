@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Ops Pizza Bushwick — natural-wine sourdough pizza dinner option",
-    "reason": "Anchors a Bushwick evening track after the morning bakery stop; weekend dinner gap in current corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:36:38.291Z"
-  },
-  {
-    "topic": "Mil Mundos Books Bushwick — bilingual indie bookstore browse",
-    "reason": "Quiet 30-min curious/chill slot to space out Bushwick food stops; underrepresented bookstore vibe in itinerary",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:36:38.291Z"
-  },
-  {
-    "topic": "Patisserie Tomoko Williamsburg Japanese-French dessert bar",
-    "reason": "Genuine Brooklyn Asian-fusion dessert match — Japanese-French pastry/dessert bar on Union Ave with mochi, matcha pastries, plated desserts; fills the actual Brooklyn-zone gap Spot Dessert Bar can't",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:40:15.499Z"
-  },
-  {
-    "topic": "Nem's Japandi Bistro Williamsburg late-night matcha desserts",
-    "reason": "Japandi (Japanese-Scandinavian) cuisine with mochi, matcha, sake bar — late-night Asian-fusion dessert + drink option directly in Williamsburg cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:40:15.499Z"
-  },
-  {
-    "topic": "Cafe Kestrel or other Brooklyn matcha/wagashi late-night dessert spot",
-    "reason": "Round out Brooklyn-side Asian-dessert coverage so itineraries don't force a Manhattan crossing for every Asian-flavor sweet stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:40:15.499Z"
-  },
-  {
     "topic": "Soft Swerve NYC Lower East Side ube/matcha soft serve weekend hours",
     "reason": "Direct Asian-flavor soft-serve alternative — ube/black-sesame/matcha, similar Chinatown-flavor niche, closer Manhattan stop",
     "requestedBy": "agent",
@@ -12286,5 +12256,95 @@
     "reason": "Complements Variety with a fuller brunch-plate option in the same Bushwick cluster, useful when a track needs a sit-down coffee+food stop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T19:11:12.036Z"
+  },
+  {
+    "topic": "Roberta's Bushwick — wood-fired pizza dinner alternative",
+    "reason": "Classic Bushwick pizza anchor with backyard/Blanca pairing; rounds out the corpus when Ops is booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:13:14.500Z"
+  },
+  {
+    "topic": "Leo Brooklyn (Williamsburg) — natural-wine sourdough pizza",
+    "reason": "Sister-in-spirit to Ops, fills a Williamsburg dinner slot 12 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:13:14.500Z"
+  },
+  {
+    "topic": "Bar Bayeux Prospect-Lefferts — natural wine bar with light food",
+    "reason": "Late-night natural-wine option for after-dinner second stop within driving radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:13:14.500Z"
+  },
+  {
+    "topic": "Better Read Than Dead — anarchist/used bookstore Bushwick",
+    "reason": "Another underrepresented Bushwick bookstore vibe; pairs as alternate curious/chill stop if Mil Mundos hours don't line up",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:15:14.221Z"
+  },
+  {
+    "topic": "Topos Bookstore Cafe Ridgewood (Queens border)",
+    "reason": "5-min drive from Mil Mundos; bookstore+coffee combo extends the chill-curious cluster across the Bushwick/Ridgewood line",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:15:14.221Z"
+  },
+  {
+    "topic": "Molasses Books Bushwick — used books + beer/coffee",
+    "reason": "Adjacent bookstore-bar concept that fits Bushwick chill slot; weekend evening overlap with food stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:15:14.221Z"
+  },
+  {
+    "topic": "Bonbon Bakery Williamsburg Korean cream pastries Bedford Ave",
+    "reason": "Adjacent Asian-fusion bakery in same Williamsburg cluster — pairs naturally with a Tomoko stop on a dessert-crawl track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:17:12.335Z"
+  },
+  {
+    "topic": "Cafe Kitsune Brooklyn matcha-forward Japanese cafe Williamsburg",
+    "reason": "Companion daytime Japanese cafe option for the same neighborhood cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:17:12.335Z"
+  },
+  {
+    "topic": "Lysee Korean patisserie Manhattan day-trip justification",
+    "reason": "Cross-reference to test whether any Manhattan Asian-fusion pastry venue is truly worth the drive vs Tomoko in-zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:17:12.335Z"
+  },
+  {
+    "topic": "Koi Bā speakeasy Williamsburg standalone late-night cocktails",
+    "reason": "The upstairs bar deserves its own corpus entry as a midnight-close anchor — different vibe (dim red lighting, koi sculpture) than the bistro and worth a separate slot in late-night tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:19:28.403Z"
+  },
+  {
+    "topic": "Bessou East Village vs Williamsburg Japandi-style late-night dessert competitor",
+    "reason": "Closest tonal sibling to Nem's matcha-dessert positioning; useful comparison for ranking the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:19:28.403Z"
+  },
+  {
+    "topic": "Wythe Hotel garage parking N 6th St Williamsburg weekend rates",
+    "reason": "Operational dependency for any N 6th St venue in the driving-radius corpus — once-research, reuse across many entries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:19:28.403Z"
+  },
+  {
+    "topic": "Patisserie Tomoko (568 Union Ave, Williamsburg) — French-Japanese patisserie with wagashi-influenced desserts",
+    "reason": "Fills a higher-end Japanese-pastry slot near Nippon Cha; pairs naturally with a Williamsburg track and balances casual soft-serve with a sit-down dessert option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:21:58.532Z"
+  },
+  {
+    "topic": "Kijitora Williamsburg (578 Driggs Ave / 309 Graham Ave) — cat-themed Japanese matcha cafe",
+    "reason": "Daytime alternative for matcha-forward Brooklyn coverage; closes 18:00-19:00 so complements Nippon Cha for afternoon vs late-night routing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:21:58.532Z"
+  },
+  {
+    "topic": "UnD (141 India St, Greenpoint) — authentic Uji matcha + Japanese sandwich bakery",
+    "reason": "Extends Brooklyn Asian-dessert coverage into Greenpoint with a morning/afternoon anchor; uses ceremonial-grade matcha for lattes and adds a savory Japanese sando option the others lack",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:21:58.532Z"
   }
 ]

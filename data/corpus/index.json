@@ -14788,46 +14788,43 @@
   {
     "id": "patisserie-tomoko",
     "name": "Patisserie Tomoko",
-    "desc": "Japanese-French dessert bar in Williamsburg; signature Mont Blanc and chestnut tarts with sake pairings.",
-    "longDesc": "Chef-driven patisserie blending French technique with Japanese restraint — Mont Blanc, chestnut tart, and a rotating three-course dessert flight with wine or sake pairing ($28-29.50). Dual-mode: take-out counter for ~$3 individual pastries, or sit-down dessert bar in back. Closest match in the IC sweet-stop universe since no Mont Blanc specialist exists in Sunset Park itself.",
+    "desc": "Japanese-French dessert bar in Williamsburg with a three-course plated flight + sake pairings",
+    "longDesc": "A tiny Union Ave patisserie that splits into a takeout counter (mango macarons, pistachio biscuits, matcha-leaning pastries) and a 6-seat dessert bar where chef Tomoko Kato plates a three-course tasting flight you can pair with wine or sake. Weekend afternoons are the sweet spot — open until 8pm Fri/Sat — and street parking around McCarren Park is workable. Genuine Brooklyn-zone Asian-fusion dessert match that fills the gap Manhattan's Spot Dessert Bar can't.",
     "url": "https://patisserietomoko.com/",
-    "photoUrl": "",
+    "photoUrl": "https://patisserietomoko.com/wp-content/uploads/2013/09/homepage_31.jpg",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "foodie",
-      "romantic"
+      "romantic",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-18:00",
-    "notes": "568 Union Ave, Brooklyn NY 11211. Mont Blanc is a recurring three-course feature (per Yelp/Tripadvisor reviews). Closed Mondays. Street parking on Union/Metropolitan; weekend metered. Sake pairing option distinguishes it from purely-French patisseries. Original queue topic 'Mont Blanc Patisserie Industry City' resolves here — no Mont Blanc specialist exists at IC proper; Tomoko is the canonical Brooklyn answer (sources).",
+    "duration": "45-75 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 12:00-20:00; Sun 12:00-18:00",
+    "notes": "568 Union Ave, Williamsburg; closed Mondays (patisserietomoko.com). Dessert bar features a three-course flight with wine/sake pairing option (yelp.com). Signature: mango macarons, pistachio biscuits, custom cakes (patisserietomoko.com). Takeout counter is separate from the bar — walk-ins for the seated flight are limited, call ahead 718-388-7121.",
     "sources": [
       {
         "url": "https://patisserietomoko.com/",
-        "accessed": "2026-05-17T13:30:00Z"
+        "accessed": "2026-05-17T19:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/patisserie-tomoko-brooklyn-2",
-        "accessed": "2026-05-17T13:30:00Z"
+        "accessed": "2026-05-17T19:15:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/restaurants/patisserie-tomoko",
-        "accessed": "2026-05-17T13:30:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d6619802-Reviews-Patisserie_Tomoko-New_York_City_New_York.html",
-        "accessed": "2026-05-17T13:30:00Z"
+        "url": "https://www.nabimag.com/munchies/7vldaigea0ygrphkll0em4qn6aykoo",
+        "accessed": "2026-05-17T19:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T13:35:34.984Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:17:12.310Z"
   },
   {
     "id": "fan-fan-doughnuts",
@@ -21630,9 +21627,9 @@
   },
   {
     "id": "nippon-cha-williamsburg",
-    "name": "Nippon Cha (Williamsburg)",
-    "desc": "Japanese tea bar on Bedford Ave — ceremonial matcha, hojicha, and a signature matcha tiramisu.",
-    "longDesc": "Williamsburg outpost of a Japanese tea house sourcing ceremonial-grade matcha and hojicha from Ujien Seicha in Japan. Best known for its $11 matcha tiramisu (layered green matcha cream and moist cake) and Kuro Mitsu matcha latte. Calm minimalist interior, English-friendly staff, open until 10pm Friday–Sunday — one of the few matcha-forward Brooklyn cafes still pouring late.",
+    "name": "Nippon Cha Williamsburg",
+    "desc": "Japanese tea bar with matcha soft serve, parfaits, tiramisu & brownies — open till 10pm on weekends.",
+    "longDesc": "A specialty Japanese tea cafe on Bedford Ave sourcing premium matcha and hojicha from Japan, with a dessert program built around Ichiban matcha soft serve, matcha tiramisu, matcha cheesecake, and Setouchi Tochucha brownies (nipponcha.us). The Matcha Latte Float — soft serve floating on iced matcha — is the signature order, and the room stays open until 10pm Friday through Sunday, making it one of the few Brooklyn matcha spots that works as a true post-dinner dessert stop.",
     "url": "https://nipponcha.us/pages/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -21646,32 +21643,36 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "08:00-22:00",
-    "notes": "Queue topic was 'Lala Cha' — no such venue exists in Williamsburg (verified across Yelp, Google, NYC press). Substituted with Nippon Cha, the actual matcha-forward Williamsburg cafe matching the queue rationale. 4.7/5 on Yelp across 193 reviews (yelp.com). Address 214 Bedford Ave, Brooklyn NY 11249; weekend hours 8am–10pm Fri–Sun (nipponcha.us). Signature items: matcha tiramisu $11, Kuro Mitsu matcha latte, Usucha (lemon8 reviewer cindynyc). Japanese, not Taiwanese — but fills the same matcha+pastry niche the queue was after. Street parking on side streets off Bedford; Wythe Hotel garage as paid fallback.",
+    "notes": "214 Bedford Ave, Brooklyn NY 11249 (nipponcha.us/pages/locations). Weekend hours Fri-Sun 8:00-22:00, weekdays close 20:00. Signature: Matcha Latte Float with Ichiban matcha or organic hojicha soft serve; also matcha tiramisu, matcha cheesecake, Keiko-matcha brownie, Tochucha (eucommia leaf) brownie (teacuisines.com, clover online ordering). Williamsburg street parking can be tight on weekend evenings — Bedford Ave metered until 19:00, side streets free after; lot options on N 5th/Wythe. Note: Cafe Kestrel at 293 Van Brunt in Red Hook was considered but is a French/pan-European bistro, not a matcha/wagashi venue, so it doesn't satisfy the Asian-dessert brief (guide.michelin.com, eatingwithziggy.com).",
     "sources": [
       {
         "url": "https://nipponcha.us/pages/locations",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T19:25:00Z"
+      },
+      {
+        "url": "https://nipponcha.us/pages/copy-of-tea-and-dessert-menu",
+        "accessed": "2026-05-17T19:25:00Z"
+      },
+      {
+        "url": "https://teacuisines.com/",
+        "accessed": "2026-05-17T19:25:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/nippon-cha-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T19:25:00Z"
       },
       {
-        "url": "https://www.tryperdiem.com/guide/best-matcha-places-in-williamsburg",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.lemon8-app.com/cindynyc/7230657308638872069?region=us",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/cafe-kestrel",
+        "accessed": "2026-05-17T19:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T01:44:07.411Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:21:58.507Z"
   },
   {
     "id": "cafe-kitsune-boerum-hill",
@@ -32309,5 +32310,138 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T19:11:12.011Z"
+  },
+  {
+    "id": "ops-pizza-bushwick",
+    "name": "Ops",
+    "desc": "Wood-fired sourdough pizza and natural wines from a tight, ever-changing Bushwick menu",
+    "longDesc": "Open since 2016 on a quiet Himrod Street block, Ops fires naturally-leavened sourdough pies in a wood oven and pairs them with a deep list of orange wines, chilled reds, and low-intervention bottles. The menu rotates weekly around a handful of pizzas plus a few seasonal vegetable plates and salads — minimal, focused, and consistently among the city's best New-York natural-wine pizzerias.",
+    "url": "https://www.opsbk.com/bushwick",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "17:00-23:00",
+    "notes": "346 Himrod St, Brooklyn NY 11237. Weekend hours Fri-Sat 5pm-11pm, Sun 5pm-10pm (opsbk.com/bushwick). Sourdough crust, wood-fired; rotating short menu with vegetable plates and orange/natural-wine focus (opsbk.com/about). Reservations on Resy; small room — walk-in possible at 5pm open, harder after 7. Street parking on Himrod/Wilson is generally available on weekend evenings. Anchors a Bushwick dinner track after the morning bakery stop.",
+    "sources": [
+      {
+        "url": "https://www.opsbk.com/bushwick",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://www.opsbk.com/about",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/ops-bk",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/ops-brooklyn",
+        "accessed": "2026-05-17T19:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:13:14.475Z"
+  },
+  {
+    "id": "mil-mundos-books-bushwick",
+    "name": "Mil Mundos Books",
+    "desc": "Bilingual indie bookstore + community hub spotlighting Latinx, Black, and Indigenous voices.",
+    "longDesc": "Mil Mundos is a small, deeply-curated bilingual (English/Spanish) bookstore on a quiet Bushwick residential block, doubling as a community space for readings and language classes. The shelves lean hard into Latinx, Black, and Indigenous authors — diaspora poetry, translated fiction, kids' bilingual picture books, zines — making it a genuinely different browse from the usual Brooklyn indie. A perfect 30-minute curious/chill reset between Bushwick food and art stops.",
+    "url": "https://www.milmundosbooks.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-19:00; Sun varies (call ahead)",
+    "notes": "Address 323 Linden St, Brooklyn NY 11237, near the Bushwick/Ridgewood line (Yelp). Bilingual English/Spanish curation celebrating Black, Latinx, Indigenous heritage; doubles as community/event space (Bushwick Daily, Epicenter-NYC). Weekend hours vary by source — Yelp shows Sat 12-7p with Sun closed; other listings show 7-day 12-7p — text the shop at (347) 425-7077 before driving (Yelp). Street parking on Linden and surrounding residential blocks is usually findable on weekends. Pair with a food stop on Knickerbocker or a Bushwick mural walk.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/mil-mundos-books-brooklyn",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://www.milmundosbooks.com/",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/business/6072-new-bilingual-bookstore-in-bushwick-fosters-culture-for-the-local-latinx-and-black-community/",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://epicenter-nyc.com/how-one-bilingual-bookstore-serves-a-thousand-worlds-in-bushwick/",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://www.nycbookstores.org/mil-mundos-books/",
+        "accessed": "2026-05-17T19:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:15:14.200Z"
+  },
+  {
+    "id": "nems-japandi-bistro",
+    "name": "Nem's Japandi Bistro (+ Koi Bā Upstairs)",
+    "desc": "Japanese-Scandinavian bistro with matcha mochi & sake; speakeasy Koi Bā upstairs runs till midnight",
+    "longDesc": "Nem's (80 N 6th St, in the National Sawdust building) crosses Japanese minimalism with Scandinavian seasonality — gluten-free mochi imported from Japan, uji matcha cream desserts, curated sake, and a quiet bistro room. Owner Supranee 'Nem' Phramdang's speakeasy Koi Bā occupies the second floor with twelve Japanese-inspired seasonal cocktails (Paper Crane, duck-fat-washed Smokey Toki), Japanese craft beer, and small bites — perfect late-night stack after a downstairs dessert course.",
+    "url": "https://nemsbistro.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 8:00-21:00, Sun 9:00-20:00 (Koi Bā upstairs Tue-Sat 18:00-24:00)",
+    "notes": "Bistro closes 21:00 Sat / 20:00 Sun — for true late-night, slide upstairs to Koi Bā until midnight (Greenpointers). Gluten-free mochi flour imported from Japan, uji matcha cream desserts, curated sake list (nemsbistro.com). Weekend N 6th St parking is tight — Wythe Hotel garage one block north is the reliable fallback.",
+    "sources": [
+      {
+        "url": "https://nemsbistro.com/",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2024/07/01/japanese-speakeasy-koi-ba-serves-flavorful-cocktails-and-snacks-above-nems-japandi-bistro-in-williamsburg/",
+        "accessed": "2026-05-17T19:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/nems-japandi-bistro-brooklyn",
+        "accessed": "2026-05-17T19:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:19:28.381Z"
   }
 ]
