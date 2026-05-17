@@ -6779,50 +6779,50 @@
   {
     "id": "brooklyn-crab",
     "name": "Brooklyn Crab",
-    "desc": "Tri-level Red Hook seafood shack with crab buckets, raw bar, and harbor-view rooftop deck",
-    "longDesc": "A 2012-vintage three-story seafood shack on a quiet Red Hook side street, four minutes' walk from Steve's Authentic Key Lime Pie and the Valentino Pier waterfront. The top deck has unobstructed Statue of Liberty and harbor sightlines, while the kitchen runs honey/snow/Dungeness crab by the half-pound (~$56), a signature Brooklyn Crab Royale ($105 solo / $185 for two), oysters, and rotating frozen cocktails. Weekend crowds form fast — entire party must be present to be seated, but ground-floor waiting areas and the Below Deck Bar absorb the wait.",
+    "desc": "Tri-level Red Hook seafood shack with Statue of Liberty views, crab buckets, mini-golf, and harbor breeze",
+    "longDesc": "Open-air three-story crab shack on Reed Street with picnic-table dining, a rooftop bar overlooking Red Hook Channel and the Statue of Liberty, and free mini-golf out back. Operating since 2012 and confirmed open as of May 2026 (1,220+ Yelp reviews, active Resy/OpenTable). Romantic-leaning at sunset, easy street parking, and the rare Brooklyn date spot that lets you eat oysters in a sea breeze without leaving the borough.",
     "url": "https://www.brooklyncrab.com/",
-    "photoUrl": "https://images.getbento.com/accounts/8339228cb324b3ad1f89285c3a2e5c9e/media/images/96457DSC_5906.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
+      "romantic",
       "foodie",
-      "chill",
       "photo",
-      "romantic"
+      "chill"
     ],
     "dietary": [],
-    "priceBand": "$$$",
-    "duration": "90-120 min",
+    "priceBand": "$$",
+    "duration": "75-90 min",
     "driveFromIC": "10 min",
     "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
-    "notes": "Located at 24 Reed St, Brooklyn, NY 11231 — no parking lot but street parking is generally easy on weekends in Red Hook (brooklyncrab.com/faq). Top-deck harbor views; raw bar and frozen cocktail list are signature draws (timeout.com). Pairs cleanly with the existing Red Hook quick-bite trio (Steve's Key Lime, Hometown BBQ walk-by) when an itinerary needs a real sit-down meal instead of a snack chain.",
+    "notes": "Address 24 Reed St, Brooklyn NY 11231; phone (718) 643-2722. Rooftop has Lady Liberty sightline (Time Out, NYCTourism). No private lot — street parking is unusually easy for NYC per Loving New York. Free NYC Ferry on weekends if car is parked at IC. Reservations on Resy/OpenTable; walk-ins fine off-peak. Outdoor-heavy — best Apr-Oct evenings.",
     "sources": [
       {
-        "url": "https://www.brooklyncrab.com/",
-        "accessed": "2026-05-17T16:30:00Z"
-      },
-      {
         "url": "https://www.brooklyncrab.com/location/brooklyn-crab/",
-        "accessed": "2026-05-17T16:30:00Z"
+        "accessed": "2026-05-17T18:20:00Z"
       },
       {
-        "url": "https://www.brooklyncrab.com/faq/",
-        "accessed": "2026-05-17T16:30:00Z"
+        "url": "https://www.yelp.com/biz/brooklyn-crab-brooklyn",
+        "accessed": "2026-05-17T18:20:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/brooklyn-crab-brooklyn",
+        "accessed": "2026-05-17T18:20:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/restaurants/brooklyn-crab",
-        "accessed": "2026-05-17T16:30:00Z"
+        "accessed": "2026-05-17T18:20:00Z"
       },
       {
-        "url": "https://www.business.nyctourism.com/places/brooklyn-crab-red-hook",
-        "accessed": "2026-05-17T16:30:00Z"
+        "url": "https://loving-newyork.com/brooklyn-crab-restaurant-nyc/",
+        "accessed": "2026-05-17T18:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T16:25:12.247Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:26:16.278Z"
   },
   {
     "id": "rucola-boerum-hill",
@@ -6921,43 +6921,46 @@
   {
     "id": "olmsted-prospect-heights",
     "name": "Olmsted (PERMANENTLY CLOSED)",
-    "desc": "CLOSED Aug 17, 2025 — Greg Baxtrom's nine-year Prospect Heights garden-to-table run has ended; remove from itinerary.",
-    "longDesc": "Olmsted at 659 Vanderbilt Ave served its final dinner on Sunday, August 17, 2025 after nine years. Chef Greg Baxtrom cited post-COVID financial pressure ('dead weight' from pre-pandemic expansion) and personal recovery priorities; he continues to operate Five Acres at Rockefeller Center (Manhattan). This entry should be deleted or hard-marked closed in any active itinerary; do not route guests here.",
+    "desc": "CLOSED Aug 17, 2025 — Greg Baxtrom's iconic garden-to-table Vanderbilt Ave spot; do not route guests here",
+    "longDesc": "Olmsted, the Michelin-recognized New American restaurant from Chef Greg Baxtrom (Alinea, Atera, Blue Hill Stone Barns) and horticulturist Ian Rothman, served its final dinner on August 17, 2025 after nearly a decade at 659 Vanderbilt Avenue. Baxtrom announced the closure publicly, saying the operation could no longer meet his standards, and is now focused on Five Acres in Rockefeller Center plus his May 2026 cookbook 'Nothing Matters But Delicious.' The Prospect Heights backyard-garden tasting menu format described in older guides ($125, 4 courses) is no longer bookable — Resy and OpenTable listings are stale and Yelp confirms CLOSED.",
     "url": "https://www.timeout.com/newyork/news/this-iconic-brooklyn-restaurant-is-closing-after-nearly-a-decade-080525",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
     "vibe": [
-      "foodie"
+      "foodie",
+      "romantic"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$$",
-    "duration": "n/a — closed",
-    "driveFromIC": "17 min",
-    "hoursWeekend": "PERMANENTLY CLOSED",
-    "notes": "Yelp confirms 'CLOSED' tag as of May 2026 (yelp.com/biz/olmsted-brooklyn). Last service Sun Aug 17, 2025 per Time Out NY (timeout.com 08/05/25) and Patch (patch.com/new-york/prospectheights). Reason: financial strain + chef sobriety/mental-health prioritization (Eater via whatnow.com). Baxtrom's surviving venture is Five Acres at Rockefeller Center — Manhattan, so only includable if uniquely justified per IC-anchor rule. Action: drop from itinerary and replace with a Prospect Heights or adjacent foodie anchor.",
+    "duration": "2-3 hours",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "CLOSED PERMANENTLY",
+    "notes": "DO NOT promote. Closed Aug 17, 2025 — confirmed by Time Out NY (timeout.com/newyork/news/this-iconic-brooklyn-restaurant-is-closing-after-nearly-a-decade-080525), Patch Prospect Heights, and WhatNow NY. Yelp listing shows CLOSED status. Chef Baxtrom continues operating Five Acres in Rockefeller Center, Manhattan — but that violates the no-Manhattan-unless-uniquely-justified rule for this corpus. For a Prospect Heights dinner anchor, route to Faun or Hunky Dory instead (see enqueue). Keep this entry in corpus only as a tombstone so future re-research passes don't re-investigate.",
     "sources": [
       {
         "url": "https://www.timeout.com/newyork/news/this-iconic-brooklyn-restaurant-is-closing-after-nearly-a-decade-080525",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://patch.com/new-york/prospectheights/popular-eatery-set-close-after-nearly-decade-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/olmsted-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://whatnow.com/new-york/restaurants/beloved-brooklyn-restaurant-from-chef-baxtrom-closes-august-17/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/olmsted-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T07:28:45.778Z"
+    "lastResearchedAt": "2026-05-17T18:21:22.073Z"
   },
   {
     "id": "van-leeuwen-williamsburg",
@@ -31577,5 +31580,145 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T18:13:30.507Z"
+  },
+  {
+    "id": "larina-pastificio-vino",
+    "name": "LaRina Pastificio & Vino",
+    "desc": "Chef Silvia Barban's Fort Greene pastificio — handmade stuffed pastas, big wine list, backyard patio",
+    "longDesc": "Top Chef alum Silvia Barban runs this Fort Greene/Clinton Hill pasta shop and trattoria with partners Giulia and Luca Pelliccioni, named for Giulia's grandmother Rina who ran a pastificio in Rimini. The menu pulls hard on house-made shapes — caramelle, ravioli, tagliatelle, buckwheat conchiglie — backed by a 500+ bottle artisanal Italian wine list. Weekend lunch service runs 12:00–15:45 in the dining room and the leafy back garden, which is the move when the weather cooperates.",
+    "url": "http://larinabk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-15:45, 17:00-23:00; Sun 12:00-15:45, 17:00-22:00",
+    "notes": "Address 387 Myrtle Ave, technically Fort Greene/Clinton Hill border — closest schema zone is prospect-heights, ~1 mi south. Drive from IC ~6.5 mi via Atlantic Ave or Flatbush; weekend street parking on Myrtle/Adelphi is feasible but tight, plan 5-10 min buffer. Backyard/garden confirmed by Time Out and Edible Brooklyn coverage (timeout.com; ediblebrooklyn.com). Brunch service is offered weekends 12-3:45pm per the official site, but a dedicated 'jazz brunch' could not be verified on larinabk.com as of 2026-05-17 — recommend confirming via Instagram or phone before promising live music in itinerary copy. Strong pasta-forward Italian alternative to IC-adjacent Lilia/Misi when the user wants stuffed pasta specifically.",
+    "sources": [
+      {
+        "url": "http://larinabk.com/",
+        "accessed": "2026-05-17T18:20:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/larina-pastificio-vino",
+        "accessed": "2026-05-17T18:20:00Z"
+      },
+      {
+        "url": "https://ediblebrooklyn.com/2017/woman-behind-fort-greenes-larina-pastificio-vino-defied-tradition/",
+        "accessed": "2026-05-17T18:20:00Z"
+      },
+      {
+        "url": "https://indagare.com/restaurant/larina-pastificio-and-vino",
+        "accessed": "2026-05-17T18:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:15:52.395Z"
+  },
+  {
+    "id": "miss-ada-fort-greene",
+    "name": "Miss Ada",
+    "desc": "Modern Mediterranean in Fort Greene with a backyard garden that supplies the kitchen's herbs",
+    "longDesc": "Chef Tomer Blechman's Israeli-inflected Mediterranean tucked into a Fort Greene brownstone, with a covered back patio and herb garden that feeds the kitchen. Signature plates include whipped ricotta with brown butter, sage and honey; hummus masabaha topped with lamb shawarma; and za'atar-crusted salmon. The wine list leans natural/organic/biodynamic, and the room balances candlelit-cozy with garden-romantic.",
+    "url": "https://www.missadanyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-14:30, 17:00-22:00; Sun 11:00-14:30, 17:00-21:00",
+    "notes": "Address 184 DeKalb Ave at Carlton St, Fort Greene 11205 (technically Fort Greene; closest mapped zone is prospect-heights in the corpus enum). Drive from Industry City via Gowanus + Atlantic ~22 min off-peak, longer Sat evenings. Resy reservations open 14 days out for parties of 2-6. Backyard garden supplies kitchen herbs (theinfatuation.com, missadanyc.com). Weekend brunch (shakshuka, malawach, Israeli breakfast) offers an alternate slot to dinner. Street parking on DeKalb/Carlton is competitive on Sat night — Willoughby/Cumberland side streets are easier.",
+    "sources": [
+      {
+        "url": "https://www.missadanyc.com/",
+        "accessed": "2026-05-17T18:30:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/miss-ada",
+        "accessed": "2026-05-17T18:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/miss-ada",
+        "accessed": "2026-05-17T18:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/miss-ada-fort-greene/",
+        "accessed": "2026-05-17T18:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:17:51.143Z"
+  },
+  {
+    "id": "faun-prospect-heights",
+    "name": "Faun (CLOSED)",
+    "desc": "PERMANENTLY CLOSED as of 2026 — formerly wood-fired Italian on Vanderbilt Ave, Prospect Heights",
+    "longDesc": "Faun was a Michelin-recommended Italian neighborhood eatery at 606 Vanderbilt Ave (not Greene Ave) opened in 2016 by architects David Stockwell and Carla Swickerath, known for its open flaming kitchen, marble surfaces, candlelit dining room, and garden patio. Signature dishes included roast eggplant, agnolotti, and ragu, with a focus on seasonal, locally-sourced Italian-American cooking. The restaurant is now permanently closed — Yelp's listing was updated May 2026 marking it CLOSED, Foursquare flags 'Now Closed,' and the official faun.nyc domain returns HTTP 404, so it should not be routed into any active itinerary.",
+    "url": "https://www.yelp.com/biz/faun-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "CLOSED — permanently shuttered",
+    "notes": "DO NOT SCHEDULE — multiple authoritative sources confirm permanent closure: Yelp lists status as CLOSED with May 2026 update (https://www.yelp.com/biz/faun-brooklyn), Foursquare shows 'Now Closed' (https://foursquare.com/v/faun/572e3f81498eb4ab4c1cb7e0), and the official faun.nyc domain returns 404 on both root and /about. Task description also had two errors: address was 606 Vanderbilt Ave (not Greene Ave), and cuisine was Italian-American with seasonal/Mediterranean leanings rather than 'Italian-Mediterranean' (per Michelin Guide and The Infatuation review). Recommend recipe pipeline filter out entries with 'CLOSED' in desc. See enqueue for live Mediterranean-leaning replacements within the same Wallace/Vanderbilt 10-min walk cluster.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/faun-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/faun/572e3f81498eb4ab4c1cb7e0",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/faun",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/faun",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.faun.nyc/about",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T18:23:51.019Z"
   }
 ]

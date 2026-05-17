@@ -1,35 +1,5 @@
 [
   {
-    "topic": "LaRina Pastificio & Vino Fort Greene — handmade pasta shop with patio + jazz brunch",
-    "reason": "Strongest pure-Italian patio option within 15-min drive of IC; Chef Silvia Barban's stuffed pastas give a more pasta-forward alternative when the user wants Italian specifically",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:17:31.001Z"
-  },
-  {
-    "topic": "Miss Ada Fort Greene — modern Mediterranean with famed backyard garden",
-    "reason": "Vibe-twin to Olmsted's garden romance with a Mediterranean spin; backyard supplies its own herbs, which matches the produce-driven brief",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:17:31.001Z"
-  },
-  {
-    "topic": "Olmsted Prospect Heights — garden-to-table tasting menu dinner",
-    "reason": "Iconic Vanderbilt Ave romantic foodie anchor with seasonal Mediterranean-inflected cooking; perfect pre/post-Wallace pairing for a Prospect Heights dinner cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:21:12.749Z"
-  },
-  {
-    "topic": "Faun Prospect Heights — wood-fired Italian-Mediterranean on Greene Ave",
-    "reason": "Strong second Prospect Heights Mediterranean dinner option in same 10-min walk radius from Wallace; expands the cluster beyond Vanderbilt itself",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:21:12.749Z"
-  },
-  {
-    "topic": "Brooklyn Crab or alternative Red Hook romantic seafood spot — verify still operating",
-    "reason": "Audit pattern: several Vanderbilt-corridor venues turned out closed; worth a sweep of existing corpus entries to flag stale data before they hit itineraries",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:21:12.749Z"
-  },
-  {
     "topic": "Verify status of all Prospect Heights / Vanderbilt Ave corpus entries (LaLou, Rose's, others)",
     "reason": "Two of the three top candidates in this research were permanently closed; corpus likely contains other stale Prospect Heights entries that need a freshness audit",
     "requestedBy": "agent",
@@ -11980,5 +11950,95 @@
     "reason": "Pairs with a Wayward Fare dinner anchor to build a full Prospect Heights track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T18:13:30.529Z"
+  },
+  {
+    "topic": "Olea Fort Greene — Mediterranean brunch with patio on Lafayette Ave",
+    "reason": "Same Fort Greene cluster as LaRina; gives the itinerary a non-Italian Mediterranean option in a zone Saturfun currently underweights",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:15:52.418Z"
+  },
+  {
+    "topic": "Evelina Fort Greene — Italian with sidewalk seating near BAM",
+    "reason": "Direct competitor to LaRina in the same neighborhood; useful for A/B when LaRina is fully booked on weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:15:52.418Z"
+  },
+  {
+    "topic": "Walter's Fort Greene — New American bistro with backyard garden",
+    "reason": "Rounds out a Fort Greene track with a non-Italian patio option to pair with LaRina or substitute when the user wants variety in one cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:15:52.418Z"
+  },
+  {
+    "topic": "Theodora Boerum Hill — Eastern Mediterranean from Blechman's team",
+    "reason": "Same chef-owner sibling restaurant, closer to IC (~15 min drive); strong adjacent candidate if Miss Ada is too far for a given track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:17:51.165Z"
+  },
+  {
+    "topic": "Rucola Boerum Hill — northern Italian in an ivy-wrapped corner room",
+    "reason": "Similar garden-romance produce-driven vibe, ~15 min from IC, fills the same itinerary slot in a closer zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:17:51.165Z"
+  },
+  {
+    "topic": "Olea Fort Greene — Mediterranean tapas with a leafy back patio",
+    "reason": "Adjacent Fort Greene Mediterranean with outdoor seating; useful as an alternate when Miss Ada is fully booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:17:51.165Z"
+  },
+  {
+    "topic": "Faun Prospect Heights — seasonal wood-fired Italian, romantic garden",
+    "reason": "Direct Prospect Heights replacement for Olmsted's foodie/romantic anchor slot; still operating on Greene Ave with garden patio and pasta tasting; ~16 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:21:22.096Z"
+  },
+  {
+    "topic": "Hunky Dory Crown Heights — all-day cafe-to-cocktail-bar with seasonal small plates",
+    "reason": "Adjacent zone (Crown Heights, ~18 min from IC) with romantic late-night vibe; pairs naturally with a Vanderbilt/Washington Ave cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:21:22.096Z"
+  },
+  {
+    "topic": "Saint Julivert Fisherie Carroll Gardens — coastal Spanish/Caribbean seafood tasting",
+    "reason": "Strong foodie/romantic dinner anchor closer to IC (~10 min drive); fills the tasting-menu gap Olmsted's closure leaves and reuses the existing Carroll Gardens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:21:22.096Z"
+  },
+  {
+    "topic": "Olmsted 659 Vanderbilt Ave Prospect Heights — seasonal American with garden",
+    "reason": "Live replacement candidate one block from former Faun on Vanderbilt; tasting-menu destination dinner directly in the Wallace 10-min walk cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:23:51.042Z"
+  },
+  {
+    "topic": "Sofreh Persian restaurant Park Slope/Prospect Heights border",
+    "reason": "Genuine Mediterranean/Persian dinner spot, chef Nasim Alikhani, within ~10-15 min drive of IC and walkable from Vanderbilt cluster; fills the Mediterranean gap Faun was meant to occupy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:23:51.042Z"
+  },
+  {
+    "topic": "Olea Mediterranean restaurant Fort Greene Lafayette Ave",
+    "reason": "Established Mediterranean dinner option ~10 min drive from IC and adjacent to Prospect Heights; expands the Mediterranean dinner corpus the original task targeted",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:23:51.042Z"
+  },
+  {
+    "topic": "Re-research existing venue: Red Hook Lobster Pound (284 Van Brunt St) — verify still operating 2026",
+    "reason": "Natural Red Hook seafood alternate to pair with or substitute for Brooklyn Crab; same audit pattern flagged Vanderbilt-corridor stale data, so Van Brunt corridor deserves a sweep",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:26:16.301Z"
+  },
+  {
+    "topic": "Sunny's Bar Red Hook — verify operating + weekend hours 2026",
+    "reason": "Historic Red Hook waterfront bar walkable from Brooklyn Crab; completes a romantic seafood→nightcap track within the IC 15-min drive cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:26:16.301Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook — verify hours and parking 2026",
+    "reason": "Red Hook anchor venue, not seafood but the other gravitational pull in the neighborhood; needed to round out the Red Hook track options the itinerary engine can mix and match",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:26:16.301Z"
   }
 ]
