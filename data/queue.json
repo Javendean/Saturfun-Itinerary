@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Dun Huang 817 60th Street Brooklyn — Lanzhou beef noodle / cumin lamb pita specialist",
-    "reason": "Verified Northwest-China analog in the same 60th St corridor; ideal fallback if paomo spot is closed and a strong standalone cluster entry",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:41:02.594Z"
-  },
-  {
-    "topic": "Hua Ji Pork Chop Rice 5405 8th Avenue Brooklyn — hand-pulled noodles arm of 8th Ave",
-    "reason": "Different regional axis (Taiwanese/HK rice + noodle) inside the same anchor block; diversifies the cluster from northwest-China-only",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:41:02.594Z"
-  },
-  {
-    "topic": "Shaxian Snacks 818 60th Street Brooklyn — Fujianese peanut-sauce noodles and wontons",
-    "reason": "Cheap, fast, regional-Chinese counterpart 60 seconds from the paomo block; great low-stakes second stop in a multi-restaurant Sunset Park track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:41:02.594Z"
-  },
-  {
-    "topic": "Kai Feng Fu Dumpling House Sunset Park — 4-for-$1 pork-and-chive dumplings on 8th Ave",
-    "reason": "Cheap-and-iconic second stop on a Sunset Park Chinatown crawl, 3 blocks from East Harbor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:43:15.404Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden Sunset Park — hand-pulled rice noodle soup",
-    "reason": "Adds a Yunnan/SW China counterpoint to the Cantonese dim sum anchor, same 8th Ave strip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:43:15.404Z"
-  },
-  {
     "topic": "Ba Xuyen Sunset Park — banh mi on 8th Ave",
     "reason": "Vietnamese banh mi to round out a multi-cuisine Sunset Park drive crawl, walking distance from East Harbor",
     "requestedBy": "agent",
@@ -7870,5 +7840,89 @@
     "reason": "Indoor backup brunch anchor inside IC itself if weather kills the drive-out dim sum plan",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T05:02:43.801Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave Brooklyn — pork & chive boiled dumplings",
+    "reason": "Cheap, fast dumpling counter in the same Sunset Park Chinatown corridor; rounds out the 60th St cluster with a non-noodle option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:05:00.637Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave Brooklyn — Yunnan rice noodles and crossing-the-bridge soup",
+    "reason": "Adds regional diversity (Yunnan vs Northwest) within the same 8th Ave Chinatown drive cluster, ~10 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:05:00.637Z"
+  },
+  {
+    "topic": "Industry City food hall — Japan Village or Sahadi's for dessert/snack stop after 60th St crawl",
+    "reason": "Logical anchor return-to-IC after a Sunset Park food run; the user's cluster model needs an IC closer for these tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:05:00.637Z"
+  },
+  {
+    "topic": "Ji Bei Chuan Noodles 5216 8th Ave Brooklyn — fish maw chicken soup rice noodles",
+    "reason": "Half-block neighbor with a totally different bowl (Sichuan/Chongqing rice noodles, not wheat); pairs naturally with Hua Ji on a single 8th Ave parking stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:08:40.899Z"
+  },
+  {
+    "topic": "Wong Good Hand Pull Noodle 5924 8th Ave Brooklyn",
+    "reason": "Competing hand-pulled noodle specialist 5 blocks south; need a head-to-head to decide which one earns the slot if itinerary only has room for one noodle stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:08:40.899Z"
+  },
+  {
+    "topic": "Wong Wong Noodle Shop 5410 8th Ave Brooklyn — HK-style noodle soup",
+    "reason": "Literally across the street from Hua Ji; HK cafe-style wonton/brisket noodle soup adds a third regional axis (Cantonese) to the same micro-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:08:40.899Z"
+  },
+  {
+    "topic": "Shaxian Delicacies 6024 7th Ave Brooklyn — competing Fujianese counter for A/B comparison on the same track",
+    "reason": "Second Shaxian-style spot 3 blocks away; lets the track offer a 'compare the wontons' beat instead of one-and-done",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:10:54.727Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave Brooklyn — Yunnan crossing-bridge rice noodles",
+    "reason": "Different regional Chinese cuisine within walking distance of the paomo+Shaxian block; deepens the Sunset Park multi-restaurant track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:10:54.727Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave Brooklyn — handmade lamb-and-coriander dumplings",
+    "reason": "Cheap, fast Dongbei dumpling counter that rounds out the 'three regional Chinas in one Sunset Park drive' theme",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:10:54.727Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park — rice noodle soup spot a few blocks from Kai Feng Fu",
+    "reason": "Rounds out the Sunset Park 8th Ave Chinatown crawl with a sit-down bowl after handheld dumplings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:12:56.918Z"
+  },
+  {
+    "topic": "Lan Zhou Handmade Noodle Sunset Park 8th Ave — hand-pulled beef noodle soup",
+    "reason": "Hand-pull theater is a photo-friendly counterpart to Kai Feng Fu's dumpling griddle for the same crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:12:56.918Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself) Manhattan skyline overlook at 7th Ave & 41st",
+    "reason": "Free 10-min walk-off after a dumpling binge with one of the best skyline views in Brooklyn — fits the cluster as a non-food breather",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:12:56.918Z"
+  },
+  {
+    "topic": "Lan Zhou Hand Pull Noodle Sunset Park 8th Ave",
+    "reason": "Lanzhou-style beef noodle soup adds a Northwest China counterpoint to the Yunnan + Cantonese pair on the same 8th Ave strip.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:14:48.894Z"
+  },
+  {
+    "topic": "Kafé 5 Sunset Park 5th Ave specialty coffee",
+    "reason": "Fills the coffee/dessert slot in a Sunset Park track that's currently noodle-heavy; 8 min from IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:14:48.894Z"
   }
 ]
