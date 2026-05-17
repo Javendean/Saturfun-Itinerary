@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Modern Love Brooklyn (Williamsburg) — vegan comfort food brunch",
-    "reason": "Adjacent Williamsburg plant-based anchor; lower price band complement to PLANTA's tasting energy",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:08:32.471Z"
-  },
-  {
-    "topic": "Hartbreakers (Williamsburg) — natural wine bar with strong vegan small plates",
-    "reason": "Pairs as a post-dinner drinks stop in the same cluster; expands vegan-friendly nightlife",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:08:32.471Z"
-  },
-  {
-    "topic": "Kopitiam Williamsburg pop-up or Eight Turn Crepe — Asian sweets nearby for a dessert handoff",
-    "reason": "Builds the pan-Asian dessert leg of a Planta-anchored evening track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:08:32.471Z"
-  },
-  {
-    "topic": "Reverie Brooklyn — fully-vegan kosher tasting-style small plates with natural wine + craft cocktail bar at 135 Metropolitan Ave, Williamsburg",
-    "reason": "Direct like-for-like replacement for Avant Garden's vacated slot — 28-dish small-plates dinner format with organic wine pairings, Wed–Sun 4:30–10:30pm, sits inside the same Williamsburg cluster ~15–18 min from IC; closes the vegan tasting gap in the corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:11:22.802Z"
-  },
-  {
-    "topic": "Planta Queen Williamsburg — plant-based pan-Asian small plates with cocktail program",
-    "reason": "Adds a second vegan small-plates option in the Williamsburg cluster with a different (Asian/dim-sum) flavor profile, useful for varied vegan-friend itineraries and re-pairings within the 10–25 min IC drive radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:11:22.802Z"
-  },
-  {
     "topic": "Modern Love Brooklyn — Isa Chandra Moskowitz's plant-based comfort tasting in South Williamsburg/Bed-Stuy area",
     "reason": "Diversifies the vegan corpus beyond fine-dining small plates with a comfort-leaning tasting vibe; verify current operating status since Brooklyn vegan venues have been turning over",
     "requestedBy": "agent",
@@ -11848,5 +11818,101 @@
     "reason": "The research prompt conflated these two; need a clean Hart's entry to disambiguate downstream",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T17:49:09.715Z"
+  },
+  {
+    "topic": "Champs Diner (197 Meserole St, East Williamsburg) — vegan diner comfort food brunch",
+    "reason": "Closest spiritual successor to Modern Love: same vegan-comfort-food register, same neighborhood cluster, still open and beloved — fills the gap Modern Love leaves in the Williamsburg vegan brunch slot.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:51:26.869Z"
+  },
+  {
+    "topic": "Reverie Brooklyn (135 Metropolitan Ave, Williamsburg) — vegan brunch + cocktail bar",
+    "reason": "Live Williamsburg vegan brunch anchor with a cocktail program; price-band complement to PLANTA and well-reviewed in 2026 NYC vegan guides — strong driving-accessible $$ option from IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:51:26.871Z"
+  },
+  {
+    "topic": "Hartbreakers (Bushwick) — vegan diner / late brunch",
+    "reason": "Adjacent Bushwick vegan comfort-food spot inside the 15–20 min IC drive radius; expands the corpus beyond Williamsburg proper while keeping the vegan-brunch theme.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:51:26.871Z"
+  },
+  {
+    "topic": "Reverie (South Williamsburg) — fully vegan, kosher-certified restaurant with a dedicated craft cocktail bar and globally inspired shareable plates",
+    "reason": "Direct replacement for the brief's original intent: vegan-friendly nightlife in Williamsburg, post-dinner small-plates + drinks vibe, same cluster as Hartbreakers' supposed slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:53:41.969Z"
+  },
+  {
+    "topic": "BABA on Withers (Williamsburg, 47 Withers St) — natural wine bar with cocktails, small plates, heated backyard, and late-night service",
+    "reason": "Strong vegan-friendly natural wine bar option in Williamsburg with vegetable-forward small plates; 18-22 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:53:41.970Z"
+  },
+  {
+    "topic": "Domino Wine Bar (Williamsburg) — cozy natural wine spot with oysters, charcuterie, and small plates, walk-in only",
+    "reason": "High-signal Williamsburg natural wine destination; can substitute when a no-reservation post-dinner stop is needed in the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:53:41.970Z"
+  },
+  {
+    "topic": "Four Horsemen (Williamsburg) — Michelin-recognized natural wine bar from James Murphy with seasonal small plates",
+    "reason": "Williamsburg's most acclaimed natural wine bar; rotates seasonal vegetable-forward plates and would anchor a 'natural wine' track for guests willing to book ahead",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:53:41.970Z"
+  },
+  {
+    "topic": "Patisserie Tomoko — Japanese kaiseki-style pastry in Williamsburg",
+    "reason": "Refined Japanese dessert counterpart in Williamsburg cluster; covers a more upscale handoff than crepes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:56:19.039Z"
+  },
+  {
+    "topic": "Win Son Bakery — Taiwanese pastry in East Williamsburg",
+    "reason": "Taiwanese sweets (mochi donut, scallion milk bread) expand the pan-Asian dessert lane within a drivable Brooklyn cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:56:19.041Z"
+  },
+  {
+    "topic": "Taiyaki NYC Williamsburg — fish-shaped soft serve cones",
+    "reason": "Instagram-photo dessert option that pairs with the visual/foodie vibe and slots into a Williamsburg track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:56:19.041Z"
+  },
+  {
+    "topic": "Hartbreakers (vegan natural-wine bar, Bushwick/Ridgewood)",
+    "reason": "Adjacent vegan + natural-wine destination if Reverie books out; expands vegan nightlife coverage beyond Williamsburg cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:58:26.747Z"
+  },
+  {
+    "topic": "Planta Queen Williamsburg vegan small plates",
+    "reason": "Sister cluster vegan option with weekend hours and parking, covers same dietary axis without kosher constraint",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:58:26.748Z"
+  },
+  {
+    "topic": "Cadence (vegan tasting menu, East Village)",
+    "reason": "Manhattan-only justified candidate for vegan tasting-menu format — useful as a corpus reference for Reverie's à la carte vs. true tasting comparison",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:58:26.748Z"
+  },
+  {
+    "topic": "Reverie Williamsburg — vegan small-plates and cocktail bar at 135 Metropolitan Ave",
+    "reason": "Actual Williamsburg-cluster vegan small-plates option with cocktail program — fills the gap left by closed Planta Williamsburg and stays within the 10-min IC drive radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:01:48.504Z"
+  },
+  {
+    "topic": "Champs Diner Williamsburg — long-running all-vegan diner",
+    "reason": "Casual vegan counterpart for the Williamsburg cluster; pairs well as a daytime stop in vegan-friendly itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:01:48.504Z"
+  },
+  {
+    "topic": "Planta Burger Williamsburg — vegan smashburger/fast-casual offshoot",
+    "reason": "Confirms whether the surviving Planta concept in Brooklyn (separate from Queen) still operates and could anchor a quick-bite slot in the Williamsburg cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:01:48.504Z"
   }
 ]
