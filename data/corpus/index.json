@@ -11343,41 +11343,38 @@
   },
   {
     "id": "strong-rope-brewery-red-hook",
-    "name": "Strong Rope Brewery (Red Hook Taproom)",
-    "desc": "Waterfront brewery with picnic-table patio overlooking NY Harbor; family- and dog-friendly chill stop",
-    "longDesc": "Strong Rope's Red Hook taproom sits right on the Van Dyke Street pier with a mix of umbrella'd picnic tables, bistro seating, and standing room facing New York Harbor and the Statue of Liberty (source: strongropebrewery.com/taproom). They brew exclusively with NY State-grown grain and hops, run a no-kitchen model that invites outside food, food trucks, and delivery from Hometown BBQ and Hoek Pizza, and welcome leashed dogs with water bowls. It's a low-key decompression stop after Royal Palms or an IC stroll — no reservations, first-come patio, weekend afternoons fill quickly when the harbor light is best.",
+    "name": "Strong Rope Brewery (Red Hook)",
+    "desc": "NY-grain-only farm brewery on the Red Hook waterfront, 14 rotating taps and harbor views.",
+    "longDesc": "Strong Rope's Red Hook taproom occupies a beer-hall-style space at 185 Van Dyke St with outdoor picnic tables looking onto New York Harbor. Fourteen rotating taps run from Bohemian pilsners to imperial IPAs, all brewed exclusively with New York State grain, alongside NY wines, cider and spirits. No in-house kitchen, but BYO food and rotating local pop-ups/food trucks make it an easy pairing stop after Defonte's or Steve's Key Lime nearby.",
     "url": "https://www.strongropebrewery.com/taproom",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
+      "curious",
       "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "9 min",
     "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-21:00",
-    "notes": "185 Van Dyke St, Brooklyn NY 11231; phone 929.294.9379 (strongropebrewery.com). No on-site parking — use street parking on Van Dyke/Conover; DO NOT park in the 175 Van Dyke lot (they tow) (source: official taproom page). No kitchen — bring food, order delivery, or grab a slice at Mark's Red Hook Pizza nearby. Dog- and kid-friendly; harbor sunset views are the photo hook.",
+    "notes": "185 Van Dyke St, Brooklyn NY 11231. 14 rotating taps brewed only with NY State grain; also NY wines, cider, spirits, NA options (strongropebrewery.com/taproom). No kitchen — BYO food, delivery, or rotating pop-ups/trucks. Family and dog friendly (leashed); water bowls + treats on request. No on-site parking — street only, and they explicitly warn off the 175 Van Dyke lot due to towing (source). Waterfront views = strong photo moment for the beer-flight track. Pairs naturally with Widow Jane Distillery and Red Hook Winery one block away.",
     "sources": [
       {
         "url": "https://www.strongropebrewery.com/taproom",
-        "accessed": "2026-05-17T08:00:00Z"
-      },
-      {
-        "url": "https://www.business.nyctourism.com/places/strong-rope-brewery-red-hook",
-        "accessed": "2026-05-17T08:00:00Z"
+        "accessed": "2026-05-17T08:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/strong-rope-brewery-brooklyn-3",
-        "accessed": "2026-05-17T08:00:00Z"
+        "accessed": "2026-05-17T08:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:11:43.925Z"
+    "lastResearchedAt": "2026-05-17T08:13:45.893Z"
   },
   {
     "id": "lavender-lake",
@@ -25110,81 +25107,97 @@
   {
     "id": "grand-army-bar",
     "name": "Grand Army Bar",
-    "desc": "Boerum Hill oyster + craft cocktail den from Damon Boelte — date-night anchor, no beer-bar vibe",
-    "longDesc": "Acclaimed seafood-and-cocktail bar at the corner of State & Hoyt, with a curated raw bar of East/West Coast oysters, seasonal cocktails by founder Damon Boelte, and composed plates like smoked octopus and hamachi from Chef Jon Bignelli. Weekend service starts at 2pm with a 2–4pm happy hour: a dozen oysters for $25 plus $1 off wine/beer. Dim, intimate room — the romantic counterpoint to a beer-forward stop.",
+    "desc": "Seasonal cocktails + East/West Coast oyster bar on a Boerum Hill corner; open late nightly.",
+    "longDesc": "The Boerum Hill original behind the cocktail program now exported across the borough: a corner bar at State + Hoyt with a raw bar of east and west coast oysters, composed seafood plates (smoked octopus, hamachi), and a constantly-rotating seasonal cocktail menu. Doors open until 1-2am most nights with a kitchen running until 11pm-midnight, making it a strong romantic late-stop ~12 min from IC. Happy hour (M-Th 5-7p, Fri 4-6p, weekends 2-4p) drops a dozen oysters to $25 and $1 off wine/beer.",
     "url": "https://www.grandarmybar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
       "romantic",
+      "chill",
       "foodie"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "14 min",
-    "hoursWeekend": "Sat 14:00-01:00, Sun 14:00-22:00",
-    "notes": "Address: 336 State St (corner of State + Hoyt), Brooklyn, NY 11217 (grandarmybar.com). Weekend happy hour 2pm-4pm: dozen oysters $25 + $1 off wine/beer (grandarmybar.com). Phone (718) 643-1503. Street parking in Boerum Hill is doable on weekends but tight; nearby municipal/garage options on Schermerhorn. Sister project to Sunken Harbor Club. Address technically Boerum Hill — zoned as cobble-hill since that's the closest valid zone in the corpus schema.",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 14:00-02:00 (kitchen til midnight); Sun 14:00-00:00 (kitchen til 23:00)",
+    "notes": "336 State St (corner of State + Hoyt), Brooklyn, NY 11217 — technically Boerum Hill, mapped here to cobble-hill (closest zone in corpus; BoCoCa cluster) (grandarmybar.com). Phone (718) 643-1503. Street parking only — typical Boerum Hill side-street availability on weekends. Seafood-forward cocktail bar with the raw bar as anchor; reservations recommended for the dining side, walk-ins fine at the bar (opentable.com, yelp.com). Pairs naturally with a Boerum Hill / Cobble Hill dinner stop earlier in the night; closes later than most BoCoCa rooms which makes it a strong nightcap target after an IC-anchored track (timeout.com).",
     "sources": [
       {
         "url": "https://www.grandarmybar.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T08:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/grand-army-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T08:15:00Z"
       },
       {
-        "url": "https://punchdrink.com/venues/grand-army/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.opentable.com/r/grand-army",
+        "accessed": "2026-05-17T08:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/grand-army",
+        "accessed": "2026-05-17T08:15:00Z"
+      },
+      {
+        "url": "https://realtycollective.com/spotlight-grand-army-bar/",
+        "accessed": "2026-05-17T08:15:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/grand-army-boerum-hill/",
+        "accessed": "2026-05-17T08:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T07:43:52.223Z"
+    "lastResearchedAt": "2026-05-17T08:19:59.053Z"
   },
   {
     "id": "threes-brewing-greenpoint",
     "name": "Threes Brewing Greenpoint",
-    "desc": "Reopened Greenpoint brewpub pouring Threes flagships with Grand Army South's bar menu — burgers, fried chicken, chili crab fries.",
-    "longDesc": "Threes Brewing's Greenpoint outpost grand-reopened March 6, 2026 after a full renovation — new booths, refreshed bar, Main Bar with stained glass plus a speakeasy 'Studio' and 'The Parlor' beer shop / event room. The food is now run by Grand Army South under Head Chef Samuel Drake Jones, whose menu spans snacks (popcorn, corn ribs, fried shrimp), salads, sandwiches (chicken club, hot dog, beef/falafel/shrimp burgers), and 'house specialties' like fried chicken, chili crab fries, steak frites, and a dirt-cup dessert. Beer side keeps Threes flagships Vliet, Logical Conclusion, Gowanus Gold, and All or Nothing alongside rotating seasonals.",
+    "desc": "Reopened Greenpoint brewpub from Threes with a Grand Army South kitchen and full flagship beer lineup.",
+    "longDesc": "Threes' Franklin Street taproom reopened March 6, 2026 after a renovation with new booth seating, a rebuilt bar, and elevated finishes. Food is run by Grand Army South under Head Chef Samuel Drake Jones — corn ribs, chili crab fries, beef/falafel/shrimp burgers, steak frites — paired with flagship beers (Vliet, Logical Conclusion, Gowanus Gold, All or Nothing) plus rotating seasonals. The Shop at Threes inside the venue sells cans and bottles to-go.",
     "url": "https://threesbrewing.com/pages/greenpoint",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "chill",
-      "foodie",
-      "curious"
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "90-120 min",
-    "driveFromIC": "28 min",
-    "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
-    "notes": "Outside the 25-min IC radius — use as North Brooklyn track anchor or overflow, not IC cluster. No reservations; walk-in only. Street parking on Franklin St / side streets; weekend turnover is decent but plan a 5-10 min loop. Renovation March 2026 brought new Grand Army South kitchen (sister to Gowanus flagship) — first menu under Chef Samuel Drake Jones (Greenpointers, 2026-03-06). The Parlor doubles as a packaged-beer shop for to-go cans/bottles. Falafel burger + shaved veggies + Papa Dulce (sweet potato, farro, salsa rosa, avocado, queso fresco) cover vegetarian needs (Greenpointers menu list).",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-24:00, Sun 12:00-23:00",
+    "notes": "Reopened 2026-03-06 with Grand Army South kitchen — bar-friendly menu including burgers, fried chicken, steak frites, dirt-cup dessert (greenpointers.com, 2026-03-06). Falafel burger covers vegetarian; no formal vegan menu confirmed. Street parking only in Greenpoint — weekend metering is more forgiving than Williamsburg. Sister venue to Gowanus location, so use as the north-Brooklyn anchor when itineraries skew toward Williamsburg/Greenpoint clusters instead of Gowanus/Park Slope.",
     "sources": [
       {
-        "url": "https://greenpointers.com/2026/03/06/threes-brewing-reopens-greenpoint-outpost-with-new-menu-from-grand-army-south/",
-        "accessed": "2026-05-17T07:45:00Z"
+        "url": "https://threesbrewing.com/pages/greenpoint",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://threesbrewing.com/pages/greenpoint",
-        "accessed": "2026-05-17T07:45:00Z"
+        "url": "https://greenpointers.com/2026/03/06/threes-brewing-reopens-greenpoint-outpost-with-new-menu-from-grand-army-south/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://cititour.com/NYC_News/Threes-Brewing-Reopens-Greenpoint-Brewpub/10465",
-        "accessed": "2026-05-17T07:45:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.eventbrite.com/e/threes-brewing-greenpoint-grand-reopening-tickets-1982539175041",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T07:45:53.434Z"
+    "lastResearchedAt": "2026-05-17T08:17:50.278Z"
   },
   {
     "id": "finback-brewery-gowanus",
@@ -25394,5 +25407,81 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T08:09:45.333Z"
+  },
+  {
+    "id": "fort-hamilton-distillery",
+    "name": "Fort Hamilton Distillery",
+    "desc": "Brooklyn rye-led distillery in Industry City with cocktails, flights, and weekend tours",
+    "longDesc": "Operating distillery and tasting room in IC Building 6 pouring their own rye, bourbon, gin, vodka, and barrel-aged maple syrup. Order cocktails or build a flight at the bar, then add a guided distillery tour Fri-Sun (book ahead at forthamilton.com). Direct spirits counterpart to the Threes/Other Half beer track inside the same complex.",
+    "url": "https://industrycity.com/tenants/fort-hamilton-whiskey/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 13:00-22:00, Sun 13:00-20:00",
+    "notes": "Located at 68 34th St, Building 6, Floor 2 inside Industry City — fully walkable from the Threes/Other Half courtyard, no re-park needed (industrycity.com). Tasting flights cover New World Gin, Bourbon, Rye, and Barrel-Aged Maple Syrup; bottles and gift boxes for sale on-site. Guided distillery tours Fri-Sun must be booked in advance via forthamilton.com (industrycity.com). Phone (718) 678-5103.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/tenants/fort-hamilton-whiskey/",
+        "accessed": "2026-05-17T08:15:00Z"
+      },
+      {
+        "url": "https://www.forthamilton.com/",
+        "accessed": "2026-05-17T08:15:00Z"
+      },
+      {
+        "url": "https://www.insidehook.com/food-new-york/fort-hamilton-distillery-industry-city",
+        "accessed": "2026-05-17T08:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T08:15:41.621Z"
+  },
+  {
+    "id": "other-half-brewing-centre-street",
+    "name": "Other Half Brewing — Centre Street",
+    "desc": "Flagship Brooklyn taproom for the cult IPA brewer; BYO food, no kitchen, ~6 min drive from IC.",
+    "longDesc": "Other Half's original Carroll Gardens/Red Hook/Gowanus-border taproom is a NEIPA-and-stout pilgrimage site with a rotating draft list and frequent can releases. There is no Other Half taproom inside Industry City itself — this 195 Centre St location is the closest one, about 2 miles north. The brewery does not serve food and explicitly does not run a regular food-truck rotation; patrons bring in or order delivery (Court Street Grocers, F&F Pizzeria, Via Roma are the house picks).",
+    "url": "https://otherhalfbrewing.com/location/centre-street/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Sat 10:00-00:00, Sun 11:00-21:00",
+    "notes": "Address: 195 Centre St, Brooklyn 11231. Weekend hours: Sat 10am–12am, Sun 11am–9pm (otherhalfbrewing.com/location/centre-street). No on-site food and no scheduled food-truck rotation — outside food welcome, delivery encouraged; Court Street Grocers/F&F Pizzeria/Via Roma recommended by venue. Itinerary contrast for engine: if user wants beer-AND-dinner under one roof, route to Threes/Gowanus or Strong Rope; if user wants top-tier IPAs with a planned food stop before/after, Other Half + Court Street Grocers takeout is the play. Street parking available but tight on weekends; brewery itself recommends F/G train (Smith-9th St) — for a driver coming from IC, allow 8-12 min plus parking hunt. Dog-friendly, kid-friendly when supervised, wheelchair accessible (otherhalfbrewing.com).",
+    "sources": [
+      {
+        "url": "https://otherhalfbrewing.com/location/centre-street/",
+        "accessed": "2026-05-17T08:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/other-half-brewing-brooklyn",
+        "accessed": "2026-05-17T08:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/other-half-brewing-centre-street",
+        "accessed": "2026-05-17T08:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T08:22:23.909Z"
   }
 ]

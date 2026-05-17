@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Strong Rope Brewery Red Hook taproom",
-    "reason": "Another small Red Hook-adjacent brewery for extending the beer-flight track without leaving the 10-min IC radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:47:54.657Z"
-  },
-  {
-    "topic": "Fort Hamilton Distillery Industry City tasting room",
-    "reason": "Spirits counterpart to the Threes/Other Half beer track, walkable inside IC complex",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:47:54.657Z"
-  },
-  {
-    "topic": "Threes Brewing Greenpoint (reopened 2026 with Grand Army South kitchen)",
-    "reason": "Sister venue — gives itineraries a north-Brooklyn equivalent when routing through Greenpoint/Williamsburg instead of Gowanus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:50:00.782Z"
-  },
-  {
-    "topic": "Grand Army Bar (Boerum Hill original — oysters + cocktails)",
-    "reason": "The parent venue; useful as a romantic/late-night drink stop ~12 min from IC to complete the Grand Army family on the corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:50:00.783Z"
-  },
-  {
-    "topic": "Other Half Brewing Industry City taproom — food truck rotation",
-    "reason": "Closest brewery-with-food alternative to Threes inside IC itself; helps the itinerary engine pick between 'stay-in-IC' vs 'drive-to-Gowanus' for beer+dinner",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:50:00.783Z"
-  },
-  {
     "topic": "The Gutter Lower East Side (77 Essex St) — Manhattan sibling location with pub + arcade",
     "reason": "Same-brand sister venue useful if user ever expands beyond Brooklyn; lets the corpus compare LES nightlife vs Brooklyn drive-friendly version",
     "requestedBy": "agent",
@@ -8788,5 +8758,83 @@
     "reason": "Free harbor-view photo stop one block from Strong Rope; strong filler between Royal Palms and the brewery",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T08:11:43.947Z"
+  },
+  {
+    "topic": "Widow Jane Distillery Red Hook tasting room",
+    "reason": "One block from Strong Rope — completes a Van Dyke St booze micro-cluster for the beer-flight/boozy-waterfront track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:13:45.913Z"
+  },
+  {
+    "topic": "Other Half Brewing Carroll Gardens taproom",
+    "reason": "Adjacent IPA-forward brewery 10 min from IC; expands beer-flight track north of Red Hook",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:13:45.913Z"
+  },
+  {
+    "topic": "Industry City guided distillery tour booking flow (Fort Hamilton)",
+    "reason": "Re-research as a bookable experience entry separate from drop-in tasting",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:15:41.645Z"
+  },
+  {
+    "topic": "Standings Hall or Strong Rope Brewery IC cluster",
+    "reason": "Round out the IC alcohol cluster with one more walkable beverage option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:15:41.645Z"
+  },
+  {
+    "topic": "Grand Army South (Carroll Gardens cocktail bar + Threes' kitchen operator)",
+    "reason": "Operator behind both Threes Greenpoint and Threes Gowanus menus — worth a standalone entry as a Carroll Gardens late-night anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:17:50.300Z"
+  },
+  {
+    "topic": "Kings County Brewers Collective (KCBC) Bushwick taproom",
+    "reason": "Alternative driving-friendly Brooklyn brewery if Greenpoint cluster is full; pairs well with Bushwick art-walk itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:17:50.300Z"
+  },
+  {
+    "topic": "Other Half Brewing Domino Park (Williamsburg waterfront taproom)",
+    "reason": "Williamsburg-cluster equivalent to Threes Greenpoint — completes the north-Brooklyn brewery triangle alongside Threes and KCBC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:17:50.300Z"
+  },
+  {
+    "topic": "Long Island Bar — Cobble Hill (classic cocktail bar, Toby Cecchini)",
+    "reason": "Same BoCoCa late-cocktail family as Grand Army, ~10 min from IC; iconic gimlet/martini program rounds out the romantic-nightcap cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:19:59.074Z"
+  },
+  {
+    "topic": "Leyenda — Carroll Gardens (Ivy Mix, Latin-American cocktails)",
+    "reason": "Award-winning cocktail program a few blocks from Grand Army, expands the BoCoCa drinks corpus with a sibling vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:19:59.074Z"
+  },
+  {
+    "topic": "Maison Premiere — Williamsburg (oyster + absinthe bar)",
+    "reason": "The other definitive NYC oysters-and-cocktails benchmark; useful cross-zone counterpart so the corpus has a Williamsburg analog to the Boerum Hill anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:19:59.074Z"
+  },
+  {
+    "topic": "Court Street Grocers sandwich shop — delivery partner for Other Half taproom",
+    "reason": "Pairs with Other Half entry; the brewery's own recommended food source, enables 'beer + curated sandwich' combo slot in the itinerary engine",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:22:23.929Z"
+  },
+  {
+    "topic": "Strong Rope Brewery Red Hook — small-batch brewery between IC and Other Half",
+    "reason": "Third comparison point against Threes and Other Half; closer to IC than either, expands the IC-cluster brewery options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:22:23.929Z"
+  },
+  {
+    "topic": "F&F Pizzeria Carroll Gardens — neapolitan pie near Other Half",
+    "reason": "Same delivery radius as Other Half; lets engine build a no-kitchen-brewery + pizza pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:22:23.929Z"
   }
 ]
