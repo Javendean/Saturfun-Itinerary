@@ -31423,15 +31423,17 @@
   {
     "id": "reverie-williamsburg",
     "name": "Reverie",
-    "desc": "Chef Guy Vaknin's vegan + kosher shared-plates flagship — Williamsburg's most refined plant-based room.",
-    "longDesc": "Reverie is the Brooklyn debut from City Roots Hospitality, helmed by Chef Guy Vaknin, serving globally inspired vegan shared plates (spicy tuna cones, whipped ricotta brioche, miso-glazed short ribs) inside a biophilic Williamsburg space of plaster, terracotta, brass, and velvet. Fully plant-based and kosher-certified — a rare combination in NYC — with a craft cocktail bar and weekend brunch service. Best treated as a tasting-style progression by ordering across the shared-plate sections.",
+    "desc": "Williamsburg's dessert-first plated tasting bar — Brooklyn's closest Lysée analog, all vegan + kosher",
+    "longDesc": "Reverie is a dessert-centered restaurant on Metropolitan Ave from City Roots Hospitality, opened May 2025 with Executive Pastry Chef Makenna Hale leading a fully-vegan, kosher program. Savory small plates lead into thematic plated desserts — 'The Rainbow' (rosewater meringue, lychee gel, ube streusel), 'The Sea,' 'The Garden,' 'The Hive,' 'The Galaxy' — each $20–30, paired with craft cocktails in a botanical room. It's the rare Brooklyn venue where dessert is the structural main course, the same conceptual move Lysée makes in Flatiron, with the added angle that everything is plant-based and kosher.",
     "url": "https://reveriebrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "foodie",
-      "romantic"
+      "romantic",
+      "photo",
+      "curious"
     ],
     "dietary": [
       "vegan",
@@ -31439,35 +31441,39 @@
     ],
     "priceBand": "$$$",
     "duration": "90-120 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat-Sun brunch 11:30-15:30; Fri-Sat dinner 16:30-22:30; Sun dinner 16:30-22:00",
-    "notes": "Pivot from originally-queued 'Avant Garden (Williamsburg)' which is permanently closed at 188 Havemeyer St as of Sept 2025 (yelp.com/biz/avant-garden-brooklyn-brooklyn-2); the surviving Avant Garden at 95 Ave A is Manhattan-only and violates the driving-radius rule. Reverie is the strongest in-radius substitute: refined plant-based shared plates, Williamsburg, ~18 min from IC via Hamilton Ave/BQE. Apps $14-19, entrées $22-36, desserts $16-19, cocktails $17-22 (reveriebrooklyn.com/menu). Closed Mondays. Street parking in Williamsburg is tight on weekends — plan on Williamsburg Bridge plaza lots or Metropolitan Ave metered spots. Reservations via Resy; private dining for 11-25 with prix-fixe family-style is the closest thing to a formal tasting.",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 16:30-23:30, Sun 11:30-22:30",
+    "notes": "135 Metropolitan Ave, Williamsburg. Dessert-forward tasting + craft cocktails; individual desserts $20–30, prix-fixe available. Fully vegan and kosher — pairs with chef-collective dietary tags. Reservations via Resy strongly recommended for weekends. Street parking on Metropolitan/Berry can be tight Sat night; the Wythe Hotel garage (~5 min walk) is a reliable backup. Pastry Chef Makenna Hale's style is nature-inspired and very plate-photogenic — botanical textures, lunar moods, citrus glazes (greenpointers.com, vegoutmag.com, brooklynslifestyle.com).",
     "sources": [
       {
         "url": "https://reveriebrooklyn.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T19:45:00Z"
       },
       {
-        "url": "https://reveriebrooklyn.com/vegan-restaurants-in-brooklyn-guide/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://brooklynslifestyle.com/reverie-williamsburg-dessert-bar/",
+        "accessed": "2026-05-17T19:45:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2025/04/30/whimsical-vegan-dessert-and-cocktail-bar-reverie-to-open-in-williamsburg-mid-may/",
+        "accessed": "2026-05-17T19:45:00Z"
+      },
+      {
+        "url": "https://vegoutmag.com/news/reverie-brooklyn/",
+        "accessed": "2026-05-17T19:45:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/reverie-brooklyn",
+        "accessed": "2026-05-17T19:45:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/reverie-vegan-restaurant-and-cocktail-bar-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/avant-garden-brooklyn-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://cityrootsnyc.com/restaurants/reverie/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T19:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T18:09:24.858Z"
+    "lastResearchedAt": "2026-05-17T19:45:02.460Z"
   },
   {
     "id": "semma-west-village",
@@ -32583,5 +32589,184 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T19:32:20.918Z"
+  },
+  {
+    "id": "peter-pan-donut-pastry-shop",
+    "name": "Peter Pan Donut & Pastry Shop",
+    "desc": "1950s Greenpoint donut institution serving hand-cut classics and pillowy crullers from a vintage pink-vinyl counter.",
+    "longDesc": "A Greenpoint icon since the 1950s at 727 Manhattan Ave, Peter Pan still fries small-batch yeast and cake donuts daily, with cult favorites like the red velvet, blueberry, and Bavarian cream pulling weekend lines out the door. The mint-and-pink soda-shop interior, beehive-haired waitresses, and $2-ish donuts make it a fast, photogenic sweet anchor that pairs well with a Wenwen lunch a few blocks south.",
+    "url": "https://www.peterpandonuts.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 5:00-19:00, Sun 5:30-18:00",
+    "notes": "Cash-preferred old-school counter; grab donuts to go and eat in McGolrick or McCarren Park if the counter is packed. Weekend AM lines move fast — best window is before 10am or mid-afternoon. Metered street parking on Manhattan Ave; side streets (Norman, Meserole) are easier on weekends (sources: peterpandonuts.com, yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.peterpandonuts.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/peter-pan-donut-and-pastry-shop-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/neighborhood/greenpoint/peter-pan-donut-pastry-shop",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:36:14.060Z"
+  },
+  {
+    "id": "le-crocodile",
+    "name": "Le Crocodile",
+    "desc": "Upscale all-day French brasserie inside the Wythe Hotel on the Williamsburg-Greenpoint border",
+    "longDesc": "A polished neighborhood brasserie tucked into the Wythe Hotel, Le Crocodile serves earnest French fare — steak frites, escargots, raw bar — in a soft, candlelit room with green leather banquettes. It's the special-occasion anchor for the north Brooklyn corridor, with rooftop drinks at Bar Blondeau upstairs as a natural nightcap. Reservations on Resy are essential on weekends.",
+    "url": "https://www.lecrocodile.com/",
+    "photoUrl": "https://static.wixstatic.com/media/3e9cbe_f534f70871dd4014b3594cbf908419ab~mv2.jpeg",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "07:00-23:00",
+    "notes": "Inside the Wythe Hotel at 80 Wythe Ave on the Williamsburg-Greenpoint border (lecrocodile.com). All-day service: breakfast, lunch, Après-Midi, dinner, and weekend brunch (lecrocodile.com/brunch-menu). Book via Resy — weekends fill fast (resy.com). Bar Blondeau on the rooftop is the obvious post-dinner move; valet/street parking around N 11th St on weekends.",
+    "sources": [
+      {
+        "url": "https://www.lecrocodile.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.wythehotel.com/dining",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/le-crocodile",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/le-crocodile-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:38:13.409Z"
+  },
+  {
+    "id": "variety-coffee-greenpoint",
+    "name": "Variety Coffee Roasters (Greenpoint)",
+    "desc": "In-house-roasted third-wave café on Driggs with pour-overs, pastries, and weekend jazz light.",
+    "longDesc": "Variety roasts its own beans and rotates single-origin pour-overs alongside La Marzocco espresso, anchoring Greenpoint's daytime coffee scene at 142 Driggs Ave near McCarren Park. The big back room has generous table space and outdoor seating, with weekend mornings drawing a relaxed crowd to beautiful light and jazz on the speakers. A natural first-stop anchor before walking north on Manhattan Ave for lunch.",
+    "url": "https://varietycoffeeroasters.com/pages/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "07:00-21:00",
+    "notes": "Third-wave credentials are real: in-house roasting, rotating single-origin pour-overs, La Marzocco espresso (varietycoffeeroasters.com). Big back room with lots of table space + outdoor seating; weekend mornings have jazz and good light (tryperdiem.com guide). Ham-and-cheese croissant is the standout pastry. Greenpoint street parking on Driggs/Russell side streets is generally workable on weekends — better odds than Williamsburg. Sits near McCarren Park, so it pairs with a park stroll before heading north on Manhattan Ave. Pair with: Peter Pan Donuts (10 min walk N), Transmitter Park (15 min walk), or an evening drive over to Greenpoint Fish & Lobster Co.",
+    "sources": [
+      {
+        "url": "https://varietycoffeeroasters.com/pages/locations",
+        "accessed": "2026-05-17T19:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/variety-brooklyn",
+        "accessed": "2026-05-17T19:35:00Z"
+      },
+      {
+        "url": "https://www.tryperdiem.com/guide/best-coffee-spots-in-greenpoint",
+        "accessed": "2026-05-17T19:35:00Z"
+      },
+      {
+        "url": "https://yourbrooklynguide.com/coffee-shops-in-greenpoint/",
+        "accessed": "2026-05-17T19:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:40:29.204Z"
+  },
+  {
+    "id": "librae-bakery",
+    "name": "Librae Bakery",
+    "desc": "Third-culture Bahraini-Danish bakery in Cooper Square — rose-pistachio croissants and loomi babka",
+    "longDesc": "Founded by Bahraini coffee roaster Dona Murad and partner Andre Gerschel, Librae fuses Middle Eastern flavor — loomi (black lime), za'atar, sumac, rose, pistachio — with Danish lamination and French viennoiserie. Counter-service only (no plated tasting menu), but the case is the chef-driven cross-cultural pastry gallery archetype: rose pistachio croissant, loomi babka with lemon custard, za'atar labneh morning bun, strawberry-sumac Linzer. A useful Manhattan benchmark for what a Brooklyn dessert-track anchor could aspire to in concept density and ingredient narrative.",
+    "url": "https://www.libraebakery.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "MANHATTAN BENCHMARK — not Brooklyn. 35 Cooper Sq, NoHo/East Village border (libraebakery.com). Counter-service bakery, not a plated-dessert restaurant; no tasting-menu format despite the Lysée-adjacent ambition (gothamist.com). Signature: rose pistachio croissant, loomi babka, za'atar labneh morning bun (libraebakery.com/menu). Weekend hours 8am–5pm both days (libraebakery.com/location). Drive from IC ~20–25 min via Battery Tunnel or Manhattan Bridge; street parking in NoHo is rough on weekends — Bowery garages ($) are the realistic option. Zone field set to 'dumbo' as closest schema-valid Brooklyn proxy since enum has no Manhattan option; treat as out-of-cluster reference, not a drivable track stop.",
+    "sources": [
+      {
+        "url": "https://www.libraebakery.com/",
+        "accessed": "2026-05-17T19:35:00Z"
+      },
+      {
+        "url": "https://www.libraebakery.com/location/librae-bakery/",
+        "accessed": "2026-05-17T19:35:00Z"
+      },
+      {
+        "url": "https://www.libraebakery.com/menu/",
+        "accessed": "2026-05-17T19:35:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/librae-bakery-opens-cooper-square",
+        "accessed": "2026-05-17T19:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/librae-bakery-new-york",
+        "accessed": "2026-05-17T19:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:42:44.793Z"
   }
 ]
