@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Bush Terminal Piers Park free lot (43rd St & 1st Ave) as IC overflow + waterfront walk",
-    "reason": "Adjacent free lot 8 min walk from IC south end; doubles as a photo/scenic stop, expanding the IC cluster southward",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:29:26.681Z"
-  },
-  {
-    "topic": "R train Sunset Park-36 St station walk-up access to Industry City",
-    "reason": "Transit fallback entry — useful when out-of-town friends join without a car, or when the lot is full during peak events",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:29:26.682Z"
-  },
-  {
-    "topic": "Liberty View Industrial Plaza garage (850 3rd Ave) weekend rates and walk to IC",
-    "reason": "Closest commercial overflow if IC's own lot is at capacity during Markets For Makers / Holiday Shops weekends",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:29:26.682Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace (714 65th St) — largest Sunset Park dim sum hall with weekend cart service",
-    "reason": "alternate bigger-group anchor when Pacificana waits get long; same 8th Ave corridor, ~7 min from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:31:19.907Z"
-  },
-  {
-    "topic": "Park Asia (6521 8th Ave) — purple-chair dim sum hall with walking soup stations",
-    "reason": "photo-vibe variant in same zone; floor-to-ceiling windows favor visual itineraries",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:31:19.907Z"
-  },
-  {
     "topic": "Bamboo Garden (6409 8th Ave) — roast meats + dim sum carts",
     "reason": "third Sunset Park dim sum option to round out the corpus; specializes in roast duck/pork for non-cart cravings",
     "requestedBy": "agent",
@@ -13708,5 +13678,95 @@
     "reason": "Top weekend pairing within 8 min walk of Devoción — completes a Williamsburg morning track with food variety + outdoor photo ops",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T23:48:10.270Z"
+  },
+  {
+    "topic": "Sunset Park (the actual hilltop park at 5th Ave & 43rd St) — skyline view + playground",
+    "reason": "Highest panoramic Manhattan view in Brooklyn, 4 min drive from IC, complements the waterfront-level Bush Terminal view and adds a kid/family-friendly anchor to the IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:50:02.268Z"
+  },
+  {
+    "topic": "Brooklyn Army Terminal Pier 4 ferry landing + atrium tour",
+    "reason": "Another adjacent free industrial-waterfront stop ~5 min south of IC; pairs with Bush Terminal as a 'south of IC' mini-cluster and unlocks the NYC Ferry South Brooklyn route as an optional non-driving leg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:50:02.268Z"
+  },
+  {
+    "topic": "Costco Sunset Park rooftop parking — IC-adjacent overflow alternative",
+    "reason": "Practical fallback: free-to-members rooftop deck 6 min from IC with skyline views; expands the parking-strategy corpus for peak Saturday afternoons when Bush Terminal's lot fills",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:50:02.268Z"
+  },
+  {
+    "topic": "9 St F/G station walk-up access to Industry City",
+    "reason": "Alternate subway fallback from the F/G corridor (Park Slope/Carroll Gardens guests) — longer walk but covers a different ridership.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:52:22.824Z"
+  },
+  {
+    "topic": "NYC Ferry South Brooklyn route Brooklyn Army Terminal stop walk to IC",
+    "reason": "Water-based transit fallback from Manhattan/Wall St/DUMBO; visually striking arrival and weekend-friendly for out-of-town visitors.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:52:22.824Z"
+  },
+  {
+    "topic": "Citi Bike dock at 2nd Ave & 36 St adjacent to Industry City",
+    "reason": "Last-mile micromobility option pairs naturally with the R-train fallback and with car-free friend visits.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:52:22.824Z"
+  },
+  {
+    "topic": "Industry City official parking garages — Building 1 lot and 36th St entrance rates",
+    "reason": "Primary IC parking baseline to compare against Liberty View overflow",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:54:38.532Z"
+  },
+  {
+    "topic": "Bush Terminal / 882 3rd Ave SP+ garage weekend rates",
+    "reason": "Second-closest commercial garage south of IC if both Liberty View and IC lots fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:54:38.532Z"
+  },
+  {
+    "topic": "Table 87 Coal Oven Pizza at Liberty View — quick slice spot for IC visitors",
+    "reason": "On-site dining at the same parking address; natural pre-IC grab-and-go",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:54:38.532Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden (775A 49th St, Sunset Park) — Yunnan rice noodles as a non-dim-sum 8th Ave corridor lunch alternative",
+    "reason": "rounds out the Sunset Park cluster with a different regional cuisine, sub-10-min from IC, walk-in friendly when dim sum halls are slammed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:56:44.397Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House (4801 8th Ave) — under-$10 lamb dumpling counter for quick stop before/after dim sum",
+    "reason": "tiny price band + 4-min drive from East Harbor makes it a natural snack-stop pairing for the dim sum track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:56:44.397Z"
+  },
+  {
+    "topic": "Bagels by the Park or Brooklyn Commune for non-Chinese morning alternative within 8 min of IC",
+    "reason": "fallback morning anchor for guests who don't want Chinese breakfast, keeping the same start-near-IC pattern",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:56:44.397Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace (Sunset Park dim sum)",
+    "reason": "Infatuation's preferred dim sum hall a few blocks from Park Asia; rounds out the 8th-Ave dim sum cluster for foodie tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:59:09.696Z"
+  },
+  {
+    "topic": "Bamboo Garden Sunset Park dim sum",
+    "reason": "Third pillar of Sunset Park's cart-service dim sum scene; gives the corpus a 3-restaurant Cantonese subcluster within 12 min of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:59:09.696Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 8th Ave Brooklyn",
+    "reason": "$1 boiled-dumpling counter spot for a 'cheap stop after dim sum splurge' contrast pairing in the same neighborhood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:59:09.696Z"
   }
 ]
