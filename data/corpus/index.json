@@ -5817,8 +5817,8 @@
   {
     "id": "threes-brewing-gowanus",
     "name": "Threes Brewing (Gowanus)",
-    "desc": "Sprawling brewery + beer garden with The Meat Hook food, coffee bar, and a music venue out back",
-    "longDesc": "Threes' Gowanus flagship at 333 Douglass St is a working brewery, brewpub, beer garden, and music venue all in one. Day-drink lagers and IPAs on the front patio, grab a sausage or smash burger from The Meat Hook kitchen, then drift to the back room for shows; Ninth Street Espresso handles caffeine from 8am. Five-minute walk from Brooklyn Boulders / Gowanus climbing — ideal post-send pint.",
+    "desc": "Pilsner-leaning Gowanus brewery with year-round yard, kitchen, and music venue under one roof.",
+    "longDesc": "Threes' flagship Gowanus taproom at 333 Douglass St opened in 2014 as a working brewery, beer shop, and cafe by day, and brewpub/beer garden/music venue by night — high ceilings, skylight, visible fermentation tanks, and a winterized outdoor yard. The beer lineup leans clean lagers and pilsners (with mixed-culture and hoppy options), and food comes from Grand Army South 5-11pm with Ninth Street Espresso pouring coffee 8am-3pm. About 6 minutes' walk from Movement Gowanus, making it the natural lighter-beer counterweight to Other Half's hop-forward Carroll Gardens taproom after a climbing session.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5827,32 +5827,30 @@
       "chill",
       "foodie"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
-    "notes": "333 Douglass St, Brooklyn NY 11217 (Yelp). Fully-functioning brewery + coffee shop + beer shop by day, brewpub + beer garden + music venue by night (threesbrewing.com). Food from The Meat Hook; Ninth Street Espresso 8am-3pm daily (threesbrewing.com). Street parking in Gowanus is generally findable on weekends; ~5 min walk to The Cliffs at Gowanus / Brooklyn Boulders, making this a natural post-climb refuel.",
+    "notes": "333 Douglass St between 3rd & 4th Aves; ~6-min walk from Movement Gowanus climbing gym (source: threesbrewing.com). Kitchen Sat 12-23:00, Sun 12-22:00 via Grand Army South (source: threesbrewing.com/pages/gowanus). Pilsner/lager-forward complement to Other Half's hop-heavy lineup — fills the 'lighter beer' slot in a post-climb cluster. Street parking on Douglass/3rd Ave is generally findable on weekends; multiple paid lots within 3 blocks. ~1.7 mi / 12 min drive from Industry City via 3rd Ave.",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-17T07:10:00Z"
+        "accessed": "2026-05-17T08:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-17T07:10:00Z"
+        "accessed": "2026-05-17T08:00:00Z"
       },
       {
         "url": "https://www.beermenus.com/places/18430-threes-brewing-gowanus",
-        "accessed": "2026-05-17T07:10:00Z"
+        "accessed": "2026-05-17T08:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T07:17:37.670Z"
+    "lastResearchedAt": "2026-05-17T07:50:01.459Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -25096,5 +25094,129 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T07:29:37.518Z"
+  },
+  {
+    "id": "grand-army-bar",
+    "name": "Grand Army Bar",
+    "desc": "Boerum Hill oyster + craft cocktail den from Damon Boelte — date-night anchor, no beer-bar vibe",
+    "longDesc": "Acclaimed seafood-and-cocktail bar at the corner of State & Hoyt, with a curated raw bar of East/West Coast oysters, seasonal cocktails by founder Damon Boelte, and composed plates like smoked octopus and hamachi from Chef Jon Bignelli. Weekend service starts at 2pm with a 2–4pm happy hour: a dozen oysters for $25 plus $1 off wine/beer. Dim, intimate room — the romantic counterpoint to a beer-forward stop.",
+    "url": "https://www.grandarmybar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "Sat 14:00-01:00, Sun 14:00-22:00",
+    "notes": "Address: 336 State St (corner of State + Hoyt), Brooklyn, NY 11217 (grandarmybar.com). Weekend happy hour 2pm-4pm: dozen oysters $25 + $1 off wine/beer (grandarmybar.com). Phone (718) 643-1503. Street parking in Boerum Hill is doable on weekends but tight; nearby municipal/garage options on Schermerhorn. Sister project to Sunken Harbor Club. Address technically Boerum Hill — zoned as cobble-hill since that's the closest valid zone in the corpus schema.",
+    "sources": [
+      {
+        "url": "https://www.grandarmybar.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/grand-army-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://punchdrink.com/venues/grand-army/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:43:52.223Z"
+  },
+  {
+    "id": "threes-brewing-greenpoint",
+    "name": "Threes Brewing Greenpoint",
+    "desc": "Reopened Greenpoint brewpub pouring Threes flagships with Grand Army South's bar menu — burgers, fried chicken, chili crab fries.",
+    "longDesc": "Threes Brewing's Greenpoint outpost grand-reopened March 6, 2026 after a full renovation — new booths, refreshed bar, Main Bar with stained glass plus a speakeasy 'Studio' and 'The Parlor' beer shop / event room. The food is now run by Grand Army South under Head Chef Samuel Drake Jones, whose menu spans snacks (popcorn, corn ribs, fried shrimp), salads, sandwiches (chicken club, hot dog, beef/falafel/shrimp burgers), and 'house specialties' like fried chicken, chili crab fries, steak frites, and a dirt-cup dessert. Beer side keeps Threes flagships Vliet, Logical Conclusion, Gowanus Gold, and All or Nothing alongside rotating seasonals.",
+    "url": "https://threesbrewing.com/pages/greenpoint",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
+    "notes": "Outside the 25-min IC radius — use as North Brooklyn track anchor or overflow, not IC cluster. No reservations; walk-in only. Street parking on Franklin St / side streets; weekend turnover is decent but plan a 5-10 min loop. Renovation March 2026 brought new Grand Army South kitchen (sister to Gowanus flagship) — first menu under Chef Samuel Drake Jones (Greenpointers, 2026-03-06). The Parlor doubles as a packaged-beer shop for to-go cans/bottles. Falafel burger + shaved veggies + Papa Dulce (sweet potato, farro, salsa rosa, avocado, queso fresco) cover vegetarian needs (Greenpointers menu list).",
+    "sources": [
+      {
+        "url": "https://greenpointers.com/2026/03/06/threes-brewing-reopens-greenpoint-outpost-with-new-menu-from-grand-army-south/",
+        "accessed": "2026-05-17T07:45:00Z"
+      },
+      {
+        "url": "https://threesbrewing.com/pages/greenpoint",
+        "accessed": "2026-05-17T07:45:00Z"
+      },
+      {
+        "url": "https://cititour.com/NYC_News/Threes-Brewing-Reopens-Greenpoint-Brewpub/10465",
+        "accessed": "2026-05-17T07:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:45:53.434Z"
+  },
+  {
+    "id": "finback-brewery-gowanus",
+    "name": "Finback Brewery — Brooklyn (Gowanus)",
+    "desc": "Gowanus taproom with real kitchen (Dumpling Up), gin distillery, and coffee roaster all under one roof",
+    "longDesc": "Finback's Brooklyn outpost at 545 President St is the rare brewery with a legit in-house kitchen — Dumpling Up serves dumplings, Asian pub snacks, wings, and hot fries based on co-founder Basil Lee's mother's recipes. The 20-tap industrial space also houses Halftone Spirits (gin distillery) and Invisible Force Coffee, so one stop covers beer pairing, after-dinner spirits, and a coffee handoff. Outdoor seating, ~12 min drive from Industry City via 3rd Ave / Prospect Expy.",
+    "url": "https://finbackbrewery.com/spaces",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Fri-Sat 12:00-00:00, Sun 12:00-20:00",
+    "notes": "Kitchen (Dumpling Up) operates Wed-Sun only — confirm before a Mon/Tue stop (finbackbrewery.com). Multi-tenant model means you can chase a beer flight with gin tasting at Halftone Spirits or pivot to Invisible Force Coffee without leaving the building (brownstoner.com). Gowanus parking on President/Nevins is generally findable on weekends but tightens after 6pm. Address: 545 President St, Brooklyn (Yelp listing).",
+    "sources": [
+      {
+        "url": "https://finbackbrewery.com/spaces",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/finback-brewery-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brownstoner.com/brooklyn-life/gowanus-brewery-finback-545-president-street-outdoor-dining-opens-bp/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://everybodyhatesatourist.net/best-craft-beer-in-gowanus-brooklyn-new-york-breweries-taprooms-beer-bars-bottle-shops/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T07:48:07.556Z"
   }
 ]

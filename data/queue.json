@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Threes Brewing Gowanus taproom (post-climb beer)",
-    "reason": "Walkable from Movement Gowanus; natural climb-then-drink pairing for an active track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:32:21.763Z"
-  },
-  {
-    "topic": "Grand Army Bar (original Boerum Hill location) oyster + cocktail menu",
-    "reason": "Parent venue — different vibe (oyster bar / cocktails) gives a romantic-tier alternative for itineraries that skip beer",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:34:38.662Z"
-  },
-  {
-    "topic": "Threes Brewing Greenpoint outpost reopening — Grand Army South Greenpoint menu",
-    "reason": "Sister kitchen reopened March 2026; useful as overflow or for North Brooklyn track even though it's outside the 25-min IC radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:34:38.662Z"
-  },
-  {
-    "topic": "Other Gowanus/Park Slope brewery+kitchen pairings within 15 min of IC (Strong Rope, Other Half Industry City, Finback)",
-    "reason": "Round out the brewery-with-real-food cluster so itinerary can offer 2-3 dinner-pairing options, not just one",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:34:38.662Z"
-  },
-  {
-    "topic": "Threes Brewing Gowanus taproom",
-    "reason": "Closer to Movement Gowanus than Other Half; pilsner/lager-leaning complement to OHB's hop-forward lineup — fills the 'lighter beer' slot in the post-climb cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:36:39.747Z"
-  },
-  {
     "topic": "Folksbier Brauerei Carroll Gardens",
     "reason": "Tiny Carroll Gardens lager-focused brewery <8 min from IC; rounds out the neighborhood beer track with a German-style counterpoint to OHB hops",
     "requestedBy": "agent",
@@ -8644,5 +8614,83 @@
     "reason": "5-min walk from Bouldering Project; natural pairing for a climb→drink sequence and fills the Gowanus drinks slot",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T07:39:55.057Z"
+  },
+  {
+    "topic": "Other Half Brewing Carroll Gardens flagship",
+    "reason": "Adjacent high-rated Brooklyn brewpub ~10 min from IC, expands brewery corpus for active tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:41:56.737Z"
+  },
+  {
+    "topic": "Sixpoint Brewery tasting room Red Hook",
+    "reason": "Rounds out the brewery set with a Red Hook anchor closer to IC than Gowanus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:41:56.737Z"
+  },
+  {
+    "topic": "Sunken Harbor Club tiki bar Brooklyn Heights menu",
+    "reason": "Damon Boelte's other bar — tiki/nautical romantic alternative, sits atop Gage & Tollner, expands Brooklyn Heights nightlife coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:43:52.243Z"
+  },
+  {
+    "topic": "Maison Premiere oyster happy hour Williamsburg",
+    "reason": "Direct comparable — absinthe + oyster bar with renowned happy hour, gives romantic-tier oyster option in Williamsburg cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:43:52.243Z"
+  },
+  {
+    "topic": "Leyenda cocktail bar Carroll Gardens",
+    "reason": "Ivy Mix's Latin cocktail bar near Grand Army — chains a Boerum Hill/Carroll Gardens romantic crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:43:52.243Z"
+  },
+  {
+    "topic": "Grand Army South (Gowanus flagship) — bar menu at Threes Brewing Gowanus",
+    "reason": "Same kitchen, much closer to IC (~10 min drive); likely a stronger IC-cluster fit than the Greenpoint outpost",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:45:53.455Z"
+  },
+  {
+    "topic": "Greenpoint Fish & Lobster Co. raw bar inside Threes Greenpoint context",
+    "reason": "Adjacent Greenpoint seafood anchor often paired with Threes visits — useful for two-stop North Brooklyn track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:45:53.455Z"
+  },
+  {
+    "topic": "Other North Brooklyn brewpubs 20-30 min from IC (Other Half Williamsburg, Kings County Brewers Collective)",
+    "reason": "Builds out the overflow North Brooklyn beer track when IC-radius is exhausted",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:45:53.455Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus — brewery with rotating chef residencies and full food program",
+    "reason": "Strongest direct alternative to Finback for a Gowanus brewery+real-kitchen pairing; rotating residency model gives the itinerary a third dinner-pairing option that changes seasonally",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:48:07.573Z"
+  },
+  {
+    "topic": "Other Half Brewing Industry City flagship — taproom food/pop-up situation on weekends",
+    "reason": "Already in the corpus as a candidate but never deep-researched; need to confirm whether its food is rotating pop-ups vs. a real kitchen so itinerary can rank it honestly against Finback",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:48:07.573Z"
+  },
+  {
+    "topic": "Strong Rope Red Hook — brewery without kitchen but with Hometown BBQ / Hoek Pizza delivery partnerships",
+    "reason": "Doesn't qualify as brewery+kitchen on its own (no in-house food per yelp/strongropebrewery.com), but pairs naturally with a Hometown BBQ pickup — worth modeling as a two-stop combo node instead of a single venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:48:07.573Z"
+  },
+  {
+    "topic": "Grand Army South food menu at Threes Brewing Gowanus",
+    "reason": "Kitchen partner at Threes — pin down whether food is strong enough to make Threes a meal stop or strictly a drinks stop within the Gowanus post-climb cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:50:01.480Z"
+  },
+  {
+    "topic": "Finback Brewery Gowanus (if open) or alternative Gowanus brewery",
+    "reason": "Expands the cluster's beer corpus and gives the chat agent multiple swappable options when OHB or Threes is too crowded",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:50:01.480Z"
   }
 ]
