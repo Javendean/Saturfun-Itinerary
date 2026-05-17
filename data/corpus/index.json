@@ -1825,55 +1825,46 @@
   {
     "id": "insa-gowanus",
     "name": "Insa",
-    "desc": "Gowanus Korean BBQ + private karaoke rooms; tabletop grill dinner then noraebang under one roof.",
-    "longDesc": "Insa is a flagship Korean BBQ spot at 328 Douglass St in Gowanus with five themed private karaoke rooms behind the dining room. Tabletop grilling (galbi, pork belly, banchan) flows straight into a noraebang night — small rooms (up to ~10) run $60/hr and large rooms (up to ~22) run $160/hr. Open 5:30pm–2am Fri/Sat with full bar (soju cocktails, makgeolli slushies), making it the closest IC-anchored alternative to Goldie's K-Town runs.",
+    "desc": "Korean BBQ + private karaoke rooms in Gowanus — late-night anchor for the cluster",
+    "longDesc": "Tabletop Korean BBQ, a full bar, and five themed private karaoke rooms under one roof at 328 Douglass St. Dining room runs 5:30–10pm Fri/Sat, but karaoke goes until 2am, making it the cluster's strongest late-night handoff after a Claro or Threes stop. Vegetarian-friendly banchan and bibimbap, group-sized booths, and bookable rooms keep it flexible for 2–8 people.",
     "url": "https://insabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "foodie",
-      "active",
-      "curious"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$$",
-    "duration": "2.5-3 hr",
-    "driveFromIC": "11 min",
-    "hoursWeekend": "Sat 17:30-02:00, Sun 16:00-22:00",
-    "notes": "Five themed karaoke rooms with state-of-the-art sound and multi-language song catalog; small room ~$60/hr (≤10 ppl), large ~$160/hr (≤22 ppl) (insabrooklyn.com/karaoke). Reserve karaoke separately from dinner via Resy/OpenTable — rooms book out weekends. Closed Mon/Tue. Street parking on Douglass/3rd Ave is feasible on weekends; nearby Gowanus lots as backup. About 11 min drive from Industry City via 3rd Ave (no tolls). Replaces Manhattan K-Town trips for IC-anchored evenings — pairs naturally with a Sunset Park or Industry City pre-dinner drink stop.",
+    "priceBand": "$$",
+    "duration": "2-3 hours",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri-Sat 5:30pm-2am (karaoke), Sun 4pm-10pm",
+    "notes": "Address is 328 Douglass St, Brooklyn NY 11217 — not Union St as briefed; venue is the Gowanus KBBQ+karaoke landmark (insabrooklyn.com). Dining room Fri-Sat 5:30-10pm, Sun 4:30-9pm; karaoke rooms Fri-Sat 5:30pm-2am, Sun 4pm-10pm (insabrooklyn.com/hours-and-location). 20% gratuity auto-added to karaoke reservations. Open Mic Karaoke in the bar Thu 8:30pm. Five themed rooms of varying sizes — book ahead on weekends.",
     "sources": [
       {
-        "url": "https://insabrooklyn.com/karaoke",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://insabrooklyn.com/",
+        "accessed": "2026-05-17T17:20:00Z"
       },
       {
         "url": "https://insabrooklyn.com/hours-and-location",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T17:20:00Z"
       },
       {
-        "url": "https://insabrooklyn.com/private-events",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/insa-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/insa",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://insabrooklyn.com/karaoke",
+        "accessed": "2026-05-17T17:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsPhoto": true,
-    "needsAiBackground": true,
+    "needsAiBackground": false,
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 9 — 10:00 PM Late Night (NEW)",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-17T13:52:36.439Z"
+    "lastResearchedAt": "2026-05-17T17:24:18.215Z"
   },
   {
     "id": "bookoff-animelab-industry-city",
@@ -14204,15 +14195,16 @@
   {
     "id": "convivium-osteria",
     "name": "Convivium Osteria",
-    "desc": "Romantic old-world Park Slope osteria with Italian/Spanish/Portuguese roots, candlelit cellar and back garden.",
-    "longDesc": "Open since 2000 at 68 5th Ave near Barclays Center, Convivium is consistently named one of NYC's most romantic restaurants — rustic agriturismo dining room, a candlelit wine cellar, and a back garden in season. The kitchen leans seasonal Italian with Iberian crossover (Spain/Portugal influences in the wine list and select dishes), making it a strong non-Mexican romantic-foodie swap for the IC drive-radius itinerary.",
+    "desc": "Rustic Mediterranean-Italian in Park Slope with a candlelit wine cellar and back garden",
+    "longDesc": "Long-running Park Slope osteria (since 2000) doing seasonal Italian, Spanish and Portuguese-leaning Mediterranean cooking — handmade pasta, lamb, whole branzino — in a candle-heavy farmhouse room. Two romantic alternates: a stone wine cellar (intimate, reservable up to 24) and a small back garden open on warm nights. Strong Claro fallback: same date-night register, same price band, but with a phone-optional OpenTable workflow.",
     "url": "https://conviviumosteria.com/",
-    "photoUrl": "",
+    "photoUrl": "https://conviviumosteria.com/wp-content/uploads/2019/06/Italian-Restaurant-Brooklyn-NYC.jpg",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
+      "foodie",
       "romantic",
-      "foodie"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
@@ -14220,26 +14212,30 @@
     "priceBand": "$$$",
     "duration": "90-120 min",
     "driveFromIC": "13 min",
-    "hoursWeekend": "Sat 11:00-15:00 & 17:00-22:30; Sun 11:00-15:00 & 17:00-21:30",
-    "notes": "Park Slope dinner anchor for non-Mexican romantic variants. Reserve via OpenTable; request the back garden (seasonal) or wine cellar for the strongest atmosphere (yelp.com, conviviumosteria.com). ~13 min drive from Industry City via 4th Ave; weekend street parking on side streets off 5th Ave is feasible but tight — Bergen St garage as backup. Closed Mondays. Cuisine description on the official site emphasizes seasonal Italian with old-world Italy/Spain/Portugal traditions (conviviumosteria.com).",
+    "hoursWeekend": "Sat 11:00-15:00 & 17:00-22:30, Sun 11:00-15:00 & 17:00-21:30",
+    "notes": "68 5th Ave at Bergen, near Barclays — street parking on St Marks/Bergen side streets is workable on weekend evenings; Atlantic Terminal garage is the safe backup. Reservations via OpenTable (no phone needed, unlike Claro). Ask for the cellar or garden table when booking — both are the reason to come. Brunch Sat/Sun 11-3 if dinner is full. (https://conviviumosteria.com/, https://www.opentable.com/r/convivium-osteria)",
     "sources": [
       {
         "url": "https://conviviumosteria.com/",
-        "accessed": "2026-05-16T15:46:00Z"
+        "accessed": "2026-05-17T17:20:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/convivium-osteria-brooklyn",
-        "accessed": "2026-05-16T15:46:00Z"
+        "accessed": "2026-05-17T17:20:00Z"
       },
       {
         "url": "https://www.opentable.com/r/convivium-osteria",
-        "accessed": "2026-05-16T15:46:00Z"
+        "accessed": "2026-05-17T17:20:00Z"
+      },
+      {
+        "url": "https://conviviumosteria.com/private-dining/",
+        "accessed": "2026-05-17T17:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T15:56:22.594Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:26:14.942Z"
   },
   {
     "id": "bar-bruno-carroll-gardens",
@@ -30564,5 +30560,137 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T17:15:01.639Z"
+  },
+  {
+    "id": "al-di-la-trattoria",
+    "name": "al di là Trattoria",
+    "desc": "Old-world Northern Italian Park Slope institution since 1998 — rustic, romantic, beloved for handmade pastas.",
+    "longDesc": "A Park Slope mainstay since 1998 helmed by chef Anna Klinger, al di là serves rustic Northern Italian — Venetian-leaning — out of an intimate dining room with an attached wine bar (al di là Vino) next door for the wait. Standouts include the tagliatelle al ragù, malfatti, and beet ravioli; expect first-name regulars and a no-reservations door policy for parties under 6 (groups of 6–10 via Resy). Historically famous for being cash-only; confirm at the door (718-783-4565) as payment policy may have evolved.",
+    "url": "https://www.aldilatrattoria.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Fri-Sat 17:00-22:00; Sun closed",
+    "notes": "248 5th Ave (at Carroll St), Park Slope 11215. ~2.5 mi from Industry City via 3rd Ave. Walk-ins for parties <6; reservations on Resy for 6-10. Wine bar al di là Vino next door handles overflow waits. Closed Sundays — Saturday is the night (Infatuation review, Resy listing).",
+    "sources": [
+      {
+        "url": "https://www.aldilatrattoria.com/location/al-di-la-trattoria/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/al-di-la-trattoria",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/al-di-la",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/al-di-la-trattoria-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T17:17:00.863Z"
+  },
+  {
+    "id": "faro-bushwick",
+    "name": "Faro (CLOSED)",
+    "desc": "Acclaimed Bushwick handmade-pasta/wood-fired Italian; permanently closed March 26, 2023 after ~8 years.",
+    "longDesc": "Chef Kevin Adey's Faro at 436 Jefferson St built a national reputation for milling heirloom grains in-house, hand-cutting pasta, and finishing dishes in a wood-burning oven, earning a Michelin star in 2017. The restaurant shuttered permanently on March 26, 2023; the space has since been taken over by Nowon Bushwick (Korean gastropub).",
+    "url": "https://www.brownstoner.com/brooklyn-life/bushwick-faro-restaurant-closing/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "CLOSED — permanently shuttered 2023-03-26",
+    "notes": "DO NOT PROMOTE — venue is permanently closed (Brownstoner, BKReader, Yelp all confirm April 2026). Historical context preserved for corpus completeness; the space at 436 Jefferson St is now Nowon Bushwick. Re-research should pivot to live wood-fired/handmade-pasta Bushwick alternatives (Roberta's, Ops, Leo) for the foodie-romantic slot 18–22 min from IC.",
+    "sources": [
+      {
+        "url": "https://www.brownstoner.com/brooklyn-life/bushwick-faro-restaurant-closing/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/in-other-brooklyn-news/bushwicks-faro-restaurant-closing-its-doors-after-eight-years-6605044",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/faro-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/bushwick/categories/restaurants/3674-faro-now-serves-this-delicious-tasting-menu-every-weekend",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:20:07.901Z"
+  },
+  {
+    "id": "lilia-williamsburg",
+    "name": "Lilia",
+    "desc": "Missy Robbins' three-star handmade-pasta destination in a converted Williamsburg auto body shop.",
+    "longDesc": "Chef Missy Robbins opened Lilia in 2016 at 567 Union Ave; The New York Times gave it three stars and it has been a romantic-foodie reference point for the neighborhood ever since. The room is a converted auto body shop with high ceilings, an open pasta station, and famously loud weekend energy. Signature mafaldine with pink peppercorn, agnolotti, and wood-grilled fish anchor a menu that justifies the 28-day Resy chase.",
+    "url": "https://www.lilianewyork.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "16:00-21:30",
+    "notes": "Reservations are the bottleneck: new slots drop 28 days out at 10:00 ET on Resy; same-day turnover surfaces ~14:00-16:00 on Resy notify (reservenoir.com). Weekend dinner only — no lunch. Walk-in bar seats possible but plan to wait. Phone (718) 576-3095. Drive from Industry City via Prospect Expy → BQE is 18-22 min off-peak, pad to 25 on Fri/Sat evenings. Street parking in Williamsburg is tight; consider the Metropolitan Ave lot.",
+    "sources": [
+      {
+        "url": "https://www.lilianewyork.com/",
+        "accessed": "2026-05-17T17:20:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/lilia",
+        "accessed": "2026-05-17T17:20:00Z"
+      },
+      {
+        "url": "https://reservenoir.com/blog/how-to-get-lilia-reservation",
+        "accessed": "2026-05-17T17:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lilia-brooklyn",
+        "accessed": "2026-05-17T17:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:21:55.282Z"
   }
 ]
