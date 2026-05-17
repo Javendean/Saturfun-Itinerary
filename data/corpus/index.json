@@ -12876,25 +12876,26 @@
   {
     "id": "sey-coffee-bushwick",
     "name": "Sey Coffee",
-    "desc": "Destination micro-roastery in a soaring Bushwick warehouse with light pastries and no-laptop weekends.",
-    "longDesc": "Sey is a contemporary specialty roaster pouring delicate, fruit-forward single-origin coffees in a high-ceilinged, airy industrial space at 18 Grattan St. Weekends draw a focused crowd (no laptops allowed) for filter flights, espresso, and a small rotating pastry case; tipping is famously not required. The minimalist room with skylights is a strong photo spot and a coffee-nerd anchor for any Bushwick stop.",
-    "url": "https://www.seycoffee.com/",
+    "desc": "Bushwick micro-roaster cathedral for Nordic-style light-roast filter coffee, hushed and curated.",
+    "longDesc": "Sey is a contemporary micro roastery at 18 Grattan St in East Williamsburg/Bushwick, famous for its airy white-and-blonde-wood cafe and ultra-clean, fruit-forward light roasts that lean Nordic — they roast on a Loring and the menu favors filter and espresso pulled from single-origin lots they often green-buy direct. Food & Wine named it America's Best Coffee Shop in 2019 (foodandwine.com), and they still host public Saturday cuppings in the roastery for curious palates. Treat it as the third pole vs. Variety (NYC-classic third-wave) and Devoción (Colombian/fresh-crop) — Sey is the geekier, more austere choice with the most polished light roasts in Brooklyn.",
+    "url": "https://www.seycoffee.com/pages/cafe",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
-      "chill",
       "curious",
+      "chill",
       "photo"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "18 min",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "Address: 18 Grattan St, Brooklyn. Weekday hours 7-5, weekend hours 8-5 (Sey official cafe page). No-laptop policy on weekends keeps the room conversational. Street parking on Grattan/Morgan is usually available on weekends. Pastry selection is small but high-quality; pair with a filter flight. Ph: (347) 871-1611.",
+    "notes": "18 Grattan St, Brooklyn NY 11206 (seycoffee.com). Weekend hours 8a–5p both days. Closes at 5pm — pair as a morning/early-afternoon stop, not a late afternoon one. Light roasts are the signature; order a filter pour-over to taste what makes Sey distinct (the espresso is also light, will surprise people expecting Italian-style). 'Limited laptops on weekdays. No laptops on weekends.' so it stays conversational and photogenic. Drive Sunset Park → Bushwick via Prospect Expy + BQE is ~20–25 min weekends; on-street parking around Grattan/Bogart is generally findable on weekend mornings (metered Sat, free Sun). Beautiful skylit interior is a known photo spot (timeout.com).",
     "sources": [
       {
         "url": "https://www.seycoffee.com/pages/cafe",
@@ -12905,14 +12906,18 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://nbktimes.com/en/food-and-drink/sey-coffee/",
+        "url": "https://thecoffeevine.com/reviews/cafes/usa/new-york/new-york/sey-in-new-york/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/sey-coffee",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T13:45:55.262Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T14:25:33.498Z"
   },
   {
     "id": "sunrise-mart-industry-city",
@@ -16565,44 +16570,51 @@
   {
     "id": "devocion-williamsburg",
     "name": "Devoción Williamsburg",
-    "desc": "Colombian roastery with pitched greenhouse skylight and a living plant wall — Brooklyn's photogenic coffee cathedral.",
-    "longDesc": "Devoción's flagship at 69 Grand St between Kent and Wythe pulls its architecture from Colombian coffee farms: a pitched roof with a skylight running its full length pours sun onto a floor-to-ceiling living wall of 35+ Colombian plant species. Beans are shipped overnight from origin and roasted on-site within 10–15 days of harvest, so the cup justifies the room. A direct Sey-style vibe (skylit roastery, romantic-foodie photo moment) but in the Williamsburg cluster instead of Bushwick.",
+    "desc": "Greenhouse-style Colombian direct-trade flagship with skylit plant wall and on-site lab",
+    "longDesc": "Devoción's Williamsburg flagship is a sunlit, pitched-roof café modeled on a Colombian finca — a floor-to-ceiling living wall of 35+ Colombian plant species, leather Chesterfields on Persian rugs over 19th-century brick, and a center-of-room coffee lab. Beans are dry-milled in Bogotá and air-freighted to the Brooklyn roaster so cups are pulled within ~10 days of harvest (industry standard is 6–12 months). It's a cinematic photo stop and a serious single-origin tasting in one room.",
     "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-    "photoUrl": "",
+    "photoUrl": "https://www.devocion.com/cdn/shop/files/Devocion_Wburg_1025_LizClayman_012_3.jpg?height=2667&v=1771773547",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "chill",
-      "foodie",
       "photo",
-      "romantic"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "08:00-19:00",
-    "notes": "Flagship at 69 Grand St, Williamsburg (devocion.com). Pitched skylight roofline + 35+ species living plant wall is the photo moment (bedfordandbowery.com 2014). Farm-to-roast cycle 10–15 days vs industry ~6 months (brooklynpaper.com). Weekend street parking on Grand/Kent/Wythe is workable; Domino Park lots are a short walk if blocks are full. About 18 min drive from Industry City via Gowanus + BQE in normal weekend traffic.",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "07:30-18:00",
+    "notes": "148 Grand St, Brooklyn, NY 11249; phone (929) 262-1241 (Yelp). Greenhouse skylight + living plant wall make it a top photo anchor (Brooklyn Paper, Bedford+Bowery). Direct-trade Colombian sourcing with ~10-day farm-to-cup turnaround (Brooklyn Paper). Can get crowded weekend mornings — late-morning is calmer (Tripadvisor). Street parking only; Grand St + side streets in Williamsburg are doable on weekends but tight — no dedicated lot.",
     "sources": [
       {
         "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-        "accessed": "2026-05-17T13:20:00Z"
+        "accessed": "2026-05-17T14:25:00Z"
       },
       {
-        "url": "https://bedfordandbowery.com/2014/12/inside-williamsburgs-super-high-end-colombian-cafe-roastery-devocion/",
-        "accessed": "2026-05-17T13:20:00Z"
+        "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
+        "accessed": "2026-05-17T14:25:00Z"
       },
       {
         "url": "https://www.brooklynpaper.com/devocion-freshest-colombian-coffee/",
-        "accessed": "2026-05-17T13:20:00Z"
+        "accessed": "2026-05-17T14:25:00Z"
+      },
+      {
+        "url": "https://bedfordandbowery.com/2014/12/inside-williamsburgs-super-high-end-colombian-cafe-roastery-devocion/",
+        "accessed": "2026-05-17T14:25:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d8261185-Reviews-Devocion-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T14:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T13:23:30.419Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T14:23:23.522Z"
   },
   {
     "id": "rainey-park-lic",
@@ -28845,5 +28857,138 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T14:21:18.790Z"
+  },
+  {
+    "id": "parlor-coffee-navy-yard",
+    "name": "Parlor Coffee Roastery (Brooklyn Navy Yard — not Sunset Park)",
+    "desc": "Specialty roaster's working roastery on the Navy Yard edge; wholesale-by-appointment with conflicting public weekend listings.",
+    "longDesc": "Parlor Coffee operates a single Brooklyn address at 11 Vanderbilt Ave on the eastern edge of the Brooklyn Navy Yard — not the Brooklyn Army Terminal in Sunset Park as commonly assumed. The official site frames it as a wholesale-only roastery and training lab open by appointment for cafe partners, while Yelp lists public weekend hours of Sat–Sun 9:00–15:00; call before driving. Coffee quality is top-tier (their beans pour at Joe Coffee and BKLYN Larder), but as a Saturfun stop this is a ~22-min drive from Industry City and access is uncertain.",
+    "url": "https://parlorcoffee.com/pages/where-to-find-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "20-30 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat–Sun 9:00–15:00 (Yelp) / by appointment (official) — verify",
+    "notes": "RULES OUT THE ORIGINAL PREMISE: Parlor Coffee has no Sunset Park / Brooklyn Army Terminal location (official site, accessed 2026-05-17). Address is 11 Vanderbilt Ave, Brooklyn NY 11205, on the Wallabout/Clinton Hill edge of the Navy Yard. Official 'Where to find us' page describes it as a wholesale-only training lab 'by appointment' (parlorcoffee.com), but Yelp lists Sat–Sun 9–3 public hours (yelp.com). Drive from IC via BQE is roughly 20–25 min — meaningfully longer than any Sunset Park option, defeating the premise that it would beat existing candidates on drive time. Street parking in the Wallabout area on weekends is usually findable. Recommend NOT promoting; instead pursue genuine Sunset Park-located specialty roasters via enqueue.",
+    "sources": [
+      {
+        "url": "https://parlorcoffee.com/pages/where-to-find-us",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/parlor-coffee-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://joe.coffee/locations/ny/brooklyn/parlor-coffee-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T14:28:11.460Z"
+  },
+  {
+    "id": "yemen-cafe-bay-ridge",
+    "name": "Yemen Café & Restaurant (5th Ave)",
+    "desc": "Bay Ridge Yemeni institution since 1986 — bubbling fahsa, slow-roast haneeth, fresh tandoor bread",
+    "longDesc": "A Bay Ridge fixture on 5th Ave (and the savory other half of a Yemeni cluster with Qahwah House nearby). Lamb haneeth slow-roasts about six hours until it falls off the bone; the signature fahsa arrives bubbling in a cast-iron bowl alongside hot tandoor bread, broth, and pickles that hit the table free with every meal. Halal, no alcohol, family-run since 1986.",
+    "url": "https://yemencafe.com/yemencafrestaurant5th",
+    "photoUrl": "https://res.cloudinary.com/dytzex383/image/upload/v1777578327/scout/media/ChIJExC3nU9awokRgODOvdb3awc/mi_DdJCWXgkiXZQn5Cg.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "09:00-22:30",
+    "notes": "7317 5th Ave, Brooklyn NY 11209; (718) 745-3000. Established 1986 (yemencafe.com). Order the fahsa or lamb haneeth — both share signature plates that arrive with complimentary tandoor bread, broth, salad, and pickles (The Infatuation; yemencafe.com). Halal, no alcohol. Weekend street parking on side streets off 5th Ave is generally available; pairs naturally with Qahwah House for post-dinner Yemeni coffee. Zone tagged industry-city as a driveable extension since Saturfun has no dedicated Bay Ridge zone.",
+    "sources": [
+      {
+        "url": "https://yemencafe.com/yemencafrestaurant5th",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/yemen-cafe-bay-ridge",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yemen-cafe-and-restaurant-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/yemen-cafe-restaurant",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T14:30:11.591Z"
+  },
+  {
+    "id": "hadramout-restaurant",
+    "name": "Hadramout Restaurant",
+    "desc": "Authentic Yemeni mandi and haneeth — lamb pressure-cooked in an underground pit on Atlantic Ave.",
+    "longDesc": "Hadramout is a long-running Yemeni kitchen on Atlantic Avenue's Middle Eastern stretch known for lamb mandi cooked in a 4-foot underground pit, plus haneeth, salta, and fahsa stews served with lavash. Weekend hours run until 5am, which makes it work as either a late lunch, dinner, or post-bar anchor. Note: the venue is on the Brooklyn Heights/Cobble Hill border, NOT Bay Ridge as the task brief stated — Yemen Cafe is the Bay Ridge Yemeni anchor.",
+    "url": "https://hadramoutnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "14:00-05:00",
+    "notes": "Address: 172 Atlantic Ave, Brooklyn NY 11201 (Brooklyn Heights/Cobble Hill border, on the Yemeni-Lebanese stretch of Atlantic Ave) (yelp.com). Signature: Lamb Mandi cooked in a 4-foot underground pit; also Lamb Haneeth with Ma'soob, Salta, Fahsa, served with lavash (grubhub.com, freshnyc.com). Weekend hours Sat-Sun 2pm-5am — strong late-night option (yelp.com). Halal. Phone (718) 222-1066. Weekend street parking on Atlantic/Henry/Clinton is feasible but tight; Brooklyn Bridge Park garages are nearby. Task brief said 'Bay Ridge' — that is incorrect; the Bay Ridge Yemeni equivalent is Yemen Cafe (already in corpus).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/hadramout-restaurant-brooklyn-3",
+        "accessed": "2026-05-17T14:25:00Z"
+      },
+      {
+        "url": "https://hadramoutnyc.com/",
+        "accessed": "2026-05-17T14:25:00Z"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/hadramout-restaurant-172-atlantic-ave-brooklyn/1067691",
+        "accessed": "2026-05-17T14:25:00Z"
+      },
+      {
+        "url": "https://freshnyc.com/middle-eastern/yemeni-middle-eastern-food-brooklyn-hadramout-restaurant",
+        "accessed": "2026-05-17T14:25:00Z"
+      },
+      {
+        "url": "https://www.zabihah.com/restaurants/cad6aab5-7767-11ef-95ae-6045bdeb9f57/hadramout-brooklyn-ny",
+        "accessed": "2026-05-17T14:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:32:25.651Z"
   }
 ]

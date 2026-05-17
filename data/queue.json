@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Devocion Williamsburg (148 Grand St) — greenhouse-style Colombian direct-trade flagship",
-    "reason": "Keep as the 'cinematic coffee' option for itineraries that already start in Williamsburg/Greenpoint; loses on drive time from IC but wins on photo/vibe.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:55:24.941Z"
-  },
-  {
-    "topic": "Sey Coffee Bushwick — light-roast Nordic-style competition coffee",
-    "reason": "If we're A/B'ing serious-coffee anchors, Sey is the third pole — more niche/geeky than Variety, more accessible than Devocion.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:55:24.941Z"
-  },
-  {
-    "topic": "Parlor Coffee Sunset Park (Brooklyn Army Terminal) — roastery cafe within walking distance of IC",
-    "reason": "Actual Sunset Park-located specialty roaster; would beat all three on drive time if hours/access work for the weekend slot.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:55:24.941Z"
-  },
-  {
-    "topic": "Yemen Cafe Bay Ridge (mandi, fahsa, saltah on 5th Ave)",
-    "reason": "Savory Yemeni dinner anchor to pair with Qahwah House coffee — builds a complete Bay Ridge Yemeni cluster driveable from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:57:42.155Z"
-  },
-  {
-    "topic": "Hadramout Restaurant Bay Ridge (Yemeni grilled lamb mandi)",
-    "reason": "Alternative Yemeni savory anchor if Yemen Cafe is full; helps diversify the Bay Ridge food cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:57:42.155Z"
-  },
-  {
     "topic": "Tanoreen Bay Ridge (Palestinian-Levantine, chef Rawia Bishara)",
     "reason": "Critically-acclaimed Bay Ridge restaurant that elevates the cluster from Yemeni-only into broader SWANA fine dining; supports romantic + foodie vibes",
     "requestedBy": "agent",
@@ -10702,5 +10672,95 @@
     "reason": "Dessert variety beyond cookies in same zone; pairs well with itineraries needing non-American sweets",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T14:21:18.810Z"
+  },
+  {
+    "topic": "Sey Coffee (Bushwick, 18 Grattan St) — light-roast specialty in a minimalist white warehouse",
+    "reason": "Adjacent photo-coffee anchor for North Brooklyn tracks; very different aesthetic (white-box minimalism) gives the corpus contrast vs Devoción's greenhouse drama",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:23:23.554Z"
+  },
+  {
+    "topic": "Partners Coffee Greenpoint flagship (125 N 6th St area) — third-wave roaster with bright Greenpoint loft",
+    "reason": "Fills the Greenpoint coffee slot 12-15 min from IC; competes on quality, easier weekend parking than Grand St",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:23:23.554Z"
+  },
+  {
+    "topic": "Variety Coffee Roasters Williamsburg (146 Wythe Ave) — neighborhood favorite, less touristy than Devoción",
+    "reason": "Backup Williamsburg coffee for itineraries where Devoción is too crowded; locals-leaning vibe rounds out the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:23:23.554Z"
+  },
+  {
+    "topic": "Parlor Coffee (Brooklyn) — by-appointment roastery tastings in Sunset Park",
+    "reason": "Even geekier than Sey, literally walking distance from IC; tests whether the user wants 'serious coffee' to mean 'cafe experience' or 'pure tasting flight'",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:25:33.517Z"
+  },
+  {
+    "topic": "Café Integral at Freehand / or Café Integral Nolita — Nicaraguan single-origin specialist",
+    "reason": "Different sourcing story than Sey's Nordic-broad approach; useful contrast pole for A/B testing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:25:33.517Z"
+  },
+  {
+    "topic": "Partners Coffee Williamsburg flagship — competition baristas + accessible menu",
+    "reason": "Halfway between Sey's austerity and Variety/Devoción's accessibility; closer to IC at ~15 min",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:25:33.517Z"
+  },
+  {
+    "topic": "Café Grumpy at Industry City — specialty coffee inside the IC complex",
+    "reason": "Actually walkable from the IC anchor; replaces the false Parlor-in-Sunset-Park premise with a true zero-drive specialty option.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:28:11.481Z"
+  },
+  {
+    "topic": "Qahwah House Bay Ridge — Yemeni specialty coffee 10-12 min south of IC",
+    "reason": "Distinctive single-origin Yemeni program, weekend-friendly hours, fits the 'beat drive time' criterion the Parlor topic was chasing.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:28:11.481Z"
+  },
+  {
+    "topic": "City of Saints Coffee Roasters Gowanus/Park Slope cafe",
+    "reason": "Brooklyn-based roaster with a public cafe 10-15 min from IC, weekend parking workable on side streets — viable alternate roaster-cafe in the cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:28:11.481Z"
+  },
+  {
+    "topic": "Yemenat Bay Ridge Yemeni restaurant",
+    "reason": "Newer Bay Ridge Yemeni spot — gives the cluster a second savory option for A/B comparison or backup if Yemen Café is packed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:30:11.619Z"
+  },
+  {
+    "topic": "Hadramout Restaurant Brooklyn Atlantic Ave Yemeni",
+    "reason": "Atlantic Ave Yemeni alternative — expands the Yemeni corpus beyond Bay Ridge into a different driveable zone from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:30:11.619Z"
+  },
+  {
+    "topic": "Tanoreen Bay Ridge Palestinian Levantine",
+    "reason": "Adjacent Bay Ridge Middle Eastern heavyweight — broadens the 5th Ave dinner anchor set so cluster isn't single-cuisine dependent",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:30:11.619Z"
+  },
+  {
+    "topic": "Sahadi's Atlantic Avenue Middle Eastern grocery and prepared foods",
+    "reason": "Pair-stop within 2 blocks of Hadramout — extends the Atlantic Ave Middle Eastern micro-cluster with a daytime market browse",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:32:25.676Z"
+  },
+  {
+    "topic": "Tanoreen Bay Ridge Palestinian-Mediterranean fine dining",
+    "reason": "Backfills the Bay Ridge food cluster the task brief was actually aiming at; complements Yemen Cafe with a more upscale option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:32:25.676Z"
+  },
+  {
+    "topic": "Damascus Bread & Pastry Shop Atlantic Ave Syrian bakery",
+    "reason": "Cheap pastry/manaeesh anchor on the same block — strengthens Atlantic Ave as a multi-stop driving track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:32:25.676Z"
   }
 ]
