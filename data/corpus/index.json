@@ -2861,8 +2861,8 @@
   {
     "id": "sunnys-bar-red-hook",
     "name": "Sunny's Bar",
-    "desc": "Historic 1890 waterfront dive in Red Hook with nightly live music and a legendary Saturday bluegrass jam.",
-    "longDesc": "Opened in 1890 as John's Bar serving Red Hook stevedores, Sunny's became a Brooklyn cultural landmark under Antonio 'Sunny' Balzano and survived a 2001 license fight, Hurricane Sandy, and a 2017 community fundraiser that secured the building. Tonight it's still a wood-floored waterfront tavern a block from the harbor with music nightly (8-10pm) except Mondays, plus Tone's Saturday bluegrass jam where touring players sit in with locals. Pairs perfectly as a slow evening cap after a Pioneer Works exhibit a few blocks away.",
+    "desc": "Century-old Red Hook dive on the waterfront — bluegrass jam Saturdays, candlelit and laid-back.",
+    "longDesc": "Tucked behind a no-sign red door on cobblestoned Conover Street, Sunny's has been a longshoremen's bar since 1890 and now anchors Red Hook's late-night scene with cheap beer, mismatched chairs and live music every night except Mondays. The Saturday night bluegrass jam (8-10pm) draws a regular cast of fiddlers; the back room opens to a small garden in warm weather. Perfect high-contrast follow to an omakase — no menu, no fuss, just atmosphere.",
     "url": "https://www.sunnysredhook.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2873,33 +2873,33 @@
       "romantic"
     ],
     "dietary": [],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Fri 2pm-1am; Sat 12pm-1am; Sun 12pm-12am",
-    "notes": "253 Conover St, Brooklyn NY 11231; (718) 625-8211. Live music nightly 8-10pm except Mondays; Saturday bluegrass jam led by owner Tone Balzano Johansen is the signature event (sunnysredhook.com/about). Cash-friendly dive culture, no kitchen — eat first at Hometown Bar-B-Que or Red Hook Lobster Pound nearby. Red Hook has free street parking on weekends, easiest before the 8pm music start (citylore.org).",
+    "driveFromIC": "9 min",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-00:00",
+    "notes": "Cash + card; arrive before 8pm for a seat on bluegrass nights (sunnysredhook.com/calendar). Street parking on Conover/Reed is usually findable on weekends — Red Hook has no subway so spaces turn over (timeout.com). Cocktails are simple and cheap; food is BYO or grab tacos from nearby Hometown Bar-B-Que first.",
     "sources": [
       {
         "url": "https://www.sunnysredhook.com/location/sunnys-bar/",
-        "accessed": "2026-05-16T20:45:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.sunnysredhook.com/about/",
-        "accessed": "2026-05-16T20:45:00Z"
+        "url": "https://www.sunnysredhook.com/calendar/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Sunny's_Bar",
-        "accessed": "2026-05-16T20:45:00Z"
+        "url": "https://www.timeout.com/newyork/bars/sunnys",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://citylore.org/places/sunnys-bar-formerly-johns-bar/",
-        "accessed": "2026-05-16T20:45:00Z"
+        "url": "https://punchdrink.com/venues/sunnys-2/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:40:57.296Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T12:12:28.859Z"
   },
   {
     "id": "littlefield-gowanus",
@@ -9194,9 +9194,9 @@
   {
     "id": "sunrise-mart-japan-village",
     "name": "Sunrise Mart at Japan Village",
-    "desc": "Imported-from-Japan grocery anchor inside Industry City's Japan Village — produce, wagyu, snacks, sake",
-    "longDesc": "The Brooklyn outpost of the Sunrise Mart family is the grocery anchor of Japan Village, a ~20,000 sq ft Japanese marketplace inside Industry City. Expect imported produce, fresh fish for sushi, thinly sliced shabu-shabu pork, wagyu, sake, and the snack/sweets wall — matcha KitKats, Milky candies, hard-to-find condiments. Pairs naturally with Kuraichi (housewares) and WakuWaku (gifts) next door for a one-stop Japan Village loop.",
-    "url": "https://shop.japanvillage.com/",
+    "desc": "NYC's go-to Japanese grocery — fresh ingredients, imported snacks, bento meals inside Industry City's Japan Village.",
+    "longDesc": "The Brooklyn outpost of Sunrise Mart anchors Japan Village inside Industry City Building 3, stocking imported snacks, sake, fresh sashimi-grade fish, Japanese produce, and a hot deli with onigiri and bento (industrycity.com). It's a browse-and-graze stop that pairs naturally with the Japan Village food court next door, extending an IC visit without a drive. Weekend hours run 11am-9pm Sat and 11am-8pm Sun, and Industry City's free parking lots sit a 2-minute walk away.",
+    "url": "https://industrycity.com/tenants/sunrise-mart/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -9209,37 +9209,33 @@
       "vegetarian",
       "vegan"
     ],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-21:00 (Fri-Sat), 11:00-20:00 (Sun)",
-    "notes": "Entrance 934 3rd Ave, Building 3 of Industry City — though clusters with Kuraichi/WakuWaku across the Japan Village footprint (Building 4 cluster per task). Weekend parking available in IC's lots. Grocery hours run later than the food hall (which closes 19:30 weekends) (japanvillage.com). Strong dietary range — abundant vegetarian/vegan pantry items (tofu, seaweed, miso, plant-based snacks) (yelp.com).",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Located at 934 3rd Ave, Building 3 inside Industry City's Japan Village (industrycity.com). Description from IC tenant page: 'NYC's go-to market for fresh Japanese ingredients, imported snacks, and meals' (industrycity.com). Pairs with Japan Village food court for an extended stop. Free IC lot parking, no drive from other IC stops (yelp.com 343 reviews, 4-star average).",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/sunrise-mart/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://sunrisemart.com/pages/visit-us",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://thebridgebk.com/brooklyn-finally-gets-a-japanese-marketplace-of-its-own/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T12:00:50.119Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T12:16:18.818Z"
   },
   {
     "id": "ramen-setagaya-industry-city",
@@ -12441,25 +12437,25 @@
   {
     "id": "panya-bakery-japan-village",
     "name": "Panya Bakery at Japan Village",
-    "desc": "Authentic Japanese bakery inside Japan Village — curry pan, shokupan, matcha drinks, kakigori.",
-    "longDesc": "Panya Brooklyn relocated into Industry City's Japan Village Courtyard in 2025, serving freshly baked Japanese breads (curry pan, shokupan, anpan), pastries, custom cakes, loose-leaf yuzu teas, matcha lattes, and kakigori shaved ice. Weekend brunch service is a draw — quick photo-friendly stop tucked into Building 4 alongside the rest of the Japan Village food hall. Order pastries to-go and pair with a coffee for a morning bookend before the rest of the Japan track.",
+    "desc": "Japanese bakery inside IC's Japan Village — curry pan, shokupan, matcha, custom cakes",
+    "longDesc": "Panya is the bakery counter inside Japan Village at Industry City, sister stall to Cafe Japon. They pull fresh curry pan and shokupan, serve matcha, loose-leaf and yuzu teas, custom cakes, kakigori in season, and grab-and-go brunch plates Wed–Sun. Tucked into the Japan Village courtyard so you can browse Sunrise Mart next door on the same stop.",
     "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
     "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3af498e88f485f85087c_Panya%20brunch%20photos.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
+      "chill",
       "foodie",
-      "photo",
-      "chill"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "0 min (on-site, Building 4)",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
     "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
-    "notes": "Inside Industry City Building 4 / Japan Village Courtyard at 934 3rd Ave (entrance also via 220 36th St, Suite 2-A) (japanvillage.com; industrycity.com). Hours listed by Industry City's tenant directory (Wed–Sun 8AM–4PM) differ from Japan Village's operator hours (Sat 11–7, Sun 11–6) — prefer the operator times (japanvillage.com). Specialties: curry pan, shokupan, matcha latte, kakigori, custom cakes (panya@japanvillage.com). Reopened in Industry City in July 2025 after the East Village closure (commercialobserver.com 2025-07).",
+    "notes": "Inside Japan Village courtyard at 934 3rd Ave, Brooklyn — physically within Industry City (japanvillage.com). Weekday open at 9 AM Wed–Fri but weekends start at 11 AM (japanvillage.com). Signature: curry pan, shokupan, matcha drinks; brunch service Wed–Sun. Opened summer 2025 as a permanent counter (commercialobserver.com).",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
@@ -12481,7 +12477,7 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T11:35:27.674Z"
+    "lastResearchedAt": "2026-05-17T12:14:23.709Z"
   },
   {
     "id": "ramen-setagaya-mt-fuji",
@@ -12903,16 +12899,17 @@
   },
   {
     "id": "sunrise-mart-industry-city",
-    "name": "Sunrise Mart (Japan Village, Industry City)",
-    "desc": "Biggest Sunrise Mart in NYC — Japanese grocery inside Japan Village hall: sushi-grade fish, wagyu, snacks.",
-    "longDesc": "Sunrise Mart's Industry City outpost is the largest of the chain's NYC locations, anchoring the 20,000 sq ft Japan Village hall in Building 3. The aisles cover fresh sushi-grade fish, shabu-shabu pork, wagyu beef, sauces, sake, and a famously deep snack/candy wall. It's the natural post-ramen browse after a meal in the adjacent food hall and pairs well with a beer at Mikkeller next door.",
-    "url": "https://industrycity.com/tenants/sunrise-mart/",
+    "name": "Sunrise Mart at Industry City",
+    "desc": "NYC's biggest Japanese grocery — fresh ingredients, imported snacks, ready meals inside Japan Village.",
+    "longDesc": "The Brooklyn flagship of Sunrise Mart sits inside Japan Village on the ground floor of Industry City Building 3, the same complex as Saiko-Bi pottery and Osakana. Aisles run deep with Japanese pantry staples, fresh produce, sashimi-grade fish, hot bento, mochi and confections, sake/shochu, ceramics and home goods. It's a same-floor walk from the pottery studio, making it the natural extender after a kintsugi session.",
+    "url": "https://sunrisemart.com/pages/visit-us",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "curious",
-      "foodie"
+      "foodie",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
@@ -12920,8 +12917,8 @@
     "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
-    "notes": "Located inside Japan Village, Building 3, 934 3rd Ave entrance (industrycity.com). Largest Sunrise Mart in NYC per The Bridge writeup; family-owned. Free weekend parking in IC lots. Pair with Industry City Ramen / Mikkeller / Japan Village food stalls.",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Located at 934 3rd Ave, Building 3, inside Japan Village complex (industrycity.com). Sat–Sun hours: Fri–Sat 11am–9pm, Sun 11am–8pm (sunrisemart.com). Biggest Sunrise Mart in NYC per amNewYork coverage of Japan Village. Adjacent to Saiko-Bi pottery, Osakana fishmonger, and Japan Village food hall — easy to chain stops without moving the car.",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/sunrise-mart/",
@@ -12932,14 +12929,18 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://thebridgebk.com/brooklyn-finally-gets-a-japanese-marketplace-of-its-own/",
+        "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T00:04:32.657Z"
+    "lastResearchedAt": "2026-05-17T12:20:45.221Z"
   },
   {
     "id": "wakuwaku-japan-village",
@@ -27587,5 +27588,50 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T12:03:41.484Z"
+  },
+  {
+    "id": "und-matcha-greenpoint",
+    "name": "UnD",
+    "desc": "Japan/NY concept café serving ceremonial-grade Uji matcha whisked traditionally, plus shokupan bakery",
+    "longDesc": "UnD is a Tokyo/New York concept brand that soft-opened in Greenpoint in October 2024 at 141 India St, sourcing ceremonial-grade Uji matcha directly from Kyoto and preparing it with a chagama iron kettle and chasen bamboo whisk. The space pairs the matcha bar with a Japanese bakery program — handmade shokupan, melon bread, wagashi — and a curated tea + matcha retail counter. It's the most authentic ceremonial-grade matcha alternative to Industry City's cafés on the north Brooklyn waterfront.",
+    "url": "https://und-ny.com/",
+    "photoUrl": "https://images.ctfassets.net/h6s4er3j4c4p/6L0BWBo3q3trG3IxuubZMg/e6c8332c072ce1245b5d9e747028c5cd/DSC_1602-Edit-min.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "09:00-15:00",
+    "notes": "Ceremonial-grade Uji matcha from Kyoto, whisked with chasen and brewed with a chagama iron kettle for traditional preparation (und-ny.com). Soft-opened October 2024 at 141 India St with Japanese sandwiches, shokupan, wagashi, and a tea/matcha retail wall (Greenpointers). Weekend hours close at 3pm Sat-Sun (vs. 5pm weekdays) — better as a morning anchor than afternoon stop. 20g cans of authentic ceremonial matcha available for take-home purchase. Street parking in Greenpoint is generally available on weekends.",
+    "sources": [
+      {
+        "url": "https://und-ny.com/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://und-ny.com/journal/brooklyn-japanese-matcha-latte/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://und-ny.com/journal/authentic-matcha-brooklyn/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://greenpointers.com/2024/10/18/und-soft-opens-in-greenpoint-with-japanese-sandwiches-coffee-and-more/",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T12:18:57.092Z"
   }
 ]
