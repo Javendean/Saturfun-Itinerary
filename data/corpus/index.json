@@ -5338,48 +5338,55 @@
   },
   {
     "id": "don-paco-lopez-panaderia",
-    "name": "Don Paco López Panadería",
-    "desc": "Sunset Park's beloved Mexican panadería since 1991 — conchas, orejas, campechanas baked fresh daily",
-    "longDesc": "A three-generation family bakery on 4th Ave that's been Sunset Park's pan dulce anchor since 1991, turning out conchas (cookie-topped buns), orejas (elephant ears), campechanas (caramelized puff layers), and seasonal rosca de reyes / pan de muerto. Counters are stacked with $1-$2 sweets you grab on a tray with tongs; The Infatuation calls it one of Brooklyn's best for Mexican baking. Pairs as a perfect A/B against Salvadoran/French pan dulce nearby — same block, different Latin tradition.",
+    "name": "Don Paco Lopez Panaderia",
+    "desc": "Third-generation Sunset Park Mexican bakery famed for conchas, orejas, and pan dulce since 1991.",
+    "longDesc": "Family-run Mexican panaderia opened by Francisco 'Don Paco' Lopez in 1991, drawing on recipes traced back to 1932 Chila de las Flores, Puebla. Rows of conchas, orejas (elephant ears), campechanas (caramelized puffs), plus savory tamales, pambazos, and quecas; the New York Times and Infatuation both call out the conchas as among Brooklyn's best. Cash-friendly, counter-service, grab-and-go — ideal final stop after El Bronco tacos to walk a bag of pan dulce back to the car.",
     "url": "https://donpacolopez.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
     "duration": "20-30 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "Sat 5:30-19:00, Sun 5:30-13:00",
-    "notes": "Tray-and-tongs counter service — load up on conchas, orejas, campechanas, puerquitos (Infatuation, Yelp). Cash-friendly, ~$1-2 per piece. Sunday closes at 1pm so plan an early stop. Two blocks from Pariscien for a direct pan dulce A/B (Mexican vs French/Salvadoran). 4th Ave has metered street parking; weekend mornings are easiest.",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "Sat 05:30-19:30, Sun 06:00-13:00",
+    "notes": "Address is 4703 4th Ave, Brooklyn NY 11220 — task title says '5th Ave' but Yelp/Nooklyn/Grubhub all confirm 4th Ave (Yelp, Nooklyn). Sunday closes early at 1pm so this MUST anchor as a late-morning/early-afternoon dessert stop, not an evening one (Yelp hours). Conchas, tres leches, and pan dulce are the headline orders; Infatuation calls out the full traditional pan dulce selection plus pambazos and tamales for a savory option (The Infatuation). Featured in NYT and on Viewing NYC video for the conchas specifically (Bklyner, Viewing NYC).",
     "sources": [
       {
-        "url": "https://donpacolopez.com/",
-        "accessed": "2026-05-17T15:40:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/don-paco-lopez-panaderia",
-        "accessed": "2026-05-17T15:40:00Z"
+        "url": "https://donpacolopez.com/pages/about-us",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/don-paco-lopez-panaderia-brooklyn",
-        "accessed": "2026-05-17T15:40:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/don-paco-lopez-panaderia",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
-        "accessed": "2026-05-17T15:40:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/don-paco-lopez-panaderia-gets-much-deserved-love-new-york-times-sunset-park/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://nooklyn.com/locations/Mkb-O7tnLTpc4Tpycl_5",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T15:47:20.871Z"
+    "lastResearchedAt": "2026-05-17T15:49:28.012Z"
   },
   {
     "id": "thanh-da-sandwich",
@@ -22348,8 +22355,8 @@
   {
     "id": "tortilleria-los-hermanos-bushwick",
     "name": "Tortillería Mexicana Los Hermanos",
-    "desc": "Bushwick tortilla factory with folding tables and Bourdain-endorsed $2.25 tacos in the back",
-    "longDesc": "An actual working tortilla factory at 271 Starr St that has been pressing masa since 1998, with a no-frills cantina tucked behind the production line. You order by jotting picks on scrap paper, slide it to the cooks, and eat tacos al pastor, tostadas, and quesadillas on plastic chairs while industrial tortilla machines clack a few feet away. Anthony Bourdain called these the best tacos he had in New York — the appeal is the price, the corn, and the surreal factory-floor ambiance, not the polish.",
+    "desc": "Working tortilla factory with a BYOB café — eat tacos made from tortillas pulled off the line minutes earlier.",
+    "longDesc": "A rare survivor in NYC: an in-use tortilla manufacturing line behind glass that doubles as the dining-room view. Cheap, cash-only, BYOB tacos, burritos, tostadas, and quesadillas wrapped in tortillas that were corn flour twenty minutes ago. Carnitas, chorizo, chicken, and bean-and-rice options all use the house tortillas; bag-quantity wholesale also available from the counter.",
     "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -22357,38 +22364,39 @@
     "vibe": [
       "foodie",
       "curious",
-      "chill"
+      "photo"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "11:00-23:30",
-    "notes": "Cash only and BYOB — bring a six-pack of Coronas if you want anything to drink (Bushwick Daily). Tacos $2.25, tostadas $2.50, quesadillas $3.25 (The Infatuation). Order by writing your picks on a paper slip; if the front room is full, walk into the factory side and sit at tables behind the glass. Street parking is available on Starr St and Wyckoff Ave — easier on weekend afternoons than late nights, when the L-train Jefferson crowd takes over (Bushwick Daily). Vegetarian-friendly via bean/cheese/rajas tacos and quesadillas; not great for gluten-free since corn tortillas are made on-site but everything shares the same grill.",
+    "notes": "Cash only, BYOB — no liquor license, bring beer or mezcal from a nearby bodega (Gothamist, Yelp). Order at the counter; seating is small and casual with a direct view of the masa hopper and tortilla press line (Atlas Obscura, NYC Tourism). Street parking on Starr/Wyckoff is reliably findable on weekends. Corn tortillas are naturally gluten-free but the kitchen is not certified — flag for celiac diners.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tortilleria-mexicana-los-hermanos",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://bushwickdaily.com/food-and-drink/6685-los-hermanos-tacos-tortilla-factory-bushwick/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/still-got-it-tortilleria-mexicana-los-hermanos",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T02:43:54.138Z"
+    "lastResearchedAt": "2026-05-17T15:51:52.580Z"
   },
   {
     "id": "tacos-el-bronco-5th-ave",
@@ -23741,31 +23749,35 @@
   {
     "id": "city-league-coffee-roasters",
     "name": "City League Coffee Roasters",
-    "desc": "Sunset Park–born specialty roaster, 4 blocks from 8th Ave Chinatown — perfect bun-crawl caffeine anchor.",
-    "longDesc": "Started in a Sunset Park garage in 2018 and now roasting on-site at 6808 4th Ave, City League pours single-origin pour-overs, espresso, and their house Bodega blend. Bright industrial room with bench seating; 4 blocks west of the southern end of 8th Ave Brooklyn Chinatown, so a natural pre- or post-stop for a bao/scallion-pancake crawl.",
+    "desc": "Family-run Sunset Park specialty roaster + cafe with sports & '90s nostalgia decor, 8 min from IC.",
+    "longDesc": "Founded in a Sunset Park garage in 2018 by Dane and Lindsay Demchak, City League now roasts on a turquoise Diedrich drum inside The Whale and pulls shots at this 4th Ave cafe on the Sunset Park / Bay Ridge border. The room leans into neighborhood-hangout energy — sports references, '90s pop, and a tight specialty menu (espresso, pour-over, seasonal cold brews like Horchata and Bodega Blackout) that makes it a real roaster stop rather than a generic third-wave clone.",
     "url": "https://cityleaguecoffee.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "7 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "08:00-16:00",
-    "notes": "Topic header named 'Kaffe 1668 Sunset Park / 8th Ave' but Kaffe 1668 has no Sunset Park branch — only Tribeca at 275 & 401 Greenwich St (kaffe1668.com). City League substituted as the legitimate Sunset Park specialty-coffee anchor: in-house roaster, 6808 4th Ave (Yelp), opened the Bay Ridge/Sunset Park border cafe in 2022 with ~50 indoor/outdoor seats (brooklynpaper.com). 8th Ave Chinatown runs ~42nd–68th, so City League sits 4 blocks west of the southern bun-crawl edge (MTA Away food guide). Street parking on 4th Ave generally available on weekends. Kaffe 1668 itself re-enqueued as a Manhattan candidate for separate consideration.",
+    "notes": "Sub-10-min drive south on 4th Ave from Industry City — fills the 'roastery experience without leaving the neighborhood' slot the corpus was missing. Branded as Sunset Park (roastery is in The Whale) but the cafe at 6808 4th Ave sits on the 68th St Sunset Park/Bay Ridge line and is often called the Bay Ridge cafe in press (brooklynpaper.com, bkreader.com). Family-run by Dane & Lindsay Demchak since a 2018 garage start (dailycoffeenews.com). Curb parking on 4th Ave is realistic on weekend mornings. Pair with an IC-area food stop since the cafe itself is coffee-forward (no full kitchen).",
     "sources": [
       {
-        "url": "https://cityleaguecoffee.com/",
+        "url": "https://cityleaguecoffee.com/who-we-are/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/city-league-coffee-roasters-brooklyn",
+        "url": "https://dailycoffeenews.com/2026/02/02/city-league-coffee-gets-home-court-advantage-with-new-brooklyn-roastery/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://dailycoffeenews.com/2023/02/02/city-league-coffee-takes-its-shot-in-brooklyn/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -23773,18 +23785,14 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.kaffe1668.com/",
+        "url": "https://www.bkreader.com/business-innovation/community-driven-cafe-to-open-first-retail-location-in-bay-ridge-6550541",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:45:42.251Z"
+    "lastResearchedAt": "2026-05-17T15:58:50.705Z"
   },
   {
     "id": "sunset-park-viewpoint",
@@ -29527,5 +29535,94 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T15:45:21.835Z"
+  },
+  {
+    "id": "sunset-park-brooklyn",
+    "name": "Sunset Park",
+    "desc": "Hilltop Brooklyn park with panoramic Lower Manhattan, Statue of Liberty, and NY Harbor views",
+    "longDesc": "A 24.5-acre public park stretching between 5th and 7th Avenues from 41st to 44th Street, sitting on one of the highest natural points in Brooklyn. From the hilltop at 5th Ave & 44th St, you get a sweeping panorama of Lower Manhattan, the Statue of Liberty, and the harbor — best at golden hour. Has a playground, ball courts, and an enormous Olympic-sized pool (summer-only), but the killer move is the skyline lookout itself.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free entry. Small free parking lot on the north side (sunrise-sunset, ~3hr limit) plus street parking on surrounding blocks (source: nycgovparks.org, parkopedia). Two blocks uphill walk from El Bronco on 5th Ave — natural post-taco stretch. Climb to the 44th & 5th corner for the postcard skyline shot. Pool is summer-only; skyline view is year-round and best 1hr before sunset.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.untappedcities.com/secrets-sunset-park-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T15:53:52.085Z"
+  },
+  {
+    "id": "yafa-cafe-sunset-park",
+    "name": "Yafa Café (Sunset Park)",
+    "desc": "Yemeni coffee house — cardamom lattes, pistachio drinks, hawaij-spiced fried chicken, 5 min from IC.",
+    "longDesc": "Cousin-owned Yemeni café at 4415 4th Ave that revives Yemen's centuries-old coffee heritage with single-origin Yafa pour-overs ($7), cardamom brown sugar lattes, and pistachio-milk drinks. The food side is a real meal stop: hawaij-spiced 'yafa' fried chicken, riz bowls with stewed vegetables, and shurba oat stew. Interior is decorated with handwoven baskets from the founders' ancestral village and photographs of Yemen — distinct cultural texture vs the Italian/Latin coffee norm nearby.",
+    "url": "https://www.yafabrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "halal",
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "Walking-distance backup to IC (≈0.5 mi north on 4th Ave) — practical mid-morning or late-afternoon stop before/after Industry City. Yemeni pour-over is the signature ($7/cup, beans sourced from small farms in Yafa region) (dailycoffeenews.com). Cardamom Brown Sugar Latte and pistachio-sauce drinks are the standout flavored options (yafabrooklyn.com). Food menu skews savory Yemeni — riz bowl, hawaij fried chicken, shurba (abc7ny.com). Closes earlier than most Brooklyn coffee shops (5pm weekends), so schedule before sunset stops. Halal by default; vegetarian via riz bowl without chicken.",
+    "sources": [
+      {
+        "url": "https://www.yafabrooklyn.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://dailycoffeenews.com/2024/11/20/yafa-cafe-is-bringing-yemeni-coffees-to-downtown-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://abc7ny.com/neighborhood-eats-lauren-glassberg-yafa-cafe-sunset-park/5974031/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://news.rakwa.com/2025/08/20/yafa-cafe-reviving-yemens-coffee-heritage-in-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yafa-cafe-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T15:56:11.710Z"
   }
 ]

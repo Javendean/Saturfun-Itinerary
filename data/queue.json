@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Don Paco Lopez Panaderia 5th Ave Sunset Park — Mexican bakery for conchas and tres leches",
-    "reason": "Completes a Sunset Park Mexican corridor: La Flor (coffee/breakfast) → El Bronco (tacos) → Don Paco (pan dulce dessert)",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:26:56.683Z"
-  },
-  {
-    "topic": "Tortilleria Mexicana Los Hermanos Bushwick — fresh-pressed tortillas eaten in the factory",
-    "reason": "Alternate Mexican track outside Sunset Park; rounds out corpus geographic spread for a Bushwick foodie day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:26:56.683Z"
-  },
-  {
-    "topic": "Sunset Park (the actual park) 44th-41st St between 5th-7th Ave — Manhattan skyline view",
-    "reason": "Natural post-taco 15-min walk-it-off stop two blocks uphill from El Bronco; binds the cluster geographically",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:26:56.684Z"
-  },
-  {
-    "topic": "Yafa Café (Sunset Park Yemeni coffee house)",
-    "reason": "Walking distance to IC, fills Middle Eastern espresso gap (cardamom/pistachio cappuccino, tahini chai) — distinct from the Latin and Italian-Brooklyn norm in the corpus.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:29:36.020Z"
-  },
-  {
-    "topic": "City League Coffee Roasters (Sunset Park, 6808 4th Ave)",
-    "reason": "Family-run specialty roaster inside the IC zone itself, adds a sub-10-minute drive option and a roastery angle the corpus is missing.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:29:36.020Z"
-  },
-  {
     "topic": "Café Grumpy Park Slope (383 7th Ave)",
     "reason": "Brooklyn specialty-coffee mainstay with confirmed SpotHero parking nearby and 7am weekend open — covers the 'classic third-wave espresso' slot driving-friendly.",
     "requestedBy": "agent",
@@ -11170,5 +11140,89 @@
     "reason": "Connects the Sunset Park Latin food cluster to its Bushwick supply chain — adds a 'where the masa comes from' curiosity stop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T15:47:20.893Z"
+  },
+  {
+    "topic": "Tacos El Bronco 5th Ave Sunset Park — re-research existing venue with weekend hours and parking notes",
+    "reason": "Middle anchor of the Sunset Park Mexican corridor; need confirmed drive time + Saturday hours to lock the sequencing with Don Paco's 1pm Sunday close",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:49:28.037Z"
+  },
+  {
+    "topic": "La Gran Via Bakery 5th Ave Sunset Park — Mexican/Latin bakery alternative for cemitas and pan",
+    "reason": "Backup pan dulce option if Don Paco is closed on a planned Sunday afternoon track; expands corridor depth",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:49:28.037Z"
+  },
+  {
+    "topic": "Mixteca Restaurant Bay Ridge Ave Sunset Park — sit-down Pueblan mole and cemitas",
+    "reason": "Adds a longer-duration dinner alternative to the corridor for tracks that want a meal instead of taco-stand format",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:49:28.037Z"
+  },
+  {
+    "topic": "Ops Bushwick — natural-wine sourdough pizzeria on Irving Ave",
+    "reason": "Anchors a Bushwick dinner slot adjacent to Los Hermanos; pizza + natural wine balances the cheap-tacos midday stop and keeps the track in-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:51:52.604Z"
+  },
+  {
+    "topic": "Roberta's Bushwick — wood-fired pizza and garden seating",
+    "reason": "Bushwick foodie staple within 5 min drive of Los Hermanos; gives the track a recognizable photo anchor and outdoor option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:51:52.604Z"
+  },
+  {
+    "topic": "Bunna Cafe Bushwick — all-vegan Ethiopian on Wyckoff",
+    "reason": "Vegan + halal-friendly anchor for the Bushwick track; expands dietary coverage where Los Hermanos and pizzerias don't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:51:52.605Z"
+  },
+  {
+    "topic": "Bush Terminal Park pier (43rd St waterfront)",
+    "reason": "Adjacent waterfront green space ~5 min drive from IC with tidal pools and unobstructed harbor views — pairs with Sunset Park as the 'other' Sunset Park skyline angle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:53:52.113Z"
+  },
+  {
+    "topic": "Melody Lanes bowling (37th St near 5th Ave)",
+    "reason": "Classic Sunset Park dive-bowling alley ~3 min drive, fills the post-sunset evening slot for this cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:53:52.113Z"
+  },
+  {
+    "topic": "Yafa Café Downtown Brooklyn (505 State St) — roastery-forward second location",
+    "reason": "Different zone (brooklyn-heights/downtown), more roastery/retail-oriented than the Sunset Park flagship; gives the corpus a second Yemeni node in a non-IC track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:56:11.733Z"
+  },
+  {
+    "topic": "Qahwah House (Bay Ridge or other NYC outpost) — Yemeni coffee chain known for adeni chai and mofa",
+    "reason": "Adjacent Yemeni-coffee venue that would let the corpus compare two Yemeni-heritage spots; Bay Ridge is ≈15 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:56:11.733Z"
+  },
+  {
+    "topic": "Tanoreen (Bay Ridge Palestinian fine dining)",
+    "reason": "Bridges the Middle Eastern coffee/breakfast slot into a proper dinner anchor within 15 min of IC, expanding the Sunset Park/Bay Ridge driving track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:56:11.733Z"
+  },
+  {
+    "topic": "The Whale (Sunset Park production building) — roasteries & food makers inside",
+    "reason": "City League's roastery is inside The Whale; the building hosts other small-batch makers that could anchor a Sunset Park 'makers' mini-cluster <10 min from IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:58:50.744Z"
+  },
+  {
+    "topic": "Brooklyn Crepe & Juice (Bay Ridge brunch spot near 68th & 4th)",
+    "reason": "Pairs with City League as a brunch+coffee mini-route on the same 4th Ave corridor; closes the food gap since City League is coffee-only.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:58:50.744Z"
+  },
+  {
+    "topic": "Owl's Head Park overlook (Bay Ridge waterfront, ~5 min south of City League)",
+    "reason": "Adds a free outdoor/photo stop to extend a sub-10-min-from-IC track south instead of always defaulting to Red Hook or Park Slope.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:58:50.744Z"
   }
 ]
