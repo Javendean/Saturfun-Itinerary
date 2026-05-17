@@ -1,35 +1,5 @@
 [
   {
-    "topic": "East Harbor Seafood Palace 714 65th St Brooklyn dim sum Cantonese",
-    "reason": "Large-format Cantonese seafood + cart dim sum in Sunset Park, strong group-dinner fallback near IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:35:12.142Z"
-  },
-  {
-    "topic": "Bamboo Garden 6409 8th Ave Brooklyn dim sum Cantonese",
-    "reason": "Reliable Sunset Park dim sum/Cantonese weekend option to backfill closed Lucky Eight slot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:35:12.142Z"
-  },
-  {
-    "topic": "Yi Ji Shi Mo Noodle Corp 6121 8th Ave Brooklyn sesame paste noodles",
-    "reason": "Another sub-$10 Sunset Park noodle counter that extends the 8th Ave crawl one more stop south",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:37:33.565Z"
-  },
-  {
-    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave Brooklyn lamb dumplings",
-    "reason": "Walkable from both Hainan and Yun Nan; adds dumpling beat to the same parking session",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:37:33.565Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace 714 65th St Brooklyn dim sum carts",
-    "reason": "Old-school cart dim sum 15 blocks south of Yun Nan — anchors a weekend brunch variant of the same crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:37:33.565Z"
-  },
-  {
     "topic": "Dun Huang 817 60th Street Brooklyn — Lanzhou beef noodle / cumin lamb pita specialist",
     "reason": "Verified Northwest-China analog in the same 60th St corridor; ideal fallback if paomo spot is closed and a strong standalone cluster entry",
     "requestedBy": "agent",
@@ -7828,5 +7798,77 @@
     "reason": "Larger banquet-hall Cantonese seafood option closer to IC (~5 min) — covers the gap between IC and the 8th Ave strip",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T04:50:12.324Z"
+  },
+  {
+    "topic": "Pacificana 813 55th St Brooklyn dim sum Sunset Park",
+    "reason": "Direct competitor to East Harbor on the same Sunset Park dim sum corridor — adds a second cart-style option within 8 min of IC for itinerary variety",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:52:27.545Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 714 65th St Brooklyn weekend dim sum",
+    "reason": "Another Sunset Park cart-style dim sum hall, redundancy if Bamboo Garden is jammed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:54:11.525Z"
+  },
+  {
+    "topic": "Pacificana 813 55th St Brooklyn dim sum second-floor banquet hall",
+    "reason": "Larger seating capacity Sunset Park dim sum option for groups, 8 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:54:11.526Z"
+  },
+  {
+    "topic": "Tasty Noodle House 6003 8th Ave Brooklyn Sunset Park Shanghainese knife-cut noodles",
+    "reason": "Actual Sunset Park 8th Ave noodle counter near the phantom 6121 address — extends the southbound crawl with sub-$12 knife-cut and dan dan noodles",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:57:41.622Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave Brooklyn crossing-the-bridge noodles",
+    "reason": "Tiny Yunnanese rice noodle counter on 8th Ave, Infatuation-listed, fills the southern Sunset Park gap with a regional specialty not yet in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:57:41.623Z"
+  },
+  {
+    "topic": "Lan Zhou Hand Pull Noodles Sunset Park 8th Ave hand-pulled beef noodle soup",
+    "reason": "Cash-only Lanzhou counter on the 8th Ave Chinatown spine — completes a three-stop noodle crawl pairing nicely with Industry City brunch",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:57:41.623Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 8th Ave Brooklyn weekend dim sum carts",
+    "reason": "Same 8th Ave Chinatown strip, cart-pushed dim sum is a classic counterweight to Kai Feng Fu's cheap dumpling stack — fits the same parking session",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:00:28.709Z"
+  },
+  {
+    "topic": "Yi Ji Shi Mo Noodle Sunset Park handmade noodles 8th Ave",
+    "reason": "Hand-pulled noodle hole-in-the-wall a few blocks from Kai Feng Fu — extends the Sunset Park walk-loop with a noodle beat the user doesn't have yet",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:00:28.709Z"
+  },
+  {
+    "topic": "Tasty Dumpling 5223 8th Ave Brooklyn lamb dumplings",
+    "reason": "If the user actually wants lamb dumplings in the same neighborhood, Tasty Dumpling on 8th Ave is the more credible candidate — should be researched as a substitute",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:00:28.709Z"
+  },
+  {
+    "topic": "Pacificana Sunset Park 813 55th St dim sum cart hall",
+    "reason": "Direct cart-dim-sum alternative one block off 8th Ave; gives the brunch variant a second option if East Harbor is full",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:02:43.801Z"
+  },
+  {
+    "topic": "Ho Brah Taco Joint Sunset Park 5306 8th Ave",
+    "reason": "Late-morning taco follow-up within the 8th Ave Chinatown corridor — bridges dim sum brunch into the afternoon crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:02:43.801Z"
+  },
+  {
+    "topic": "Industry City Japan Village weekend brunch ramen",
+    "reason": "Indoor backup brunch anchor inside IC itself if weather kills the drive-out dim sum plan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:02:43.801Z"
   }
 ]

@@ -2055,8 +2055,8 @@
   {
     "id": "kai-feng-fu-dumpling-house",
     "name": "Kai Feng Fu Dumpling House",
-    "desc": "Cash-only Sunset Park counter slinging $2.50 six-piece fried pork-chive dumplings, soups, and pancakes",
-    "longDesc": "A no-frills Sunset Park institution on 8th Ave (Brooklyn's Chinatown) where $2.50 buys six crisp-bottomed pork-and-chive fried dumplings with thick, glossy skins and a generous filling. The menu rounds out with steamed dumplings, meaty pork buns, hot-and-sour and noodle soups, and triangle sesame pancakes — almost everything under $5, cash only, with minimal seating. A perfect cheap-eats counterpart to the Industry City food halls, about 6 minutes south by car.",
+    "desc": "Cash-only Sunset Park counter slinging six fried pork-and-chive dumplings for $2.50",
+    "longDesc": "A no-frills, counter-service dumpling shop on 8th Ave in Sunset Park's Chinatown, famous for six fried pork-and-chive dumplings with thick, glossy skin at $2.50 (The Infatuation). The menu runs pork-and-leek, pork-and-celery, and pork-and-veg boiled or pan-fried, plus sesame pancakes, pork buns, and house soup dumplings — note: despite occasional mentions elsewhere, lamb dumplings do not appear on the current public menu. Cash only, only a few tables inside, so plan it as a walk-up stack next to Hainan Chicken House and Yun Nan Flavour Garden on the same parking session.",
     "url": "https://kaifengfubrooklyn.kwickmenu.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2067,36 +2067,32 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "6 min",
+    "duration": "20-30 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "07:30-20:00",
-    "notes": "4801 8th Ave at 48th St in Sunset Park's 8th-Ave Chinatown corridor; cash only and counter-service with minimal seating (Infatuation, Yelp). Order the fried pork-and-chive dumplings ($2.50 for six), pan-fried pork with leek ($1 for four), pork buns, and a triangle of sesame pancake — steamed dumplings are fine but doughier than the fried (Infatuation review). Open 7:30am-8pm daily, so it works for an early-lunch detour on a Sunset Park loop. Weekend parking on 8th Ave is metered street parking and rotates quickly given the takeout-heavy clientele; side streets (47th, 48th, 49th between 7th and 8th) are easier. Pair with a Sunset Park bakery stop or a walk up to the Sunset Park overlook for skyline views.",
+    "notes": "4801 8th Ave, Brooklyn NY 11220 (kaifengfubrooklyn.kwickmenu.com). Cash only; only a few tables (theinfatuation.com). Menu shows pork-and-chive, pork-and-leek, pork-and-celery and pork-and-veg dumplings plus sesame pancake and pork buns — lamb dumplings NOT confirmed on current menu (theinfatuation.com, allmenus.com). Street parking on 8th Ave is competitive on weekends but workable; pair with Hainan Chicken House and Yun Nan Flavour Garden in one walk loop.",
     "sources": [
       {
+        "url": "https://kaifengfubrooklyn.kwickmenu.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
-        "accessed": "2026-05-17T04:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
-        "accessed": "2026-05-17T04:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://kaifengfubrooklyn.kwickmenu.com/",
-        "accessed": "2026-05-17T04:20:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/kai-feng-fu-dumpling-house",
-        "accessed": "2026-05-17T04:20:00Z"
-      },
-      {
-        "url": "https://ediblebrooklyn.com/2014/dumpling-tour-sunset-park/",
-        "accessed": "2026-05-17T04:20:00Z"
+        "url": "https://www.allmenus.com/ny/brooklyn/115716-kai-feng-fu-dumpling/menu/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:23:41.708Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T05:00:28.686Z"
   },
   {
     "id": "beat-the-bomb",
@@ -5471,14 +5467,15 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Old-school weekend cart dim sum in Brooklyn's Sunset Park — chase dumplings before 3pm in a banquet hall.",
-    "longDesc": "Cantonese banquet-style dim sum service at 714 65th St (between 7th & 8th Ave), where push-carts still roam the dining room until 3pm. Michelin-listed, $$ price band, and famous for har gow, shu mai, snow pea leaf dumplings, and salt-and-pepper squid. Arrive 10:30-11am on weekends to beat the line; pair with a Kai Feng Fu dumpling chaser five blocks north on the same drive.",
-    "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+    "desc": "Old-school Sunset Park dim sum with roving carts, parking lot, and a packed weekend roar.",
+    "longDesc": "Cavernous gold-accented banquet hall on 65th St where push-carts of siu mai, har gow, chicken feet, crispy taro, rice noodle rolls, and bacon-wrapped shrimp balls weave between tables — point-and-grab, no menu required. One of the few Brooklyn dim sum houses with its own parking lot, and a Michelin Guide listee. Weekends are loud, crowded, and best treated as the crawl's brunch anchor; expect to wait if you arrive after 11am.",
+    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "photo",
       "curious"
     ],
     "dietary": [
@@ -5486,27 +5483,27 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-22:00 (carts until 15:00)",
-    "notes": "714 65th St between 7th & 8th Ave, Sunset Park; (718) 765-0098 (Yelp). Dim sum carts run until 3pm — go early, ~10:30-11am on weekends for a 15-20 min wait (Cinnamon Society). Michelin-listed Cantonese banquet-style; cash-friendly but cards accepted. Street parking on 65th/7th Ave is plausible Sunday late-morning; ~8 min south of Industry City via 3rd Ave. Pairs naturally with Kai Feng Fu Dumpling House five blocks north on 8th Ave for a 'big lunch + cheap dumpling chaser' track.",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "714 65th St, Sunset Park — 15 blocks south of Yun Nan along the 8th Ave Chinatown spine; on-site parking lot is the standout logistical perk (Michelin Guide; The Infatuation 2024). Cart service tapers after ~2:30pm, so arrive by noon for full cart rotation. Cash-friendly; reservations don't really cut the weekend wait — go early or expect 30-45 min.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-17T04:40:00Z"
-      },
-      {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-17T04:40:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
-        "accessed": "2026-05-17T04:40:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T04:41:24.076Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T05:02:43.775Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -11906,15 +11903,15 @@
   {
     "id": "bamboo-garden-sunset-park",
     "name": "Bamboo Garden",
-    "desc": "Classic 8th Ave dim sum hall with weekend cart service until 2pm, 10 min south of IC.",
-    "longDesc": "Long-running Sunset Park / Borough Park dim sum house on the Eighth Avenue corridor, famous for roast meats and a full weekend push-cart parade of har gow, siu mai, rice noodle rolls, and pork ribs in black bean sauce. The carts run from opening until ~2pm on Saturday/Sunday — show up before noon to beat the line. Big banquet-hall energy, lazy-susan tables, easier weekend parking than any Manhattan Chinatown equivalent.",
+    "desc": "Classic Sunset Park cart dim sum with shrimp eggplant, honey walnut prawns, egg tarts",
+    "longDesc": "Long-running Cantonese dim sum hall on 8th Ave with old-school rolling carts, affordable prices, and a bustling weekend crowd. Standouts include shrimp-stuffed eggplant, honey walnut prawns, and warm egg tarts; arrive before 11am on weekends or expect a wait. Reliable backfill for closed Lucky Eight slot, fully driveable from Industry City with street parking on side blocks.",
     "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
@@ -11922,34 +11919,26 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "09:00-22:30 (dim sum carts until 14:00)",
-    "notes": "Address 6409 8th Ave, Brooklyn 11220 — south end of the Sunset Park / Borough Park Chinatown strip, straight shot down 3rd Ave from IC. Cart service is the draw; arrive 11:00-12:00 for peak variety and shortest wait (Yelp/Brokelyn). Phone (718) 238-1122. Street parking on 8th Ave or side streets (64th/65th) is usually findable on weekends — far easier than Manhattan Chinatown (Infatuation, Brokelyn). Vegetarian dumplings + turnip cakes available; not a strong halal/gluten-free option. Cash-friendly, cards accepted.",
+    "hoursWeekend": "09:00-22:30",
+    "notes": "Sunset Park dim sum institution at 6409 8th Ave, Brooklyn 11220, (718) 238-1122 (Yelp). Weekend hours Fri-Sat 9am-10:30pm, Sun 9am-9:30pm — carts run during late-morning/early-afternoon dim sum service (Yelp). Cash-friendly, family-style; come hungry and early to dodge the line. ~10-12 min drive from Industry City via 3rd Ave/Gowanus; metered street parking on 64th-65th Streets typically opens up before noon.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T05:00:00Z"
       },
       {
-        "url": "https://brokelyn.com/sunset-park-dim-sum/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://bamboo-garden.wherevi.com/",
+        "accessed": "2026-05-17T05:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/bamboo-garden",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/bamboo-garden-1",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.grubhub.com/restaurant/bamboo-garden-6409-8th-ave-brooklyn/8815640",
+        "accessed": "2026-05-17T05:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:25:29.666Z"
+    "lastResearchedAt": "2026-05-17T04:54:11.507Z"
   },
   {
     "id": "olivier-bistro",
@@ -23383,5 +23372,49 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T04:50:12.302Z"
+  },
+  {
+    "id": "yi-ji-shi-mo-noodle-corp",
+    "name": "Yi Ji Shi Mo Noodle Corp",
+    "desc": "Stone-ground cheung fun & sesame paste noodles — Manhattan Chinatown counter, sub-$10",
+    "longDesc": "A six-foot takeout window in Chinatown where the rice flour is stone-ground fresh every morning, giving the cheung fun a silkier, more elastic pull than anywhere else in NYC. Sesame paste cold noodles and pork-shrimp-cilantro rice rolls run $3–$9; cash only, no seating, takeout-only. The Infatuation, Atlas Obscura, and Bon Appétit have all flagged it as a top sub-$10 meal in the city.",
+    "url": "https://yijishimo.site/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "07:00-16:00 (closed Mon)",
+    "notes": "Address discrepancy flagged: source topic said '6121 8th Ave Brooklyn,' but Yi Ji Shi Mo is at 88 Elizabeth St, Manhattan Chinatown — no Brooklyn outpost exists (Yelp, Infatuation, Atlas Obscura). Justified as Manhattan exception per spec: stone-ground rice flour cheung fun is genuinely unique in NYC and the sesame paste cold noodles are a signature off-menu order (theinfatuation.com). Cash only, takeout window, expect a 5–15 min line on weekends. Drive ~20 min from IC via Hugh L. Carey Tunnel; metered/garage parking on Bayard or Mott. Zone tagged 'dumbo' as the nearest Brooklyn zone slug since schema lacks a Manhattan/Chinatown option — Manhattan Bridge from DUMBO is the natural approach. For an actual Sunset Park 8th Ave crawl extension, see enqueue.",
+    "sources": [
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/yi-ji-shi-mo",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yi-ji-shi-mo-noodle-corp-new-york-5",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/yi-ji-shi-mo-noodle-corp",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://yijishimo.site/menu",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T04:57:41.602Z"
   }
 ]
