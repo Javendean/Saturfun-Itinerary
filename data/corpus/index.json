@@ -2586,45 +2586,48 @@
   {
     "id": "hometown-bar-b-que-red-hook",
     "name": "Hometown Bar-B-Que",
-    "desc": "Pitmaster Billy Durney's Texas-style smokehouse anchoring Van Brunt St in Red Hook.",
-    "longDesc": "Counter-service Texas BBQ from Billy Durney serving fall-apart brisket, Korean-glazed sticky ribs, lamb belly banh mi and jalapeño-cheddar sausage cut to order by the pound. Cavernous Red Hook warehouse with picnic-table seating, full bar, and live music most weekend nights — walk-up only, sells out when the meat runs out. Michelin Guide listed; one of the few NYC BBQ spots that legitimately competes with Central Texas.",
+    "desc": "Pit-smoked Texas brisket in a Red Hook warehouse with live bluegrass on weekends.",
+    "longDesc": "Billy Durney's Red Hook smokehouse cooks salt-and-pepper brisket and spare ribs over oak in classic central-Texas style, served counter-style on butcher paper at long communal tables in a converted warehouse. Weekend-only beef ribs and a deep whiskey list make it a perfect casual pivot when a refined Oaxacan dinner feels too formal, and bluegrass/country acts play the saloon room Friday and Saturday nights (theinfatuation.com; hometownbbq.com).",
     "url": "https://hometownbbq.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
-      "foodie",
       "chill",
-      "photo"
+      "foodie"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "Fri-Sat 12:00-23:00, Sun 12:00-22:00",
-    "notes": "454 Van Brunt St; counter-service walk-up only — no pickup/delivery from Red Hook (those route to the IC location) (hometownbbq.com/locations). Order by the pound; arrive earlier rather than later as popular cuts (brisket, beef rib) sell out (yelp.com). Live music on weekends adds a low-key roadhouse feel (visitbrooklyn.nyc). Listed in the MICHELIN Guide (guide.michelin.com).",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Fri-Sat 12:00-22:00, Sun 12:00-21:00 (or until sold out)",
+    "notes": "454 Van Brunt St, Brooklyn, NY 11231; phone 347-294-4644 (hometownbbq.com). Walk-up counter, first-come first-served — brisket and ribs can sell out before close, so anchor an early-evening stop (hometownbbq.com). Beef ribs Fri/Sat/Sun only (timeout.com). Red Hook has generous free street parking on Van Brunt and the surrounding industrial blocks on weekends, which makes this an easy car-friendly counterweight to the Industry City zone. Closed Mondays.",
     "sources": [
       {
-        "url": "https://hometownbbq.com/locations",
-        "accessed": "2026-05-17T16:32:00Z"
+        "url": "https://hometownbbq.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
-        "accessed": "2026-05-17T16:32:00Z"
+        "url": "https://hometownbbq.com/menu-rh",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/hometown-bar-b-que",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/hometown-bar-b-que-debuts-in-red-hook",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
-        "accessed": "2026-05-17T16:32:00Z"
-      },
-      {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/hometown-bar-b-que",
-        "accessed": "2026-05-17T16:32:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T16:42:33.870Z"
+    "lastResearchedAt": "2026-05-17T17:28:16.324Z"
   },
   {
     "id": "frankies-457-spuntino",
@@ -30692,5 +30695,192 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T17:21:55.282Z"
+  },
+  {
+    "id": "june-wine-bar-cobble-hill",
+    "name": "June Wine Bar",
+    "desc": "Brooklyn's first natural wine bar — Court Street townhouse with a back patio and small-producer pours.",
+    "longDesc": "Open since 2015 in a Cobble Hill brownstone, June is widely credited as Brooklyn's first dedicated natural wine bar, curating low-intervention bottles from small-hectare growers (no fining, no inoculated yeasts, sulfur capped around 40ppm). Wine director Jen Abbott pairs the list with chef Jordan Heissenberger's European-inspired New American snacks and a weekend brunch. Cozy 1920s-Paris-via-Brooklyn room with closely-spaced tables; the heated back patio is the move on a warm afternoon.",
+    "url": "https://www.junebk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "romantic",
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "evenings into late night (call 646-526-3167 to confirm)",
+    "notes": "231 Court St, Cobble Hill — about 10 min drive from Industry City via the BQE or Gowanus; street parking on weekends is workable but tight. The Infatuation rated it $$$$ for full dinner; a snacks-and-a-bottle visit lands closer to $$$ (theinfatuation.com). Established summer 2015 as Brooklyn's first natural wine bar (sprudge.com, junebk.com). Back patio with heat lamps is the highlight in shoulder season. This is the corrected slot for the 'natural-wine bar in the Carroll Gardens corridor' brief that Bar Bruno was miscast as.",
+    "sources": [
+      {
+        "url": "https://www.junebk.com/about",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/june-wine-bar",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://sprudge.com/breaking-the-rules-at-brooklyns-june-wine-bar-5291.html",
+        "accessed": "2026-05-17T17:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T17:30:33.826Z"
+  },
+  {
+    "id": "popina-columbia-waterfront",
+    "name": "Popina",
+    "desc": "Tiny Columbia Waterfront Italian with Southern lean, shareable pastas, and an offbeat natural-leaning wine list.",
+    "longDesc": "Popina is a cozy 11-item Italian kitchen at 127 Columbia St where chef-driven pastas and Southern-accented small plates meet an idiosyncratic wine list curated by owner James O'Brien. The room is intimate, warm-lit, and built for two-to-four-top wine-forward dinners; weekend aperitivo (3-5pm) makes it a strong drop-in stop between IC and Carroll Gardens. Snacks $5-10, pastas $18-19, mains $24-26 — share-style ordering recommended.",
+    "url": "https://www.popinanyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-21:00",
+    "notes": "Address 127 Columbia St, Brooklyn NY 11231; phone (718) 222-1901 (popinanyc.com). Sat/Sun service splits into lunch 12-3, aperitivo 3-5, dinner 5-10 (Sat) / 5-9 (Sun) (popinanyc.com/location/popina). Wine program is the draw — 'full of unusual choices' from owner James O'Brien (agirlsguidetodrinkingalone.com). Menu is deliberately small — 3 snacks/3 apps/3 pastas/2 mains, all made for sharing (cheryltiu.com). Street parking on Columbia/Kane/Degraw is usually feasible on weekend evenings; ~3.5 mi via 3rd Ave + Hamilton from IC.",
+    "sources": [
+      {
+        "url": "https://www.popinanyc.com/",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://www.popinanyc.com/location/popina/",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://www.agirlsguidetodrinkingalone.com/columbia-street-waterfront-district/2022/4/25/popina",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://www.cheryltiu.com/popina-an-italian-southern-american-gem-in-red-hook-brooklyn/",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://starwinelist.com/wine-place/popina",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/popina-brooklyn",
+        "accessed": "2026-05-17T17:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:32:58.951Z"
+  },
+  {
+    "id": "osteria-radisa",
+    "name": "Osteria Radisa",
+    "desc": "Emilia-Romagna osteria on Smith St from the Aita team — low-intervention natural wine list, rare regional pastas",
+    "longDesc": "Seasonal Carroll Gardens osteria from chef Roberto Aita (of Aita Brooklyn) with bev director Althea Codamon running a low-intervention list split between Italy and the rest of Europe. Menu revives forgotten Romagna dishes — Manfrigoli in seafood brodetto, Spoia Lorda with Adriatic clams — and adds Sat/Sun brunch. Opened mid-2025, strong Resy/Infatuation/BK Mag coverage through 2026; the closest like-for-like answer to Leuca's natural-wine + regional-Italian niche on this side of the BQE.",
+    "url": "https://www.radisabrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-120 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri-Sat 17:00-22:30; Sat-Sun brunch 11:00-15:30; Sun dinner 17:00-21:30",
+    "notes": "Confirmed open and active as of May 2026 (Yelp listing updated March 2026). Team: Roberto Aita (chef/owner), Althea Codamon (bev), Fernando Trujillo (FOH), Giulia & Luca Pelliccioni (co-founders) (radisabrooklyn.com). Wine list described as 'skewing low-intervention and unoaked, with an eye towards ethical and sustainable producers' (resy.com/blog 2025-08). Cicchetti not on the menu — this is regional pasta + brodetto, not Venetian small-plate — so it closes the natural-wine Italian gap but NOT the cicchetti gap. Address: 241 Smith St, Brooklyn 11231; phone (917) 909-1111. NOTE: The original 'Sauced Carroll Gardens' topic is a misidentification — Sauced is in Williamsburg on Bedford Ave, not Carroll Gardens, and is a natural-wine bar with backyard games rather than an Italian restaurant.",
+    "sources": [
+      {
+        "url": "https://www.radisabrooklyn.com/",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2025/08/osteria-radisa-brooklyn-nyc/",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/osteria-radisa-brooklyn",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/osteria-radisa",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2025/09/08/osteria-radisa-brooklyn-rare-regional-pasta-opening/",
+        "accessed": "2026-05-17T17:30:00Z"
+      },
+      {
+        "url": "https://cititour.com/NYC_News/Aita-Team-Opens-Osteria-Radisa-in-Carroll-Gardens/9526",
+        "accessed": "2026-05-17T17:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:35:30.672Z"
+  },
+  {
+    "id": "buttermilk-channel",
+    "name": "Buttermilk Channel (CLOSED)",
+    "desc": "PERMANENTLY CLOSED Dec 31 2024 — beloved Carroll Gardens comfort-American bistro, 16 years on Court St.",
+    "longDesc": "Buttermilk Channel was the Doug Crowell / Ryan Angulo corner bistro at 524 Court St, famous for cheddar waffles with fried chicken, duck meatloaf, short rib hash, and pecan pie French toast at brunch. After 16 years it served its final service on December 31, 2024; the team's sister restaurant French Louie in Boerum Hill remains the surviving expression of their comfort-American brunch program. Do not route guests here — kept in the corpus only as a historical reference to inform sister-venue pairing logic.",
+    "url": "https://gothamist.com/arts-entertainment/brooklyns-beloved-corner-bistro-buttermilk-channel-to-close-after-16-years",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "CLOSED PERMANENTLY",
+    "notes": "Permanently closed Dec 31, 2024 after 16 years (Gothamist, News 12 Brooklyn). Owner Doug Crowell cited that the personal corner-bistro model was 'not wildly profitable' and required total energy after 16 years. Same hospitality team still operates French Louie in Boerum Hill, which inherits the brunch + comfort-American mantle. Yelp listing now marked CLOSED. Recommend NOT surfacing in itineraries; pairing logic that referenced this venue should redirect to French Louie or to the enqueued Carroll Gardens alternatives.",
+    "sources": [
+      {
+        "url": "https://gothamist.com/arts-entertainment/brooklyns-beloved-corner-bistro-buttermilk-channel-to-close-after-16-years",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyn.news12.com/buttermilk-channel-in-carrol-gardens-set-to-close-after-16-years",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/buttermilk-channel-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://gothamartnews.com/2025/01/08/buttermilk-channel-a-beloved-brooklyn-restaurant-closes-after-16-years/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:37:52.783Z"
   }
 ]

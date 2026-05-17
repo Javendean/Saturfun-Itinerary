@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Hometown Bar-B-Que Red Hook — pit-smoked Texas brisket",
-    "reason": "Cross-zone counterweight 8 min from IC; lets a Saturfun track pivot from refined Oaxacan to casual smokehouse depending on group mood",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:00:05.853Z"
-  },
-  {
-    "topic": "June Wine Bar Cobble Hill — natural wine bar with snacks",
-    "reason": "Closest real match for the original 'natural-wine bar in the Carroll Gardens corridor' brief that Bar Bruno was miscast as; ~8-10 min from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:02:29.260Z"
-  },
-  {
-    "topic": "Popina Columbia Waterfront — Italian-influenced small plates with natural wine",
-    "reason": "Italian-leaning, wine-forward, sits between IC and Carroll Gardens; satisfies the 'cicchetti-adjacent Italian wine bar' intent better than Bar Bruno",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:02:29.260Z"
-  },
-  {
-    "topic": "Leuca alternative: Sauced Carroll Gardens natural-wine Italian — verify existence and current status",
-    "reason": "Worth confirming whether any Court St / Smith St Italian spot currently markets as cicchetti+natural-wine to close the original gap",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:02:29.261Z"
-  },
-  {
-    "topic": "Buttermilk Channel Carroll Gardens — sister restaurant from same team, comfort American with strong brunch",
-    "reason": "Same hospitality group as French Louie; expands Carroll Gardens romantic/brunch coverage and validates pairing logic",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:04:26.018Z"
-  },
-  {
     "topic": "Henry's End Brooklyn Heights — game-focused American bistro, longstanding date-night staple",
     "reason": "Adjacent neighborhood, similar romantic-dinner price band, broadens Brooklyn Heights coverage for non-Italian fine dining",
     "requestedBy": "agent",
@@ -11716,5 +11686,107 @@
     "reason": "If user wants to widen the fallback set beyond Park Slope, Lilia is the borough's reference pasta room and tests the chat's cross-zone reasoning",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T17:26:14.968Z"
+  },
+  {
+    "topic": "Sunny's Bar Red Hook — 130-year waterfront dive with weekend bluegrass jam",
+    "reason": "Pairs naturally with Hometown as a post-dinner Red Hook nightcap stop, expands the cluster's chill/live-music coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:28:16.351Z"
+  },
+  {
+    "topic": "Red Hook Winery at Pier 41 — urban winery tasting room with harbor views",
+    "reason": "Adds a refined daytime counterweight to Hometown within the same 8-min-from-IC Red Hook cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:28:16.352Z"
+  },
+  {
+    "topic": "Widow Jane Distillery Red Hook — bourbon tasting room and tours",
+    "reason": "Walkable from Hometown, gives the Red Hook track a spirits anchor and rounds out food/drinks/activity mix",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:28:16.353Z"
+  },
+  {
+    "topic": "Leyenda Cobble Hill — Ivy Mix Latin-spirits cocktail bar",
+    "reason": "Same Cobble Hill/Court St corridor, gives the cluster a cocktail anchor adjacent to June for a wine→cocktail crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:30:33.857Z"
+  },
+  {
+    "topic": "Popina Carroll Gardens — Italian-leaning natural wine + pasta",
+    "reason": "Pairs with June as a sit-down dinner option in the same 10-min IC radius; expands the natural-wine spine of the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:30:33.857Z"
+  },
+  {
+    "topic": "Henry Public Cobble Hill — turn-of-century tavern with turkey leg sandwich",
+    "reason": "Walkable from June for a second stop, anchors a non-wine alternative in the same micro-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:30:33.859Z"
+  },
+  {
+    "topic": "June Wine Bar (Cobble Hill) — natural wine bar with small plates",
+    "reason": "Pure natural-wine-bar archetype 6 blocks from Popina; covers the 'wine-first, food-second' slot that Popina only partially fills",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:32:58.975Z"
+  },
+  {
+    "topic": "Sunken Hundred (Carroll Gardens) — Sardinian-leaning Italian with natural wine",
+    "reason": "Direct Italian + natural-wine peer in the same Carroll Gardens cluster; useful alternate when Popina is booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:32:58.975Z"
+  },
+  {
+    "topic": "Ferdinando's Focacceria (Carroll Gardens) — century-old Sicilian counter",
+    "reason": "Classic, cheap, lunch-only counterpoint to Popina's evening wine bar — rounds out the Columbia-corridor Italian options across price bands",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:32:58.976Z"
+  },
+  {
+    "topic": "Sauced Williamsburg natural wine bar — backyard games, Bedford Ave (NOT in Carroll Gardens, reclassify zone)",
+    "reason": "Corrects the corpus mis-tag; Sauced is a legitimate WB natural-wine venue worth keeping but under williamsburg zone, not carroll-gardens",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:35:30.702Z"
+  },
+  {
+    "topic": "Aita Brooklyn (Clinton Hill) — original Roberto Aita restaurant for comparison/cluster",
+    "reason": "Same chef/team as Radisa; pairs as a sibling option if Radisa is booked, and anchors a Clinton Hill mini-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:35:30.702Z"
+  },
+  {
+    "topic": "Popina Carroll Gardens — Italian-inspired, natural-wine-leaning on Columbia St",
+    "reason": "Adjacent Carroll Gardens Italian with a wine program; useful to verify whether it competes with Radisa or fills the cicchetti-style small-plates gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:35:30.704Z"
+  },
+  {
+    "topic": "Leuca Williamsburg — verify current status as the original gap-anchor",
+    "reason": "Original venue this whole thread of research is alternatives-for; should be confirmed open/menu-current before recommending substitutes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:35:30.704Z"
+  },
+  {
+    "topic": "Popina Carroll Gardens — Italian-American brunch and dinner",
+    "reason": "Direct replacement for the Carroll Gardens romantic comfort-brunch slot Buttermilk Channel used to fill; James Beard-nominated chef, strong patio, 12 min drive from IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:37:52.806Z"
+  },
+  {
+    "topic": "Henry Public Cobble Hill — tavern brunch with turkey leg sandwich",
+    "reason": "Cobble Hill comfort-American tavern, walking distance from old Buttermilk Channel location, fills the casual-romantic brunch niche on the same Court/Henry corridor.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:37:52.806Z"
+  },
+  {
+    "topic": "Clover Hill Brooklyn Heights — Michelin-star tasting brunch",
+    "reason": "Elevates the Brooklyn Heights/Cobble Hill brunch tier and gives the corpus a higher-price-band romantic option to pair against French Louie.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:37:52.807Z"
+  },
+  {
+    "topic": "Bar Bruno Carroll Gardens — new neighborhood bistro with brunch",
+    "reason": "Newer Court St operator filling the same corner-bistro void Buttermilk Channel left; validates fresh Carroll Gardens coverage.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:37:52.807Z"
   }
 ]
