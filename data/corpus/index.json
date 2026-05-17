@@ -11352,12 +11352,12 @@
   {
     "id": "lavender-lake",
     "name": "Lavender Lake",
-    "desc": "Beloved Brooklyn cocktail bar with a big string-lit backyard — reborn in South Williamsburg after Gowanus demolition.",
-    "longDesc": "The 2012 Gowanus original (383 Carroll St) was torn down in March 2022; owners Mandy Jacques and Adam Sober reopened at 53 Broadway in March 2024, bringing back the cozy reclaimed-wood interior and the standout backyard garden with picnic tables and overhead lights. Solid craft cocktails, an LL Bacon Burger, weekend brunch, and the same chill neighborhood feel — just one neighborhood north. Not a same-block follow-on to Royal Palms anymore, but still one of the best backyard bars in Brooklyn.",
+    "desc": "Gowanus cocktail bar with one of Brooklyn's biggest, plant-stuffed back patios — 3 blocks from Royal Palms",
+    "longDesc": "A ~100-seat neighborhood bar named after the murky channel it sits beside, Lavender Lake's draw is its sprawling string-lit back garden (heaters in cooler weather). The menu runs to elevated bar food (burgers, fried chicken sandwich) plus five rotating drafts and a namesake lavender-vodka cocktail. Get there before 4pm on a sunny weekend or expect to perch on a bench.",
     "url": "http://www.lavenderlake.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "williamsburg",
+    "zone": "carroll-gardens",
     "vibe": [
       "chill",
       "romantic"
@@ -11366,36 +11366,32 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "17 min",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
-    "notes": "Relocated from Gowanus (383 Carroll St, demolished March 2022) to 53 Broadway, Brooklyn NY 11249 — reopened March 4, 2024 (patch.com, nyctourism). Hours: closed Mon-Tue, Wed-Thu 16:00-00:00, Fri 16:00-01:00, Sat 12:00-01:00, Sun 12:00-22:00 (yelp, timeout). Backyard is the draw — string lights, picnic seating, fills up by 4pm on warm weekends. NOTE: no longer a 2-min Gowanus walk from Royal Palms — it is ~15 min drive north in South Williamsburg under the Williamsburg Bridge. Weekend street parking on Broadway/Bedford is metered and tight; Wythe Hotel garage is a paid fallback. If the Gowanus track needs a true chill decompression stop near Royal Palms, see enqueue.",
+    "notes": "53 Carroll St (Gowanus, technically Carroll Gardens border) — 3 blocks walk from Royal Palms Shuffleboard, making it the natural pairing for the Gowanus track without re-driving (Time Out, Infatuation). Cash-friendly, dog-friendly patio. Gets slammed on warm weekend afternoons by ~4pm (Time Out).",
     "sources": [
       {
         "url": "http://www.lavenderlake.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/lavender-lake",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://patch.com/new-york/parkslope/gowanus-lavender-lake-close-ahead-building-demolition",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/lavender-lake",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.business.nyctourism.com/places/lavender-lake",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d6558666-Reviews-Lavender_Lake-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/lavender-lake-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:43:43.304Z"
+    "lastResearchedAt": "2026-05-17T10:51:44.833Z"
   },
   {
     "id": "grand-army-south-gowanus",
@@ -11844,16 +11840,16 @@
   {
     "id": "brooklyn-kura",
     "name": "Brooklyn Kura",
-    "desc": "NYC's first sake brewery — taproom flights, sake-on-tap, and Japanese small bites inside Industry City.",
-    "longDesc": "Brooklyn Kura is America's pioneering craft sake brewery, founded in 2018 and relocated in 2023 to a flagship brewery and tasting room in Industry City's Courtyard 5/6. The taproom pours flights of their flagship Number Fourteen, Occidental, and seasonal nama brews straight from tank, alongside shochu cocktails and a Japanese-leaning snack menu (onigiri, agedashi tofu, pickles). Same-complex with Japan Village's Kuraichi sake shop, so it slots seamlessly into an IC sake-and-snacks afternoon with zero re-parking.",
-    "url": "https://www.brooklynkura.com",
+    "desc": "America's first craft sake brewery — guided tour + 3-pour tasting flight inside Industry City",
+    "longDesc": "Brooklyn Kura was the first dedicated craft sake brewery in the U.S., now operating a full production facility and tap room in Industry City's Courtyard 5/6. Their $45 guided tour walks you through the brewing floor for about an hour and ends with a flight of three house sakes, including tap-room-exclusive styles like shiboritate, moromi and orizake. The taproom itself stays open later for drop-in flights, shochu cocktails, and small bites (cheese, charcuterie, nori).",
+    "url": "https://www.brooklynkura.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
       "curious",
-      "foodie"
+      "foodie",
+      "chill"
     ],
     "dietary": [
       "vegetarian",
@@ -11861,32 +11857,32 @@
       "gluten-free"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "0 min",
+    "duration": "60 min",
+    "driveFromIC": "0 min (inside IC)",
     "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
-    "notes": "Inside Industry City Courtyard 5/6 at 68 34th St — same complex as Japan Village/Kuraichi, so park once and walk. Closed Mon-Wed; opens Thu-Fri 16:00. Flights of 3-4 pours are the recommended first-visit order; sake-on-tap rotates and is exclusive to the taproom (source: brooklynkura.com). Guided brewery tours bookable via UrbanSake (source: urbansake.com). Snack menu is naturally vegan/GF-friendly since sake itself contains no animal products or gluten.",
+    "notes": "Closed Mon-Wed; Thu-Fri 16:00-21:00. Tours are scheduled events that must be pre-booked via the events page — drop-ins get the tap room only, not the brewery floor (brooklynkura.com/pages/events). Tour is $45 and runs ~1 hr including the 3-pour flight (urbansake.com). Sake is naturally gluten-free and vegan, making this a rare guided-tasting option for restricted diets. Pairs cleanly with Japan Village in the same complex for a single-park-once IC afternoon. 21+. Phone (347) 766-1601.",
     "sources": [
       {
-        "url": "https://www.brooklynkura.com",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.brooklynkura.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.urbansake.com/all-sake-events/nyc-brooklyn-kura-guided-brewery-tour-and-sake-tasting-2026-05-29/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/brooklyn-kura/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.urbansake.com/all-sake-events/nyc-brooklyn-kura-guided-brewery-tour-and-sake-tasting-2026-04-10/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://turnstiletours.com/brooklyn-kura-sake-brewery-industry-city/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T01:31:25.108Z"
+    "lastResearchedAt": "2026-05-17T10:47:44.930Z"
   },
   {
     "id": "bamboo-garden-sunset-park",
@@ -26756,5 +26752,140 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T10:38:02.627Z"
+  },
+  {
+    "id": "ms-yoo-les",
+    "name": "Ms. Yoo",
+    "desc": "Esther Choi's LES Korean-American gastropub — playful bar food + cocktails, the inverse of Mokbar.",
+    "longDesc": "Bi-level 50-seat Korean-American gastropub on Allen Street, named for chef Esther Choi's grandmother Jungok Yoo. Where Mokbar serves authentic Korean with American accents, Ms. Yoo flips the equation — American bar favorites rebuilt with Korean technique (Tteok n' Cheese with rice cakes + gruyère, bone marrow with kimchi onion jam, soju-forward cocktail program). Opens at 5 PM, so it slots cleanly as a Manhattan date-night finisher after a Brooklyn afternoon track.",
+    "url": "https://www.ms-yoo.com/",
+    "photoUrl": "https://www.ms-yoo.com/assets/images/holidayparty-story-643x1143.webp",
+    "aiBackgroundUrl": "",
+    "zone": "lower-east-side",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-100 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "17:00-24:00",
+    "notes": "Manhattan venue — included as date-night sibling to Mokbar in the Esther Choi family (FSR magazine). Address 163 Allen St, LES; opens daily from 5 PM (BroadwayWorld preview). Weekend parking is tough on Allen — recommend Icon garage at Houston/Suffolk or Delancey-Essex Municipal lot. IC → Williamsburg Bridge → Allen St is the cleanest driving route. Pair with a return drink in Williamsburg before crossing back to IC. Not for kid-track itineraries; cocktails-forward.",
+    "sources": [
+      {
+        "url": "https://www.ms-yoo.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.broadwayworld.com/bwwfood-wine/article/BWW-Preview-MS-YOO-by-Esther-Choi-Opens-on-the-LES-20170718",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.fsrmagazine.com/industry-news/esther-chois-ms-yoo-korean-accented-cocktail-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/ms-yoo-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:40:57.393Z"
+  },
+  {
+    "id": "oldies-japan-village",
+    "name": "Oldies",
+    "desc": "Angel's Share alums' 12-seat Japanese cocktail bar tucked beside Japan Village — fruit cocktails, Toki highballs, sake.",
+    "longDesc": "Run by the Angel's Share team, Oldies channels the intimacy of an old-school Tokyo cocktail den with just 12 seats off the Japan Village food hall at Industry City. Expect spirit-forward stirred cocktails, freshly-squeezed fruit drinks, Suntory Toki highballs with a twist, and a deep sake/shochu pour list (Friday happy hour 3–7pm features $14 Iichiko shochu cocktails). Walk-in only and quiet enough to talk — a strong romantic anchor on Wed–Fri evenings.",
+    "url": "https://www.wakuwakuny.com/oldies",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5df6ab81f224020f76ca1f15/1581457035246-SO57IAMSWZOVTBVXM19W/eLGrl_R8.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "romantic",
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 14:00-22:30, Sun 16:00-21:30 (closed Mon–Tue; Wed–Thu 17:00-21:30, Fri 17:00-22:30)",
+    "notes": "Inside Industry City Building 4, adjacent to Japan Village food hall (industrycity.com). 12-seat counter, walk-in only, no reservations (timeout.com). Friday happy hour 3–7pm: $14 craft Iichiko shochu cocktails (industrycity.com/event/oldies-friday-happy-hour). Sister concept WakuWaku next door covers food side. Kitchen closes ~1hr 15min before bar close. Wheelchair accessible, credit cards accepted (yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.wakuwakuny.com/oldies",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/oldies/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/event/oldies-friday-happy-hour/2024-05-03/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/oldies-at-industry-city-is-angels-shares-first-bar-outside-of-the-east-village-122019",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/oldies-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:42:58.734Z"
+  },
+  {
+    "id": "bandai-namco-cross-store",
+    "name": "Bandai Namco Cross Store Brooklyn",
+    "desc": "First US flagship of Bandai Namco — Gashapon, Gundam, One Piece, Tamagotchi, Pac-Man inside Japan Village",
+    "longDesc": "Opened Feb 28, 2025 in Industry City's Japan Village, this is the first US Bandai Namco Cross Store — ten official shops under one roof spanning Gashapon Bandai capsule machines from Japan, BANDAI SPIRITS Gundam model kits, MegaHouse figures, the One Piece Card Game shop, Tamagotchi Shop and PAC-MAN SELECT. An experiential retail venue where fans can see, touch and play with character merch shipped straight from Japan — a genuinely rare US-mainland Bandai Namco footprint, not just a pop-up.",
+    "url": "https://shop.bandainamco-am.com/locations/detail/bandai-namco-cross-store-brooklyn-new-york/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-20:00",
+    "notes": "Inside Industry City Building 4, Japan Village, 2F — anchor address 52 35th St (Industry City complex also listed as 220 36th St / Building 4) (industrycity.com). Free on-site IC parking on weekends. Pair with Japan Village food hall downstairs for an easy anime-fan combo. Instagram @bncrossstore_us. Anime News Network confirms US-first flagship status (animenewsnetwork.com).",
+    "sources": [
+      {
+        "url": "https://industrycity.com/tenants/bandai-namco-cross-store/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://shop.bandainamco-am.com/bandai-namco-cross-store-brooklyn-new-york-now-open/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.animenewsnetwork.com/news/2025-02-01/bandai-namco-opens-its-1st-u.s-interactive-store-in-new-york-on-february-28/.220687",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://otakuusamagazine.com/new-bandai-namco-cross-store-opens-in-japan-village-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:49:57.810Z"
   }
 ]
