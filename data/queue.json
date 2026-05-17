@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Tiny Montgomery at Threes Brewing — upcoming concert/DJ calendar",
-    "reason": "Drilling into the in-house music room gives schedulable show nights rather than just 'venue exists'",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:18:23.206Z"
-  },
-  {
-    "topic": "Wheated Ditmas Park / Threes Greenpoint — comparison for a second-location night",
-    "reason": "If Gowanus is too crowded on event nights, a sister-feel alternative keeps the 'walkable brewery + show' pattern viable elsewhere",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:18:23.206Z"
-  },
-  {
-    "topic": "Mood Ring Bushwick astrology-themed cocktail bar",
-    "reason": "Walking-distance pre-game spot for a House of Yes / Sultan Room Bushwick late-night cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:20:16.292Z"
-  },
-  {
-    "topic": "Roberta's Pizza Bushwick original location",
-    "reason": "Iconic dinner anchor 10 min from House of Yes to complete a Bushwick eat-then-dance flow",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:20:16.292Z"
-  },
-  {
-    "topic": "Elsewhere Bushwick multi-room music venue and rooftop",
-    "reason": "Alternate Bushwick nightlife venue with rooftop variation — different vibe from House of Yes but same cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:20:16.292Z"
-  },
-  {
     "topic": "Doner Kebab takeout counter at 234 Starr St Bushwick",
     "reason": "Casual/cheaper sibling of Turk's Inn at the same address — fits a budget-friendly Bushwick track or grab-and-go before a Sultan Room show",
     "requestedBy": "agent",
@@ -13552,5 +13522,89 @@
     "reason": "Massive warehouse venue 10 min north of Bushwick — large-format electronic events and art installations, the next size class up from Elsewhere's Hall",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T23:17:10.939Z"
+  },
+  {
+    "topic": "Public Records (Gowanus) — listening room + natural wine bar concert calendar",
+    "reason": "Real weekly live-music calendar inside a 12-min IC drive; fills the schedulable-show-night gap that Tiny Montgomery doesn't reliably cover",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:19:42.798Z"
+  },
+  {
+    "topic": "Bar LunÀtico (Bed-Stuy) — nightly free jazz/world music sets",
+    "reason": "Tiny, no-cover listening room with a 7-days-a-week schedule; great fallback when Tiny Montgomery has no public show",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:19:42.798Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom + Grand Army South kitchen",
+    "reason": "Parent venue at same address — usable as a standalone food+beer stop on nights the upstairs room is dark or privately booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:19:42.798Z"
+  },
+  {
+    "topic": "Wheated Ditmas Park (905 Church Ave) — Neapolitan pizza + 740-bottle whiskey list",
+    "reason": "The other half of this comparison; serves a different 'second-location night' pattern (pizza + dram, not brewery + show). Worth a standalone entry to round out Saturfun's south-Brooklyn options when Gowanus is mobbed.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:21:46.535Z"
+  },
+  {
+    "topic": "Achilles Heel (Greenpoint waterfront bar)",
+    "reason": "Within 10-min walk of Threes Greenpoint; lets the corpus support a Greenpoint multi-stop crawl mirroring the Gowanus pattern.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:21:46.535Z"
+  },
+  {
+    "topic": "Greenpoint Fish & Lobster Co. (in the Threes building)",
+    "reason": "Co-located food anchor; pairing it with Threes Greenpoint as a single-address dinner+beer stop would be a high-value Saturfun combo card.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:21:46.536Z"
+  },
+  {
+    "topic": "The Johnson's Bushwick — dive bar with free pizza on Flushing Ave",
+    "reason": "Classic cheap pre-game option in the same Bushwick late-night cluster, walkable to House of Yes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:23:42.912Z"
+  },
+  {
+    "topic": "Birdy's Bushwick natural wine bar on Wyckoff Ave",
+    "reason": "More upscale wine-forward alternative pre-game within 5 min walk of House of Yes / Sultan Room",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:23:42.912Z"
+  },
+  {
+    "topic": "Honey's Bushwick mead bar on Bogart St",
+    "reason": "Distinctive mead-only cocktail program rounds out the Bushwick nightlife cluster with a curio angle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:23:42.912Z"
+  },
+  {
+    "topic": "House of Yes Bushwick (2 Wyckoff Ave) — immersive nightclub pairing",
+    "reason": "Completes the Bushwick eat-then-dance flow anchored by Roberta's; needs cover/hours/door policy details",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:25:34.209Z"
+  },
+  {
+    "topic": "Mood Ring Bushwick — astrology cocktail bar near Roberta's",
+    "reason": "Strong intermediate stop between Roberta's dinner and a later House of Yes set",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:25:34.209Z"
+  },
+  {
+    "topic": "Birds of a Feather Bushwick — upscale Sichuan alternative to Roberta's",
+    "reason": "Diversifies the Bushwick dinner anchor set for users who skip pizza",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:25:34.209Z"
+  },
+  {
+    "topic": "Nowadays Ridgewood — outdoor dance garden + indoor club",
+    "reason": "Another music-first multi-space venue 10 min from Elsewhere; expands Bushwick/Ridgewood nightlife cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:27:32.461Z"
+  },
+  {
+    "topic": "Bossa Nova Civic Club Bushwick — intimate techno club",
+    "reason": "Tighter, sweatier counterpart to Elsewhere's bigger rooms for a Bushwick night-out arc",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T23:27:32.461Z"
   }
 ]
