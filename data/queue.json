@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Lan Zhou Hand Pull Noodle 5924 8th Ave Sunset Park",
-    "reason": "Adds Northwest Chinese hand-pulled lamian to the 8th Ave strip — another non-Cantonese counterweight at the southern end of the cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:28:29.072Z"
-  },
-  {
-    "topic": "Bamboo Garden dim sum 6409 8th Ave Sunset Park weekend cart service",
-    "reason": "Anchors the southern 8th Ave Chinatown lunch run; pairs naturally with a noodle stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:28:29.072Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace 714 65th St Brooklyn weekend dim sum",
-    "reason": "Cart-style banquet hall on the same drive route; covers the 'big room, loud, families' dim sum slot Yun Nan does not",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:28:29.072Z"
-  },
-  {
-    "topic": "Xinjiang BBQ cart or Uyghur skewer spot on 8th Ave Sunset Park",
-    "reason": "Western China lamb skewers would round out the regional diversity beyond Cantonese + Yunnan on the strip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:28:29.072Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden Sunset Park crossing-the-bridge noodles",
-    "reason": "Anchors the same 8th Ave Chinatown graze track — Yunnanese rice noodles a few blocks from Kai Feng Fu, easy second stop on a Sunset Park driving cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:31:01.238Z"
-  },
-  {
     "topic": "Ba Xuyen Vietnamese banh mi Sunset Park",
     "reason": "Cheap banh mi institution on 6th Ave near 42nd St — completes a multicultural Sunset Park snack crawl with Kai Feng Fu without leaving the 10-min IC radius",
     "requestedBy": "agent",
@@ -7732,5 +7702,95 @@
     "reason": "5th Ave taco spot directly downhill from the park crest — walkable post-sunset bite that ties hilltop view back into the food crawl",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T04:25:51.470Z"
+  },
+  {
+    "topic": "Lanzhou Noodle 5603 7th Ave Brooklyn",
+    "reason": "Active second Lanzhou specialist on the 7th Ave parallel strip — useful cross-reference and backup if Dun Huang has a wait",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:29:12.874Z"
+  },
+  {
+    "topic": "Feilong Noodle King 5603 7th Ave Brooklyn",
+    "reason": "Praised 2026 reviews for clear beef broth and standout fresh noodles — broadens the 7th/8th Ave noodle map beyond Lanzhou style",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:29:12.875Z"
+  },
+  {
+    "topic": "Yun Nan Flavor Garden Sunset Park",
+    "reason": "Yunnan rice-noodle (mi xian) house — another non-Cantonese regional counterweight, fills out the 'cuisines of the Chinese west' angle on the 8th Ave cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:29:12.875Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave Sunset Park hand-pulled dumplings",
+    "reason": "Cheap, beloved dumpling stop in the same 8th Ave Chinatown corridor — natural pairing after dim sum or alternative anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:31:00.314Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave Brooklyn rice noodles",
+    "reason": "Adds a Yunnan crossing-the-bridge noodles option to the southern Brooklyn lunch run, distinct cuisine from Cantonese dim sum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:31:00.314Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 714 65th St Sunset Park weekend dim sum",
+    "reason": "Competing cart-service dim sum hall two blocks from Bamboo Garden — back-pocket option if Bamboo is slammed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:31:00.314Z"
+  },
+  {
+    "topic": "Pacificana 813 55th St Brooklyn cart dim sum",
+    "reason": "Sister-tier Sunset Park dim sum hall — needed as backup when East Harbor wait tops 45 min",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:32:46.381Z"
+  },
+  {
+    "topic": "Bamboo Garden 6409 8th Ave Brooklyn dim sum",
+    "reason": "8th Ave Chinatown core — completes the dim sum trio for the cluster and is walkable from East Harbor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:32:46.381Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave Brooklyn",
+    "reason": "$1 dumpling counter — perfect pre- or post-dim-sum snack stop on the same drive corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:32:46.381Z"
+  },
+  {
+    "topic": "Yi Lan Halal Restaurant or other halal Chinese / Hui spot on 8th Ave Sunset Park",
+    "reason": "Adds a sit-down Northwest-Chinese/halal option to complement the cart and round out regional Chinese diversity on the strip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:35:36.662Z"
+  },
+  {
+    "topic": "Hand-pulled Lanzhou beef noodle shop in Sunset Park 8th Ave corridor",
+    "reason": "Lanzhou la-mian is the other signature Northwest Chinese cuisine and pairs naturally with a cumin-lamb-skewer crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:35:36.662Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House (4801 8th Ave) pan-fried pork-and-chive dumplings",
+    "reason": "Cheap-eats anchor referenced in the same Sunset Park street-cart tour — adds a Northern-Chinese dumpling stop within walking distance of the skewer cart",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:35:36.662Z"
+  },
+  {
+    "topic": "Lan Zhou Hand Pull Noodle 5102 8th Ave Sunset Park",
+    "reason": "Hand-pulled lamian one block from Yun Nan, rounds out the 8th Ave noodle trio with Kai Feng Fu",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:37:41.994Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace dim sum 8th Ave Sunset Park",
+    "reason": "Weekend cart dim sum anchor for the same Brooklyn Chinatown cluster, easy mid-day stop for a larger group",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:37:41.994Z"
+  },
+  {
+    "topic": "Yun Nan Flavor Snack Bensonhurst 86th St",
+    "reason": "Sister Yunnanese spot in next-zone-over Bensonhurst; useful comparison candidate and possible separate driving cluster anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T04:37:41.994Z"
   }
 ]

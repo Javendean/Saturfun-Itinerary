@@ -5382,9 +5382,9 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Hole-in-the-wall Kunming-style Yunnan kitchen famed for housemade rice noodles and Crossing-the-Bridge broth.",
-    "longDesc": "Run by a husband-and-wife team from Kunming, this tiny Sunset Park storefront is one of NYC's most authentic Yunnan kitchens, with thick housemade rice noodles in salty beef-or-pork stew and the signature Crossing the Bridge bowl built tableside in piping-hot broth. About 10 cramped seats, near-takeout-only feel, bowls in the $5-$10 range — a non-Cantonese counterpoint to the rest of 8th Ave Chinatown.",
-    "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+    "desc": "Tiny Sunset Park Yunnanese counter famous for crossing-the-bridge noodles assembled tableside in screaming-hot broth",
+    "longDesc": "A husband-and-wife counter from Kunming serving rare Yunnan dishes a few blocks south of Kai Feng Fu on 8th Ave. The signature guoqiao mixian (crossing-the-bridge noodles) arrives disassembled — raw beef or lamb, vegetables, a heap of rice noodles, and a bowl of fiercely hot, fragrant chicken broth you tip everything into to cook at the table. Cash-friendly, fluorescent-lit, mostly takeout — perfect quick stop pre- or post-Kai Feng Fu on a Sunset Park graze.",
+    "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5395,31 +5395,35 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "11:00-21:30",
-    "notes": "5121 8th Ave at ~51st St, ~1.2 mi north of Industry City — straight shot up 3rd/4th Ave to 8th. Weekend metered street parking on 8th Ave and side streets is reasonable but tight at lunch; try 9th Ave one block over. Cash-friendly, tiny dining room (about 10 seats) so plan an off-peak window or order to go. Signature Crossing the Bridge Rice Noodles with beef or lamb; housemade thick rice noodles in beef/pork stew are the move (stuyspec.com, nyctourism.com). Pairs naturally with the 8th Ave Chinatown cluster (East Harbor dim sum, Kai Feng Fu dumplings) as a non-Cantonese stop.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "5121 8th Ave, Brooklyn NY 11220, (718) 633-3090 (Yelp). Yunnanese specialty; signature guoqiao mixian / crossing-the-bridge noodles served disassembled with raw meat cooked tableside in scalding chicken broth (NYC Tourism). Also strong on hot-and-sour soup and pork bone-broth noodle bowls (Stuy Spec). Tiny room, mostly takeout — order at the counter. Paid and free street parking around 51st/8th Ave on weekends; pairs with Kai Feng Fu bakery 5 blocks north on the same 8th Ave Chinatown spine. ~8 min drive from Industry City via 3rd Ave or 4th Ave.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-17T04:05:00Z"
+        "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
+        "accessed": "2026-05-17T04:30:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-17T04:05:00Z"
+        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+        "accessed": "2026-05-17T04:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/yun-nan-flavour-garden",
+        "accessed": "2026-05-17T04:30:00Z"
       },
       {
         "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
-        "accessed": "2026-05-17T04:05:00Z"
+        "accessed": "2026-05-17T04:30:00Z"
       },
       {
-        "url": "https://notanotherbrooklynblog.com/2015/03/10/eating-8th-avenue-yun-nan-flavour-garden/",
-        "accessed": "2026-05-17T04:05:00Z"
+        "url": "https://foursquare.com/v/yun-nan-flavour-garden/51d868ac498ef583276dcf4b",
+        "accessed": "2026-05-17T04:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:06:54.437Z"
+    "lastResearchedAt": "2026-05-17T04:37:41.973Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -5467,51 +5471,40 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Old-school cart-service dim sum in a gold-trimmed Sunset Park banquet hall — go before 9:30am or wait an hour.",
-    "longDesc": "One of NYC's last true rolling-cart dim sum halls, tucked in Brooklyn's 8th Ave Chinatown five minutes south of Industry City. The cavernous gold-and-red dining room fills with steaming carts of har gow, siu mai, shrimp rice noodles, and fried turnip cake from 9am to 3pm on weekends. Eight items for two people runs around $20 — almost absurd value — but the wait balloons past an hour after 9:30am, so this is a get-there-early upgrade slot, not a leisurely brunch.",
-    "url": "https://east-harbor-seafood-palace.com/",
+    "desc": "Cart-style Cantonese banquet hall — loud, family-packed weekend dim sum just off the BQE.",
+    "longDesc": "A 600-seat Sunset Park / Dyker Heights institution where push-carts of har gow, siu mai, cheung fun, and roast meats circle a chandeliered ballroom from morning into the afternoon. Weekends are peak chaos — expect a numbered ticket and a 20-40 min wait by 11:30am, but the cart parade and group-friendly Lazy-Susan tables are the entire point. Cash-friendly, kid-friendly, no reservations for dim sum.",
+    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "park-slope",
     "vibe": [
       "foodie",
-      "photo",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "09:00-23:00 (cart dim sum 09:00-15:00)",
-    "notes": "Cart service is the draw — point at what looks good as it rolls by; menu ordering is available but misses the experience (Infatuation 2024). Arrive by 9:00-9:30am Sat/Sun to avoid the 60+ min wait (Cinnamon Society, Yelp). Eight dim sum items for two ran ~$20 incl. tax — exceptionally low even for dim sum. Cash + cards. Parking on 7th/8th Ave side streets is realistic on weekend mornings before crowds arrive. Pair as a 'go bigger' brunch anchor before an IC afternoon, or after a Sunset Park 8th Ave Chinatown walk.",
+    "duration": "75-90 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "Listed in the MICHELIN Guide for Brooklyn (guide.michelin.com). 714 65th St between 7th & 8th Ave, on the Sunset Park / Dyker Heights border — ~1.5 mi south of Industry City, an easy 3rd Ave drive. Weekend dim sum runs ~9am-3pm with carts; full Cantonese menu and seafood tanks after. Crowds peak 11:30am-1pm — arrive by 10:30 or after 2 to skip the worst of the line (yelp.com). Street parking on 65th/66th/7th Ave is usually findable on weekend mornings. Phone (718) 765-0098, cart-style ordering means no app — pay in cash if possible.",
     "sources": [
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/east-harbor-seafood-palace",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
-        "accessed": "2026-05-17"
-      },
-      {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-17T04:30:00Z"
       },
       {
-        "url": "https://east-harbor-seafood-palace.com/",
-        "accessed": "2026-05-17"
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+        "accessed": "2026-05-17T04:30:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/east-harbor-seafood-palace-%E8%BF%8E%E8%B3%93%E5%A4%A7%E9%85%92%E6%A8%93/4a58ae56f964a520a8b71fe3",
+        "accessed": "2026-05-17T04:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:17:08.525Z"
+    "lastResearchedAt": "2026-05-17T04:32:46.358Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -10457,9 +10450,9 @@
   {
     "id": "bamboo-garden-dim-sum",
     "name": "Bamboo Garden",
-    "desc": "Classic cart-style dim sum hall in Sunset Park's Chinatown — bustling banquet room, weekend brunch institution.",
-    "longDesc": "A chandelier-lit Cantonese banquet hall on 8th Ave at 64th St where dim sum carts roll from opening until 2pm daily, slinging har gow, siu mai, custard pineapple buns, and egg tarts. Beyond the carts, the kitchen is known for honey walnut prawns, shrimp-stuffed eggplant, Peking duck, and char siu — affordable, plentiful, and consistently packed with neighborhood regulars. Arrive before 11am on weekends or expect a wait; the room moves fast once you're in.",
-    "url": "https://www.google.com/maps/place/Bamboo+Garden/@40.6304,-74.0118,17z",
+    "desc": "Old-school weekend cart-service dim sum on Brooklyn's 8th Ave Chinatown — arrive before 11am.",
+    "longDesc": "One of the last NYC dim sum halls still rolling carts on weekends in Sunset Park's 8th Ave Chinatown. Carts run from open until 2pm Sat/Sun with classics like har gow, shu mai, turnip cake and chicken feet; show up before 11am or expect a wait. Big banquet-hall room, cash-friendly, ridiculously cheap for the volume.",
+    "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -10467,38 +10460,36 @@
       "foodie",
       "curious"
     ],
-    "dietary": [],
-    "priceBand": "$$",
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
     "duration": "60-90 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "Sat 08:00-24:00, Sun 08:00-23:00 (carts until 14:00)",
-    "notes": "Actual address is 6409 8th Ave (at 64th St), Brooklyn, NY 11220 — slightly south of the 6217 figure passed in but the same 8th Ave Chinatown corridor (Yelp, Time Out). Dim sum carts run from open until 2pm every day; arrive before 11am on weekends to skip the line (Brokelyn, search). Signature picks: har gow, siu mai, custard pineapple buns, egg tarts, honey walnut prawns, shrimp-stuffed eggplant, char siu (Yelp consensus, Wanderlog). About 1.4 mi straight south on 8th Ave from Industry City — quick drive, weekend street parking on side streets (62nd-66th) is usually findable. Anchors a morning slot on the Sunset Park Chinatown loop.",
+    "hoursWeekend": "Sat 08:00-00:00, Sun 08:00-23:00 (carts until 14:00)",
+    "notes": "Carts only run during the day — cutoff ~2pm both weekend days (Yelp, TimeOut). Arrive before 11am to skip the line (Infatuation). Street parking on 8th Ave / 64th-65th is realistic before noon. ~1.5 mi straight down 3rd or 5th Ave from IC, ~8 min drive. Pairs well with a 60th-65th St noodle/bakery crawl after.",
     "sources": [
       {
-        "url": "https://www.timeout.com/newyork/restaurants/bamboo-garden-1",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
+        "accessed": "2026-05-17T04:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.timeout.com/newyork/restaurants/bamboo-garden-1",
+        "accessed": "2026-05-17T04:30:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/bamboo-garden",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T04:30:00Z"
       },
       {
-        "url": "https://brokelyn.com/sunset-park-dim-sum/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://wanderlog.com/place/details/1982127/bamboo-garden",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://brooklynbased.com/2020/09/15/outdoor-dim-sum-bamboo-garden-dyker-heights/",
+        "accessed": "2026-05-17T04:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:20:11.459Z"
+    "lastResearchedAt": "2026-05-17T04:31:00.287Z"
   },
   {
     "id": "pacificana",
@@ -23269,5 +23260,90 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T04:21:39.154Z"
+  },
+  {
+    "id": "dun-huang-sunset-park",
+    "name": "Dun Huang",
+    "desc": "Gansu-province Lanzhou hand-pulled beef noodles on the 8th Ave Chinatown's southern edge",
+    "longDesc": "Northwest Chinese specialist one block off the 8th Ave strip. The signature Lanzhou beef noodles arrive as a clear radish-and-beef broth over freshly hand-pulled lamian, with sliced beef, tendon, scallions, cilantro, and enough chili oil to turn the surface iridescent orange. Their spicy cumin lamb pita burger is a classic Hui-Muslim/Northwestern street snack, and the room is fast, cheap, and consistent — MTA's Sunset Park Chinatown food guide calls them the Lanzhou specialist of the neighborhood.",
+    "url": "https://www.dunhuangbk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "Replacement pick: the originally-requested Lan Zhou Hand Pull Noodle at 5924 8th Ave is permanently closed per Yelp Dec 2025 (the prior tenant Wong Good Hand Pull Noodle also closed, so the storefront itself is dead) (yelp.com). Dun Huang at 817 60th St is the living incarnation of the same role — Lanzhou-style hand-pulled lamian, non-Cantonese, on the southern 8th Ave Chinatown axis (dhnoodles.com; away.mta.info). Open daily 11am-10pm. Free street parking on 60th/61st Streets is generally manageable off peak; metered 8th Ave is faster but tighter on weekend lunch rush. Cash-friendly, no-reservation counter spot — go straight in, order the beef noodle soup plus a cumin lamb pita, expect to be out in under 40 min.",
+    "sources": [
+      {
+        "url": "https://dhnoodles.com/restaurant-location/sunset-park/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lanzhou-hand-pull-noodle-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/dun-huang-brooklyn-5",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T04:29:12.851Z"
+  },
+  {
+    "id": "369-bbq-skewer-cart-61st-8th-ave",
+    "name": "369 BBQ Skewer Cart (61st & 8th Ave)",
+    "desc": "Charcoal-grilled cumin lamb skewers from a Xinjiang-style street cart on Sunset Park's 8th Ave.",
+    "longDesc": "An open-air cart parked at the corner of 61st St and 8th Ave, fanning charcoal coals over lamb, chicken, beef and tofu skewers dusted heavy with cumin and chili — Xinjiang-style 烧烤 transplanted to Brooklyn's Chinatown. Lamb runs $1.50–$4 per stick (often $4 for two), and reviewers single it out as the standout: tender, smoky, cumin-forward. Two duplicate Yelp listings (BBQ Kabob Cart, 369 BBQ) describe the same charcoal stand; signage is Chinese only, so look for the cloud of charcoal smoke on the SW corner.",
+    "url": "https://www.yelp.com/biz/369-bbq-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "15-30 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "afternoon-late night (cart hours vary; arrive after 4pm for best odds)",
+    "notes": "Cash-friendly outdoor cart at the SW corner of 61st & 8th Ave (Sunset Park, 11220) — ~1.4 mi / 8 min drive from Industry City via 3rd Ave or 7th Ave; metered/free street parking on 8th Ave side streets is realistic on weekends. Charcoal-grilled lamb with cumin is the move ($1.50–$4/stick depending on size, ~$4 for 2 large lamb skewers per TikTok @thebingbuzz street-cart tour). Cart also sells pork hot dogs and beef, so not reliably halal despite the Uyghur/Xinjiang style. Two Yelp listings at the same corner (BBQ Kabob Cart, 28 photos / 23 reviews and 369 BBQ, 63 photos / 35 reviews) appear to describe the same operator (Yelp).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/369-bbq-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bbq-kabob-cart-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tiktok.com/@thebingbuzz/video/7373047371657202990",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tiktok.com/@thebingbuzz/video/7381247719169428782",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T04:35:36.633Z"
   }
 ]
