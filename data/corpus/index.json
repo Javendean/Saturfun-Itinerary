@@ -1825,8 +1825,8 @@
   {
     "id": "insa-gowanus",
     "name": "Insa",
-    "desc": "Gowanus Korean BBQ with five themed private karaoke rooms — tabletop grills, soju, late-night singing.",
-    "longDesc": "Insa is a sprawling Korean BBQ + karaoke destination at 328 Douglass St in Gowanus, pairing tabletop charcoal grills (galbi, pork belly, banchan) with five private karaoke rooms that run until 2am on weekends. Small rooms fit up to 10 guests at $80/hr; the large room holds 20 at $200/hr, with 2-hour Fri/Sat minimums and a mandatory 20% gratuity. The kitchen-then-sing flow makes it a natural late-evening anchor after Royal Palms shuffleboard a few blocks away.",
+    "desc": "Gowanus Korean BBQ + private karaoke rooms; tabletop grill dinner then noraebang under one roof.",
+    "longDesc": "Insa is a flagship Korean BBQ spot at 328 Douglass St in Gowanus with five themed private karaoke rooms behind the dining room. Tabletop grilling (galbi, pork belly, banchan) flows straight into a noraebang night — small rooms (up to ~10) run $60/hr and large rooms (up to ~22) run $160/hr. Open 5:30pm–2am Fri/Sat with full bar (soju cocktails, makgeolli slushies), making it the closest IC-anchored alternative to Goldie's K-Town runs.",
     "url": "https://insabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -1837,19 +1837,14 @@
       "curious"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Fri-Sat 17:30-02:00, Sun 16:00-22:00",
-    "notes": "Closed Mon-Tue. Karaoke is auto-2hr on Fri/Sat; reserve well ahead via OpenTable (rooms book out 2-3 weeks for prime weekend slots). Strong banchan, charcoal grills at the table, full bar with soju cocktails. Walkable to Royal Palms Shuffleboard (~6 min walk) and Threes Brewing — pairs perfectly as the 'eat + sing' second half of a Gowanus active-foodie night (insabrooklyn.com/karaoke). Street parking around Douglass/Nevins is plausible weekend evenings; paid lots on 3rd Ave as backup.",
+    "duration": "2.5-3 hr",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "Sat 17:30-02:00, Sun 16:00-22:00",
+    "notes": "Five themed karaoke rooms with state-of-the-art sound and multi-language song catalog; small room ~$60/hr (≤10 ppl), large ~$160/hr (≤22 ppl) (insabrooklyn.com/karaoke). Reserve karaoke separately from dinner via Resy/OpenTable — rooms book out weekends. Closed Mon/Tue. Street parking on Douglass/3rd Ave is feasible on weekends; nearby Gowanus lots as backup. About 11 min drive from Industry City via 3rd Ave (no tolls). Replaces Manhattan K-Town trips for IC-anchored evenings — pairs naturally with a Sunset Park or Industry City pre-dinner drink stop.",
     "sources": [
-      {
-        "url": "https://insabrooklyn.com/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
       {
         "url": "https://insabrooklyn.com/karaoke",
         "accessed": "2026-05-17T00:00:00Z"
@@ -1859,7 +1854,15 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.opentable.com/r/insa-karaoke-room-brooklyn",
+        "url": "https://insabrooklyn.com/private-events",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/insa-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/insa",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
@@ -1870,7 +1873,7 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 9 — 10:00 PM Late Night (NEW)",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-17T10:53:36.266Z"
+    "lastResearchedAt": "2026-05-17T13:52:36.439Z"
   },
   {
     "id": "bookoff-animelab-industry-city",
@@ -28366,5 +28369,182 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T13:44:06.610Z"
+  },
+  {
+    "id": "sing-sing-karaoke-ave-a",
+    "name": "Sing Sing Karaoke (Ave A)",
+    "desc": "East Village private-room karaoke with 15 rooms, BYO food, open till 4am every night.",
+    "longDesc": "Sing Sing Ave A is the East Village's go-to KTV-style karaoke with 15 private rooms ranging from small couples' rooms to VIP party rooms fitting 15-25 (source: singsingavea.com/rooms). Per-person pricing runs $5/hr before 8pm and $10/hr after, with VIP rooms at $125/$250 per hour; guests can bring outside food for free, and walk-ins are accepted though weekend reservations are recommended. Open every night until 4am, it's the reliable Manhattan backup when JTunes and Goldie's are booked.",
+    "url": "https://www.singsingavea.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "16:00-04:00",
+    "notes": "Manhattan exception justified by KTV-style private-room operator scarcity in BK; ~22 min drive from IC via Brooklyn-Battery Tunnel or Williamsburg Bridge. 81 Ave A, NYC. Phone (212) 674-0700. Private rooms $5/person/hr pre-8pm, $10/person/hr post-8pm; VIP rooms $125-$250/hr. BYO food allowed at no charge. Reserve weekends via singsingavea.com/reserve (source: yelp.com/biz/sing-sing-ave-a-new-york). Street parking is rough in EV — budget for a garage on E 3rd or Houston.",
+    "sources": [
+      {
+        "url": "https://www.singsingavea.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.singsingavea.com/rooms",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.singsingavea.com/reserve",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sing-sing-ave-a-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://eastvillage.com/bars-clubs/sing-sing-ave-a/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:50:39.259Z"
+  },
+  {
+    "id": "monteros-bar",
+    "name": "Montero's Bar & Grill",
+    "desc": "1939 longshoreman dive on Atlantic Ave with no-cover karaoke Thu–Sat and full nautical patina.",
+    "longDesc": "Opened in 1939 as a hangout for Brooklyn dockworkers, Montero's is a tiny, low-ceilinged mariner bar at 73 Atlantic Ave still run by the Montero family, with ship lanterns, life rings, and decades of nautical bric-a-brac on every surface. Karaoke runs Thursday, Friday and Saturday nights with no cover, drawing a mixed crowd of regulars and curious first-timers who keep singing well past midnight. Drinks are cheap, the room is small enough that every song feels like a duet with the bar, and it stays open until 4am.",
+    "url": "https://www.timeout.com/newyork/bars/monteros",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "14:00-04:00",
+    "notes": "Karaoke Thu/Fri/Sat, no cover, typically kicks off ~9pm and runs late (facebook.com/groups/brooklynkaraokegigs). Cash-friendly old-school dive; expect a small room and a chatty regular base — singing here is participatory, not performative (timeout.com/newyork/bars/monteros). At 73 Atlantic Ave it sits at the Heights/Cobble Hill border with metered + side-street parking on Hicks/Henry that's usually findable on weekends. Open daily 2pm–4am (nyctourism.com/nightlife/monteros). Pairs naturally with a Cobble Hill or Red Hook dinner stop before heading down.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/bars/monteros",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/monteros/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/monteros-bar-and-grill-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bradthomasparsons.substack.com/p/karaoke-night-at-monteros",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.facebook.com/groups/brooklynkaraokegigs/posts/2800740256982956/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:54:37.168Z"
+  },
+  {
+    "id": "birds-of-a-feather",
+    "name": "Birds of a Feather",
+    "desc": "Michelin-team modern Sichuan with one of Brooklyn's deepest natural-leaning wine lists.",
+    "longDesc": "Despite the 'Bushwick wine bar' framing, Birds of a Feather is the Yiming Wang and Xian Zhang Sichuan restaurant at 191 Grand St in Williamsburg — sister to Michelin-starred Cafe China. The wine program spans sparkling, white, orange, and red across multiple regions and pairs unusually well with mapo, dan dan, and dry-pot dishes (corkage $40 per 750ml).",
+    "url": "https://birdsofafeatherny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:00-22:30",
+    "notes": "Topic was tagged 'Bushwick natural wine bar 5 min from 233 Starr Karaoke' but the actual venue is a Sichuan restaurant in Williamsburg at 191 Grand St (birdsofafeatherny.com) — roughly a 12 min drive, not a walk, from 233 Starr. The wine list is unusually deep and orange-wine-friendly, so it still works as a 'great wine + great food' anchor, just not a pre-karaoke one. Lunch Sat-Sun 11:00-16:30; dinner Fri-Sat to 22:30, Sun to 22:00. For the original Bushwick pre-karaoke intent, see enqueued candidates.",
+    "sources": [
+      {
+        "url": "https://birdsofafeatherny.com/menu",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/birds-of-a-feather-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/birds-of-a-feather",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:57:31.318Z"
+  },
+  {
+    "id": "robertas-bushwick",
+    "name": "Roberta's",
+    "desc": "Iconic Bushwick wood-fired Neapolitan pizza in a graffiti-clad warehouse with a tiki garden",
+    "longDesc": "Roberta's has been the gravitational center of Bushwick dining since 2008 — wood-fired Neapolitan pizzas (start ~$24), house-cured salumi, handmade pasta, and seasonal vegetables served inside a tin-shed warehouse on Moore Street, with a back garden and tiki bar in warmer months. The Bee Sting (soppressata, chili, honey) and the Speckenwolf are the canonical orders; weekend nights run loud and crowded, so book on Resy for a pre-karaoke dinner that can comfortably wrap by 9-9:30pm. Five minutes from 233 Starr St, making it the obvious anchor for a Bushwick food + karaoke evening track.",
+    "url": "https://www.robertaspizza.com/bushwick",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
+    "notes": "261 Moore St, Brooklyn NY 11206 (Yelp, Resy). Wood-fired Neapolitan pizzas from ~$24; full menu includes pastas, salumi, charcoal-grilled heritage meats (robertaspizza.com/bushwick). Reservations via Resy strongly recommended on weekends; walk-ins possible at the bar. Street parking in the surrounding industrial blocks is decent on weekends compared to most of NYC. ~5 min drive to 233 Starr St (House of Yes) — natural pre-karaoke dinner stop (google maps). Michelin Guide listed (guide.michelin.com).",
+    "sources": [
+      {
+        "url": "https://www.robertaspizza.com/bushwick",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/robertas-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/robertas-restaurant",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/roberta-s",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T13:59:32.500Z"
   }
 ]

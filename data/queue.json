@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sing Sing Karaoke East Village private rooms late-night",
-    "reason": "Manhattan KTV-style backup for nights when both JTunes and Goldie's are full; well-known private-room operator",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:43:10.180Z"
-  },
-  {
-    "topic": "Insa Gowanus Korean BBQ karaoke private rooms",
-    "reason": "Closer-to-IC karaoke alternative (~10 min drive) that combines dinner + private noraebang, fills the Goldie's gap on an IC-anchored night",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:43:10.180Z"
-  },
-  {
-    "topic": "Montero's Bar Brooklyn Heights karaoke",
-    "reason": "Historic Cobble Hill/BH dive with nightly karaoke, much closer to IC than Greenpoint, expands the karaoke corpus on the south-Brooklyn side",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:43:10.180Z"
-  },
-  {
-    "topic": "Birds of a Feather Bushwick natural wine bar",
-    "reason": "Pre-karaoke drinks anchor in the same Bushwick cluster, 5 min walk from 233 Starr",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:45:23.830Z"
-  },
-  {
-    "topic": "Roberta's Bushwick pizza pre-karaoke dinner",
-    "reason": "Iconic Bushwick foodie stop within 10 min of 233 Starr — completes a food+karaoke evening track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:45:23.830Z"
-  },
-  {
     "topic": "House of Yes Bushwick late-night cabaret",
     "reason": "Higher-energy alternative finale for the Bushwick evening cluster, justifies a second visit pattern",
     "requestedBy": "agent",
@@ -10522,5 +10492,95 @@
     "reason": "Longer hours than City League (open until 7pm vs 4pm) — fills the late-afternoon coffee slot for Saturfun tracks that finish at IC after 4pm",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T13:48:43.533Z"
+  },
+  {
+    "topic": "Sing Sing Karaoke St Marks Pl location private rooms late-night",
+    "reason": "Sister venue at 9 St Marks Pl — second Sing Sing room inventory, useful when Ave A is fully booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:50:39.292Z"
+  },
+  {
+    "topic": "Insa Gowanus Korean BBQ private karaoke rooms late-night",
+    "reason": "Brooklyn-side KTV alternative ~8 min from IC with food+karaoke combo — closer than any Manhattan option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:50:39.292Z"
+  },
+  {
+    "topic": "Karaoke Cave Sunset Park private room karaoke",
+    "reason": "Sunset Park K-town adjacent KTV operator, sub-10-min drive from IC, fills the same backup slot without the bridge crossing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:50:39.292Z"
+  },
+  {
+    "topic": "Mokbar Brooklyn ramen + soju late-night Gowanus",
+    "reason": "Adjacent post-karaoke late-night Korean option within 10 min of IC for nights when Insa is fully booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:52:36.461Z"
+  },
+  {
+    "topic": "Sing Sing Karaoke East Village private rooms drive parking",
+    "reason": "Manhattan benchmark karaoke for nights when Insa is closed (Mon/Tue) — need drive+parking analysis to justify the bridge",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:52:36.461Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus pre-karaoke drinks patio",
+    "reason": "Pre-Insa drinks anchor 4 min away that strengthens a Gowanus track and avoids burning dinner appetite",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:52:36.461Z"
+  },
+  {
+    "topic": "Re-research existing venue: Sunny's Red Hook (Saturday bluegrass jam, not karaoke but adjacent dive-with-singing energy)",
+    "reason": "Pairs geographically with Montero's on the south-Brooklyn live-vocal axis and is ~8 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:54:37.193Z"
+  },
+  {
+    "topic": "Skinny Dennis Williamsburg honky-tonk live country singalong",
+    "reason": "Non-karaoke but 'crowd sings along' room — rounds out the corpus with a country-leaning vocal night",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:54:37.193Z"
+  },
+  {
+    "topic": "Jackbar Park Slope karaoke night 5th Ave",
+    "reason": "Closer-in Park Slope karaoke option to give the cluster a third south-Brooklyn karaoke node within the 15-min IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:54:37.193Z"
+  },
+  {
+    "topic": "The Ten Bells Bushwick 65 Irving Ave natural wine bar",
+    "reason": "Actual natural wine bar near Jefferson L / 233 Starr — fits the original pre-karaoke anchor intent within ~5 min walk, daily happy hour with $1 oysters and $6 wines",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:57:31.344Z"
+  },
+  {
+    "topic": "Cherry On Top Bushwick natural wine bar with open-air roof",
+    "reason": "Large natural wine list near Jefferson L with rooftop and weekly live music — strong Bushwick cluster anchor close to 233 Starr",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:57:31.344Z"
+  },
+  {
+    "topic": "Bodega Nights 425 Troutman St Bushwick Brazilian natural wine",
+    "reason": "Newly opened (March 2026) Brazilian low-intervention wine bar by the Bushwick Collective murals — pairs with art walk + karaoke as a single Bushwick track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:57:31.344Z"
+  },
+  {
+    "topic": "Bushwick karaoke venue: House of Yes karaoke night at 233 Starr St (or nearby)",
+    "reason": "Anchors the other half of the food+karaoke evening track Roberta's is being staged for",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:59:32.523Z"
+  },
+  {
+    "topic": "Bushwick post-dinner cocktail bar near Moore St (e.g. Mood Ring or The Johnson's)",
+    "reason": "Bridges Roberta's dinner end (~9pm) to karaoke kickoff and rounds out the Bushwick cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:59:32.523Z"
+  },
+  {
+    "topic": "Ops Pizza Bed-Stuy as a wood-fired alternative to Roberta's",
+    "reason": "Gives the corpus a comparable but less-crowded sourdough-pizza option for the same evening slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:59:32.523Z"
   }
 ]
