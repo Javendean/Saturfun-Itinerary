@@ -1,35 +1,5 @@
 [
   {
-    "topic": "L'Appartement 4F Brooklyn Heights French viennoiserie + dessert program",
-    "reason": "Brooklyn-side French pastry contender already inside the 15-min IC radius via tunnel; direct candidate for the dessert anchor role Lysée would otherwise fill",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:47:06.793Z"
-  },
-  {
-    "topic": "Spot Dessert Bar East Village late-night Asian dessert tasting",
-    "reason": "Genuinely fills the post-dinner dessert slot Bibble & Sip can't — open until 11pm on weekends with plated Asian-inspired desserts (matcha lava, harvest mooncake), so it's the true late-night counterpart the brief was actually reaching for.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:49:55.449Z"
-  },
-  {
-    "topic": "Lady Wong Pastry NoHo Nyonya kuih and pandan layer cakes",
-    "reason": "Different Asian pastry vocabulary (Singaporean/Malaysian Peranakan) — pandan, gula melaka, kuih lapis — that broadens the corpus beyond Japanese-leaning matcha/black-sesame and is similarly photo-driven.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:49:55.449Z"
-  },
-  {
-    "topic": "Burrow DUMBO hidden Japanese pastry counter weekend hours",
-    "reason": "Tests whether a Brooklyn-side, 10-min-from-IC Japanese pastry option (matcha financiers, mont blanc) can actually replace the Manhattan crossing — directly stress-tests the 'Manhattan only if uniquely justified' constraint.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:49:55.449Z"
-  },
-  {
-    "topic": "Li-Lac Chocolates Industry City factory tasting",
-    "reason": "On-site at IC anchor; chocolate tasting with zero drive time fills the 'no-car' fallback for dessert track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:52:13.162Z"
-  },
-  {
     "topic": "Burrow Cobble Hill Japanese pastry counter",
     "reason": "Same Cobble Hill cluster as Chocolate Room; tiny matcha financiers + canele add a second small-plate dessert stop to chain into a mini dessert crawl",
     "requestedBy": "agent",
@@ -12460,5 +12430,95 @@
     "reason": "Former Gage & Tollner pastry chef opening summer 2026 in Bushwick with a dessert-heavy diner menu (pies, sundaes, cakes) — likely a third Brooklyn dessert-destination data point once open",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T19:45:02.486Z"
+  },
+  {
+    "topic": "Books Are Magic Montague St — Brooklyn Heights bookstore pairing 2-min walk from 4F",
+    "reason": "Natural same-block follow-on to a 30-min pastry stop; expands brooklyn-heights cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:46:59.965Z"
+  },
+  {
+    "topic": "Iris Cafe Brooklyn Heights — neighborhood coffee/brunch alternative if 4F sells out",
+    "reason": "Backup anchor in same zone for the IC-tunnel cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:46:59.965Z"
+  },
+  {
+    "topic": "L'Apero by 4F — dinner-side reservation venue (same room, 6pm onward)",
+    "reason": "Lets a day track loop back as a night track without re-driving across boroughs",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:46:59.966Z"
+  },
+  {
+    "topic": "Chikalicious Dessert Bar East Village late-night plated tasting",
+    "reason": "Closest peer concept — sit-down three-course dessert tasting menu, also East Village; if Spot wins on Asian angle, Chikalicious wins on French technique",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:49:00.384Z"
+  },
+  {
+    "topic": "Soft Swerve Asian-flavored soft serve Lower East Side late hours",
+    "reason": "Black sesame / ube / matcha soft serve open till 11pm — Brooklyn-adjacent walk-up alternative for the same late-night Asian-dessert intent",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:49:00.384Z"
+  },
+  {
+    "topic": "Taiyaki NYC Nolita matcha soft-serve fish-shaped cones late hours",
+    "reason": "Photo-forward Japanese street dessert in a 10-min walk radius from Spot, useful for stacking a multi-stop late-night dessert crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:49:00.384Z"
+  },
+  {
+    "topic": "Kopitiam Lower East Side Malaysian Nyonya kaya toast nasi lemak",
+    "reason": "Savory half of the same Peranakan/Malaysian vocabulary — kaya, sambal, pandan rice — pairs naturally with Lady Wong on a Manhattan crossover day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:51:38.385Z"
+  },
+  {
+    "topic": "Mao Mao Hot Pot Sunset Park Malaysian-Chinese",
+    "reason": "Closer-to-IC Malaysian option to test whether the Nyonya vocabulary has any Brooklyn-side anchor before defaulting to Manhattan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:51:38.385Z"
+  },
+  {
+    "topic": "Eim Khao Mun Kai or Soothr Thai dessert pandan sticky rice mango",
+    "reason": "Adjacent Southeast Asian pandan/coconut vocabulary in Manhattan/Queens — extends the corpus past Peranakan into Thai without losing the pandan throughline",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:51:38.385Z"
+  },
+  {
+    "topic": "Patisserie Tomoko Williamsburg weekend hours and signature Japanese-French pastries",
+    "reason": "Direct weekend-open substitute for Burrow — Japanese patissier, mont blanc and yuzu-tier desserts, ~15 min from IC; would close the gap Burrow leaves on Sat/Sun",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:54:18.743Z"
+  },
+  {
+    "topic": "L'Appartement 4F Brooklyn Heights weekend morning hours and viennoiserie",
+    "reason": "Adjacent to DUMBO corridor, weekend-open French pastry option — tests whether non-Japanese but high-craft Brooklyn pastry can absorb the demand that would have gone to Burrow",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:54:18.743Z"
+  },
+  {
+    "topic": "Funny Face Bakery DUMBO weekend hours and photogenic celebrity cookies",
+    "reason": "DUMBO-zone bakery confirmed weekend-open; lower-craft than Burrow but anchors a weekend DUMBO walk that still gives the 'hidden Brooklyn pastry' beat for itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:54:18.743Z"
+  },
+  {
+    "topic": "Raaka Chocolate factory tour Red Hook",
+    "reason": "Sibling bean-to-bar maker ~10 min drive with actual ticketed guided tasting tours — stronger 'experience' counterpart to Li-Lac's passive viewing window",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:56:18.854Z"
+  },
+  {
+    "topic": "Sunday in Brooklyn dessert/pastry program Williamsburg",
+    "reason": "Drive-radius dessert anchor for tracks that want a sit-down sweets stop rather than a tasting counter",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:56:18.854Z"
+  },
+  {
+    "topic": "Japan Village inside Industry City",
+    "reason": "Natural same-building pairing for an IC-only no-car day; expands the on-anchor cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:56:18.854Z"
   }
 ]

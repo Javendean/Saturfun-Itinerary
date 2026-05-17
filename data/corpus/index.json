@@ -9437,43 +9437,44 @@
   },
   {
     "id": "li-lac-chocolates-industry-city",
-    "name": "Li-Lac Chocolates Factory & Shop",
-    "desc": "Through-the-window view into a working chocolate factory + retail counter, all on IC's ground floor",
-    "longDesc": "Manhattan's oldest chocolate house (since 1923) runs its production facility at Industry City with a ground-floor viewing window onto the kitchen — copper kettles, marble tables, and 1920s-era equipment still in use. The adjoining shop sells 120+ fresh items and offers complimentary samples; production isn't guaranteed every visit but the shelves are stocked daily. Perfect 20-30 min curiosity stop between bigger IC plans.",
-    "url": "https://www.li-lacchocolates.com/pages/visit-our-factory",
+    "name": "Li-Lac Chocolates Factory",
+    "desc": "Manhattan's oldest chocolatier's IC production facility — viewing window into the kitchen plus free samples on request.",
+    "longDesc": "Li-Lac's Industry City factory is the working production kitchen for the 1923-founded chocolatier, with a through-the-window view of copper kettles, marble tables, and 1920s-era weight scales in action. The adjoining retail shop sells 120+ small-batch items pulled straight from that day's production, and staff offer free samples on request (industrycity.com). Production schedules vary day to day, so what you watch being made is luck of the draw — pretzel dipping, fudge cutting, or hand-molded bars.",
+    "url": "https://industrycity.com/tenants/li-lac-chocolates/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
-      "foodie"
+      "chill",
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "20-30 min",
+    "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-17:30",
-    "notes": "Located at 68 35th St between 2nd & 3rd Ave, ground floor of Industry City (li-lacchocolates.com/visit-our-factory). Weekend hours Sat-Sun 11:00 a.m. - 5:30 p.m. — closes earlier than most IC food vendors, plan it before 5pm. Viewing window shows fudge cooking, hand-dipping, and s'mores enrobing depending on the day; production may not be running during every visit (official site disclaimer). Free samples on request. Sits inside Industry City complex, so weekend lot parking is the same as any other IC stop. Phone (212) 924-2280.",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
+    "notes": "On-site at IC Building 4, entrance 34 35th St (industrycity.com). Free samples on request; retail counter sells freshly-made bars, fudge, chocolate-covered pretzels, and seasonal molds (li-lacchocolates.com). Viewing window is passive — no scheduled tour, no production guarantee on any given visit. Strongest fit as a zero-drive dessert stop on the no-car fallback track; pairs naturally with Japan Village or a Courtyard food-hall lunch.",
     "sources": [
       {
-        "url": "https://www.li-lacchocolates.com/pages/visit-our-factory",
-        "accessed": "2026-05-16T10:15:00Z"
+        "url": "https://industrycity.com/tenants/li-lac-chocolates/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/li-lac-chocolates/",
-        "accessed": "2026-05-16T10:15:00Z"
+        "url": "https://www.li-lacchocolates.com/pages/visit-our-factory",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/li-lac-chocolates-industry-city-brooklyn-2",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T10:18:02.904Z"
+    "lastResearchedAt": "2026-05-17T19:56:18.830Z"
   },
   {
     "id": "sahadis-atlantic-ave",
@@ -9679,31 +9680,36 @@
   {
     "id": "burrow-dumbo",
     "name": "Burrow",
-    "desc": "Unmarked Japanese-French pastry counter in a Dumbo lobby — but weekday-only, closed weekends",
-    "longDesc": "Burrow is a tiny, signless pastry counter tucked in the lobby of 68 Jay Street, run by chef Ayako Kurokawa, who fuses French/American technique with Japanese flavor — tall pillowy cheesecake, gateau Basque, matcha madeleines, Mont Blanc, layered cakes. The catch: it operates Tuesday–Friday 10:00–14:00 only, with no weekend hours, so it cannot anchor a Saturfun late-afternoon weekend slot despite being a perfect Japanese-pastry pick on paper.",
+    "desc": "Hidden Japanese-French pastry counter inside a DUMBO office lobby — but closed weekends.",
+    "longDesc": "Chef Ayako Kurokawa's tiny, near-unmarked counter is tucked inside the lobby of 68 Jay Street, serving French classics (mont blanc, financiers, tarts) reimagined with Japanese restraint — subtle sweetness, matcha and yuzu accents, near-cult mont blanc at ~$8. The catch for Saturfun: Burrow is open Tuesday–Friday, 10:00–15:00 (or until sold out) and CLOSED Saturday and Sunday, so it cannot anchor a weekend itinerary despite being a 12-min drive from Industry City.",
     "url": "https://www.burrow.nyc/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
+      "curious",
       "foodie",
-      "curious"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Closed Sat-Sun (Tue-Fri 10:00-14:00 only)",
-    "notes": "BLOCKER for weekend use — Burrow is closed Sat & Sun (nbktimes.com, brooklyneagle.com). Open only Tue-Fri 10:00-14:00 with no signage at 68 Jay St in Dumbo; cakes ~$8, cookies $5/two. If the Japanese-pastry angle must survive the weekend slot after Tomoko's early close, route to a weekend-open alternative (Lady Wong, Patisserie Tomoko hours-check, or Choco Choco) — Burrow itself can only be slotted into a Fri afternoon plan.",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "CLOSED Sat & Sun (Tue-Fri 10:00-15:00 only, until sold out)",
+    "notes": "DO-NOT-ROUTE for weekend itineraries — Burrow is closed both Saturday and Sunday (newyorkspork.com, behindthescenesnyc.com). Weekday-only Tue-Fri 10:00 to ~15:00, items sell out by early afternoon (yelp.com). Address: 68 Jay St #119, Brooklyn NY 11201; entry is through the office building lobby with minimal signage — the 'hidden' part is literal. Signature items: mont blanc with crispy meringue base and balanced cream (~$8), matcha financier, seasonal Japanese-flavored cakes (nbktimes.com). For Saturfun's 'Manhattan only if uniquely justified' test: Burrow does NOT satisfy a weekend Brooklyn-side Japanese-pastry slot — that gap stays open and must be filled by a weekend-open substitute (see enqueue) or, if none qualifies, justifies a Manhattan crossing.",
     "sources": [
       {
-        "url": "https://nbktimes.com/en/food-and-drink/burrow/",
+        "url": "https://www.burrow.nyc/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://brooklyneagle.com/articles/2018/08/10/hidden-bakery-becomes-pastry-destination-in-dumbo/",
+        "url": "https://www.yelp.com/biz/burrow-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://newyorkspork.com/best-bakeries-dumbo-nyc/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -9711,14 +9717,14 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://foursquare.com/v/burrow/52b204c0498efe3c3be32d91",
+        "url": "https://nbktimes.com/en/food-and-drink/burrow/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T18:58:56.144Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:54:18.714Z"
   },
   {
     "id": "nazz-forge",
@@ -32501,43 +32507,48 @@
   },
   {
     "id": "spot-dessert-bar-east-village",
-    "name": "Spot Dessert Bar (East Village flagship)",
-    "desc": "Iconic Asian-fusion dessert bar; matcha lava cake with hidden molten matcha center.",
-    "longDesc": "Spot Dessert Bar's St Marks flagship is the original home of the Matcha Lava — a dark-chocolate cake hiding a molten white-chocolate matcha core, served with matcha ice cream, chocolate pearls, and cookie-crumb 'soil.' The plating is famously photo-forward, and the late-night hours make it a strong post-dinner stop. No Brooklyn outpost exists; this is the closest authentic version.",
+    "name": "Spot Dessert Bar (East Village)",
+    "desc": "Asian-inspired tapas-style dessert bar open until 1am weekends — true late-night plated sweets",
+    "longDesc": "Chef Ian Kittichai's small-plate dessert lounge on St. Marks Place, where Eastern flavors meet Western plating: signature Matcha Lava (warm matcha cake with green-tea ice cream), Harvest (mooncake-style dome over chocolate soil), and Golden Toast (Hokkaido honey toast) anchor the menu, with bubble teas, Illy coffee, and seasonal specialty floats alongside. The dim, dark-wood room stays open until 1am on Fridays and Saturdays, making it the genuine late-night counterpart to a Bibble & Sip daytime visit — a sit-down, plated dessert tasting rather than a grab-and-go.",
     "url": "https://www.spotdessertbar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
+      "romantic",
       "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
-    "driveFromIC": "25 min",
-    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-24:00",
-    "notes": "ACTUAL LOCATION: 13 St Marks Pl, East Village, Manhattan — Spot Dessert Bar does not have a Brooklyn store (locations are East Village x2, Flushing, LIC, Astoria) (yelp.com). Zoned 'dumbo' for routing only because the Manhattan Bridge crossing from Industry City via DUMBO is the practical driving path (~25 min weekend, longer if BQE slow). Weekend parking in East Village is rough — plan on a paid garage on 2nd Ave or Bowery; otherwise the matcha lava is takeout-friendly. Signature item is the Matcha Lava: dark chocolate cake + matcha powder + chocolate pearls + cookie crumbs + matcha ice cream (spotdessertbar.com/menu). Note: the topic phrasing 'soft serve' is slightly off — the matcha component here is scooped ice cream, not soft serve. Best-sellers also include Golden Toast and Harvest. Open until 1am weekends, great late dessert anchor.",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "12:00-01:00",
+    "notes": "Manhattan exception: justified because no Brooklyn venue serves plated Asian-inspired dessert tapas this late — closes 1am Fri/Sat, midnight Sun (spotdessertbar.com). Tapas-style portions mean a tasting flight for 2-3 people lands around $40-55. Order the Matcha Lava, Harvest, and Golden Toast as the canonical trio (Yelp consensus, 3600+ reviews). Parking note: street parking in East Village is brutal after 7pm — recommend Icon Parking on Bowery & 3rd or the Astor Place garage (~$25/2hr) and walk 4-6 min. Reservations not taken; expect 15-20 min wait Fri/Sat after 9pm. Cash and card both accepted.",
     "sources": [
       {
-        "url": "https://www.spotdessertbar.com/menu",
-        "accessed": "2026-05-17T19:25:00Z"
-      },
-      {
-        "url": "https://m.yelp.com/biz/spot-dessert-bar-new-york-2",
-        "accessed": "2026-05-17T19:25:00Z"
-      },
-      {
         "url": "https://www.spotdessertbar.com/",
-        "accessed": "2026-05-17T19:25:00Z"
+        "accessed": "2026-05-17T19:50:00Z"
+      },
+      {
+        "url": "https://www.spotdessertbar.com/locations",
+        "accessed": "2026-05-17T19:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/spot-dessert-bar-new-york-2",
+        "accessed": "2026-05-17T19:50:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/spot-dessert-bar",
+        "accessed": "2026-05-17T19:50:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T19:29:36.145Z"
+    "lastResearchedAt": "2026-05-17T19:49:00.350Z"
   },
   {
     "id": "van-leeuwen-williamsburg-204-wythe",
@@ -32768,5 +32779,103 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T19:42:44.793Z"
+  },
+  {
+    "id": "lappartement-4f",
+    "name": "L'Appartement 4F",
+    "desc": "Hand-rolled, slow-fermented croissants and viennoiserie in a tiny Brooklyn Heights French bakery",
+    "longDesc": "Husband-and-wife duo Gautier and Ashley Coiffard turned their 4F apartment pop-up into a brick-and-mortar at 115 Montague St in 2022, building a cult around hand-laminated croissants, kouign-amann, and their signature miniature croissant cereal. Inventory is finite and the bestsellers routinely sell out before noon, so an early weekend arrival from Industry City is essential. At night the same room flips into L'Apero, a candlelit natural wine bar — strong follow-on if your group wants to come back after dark.",
+    "url": "https://www.lappartement4f.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "08:00-16:00",
+    "notes": "115 Montague St, Brooklyn Heights (Yelp). Sat/Sun 8a-4p — go before 11a or you'll lose the laminated pastries (Resy blog, Yelp reviews). Signature items: everything-seasoned croissant, raspberry kouign-amann, miniature croissant cereal (Time Out, Pearl Club). Same space becomes L'Apero wine bar at night with sommelier list, reservations on Resy (blog.resy.com 2025-11). Drive from IC ~4 mi via Gowanus/BQE; weekend metered parking on Montague and Henry usually findable before 10a. Strong direct substitute for the Lysée dessert anchor while keeping the day Brooklyn-side.",
+    "sources": [
+      {
+        "url": "https://www.lappartement4f.com/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/l-appartement-4f-brooklyn",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://blog.resy.com/2025/11/lapero-by-4f-brooklyn/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/lappartement-4f",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.pearlclub.com/cities/new-york-city/bakeries/lappartement-4f",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:46:59.940Z"
+  },
+  {
+    "id": "lady-wong-patisserie",
+    "name": "Lady Wong Patisserie",
+    "desc": "Nanyang Peranakan pastry boutique — kuih lapis, ondeh-ondeh, pandan-gula-melaka layer cakes",
+    "longDesc": "Husband-and-wife duo Seleste Tan and Mogan Anthony opened this 400-sq-ft East Village shop in March 2022, building NYC's most serious Nyonya kuih program — pandan and flowers from Thailand, palm sugar from Indonesia, gula Melaka and durian shipped from Malaysia. The signature pandan layer cake pairs pandan chiffon with coconut-pandan custard and a melty gula melaka core, and the black sesame passionfruit entremet was named a NYT Top 25 Dish. Listed as NoHo in some directories but actually sits on E 9th St between 1st/2nd Ave — the closest Manhattan equivalent and uniquely justified since no Brooklyn shop covers Peranakan vocabulary at this level.",
+    "url": "https://ladywong.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Address: 332 E 9th St, Manhattan (East Village, not NoHo as some listings claim) — drive from IC is ~25 min via Brooklyn-Battery Tunnel or BQE→Williamsburg Bridge; weekend street parking on E 9th/E 10th is doable but tight, garages on Bowery/3rd Ave are reliable backup. Order pandan layer cake whole ($60+ tier) or as a slice when available; kuih lapis and ondeh-ondeh are the photo-driven panel items. Next-day pickup window if ordering a full cake — order by 2 PM EST the day before (ladywong.com). NYT Top 25 Dish listing for black sesame passionfruit entremet validates pastry chops (Gothamist). Pandan/gula melaka vocabulary is the corpus expansion target — radically different from matcha/black-sesame Japanese-leaning desserts already in the index.",
+    "sources": [
+      {
+        "url": "https://ladywong.com/",
+        "accessed": "2026-05-17T20:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lady-wong-new-york",
+        "accessed": "2026-05-17T20:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/lady-wong-pastry-shop",
+        "accessed": "2026-05-17T20:00:00Z"
+      },
+      {
+        "url": "https://www.tatlerasia.com/dining/food/lady-wong-kuih-new-york",
+        "accessed": "2026-05-17T20:00:00Z"
+      },
+      {
+        "url": "https://dessertcorrespondents.com/2022/06/20/lady-wongs-kuih-nyc/",
+        "accessed": "2026-05-17T20:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:51:38.351Z"
   }
 ]
