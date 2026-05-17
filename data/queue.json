@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Artshack Brooklyn ceramics studio (Bed-Stuy weekend drop-in)",
-    "reason": "Pottery counterpart the brief mentioned; would round out a reuse+clay track if user wants 25-min outer cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:37:15.361Z"
-  },
-  {
-    "topic": "Brooklyn Clay Industries Gowanus single-session classes",
-    "reason": "Actual Gowanus ceramics studio at 540 President St — better geographic fit for the original 'Gasworks fallback in Gowanus' gap",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:40:04.786Z"
-  },
-  {
-    "topic": "The Pottery Studio Brooklyn 9th Street Gowanus drop-in",
-    "reason": "Another genuine Gowanus pottery option, ~12 min from IC; rounds out the Gowanus ceramics cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:40:04.786Z"
-  },
-  {
-    "topic": "Artshack Brooklyn Bed-Stuy donation-based ceramics",
-    "reason": "Cheaper sliding-scale alternative for budget-conscious tracks, ~20 min from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:40:04.786Z"
-  },
-  {
-    "topic": "UrbanGlass Downtown Brooklyn glassblowing intro class",
-    "reason": "Adjacent glassblowing studio in Brooklyn Heights/Downtown corridor — alternative if Brooklyn Glass is sold out and gives a second 'watch the furnace' option in a different zone.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:42:05.253Z"
-  },
-  {
     "topic": "Brooklyn Metal Works Gowanus jewelry intro class",
     "reason": "Same Gowanus/Park Slope craft cluster, complements glassblowing with metalwork for variety in the maker-class corpus.",
     "requestedBy": "agent",
@@ -6988,5 +6958,89 @@
     "reason": "Another advanced maker-space within 10 min of IC, fills the 'try a craft you've never done' slot for the curious/active vibe",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T01:57:03.591Z"
+  },
+  {
+    "topic": "BKLYN CLAY (Industry City / Gowanus ceramics drop-in)",
+    "reason": "Closer-to-IC ceramics counterpart — if it has true walk-in wheel time it beats Artshack for the driving-radius default and lets Artshack live in the outer 'reuse+clay' track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:59:24.255Z"
+  },
+  {
+    "topic": "Choplet Ceramics Greenpoint open studio rates",
+    "reason": "Greenpoint clay studio with documented public open-studio pricing — fills the north-Brooklyn ceramics slot in the same track Artshack is anchoring",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:59:24.255Z"
+  },
+  {
+    "topic": "Artshack Cafe/Bar Bed-Stuy as standalone coffee+natural-wine stop",
+    "reason": "Separate venue with its own weekend daytime hours — could anchor a Bed-Stuy mini-track even when the studio is closed to drop-ins",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:59:24.255Z"
+  },
+  {
+    "topic": "The Pottery Studio (Gowanus, 9th Street) single-session classes",
+    "reason": "Actual Gowanus ceramics studio at 9th St — closes the real geographic gap the user asked about ('540 President St / Gowanus fallback')",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:01:45.406Z"
+  },
+  {
+    "topic": "Slow Burn Ceramics 65 15th Street Brooklyn community clay studio drop-in",
+    "reason": "Gowanus-adjacent (15th St near 3rd Ave), <10 min from IC, community studio with one-off workshops — even closer to anchor than BCI",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:01:45.406Z"
+  },
+  {
+    "topic": "BKLYN CLAY Bushwick one-time wheel class schedule",
+    "reason": "Separate studio (often confused with BCI) — Bushwick location adds a third borough zone option for the ceramics corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:01:45.406Z"
+  },
+  {
+    "topic": "Brooklyn Clay Tender Gowanus weekend wheel class",
+    "reason": "Closes the Gowanus ceramics cluster — different price point + true single-session classes, contrast to TPS's class-series model",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:03:56.475Z"
+  },
+  {
+    "topic": "Choplet Gowanus / Greenpoint drop-in wheel sessions",
+    "reason": "One of the few NYC studios that genuinely offers single-night drop-in wheelthrowing, fills the 'real drop-in' gap TPS doesn't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:03:56.475Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus weekend taproom",
+    "reason": "Walkable post-pottery hang on the same block of 9th St; pairs naturally with a Gowanus ceramics stop for a track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:03:56.475Z"
+  },
+  {
+    "topic": "BKLYN CLAY Gowanus open studio drop-in pottery",
+    "reason": "Closer-to-IC ceramics alternative (~10 min drive) for a non-Bed-Stuy ceramic track variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:06:09.455Z"
+  },
+  {
+    "topic": "Choplet Ceramics Williamsburg weekend handbuilding classes",
+    "reason": "Williamsburg-cluster ceramics option to round out the geographic-track coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:06:09.456Z"
+  },
+  {
+    "topic": "BAM Rose Cinemas weekend art-house screenings",
+    "reason": "Same Fulton Street block as UrbanGlass — natural 2nd stop for a Downtown Brooklyn track pairing a hands-on class with a film",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:08:16.158Z"
+  },
+  {
+    "topic": "Alewife Brooklyn beer hall on Atlantic Ave",
+    "reason": "Closest serious craft-beer + food stop to UrbanGlass for post-class hangout, fills the drinks slot in a Downtown Brooklyn cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:08:16.158Z"
+  },
+  {
+    "topic": "Center for Fiction Brooklyn Heights",
+    "reason": "Bookstore/cafe/event space ~10 min walk from UrbanGlass; expands the 'curious indoor weekend' corpus in the Brooklyn Heights/Downtown zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:08:16.158Z"
   }
 ]

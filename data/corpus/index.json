@@ -21171,37 +21171,33 @@
   {
     "id": "artshack-brooklyn",
     "name": "Artshack Brooklyn",
-    "desc": "Bed-Stuy nonprofit ceramics studio with weekend one-off workshops and sliding-scale community access",
-    "longDesc": "Nonprofit community ceramics studio on Bedford Ave (est. 2016) offering one-off weekend pottery workshops alongside 4- and 8-week adult sessions. Mission-driven access via scholarships, free community days, and subsidized seats for low-income high schoolers, seniors, and differently-abled adults — a rare nonprofit lane next to Brooklyn's commercial wheel-throwing studios. Includes a small cafe, gallery, shop, and artist residency under one roof.",
+    "desc": "Nonprofit Bed-Stuy ceramics studio with sliding-scale workshops, free community clay days, and an on-site cafe served on studio-made ware.",
+    "longDesc": "Artshack is a nonprofit ceramics studio at 1131 Bedford Ave in Bed-Stuy, founded in 2016 on the idea of clay as a healing community practice. Alongside paid 4- and 8-week courses, they run scholarship slots, subsidized classes for low-income teens/seniors, and free Community Clay Days roughly one Saturday every few months. A small cafe inside the studio serves drinks and bites on ceramics made on the wheels next to you.",
     "url": "https://www.artshackbrooklyn.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bed-stuy",
     "vibe": [
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "22 min",
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "10:00-18:00",
-    "notes": "Drop-in one-off weekend classes are posted to the events calendar (artshackbrooklyn.org/events) — Saturday programming is class-schedule-dependent, while Sunday open studio runs 10:00–18:00 (search result, chamberofcommerce.com). Sliding-scale access is delivered via scholarships and quarterly free community days rather than a published low/high tier — workshop face price typically $60–90 for one-off sessions per HiSawyer marketplace listings. Street parking on Bedford Ave is generally available on weekends. 1127 Bedford Ave, Brooklyn, NY 11216. Phone 347.417.3304 / 917.847.0311.",
+    "notes": "Donation-based / sliding-scale angle is the Community Clay Days program (free Saturdays for locals) plus subsidized seats inside paid classes; one-off weekend workshops are the lowest-friction drop-in (source: artshackbrooklyn.org). Address 1131 Bedford Ave, phone (347) 417-3304, daily 10am-6pm per listing (source: findapotteryclass.com). Street parking in Bed-Stuy is generally available on weekends; ~20 min drive from Industry City via Atlantic Ave / Bedford Ave. Recommend checking the Events page before the trip to confirm whether a Community Clay Day or a one-off class is running that weekend (source: artshackbrooklyn.org/events).",
     "sources": [
       {
         "url": "https://www.artshackbrooklyn.org/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.artshackbrooklyn.org/events/events",
+        "url": "https://findapotteryclass.com/united-states/new-york/brooklyn/artshack-brooklyn-ceramics/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.hisawyer.com/providers/artshack/6269-artshack-annex",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.ceramicsnow.org/pottery-classes/new-york/artshack-brooklyn/",
+        "url": "https://hhweek.org/locations/artshack-brooklyn-ceramics-studio/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -21212,7 +21208,7 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T01:06:52.663Z"
+    "lastResearchedAt": "2026-05-17T02:06:09.429Z"
   },
   {
     "id": "me-and-pauls-greenpoint",
@@ -21859,5 +21855,133 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T01:57:03.574Z"
+  },
+  {
+    "id": "brooklyn-clay-industries-one-time",
+    "name": "Brooklyn Clay Industries — One-Time Class",
+    "desc": "$85 BYOB drop-in pottery wheel or hand-building session at the Brooklyn Navy Yard studio.",
+    "longDesc": "Brooklyn Clay Industries runs $85 single-session classes — BYOB Intro to Pottery Wheel or BYOB Hand Building — at their Building 62 studio in the Brooklyn Navy Yard. Weekend slots open Sat/Sun 12:00–6:30pm with new dates posted bi-weekly; instructors walk one-time guests through a small finished piece while you sip your own wine. Note: despite the topic brief naming a 'Gowanus / 540 President St' location, BCI has only this Navy Yard address — true Gowanus ceramics fallbacks live in the enqueue below.",
+    "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "~2 hours",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "12:00-18:30",
+    "notes": "Address is 63 Flushing Ave, Bldg 62 Suite 306, Brooklyn Navy Yard 11205 — closest allowed zone is dumbo (BCI sits between DUMBO / Vinegar Hill / Fort Greene / Clinton Hill, NOT Gowanus) (brooklynclayindustries.com/location). Single-session price $85, BYOB wheel or hand-building (brooklynclayindustries.com/classes/one-time-class). Weekend hours Sat–Sun 12:00–18:30; closed Mondays. Drop-ins listed bi-weekly — verify slot before recommending. Navy Yard has on-site weekend parking inside the gates (Sands St entry). Date Night format also available for couples.",
+    "sources": [
+      {
+        "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynclayindustries.com/location",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynclayindustries.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-clay-industries-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T02:01:45.384Z"
+  },
+  {
+    "id": "the-pottery-studio-gowanus",
+    "name": "The Pottery Studio — Gowanus",
+    "desc": "10,000 sq ft cone-10 reduction studio on 9th St; one-off classes + monthly memberships, not walk-in drop-in.",
+    "longDesc": "The Pottery Studio's Brooklyn outpost occupies 10,000 sq ft on the Gowanus canal stretch of 9th Street and is one of the few NYC class studios that fires cone 10 reduction, the high-temperature firing that produces serious stoneware glazes. Access is by scheduled class (Intro/Returning/Intermediate Wheelthrowing, plus Sunday sessions) or by monthly membership ($155 pack-in/pack-out up to $235 top shelf with 24-hour access). It is not a casual walk-in drop-in — book a class slot in advance.",
+    "url": "https://thepotterystudio.com/pages/brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "10:00-22:00",
+    "notes": "Address 43C 9th St, Brooklyn NY 11215, on the south bank of the Gowanus Canal between 2nd and 3rd Ave (thepotterystudio.com/pages/brooklyn). Cone 10 reduction firing — technically unusual for a class studio (Yelp listing, REQCE project page). Class registration via the Brooklyn Classes collection page. Membership tiers: No-Shelf $155, Locker $165, 3' Shelf $185, Regular Shelf $205, 3' Top $215, Top Shelf $235; firing $1.25/lb under 12\" and $2.25/lb above, 40 lb cap. Apple Maps lists daily 10:00–22:00 but verify with studio before routing a guest. Street parking on 9th/Hoyt/Bond is realistic on weekends; the Gowanus Whole Foods garage two blocks east is the reliable backup.",
+    "sources": [
+      {
+        "url": "https://thepotterystudio.com/pages/brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://thepotterystudio.com/collections/the-pottery-studio-classes-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-pottery-studio-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.reqce.com/projects/the-pottery-studio-opens-its-doors-in-gowanus",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://maps.apple.com/place?place-id=I37CB331D9BB57043",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T02:03:56.451Z"
+  },
+  {
+    "id": "urbanglass-downtown-brooklyn",
+    "name": "UrbanGlass",
+    "desc": "Non-profit glass studio in Downtown Brooklyn with one-day intro glassblowing classes (ages 14+).",
+    "longDesc": "UrbanGlass, founded 1977, is the country's largest open-access glass studio, occupying a 17,000 sq ft hot shop, flameworking, and kiln-casting facility above the Fulton Street BAM corridor. The one-day Intro to Glassblowing is a six-hour Saturday session ($375) where students gather molten glass at the furnace and shape a paperweight and a cup with an instructor at the bench. The street-level Gallery & Store and the second-floor viewing window let drop-ins watch the hot shop on weekends without enrolling.",
+    "url": "https://urbanglass.org/classes/detail/one-day-intro-to-glassblowing",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "curious",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "6 hr (intro class) / 30-45 min (gallery + viewing window)",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-17:00 (studio by reservation Sat/Sun 10:00-20:00)",
+    "notes": "647 Fulton St, Brooklyn NY 11217, on the BAM Cultural District block (urbanglass.org/visit/overview). One-Day Intro to Glassblowing runs ~6 hours, $375, ages 14+, students make a paperweight + cup (urbanglass.org/classes/detail/one-day-intro-to-glassblowing). Multi-week Intro and Flameworking tracks also available. Strong fallback if Brooklyn Glass (Gowanus) is sold out — different zone (Downtown/Fort Greene edge) and offers a free walk-in 'watch the furnace' option via the gallery viewing window. Closest garages: iPark 625 Fulton and Atlantic Terminal garage. Subway: 2/3/4/5 Nevins, B/Q/R DeKalb, G Fulton — useful as a fallback if driving in.",
+    "sources": [
+      {
+        "url": "https://urbanglass.org/classes/detail/one-day-intro-to-glassblowing",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://urbanglass.org/visit/overview",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/urbanglass-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T02:08:16.135Z"
   }
 ]
