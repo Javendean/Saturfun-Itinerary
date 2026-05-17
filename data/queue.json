@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Bar Tabac Cobble Hill late-night French",
-    "reason": "Smith Street neighbor with 2am kitchen — fills the post-dinner French slot Bar Bête doesn't cover",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:29:30.852Z"
-  },
-  {
-    "topic": "Bacchus Bistro & Wine Bar 409 Atlantic Ave Brooklyn",
-    "reason": "Active Bordeaux-native-owned French bistro with back garden and hundreds of regional French wines — direct replacement for the regional-French slot, ~10 min from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:32:04.314Z"
-  },
-  {
-    "topic": "Zimmi's Brooklyn South-of-France country cooking Maxime Pradie",
-    "reason": "Opened Dec 2024 with Provence-heritage chef (artichoke soup with foie gras, agneau en saupique) — fills the regional-French gap left by La Cigogne with a fresh, currently-operating venue",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:32:04.314Z"
-  },
-  {
-    "topic": "Maison Provence Brooklyn French bistro",
-    "reason": "Provence-focused bistro on the 2026 Brooklyn French short-list — expands corpus toward southern France rather than Paris-default",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:32:04.314Z"
-  },
-  {
-    "topic": "Mr. Bing Industry City (Beijing-style jianbing inside Japan Village food hall)",
-    "reason": "Adjacent food-hall stall completes a shopping+lunch loop with Sunrise Mart for foodie/curious tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:34:02.037Z"
-  },
-  {
     "topic": "Family Mart-style Japanese snack tasting flight at Japan Village food hall",
     "reason": "Curated walkthrough variant that turns the Sunrise Mart snack wall into a structured activity",
     "requestedBy": "agent",
@@ -9394,5 +9364,95 @@
     "reason": "Missy Robbins' destination Italian sits 8 min from Le Crocodile — natural high-end alternative for special occasions in the same zone",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T10:12:16.883Z"
+  },
+  {
+    "topic": "The Long Island Bar Cobble Hill late-night cocktails + burger",
+    "reason": "Adjacent Atlantic Ave anchor — classic art-deco diner-bar with one of NYC's most acclaimed burgers; complements Bar Tabac on the same Cobble Hill late-night track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:15:45.517Z"
+  },
+  {
+    "topic": "Buttermilk Channel Carroll Gardens neighborhood American",
+    "reason": "Court Street counterpart to the Smith Street axis — Carroll Gardens is one zone south, weekend brunch + dinner, fills the American-bistro slot near Bar Tabac",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:15:45.517Z"
+  },
+  {
+    "topic": "Henry Public Brooklyn Heights tavern late dinner",
+    "reason": "Henry St tavern with turkey leg sandwich and house cocktails until late — extends the late-kitchen corpus into the Brooklyn Heights zone, 10 min from Cobble Hill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:15:45.517Z"
+  },
+  {
+    "topic": "June Wine Bar 231 Court St Cobble Hill",
+    "reason": "Adjacent natural-wine bar with garden patio, 10 min from IC — strong second French/Euro wine option for same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:18:01.324Z"
+  },
+  {
+    "topic": "Long Island Bar 110 Atlantic Ave Brooklyn Heights",
+    "reason": "Walking distance from Bacchus, classic cocktail bar — pairs as a post-dinner stop on the Atlantic Ave corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:18:01.324Z"
+  },
+  {
+    "topic": "Frenchette Bakery Brooklyn at Pioneer Works Red Hook",
+    "reason": "French viennoiserie 10 min from IC — daytime counterpart to Bacchus for a French-themed driving day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:18:01.324Z"
+  },
+  {
+    "topic": "Chez Ma Tante Greenpoint French bistro pancakes dinner",
+    "reason": "Brooklyn-anchored French alternative that fills the same regional/rustic-French slot without crossing the river — 18 min drive from IC, weekend parking easier than West Village",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:22:20.743Z"
+  },
+  {
+    "topic": "Le Crocodile Williamsburg French brasserie Wythe Hotel",
+    "reason": "Brooklyn-anchored upscale French (brasserie register vs Zimmi's Provençal-country register) — useful cross-reference for the regional-French gap conversation",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:22:20.743Z"
+  },
+  {
+    "topic": "Libertine West Village French bistro 2024 opening",
+    "reason": "If Manhattan French is in-scope, Libertine (Cody Pruitt) is the other major 2024 West Village French opening — same trip corridor as Zimmi's, can be paired or contrasted",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:22:20.743Z"
+  },
+  {
+    "topic": "Provence en Boite Bay Ridge Provençal bakery bistro",
+    "reason": "Another explicitly Provence-themed Brooklyn venue — pairs with Maison Provence to build a southern-France micro-cluster outside Paris-default French corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:24:33.072Z"
+  },
+  {
+    "topic": "Chez Ma Tante Greenpoint rustic French-Canadian brunch",
+    "reason": "Rustic, non-Paris French sensibility within 15 min of IC; balances corpus toward countryside French rather than haute bistro",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:24:33.073Z"
+  },
+  {
+    "topic": "Bar Tabac Cobble Hill steak-frites pastis",
+    "reason": "Pastis-forward southern-France drinking culture closer to IC (≈12 min); rounds out a French driving track anchored at Industry City",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:24:33.073Z"
+  },
+  {
+    "topic": "Japan Village Food Hall (Industry City)",
+    "reason": "Direct replacement: the food hall itself completes the Sunrise Mart shopping+lunch loop — same Building 3/4 complex, multiple Japanese vendors (ramen, sushi, bento, taiyaki) at 934 3rd Ave; weekend hours Fri-Sat 11-20:30, Sun 11-19:00 per japanvillage.com",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:27:03.267Z"
+  },
+  {
+    "topic": "Chef Huang Jian Bing & Peking Duck (635 2nd Ave, Manhattan)",
+    "reason": "Closest still-operating jianbing destination per Yelp Top 10 Jian Bing 2026; only justify on Manhattan if a foodie track explicitly wants authentic jianbing — otherwise keep Brooklyn-side",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:27:03.267Z"
+  },
+  {
+    "topic": "Industry City Food Hall vendors (non-Japan Village)",
+    "reason": "Building 2 food hall has Hot Yummy Tea, Damascus Bread, and other quick-lunch stalls within a 2-min walk of Sunrise Mart — broader corpus coverage for the shopping+lunch loop without leaving IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T10:27:03.267Z"
   }
 ]

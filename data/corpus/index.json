@@ -19247,43 +19247,47 @@
   {
     "id": "bar-tabac",
     "name": "Bar Tabac",
-    "desc": "Classic French bistro on Smith Street with weekend brunch, sidewalk seating, and live jazz.",
-    "longDesc": "Bar Tabac is a Cobble Hill institution at 128 Smith Street modeled on a Parisian corner tabac, with mosaic-tile floors, zinc bar, and sidewalk tables. Weekend brunch runs 10am–5pm (Niçoise, Croque Monsieur, moules frites) with live music six nights a week. Reliable Parisian energy and a sturdy wine-and-cocktail list make it a good ~10-minute drive from Industry City for a Cobble Hill track stop.",
-    "url": "https://www.bartabacbistro.com/",
+    "desc": "Smith Street French bistro with steak frites and a kitchen open until 3am on weekends.",
+    "longDesc": "A 20+ year Cobble Hill / Boerum Hill institution at 128 Smith St (corner of Dean) doing classic French bistro — moules frites, niçoise, steak frites, croque monsieur — inside a '60s-tabac room with antique fixtures and live jazz on select weeknights. The reason it matters for late-night routing: full kitchen runs Friday and Saturday until 3am, which fills the post-dinner French slot no other neighborhood spot covers cleanly (bartabacny.com, opentable.com).",
+    "url": "https://bartabacny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
+      "romantic",
       "chill",
-      "foodie",
-      "romantic"
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "10:00-02:00",
-    "notes": "Brunch Sat/Sun 10:00–17:00, dinner Fri/Sat 17:00–02:00 (bartabacbistro.com). 128 Smith St, corner of Dean — sidewalk seating prime for people-watching; live music six nights/week, jazz brunches a signature draw (Yelp). Street parking on Smith/Dean/Bergen is manageable on weekend mornings; Boerum Hill municipal lots within 4-block walk. (718) 923-0918.",
+    "duration": "90-120 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "Sat 10:00-03:00, Sun 11:00-23:00",
+    "notes": "Late-night anchor: Fri/Sat kitchen runs until 3am — rare in Brooklyn (yelp.com, opentable.com). Live music Mon/Wed/Thu 7-10pm, so weekend skews dinner+drinks rather than music. Parking: metered street on Smith; side streets (Dean, Bergen, Wyckoff) usually have spots after 10pm. Pairs naturally with a Cobble Hill late-night track after an Industry City or Red Hook dinner — drive is 3.5-4 mi via 3rd Ave → Hamilton → Smith. Order: moules frites, steak frites, Bar Tabac burger (specifically called out as a late-night menu item).",
     "sources": [
       {
-        "url": "https://www.bartabacbistro.com/",
-        "accessed": "2026-05-17T10:05:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/bar-tabac-brooklyn",
-        "accessed": "2026-05-17T10:05:00Z"
+        "url": "https://bartabacny.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.opentable.com/r/bar-tabac-brooklyn",
-        "accessed": "2026-05-17T10:05:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bar-tabac-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/bar-tabac",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T10:05:13.076Z"
+    "lastResearchedAt": "2026-05-17T10:15:45.492Z"
   },
   {
     "id": "frankies-570-spuntino-west-village",
@@ -26383,5 +26387,200 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T10:10:22.881Z"
+  },
+  {
+    "id": "bacchus-bistro-wine-bar",
+    "name": "Bacchus Bistro & Wine Bar",
+    "desc": "Bordeaux-native-owned French bistro on Atlantic Ave with a hidden back garden and 25+ wines by the glass",
+    "longDesc": "Boerum Hill institution opened in 2003 by Bordeaux native Bruno Laclide, pouring wines from every major French region — organic, biodynamic, and a 'cave cachée' of rare bottles (Petrus, Yquem). The intimate dining room opens onto a leafy back garden seating, and the rotating six-app/six-entrée menu runs classics like French onion soup, mussels, foie gras, and braised lamb shank. About 10 minutes by car from Industry City via the Gowanus Expressway.",
+    "url": "https://bacchusbistro.com/",
+    "photoUrl": "https://bacchusbistro.com/wp-content/uploads/2022/09/Bacchus-Garden200-scaled.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat-Sun 12:00-16:00 brunch, 17:00-22:00 dinner",
+    "notes": "Owner Bruno Laclide is Bordeaux-born; wine bar wing added summer 2015 with 25+ by-the-glass pours (bacchusbistro.com/about). Back garden open for dinner 7 nights/week and used for private events (bacchusbistro.com). Yelp shows 610 reviews as of May 2026 confirming active operation; an older Yelp duplicate is incorrectly marked CLOSED — verify by the live OpenTable page (opentable.com/bacchus-brooklyn). Weekend street parking on Atlantic/Bond is realistic; metered lots on Pacific St. Vegetarian-friendly via apps, salads, and rotating veg entrée — not a vegan or gluten-free destination.",
+    "sources": [
+      {
+        "url": "https://bacchusbistro.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bacchusbistro.com/about/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bacchus-bistro-and-wine-bar-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/bacchus-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "http://www.bacchusbistro.com/bistro---wine-bar.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:18:01.304Z"
+  },
+  {
+    "id": "zimmis-west-village",
+    "name": "Zimmi's",
+    "desc": "Intimate 37-seat Provençal bistro in West Village (Manhattan) — regional South-of-France country cooking, opened Dec 2024.",
+    "longDesc": "Chef Maxime Pradié — a New Yorker who spent childhood summers with his grandmother in Provence — channels rustic Southern French cooking at this corner spot on Bedford Street: pissaladière niçoise, lamb stew (agneau), pasta davia with basil pesto, sage chicken ragout, asparagus two ways (truffle sabayon + hazelnut vinaigrette). Owner Jenni Guizio (former wine/beverage director for Danny Meyer's Union Square Hospitality Group) shaped the wine list and the unpretentious countryside-inn design: brown-and-white checked tablecloths, wooden banquettes, sheer half-curtains, softly glowing sconces. Uniquely justifies the Manhattan trip because it fills a regional-French gap (Provence-heritage, not generic Parisian bistro) left by La Cigogne and is a fresh, currently-operating venue.",
+    "url": "https://www.zimmisnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "17:00-23:00",
+    "notes": "ACTUAL LOCATION: 72 Bedford St, New York, NY 10014 — West Village, Manhattan (not Brooklyn). Drive from Industry City via Brooklyn-Battery Tunnel ~20-25 min weekend daytime, can stretch to 30+ Sat night. Weekend parking is the catch: no garage on-site and West Village street parking is brutal on Fri/Sat evenings — closest paid lots are Pier 40 (West & Houston) and Charlton St garage, both ~5-min walk. Reservations strongly recommended (only 37 seats). Per The Taste Bud (Apr 2025), plates run $16-$45; foie-gras starters and lamb mains push the check upward (source: Taste Bud Substack, Business-Style review, Fine Dining Lovers). Signature dishes per coverage: pissaladière, agneau/lamb stew, pasta davia with basil pesto, asparagus two ways, triple vanilla ice cream with brown-butter shortbread. Hours: nightly dinner only, no lunch service. Wine list leans natural/Old World per Jenni Guizio's USHG pedigree (source: Exhibit A, OpenTable blog).",
+    "sources": [
+      {
+        "url": "https://www.zimmisnyc.com/p/menu/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://thetastebud.substack.com/p/zimmis",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/blog/zimmis-new-york/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://business-style.net/index.php/2025/02/02/restaurant-review-provence-in-the-west-village-at-zimmis/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://exhibitarchives.com/exhibita/zimmis-the-new-west-village-bistro-where-cool-meets-effortless-parisian-charm",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.finedininglovers.com/explore/articles/how-french-dining-changing-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T10:22:20.724Z"
+  },
+  {
+    "id": "maison-provence",
+    "name": "Maison Provence",
+    "desc": "South-of-France bistro in Williamsburg with Niçois chef, ratatouille, and Monday French Connection nights",
+    "longDesc": "A regional, rustic Williamsburg bistro inspired by the Côte d'Azur and run by Nice-born Chef Lolo — the menu leans Provençal (ratatouille, charcuterie boards, savory crepes, duck breast fettuccine) rather than the standard Paris-bistro template. Mondays bring 'French Connection Night' with 20% off select wines, live French music and French-speaking staff; Thursdays 4–6 PM host an outdoor Paint & Sip. The Havemeyer Street location sits in residential Williamsburg with mostly metered weekend street parking nearby.",
+    "url": "https://maisonprovencebk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "11:00-22:30",
+    "notes": "52 Havemeyer St, Williamsburg (maisonprovencebk.com). Chef Lolo from Nice — explicitly southern-France focus, not Paris-default (brooklyndowntownstar.com 2025-05-27). Signature: ratatouille (vegetarian), Provençal crepes, duck breast fettuccine, rustic charcuterie (Yelp). Weekend hours Fri–Sun 11:00–22:30 (official site). Resy reservations available. Monday French Connection Night 5:00–22:30 with 20% off wines, live music — worth noting for non-weekend planning. Outdoor Paint & Sip Thursdays 4–6 PM. Parking: metered street parking on Havemeyer/S. 4th–5th, easier before 18:00 on Saturdays.",
+    "sources": [
+      {
+        "url": "https://maisonprovencebk.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/maison-provence-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyndowntownstar.com/events/2025/05/27/experience-french-connection-nights-at-maison-provence-in-williamsburg/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/maison-provence",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T10:24:33.050Z"
+  },
+  {
+    "id": "mr-bing-industry-city",
+    "name": "Mr. Bing (Industry City) — Permanently Closed",
+    "desc": "Beijing-style jianbing stall once inside Japan Village; chain shuttered after Chapter 7 bankruptcy in June 2024.",
+    "longDesc": "Mr. Bing was a small NYC chain selling Beijing-style jianbing (savory crepes with egg, hoisin, chili, scallion, and crisp wonton). Owner Brian Goldberg filed Chapter 7 in June 2024 and liquidated all six units, including any Industry City / Japan Village presence (Restaurant Hospitality, 2024). The packaged chili crisp brand (mr-bing.com) survives, but no storefront remains; Yelp listings for every NYC location are tagged CLOSED through 2025-2026. Do not route foodie tracks here.",
+    "url": "https://www.restaurant-hospitality.com/restaurant-operations/mr-bing-s-files-for-chapter-7-bankruptcy-closes-all-six-units-in-new-york-city",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "CLOSED — out of business",
+    "notes": "DO NOT PROMOTE. Chain bankrupt June 2024, all six NYC units liquidated (Restaurant Hospitality). Yelp confirms all locations CLOSED through 2026. Brand survives only as packaged chili crisp at mr-bing.com. Use enqueued substitutes to fulfill the Sunrise Mart shopping+lunch loop instead — Japan Village Food Hall itself is the natural pivot since it sits inside the same Building 3/4 complex (934 3rd Ave) and is open Fri-Sat 11:00-20:30, Sun 11:00-19:00.",
+    "sources": [
+      {
+        "url": "https://www.restaurant-hospitality.com/restaurant-operations/mr-bing-s-files-for-chapter-7-bankruptcy-closes-all-six-units-in-new-york-city",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mr-bing-new-york-3",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mr-bing-new-york-5",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mr-bing-new-york-7",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:27:03.247Z"
   }
 ]
