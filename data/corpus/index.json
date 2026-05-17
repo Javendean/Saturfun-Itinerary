@@ -2461,44 +2461,48 @@
   },
   {
     "id": "japan-village-food-hall",
-    "name": "Japan Village",
-    "desc": "20,000 sq ft Japanese food hall inside Industry City — 10+ stalls, izakaya, sushi bar, sake shop, supermarket.",
-    "longDesc": "NYC's first dedicated Japanese food hall, spanning Buildings 3 & 4 at Industry City. Current 2026 lineup includes food stalls Ramen Setagaya, Handroll Bar, Shokusaido, Gohei, Obentoyasan, Hachi, Moriya, Yamada, Umami House and Sake's Bar, plus sit-down spots Sushi Uesugi, Gyuya yakiniku, Waku Waku izakaya, Oldies cocktail bar and JTunes karaoke. Anchored by Sunrise Mart supermarket, Kuraichi sake/spirits shop and Panya Bakery for curry pan and shokupan.",
-    "url": "https://www.japanvillage.com/",
+    "name": "Japan Village Food Hall",
+    "desc": "20,000 sqft Japanese food hall inside IC: ramen, takoyaki, hand rolls, bento, sake bar under one roof.",
+    "longDesc": "Brooklyn's first dedicated Japanese food hall, with ~10 stalls clustered around a shared seating courtyard inside Industry City Building B. Hachi handles street food (takoyaki, taiyaki, yakisoba, okonomiyaki); Ramen Setagaya does broth-forward bowls; Handroll Bar, Obentoyasan, Moriya, Gohei, Shokusaido, Yamada, Umami House, and Sake's Bar round out the lineup — so a group with different cravings can all eat well in one stop. Note: 'Oku' and 'Hachimitsu' don't appear on Japan Village's current stall roster (japanvillage.com/eat-drink) — likely confused with Hachi and the Setagaya/Handroll Bar lineup; this entry covers the live tenants as of May 2026.",
+    "url": "https://www.japanvillage.com/eat-drink",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "1-2 hr",
+    "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-21:00",
-    "notes": "Inside Industry City Buildings 3 & 4, entrance 934 3rd Ave (industrycity.com). Weekend hours 11am-9pm Fri+Sat, 11am-8pm Sun (industrycity.com/tenants/japan-village). Stall lineup confirmed via official site japanvillage.com/eat-drink. Ramen Setagaya is the hall's standout — Mt. Fuji Ramen with chili-tomato espuma and parmesan (theinfatuation.com). WakuWaku izakaya operates as a separate evening anchor inside the hall. IC garage parking on-site, plenty of weekend space. Note: 'Osakana' on Graham Ave is a separate Williamsburg fishmonger, not a Japan Village vendor.",
+    "hoursWeekend": "11:00-20:30",
+    "notes": "Anchor venue — already on-site at IC, so it's the natural fallback when a planned spot is closed or the group can't agree on cuisine. Weekend hall hours are Fri-Sat 11am-8:30pm and Sun 11am-7pm (japanvillage.com/eat-drink); individual stalls close earlier — Hachi runs Sun-Thu 12-7:30, Fri-Sat 12-8 (japanvillage.com/eat-drink/hachi). Adjacent to Sunrise Mart grocery and Kuraichi sake/liquor store, so the stop doubles as pantry shopping. Garage parking on-site at Industry City. The official roster shows Gohei, Obentoyasan, Hachi, Handroll Bar, Moriya, Shokusaido, Sake's Bar, Yamada, Umami House, Ramen Setagaya — no 'Oku' or 'Hachimitsu' listed (japanvillage.com/eat-drink).",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-17T11:30:00Z"
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink/hachi",
+        "accessed": "2026-05-17T13:30:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-17T11:30:00Z"
+        "accessed": "2026-05-17T13:30:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/japan-village",
-        "accessed": "2026-05-17T11:30:00Z"
+        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
+        "accessed": "2026-05-17T13:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T11:24:50.449Z"
+    "lastResearchedAt": "2026-05-17T13:32:52.219Z"
   },
   {
     "id": "cafe-here-red-hook",
@@ -14790,39 +14794,46 @@
   {
     "id": "patisserie-tomoko",
     "name": "Patisserie Tomoko",
-    "desc": "Japanese-French dessert bar in Williamsburg — 3-course pastry flight with sake or wine pairing",
-    "longDesc": "Chef Tomoko Kato (alum of Bouley Bakery and Le Bernardin) runs a tiny dessert tasting bar tucked behind a take-out pastry counter on Union Ave. The seated Dessert Bar offers a three-course prix fixe — amuse-bouche, a featured plated sweet like black-sesame crème brûlée or green-tea cheesecake tart, and petits fours such as namachoko — with optional wine or sake pairing.",
-    "url": "https://www.yelp.com/biz/patisserie-tomoko-brooklyn-2",
+    "desc": "Japanese-French dessert bar in Williamsburg; signature Mont Blanc and chestnut tarts with sake pairings.",
+    "longDesc": "Chef-driven patisserie blending French technique with Japanese restraint — Mont Blanc, chestnut tart, and a rotating three-course dessert flight with wine or sake pairing ($28-29.50). Dual-mode: take-out counter for ~$3 individual pastries, or sit-down dessert bar in back. Closest match in the IC sweet-stop universe since no Mont Blanc specialist exists in Sunset Park itself.",
+    "url": "https://patisserietomoko.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "foodie",
-      "romantic",
-      "curious"
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-75 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Fri-Sat 12:00-20:00, Sun 12:00-18:00",
-    "notes": "568 Union Ave, Brooklyn — French-Japanese fusion patisserie with a dedicated Dessert Bar offering a 3-course prix fixe flight, plus a takeout counter for cakes, breads, and cookies (Yelp). Time Out's older listing showed Fri/Sat hours until 11pm but current 2026 Yelp data shows weekend close at 8pm — the original late-night dessert-bar premise no longer holds, so this fits an early-evening cap rather than a true after-dinner stop (Yelp, Time Out). Drives well from IC up the BQE; weekend street parking around Union/Metropolitan is doable. Wine/sake pairing is the differentiator versus Bakeri's daytime-only viennoiserie. Owner Tomoko Kato's CV (Bouley, Le Bernardin) explains the precision (Time Out).",
+    "duration": "45-60 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-18:00",
+    "notes": "568 Union Ave, Brooklyn NY 11211. Mont Blanc is a recurring three-course feature (per Yelp/Tripadvisor reviews). Closed Mondays. Street parking on Union/Metropolitan; weekend metered. Sake pairing option distinguishes it from purely-French patisseries. Original queue topic 'Mont Blanc Patisserie Industry City' resolves here — no Mont Blanc specialist exists at IC proper; Tomoko is the canonical Brooklyn answer (sources).",
     "sources": [
       {
+        "url": "https://patisserietomoko.com/",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
         "url": "https://www.yelp.com/biz/patisserie-tomoko-brooklyn-2",
-        "accessed": "2026-05-16T16:30:00Z"
+        "accessed": "2026-05-17T13:30:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/restaurants/patisserie-tomoko",
-        "accessed": "2026-05-16T16:30:00Z"
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d6619802-Reviews-Patisserie_Tomoko-New_York_City_New_York.html",
+        "accessed": "2026-05-17T13:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T16:32:35.050Z"
+    "lastResearchedAt": "2026-05-17T13:35:34.984Z"
   },
   {
     "id": "fan-fan-doughnuts",
@@ -28192,5 +28203,133 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T13:25:55.161Z"
+  },
+  {
+    "id": "diamond-reef",
+    "name": "Diamond Reef (PERMANENTLY CLOSED)",
+    "desc": "Closed Bed-Stuy tropical cocktail bar — do not route; corpus marker to prevent re-research.",
+    "longDesc": "Diamond Reef was a tiki/tropical cocktail bar from the Attaboy team that operated at 1057 Atlantic Ave (Bed-Stuy/Crown Heights border) from 2017 until its lease was terminated after the building was sold; Yelp confirms permanently closed as of Dec 2025 (yelp.com). Owners floated reopening at a new site but no new location has materialized as of May 2026 (diamondreefnyc.com, eater.com). Also note: despite the research brief framing it as 'oyster + cocktail bar,' Diamond Reef's menu was island-leaning cocktails (Scorpion Kick, etc.) with limited food — it was never a primary oyster destination (dnainfo.com).",
+    "url": "https://diamondreefnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "n/a — closed",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "CLOSED — permanently",
+    "notes": "DO NOT ITINERARY. Permanently closed at 1057 Atlantic Ave after building sale (yelp.com/biz/diamond-reef-brooklyn-3). Original concept was tropical cocktails from the Attaboy team, not an oyster bar (theinfatuation.com, dnainfo.com). Entry exists solely to prevent re-research and to redirect the 'casual romantic $$ seafood alt to Maison Premiere' brief to the enqueue candidates below. If Diamond Reef ever reopens at a new address, refresh this entry.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/diamond-reef-brooklyn-3",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://diamondreefnyc.com/",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/diamond-reef",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/diamond-reef",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://www.dnainfo.com/new-york/20170306/bed-stuy/diamond-reef-bars-bed-stuy-crown-heights-clinton-hill-cocktails-brooklyn/",
+        "accessed": "2026-05-17T13:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T13:28:26.870Z"
+  },
+  {
+    "id": "lilia",
+    "name": "Lilia",
+    "desc": "Missy Robbins' converted-auto-body Italian temple — handmade pastas, wood-fired seafood, James Beard pedigree.",
+    "longDesc": "Lilia is chef Missy Robbins' flagship Williamsburg restaurant inside a converted auto-body shop at the corner of N. 10th and Union, focused on handcrafted regional Italian pastas, wood-fired seafood, and classic Italian cocktails. It earned three stars from The New York Times and Robbins won James Beard Best Chef NYC in 2018; signatures include mafaldini with pink peppercorn and agnolotti with sheep's milk cheese. Reservations open 30 days out at 9am via Resy and vanish in seconds — bar seats and 4pm Fri/Sat walk-ins are the realistic backdoor.",
+    "url": "https://www.lilianewyork.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Fri-Sat 16:00-21:30",
+    "notes": "567 Union Ave, corner of N. 10th + Union, Brooklyn NY 11211 (Williamsburg/Greenpoint border). Reservations via Resy 30 days out 9am ET, or email reservations@lilianewyork.com; bar walk-ins at 4pm Fri/Sat are the most reliable backdoor (lilianewyork.com). Three NYT stars; Robbins = 2018 James Beard Best Chef NYC (visitbrooklyn.nyc). Pasta-forward menu so vegetarian-friendly though not vegan/GF-flagged. Weekend street parking is realistic on N. 10th/N. 11th — feasible from IC anchor in ~20 min via BQE off weekend peak. Pairs naturally pre- or post-dinner with Maison Premiere (3 min drive south on Bedford) for the same Williamsburg cluster.",
+    "sources": [
+      {
+        "url": "https://www.lilianewyork.com/",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/lilia",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/lilia",
+        "accessed": "2026-05-17T13:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:30:41.718Z"
+  },
+  {
+    "id": "kuraichi-industry-city",
+    "name": "Kuraichi",
+    "desc": "NYC's largest curated Japanese sake, shochu and whisky shop, tucked inside Japan Village at IC.",
+    "longDesc": "Kuraichi (蔵一) is a specialty bottle shop at 88 35th St inside Industry City's Japan Village, two doors from Sunrise Mart. Hundreds of sakes are organized by flavor (dry, fruity, umami-rich), rice variety and prefecture, plus deep shelves of imo/mugi/kome shochu, Japanese whisky and craft spirits. Staff give serious 5-10 minute tastings/walk-throughs, and they collaborate with Brooklyn Kura on yuzu sake exclusives — a tight beverage anchor for the Japan track before or after Sunrise Mart and Brooklyn Kura's taproom.",
+    "url": "https://kuraichibk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min (on-site)",
+    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-19:30",
+    "notes": "Established 2019; located inside Japan Village at IC alongside Sunrise Mart and Brooklyn Kura (kuraichibk.com). Inventory spans ginjo/daiginjo/junmai sake, barley/sweet-potato/rice shochu, Japanese whiskies with varied cask finishes; collaborates with Brooklyn Kura + Japan Village on exclusives (kuraichibk.com). Yelp confirms 88 35th St address and Industry City tenancy (industrycity.com/tenants/kuraichi). Park in IC garages on 2nd Ave; the shop sits in the same complex as Sunrise Mart so it pairs as a 30-45 min add-on rather than a separate drive stop.",
+    "sources": [
+      {
+        "url": "https://kuraichibk.com/",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/kuraichi/",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kuraichi-brooklyn-2",
+        "accessed": "2026-05-17T13:30:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2025/07/02/brooklyn-kura-launches-kura-shochu-japan-inspired-brooklyn-made/",
+        "accessed": "2026-05-17T13:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:37:51.450Z"
   }
 ]
