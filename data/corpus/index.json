@@ -6405,17 +6405,16 @@
   },
   {
     "id": "panya-bakery-industry-city",
-    "name": "Panya Bakery",
-    "desc": "Japanese bakery in Japan Village — curry pan, shokupan, matcha lattes; perfect IC morning anchor.",
-    "longDesc": "Panya reopened inside Industry City's Japan Village (Building 4) after closing its longtime East Village location, baking shokupan, savory curry pan, and matcha cream puffs daily behind a glass-fronted kitchen. The drink program spans matcha and hojicha lattes, matcha yuzu lemonade, pour overs, and chai — a one-stop fuel-up before driving tracks. Indoor and outdoor courtyard seating make it a low-stakes 30-minute breakfast slot.",
+    "name": "Panya Bakery (Industry City)",
+    "desc": "Japanese bakery inside Japan Village — shokupan, curry pan, matcha, and pastries with indoor + courtyard seating.",
+    "longDesc": "Panya Bakery is the Japan Village outpost of the long-running NYC Japanese bakery, tucked into Industry City's Building 4 courtyard. The menu centers on fresh-baked shokupan, curry pan, melon pan, and seasonal cakes alongside matcha lattes, pour-over coffee, yuzu and loose-leaf teas. It's a strong dessert/snack anchor that pairs cleanly with a Japan Village meal without duplicating the surrounding ramen, sushi, or izakaya tenants.",
     "url": "https://industrycity.com/tenants/panya-bakery/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "chill",
-      "foodie",
-      "photo"
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
@@ -6423,30 +6422,26 @@
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-19:00",
-    "notes": "Inside Japan Village courtyard at IC Building 4, 220 36th St Suite 2-A / 934 3rd Ave (Japan Village storefront). Sat-Sun 11am-7pm per Japan Village; IC tenant page lists Wed-Sun 8am-4pm — call ahead on weekends (panya@japanvillage.com). Signature items: curry pan, shokupan, matcha cream puffs, strawberry shortcake, French toast (cititour). Beverages include matcha/hojicha lattes, matcha yuzu lemonade, sparkling yuzu tea, pour overs. Glass-fronted bakery — good photo moment. Park in IC garage; walk to Building 4 courtyard.",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00 (Japan Village schedule); IC tenant page lists Wed-Sun 8:00-16:00",
+    "notes": "Located in Industry City Building 4, inside the Japan Village courtyard at 934 3rd Ave (industrycity.com tenant page). Hours conflict between sources — IC tenant page says Wed-Sun 8AM-4PM, Japan Village's own listing says Wed-Thu 9-5, Fri 9-6, Sat 11-7, Sun 11-6 (japanvillage.com). Closed Mon-Tue per both sources. Specialties: curry pan, shokupan, matcha lattes (japanvillage.com). Brunch service Wed-Sun. Both indoor and outdoor courtyard seating. Wholesale inquiries: panya@japanvillage.com. Instagram @panyabrooklyn. Pairs naturally with a Sunrise Mart / Japan Village stroll — pastry-and-coffee stop, not a full meal.",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/panya-bakery/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T23:45:00Z"
       },
       {
         "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T23:45:00Z"
       },
       {
         "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://cititour.com/NYC_News/Panya-Bakery-Brings-Japanese-Pastries-and-Matcha-Magic-to-Industry-City/9748",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T23:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T13:13:21.067Z"
+    "lastResearchedAt": "2026-05-17T23:42:53.717Z"
   },
   {
     "id": "jtunes-karaoke",
@@ -16584,47 +16579,44 @@
   {
     "id": "devocion-williamsburg",
     "name": "Devoción Williamsburg",
-    "desc": "Direct-from-farm Colombian roastery flagship under a skylit living wall of 150 coffee plants.",
-    "longDesc": "Devoción's Williamsburg flagship is a sunlit roastery, training lab, and café behind an exposed-brick corridor wrapped in Colombian greenery. Founder Steven Sutton imports green beans directly from 1,000+ Colombian farms via overnight FedEx and roasts them in-house, so what's in your cup left the farm within ~10 days (industry standard is 6–12 months). Pitched roof, two-espresso bar, public cuppings and tastings.",
+    "desc": "Flagship Colombian specialty coffee roastery with skylit courtyard and vertical garden",
+    "longDesc": "Devoción's Williamsburg flagship is a farm-to-cup Colombian coffee roastery housed in a 6,000 sq ft converted warehouse with a pitched-roof skylight, sunlit courtyard, and exposed-brick corridor opening onto lush greenery. Beans are flown direct from Colombian farms and roasted on-site; the visible coffee laboratory hosts public cuppings and trainings, and the redesigned bar runs two espresso machines for high-volume weekend crowds. Easy on-street parking on Grand and surrounding side streets compared with most Williamsburg coffee anchors.",
     "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
+      "foodie",
+      "photo",
       "chill",
-      "curious",
-      "photo"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
-    "driveFromIC": "14 min",
+    "duration": "30-60 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "07:30-18:00",
-    "notes": "Address: 148 Grand St, Brooklyn, NY 11249 (Devoción official). Weekend hours Sat/Sun 7:30am-6pm — note earlier 6pm close vs. weekday 7pm (Devoción official). Flagship features a two-story vertical garden / living wall and skylit courtyard (Sprudge, Brooklyn Paper). Plausible 12–15 min drive from Industry City via BQE; weekend street parking in north Williamsburg is workable before noon, tighter after. Solid substitute when Sunset Park coffee thins out, and uniquely justified by the direct-import sourcing story.",
+    "notes": "Flagship at 148 Grand St, Brooklyn NY 11249 — moved from original 69 Grand St location to current larger space (devocion.com). Sat/Sun 7:30am-6pm. Skylit courtyard + two-story Colombian vertical garden make it a top photo coffee stop in BK. Direct-trade Colombian beans roasted on premises; cuppings and trainings open to public. Pairs well as a morning anchor before a Williamsburg track (Domino Park, Smorgasburg Sat, Wythe Hotel rooftop).",
     "sources": [
       {
         "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
+        "url": "https://www.devocion.com/pages/cafes",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://sprudge.com/cafe-devocion-in-williamsburg-a-colombian-mega-cafe-with-ambitious-import-plans-66008.html",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.brooklynpaper.com/devocion-freshest-colombian-coffee/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T14:57:47.765Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:48:10.243Z"
   },
   {
     "id": "rainey-park-lic",
@@ -19116,40 +19108,47 @@
   {
     "id": "baolala-industry-city",
     "name": "Baolala",
-    "desc": "Industry City soup-dumpling counter — pork, crab, chicken, and spicy XLB, no Manhattan needed",
-    "longDesc": "A quick-service Shanghainese spot tucked inside Industry City at 253 36th St, occupying the same address Yaso Tangbao made famous for soup dumplings. Baolala turns out xiaolongbao in pork ($9), crab meat, chicken, and spicy varieties, plus the namesake Bao La La soup noodle and rice bowls — solid casual stop that gets you the XLB fix on-site without crossing into Chinatown.",
+    "desc": "Pan-Asian grab-and-go inside IC with xiaolongbao, soup noodles, and a coffee+tea counter open till 8.",
+    "longDesc": "Quick-service spot at 253 36th St inside the Industry City food courtyard serving pork soup dumplings ($9), Bao La La signature soup noodles ($17), mapo tofu rice bowls, and Chinese-style burgers, with a globally-sourced tea program and coffee on the same counter. Officially listed by Industry City under Grab+Go, Pan Asian, and Coffee+Tea, and tagged 'Open late,' making it the rare in-hall caffeine option still pouring after Bagel Pub's 3:30 PM cutoff. Tue-Sun 11-8, closed Mondays.",
     "url": "https://baolalany.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-20:00 (Sat-Sun; closed Mon)",
-    "notes": "Same 253 36th St address that Yaso Tangbao occupied through 2024; Baolala is the current operator and explicitly markets xiaolongbao as the signature (source: baolalany.com menu). Yelp confirms Tue-Sun 11-8 weekend window. For a Brooklyn-only itinerary this eliminates the Joe's Shanghai Chinatown drive — XLB is literally on the IC campus. Pork XLB is $9/order; crab meat variant is the upgrade pick. No reservations, walk-in counter format.",
+    "hoursWeekend": "11:00-20:00",
+    "notes": "On-site inside IC's 253 36th St courtyard, no drive needed (industrycity.com/tenants/baolala). Open Tue-Sun 11-8, closed Mondays (industrycity.com). Signature xiaolongbao + soup noodles plus a tea/coffee bar that solves IC's mid-afternoon caffeine gap (baolalany.com). Vegetarian options via mapo tofu rice bowl; not halal/vegan-certified.",
     "sources": [
       {
+        "url": "https://industrycity.com/tenants/baolala/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://baolalany.com/",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/baolala-brooklyn",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://visitbrooklyn.nyc/eatanddrink/baolala",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T22:10:30.299Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:40:54.406Z"
   },
   {
     "id": "chrystie-garage-mtp-parking",
@@ -24438,48 +24437,52 @@
   },
   {
     "id": "one-girl-cookies-cobble-hill",
-    "name": "One Girl Cookies",
-    "desc": "Cobble Hill cafe-bakery in blue + vintage sepia photos; signature tea cookies, breakfast pastries, light lunch",
-    "longDesc": "A homey Cobble Hill bakery-cafe open since 2005, dressed in blue tones and lined with vintage sepia family photographs — a strong photo angle and a chill morning anchor (One Girl Cookies / Restaurant Fairy). Menu spans signature tea cookies, breakfast pastries, cakes, cupcakes, sandwiches, soups, and salads, plus full coffee service. Quiet enough to linger, pretty enough to shoot — fits the foodie + photo + chill stack inside the Cobble Hill/Carroll Gardens cluster.",
-    "url": "https://onegirlcookies.com/location/cobble-hill/",
-    "photoUrl": "https://onegirlcookies.com/wp-content/uploads/elementor/thumbs/Hands-holding-coffee-qv7j8xxovff2o9d3lft29r5z6c5ofnu45fpdfehp8i.jpg",
+    "name": "One Girl Cookies (Cobble Hill flagship)",
+    "desc": "Original Cobble Hill cafe of the Brooklyn cookie/cake institution — vintage tin ceilings, marble counters, photogenic boxed cookies",
+    "longDesc": "The original 2000-era Cobble Hill storefront on tree-lined Dean Street is the surviving flagship of One Girl Cookies after the Industry City location shut in late 2025. Tiny, jewelbox interior with vintage-tin ceilings and a glass case of tea cookies, whoopie pies, and signature stamped wedding cookies that photograph well in their kraft+twine boxes. ~10-12 min drive from IC via 3rd Ave/Atlantic — works as a sweets detour anchoring a Cobble Hill / Carroll Gardens stroll.",
+    "url": "https://onegirlcookies.com/location/68-dean-street/",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
-      "chill",
+      "photo",
       "foodie",
-      "photo"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "14 min",
-    "hoursWeekend": "Sat 9:00-18:00, Sun 9:00-17:00",
-    "notes": "68 Dean St, Brooklyn NY 11201 — community-hub vibe, good for working/lingering (NYC Tourism). Blue palette + vintage sepia family photos on the walls give a strong interior shot (Restaurant Fairy). Park on Dean/Smith side streets; weekend metered parking in Cobble Hill is generally findable but tighter mid-morning. Order at the counter; tables are limited at peak Saturday brunch.",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 09:00-18:00, Sun 09:00-17:00",
+    "notes": "IMPORTANT: The Industry City outpost at 254/268/274 36th St (Building 2 Food Hall) is permanently closed as of Dec 2025 (Yelp listing marked CLOSED; the official onegirlcookies.com locations index no longer includes IC, only 68 Dean St). The Industry City directory page (industrycity.com/one-girl-cookies) still lists it — stale. Substituted to the still-operating Cobble Hill flagship at 68 Dean St (~3 mi / 12 min from IC by car). Street parking on Dean/Bergen/Court; weekend metered Court St spots turn over. Hours verified from official site April 2026 (Sat 9-6, Sun 9-5). Original IC location was the glass-walled production bakery + commissary designed by Oliver Freundlich with a Jing Wei mural — that build-out and the cake-window view of the production line are gone. For the 'photogenic sweets stop AT IC' itinerary slot, see the enqueue list — Li-Lac's IC chocolate factory has the closest analog (visible production).",
     "sources": [
       {
-        "url": "https://onegirlcookies.com/location/cobble-hill/",
+        "url": "https://onegirlcookies.com/location/68-dean-street/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/one-girl-cookies-brooklyn",
+        "url": "https://onegirlcookies.com/locations/one-girl-cookies/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/one-girl-cookies-cobble-hill/",
+        "url": "https://www.yelp.com/biz/one-girl-cookies-brooklyn-4",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "http://therestaurantfairy.com/2015/11/26/one-girl-cookies-cobble-hill-nyc/",
+        "url": "https://industrycity.com/one-girl-cookies/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.remodelista.com/posts/one-girl-cookies-newest-brooklyn-outpost-designed-by-oliver-freundlich/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T15:10:43.688Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:46:00.409Z"
   },
   {
     "id": "devocion-dumbo",
@@ -34788,5 +34791,51 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T23:35:07.309Z"
+  },
+  {
+    "id": "bossa-nova-civic-club",
+    "name": "Bossa Nova Civic Club",
+    "desc": "Tropical-themed 140-cap techno & house dance bar tucked under the Myrtle Ave subway in Bushwick.",
+    "longDesc": "Cult-favorite Bushwick dance bar with a tight ~140-person room, palm-leaf decor, and a serious sound system that hosts house and techno locals plus international guests nightly from 7pm to 4am. Cocktails run cheaper than Manhattan clubs (free to ~$10 cover, drinks well-priced) and the crowd skews dance-first rather than bottle-service. Pairs naturally with Mood Ring and The Sultan Room for a full Bushwick nightlife crawl within a 6-block radius.",
+    "url": "https://www.bossanovacivicclub.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "1.5-3 hr",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "19:00-04:00",
+    "notes": "1271 Myrtle Ave, Brooklyn NY 11221 (Yelp). Open 7pm-4am daily; cover ranges free-$10 and is typically charged later in the evening on weekends (mypartybible.com). Paid street parking only; spots on Myrtle/Bushwick/Stockholm are easier before 10pm. ~140 capacity 'beneath the rumbling subway overpass' per The FADER profile (thefader.com). Resident Advisor lists current bookings at ra.co/clubs/71292.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/bossa-nova-civic-club-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://ra.co/clubs/71292",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.mypartybible.com/bar/New-York/5388666696071/Bossa-Nova-Civic-Club",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.thefader.com/2014/05/09/meet-bossa-nova-civic-club-the-most-fun-legal-venue-in-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://p2bars.com/bars-near-me/bossa-nova-civic-club/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:39:01.474Z"
   }
 ]
