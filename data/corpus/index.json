@@ -15883,45 +15883,49 @@
   {
     "id": "gage-and-tollner",
     "name": "Gage & Tollner",
-    "desc": "Landmarked 1879 chophouse in Downtown Brooklyn — oysters, dry-aged steaks, and gaslit Victorian glamour.",
-    "longDesc": "Restored in 2021 inside a Brooklyn landmark interior (1875 building, gas chandeliers, mahogany arches still intact), Gage & Tollner serves a modernized American chophouse menu — Long Island oysters, dry-aged steaks, parker house rolls, and martinis. Co-owned by St. John Frizell, Sohui Kim, and Ben Schneider, with Sunken Harbor Club perched directly above on the second floor — making it the obvious dinner-before-cocktails pairing in the same building. Reservations strongly recommended on weekends.",
+    "desc": "Landmarked 1879 chophouse — seafood tower, dry-aged steaks, and the original mahogany dining room.",
+    "longDesc": "Reopened in 2021 inside its gas-lit 1879 landmark space, Gage & Tollner is a 21st-century oyster and chop house — She-Crab Soup, Clams Kimsino with kimchi butter, dry-aged NY Strip, and the famous fried chicken platter. It made the NYT's top 100 NYC restaurants for 2025. Directly downstairs from Sunken Harbor Club, making the dinner-then-tiki-cocktails sequence a single-building move.",
     "url": "https://www.gageandtollner.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "foodie",
       "romantic",
+      "foodie",
       "photo"
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "1.5-2 hr",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "Sat-Sun 11:00-22:00",
-    "notes": "372 Fulton St, on the pedestrian Fulton Mall stretch — street parking is scarce on weekends; nearest paid garages are on Livingston St and Schermerhorn St (~3 min walk). Operating hours confirmed via official site (gageandtollner.com/location). The 1879-2004 original run + 2021 restoration story is documented at Robb Report and Brooklyn Paper. Pair with a post-dinner climb upstairs to Sunken Harbor Club for tiki cocktails inside the same landmark.",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "372 Fulton St, Brooklyn NY 11201 (gageandtollner.com). Weekend hours Sat–Sun 11:00am–10pm (lunch + dinner) per official location page. Sunken Harbor Club is the bar program upstairs in the same building — Fri/Sat 5pm–12am — so this entry pairs perfectly with [[sunken-harbor-club]] for one romantic Brooklyn Heights track with no driving between courses (gageandtollner.com/location). Reservations strongly recommended via OpenTable; phone (347) 689-3677 (yelp.com). Signature: She-Crab Soup $23, Clams Kimsino $24, Dry-Aged NY Strip $57, seafood towers, fried chicken with cornmeal fritters (worldbeststeaks.com, NYT Top 100 2025). Street parking in Downtown Brooklyn / Brooklyn Heights is tight on weekends — recommend Pierrepont Plaza or Pierrepont Garage as paid backup. Landmarked 1879 dining room with original chandeliers — strong photo vibe for a romantic anchor.",
     "sources": [
       {
-        "url": "https://www.gageandtollner.com/",
-        "accessed": "2026-05-16T20:55:00Z"
-      },
-      {
         "url": "https://www.gageandtollner.com/location/gage-and-tollner-brooklyn/",
-        "accessed": "2026-05-16T20:55:00Z"
+        "accessed": "2026-05-17T22:00:00Z"
       },
       {
-        "url": "https://www.brooklynpaper.com/gage-tollner-opening-downtown-brooklyn/",
-        "accessed": "2026-05-16T20:55:00Z"
+        "url": "https://www.gageandtollner.com/",
+        "accessed": "2026-05-17T22:00:00Z"
       },
       {
-        "url": "https://robbreport.com/food-drink/dining/brooklyn-gage-tollner-restaurant-reopening-2896808/",
-        "accessed": "2026-05-16T20:55:00Z"
+        "url": "https://www.yelp.com/biz/gage-and-tollner-brooklyn",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.worldbeststeaks.com/restaurant-pages/gageandtollner",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gage_and_Tollner",
+        "accessed": "2026-05-17T22:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:56:38.658Z"
+    "lastResearchedAt": "2026-05-17T21:53:27.511Z"
   },
   {
     "id": "grand-army-boerum-hill",
@@ -18362,49 +18366,55 @@
   },
   {
     "id": "leyenda-carroll-gardens",
-    "name": "Leyenda (CLOSED)",
-    "desc": "PERMANENTLY CLOSED March 29, 2025 — Ivy Mix / Julie Reiner pan-Latin cocktail bar that ran 10 yrs on Smith St",
-    "longDesc": "Leyenda was a James Beard–nominated pan-Latin cocktail bar at 221 Smith St in Carroll Gardens, opened 2015 by Ivy Mix and Julie Reiner with a tequila/mezcal/rum/cachaça/pisco program and food by Sue Torres. It closed permanently after service Saturday March 29, 2025, just shy of its 10th anniversary; Mix cited a changing neighborhood, building issues, and post-pandemic industry costs. The leyendabk.com domain still serves stale hours — do not route guests here.",
-    "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
+    "name": "Leyenda (PERMANENTLY CLOSED)",
+    "desc": "CLOSED Mar 2025 — Ivy Mix's pan-Latin mezcal/agave bar on Smith St; do not route guests here.",
+    "longDesc": "Leyenda was a James Beard-recognized pan-Latin cocktail bar at 221 Smith St, Carroll Gardens, opened in 2015 by Ivy Mix and Julie Reiner and celebrated for its deep mezcal, tequila and rum program. It shuttered at the end of March 2025, just shy of its 10th anniversary, citing the need for a larger space; no new location has been announced as of May 2026. The leyendabk.com site still displays legacy hours and the OpenTable page is stale, so this entry exists only to prevent the corpus from accidentally promoting a closed venue.",
+    "url": "https://leyendabk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
-      "curious",
-      "romantic"
+      "romantic",
+      "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "30-45 min",
+    "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "CLOSED",
-    "notes": "Permanently closed end of March 2025 after ~10 yrs (Time Out, Spirits Business, PUNCH). Final 'Legends of Leyenda' takeover series ran the last weeks; Ivy Mix's last shift was March 19, 2025. Mix is now co-owner of Whoopsie Daisy wine bar in Crown Heights (opened 2024) — that is the live successor for any 'Ivy Mix nightcap' slot. Leyenda's .com still shows hours and is misleading — flag for any auto-import. Keep this record so the corpus does not re-research the same dead address.",
+    "hoursWeekend": "PERMANENTLY CLOSED (March 2025)",
+    "notes": "DO NOT PROMOTE. Closed end of March 2025 after ~10 years (Time Out NY, 2025-02-06; The Spirits Business, 2025-02; Drinks International, 2025). Ivy Mix's current Brooklyn project is Whoopsie Daisy wine bar in Crown Heights. Official site and OpenTable listing remain online but are stale — Yelp correctly flags 'CLOSED'. Address was 221 Smith St, Brooklyn NY 11201; pre-closure: M-Th 5p-12a, F 5p-1a, Sa 1p-1a, Su 1p-12a. ~12 min drive from Industry City via Hamilton Ave/3rd Ave (off-peak). Use enqueued alternatives for the 'late-night craft cocktail closer to IC than Brooklyn Heights' slot.",
     "sources": [
       {
         "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.thespiritsbusiness.com/2025/02/brooklyn-bar-leyenda-to-close/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://punchdrink.com/articles/leyenda-bar-closing-ivy-mix-cocktails-margarita/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Ivy_Mix",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://drinksint.com/news/fullstory.php/aid/11588/Brooklyn_92s_Leyenda_to_close_at_the_end_of_March.html",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/leyenda-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://leyendabk.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.leyendabk.com/contact",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:01:21.032Z"
+    "lastResearchedAt": "2026-05-17T21:59:43.065Z"
   },
   {
     "id": "four-horsemen",
@@ -25204,54 +25214,46 @@
   },
   {
     "id": "grand-army-bar",
-    "name": "Grand Army Bar",
-    "desc": "Seasonal cocktails + East/West Coast oyster bar on a Boerum Hill corner; open late nightly.",
-    "longDesc": "The Boerum Hill original behind the cocktail program now exported across the borough: a corner bar at State + Hoyt with a raw bar of east and west coast oysters, composed seafood plates (smoked octopus, hamachi), and a constantly-rotating seasonal cocktail menu. Doors open until 1-2am most nights with a kitchen running until 11pm-midnight, making it a strong romantic late-stop ~12 min from IC. Happy hour (M-Th 5-7p, Fri 4-6p, weekends 2-4p) drops a dozen oysters to $25 and $1 off wine/beer.",
+    "name": "Grand Army",
+    "desc": "Damon Boelte's Boerum Hill oyster + cocktail bar with a 60-seat raw-bar and seafood menu.",
+    "longDesc": "Corner oyster bar at State + Hoyt with a custom-built shucking station, a cocktail program co-founded by Damon Boelte, and a tight seafood-forward menu. Weekend happy hour 2-4pm runs a dozen oysters for $25 plus $1 off wine/beer — a strong pre-dinner cocktail slot in the same 15-min radius as Industry City. 60 seats split evenly between bar and tables; walk-ins typical early, fills up by 5pm.",
     "url": "https://www.grandarmybar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
       "romantic",
-      "chill",
-      "foodie"
+      "foodie",
+      "chill"
     ],
     "dietary": [],
-    "priceBand": "$$$",
+    "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 14:00-02:00 (kitchen til midnight); Sun 14:00-00:00 (kitchen til 23:00)",
-    "notes": "336 State St (corner of State + Hoyt), Brooklyn, NY 11217 — technically Boerum Hill, mapped here to cobble-hill (closest zone in corpus; BoCoCa cluster) (grandarmybar.com). Phone (718) 643-1503. Street parking only — typical Boerum Hill side-street availability on weekends. Seafood-forward cocktail bar with the raw bar as anchor; reservations recommended for the dining side, walk-ins fine at the bar (opentable.com, yelp.com). Pairs naturally with a Boerum Hill / Cobble Hill dinner stop earlier in the night; closes later than most BoCoCa rooms which makes it a strong nightcap target after an IC-anchored track (timeout.com).",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 14:00-01:00, Sun 14:00-22:00",
+    "notes": "336 State St (corner of Hoyt), Boerum Hill / Cobble Hill border (grandarmybar.com). Bar director/co-founder Damon Boelte (ex-Prime Meats) is the named cocktail talent (timeout.com). Weekend happy hour: $25/dozen oysters + $1 off wine/beer Sat-Sun 2-4pm (grandarmybar.com). Street parking on State/Hoyt/Bond is realistic on weekend afternoons; tighter after 6pm. Drive from IC: ~15 min via 3rd Ave / Atlantic Ave.",
     "sources": [
       {
         "url": "https://www.grandarmybar.com/",
-        "accessed": "2026-05-17T08:15:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/grand-army-brooklyn",
-        "accessed": "2026-05-17T08:15:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/grand-army",
-        "accessed": "2026-05-17T08:15:00Z"
+        "accessed": "2026-05-17T22:00:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/grand-army",
-        "accessed": "2026-05-17T08:15:00Z"
-      },
-      {
-        "url": "https://realtycollective.com/spotlight-grand-army-bar/",
-        "accessed": "2026-05-17T08:15:00Z"
+        "accessed": "2026-05-17T22:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/grand-army-boerum-hill/",
-        "accessed": "2026-05-17T08:15:00Z"
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/grand-army-brooklyn",
+        "accessed": "2026-05-17T22:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:19:59.053Z"
+    "lastResearchedAt": "2026-05-17T21:50:50.104Z"
   },
   {
     "id": "threes-brewing-greenpoint",
@@ -29774,9 +29776,9 @@
   },
   {
     "id": "leyenda",
-    "name": "Leyenda (CLOSED March 2025)",
-    "desc": "CLOSED — Julie Reiner & Ivy Mix's pan-Latin agave bar at 221 Smith St shut after a 10-year run.",
-    "longDesc": "Leyenda was the Clover Club team's pan-Latin sibling a half-block down Smith Street, anchored by Ivy Mix's agave-forward, ~15-cocktail menu spanning tequila, mezcal, sotol, raicilla, pisco, cachaça and rum, with a Latin food program from chef Sue Torres (timeout.com, chilledmagazine.com). Ivy Mix and Julie Reiner announced in February 2025 that the Smith Street space had been outgrown and the bar would close at the end of March 2025 after its 10th-anniversary service in May (thespiritsbusiness.com, drinksint.com). The team signalled they would scout a new Brooklyn home post-closure; as of the corpus accessed date no successor venue had opened, so Leyenda should NOT be routed in any active itinerary — keep as historical context only.",
+    "name": "Leyenda (CLOSED)",
+    "desc": "Permanently closed March 2025 — Ivy Mix & Julie Reiner's pan-Latin cocktail bar did not renew its Smith St lease.",
+    "longDesc": "Leyenda was a James-Beard-recognized pan-Latin cocktail bar opened in 2015 by Ivy Mix and Julie Reiner (Clover Club). It closed at the end of March 2025 after a 'Legends of Leyenda' farewell takeover series; the team said they had outgrown the 221 Smith Street space and would scout a new location. As of May 2026 no successor venue has opened, so this entry should be retired from the active Carroll Gardens cluster.",
     "url": "https://leyendabk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -29785,14 +29787,12 @@
       "curious",
       "romantic"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "permanently closed",
-    "notes": "PERMANENTLY CLOSED end of March 2025 after 10 years at 221 Smith St, Carroll Gardens (timeout.com, thespiritsbusiness.com). Was Ivy Mix + Julie Reiner's pan-Latin sibling to Clover Club (210 Smith), agave-forward with a Sue Torres food menu (chilledmagazine.com). Pre-closure hours were Mon–Thu 5pm–2am, Fri/Sat 5pm–3am, Sun 5pm–1am (nyc.com). Team announced intent to find a new Brooklyn location but no successor address confirmed at corpus access. DO NOT include in active routes — flag as closed; the Smith Street corridor cocktail anchor is now Clover Club alone unless/until Mix reopens.",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "CLOSED PERMANENTLY (March 2025)",
+    "notes": "DO NOT ROUTE: Leyenda closed end of March 2025 after 10 years; lease not renewed (Time Out NY 2025-02-06; Spirits Business 2025-02; PUNCH farewell piece). Yelp listing shows CLOSED as of Feb 2026. Replace anchor role with Clover Club (Reiner's other JB-nominated bar, 210 Smith St, ~3 blocks north) or Sunken Harbor Club (St. John Frizell, above Gage & Tollner, Downtown Bk). Carroll Gardens cluster still works with Long Island Bar as the cocktail anchor.",
     "sources": [
       {
         "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
@@ -29803,32 +29803,28 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
+        "url": "https://punchdrink.com/articles/leyenda-bar-closing-ivy-mix-cocktails-margarita/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/leyenda-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://drinksint.com/news/fullstory.php/aid/11588/Brooklyn_92s_Leyenda_to_close_at_the_end_of_March.html",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://chilledmagazine.com/julie-reiner-and-ivy-mix-open-leyenda-cocktail-bar/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyc.com/restaurants/leyenda.1298533/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://leyendabk.com/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T16:10:33.103Z"
+    "lastResearchedAt": "2026-05-17T21:48:58.948Z"
   },
   {
     "id": "long-island-bar",
     "name": "The Long Island Bar",
-    "desc": "Restored 1950s Cobble Hill diner pouring impeccable classic cocktails by Cosmo creator Toby Cecchini.",
-    "longDesc": "A landmarked mid-century corner tavern at Atlantic & Henry, reopened in 2013 by Toby Cecchini and Joel Tompkins with the original Formica counters and turquoise neon intact. The short menu is built around precision classics — gimlets squeezed to order, frozen daiquiris, a celebrated Martini — alongside a tight food list of burgers and crudo. Walk-in only, lively but unfussy, and a perfect Clover Club overflow that's a 10-minute walk down Atlantic.",
+    "desc": "Cobble Hill landmark — Toby Cecchini's chrome-and-neon diner reborn as a pristine craft cocktail bar.",
+    "longDesc": "Opened in 1951 as a Spanish-owned diner and reborn in 2013 by Toby Cecchini (inventor of the modern Cosmopolitan) and Joel Tompkins, The Long Island Bar pairs Art Deco chrome, humming neon and red leatherette booths with some of Brooklyn's most exacting cocktails. The menu is tight — perfect Gimlets, Negronis and a famous frozen Mind Eraser — backed by a small comfort-food kitchen (cheeseburger, Bavarian pretzel) that punches well above neighborhood-bar weight. Weekend doors open at 2PM, which is rare for serious cocktail rooms and makes it a natural mid-afternoon anchor on the drive home from Industry City.",
     "url": "https://www.thelongislandbar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -29838,34 +29834,36 @@
       "romantic",
       "foodie"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "13 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "Sat-Sun 14:00-24:00",
-    "notes": "Cocktails by Toby Cecchini (creator of the modern Cosmopolitan) in a landmarked 1950s diner space — gimlets, frozen daiquiris, and a standout Martini (thelongislandbar.com). Walk-ins only, no reservations; expect a wait Fri/Sat after 7pm (theinfatuation.com). Closed Mondays; Tue-Fri opens at 5pm, weekends at 2pm — meaning Saturday afternoon is the easy entry window. Metered street parking on Atlantic and Clinton; the Pierhouse/BAM garages are a short walk if Atlantic is full.",
+    "notes": "Toby Cecchini (modern Cosmopolitan creator) + Joel Tompkins revived the 1951 space in 2013 (thelongislandbar.com). Famed for the frozen Mind Eraser and Gimlet (Punch, Time Out). Address 110 Atlantic Ave at Henry — metered street parking on Atlantic/Henry/Hicks usually available on weekend afternoons; small garage at 73 Atlantic 4 min walk. 2PM Sat/Sun open is a key scheduling edge vs. Leyenda/Clover Club. No reservations — early arrival recommended.",
     "sources": [
       {
         "url": "https://www.thelongislandbar.com/",
-        "accessed": "2026-05-17T16:15:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/the-long-island-bar",
-        "accessed": "2026-05-17T16:15:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/nightlife/the-long-island-bar/",
-        "accessed": "2026-05-17T16:15:00Z"
+        "accessed": "2026-05-17T22:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-long-island-bar-brooklyn",
-        "accessed": "2026-05-17T16:15:00Z"
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/the-long-island-bar",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://punchdrink.com/venues/the-long-island-bar/",
+        "accessed": "2026-05-17T22:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T16:12:32.587Z"
+    "lastResearchedAt": "2026-05-17T21:55:32.000Z"
   },
   {
     "id": "popina",
