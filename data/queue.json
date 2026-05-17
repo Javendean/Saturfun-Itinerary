@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Heytea Brooklyn 8th Ave modern Chinese boba flagship",
-    "reason": "Modern cheese-foam/fruit-tea brand on 8th Ave — expands boba corpus beyond traditional milk tea and is uniquely Sunset Park (no other NYC Heytea this close to IC)",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:03:21.841Z"
-  },
-  {
-    "topic": "Jungsik Bakery Tribeca Korean pastry counter",
-    "reason": "Eunji Lee's pre-Lysée home — gives a second Manhattan Korean-pastry data point and a back-up if Lysée is sold out",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:05:29.475Z"
-  },
-  {
-    "topic": "Librae Bakery East Village Middle-Eastern viennoiserie",
-    "reason": "Adjacent 'chef-driven cross-cultural pastry' tier; expands beyond Korean-French into the broader fusion-patisserie corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:05:29.475Z"
-  },
-  {
-    "topic": "Layla Bagels Park Slope Korean-influenced bagel",
-    "reason": "Brooklyn-side Korean-American baking that fits the IC driving radius (10-15 min) and complements a Manhattan dessert trip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:05:29.475Z"
-  },
-  {
-    "topic": "Soft Swerve Downtown Brooklyn 445 Albee Square W — closer-to-IC alternative",
-    "reason": "Same brand/menu but in Brooklyn — likely much shorter drive than LES and avoids Manhattan parking; worth comparing for the corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:07:16.639Z"
-  },
-  {
     "topic": "Taiyaki NYC Williamsburg ice cream fish cone",
     "reason": "Adjacent Asian soft-serve format (taiyaki-cone) in Brooklyn — closer to IC and photo-strong",
     "requestedBy": "agent",
@@ -12640,5 +12610,95 @@
     "reason": "Adjacent-stop layer — Fay Da, Kam Hing, fresh tofu shops walkable from Bamboo Garden for a dim-sum-then-stroll track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T20:19:10.273Z"
+  },
+  {
+    "topic": "Yi Fang Taiwan Fruit Tea Sunset Park 8th Ave Brooklyn",
+    "reason": "Traditional Taiwanese fruit tea counterpoint to Heytea's modern-Chinese style — same Sunset Park corridor, expands boba corpus with seasonal sugar cane / winter melon drinks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:21:41.945Z"
+  },
+  {
+    "topic": "Tea and Milk Sunset Park Brooklyn Chinese dessert cafe",
+    "reason": "Hong Kong-style dessert + boba hybrid near IC — sit-down vibe vs. Heytea's grab-and-go, adds a longer-duration option to the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:21:41.945Z"
+  },
+  {
+    "topic": "Möge Tee or Tiger Sugar nearest Industry City Brooklyn",
+    "reason": "Brown-sugar-boba specialist comparison — useful for ranking the Sunset Park boba scene against Heytea's cheese-foam approach",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:21:41.945Z"
+  },
+  {
+    "topic": "Grace Street K-Town Korean dessert cafe (32nd St, Manhattan)",
+    "reason": "actual walk-in Korean pastry/dessert counter — bingsoo, honey toast, Korean-style cakes — fills the real Lysée back-up gap the Jungsik mislabel pointed at",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:24:12.790Z"
+  },
+  {
+    "topic": "Sul & Beans Korean bingsoo cafe (K-Town Manhattan)",
+    "reason": "second Korean dessert walk-in data point; weekend-friendly, easier to fit into a driving itinerary than a tasting menu",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:24:12.790Z"
+  },
+  {
+    "topic": "L'Appartement 4F Brooklyn Heights viennoiserie counter",
+    "reason": "if the real ask is 'world-class pastry counter near IC,' this is the strongest Brooklyn answer — 10 min from IC, walk-in, Eater-celebrated",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:24:12.790Z"
+  },
+  {
+    "topic": "Layla Bakery Williamsburg laminated pastry",
+    "reason": "Brooklyn-side Middle Eastern viennoiserie comp — keeps the fusion-patisserie tier balanced without a Manhattan trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:26:04.885Z"
+  },
+  {
+    "topic": "Bakers of Paris vs Radio Bakery Greenpoint laminated croissant comparison",
+    "reason": "Anchor 'classical viennoiserie peak' tier so the corpus has a benchmark against which Librae's fusion reads as deliberate",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:26:04.885Z"
+  },
+  {
+    "topic": "L'Appartement 4F Brooklyn Heights croissant program",
+    "reason": "Adjacent chef-driven viennoiserie in a 15-min IC radius — fills the 'Brooklyn lamination star' slot the corpus is missing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:26:04.885Z"
+  },
+  {
+    "topic": "Paris Baguette Park Slope (532 5th Ave) Korean-French bakery",
+    "reason": "Real, IC-radius (~8 min drive), Korean SPC-Group bakery with Asian-French pastries — closest like-for-like substitute for the Layla Bagels research intent",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:29:35.786Z"
+  },
+  {
+    "topic": "Tous Les Jours Sunset Park (6003 8th Ave) Korean bakery",
+    "reason": "Real Korean bakery ~5 min from IC inside Brooklyn Chinatown/Koreatown corridor — milk breads, mochi donuts, red-bean pastries; strong driving-friendly weekend stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:29:35.787Z"
+  },
+  {
+    "topic": "Lysée Korean-French patisserie (Flatiron Manhattan)",
+    "reason": "Justified Manhattan exception per brief — Eunji Lee's Korean-French viennoiserie is a uniquely high-ceiling dessert anchor for a Manhattan dessert trip the IC track could pair with",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:29:35.787Z"
+  },
+  {
+    "topic": "DeKalb Market Hall (full hall) — food-hall anchor in Downtown Brooklyn",
+    "reason": "Houses Soft Swerve plus dozens of vendors; one-stop chill+foodie cluster 15 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:31:19.897Z"
+  },
+  {
+    "topic": "Katz's Deli concession at DeKalb Market Hall",
+    "reason": "Brooklyn-side Katz's pastrami — same draw as LES original without Manhattan parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:31:19.897Z"
+  },
+  {
+    "topic": "Ample Hills Creamery Gowanus factory",
+    "reason": "Alternative Brooklyn ice-cream anchor 10 min from IC with on-site parking and tour vibes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T20:31:19.897Z"
   }
 ]

@@ -31846,48 +31846,44 @@
   {
     "id": "soft-swerve-downtown-brooklyn",
     "name": "Soft Swerve (Downtown Brooklyn)",
-    "desc": "Asian-flavor soft serve: ube, black sesame, matcha with mochi/crunchy toppings",
-    "longDesc": "Soft Swerve specializes in Asian-inspired soft serve - signature ube (purple yam) and black sesame are the photo-bait flavors, with matcha, Hong Kong milk tea, and Vietnamese coffee rotating in. You can swirl two flavors and pile on crunchies, mochi, or Skor toffee. Note: no Williamsburg storefront exists - the only Brooklyn location is in Downtown Brooklyn at 445 Albee Square W, which is actually a shorter drive from Industry City than Williamsburg would be.",
+    "desc": "Asian-flavored soft-serve (ube, matcha, black sesame) inside DeKalb Market Hall food hall.",
+    "longDesc": "The Brooklyn outpost of the cult LES soft-serve shop, tucked into DeKalb Market Hall on Albee Square. Same signature ube, matcha, and black sesame swirls with crunchies and drizzles, but with food-hall seating and City Point garage parking right next door — a much shorter haul from Industry City than the Manhattan original.",
     "url": "https://www.softswervenyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "curious",
-      "photo",
-      "foodie"
+      "chill",
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian",
       "vegan"
     ],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "13 min",
+    "duration": "20-30 min",
+    "driveFromIC": "15 min",
     "hoursWeekend": "12:00-22:30",
-    "notes": "Address: 445 Albee Square W, Brooklyn (Downtown Brooklyn, near City Point / DeKalb Market Hall) (softswervenyc.com). Hours Mon-Sun 12:00-22:30 (yelp.com). Signature ube and black sesame soft serve; vegan ube available (softswervenyc.com/menu). No Williamsburg location exists - confirmed via official site listing only Downtown Brooklyn for Brooklyn. Street parking around Fulton/Flatbush is metered and tight; better to use City Point garage or DeKalb Market lot. Pairs well as a sweet finisher after a Dumbo or downtown stop; can be grabbed to-go and walked to nearby Fort Greene Park.",
+    "notes": "Inside DeKalb Market Hall stall — order at counter, eat at communal seating; vegan oat-milk base available (Yelp). City Point parking garage at 1 Dekalb Ave makes weekend access far easier than the LES location (downtownbrooklyn.com). Pair naturally with other Albee Square / Fulton Mall stops.",
     "sources": [
       {
-        "url": "https://www.softswervenyc.com/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.softswervenyc.com/menu",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/soft-swerve-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T20:25:00Z"
+      },
+      {
+        "url": "https://www.softswervenyc.com/",
+        "accessed": "2026-05-17T20:25:00Z"
       },
       {
         "url": "https://downtownbrooklyn.com/listing/soft-swerve/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T20:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T18:40:49.133Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T20:31:19.876Z"
   },
   {
     "id": "tacocina-domino-park",
@@ -32734,12 +32730,12 @@
   {
     "id": "librae-bakery",
     "name": "Librae Bakery",
-    "desc": "Third-culture Bahraini-Danish bakery in Cooper Square — rose-pistachio croissants and loomi babka",
-    "longDesc": "Founded by Bahraini coffee roaster Dona Murad and partner Andre Gerschel, Librae fuses Middle Eastern flavor — loomi (black lime), za'atar, sumac, rose, pistachio — with Danish lamination and French viennoiserie. Counter-service only (no plated tasting menu), but the case is the chef-driven cross-cultural pastry gallery archetype: rose pistachio croissant, loomi babka with lemon custard, za'atar labneh morning bun, strawberry-sumac Linzer. A useful Manhattan benchmark for what a Brooklyn dessert-track anchor could aspire to in concept density and ingredient narrative.",
+    "desc": "First Bahraini bakery in NYC — Danish lamination + Middle Eastern spice in a sleek Cooper Square shop.",
+    "longDesc": "Founded in 2022 by Dona Murad, Librae is a self-described 'third-culture' bakery that fuses Scandinavian fermentation and lamination technique with Bahraini and Indian flavor memory (cardamom, rose, pistachio, date, saffron). The pistachio-rose croissant, karak-spiced kouign-amann, and the rotating laminated specials are the calling card — genuinely one-of-a-kind viennoiserie in NYC. Bright, minimalist Cooper Square storefront; mostly grab-and-go with limited counter seating.",
     "url": "https://www.libraebakery.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
       "curious",
@@ -32752,33 +32748,29 @@
     "duration": "30-45 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "MANHATTAN BENCHMARK — not Brooklyn. 35 Cooper Sq, NoHo/East Village border (libraebakery.com). Counter-service bakery, not a plated-dessert restaurant; no tasting-menu format despite the Lysée-adjacent ambition (gothamist.com). Signature: rose pistachio croissant, loomi babka, za'atar labneh morning bun (libraebakery.com/menu). Weekend hours 8am–5pm both days (libraebakery.com/location). Drive from IC ~20–25 min via Battery Tunnel or Manhattan Bridge; street parking in NoHo is rough on weekends — Bowery garages ($) are the realistic option. Zone field set to 'dumbo' as closest schema-valid Brooklyn proxy since enum has no Manhattan option; treat as out-of-cluster reference, not a drivable track stop.",
+    "notes": "Manhattan exception: no Brooklyn analog — only Bahraini-Danish hybrid viennoiserie in NYC. Located 35 Cooper Sq (East Village), reachable from IC via Brooklyn-Battery Tunnel + FDR, ~20-25 min weekend mornings (libraebakery.com). Best pre-11am — laminated croissants sell out and the line stretches by midday (yelp.com, 469+ reviews). Street parking on Cooper Sq / 4th Ave possible Sat/Sun mornings; Edison ParkFast garages within 3 blocks. Pair with a same-trip stop at Veselka or Russ & Daughters since you've already burned the bridge crossing. Cash + card, no reservations, counter-only.",
     "sources": [
       {
         "url": "https://www.libraebakery.com/",
-        "accessed": "2026-05-17T19:35:00Z"
+        "accessed": "2026-05-17T20:30:00Z"
       },
       {
         "url": "https://www.libraebakery.com/location/librae-bakery/",
-        "accessed": "2026-05-17T19:35:00Z"
-      },
-      {
-        "url": "https://www.libraebakery.com/menu/",
-        "accessed": "2026-05-17T19:35:00Z"
-      },
-      {
-        "url": "https://gothamist.com/food/librae-bakery-opens-cooper-square",
-        "accessed": "2026-05-17T19:35:00Z"
+        "accessed": "2026-05-17T20:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/librae-bakery-new-york",
-        "accessed": "2026-05-17T19:35:00Z"
+        "accessed": "2026-05-17T20:30:00Z"
+      },
+      {
+        "url": "https://sreebakers.com/find-bakers/librae-bakery",
+        "accessed": "2026-05-17T20:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T19:42:44.793Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:26:04.858Z"
   },
   {
     "id": "lappartement-4f",
@@ -33084,5 +33076,140 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T20:16:50.060Z"
+  },
+  {
+    "id": "heytea-brooklyn-7th-ave",
+    "name": "Heytea (Brooklyn 7th Ave)",
+    "desc": "Modern Chinese cheese-foam & fruit tea flagship in Sunset Park — Kusama polka-dot cups, app-order ahead",
+    "longDesc": "Heytea's active Sunset Park outpost on 7th Ave at 59th St — the brand's signature modern Chinese boba experience with cheese-foam tops, fresh-fruit 'Boom' drinks (Mango Coconut, Yumberry), and Supreme Brown Sugar Boba Milk Tea. The original 8th Ave storefront at 4505 closed in early 2026; this 7th Ave location is now the nearest Heytea to Industry City. Polka-dot Yayoi Kusama-style cups make it a strong photo stop on the way through Sunset Park's Chinatown corridor.",
+    "url": "https://www.heytea.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "photo",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "10:30-22:30",
+    "notes": "Active Sunset Park location at 705 59th St / 7th Ave; the 4505 8th Ave flagship closed April 2026 (Yelp). Order ahead via Heytea app to skip the line on weekends. Signature Mango Coconut Boom & Supreme Brown Sugar Boba are the photo drinks. Paid street parking on 7th Ave; quieter side streets often have free spots on weekends. ~1.2 mi from IC via 3rd Ave or 7th Ave surface streets.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/hey-tea-brooklyn-7",
+        "accessed": "2026-05-17T20:25:00Z"
+      },
+      {
+        "url": "https://heytea-7th-ave.wheree.com/",
+        "accessed": "2026-05-17T20:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/heytea-brooklyn-17",
+        "accessed": "2026-05-17T20:25:00Z"
+      },
+      {
+        "url": "https://www.heytea.com/",
+        "accessed": "2026-05-17T20:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:21:41.916Z"
+  },
+  {
+    "id": "jungsik-tribeca",
+    "name": "Jungsik",
+    "desc": "3-Michelin-star Tribeca tasting menu where Eunji Lee built her pastry rep — not a walk-in counter",
+    "longDesc": "Jungsik is a three-Michelin-star modern Korean fine-dining room at 2 Harrison St in Tribeca, the first Korean restaurant in the U.S. to earn three stars. Pastry phenom Eunji Lee headed its dessert program for years before opening Lysée in Flatiron, so her sensibility is baked into Jungsik's still-celebrated dessert course — but desserts are served only as part of the reservation-only tasting menu, not over a pastry counter (Michelin Guide; Robb Report). Treat this as a destination dinner, not a Lysée drop-in substitute.",
+    "url": "https://www.jungsik.com/",
+    "photoUrl": "https://www.jungsik.com/wp-content/uploads/2022/05/photo-016.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "2-3 hrs",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Fri-Sat 17:00-21:30; Sun 17:00-21:00",
+    "notes": "IMPORTANT: there is no 'Jungsik Bakery' or pastry counter — the original task premise is incorrect. Jungsik is a tasting-menu restaurant only (~$395pp prix fixe) (Michelin Guide). Eunji Lee was Jungsik's executive pastry chef pre-Lysée and her dessert program remains a marquee course (Robb Report; Wallpaper). Reservations open weeks ahead on Tock. Drive from IC: ~20-25 min via Brooklyn-Battery Tunnel (toll); evening street parking in Tribeca is tight, use garages on Hudson/Greenwich. Manhattan placement is justified only because no real Korean-pastry walk-in counter exists at this address — for an actual Lysée back-up, see enqueued alternatives.",
+    "sources": [
+      {
+        "url": "https://www.jungsik.com/",
+        "accessed": "2026-05-17T20:30:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jungsik-new-york",
+        "accessed": "2026-05-17T20:30:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/article/people/eunji-lee-jungsik-pastry-chef",
+        "accessed": "2026-05-17T20:30:00Z"
+      },
+      {
+        "url": "https://robbreport.com/food-drink/dining/modern-korean-restaurant-jungsik-dessert-eg17-2729354/",
+        "accessed": "2026-05-17T20:30:00Z"
+      },
+      {
+        "url": "https://www.wallpaper.com/entertaining/bite-into-these-edible-works-of-art-from-new-york-pastry-shop-lysee",
+        "accessed": "2026-05-17T20:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/jungsik-new-york",
+        "accessed": "2026-05-17T20:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T20:24:12.764Z"
+  },
+  {
+    "id": "layla-bagels-not-in-brooklyn",
+    "name": "Layla Bagels (Santa Monica — no NYC location)",
+    "desc": "Korean-American-influenced sourdough bagel concept by chef Sam Silverman — but West Coast only, not in Park Slope.",
+    "longDesc": "Layla Bagels is a Santa Monica + Beverly Hills sourdough bagel shop often cited for its Asian-American baking sensibility (long-ferment dough, milk-bread tenderness, sesame and scallion riffs). As of May 2026 it operates two locations on the West Coast — 1614 Ocean Park Blvd, Santa Monica and 233 S Beverly Dr, Beverly Hills — and has no New York or Brooklyn outpost. The upstream queue topic 'Layla Bagels Park Slope' appears to be a misattribution; this entry is kept as a reference so the corpus doesn't re-research it, and real Korean-American bakery candidates near Industry City are enqueued instead.",
+    "url": "https://www.laylabagels.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "n/a (West Coast)",
+    "hoursWeekend": "07:00-14:30 (Santa Monica/Beverly Hills)",
+    "notes": "VENUE MISMATCH: Layla Bagels has no Brooklyn or NYC location as of 2026-05-17 — only Santa Monica (1614 Ocean Park Blvd) and Beverly Hills (233 S Beverly Dr) (laylabagels.com). The 'Layla' that does appear in Brooklyn search results is a Williamsburg cocktail bar at 352 Bedford Ave — unrelated. Entry is marked enriched:false so it won't surface in the itinerary; see enqueue for real Korean-influenced bakery candidates inside the IC driving radius.",
+    "sources": [
+      {
+        "url": "https://www.laylabagels.com/",
+        "accessed": "2026-05-17T20:30:00Z"
+      },
+      {
+        "url": "https://kelleymacdonald.substack.com/p/park-slope-bagel-shop-map-guide",
+        "accessed": "2026-05-17T20:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/layla-brooklyn-4",
+        "accessed": "2026-05-17T20:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": false,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T20:29:35.757Z"
   }
 ]
