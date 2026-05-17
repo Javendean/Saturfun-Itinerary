@@ -2595,48 +2595,45 @@
   {
     "id": "hometown-bar-b-que-red-hook",
     "name": "Hometown Bar-B-Que",
-    "desc": "Texas-style smoked brisket and ribs in a Red Hook warehouse with weekend live music.",
-    "longDesc": "Pitmaster Billy Durney's flagship Red Hook smokehouse turns out post-oak-smoked brisket, pork spare ribs, lamb belly banh mi, and jalapeño-cheddar sausage from a counter service line that runs until they sell out. The cavernous Van Brunt warehouse seats big groups, pours bourbon and frozen margaritas, and books live country, blues, and bluegrass bands on weekend nights — making it the strongest evening anchor inside the Red Hook cluster before a Sunny's jam.",
+    "desc": "Pitmaster Billy Durney's Texas-style smokehouse anchoring Van Brunt St in Red Hook.",
+    "longDesc": "Counter-service Texas BBQ from Billy Durney serving fall-apart brisket, Korean-glazed sticky ribs, lamb belly banh mi and jalapeño-cheddar sausage cut to order by the pound. Cavernous Red Hook warehouse with picnic-table seating, full bar, and live music most weekend nights — walk-up only, sells out when the meat runs out. Michelin Guide listed; one of the few NYC BBQ spots that legitimately competes with Central Texas.",
     "url": "https://hometownbbq.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "12:00-23:00",
-    "notes": "454 Van Brunt St, Brooklyn, NY 11231 (Yelp). Sat/Sun 12pm-11pm; Tue-Thu/Sun 12pm-10pm; closed Mon (WebSearch synthesis). Walk-up counter service, first-come first-served until sellout — arrive before 7pm on Saturdays or expect a wait (hometownbbq.com). Free street parking on Van Brunt/Reed plus the adjacent Fairway/Food Bazaar lot — the entrance is on Reed St overlooking that lot (search synthesis). Weekend live music in the back bar. ~6-8 min drive from Industry City via Van Brunt. Pairs naturally with a Sunny's Bar nightcap (Conover St, 3 min further down Van Brunt).",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri-Sat 12:00-23:00, Sun 12:00-22:00",
+    "notes": "454 Van Brunt St; counter-service walk-up only — no pickup/delivery from Red Hook (those route to the IC location) (hometownbbq.com/locations). Order by the pound; arrive earlier rather than later as popular cuts (brisket, beef rib) sell out (yelp.com). Live music on weekends adds a low-key roadhouse feel (visitbrooklyn.nyc). Listed in the MICHELIN Guide (guide.michelin.com).",
     "sources": [
       {
-        "url": "https://hometownbbq.com/",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://hometownbbq.com/menu-rh",
-        "accessed": "2026-05-17"
+        "url": "https://hometownbbq.com/locations",
+        "accessed": "2026-05-17T16:32:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-17T16:32:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-17T16:32:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/hometown-bar-b-que-red-hook/",
-        "accessed": "2026-05-17"
+        "url": "https://visitbrooklyn.nyc/eatanddrink/hometown-bar-b-que",
+        "accessed": "2026-05-17T16:32:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T16:31:29.579Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:42:33.870Z"
   },
   {
     "id": "frankies-457-spuntino",
@@ -16083,45 +16080,44 @@
   {
     "id": "red-hook-winery",
     "name": "The Red Hook Winery",
-    "desc": "Pier 41 urban winery making single-vineyard NY wines; weekend flights right on the harbor.",
-    "longDesc": "Tucked into the same Pier 41 warehouse complex as Steve's Authentic Key Lime Pies, Red Hook Winery vinifies grapes from Long Island and the Finger Lakes inside a working Brooklyn waterfront facility. Walk-in à la carte flights ($20, 90 min) and guided six-wine private tastings ($45, ~60 min) run Friday–Sunday with views of barrels, tanks, and the harbor. A natural 'drinks' anchor that pairs with Steve's, Hometown BBQ, and Brooklyn Crab inside the Red Hook geographic cluster.",
+    "desc": "Pier 41 urban winery making single-vineyard NY wines; harbor-view tasting room with flights and snacks.",
+    "longDesc": "Tucked inside a working warehouse on Pier 41, Red Hook Winery vinifies Long Island and Finger Lakes fruit on-site and pours flights, glasses, and bottles in a tasting room overlooking the East River and Statue of Liberty. Weekend visits are reservation-friendly ($20 per guest, 90 minutes, applied as credit toward your bill) and pair well with charcuterie before walking to Sunny's, Hometown BBQ, or the Pier 44 waterfront.",
     "url": "https://redhookwinery.com/tastingroom",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "curious",
-      "romantic"
+      "romantic",
+      "curious"
     ],
     "dietary": [
       "vegetarian",
-      "vegan",
       "gluten-free"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Fri 12:00-20:00, Sat 12:00-20:00, Sun 12:00-18:00",
-    "notes": "Address: 175 Van Dyke St, Pier 41 Suite 325A, Brooklyn 11231 — same pier as Steve's Key Lime, walkable to Hometown BBQ and Brooklyn Crab (redhookwinery.com/tastingroom). À la carte flight $20 + tax / Private tasting $45 + tax for six wines. Reservations recommended for private, walk-ins fine for à la carte. Pier 41 has free street + lot parking on weekends. Cluster well with a Steve's pie stop and a Valentino Pier sunset walk.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri-Sat 12:00-20:00, Sun 12:00-18:00",
+    "notes": "Address 175 Van Dyke St, Pier 41, Suite 325A (redhookwinery.com/tastingroom). À la carte reservation $20/guest applied as credit; Private Tasting (6 wines, guided, ~60 min) $45/guest with 10% retail discount; Barrel Room + Winery Tour add-on $30/guest returning Summer 2026 (redhookwinery.com). Free street parking on Van Dyke / Conover is usually findable on weekends; the pier itself has limited gated parking. Flows naturally into Sunny's Bar (Conover St, ~5 min walk) or Hometown BBQ for a Red Hook track anchor.",
     "sources": [
       {
         "url": "https://redhookwinery.com/tastingroom",
-        "accessed": "2026-05-17T16:25:00Z"
+        "accessed": "2026-05-17T16:35:00Z"
       },
       {
-        "url": "https://redhookwinery.com/",
-        "accessed": "2026-05-17T16:25:00Z"
+        "url": "https://redhookwinery.com/faqs",
+        "accessed": "2026-05-17T16:35:00Z"
       },
       {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/red-hook-winery",
-        "accessed": "2026-05-17T16:25:00Z"
+        "url": "https://www.yelp.com/biz/the-red-hook-winery-brooklyn",
+        "accessed": "2026-05-17T16:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T16:23:08.582Z"
+    "lastResearchedAt": "2026-05-17T16:33:25.981Z"
   },
   {
     "id": "fort-defiance",
@@ -29999,5 +29995,139 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T16:29:37.477Z"
+  },
+  {
+    "id": "kentler-international-drawing-space",
+    "name": "Kentler International Drawing Space",
+    "desc": "Free Red Hook nonprofit gallery dedicated to contemporary drawing and works on paper",
+    "longDesc": "Founded in 1990 inside a 19th-century storefront on Van Brunt Street, Kentler is a nonprofit gallery showcasing international contemporary drawing and works on paper alongside its renowned Flatfiles archive of 200+ artists. Quiet, intimate, and free — a perfect curious-vibe pairing with nearby Pioneer Works to deepen a Red Hook art cluster.",
+    "url": "https://www.kentlergallery.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "12:00-17:00 (Thu-Sun, during exhibitions)",
+    "notes": "Free admission, nonprofit drawing space at 353 Van Brunt St, Red Hook (kentlergallery.org). Open Thursday-Sunday 12-5pm during active exhibitions (kentlergallery.org). Phone 718.875.2098 (yelp.com). Street parking generally available in Red Hook on weekends. Pairs naturally with Pioneer Works (8-min walk) for a curious-vibe art cluster. Confirm current show is on view before visiting since hours are exhibition-dependent.",
+    "sources": [
+      {
+        "url": "https://www.kentlergallery.org/",
+        "accessed": "2026-05-17T16:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kentler-international-drawing-space-brooklyn",
+        "accessed": "2026-05-17T16:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/kentler-international-drawing-space-red-hook/",
+        "accessed": "2026-05-17T16:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:35:11.974Z"
+  },
+  {
+    "id": "bwac-red-hook",
+    "name": "Brooklyn Waterfront Artists Coalition (BWAC)",
+    "desc": "Red Hook artist coalition — historic Beard St gallery destroyed in 2025 fire, now nomadic pop-ups",
+    "longDesc": "BWAC's 25,000-sq-ft Civil War-era warehouse gallery at 481 Van Brunt (Beard Street Pier) was gutted by a five-alarm fire on Sept 17, 2025; the building is uninhabitable for years and BWAC's lease was terminated. The 40+ year-old artist coalition is now running nomadic pop-up exhibitions and workshops while hunting for a permanent space in Sunset Park, with plans to partner more closely with Pioneer Works and the Brooklyn Museum.",
+    "url": "https://www.bwac.org/events",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "1-2 hr (event-dependent)",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "pop-up only — check bwac.org/events",
+    "notes": "GUARDRAIL: Do NOT route users to 481 Van Brunt St — building destroyed in Sept 17, 2025 five-alarm fire and uninhabitable for years (Hyperallergic, Brooklyn Paper, Brooklyn Eagle). BWAC is currently nomadic: next confirmed event is the 'Storybook Chair' workshop at St. Lydia's, 304 Bond St, on May 25, 2026, 6–9pm (bwac.org/events). Coalition is searching for a Sunset Park home and pursuing pop-up partnerships with Pioneer Works (Brooklyn Paper). Only pair this entry with Pioneer Works in an art-crawl itinerary when bwac.org/events lists an active Red Hook pop-up; otherwise substitute Kentler International Drawing Space (353 Van Brunt) as the BWAC stand-in.",
+    "sources": [
+      {
+        "url": "https://www.bwac.org/events",
+        "accessed": "2026-05-17T16:45:00Z"
+      },
+      {
+        "url": "https://www.bwac.org/contact",
+        "accessed": "2026-05-17T16:45:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/bwac-searches-new-home-after-fire/",
+        "accessed": "2026-05-17T16:45:00Z"
+      },
+      {
+        "url": "https://hyperallergic.com/fire-tears-through-iconic-artist-building-in-brooklyn/",
+        "accessed": "2026-05-17T16:45:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/arts-entertainment/from-ashes-to-light-brooklyn-arts-group-rebounds-after-a-fire-12242774",
+        "accessed": "2026-05-17T16:45:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2025/09/18/massive-fire-destroys-historic-red-hook-artist-warehouse",
+        "accessed": "2026-05-17T16:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T16:38:10.768Z"
+  },
+  {
+    "id": "photoville-festival-2026",
+    "name": "Photoville Festival",
+    "desc": "Free outdoor photography festival in shipping containers under the Brooklyn Bridge (May 16-30, 2026).",
+    "longDesc": "Annual free open-air photo festival now in its 15th year, with 85+ exhibitions across NYC and a main village of shipping-container galleries under the Brooklyn Bridge in DUMBO. Opening weekend (May 16-17) runs noon-10pm with hands-on workshops, artist talks, panels, photo walks, and a Smorgasburg pop-up; after that, containers are open noon-6pm Fri-Sun through May 30. Free admission, $5 suggested donation.",
+    "url": "https://photoville.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "12:00-22:00 (opening wknd May 16-17); 12:00-18:00 (May 22-30)",
+    "notes": "TIME-BOUND: Festival runs May 16-30, 2026 only — drop from itineraries after May 30 (re-enable May 2027). Location: 11 Water St, Brooklyn NY 11201 under the Brooklyn Bridge (Photoville FAQ). Opening weekend extends hours to 10pm with Boroughs In Focus bridge projection Sat 7:30-9pm (amNY). Wheelchair ramps available on request at info booth. Parking is tough in DUMBO — Brooklyn Bridge Park Pier 6 paid lot or street parking on Plymouth/Front; allow 5-10 extra min vs drive time. Red Hook Labs at 133 Imlay was the original adjacent ask but is permanently CLOSED as of Oct 2025 (Yelp) — do not re-add to corpus.",
+    "sources": [
+      {
+        "url": "https://photoville.nyc/faq/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://photoville.nyc/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://helpnewyork.com/free-events-nyc-weekend-may-16-17-2026/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.amny.com/news/photoville-celebrates-15-years-with-citywide-festival-across-brooklyn-and-nyc/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/red-hook-labs-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:40:34.963Z"
   }
 ]
