@@ -5643,8 +5643,8 @@
   {
     "id": "time-out-market-dumbo",
     "name": "Time Out Market New York (DUMBO)",
-    "desc": "21,000 sqft food hall in Empire Stores with rooftop views of the Brooklyn and Manhattan Bridges.",
-    "longDesc": "Time Out Market occupies two floors of the historic Empire Stores warehouse at 55 Water St, plus a fifth-floor rooftop terrace looking straight at both bridges. Roughly 21 vendors curated from NYC's best chefs (Julianna's Pizza, Mr. Taka Ramen, Jacob's Pickles, Avocaderia, Pat LaFrieda, Clinton St. Bakery, Felice, Alta Calidad) plus 3 bars and a live-music stage — walk-in only, grab food first then chase a rooftop table. Ideal post-Pier 2 refuel: indoor, fast, group-friendly, and the views read like a postcard.",
+    "desc": "24,000 sqft food hall in Empire Stores — 21 vendors, 3 bars, 5th-floor rooftop with bridge views",
+    "longDesc": "Curated two-story food hall on the 1st and 5th floors of the historic Empire Stores warehouse at 55 Water St. The lineup pulls Time Out NY's top picks under one roof — Fornino pizza, Mr. Taka ramen, Jacob's Pickles fried chicken, Ess-a-Bagel, Felice pasta, Avocaderia, DŌ cookie dough — plus a rooftop terrace looking straight at the Brooklyn and Manhattan Bridges. Open from 8am for breakfast which makes it a flexible meal anchor for the DUMBO photo track.",
     "url": "https://www.timeout.com/time-out-market-new-york",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5660,35 +5660,35 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 08:00-23:00, Sun 08:00-22:00",
-    "notes": "Located inside Empire Stores at 55 Water St, Brooklyn (timeout.com). Two floors + 5th-floor rooftop with Brooklyn/Manhattan Bridge views (nyctourism.com). All seating first-come, first-served — fastest path is order downstairs then scout rooftop tables (loving-newyork.com). Vegan-friendly via Avocaderia and BKLYN Wild; multiple gluten-aware options across stalls. Parking in DUMBO is rough on weekends — easiest plan is the Empire Stores valet lot or the metered spots along Plymouth/Pearl; on a Saturday afternoon expect to circle. 12-min drive from Industry City via Gowanus Expy to Old Fulton off-ramp.",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 8:00-23:00; Sun 8:00-22:00",
+    "notes": "Empire Stores street parking is tight, but 1,200+ off-street spaces sit within two blocks; 100 Jay St garage is the reliable paid backup (empirestoresdumbo.com/visit-us). Rooftop crowds peak at sunset — late afternoon arrival lets you eat downstairs then move up for golden hour over the bridges (timeout.com FAQs). 21 vendors + 3 bars under one roof means the group can split orders without leaving the building (gothamist.com). Pairs naturally with a Brooklyn Bridge Park / Pebble Beach photo walk before or after.",
     "sources": [
       {
-        "url": "https://www.timeout.com/time-out-market-new-york",
-        "accessed": "2026-05-16T12:15:00Z"
+        "url": "https://www.timeout.com/time-out-market-new-york/faqs",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.empirestoresdumbo.com/visit-us",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
-        "accessed": "2026-05-16T12:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/time-out-market-new-york/",
-        "accessed": "2026-05-16T12:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://loving-newyork.com/time-out-market-nyc/",
-        "accessed": "2026-05-16T12:15:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/time-out-market-new-york-brooklyn",
-        "accessed": "2026-05-16T12:15:00Z"
+        "url": "https://gothamist.com/food/enormous-time-out-market-opens-in-dumbo-with-a-stellar-line-up-of-restaurants",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T12:19:53.432Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:26:28.557Z"
   },
   {
     "id": "pier-2-brooklyn-bridge-park",
@@ -10794,45 +10794,41 @@
   {
     "id": "janes-carousel-dumbo",
     "name": "Jane's Carousel",
-    "desc": "Restored 1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge — iconic DUMBO photo subject.",
-    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel with 48 hand-carved horses, housed in an acrylic jewel-box pavilion designed by Jean Nouvel right on the East River. The transparent enclosure frames the Brooklyn Bridge, Manhattan skyline, and Pebble Beach view, making it one of the most photographed micro-spots in NYC. Rides are $2; entry to the surrounding Brooklyn Bridge Park is free, so the stop doubles as a 20-30 min photo walk including the cobblestone Empire Fulton Ferry lawn.",
+    "desc": "Restored 1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge.",
+    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel (PTC No. 61) with 48 carved horses and two chariots, rescued from Idora Park in Youngstown, Ohio and brought back to life by Jane Walentas. It spins inside a Jean Nouvel-designed glass pavilion in the Empire Fulton Ferry section of Brooklyn Bridge Park, framing the Manhattan Bridge and East River — a postcard composition by day and a glowing lantern at night. $4 per ride, weather-proof, and the perfect rainy-day backup or photo follow-up to a Pebble Beach walk two minutes away.",
     "url": "https://janescarousel.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "photo",
-      "romantic",
-      "chill"
+      "chill",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "11:00-18:00",
-    "notes": "Open Thu-Sun 11am-6pm in the Sep 18-May 13 winter season; Wed-Mon 11am-7pm May 14-Sep 18; closed Tuesdays (janescarousel.com/hours). Rides $2 each, free for kids 3 & under with paying adult. Park entry is free. Parking is limited — best options are the LAZ garage at 90 Furman St (Pier 1) or City Parking at 360 Furman St (Pier 6); on-street metered spots near Pier 2 are 3-hr max and fill fast on weekends (brooklynbridgepark.org). Pair with Pebble Beach (literally adjacent) and a walk to Time Out Market or Brooklyn Heights Promenade. Glass pavilion makes it work in light rain.",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "10:00-18:50 (summer); 11:00-17:50 off-season",
+    "notes": "Closed Tuesdays year-round; closed Mon+Tue in fall/spring; closed Mon-Wed in winter (janescarousel.com/hours). $4 per ride, SNAP/EBT discount available. One adult + one child under 42\" can share a ticket. Two-minute walk from Pebble Beach makes this an ideal back-to-back stop on the DUMBO leg. Glass pavilion is climate-controlled — works as a rain backup. Parking is brutal in DUMBO; use LAZ near Pier 1 or City Parking near Pier 6 (brooklynbridgepark.org). ADA accessible. Best photos at blue-hour when the pavilion glows and the bridges silhouette behind it.",
     "sources": [
       {
         "url": "https://janescarousel.com/hours/",
-        "accessed": "2026-05-16T12:05:00Z"
+        "accessed": "2026-05-17T06:30:00Z"
+      },
+      {
+        "url": "https://janescarousel.com/history/",
+        "accessed": "2026-05-17T06:30:00Z"
       },
       {
         "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
-        "accessed": "2026-05-16T12:05:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/attractions-tours/janes-carousel/",
-        "accessed": "2026-05-16T12:05:00Z"
-      },
-      {
-        "url": "https://janescarousel.com/directions/location/",
-        "accessed": "2026-05-16T12:05:00Z"
+        "accessed": "2026-05-17T06:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:05:58.840Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:28:44.926Z"
   },
   {
     "id": "pebble-beach-dumbo",
@@ -24325,5 +24321,126 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T06:22:21.861Z"
+  },
+  {
+    "id": "empire-fulton-ferry-lawn",
+    "name": "Empire Fulton Ferry Lawn",
+    "desc": "Wide-open DUMBO lawn between the Brooklyn and Manhattan bridges — picnic-perfect with Jane's Carousel beside it",
+    "longDesc": "A grassy expanse in Brooklyn Bridge Park framed by the Brooklyn and Manhattan bridges, with the restored Jane's Carousel and the harbor skyline as backdrop. Picnic tables in the adjacent Picnic Grove are first-come, first-served, and the lawn opens on weekends (it closes Tuesdays and Thursdays for turf rest). The shoreline path links straight to Pebble Beach and the Empire Stores arcade for snacks if you didn't pack.",
+    "url": "https://brooklynbridgepark.org/places-to-see/lawns/empire-fulton-ferry-lawn/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Lawn closed Tue/Thu for turf recovery; open Sat/Sun (brooklynbridgepark.org). Picnic Grove tables first-come, first-served, no reservation (brooklynbridgepark.org). Restrooms 7am-11pm Mar-Oct. Weekend parking: paid lots on Pearl St + Front St; street parking tight near Main St entrance — arrive before 11am or after 4pm. Jane's Carousel and Pebble Beach are <2 min walk for the wider Brooklyn Bridge photo angle.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/lawns/empire-fulton-ferry-lawn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/empire-fulton-ferry/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgeparents.com/empire-fulton-ferry-lawn-in-brooklyn-bridge-park-reopen/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:30:46.248Z"
+  },
+  {
+    "id": "one-girl-cookies-cobble-hill",
+    "name": "One Girl Cookies (Dean Street)",
+    "desc": "Vintage-tin cookies, layer cakes, and Partners Coffee espresso in a tucked-away Cobble Hill cafe.",
+    "longDesc": "The DUMBO Main Street cafe has closed, leaving 68 Dean Street as the sole brick-and-mortar — a small, pressed-tin-ceilinged bakery known for boxed petite cookies, whoopie pies, and Brooklyn Blackout cake. Pulls espresso on Partners Coffee beans, with a tight pastry case and a few cafe tables; works as a quick sit-down sweet stop on a Cobble Hill / Brooklyn Heights loop.",
+    "url": "https://onegirlcookies.com/cafe-menu/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 9:00-18:00, Sun 9:00-17:00",
+    "notes": "Original DUMBO Main St shop is permanently closed per Yelp listing tag and the brand's site, which now lists only 68 Dean St (source: onegirlcookies.com/cafe-menu, Yelp). Street parking is feasible on weekends around Smith/Hoyt; not ideal for a strict DUMBO walking loop but a strong substitute. Partners Coffee espresso program confirmed (source: onegirlcookies.com). For a true DUMBO dessert anchor, see enqueue alternates.",
+    "sources": [
+      {
+        "url": "https://onegirlcookies.com/cafe-menu/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/one-girl-cookies-brooklyn-8",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/one-girl-cookies-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:32:52.381Z"
+  },
+  {
+    "id": "devocion-dumbo",
+    "name": "Devoción DUMBO",
+    "desc": "Farm-fresh Colombian single-origin in a skylit, plant-draped DUMBO warehouse — caffeine balance to the chocolate stop.",
+    "longDesc": "Devoción's DUMBO flagship at 105 York St roasts beans within ~10 days of leaving Colombia, dramatically fresher than the industry standard. The 20-ft-ceiling space pairs concrete floors and exposed piping with Colombian hardwood and cascading planters — a third-wave room that photographs as well as it pours. Sits ~3 blocks from Jacques Torres Chocolate, so the espresso↔chocolate pairing is a single short walk inside the same DUMBO block-cluster.",
+    "url": "https://www.devocion.com/pages/coffee-shop-dumbo-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "07:30-18:00",
+    "notes": "Substitution: original target Brooklyn Roasting Company Jay St (25 Jay St) is permanently closed per Yelp April 2026 update and is not on BRC's current store list (brooklynroasting.com/pages/our-stores lists only Flushing Ave, One Clinton, and Metropolitan Ave). Devoción DUMBO is the strongest still-operating third-wave coffee anchor in the same 2-block DUMBO cluster as Jacques Torres. Expect a line 9-11am on weekends; the room is laptop-tolerant but better treated as a 30-min espresso/photo stop than a long sit. Parking: street parking on York/Front is realistic on weekends but tight; Pearl St Triangle and metered York St curb are nearest reliable options.",
+    "sources": [
+      {
+        "url": "https://www.devocion.com/pages/coffee-shop-dumbo-brooklyn",
+        "accessed": "2026-05-17T06:30:00Z"
+      },
+      {
+        "url": "https://www.brooklynroasting.com/pages/our-stores",
+        "accessed": "2026-05-17T06:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-roasting-company-brooklyn-2",
+        "accessed": "2026-05-17T06:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:35:52.261Z"
   }
 ]
