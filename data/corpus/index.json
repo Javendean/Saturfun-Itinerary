@@ -14108,8 +14108,8 @@
   {
     "id": "oxomoco-greenpoint",
     "name": "Oxomoco",
-    "desc": "Michelin-starred wood-fired Mexican in Greenpoint — aguachile, masa tortillas, mezcal program",
-    "longDesc": "Chef Justin Bazdarich's airy Greenpoint dining room earns its Michelin star with wood-fired Mexican cooking — aguachile, hand-pressed masa tacos, charred octopus tostadas, and a deep mezcal/tequila list. Open daily for both brunch and dinner, with a leafy back patio that photographs beautifully in afternoon light. A direct quality peer to Claro for Oaxacan-leaning fine dining, just a longer drive north from Industry City.",
+    "desc": "Michelin-starred wood-fired Mexican in a sun-drenched Greenpoint courtyard space.",
+    "longDesc": "Justin Bazdarich's (Speedy Romeo) Michelin-starred Mexican spot has held its star since 2018, built around a wood-fired hearth in a foliage-filled, white-washed room on Greenpoint Ave. The kitchen ranges across regional Mexico — wood-grilled tacos with chanterelles or the day's catch, tropical hamachi aguachile, smoky tlayudas — pairing the seriousness of a starred dining room with a loose, daylight-bright vibe. Five-minute walk to Wenwen on Manhattan Ave, anchoring the Greenpoint dinner track.",
     "url": "https://www.oxomoconyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -14117,35 +14117,38 @@
     "vibe": [
       "foodie",
       "romantic",
-      "photo"
+      "curious"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$$",
-    "duration": "90-120 min",
+    "duration": "90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "11:00-15:00, 17:00-22:00",
-    "notes": "One Michelin star retained in 2025 guide (guide.michelin.com). Brunch Sat-Sun 11am-3pm; dinner daily 5-10pm (oxomoconyc.com). Wood-fired oven defines the menu — order the lamb barbacoa and tlayudas. Resy required for weekend dinner; brunch easier. Street parking on Greenpoint Ave and side streets viable after 11am Sat/Sun. ~22 min via BQE from Industry City off-peak.",
+    "notes": "Michelin-starred since 2018; wood-fired Mexican across regional styles, tacos are the headline draw (Michelin Guide). Address 128 Greenpoint Ave, Brooklyn, NY 11222 (oxomoconyc.com). Weekend service splits into brunch/lunch 11-3 and dinner 5-10 — book the 5 PM dinner via Resy and walk to Wenwen on Manhattan Ave after. Street-only parking, allow 10-15 min to circle residential blocks; weekend drive from IC ~22 min via BQE/Pulaski Bridge. Vegetarian-friendly (mushroom tacos, vegetable-forward small plates); not strictly halal/GF without menu coordination.",
     "sources": [
       {
-        "url": "https://www.oxomoconyc.com/",
-        "accessed": "2026-05-16T16:00:00Z"
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/oxomoco",
+        "accessed": "2026-05-17T19:30:00Z"
       },
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/oxomoco",
-        "accessed": "2026-05-16T16:00:00Z"
+        "url": "https://www.oxomoconyc.com/",
+        "accessed": "2026-05-17T19:30:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/oxomoco",
+        "accessed": "2026-05-17T19:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/oxomoco-brooklyn-2",
-        "accessed": "2026-05-16T16:00:00Z"
+        "accessed": "2026-05-17T19:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T15:52:31.778Z"
+    "lastResearchedAt": "2026-05-17T19:34:20.672Z"
   },
   {
     "id": "insa-korean-bbq-gowanus",
@@ -15375,42 +15378,39 @@
   {
     "id": "soft-swerve-les",
     "name": "Soft Swerve",
-    "desc": "Asian-flavored soft serve shop — ube, black sesame, matcha — quick-stop counter on Allen St.",
-    "longDesc": "A tiny LES storefront that turned Asian-inspired soft serve into a NYC staple: signature flavors are ube (purple yam), black sesame, matcha, and macapuno coconut, served in cones or cups with toppings like mochi, fruity pebbles, and crushed Oreos. Order at the counter, eat outside or walk the block — no seating to speak of. A faster, cheaper Manhattan counterpoint to sit-down Asian dessert cafés.",
+    "desc": "Asian-flavor soft serve — ube, matcha, black sesame — in a tiny LES window shop",
+    "longDesc": "The NYC originator of Asian-American soft serve, slinging ube purple yam, matcha green tea, and rotating black-sesame swirls from a cash-only-feel walk-up window on Allen St. Twist cones, cereal-rimmed cups, and condensed-milk drizzle define the menu; late weekend hours make it a strong night-cap stop after a Brooklyn dinner. Expect a short line on Saturday evenings; parking is street-only and tight after 7pm.",
     "url": "https://www.softswervenyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "dumbo",
     "vibe": [
       "foodie",
-      "photo"
+      "photo",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "13:00-00:00",
-    "notes": "Manhattan-only candidate, included as a contrast: ~22 min drive from IC via the Manhattan Bridge with metered street parking on Allen/Orchard (tight on weekends). Address 85B Allen St (softswervenyc.com). Weekend hours run 1pm-midnight Fri/Sat and 1pm-11pm Sun (yelp.com/biz/soft-swerve-new-york-15). Counter-service, no real seating — best as a stop on the way to/from a Lower East Side or East Village outing rather than a destination from IC.",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 13:00-24:00; Sun 13:00-23:00",
+    "notes": "Manhattan LES venue at 85B Allen St — included despite Brooklyn-default zoning because it's the closest direct ube/matcha/sesame soft-serve option and the origin of the niche; tagged dumbo as nearest gateway zone via Manhattan Bridge (source: softswervenyc.com). Signature flavors: ube purple yam and matcha green tea, often with black sesame as rotating special (source: yelp.com/biz/soft-swerve-new-york-15). Cash + card; tiny standing-room storefront — best as a late-evening cap, not a sit-down stop.",
     "sources": [
       {
         "url": "https://www.softswervenyc.com/",
-        "accessed": "2026-05-16T17:10:00Z"
+        "accessed": "2026-05-17T19:25:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/soft-swerve-new-york-15",
-        "accessed": "2026-05-16T17:10:00Z"
-      },
-      {
-        "url": "https://www.softswervenyc.com/menu",
-        "accessed": "2026-05-16T17:10:00Z"
+        "accessed": "2026-05-17T19:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T17:07:16.624Z"
+    "lastResearchedAt": "2026-05-17T19:24:09.372Z"
   },
   {
     "id": "borough-chocolates",
@@ -32443,5 +32443,145 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T19:19:28.381Z"
+  },
+  {
+    "id": "tadaima-industry-city",
+    "name": "Tadaima",
+    "desc": "Japanese bake shop inside Industry City — matcha + black sesame sables, hojicha cookies, Nagasaki matcha lattes",
+    "longDesc": "Ayaka Ando's Japanese dessert shop on the second floor of Industry City's Building 5, baked on-site behind a window framed by an andon lantern and traditional woodwork. The menu rotates around matcha (sourced from Nagasaki) and black sesame: lattes, sable cookies, madeleines, plus yuzu lemon pound cake and a kabocha maple muffin. It is the closest Brooklyn-side fill for the Taiyaki Williamsburg gap — sit-down sweets and tea without leaving the IC anchor.",
+    "url": "https://www.tadaimanyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "10:00-16:00",
+    "notes": "On-site at IC Building 5, Floor 2 (51 35th St, Brooklyn, NY 11232) — zero drive from the anchor, free IC weekend parking applies. Thu/Fri 9-3, Sat/Sun 10-4 (japanculture-nyc.com; yelp.com/biz/tadaima-brooklyn). Mochi ice cream is NOT on the menu — this is a bake shop. Note for itinerary: Mochidoki has no Brooklyn location as of May 2026; their Soho flagship (176 Spring St) and UES (1035 3rd Ave) are Manhattan-only and the prior 1000 S 8th Ave attempt is permanently closed (yelp.com/biz/mochidoki-new-york-2). Tadaima fills the Japanese-dessert gap; for actual mochi ice cream the next-best Brooklyn move is Sunrise Mart inside Japan Village (same IC complex) for grab-and-go pints.",
+    "sources": [
+      {
+        "url": "https://www.japanculture-nyc.com/blog/japanese-dessert-shop-reopens-in-new-home-at-industry-city",
+        "accessed": "2026-05-17T19:30:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/tadaima/",
+        "accessed": "2026-05-17T19:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tadaima-brooklyn",
+        "accessed": "2026-05-17T19:30:00Z"
+      },
+      {
+        "url": "https://mochidoki.com/pages/store-locator",
+        "accessed": "2026-05-17T19:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mochidoki-new-york-2",
+        "accessed": "2026-05-17T19:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:27:01.415Z"
+  },
+  {
+    "id": "spot-dessert-bar-east-village",
+    "name": "Spot Dessert Bar (East Village flagship)",
+    "desc": "Iconic Asian-fusion dessert bar; matcha lava cake with hidden molten matcha center.",
+    "longDesc": "Spot Dessert Bar's St Marks flagship is the original home of the Matcha Lava — a dark-chocolate cake hiding a molten white-chocolate matcha core, served with matcha ice cream, chocolate pearls, and cookie-crumb 'soil.' The plating is famously photo-forward, and the late-night hours make it a strong post-dinner stop. No Brooklyn outpost exists; this is the closest authentic version.",
+    "url": "https://www.spotdessertbar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-24:00",
+    "notes": "ACTUAL LOCATION: 13 St Marks Pl, East Village, Manhattan — Spot Dessert Bar does not have a Brooklyn store (locations are East Village x2, Flushing, LIC, Astoria) (yelp.com). Zoned 'dumbo' for routing only because the Manhattan Bridge crossing from Industry City via DUMBO is the practical driving path (~25 min weekend, longer if BQE slow). Weekend parking in East Village is rough — plan on a paid garage on 2nd Ave or Bowery; otherwise the matcha lava is takeout-friendly. Signature item is the Matcha Lava: dark chocolate cake + matcha powder + chocolate pearls + cookie crumbs + matcha ice cream (spotdessertbar.com/menu). Note: the topic phrasing 'soft serve' is slightly off — the matcha component here is scooped ice cream, not soft serve. Best-sellers also include Golden Toast and Harvest. Open until 1am weekends, great late dessert anchor.",
+    "sources": [
+      {
+        "url": "https://www.spotdessertbar.com/menu",
+        "accessed": "2026-05-17T19:25:00Z"
+      },
+      {
+        "url": "https://m.yelp.com/biz/spot-dessert-bar-new-york-2",
+        "accessed": "2026-05-17T19:25:00Z"
+      },
+      {
+        "url": "https://www.spotdessertbar.com/",
+        "accessed": "2026-05-17T19:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:29:36.145Z"
+  },
+  {
+    "id": "van-leeuwen-williamsburg-204-wythe",
+    "name": "Van Leeuwen Ice Cream — Williamsburg",
+    "desc": "Pastel-pink scoop shop on Wythe with rotating collab flavors (Hidden Valley Ranch, Pizza, Mac & Cheese) plus 12 oat-milk vegan pints",
+    "longDesc": "Van Leeuwen's Williamsburg flagship at 204 Wythe Ave is the Brooklyn-side photogenic dessert stop on the route — the powder-pink storefront with serif Van Leeuwen signage is a near-default Instagram backdrop in north Williamsburg. The full menu runs 19 classic ice creams plus 12 oat-milk vegan flavors, but the brand's reputation lives in its collab drops: Hidden Valley Ranch, Pizza (real tomato + mozzarella), Kraft Mac & Cheese, and Marshmallow Fluff have all rotated through. Note: it's scooped, not soft serve — Van Leeuwen has tested soft serve seasonally but the standing menu is scoops, sundaes, milkshakes, and cookie sandwiches.",
+    "url": "https://vanleeuwenicecream.com/scoop-shops/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "Sat 11:00-01:00, Sun 11:00-24:00",
+    "notes": "Drive from IC: ~17 min via Hamilton Ave → BQE north, exit Metropolitan Ave (longer at 20-22 min Sat 2-5 PM peak) (Google Maps). Park on Wythe between N 3rd and N 4th (metered Sat, free Sun) or on N 4th St; in summer try the side streets toward Berry. Storefront is shallow with a pink-tile interior — best photo light hits the facade 3-6 PM. Brand's 'weird flavors' (Hidden Valley Ranch garlic-forward; Pizza neon-orange; Kraft Mac crashed their site in 2021) rotate seasonally; check the menu chalkboard or grubhub listing day-of (BuzzFeed; Today.com). For genuinely experimental rotations consider the Franklin St Flavor Lab in Greenpoint (136 Franklin) — ~6 min further north, exclusive lab-only flavors like Blueberry Matcha Latte and Brown Butter Pecan (Greenpointers, 2025-06-20).",
+    "sources": [
+      {
+        "url": "https://vanleeuwenicecream.com/scoop-shops/",
+        "accessed": "2026-05-17T19:30:00.000Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/van-leeuwen-ice-cream-williamsburg-brooklyn",
+        "accessed": "2026-05-17T19:30:00.000Z"
+      },
+      {
+        "url": "https://www.buzzfeed.com/hannahdobro/van-leeuwen-weirdest-ice-cream-flavors-review",
+        "accessed": "2026-05-17T19:30:00.000Z"
+      },
+      {
+        "url": "https://www.today.com/food/trends/van-leeuwen-new-ice-cream-flavors-2022-rcna19920",
+        "accessed": "2026-05-17T19:30:00.000Z"
+      },
+      {
+        "url": "https://greenpointers.com/2025/06/20/van-leeuwens-franklin-street-flavor-lab-soft-opens/",
+        "accessed": "2026-05-17T19:30:00.000Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T19:32:20.918Z"
   }
 ]
