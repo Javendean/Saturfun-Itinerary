@@ -2735,8 +2735,8 @@
   {
     "id": "brooklyn-heights-promenade",
     "name": "Brooklyn Heights Promenade",
-    "desc": "Cantilevered 1,826-ft skyline walk over the BQE — golden-hour Manhattan + Statue of Liberty views.",
-    "longDesc": "A free, 24/7 pedestrian esplanade running Joralemon to Orange Street with uninterrupted views of Lower Manhattan, the Brooklyn Bridge, East River and harbor (Ellis Island, Statue of Liberty). Lined with benches, flower beds, and one playground restroom — ideal for an unhurried golden-hour stroll. From Pier 2 at Brooklyn Bridge Park it's roughly an 8-minute uphill walk via Squibb Park Bridge or Columbia Heights.",
+    "desc": "Free cliff-top esplanade with full Manhattan skyline, Statue of Liberty, and Brooklyn Bridge views at sunset",
+    "longDesc": "A quarter-mile pedestrian walkway cantilevered above the BQE between Remsen and Orange Streets, delivering an unobstructed panorama of Lower Manhattan, the Brooklyn Bridge, New York Harbor, and the Statue of Liberty. Best hit at golden hour: arrive ~30 min before sunset to watch the light shift, then linger as the skyline lights pop on. Pairs naturally as a capstone after Sahadi's / Atlantic Avenue — it's a flat ~10-minute (0.5 mi) walk up Henry Street, so no re-parking needed.",
     "url": "https://www.nycgovparks.org/parks/brooklyn-heights-promenade",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2749,31 +2749,35 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "Open 24 hours",
-    "notes": "Arrive ~30 min before sunset for the color shift over the Financial District; stay through blue hour for skyline lights (nyctourism.com). On-street parking in Brooklyn Heights is very limited on weekends — nearest garages run $15+ for 2 hrs (spotangels.com). If pairing with Pier 2 rink, walk up via Squibb Park Bridge (~8 min) instead of re-parking.",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free, no ticket. No on-site parking and street parking in Brooklyn Heights is brutal (NYC Parks page and SpotAngels both confirm — closest free street parking ~171 Columbia Heights, garages ~$15+ for a few hours). The move: keep the car parked near the Cobble Hill / Atlantic Ave stop (Sahadi's) and walk north on Henry St ~0.5 mi to the Pierrepont or Montague entrance. Sunset in mid-May NYC is ~20:05; aim to arrive 19:30 for golden hour into blue hour. Crowded on summer weekends but the rail line is long enough that there's always a spot.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/brooklyn-heights-promenade",
-        "accessed": "2026-05-16T12:15:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/brooklyn-heights-promenade/",
-        "accessed": "2026-05-16T12:15:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Brooklyn_Heights_Promenade",
-        "accessed": "2026-05-16T12:15:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.spotangels.com/nyc/brooklyn-heights-promenade-parking",
-        "accessed": "2026-05-16T12:15:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://freetoursbyfoot.com/brooklyn-heights-promenade/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:18:00.974Z"
+    "lastResearchedAt": "2026-05-17T01:00:10.143Z"
   },
   {
     "id": "maison-premiere",
@@ -6120,25 +6124,26 @@
   {
     "id": "japan-village-industry-city",
     "name": "Japan Village",
-    "desc": "NYC's first Japanese food hall — 10 stalls + Sunrise Mart grocery, inside Industry City",
-    "longDesc": "A 20,000 sq ft Japanese marketplace tucked into Industry City's Building 4, anchored by a full Sunrise Mart grocery (in-house butcher and fishmonger) and ringed by ten food stalls — Ramen Setagaya, Gohei soba/udon, Hachi yakisoba/okonomiyaki, Shokusaido tempura/katsu, Handroll Bar, Moriya, Obentoyasan, Yamada, Umami House and Sake's Bar. Naturally pairs with a pre-drinks browse: graze a handroll or bento, then shop snacks/sake at Kuraichi before walking the courtyard to your next IC stop.",
+    "desc": "20,000-sq-ft Japanese food hall + Sunrise Mart grocery + Kuraichi sake/whisky shop inside IC",
+    "longDesc": "A cultural mini-village tucked into Industry City's Buildings 3 & 4 with 10+ food stalls (Ramen Setagaya, Hachi okonomiyaki, Handroll Bar, Shokusaido tempura/katsu) plus the city's largest Sunrise Mart for Japanese groceries, snacks, and tofu. Kuraichi inside the hall is a dedicated Japanese liquor shop stocking sake, shochu, Japanese whisky, and craft beer — perfect for a sample-and-stroll afternoon alongside Li-Lac. Free indoor seating, photogenic neon and lantern lighting, and easy access from the IC parking lots.",
     "url": "https://www.japanvillage.com/",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67c5dc17d34d66734fb100b9_JV-%20website%20kuraichi.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
       "curious",
+      "photo",
       "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-75 min",
-    "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-20:30 / Sun 11:00-20:00 (food hall); grocery til 21:00 Sat",
-    "notes": "Located inside Industry City Building 4 at 934 3rd Ave, Brooklyn (industrycity.com/tenants/japan-village). Stand-alone food court of ~10–12 vendors plus full-service Sunrise Mart grocery — the biggest in NYC (amny.com). Aesthetic is clean and modern rather than 'Disneyland Japan' (theinfatuation.com). Strong fit as a Japan-themed IC pre-drinks anchor: handrolls/ramen/onigiri/karaaki then sake browse at Kuraichi.",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min (onsite, Buildings 3 & 4)",
+    "hoursWeekend": "Sat 11:00-20:30, Sun 11:00-19:00 (Kuraichi sake shop 12:00-19:30 daily)",
+    "notes": "Anchor at 934 3rd Ave entrance; pair with Li-Lac as a sample-and-stroll combo. Grocery (Sunrise Mart) is browse-heavy — give 30+ min just for the aisles (japanvillage.com). Kuraichi sake selection is the standout, with bottles you won't find in standard NY liquor stores (industrycity.com). Weekend lines at Setagaya ramen and Handroll Bar can hit 20+ min around 1pm — go early or after 3pm (yelp.com). Onsite IC parking lots make this driving-friendly.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
@@ -6149,22 +6154,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/japan-village",
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
         "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
-        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:56:48.967Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T00:52:16.128Z"
   },
   {
     "id": "the-gutter-williamsburg",
@@ -11874,43 +11875,49 @@
   {
     "id": "brooklyn-kura",
     "name": "Brooklyn Kura",
-    "desc": "America's first craft sake brewery — tap room at Industry City pouring rotating drafts and shochu cocktails",
-    "longDesc": "Brooklyn Kura is the country's first craft sake brewery, brewing junmai, junmai ginjo, and limited 'Number One' series sake in-house at Industry City's Building 6 since 2018 (tap room moved/expanded into Courtyard 5/6 in 2023). The taproom serves rotating sake on draft, bottle pours, shochu cocktails, and a Japanese-leaning snack menu — a perfect drinks-forward IC pivot after a Sahadi's brunch. Saturday flights run 12–9pm; guided brewery tours are bookable via UrbanSake.",
+    "desc": "America's first sake brewery — tasting room inside Industry City Building 6 with draft flights and brewhouse views.",
+    "longDesc": "Brooklyn Kura is the original American craft sake kura, pouring rotating drafts of junmai, nigori, and limited Kura Kin members' releases at a long blonde-wood bar inside Industry City Building 6. The taproom looks straight into the working brewery floor — open koji and fermentation tanks visible behind glass — giving the same window-on-craft theatricality as a Li-Lac chocolate factory tour, but with rice, water, yeast, and koji. Snacks are minimal and Japanese-leaning, and weekend flights make it a perfect 45-minute warm-up before walking deeper into IC for food.",
     "url": "https://www.brooklynkura.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
       "curious",
+      "chill",
       "foodie"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan",
+      "gluten-free"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "45-60 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
-    "notes": "Located in Industry City Courtyard 5/6, Building 6, entrance 34 34th St (industrycity.com). Sake on tap rotates; shochu cocktail program is the bar's secondary draw (brooklynkura.com/pages/about). Walks zero minutes from Sahadi's, making it the natural afternoon pivot. Guided brewery tour + tasting bookable through UrbanSake (urbansake.com). Parties over 8 should email events@brooklynkura.com.",
+    "notes": "Located at 68 34th St, Building 6, Industry City — on-site, no drive needed (industrycity.com). Closed Mon–Wed; Thu–Fri 16:00-21:00 (brooklynkura.com). Tasting room overlooks the brewing floor with visible fermentation tanks and koji room (turnstiletours.com). Sake is naturally gluten-free; vegan-friendly. Weekend flights typically available on-site; reservations recommended for groups. Pairs well with stacking IC food hall before/after.",
     "sources": [
       {
-        "url": "https://www.brooklynkura.com/pages/about",
-        "accessed": "2026-05-16T13:30:00Z"
+        "url": "https://www.brooklynkura.com/",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/brooklyn-kura/",
-        "accessed": "2026-05-16T13:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.urbansake.com/all-sake-events/nyc-brooklyn-kura-guided-brewery-tour-and-sake-tasting-2026-04-10/",
-        "accessed": "2026-05-16T13:30:00Z"
+        "url": "https://www.yelp.com/biz/brooklyn-kura-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://turnstiletours.com/brooklyn-kura-sake-brewery-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T13:22:59.243Z"
+    "lastResearchedAt": "2026-05-17T00:54:12.821Z"
   },
   {
     "id": "bamboo-garden-sunset-park",
@@ -20991,5 +20998,91 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T00:47:54.361Z"
+  },
+  {
+    "id": "damascus-bread-pastry-shop",
+    "name": "Damascus Bread & Pastry Shop",
+    "desc": "1930 Syrian bakery on Atlantic Ave — house-baked pita, spinach pies, baklava, and meat pies.",
+    "longDesc": "Old-school Syrian bakery founded in 1930, two doors east of Sahadi's on the Atlantic Ave Levantine strip. Hearth-baked pita is the headline (their wholesale arm supplies much of NYC under the 'America's Original Pita' label), but the case-bought spinach fatayer, meat sfeeha, and rosewater-scented baklava are the real reason to pull over. Cash-friendly, no-frills counter — grab a bag, then walk two doors down to Sahadi's for the full pairing.",
+    "url": "https://damascusbakery.com/",
+    "photoUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/8kFZQ2cTOZxw2hQfFqXuHQ/o.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "15-30 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 07:00-19:00, Sun 08:00-19:00",
+    "notes": "Pair with Sahadi's two doors down for a one-stop Levantine haul (Yelp). Phone (718) 625-7070; address 195 Atlantic Ave between Court & Clinton (Yelp). Weekend parking: meters on Atlantic, free Sundays on Henry/Clinton side streets. Cash preferred; counter service only — no seating. Spinach pies + baklava are the most-mentioned items in 300+ Yelp reviews (Yelp).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/damascus-bread-and-pastry-shop-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://damascusbakery.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4504505-Reviews-Damascus_Bread_Pastry_Shop-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T00:56:10.401Z"
+  },
+  {
+    "id": "brooklyn-farmacy-soda-fountain",
+    "name": "Brooklyn Farmacy & Soda Fountain",
+    "desc": "Restored 1920s apothecary turned soda fountain — egg creams, house sodas, and original sundaes.",
+    "longDesc": "Set inside a meticulously restored 1920s apothecary at 513 Henry St in Carroll Gardens, Brooklyn Farmacy serves original ice cream sundaes, house-made artisanal sodas, ice cream floats, egg creams, and savory sandwiches under the old pharmacy fixtures. The 'Contemporary Soda Fountain in a Historic Apothecary' tagline is literal — the tin ceiling, marble counter, and apothecary drawers all survive from the original Longo Pharmacy. Ideal sweet stop after a savory browse at Sahadi's, ten blocks south on the same Henry/Smith corridor.",
+    "url": "http://www.brooklynfarmacyandsodafountain.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/52d840fce4b09614df37f3d8/68419b2f-f587-401b-a07c-12635e3183cd/_MHT5012-2.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "13:00-22:00",
+    "notes": "Restored Longo Pharmacy interior with original tin ceiling and apothecary cabinetry (brooklynfarmacyandsodafountain.com). Signature items: egg creams, house artisanal sodas, original sundaes, ice cream floats (yelp.com). Also serves savory sandwiches, breakfast biscuits, espresso, wine and beer for a fuller stop. Weekend hours 1pm-10pm — wide afternoon/evening window. Street parking on Henry/Sackett is realistic on weekends but tight; allow 5-10 min to find a spot.",
+    "sources": [
+      {
+        "url": "http://www.brooklynfarmacyandsodafountain.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "http://www.brooklynfarmacyandsodafountain.com/hours",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-farmacy-and-soda-fountain-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/brooklyn-farmacy-soda-fountain/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T00:58:02.860Z"
   }
 ]
