@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Buttermilk Channel Carroll Gardens farm-to-table brunch",
-    "reason": "Brooklyn farm-to-table brunch peer in the IC drive cluster — fills the Cookshop slot without leaving Brooklyn",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:02:18.457Z"
-  },
-  {
-    "topic": "Rucola Boerum Hill Saturday brunch patio",
-    "reason": "Northern Italian seasonal brunch with corner-patio seating, ~15 min from IC — strong Cookshop analog",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:02:18.457Z"
-  },
-  {
-    "topic": "Five Leaves Greenpoint brunch outdoor",
-    "reason": "Iconic Brooklyn brunch with sidewalk seating; tests the Greenpoint zone's farm-to-table coverage",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:02:18.457Z"
-  },
-  {
-    "topic": "Sushi Uesugi (Japan Village omakase counter)",
-    "reason": "Same complex; higher-end omakase pairing for romantic/foodie tracks — already referenced in parking validation policy",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:04:14.052Z"
-  },
-  {
-    "topic": "Otafuku-Ya Brooklyn (takoyaki + okonomiyaki at Japan Village)",
-    "reason": "Adjacent food-hall stall; rounds out an in-complex Japanese mini-crawl with savory street food",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:04:14.052Z"
-  },
-  {
     "topic": "Hi-Collar / Japan Village sake bar",
     "reason": "Evening Japanese-drinks anchor inside IC for the chill+romantic vibe, complements the daytime snack-haul",
     "requestedBy": "agent",
@@ -6340,5 +6310,101 @@
     "reason": "Daytime food anchor in the same cluster, expands the Carroll Gardens track beyond dinner",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-16T23:48:37.369Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino Carroll Gardens weekend brunch garden",
+    "reason": "Iconic Court St farm-to-table Italian with back garden — direct Carroll Gardens brunch replacement for the Buttermilk Channel slot and a true peer in the same block radius.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:51:41.587Z"
+  },
+  {
+    "topic": "Clover Hill Brooklyn Heights tasting brunch Michelin",
+    "reason": "Michelin-recognized seasonal tasting menu spot just north of IC drive cluster — upgrades the foodie tier if Rucola is booked.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:51:41.587Z"
+  },
+  {
+    "topic": "Henry Public Cobble Hill turkey leg sandwich weekend brunch",
+    "reason": "Cobble Hill tavern-style brunch with heritage-meat sandwiches; lower-key drop-in alternative when reservations fall through.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:51:41.587Z"
+  },
+  {
+    "topic": "Trudie's Tavern 524 Court St opening watch",
+    "reason": "Successor to Buttermilk Channel by the Gertie team — re-check Spring/Summer 2026 once supper service launches; potential future evening anchor for Carroll Gardens track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:51:41.587Z"
+  },
+  {
+    "topic": "Bar Bruno Carroll Gardens Saturday brunch patio",
+    "reason": "Same neighborhood-cluster as Rucola; small Italian-leaning all-day cafe with sidewalk seats — pairs as a Carroll Gardens/Boerum Hill brunch alternate",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:53:56.121Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino Carroll Gardens weekend brunch back garden",
+    "reason": "Classic Italian back-garden brunch ~12 min from IC; rounds out the Boerum/Carroll cluster with a true patio option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:53:56.121Z"
+  },
+  {
+    "topic": "Buttermilk Channel Carroll Gardens Saturday brunch",
+    "reason": "American seasonal brunch one zone over; useful non-Italian counterweight in the same 15-min IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:53:56.121Z"
+  },
+  {
+    "topic": "Sunday in Brooklyn Williamsburg brunch hazelnut pancakes",
+    "reason": "Sister-tier brunch destination 10 min south of Five Leaves; rounds out the Greenpoint–Williamsburg brunch axis with a rooftop option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:56:00.674Z"
+  },
+  {
+    "topic": "Bakeri Greenpoint Scandinavian cafe outdoor garden",
+    "reason": "Adds a softer, bakery-led counterpoint to Five Leaves in the same Greenpoint zone with a hidden back garden — good fallback if Five Leaves wait is too long",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:56:00.674Z"
+  },
+  {
+    "topic": "Esme Greenpoint Norman Avenue dinner cocktails",
+    "reason": "Extends Greenpoint zone coverage into evening; pairs naturally with a Five Leaves brunch + McCarren Park walk + Esme dinner track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:56:00.674Z"
+  },
+  {
+    "topic": "Re-research existing venue: Japan Village food hall (Industry City)",
+    "reason": "Direct neighbor and natural pre/post stop; needs paired entry for romantic/foodie tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:57:56.188Z"
+  },
+  {
+    "topic": "Best omakase in Park Slope or Carroll Gardens within 12 min drive of IC",
+    "reason": "Backup higher-end sushi anchor when Uesugi is booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:57:56.188Z"
+  },
+  {
+    "topic": "Sake bars or natural wine spots within 10 min of Industry City for post-omakase drink",
+    "reason": "Completes romantic-track pairing after a high-end sushi anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-16T23:57:56.188Z"
+  },
+  {
+    "topic": "Umami House at Japan Village (Industry City)",
+    "reason": "Adjacent stall in same food hall — completes the in-complex Japanese mini-crawl alongside Hachi and Ramen Setagaya",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:00:13.903Z"
+  },
+  {
+    "topic": "Handroll Bar at Japan Village (Industry City)",
+    "reason": "Sushi-focused counter inside Japan Village — pairs with Hachi's savory grills for a hot/cold contrast on one IC visit",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:00:13.903Z"
+  },
+  {
+    "topic": "Sunrise Mart Brooklyn (inside Japan Village, Industry City)",
+    "reason": "Japanese grocery anchor of Japan Village — gives the itinerary a 'browse + snack' detour after Hachi without leaving the building",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:00:13.903Z"
   }
 ]

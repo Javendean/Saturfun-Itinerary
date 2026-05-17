@@ -6345,23 +6345,22 @@
   {
     "id": "sushi-uesugi",
     "name": "Sushi Uesugi",
-    "desc": "Hidden-gem omakase counter inside Japan Village — chef Kenji, refined seasonal nigiri, walk-in only.",
-    "longDesc": "An intimate sushi counter tucked behind the Japan Village food hall at Industry City, run by chef Kenji. The menu balances classic Edomae nigiri with inventive plates like Yukke Don and Garlic Truffle Rice; lunch sets start around $50 for a 10-piece, while the full dinner omakase pushes into $$$ territory. Walk-in only and cozy — a quiet upgrade you can pair with browsing the same building's Japanese market and grab-and-go stalls.",
+    "desc": "Intimate omakase counter tucked next to Japan Village — seasonal nigiri, Yukke Don, Garlic Truffle Rice.",
+    "longDesc": "An eight-seat omakase room beside the Japan Village food hall in Industry City, helmed by Chef Kenji. The kitchen leans on the season's freshest catch with signature touches like Yukke Don and Garlic Truffle Rice, and the lunch omakase remains one of Brooklyn's best-value high-end sushi sets. Pairs naturally with a Japan Village stroll before or after the meal.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "romantic",
-      "curious"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 12:00-15:00, 17:00-21:00; Sun 12:00-15:00, 17:00-20:00",
-    "notes": "Located at 267 36th St inside Industry City Building 4, adjacent to the Japan Village food hall (japanvillage.com). Walk-in only — no reservations, counter seats fill fast on weekends (yelp.com/biz/sushi-uesugi-brooklyn). Lunch omakase ~$50pp for 10 pieces; dinner omakase is the $$$ tier. Signature: Yukke Don, Garlic Truffle Rice, seasonal nigiri (japanvillage.com). Industry City lots + street parking on 36th/37th typically available on weekends.",
+    "hoursWeekend": "12:00-15:00, 17:00-21:00",
+    "notes": "267 36th St, next to Japan Village food hall in Industry City (japanvillage.com). Lunch omakase set around $50/10pc; dinner omakase higher (yelp.com). Reservation strongly recommended — only ~8-10 seats. On-site IC weekend parking validation policy makes this an ideal anchor stop. Chef Kenji praised for thick cuts and seasonal sourcing.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
@@ -6374,8 +6373,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T14:07:46.841Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T23:57:56.167Z"
   },
   {
     "id": "panya-bakery-industry-city",
@@ -6783,55 +6782,47 @@
   {
     "id": "rucola-boerum-hill",
     "name": "Rucola",
-    "desc": "Candlelit Northern Italian on a Boerum Hill corner — farm-to-table pastas, seasonal vegetables, romantic vintage room",
-    "longDesc": "Rucola sits on a historic corner at Dean & Bond in Boerum Hill, channeling Piedmont's slow-food movement with house-made pastas, vegetable-forward antipasti, and seasonal meat/fish entrees sourced from regional farms. The room is intimate and candlelit with vintage accents and wooden furnishings — consistently called out by Infatuation and Yelp reviewers as one of the most romantic rooms in the area. Weekend dinner books up fast (effectively a 45-min walk-in wait), so reserve via Resy.",
+    "desc": "Northern Italian corner-cafe brunch in Boerum Hill with house pastries, pastas, and sidewalk seating",
+    "longDesc": "An intimate Northern Italian spot anchoring a historic corner at Dean and Bond, Rucola serves a seasonal weekend brunch — house-made pastries, frittatas, handmade pastas, and a rotating Four & Twenty Blackbirds pie — in a warm farmhouse-meets-Brooklyn room with a wraparound sidewalk patio when weather allows. Strong Cookshop analog: market-driven, ingredient-forward, and built for a long unhurried Saturday late-morning. Walk-ins fill up fast; the bar and outdoor seats turn over quickest.",
     "url": "https://rucolabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
-      "romantic",
       "foodie",
+      "romantic",
       "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "Sat-Sun 10:00-16:00 brunch, 17:30-00:00 dinner",
-    "notes": "190 Dean St at Bond St, Boerum Hill (technically the Boerum Hill / Cobble Hill border — using cobble-hill zone since boerum-hill not in zone list). ~13 min drive from IC via 3rd Ave → Atlantic; metered street parking on Bond/Dean, weekend evenings tight but doable, Atlantic Ave garages as backup. Strong vegetable-forward menu (slow-food Piedmont influence) makes it a real vegetarian-friendly option in a romantic-Italian slot, complementing rather than duplicating Carroll Gardens picks like Frankies 457 (rucolabrooklyn.com/about). Reservations via Resy strongly recommended for Sat night (theinfatuation.com/new-york/reviews/rucola).",
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "Sat-Sun 09:00-15:30 brunch, dinner from 17:00",
+    "notes": "190 Dean St at Bond St, Boerum Hill — historic corner location with sidewalk seating (rucolabrooklyn.com). Weekend brunch 9:00-15:30 confirmed by official site; Yelp/OpenTable corroborate the corner/communal-table vibe and long weekend waits. No reservations for brunch — arrive close to 9 or after 13:30 to beat the crush. Northern Italian seasonal menu rotates; pastry program and Four & Twenty Blackbirds pie collab are signature. Street parking in Boerum Hill is metered but manageable Saturdays before 11.",
     "sources": [
       {
         "url": "https://rucolabrooklyn.com/",
-        "accessed": "2026-05-16T07:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://rucolabrooklyn.com/menus/",
-        "accessed": "2026-05-16T07:20:00Z"
-      },
-      {
-        "url": "https://rucolabrooklyn.com/location/",
-        "accessed": "2026-05-16T07:20:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/rucola",
-        "accessed": "2026-05-16T07:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/rucola-brooklyn",
-        "accessed": "2026-05-16T07:20:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://resy.com/cities/new-york-ny/venues/rucola-restaurant",
-        "accessed": "2026-05-16T07:20:00Z"
+        "url": "https://www.opentable.com/r/rucola-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T07:23:00.850Z"
+    "lastResearchedAt": "2026-05-16T23:53:56.103Z"
   },
   {
     "id": "sans-carroll-gardens",
@@ -20195,5 +20186,101 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-16T23:46:32.621Z"
+  },
+  {
+    "id": "five-leaves-greenpoint",
+    "name": "Five Leaves",
+    "desc": "Iconic Greenpoint corner bistro with sidewalk seating facing McCarren Park; ricotta hotcakes and Aussie-leaning brunch.",
+    "longDesc": "An Australian-influenced New American bistro at the gateway to Greenpoint, Five Leaves anchors the wedge at Bedford and Lorimer with wraparound sidewalk tables that catch sun and people-watching across McCarren Park. The all-day menu runs from ricotta hotcakes and the famed pineapple-topped burger to daily market oysters and a serious cocktail program. Walk-in only for weekend brunch — they hold tables back and waits run long but move steadily.",
+    "url": "https://fiveleavesny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-23:00",
+    "notes": "Wraparound sidewalk seating faces McCarren Park; dogs welcome outside (Yelp). No weekend brunch reservations — walk-in only, plan for a wait (Resy/Yelp). Limited on-site parking; free + metered street parking around Bedford/Lorimer/Manhattan Ave, easier before 11am on Saturdays. Ricotta hotcakes, pineapple burger, market oysters are the signatures (Greenpointers, Yelp). Wheelchair accessible entry, restroom, and seating (Yelp).",
+    "sources": [
+      {
+        "url": "https://fiveleavesny.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/five-leaves-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/4966",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/five-leaves-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2017/08/18/five-leaves-greenpoint/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-16T23:56:00.661Z"
+  },
+  {
+    "id": "hachi-japan-village",
+    "name": "Hachi at Japan Village",
+    "desc": "Takoyaki + okonomiyaki kiosk inside Japan Village food hall at Industry City",
+    "longDesc": "A charming Osaka-style street-food kiosk tucked inside Japan Village's food hall at Industry City. Hachi grills takoyaki (octopus balls), okonomiyaki, taiyaki, yakisoba, yakiudon, and omu-yakisoba in an open kitchen — exactly the savory Japanese street snacks the task's original 'Otafuku-Ya' brief was reaching for. Pairs perfectly with the adjacent ramen/sushi/sake stalls for an in-complex mini-crawl.",
+    "url": "https://www.japanvillage.com/eat-drink/hachi",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min (inside IC)",
+    "hoursWeekend": "Sat 12:00-20:30, Sun 12:00-19:30",
+    "notes": "Task brief named 'Otafuku-Ya Brooklyn' but no such stall exists at Japan Village — the original Otafuku-Ya in East Village is permanently closed (yelp.com/biz/otafuku-new-york-2) and Japan Village's takoyaki+okonomiyaki vendor is actually Hachi (japanvillage.com/eat-drink/hachi). Substituted Hachi as the correct match for the task's intent. Located inside Japan Village food hall at 934 3rd Ave, Brooklyn, NY 11232 — same building as Industry City, so drive time is effectively zero. Food-hall parent hours are wider (Sa 11:00-21:00, Su 11:00-20:00) but Hachi's kiosk hours are tighter (Sa 12:00-20:30, Su 12:00-19:30) — plan around the stall, not the hall.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/hachi",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/otafuku-new-york-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/visit/eat/japan-village",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T00:00:13.889Z"
   }
 ]
