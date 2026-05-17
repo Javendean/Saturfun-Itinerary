@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Bakery 1988 5716 8th Ave Brooklyn Chinese bakery",
-    "reason": "Across-the-street alternative to Dragon Bay with longer hours (7am-7pm); useful fallback when Dragon Bay sells out late afternoon",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:06:37.418Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace dim sum 8th Ave Sunset Park",
-    "reason": "Weekend cart dim sum anchor 5 min from Lan Zhou — completes a Sunset Park Chinatown morning-to-noon track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:09:15.399Z"
-  },
-  {
-    "topic": "Kai Feng Fu Dumpling House 8th Ave Brooklyn",
-    "reason": "$1 lamb dumplings hole-in-the-wall a block away — cheap, photogenic snack stop between noodles and dim sum",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:09:15.399Z"
-  },
-  {
-    "topic": "Yi Lan Halal Beef Noodle Sunset Park",
-    "reason": "Halal Lanzhou variant nearby — gives the corpus a dietary-tagged alternative for the same noodle style",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:09:15.399Z"
-  },
-  {
-    "topic": "Bush Terminal Park pier sunset view Brooklyn waterfront",
-    "reason": "Alternate IC-adjacent free sunset spot — pier-level harbor view vs. Sunset Park's hilltop view, ~8 min drive from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:11:21.326Z"
-  },
-  {
     "topic": "Owl's Head Park Bay Ridge sunset hilltop view",
     "reason": "Second hilltop bluff overlook 12 min south of IC — extends the 'free sunset photo' cluster for return visitors",
     "requestedBy": "agent",
@@ -7450,5 +7420,83 @@
     "reason": "Fujianese hand-pulled noodle alternative on the 8th Ave bakery strip; rounds out the regional Chinese noodle coverage in the IC-adjacent cluster",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T03:26:44.317Z"
+  },
+  {
+    "topic": "Xin Fa Bakery 5617 8th Ave Brooklyn — Sunset Park OG Chinese bakery",
+    "reason": "Highest-rated Chinese bakery on the same 8th Ave strip (616 photos, 338 Yelp reviews); rounds out a Sunset Park bakery crawl alongside Dragon Bay and Bakery 1988",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:28:44.141Z"
+  },
+  {
+    "topic": "Kam Hing Coffee Shop Sunset Park — sponge cake destination",
+    "reason": "Iconic Cantonese sponge cake spot; expands the 8th Ave bakery cluster with a distinct hero item",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:28:44.141Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave — rice noodle lunch pivot near bakeries",
+    "reason": "Lets the Sunset Park bakery crawl chain into a savory anchor lunch within 4 blocks, all under 10 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:28:44.141Z"
+  },
+  {
+    "topic": "Ba Xuyên banh mi Sunset Park 8th Ave",
+    "reason": "Tiny Vietnamese sandwich shop ~6 blocks from East Harbor — perfect late-morning grab-and-go to extend the 8th Ave Chinatown track without committing to a second sit-down.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:31:01.422Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 8th Ave Brooklyn weekend dim sum",
+    "reason": "Anchor dim sum hall one block over — natural pairing with Kai Feng Fu on a Sunset Park food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:33:07.690Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park rice noodles",
+    "reason": "Across the street rice-noodle counter — completes the noodles/dumplings/dim sum trio cited in the reason",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:33:07.690Z"
+  },
+  {
+    "topic": "Lucky Eight Restaurant 8th Ave Brooklyn Cantonese",
+    "reason": "Highly-rated sit-down Cantonese a few blocks away for groups wanting a proper meal vs a snack stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:33:07.690Z"
+  },
+  {
+    "topic": "Tangy Noodle Halal (98 8th Ave, Chelsea)",
+    "reason": "Second active halal Lanzhou option in Manhattan; useful cross-reference for halal-noodle reliability and a fallback if 1915 is closed Tue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:36:24.167Z"
+  },
+  {
+    "topic": "No Pork Halal Kitchen (50 4th Ave, Park Slope edge)",
+    "reason": "Closest Brooklyn halal Chinese to IC (~10 min drive); fills the 'halal Chinese, not necessarily Lanzhou' slot the corpus still lacks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:36:24.167Z"
+  },
+  {
+    "topic": "DH Noodles Sunset Park (Lanzhou, non-halal)",
+    "reason": "Strongest in-zone Lanzhou hand-pulled spot for non-dietary-restricted users; would pair with 1915 as the 'in-cluster vs dietary' contrast pair",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:36:24.167Z"
+  },
+  {
+    "topic": "Brooklyn Army Terminal pier waterfront access",
+    "reason": "Adjacent waterfront just south of Bush Terminal — another pier-level harbor vantage with different access pattern; rounds out the IC-area free-view trio",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:38:40.526Z"
+  },
+  {
+    "topic": "Owl's Head Park Bay Ridge hilltop sunset view",
+    "reason": "Different geographic cluster (Bay Ridge, ~12 min drive) but same 'free elevated harbor view' archetype — natural alternate when Sunset Park feels overdone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:38:40.526Z"
+  },
+  {
+    "topic": "58th Street Pier Sunset Park waterfront",
+    "reason": "Smaller, lesser-known pier just south along the same waterfront — useful filler stop on a multi-pier driving loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:38:40.526Z"
   }
 ]

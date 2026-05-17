@@ -2051,44 +2051,44 @@
   {
     "id": "kai-feng-fu-dumpling-house",
     "name": "Kai Feng Fu Dumpling House",
-    "desc": "Cash-only 8th Ave dumpling counter — pan-fried pork-and-chive at near-bargain prices.",
-    "longDesc": "A bare-bones Sunset Park institution at 4801 8th Ave where four pan-fried pork-and-chive dumplings with crisp bottoms and thick, glossy handmade wrappers run roughly $1-$2.50 depending on the day's price. Cash only, a handful of tables, near-zero ambiance — pair it with Xin Fa down the block for a $5 walkable Brooklyn Chinatown crawl. Note: menu is pork/chive/cabbage focused; despite the heading, lamb isn't a confirmed offering — call ahead if that's the goal.",
-    "url": "https://www.google.com/maps/place/Kai+Feng+Fu+Dumpling+House/@40.6429,-74.0028,17z",
+    "desc": "Cash-only Sunset Park counter slinging crisp $2.50 pork-and-chive fried dumplings a few blocks from IC.",
+    "longDesc": "A no-frills, counter-service dumpling shop on 8th Ave in Brooklyn's Chinatown, famous for thin-skin pan-fried pork and chive dumplings (6 for $2.50), soup wontons, fat pork buns, and sesame pancakes. Cash-only with almost no seating — order, snack on the sidewalk, and roll. Despite the legend of $1 lamb dumplings, the verified menu staples are pork-and-chive and beef; call to confirm lamb is on that day.",
+    "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "08:00-22:00",
-    "notes": "4801 8th Ave at 48th St (theinfatuation.com). Four pan-fried pork & chive dumplings ~$1-2.50, crisped bottoms and thick handmade wrappers (theinfatuation.com, eattheworldnyc.com). Cash only; ~2-3 small tables; also serves pork buns, sesame pancakes, scallion pancakes (visitbrooklyn.nyc). Weekend street parking on 8th Ave is moderately available before noon — easier than Manhattan Chinatown. Lamb dumplings not confirmed on the menu; if user specifically wants lamb, redirect to White Bear in Flushing or call ahead at 929-999-7088 (kaifengfubrooklyn.com).",
+    "duration": "15-30 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "07:30-20:00",
+    "notes": "4801 8th Ave, Brooklyn NY 11220 (Sunset Park / 8th Ave Chinatown), ~1.5 mi north of IC. Cash only, tiny footprint, minimal seating — built for a snack stop, not a sit-down meal (theinfatuation.com). Pan-fried pork-and-chive dumplings are the signature at $2.50/6, with steam buns, sesame pancake, and noodle soups also cheap (whereyoueat.com). Lamb dumplings weren't confirmed in public menus during research — call (718) 437-3542 ahead if the lamb stop is the whole point. Pairs naturally with East Harbor Seafood Palace dim sum and the broader 8th Ave noodle/bakery crawl.",
     "sources": [
       {
+        "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
         "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
-        "accessed": "2026-05-16T15:15:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://kaifengfubrooklyn.com/",
-        "accessed": "2026-05-16T15:15:00Z"
+        "url": "https://kaifengfubrooklyn.kwickmenu.com/",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/kai-feng-fu-dumpling-house",
-        "accessed": "2026-05-16T15:15:00Z"
-      },
-      {
-        "url": "http://www.eattheworldnyc.com/2015/09/kai-feng-fu.html",
-        "accessed": "2026-05-16T15:15:00Z"
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4967220-Reviews-Kai_Feng_Fu_Dumpling_House-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T15:17:17.626Z"
+    "lastResearchedAt": "2026-05-17T03:33:07.669Z"
   },
   {
     "id": "beat-the-bomb",
@@ -5467,8 +5467,8 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Cart-style Cantonese dim sum a few blocks south of IC — the in-radius default when a Queens drive feels like too much.",
-    "longDesc": "Gold-accented Sunset Park banquet hall where steaming carts of har gow, siu mai, cheung fun and turnip cake roll past your table while waiters ferry trays from the kitchen. Open 9am-11pm daily, with the fresh cart dim sum service running until 3pm — locals advise arriving 10:30-11am to secure a table before the noon peak when wait times stretch to 30+ min. Roughly 8 minutes south of Industry City on 8th Ave, making it the closest legitimate cart dim sum experience to the IC anchor.",
+    "desc": "Cart-service weekend dim sum in Sunset Park's 8th Ave Chinatown — har gow, taro puffs, pepper spare ribs.",
+    "longDesc": "One of Brooklyn's last true cart-service dim sum halls (迎賓大酒樓), packed every weekend morning with locals flagging down carts of har gow, fried taro puffs, eggplant stuffed with shrimp, and pepper spare ribs. Arrive before 10:30am Saturday/Sunday — quality and selection visibly drop after the early rush, and the wait grows past an hour. A Michelin Guide listing and a ~$10–15/person check make it the anchor of a Sunset Park Chinatown morning track.",
     "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5477,21 +5477,15 @@
       "foodie",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
-    "priceBand": "$$",
+    "dietary": [],
+    "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-23:00 (cart dim sum until 15:00)",
-    "notes": "714 65th St, Brooklyn NY 11220, between 7th & 8th Ave in Sunset Park's Chinatown. Cart service is the draw — arrive 10:30-11am on weekends to beat the noon crush (Cinnamon Society). Cash-preferred at older Cantonese banquet halls; confirm card policy on arrival. Michelin-recognized (Michelin Guide). Street parking on 65th St and 8th Ave is workable on weekends but tightens after 11am.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "Address: 714 65th St (between 7th & 8th Ave), Sunset Park, Brooklyn 11220 — technically Sunset Park, not Industry City proper, but ~10 min drive south on 7th Ave from IC. Cart service active during dim sum hours (~9am–3pm). Crowds peak 11am–1pm weekends; aim for 9:30–10:30am seating to avoid wait + get freshest har gow (Cinnamon Society). Stamp-card ordering — flag carts as they pass. Street parking on 65th/66th/67th feasible early; metered 8th Ave spots after ~11am are tough. Pairs naturally with Lan Zhou Handmade Noodle (~5 min walk up 8th Ave) and Ba Xuyên banh mi later in the track. Phone (718) 765-0098.",
     "sources": [
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -5499,14 +5493,14 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://east-harbor-seafood-palace.com/",
+        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T23:42:32.460Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T03:31:01.386Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -10327,8 +10321,8 @@
   {
     "id": "bush-terminal-piers-park",
     "name": "Bush Terminal Piers Park",
-    "desc": "Reclaimed-pier waterfront park 5 min from IC with tide pools, lawns, and unobstructed Manhattan-skyline + Statue of Liberty views.",
-    "longDesc": "An eight-block stretch of former shipping piers at First Ave between 43rd and 51st Streets, converted into a 27-acre waterfront park with two multipurpose soccer/baseball fields, a small nature preserve, restored tidal wetlands, and a long pier-edge esplanade looking straight at Lower Manhattan and the Statue of Liberty. The on-site lot is free on weekends, and the west-facing piers are the closest sunset-skyline spot to Industry City — a true in-zone alternative to LIC's Gantry Plaza when you don't want to lose 40 minutes of drive each way.",
+    "desc": "Free waterfront park one block south of IC with pier-level harbor + Lower Manhattan views",
+    "longDesc": "Reclaimed former port complex opened in 2014, sitting on the shoreline from 43rd to 50th between Industry City and Brooklyn Army Terminal. Two tidal ponds, restored wetlands, a forested peninsula, and a waterfront esplanade put you eye-level with New York Harbor and the Statue of Liberty. Closes at 7pm, so it's a sunset spot only in fall through early spring — in summer you'll catch golden hour right before lockup.",
     "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10340,28 +10334,28 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-75 min",
+    "duration": "30-45 min",
     "driveFromIC": "5 min",
     "hoursWeekend": "07:00-19:00",
-    "notes": "Enter at 43rd St & 1st Ave (NYC Parks). Free on-site parking lot, rarely full on weekend mornings (prked.com). Closes at dusk (7pm officially) so plan a pre-7pm visit in summer for golden hour, or pair with an IC sunset drink after. Tide pools at the south end and the viral pier swings are the photo spots; bring sneakers — paths are gravel/concrete (NYC Tourism).",
+    "notes": "Free on-site parking lot at 43rd St entrance, open 8am-8pm, well-lit (prked.com). Park itself closes at 7pm year-round (nycgovparks.org) — summer sunsets (~8:15pm in June/July) happen after closure, so plan for late-fall through early-spring sunsets when the sun drops before 7. Western-facing piers frame Lower Manhattan, NY Harbor, and the Statue of Liberty across the water (nyctourism.com). Walk in from 43rd St past the tide ponds. Pairs cleanly with [[sunset-park-hilltop]] as the pier-level counterpart to the elevated skyline view.",
     "sources": [
       {
-        "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
-        "accessed": "2026-05-16T21:12:00Z"
+        "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
-        "accessed": "2026-05-16T21:12:00Z"
+        "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://prked.com/blog/bush-terminal-piers-park-brooklyn-parking-guide",
-        "accessed": "2026-05-16T21:12:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:22:46.142Z"
+    "lastResearchedAt": "2026-05-17T03:38:40.509Z"
   },
   {
     "id": "owls-head-park",
@@ -22811,5 +22805,94 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T03:26:44.292Z"
+  },
+  {
+    "id": "bakery-1988",
+    "name": "Bakery 1988",
+    "desc": "French-Asian bakery in Sunset Park with sesame mochi bread, milk-bread toasts, and mini cakes; open 7am-7pm.",
+    "longDesc": "A trendy newer bakery on Sunset Park's 8th Ave Chinatown strip, Bakery 1988 mixes French technique with Asian flavors — sesame mochi bread, Hokkaido milk toast, Meiji matcha red bean toast, bacon egg bread, and pastel mini cakes (grape, mango Oreo). Pricing is friendly ($3-$8 per item) and the long 7am-7pm window makes it the reliable late-afternoon fallback when Dragon Bay across the street sells out. Cash-and-card counter service; quick in-and-out 10-15 min stop.",
+    "url": "https://www.yelp.com/biz/bakery-1988-brooklyn-2",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "15-30 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "07:00-19:00 Sat, 07:00-18:00 Sun",
+    "notes": "Across the street from Dragon Bay Bakery at 5711 8th Ave; deliberate fallback for late-afternoon arrivals (Yelp). Phone (929) 995-1988. Street parking on 8th Ave is rough on weekends — try 57th St side streets or the muni lot at 8th & 58th. Signature: sesame mochi bread, Hokkaido milk toast, mini cakes (restaurants-world.net).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/bakery-1988-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bakery-1988.restaurants-world.net/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bakery-1988.wheree.com/menu",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T03:28:44.119Z"
+  },
+  {
+    "id": "1915-lanzhou-hand-pulled-noodles-mott",
+    "name": "1915 Lanzhou Hand Pulled Noodles (Mott St)",
+    "desc": "Halal-friendly Lanzhou beef noodle in Chinatown — 8-hr beef-bone broth, no MSG, fresh hand-pulled noodles.",
+    "longDesc": "1915 specializes in Lanzhou-style hand-pulled beef noodle soup with a clear, eight-hour-simmered bone broth, no MSG, and a roster of variants (signature beef, braised, pickled-veg, tripe). The Mott Street branch is the closest active halal-marketed Lanzhou specialist to Industry City; Yi Lan Halal's original Flushing shop is permanently closed and never had a Sunset Park location, making this the practical halal-Lanzhou stand-in for the corpus.",
+    "url": "https://www.1915lanzhounoodles.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "halal"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "10:30-21:00",
+    "notes": "Manhattan exception: halal-certified Lanzhou hand-pulled noodle is genuinely rare; Yi Lan (Flushing) is closed (yelp.com/biz/yi-lan-halal-restaurant-flushing) and no Brooklyn halal Lanzhou specialist surfaced in Sunset Park (yelp.com/search?find_desc=lan+zhou+noodle&find_loc=Sunset+Park). The 1915 brand's @1915lanzhoubeefnoodle IG bio is labeled '100% halal restaurant' (instagram.com/1915lanzhoubeefnoodle). Drive: Industry City → Manhattan Bridge → Mott St is ~18 min off-peak weekend; Chinatown weekend parking is street-only and tight — Mulberry/Mott metered, or paid lots on Chrystie. Closed Tuesdays. Best to map this entry as a 'dietary-tagged alternative' rather than an IC-cluster anchor; zone is approximated as 'dumbo' since the corpus zone enum lacks a Chinatown bucket and Dumbo is the closest cluster on the same bridge route. Signature: beef noodle soup, secret braised beef noodles. (1915lanzhounoodles.com)",
+    "sources": [
+      {
+        "url": "https://www.1915lanzhounoodles.com/",
+        "accessed": "2026-05-16T03:30:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/1915lanzhoubeefnoodle/",
+        "accessed": "2026-05-16T03:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/1915-lanzhou-hand-pulled-noodles-new-york",
+        "accessed": "2026-05-16T03:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yi-lan-halal-restaurant-flushing",
+        "accessed": "2026-05-16T03:30:00Z"
+      },
+      {
+        "url": "https://www.gimmehalal.com/guides/new-york/the-best-halal-chinese-restaurants-nyc-and-long-island",
+        "accessed": "2026-05-16T03:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T03:36:24.147Z"
   }
 ]
