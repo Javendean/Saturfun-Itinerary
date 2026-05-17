@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Folksbier Brauerei Carroll Gardens",
-    "reason": "Tiny Carroll Gardens lager-focused brewery <8 min from IC; rounds out the neighborhood beer track with a German-style counterpoint to OHB hops",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:36:39.747Z"
-  },
-  {
-    "topic": "Widow Jane Distillery Red Hook tasting room",
-    "reason": "Pairs with Strong Rope as a Red Hook 'NY-sourced spirits' stop — distillery tour + bottle tasting expands the booze cluster beyond beer",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:38:39.593Z"
-  },
-  {
-    "topic": "Other Half Brewing Carroll Gardens taproom",
-    "reason": "Adjacent IPA-forward brewery 12 min from IC; balances Strong Rope's malt-forward NY-grain identity with hop-forward NEIPA contrast",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:38:39.593Z"
-  },
-  {
-    "topic": "Defonte's Sandwich Shop Red Hook",
-    "reason": "Classic Italian hero shop a few blocks from Strong Rope — natural pre-brewery food anchor to round out a Red Hook track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:38:39.593Z"
-  },
-  {
-    "topic": "Brooklyn Bowl Williamsburg (Wythe Ave)",
-    "reason": "Sister-category venue in the same zone — 16 lanes plus a 600-cap concert room and Blue Ribbon kitchen; pairs naturally with The Gutter as a 'go bigger' alternative for the group-activity rotation",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:41:01.101Z"
-  },
-  {
     "topic": "Melody Lanes Sunset Park bowling alley",
     "reason": "Closer-than-Gutter bowling option (~5 min from IC, on 37th St), no-frills, all-ages — fills a gap for daytime/family group activity that The Gutter's 21+ policy blocks",
     "requestedBy": "agent",
@@ -8692,5 +8662,83 @@
     "reason": "Expands the cluster's beer corpus and gives the chat agent multiple swappable options when OHB or Threes is too crowded",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T07:50:01.480Z"
+  },
+  {
+    "topic": "Wild East Brewing Co Gowanus",
+    "reason": "Active lager-forward Brooklyn brewery (Helles, Pils, Vienna) ~6 min from IC — direct replacement for the German-style slot Folksbier used to fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:52:10.232Z"
+  },
+  {
+    "topic": "Strong Rope Brewery Red Hook",
+    "reason": "Operating Red Hook brewery with farmhouse + lager program, ~8 min from IC with weekend street parking — complements OHB on the beer track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:52:10.232Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus",
+    "reason": "Anchor Gowanus brewery with pilsners and lagers, large tasting room ~7 min from IC, easy weekend parking on 3rd Ave side streets",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:52:10.232Z"
+  },
+  {
+    "topic": "Van Brunt Stillhouse Red Hook distillery tasting",
+    "reason": "Second Red Hook craft distillery within walking distance — completes a 'NY-distillery crawl' micro-itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:54:07.277Z"
+  },
+  {
+    "topic": "Cacao Prieto / Widow Jane chocolate factory tour",
+    "reason": "Same Conover St building lineage; chocolate + rum tasting adds a non-whiskey angle to the Red Hook spirits cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:54:07.278Z"
+  },
+  {
+    "topic": "Fort Defiance Red Hook cocktail bar",
+    "reason": "Walkable post-tour cocktail stop with classic-bar pedigree to extend the Red Hook drinks cluster after Widow Jane closes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:54:07.278Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom",
+    "reason": "Third anchor for a Gowanus/Carroll Gardens beer trail — pilsner/lager-forward contrast to Other Half's NEIPAs and Strong Rope's farmhouse program, 10 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:56:14.635Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens sandwich shop",
+    "reason": "High-end sandwich anchor to pair with Other Half's no-kitchen taproom; lets the itinerary engine schedule a food+beer pairing in the same 12-min cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:56:14.635Z"
+  },
+  {
+    "topic": "Valentino Pier (Louis Valentino Jr Park), Red Hook waterfront picnic spot",
+    "reason": "Perfect free outdoor pairing for Defonte's heroes — Statue of Liberty view, 5 min walk from shop, slots in between sandwich pickup and brewery",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:58:04.692Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens",
+    "reason": "Adjacent Italian-sandwich alternative if Red Hook track needs a Cobble Hill/Carroll Gardens swap-in",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:58:04.692Z"
+  },
+  {
+    "topic": "Music Hall of Williamsburg (66 N 6th St)",
+    "reason": "Sister mid-size concert venue in the same Wythe-adjacent cluster — completes a 'bowling → show' double-bill option for the night-out rotation",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:00:21.101Z"
+  },
+  {
+    "topic": "Brooklyn Bazaar / Greenpoint Terminal Market alternatives for group games + food",
+    "reason": "Need a Greenpoint-side counterpart to Brooklyn Bowl so the corpus has a non-Williamsburg group-activity-plus-food anchor in the north cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:00:21.101Z"
+  },
+  {
+    "topic": "Frames NYC / Bowlero Queens-side comparison stub",
+    "reason": "Cross-borough comparison node — lets the planner reject Manhattan/Queens bowling in favor of Brooklyn options with explicit reasoning",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:00:21.101Z"
   }
 ]

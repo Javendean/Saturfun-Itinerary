@@ -5897,9 +5897,9 @@
   },
   {
     "id": "brooklyn-bowl-williamsburg",
-    "name": "Brooklyn Bowl",
-    "desc": "16-lane bowling alley + live music venue + full-service Blue Ribbon kitchen under one Williamsburg roof",
-    "longDesc": "Iconic Williamsburg hybrid: 16 LEED-certified bowling lanes, a 600-capacity concert stage that books national touring acts nightly, and a full-service restaurant by Blue Ribbon (fried chicken is the move). Saturdays open at 11am with family bowling 12-5pm before the venue flips into late-night show mode through 2am — book lanes in advance, they fill fast on weekend nights with shows.",
+    "name": "Brooklyn Bowl Williamsburg",
+    "desc": "16-lane bowling alley + 600-cap music venue with Blue Ribbon fried-chicken kitchen on Wythe Ave",
+    "longDesc": "Brooklyn Bowl is Williamsburg's go-bigger group-activity anchor: 16 wood lanes, a 600-capacity concert room, and a full Blue Ribbon kitchen famous for its fried chicken and Southern sides. Lanes are $30 per half hour for up to 8 guests plus $5.95 shoe rentals, and the venue is 21+ after 6pm, so groups with anyone under 21 should target the all-ages weekend Family Bowl window. It pairs naturally as a 'scale up from The Gutter' option when a crew wants bowling, food and a show under one roof.",
     "url": "https://www.brooklynbowl.com/brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5909,32 +5909,38 @@
       "foodie",
       "chill"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
-    "priceBand": "$$$",
-    "duration": "2-4 hrs",
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 11:00-02:00, Sun 11:00-23:00",
-    "notes": "61 Wythe Ave, Williamsburg waterfront (brooklynbowl.com). No dedicated lot — use paid garages or street parking on weekend (brooklynbowl.com/brooklyn-faqs). Lanes bookable via venue site; show-night lanes priced premium. Blue Ribbon kitchen runs full menu late. Best for higher-budget group night-out variant when crew wants bowling + ticketed live show stacked.",
+    "hoursWeekend": "Sat 11:00-02:00 / Sun 11:00-23:00 (all-ages Family Bowl Sat 12:00-17:00, Sun 12:00-18:00; 21+ after 18:00)",
+    "notes": "61 Wythe Ave, Williamsburg. 16 lanes at $30/lane per half hour up to 8 guests, $5.95 shoe rental (brooklynbowl.com/brooklyn-bowling). Blue Ribbon kitchen runs as long as shows are on; signature is the fried chicken platter (yelp.com/biz/brooklyn-bowl-brooklyn). No on-site lot — use SpotHero/ParkWhiz for nearby garages or street parking off Wythe/N 11th (parkwhiz.com/brooklyn-bowl-parking). 21+ after 6pm, all ages during weekend daytime Family Bowl (brooklynbowl.com/brooklyn-faqs). Sundays also host The Rock and Roll Playhouse at 12:30pm — useful kid-friendly anchor.",
     "sources": [
       {
         "url": "https://www.brooklynbowl.com/brooklyn",
-        "accessed": "2026-05-16T13:45:00Z"
+        "accessed": "2026-05-17T08:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynbowl.com/brooklyn-bowling",
+        "accessed": "2026-05-17T08:00:00Z"
       },
       {
         "url": "https://www.brooklynbowl.com/brooklyn-faqs",
-        "accessed": "2026-05-16T13:45:00Z"
+        "accessed": "2026-05-17T08:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/brooklyn-bowl-brooklyn",
-        "accessed": "2026-05-16T13:45:00Z"
+        "accessed": "2026-05-17T08:00:00Z"
+      },
+      {
+        "url": "https://www.parkwhiz.com/brooklyn-bowl-parking/",
+        "accessed": "2026-05-17T08:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:44:23.226Z"
+    "lastResearchedAt": "2026-05-17T08:00:21.084Z"
   },
   {
     "id": "sip-and-play-park-slope",
@@ -6688,15 +6694,16 @@
   },
   {
     "id": "defontes-red-hook",
-    "name": "Defonte's of Brooklyn",
-    "desc": "1922 longshoreman-era hero shop — split a Nicky Special before Hometown brisket",
-    "longDesc": "Red Hook's century-old Italian sandwich institution, founded 1922 by Nick Defonte for Columbia Street dock workers and still run by his grandson. Order a half of the Nicky Special (ham, salami, provolone, fried eggplant, marinated mushrooms) or the steak pizzaiola — split it standing on the corner before driving 4 minutes to Hometown for the main event.",
-    "url": "https://www.defontesofbrooklyn.com/",
+    "name": "Defonte's Sandwich Shop",
+    "desc": "1922 Red Hook Italian hero institution — fried-eggplant heroes, cash only, blocks from Strong Rope.",
+    "longDesc": "Established 1922 by Italian immigrants, Defonte's is the blueprint old-school Brooklyn hero shop, slinging overstuffed Italian subs from a corner storefront at Columbia and Luquer. The signature Nicky Special layers capocollo, salami, ham, paper-thin fried eggplant, provolone, marinated mushrooms and house 'hot salad' (pickled cherry peppers, cucumber, celery) on a sturdy roll. Cash only, fast-moving counter — grab heroes to-go and picnic five minutes away at Valentino Pier or carry them into Strong Rope Brewery for an Italian-sub-and-pints anchor.",
+    "url": "https://www.yelp.com/biz/defontes-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
+      "chill",
       "curious"
     ],
     "dietary": [
@@ -6706,29 +6713,29 @@
     "duration": "30-45 min",
     "driveFromIC": "10 min",
     "hoursWeekend": "Sat 6:00-16:00, Sun closed",
-    "notes": "Cash-friendly old-school counter; no real seating — eat at the sidewalk window or take it to Valentino Pier (5 min walk). Closed Sunday so this slot only works on Saturday itineraries. Cut-off is 4pm sharp — schedule the visit by ~3pm to leave runway. Featured on Diners, Drive-Ins and Dives (2012) (wikipedia). Order a HALF hero, not a whole — they are enormous and you have Hometown next (yelp, roadfood). Weekend street parking on Columbia/Lorraine is usually findable.",
+    "notes": "Cash only — bring bills (The Infatuation). Order the Nicky Special; the fried-eggplant layer stays crunchy even on saucy combos (Roadfood). Street parking on Columbia is usually findable on weekends; if full, park at Valentino Pier (Coffey St) 0.5 mi away and walk back. Sunday closed per Yelp May 2026 — pair this anchor with a Saturday Red Hook track only.",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Defonte's",
-        "accessed": "2026-05-16T07:15:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/defontes-brooklyn",
-        "accessed": "2026-05-16T07:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/defontes-sandwich-shop/",
-        "accessed": "2026-05-16T07:15:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/defontes",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://roadfood.com/restaurants/defontes-sandwich-shop",
-        "accessed": "2026-05-16T07:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/defontes-sandwich-shop/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T07:16:15.580Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:58:04.673Z"
   },
   {
     "id": "brooklyn-crab",
@@ -11285,9 +11292,9 @@
   },
   {
     "id": "other-half-brewing-carroll-gardens",
-    "name": "Other Half Brewing — Centre Street Flagship",
-    "desc": "Original flagship taproom of the cult NE-IPA brewery — 20 drafts, dog-friendly, BYO food allowed.",
-    "longDesc": "The 2014 flagship of Other Half Brewing, where the now-legendary hazy IPA program was born, sitting at the meeting point of Carroll Gardens, Red Hook, and Gowanus. The taproom pours 20 rotating drafts spanning New England IPAs, imperial stouts, lagers, and experimental sours, plus cans/bottles to-go and merch. No kitchen, but light snacks are sold and outside delivery is encouraged from neighborhood spots like Court Street Grocers and F&F Pizzeria — pairs perfectly with a Threes/Industry City beer-flight track.",
+    "name": "Other Half Brewing — Centre Street Taproom",
+    "desc": "Original 2014 NEIPA-pioneer taproom with 20 rotating drafts at the Carroll Gardens/Red Hook/Gowanus seam.",
+    "longDesc": "Other Half's flagship Centre Street taproom is where Brooklyn's hazy IPA boom started in 2014, and the bar still pours 20 rotating drafts skewed toward Double Dry Hopped NEIPAs alongside lagers, stouts, and seasonal collabs. The room is utilitarian-industrial — high-tops, garage doors, dogs on leashes, kids tolerated — with cans and merch to-go and light snacks; food usually arrives via a rotating truck or you bring your own. It's a sharp hop-forward counter to Strong Rope's NY-grain malt focus, only ~12 min from Industry City.",
     "url": "https://otherhalfbrewing.com/location/centre-street/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -11296,30 +11303,32 @@
       "chill",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "8-10 min",
-    "hoursWeekend": "Sat 10:00-24:00, Sun 11:00-21:00",
-    "notes": "Cult-favorite brewery founded 2014; flagship is at the Carroll Gardens / Red Hook / Gowanus crossroads (source: otherhalfbrewing.com). 20 rotating drafts plus wine/cider/soft drinks; cans + bottles to-go; merch in-stock (source: otherhalfbrewing.com). Dog-friendly, wheelchair accessible, supervised kids allowed (source: otherhalfbrewing.com). No food service — BYO/delivery from Court Street Grocers, F&F Pizzeria, Via Roma encouraged (source: otherhalfbrewing.com). Street parking only — site itself recommends F/G to Smith-9th, but driving from IC is ~1.7 mi up 3rd Ave/Hamilton, typically 8-10 min weekend (source: Yelp, otherhalfbrewing.com). Pairs naturally with Threes Brewing for a two-stop beer-flight track.",
+    "duration": "45-60 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 10:00-00:00, Sun 11:00-21:00",
+    "notes": "20 rotating drafts — order flights to taste the DDH NEIPA range (source: otherhalfbrewing.com). Street parking only in surrounding blocks; brewery explicitly warns against the nearby McDonald's lot due to towing (source: otherhalfbrewing.com). Two blocks from Smith-9th St F/G if driving falls through. Dogs welcome leashed, kids permitted with supervision, wheelchair accessible, first-come seating, no bottle shares allowed. Cans + merch to-go. Pair with Strong Rope for a NY-grain vs. NEIPA contrast loop, or chain into a Carroll Gardens dinner.",
     "sources": [
       {
         "url": "https://otherhalfbrewing.com/location/centre-street/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/other-half-brewing-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/other-half-brewing-centre-street",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/other-half-brewing",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T12:47:54.648Z"
+    "lastResearchedAt": "2026-05-17T07:56:14.612Z"
   },
   {
     "id": "strong-rope-brewery-red-hook",
@@ -25218,5 +25227,81 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T07:48:07.556Z"
+  },
+  {
+    "id": "folksbier-brauerei",
+    "name": "Folksbier Brauerei (PERMANENTLY CLOSED)",
+    "desc": "PERMANENTLY CLOSED Oct 2021 — former Carroll Gardens lager-focused brewery; do not include in itineraries",
+    "longDesc": "Folksbier was a seven-year-old Carroll Gardens microbrewery at 101 Luquer St specializing in traditional German lagers and ales. Owner Travis Kauffman abruptly shuttered operations in October 2021 — staff were notified by email and the brewery's website and social channels were taken down. As of May 2026 Yelp still lists the business as CLOSED and no reopening has been reported; exclude from active itinerary corpus.",
+    "url": "https://brewyorknewyork.com/post/670128294255083520/folksbier-abruptly-shutters-in-carroll-gardens",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "CLOSED — permanently shut Oct 2021",
+    "notes": "DO NOT SCHEDULE. Folksbier closed abruptly in Oct 2021 after seven years (Brew York). Yelp page still active but labeled CLOSED as of April 2026 (Yelp). Former address 101 Luquer St, Brooklyn NY 11231. The German-lager niche in this corridor is now best filled by Strong Rope (Red Hook saison/lager) or Wild East (Gowanus, Helles/Pils program) — see enqueue.",
+    "sources": [
+      {
+        "url": "https://brewyorknewyork.com/post/670128294255083520/folksbier-abruptly-shutters-in-carroll-gardens",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/folksbier-brauerei-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://untappd.com/Folksbier",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T07:52:10.214Z"
+  },
+  {
+    "id": "widow-jane-distillery",
+    "name": "Widow Jane Distillery",
+    "desc": "Red Hook small-batch bourbon distillery with weekend tours and the Botanica cocktail bar on-site.",
+    "longDesc": "Widow Jane has been distilling bourbon and rye in a Red Hook warehouse on Conover Street since 2012, blending mature spirits with Rosendale, NY limestone mineral water. Weekend public tours ($27, capped at 10 guests) walk you through the rickhouse and production floor and end with a flight of the 10 Year Bourbon, Paradigm Rye, and Apple Wood Rye. After the tour, stay for cocktails at Botanica, the on-site bar carved out of the distillery's barrel room.",
+    "url": "https://widowjane.com/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "curious",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat-Sun 14:00-22:00 (tours 13:00/15:00/17:00); Fri 17:00-22:00 (tour 16:00)",
+    "notes": "218 Conover St, Red Hook (widowjane.com/visit). Public tour $27 includes flight of 10yr Bourbon, Paradigm Rye, Apple Wood Rye; max 10 guests, reserve ahead (widowjane.com). Botanica bar opens after tours for cocktails in the rickhouse (widowjane.com). Pairs naturally with Strong Rope Red Hook for an NY-spirits double-header; street parking on Conover/Van Brunt is usually findable on weekends. No subway-walk required since the user drives — F/G is the official transit option (widowjane.com).",
+    "sources": [
+      {
+        "url": "https://widowjane.com/visit",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/widow-jane/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/lifestyle-culture/brooklyn-distillery-toasts-13-years-with-a-spirited-red-hook-celebration-11311103",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:54:07.257Z"
   }
 ]
