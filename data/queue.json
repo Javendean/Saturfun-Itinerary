@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sunrise Mart at Japan Village (Japanese grocery anchor)",
-    "reason": "Same Building 4 cluster — completes the Japan Village retail trio with Kuraichi + WakuWaku",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:05:43.421Z"
-  },
-  {
-    "topic": "Hidden Lee Korean liquor and pantry shop Industry City",
-    "reason": "Adjacent East Asian specialty retail concept; expands the take-home-bottle category beyond Japanese",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:05:43.421Z"
-  },
-  {
-    "topic": "Brooklyn Kura sake brewery Sunset Park",
-    "reason": "First American sake brewery, ~10 min from IC; natural pairing with Kuraichi for sake-focused tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:05:43.421Z"
-  },
-  {
-    "topic": "Mr. Taka Ramen or other Japan Village food hall standout stall — pair as cheaper counterpoint inside the same building",
-    "reason": "Lets the IC mini-track offer a $ and $$$ option in the same complex",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:07:46.855Z"
-  },
-  {
-    "topic": "Wafu-Ya izakaya or sake bar near Industry City — evening drinks after Uesugi lunch",
-    "reason": "Extends the Japanese mini-track into the evening band without leaving the IC cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:07:46.855Z"
-  },
-  {
     "topic": "Sunny's Red Hook or Hometown Bar-B-Que — post-omakase dive/drinks within 10 min drive",
     "reason": "Diversifies vibe after a refined sit-down — high-contrast next stop for the same track",
     "requestedBy": "agent",
@@ -9940,5 +9910,95 @@
     "reason": "Williamsburg-cluster venues all share the same parking pain; a single research card on garages/meters would unblock multiple Williamsburg entries",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T11:58:41.472Z"
+  },
+  {
+    "topic": "Osakana (Japan Village fishmonger + sushi counter)",
+    "reason": "Fourth Japan Village tenant — completes the Japanese food cluster and gives a sit-down counter option alongside the three retail anchors",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:00:50.150Z"
+  },
+  {
+    "topic": "Industry City Food Hall overview entry",
+    "reason": "Meta-anchor that lets the itinerary engine treat IC's food hall as a single decision node instead of N tenants",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:00:50.150Z"
+  },
+  {
+    "topic": "Hi-Collar or Bar Goto-style Japanese cocktail bar closest to IC",
+    "reason": "Evening pairing for a Japan Village afternoon — currently no Japanese-bar entry in driving range of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:00:50.150Z"
+  },
+  {
+    "topic": "Sool (drinksool.com) Korean sool retailer NYC",
+    "reason": "Curated Korean-spirits retailer — alternative bottle-shop angle if Hana is unavailable; widens the take-home Korean liquor category",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:03:41.512Z"
+  },
+  {
+    "topic": "Yobo Spirit House Korean soju bar NYC",
+    "reason": "Korean spirit-forward bar/retail concept; pairs as evening companion to a Hana daytime tasting",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:03:41.512Z"
+  },
+  {
+    "topic": "Andamiro rare Korean food Park Slope (opened March 2026)",
+    "reason": "New rare-Korean-food restaurant 10-12 min drive from IC in Park Slope — pairs neighborhood-cluster with Hana visit and expands the geographic track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:03:41.512Z"
+  },
+  {
+    "topic": "Kuraichi Japanese grocery & sake bottle shop Industry City",
+    "reason": "Direct sake-pairing partner inside IC — completes a 'buy bottles + drink drafts' sake-focused micro-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:05:44.657Z"
+  },
+  {
+    "topic": "Hayashi Brooklyn izakaya Sunset Park",
+    "reason": "Nearby Japanese small-plates spot extends sake-themed track with a food anchor beyond IC's food hall",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:05:44.657Z"
+  },
+  {
+    "topic": "Turnstile Tours Brooklyn Kura brewery tour booking & timing",
+    "reason": "Guided 60-min brewery walkthrough is a stronger 'curious' hook than a walk-in tasting and would justify a dedicated tour-style track variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:05:44.657Z"
+  },
+  {
+    "topic": "Hachi takoyaki & okonomiyaki stall at Japan Village",
+    "reason": "$5–8 Japanese street-food snack option to round out the in-building tour and add a photo-worthy stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:08:00.857Z"
+  },
+  {
+    "topic": "Obentoyasan onigiri counter at Japan Village",
+    "reason": "True $ anchor ($3.50 rice balls) — completes a $/$$/$$$ ladder inside one building",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:08:00.857Z"
+  },
+  {
+    "topic": "Sushi Uesugi omakase at Japan Village",
+    "reason": "The $$$ counterpoint already gestured at by the task — confirms the same-building price ladder",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:08:00.857Z"
+  },
+  {
+    "topic": "Wakuwaku izakaya at Japan Village Industry City — shochu cocktails + shared plates",
+    "reason": "Sister option inside IC for a full izakaya dinner instead of brewery drinks; rounds out the Japanese mini-track corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:10:28.684Z"
+  },
+  {
+    "topic": "Kuraichi sake and Japanese liquor shop at Japan Village IC",
+    "reason": "Adjacent retail anchor — lets the itinerary swap drinks-in for a bottle pickup if Brooklyn Kura is at capacity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:10:28.684Z"
+  },
+  {
+    "topic": "Rule of Thirds izakaya Williamsburg — Japanese highballs evening",
+    "reason": "Backup izakaya 15-20 min drive from IC if user wants to leave the cluster for the evening band",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:10:28.684Z"
   }
 ]

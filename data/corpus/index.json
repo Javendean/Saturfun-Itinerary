@@ -9194,9 +9194,9 @@
   {
     "id": "sunrise-mart-japan-village",
     "name": "Sunrise Mart at Japan Village",
-    "desc": "NYC's biggest Sunrise Mart — Japanese grocery + onigiri, bento, snacks inside Industry City",
-    "longDesc": "The flagship of the Sunrise Mart chain (which has served NYC since 1995) anchors the 20,000 sq ft Japan Village inside Industry City — sushi-grade fish, fresh produce, imported snacks, cosmetics, and ready-made bento. The adjoining food hall counter Obentoyasan makes onigiri to order and packs daily bento, so a browse-and-snack beat lands naturally between the bakery and the next stop. Easy walk from any other IC tenant; weekend parking is in the IC lots.",
-    "url": "https://www.japanvillage.com/eat-drink",
+    "desc": "Imported-from-Japan grocery anchor inside Industry City's Japan Village — produce, wagyu, snacks, sake",
+    "longDesc": "The Brooklyn outpost of the Sunrise Mart family is the grocery anchor of Japan Village, a ~20,000 sq ft Japanese marketplace inside Industry City. Expect imported produce, fresh fish for sushi, thinly sliced shabu-shabu pork, wagyu, sake, and the snack/sweets wall — matcha KitKats, Milky candies, hard-to-find condiments. Pairs naturally with Kuraichi (housewares) and WakuWaku (gifts) next door for a one-stop Japan Village loop.",
+    "url": "https://shop.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -9206,39 +9206,40 @@
       "chill"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
-    "priceBand": "$",
+    "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00 (food hall closes 20:30 Sat / 19:00 Sun)",
-    "notes": "Largest Sunrise Mart in NYC, opened Nov 2018 as anchor of Japan Village food hall (Gothamist, Brooklyn Based). Made-to-order onigiri and bento from the Obentoyasan counter inside the hall (restaurantjun.com). Same building as Panya bakery — perfect handoff after the bakery beat. Parking in Industry City's weekend lots, no separate drive.",
+    "hoursWeekend": "11:00-21:00 (Fri-Sat), 11:00-20:00 (Sun)",
+    "notes": "Entrance 934 3rd Ave, Building 3 of Industry City — though clusters with Kuraichi/WakuWaku across the Japan Village footprint (Building 4 cluster per task). Weekend parking available in IC's lots. Grocery hours run later than the food hall (which closes 19:30 weekends) (japanvillage.com). Strong dietary range — abundant vegetarian/vegan pantry items (tofu, seaweed, miso, plant-based snacks) (yelp.com).",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/sunrise-mart/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.japanvillage.com/eat-drink",
+        "url": "https://sunrisemart.com/pages/visit-us",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
+        "url": "https://thebridgebk.com/brooklyn-finally-gets-a-japanese-marketplace-of-its-own/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
+        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://restaurantjun.com/japanese-restaurant-near-me/obentoyasan/",
+        "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T11:47:42.218Z"
+    "lastResearchedAt": "2026-05-17T12:00:50.119Z"
   },
   {
     "id": "ramen-setagaya-industry-city",
@@ -11894,15 +11895,15 @@
   {
     "id": "brooklyn-kura",
     "name": "Brooklyn Kura",
-    "desc": "America's first sake brewery — taproom with rotating draft sake, shochu cocktails, and small bites inside Industry City.",
-    "longDesc": "Brooklyn Kura is the first sake brewery to open in the United States, brewing junmai-style sake on-site at Industry City and pouring rotating varieties on tap. The taproom (Building 6, Courtyard 5-6) serves flights, single pours, shochu cocktails, and an inventive snack menu — and runs guided brewery tours plus pairing classes (sake & cheese, etc.). Pairs perfectly as a post-dinner sake flight after WakuWaku without leaving the campus.",
+    "desc": "NYC's first sake brewery and tap room, on-site at Industry City — sake on tap, shochu cocktails, small bites.",
+    "longDesc": "Brooklyn Kura is the only sake brewery in NYC (one of just two in the five boroughs), tucked into Industry City's Courtyard 5/6. The tap room pours flights of their house-brewed junmai alongside guest sakes, shochu-based cocktails, and a tight Japanese snack menu — ideal for unwinding after lunch at Uesugi without leaving the IC cluster. It's casual, brewery-style seating with the tanks visible behind the bar.",
     "url": "https://www.brooklynkura.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
       "chill",
+      "curious",
       "foodie"
     ],
     "dietary": [
@@ -11910,27 +11911,27 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min (in IC)",
-    "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00 (Thu-Fri 16:00-21:00)",
-    "notes": "Address: 68 34th St, Building 6, Courtyard 5-6, Brooklyn NY 11232 (official site lists this; IC tenant page lists 34 34th St — same building entrance). Closed Mon-Wed. Sake on tap is the headline draw; flights are the standard order. Tours and pairing classes bookable on their events page (source: brooklynkura.com/pages/events). Industry City parking lots on site, $ weekend rate. Walk from WakuWaku (Bldg 2) ~3 min through Courtyard 3 → 5/6 (source: industrycity.com/tenants/brooklyn-kura). Larger-than-8 parties: events@brooklynkura.com.",
+    "driveFromIC": "0 min (on-site)",
+    "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
+    "notes": "Located in Industry City Courtyard 5/6 at 68 34th St (industrycity.com listing). Saturday 12-9pm, Sunday 1-8pm; Thu/Fri 4-9pm (brooklynkura.com/pages/about). Sake on tap, expanded bar menu with shochu cocktails, snacks and small bites. Walk-in friendly; private event bookings via events@brooklynkura.com. Pairs naturally as the evening cap to a Japanese mini-track that starts with Uesugi lunch — no driving required between stops.",
     "sources": [
       {
         "url": "https://www.brooklynkura.com/pages/about",
-        "accessed": "2026-05-17T11:30:00Z"
+        "accessed": "2026-05-17T12:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/brooklyn-kura/",
-        "accessed": "2026-05-17T11:30:00Z"
+        "accessed": "2026-05-17T12:00:00Z"
       },
       {
-        "url": "https://turnstiletours.com/brooklyn-kura-sake-brewery-industry-city/",
-        "accessed": "2026-05-17T11:30:00Z"
+        "url": "https://www.yelp.com/biz/brooklyn-kura-brooklyn",
+        "accessed": "2026-05-17T12:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T11:29:14.996Z"
+    "lastResearchedAt": "2026-05-17T12:10:28.662Z"
   },
   {
     "id": "bamboo-garden-sunset-park",
@@ -21504,51 +21505,51 @@
   {
     "id": "ramen-setagaya-japan-village",
     "name": "Ramen Setagaya at Japan Village",
-    "desc": "Tokyo-style tonkotsu inside Industry City's Japanese food hall — creamy pork bone broth, chashu, ajitama egg",
-    "longDesc": "On-site at Industry City's Japan Village, Setagaya pours a creamy pork-bone tonkotsu over chashu, bamboo shoots, and a soft-cooked egg, with Black Garlic Tonkotsu, Black Garlic Tsukemen, and Spicy Miso as standout variations. The food-hall counter format makes it a fast solo-anchor meal you can stack with Sunrise Mart browsing or Sushi Uesugi next door. Validated Industry City parking is available with a $50 Sunrise Mart spend or $100 at Sushi Uesugi.",
+    "desc": "Tokyo-bred tonkotsu and light shio ramen inside Industry City's Japan Village food hall — the cheap-and-fast counterpoint.",
+    "longDesc": "Setagaya is a Tokyo import (NYC since 2007) tucked inside the Japan Village food hall at 934 3rd Ave. The signature is a clean, light shio/shoyu broth alongside heavier black garlic tonkotsu, with bowls $16–19 and vegan options available. Order at the stall, grab a seat in the communal food-hall, and pair with onigiri from Obentoyasan or takoyaki from Hachi for a $ tour of the same building.",
     "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/66d8903b2004dcde1d8eb938_ramen.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "chill"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:30-20:30, Sun 11:30-19:30",
-    "notes": "Inside Japan Village food hall at 934 3rd Ave, Industry City (japanvillage.com). Signature is the Classic Tonkotsu — creamy pork bone broth, chashu, menma, ajitama (japanvillage.com). Other ramen: Black Garlic Tonkotsu, Black Garlic Tsukemen, Spicy Miso, plus a Shio (dried fish + kelp + chicken) on the broader Setagaya menu (setagayany.com). Validated parking at IC lot with $50 Sunrise Mart or $100 Sushi Uesugi receipt (yelp Q&A). 199+ photos / 79 reviews on Yelp for the 3rd Ave location (yelp.com).",
+    "hoursWeekend": "11:30-20:30 Sat / 11:30-19:30 Sun",
+    "notes": "Inside Japan Village food hall (no separate parking needed — use Industry City lots). Classic Tonkotsu $16, Black Garlic Tonkotsu $17, DX upgrades +$2 (ramen-nyc.com). Tokyo-based brand known for restrained, lighter broths in a city dominated by heavy tonkotsu (japanvillage.com). Counter seating lets you watch the noodle pull (timeout.com). Mr. Taka Ramen's Brooklyn outpost at 55 Water St is closed per Yelp (May 2026), so Setagaya is the in-building ramen pick.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.setagayany.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.ramen-nyc.com/restaurants/ramen-setagaya-industry-city",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/mr-taka-ramen-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T01:35:50.855Z"
+    "lastResearchedAt": "2026-05-17T12:08:00.830Z"
   },
   {
     "id": "wakuwaku-izakaya-industry-city",
@@ -27541,5 +27542,50 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T11:58:41.446Z"
+  },
+  {
+    "id": "hana-makgeolli",
+    "name": "Hana Makgeolli",
+    "desc": "Only US makgeolli brewery — Korean rice-wine bottle shop, tasting flights, and anju snacks in Greenpoint",
+    "longDesc": "Alice Jun's Greenpoint brewery is the only operation in the United States producing traditional Korean makgeolli, soju, and cheongju on-site, with a tasting room out front pouring flights alongside anju like pajeon and kimchi arancini. The retail counter sells bottles to take home — traditional, botanical, alternative-grain, and the new 20% ABV Hana Soju — making it the Korean counterpart to Industry City's Japanese sake stops. Optional 45-minute brewery tours Thursday-Sunday end in a guided three-pour tasting.",
+    "url": "https://www.hanamakgeolli.com/shop",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 13:00-23:00, Sun 13:00-19:00",
+    "notes": "201 Dupont St, Brooklyn NY 11222. Friday open 17:00-23:00; brewery tours Thu-Sun by reservation (Resy). Take-home bottles ship nationwide except AL/AR/CT/DE/MI/MS/RI/SD/UT/VA; free NYC local delivery and free shipping over $100 (hanamakgeolli.com/shop). Founded 2017 by Alice Jun, only US makgeolli brewery (Resy, 2024). Drive ~22 min from IC via Gowanus + BQE; Dupont St has weekend street parking. Originally queued as 'Hidden Lee' — that exact venue could not be verified across three web searches, so this is the strongest real fit for the same corpus slot (Korean take-home-bottle adjacent to Kuraichi).",
+    "sources": [
+      {
+        "url": "https://www.hanamakgeolli.com/shop",
+        "accessed": "2026-05-17T12:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hana-makgeolli-brooklyn",
+        "accessed": "2026-05-17T12:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2024/01/hana-makgeolli-nyc/",
+        "accessed": "2026-05-17T12:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2021/08/12/hana-makgeolli-tasting-room-opens-saturday/",
+        "accessed": "2026-05-17T12:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T12:03:41.484Z"
   }
 ]
