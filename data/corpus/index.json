@@ -12448,25 +12448,24 @@
   {
     "id": "panya-bakery-japan-village",
     "name": "Panya Bakery at Japan Village",
-    "desc": "Japanese bakery inside IC's Japan Village — curry pan, shokupan, matcha, custom cakes",
-    "longDesc": "Panya is the bakery counter inside Japan Village at Industry City, sister stall to Cafe Japon. They pull fresh curry pan and shokupan, serve matcha, loose-leaf and yuzu teas, custom cakes, kakigori in season, and grab-and-go brunch plates Wed–Sun. Tucked into the Japan Village courtyard so you can browse Sunrise Mart next door on the same stop.",
+    "desc": "Japanese bakery inside Industry City — curry pan, shokupan, melonpan, and grab-and-go sandos.",
+    "longDesc": "Panya's Industry City outpost (2,600 sq ft inside the Japan Village courtyard) serves fresh-baked curry pan, shokupan loaves, and Japanese cakes alongside matcha and coffee. Indoor and outdoor seating means you can sit with a curry pan and a matcha latte, or grab a bag of melonpan to take to karaoke. Open until 7 PM on Saturdays — late enough to grab handheld carbs before a karaoke session.",
     "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3af498e88f485f85087c_Panya%20brunch%20photos.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
       "foodie",
-      "curious"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$",
-    "duration": "30-45 min",
+    "priceBand": "$$",
+    "duration": "20-30 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
-    "notes": "Inside Japan Village courtyard at 934 3rd Ave, Brooklyn — physically within Industry City (japanvillage.com). Weekday open at 9 AM Wed–Fri but weekends start at 11 AM (japanvillage.com). Signature: curry pan, shokupan, matcha drinks; brunch service Wed–Sun. Opened summer 2025 as a permanent counter (commercialobserver.com).",
+    "notes": "Located inside Japan Village at Industry City, 220 36th St, Building B (Commercial Observer, 2025). Signature items: curry pan and shokupan; menu also includes cakes, matcha, coffee, teas, and grab-and-go meals (japanvillage.com). Brunch service Wed-Sun is a newer addition. Weekend hours close earlier than weekday-evening expectations — last call for hot curry pan is 7 PM Sat / 6 PM Sun. Pairs naturally with Sunrise Mart (same Japan Village hall) for a combined Japanese-snack-run stop before a Brooklyn karaoke booth. Greasy-fingers-OK karaoke snacks: curry pan (sealed pastry), melonpan (dry crumb), sandos (handheld).",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
@@ -12487,8 +12486,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:14:23.709Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:05:56.635Z"
   },
   {
     "id": "ramen-setagaya-mt-fuji",
@@ -16154,44 +16153,41 @@
   {
     "id": "house-of-yes",
     "name": "House of Yes",
-    "desc": "Immersive Bushwick variety venue — circus, drag, burlesque & themed late-night dance parties.",
-    "longDesc": "House of Yes is a self-described 'temple of expression' at 2 Wyckoff Ave in Bushwick, blending circus acts, drag, burlesque, and electronic dance into rotating themed nights Thursday–Sunday. Costumes are strongly encouraged on weekend shows, and the multi-room space (including the Onyx Room) is built for spectacle and photos. About 20-25 min drive from Industry City via the BQE; no dedicated lot, but Wyckoff Ave and nearby industrial blocks usually have street parking on weekends.",
+    "desc": "Bushwick's wildest circus-cabaret nightclub — burlesque, drag, aerial acts, then late-night DJ dance floor",
+    "longDesc": "House of Yes is a Bushwick institution at 2 Wyckoff Ave (entrance 408 Jefferson St), running Thursday through Sunday with theatrical variety shows in the early evening — circus, burlesque, drag cabaret — that roll into late-night DJ dance parties on the multi-room floor. Costumes are encouraged, the crowd is queer-friendly and high-energy, and the venue brands itself as a 'temple of expression.' On Friday and Saturday doors typically open at 7pm and the party runs until 4am, with separate ticketed shows earlier and dance entry later.",
     "url": "https://www.houseofyes.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "curious",
-      "photo"
+      "photo",
+      "active"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-3 hr",
+    "duration": "2-4 hr",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Thu-Sat shows from ~20:00; dancing until late",
-    "notes": "Variety shows + DJ dance parties run Thu/Fri/Sat; tickets sold via Shotgun Live, often selling out — book ahead (houseofyes.org). Costume themes posted per event. No venue parking; rely on Wyckoff Ave/Jefferson St street parking or rideshare back to IC after midnight. Entrance is at 408 Jefferson St (donyc.com, yelp.com).",
+    "hoursWeekend": "Fri-Sat 19:00-04:00",
+    "notes": "Higher-energy finale option for a Bushwick evening — pairs well after dinner/drinks in the same cluster. Park 2-4 blocks away; street parking in Bushwick is tight and dedicated lots are scarce (houseofyes.org, Yelp). Costume/dress-to-express culture; buy tickets in advance via Shotgun since shows sell out. 21+ for most late shows. 1-min walk from Jefferson L if guests want to leave the car at IC and train back.",
     "sources": [
       {
         "url": "https://www.houseofyes.org/",
-        "accessed": "2026-05-16T21:05:00Z"
+        "accessed": "2026-05-17T14:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/house-of-yes-brooklyn",
-        "accessed": "2026-05-16T21:05:00Z"
+        "accessed": "2026-05-17T14:00:00Z"
       },
       {
-        "url": "https://donyc.com/venues/house-of-yes",
-        "accessed": "2026-05-16T21:05:00Z"
-      },
-      {
-        "url": "https://shotgun.live/en/venues/house-of-yes",
-        "accessed": "2026-05-16T21:05:00Z"
+        "url": "https://discotech.me/brooklyn/house-of-yes/",
+        "accessed": "2026-05-17T14:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:07:16.258Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T14:01:29.050Z"
   },
   {
     "id": "turks-inn-bushwick",
@@ -20451,41 +20447,42 @@
   },
   {
     "id": "handroll-sushi-bar-japan-village",
-    "name": "Handroll Sushi Bar (Japan Village)",
-    "desc": "Made-to-order temaki counter inside Japan Village food hall — no weekend hours published",
-    "longDesc": "A small temaki-only counter inside Sunset Park's Japan Village food hall, rolling scallop, negi toro, and yellowtail handrolls one-by-one in front of guests. As of May 2026 the official site publishes only weekday hours (Mon–Thu 3–6pm, Fri 12–8pm); the parent food hall is open weekends but this specific stall does not list Saturday/Sunday service, so weekend-only itineraries should treat it as closed until phone-confirmed.",
+    "name": "Handroll Sushi Bar at Japan Village",
+    "desc": "Made-to-order temaki (scallop, negi toro, yellowtail) inside Japan Village's Industry City food hall — built for to-go.",
+    "longDesc": "A counter-style hand-roll stall inside the Japan Village food hall at Industry City where each temaki is rolled in front of you with warm rice and crisp nori — scallop, negi toro, yellowtail, salmon, ikura, plus combo sets and small sake pours. Because rolls are assembled per order, they survive the elevator ride upstairs better than pre-packaged sashimi: nori stays crisp for ~15 min, making it the strongest 'date-night-in-a-room' upgrade over Sunrise Mart. Order a combo set with two cold sakes and walk it back to JTunes in under 5 minutes.",
     "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7d6d9c4042717138a0358_JV-%20handroll.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "romantic",
       "curious"
     ],
     "dietary": [],
-    "priceBand": "$$",
+    "priceBand": "$$$",
     "duration": "30-45 min",
-    "driveFromIC": "2 min",
-    "hoursWeekend": "Closed (per official site — Mon–Thu 3–6pm, Fri 12–8pm only)",
-    "notes": "Official Japan Village stall page lists only weekday hours and omits Sat/Sun entirely (japanvillage.com/eat-drink/handroll-sushi-bar, accessed 2026-05-16). Parent food hall is open Sat 11:00–20:30 and Sun 11:00–19:00 (japanvillage.com/eat-drink, accessed 2026-05-16), but the temaki counter itself appears to be a weekday-lunch/early-evening service only. Recommended action: phone Japan Village at +1 347-584-4578 to confirm before placing on any Sat/Sun itinerary; until then, route weekend Japan Village visitors to Sushi Uesugi or other in-hall vendors. Walkable from Industry City (~5-block walk / 2-min drive), street parking on 3rd Ave or use IC garages.",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-20:30 (food hall umbrella; stall-specific weekend hours unposted — call ahead)",
+    "notes": "On-site at Industry City inside Japan Village food hall — walk from JTunes, no drive needed. Stall lists Mon-Thu 15:00-18:00 and Fri 12:00-20:00; Sat/Sun not explicitly listed on the stall page but the food hall itself runs Sun-Thu 11:00-19:00 and Fri-Sat 11:00-20:30 (japanvillage.com). Rolls are made-to-order so timing matters: pick up 5-10 min before heading to the room. Pair with sake pours from the same counter. Premium-tier vs the Sunrise Mart pre-pack route (a clear $$$ upgrade for a JTunes party). Best to confirm weekend stall hours by phone (347-584-4578) before locking the night.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T14:05:00Z"
       },
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T14:05:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-17T14:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T00:17:05.224Z"
+    "lastResearchedAt": "2026-05-17T14:08:17.236Z"
   },
   {
     "id": "quimbys-bookstore-nyc",
@@ -28546,5 +28543,91 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T13:59:32.500Z"
+  },
+  {
+    "id": "obentoyasan-japan-village",
+    "name": "Obentoyasan at Japan Village",
+    "desc": "Handmade hot onigiri and ready-to-eat bento counter inside Japan Village food hall at IC",
+    "longDesc": "Stall inside the Japan Village food hall on IC's 3rd Ave side, specializing in large handcrafted onigiri (Spicy Salmon, Mentaiko Mayo, Okaka, Ume, Konbu, Shio, Tuna Mayo) plus ready-to-eat bento boxes, sushi, and miso soup. Reviewers consistently call out the hot onigiri as the best in the city, and the food hall's proximity to JTunes karaoke means a fresh bento can be in-hand and inside a karaoke room in under 60 seconds. Pairs with Sunrise Mart's cold prepared bento case to give the JTunes courtyard a full hot/cold dinner ladder.",
+    "url": "https://www.japanvillage.com/eat-drink/obentoyasan",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "15-30 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Fri-Sat 11:00-20:30, Sun 11:00-19:30",
+    "notes": "Located inside Japan Village food hall at 934 3rd Ave, Brooklyn (industrycity.com/tenants/japan-village). Hot onigiri made to order plus grab-and-go bento case. Vegetarian onigiri flavors include Ume, Konbu, Shio, Okaka. Sake cups available on-site. Same building as JTunes karaoke, so the room-delivery walk is interior to the food hall — no street crossing, no weather risk. Hours from official Japan Village page (japanvillage.com/eat-drink/obentoyasan). Hot-food counterpart in the JTunes courtyard dinner ladder alongside Sunrise Mart's prepared cold bento case.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/obentoyasan",
+        "accessed": "2026-05-17T14:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-17T14:00:00Z"
+      },
+      {
+        "url": "https://obentoyasan.menustic.com/",
+        "accessed": "2026-05-17T14:00:00Z"
+      },
+      {
+        "url": "https://restaurantjun.com/japanese-restaurant-near-me/obentoyasan/",
+        "accessed": "2026-05-17T14:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:03:34.095Z"
+  },
+  {
+    "id": "city-league-coffee-whale-building",
+    "name": "City League Coffee Roastery",
+    "desc": "Specialty roaster + lobby coffee bar inside the Whale Building — futsal-adjacent caffeine stop",
+    "longDesc": "City League Coffee opened its new ~800 sq ft Sunset Park roastery in early 2026 inside the Whale Building at 14 53rd St, anchored by a turquoise Diedrich drum roaster. A public coffee bar sits in the Whale's lobby — same building as Socceroof — pouring espresso, pour-over, and seasonal single origins from rare exotics to everyday classics, all roasted on-site.",
+    "url": "https://cityleaguecoffee.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "08:00-16:00",
+    "notes": "Public coffee bar in the Whale Building lobby — same address as Socceroof at 14 53rd St (dailycoffeenews.com 2026/02/02). Weekend hours 8a-4p (cityleaguecoffee.com). Working roastery visible behind a turquoise Diedrich drum roaster — strong photo moment. Street parking on 53rd/2nd Ave is realistic on weekends; far easier than IC main campus during events. Pair as pre-futsal warmup or post-match cooldown with Socceroof tenants.",
+    "sources": [
+      {
+        "url": "https://cityleaguecoffee.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://dailycoffeenews.com/2026/02/02/city-league-coffee-gets-home-court-advantage-with-new-brooklyn-roastery/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/city-league-coffee-roasters-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:10:33.696Z"
   }
 ]
