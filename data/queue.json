@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Cafe Zaiya Bryant Park (Japanese bakery + bento)",
-    "reason": "Same J-culture Manhattan loop — pair with Kinokuniya across the street; melon pan and curry-pan grab on the way out",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:12:12.583Z"
-  },
-  {
-    "topic": "Family Mart Soho (Japanese konbini)",
-    "reason": "Recent NYC arrival — competes with Sunrise Mart's prepared-food angle but as a konbini snack run; expands the J-grocery sub-corpus with a younger counterpoint",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:12:12.583Z"
-  },
-  {
-    "topic": "Dainobu Midtown (Japanese mini-grocery + onigiri counter)",
-    "reason": "Smaller, denser J-grocery near Bryant Park; rounds out the 'where do you actually go after Kinokuniya' question with a quick onigiri option",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:12:12.583Z"
-  },
-  {
-    "topic": "Kinokuniya NYC flagship (1073 6th Ave) — manga/stationery/cafe",
-    "reason": "The anchor venue this Bryant Park stop is paired with; needs its own entry to make the Manhattan-day combo legible in itinerary planner",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:14:12.877Z"
-  },
-  {
-    "topic": "The Campbell at Grand Central — historic cocktail bar",
-    "reason": "Natural evening capper after Kinokuniya+Bryant Park; 8-min walk east, photogenic 1920s vault interior fits the manga-day aesthetic",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:14:12.877Z"
-  },
-  {
     "topic": "Koreatown 32nd St food crawl (Her Name Is Han, Cho Dang Gol, Paris Baguette)",
     "reason": "10-min walk south of Bryant Park; obvious dinner extension for a Midtown-anchored manga-and-reading day, expands the Manhattan-exception corpus",
     "requestedBy": "agent",
@@ -6526,5 +6496,95 @@
     "reason": "Cash-only used-book deep dive 10 min east; natural extension if the Williamsburg track wants a third stop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T00:23:19.924Z"
+  },
+  {
+    "topic": "Sunrise Mart (Japanese grocery, Soho/East Village)",
+    "reason": "Completes the J-grocery + bento + bookstore midtown/downtown loop with a Brooklyn-driveable detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:25:14.278Z"
+  },
+  {
+    "topic": "Bryant Park weekend programming (markets, lawn, reading room)",
+    "reason": "Anchors the Zaiya+Kinokuniya stop into a 60-90 min linger instead of a grab-and-go",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:25:14.278Z"
+  },
+  {
+    "topic": "Mitsuwa Marketplace (Edgewater NJ - Japanese food court + market)",
+    "reason": "Larger J-food destination 25-min drive from IC via Holland Tunnel; rivals the Zaiya/Kinokuniya combo at one stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:25:14.278Z"
+  },
+  {
+    "topic": "Mini Konbini at Chelsea Market (75 9th Ave)",
+    "reason": "Sister konbini concept from the Maki a Mano team — onigiri wrapped to order + fried chicken sandos; tighter format than Genkiya, useful Chelsea/Meatpacking anchor for J-grocery sub-corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:29:16.340Z"
+  },
+  {
+    "topic": "Onigiri Tanakaya NYC",
+    "reason": "Single-item specialist shop dedicated to onigiri — sharpens the 'younger counterpoint to Sunrise Mart' axis with a fully focused, IG-native craft angle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:29:16.340Z"
+  },
+  {
+    "topic": "Tokuyamatcha & Onigirazu Bar",
+    "reason": "Matcha + onigirazu (sandwich-onigiri) bar — bridges J-grocery snack run with cafe/drink program; rounds out the konbini cluster with a sit-down counterpoint",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:29:16.340Z"
+  },
+  {
+    "topic": "Sunrise Mart Soho (Japanese grocery with prepared bento, 494 Broome St)",
+    "reason": "Downtown Manhattan J-grocery alternative on the way back to IC via Manhattan Bridge — completes the J-konbini triangle with Kinokuniya/Dainobu",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:32:31.189Z"
+  },
+  {
+    "topic": "Cafe Zaiya Midtown (Japanese bakery + onigiri across from Bryant Park library)",
+    "reason": "Directly competes with Dainobu for the post-Kinokuniya onigiri slot; user comparisons would help rank them",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:32:31.189Z"
+  },
+  {
+    "topic": "Dainobu Greenwich Village (498 6th Ave) + sibling Deli & Zakka MI-NE",
+    "reason": "Sibling location with adjacent zakka shop — different cluster (West Village walking route), might pair better with Brooklyn-return drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:32:31.189Z"
+  },
+  {
+    "topic": "Bryant Park weekend programming (winter village vs summer reading room)",
+    "reason": "The other half of the Manhattan-day anchor pair — needs its own seasonal-aware entry so the itinerary planner can compose the combo correctly",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:34:45.993Z"
+  },
+  {
+    "topic": "Book Off Manhattan (used manga + J-pop CDs, 49th St)",
+    "reason": "Natural adjacent stop on a Manhattan manga day; expands the manga-panel-harvester source pool with cheaper used inventory",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:34:45.993Z"
+  },
+  {
+    "topic": "Best Midtown weekend garage near Bryant Park under $50 for 3 hrs",
+    "reason": "Parking is the actual UX blocker for any Manhattan-day track — a vetted garage entry makes the combo bookable instead of theoretical",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:34:45.993Z"
+  },
+  {
+    "topic": "Bemelmans Bar at The Carlyle — Ludwig Bemelmans Madeline murals",
+    "reason": "Another historic-mural Manhattan cocktail capper; pairs with The Campbell as a 'illustrated-interior' nightcap subcluster for manga-day chains",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:37:01.569Z"
+  },
+  {
+    "topic": "Pebble Bar Rockefeller Center — historic 1903 townhouse, three floors of rooms",
+    "reason": "Walkable from Bryant Park (5 min), fills the upscale-but-photogenic Midtown capper niche if Campbell is booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:37:01.570Z"
+  },
+  {
+    "topic": "Sunken Harbor Club Brooklyn Heights — tiki bar above Gage & Tollner",
+    "reason": "Brooklyn-side alternative photogenic historic-bar capper, lets the corpus offer a non-Manhattan capper for evenings that end in Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:37:01.570Z"
   }
 ]
