@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Henry's End Brooklyn Heights — game-focused American bistro, longstanding date-night staple",
-    "reason": "Adjacent neighborhood, similar romantic-dinner price band, broadens Brooklyn Heights coverage for non-Italian fine dining",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:04:26.018Z"
-  },
-  {
-    "topic": "Chez Moi Brooklyn Heights — French bistro on Atlantic Ave / Henry St area",
-    "reason": "Direct French-bistro alternative within the Atlantic Ave corridor; helps Saturfun rank French options head-to-head",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:04:26.018Z"
-  },
-  {
-    "topic": "Cervo's Lower East Side — coastal Portuguese small plates, similar candlelit vibe",
-    "reason": "Owned by same group as Hart's (Frances/Cervo's hospitality); useful as a Manhattan benchmark to test whether Bed-Stuy or LES wins the romantic-dinner slot from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:06:24.249Z"
-  },
-  {
-    "topic": "The Fly Bed-Stuy — rotisserie chicken + natural wine bar within ~4 blocks of Hart's",
-    "reason": "Pairs with Hart's as a same-zone backup/sequel; lets the Bed-Stuy track stand up as a full evening cluster, not a one-stop detour",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:06:24.249Z"
-  },
-  {
-    "topic": "Place des Fêtes Clinton Hill — Mediterranean-leaning bistro from same Hart's/Cervo's team",
-    "reason": "Closer to IC (~17 min) and same culinary DNA; tests whether the Hart's vibe can be captured without the full 22-min Bed-Stuy drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:06:24.249Z"
-  },
-  {
     "topic": "Modern Love Brooklyn (Williamsburg) — vegan comfort food brunch",
     "reason": "Adjacent Williamsburg plant-based anchor; lower price band complement to PLANTA's tasting energy",
     "requestedBy": "agent",
@@ -11788,5 +11758,95 @@
     "reason": "Newer Court St operator filling the same corner-bistro void Buttermilk Channel left; validates fresh Carroll Gardens coverage.",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T17:37:52.807Z"
+  },
+  {
+    "topic": "Colonie Atlantic Ave Brooklyn Heights — seasonal New American with open kitchen",
+    "reason": "Complements Henry's End as a second BH-adjacent fine-dining option with a different vibe (modern/airy vs. cozy/old-guard)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:39:56.935Z"
+  },
+  {
+    "topic": "Noodle Pudding Henry Street Brooklyn Heights — cash-only Italian institution",
+    "reason": "Rounds out Brooklyn Heights date-night corpus with a contrasting Italian option in the same walkable cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:39:56.936Z"
+  },
+  {
+    "topic": "Le Crocodile Wythe Hotel Williamsburg — French brasserie",
+    "reason": "Expands romantic dinner band into Williamsburg cluster, same price tier as Henry's End",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:39:56.937Z"
+  },
+  {
+    "topic": "Bar Tabac Cobble Hill — French bistro Smith St",
+    "reason": "Closest neighborhood French peer to Chez Moi; needed for Atlantic-corridor French ranking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:42:00.457Z"
+  },
+  {
+    "topic": "Le Crocodile Williamsburg — French brasserie at Wythe Hotel",
+    "reason": "Higher-end Williamsburg French anchor to triangulate price/vibe vs Chez Moi",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:42:00.458Z"
+  },
+  {
+    "topic": "Maison Yaki Prospect Heights — French-Japanese yakitori by Chef Greg Baxtrom",
+    "reason": "Adjacent French-influenced spot in driving radius; expands the French-leaning corpus beyond strict bistros",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:42:00.458Z"
+  },
+  {
+    "topic": "Eel Bar (LES) — Frances Hospitality natural-wine bar next door to Cervo's",
+    "reason": "Same group, same block; useful as a pre-dinner drinks pairing or a lower-commitment Manhattan alternative to test against IC bar options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:44:21.914Z"
+  },
+  {
+    "topic": "The Fly (Bed-Stuy) — Frances Hospitality rotisserie chicken + natural wine",
+    "reason": "Third Frances venue, in Bed-Stuy near Hart's; expands the Brooklyn-side competitor cluster for the romantic-dinner slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:44:21.915Z"
+  },
+  {
+    "topic": "Minnow (Park Slope) — Frances Hospitality seafood, closer to IC than Cervo's",
+    "reason": "Direct Brooklyn analogue to Cervo's seafood concept ~10 min from IC; if Minnow holds up, it likely beats Cervo's on drive math alone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:44:21.915Z"
+  },
+  {
+    "topic": "Saraghina Bakery Bed-Stuy — wood-fired pizza + morning pastry counter near Halsey/Lewis",
+    "reason": "Anchors a daytime food stop in the Bed-Stuy cluster so the track works for brunch-into-evening, not just dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:46:31.299Z"
+  },
+  {
+    "topic": "Casa Ora Bushwick — Venezuelan tasting-menu spot ~10 min drive from Hart's",
+    "reason": "Extension venue when the Bed-Stuy track wants a third stop pushing east into Bushwick",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:46:31.300Z"
+  },
+  {
+    "topic": "Bed-Vyne Brew Bed-Stuy — Black-owned craft beer + wine garden on Tompkins Ave",
+    "reason": "Cheaper, lower-key sequel option for groups that don't want a second $$$ wine bar after Hart's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:46:31.300Z"
+  },
+  {
+    "topic": "Cafe Mado Prospect Heights — Redwood Hospitality sister cafe for daytime pairing",
+    "reason": "Same culinary DNA as Place des Fêtes but open for brunch/coffee, fills the daytime slot Place des Fêtes can't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:49:09.714Z"
+  },
+  {
+    "topic": "Laurel Bakery Clinton Hill — Redwood Hospitality bakery",
+    "reason": "Morning anchor for a Clinton Hill cluster track if we build one around Place des Fêtes as the dinner closer",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:49:09.715Z"
+  },
+  {
+    "topic": "Hart's Bed-Stuy — verify Mediterranean menu and weekend brunch as separate venue from Place des Fêtes",
+    "reason": "The research prompt conflated these two; need a clean Hart's entry to disambiguate downstream",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:49:09.715Z"
   }
 ]
