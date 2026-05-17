@@ -2804,51 +2804,49 @@
   {
     "id": "maison-premiere",
     "name": "Maison Premiere",
-    "desc": "Belle Époque oyster + absinthe bar with the largest U.S. absinthe selection and 30+ oyster varieties",
-    "longDesc": "Williamsburg's elegant ode to old-world oyster houses and Parisian absinthe cafés, with 30+ daily oyster varieties sourced direct from farmers and the deepest absinthe list in the United States, served with traditional drip-fountain ceremony. Belle Époque tin ceilings, marble bar, and a seasonal back garden make it the most photogenic raw bar in NYC — a sibling-tier swap for Delmano on a romantic late night.",
+    "desc": "1920s New Orleans–style oyster + absinthe bar with a lush hidden garden, open till 2 AM on weekends",
+    "longDesc": "Williamsburg's iconic ode to oyster bars and absinthe cafés — 30+ oyster varieties sourced direct from farmers and the largest absinthe list in the U.S., served in a dim jazz-lit room or a secret-courtyard back garden. Late-night service (Sat to 2 AM, Sun to 1 AM) makes this the easiest time to slip in for a half-dozen, the famed shrimp cocktail, and a Manhattan. Weekend $1 oyster happy hour runs 11 AM–1 PM.",
     "url": "https://maisonpremiere.com/",
-    "photoUrl": "https://maisonpremiere.com/wp-content/media-versions/2016/03/600w_x900h__q_90_c_Maison_Premiere_0626_web.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "romantic",
       "foodie",
-      "photo"
+      "chill"
     ],
-    "dietary": [
-      "gluten-free"
-    ],
+    "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "Sat 10:00-02:00, Sun 10:00-01:00",
-    "notes": "298 Bedford Ave, Williamsburg 11249. Brunch 10am-3:30pm Sat/Sun; oyster service Sat to 12:30am, Sun to 11:30pm (maisonpremiere.com). Resy reservations up to 1 month out for parties up to 6; bar/dining room walk-ins welcome (resy.com). Seasonal back garden April-November. Street parking on Bedford/Grand; weekend metering and parking on side streets (S. 1st, Driggs) usually opens up. Recognized on North America's 50 Best Bars 2026 (theworlds50best.com). Strong alt-night swap for Hotel Delmano in the same Williamsburg cluster — same neighborhood vibe, larger raw bar, more theatrical absinthe service.",
+    "notes": "Anchor for an east-side Late Night cluster. Park on Bedford or side streets (S 1st/S 2nd) — accessible spot near entrance (yelp.com). Garden seating seasonal April–November, peak June–Sept (timeout.com). Reservations recommended for dinner; late-night walk-ins are easiest at the bar (punchdrink.com). Pairs naturally with a pre-stop in Greenpoint or a nightcap deeper in Williamsburg.",
     "sources": [
       {
         "url": "https://maisonpremiere.com/",
-        "accessed": "2026-05-16T22:00:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/maison-premiere-brooklyn",
-        "accessed": "2026-05-16T22:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/maison-premiere",
-        "accessed": "2026-05-16T22:00:00Z"
-      },
-      {
-        "url": "https://www.theworlds50best.com/bars/northamerica/the-list/maison-premiere.html",
-        "accessed": "2026-05-16T22:00:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/maison-premiere",
-        "accessed": "2026-05-16T22:00:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
+      },
+      {
+        "url": "https://punchdrink.com/venues/maison-premiere/",
+        "accessed": "2026-05-17T22:15:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/maison-premiere",
+        "accessed": "2026-05-17T22:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:56:54.439Z",
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T22:20:50.627Z",
     "driveFromFlushing": "22 min"
   },
   {
@@ -13801,53 +13799,41 @@
   {
     "id": "clover-club",
     "name": "Clover Club",
-    "desc": "Julie Reiner's landmark Brooklyn cocktail bar — chandeliers, jazz, perfect aperitivo stop 3 blocks from Lucali",
-    "longDesc": "The Smith Street original from cocktail legend Julie Reiner (also behind the now-closed Leyenda), open since 2008 and still treated as the gold standard for classic-leaning craft drinks in Brooklyn (Time Out, NY Tourism). Velvet booths, a mahogany bar, occasional live jazz, and a Victorian-parlor mood that pairs naturally with a coal-oven pizza dinner three blocks away. Walk-in friendly at the bar; reservations on Resy for the dining room.",
+    "desc": "Julie Reiner's pre-Prohibition cocktail temple on Smith Street since 2008, with a hidden back parlor.",
+    "longDesc": "Opened in 2008 by cocktail pioneer Julie Reiner, Clover Club is a tin-ceilinged Smith Street parlor built around pre-Prohibition technique — fresh-squeezed juices, house syrups, hand-cut ice — and the gin-raspberry sour that gives the bar its name. The front bar has marble and brass; a quieter back parlor with fireplace handles overflow and reservations. Sunday brings live jazz brunch from noon to 4pm.",
     "url": "https://cloverclubny.com/",
-    "photoUrl": "",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6273d57a3765ad41ccc86163/7e288b41-c3ce-4b70-b179-44cef426702d/CloverClub_July2022_ss-0418.jpg",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
       "romantic",
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-00:00",
-    "notes": "Pre-Lucali play: park once near Henry/Court St, walk to Clover Club for two cocktails + a snack from the Evening Fare menu, then 8-min walk to Lucali for the 18:00-19:00 line. Original task asked about Sunken Hundred (closed per Yelp Mar 2026) and Leyenda (closed end of Mar 2025, team still hunting for a new space per Time Out / Drinks International / Spirits Business) — Clover Club is the direct successor since Julie Reiner founded both and it sits on the same Smith Street block. Address: 210 Smith St, Brooklyn NY 11201.",
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 12:00-02:00, Sun 12:00-24:00",
+    "notes": "210 Smith Street, on the Cobble Hill/Carroll Gardens border (cloverclubny.com). Pre-Prohibition + classic cocktail focus; reservations recommended for the back parlor and Sunday jazz brunch noon-4pm (search). Street parking on Smith/Court is realistic on weekend afternoons; metered after 4pm. Pairs well as a nightcap after a Red Hook or Carroll Gardens dinner.",
     "sources": [
       {
         "url": "https://cloverclubny.com/",
-        "accessed": "2026-05-16T21:15:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/clover-club-brooklyn",
-        "accessed": "2026-05-16T21:15:00Z"
+        "url": "https://www.cloverclubny.com/menus",
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/clover-club",
-        "accessed": "2026-05-16T21:15:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/sunken-hundred-brooklyn-2",
-        "accessed": "2026-05-16T21:15:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
-        "accessed": "2026-05-16T21:15:00Z"
-      },
-      {
-        "url": "https://drinksint.com/news/fullstory.php/aid/11588/Brooklyn_92s_Leyenda_to_close_at_the_end_of_March.html",
-        "accessed": "2026-05-16T21:15:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:14:18.883Z"
+    "lastResearchedAt": "2026-05-17T22:17:00.486Z"
   },
   {
     "id": "buttermilk-channel-closed",
@@ -14302,52 +14288,43 @@
   {
     "id": "french-louie",
     "name": "French Louie",
-    "desc": "Modern French-American bistro on Atlantic Ave with a retractable-roof garden — steak frites, oysters, brunch.",
-    "longDesc": "From the team behind Buttermilk Channel, French Louie sits at the crossroads of Boerum Hill, Cobble Hill, Brooklyn Heights and Downtown Brooklyn. The bistro is known for a rotating selection of steak frites, fresh local fish, and East/West Coast oysters, with a backyard garden featuring a retractable roof and heat lamps for year-round outdoor dining. Vegetarian and gluten-free dishes are always available; Resy reservations open 30 days out.",
+    "desc": "Buttermilk Channel sibling on Atlantic Ave doing weekend brunch and bistro dinners",
+    "longDesc": "French Louie is the Boerum Hill bistro from the Buttermilk Channel team, holding down 320 Atlantic Ave with brunch staples like Eggs Louie and crème brûlée French toast, and a dinner card built around duck confit, steak frites, bavette, and a rotating raw bar. The dining room reads classic Parisian-brasserie warm, with a back garden that opens in season — a strong fallback when you want a sit-down meal that isn't a Williamsburg trek.",
     "url": "https://frenchlouienyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "carroll-gardens",
+    "zone": "cobble-hill",
     "vibe": [
-      "romantic",
       "foodie",
+      "romantic",
       "chill"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$$",
     "duration": "90-120 min",
-    "driveFromIC": "13 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "Sat 11:00-15:00 brunch, 17:00-22:30 dinner; Sun 11:00-15:00 brunch, 17:00-21:00 dinner",
-    "notes": "320 Atlantic Ave between Smith and Hoyt; phone (718) 935-1200 (frenchlouienyc.com). Backyard garden has a retractable roof + heat lamps for 4-season outdoor seating (frenchlouienyc.com). Reservations via Resy up to 30 days ahead; groups of 10+ email john@frenchlouienyc.com. Parking: street parking generally available; GGMC garage 1 block away on Smith between Atlantic/State, Alliance garage 2 blocks on Boerum Pl between Atlantic/Pacific (frenchlouienyc.com). Zoned 'carroll-gardens' because Saturfun lacks a boerum-hill zone — Atlantic Ave between Smith/Hoyt is functionally the Cobble Hill / Carroll Gardens border. Pairs well with a Cobble Hill / Boerum Hill walking cluster before/after.",
+    "notes": "Address 320 Atlantic Ave between Smith and Hoyt (frenchlouienyc.com). Brunch Sat-Sun 11-3, dinner Sun-Mon 5-9, Tue-Thu 5-9:30, Fri-Sat 5-10:30 (frenchlouienyc.com). Sibling to Buttermilk Channel; Resy reservations 30 days out. Signature brunch: Eggs Louie, crème brûlée French toast, fried chicken cordon bleu (search results). Dinner: duck confit, steak frites, bavette steak, oysters (search results). Street parking on Atlantic/Hoyt/Bond on weekends usually findable; muni lot at Atlantic & Court if tight.",
     "sources": [
       {
         "url": "https://frenchlouienyc.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
-        "url": "https://frenchlouienyc.com/menus/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/french-louie",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/french-louie-brooklyn",
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/restaurants/french-louie",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/french-louie",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T16:04:25.996Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:12:55.531Z"
   },
   {
     "id": "harts-bed-stuy",
@@ -29777,49 +29754,49 @@
   },
   {
     "id": "leyenda",
-    "name": "Leyenda (CLOSED)",
-    "desc": "Permanently closed March 2025 — Ivy Mix & Julie Reiner's pan-Latin cocktail bar did not renew its Smith St lease.",
-    "longDesc": "Leyenda was a James-Beard-recognized pan-Latin cocktail bar opened in 2015 by Ivy Mix and Julie Reiner (Clover Club). It closed at the end of March 2025 after a 'Legends of Leyenda' farewell takeover series; the team said they had outgrown the 221 Smith Street space and would scout a new location. As of May 2026 no successor venue has opened, so this entry should be retired from the active Carroll Gardens cluster.",
+    "name": "Leyenda (PERMANENTLY CLOSED)",
+    "desc": "Closed March 2025: Ivy Mix's landmark pan-Latin cocktail bar after a decade on Smith St.",
+    "longDesc": "Leyenda was a pioneering pan-Latin cocktail bar opened by Ivy Mix (Speed Rack co-founder) and Julie Reiner in 2015 at 221 Smith St, Cobble Hill/Carroll Gardens border. It closed at the end of March 2025 just shy of its 10th anniversary; Mix cited a changing neighborhood, building issues, and industry hardships, and the team noted they'd outgrown the space. The bar was widely regarded as one of NYC's best for agave and Latin spirits programming.",
     "url": "https://leyendabk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "carroll-gardens",
+    "zone": "cobble-hill",
     "vibe": [
-      "curious",
-      "romantic"
+      "romantic",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "11 min",
-    "hoursWeekend": "CLOSED PERMANENTLY (March 2025)",
-    "notes": "DO NOT ROUTE: Leyenda closed end of March 2025 after 10 years; lease not renewed (Time Out NY 2025-02-06; Spirits Business 2025-02; PUNCH farewell piece). Yelp listing shows CLOSED as of Feb 2026. Replace anchor role with Clover Club (Reiner's other JB-nominated bar, 210 Smith St, ~3 blocks north) or Sunken Harbor Club (St. John Frizell, above Gage & Tollner, Downtown Bk). Carroll Gardens cluster still works with Long Island Bar as the cocktail anchor.",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "CLOSED PERMANENTLY",
+    "notes": "DO NOT ROUTE GUESTS HERE. Permanently closed end of March 2025 after a 10-year run on Smith St (The Spirits Business, Feb 2025; Time Out NY, Feb 2025; PUNCH closing dispatch). Ivy Mix's still-active Brooklyn projects: Whoopsie Daisy (wine bar, Crown Heights) and Fiasco (wine shop). For the intended Cobble Hill late-night cocktail cluster with Long Island Bar, substitute Clover Club (Julie Reiner's adjacent Smith St flagship, still open) or Sunken Harbor Club at Gage & Tollner (Downtown Bklyn, tiki, St. John Frizell + Sother Teague).",
     "sources": [
       {
-        "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.thespiritsbusiness.com/2025/02/brooklyn-bar-leyenda-to-close/",
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
-        "url": "https://www.thespiritsbusiness.com/2025/02/brooklyn-bar-leyenda-to-close/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
         "url": "https://punchdrink.com/articles/leyenda-bar-closing-ivy-mix-cocktails-margarita/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/leyenda-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:15:00Z"
       },
       {
-        "url": "https://drinksint.com/news/fullstory.php/aid/11588/Brooklyn_92s_Leyenda_to_close_at_the_end_of_March.html",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://leyendabk.com/",
+        "accessed": "2026-05-17T22:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T21:48:58.948Z"
+    "lastResearchedAt": "2026-05-17T22:15:04.299Z"
   },
   {
     "id": "long-island-bar",
@@ -34311,5 +34288,44 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T22:10:48.428Z"
+  },
+  {
+    "id": "henry-public",
+    "name": "Henry Public",
+    "desc": "Old-time Brooklyn saloon on Henry St — grass-fed burgers, oysters, late-night kitchen til midnight.",
+    "longDesc": "Cobble Hill / Brooklyn Heights border tavern done up in 'Handsome Style' with a zinc-and-walnut bar, channeling turn-of-century saloon DNA. Grass-fed hamburgers, East Coast oysters on the half-shell, marrow bones, and the famous Turkey Leg Sandwich anchor the menu, while Sundays bring Old Time Jazz & Blues with Milkman & Sons. Kitchen runs to midnight Fri/Sat, making it a rare late-night sit-down option near IC.",
+    "url": "https://www.henrypublic.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/53af356fe4b0ac0875463883/1424692775099-3O6UNV42D3ZWA8E6C128/HP_postcard_EAGLE.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
+    "notes": "329 Henry St near Atlantic Ave (henrypublic.com about page). Sister-venue feel to the Long Island Bar — same restored-saloon DNA. Sunday afternoon live jazz/blues w/ Milkman & Sons (henrypublic.com). Street parking on Henry/Pacific generally available weekends; ~12 min from IC via 3rd Ave + Atlantic.",
+    "sources": [
+      {
+        "url": "https://www.henrypublic.com/about",
+        "accessed": "2026-05-17T22:15:00Z"
+      },
+      {
+        "url": "https://www.henrypublic.com/onlinemenu",
+        "accessed": "2026-05-17T22:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/henry-public-brooklyn",
+        "accessed": "2026-05-17T22:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:18:57.282Z"
   }
 ]
