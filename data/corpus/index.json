@@ -5382,9 +5382,9 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Hand-pulled rice noodle soups from Kunming — the SW China counterpoint to 8th Ave's Cantonese spread.",
-    "longDesc": "A bare-bones Sunset Park noodle shop run by a couple from Kunming, serving Yunnan-province specialties you rarely see in NYC: crossing-the-bridge rice noodles, cold rice noodles with crispy meat sauce, and dumplings in hot-and-sour broth. Portions are large, prices are low, and the housemade rice noodles are the reason to drive over. Cash only, no reservations, expect a wait at peak weekend hours.",
-    "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+    "desc": "Cash-only Kunming noodle shop on 8th Ave — crossing-the-bridge mixian and cold appetizers",
+    "longDesc": "A husband-and-wife team from Kunming runs this unassuming Sunset Park storefront, one of the only true Yunnanese kitchens in NYC. The headliners are guoqiao mixian (crossing-the-bridge rice noodles, with raw sliced meat cooked tableside in scalding broth) and zhajiang mi xian, rounded out by chilled cucumber salad, sour-spicy dumplings, and braised pork-intestine noodles. Tiny, cash-only, with prices that read like a typo against the quality.",
+    "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5392,34 +5392,36 @@
       "foodie",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
     "duration": "45-60 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "11:00-21:30",
-    "notes": "Cash only — no cards (Yelp, Not Another Brooklyn Blog). Order the crossing-the-bridge rice noodles or rice noodles with crispy meat sauce; both showcase the housemade noodles (NYC Tourism). Street parking on 8th Ave is tight on weekends — try 51st/52nd side streets. Pairs naturally with East Harbor Seafood Palace or a Sunset Park (the park) walk afterward.",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "09:00-21:00",
+    "notes": "Cash only — bring small bills (Yelp, NetWaiter). Address is 5121 8th Ave at ~52nd St, deep in Brooklyn's 8th Ave Chinatown; metered + side-street parking on 51st/52nd is usually findable on weekend mornings but tightens after noon. Must-orders per consensus reviews: crossing-the-bridge mixian, zhajiang mi xian, cold cucumber, sour-spicy dumplings (Stuy Spec, NYC Tourism). Phone (718) 633-3090. Pairs naturally with a dim sum or bakery stop nearby to contrast Yunnan vs. Cantonese on the same block.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-17T05:10:00Z"
-      },
-      {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-17T05:10:00Z"
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://notanotherbrooklynblog.com/2015/03/10/eating-8th-avenue-yun-nan-flavour-garden/",
-        "accessed": "2026-05-17T05:10:00Z"
+        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+        "accessed": "2026-05-17"
       },
       {
-        "url": "http://www.eattheworldnyc.com/2013/10/yun-nan-flavour-garden.html",
-        "accessed": "2026-05-17T05:10:00Z"
+        "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://yunnanflavorgarden.netwaiter.com/",
+        "accessed": "2026-05-17"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:14:48.872Z"
+    "lastResearchedAt": "2026-05-17T05:32:54.032Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -5467,26 +5469,29 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Old-school Sunset Park dim sum with roving carts, parking lot, and a packed weekend roar.",
-    "longDesc": "Cavernous gold-accented banquet hall on 65th St where push-carts of siu mai, har gow, chicken feet, crispy taro, rice noodle rolls, and bacon-wrapped shrimp balls weave between tables — point-and-grab, no menu required. One of the few Brooklyn dim sum houses with its own parking lot, and a Michelin Guide listee. Weekends are loud, crowded, and best treated as the crawl's brunch anchor; expect to wait if you arrive after 11am.",
+    "desc": "Push-cart Cantonese dim sum hall in Sunset Park with rare free parking lot — bargain weekend brunch.",
+    "longDesc": "Cavernous gold-accented banquet room (~200 seats) where steaming push carts and tray-bearing waiters circle non-stop on weekend mornings — a true old-school Cantonese yum cha experience just south of Industry City. Eight dim sum plates run about $20, with standouts including flaky spring rolls, fried taro puffs, pepper spare ribs, shrimp-stuffed eggplant, and beef tendon. Arrive by 10:30 AM for peak cart variety; new items stop coming around 2:45-3:00 PM.",
     "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "photo",
-      "curious"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "09:00-22:00",
-    "notes": "714 65th St, Sunset Park — 15 blocks south of Yun Nan along the 8th Ave Chinatown spine; on-site parking lot is the standout logistical perk (Michelin Guide; The Infatuation 2024). Cart service tapers after ~2:30pm, so arrive by noon for full cart rotation. Cash-friendly; reservations don't really cut the weekend wait — go early or expect 30-45 min.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "09:00-23:00",
+    "notes": "Located at 714 65th St between 7th & 8th Ave, Sunset Park/Dyker Heights border (Yelp). Featured in the MICHELIN Guide for Brooklyn (Michelin). Free on-site parking lot is a rarity in Brooklyn — also valet and free garage options (novacircle). Cart-and-stamp-card service with ~200 mostly Chinese diners on weekends; arrive bright and early at 10:30am for best cart variety (Cinnamon Society). Phone (718) 765-0098. Single-level layout = stroller- and elder-friendly for group brunch.",
     "sources": [
+      {
+        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
         "accessed": "2026-05-17T00:00:00Z"
@@ -5496,14 +5501,14 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+        "url": "https://www.novacircle.com/spots/north-america/united-states/kings-county/brooklyn-municipality/new-york/east-harbor-seafood-palace-3c8887/about",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:02:43.775Z"
+    "lastResearchedAt": "2026-05-17T05:38:43.629Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -10708,9 +10713,9 @@
   {
     "id": "golden-steamer-sunset-park",
     "name": "Golden Steamer (Sunset Park)",
-    "desc": "Tiny Sunset Park steam-bun specialist with cult pumpkin and salted egg yolk buns",
-    "longDesc": "A grab-and-go Chinese bakery on Brooklyn's 8th Ave Chinatown strip, famous for fluffy hand-pleated steamed buns — the pumpkin and salted egg yolk varieties are the standouts, alongside classic pork. Cash only, fast-moving line, ideal as a quick anchor before or after an Industry City wander. Pairs naturally with Xin Fa Bakery a few blocks north for an egg-tart-plus-bao mini crawl.",
-    "url": "https://www.google.com/maps/place/Golden+Steamer/@40.6428,-74.0055,17z",
+    "desc": "Manhattan Chinatown's legendary $2 steamed buns — pumpkin, salted egg yolk, roast pork — in BK's 8th Ave Chinatown",
+    "longDesc": "The Brooklyn outpost of the Mott Street icon, tucked into Sunset Park's 8th Ave Chinatown at 53rd. Grab-and-go only, with steamed buns straight from bamboo: the bright orange pumpkin bun and the molten salted egg yolk custard are the move, plus roast pork and red bean. Pair with milk tea and eat on the sidewalk — line is long but moves in minutes.",
+    "url": "https://www.yelp.com/biz/golden-steamer-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -10723,27 +10728,27 @@
     ],
     "priceBand": "$",
     "duration": "20-30 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "07:00-18:30",
-    "notes": "Cash only. Pumpkin and salted egg yolk buns are the must-orders; ~$1-1.50 each, ~$5 for 6 (Yelp). Tiny storefront, no seating — eat in the car or walk to Sunset Park itself a few blocks west. Weekday hours confirmed 7:00am-6:30pm; weekend hours similar per local listings — verify by phone day-of. Best to arrive before noon for full lineup; popular items sell out (The Infatuation).",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "07:00-16:00",
+    "notes": "5224 8th Ave at 53rd St; (718) 853-8588. Pumpkin bun + salted egg yolk custard bun + milk tea is the canonical order per Infatuation (theinfatuation.com). Steamed buns only — no baked items like Fay Da two blocks south, so the two pair perfectly as a sweep. Cash-friendly, no seating. Weekend hours per Infatuation are 7AM-4PM; some aggregators list 7AM-6:30PM daily — call ahead for late afternoon. Parking on 8th Ave is metered street parking; weekend mornings before 11 are easiest. Pumpkin bun is vegetarian; egg yolk custard is vegetarian (contains egg).",
     "sources": [
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/golden-steamer-sunset-park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T05:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/golden-steamer-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T05:30:00Z"
       },
       {
-        "url": "https://golden-steamer.res-menu.net/menu",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/guides/the-best-restaurants-sunset-park",
+        "accessed": "2026-05-17T05:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:53:55.503Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T05:28:24.306Z"
   },
   {
     "id": "greenwood-battle-hill",
@@ -23240,45 +23245,46 @@
   },
   {
     "id": "dun-huang-sunset-park",
-    "name": "Dun Huang",
-    "desc": "Gansu-province Lanzhou hand-pulled beef noodles on the 8th Ave Chinatown's southern edge",
-    "longDesc": "Northwest Chinese specialist one block off the 8th Ave strip. The signature Lanzhou beef noodles arrive as a clear radish-and-beef broth over freshly hand-pulled lamian, with sliced beef, tendon, scallions, cilantro, and enough chili oil to turn the surface iridescent orange. Their spicy cumin lamb pita burger is a classic Hui-Muslim/Northwestern street snack, and the room is fast, cheap, and consistent — MTA's Sunset Park Chinatown food guide calls them the Lanzhou specialist of the neighborhood.",
-    "url": "https://www.dunhuangbk.com/",
+    "name": "Dun Huang (DH Noodles) — Sunset Park",
+    "desc": "Hand-pulled Lanzhou lamb & beef noodle soup with open-counter dough theater; $10 bowls in Brooklyn's 8th Ave Chinatown.",
+    "longDesc": "Dun Huang is the active successor to the now-closed Lan Zhou Hand Pull Noodles at 5924 8th Ave — same neighborhood, same Lanzhou tradition, but a brighter room with a glass-walled noodle station where you can watch dough being slapped, twisted, and pulled into bowls of cumin-scented lamb or clear beef broth. Order the hand-pulled lamb noodle soup ($10-ish) plus a side of cumin lamb skewers; the kitchen also turns out chewy knife-cut noodles and dumplings. Cash-friendly, fast turnover, photogenic dough work — ideal corridor stop between Industry City and Bay Ridge.",
+    "url": "https://dhnoodles.com/restaurant-location/sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "photo",
       "curious"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "8 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "11:00-22:00",
-    "notes": "Replacement pick: the originally-requested Lan Zhou Hand Pull Noodle at 5924 8th Ave is permanently closed per Yelp Dec 2025 (the prior tenant Wong Good Hand Pull Noodle also closed, so the storefront itself is dead) (yelp.com). Dun Huang at 817 60th St is the living incarnation of the same role — Lanzhou-style hand-pulled lamian, non-Cantonese, on the southern 8th Ave Chinatown axis (dhnoodles.com; away.mta.info). Open daily 11am-10pm. Free street parking on 60th/61st Streets is generally manageable off peak; metered 8th Ave is faster but tighter on weekend lunch rush. Cash-friendly, no-reservation counter spot — go straight in, order the beef noodle soup plus a cumin lamb pita, expect to be out in under 40 min.",
+    "notes": "Replaces the original task target (Lan Zhou Hand Pull Noodles, 5924 8th Ave) which is permanently CLOSED as of Dec 2025 per Yelp (https://www.yelp.com/biz/lanzhou-hand-pull-noodle-brooklyn). Dun Huang sits 4 blocks south at 817 60th St in the same Brooklyn Chinatown corridor; Infatuation calls it a Sunset Park standout for Northwestern Chinese, cumin lamb, and hand-pulled noodles (https://www.theinfatuation.com/new-york/reviews/dun-huang-sunset-park). 462 photos / 106 reviews on Yelp (https://www.yelp.com/biz/dun-huang-brooklyn-5). Phone (929) 326-5967. Street parking on 60th St and 8th Ave usually findable midday on weekends; 8th Ave Chinatown is busiest 12-2pm. Dough-pulling visible from counter — photogenic for the harvester corpus.",
     "sources": [
       {
         "url": "https://dhnoodles.com/restaurant-location/sunset-park/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T05:30:00Z"
       },
       {
-        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/lanzhou-hand-pull-noodle-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/dun-huang-sunset-park",
+        "accessed": "2026-05-17T05:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/dun-huang-brooklyn-5",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T05:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lanzhou-hand-pull-noodle-brooklyn",
+        "accessed": "2026-05-17T05:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T04:29:12.851Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T05:36:27.141Z"
   },
   {
     "id": "369-bbq-skewer-cart-61st-8th-ave",
@@ -23625,5 +23631,46 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T05:24:14.350Z"
+  },
+  {
+    "id": "paris-baguette-sunset-park",
+    "name": "Paris Baguette Sunset Park",
+    "desc": "Korean-French bakery cafe on 8th Ave open until 10pm — crookies, cream croissants, Lavazza coffee, sit-down seating",
+    "longDesc": "A Korean-owned French-style bakery chain at the heart of Sunset Park's 8th Ave Chinatown, serving handcrafted cakes, freshly baked breads and pastries (the strawberry cream croissant and crookies are signatures), plus Lavazza espresso drinks. Counter service with clean, well-lit indoor seating and free wifi make it the rare late-evening dessert option in the neighborhood — open daily 6am-10pm, well after surrounding Chinese bakeries shutter. Treats regulars like family and keeps prices reasonable.",
+    "url": "https://parisbaguette.com/locations/ny/brooklyn/58-10-8th-avenue/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "06:00-22:00",
+    "notes": "58-10 8th Ave, Brooklyn NY 11220, (914) 829-4148. Open daily 6am-10pm (Paris Baguette official). Strong late-evening play when nearby Lucky King / Sun Sai Gai have already closed. Strawberry cream croissant and crookies are crowd favorites (Yelp 46 reviews, generally positive). Street parking on 58th/59th around 8th Ave is generally findable on weekend evenings. Dine-in friendly with wifi — works as a wind-down stop after a high-activity afternoon (Paris Baguette site).",
+    "sources": [
+      {
+        "url": "https://parisbaguette.com/locations/ny/brooklyn/58-10-8th-avenue/",
+        "accessed": "2026-05-17T05:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/paris-baguette-brooklyn-brooklyn",
+        "accessed": "2026-05-17T05:30:00Z"
+      },
+      {
+        "url": "https://parisbaguette.com/location-list/ny/brooklyn/",
+        "accessed": "2026-05-17T05:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T05:30:36.039Z"
   }
 ]

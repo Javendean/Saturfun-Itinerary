@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Golden Steamer 5224 8th Ave Sunset Park — pumpkin and salted egg yolk steamed buns",
-    "reason": "Manhattan-Chinatown favorite that expanded to BK; expands the corpus beyond baked goods into steamed-bun territory, two blocks from Fay Da",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:49:52.078Z"
-  },
-  {
-    "topic": "Paris Baguette 5810 8th Ave Sunset Park — Korean-French bakery cafe (6am-10pm)",
-    "reason": "Adds late-evening dessert option to the 8th Ave cluster when Chinese bakeries have closed; broadens dietary coverage with sit-down seating",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:49:52.078Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden 5121 8th Ave Brooklyn — Yunnan rice noodles & cold appetizers",
-    "reason": "Anchors a deeper Sunset Park 8th-Ave Chinatown crawl with a regional cuisine that contrasts with dumpling-heavy stops",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:51:54.642Z"
-  },
-  {
-    "topic": "Lan Zhou Hand Pull Noodles 5924 8th Ave Brooklyn — hand-pulled lamb noodle soup",
-    "reason": "Adds a noodle-forward stop on the same corridor; cheap, fast, photogenic dough-pulling theater",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:51:54.642Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace 714 65th St Brooklyn — push-cart dim sum weekend brunch",
-    "reason": "Weekend dim sum hall completes a Sunset Park food itinerary; larger sit-down counterpoint to Kai Feng Fu's grab-and-go",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:51:54.642Z"
-  },
-  {
     "topic": "Xin Fa Bakery 5617 8th Ave Brooklyn — Portuguese egg tarts and roast pork bao",
     "reason": "Natural second stop on the 8th Ave Sunset Park Chinatown crawl, 4 blocks from Golden Steamer",
     "requestedBy": "agent",
@@ -7984,5 +7954,89 @@
     "reason": "Anchors the southern end of the 8th Ave drive corridor; adds a non-Chinese counterpoint and a documented standout sandwich shop near IC",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T05:26:16.504Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave Sunset Park — pork & chive boiled dumplings",
+    "reason": "Adds dumplings to the 8th Ave Chinatown sweep alongside Fay Da (baked) and Golden Steamer (steamed); rounds out a three-stop walking food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:28:24.325Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 714 65th St Sunset Park — pushcart dim sum weekend brunch",
+    "reason": "Weekend dim sum cart experience is a totally different vibe than grab-and-go buns; same neighborhood, 5 min drive from Golden Steamer, fits a longer itinerary slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:28:24.325Z"
+  },
+  {
+    "topic": "Lucky King Bakery 8th Ave Sunset Park — classic Cantonese bakery for egg tarts and BBQ pork buns",
+    "reason": "Anchors the daytime Chinese bakery side of the 8th Ave cluster; pairs naturally with Paris Baguette as the late-night contrast",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:30:36.067Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave — Yunnan rice noodle soup specialist near Paris Baguette",
+    "reason": "Adds a savory sit-down lunch/dinner option in the same 8th Ave drive cluster, broadening the track beyond dim sum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:30:36.067Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave — handmade lamb and pork dumplings",
+    "reason": "Cheap-eat snack stop within walking distance; reinforces the food-density case for parking once and grazing the 8th Ave corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:30:36.067Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 714 65th St Brooklyn — old-school cart dim sum",
+    "reason": "Anchors the Sunset Park 8th Ave Chinatown crawl with a large weekend dim sum hall — contrast to Yun Nan's tiny noodle counter and lets a track hit both Cantonese and Yunnan in one drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:32:54.052Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave Brooklyn — $1 boiled dumplings",
+    "reason": "One block north of Yun Nan, legendary cheap-eats dumpling counter — perfect quick adjacent stop on the same 8th Ave walking spine",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:32:54.052Z"
+  },
+  {
+    "topic": "Lan Zhou Handmade Noodle 5924 8th Ave Brooklyn — hand-pulled lamian",
+    "reason": "Lets the cluster cover three distinct Chinese noodle traditions (Yunnan mixian / Lanzhou lamian / Cantonese wonton) within a 10-block strip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:32:54.052Z"
+  },
+  {
+    "topic": "Lan Zhou Noodles 6301 8th Ave Brooklyn — second active hand-pulled noodle counter on the same corridor",
+    "reason": "Hole-in-the-wall alternative if Dun Huang has a line; preserves dough-theater experience closer to the original Lan Zhou vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:36:27.162Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 714 65th St Brooklyn — weekend dim sum cart hall",
+    "reason": "Pairs with a noodle stop to build a multi-course Sunset Park Chinatown track within 10 min of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:36:27.162Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave Brooklyn — Yunnan rice noodles and crossing-the-bridge bowls",
+    "reason": "Adds regional Chinese variety to the 8th Ave noodle corridor; tiny photogenic room",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:36:27.162Z"
+  },
+  {
+    "topic": "Pacificana 813 55th St Brooklyn — Sunset Park dim sum alternative",
+    "reason": "Second-string dim sum hall a few blocks north of East Harbor; useful A/B comparison and backup when East Harbor has a wait",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:38:43.648Z"
+  },
+  {
+    "topic": "Ba Xuyen 4222 8th Ave Brooklyn — banh mi institution Sunset Park",
+    "reason": "Vietnamese sandwich counterpoint within 1 mile of East Harbor; fills a grab-and-go lunch slot on the same Sunset Park food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:38:43.648Z"
+  },
+  {
+    "topic": "Tacos El Bronco 4324 4th Ave Brooklyn — Sunset Park Mexican taqueria",
+    "reason": "Rounds out a Sunset Park multi-cuisine food crawl track alongside East Harbor and Kai Feng Fu",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:38:43.648Z"
   }
 ]
