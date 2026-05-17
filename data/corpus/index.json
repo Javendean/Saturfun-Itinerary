@@ -6421,17 +6421,17 @@
   },
   {
     "id": "panya-bakery-industry-city",
-    "name": "Panya Bakery (Japan Village)",
-    "desc": "Legendary Japanese bakery reborn inside Industry City — curry pan, shokupan, katsu sando; open Sundays.",
-    "longDesc": "After the beloved Stuyvesant Town original closed in 2022, Panya reopened in 2025 inside Industry City's Japan Village (Building 4), one floor down from Tadaima. The menu leans traditional Japanese bakery — curry pan, shokupan milk bread, an cream buns, katsu sandos, melonpan — plus matcha lattes, yuzu teas, and seasonal kakigori. Crucially open Sundays, making it the perfect zero-drive failover if Tadaima sells out.",
-    "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3abc322e23513a29789d_panya%20web.jpg",
+    "name": "Panya Bakery",
+    "desc": "Japanese bakery in Japan Village — curry pan, shokupan, matcha lattes; perfect IC morning anchor.",
+    "longDesc": "Panya reopened inside Industry City's Japan Village (Building 4) after closing its longtime East Village location, baking shokupan, savory curry pan, and matcha cream puffs daily behind a glass-fronted kitchen. The drink program spans matcha and hojicha lattes, matcha yuzu lemonade, pour overs, and chai — a one-stop fuel-up before driving tracks. Indoor and outdoor courtyard seating make it a low-stakes 30-minute breakfast slot.",
+    "url": "https://industrycity.com/tenants/panya-bakery/",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie",
       "chill",
-      "curious"
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
@@ -6439,26 +6439,30 @@
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
-    "notes": "Same complex as Tadaima — Building 4 inside Japan Village at 934 3rd Ave (Industry City). Sunday hours 11–6 confirmed (japanvillage.com). Heritage reopening of the 1970s Stuyvesant Town original that closed in 2022 (Commercial Observer, 2025). Pairs with Tadaima for a layered Japanese bakery flight: laminated patisserie upstairs at Tadaima, traditional breads downstairs at Panya. Free IC garage parking on weekends.",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "Inside Japan Village courtyard at IC Building 4, 220 36th St Suite 2-A / 934 3rd Ave (Japan Village storefront). Sat-Sun 11am-7pm per Japan Village; IC tenant page lists Wed-Sun 8am-4pm — call ahead on weekends (panya@japanvillage.com). Signature items: curry pan, shokupan, matcha cream puffs, strawberry shortcake, French toast (cititour). Beverages include matcha/hojicha lattes, matcha yuzu lemonade, sparkling yuzu tea, pour overs. Glass-fronted bakery — good photo moment. Park in IC garage; walk to Building 4 courtyard.",
     "sources": [
       {
+        "url": "https://industrycity.com/tenants/panya-bakery/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/panya-japanese-bakery-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://cititour.com/NYC_News/Panya-Bakery-Brings-Japanese-Pastries-and-Matcha-Magic-to-Industry-City/9748",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T01:40:33.770Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:13:21.067Z"
   },
   {
     "id": "jtunes-karaoke",
@@ -9241,43 +9245,37 @@
   },
   {
     "id": "ramen-setagaya-industry-city",
-    "name": "Ramen Setagaya (Japan Village @ Industry City)",
-    "desc": "Tokyo-style shio & shoyu ramen counter inside Japan Village — clean, fragrant broths from a 2000-founded original.",
-    "longDesc": "The Brooklyn outpost of a Tokyo ramen-ya founded in 2000, tucked inside Japan Village in Industry City's Building 4. Order the signature Shio ramen — a delicate sea-salt broth that earned the NYC location a Best of New York nod after opening in 2007 — and add butter or extra scallions for the classic Setagaya touch. Counter service, fast in-and-out, perfect lunch anchor before browsing Sunrise Mart or the courtyards next door.",
+    "name": "Ramen Setagaya (Industry City)",
+    "desc": "Tokyo-trained tsukemen and shio ramen counter tucked inside Japan Village at IC.",
+    "longDesc": "Ramen Setagaya's Industry City outpost lives inside the Japan Village food hall, serving the same Tsukasa Maejima broth program as the original Bedford Ave shop — clean shio ramen and a dippable tsukemen with thicker noodles in a concentrated dashi. Counter-style, fast turnover, easy to grab a stool between a Japan Village grocery loop and the IC courtyards. Walk-in friendly; weekend lunch is the calm window before the 1pm crush.",
     "url": "https://www.setagayany.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5cf803af1e289e00011c902f/1560015524885-OTFYFERNNSYYFDB3C6TP/144_Ramen-Setagaya-at-Japan-Village_Featured_3.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
       "chill"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
-    "duration": "30-45 min",
-    "driveFromIC": "0 min (on-site, Building 4)",
-    "hoursWeekend": "Fri-Sat 11:30-20:30, Sun 11:30-19:30",
-    "notes": "Inside Japan Village food hall at Industry City, 934 3rd Ave Building 4. Light shio/shoyu focus, not the heavy tonkotsu style — counter seating, expect short waits at peak lunch. Vegan ramen option available though toppings vary by season (ramen-nyc.com). Pairs well with a Sunrise Mart browse or Japan Village mochi run after.",
+    "duration": "45-60 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:30-20:30, Sun 11:30-19:30",
+    "notes": "Located inside Japan Village at Industry City, 934 3rd Ave (setagayany.com). Tsukemen is the signature dip-ramen format — order it instead of the standard bowl if it's your first visit. Weekend hours per the official site: Fri-Sat 11:30-20:30, Sun 11:30-19:30 (setagayany.com). IC has paid weekend lots/street parking on 2nd & 3rd Ave; arrive before 12:30 for a fast seat.",
     "sources": [
       {
         "url": "https://www.setagayany.com/",
-        "accessed": "2026-05-16T10:05:00Z"
-      },
-      {
-        "url": "https://www.ramen-nyc.com/restaurants/ramen-setagaya-industry-city",
-        "accessed": "2026-05-16T10:05:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
-        "accessed": "2026-05-16T10:05:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T10:06:20.428Z"
+    "lastResearchedAt": "2026-05-17T13:15:18.120Z"
   },
   {
     "id": "handroll-bar-japan-village",
@@ -10355,8 +10353,8 @@
   {
     "id": "bush-terminal-piers-park",
     "name": "Bush Terminal Piers Park",
-    "desc": "22-acre Sunset Park waterfront with tide pools, restored wetlands, and unobstructed Manhattan skyline views.",
-    "longDesc": "A former industrial pier complex cleaned up and opened as a public park in 2014, Bush Terminal Piers Park stretches along the Bay Ridge Channel with engineered tidal pools, a wild-growing micro-forest, multi-sport fields, and a waterfront esplanade. The harbor-edge swings and pier walk frame the Manhattan skyline and Statue of Liberty across the bay, making late afternoon through golden hour the standout window. Entry and parking are free; the main entrance is at 43rd Street / 5001 1st Ave during ongoing construction at the historic gate.",
+    "desc": "Eight-block reclaimed-pier park on the Sunset Park waterfront with tide ponds and unobstructed Manhattan sunset views.",
+    "longDesc": "Once a derelict shipping complex, this NYC Parks waterfront opened in 2014 with two multipurpose fields, restored wetlands, tide ponds, and a long esplanade pointing straight at lower Manhattan and the Statue of Liberty. It's the flat, sea-level sister to Sunset Park's hilltop view — better when wind or rain makes the hill miserable, and the only spot in the zone where you can stand right at the water for golden hour. Free parking lot off 43rd St makes it a drop-in stop, but the 7pm gate closure means you have to time sunset carefully outside of peak summer.",
     "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10364,37 +10362,32 @@
     "vibe": [
       "chill",
       "photo",
-      "romantic",
-      "active"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "5 min",
     "hoursWeekend": "07:00-19:00",
-    "notes": "Free entry and free parking lot off 43rd St (NYC Parks). 22 acres with tide ponds, restored wetlands, multi-sport fields, and a pedestrian esplanade looking onto Bay Ridge Channel (nycgovparks.org). Iconic harbor-edge swings and unobstructed Manhattan skyline views — best 15-20 min before sunset for golden hour (nyctourism.com, 6sqft.com). Main historic entrance is closed for construction; use 5001 1st Ave entrance (loc8nearme). Pairs naturally with an Industry City food-hall stop or a Sunset Park rooftop sunset.",
+    "notes": "Entrance and free parking lot at 43rd St & 1st Ave, ~5 min drive north of Industry City (nyctourism.com). Park officially closes 7pm year-round per NYC Parks, so in winter you catch sunset; in summer (sunset ~8:25pm) the hilltop at Sunset Park itself is the better pick — use this as the rainy/windy/low-mobility fallback (nycgovparks.org). Waterfront esplanade, restored tidal wetlands, and an iconic swing set facing the harbor (nyctourism.com). No food/drinks on site — pair with Industry City food hall before or after.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T13:10:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.6sqft.com/bush-terminal-piers-park-opens-on-the-sunset-park-waterfront/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T13:10:00Z"
       },
       {
         "url": "https://prked.com/blog/bush-terminal-piers-park-brooklyn-parking-guide",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T13:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:43:30.625Z"
+    "lastResearchedAt": "2026-05-17T13:06:57.944Z"
   },
   {
     "id": "owls-head-park",
@@ -28029,5 +28022,91 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T13:03:01.233Z"
+  },
+  {
+    "id": "sunset-park-pool-deck-overlook",
+    "name": "Sunset Park Pool & Rec Center Overlook",
+    "desc": "Bluff-top pool deck and lawn with sweeping skyline, Lady Liberty, and harbor framing minutes uphill from IC.",
+    "longDesc": "The 1936 WPA-built Sunset Play Center (an NYC Landmark) sits on the highest bluff in Brooklyn at 7th Ave & 43rd St, with the Olympic-size pool deck and surrounding lawns staring straight across the harbor at Lower Manhattan, the Statue of Liberty, and the Bayonne/Staten Island ridge. The pool itself is closed except in summer (late June–Labor Day), but the deck rail, the bleacher steps on the west side, and the lawn just south of the bathhouse are open year-round and give a different, higher-angle framing than the IC rooftop or Bush Terminal pier. The Recreation Center building is currently shut for reconstruction per NYC Parks Capital Tracker, so plan around exterior vantages.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "photo",
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park is dawn-to-1am daily; pool deck accessible during pool season ~late Jun–Labor Day, 11:00–19:00 with a 14:00–15:00 break (NYC Parks Outdoor Pools). Bathhouse and rec center are closed for reconstruction (NYC Parks Capital Tracker). Best skyline light is golden hour from the western bleachers; for harvester photo variety the lawn just south of the bathhouse gives a clean foreground frame distinct from Bush Terminal Pier and IC roof. Free street parking on 6th/7th Ave and side streets weekends; ADA ramp at 5th Ave entrance. Drive from IC: south on 3rd Ave to 41st, up the hill on 41st to 6th Ave — about 1 mi (sources: NYC Parks; Wikipedia).",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park/highlights/166",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park/facilities/outdoor-pools/sunset-park-pool",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:09:11.068Z"
+  },
+  {
+    "id": "kuraichi-sake-tastings",
+    "name": "Kuraichi — Free Sake Tastings",
+    "desc": "Free Fri/Sat tastings inside IC at NYC's largest Japanese spirits shop — sake, shochu, whisky.",
+    "longDesc": "Tucked inside Industry City, Kuraichi is the Japan Village–run bottle shop carrying hundreds of sakes plus shochu, awamori, and Japanese whisky. Free walk-in tastings typically run Friday and Saturday afternoons, where staff pour featured bottles (often including the Brooklyn Kura × Japan Village 'Yuzy Crazy' yuzu sake collab) and walk you through origin and brewing method. Pair it with a Brooklyn Kura brewery tour two blocks away for a self-contained sake mini-track.",
+    "url": "https://kuraichibk.com/pages/events-calendar",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Fri 12:00-20:00, Sat 12:00-20:00, Sun 12:00-19:30",
+    "notes": "Inside Industry City at 88 35th St, Bldg 5 (Japan Village floor) (kuraichibk.com). Free tastings 'typically held on Fridays and Saturdays' — no reservation, drop in during store hours (kuraichibk.com/pages/events-calendar). Tasting itself is free; bring cash/card if a bottle catches you (10% off Staff Picks of the Month). Phone (646) 460-3765, IG @kuraichibk for current week's pour list. Pairs perfectly with Brooklyn Kura's brewery tour two blocks east at 68 34th St.",
+    "sources": [
+      {
+        "url": "https://kuraichibk.com/pages/events-calendar",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://kuraichibk.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/event/sake-event-introduction-to-sake-tasting-class-and-brewery-tour/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:11:12.808Z"
   }
 ]
