@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Yemen Cafe (Bay Ridge) 5th Ave location — saltah, lamb haneeth",
-    "reason": "Pure Yemeni full-meal option to pair with Yemeni-coffee stop instead of Palestinian fusion",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:02:10.440Z"
-  },
-  {
-    "topic": "Balady Foods (Bay Ridge) — Middle Eastern grocery + bakery for ka'ak and za'atar",
-    "reason": "Adds a quick takeaway/photo stop within the same 3rd Ave Arab-American corridor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:02:10.440Z"
-  },
-  {
-    "topic": "Steve's Authentic Key Lime Pie (Red Hook, Pier 41)",
-    "reason": "Adjacent Red Hook dessert anchor with strong photo + tourist-pull factor; pairs naturally with Baked as a 'two bakeries, one drive' Red Hook loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:04:31.073Z"
-  },
-  {
-    "topic": "Court Street Grocers (Carroll Gardens)",
-    "reason": "Closest credible sandwich/coffee stop just north of Red Hook for a savory counterpoint to Baked's sweet-heavy menu within a 10-min radius of IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:04:31.073Z"
-  },
-  {
-    "topic": "Cafe Regular du Nord (Park Slope) — weekend coffee backup",
-    "reason": "If both Cafe Here and Baked are saturated, Park Slope cluster needs its own coffee anchor; Regular du Nord is the canonical Slope pick within the 15-min IC radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:04:31.073Z"
-  },
-  {
     "topic": "Coffee venues physically inside Industry City complex (Sunset Park) — weekend retail hours",
     "reason": "Original brief assumed BRC was inside IC; corpus needs the actual on-site coffee options for the zero-drive morning slot before Red Hook.",
     "requestedBy": "agent",
@@ -10822,5 +10792,89 @@
     "reason": "Mid-price ($$) halal Levantine option to bridge between Ayat ($$) and Tanoreen ($$$) on the same track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T14:42:51.267Z"
+  },
+  {
+    "topic": "Qahwah House Bay Ridge — Yemeni coffee + jubn-stuffed sabaya",
+    "reason": "Natural pre/post-meal coffee pairing in the same Bay Ridge cluster; Qahwah is the canonical NYC Yemeni coffeehouse",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:44:52.981Z"
+  },
+  {
+    "topic": "Yafa Cafe Bay Ridge — Yemeni mofa coffee with cardamom",
+    "reason": "Alternate Yemeni-coffee anchor on 5th Ave walking distance from Yemen Cafe for a tighter Bay Ridge track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:44:52.981Z"
+  },
+  {
+    "topic": "Tanoreen Bay Ridge — Palestinian fine-dining benchmark",
+    "reason": "If a track wants to contrast Yemeni vs Palestinian within one neighborhood; James Beard-recognized, weekend reservation required",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:44:52.981Z"
+  },
+  {
+    "topic": "Tanoreen (7523 3rd Ave, Bay Ridge) — Rawia Bishara's modernist Palestinian destination restaurant",
+    "reason": "Anchor sit-down meal for a Bay Ridge Middle Eastern track; James Beard-recognized chef",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:46:44.705Z"
+  },
+  {
+    "topic": "Yemen Cafe (7130 5th Ave, Bay Ridge) — saltah, lamb haneeth, Yemeni bread",
+    "reason": "Literally next door to Balady; lets the track stack 3 stops in one block",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:46:44.705Z"
+  },
+  {
+    "topic": "Mansoura Bakery (Midwood) — century-old Syrian-Jewish patisserie for ma'amoul and baklava",
+    "reason": "Cross-borough comparison candidate for the sweets axis if user wants an extended food-trail itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:46:44.705Z"
+  },
+  {
+    "topic": "Louis Valentino Jr. Park & Pier (Red Hook)",
+    "reason": "The waterfront park literally adjacent to Steve's — free, photogenic Statue of Liberty viewpoint that turns the pie stop into a 30-min photo walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:48:42.807Z"
+  },
+  {
+    "topic": "Widow Jane Distillery Red Hook tour",
+    "reason": "Adult counterweight to bakery-heavy Red Hook loop; weekend tastings, 4-min drive from Steve's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:48:42.807Z"
+  },
+  {
+    "topic": "Mazzola Bakery (Carroll Gardens)",
+    "reason": "Historic Italian bakery two blocks from CSG on Henry St — lard bread + prosciutto roll, perfect walk-from-CSG add-on for the same parking spot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:51:05.740Z"
+  },
+  {
+    "topic": "Caputo's Bake Shop (Carroll Gardens)",
+    "reason": "The very bakery CSG sources hoagie rolls from — semolina, prosciutto bread; tight cluster on Court St lets one drive serve three stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:51:05.740Z"
+  },
+  {
+    "topic": "Court Pastry Shop (Carroll Gardens)",
+    "reason": "Sicilian cannoli + sfogliatelle on Court St — restores the sweet finish if CSG is the savory mid-cluster anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:51:05.740Z"
+  },
+  {
+    "topic": "Konditori Park Slope 7th Ave — Scandinavian coffee + cardamom buns",
+    "reason": "Bigger room than Regular du Nord; useful overflow when du Nord's 6-group capacity is full",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:53:18.886Z"
+  },
+  {
+    "topic": "Root Hill Café (Park Slope/Gowanus border) — coffee with real seating + wifi",
+    "reason": "Different use-case than du Nord — sit-and-stay coffee, fills the 'lingering' slot du Nord can't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:53:18.886Z"
+  },
+  {
+    "topic": "Sey Coffee Bushwick — light-roast destination roaster",
+    "reason": "Adjacent driving-friendly coffee anchor for a Bushwick track; complements Brooklyn-cluster coffee corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:53:18.886Z"
   }
 ]

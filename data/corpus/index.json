@@ -7759,48 +7759,47 @@
   {
     "id": "court-street-grocers",
     "name": "Court Street Grocers",
-    "desc": "Cult-favorite Carroll Gardens sandwich shop & grocery — hero specialists 5 min from Lucali",
-    "longDesc": "The original 2010 outpost at 485 Court St built its reputation on seeded heroes stacked with house-roasted turkey, broccoli rabe, hot honey and provolone — the Ollie, Uncle Grandpa, and Cubano are the canon orders (theinfatuation.com). It doubles as a full grocery (cheeses, pantry goods, Brooklyn-made provisions), so you can grab a sandwich plus snacks for the road. Sitting six blocks up Court Street from Lucali, it's the textbook 'kill the 2-hour wait' move: walk over, eat at the counter or in Carroll Park, walk back for pies.",
+    "desc": "Carroll Gardens deli with cult-favorite sandwiches on bread from Balthazar and Caputo's.",
+    "longDesc": "A bodega-style sandwich shop on Court Street that's a destination in its own right — turkey-and-cheddar Mother-in-Law, roast-beef Jawn, and the legendary Macho Man Italian hero all built on breads from Balthazar and Caputo's. Counter-order, grab a stool or eat in the car; weekend lunch peak (11am–3pm) means a 10–20 min wait but the line moves. Sits ~10 min north of IC on the Smith/Court corridor, a natural savory counterpoint to Baked in Red Hook.",
     "url": "https://www.courtstreetgrocers.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "10 min",
     "driveFromFlushing": "30-35 min via Whitestone Expwy → GCP → BQE (I-278 W) → Hamilton Ave exit, then Court St north; weekend mornings before 10am closer to 28 min, midday Saturday can stretch to 40-45 min if BQE is backed up at the Kosciuszko or Williamsburg approach",
     "hoursWeekend": "08:00-17:00",
-    "notes": "Heroes are the move: Ollie (turkey/broccoli rabe/hot honey), Uncle Grandpa (turkey/ajvar/sumac), Cubano, plus a Macho (Wo)Man and Ultimate Warrior on the seeded loaf (~$17.50 each) (courtstreetgrocers.com, yelp.com). ~0.4 mi / 6-min walk to Lucali at 575 Henry — pairs perfectly with the no-reservations wait. Closes at 5pm so it's a lunch/early-afternoon stop, not dinner. Weekend street parking on Court/Smith is tight; the IC drive is ~12 min via Hamilton Ave/Hicks. Carroll Park one block south for an eat-outside option.",
+    "notes": "485 Court St, open 7 days 8am–5pm (no dinner) per official site (https://www.courtstreetgrocers.com/contact-hours-csg). Macho Man, Mother-in-Law, and Jawn are the signature heroes; breads sourced from Balthazar and Caputo's per The Infatuation. Weekend peak 11am–3pm — order ahead via the site to skip the line. Metered street parking on Court St; usually findable on weekends within 1–2 blocks.",
     "sources": [
       {
+        "url": "https://www.courtstreetgrocers.com/contact-hours-csg",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://www.courtstreetgrocers.com/menu-csg",
-        "accessed": "2026-05-16T21:05:00Z"
-      },
-      {
-        "url": "https://www.courtstreetgrocers.com/locations",
-        "accessed": "2026-05-16T21:05:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
-        "accessed": "2026-05-16T21:05:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
-        "accessed": "2026-05-16T21:05:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:09:22.956Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:51:05.703Z"
   },
   {
     "id": "socrates-sculpture-park",
@@ -13894,47 +13893,47 @@
   {
     "id": "steves-authentic-key-lime-pie",
     "name": "Steve's Authentic Key Lime Pie",
-    "desc": "Red Hook waterfront pie shack famous for the Swingle — frozen key lime tart on a stick, dipped in Belgian chocolate.",
-    "longDesc": "A Red Hook institution at 185 Van Dyke Street, tucked into a warehouse one block from Louis Valentino Jr. Pier with harbor and Statue of Liberty views. The signature Swingle is a mini key lime tart frozen on a stick and hand-dipped in Belgian dark chocolate; raspberry and white-chocolate Blonde variants rotate seasonally. Walk up, order a Swingle, and eat it on the pier — that's the move.",
-    "url": "https://keylime.com/stores/locations/",
+    "desc": "Walk-up Red Hook waterfront window slinging fresh-squeezed key lime pies and chocolate-dipped 'Swingles'.",
+    "longDesc": "Steve Tarpin has been pressing pies from real, fresh-squeezed key limes since the '90s — one of only two US commercial bakeries refusing bottled juice (Bklyner). The current shop sits at the dead-end of Van Dyke St next to Louis Valentino Jr. Pier Park, where you get Statue of Liberty views with your slice. Order the 'Swingle' (a frozen mini pie dipped in Belgian chocolate on a stick) and walk it onto the pier.",
+    "url": "https://keylime.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
-      "chill",
-      "photo"
+      "photo",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "8 min",
+    "duration": "20-40 min",
+    "driveFromIC": "9 min",
     "hoursWeekend": "11:00-20:00",
-    "notes": "Cash-friendly walk-up window; pairs perfectly with a Valentino Pier sunset stroll (source: nyctourism.com). Swingle ~$5-7; whole pies also sold. Street parking on Van Dyke is usually findable on weekends. Closed in winter some years — call (718) 858-5333 to confirm (source: keylime.com/stores/locations).",
+    "notes": "Walk-up window only, no indoor seating — eat on the adjacent pier with Statue of Liberty views (keylime.com). Hours posted are minimums; weather can extend them, call 718-858-5333 to confirm (keylime.com). Pairs perfectly with Baked on Van Brunt as a two-bakery Red Hook loop, ~5 min drive between them. Street parking on Van Dyke and Conover usually available on weekends. Try the original 4-inch tart or the chocolate-dipped Swingle.",
     "sources": [
       {
         "url": "https://keylime.com/stores/locations/",
-        "accessed": "2026-05-16T20:45:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/restaurants/steves-authentic-key-lime-pies/",
-        "accessed": "2026-05-16T20:45:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/steve-s-authentic-key-lime-pie-brooklyn",
-        "accessed": "2026-05-16T20:45:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.atlasobscura.com/places/steve-s-authentic-key-lime-pies",
-        "accessed": "2026-05-16T20:45:00Z"
+        "url": "https://bklyner.com/dining-review-steves-key-lime-pie-obsession-in-red-hook-will-make-you-swingle/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/steves-authentic-key-lime-pies/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:44:40.909Z"
+    "lastResearchedAt": "2026-05-17T14:48:42.786Z"
   },
   {
     "id": "sunnys-bar",
@@ -28900,49 +28899,43 @@
   },
   {
     "id": "yemen-cafe-bay-ridge",
-    "name": "Yemen Café & Restaurant (Bay Ridge)",
-    "desc": "Slow-cooked lamb haneeth and bubbling fahsah in a tandoor-baked-bread Yemeni dining room, one block from Moka & Co.",
-    "longDesc": "The Bay Ridge outpost of NYC's original Yemeni restaurant (est. 1986 on Atlantic Ave) serves fall-off-the-bone lamb haneeth, sizzling stone-bowl fahsah, and complimentary fresh-baked malawah from a clay tandoor with every meal. Halal, no alcohol, generous portions, and unusually attentive service for the price. Pairs perfectly with a post-dinner Yemeni coffee at Moka & Co one block north on 5th Ave.",
+    "name": "Yemen Cafe & Restaurant (Bay Ridge)",
+    "desc": "Pure Yemeni full-meal counterpart to a Yemeni-coffee stop — saltah, lamb haneeth, clay-oven bread.",
+    "longDesc": "Bay Ridge outpost of the family that opened America's first Yemeni restaurant on Atlantic Ave in 1986. The kitchen turns out six-hour slow-roasted lamb haneeth, bubbling clay-bowl saltah/fahsah topped with whipped fenugreek, and chicken mandi, all served with complimentary fresh-baked bread, broth, and pickled vegetables. Halal, no alcohol, big plates meant to be torn into with hands.",
     "url": "https://yemencafe.com/yemencafrestaurant5th",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "curious"
     ],
     "dietary": [
-      "halal",
-      "vegetarian"
+      "halal"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "14 min",
     "hoursWeekend": "09:00-22:30",
-    "notes": "Established 1986 as one of the first Yemeni restaurants in the US; Bay Ridge location at 7317 5th Ave is open 9:00 AM–10:30 PM daily (yelp.com). Signature dishes: lamb haneeth, fahsah, lamb mandi, and complimentary tandoor-baked Yemeni flatbread served with soup and salad (theblot.org). Halal, no alcohol — pair with mint tea or saltah. Street parking on 5th Ave is workable on weekends. Phone (718) 745-3000 for reservations; walk-in friendly. Forms a tight Bay Ridge Yemeni dinner+coffee pair with Moka & Co (one block north on 5th Ave at 73rd St).",
+    "notes": "7317 5th Ave, Brooklyn NY 11209 — Bay Ridge 5th Ave location, one of three Yemen Cafe branches (yemencafe.com). Phone (718) 745-3000. Open daily 9:00 AM–10:30 PM (yemencafe.com). Signature: lamb haneeth slow-roasted 6 hrs, plus saltah/fahsah with shredded lamb and whipped fenugreek served in clay bowl with clay-oven bread (yemencafe.com). Pairs naturally with a Yemeni-coffee stop (Qahwah House / Yafa) since this is a true Yemeni kitchen, not Palestinian fusion. Free metered parking abundant on 5th Ave on weekends; 14 min drive from IC down 3rd Ave or 4th Ave.",
     "sources": [
       {
         "url": "https://yemencafe.com/yemencafrestaurant5th",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/yemen-cafe-and-restaurant-brooklyn-2",
-        "accessed": "2026-05-17"
+        "url": "https://yemencafe.com/menu",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/yemen-cafe-restaurant",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://theblot.org/yemen-cafe-brooklyn-review/",
-        "accessed": "2026-05-17"
+        "url": "https://www.yelp.com/menu/yemen-cafe-and-restaurant-brooklyn-2/item/lamb-haneeth",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T14:36:27.995Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T14:44:52.960Z"
   },
   {
     "id": "hadramout-restaurant",
@@ -28988,5 +28981,92 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T14:40:58.617Z"
+  },
+  {
+    "id": "balady-foods-bay-ridge",
+    "name": "Balady Foods",
+    "desc": "Bay Ridge's biggest halal Middle Eastern grocery — olives, spices, fresh ka'ak and za'atar pies.",
+    "longDesc": "Family-run since 2003 by the Masoud brothers, Balady is a Mediterranean halal market anchoring Bay Ridge's 5th Ave Arab-American corridor. The olive bar alone has 15+ varieties, the spice wall and house-made labneh are destination-worthy, and the bakery counter turns out warm za'atar man'oushe, ka'ak al-Quds, and Syrian-style sweets. Tight aisles + dramatic produce/spice displays make it a quick photo-rich takeaway stop.",
+    "url": "https://www.baladyfoods.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bay-ridge",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "halal"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "08:00-22:00",
+    "notes": "Address: 7128 5th Ave, Brooklyn NY 11209 (Bay Ridge, not 3rd Ave — corridor is 5th Ave). Ph (718) 567-2252. Open 8a-10p Sat & Sun. Street parking on 5th Ave + side streets generally available weekend mid-day. Pair with Tanoreen (5 min walk N) or Yemen Cafe for a sit-down. Ka'ak ring bread + za'atar packet is the canonical photo-grab. (heyridge.com 2015 feature; Yelp; baladyfoods.com)",
+    "sources": [
+      {
+        "url": "https://www.baladyfoods.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/balady-foods-brooklyn-4",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.heyridge.com/2015/05/balady-foods-the-wildly-successful-halal-market-to-double-its-size-this-summer/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:46:44.683Z"
+  },
+  {
+    "id": "cafe-regular-du-nord",
+    "name": "Café Regular du Nord",
+    "desc": "Tiny Park Slope coffee bar with French aesthetic, foamy cappuccinos, and pastries gone by 11am.",
+    "longDesc": "Tucked between brownstones on quiet Berkeley Place, Café Regular du Nord looks lifted straight out of a quaint French town — vintage counter stools, an exterior mural, and a handful of patio seats. The cappuccino and chocolate croissant are the move; pastries sell out by 11am, so come early. Six groups max inside, but it's the canonical North Slope coffee anchor when Cafe Here and Baked are slammed.",
+    "url": "https://www.yelp.com/biz/café-regular-du-nord-brooklyn-3",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "08:00-16:00",
+    "notes": "158 Berkeley Pl, Brooklyn NY 11217 — North Slope, off 7th Ave (Yelp). 'Looks like a cafe in some quaint little French town,' counter seating + a few patio seats, ideal for people-watching on a tree-lined block (The Infatuation). Cappuccino + chocolate croissant are the order; pastries gone by 11am so arrive early (Restaurantji). Very cramped — fits ~6 groups inside (Yelp aggregate). Weekend parking generally findable on Berkeley Pl / surrounding residential side streets (no Sunday meters on most numbered cross streets); avoid 7th Ave proper. ~13 min drive from Industry City via 3rd Ave → Prospect Expy → 4th Ave. Open daily 8am-4pm — closes early, so slot it as morning/early-afternoon coffee, not a late-day stop.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/café-regular-du-nord-brooklyn-3",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/cafe-regular-du-nord",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/cafe-regular-du-nord-/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/cafe-regular-du-nord",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:53:18.864Z"
   }
 ]
