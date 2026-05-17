@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Don Paco Lopez Panaderia — Sunset Park Mexican bakery for late-night pan dulce",
-    "reason": "Pairs naturally with a Matamoros stop; rounds out the Sunset Park Mexican cluster with a dessert/coffee option",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:56:30.359Z"
-  },
-  {
-    "topic": "Melody Lanes — Sunset Park retro bowling alley late-night",
-    "reason": "Non-food activity in the same 5-min radius; lets the cluster mix food + activity instead of stacking taquerias",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:56:30.359Z"
-  },
-  {
-    "topic": "Kellogg's Diner (Williamsburg) — 24hr diner alternative on the north end of Brooklyn",
-    "reason": "Second 24/7 diner option to balance late-night coverage when itinerary lands closer to Williamsburg/Greenpoint than IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:58:21.993Z"
-  },
-  {
-    "topic": "Tortilleria Mexicana Los Hermanos (Bushwick) — late tortilla factory taqueria",
-    "reason": "Pairs with 24hr diner research as a 'where do we eat at 2am' cluster; adds a non-diner option",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:58:21.993Z"
-  },
-  {
-    "topic": "Brooklyn Bagel & Coffee Co. (Greenwood Heights) — early-morning donut/bagel anchor near IC",
-    "reason": "Adjacent walking-distance dawn option that complements a late-night Sunset Park Diner stop on overnight itineraries",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:58:21.993Z"
-  },
-  {
     "topic": "Smorgasburg Prospect Park weekend food market 2026 schedule",
     "reason": "Weekend-equivalent open-air food market within 10-min drive of IC — fills the weekend gap that Brooklyn Night Market (Mon-only) cannot anchor",
     "requestedBy": "agent",
@@ -7264,5 +7234,95 @@
     "reason": "Drivable from IC (~18 min); fresh-pressed tortillas anchor a separate Mexican-track alternative outside Sunset Park",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T02:50:54.580Z"
+  },
+  {
+    "topic": "Tacos Matamoros — Sunset Park 5th Ave taqueria pairing partner",
+    "reason": "Direct anchor for the Mexican cluster brief; sits 4 min from Don Paco and IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:52:48.987Z"
+  },
+  {
+    "topic": "La Flor Bakery & Cafe — alternative Sunset Park pan dulce + sit-down brunch option",
+    "reason": "Gives the corpus a daytime sit-down Mexican-leaning bakery for variety against Don Paco's grab-and-go.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:52:48.987Z"
+  },
+  {
+    "topic": "Cafe Grumpy Industry City — coffee pairing for pan dulce hauls back to IC",
+    "reason": "Closes the loop on a pan-dulce-to-coffee mini-loop inside the IC anchor radius.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:52:48.987Z"
+  },
+  {
+    "topic": "Pioneer Works late-night gallery hours Red Hook",
+    "reason": "Another non-food anchor within 10-min drive of IC; balances the cluster with art instead of bowling",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:54:44.979Z"
+  },
+  {
+    "topic": "Sunset Park Hong Kong-style karaoke 8th Ave",
+    "reason": "Late-night active venue same zone as Melody Lanes; gives a second after-dinner option in the IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:54:44.979Z"
+  },
+  {
+    "topic": "Industry City courtyard outdoor games weekend programming",
+    "reason": "Free/cheap activity literally inside IC; pairs with Melody Lanes as a daylight precursor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:54:44.979Z"
+  },
+  {
+    "topic": "Peter Pan Donut & Pastry Shop (Greenpoint) — classic 24/7-adjacent early-morning donut counter",
+    "reason": "Pairs with Kellogg's as a Greenpoint/Williamsburg cluster sweet-stop for late-night/early-morning loops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:56:39.321Z"
+  },
+  {
+    "topic": "Cafe Mogador (Williamsburg) — late-night Moroccan brunch staple on Wythe",
+    "reason": "Adds a non-diner late-dinner option in the same north-Brooklyn drive cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:56:39.321Z"
+  },
+  {
+    "topic": "Lucky Dog (Williamsburg) — late-night bar with kitchen and back patio on Bedford Ave",
+    "reason": "Provides a drinks-then-diner sequence (Lucky Dog -> Kellogg's) for the late track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:56:39.321Z"
+  },
+  {
+    "topic": "Birria-Landia (Williamsburg / Bushwick truck) — late birria tacos under the JMZ",
+    "reason": "Adjacent late-night taco cluster, different style (consome, quesabirria) within 10-min drive of Los Hermanos",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:58:38.129Z"
+  },
+  {
+    "topic": "Tacos El Bronco (Sunset Park, 5th Ave) — late-night Mexican closer to IC",
+    "reason": "Sub-10-min from IC, fills the 'late tacos without leaving the neighborhood' slot before driving to Bushwick",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:58:38.129Z"
+  },
+  {
+    "topic": "Mesa Coyoacan (Williamsburg) — sit-down Mexican open late weekends",
+    "reason": "Upgrades the late-Mexican option from counter to full sit-down for groups that don't want the factory-floor vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:58:38.129Z"
+  },
+  {
+    "topic": "Bagel Pub - Sunset Park (313 36th St, Brooklyn) — early-morning bagel + coffee literally walking distance from Industry City",
+    "reason": "Closer to IC than The Bagel Factory (~0.4 mi walk vs 10-min drive) and opens 6:30 AM weekends; gives the overnight itinerary a true walking-distance dawn option without needing the car.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:02:22.548Z"
+  },
+  {
+    "topic": "Du's Donuts & Coffee (Williamsburg) — true donut destination if the dawn-donut slot is still unfilled",
+    "reason": "Saturfun's brief mentions 'donut/bagel anchor' but Greenwood Heights has no notable donut shop; Du's is the borough's best-known modern donut maker and fits a Williamsburg-cluster track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:02:22.548Z"
+  },
+  {
+    "topic": "Winner Bakery (Park Slope, 367 7th Ave) — pastry/croissant dawn alternative ~12 min from IC",
+    "reason": "Expands the early-morning corpus beyond bagels; Winner is consistently cited as Brooklyn's top viennoiserie and opens at 8 AM, complementing pre-IC mornings that don't need a 5:30 AM start.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:02:22.548Z"
   }
 ]

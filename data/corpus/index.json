@@ -2299,25 +2299,23 @@
   {
     "id": "melody-lanes",
     "name": "Melody Lanes",
-    "desc": "Family-run 26-lane bowling alley in Sunset Park with glow bowling, arcade games, and divey charm.",
-    "longDesc": "A 1959-era neighborhood bowling alley a few blocks from Industry City — 26 lanes, an arcade, and Peter Napolitano running the show. Glow bowling Fri/Sat nights and an 'all you can bowl' deal from midnight to close make it a reliable late-night anchor. Wood-paneled, photogenic, and unpretentious.",
+    "desc": "Family-run 1950s-era 26-lane bowling alley in Sunset Park with glow bowl and late-night all-you-can-bowl",
+    "longDesc": "Melody Lanes is a 26-lane retro bowling alley tucked into Industry City's back door at 461 37th St, family-run since the 1950s with arcade games, league play, and a divey bar feel. Friday and Saturday nights run glow bowling, and from midnight to close they switch to an 'all-you-can-bowl' flat rate — a rare late-night activity option in a neighborhood that otherwise shuts down by 11. Weekend lane pricing is around $65/hour, so it's most efficient with 4-6 people.",
     "url": "https://melodylanesny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "chill",
-      "photo",
-      "active"
+      "active",
+      "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "4 min",
-    "hoursWeekend": "Sat 9:00-01:00, Sun 9:00-00:00",
-    "notes": "461 37th St, Brooklyn — literally walking distance from IC but treat as a quick drive with free street parking on weekends. ~$65/hr per lane on weekends; shoe rental extra (melodylanesny.com). Glow bowling Fri/Sat nights; midnight 'all you can bowl' (Yelp). Snack bar with pizza, fries, beer — light vegetarian options but not a dining destination.",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "09:00-01:00",
+    "notes": "461 37th St, Brooklyn NY 11232; phone (718) 832-2695. 26 lanes, arcade, full bar. Weekend lanes ~$65/hr; glow bowling Fri/Sat nights; 'all you can bowl' from midnight to close Fri/Sat (source: yelp.com/biz/melody-lanes-brooklyn-3). Street parking on 37th/38th is realistic on weekends since most IC tenants close by 8pm. Walking distance from IC's south end — drive time is nominal, basically a 5-min reposition.",
     "sources": [
       {
         "url": "https://melodylanesny.com/",
@@ -2335,7 +2333,7 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:20:28.695Z"
+    "lastResearchedAt": "2026-05-17T02:54:44.959Z"
   },
   {
     "id": "wakuwaku",
@@ -5304,16 +5302,16 @@
   {
     "id": "don-paco-lopez-panaderia",
     "name": "Don Paco López Panadería",
-    "desc": "Third-generation Sunset Park Mexican bakery famed for conchas, orejas, and campechanas since 1991.",
-    "longDesc": "Founded June 29, 1991 by Francisco 'Don Paco' López — who immigrated from Chila de las Flores, Puebla in 1976 — this family-run panadería at 47th & 4th has become a Brooklyn benchmark for Mexican baking (theinfatuation.com, NYT). Rows of cookie-dough-topped conchas, flaky orejas (elephant ears), and caramelized campechanas come out fresh daily; Francisco and Leonila López, now in their 90s, still anchor the operation while a second generation runs day-to-day. Cash-friendly counter service, no seating — grab a bag and eat in the car or take it to Sunset Park itself for the skyline view.",
+    "desc": "Third-generation Sunset Park Mexican bakery famous for conchas and pan dulce since 1991.",
+    "longDesc": "A family-run Sunset Park institution at 4703 4th Ave that traces its roots to Chila de las Flores, Puebla (1932) and has been baking in Brooklyn since 1991. The case overflows with conchas, orejas, cuernos, and seasonal pan de muerto — bake-at-dawn quality that pairs naturally with a Matamoros taco stop or a post-Industry City coffee. Counter-service, cash-friendly, and lived-in rather than polished.",
     "url": "https://donpacolopez.com/",
-    "photoUrl": "https://donpacolopez.com/cdn/shop/files/IMG_2336.jpg?v=1727920734&width=3200",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
@@ -5321,30 +5319,30 @@
     "priceBand": "$",
     "duration": "20-30 min",
     "driveFromIC": "6 min",
-    "hoursWeekend": "07:00-21:00 (approx; call to confirm)",
-    "notes": "Address: 4703 4th Avenue, Brooklyn, NY 11220 — 7 blocks south of Industry City along 4th Ave (donpacolopez.com). Phone (718) 492-7443. Counter-only, no indoor seating; bring cash though card accepted. Conchas typically $1.50-2.50 each. Pair with an IC food-hall lunch or as the first stop before driving to Green-Wood Cemetery / Sunset Park. Sister locations in Spanish Harlem (2000) and Westbury, LI (2024) — Sunset Park is the original (donpacolopez.com/pages/about-us). Featured in NYT, The Infatuation, and Viewing NYC.",
+    "hoursWeekend": "Sat 5:30-19:00, Sun 5:30-13:00",
+    "notes": "Counter-service bakery, not a sit-down cafe — grab pan dulce + coffee to go and walk it back to IC or pair with a Matamoros taco run on 5th Ave. NOTE: closes 7 PM Saturday and 1 PM Sunday, so this is a daytime/early-evening stop, not a true late-night dessert option despite the original brief framing (donpacolopez.com, yelp.com). Conchas are the signature; they sell out of popular shapes by mid-afternoon (viewing.nyc). Street parking on 4th Ave is usually findable on weekends. Address: 4703 4th Ave, Brooklyn — physically in Sunset Park; bucketed as industry-city since the schema has no sunset-park zone.",
     "sources": [
+      {
+        "url": "https://donpacolopez.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
       {
         "url": "https://donpacolopez.com/pages/about-us",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/don-paco-lopez-panaderia",
+        "url": "https://www.yelp.com/biz/don-paco-lopez-panaderia-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
         "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://bklyner.com/don-paco-lopez-panaderia-gets-much-deserved-love-new-york-times-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T02:48:17.619Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T02:52:48.970Z"
   },
   {
     "id": "thanh-da-sandwich",
@@ -9949,51 +9947,44 @@
   {
     "id": "tortilleria-mexicana-los-hermanos",
     "name": "Tortilleria Mexicana Los Hermanos",
-    "desc": "Cult Bushwick tortilla factory with a tiny taqueria counter serving tacos from the line, fresh off the press.",
-    "longDesc": "A working corn-tortilla factory on a quiet Bushwick block that doubles as a no-frills taqueria — you watch the press run from the dining room while eating $2-something tacos made with tortillas pulled minutes earlier. Cash-only, BYOB, and you write your order on scrap paper and slide it across the counter; Anthony Bourdain once called these the best tacos in NYC. Pairs naturally with the Troutman/Starr Street murals and the surrounding Bushwick press-shop crawl.",
-    "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
+    "desc": "Working tortilla factory + taqueria in Bushwick; tacos made on the hot line, open late on weekends",
+    "longDesc": "A no-frills tortilleria where you eat tacos in the dining room while watching masa get rolled, pressed, and baked into tortillas on the production line behind you. Cash-friendly, $ prices, and the al pastor / lengua / suadero are the standard order. Friday-Sunday it stays open until 11:30pm, making it a legitimate post-midnight-adjacent 'where do we eat' option that isn't a 24hr diner.",
+    "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "foodie",
       "curious",
-      "photo"
+      "chill"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "11:00-23:30",
-    "notes": "Cash only, BYOB, no alcohol on premises (Yelp, Infatuation). Order by writing items on scrap paper and sliding it to the counter (NYC Tourism). Tacos ~$2.25, tostadas ~$2.50, quesadillas ~$3.25; pork (carnitas, chorizo) and steak are the standouts (Bushwick Daily, Infatuation). One of the last surviving tortillerias from the 1990s 'Tortilla Triangle' and the only one in NYC where you can eat tacos in the same room as the running tortilla line (Atlas Obscura, NYC Tourism). Street parking in Bushwick is generally findable on weekends within 1-3 blocks; the factory is a few minutes' walk from the Jefferson Street L for non-driving friends. Loud tortilla machine — fun, not romantic.",
+    "duration": "45-60 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Fri-Sun 11:00-23:30",
+    "notes": "271 Starr St, Brooklyn — tortilla factory with attached taqueria where you can watch the line run while eating (Atlas Obscura). Weekday hours close at 22:10; Fri/Sat/Sun extend to 23:30 (Yelp). Pairs with diner cluster as the non-diner late-eat option; drive from IC ~20 min via Prospect Expy + Bushwick Ave with usually-findable street parking on Starr/Wyckoff after 10pm. Order tacos al pastor, suadero, lengua; tortillas-by-the-bag wholesale also sold seven days a week (NYC Tourism).",
     "sources": [
-      {
-        "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
       {
         "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tortilleria-mexicana-los-hermanos",
+        "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://bushwickdaily.com/food-and-drink/6685-los-hermanos-tacos-tortilla-factory-bushwick/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T02:29:24.312Z"
+    "lastResearchedAt": "2026-05-17T02:58:38.110Z"
   },
   {
     "id": "tulcingo-sunset-park",
@@ -22393,5 +22384,98 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T02:46:11.557Z"
+  },
+  {
+    "id": "kelloggs-diner-williamsburg",
+    "name": "Kellogg's Diner",
+    "desc": "Reopened 24/7 Williamsburg diner with elevated classics and a neon-lit late-night booth scene.",
+    "longDesc": "An iconic 1928 Metropolitan Ave diner reopened in September 2024 under restaurateur Louis Skibar, designer Nico Arze, and chef Jackie Carnesi after a full renovation. The 24-hour menu spans diner classics with a twist — short rib hash, Texas French toast, queso, flat tacos, strawberry pretzel salad, and a full cocktail list including a s'mores Old Fashioned. Perfect late-night anchor when the itinerary lands on the north end of Brooklyn (Williamsburg/Greenpoint).",
+    "url": "https://www.kelloggsdinernyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "24 hours",
+    "notes": "518 Metropolitan Ave at Union Ave, right off the BQE — easy drive up from IC via Hamilton/BQE (Brooklyn Paper). Reopened Sept 20, 2024 by Skibar/Arze/Carnesi team; now operates 24/7 after initial 5–10pm soft launch (Brooklyn Paper, Resy). Phone (718) 782-4505 (Yelp). Street parking on residential blocks north of Metropolitan is usually available late night. Pairs well with a Williamsburg waterfront walk or a Lorimer L stop closeout.",
+    "sources": [
+      {
+        "url": "https://www.kelloggsdinernyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/kelloggs-diner-reopens-in-williamsburg/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2024/09/kelloggs-diner-nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kelloggs-diner-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/a-first-look-at-the-newly-reopened-kelloggs-diner-in-williamsburg-092324",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T02:56:39.300Z"
+  },
+  {
+    "id": "the-bagel-factory-greenwood-heights",
+    "name": "The Bagel Factory (Greenwood Heights)",
+    "desc": "Dawn-open neighborhood bagel + coffee anchor on 5th Ave, ~10 min from Industry City.",
+    "longDesc": "A no-frills, locals-first bagel shop on 5th Ave near 17th St that opens at 5:30 AM every weekend — perfect for catching a Saturday sunrise after an overnight Sunset Park Diner stop. Hand-rolled bagels, breakfast sandwiches (2-egg-with-cheese is the most-ordered), fresh-brewed iced coffee, and an under-$10 ticket. Quick in-and-out: order at the counter, take it to the car or eat at a window stool.",
+    "url": "https://www.yelp.com/biz/the-bagel-factory-17th-st-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 5:30-16:00, Sun 5:30-15:45",
+    "notes": "Address: 612 5th Ave, Brooklyn NY 11215; phone (718) 768-0461 (Yelp/Grubhub). Drive from IC: north on 3rd Ave → west on 19th St → 5th Ave (~10 min, ~1.4 mi). Weekend street parking on 5th Ave and side streets is realistic before 9 AM; metered after. NOTE on naming: the original task referenced 'Brooklyn Bagel & Coffee Co. (Greenwood Heights)' but that chain only operates in Chelsea/East Village/Astoria (Yelp) — The Bagel Factory is the actual Greenwood Heights dawn anchor matching the brief. Pairs naturally with a late-night Sunset Park Diner stop (drive south on 5th Ave, ~7 min apart). Not a donut shop — if a true donut anchor is needed, see enqueue suggestions.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/the-bagel-factory-17th-st-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/the-bagel-factory--1-612-5th-ave-brooklyn/67583",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://menupages.com/the-bagel-factory-1/612-5th-ave-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/the-bagel-factory-2/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T03:02:22.526Z"
   }
 ]
