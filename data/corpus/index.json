@@ -15406,51 +15406,48 @@
   {
     "id": "fornino-pier-6",
     "name": "Fornino at Pier 6",
-    "desc": "Seasonal wood-fired pizza rooftop on Brooklyn Bridge Park's Pier 6 with Statue of Liberty sunset views.",
-    "longDesc": "Fornino's Pier 6 outpost is a seasonal indoor/outdoor pizzeria with a rooftop deck overlooking New York Harbor, the Statue of Liberty, and lower Manhattan — a prime sunset spot. The kitchen turns out Neapolitan-style wood-fired pies alongside sandwiches, salads, artisanal sodas, and signature cocktails, with rooftop reservations available weather-permitting via Resy. Open mid-April through mid-October only; rooftop seating is first-come-first-served and the sunset hour fills fast on weekends.",
+    "desc": "Rooftop wood-fired pizza with Statue of Liberty + lower Manhattan sunset views",
+    "longDesc": "Seasonal rooftop pizzeria perched on Brooklyn Bridge Park's Pier 6 with a custom wood-fired oven baking Neapolitan-style pies on the roof itself. The deck wraps around an expansive panorama of the Statue of Liberty and lower Manhattan — a top sunset table in the borough — and the menu rounds out pizzas with salads, sandwiches, sangria, and a full cocktail bar. Friday late-night rooftop bar (9:30–11 PM) throws in a complimentary Margherita slice with any drink.",
     "url": "https://www.fornino.com/brooklyn-bridge-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "romantic",
       "foodie",
+      "romantic",
       "photo"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "Sat 12:00-21:00, Sun 12:00-20:00 (seasonal, mid-Apr to mid-Oct)",
-    "notes": "Located at Pier 6, Brooklyn Bridge Park, Brooklyn NY 11201 (brooklynbridgepark.org). Rooftop is weather-permitting; reservations on Resy (resy.com). Friday 9:30-11pm: complimentary Margherita slice with any drink purchase (brooklynslifestyle.com). 15-min drive from Industry City via Hicks St or BQE; Pier 6 has paid weekend parking adjacent. Best at sunset for harbor + Statue of Liberty views.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 12:00-21:00, Sun 12:00-20:00 (seasonal Mar-Oct, weather-permitting)",
+    "notes": "Seasonal venue — confirm open before driving (March–October only) (fornino.com). Rooftop is the draw: sunset over the harbor and Statue of Liberty (brooklynbridgepark.org). Pizzas designed to share, plus salads/sandwiches; gluten-free crust available (fornino.com). Parking: Pier 6 lot at the foot of Atlantic Ave is the closest paid lot; street parking on Columbia/Joralemon possible on weekends. No driving inside the park — park and walk in along the Atlantic Ave entrance. Walk-ins fine for the rooftop bar; tables via Tock/OpenTable for the dining deck.",
     "sources": [
       {
-        "url": "https://brooklynbridgepark.org/places-to-see/restaurants-cafes/fornino/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.fornino.com/brooklyn-bridge-park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://resy.com/cities/new-york-ny/venues/fornino-bk-bridge-park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://brooklynbridgepark.org/places-to-see/restaurants-cafes/fornino/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/fornino-brooklyn-5",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://brooklynslifestyle.com/fornino-brooklyn-bridge-park-happy-hour/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.amny.com/lifestyle/eat-and-drink/forninos-rooftop-at-brooklyn-bridge-park-reopens-for-spring/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T17:12:34.391Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:52:33.913Z"
   },
   {
     "id": "pilot-oyster-schooner",
@@ -24668,5 +24665,135 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T06:46:30.761Z"
+  },
+  {
+    "id": "empire-fulton-ferry-janes-carousel",
+    "name": "Empire Fulton Ferry Lawn + Jane's Carousel",
+    "desc": "Waterfront lawn under the Brooklyn Bridge with a glass-pavilion 1922 carousel and skyline views",
+    "longDesc": "A 9-acre waterfront lawn wedged between the Brooklyn and Manhattan Bridges, anchored by Jane's Carousel — a meticulously restored 1922 wooden carousel housed in a Jean Nouvel-designed glass pavilion right on the East River. The lawn delivers postcard sightlines of the Brooklyn Bridge underside, Manhattan skyline, and (at blue hour) the bridge cables lighting up against the indigo sky. Rides on the carousel are $3 a token; the lawn itself is free and open until 1 AM, making it the canonical sunset-into-twilight stop in Dumbo.",
+    "url": "https://brooklynbridgepark.org/places-to-see/empire-fulton-ferry/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Lawn 06:00-01:00 daily; Carousel Wed-Sun 11:00-17:50 (closed Mon/Tue from Sep 15)",
+    "notes": "Park at Brooklyn Bridge Park lots on Plymouth St or the Pier 1/2 garage; weekend street parking on Water/Plymouth is workable before sunset. Carousel ride $3, kids under 42\" free with paying adult; one child + adult may share a ticket (janescarousel.com). For blue-hour photos, position on the lawn just east of the carousel pavilion — Brooklyn Bridge cables frame Manhattan at ~30 min after sunset. Lawn is BBP-managed, free, open 6am-1am (brooklynbridgepark.org). Pair with Time Out Market or Cecconi's two blocks south for dinner.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/empire-fulton-ferry/",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://janescarousel.com/hours/",
+        "accessed": "2026-05-17T07:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:50:14.513Z"
+  },
+  {
+    "id": "pilot-schooner-bar",
+    "name": "Pilot",
+    "desc": "Seasonal oyster bar on a 1924 wooden schooner docked at Pier 6 — sunset cocktails with harbor views",
+    "longDesc": "Pilot is a floating oyster bar aboard a 147-ft 1924 Grand Banks schooner moored on the north side of Brooklyn Bridge Park's Pier 6. Expect nautically themed cocktails, raw bar, summery wines and unbeatable views of the harbor and Manhattan skyline. The vessel sailed 50+ years as a Boston Harbor pilot ship — the longest-serving in American history — before being restored as a bar.",
+    "url": "https://crew.fun/pilot",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/56493a71e4b0102d9d957a12/1614981950004-859SFIJP35JFDQ0NLMUM/Pilot-Bar.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat-Sun 10:00-22:00 (seasonal)",
+    "notes": "Pier 6, Brooklyn Bridge Park (north side dock). Reservations via Resy or Tock — Oyster Bar seating is held for 1h30m blocks (yelp.com/biz/pilot-brooklyn). Operates seasonally, typically May–October; currently closed for restoration work as of latest BBP listing (brooklynbridgepark.org/places-to-see/restaurants-cafes/pilot). Confirm reopening before booking. Phone (917) 810-8550. Parking at Pier 6 lot is limited on summer weekends — arrive early or use the BBP garage at Pier 2/3.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/restaurants-cafes/pilot/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://crew.fun/pilot",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/pilot-brooklyn",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.exploretock.com/pilotnyc/search",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:54:48.446Z"
+  },
+  {
+    "id": "brooklyn-heights-promenade-pier-walk",
+    "name": "Brooklyn Heights Promenade + Pier 6 to Pier 1 Walk",
+    "desc": "1.4-mi waterfront greenway from Pier 6 to Pier 1, then up Squibb Bridge to the cantilevered Promenade — full skyline the whole way.",
+    "longDesc": "Park at the Pier 6 garage (360 Furman St) and walk north along the Brooklyn Bridge Park Greenway — past Pier 6's flower fields, the volleyball courts at Pier 5, the lawns at Pier 2, and out under the Brooklyn Bridge at Pier 1 (about 1.4 mi, ~45 min easy walking). From Pier 1, ascend the zig-zag Squibb Park Bridge into Brooklyn Heights and walk the Promenade south along Pierrepont/Montague — the cantilevered esplanade above the BQE, with Lower Manhattan front and center. South-to-north is the recommended direction because the skyline stays on your left the whole walk.",
+    "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "photo",
+      "chill",
+      "romantic",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park at City Parking garage on south side of 360 Furman St (Pier 6) or LAZ at 90 Furman St under Squibb Bridge (Pier 1) — the Loop Road between Piers 5 and 6 is drop-off only, not parking (source: brooklynbridgepark.org). Greenway is 1.4 mi, ~45.9 ft elevation gain, rated easy (source: mypacer.com). Squibb Park Bridge connects Pier 1 up to the Brooklyn Heights Promenade via a staircase — famous zig-zag design and downtown Manhattan skyline photo spot (source: triptins.com). Walk south-to-north for skyline-on-your-left views the whole way. Promenade itself is open 24/7; park gates are 6am-1am daily. Free aside from parking.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://triptins.com/brooklyn-heights-promenade/",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://triptins.com/brooklyn-bridge-park/",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://www.mypacer.com/routes/81349/walk-from-pier-1-to-pier-6-in-brookly-trail-new-york-city-new-york-usa",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-6/",
+        "accessed": "2026-05-17T07:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:57:15.498Z"
   }
 ]
