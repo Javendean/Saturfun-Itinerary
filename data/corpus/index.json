@@ -16569,51 +16569,47 @@
   {
     "id": "devocion-williamsburg",
     "name": "Devoción Williamsburg",
-    "desc": "Greenhouse-style Colombian direct-trade flagship with skylit plant wall and on-site lab",
-    "longDesc": "Devoción's Williamsburg flagship is a sunlit, pitched-roof café modeled on a Colombian finca — a floor-to-ceiling living wall of 35+ Colombian plant species, leather Chesterfields on Persian rugs over 19th-century brick, and a center-of-room coffee lab. Beans are dry-milled in Bogotá and air-freighted to the Brooklyn roaster so cups are pulled within ~10 days of harvest (industry standard is 6–12 months). It's a cinematic photo stop and a serious single-origin tasting in one room.",
+    "desc": "Direct-from-farm Colombian roastery flagship under a skylit living wall of 150 coffee plants.",
+    "longDesc": "Devoción's Williamsburg flagship is a sunlit roastery, training lab, and café behind an exposed-brick corridor wrapped in Colombian greenery. Founder Steven Sutton imports green beans directly from 1,000+ Colombian farms via overnight FedEx and roasts them in-house, so what's in your cup left the farm within ~10 days (industry standard is 6–12 months). Pitched roof, two-espresso bar, public cuppings and tastings.",
     "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-    "photoUrl": "https://www.devocion.com/cdn/shop/files/Devocion_Wburg_1025_LizClayman_012_3.jpg?height=2667&v=1771773547",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "photo",
       "chill",
-      "curious"
+      "curious",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "20 min",
+    "driveFromIC": "14 min",
     "hoursWeekend": "07:30-18:00",
-    "notes": "148 Grand St, Brooklyn, NY 11249; phone (929) 262-1241 (Yelp). Greenhouse skylight + living plant wall make it a top photo anchor (Brooklyn Paper, Bedford+Bowery). Direct-trade Colombian sourcing with ~10-day farm-to-cup turnaround (Brooklyn Paper). Can get crowded weekend mornings — late-morning is calmer (Tripadvisor). Street parking only; Grand St + side streets in Williamsburg are doable on weekends but tight — no dedicated lot.",
+    "notes": "Address: 148 Grand St, Brooklyn, NY 11249 (Devoción official). Weekend hours Sat/Sun 7:30am-6pm — note earlier 6pm close vs. weekday 7pm (Devoción official). Flagship features a two-story vertical garden / living wall and skylit courtyard (Sprudge, Brooklyn Paper). Plausible 12–15 min drive from Industry City via BQE; weekend street parking in north Williamsburg is workable before noon, tighter after. Solid substitute when Sunset Park coffee thins out, and uniquely justified by the direct-import sourcing story.",
     "sources": [
       {
         "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-        "accessed": "2026-05-17T14:25:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
-        "accessed": "2026-05-17T14:25:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://sprudge.com/cafe-devocion-in-williamsburg-a-colombian-mega-cafe-with-ambitious-import-plans-66008.html",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.brooklynpaper.com/devocion-freshest-colombian-coffee/",
-        "accessed": "2026-05-17T14:25:00Z"
-      },
-      {
-        "url": "https://bedfordandbowery.com/2014/12/inside-williamsburgs-super-high-end-colombian-cafe-roastery-devocion/",
-        "accessed": "2026-05-17T14:25:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d8261185-Reviews-Devocion-Brooklyn_New_York.html",
-        "accessed": "2026-05-17T14:25:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T14:23:23.522Z"
+    "lastResearchedAt": "2026-05-17T14:57:47.765Z"
   },
   {
     "id": "rainey-park-lic",
@@ -29068,5 +29064,181 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T14:53:18.864Z"
+  },
+  {
+    "id": "gumption-coffee-industry-city",
+    "name": "Gumption Coffee (Industry City)",
+    "desc": "Australian specialty-coffee roastery + cafe inside Industry City Building 19 — IC's flagship coffee spot.",
+    "longDesc": "Sydney import Gumption operates a 6,000-sq-ft roastery and cafe on IC's ground floor at 168 39th St (Building 19), pulling shots from beans roasted on site. Weekend morning anchor for the IC complex — flat whites, batch brew, pastries from neighboring IC vendors, courtyard seating steps away. Zero drive time if you're already starting the day inside Industry City.",
+    "url": "https://industrycity.com/tenants/gumption-coffee/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "10:00-15:00",
+    "notes": "Inside IC at Building 19, 168 39th St — same complex as the rest of the IC stops so it's a zero-drive morning anchor before heading to Red Hook (Yelp). Hours have varied between sources: IC tenant page lists Sat closed, but recent Yelp listings show Sat/Sun 10am–3pm — call (929) 232-1266 day-of if pre-10am arrival is needed. Free weekend parking inside IC lots. Australian-style roastery: flat whites and batch brew are the move; espresso is on the brighter, cleaner end (Commercial Observer).",
+    "sources": [
+      {
+        "url": "https://industrycity.com/tenants/gumption-coffee/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gumption-coffee-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://commercialobserver.com/2018/06/industry-city-inks-leases-for-130k-sf-city-records-warehouse-australian-coffee-shop/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/eat-drink/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T14:55:39.617Z"
+  },
+  {
+    "id": "sey-coffee",
+    "name": "Sey Coffee",
+    "desc": "Bushwick micro-roastery and skylit tasting room famed for ultra-light single-origin pours.",
+    "longDesc": "Sey is a contemporary Brooklyn micro-roastery internationally regarded for its ultra-light roasts of single-producer beans, served in a plant-filled retail space with a massive skylight at 18 Grattan St. Weekends are 8am–5pm and the bar pours filter, espresso, and seasonal milk drinks with pastries on hand. A destination-grade coffee stop worth the ~20-minute drive from Industry City for serious specialty fans.",
+    "url": "https://www.seycoffee.com/pages/cafe",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "Address: 18 Grattan St, Brooklyn NY 11206 (Yelp). Internationally known for ultra-light roasts from single-source producers (Coffee Insurrection). Plant-filled space with skylight, contemporary tasting-bar feel (Coffeevine). Closes at 5pm — schedule as a morning/early-afternoon stop. Street parking only; Bushwick industrial blocks usually have weekend availability but no lot.",
+    "sources": [
+      {
+        "url": "https://www.seycoffee.com/pages/cafe",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sey-coffee-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.coffeeinsurrection.com/sey-coffee.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://thecoffeevine.com/reviews/cafes/usa/new-york/new-york/sey-in-new-york/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:59:35.146Z"
+  },
+  {
+    "id": "parlor-coffee",
+    "name": "Parlor Coffee Roastery & Tasting Room",
+    "desc": "Sunday-only public roastery in the Brooklyn Navy Yard with a free 3pm cupping — specialty single-origin focus.",
+    "longDesc": "Parlor's working roastery at 11 Vanderbilt Ave opens to the public Sundays from 10am–4pm, anchored by a free public cupping at 3pm where you taste through the current single-origin lineup alongside the roasting team. The space is a quiet, design-forward showroom rather than a café: light pours, retail bags, and direct conversation with roasters. Founder Dillon Edwards' brand grew out of a Williamsburg barbershop pop-up before settling at the Navy Yard.",
+    "url": "https://parlorcoffee.com/pages/where-to-find-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sun 10:00-16:00 (Sat closed; public cupping Sun 15:00)",
+    "notes": "Correction to task brief: Parlor Coffee is NOT in Sunset Park — the roastery is at 11 Vanderbilt Ave in the Brooklyn Navy Yard, ~18 min drive from Industry City via the BQE, not 'a few blocks away' (parlorcoffee.com/pages/where-to-find-us). Public access is Sunday-only per Sprudge's profile of the space — the free 3pm cupping is the signature experience (sprudge.com). The current site copy says 'by appointment only,' so call (917) 966-6070 to confirm same-week before routing an itinerary here. Saturday is a no-go: this venue only works for Sunday-anchored tracks. Closest zone match in the schema is 'dumbo' since Vinegar Hill/Navy Yard isn't a listed zone. Weekend street parking around Vanderbilt Ave is generally available; no dedicated lot.",
+    "sources": [
+      {
+        "url": "https://parlorcoffee.com/pages/where-to-find-us",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://sprudge.com/parlor-coffee-tasting-room-roastery-brooklyn-58115.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/parlor-coffee-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://parlorcoffee.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T15:02:21.153Z"
+  },
+  {
+    "id": "stumptown-coffee-brooklyn-cafe",
+    "name": "Stumptown Coffee Roasters — Brooklyn Cafe",
+    "desc": "Stumptown's only operating Brooklyn cafe — Cobble Hill espresso bar with custom La Marzocco and local-artist installations",
+    "longDesc": "After the original Red Hook tasting room at 219 Van Brunt closed, Stumptown's Brooklyn presence consolidated to this Cobble Hill cafe on cobblestoned Pacific Street. The space pairs Stumptown espresso, drip, and cold brew with Spirit Tea, Pain D'Avignon pastries, and King David Tacos, set off by a hand-painted La Marzocco by Melanie Nead and a rotating bi-monthly artist series. It's the closest you can get in NYC to the source of every Hungry Ghost pour.",
+    "url": "https://www.stumptowncoffee.com/pages/new-york-brooklyn-cafe",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "07:00-17:00",
+    "notes": "Address: 212B Pacific St, Brooklyn, NY 11201 (Cobble Hill, just off Court St). Weekend hours 7am–5pm Sat & Sun (stumptowncoffee.com). The historic Red Hook tasting room at 219 Van Brunt St is permanently closed (Yelp listing marked CLOSED as of Jan 2026), so this is the de facto Brooklyn flagship. Street parking on Pacific/Court is workable on weekend mornings; metered after 9am. Notable design: ceiling tile by Zachary Marvick, hand-painted La Marzocco by Melanie Nead — strong photo backdrop. Food partners: Pain D'Avignon pastries, King David Tacos breakfast tacos, Spirit Tea program.",
+    "sources": [
+      {
+        "url": "https://www.stumptowncoffee.com/pages/new-york-brooklyn-cafe",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.stumptowncoffee.com/pages/locations",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/stumptown-coffee-roasters-tasting-room-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T15:04:28.932Z"
   }
 ]

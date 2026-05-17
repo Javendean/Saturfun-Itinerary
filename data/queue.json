@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Coffee venues physically inside Industry City complex (Sunset Park) — weekend retail hours",
-    "reason": "Original brief assumed BRC was inside IC; corpus needs the actual on-site coffee options for the zero-drive morning slot before Red Hook.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:06:46.018Z"
-  },
-  {
-    "topic": "Devoción Brooklyn — Williamsburg roastery flagship",
-    "reason": "Direct-from-farm Colombian roaster, plausible 12–15 min drive substitute if Sunset Park options thin out.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:06:46.018Z"
-  },
-  {
-    "topic": "Sey Coffee — Bushwick roastery tasting room",
-    "reason": "Top-tier specialty roaster with weekend retail; longer drive (~20 min) but a destination-grade coffee stop alternative.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:06:46.018Z"
-  },
-  {
-    "topic": "Parlor Coffee — Sunset Park roastery showroom",
-    "reason": "Hyper-local to Industry City (literally a few blocks away), small but legitimate specialty operation — the true zero-drive answer if hours align.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:06:46.018Z"
-  },
-  {
-    "topic": "Stumptown Coffee Roasters Red Hook roastery + cafe",
-    "reason": "Source of every Hungry Ghost pour; original Red Hook roastery is itself a destination cafe with weekend hours and ties directly to the coffee-supply story",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:08:44.807Z"
-  },
-  {
     "topic": "Cafe Grumpy Greenpoint vs. Brooklyn Heights roaster comparison",
     "reason": "Anchors a 'driving coffee crawl' tier with a second indie roaster brand the corpus is missing",
     "requestedBy": "agent",
@@ -10876,5 +10846,89 @@
     "reason": "Adjacent driving-friendly coffee anchor for a Bushwick track; complements Brooklyn-cluster coffee corpus",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T14:53:18.886Z"
+  },
+  {
+    "topic": "Colson Patisserie Industry City — pastries + coffee inside IC",
+    "reason": "Backup IC on-site morning anchor if Gumption hours shift; classic French pastry case pairs with the coffee slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:55:39.644Z"
+  },
+  {
+    "topic": "Industry City Food Hall Coffee + Tea grab-and-go vendor (253 36th St, weekend 8am-4pm)",
+    "reason": "Earlier-opening IC-internal coffee option for pre-10am starts when Gumption is still closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:55:39.644Z"
+  },
+  {
+    "topic": "City League Coffee Roasters Bay Ridge (6808 4th Ave)",
+    "reason": "10-min drive from IC, weekend 8am-4pm, specialty Sunset-Park-roasted alternative if the group wants to leave IC for coffee",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:55:39.644Z"
+  },
+  {
+    "topic": "Devoción Downtown Brooklyn (276 Livingston St) — closer alt-anchor coffee for Brooklyn Heights/Dumbo tracks",
+    "reason": "Same roaster, much shorter drive from IC; gives the corpus a second Devoción node for itineraries that don't cross the BQE",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:57:47.786Z"
+  },
+  {
+    "topic": "Partners Coffee Williamsburg flagship — competing local-roaster benchmark within 1 mi of Devoción",
+    "reason": "Lets the planner A/B coffee stops inside a Williamsburg cluster and gives a backup when Devoción's weekend line is brutal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:57:47.786Z"
+  },
+  {
+    "topic": "Sey Coffee (Bushwick/East Williamsburg roastery) — third-wave alternative ~10 min east",
+    "reason": "Expands the 'driving-friendly specialty coffee' corpus into Bushwick, opening up an entirely different cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:57:47.786Z"
+  },
+  {
+    "topic": "Roberta's Bushwick (pizza + bakery garden)",
+    "reason": "Natural lunch pairing 8 min from Sey; reinforces a Bushwick driving track with food anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:59:35.166Z"
+  },
+  {
+    "topic": "Syndicated Bushwick (bar + arthouse cinema)",
+    "reason": "Evening complement to a daytime Sey visit; expands Bushwick zone beyond coffee/food",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:59:35.166Z"
+  },
+  {
+    "topic": "Devoción Brooklyn flagship (Williamsburg roastery café)",
+    "reason": "Direct peer to Parlor but with full café hours both weekend days — fills the Saturday gap when Parlor is closed; same specialty-roastery vibe with a much larger sit-down room and skylight.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:02:21.175Z"
+  },
+  {
+    "topic": "Sey Coffee tasting room (Bushwick)",
+    "reason": "Another roaster-led tasting room with a strong design aesthetic; expands the 'specialty coffee experience' cluster beyond Parlor's Sunday-only window and into a different driveable zone.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:02:21.175Z"
+  },
+  {
+    "topic": "City of Saints Coffee Roasters (Bushwick/East Williamsburg)",
+    "reason": "Working roastery with weekend café hours — useful comparison point for the 'roastery you can actually visit on Saturday' slot Parlor cannot fill.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:02:21.175Z"
+  },
+  {
+    "topic": "Pain D'Avignon Brooklyn bakery or cafe outlet",
+    "reason": "Supplies Stumptown's pastry case; same bread-and-coffee provenance story, and they have a Long Island City/Brooklyn retail presence worth a separate entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:04:28.956Z"
+  },
+  {
+    "topic": "King David Tacos cart or storefront",
+    "reason": "Stumptown Brooklyn's breakfast taco partner; a quick standalone morning stop near IC if a dedicated breakfast slot is needed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:04:28.956Z"
+  },
+  {
+    "topic": "Devoción Williamsburg roastery flagship",
+    "reason": "Skylit Williamsburg roastery-cafe with a tropical greenwall; alternative 'source-of-the-bean' destination cafe in the 15–20 min drive band from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:04:28.956Z"
   }
 ]
