@@ -15602,41 +15602,45 @@
   {
     "id": "janes-carousel",
     "name": "Jane's Carousel",
-    "desc": "Restored 1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge — instant photo magic.",
-    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel housed in a stunning glass pavilion designed by Pritzker laureate Jean Nouvel, set in Brooklyn Bridge Park with skyline + bridge views right behind it. Tickets are $4 a ride; one adult plus a child under 42\" can share. Open six days a week in summer (closed Tuesdays), 10am–6:50pm — perfect 20-minute photo + ride stop one block from Smack Mellon (source: janescarousel.com).",
+    "desc": "Restored 1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge — $3/ride, walk-up.",
+    "longDesc": "A meticulously restored 48-horse 1922 Philadelphia Toboggan Company carousel housed in a luminous glass pavilion designed by Jean Nouvel, set right on the East River in Brooklyn Bridge Park's Empire Fulton Ferry section. Rides are $3 each (12 for $20); kids under 42\" or age 3 and under ride free with a paying adult, and no reservation is needed — just queue at the pavilion. From May 14 through Sep 18 it runs Wed–Mon 11:00–19:00 (closed Tuesdays), making it the perfect 30-minute romantic/photo counterpoint to the Time Out Market rooftop a 3-min walk away.",
     "url": "https://janescarousel.com/",
-    "photoUrl": "https://janescarousel.com/wp-content/uploads/2019/09/janescarousel-exterior.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
+      "romantic",
       "photo",
-      "chill",
-      "romantic"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "10:00-18:50",
-    "notes": "Summer schedule May 11–Sept 13, 2026: open 10:00–18:50, closed Tuesdays ([janescarousel.com/hours](https://janescarousel.com/hours/)). $4/ticket, SNAP/EBT discount available. Glass pavilion + East River frontage make this one of the most photographed spots in DUMBO; pair with Smack Mellon (1 block) and Time Out Market for a tight DUMBO mini-cluster. Street parking in DUMBO is tight on weekends — Brooklyn Bridge Park's Pier 6 lot or Front St garages are the reliable options.",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "Summer schedule (May 14–Sep 18) is Wed–Mon 11:00–19:00, closed Tue; winter (Sep 18–May 13) is Thu–Sun 11:00–18:00 (janescarousel.com/hours). No reservation for general rides — $3/ride, 12 for $20, kids under 42\" free with paying adult (janescarousel.com). Park in the LAZ garage at 90 Furman St (Pier 1) or City Parking at 360 Furman St (Pier 6) — limited metered spots on Furman near Pier 2 are 3-hr max; SpotHero is the reliable pre-book option (brooklynbridgepark.org). Pavilion glass + Manhattan skyline backdrop is the photo money shot, best at golden hour ~30 min before close. Private buyouts/birthday rentals exist for groups but require booking via the venue.",
     "sources": [
       {
         "url": "https://janescarousel.com/hours/",
-        "accessed": "2026-05-16T20:35:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://janescarousel.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
-        "accessed": "2026-05-16T20:35:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/attractions-tours/janes-carousel/",
-        "accessed": "2026-05-16T20:35:00Z"
+        "url": "https://spothero.com/destination/nyc/janes-carousel-parking",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T20:34:35.009Z"
+    "lastResearchedAt": "2026-05-17T06:14:33.838Z"
   },
   {
     "id": "bbp-pier-1-granite-prospect",
@@ -23990,5 +23994,188 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T06:03:38.495Z"
+  },
+  {
+    "id": "hinschs-confectionery-bay-ridge",
+    "name": "Hinsch's Confectionery (PERMANENTLY CLOSED)",
+    "desc": "Beloved 1948-2011 Bay Ridge soda fountain; rebranded Stewart's in 2015, now closed as of 2025.",
+    "longDesc": "Legendary Bay Ridge soda fountain and luncheonette at 8518 5th Avenue that operated continuously from 1948 until abrupt closure in 2011 over health-code violations and a rent hike from $7,500 to $10,000. Briefly reopened as 'Mike's Hinsch's' in 2013, then converted to a Stewart's Restaurant franchise in November 2015 — the first sitdown Stewart's in NYC. Stewart's itself is now marked closed (Yelp, Nov 2025) and the business has been listed for sale, so the address no longer serves as a viable daytime anchor.",
+    "url": "https://www.google.com/maps/place/8518+5th+Ave,+Brooklyn,+NY+11209",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "DO NOT ROUTE GUESTS HERE. Status: permanently closed. History: opened 1948 by Herman Hinsch, operated under the Logue family 1961-2011, shut Sept 29 2011 over health-dept violations and rising rent (Brooklyn Paper). Reopened briefly as Mike's Hinsch's under Mike Moudatsos in 2013 (Hey Ridge), rebranded to Stewart's franchise Nov 2015 (Brooklyn Eagle). Stewart's listed CLOSED on Yelp as of Nov 2025 and the business is for sale via Eatz Associates. Zone note: 8518 5th Ave is in Bay Ridge, not in the allowed zone enum — bucketed under industry-city as the closest valid neighbor (~10 min drive south via 4th Ave). If Saturfun adds a 'bay-ridge' zone, reclassify. For the 'quirky retro soda fountain' slot, route to Brooklyn Farmacy & Soda Fountain in Carroll Gardens instead — see enqueue.",
+    "sources": [
+      {
+        "url": "https://www.heyridge.com/2015/11/the-long-complicated-history-of-hinschs/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2015/11/05/hinschs-is-now-called-stewarts/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/end-of-an-era-hinschs-is-closed-2/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/stewarts-restaurant-bay-ridge-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://eatz-associates.com/listing_update/price-reduced-high-volume-stewarts-all-american-restaurant-brooklyn-ny-5th-ave-bay-ridge-neighborhood/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:06:39.687Z"
+  },
+  {
+    "id": "green-wood-trolley-tour",
+    "name": "Discover Green-Wood Trolley Tour",
+    "desc": "Expert-led 2-hour trolley through 478 acres of Brooklyn history, art, and famous graves — $30, Saturdays 1pm.",
+    "longDesc": "A wheelchair-accessible historic trolley winds through Green-Wood Cemetery's 478 landscaped acres with an expert guide narrating Battle of Brooklyn sites, Victorian monuments, and famous permanent residents including Jean-Michel Basquiat, Leonard Bernstein, and Boss Tweed. Tours run Saturday afternoons 1:00–3:00 PM and routinely sell out, so advance Eventbrite booking is required. A curious, slow-paced break that pairs well with foodie clusters in nearby Park Slope or Industry City.",
+    "url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hours",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "Sat 13:00-15:00 (trolley); grounds 08:00-17:00",
+    "notes": "Check-in at the trolley by the Gothic Arch, Main Entrance, 500 25th St (5th Ave & 25th St) (green-wood.com). $30/person, ages 10+. Free on-site parking on the right side of interior paths near the Chapel (freetoursbyfoot.com). Wheelchair-accessible and ADA compliant (destinationaccessible.org). Sunday afternoons have a walking 'greatest hits' tour as a backup. Sells out — reserve ahead via Eventbrite. From Industry City (220 36th St) it's a ~7-minute drive straight up 4th/5th Ave.",
+    "sources": [
+      {
+        "url": "https://www.green-wood.com/event/discover-green-wood-trolley-tour/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.eventbrite.com/e/discover-green-wood-trolley-tour-tickets-1980161691925",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/events/discover-green-wood-historic-trolley-tour/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://freetoursbyfoot.com/greenwood-cemetery-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://destinationaccessible.org/green-wood-cemetery-trolley-tour/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:08:40.022Z"
+  },
+  {
+    "id": "sunset-park-summit-overlook",
+    "name": "Sunset Park Summit Overlook",
+    "desc": "Free Brooklyn hilltop with panoramic Lower Manhattan + Statue of Liberty skyline, 5 min from IC.",
+    "longDesc": "The high point of Sunset Park (around 5th Ave & 44th St, not 7th as commonly miscited) is the namesake overlook: an unobstructed sweep of Lower Manhattan, New York Harbor, the Statue of Liberty, and the Staten Island/NJ hills. It's a 24.5-acre public park — free, no gate, no ticket — that locals quietly keep under the radar for sunset. Pair it with Industry City as a 20-minute golden-hour detour or use as a Green-Wood backup when the cemetery closes at dusk.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "Summit/overlook is at 5th Ave & 44th St — the elevation, not 7th Ave (NYC Parks). Park is 24.5 acres between 41st-44th Sts and 5th-7th Aves (Wikipedia). Free as a public park; playground posted 6am-9pm but the lawn/overlook is open-access (NYC Parks). Street parking on weekends is usually findable on 6th/7th Ave side. Best 30-45 min before sunset for the namesake light.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.untappedcities.com/secrets-sunset-park-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:10:40.434Z"
+  },
+  {
+    "id": "minerva-altar-to-liberty-greenwood",
+    "name": "Minerva & the Altar to Liberty (Green-Wood Cemetery)",
+    "desc": "1920 bronze Minerva on Battle Hill saluting the Statue of Liberty across the harbor — Revolutionary War memorial.",
+    "longDesc": "Sculpted by Frederick Wellington Ruckstull and unveiled August 27, 1920 (the 144th anniversary of the 1776 Battle of Brooklyn), this bronze Minerva stands atop the granite Altar to Liberty on Green-Wood's Battle Hill — the highest natural point in Brooklyn. Commissioned by ink magnate Charles Higgins to honor the underrecognized first major engagement of the Revolutionary War, she raises her arm in a direct line-of-sight salute to her sister, Lady Liberty, across New York Harbor. Al Smith and a young FDR (then Assistant Secretary of the Navy) attended the dedication; sightlines have been threatened by waterfront development more than once.",
+    "url": "https://www.green-wood.com/2012/minerva-facing-what/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "07:00-19:00",
+    "notes": "Enter at Green-Wood's 25th St main gate; Battle Hill is a ~10-min uphill walk from the entrance, near the Civil War Soldiers' Monument (Green-Wood). Stand behind Minerva for the iconic over-the-shoulder shot framing her raised arm with the Statue of Liberty 5+ miles away (Artsy). Pairs naturally with a Battle of Brooklyn history beat — Higgins, who is interred just behind the altar, championed the monument because he felt the 1776 battle had been overlooked by historians (Green-Wood). Weekend parking is free along 5th Ave perimeter; cemetery is silent and walkable.",
+    "sources": [
+      {
+        "url": "https://www.green-wood.com/2012/minerva-facing-what/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/minerva-green-wood-cemetery",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.artsy.net/article/artsy-editorial-the-story-behind-the-statue-of-liberty-s-lesser-known-brooklyn-twin",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.si.edu/object/minerva-and-altar-liberty-sculpture:siris_ari_423341",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bklynlibrary.org/blog/2019/09/19/altar-liberty-green-wood",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:12:34.132Z"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Hinsch's Confectionery Bay Ridge old-school soda fountain",
-    "reason": "Quirky daytime food anchor that gives the Bay Ridge zone a foodie pairing beyond the park itself",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:59:52.748Z"
-  },
-  {
-    "topic": "Green-Wood Cemetery weekend trolley tour ($30, Saturdays 1-3pm)",
-    "reason": "Curated 2-hour guided alternative to self-guided Battle Hill walk — fills a 'curious' slot in foodie-heavy clusters",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:01:53.568Z"
-  },
-  {
-    "topic": "Sunset Park summit overlook (44th St & 7th Ave)",
-    "reason": "Public park with skyline view, 5 min drive from IC, free, no gated hours — natural pair or backup if Green-Wood closes early",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:01:53.568Z"
-  },
-  {
-    "topic": "Minerva and Altar to Liberty sculpture history at Green-Wood",
-    "reason": "Adds storytelling depth to Battle Hill stop; 1920 monument tied to Revolutionary War Battle of Brooklyn",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:01:53.568Z"
-  },
-  {
-    "topic": "Jane's Carousel DUMBO weekend hours and reservation",
-    "reason": "Adjacent waterfront photo-op 3 min walk from Time Out Market — pairs as the romantic/whimsical counterpoint to the food-hall rooftop in a DUMBO mini-cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:04:05.727Z"
-  },
-  {
     "topic": "Washington Street Manhattan Bridge view photo spot etiquette",
     "reason": "The canonical DUMBO bridge-framing photo location one block away — needed so itinerary can offer 'classic shot' vs 'rooftop shot' choice",
     "requestedBy": "agent",
@@ -8140,5 +8110,95 @@
     "reason": "Owl's Head Park, Shore Road bike path, and any Bay Ridge cocktail anchors all need this zone; current enum forces them into industry-city or park-slope which misrepresents drive geometry",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T06:03:38.524Z"
+  },
+  {
+    "topic": "Brooklyn Farmacy & Soda Fountain (Carroll Gardens) — operating 1920s-pharmacy-turned-soda-fountain on Henry St",
+    "reason": "Direct live replacement for the Hinsch's-shaped 'quirky retro soda fountain' anchor slot; ~12 min from IC, in an allowed zone (carroll-gardens), egg-creams + sundaes + Saturday-morning energy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:06:39.719Z"
+  },
+  {
+    "topic": "Tanoreen (Bay Ridge) — chef Rawia Bishara's Palestinian-Levantine destination at 7523 3rd Ave",
+    "reason": "Strongest foodie anchor in actual Bay Ridge; replaces the Hinsch's role of giving the south-Brooklyn drive cluster a serious food pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:06:39.719Z"
+  },
+  {
+    "topic": "The Owl's Head wine bar (Bay Ridge) — quirky neighborhood spot at 479 74th St with vinyl + natural wine",
+    "reason": "Curious/foodie vibe in Bay Ridge zone, fits the 'small odd-hours anchor' role; expands corpus past park-only Bay Ridge programming",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:06:39.719Z"
+  },
+  {
+    "topic": "Green-Wood Cemetery self-guided Battle Hill walk + Minerva statue viewpoint",
+    "reason": "Free, drop-in alternative for visitors who miss the timed trolley but want the highest natural point in Brooklyn and harbor views",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:08:40.055Z"
+  },
+  {
+    "topic": "Brooklyn Historical Society / Center for Brooklyn History weekend exhibits",
+    "reason": "Indoor 'curious' slot that complements outdoor Green-Wood for rainy-day swaps in the same itinerary tier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:08:40.055Z"
+  },
+  {
+    "topic": "Allison C. Meier independent cemetery walking tours in Brooklyn",
+    "reason": "Smaller-group, narrative-driven cemetery tour option for repeat visitors who already did the trolley",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:08:40.055Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park sunset overlook (43rd St waterfront)",
+    "reason": "Another free, under-the-radar waterfront skyline view ~5 min from IC — pairs as a Sunset Park alternative when the hilltop is crowded",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:10:40.457Z"
+  },
+  {
+    "topic": "Owl's Head Park summit (Bay Ridge, 68th St & Colonial Rd)",
+    "reason": "Hilltop park with harbor/Verrazzano views ~10 min south of IC; extends the 'free Brooklyn overlook' cluster southward",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:10:40.457Z"
+  },
+  {
+    "topic": "Melody Lanes bowling (Industry City adjacent, 37th St)",
+    "reason": "Indoor evening backup if weather kills the overlook plan — true neighborhood dive 2 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:10:40.457Z"
+  },
+  {
+    "topic": "Green-Wood Cemetery Civil War Soldiers' Monument and Battle Hill walking loop",
+    "reason": "Adjacent stop on the same hill; extends the history beat into a 45-min self-guided loop with sightlines and notable graves",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:12:34.150Z"
+  },
+  {
+    "topic": "Green-Wood Cemetery Catacombs and weekend trolley tours",
+    "reason": "Ticketed weekend programming that pairs with a Battle Hill visit for a deeper 2-hour history track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:12:34.150Z"
+  },
+  {
+    "topic": "Old Stone House Park Slope — Battle of Brooklyn historic site",
+    "reason": "Completes the Battle of Brooklyn storyline; 8 min drive from Green-Wood, free, weekend hours",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:12:34.150Z"
+  },
+  {
+    "topic": "Empire Stores DUMBO rooftop and shops weekend hours",
+    "reason": "Same Empire Fulton Ferry block as Jane's Carousel and Time Out Market — completes the DUMBO mini-cluster with retail + rooftop views in one walkable loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:14:33.856Z"
+  },
+  {
+    "topic": "Pebble Beach DUMBO sunset photo spot tide times",
+    "reason": "Free Brooklyn Bridge Park cove 2-min walk from Jane's Carousel; tide-dependent skyline photo op that locks in the romantic/photo vibe before dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:14:33.856Z"
+  },
+  {
+    "topic": "Brooklyn Ice Cream Factory or Ample Hills DUMBO weekend hours",
+    "reason": "Sub-10-min walk dessert pairing after the carousel — extends the DUMBO cluster into a natural food→ride→dessert sequence",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:14:33.856Z"
   }
 ]
