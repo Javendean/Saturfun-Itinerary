@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Verify status of all Prospect Heights / Vanderbilt Ave corpus entries (LaLou, Rose's, others)",
-    "reason": "Two of the three top candidates in this research were permanently closed; corpus likely contains other stale Prospect Heights entries that need a freshness audit",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:21:12.749Z"
-  },
-  {
-    "topic": "Ample Hills Creamery Prospect Heights flagship",
-    "reason": "Walkable dessert anchor after Chuko — keeps a Prospect Heights track on $$ tempo without driving",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:23:19.853Z"
-  },
-  {
-    "topic": "Brooklyn Public Library Central Branch (Grand Army Plaza)",
-    "reason": "Free/cheap pre-dinner activity 6 min from Chuko; pairs with the casual ramen tempo for a low-cost Prospect Heights afternoon",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:23:19.853Z"
-  },
-  {
-    "topic": "Threes Brewing Greenpoint vs. Prospect Heights wine bar Olmsted-adjacent",
-    "reason": "Need a drinks node that bridges Chuko (early dinner) into a later Prospect Heights stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:23:19.853Z"
-  },
-  {
-    "topic": "Van Leeuwen Ice Cream Williamsburg Bedford Ave flagship",
-    "reason": "Direct comparable — Brooklyn-born artisanal scoops with later hours, slots into same dessert-anchor role",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:25:22.387Z"
-  },
-  {
     "topic": "Soft Swerve Williamsburg ube/black sesame soft serve",
     "reason": "Distinct Asian-flavor soft-serve alternative within the cluster, fills the curious/photo vibe",
     "requestedBy": "agent",
@@ -12040,5 +12010,107 @@
     "reason": "Red Hook anchor venue, not seafood but the other gravitational pull in the neighborhood; needed to round out the Red Hook track options the itinerary engine can mix and match",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T18:26:16.301Z"
+  },
+  {
+    "topic": "Re-zone existing venue: LaRina Pastificio & Vino — currently tagged prospect-heights but located at 387 Myrtle Ave (Clinton Hill / Fort Greene border)",
+    "reason": "Zoning fix prevents itinerary mis-routing; venue is open and worth keeping, just under the right zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:29:55.494Z"
+  },
+  {
+    "topic": "Re-zone existing venue: Acorn Craft Shop — currently tagged prospect-heights but located at 727 Washington Ave in Crown Heights (opened April 2026)",
+    "reason": "Fresh Crown Heights craft/class venue with sliding-scale workshops; high fit for Saturfun curious/active vibe but needs correct zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:29:55.494Z"
+  },
+  {
+    "topic": "Adjacent candidate: Cafe Mado at 791 Washington Ave — verify museum-adjacent brunch slot",
+    "reason": "Already in corpus but Washington Ave anchor adjacent to BkMuseum/BBG cluster; needs freshness re-verify and possibly Crown Heights zoning review",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:29:55.494Z"
+  },
+  {
+    "topic": "Adjacent candidate: new Vanderbilt Ave openings 2025-2026 (post-Olmsted, post-Faun gap)",
+    "reason": "Two flagship Vanderbilt closures created a corpus gap; survey 600-700 block of Vanderbilt for new entrants beyond Wallace",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:29:55.494Z"
+  },
+  {
+    "topic": "Olmsted restaurant Prospect Heights (Vanderbilt Ave seasonal tasting)",
+    "reason": "Same Vanderbilt corridor as Chuko+Ample Hills — upgrades the Prospect Heights track to a $$$ dinner option without leaving the walking cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:32:04.304Z"
+  },
+  {
+    "topic": "Brooklyn Museum first-Saturday programming Prospect Heights",
+    "reason": "Anchors a Prospect Heights track with a free/cheap cultural stop within walking distance of Vanderbilt Ave food row",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:32:04.304Z"
+  },
+  {
+    "topic": "Cousin John's Bakery Park Slope (5th Ave)",
+    "reason": "Driving-friendly $-tier dessert alternative for a Park Slope track when Ample Hills queue is too long; ~7 min drive from Vanderbilt",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:32:04.304Z"
+  },
+  {
+    "topic": "Grand Army Plaza Greenmarket (Saturday farmers market at the arch)",
+    "reason": "Saturday-only outdoor market literally across the street from BPL — natural pre-library pairing for a Prospect Heights morning loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:33:54.720Z"
+  },
+  {
+    "topic": "Brooklyn Museum (200 Eastern Parkway)",
+    "reason": "Two blocks from BPL, pay-what-you-wish first Saturdays, anchors a longer cultural arc with BPL + Prospect Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:33:54.720Z"
+  },
+  {
+    "topic": "Vanderbilt Avenue restaurant row (Prospect Heights dinner options near Chuko)",
+    "reason": "Strengthens the Prospect Heights cluster with backup dinner picks if Chuko has a wait",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:33:54.720Z"
+  },
+  {
+    "topic": "Re-research existing venue: LaLou 581 Vanderbilt Ave Prospect Heights — verify open/closed status May 2026",
+    "reason": "Yelp flags closed but laloubrooklyn.com still lists hours; resolving this either adds or removes a top-20-nationally natural wine bar from the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:36:40.882Z"
+  },
+  {
+    "topic": "Black Mountain Wine Bar Carroll Gardens (Hoyt & Union) — original Guay/Spence project",
+    "reason": "Same owners as Wallace; gives Carroll Gardens track a credible wine-bar node that pairs with Frankies 457 / Buttermilk Channel cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:36:40.882Z"
+  },
+  {
+    "topic": "Place des Fetes Clinton Hill wine bar — Vinegar Hill House alumni",
+    "reason": "Walkable from Vanderbilt corridor, expands the Prospect Heights/Clinton Hill bridge with a second natural-wine option if Wallace is booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:36:40.882Z"
+  },
+  {
+    "topic": "Threes Brewing Greenpoint flagship — still worth a Greenpoint-track entry, not a Prospect Heights bridge",
+    "reason": "Rejected here for geography, but belongs in a future Greenpoint cluster (with Peter Pan Donuts, Transmitter Park, Achilles Heel) rather than orphaned",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:36:40.882Z"
+  },
+  {
+    "topic": "OddFellows Ice Cream Williamsburg Greenpoint Ave flagship",
+    "reason": "Direct Brooklyn artisan scoop comparable — funky flavor experiments (miso cherry, chorizo caramel) for adventurous-foodie variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:38:42.202Z"
+  },
+  {
+    "topic": "Ample Hills Creamery Gowanus factory location",
+    "reason": "Closer to IC (~10 min drive), Brooklyn-born scoop shop with kid-friendly factory vibe — alternate dessert anchor for Park Slope/Gowanus track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:38:42.202Z"
+  },
+  {
+    "topic": "Devoción Williamsburg flagship coffee roaster Grand St",
+    "reason": "Adjacent Williamsburg daytime anchor — fills the morning/afternoon slot in same cluster as Van Leeuwen evening stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:38:42.202Z"
   }
 ]

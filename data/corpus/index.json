@@ -6964,9 +6964,9 @@
   },
   {
     "id": "van-leeuwen-williamsburg",
-    "name": "Van Leeuwen Ice Cream — Williamsburg Flagship",
-    "desc": "Late-night Williamsburg scoop shop with classic + vegan flavors, open till midnight (1am Fri/Sat).",
-    "longDesc": "Van Leeuwen's 1,200 sq ft Williamsburg flagship at 204 Wythe Ave is the brand's largest Brooklyn shop, slinging eleven dairy classics (vanilla bean, mint chip, salted caramel, Honeycomb, Earl Grey tea) alongside an equally deep vegan lineup (planet earth, chocolate chip cookie dough, matcha). Weekend service runs until 1am, making it one of the few quality late-night dessert anchors in BK and an easy capper after a Williamsburg dinner or bar stop. Cash + card, plenty of indoor seating, and the storefront is photogenic in classic Van Leeuwen yellow.",
+    "name": "Van Leeuwen Ice Cream — Williamsburg",
+    "desc": "Brooklyn-born artisan scoop shop with late-night hours and famously good vegan flavors",
+    "longDesc": "The Wythe Ave flagship is Van Leeuwen's Williamsburg scoop shop — the founders started the brand from a yellow truck on these same streets in 2008. Known for ultra-rich French-style dairy scoops alongside an unusually serious vegan lineup (oat-milk and cashew-cream bases) including viral collabs like Kraft Mac & Cheese ice cream. Pastel storefront, walk-up counter, ideal as a late post-dinner stop since Saturdays run until 1am.",
     "url": "https://vanleeuwenicecream.com/scoop-shops/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -6978,32 +6978,31 @@
     ],
     "dietary": [
       "vegetarian",
-      "vegan",
-      "gluten-free"
+      "vegan"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "11:00-01:00",
-    "notes": "Located at 204 Wythe Ave between N 5th & N 6th (Yelp). Sun-Thu close midnight, Fri-Sat close 1am — uniquely late for an ice-cream stop (Yelp). Vegan menu is a full parallel lineup, not an afterthought, which makes this the safest mixed-group dessert pick. Street parking on Wythe/Berry is feasible but slow on weekends; Wythe Hotel garage 2 blocks away is a fallback.",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 11:00-01:00, Sun 11:00-00:00",
+    "notes": "Flagship Williamsburg scoop shop at 204 Wythe Ave (the Bedford Ave & N 7th St truck location is closed) (yelp.com). Saturday close at 1am makes this one of the latest-running dessert anchors in the cluster (vanleeuwenicecream.com). Solid vegan flavors — meaningfully different recipes, not afterthoughts — so it covers the dietary edge case for itineraries. Williamsburg weekend street parking is tight; budget time to circle or use a Wythe Hotel/N 3rd lot.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/van-leeuwen-ice-cream-williamsburg-brooklyn",
-        "accessed": "2026-05-16T07:30:00Z"
-      },
-      {
         "url": "https://vanleeuwenicecream.com/scoop-shops/",
-        "accessed": "2026-05-16T07:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://greenpointers.com/2016/08/02/van-leeuwen-ice-cream-greenpoint/",
-        "accessed": "2026-05-16T07:30:00Z"
+        "url": "https://www.yelp.com/biz/van-leeuwen-ice-cream-williamsburg-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/van-leeuwen-ice-artisan-ice-cream-truck-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T07:30:38.332Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T18:38:42.180Z"
   },
   {
     "id": "bakeri-williamsburg",
@@ -14574,55 +14573,45 @@
   {
     "id": "wallace-prospect-heights",
     "name": "Wallace",
-    "desc": "New Vanderbilt Ave natural wine bar with martinis, gildas, oysters, and a marble bar built for lingering.",
-    "longDesc": "Soft-opened May 2026 by Brian Guay and Robert Spence (Black Mountain Wine Bar alums), Wallace pours ~50 rotating bottles spanning France, Italy, Spain, Greece, Austria, Czech Republic, and New York, with by-the-glass starting around $13. The snack-forward menu — Castelvetrano olives, bread with churned butter and fennel pollen, boquerones with yuzu olive oil, Spanish gildas, cheeses, cured meats, oysters — reads Mediterranean-adjacent and pairs well with frozen-glass martinis. Warm room with schoolhouse lights, polished wood, a long red marble bar, plus a back patio for warmer nights.",
-    "url": "http://wallacebrooklyn.com/",
+    "desc": "New 2026 Vanderbilt Ave wine bar with backyard seating, gildas, oysters, churned-butter bread service",
+    "longDesc": "Wallace is a Prospect Heights wine bar that opened spring 2026 at 663 Vanderbilt from Brian Guay and Robert Spence (formerly of Black Mountain Wine Bar). It has a long red marble bar, schoolhouse lighting, and a tidy snack menu — Castelvetrano olives, boquerones with yuzu olive oil, gildas, oysters, cheeses and meats, plus a Ploughman's plate. Direct replacement on the Vanderbilt spine for the gap left by the Olmsted and Faun closures.",
+    "url": "https://www.instagram.com/wallacebklyn/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
     "vibe": [
-      "romantic",
+      "chill",
       "foodie",
-      "chill"
+      "romantic"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
-    "duration": "1.5-2 hr",
+    "duration": "60-90 min",
     "driveFromIC": "16 min",
-    "hoursWeekend": "Sat 13:00-24:00, Sun 13:00-23:00",
-    "notes": "PIVOT NOTE: The originally requested 'Rose's Prospect Heights' at 295 Flatbush Ave is permanently closed and was bar food/burgers, not Mediterranean (theinfatuation.com/new-york/reviews/roses; yelp.com/biz/roses-brooklyn). LaLou at 581 Vanderbilt — the obvious Mediterranean wine-bar candidate — is also marked CLOSED as of May 2026 (yelp.com/biz/lalou-brooklyn). Wallace at 663 Vanderbilt is the strongest live substitute on the same corridor: same romantic/foodie wine-bar archetype, Mediterranean-leaning snacks (gildas, boquerones, olives), and just opened (andreastrong.substack.com/p/wallace-is-the-wine-bar-prospect). Weekend parking is street-only on Vanderbilt and side streets (Park Pl, St. Marks Ave) — metered until 19:00 Sat, free Sun; arrive before 19:00 for easier spots. Drive from Industry City: ~16 min via Prospect Expwy → Flatbush Ave. Reservations recommended for weekend evenings; bar walk-ins typical. Note: not strictly Mediterranean — flag in itinerary copy as 'Mediterranean-leaning natural wine bar' to set accurate expectations.",
+    "hoursWeekend": "17:00-23:00",
+    "notes": "Confirmed open at 663 Vanderbilt Ave May 2026 via Infatuation review dated 2026-05-07 (theinfatuation.com), Andrea Strong Substack writeup, and active @wallacebklyn Instagram. Distinct from the long-closed 'The Wallace' at 919 Fulton St (Yelp shows that one CLOSED) — corpus must key off 663 Vanderbilt to avoid confusion. Backyard seating + martinis make it a strong weekend wind-down stop after Brooklyn Museum / Botanic Garden anchors. Weekend street parking on Pacific/Bergen cross streets is feasible before 6pm; tight after.",
     "sources": [
       {
-        "url": "https://andreastrong.substack.com/p/wallace-is-the-wine-bar-prospect",
-        "accessed": "2026-05-16"
-      },
-      {
         "url": "https://www.theinfatuation.com/new-york/reviews/wallace",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "http://wallacebrooklyn.com/",
-        "accessed": "2026-05-16"
+        "url": "https://andreastrong.substack.com/p/wallace-is-the-wine-bar-prospect",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.corner.inc/place/1507308",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/roses",
-        "accessed": "2026-05-16"
-      },
-      {
-        "url": "https://www.yelp.com/biz/lalou-brooklyn",
-        "accessed": "2026-05-16"
+        "url": "https://www.instagram.com/wallacebklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T16:21:12.734Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T18:29:55.468Z"
   },
   {
     "id": "chuko-ramen-prospect-heights",
@@ -31720,5 +31709,129 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T18:23:51.019Z"
+  },
+  {
+    "id": "ample-hills-prospect-heights",
+    "name": "Ample Hills Creamery (Vanderbilt Flagship)",
+    "desc": "Brooklyn-born ice cream shop with from-scratch flavors, 3-block walk from Chuko on Vanderbilt.",
+    "longDesc": "The original Ample Hills location, opened in 2011, is the surviving flagship after the brand's 2020 bankruptcy and relaunch — small batch, made-on-site ice cream with playful Brooklyn flavors like Salted Crack Caramel and Ooey Gooey Butter Cake. Order at the counter, sit on the bench out front, or walk it. From Chuko Ramen (552 Vanderbilt) it's a ~3-block stroll up the same street, so the dessert leg doesn't require re-parking.",
+    "url": "https://amplehills.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 13:00-23:00, Sun 13:00-22:00",
+    "notes": "623 Vanderbilt Ave, Brooklyn NY 11238 (Yelp). Closed Mondays; Tue-Thu 14:00-22:00, Fri-Sat 13:00-23:00, Sun 13:00-22:00 (Yelp). Pairs with Chuko Ramen 3 blocks south on the same street — anchor a Prospect Heights track around this 2-stop combo. Weekend parking is street-only; Vanderbilt and the side streets (Park, Sterling) usually have spots after lunch but expect a 1-2 block walk. Cash + cards; no reservations.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/ample-hills-creamery-brooklyn",
+        "accessed": "2026-05-17T18:30:00Z"
+      },
+      {
+        "url": "https://amplehills.com/",
+        "accessed": "2026-05-17T18:30:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d2219962-Reviews-Ample_Hills_Creamery-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T18:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T18:32:04.281Z"
+  },
+  {
+    "id": "bpl-central-grand-army-plaza",
+    "name": "Brooklyn Public Library — Central Branch",
+    "desc": "Art Deco flagship library on Grand Army Plaza — free, gorgeous, and great for browsing or quiet reading.",
+    "longDesc": "BPL's 1941 Art Deco flagship faces Grand Army Plaza with a gilded book-shaped facade and a soaring marble lobby. Inside: rotating exhibitions, a sunlit reading room, free WiFi, and pop-up programming on weekends. A no-pressure 30–60 minute stop that pairs naturally with a Prospect Heights ramen run at Chuko (6 min drive).",
+    "url": "https://www.bklynlibrary.org/locations/central",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 9:00-18:00, Sun 13:00-17:00",
+    "notes": "Free admission. Iconic Art Deco facade (1941) with bronze book-spine entrance — strong photo stop even if you don't go inside (Wikipedia). Weekend hours: Sat 9a–6p, Sun 1p–5p (bklynlibrary.org). Street parking around Grand Army Plaza is metered and tight — Eastern Parkway and side streets off Plaza Street are usually the best bets; allow buffer time (Yelp/local). Pairs with Chuko Ramen (6 min east on Vanderbilt) for a low-cost Prospect Heights afternoon.",
+    "sources": [
+      {
+        "url": "https://www.bklynlibrary.org/locations/central",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Library_(Brooklyn_Public_Library)",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-public-library-brooklyn-103",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:33:54.687Z"
+  },
+  {
+    "id": "wallace-wine-bar",
+    "name": "Wallace",
+    "desc": "Brand-new Prospect Heights wine bar next to Olmsted's address — natural wine, martinis, gildas, backyard",
+    "longDesc": "Soft-opened in 2025 by Brian Guay and Robert Spence (formerly of Black Mountain Wine Bar in Carroll Gardens), Wallace sits at 663 Vanderbilt — literally next door to the old Olmsted space and a short three-block walk north of Chuko at 552 Vanderbilt. The list skews natural and orange without being preachy, with a tight food program of gildas, oysters, and snacks, plus a backyard for warm-weather evenings. It's the bridge node that lets the night stay parked-once on Vanderbilt instead of driving up to Greenpoint and back.",
+    "url": "http://wallacebrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "chill",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-75 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "17:00-00:00",
+    "notes": "Three-block walk from Chuko (552 Vanderbilt → 663 Vanderbilt), so the car parks once for the whole Prospect Heights arc. Natural/orange wine list with martinis as the cocktail anchor; small bites (gildas, oysters) keep it a drinks-stop not a second dinner (Infatuation review; Andrea Strong Substack). Beats Threes Brewing Greenpoint on geography — Greenpoint is ~22 min north of IC and the wrong direction from any later PH stop, which violates the single-cluster track rule. Olmsted itself reads as closed per Yelp May 2026, so 'Olmsted-adjacent' is now a place-marker for the 600 block of Vanderbilt rather than a live cross-reference.",
+    "sources": [
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/wallace",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://andreastrong.substack.com/p/wallace-is-the-wine-bar-prospect",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "http://wallacebrooklyn.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.corner.inc/place/1507308",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T18:36:40.858Z"
   }
 ]
