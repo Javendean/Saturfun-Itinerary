@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Whale Square amenity center rooftop bar (Sunset Park)",
-    "reason": "Rooftop lounge with unobstructed Manhattan skyline view inside the same complex — strong romantic/photo vibe extension to the same anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:50:24.929Z"
-  },
-  {
-    "topic": "Industry City futsal/sports alternatives within 10 min drive",
-    "reason": "Build comparison set for active-vibe track — e.g., S'Park, Brooklyn Athletic Club, nearby pickup options to triangulate the strongest single active anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:50:24.929Z"
-  },
-  {
-    "topic": "Baked in Brooklyn 755 5th Ave Sunset Park artisanal bakery cafe",
-    "reason": "Actual brick-and-mortar Sunset Park bakery surfaced in same searches; legitimate standalone morning stop ~8 min from IC, fills the gap Little Boxes can't (no walk-in)",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:53:03.207Z"
-  },
-  {
-    "topic": "Knead Love Bakery NYC gluten-free vegan Brooklyn",
-    "reason": "Adds dietary diversity (gluten-free + vegan) to the bakery roster, currently thin in corpus; co-surfaced with Little Boxes",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:53:03.207Z"
-  },
-  {
-    "topic": "Chip City Cookies Park Slope or 5th Ave Brooklyn location",
-    "reason": "Quick-bite cookie stop alternative within drive radius; complements Little Boxes' cookie focus with a walk-in option",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:53:03.207Z"
-  },
-  {
     "topic": "Devocion Williamsburg (148 Grand St) — greenhouse-style Colombian direct-trade flagship",
     "reason": "Keep as the 'cinematic coffee' option for itineraries that already start in Williamsburg/Greenpoint; loses on drive time from IC but wins on photo/vibe.",
     "requestedBy": "agent",
@@ -10636,5 +10606,101 @@
     "reason": "Whole-building scan could surface 2-3 more co-located stops within a single parking session",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T14:10:33.721Z"
+  },
+  {
+    "topic": "Industry City rooftop / Courtyard 5/6 sunset views",
+    "reason": "Walk-in public alternative to Whale Square's rental-only rooftop — same skyline, same complex, no ticket required",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:12:42.753Z"
+  },
+  {
+    "topic": "Bush Terminal Park pier sunset (Sunset Park waterfront)",
+    "reason": "Free public waterfront 8 min drive from IC with comparable Statue of Liberty + skyline view for couples",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:12:42.753Z"
+  },
+  {
+    "topic": "Sahadi's at Industry City rooftop seating",
+    "reason": "Casual Lebanese/Mediterranean walk-in option within Industry City with outdoor seating — fills the 'romantic rooftop drink' slot when Whale Square is closed to public",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:12:42.754Z"
+  },
+  {
+    "topic": "Brooklyn Basketball Academy (BBA) Gowanus — futsal/basketball court rental",
+    "reason": "Closest peer venue for the active vibe at ~12 min from IC; expands corpus with a basketball-leaning alternative and a Gowanus zone anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:15:01.763Z"
+  },
+  {
+    "topic": "Chelsea Piers Field House Brooklyn (Brooklyn Bridge Park) — multi-sport complex",
+    "reason": "Higher-end multi-sport benchmark (~18 min drive); useful to triangulate whether premium amenities justify leaving the IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:15:01.763Z"
+  },
+  {
+    "topic": "Sunset Park Recreation Center — free public courts and pool",
+    "reason": "Free public-option contrast to Socceroof's paid model; ~5 min from IC and fills the budget-friendly active slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:15:01.763Z"
+  },
+  {
+    "topic": "Life Time Gowanus (175 Third St) — opening rooftop athletic club with pickleball",
+    "reason": "Forthcoming pickleball/wellness anchor in Gowanus zone (~12 min) — worth tracking for when it opens to compare against Socceroof's rooftop format",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:15:01.764Z"
+  },
+  {
+    "topic": "Colson Patisseries 374 9th St Park Slope French pastry cafe",
+    "reason": "Adjacent driving-friendly weekend bakery <10 min from IC; complements Baked in Brooklyn with French viennoiserie angle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:16:59.690Z"
+  },
+  {
+    "topic": "Bakeri Greenpoint Wythe Ave Scandinavian bakery cafe",
+    "reason": "Expands bakery corpus into Greenpoint cluster with photogenic Nordic aesthetic for foodie/photo vibes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:16:59.690Z"
+  },
+  {
+    "topic": "Au Za'atar bakery / Damascus Bread Atlantic Ave Brooklyn",
+    "reason": "Middle Eastern bakery counterpart to Baked in Brooklyn's pita/flatbread line; fills dietary halal-leaning slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:16:59.690Z"
+  },
+  {
+    "topic": "Grand Army Plaza Greenmarket Saturday vendor roundup",
+    "reason": "Anchors a 'farmers market morning' track in Park Slope/Prospect Heights — pairs naturally with Knead Love, Prospect Park, and brunch spots",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:19:21.717Z"
+  },
+  {
+    "topic": "Modern Bread and Bagel Brooklyn gluten-free bagels",
+    "reason": "Adds a second dedicated GF bakery option for the dietary filter, which is still thin in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:19:21.717Z"
+  },
+  {
+    "topic": "Erin McKenna's Bakery NYC vegan gluten-free",
+    "reason": "Manhattan vegan+GF bakery; useful as a Manhattan fallback for the same dietary filter when users aren't driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:19:21.717Z"
+  },
+  {
+    "topic": "Chip City Carroll Gardens (361 Smith St) — alternate Brooklyn outpost",
+    "reason": "Different zone (carroll-gardens) lets the same brand anchor a second cluster; 10 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:21:18.809Z"
+  },
+  {
+    "topic": "Ample Hills Creamery Gowanus flagship — ice cream counter alternative",
+    "reason": "Walk-in dessert option in a closer zone (gowanus/park-slope edge) with strong Saturday vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:21:18.810Z"
+  },
+  {
+    "topic": "Lady Wong Park Slope — Southeast-Asian pastry counter",
+    "reason": "Dessert variety beyond cookies in same zone; pairs well with itineraries needing non-American sweets",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T14:21:18.810Z"
   }
 ]
