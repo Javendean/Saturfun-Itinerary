@@ -6389,42 +6389,43 @@
   {
     "id": "panya-bakery-industry-city",
     "name": "Panya Bakery (Japan Village)",
-    "desc": "Japanese bakery in IC's Japan Village courtyard: matcha lattes, curry pan, shokupan, cream puffs.",
-    "longDesc": "A counter-service Japanese bakery tucked into the Japan Village courtyard at Industry City, serving fresh-baked curry pan and shokupan alongside matcha lattes, drip coffee, loose-leaf tea, and matcha cream puffs. Brunch runs Wednesday through Sunday with indoor and outdoor courtyard seating, making it a strong early-morning anchor before heading into the rest of IC. Custom cake orders available.",
+    "desc": "Legendary Japanese bakery reborn inside Industry City — curry pan, shokupan, katsu sando; open Sundays.",
+    "longDesc": "After the beloved Stuyvesant Town original closed in 2022, Panya reopened in 2025 inside Industry City's Japan Village (Building 4), one floor down from Tadaima. The menu leans traditional Japanese bakery — curry pan, shokupan milk bread, an cream buns, katsu sandos, melonpan — plus matcha lattes, yuzu teas, and seasonal kakigori. Crucially open Sundays, making it the perfect zero-drive failover if Tadaima sells out.",
     "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
     "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3abc322e23513a29789d_panya%20web.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
+      "foodie",
       "chill",
-      "foodie"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
-    "notes": "Inside Japan Village courtyard at 934 3rd Ave (Industry City); pair with Sunrise Mart shopping or Mr. Bing next door. Weekend opening is 11am — not a true early-morning option on Sat/Sun (Wed-Fri it opens 9am). Brunch service Wed-Sun (japanvillage.com). Free IC garage parking on weekends.",
+    "notes": "Same complex as Tadaima — Building 4 inside Japan Village at 934 3rd Ave (Industry City). Sunday hours 11–6 confirmed (japanvillage.com). Heritage reopening of the 1970s Stuyvesant Town original that closed in 2022 (Commercial Observer, 2025). Pairs with Tadaima for a layered Japanese bakery flight: laminated patisserie upstairs at Tadaima, traditional breads downstairs at Panya. Free IC garage parking on weekends.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/panya-bakery/",
+        "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
+        "url": "https://www.yelp.com/biz/panya-japanese-bakery-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T01:33:15.315Z"
+    "lastResearchedAt": "2026-05-17T01:40:33.770Z"
   },
   {
     "id": "jtunes-karaoke",
@@ -21500,5 +21501,194 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T01:27:22.881Z"
+  },
+  {
+    "id": "ramen-setagaya-japan-village",
+    "name": "Ramen Setagaya at Japan Village",
+    "desc": "Tokyo-style tonkotsu inside Industry City's Japanese food hall — creamy pork bone broth, chashu, ajitama egg",
+    "longDesc": "On-site at Industry City's Japan Village, Setagaya pours a creamy pork-bone tonkotsu over chashu, bamboo shoots, and a soft-cooked egg, with Black Garlic Tonkotsu, Black Garlic Tsukemen, and Spicy Miso as standout variations. The food-hall counter format makes it a fast solo-anchor meal you can stack with Sunrise Mart browsing or Sushi Uesugi next door. Validated Industry City parking is available with a $50 Sunrise Mart spend or $100 at Sushi Uesugi.",
+    "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/66d8903b2004dcde1d8eb938_ramen.avif",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:30-20:30, Sun 11:30-19:30",
+    "notes": "Inside Japan Village food hall at 934 3rd Ave, Industry City (japanvillage.com). Signature is the Classic Tonkotsu — creamy pork bone broth, chashu, menma, ajitama (japanvillage.com). Other ramen: Black Garlic Tonkotsu, Black Garlic Tsukemen, Spicy Miso, plus a Shio (dried fish + kelp + chicken) on the broader Setagaya menu (setagayany.com). Validated parking at IC lot with $50 Sunrise Mart or $100 Sushi Uesugi receipt (yelp Q&A). 199+ photos / 79 reviews on Yelp for the 3rd Ave location (yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.setagayany.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:35:50.855Z"
+  },
+  {
+    "id": "wakuwaku-izakaya-industry-city",
+    "name": "WakuWaku Izakaya",
+    "desc": "60-seat izakaya inside Japan Village with private tatami rooms and a tabletop-grilled Wagyu menu",
+    "longDesc": "WakuWaku is a 3,200-sq-ft izakaya tucked inside Industry City's Japan Village food hall, built by Japanese carpenters with paper lanterns, imported tiles, and an open kitchen front and center. The 60-seat room includes bookable private tatami rooms — rare in NYC — making it a strong evening anchor for a friend-group track that started with a daytime Japan Village graze. The menu runs deep on Japanese tapas, yakitori, kushi-age, sushi/sashimi, udon, cheese wontons, and a 6-oz Wagyu rib-eye finished on a tabletop grill, paired with shochu cocktails.",
+    "url": "https://www.wakuwakuny.com/wakuwaku",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "0 min (onsite)",
+    "hoursWeekend": "dinner — call to confirm",
+    "notes": "Onsite at Industry City, 269 36th St, Building 4 — Japan Village. Owned by Tony Yoshida (Sunrise Mart, Kyo Ya, Angel's Share) (6sqft). 60 seats + private tatami rooms, built by Japanese carpenters with traditional touches — paper lanterns, imported tiles, open kitchen (Bklyner). Weekend dinner-menu offerings include Wagyu rib-eye finished tableside, sushi/sashimi, yakitori, kushi-age, udon, cheese wontons, grilled smelts, shrimp-stuffed shiitakes, corn tempura (industrycity.com). Partly enclosed wooden outdoor structures designed like traditional Japanese houses for year-round outdoor dining (Time Out NY). Reservations: phone 347-584-4577 or wakuwakubk@gmail.com — confirm tatami room availability and exact weekend hours when booking. Parking: standard Industry City lots — no separate drive.",
+    "sources": [
+      {
+        "url": "https://www.wakuwakuny.com/wakuwaku",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/wakuwaku-an-izakaya-counter-in-industry-city-expands-outdoors/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/wakuwaku-japan-village/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/angels-share-speakeasy-owners-open-sit-down-japanese-restaurant-at-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2020/02/04/industry-citys-japan-village-adds-new-food-space/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/theres-a-massive-japanese-style-outdoor-dining-area-at-industry-city-right-now-031021",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:38:18.513Z"
+  },
+  {
+    "id": "nippon-cha-williamsburg",
+    "name": "Nippon Cha (Williamsburg)",
+    "desc": "Japanese tea bar on Bedford Ave — ceremonial matcha, hojicha, and a signature matcha tiramisu.",
+    "longDesc": "Williamsburg outpost of a Japanese tea house sourcing ceremonial-grade matcha and hojicha from Ujien Seicha in Japan. Best known for its $11 matcha tiramisu (layered green matcha cream and moist cake) and Kuro Mitsu matcha latte. Calm minimalist interior, English-friendly staff, open until 10pm Friday–Sunday — one of the few matcha-forward Brooklyn cafes still pouring late.",
+    "url": "https://nipponcha.us/pages/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "08:00-22:00",
+    "notes": "Queue topic was 'Lala Cha' — no such venue exists in Williamsburg (verified across Yelp, Google, NYC press). Substituted with Nippon Cha, the actual matcha-forward Williamsburg cafe matching the queue rationale. 4.7/5 on Yelp across 193 reviews (yelp.com). Address 214 Bedford Ave, Brooklyn NY 11249; weekend hours 8am–10pm Fri–Sun (nipponcha.us). Signature items: matcha tiramisu $11, Kuro Mitsu matcha latte, Usucha (lemon8 reviewer cindynyc). Japanese, not Taiwanese — but fills the same matcha+pastry niche the queue was after. Street parking on side streets off Bedford; Wythe Hotel garage as paid fallback.",
+    "sources": [
+      {
+        "url": "https://nipponcha.us/pages/locations",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/nippon-cha-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tryperdiem.com/guide/best-matcha-places-in-williamsburg",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.lemon8-app.com/cindynyc/7230657308638872069?region=us",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:44:07.411Z"
+  },
+  {
+    "id": "cafe-kitsune-boerum-hill",
+    "name": "Café Kitsuné Boerum Hill",
+    "desc": "Maison Kitsuné's Parisian-Japanese café on Bond St — matcha lattes, viennoiserie, and design-forward interiors.",
+    "longDesc": "The Brooklyn outpost of Maison Kitsuné's café concept, designed by co-founder Masaya Kuroki as a modernist take on a Parisian bistro filtered through Japanese sensibility. Daytime menu leans on sweet and savory pastries, matcha drinks and specialty coffee; a separate bar at 104 Bond St opens Wed–Sat evenings with natural wine, sake, cocktails and weekly DJs from the Kitsuné Musique label. Direct expansion of the French-Japanese pastry lane beyond Burrow.",
+    "url": "https://maps.app.goo.gl/?q=Cafe+Kitsune+112+Bond+Street+Brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "08:00-20:00",
+    "notes": "112 Bond St, Brooklyn NY 11217 — daily 8AM–8PM café; sister bar at 104 Bond St runs Wed–Sat 5PM–12AM (hypebeast.com, brownstoner.com). Opened May 2022; NYC debut featured cakes from Burrow bakery (timeout.com), which is why this entry intentionally widens the Burrow/French-Japanese cluster. Weekend street parking in Boerum Hill is tight but workable; metered along Bond/Pacific, residential side streets fill by mid-morning. ~15 min drive from Industry City via Hamilton Ave → Smith St → Bond.",
+    "sources": [
+      {
+        "url": "https://hypebeast.com/2022/5/cafe-kitsune-opens-in-boerum-hill-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brownstoner.com/brooklyn-life/boerum-hill-restaurant-opening-cafe-kitsune-104-112-bond-street-french-japanese/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/cafe-kitsune-opens-in-new-york-with-cakes-from-an-acclaimed-japanese-bakery-111119",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://theimpression.com/kitsune-opens-cafe-and-store-in-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:46:24.266Z"
   }
 ]

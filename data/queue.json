@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Ramen Setagaya at Japan Village — tonkotsu specifics",
-    "reason": "Standalone ramen anchor for cold-weather IC trips; user values single-dish destination meals",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:30:56.167Z"
-  },
-  {
-    "topic": "Waku Waku izakaya (Industry City) — dinner + tatami rooms",
-    "reason": "Evening counterpart to daytime Japan Village graze; 60 seats with private tatami fits the user's friend-group format",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:30:56.167Z"
-  },
-  {
-    "topic": "Sunday-open Japanese pastry backup near Industry City (since Burrow is closed Sun)",
-    "reason": "Tadaima sellout could happen any day of the weekend — corpus is missing a Sunday-viable alternate",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:33:08.947Z"
-  },
-  {
-    "topic": "Lala Cha (Williamsburg) — Taiwanese/Japanese-leaning pastries and matcha drinks",
-    "reason": "10-15 min drive from IC, fills the same matcha-forward niche with longer hours",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:33:08.947Z"
-  },
-  {
-    "topic": "Cafe Kitsuné Brooklyn / equivalent French-Japanese pastry counter within 20 min of IC",
-    "reason": "Expands the French-Japanese hybrid category beyond Burrow's narrow window",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:33:08.947Z"
-  },
-  {
     "topic": "Brooklyn Glass hot-shop weekend visit Industry City area",
     "reason": "Adjacent 'watch fire and make a thing' maker venue — glassblowing complements bladesmithing on a makers track",
     "requestedBy": "agent",
@@ -6868,5 +6838,95 @@
     "reason": "Alternative early-morning matcha/coffee anchor near IC if Panya's 11am weekend open is too late",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T01:33:15.337Z"
+  },
+  {
+    "topic": "Sushi Uesugi at Japan Village — omakase specifics, seating, price",
+    "reason": "Sister tenant inside same food hall; pairs the parking-validation flow and gives a higher-end IC dining anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:35:50.873Z"
+  },
+  {
+    "topic": "Sunrise Mart at Japan Village — browse-time, snack pickups, parking validation threshold",
+    "reason": "Natural pre/post-ramen 30-min browse stop and the cheaper of the two parking-validation paths",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:35:50.873Z"
+  },
+  {
+    "topic": "Otafuku + Hinomaru sake bar inside Japan Village — takoyaki and drinks pairing",
+    "reason": "Completes the Japan Village mini-cluster as a single IC track without leaving the building",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:35:50.873Z"
+  },
+  {
+    "topic": "Mister Paradise / Angel's Share East Village shochu-cocktail bar — Yoshida group sibling for late-night Manhattan extension",
+    "reason": "Same ownership lineage as WakuWaku (Tony Yoshida), unlocks a cocktail post-dinner option if a track ever crosses into Manhattan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:38:18.534Z"
+  },
+  {
+    "topic": "Kura Sushi / sushi counter alternatives inside Japan Village food hall — cheaper, no-reservation backup for the same anchor",
+    "reason": "Gives the itinerary a fallback if WakuWaku is fully booked, without leaving Industry City",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:38:18.534Z"
+  },
+  {
+    "topic": "Mokbar Brooklyn or other Industry City Building 4 evening dining — non-Japanese 60+ seat dinner spot for tatami-style group bookings",
+    "reason": "Diversifies the IC evening corpus so not every dinner track funnels into the same izakaya",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:38:18.534Z"
+  },
+  {
+    "topic": "Patisserie Tomoko (Williamsburg)",
+    "reason": "Japanese-French dessert tasting menu — adds a sit-down evening counterpart to the morning-pastry IC anchors, ~20 min drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:40:33.794Z"
+  },
+  {
+    "topic": "Norikoh / Japanese coffee + pastry options in Carroll Gardens or Cobble Hill",
+    "reason": "Fills the mid-route gap between IC and Dumbo; corpus currently has no Japanese bakery in the brownstone-belt cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:40:33.794Z"
+  },
+  {
+    "topic": "Takahachi Bakery (Bushwick, 29 Wyckoff Ave)",
+    "reason": "Sunday-open Japanese bakery on the Bushwick edge — useful if a track pivots north toward Bushwick/Ridgewood art stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:40:33.794Z"
+  },
+  {
+    "topic": "Path of Cha (Williamsburg) — Chinese gongfu tea house with rotating oolongs and pastries",
+    "reason": "Complements Nippon Cha on the matcha/tea track; same Williamsburg cluster, different tea tradition for variety within the zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:44:07.436Z"
+  },
+  {
+    "topic": "Cha Cha Matcha DUMBO (55 Water St) — matcha soft serve, photogenic neon-pink interior",
+    "reason": "Closer drive (~12 min) and adds a 'photo' vibe option to the matcha track; same niche with shorter dwell time for a multi-stop day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:44:07.436Z"
+  },
+  {
+    "topic": "Kettl Tea Greenpoint — Japanese tea bar with kaiseki-style sweets pairings",
+    "reason": "Greenpoint expansion of the matcha-forward cluster; sit-down tea-tasting format unlocks 'curious' vibe currently underrepresented in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:44:07.436Z"
+  },
+  {
+    "topic": "Patisserie Tomoko (Williamsburg) — chef Tomoko Kato's Japanese-French dessert counter with yuzu mousse, black sesame dacquoise, matcha crepe cake",
+    "reason": "Direct French-Japanese pastry peer to Kitsuné/Burrow; widens the category with a chef-driven, sit-down dessert option in a different zone (Williamsburg, ~20 min from IC)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:46:24.289Z"
+  },
+  {
+    "topic": "Je T'aime Pâtisserie (Bed-Stuy) — stuffed/topped croissants in matcha-lavender-lemon-blueberry and other hybrid flavors",
+    "reason": "Adds a modern French viennoiserie with Japanese-leaning flavor crossover; extends the corpus into Bed-Stuy where coverage is thin",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:46:24.289Z"
+  },
+  {
+    "topic": "Lysée by Eunji Lee (Flatiron, Manhattan) — Korean-French patisserie with sculptural desserts; only if a Manhattan exception is warranted",
+    "reason": "Stretches the East-Asian-meets-French pastry axis with a James Beard-recognized chef; flag as Manhattan-only candidate for user judgment on whether to relax the IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:46:24.289Z"
   }
 ]
