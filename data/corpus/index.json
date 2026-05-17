@@ -2638,8 +2638,8 @@
   {
     "id": "frankies-457-spuntino",
     "name": "Frankies 457 Spuntino",
-    "desc": "Carroll Gardens Italian institution on Court St with a brick-walled back garden",
-    "longDesc": "Frankies 457 has anchored Court Street for 20 years with a tight, ingredient-driven Italian menu — cavatelli with browned sage and butter, meatballs, sliced ribeye, and house-made sausage. The back garden is the move on weekends: ivy-covered brick, string lights, and a glass roof that keeps it usable shoulder-season. Lunch and dinner run the same menu seven days a week with rotating seasonal specials.",
+    "desc": "Castronovo/Falcinelli's surviving Carroll Gardens flagship — 20+ years of garden-room Italian on Court St.",
+    "longDesc": "The original 2004 Frank Castronovo + Frank Falcinelli Italian-American — the sibling that outlasted Prime Meats (closed 2018) and Frankies 570 West Village (closed). Cavatelli with browned sage butter, meatballs in garlicky tomato, sliced ribeye, branzino, and house sausage anchor the menu; same card runs lunch through dinner seven days a week with seasonal specials. The ivy-and-brick back garden under a glass roof is the move on weekends, fogged-up windows out front in shoulder-season.",
     "url": "https://www.frankiesspuntino.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2655,34 +2655,30 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "11:00-23:00 (Sat) / 11:00-22:00 (Sun)",
-    "notes": "457 Court St, Carroll Gardens; sit-down Italian alternative to quick Court St slice/sandwich stops; garden seating is the signature photo (frankiesspuntino.com). 20th-year institution per official site, reservations available via OpenTable.",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
+    "notes": "457 Court St, Brooklyn NY 11231; phone (718) 403-0033. Official site confirms Sun-Thu 11a-10p, Fri-Sat 11a-11p as of May 2026 (frankiesspuntino.com/location/frankies457-restaurant). Reservations via OpenTable; walk-ins workable at the bar. Same menu lunch + dinner. The garden room (glass-roofed, ivy on brick) is the signature seat — request when booking. Family lineage: Prime Meats (465 Court, closed Dec 2018) and Frankies 570 (West Village, closed) are both dormant archive entries; only 457 Court remains operational. Weekend parking is metered Court St + free side streets (Luquer/Nelson/4th Pl). Pairs naturally with Court Street Grocers daytime + a Public Records nightcap.",
     "sources": [
       {
-        "url": "https://www.frankiesspuntino.com/",
-        "accessed": "2026-05-17T15:20:00Z"
-      },
-      {
         "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
-        "accessed": "2026-05-17T15:20:00Z"
+        "accessed": "2026-05-17T16:05:00Z"
       },
       {
         "url": "https://www.frankiesspuntino.com/menus/",
-        "accessed": "2026-05-17T15:20:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/frankies-spuntino-brooklyn",
-        "accessed": "2026-05-17T15:20:00Z"
+        "accessed": "2026-05-17T16:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/frankies-457-spuntino-brooklyn-3",
-        "accessed": "2026-05-17T15:20:00Z"
+        "accessed": "2026-05-17T16:05:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/frankies-spuntino-brooklyn",
+        "accessed": "2026-05-17T16:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T15:16:13.009Z"
+    "lastResearchedAt": "2026-05-17T16:08:24.100Z"
   },
   {
     "id": "win-son-bakery-williamsburg",
@@ -29624,5 +29620,194 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T15:56:11.710Z"
+  },
+  {
+    "id": "cafe-grumpy-park-slope",
+    "name": "Café Grumpy (Park Slope)",
+    "desc": "Third-wave Brooklyn roaster; house-roasted espresso in a small dog-friendly 7th Ave shop.",
+    "longDesc": "Café Grumpy's Park Slope shop (open since 2009) is the no-laptop, no-Wi-Fi outpost of the cult Brooklyn roaster — espresso, Americanos, cappuccinos, and the popular honey oat latte pulled from beans roasted at their Greenpoint facility. Compact, dog-friendly, and built around the bar; ideal as the first stop of a Park Slope / South Slope morning. SpotHero has bookable garages within a few blocks for weekend drivers from Industry City.",
+    "url": "https://cafegrumpy.com/locations/park-slope/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "07:30-19:30",
+    "notes": "House-roasted specialty beans; espresso bar focus, no Wi-Fi, no restroom — quick in-and-out by design (Yelp, cafegrumpy.com). Dog-friendly, opened 2009 (Brooklyn Paper). SpotHero lists garages keyed to '383 7th Ave' for weekend reservations.",
+    "sources": [
+      {
+        "url": "https://cafegrumpy.com/locations/park-slope/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/caf%C3%A9-grumpy-brooklyn-4",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/cafe-grumpy-7th-ave-brooklyn-parking",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/cafe-grumpy-opens-in-park-slope/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:00:49.365Z"
+  },
+  {
+    "id": "ff-restaurant-and-bar",
+    "name": "F&F Restaurant and Bar",
+    "desc": "Candlelit Frankies-team tavern at the old Prime Meats address — wood-fired pies, wild boar calzone, Basque cheesecake.",
+    "longDesc": "Frank Castronovo and Frank Falcinelli's successor to Prime Meats sits at 465 Court St between Frankies 457 Spuntino and their F&F Pizzeria slice shop. The dining room — dark wood, brick, gold-tinned ceiling — pairs personal pies (Clam Pie with parsley and lemon, Jimmy Nardello with roasted peppers) with shareable plates like roasted okra with Buffalo raita, lemon-shrimp-scampi spaghetti, wild boar calzone, and a Basque cheesecake finished in the pizza oven. Reads elevated-neighborhood rather than splurge, and slots cleanly as the sit-down anchor of the Carroll Gardens cluster.",
+    "url": "https://www.opentable.com/r/f-and-f-pizzeria-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri-Sat 14:00-23:00, Sun 14:00-21:00",
+    "notes": "Successor to Prime Meats at 465 Court St; same Falcinelli/Castronovo team as Frankies 457 Spuntino and F&F Pizzeria, all within ~30m (Time Out, Infatuation). Reservations via OpenTable. Side streets off Court (Luquer, Nelson) usually have weekend parking; Smith St garage is the backup. Pairs naturally with an IC anchor → drive 10 min via Hamilton Ave → park once and walk the F&F / Frankies / Pizzeria micro-block.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/f-f-restaurant-and-bar",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/f-and-f-restaurant",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/f-and-f-pizzeria-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/prime-meats-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:04:07.875Z"
+  },
+  {
+    "id": "radegast-hall-biergarten",
+    "name": "Radegast Hall & Biergarten",
+    "desc": "Williamsburg beer hall with German sausages, 12+ taps of Central European imports, and free live music nightly.",
+    "longDesc": "Open since 2007, Radegast is a year-round Bavarian-style beer hall with a retractable roof, communal wooden tables, an open grill cooking bratwurst/currywurst/wagyu jalapeno-cheddar links, and 12+ specialty taps plus a deep list of Bavarian, German and Central European imports. Free live music runs Wed–Sun (open mic Mondays, never a cover charge), so the room shifts from lunchtime biergarten to live-music hall as the day goes on. It's the closest substitute in operating Brooklyn for the old Prime Meats / Frankies-style German-Austrian sit-down experience.",
+    "url": "https://radegasthall.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 11:00-03:00, Sun 11:00-01:00",
+    "notes": "113 N 3rd St, Brooklyn NY 11249 (radegasthall.com). Grill highlights: Bratwurst $14, Currywurst $15, Wagyu jalapeno-cheddar link $17, 3-sausage platter w/ sauerkraut $31; veg sides incl. pretzels w/ cheddar+Havarti, German potato salad, Brussels sprouts, grilled broccolini (radegasthall.com/menus/food). Live music Wed–Sun, open mic Mon, no cover (radegasthall.com/live-music). Weekend street parking on Berry/Wythe is usually findable; Quik Park at 197 Berry St (0.1 mi) as fallback (p2bars.com). Retractable roof — works rain or shine.",
+    "sources": [
+      {
+        "url": "https://radegasthall.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://radegasthall.com/menus/food/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://radegasthall.com/live-music",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/radegast-hall-and-biergarten-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://p2bars.com/bars-near-me/radegast-hall-biergarten/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:06:17.105Z"
+  },
+  {
+    "id": "leyenda",
+    "name": "Leyenda (CLOSED March 2025)",
+    "desc": "CLOSED — Julie Reiner & Ivy Mix's pan-Latin agave bar at 221 Smith St shut after a 10-year run.",
+    "longDesc": "Leyenda was the Clover Club team's pan-Latin sibling a half-block down Smith Street, anchored by Ivy Mix's agave-forward, ~15-cocktail menu spanning tequila, mezcal, sotol, raicilla, pisco, cachaça and rum, with a Latin food program from chef Sue Torres (timeout.com, chilledmagazine.com). Ivy Mix and Julie Reiner announced in February 2025 that the Smith Street space had been outgrown and the bar would close at the end of March 2025 after its 10th-anniversary service in May (thespiritsbusiness.com, drinksint.com). The team signalled they would scout a new Brooklyn home post-closure; as of the corpus accessed date no successor venue had opened, so Leyenda should NOT be routed in any active itinerary — keep as historical context only.",
+    "url": "https://leyendabk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "curious",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "permanently closed",
+    "notes": "PERMANENTLY CLOSED end of March 2025 after 10 years at 221 Smith St, Carroll Gardens (timeout.com, thespiritsbusiness.com). Was Ivy Mix + Julie Reiner's pan-Latin sibling to Clover Club (210 Smith), agave-forward with a Sue Torres food menu (chilledmagazine.com). Pre-closure hours were Mon–Thu 5pm–2am, Fri/Sat 5pm–3am, Sun 5pm–1am (nyc.com). Team announced intent to find a new Brooklyn location but no successor address confirmed at corpus access. DO NOT include in active routes — flag as closed; the Smith Street corridor cocktail anchor is now Clover Club alone unless/until Mix reopens.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.thespiritsbusiness.com/2025/02/brooklyn-bar-leyenda-to-close/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://drinksint.com/news/fullstory.php/aid/11588/Brooklyn_92s_Leyenda_to_close_at_the_end_of_March.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://chilledmagazine.com/julie-reiner-and-ivy-mix-open-leyenda-cocktail-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyc.com/restaurants/leyenda.1298533/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://leyendabk.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T16:10:33.103Z"
   }
 ]

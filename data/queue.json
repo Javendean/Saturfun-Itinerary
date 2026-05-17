@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Café Grumpy Park Slope (383 7th Ave)",
-    "reason": "Brooklyn specialty-coffee mainstay with confirmed SpotHero parking nearby and 7am weekend open — covers the 'classic third-wave espresso' slot driving-friendly.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:29:36.020Z"
-  },
-  {
-    "topic": "F&F Restaurant and Bar — 465 Court St successor to Prime Meats (Castronovo/Falcinelli pizza tavern)",
-    "reason": "Live, bookable Frankies-team venue at the exact Prime Meats address; fills the same Carroll Gardens cluster slot for the IC + Frankies itinerary",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:31:55.932Z"
-  },
-  {
-    "topic": "Radegast Hall & Biergarten Williamsburg — German-Austrian beer hall with sausages and live music",
-    "reason": "Actual operating German-Austrian option in Brooklyn for users who wanted the Prime Meats cuisine experience; ~20 min from IC, weekend street parking in S. Williamsburg",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:31:55.932Z"
-  },
-  {
-    "topic": "Frankies 457 Spuntino Carroll Gardens — original Castronovo/Falcinelli Italian-American (still open)",
-    "reason": "The Prime Meats sister restaurant that survived; verify it's already in corpus and re-enrich with current 2026 hours/menu if stale",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:31:55.932Z"
-  },
-  {
-    "topic": "Leyenda Smith Street Brooklyn cocktail bar — Julie Reiner's pan-Latin sibling to Clover Club",
-    "reason": "Same operator, half-block away, agave-forward menu — gives the corridor a second cocktail anchor for a different mood",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:34:03.566Z"
-  },
-  {
     "topic": "Long Island Bar Atlantic Avenue Cobble Hill — classic American cocktails in a restored diner",
     "reason": "10-minute walk from Frankies/Clover Club, anchors an Atlantic Ave alternative when Clover Club is at capacity",
     "requestedBy": "agent",
@@ -11224,5 +11194,95 @@
     "reason": "Adds a free outdoor/photo stop to extend a sub-10-min-from-IC track south instead of always defaulting to Red Hook or Park Slope.",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T15:58:50.744Z"
+  },
+  {
+    "topic": "Konditori Park Slope (7th Ave) — Swedish café and cardamom buns",
+    "reason": "Adjacent Park Slope coffee+pastry slot, easy pair with Grumpy walking distance, fills 'sweet morning stop' gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:00:49.396Z"
+  },
+  {
+    "topic": "Variety Coffee Roasters Park Slope (5th Ave) — Brooklyn-roasted espresso with seating + Wi-Fi",
+    "reason": "Alternate Park Slope coffee with lounge-style seating, complements Grumpy's no-Wi-Fi quick-stop format",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:00:49.396Z"
+  },
+  {
+    "topic": "Devoción Park Slope (4th Ave) — Colombian single-origin micro-roaster, plant-filled flagship",
+    "reason": "Photo-vibe + foodie coffee alternative in Park Slope, fills 'instagram-coffee' slot the driving cluster currently lacks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:00:49.396Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino — flagship Carroll Gardens trattoria at 457 Court St",
+    "reason": "Anchors the same micro-block as F&F; gives the cluster a lower-priced, garden-patio alternative for the same drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:04:07.900Z"
+  },
+  {
+    "topic": "F&F Pizzeria — counter-service slice shop at 459 Court St",
+    "reason": "Same owners, walkable from F&F Restaurant; covers the casual/foodie slot for quick stops or solo travelers in the Carroll Gardens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:04:07.900Z"
+  },
+  {
+    "topic": "Court Street Grocers — Carroll Gardens sandwich/provisions counter",
+    "reason": "Diversifies the cluster beyond the Frankies empire; strong takeout option to bridge gaps between IC and a Carroll Gardens dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:04:07.900Z"
+  },
+  {
+    "topic": "Berg'n / Berg'n-style food hall replacement in Crown Heights or Brooklyn beer-hall alternative with live music",
+    "reason": "Pair-with for users who want beer-hall energy but prefer Prospect Heights/Crown Heights side",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:06:17.135Z"
+  },
+  {
+    "topic": "Spritzenhaus33 Greenpoint biergarten",
+    "reason": "Closest Greenpoint analog to Radegast — wider beer list, less food focus; useful for the Greenpoint cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:06:17.135Z"
+  },
+  {
+    "topic": "Loreley Williamsburg German beer garden N 4th St",
+    "reason": "Direct walkable alternative 2 blocks from Radegast; covers Saturday-night overflow if Radegast is full",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:06:17.135Z"
+  },
+  {
+    "topic": "Franks (wine bar at 457 Court) — Frankies' adjacent natural-wine bar with small plates",
+    "reason": "Yelp surfaces 'FRANKS' at the same 457 Court address — likely a new Castronovo/Falcinelli wine-bar spinoff that expands the cluster and deserves its own corpus entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:08:24.124Z"
+  },
+  {
+    "topic": "Frankies Olive Oil (frankies457.com retail) — Sicilian olive oil + pantry brand",
+    "reason": "The owners' parallel retail business; relevant for 'shop the corridor' itinerary stops and pairs with Court Street Grocers picnic flows",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:08:24.124Z"
+  },
+  {
+    "topic": "Dedupe candidate: frankies-457-spuntino-carroll-gardens vs frankies-457-spuntino",
+    "reason": "Two near-identical corpus entries exist; flag for collapse so itineraries route to a single canonical venueId",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:08:24.124Z"
+  },
+  {
+    "topic": "Ivy Mix successor / next Brooklyn project post-Leyenda closure (2025-2026)",
+    "reason": "If Ivy Mix has opened or announced a new agave-forward bar, that's the rightful Leyenda replacement and a marquee corpus addition",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:10:33.126Z"
+  },
+  {
+    "topic": "Madre Mezcaleria Brooklyn — agave-focused cocktail bar with weekend parking",
+    "reason": "Direct mezcal/agave substitute for the niche Leyenda left vacant in the IC drive radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:10:33.126Z"
+  },
+  {
+    "topic": "Fiasco! Carroll Gardens — Ivy Mix's Italian sibling restaurant on Court Street",
+    "reason": "Still-operating venue from the same operator family, drinks program with Leyenda lineage, ~12 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T16:10:33.126Z"
   }
 ]
