@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Greenpoint weekend parking guide (Manhattan Ave / Franklin St)",
-    "reason": "Adjacent driving zone with different ASP and looser meter coverage — corpus needs a parallel parking note for Greenpoint stops.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:19:04.230Z"
-  },
-  {
-    "topic": "NYC Saturday meter rules cheat sheet for Brooklyn weekenders",
-    "reason": "Cross-zone reference doc the itinerary view can link from every Brooklyn stop, not just Williamsburg.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:19:04.230Z"
-  },
-  {
-    "topic": "Sushi Uesugi at Japan Village (omakase counter)",
-    "reason": "Adds a higher-end sit-down option inside the IC cluster for a romantic/foodie variant of the same track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:21:02.684Z"
-  },
-  {
-    "topic": "JTunes Karaoke at Japan Village",
-    "reason": "After-dinner activity that keeps the night on-site at IC without driving — pairs with Sake's Bar",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:21:02.684Z"
-  },
-  {
-    "topic": "Kuraichi sake & shochu shop at Japan Village",
-    "reason": "Take-home retail anchor; complements the food-crawl with a 'bring a bottle home' beat similar to Sahadi's",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:21:02.684Z"
-  },
-  {
     "topic": "Industry City Japan Village + Mitsuwa-style food hall pivot",
     "reason": "Adjacent Japanese drinks/food cluster inside IC pairs naturally with Brooklyn Kura tour",
     "requestedBy": "agent",
@@ -9232,5 +9202,101 @@
     "reason": "Same operator, different facility — compare to confirm LittleMan pricing pattern",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T09:40:03.122Z"
+  },
+  {
+    "topic": "Williamsburg weekend parking guide (Bedford Ave / N 6th St)",
+    "reason": "Adjacent zone, very different rules — meters run later, more commercial loading zones, and Bedford Ave is effectively unparkable Sat afternoons; corpus needs the contrast.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:42:46.422Z"
+  },
+  {
+    "topic": "McCarren Park perimeter free-parking pockets (Greenpoint/Williamsburg border)",
+    "reason": "Driver-friendly anchor point that lets one car serve both neighborhoods in a single track — high planning value for itinerary generator.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:42:46.422Z"
+  },
+  {
+    "topic": "SP+ 1 Blue Slip Garage at Greenpoint Landing ferry terminal",
+    "reason": "Reservable garage option with ferry access — enables a hybrid drive+ferry day where car parks in Greenpoint and group ferries to DUMBO/Wall St.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:42:46.422Z"
+  },
+  {
+    "topic": "ParkNYC app setup walkthrough for first-time Brooklyn drivers",
+    "reason": "Every metered stop in the itinerary assumes the driver can pay by zone number; a how-to entry removes friction",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:45:10.272Z"
+  },
+  {
+    "topic": "Industry City garage + lot options on Saturday (rates, in/out)",
+    "reason": "IC is the anchor — a sibling 'where to actually park at the anchor' card complements the street-meter cheat sheet",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:45:10.273Z"
+  },
+  {
+    "topic": "Brooklyn alternate-side parking suspensions calendar 2026",
+    "reason": "Drivers staying through Sunday or Monday morning need to know when ASP is off; pairs naturally with the meter doc",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:45:10.273Z"
+  },
+  {
+    "topic": "Downtown Brooklyn / DUMBO commercial-meter zones and rates",
+    "reason": "Highest-rate, longest-hour meters in the corpus zones; deserves its own dedicated card to avoid surprise tickets",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:45:10.273Z"
+  },
+  {
+    "topic": "Wonderville Industry City — bar with vintage arcade games as a post-omakase chill stop",
+    "reason": "Pairs a high-end sit-down with a low-key playful evening anchor inside the IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:46:59.437Z"
+  },
+  {
+    "topic": "Sahadi's at Industry City — Middle Eastern grocery + prepared foods counter",
+    "reason": "Adds a casual foodie alternative within walking distance for non-sushi variants of the same track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:46:59.437Z"
+  },
+  {
+    "topic": "Frying Pan Brooklyn / Industry City waterfront sunset spot",
+    "reason": "Completes a romantic variant of the track with a golden-hour walk after omakase",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:46:59.437Z"
+  },
+  {
+    "topic": "Sunrise Mart at Japan Village (Japanese grocery + prepared foods)",
+    "reason": "Same IC courtyard — natural pre-karaoke browse stop, expands the on-site Japan Village mesh",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:48:54.201Z"
+  },
+  {
+    "topic": "Japan Village courtyard food vendors roundup (ramen, takoyaki, sushi stalls)",
+    "reason": "JTunes lets you order from these — corpus needs each vendor as a standalone entry for dinner-before-karaoke routing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:48:54.201Z"
+  },
+  {
+    "topic": "Best late-night karaoke alternatives within 15 min drive of IC (Park Slope/Sunset Park)",
+    "reason": "JTunes closes 22:00 Sat — corpus needs a post-22:00 backup for groups that want to keep singing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:48:54.202Z"
+  },
+  {
+    "topic": "Brooklyn Kura sake brewery taproom at Industry City (68 34th St)",
+    "reason": "America's first sake kura is literally next door — natural pairing with Kuraichi for a 'taste then take home' beat inside IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:50:51.606Z"
+  },
+  {
+    "topic": "Sunrise Mart Japanese grocery at Japan Village",
+    "reason": "Same Japan Village complex; rounds out the take-home retail beat with snacks/pantry items beyond just bottles",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:50:51.606Z"
+  },
+  {
+    "topic": "Copper & Oak rare whisky shop in Lower East Side",
+    "reason": "If we ever justify a Manhattan retail detour, this is the spirits-nerd analog to Kuraichi — useful as a comparison point, not necessarily a venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:50:51.606Z"
   }
 ]
