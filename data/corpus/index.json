@@ -5470,46 +5470,40 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Push-cart Cantonese dim sum hall in Sunset Park with rare free parking lot — bargain weekend brunch.",
-    "longDesc": "Cavernous gold-accented banquet room (~200 seats) where steaming push carts and tray-bearing waiters circle non-stop on weekend mornings — a true old-school Cantonese yum cha experience just south of Industry City. Eight dim sum plates run about $20, with standouts including flaky spring rolls, fried taro puffs, pepper spare ribs, shrimp-stuffed eggplant, and beef tendon. Arrive by 10:30 AM for peak cart variety; new items stop coming around 2:45-3:00 PM.",
+    "desc": "Michelin-listed Cantonese cart dim sum + live-tank seafood in Sunset Park's Chinatown",
+    "longDesc": "A gold-accented Sunset Park banquet hall where weekend dim sum is announced bingo-style and steaming carts roll past with siu mai, shrimp rice noodle rolls in sweet soy, and black-bean spare ribs. Listed in the MICHELIN Guide for 'Good cooking,' with a live-tank seafood menu (lobster, Dungeness crab, steamed fish) that runs alongside the dim sum service.",
     "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill"
+      "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
-    "priceBand": "$",
+    "dietary": [],
+    "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
+    "driveFromIC": "6 min",
     "hoursWeekend": "09:00-23:00",
-    "notes": "Located at 714 65th St between 7th & 8th Ave, Sunset Park/Dyker Heights border (Yelp). Featured in the MICHELIN Guide for Brooklyn (Michelin). Free on-site parking lot is a rarity in Brooklyn — also valet and free garage options (novacircle). Cart-and-stamp-card service with ~200 mostly Chinese diners on weekends; arrive bright and early at 10:30am for best cart variety (Cinnamon Society). Phone (718) 765-0098. Single-level layout = stroller- and elder-friendly for group brunch.",
+    "notes": "MICHELIN Guide selection, 'Good cooking' designation — cart-service dim sum is the draw, with siu mai, shrimp cheung fun in sweet soy, black-bean spare ribs, and tea-leaf zongzi flagged as standouts (Michelin Guide). Expect 30-45 min waits on weekends if arriving after 11am; come early or take a number and walk Brooklyn Chinatown's 8th Ave while waiting (Yelp). Paid + free street parking nearby; 8th Ave Chinatown blocks have meters and side-street spots. Sunset Park location means it pairs with Bamboo Garden (Cantonese roast meats) and Industry City within a 10-min drive cluster. Carts plus live-tank seafood differentiate it from Bamboo Garden's roast-meat strength — order seafood off the printed menu in addition to cart dim sum.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://www.novacircle.com/spots/north-america/united-states/kings-county/brooklyn-municipality/new-york/east-harbor-seafood-palace-3c8887/about",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://eastharborseafoodpalace.us/",
+        "accessed": "2026-05-17"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:38:43.629Z"
+    "lastResearchedAt": "2026-05-17T09:56:53.067Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -6126,9 +6120,9 @@
   },
   {
     "id": "japan-village-industry-city",
-    "name": "Japan Village (Sunrise Mart + Food Hall)",
-    "desc": "20,000 sq ft Japanese marketplace inside Industry City — grocery, butcher, seafood, and an 11-vendor food hall.",
-    "longDesc": "Anchored by Sunrise Mart's full Japanese grocery (homemade tofu, yuba, soy milk, wagyu butcher, fresh seafood and sushi counter), Japan Village's food hall lines up 11 vendors covering miso bars, okonomiyaki, takoyaki, ramen, omakase sushi, Japanese pastries and teas. It's the strongest Japanese cluster in Brooklyn outside Manhattan and lives on the ground floor of Industry City Building 4, so it slots into any IC itinerary without re-parking.",
+    "name": "Japan Village",
+    "desc": "20,000 sq ft Japanese food hall + Sunrise Mart inside Industry City — ramen, soba, izakaya, depachika groceries",
+    "longDesc": "NYC's first true Japanese food hall, modeled on Tokyo's depachika basement markets. Inside Industry City you get Setagaya ramen, Gohei soba/udon, Hachi yakisoba/okonomiyaki, Shokusaido tempura/katsu, Moriya donburi, Café Japon pastries, and Wakuwaku izakaya for sake-and-skewers — plus the largest Sunrise Mart in NYC for matcha KitKats, specialty soy, and hard-to-find imports. Pairs natively with Brooklyn Kura: same building, zero drive time, same anchor parking.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -6136,46 +6130,42 @@
     "vibe": [
       "foodie",
       "curious",
-      "photo"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min (on-site, Building 4)",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
-    "notes": "Located at 934 3rd Ave, Brooklyn (Industry City Building 4). Weekend hours: Sat 11a-9p, Sun 11a-8p (Yelp, Sunrise Mart visit-us page). Food hall vendors include choose-your-own miso soup station, okonomiyaki, takoyaki, ramen, omakase sushi, and a Japanese pastry/tea stand (Gothamist, 6sqft). Sunrise Mart inside carries homemade tofu/yuba/soy milk, wagyu butcher, and a fresh seafood counter with sushi-grade fish. Park in IC's paid on-site lots ($5-15 weekend); no separate drive from IC required — pair with Tadaima, Makers Guild, or Sahadi's in the same stop.",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00 (food hall closes 20:30 Fri-Sat)",
+    "notes": "Located at 934 3rd Ave inside Industry City — block away from Brooklyn Kura, same complex parking (industrycity.com tenant page). Food hall vendors confirmed via Gothamist + Time Out + amNY coverage (Setagaya ramen, Gohei soba, Hachi okonomiyaki/yakisoba, Shokusaido katsu/tempura, Moriya donburi, Café Japon, Wakuwaku izakaya). Kuraichi sake/whiskey shop is the future-build that closes the loop with Brooklyn Kura's tour — sake tasting upstairs at Kura, retail bottle pickup downstairs at Kuraichi. Hours per official japanvillage.com: Sat 11-21, Sun 11-20.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.japanvillage.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/sunrise-mart/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://sunrisemart.com/pages/visit-us",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/japan-village",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T01:29:24.594Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T09:53:00.512Z"
   },
   {
     "id": "the-gutter-williamsburg",
@@ -10492,16 +10482,15 @@
   {
     "id": "pacificana",
     "name": "Pacificana",
-    "desc": "Cavernous old-school Sunset Park dim sum hall with rolling carts and a full Cantonese menu.",
-    "longDesc": "Second-floor banquet-hall-style room at 813 55th St (at 8th Ave) running classic cart-service dim sum — har gow, siu mai, cheung fun, taro puffs pushed past your table by aunties (eattheworldnyc.com). Backed by a deep Cantonese seafood menu for dinner; one of the last true cart dim sum experiences left in NYC. Best before 11am or right before service ends at 3:30pm to skip the family-party rush (Bklyner).",
+    "desc": "Cantonese banquet-hall dim sum, the original Sunset Park Chinatown anchor — open 8am Sat/Sun.",
+    "longDesc": "A 450–500 seat dim sum hall behind an unassuming 8th Ave-adjacent storefront, open since the early 2000s and widely cited as the oldest dim sum institution in Sunset Park Chinatown. Cart service from 8:00am on weekends — har gow, siu mai, fried garlic-chive buns, steamed rice rolls, roast pork — with a procession of steamer carts from the open kitchen. Expect a line by 10am on weekends; the 8–9:30am window is the move for an IC morning that still leaves the afternoon open.",
     "url": "http://pacificanabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
@@ -10509,34 +10498,34 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "08:00-15:30 dim sum, dinner to 23:00",
-    "notes": "813 55th St (at 8th Ave), 2nd floor, elevator + stairs (pacificanabrooklyn.com). Basement garage on 55th St ~$4 if you can grab a space; Sunday street parking is free but tight (Tripadvisor). Cart service weekends 8:00-15:30, weekdays 9:00-15:30. Phone (718) 871-2880. Cash-friendly. Pairs well with an IC visit before or after.",
+    "hoursWeekend": "Sat-Sun 08:00-22:00 (dim sum carts 08:00-15:30)",
+    "notes": "Sunset Park Chinatown's longest-running dim sum hall (since ~2004) and one of the few to hold a city-wide reputation (Bklyner, Time Out). 8:00am weekend opening is the differentiator — earlier than East Harbor (10am) and most Manhattan/Flushing halls, so it pairs well with an IC-anchored Saturday: dim sum 8:30–10:00, drive 8 min to IC for 10:30 plans. Cash + cards. Street parking on 55th/56th is feasible before 9am; after that try 8th Ave or the IC garages and walk over. Note: a 'Pacific Palace' listing exists at the same 813 55th St address on Yelp — same banquet space used for evening Cantonese seafood/banquet service under a sister/alternate name; daytime dim sum is still branded Pacificana (verify on arrival). Vegetarian dim sum (mushroom dumplings, taro, lo mai gai veg, turnip cake) is available but not extensive — flag the cart attendant. (sources: nyctourism.com, bklyner.com, timeout.com, yelp.com)",
     "sources": [
       {
-        "url": "http://pacificanabrooklyn.com/",
-        "accessed": "2026-05-16"
+        "url": "https://www.nyctourism.com/restaurants/pacificana-sunset-park/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://bklyner.com/where-to-go-for-the-dim-sum-in-sunset-park-sunset-park/",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/pacificana-sunset-park/",
-        "accessed": "2026-05-16"
+        "url": "https://www.timeout.com/newyork/restaurants/pacificana",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "http://www.eattheworldnyc.com/2008/11/pacificana.html",
-        "accessed": "2026-05-16"
+        "url": "http://pacificanabrooklyn.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1006410-Reviews-Pacificana-Brooklyn_New_York.html",
-        "accessed": "2026-05-16"
+        "url": "https://www.yelp.com/biz/pacific-palace-brooklyn-3",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:27:02.724Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:01:11.867Z"
   },
   {
     "id": "lucky-eight-restaurant",
@@ -23319,42 +23308,47 @@
   {
     "id": "park-asia",
     "name": "Park Asia",
-    "desc": "Grand Sunset Park Cantonese banquet hall with cart-style dim sum and live-tank seafood.",
-    "longDesc": "Park Asia is a high-ceilinged, big-window banquet room on 8th Ave that's been a Sunset Park dim sum anchor since 2005, with carts circling round tables on weekend mornings and live-tank Cantonese seafood (lobster, crab, fish) by night. The sticky-rice dumplings with pork are an Infatuation pick; expect a wait on weekend afternoons. Less critically beloved than East Harbor or Bamboo Garden a few blocks south, but the bright, airy room and easy 8th Ave parking make it the most pleasant cart-dim-sum experience on the strip.",
-    "url": "https://www.google.com/maps/place/Park+Asia/@40.6308,-74.0114,17z",
+    "desc": "Grand Cantonese dim sum hall with purple velvet chairs, chandeliers, and park-facing floor-to-ceiling windows.",
+    "longDesc": "Park Asia is the design statement of Sunset Park's 8th Avenue Chinatown — a cavernous Cantonese banquet room with slinky purple chairs, a glittering chandelier, and floor-to-ceiling windows looking out toward Sunset Park itself. Carts roll out classic har gow, siu mai, and signature purple taro sweet cakes that match the upholstery. The spacious high-ceilinged room is built for big round tables, late-morning sun, and unusually photogenic dim sum.",
+    "url": "https://www.parkasiabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
+      "photo",
       "foodie",
-      "chill"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "7 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "09:00-22:00",
-    "notes": "Cantonese seafood + cart dim sum at 6521 8th Ave, Sunset Park (parkasiabrooklyn.com, cert currently expired — link to Google Maps instead). Grand banquet room, lots of natural light, big round tables — great for a 4+ person sit-down (theinfatuation.com/new-york/reviews/park-asia). Signature: sticky-rice dumplings with pork. Anticipate a wait on weekend afternoons; arrive before 11:30 to skip the line. Street parking on 8th Ave is usually findable on weekends. ~7 min drive from Industry City via 3rd Ave → 65th St.",
+    "notes": "Floor-to-ceiling windows + purple velvet chairs + massive chandelier make this the photo-vibe pick in a dim sum corridor otherwise dominated by utilitarian Bamboo Garden / East Harbor (brokelyn.com, wanderlog). Cart service still runs on weekends; signature taro sweet cakes color-match the chairs. ~1.7 mi south of IC down 3rd Ave or 8th Ave; ample street parking in Sunset Park on weekend mornings. Phone (718) 833-1688.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/park-asia-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.parkasiabrooklyn.com/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://brokelyn.com/sunset-park-dim-sum/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://wanderlog.com/place/details/1291311/park-asia",
+        "accessed": "2026-05-17"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/park-asia",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://parkasia.goto-restaurants.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:50:12.302Z"
+    "lastResearchedAt": "2026-05-17T09:59:04.975Z"
   },
   {
     "id": "yi-ji-shi-mo-noodle-corp",
@@ -25445,9 +25439,9 @@
   },
   {
     "id": "other-half-brewing-centre-street",
-    "name": "Other Half Brewing — Centre Street",
-    "desc": "Flagship Brooklyn taproom for the cult IPA brewer; BYO food, no kitchen, ~6 min drive from IC.",
-    "longDesc": "Other Half's original Carroll Gardens/Red Hook/Gowanus-border taproom is a NEIPA-and-stout pilgrimage site with a rotating draft list and frequent can releases. There is no Other Half taproom inside Industry City itself — this 195 Centre St location is the closest one, about 2 miles north. The brewery does not serve food and explicitly does not run a regular food-truck rotation; patrons bring in or order delivery (Court Street Grocers, F&F Pizzeria, Via Roma are the house picks).",
+    "name": "Other Half Brewing — Centre Street Taproom",
+    "desc": "Flagship Brooklyn taproom from cult hazy-IPA brewer, 20 taps near Industry City",
+    "longDesc": "Other Half's original Brooklyn taproom pours 20 drafts of the hazy IPAs that put them on the national craft-beer map — Blue Crab, Dream in Green, Parquet Floors — plus oddballs like the Junior's Egg Cream Milk Stout and Key Lime Cheesecake IPA. No kitchen on-site, but the warehouse-feel space lets you bring in slices from F&F Pizzeria or sandwiches from Court Street Grocers. Easy ~10-min drive from Industry City and a strong beer counterpart for the Brooklyn Kura sake stop.",
     "url": "https://otherhalfbrewing.com/location/centre-street/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -25456,30 +25450,28 @@
       "chill",
       "foodie"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "Sat 10:00-00:00, Sun 11:00-21:00",
-    "notes": "Address: 195 Centre St, Brooklyn 11231. Weekend hours: Sat 10am–12am, Sun 11am–9pm (otherhalfbrewing.com/location/centre-street). No on-site food and no scheduled food-truck rotation — outside food welcome, delivery encouraged; Court Street Grocers/F&F Pizzeria/Via Roma recommended by venue. Itinerary contrast for engine: if user wants beer-AND-dinner under one roof, route to Threes/Gowanus or Strong Rope; if user wants top-tier IPAs with a planned food stop before/after, Other Half + Court Street Grocers takeout is the play. Street parking available but tight on weekends; brewery itself recommends F/G train (Smith-9th St) — for a driver coming from IC, allow 8-12 min plus parking hunt. Dog-friendly, kid-friendly when supervised, wheelchair accessible (otherhalfbrewing.com).",
+    "notes": "Address: 195 Centre St, Brooklyn, NY 11231 — sits on the Carroll Gardens/Gowanus/Red Hook border, two blocks from Smith-9th St subway (otherhalfbrewing.com). 20 draft beers plus wine, cider, soft drinks; BYO food or delivery encouraged (otherhalfbrewing.com). Street parking generally available on weekends though tight near Smith-9th — Hamilton Ave side easier (yelp.com). Note: there is no Other Half taproom inside Industry City itself; this Centre St flagship is the closest Other Half location and acts as the beer-anchor counterpart to Brooklyn Kura's sake brewery.",
     "sources": [
       {
         "url": "https://otherhalfbrewing.com/location/centre-street/",
-        "accessed": "2026-05-17T08:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/other-half-brewing-brooklyn",
-        "accessed": "2026-05-17T08:15:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/other-half-brewing-centre-street",
-        "accessed": "2026-05-17T08:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T08:22:23.909Z"
+    "lastResearchedAt": "2026-05-17T09:54:59.521Z"
   },
   {
     "id": "the-gutter-les",
