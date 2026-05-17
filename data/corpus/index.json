@@ -7399,15 +7399,15 @@
   {
     "id": "sunken-harbor-club",
     "name": "Sunken Harbor Club",
-    "desc": "Hidden 2nd-floor tropical cocktail bar above Gage & Tollner with award-winning tiki program.",
-    "longDesc": "Tucked above the historic Gage & Tollner on Fulton Street, Sunken Harbor Club is a nautically-themed craft cocktail destination led by Chief Cocktail Officer Garret Richard, co-author of a leading book on tropical cocktail techniques. Drinks lean rum-forward and theatrical, paired with raw bar happy hour ($13 oysters, $9 clams). Walk-in only, no reservations, 21+ after 7pm — the small upstairs room fills quickly on weekend nights.",
+    "desc": "Nautical 2nd-floor tiki cocktail bar above Gage & Tollner, walk-in only, Frizell's post-Fort-Defiance program.",
+    "longDesc": "Intimate nautical/tropical cocktail bar tucked on the 2nd floor above the historic Gage & Tollner restaurant in Downtown Brooklyn. After eight years as a weekly pop-up at St. John Frizell's Red Hook mainstay Fort Defiance, the Club anchored here in October 2021; cocktails are designed and executed by Chief Cocktail Officer Garret Richard, co-author of a notable cocktail techniques book. Walk-in only, first-come first-served, 21+ after 7pm — small room fills fast on weekends.",
     "url": "https://www.sunkenharbor.club/location/new-york/",
-    "photoUrl": "https://images.getbento.com/accounts/0d731b78b985c0b254905dfc5ed63d08/media/images/92124sunken-cream.png",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "romantic",
       "curious",
+      "romantic",
       "chill"
     ],
     "dietary": [],
@@ -7415,25 +7415,25 @@
     "duration": "60-90 min",
     "driveFromIC": "15 min",
     "hoursWeekend": "Fri-Sat 17:00-00:00, Sun 17:00-23:00",
-    "notes": "Walk-in only, no reservations — arrive at 5pm opening for seats on weekends or expect a wait (Yelp). 21+ after 7pm (sunkenharbor.club). Happy hour 3-5pm Fri-Sun on raw bar (search results). Street parking on Fulton/Smith is tough; Gage & Tollner area has paid garages. Pairs well with a pre-dinner stop in DUMBO or a Brooklyn Heights Promenade walk.",
+    "notes": "Cross-zone option — 15 min drive from IC, outside the Red Hook cluster, so use as a standalone evening anchor rather than slotting into a Red Hook track. Address: 372 Fulton St, 2nd Fl, Brooklyn NY 11201. Walk-in only — no reservations, expect a wait on weekends (yelp). Park in one of the Fulton Mall public garages; metered street parking is hard after 18:00. Phone (347) 689-3677. Photo not yet sourced — needs CDN lookup or AI background.",
     "sources": [
       {
         "url": "https://www.sunkenharbor.club/location/new-york/",
-        "accessed": "2026-05-17T16:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.gageandtollner.com/location/sunken-harbor-club/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sunken-harbor-club-brooklyn",
-        "accessed": "2026-05-17T16:15:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/bars/sunken-harbor-club",
-        "accessed": "2026-05-17T16:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T16:14:37.586Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:55:39.685Z"
   },
   {
     "id": "midnights-williamsburg",
@@ -8442,10 +8442,10 @@
   {
     "id": "pioneer-works",
     "name": "Pioneer Works",
-    "desc": "Free artist + scientist-led cultural center in a former Red Hook ironworks — galleries, garden, music",
-    "longDesc": "Nonprofit cultural center occupying a converted 19th-century ironworks at 159 Pioneer St, with three floors of free exhibitions, a sculpture garden, residencies, and a packed calendar of concerts, talks, and science programs. Open to the public Wednesday–Sunday 12–6pm with rotating contemporary art and an on-site cafe. Strong 'curious' anchor that balances Red Hook's food-heavy lineup and pairs cleanly with a Steve's Key Lime walk and a Brooklyn Crab dinner.",
+    "desc": "Free Red Hook art + science center with rotating exhibitions, residency studios, and a garden",
+    "longDesc": "Pioneer Works is a multidisciplinary nonprofit in a converted 1866 iron works featuring contemporary art exhibitions, a science studio, music programming, and visible artist-in-residence studios. Galleries and the garden are free and open Wed–Sun 12–6 pm. Slots in perfectly before a Valentino Pier sunset or a Red Hook Lobster Pound run.",
     "url": "https://pioneerworks.org/visit",
-    "photoUrl": "https://images.ctfassets.net/1aemqu6a6t65/6Pdy0C2L43rsHYSBQvSilf/115d3f965fb1278f4e246387fa0ab572/pioneer-works_9_courtesy?w=1200&h=800&q=75",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
@@ -8455,28 +8455,32 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "60-90 min",
-    "driveFromIC": "6 min",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "12:00-18:00",
-    "notes": "Free admission; galleries + garden open Wed–Sun 12–6pm (pioneerworks.org/visit). Address 159 Pioneer St, Red Hook (nyctourism.com). Concerts and special events ticketed separately via calendar. Weekend street parking generally open on Conover/Van Dyke; ~8-min walk to Steve's Key Lime, ~5-min drive to Brooklyn Crab. Closed Mon/Tue — confirm calendar before slotting into a track.",
+    "notes": "Free admission to galleries, garden, and artist studios (pioneerworks.org/visit). Closed Mon-Tue; open Wed-Sun 12-6pm — pair with Valentino Pier (0.4 mi / ~6 min walk) for sunset or Red Hook Lobster Pound for an early dinner. Street parking available; SpotHero lists nearby reservable lots (spothero.com). Check pioneerworks.org/calendar for opening receptions and Second Sundays which can extend hours.",
     "sources": [
       {
         "url": "https://pioneerworks.org/visit",
-        "accessed": "2026-05-17T16:30:00Z"
+        "accessed": "2026-05-17T17:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
-        "accessed": "2026-05-17T16:30:00Z"
+        "accessed": "2026-05-17T17:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/pioneer-works-red-hook",
-        "accessed": "2026-05-17T16:30:00Z"
+        "accessed": "2026-05-17T17:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/pioneer-works-parking",
+        "accessed": "2026-05-17T17:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T16:27:30.478Z"
+    "lastResearchedAt": "2026-05-17T17:01:54.706Z"
   },
   {
     "id": "louis-valentino-jr-park-pier",
@@ -30247,5 +30251,135 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T16:53:37.316Z"
+  },
+  {
+    "id": "steves-authentic-key-lime-pies",
+    "name": "Steve's Authentic Key Lime Pies",
+    "desc": "Waterfront walk-up window for the Swingle — frozen key lime pie on a stick, chocolate-dipped",
+    "longDesc": "Red Hook icon since 2001, tucked at the end of Van Dyke Street next to Louis Valentino Jr. Pier with full NY Harbor and Statue of Liberty views. The signature Swingle is a frozen mini key lime tart dipped in Belgian chocolate on a stick — a perfect post-sunset closer. Outdoor picnic tables, walk-up only, hours stretch later in fair weather (keylime.com).",
+    "url": "https://keylime.com/stores/locations/",
+    "photoUrl": "https://keylime.com/wp-content/uploads/2018/02/web.storefront_LadySwingle.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "foodie",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "11:00-20:00",
+    "notes": "Address: 185 Van Dyke St, Brooklyn NY 11231 (Yelp, Tripadvisor). One block from Valentino Pier so it pairs naturally with a sunset walk. Cash + card walk-up window, outdoor picnic tables only, no indoor seating. Weekend hours 11–8 but extend later on warm summer evenings — call (718) 858-5333 #102 to confirm (keylime.com). Street parking on Van Dyke / Coffey / Ferris is usually open on weekends since Red Hook has no subway. Swingle is the move; full pies and pie-by-the-slice also available.",
+    "sources": [
+      {
+        "url": "https://keylime.com/stores/locations/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/steve-s-authentic-key-lime-pie-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1599956-Reviews-Steve_s_Authentic_Key_Lime_Pies-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/dining-review-steves-key-lime-pie-obsession-in-red-hook-will-make-you-swingle/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T16:57:45.386Z"
+  },
+  {
+    "id": "red-hook-boaters-free-kayak",
+    "name": "Red Hook Boaters (Free Kayaking)",
+    "desc": "Free volunteer-run kayaking in the protected cove off Valentino Pier — Sundays 1-4pm, Thursdays 6-8pm (Jun-Sep).",
+    "longDesc": "All-volunteer nonprofit running free 20-minute kayak paddles inside the sheltered cove at Louis Valentino Jr. Pier Park since 2006. They provide kayaks, Coast Guard-approved PFDs, safety instruction, and on-water staff; you just show up, sign a waiver, and put your name on the list. Stunning low-angle views of the Statue of Liberty, Governors Island, and lower Manhattan from the water — a Saturfun-grade 'active' option that uses the same Valentino Pier anchor as the sunset track but flips it to daytime.",
+    "url": "https://www.redhookboaters.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "active",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min (incl. queue)",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "Sun 13:00-16:00 (Jun-late Sep); special City of Water Day mid-Jul",
+    "notes": "Launches from the small beach at Louis Valentino Jr. Pier Park, end of Coffey St in Red Hook. Completely free; first-come, first-served — arrive ~12:30pm on Sundays since the sign-up list fills fast and on-water time is capped at ~20 min/paddler when busy. Minors must paddle with a legal guardian present. 2025 published schedule: Sundays 1-4pm Jun 1-Sep 21, Thursdays 6-8pm Jun 5-Aug 14, plus City of Water Day Sat Jul 12 1-4pm (redhookboaters.org). 2026 dates not yet published as of May 17 — pattern is historically stable, confirm on their homepage before routing a user. Free street parking on Coffey/Ferris/Van Brunt is generally available even on summer weekends. Cancelled in bad weather/lightning. Pairs naturally as a morning/afternoon active stop before Hometown BBQ or a Valentino Pier sunset.",
+    "sources": [
+      {
+        "url": "https://www.redhookboaters.org/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.redhookboaters.org/general-info",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgeparents.com/free-kayaking-canoeing-and-boating-this-summer-in-brooklyn-and-lower-manhattan/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/sports-and-fitness/red-hook-boaters",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T16:59:58.938Z"
+  },
+  {
+    "id": "llama-inn-williamsburg-closed",
+    "name": "Llama Inn (Permanently Closed)",
+    "desc": "Erik Ramirez modern Peruvian shared-plates spot in Williamsburg — permanently closed March 2026.",
+    "longDesc": "Llama Inn, Chef Erik Ramirez's acclaimed modern Peruvian small-plates restaurant at 50 Withers St in Williamsburg, permanently closed on March 1, 2026 after nearly a decade. It had been a peer to Oxomoco for ambitious Latin tasting-quality dinner in north Brooklyn; the Manhattan sibling Llama San (West Village) remains the surviving Ramirez project. For an IC-proximate Peruvian fine-dining stop, this address is no longer usable — see enqueued alternatives.",
+    "url": "https://www.llamainnnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "30-45 min",
+    "driveFromIC": "n/a (closed)",
+    "hoursWeekend": "closed",
+    "notes": "CLOSED — Yelp and OpenTable both flag the venue as permanently closed as of May 2026 (yelp.com/biz/llama-inn-brooklyn). Prior format was shared small plates by Erik Ramirez; brunch Sat-Sun 11:00-15:30, dinner Sun-Wed 17:30-22:00, Thu-Sat 17:30-00:00 (llamainnnyc.com). Address was 50 Withers St, Brooklyn 11211 — roughly 18-22 min drive from Industry City via BQE. Do NOT route guests here; promote to itinerary blocked. Sibling Llama San (359 6th Ave, West Village) still operates and offers a Peruvian tasting menu but is Manhattan (~25-30 min from IC, tunnel-dependent).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/llama-inn-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/llama-inn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.llamainnnyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.llamainnnyc.com/about/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:03:42.259Z"
   }
 ]
