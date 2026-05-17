@@ -5910,8 +5910,8 @@
   {
     "id": "brooklyn-bowl-williamsburg",
     "name": "Brooklyn Bowl Williamsburg",
-    "desc": "16-lane bowling + live music venue with group lane reservations 10-200 guests, food/bev delivered lane-side",
-    "longDesc": "A combined bowling alley, concert hall, and Blue Ribbon-catered restaurant on Wythe Ave. Lanes book at $30/lane/30 min for up to 8 guests, with weekend Family Bowl open Sat 12-5pm and Sun 12-6pm; larger groups (10-200) reserve lane blocks that stay open during a concert — a unique VIP setup where bands play while you bowl. Full private buyouts are available via events@brooklynbowl.com for weddings, corporate, and bat/bar mitzvahs.",
+    "desc": "16-lane bowling alley + 600-cap concert hall + Blue Ribbon fried chicken under one Wythe Ave roof.",
+    "longDesc": "A sprawling 23,000 sq ft mashup of bowling, live music, and Southern food in a converted Williamsburg warehouse — 16 lanes line one wall while a full stage hosts touring bands, late-night DJs, and the all-ages Rock and Roll Playhouse. Blue Ribbon supplies the kitchen (fried chicken, mac, sliders), and weekends layer Family Bowl afternoons (free, 12pm–5/6pm) on top of ticketed shows and bookable lanes after dark.",
     "url": "https://www.brooklynbowl.com/brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5921,38 +5921,36 @@
       "chill",
       "foodie"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "1.5-3 hr",
+    "duration": "2-3 hr",
     "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 12:00-05:00 (next day), Sun 12:00-00:00 (Family Bowl: Sat 12-17, Sun 12-18)",
-    "notes": "Lane pricing $30/lane/30 min up to 8 guests + $5.95 shoe rental (brooklynbowl.com). Group reservations during concerts host 10-200 on lanes with Blue Ribbon food/bev runners (specialevents.livenation.com). Address 61 Wythe Ave, Brooklyn NY 11249. NOTE: contrary to common belief, no dedicated on-site parking lot — paid garages and street parking within walking distance, plan ~5-10 min buffer on weekends (yelp.com, brooklynbowl FAQ). Equidistant to Bedford Ave L and Nassau G if guests want to skip driving. For Saturfun's group-booking track, this is a higher-capacity, livelier alternative to The Gutter — Gutter is craft-beer-divey, Brooklyn Bowl is concert-venue-scale.",
+    "hoursWeekend": "Sat 11:00-02:00, Sun 12:00-close",
+    "notes": "16 lanes; Family Bowl free on weekends Sat 12-5pm / Sun 12-6pm — lanes after that are reservable and shows ticketed (brooklynbowl.com). No on-site parking; paid garages + street parking walking distance, easier on weekend mornings than show nights (brooklynbowl.com FAQ). Kitchen by Blue Ribbon — order fried chicken even if you're just here for a band.",
     "sources": [
       {
-        "url": "https://www.brooklynbowl.com/brooklyn-bowling",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://specialevents.livenation.com/venues/brooklyn-bowl-williamsburg",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://www.brooklynbowl.com/brooklyn-faqs",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T11:05:00Z"
       },
       {
-        "url": "https://www.brooklynbowl.com/brooklyn-special-events",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.brooklynbowl.com/brooklyn",
+        "accessed": "2026-05-17T11:05:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/brooklyn-bowl/",
+        "accessed": "2026-05-17T11:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/brooklyn-bowl-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T11:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T11:01:38.183Z"
+    "lastResearchedAt": "2026-05-17T11:05:32.198Z"
   },
   {
     "id": "sip-and-play-park-slope",
@@ -11498,37 +11496,48 @@
   {
     "id": "royal-palms-shuffleboard-club",
     "name": "Royal Palms Shuffleboard Club",
-    "desc": "Indoor shuffleboard hall with 10 courts, full bar, and a rotating food truck parked inside.",
-    "longDesc": "A Gowanus anchor since 2014, Royal Palms turned shuffleboard into a date-night sport with 10 regulation courts, palm-trimmed decor, and a long bar. A single food truck parks inside the warehouse and rotates weekly, so the menu changes every visit. Walk-ins are accepted but courts ($40/hr, up to 8 players) fill fast on weekend nights — reservations on the site are the move.",
-    "url": "https://www.royalpalmsshuffle.com/",
+    "desc": "10-court tiki-tropical shuffleboard bar in Gowanus with rotating food trucks and a 21+ door policy.",
+    "longDesc": "A 17,000 sq ft indoor shuffleboard hall styled like a 1960s Florida retirement community, with ten regulation courts you can grab walk-in for $60 (first-come, first-served) plus a full cocktail bar and a rotating food-truck residency parked inside. Strictly 21+ except on designated Family Sundays or full-venue buyouts, and outside food beyond cakes is prohibited — so it's a destination, not an add-on. Open Sat 12pm-1am and Sun 12pm-8pm; reserve parking via mpgparking.com or grab a street spot, otherwise it's a short walk from the R at Union St or F/G at Carroll.",
+    "url": "https://www.royalpalmsbrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "gowanus",
+    "zone": "park-slope",
     "vibe": [
       "active",
-      "chill",
-      "photo"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "90-120 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 1pm-2am, Sun 1pm-12am",
-    "notes": "514 Union St, Brooklyn NY 11215 — ~2.5 mi / ~10 min drive from Industry City via 3rd Ave. Street parking is the norm; the surrounding Gowanus blocks (Union/Nevins/Bond) are usually findable on weekends, easier than Park Slope. Courts cost $40/hr per court (up to 8 players); reservations strongly recommended Fri-Sat after 7pm (royalpalmsshuffle.com). Rotating food truck schedule is posted weekly under 'Truck' on the site. This venue is the canonical reason Gowanus needs its own zone — calling it 'park-slope' or 'carroll-gardens' obscures that it clusters with Threes Brewing, Powerhouse Arts, and the new Gowanus Mile waterfront.",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-20:00",
+    "notes": "514 Union St, Brooklyn 11215, on the Gowanus/Park Slope border at Union & Nevins (royalpalmsbrooklyn.com FAQ). Walk-in court rental is $60 first-come, first-served; cabana parties priced by guest count + beverage package (royalpalmsbrooklyn.com/faqs). Strict 21+ except Family Sundays or buyouts — verify before bringing under-21 friends. No outside food allowed except cakes/sweets; rotating food-truck parked inside handles dinner. Parking: street or pre-book mpgparking.com/attraction/royal-palms; SpotHero also lists nearby garages (spothero.com). Great for a 90-120 min anchor stop, easy to pair with Threes Brewing or a Park Slope dinner after.",
     "sources": [
       {
-        "url": "https://www.royalpalmsshuffle.com/",
-        "accessed": "2026-05-17T08:35:00Z"
+        "url": "https://www.royalpalmsbrooklyn.com/faqs",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.royalpalmsshuffle.com/brooklyn",
-        "accessed": "2026-05-17T08:35:00Z"
+        "url": "https://www.royalpalmsbrooklyn.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/the-royal-palms-shuffleboard-club",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/royal-palms-shuffleboard-club-gowanus/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/the-royal-palms-shuffleboard-club-parking",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T08:43:17.718Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:07:37.902Z"
   },
   {
     "id": "brooklyn-strategist",
@@ -25717,44 +25726,50 @@
   {
     "id": "babys-all-right",
     "name": "Baby's All Right",
-    "desc": "280-cap indie club + restaurant on Broadway near Bedford — emerging-artist bookings and a late-dinner bar.",
-    "longDesc": "A 5,000-sq-ft three-room spot (live room, front lounge, restaurant) inside the old Hygrade Food Products hot-dog plant, open since 2013. The 250-280-cap show room has hosted SZA, Mac DeMarco, Charli XCX, Courtney Barnett, and Billie Eilish on the way up, and weekend programming swings from indie rock to jazz, electronic, and experimental. Kitchen and bar run alongside shows so you can eat without a separate stop.",
+    "desc": "280-cap South Williamsburg indie venue with Latin-leaning kitchen open till 4am",
+    "longDesc": "Hybrid bar/restaurant/performance space at 146 Broadway off Bedford, occupying ~5,000 sq ft with a 280-capacity general-admission room behind a full dining room. Programming spans indie rock, jazz, electronic, R&B and the occasional comedy night, with a Latin American small-plates menu plus weekend brunch. Kitchen runs late so a 7pm dinner rolls straight into a 9-10pm early set without leaving the building.",
     "url": "https://babysallright.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "2-3 hr",
+    "duration": "90-120 min",
     "driveFromIC": "18 min",
-    "hoursWeekend": "17:00-04:00",
-    "notes": "146 Broadway at Bedford Ave, South Williamsburg; 280-cap indie venue + bar + restaurant in former Hygrade hot-dog plant (Wikipedia). Booking leans emerging/discovery — pre-fame stops by SZA, Charli XCX, Billie Eilish (nyctourism.com). Three rooms: Live Room, Front Lounge, Restaurant (babysallright.com). ~18 min drive from IC via BQE; street parking weekends is doable but tighter than Red Hook — leave buffer. Confirm doors/showtime per event on Seetickets calendar.",
+    "hoursWeekend": "18:00-04:00",
+    "notes": "146 Broadway near Bedford Ave, South Williamsburg (Yelp). 280-capacity since 2013, has hosted early sets from Mitski, Japanese Breakfast and Porches (Wikipedia/IndieOnTheMove). Mostly GA standing with clear sightlines. Street parking tight on weekends — SpotHero has garages along Bedford/S 6th. Phone 1-718-599-5800. Cover varies by show; some early sets and DJ nights run free or low-cover (source).",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Baby's_All_Right",
-        "accessed": "2026-05-17T08:35:00Z"
-      },
-      {
         "url": "https://babysallright.com/",
-        "accessed": "2026-05-17T08:35:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/nightlife/babys-all-right-williamsburg/",
-        "accessed": "2026-05-17T08:35:00Z"
+        "url": "https://en.wikipedia.org/wiki/Baby%27s_All_Right",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://thevendry.com/venue/160383/babys-all-right-brooklyn-ny",
-        "accessed": "2026-05-17T08:35:00Z"
+        "url": "https://www.yelp.com/biz/babys-all-right-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.indieonthemove.com/venues/babys-all-right-brooklyn-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/baby-s-all-right-parking",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:35:31.408Z"
+    "lastResearchedAt": "2026-05-17T11:12:09.673Z"
   },
   {
     "id": "gowanus-gardens",
@@ -26992,5 +27007,44 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T10:59:32.600Z"
+  },
+  {
+    "id": "spare-room-at-the-gutter",
+    "name": "Spare Room at The Gutter",
+    "desc": "1,000 sqft private back room at Williamsburg's vintage bowling bar — BYO DJ, stocked bar, hidden behind the bathrooms",
+    "longDesc": "Tucked behind the lanes at The Gutter Williamsburg, the Spare Room is a roughly 1,000 sqft private event space with its own bar, stage, and turntables/digital dock for guests to spin their own sets (bandnada.com). It hosts live music, comedy, and karaoke on public nights but flips to private buyouts for birthdays, bachelor/ette parties, and group hangs, with the option to add lanes in the main bowling room ($35/half hr per lane on weekends, per gutterbarbowl.com). The 'secret show room behind the bathrooms' framing makes it a great photo + chill anchor for a North Williamsburg track, especially paired with nearby food and drinks within a few blocks.",
+    "url": "https://gutterbarbowl.com/spareroom",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-4 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Fri 14:00-04:00, Sat-Sun 12:00-04:00",
+    "notes": "200 N 14th St, Brooklyn NY 11211; 21+ at all times (gutterbarbowl.com/williamsburg). Spare Room is the private buyout space behind the lanes — fully stocked bar, BYO DJ on turntables/digital, stage for live sets (bandnada.com/b/gutterspareroom). Best for group bookings of ~30-80; pair with vintage bowling next door for a single-stop track. Weekend parking is street-only and competitive — recommend rideshare for groups or arriving by 5pm on Saturday. Contact: 718-387-3585.",
+    "sources": [
+      {
+        "url": "https://gutterbarbowl.com/spareroom",
+        "accessed": "2026-05-17T11:05:00Z"
+      },
+      {
+        "url": "https://gutterbarbowl.com/williamsburg",
+        "accessed": "2026-05-17T11:05:00Z"
+      },
+      {
+        "url": "https://bandnada.com/b/gutterspareroom",
+        "accessed": "2026-05-17T11:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:10:07.410Z"
   }
 ]
