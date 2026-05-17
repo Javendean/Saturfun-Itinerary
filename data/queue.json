@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Junior's Restaurant & Cheesecake — 386 Flatbush Ave Ext, Downtown Brooklyn (Fri/Sat until midnight)",
-    "reason": "Iconic Brooklyn cheesecake institution; perfect 11pm-midnight dessert anchor for a Downtown Brooklyn / Fort Greene track even though it closes before 3am",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:30:12.796Z"
-  },
-  {
-    "topic": "7th Avenue Donuts — 24-hour Park Slope diner with fresh donuts and pie",
-    "reason": "Fills the truly-overnight (1am-6am) dessert gap that Insomnia can't cover; second Park Slope anchor for the late tier",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:30:12.796Z"
-  },
-  {
-    "topic": "Bay Ridge kunafa & baklava — late-night Middle Eastern dessert cluster on 5th Ave around 70s-80s",
-    "reason": "Underrepresented zone in the corpus; Bay Ridge sweet shops routinely run past 1am on weekends and add a non-Western dessert profile to the night tier",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:30:12.796Z"
-  },
-  {
-    "topic": "Burrow Dumbo Japanese hidden bakery cheesecake",
-    "reason": "True late-afternoon Japanese pastry counter in Dumbo (~10 min from IC) — keeps Japanese-pastry angle alive if Tomoko's earlier close kills the after-dinner slot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:32:35.060Z"
-  },
-  {
-    "topic": "L'Appartement 4F Brooklyn Heights French bakery croissant",
-    "reason": "Brings a strict-French viennoiserie option into the driving cluster; complements Tomoko's fusion lens with classic technique",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:32:35.060Z"
-  },
-  {
     "topic": "Win Son Bakery East Williamsburg Taiwanese-American",
     "reason": "Different Asian-European dessert axis (mochi donuts, Taiwanese milk bread) in the same Williamsburg cluster, evening hours friendlier than Tomoko's 8pm cap",
     "requestedBy": "agent",
@@ -12172,5 +12142,95 @@
     "reason": "Diversifies Japanese-dessert coverage beyond pure shaved-ice if user wants a refined cake-shop variant within 20 min drive",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T18:49:26.828Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook late-night brisket",
+    "reason": "Another iconic Brooklyn food anchor with weekend late hours; sits on Red Hook track but pairs with any meat-forward foodie itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:51:27.703Z"
+  },
+  {
+    "topic": "Brooklyn Heights Promenade nighttime skyline walk",
+    "reason": "Perfect 20-min post-dessert stroll from Junior's — free, romantic, photo vibe, completes a Downtown Brooklyn evening loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:51:27.703Z"
+  },
+  {
+    "topic": "BAM Harvey Theater / BAM Rose Cinemas evening shows",
+    "reason": "Steps from Junior's; cultural pre-dessert anchor for a Fort Greene/Downtown Brooklyn evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:51:27.703Z"
+  },
+  {
+    "topic": "Kellogg's Diner Williamsburg — 24-hour diner reopened with elevated menu",
+    "reason": "Adds a second truly-overnight anchor in a different zone (Williamsburg) so late-tier isn't Park-Slope-only",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:53:18.587Z"
+  },
+  {
+    "topic": "Tom's Restaurant Prospect Heights — classic Brooklyn breakfast counter with pancakes and pie",
+    "reason": "Daytime/early-morning complement to 7th Ave Donuts; expands Prospect Heights cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:53:18.587Z"
+  },
+  {
+    "topic": "Court Street Grocers late-night sandwich window Carroll Gardens",
+    "reason": "Different late-night food register (savory sandwiches) in a 10-min-from-IC zone to diversify the after-hours options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:53:18.588Z"
+  },
+  {
+    "topic": "Nablus Sweets, 6812 5th Ave Bay Ridge — Palestinian kunafa specialist",
+    "reason": "Daytime/early-evening counterpart to Laza on the same 5th Ave Levantine strip; covers the pre-9pm slot Laza doesn't (Laza opens 2pm but most kunafa demand is afternoon). Fills out the Bay Ridge dessert subzone.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:56:49.057Z"
+  },
+  {
+    "topic": "Tanoreen, 7523 3rd Ave Bay Ridge — celebrated Palestinian dinner restaurant with knafeh",
+    "reason": "Anchors a full Bay Ridge dinner+dessert track: sit-down savory Levantine cuisine featured by NYC Tourism for its knafeh tradition. Currently no upscale Middle Eastern dinner spot in the corpus south of Park Slope.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:56:49.057Z"
+  },
+  {
+    "topic": "Qahwah House Bay Ridge, 8602 4th Ave — Yemeni coffee house open Fri/Sat until 1am",
+    "reason": "Adds late-night non-alcoholic Yemeni coffee profile (Adeni chai, Yemeni latte) — a category absent from the corpus. Pairs naturally with Laza for a two-stop Middle Eastern night route, both reachable in one Bay Ridge drive.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:56:49.057Z"
+  },
+  {
+    "topic": "Lady Wong Dumbo or LES weekend Japanese-Southeast-Asian pastry hours",
+    "reason": "Weekend-open alternative for the Japanese/Asian pastry slot Burrow can't fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:58:56.200Z"
+  },
+  {
+    "topic": "Choco Choco Dumbo weekend bakery cheesecake hours",
+    "reason": "Direct Dumbo weekend swap if Burrow blocked by closure",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:58:56.200Z"
+  },
+  {
+    "topic": "Bakeri Greenpoint or Williamsburg Saturday afternoon pastry",
+    "reason": "Adjacent weekend pastry counter inside the 15-min-drive cluster from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:58:56.200Z"
+  },
+  {
+    "topic": "L'Apero by L'Appartement 4F natural wine bar Brooklyn Heights evening",
+    "reason": "Same address but different operating mode (Wed-Sat 6-10pm) — covers the evening slot a morning croissant run can't fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:00:56.687Z"
+  },
+  {
+    "topic": "Books Are Magic Brooklyn Heights / Cobble Hill independent bookstore",
+    "reason": "Adjacent Montague-area walkable stop after a 4F morning; expands the Heights cluster with a curious/chill vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:00:56.687Z"
+  },
+  {
+    "topic": "Brooklyn Heights Promenade waterfront viewpoint and photo walk",
+    "reason": "Free photo-vibe anchor 6 min walk from 4F; ties the Heights cluster together with a post-pastry skyline walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T19:00:56.687Z"
   }
 ]

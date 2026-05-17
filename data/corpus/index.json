@@ -9682,47 +9682,46 @@
   {
     "id": "burrow-dumbo",
     "name": "Burrow",
-    "desc": "Hidden DUMBO lobby pastry shop blending French technique with Japanese sensibility — strawberry shortcake, portrait cookies, seasonal cakes",
-    "longDesc": "Tucked inside the lobby of 68 Jay Street in DUMBO, Burrow is pastry chef Ayako Kurokawa's quiet workshop where classic French recipes meet Japanese and American influences. The strawberry shortcake is the signature — light, layered, never cloying — alongside artist-grade portrait cookies and sculptural seasonal cakes. Like Tadaima, it sells out fast and keeps short, idiosyncratic hours, so going early matters.",
+    "desc": "Unmarked Japanese-French pastry counter in a Dumbo lobby — but weekday-only, closed weekends",
+    "longDesc": "Burrow is a tiny, signless pastry counter tucked in the lobby of 68 Jay Street, run by chef Ayako Kurokawa, who fuses French/American technique with Japanese flavor — tall pillowy cheesecake, gateau Basque, matcha madeleines, Mont Blanc, layered cakes. The catch: it operates Tuesday–Friday 10:00–14:00 only, with no weekend hours, so it cannot anchor a Saturfun late-afternoon weekend slot despite being a perfect Japanese-pastry pick on paper.",
     "url": "https://www.burrow.nyc/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "foodie",
-      "curious",
-      "photo"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "20-30 min",
-    "driveFromIC": "17 min",
-    "hoursWeekend": "Sat 13:00-17:00, closed Sun",
-    "notes": "Premise correction: Burrow is NOT in Industry City — it lives in the lobby of an industrial building at 68 Jay St, DUMBO (behindthescenesnyc.com). Reaching it from IC is a ~17 min drive up the BQE; weekend street parking around Jay/Front is workable mid-morning, harder after noon. Owner Ayako Kurokawa trained in classic French pastry but bakes with Japanese restraint — matcha, yuzu, and seasonal Japanese fruit show up rotationally (burrow.nyc). Saturday-only weekend window: 1-5 PM, and like Tadaima they routinely sell out before close, so don't make this the only backup. Sunday closed — if Tadaima sells out on a Sunday, route to a different alternate instead.",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Closed Sat-Sun (Tue-Fri 10:00-14:00 only)",
+    "notes": "BLOCKER for weekend use — Burrow is closed Sat & Sun (nbktimes.com, brooklyneagle.com). Open only Tue-Fri 10:00-14:00 with no signage at 68 Jay St in Dumbo; cakes ~$8, cookies $5/two. If the Japanese-pastry angle must survive the weekend slot after Tomoko's early close, route to a weekend-open alternative (Lady Wong, Patisserie Tomoko hours-check, or Choco Choco) — Burrow itself can only be slotted into a Fri afternoon plan.",
     "sources": [
       {
-        "url": "https://www.burrow.nyc/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://nbktimes.com/en/food-and-drink/burrow/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2018/08/10/hidden-bakery-becomes-pastry-destination-in-dumbo/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.behindthescenesnyc.com/burrow-pastry-shop-in-dumbo/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/burrow-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://brooklyneagle.com/72043/hidden-bakery-becomes-pastry-destination-in-dumbo/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://foursquare.com/v/burrow/52b204c0498efe3c3be32d91",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:33:08.941Z"
+    "lastResearchedAt": "2026-05-17T18:58:56.144Z"
   },
   {
     "id": "nazz-forge",
@@ -32019,5 +32018,185 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T18:49:26.804Z"
+  },
+  {
+    "id": "juniors-restaurant-cheesecake-downtown-brooklyn",
+    "name": "Junior's Restaurant & Cheesecake",
+    "desc": "Iconic 1950 Brooklyn diner & bakery — NY-style cheesecake open until midnight Fri/Sat",
+    "longDesc": "Founded by Harry Rosen in 1950 at the corner of Flatbush Ave Ext and DeKalb, Junior's is the original home of New York-style cheesecake — dense, sour-cream-topped, and still baked on site. Beyond cheesecake, the menu is full-service Jewish deli diner: steakburgers, pastrami, matzo ball soup, and an iconic strawberry cheesecake. Open till midnight on Friday and Saturday nights, it's one of the few classic NYC dessert anchors that holds an 11pm slot without rushing you out.",
+    "url": "https://www.juniorscheesecake.com/pages/brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "Fri-Sat 07:00-00:00, Sun 07:00-23:00",
+    "notes": "Original 1950 flagship at 386 Flatbush Ave Ext + DeKalb Ave (source: juniorscheesecake.com/pages/brooklyn). Fri/Sat close at midnight, Sun closes 11pm (source: Yelp listing, May 2026). Phone (718) 852-5257. Parking is mostly metered street + a couple paid lots on DeKalb/Hudson; on weekends after 10pm street parking opens up considerably. Drive from Industry City: Gowanus Expy → Atlantic Ave → Flatbush, ~15-18 min late evening. Pair with BAM, Atlantic Terminal, or a Brooklyn Heights Promenade nightcap. Cash + card; no reservations needed for late-night dessert seating at the counter.",
+    "sources": [
+      {
+        "url": "https://www.juniorscheesecake.com/pages/brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/juniors-restaurant-brooklyn-7",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Junior's",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.downtownbrooklyn.com/listing/juniors/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:51:27.675Z"
+  },
+  {
+    "id": "7th-avenue-donuts",
+    "name": "7th Avenue Donuts & Diner",
+    "desc": "24/7 Park Slope luncheonette with house-made donuts, pie, and full diner menu — the truly-overnight pick.",
+    "longDesc": "Family-run since 1977 at 324 7th Ave, this old-school Park Slope counter cranks out fresh donuts on the premises around the clock and pairs them with a full diner menu — eggs, pancakes, burgers, gyros, and pie at any hour. It's the rare Brooklyn spot that genuinely never closes, so the 1am-6am dessert/coffee gap that Insomnia Cookies can't cover is yours. Cash-friendly, no-frills booths, fluorescent lights — exactly the vibe you want at 3am.",
+    "url": "http://www.7thavenuedonutsanddiner.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Open 24 hours",
+    "notes": "Located at 324 7th Ave (between 8th/9th St), Park Slope. Open 24/7, 365 days (yelp.com, tripadvisor.com). Donuts made on-premises for 35+ years (bklyner.com). Diner menu includes breakfast all day, burgers, gyros, sandwiches, pies. Street parking on 7th Ave or side streets is workable late-night/early-morning — easier than peak weekend brunch hours. Pairs perfectly with a late Park Slope tier alongside Insomnia Cookies; fills the 1am-6am window Insomnia closes for.",
+    "sources": [
+      {
+        "url": "http://www.7thavenuedonutsanddiner.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/7th-avenue-donuts-and-dinner-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4007828-Reviews-7th_Avenue_Donuts_Luncheonette-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/7-reasons-to-love-7th-avenue-donuts-parkslopestoop/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:53:18.561Z"
+  },
+  {
+    "id": "laza-dessert-cafe-bay-ridge",
+    "name": "Laza Dessert Cafe",
+    "desc": "Late-night Bay Ridge kunafa cafe — Ocky Way kunefe & Dubai chocolate kunafa, open Fri/Sat until 3am.",
+    "longDesc": "Halal Middle Eastern dessert cafe on Bay Ridge's 5th Ave Levantine strip, rebranded from 'Chocolate Factory' but still locally known by that name. Specializes in fresh-to-order kunafa: the signature 'Ocky Way Kunefe' arrives with hot steamed milk poured tableside, alongside a Dubai-chocolate kunafa bar made in-house, kunafa waffles, crepes and shakes. Hours run to 2-3am every night except Wednesday, making it one of the only dessert-first late-night options reachable from Industry City without crossing into Manhattan.",
+    "url": "https://lazadessert.cafe/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Fri 14:00-03:00, Sat 14:00-03:00, Sun 14:00-02:00",
+    "notes": "Schema gap: Bay Ridge is not in the zone enum — mapped to industry-city since IC anchors the trip and is the closest existing zone (~3 mi via 3rd/4th Ave). Address: 6740 5th Ave, Brooklyn NY 11220 (between 67th-68th St; one block south of the brief's 70s-80s target but the only true late-night kunafa on the strip — Brooklyn Baklava @ 7214 and Antepli @ 7216 both close at 9pm). Formerly 'Chocolate Factory' / 'Laza by Chocolate Factory'; legacy name still surfaces on Yelp, DoorDash, Seamless. Weekend street parking on 5th Ave or side streets is realistic past 10pm. Closed Wednesdays. Halal-certified per Zabihah. Pair with a savory stop at Tanoreen or Yemen Cafe for a full Bay Ridge Levantine track. (sources: lazadessert.cafe, yelp.com/biz/laza-dessert-cafe-brooklyn-2, zabihah.com)",
+    "sources": [
+      {
+        "url": "https://lazadessert.cafe/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/laza-dessert-cafe-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.zabihah.com/restaurants/cbf4e12d-7767-11ef-95ae-6045bdeb9f57/laza-by-chocolate-factory-bay-ridge-ny",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.seamless.com/menu/laza-by-chocolate-factory-6740-5th-ave-brooklyn/6837248",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:56:49.032Z"
+  },
+  {
+    "id": "lappartement-4f-brooklyn-heights",
+    "name": "L'Appartement 4F",
+    "desc": "Parisian-trained bakery on Montague St — hand-rolled croissants and slow-fermented sourdough.",
+    "longDesc": "Husband-and-wife team Ashley Coifman and Gautier Coiffard's Brooklyn Heights flagship recreates a Paris apartment-kitchen aesthetic with strict French viennoiserie technique. Expect a line out the door for their lamination-perfect butter croissants, kouign-amann, tahini chocolate chip cookies, and naturally-leavened country loaves. Weekend service is morning-only (8am–4pm), so plan it as the first stop on a Heights/Dumbo cluster.",
+    "url": "https://www.lappartement4f.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "08:00-16:00",
+    "notes": "115 Montague St, Brooklyn NY 11201; (347) 599-0006 (lappartement4f.com). Weekend hours Sat-Sun 8am-4pm — morning-only, plan as first cluster stop. Signature: hand-rolled croissants, kouign-amann, slow-fermented sourdough, tahini chocolate chip cookies (Yelp; Craft to Crumb). Small facility handles nuts — flag allergies. Street parking in Brooklyn Heights is tight on Saturdays; Sundays easier with alternate-side suspended. Same address hosts L'Apero natural wine bar Wed-Sat 6-10pm (separate evening concept).",
+    "sources": [
+      {
+        "url": "https://www.lappartement4f.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/l-appartement-4f-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://crafttocrumb.com/lappartement-4f-otherworldly-croissants-in-brooklyn-ny/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/lappartement-4f",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:00:56.655Z"
   }
 ]
