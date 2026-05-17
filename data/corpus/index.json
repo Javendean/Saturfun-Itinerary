@@ -2207,10 +2207,10 @@
   {
     "id": "brooklyn-game-knight",
     "name": "Brooklyn Game Knight",
-    "desc": "Tabletop lounge with 350+ board games right inside Industry City Building 6",
-    "longDesc": "A casual board game cafe and retail shop on the second floor of IC's Building 6 with 350+ titles, from quick card games to deep strategy. Knowledgeable staff recommends games for any group size, and you can either play on-site or borrow titles to take away (industrycity.com, brooklyngameknight.com).",
+    "desc": "Board game cafe inside Industry City — 300+ game library, $12 for 4 hours, BYO IC food.",
+    "longDesc": "Sunset Park's first dedicated tabletop lounge, opened inside Industry City Building 6. $12 per person grants 4 hours of walk-in play from a curated 300+ game library spanning Catan and Ticket to Ride to heavier strategy and dice games. No kitchen on-site, but they explicitly invite players to bring in food and drinks from any IC vendor, making this the strongest Manhattan-board-game-cafe alternative for an IC-anchored day.",
     "url": "https://www.brooklyngameknight.com/",
-    "photoUrl": "",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/64c93c4b45485836674313ac/b9d9f13e-7642-4046-9e74-6f3eaefbf74f/MP2_0280._GRAND_OPEN_RD1v4.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
@@ -2219,32 +2219,32 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "90-120 min",
-    "driveFromIC": "0 min",
-    "hoursWeekend": "14:00-22:00",
-    "notes": "Located inside Industry City, Building 6, Floor 2 — 86 34th St (entrance at 68 34th St) (industrycity.com). 350+ games across casual and strategy categories; staff helps pick games (yelp; boardgamecafebar.com). Weekend hours Sat-Sun 2pm-10pm (brooklyngameknight.com/about). Driving moot — same campus, walk from IC parking. No food/drink menu surfaced on official site, so dietary tags left empty pending in-person verify.",
+    "duration": "2-4 hr",
+    "driveFromIC": "0 min (on-site, Building 6 Floor 1)",
+    "hoursWeekend": "Sat-Sun 14:00-22:00",
+    "notes": "$12/person for 4 hours of walk-in play; 300+ games from light card games to heavy strategy (timeout.com, brooklynpaper.com). BYO food and drinks from any IC vendor — pairs naturally with Japan Village or IC food hall. Tutorial Tuesdays and RPG Sundays are themed events, but weekend afternoons are general open play. Weekend parking via IC's on-site garages. This is the on-site IC answer to Manhattan's The Uncommons — no need to cross the bridge.",
     "sources": [
       {
-        "url": "https://www.brooklyngameknight.com/about",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.brooklyngameknight.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/brooklyn-game-knight/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.boardgamecafebar.com/brooklyn-game-knight-brooklyn-ny-usa",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.timeout.com/newyork/things-to-do/brooklyn-game-knight",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/brooklyn-game-knight-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.brooklynpaper.com/brooklyn-game-knight-opens-industry-city/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:16:43.175Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T09:01:29.037Z"
   },
   {
     "id": "carreau-club",
@@ -5951,8 +5951,8 @@
   {
     "id": "sip-and-play-park-slope",
     "name": "Sip & Play",
-    "desc": "Park Slope's first board game cafe — 500+ titles, boba/beer/coffee, $12 per 3-hr weekend session.",
-    "longDesc": "Sip & Play is the Park Slope sibling concept to Manhattan's Hex & Company — a dedicated board game cafe with a 500+ game library on 5th Ave between 10th and 11th Streets. Weekends run $12/person (or $15 with reservation) for a 3-hour table; the kitchen pairs sandwiches and salads with bubble tea, Joe Coffee, and beer. Casual, family/friends energy with reservations strongly recommended Fri–Sun.",
+    "desc": "Park Slope board game cafe with 500+ games, boba, beer, and sandwiches",
+    "longDesc": "Brick-lined Park Slope cafe with a 500+ board game library spanning party classics to deep euros, plus a full kitchen running sandwiches, salads, bubble tea, beer, and wine. Table-play is $12 per person for three hours on weekends (walk-ins welcome, reservations $15/pp guarantee a table). The closest true Hex & Co analog in Brooklyn — and a ~10 min drive from Industry City.",
     "url": "https://www.sipnplaynyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5965,36 +5965,32 @@
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "2-3 hr",
-    "driveFromIC": "11 min",
-    "hoursWeekend": "Sat 10:00-24:00, Sun 10:00-23:00",
-    "notes": "Pivoted from topic 'Hex & Company Park Slope' — Hex has no Brooklyn location; Sip & Play is the true Park Slope sibling concept (timeout.com confirms 'Park Slope's first board game cafe', 2020). 3-hr block pricing: $10 weekdays, $12 Fri–Sun walk-in, $15 with reservation via Tock (sipnplaynyc.com). 500+ game library (yelp/sipnplaynyc.com). Drinks include boba, Joe Coffee partnership, and beer (joe.coffee location page). Street parking only — 5th Ave Park Slope is metered weekends; side streets like 11th/12th typically open up. Drive from IC is ~2 mi up 4th Ave, ~10-12 min off-peak. Kitchen closes 2.5-3 hrs before bar close — order food early on weekend nights (sipnplaynyc.com).",
+    "duration": "3 hr",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 10:00-00:00, Sun 10:00-23:00",
+    "notes": "Note: Hex & Co has no Brooklyn location (only Morningside Heights, UES, and Union Square in Manhattan), so the closest Brooklyn equivalent was selected. Sip & Play at 471 5th Ave Park Slope is ~10 min from IC via 3rd/4th Ave, with metered + side-street parking. 500+ games (yelp), $10 weekday / $12 weekend table fee, $15/pp for guaranteed reservation (sipnplaynyc.com). Menu: sandwiches, salads, boba, beer, wine, coffee — vegetarian sandwich/salad options confirmed (yelp menu). Sat 10am-12am, Sun 10am-11pm. Phone (718) 971-1684.",
     "sources": [
       {
         "url": "https://www.sipnplaynyc.com/",
-        "accessed": "2026-05-16T06:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sip-n-play-brooklyn",
-        "accessed": "2026-05-16T06:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/news/this-new-board-game-cafe-in-park-slope-has-over-200-games-010720",
-        "accessed": "2026-05-16T06:20:00Z"
+        "url": "https://www.hexnyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://joe.coffee/locations/ny/brooklyn/sip-and-play-brooklyn/",
-        "accessed": "2026-05-16T06:20:00Z"
-      },
-      {
-        "url": "https://www.exploretock.com/sipnplay/",
-        "accessed": "2026-05-16T06:20:00Z"
+        "url": "https://brooklynbridgeparents.com/where-to-play-in-brooklyn-board-games/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:24:53.521Z"
+    "lastResearchedAt": "2026-05-17T09:04:28.280Z"
   },
   {
     "id": "the-uncommons",
@@ -11550,44 +11546,44 @@
   {
     "id": "brooklyn-strategist",
     "name": "The Brooklyn Strategist",
-    "desc": "Community board-game cafe with 1000+ titles, walk-in play and a small cafe — direct Brooklyn comp to The Uncommons.",
-    "longDesc": "A community-based game center founded in Carroll Gardens that relocated to Brooklyn Heights in 2024 after a Court St rent hike, now at 148 Pierrepont St with expanded gaming space and private rooms. Walk-in play is $15/person and unlocks an inventory of over 1,000 board, card, miniatures and trading-card games for groups of 2–8, with an on-site cafe and a Saturday-night Games With Strangers session (7–11pm) that pairs solo or small groups into tables. Genuine local strategy-game scene rather than a tourist destination, and the closest dedicated board-game cafe to Industry City that fits the drive-only constraint.",
+    "desc": "Drop-in board game cafe with 1000+ titles, kid programs and adult RPG/TCG nights",
+    "longDesc": "After 15 years in Carroll Gardens, this gaming hub relocated to a larger space at the base of One Pierrepont Plaza in Brooklyn Heights, where $15 gets you all-day access to a library of more than 1000 board, card, miniature, and role-playing games. Programming spans kids' classes (chess, Pokemon, D&D, Magic) and adult campaigns and tournaments, with private rooms for parties. Saturday night 'Games with Strangers' runs 7-11pm and pairs solo drop-ins into game groups.",
     "url": "https://thebrooklynstrategist.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "90-180 min",
-    "driveFromIC": "18 min",
+    "priceBand": "$",
+    "duration": "2-4 hr",
+    "driveFromIC": "14 min",
     "hoursWeekend": "Sat 10:00-23:00, Sun 10:00-20:00",
-    "notes": "Walk-in play $15/person, reservations need 24h notice (thebrooklynstrategist.com). Moved from 333 Court St (Carroll Gardens) to 148 Pierrepont St (Brooklyn Heights) in 2024 after rent rose from ~$90 to ~$120/sqft; new space $63/sqft with private rooms (brooklyneagle.com). Weekend hours per Yelp January 2026 listing — verify post-move on the official site or by phone (718-576-3035). Saturday-night Games With Strangers 7–11pm is a strong solo-or-pair option. Cafe on premises but small — pair with a separate food stop. Closest dedicated board-game cafe to IC; Manhattan Uncommons is comparable but fails the geographic constraint.",
+    "notes": "Originally at 333 Court St in Carroll Gardens, moved to 148 Pierrepont St in Brooklyn Heights after a rent hike (Brooklyn Eagle). Walk-ins are $15/person; reservations 24h+ in advance recommended (thebrooklynstrategist.com). Cafe on-site; private rooms bookable. Closer parking is tougher in Brooklyn Heights than the old Carroll Gardens block—aim for street parking on Cadman Plaza/Henry St or use the One Pierrepont Plaza garage.",
     "sources": [
       {
         "url": "https://thebrooklynstrategist.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T08:55:00Z"
       },
       {
         "url": "https://brooklyneagle.com/356971/carroll-gardens-game-store-moving-to-brooklyn-heights/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T08:55:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/the-brooklyn-strategist-new-york",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/the-brooklyn-strategist-brooklyn",
+        "accessed": "2026-05-17T08:55:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/things-to-do/board-game-cafes-to-play-catan-and-dnd-in-nyc",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://foursquare.com/v/the-brooklyn-strategist/4f42a95ee4b01e8250101ad2",
+        "accessed": "2026-05-17T08:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:06:42.390Z"
+    "lastResearchedAt": "2026-05-17T08:56:52.120Z"
   },
   {
     "id": "hex-and-company-union-square",
@@ -25926,5 +25922,86 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T08:50:28.594Z"
+  },
+  {
+    "id": "marlow-and-sons",
+    "name": "Marlow & Sons (CLOSED 2025)",
+    "desc": "Permanently closed in 2025 after 21 years — Andrew Tarlow's seminal South Williamsburg cafe/oyster bar at 81 Broadway.",
+    "longDesc": "Marlow & Sons opened in 2004 next door to Diner and helped define Brooklyn's farm-to-table era under Andrew Tarlow's Marlow Collective. The Marlow Collective site now lists its run as '2004 – 2025,' and Yelp shows the 81 Broadway location as CLOSED. Do not schedule — kept in the corpus only to block re-discovery and to anchor replacements within the same Broadway micro-cluster around Twenty Sided Store.",
+    "url": "https://www.themarlowcollective.com/sons/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "CLOSED — permanently shuttered 2025",
+    "notes": "CLOSED. The Marlow Collective explicitly lists the dates as '2004 – 2025' (themarlowcollective.com/sons), and Yelp's current listing reads 'MARLOW & SONS - CLOSED - Updated April 2026' (yelp.com). Sister spots Diner (next door) and Roman's are also under the same closure wave — verify before promoting any Tarlow venue. For the Twenty Sided afternoon pairing, route the food stop to one of the enqueued replacements still trading on Broadway/S. 6th.",
+    "sources": [
+      {
+        "url": "https://www.themarlowcollective.com/sons/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/marlow-and-sons-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.marlowandsons.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T08:59:07.231Z"
+  },
+  {
+    "id": "sip-n-play",
+    "name": "Sip & Play",
+    "desc": "Park Slope's first board game cafe — 500+ games with boba, beer, wine, and snacks",
+    "longDesc": "Sip & Play at 471 5th Ave is Park Slope's pioneer board game cafe, stocking over 500 titles from quick party fillers to deep euro strategy. Pay $10/person on weekdays or $12 on Fri-Sun for 3 hours of unlimited gameplay, with a kitchen turning out sandwiches, salads, apps, plus boba tea, beer, and wine. Walk-ins are welcome but Tock reservations guarantee a table on weekends.",
+    "url": "https://www.sipnplaynyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "10:00-00:00",
+    "notes": "$12/person weekends + holidays buys 3 hrs of any of 500+ games (sipnplaynyc.com). Full bar with boba, beer, wine, coffee; kitchen does apps/sandwiches/salads (mommypoppins.com). Reservations via Tock recommended Sat afternoons. Street parking on 5th Ave is feasible but tight — leaves 11min drive back to IC via 4th Ave.",
+    "sources": [
+      {
+        "url": "https://www.sipnplaynyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.exploretock.com/sipnplay/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sip-n-play-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://mommypoppins.com/new-york-city-kids/sip-play-brings-new-board-game-cafe-to-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T09:06:08.948Z"
   }
 ]
