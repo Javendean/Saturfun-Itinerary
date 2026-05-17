@@ -10794,41 +10794,41 @@
   {
     "id": "janes-carousel-dumbo",
     "name": "Jane's Carousel",
-    "desc": "Restored 1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge.",
-    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel (PTC No. 61) with 48 carved horses and two chariots, rescued from Idora Park in Youngstown, Ohio and brought back to life by Jane Walentas. It spins inside a Jean Nouvel-designed glass pavilion in the Empire Fulton Ferry section of Brooklyn Bridge Park, framing the Manhattan Bridge and East River — a postcard composition by day and a glowing lantern at night. $4 per ride, weather-proof, and the perfect rainy-day backup or photo follow-up to a Pebble Beach walk two minutes away.",
+    "desc": "1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge — rides by day, magic-lantern glow at night",
+    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel housed inside a Jean Nouvel-designed glass pavilion in Brooklyn Bridge Park's Empire Fulton Ferry section, framed directly beneath the Brooklyn and Manhattan Bridges. Rides are $4 and the carousel runs Wed-Sun, summer hours 10:00-18:50 (closes earlier in fall/winter) — meaning you ride before blue hour, then stay outside as the pavilion lights up and the horses' shadows project onto surrounding facades. Pair it with the cobblestone Pebble Beach photo spot 30 seconds away for the iconic Manhattan Bridge framing shot.",
     "url": "https://janescarousel.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "photo",
-      "chill",
-      "romantic"
+      "romantic",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "10:00-18:50 (summer); 11:00-17:50 off-season",
-    "notes": "Closed Tuesdays year-round; closed Mon+Tue in fall/spring; closed Mon-Wed in winter (janescarousel.com/hours). $4 per ride, SNAP/EBT discount available. One adult + one child under 42\" can share a ticket. Two-minute walk from Pebble Beach makes this an ideal back-to-back stop on the DUMBO leg. Glass pavilion is climate-controlled — works as a rain backup. Parking is brutal in DUMBO; use LAZ near Pier 1 or City Parking near Pier 6 (brooklynbridgepark.org). ADA accessible. Best photos at blue-hour when the pavilion glows and the bridges silhouette behind it.",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "10:00-18:50 (summer, closed Tue)",
+    "notes": "Ride is $4/person, cash or card on-site (janescarousel.com). One adult + one child under 42\" can share a ticket; SNAP/EBT discount available. Summer schedule May 11-Sept 13 keeps it open to 6:50 PM; fall/winter closes 5:50 PM, Mon+Tue closed. The pavilion was designed by Jean Nouvel and is engineered to glow as a 'magic lantern' after dark, with horse shadows projected on the building's facade every hour (jeannouvel.com) — so even after the ride ends, the venue stays photo-worthy through blue hour. Weekend parking: street parking in DUMBO is metered/limited; the Brooklyn Bridge Park lot at Pier 1 and several private garages on Plymouth/Front St are the reliable options. ~17 min drive from Industry City via the BQE (exit Old Fulton/Cadman Plaza West).",
     "sources": [
       {
         "url": "https://janescarousel.com/hours/",
-        "accessed": "2026-05-17T06:30:00Z"
-      },
-      {
-        "url": "https://janescarousel.com/history/",
-        "accessed": "2026-05-17T06:30:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
         "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
-        "accessed": "2026-05-17T06:30:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://www.jeannouvel.com/en/projects/janes-carousel/",
+        "accessed": "2026-05-17T07:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T06:28:44.926Z"
+    "lastResearchedAt": "2026-05-17T07:03:25.375Z"
   },
   {
     "id": "pebble-beach-dumbo",
@@ -10918,15 +10918,15 @@
   {
     "id": "cecconis-dumbo",
     "name": "Cecconi's DUMBO",
-    "desc": "Northern Italian sit-down inside Empire Stores with Manhattan-skyline terrace and handmade pasta.",
-    "longDesc": "Soho House Group's Brooklyn outpost of the Mayfair classic, set in the brick-arched Empire Stores warehouse between the Brooklyn and Manhattan bridges. The menu leans Venetian-Northern Italian — wood-fired pizza, handmade pasta, cicchetti and a long wine list — served in a polished dining room or on a waterfront patio with full skyline views. A reservation-driven venue that reads as a proper romantic dinner anchor, not a food-hall stop.",
+    "desc": "Soho House Group's Northern Italian sit-down brunch with a waterfront terrace under the Brooklyn Bridge.",
+    "longDesc": "Anchor tenant inside the Empire Stores warehouse complex, Cecconi's brings the Mayfair original's Northern Italian playbook — wood-fired pizzettas, fresh pastas, Cicchetti — to a soaring brick-and-timber dining room with a glass-walled terrace facing the Manhattan skyline. The dedicated weekend brunch menu (10:30am–4:30pm) layers eggs Benedict, truffle scrambles, and bellinis over the standard lunch carte, making it the table-service alternative to the Time Out Market food hall one floor down.",
     "url": "https://www.cecconisrestaurants.com/dumbo/",
-    "photoUrl": "https://media.cecconis.com/media/hlrhmkyy/mariell-lindhansen-1538.jpg?width=2000&height=1500&v=1db605fbcdfba20",
+    "photoUrl": "https://www.cecconis.com/media/hlrhmkyy/mariell-lindhansen-1538.jpg",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
-      "romantic",
       "foodie",
+      "romantic",
       "photo"
     ],
     "dietary": [
@@ -10936,25 +10936,29 @@
     "duration": "90-120 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "11:30-22:00",
-    "notes": "Weekend Sat/Sun 11:30am-10pm; brunch + dinner service (cecconisrestaurants.com). Reservations strongly recommended for window or patio tables — book well in advance for sunset (search-summary, opentable.com). Empire Stores building is the same complex as Time Out Market, so a single-trip pairing is easy. Street parking in DUMBO is rough on weekends; nearest reliable options are the Empire Stores garage entry off Plymouth St and the Brooklyn Bridge Park lots — plan +10 min buffer (search-summary). Phone (718) 650-3900.",
+    "notes": "Dedicated brunch menu runs Sat/Sun 10:30am-4:30pm (cecconisrestaurants.com); full lunch+dinner service 11:30am-10pm on weekends per the official site. Address 55 Water St, inside Empire Stores between the Brooklyn and Manhattan bridges. Terrace seats request-only — book ahead via OpenTable and ask for outdoor on the notes field. Parking: paid lot at Brooklyn Bridge Park Pier 1 garage (~5 min walk) or street parking on Water/Plymouth (free Sundays, metered Saturdays). Group-friendly: large square 6-8 top tables on the south wall (opentable.com). Owned by Soho House Group, so dress is smart-casual and bar can get loud after 1pm (tripadvisor.com).",
     "sources": [
       {
         "url": "https://www.cecconisrestaurants.com/dumbo/",
-        "accessed": "2026-05-16T17:20:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
         "url": "https://www.opentable.com/r/cecconis-dumbo-brooklyn",
-        "accessed": "2026-05-16T17:20:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/cecconis-dumbo-brooklyn",
-        "accessed": "2026-05-16T17:20:00Z"
+        "url": "https://www.empirestoresdumbo.com/tenants/cecconis-3",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d12585219-Reviews-Cecconi_s-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T07:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T17:20:34.057Z"
+    "lastResearchedAt": "2026-05-17T07:05:44.538Z"
   },
   {
     "id": "bbp-pier-1-sunset",
@@ -15406,48 +15410,47 @@
   {
     "id": "fornino-pier-6",
     "name": "Fornino at Pier 6",
-    "desc": "Rooftop wood-fired pizza with Statue of Liberty + lower Manhattan sunset views",
-    "longDesc": "Seasonal rooftop pizzeria perched on Brooklyn Bridge Park's Pier 6 with a custom wood-fired oven baking Neapolitan-style pies on the roof itself. The deck wraps around an expansive panorama of the Statue of Liberty and lower Manhattan — a top sunset table in the borough — and the menu rounds out pizzas with salads, sandwiches, sangria, and a full cocktail bar. Friday late-night rooftop bar (9:30–11 PM) throws in a complimentary Margherita slice with any drink.",
+    "desc": "Wood-fired pizza rooftop with Statue of Liberty + lower Manhattan sunset views in Brooklyn Bridge Park.",
+    "longDesc": "Fornino's Brooklyn Bridge Park outpost sits on Pier 6 with rooftop seating that frames the Statue of Liberty, NY Harbor, and lower Manhattan skyline — the brooklynbridgepark.org listing flags the sunset as not-to-be-missed. The kitchen turns out Neapolitan-style wood-fired pies alongside sandwiches, artisanal sodas, ice cream, and signature cocktails, and the venue is a short walk from the Brooklyn Heights Promenade so a romantic track can land here without re-driving.",
     "url": "https://www.fornino.com/brooklyn-bridge-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "foodie",
       "romantic",
+      "foodie",
       "photo"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 12:00-21:00, Sun 12:00-20:00 (seasonal Mar-Oct, weather-permitting)",
-    "notes": "Seasonal venue — confirm open before driving (March–October only) (fornino.com). Rooftop is the draw: sunset over the harbor and Statue of Liberty (brooklynbridgepark.org). Pizzas designed to share, plus salads/sandwiches; gluten-free crust available (fornino.com). Parking: Pier 6 lot at the foot of Atlantic Ave is the closest paid lot; street parking on Columbia/Joralemon possible on weekends. No driving inside the park — park and walk in along the Atlantic Ave entrance. Walk-ins fine for the rooftop bar; tables via Tock/OpenTable for the dining deck.",
+    "duration": "75-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 12:00-21:00, Sun 12:00-20:00 (seasonal Mar-Oct, weather-permitting rooftop)",
+    "notes": "Seasonal operation: March through October only (Yelp/OpenTable confirm closed off-season). Rooftop is weather-permitting (fornino.com). Pier 6 has paid garage parking near Atlantic Ave + Furman St; weekend street parking is plausible along Columbia St. Best paired with a Promenade walk (10-min stroll north) before a sunset reservation — book the rooftop via Resy in advance for prime sunset slots. Menu emphasizes wood-fired pies; signature cocktails and ice cream extend it past dinner (brooklynbridgepark.org).",
     "sources": [
       {
         "url": "https://www.fornino.com/brooklyn-bridge-park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
         "url": "https://brooklynbridgepark.org/places-to-see/restaurants-cafes/fornino/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/fornino-brooklyn-5",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
-        "url": "https://brooklynslifestyle.com/fornino-brooklyn-bridge-park-happy-hour/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://resy.com/cities/new-york-ny/venues/fornino-bk-bridge-park",
+        "accessed": "2026-05-17T07:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T06:52:33.913Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:01:24.135Z"
   },
   {
     "id": "pilot-oyster-schooner",
@@ -24626,45 +24629,46 @@
   {
     "id": "squibb-park-bridge",
     "name": "Squibb Park Bridge",
-    "desc": "Zig-zag steel footbridge linking Pier 1 to Brooklyn Heights Promenade — free photo loop with harbor views",
-    "longDesc": "A 450-ft pedestrian-only bridge that zigzags from the Greenway at Pier 1 up to Squibb Park in Brooklyn Heights, connecting straight to the Promenade. The 2020 steel rebuild by Arup replaced the original timber bridge — note: contrary to popular memory it is intentionally NOT bouncy anymore, but the zig-zag geometry still frames perfect skyline + Brooklyn Bridge shots at each switchback. A free 15-20 min loop that pairs cleanly with a Pier 1 sunset stop.",
+    "desc": "Zigzagging pedestrian bridge linking Brooklyn Heights Promenade area to Brooklyn Bridge Park at Pier 1.",
+    "longDesc": "A whimsical zig-zagging pedestrian-only bridge that drops you from Squibb Park (one block off the Brooklyn Heights Promenade) down into Brooklyn Bridge Park's Greenway at Pier 1, a short stroll from the Pier 2 roller rink and basketball courts. Reopened May 4, 2020 after a full steel rebuild by Turner Construction, it offers framed harbor views of Lower Manhattan and the Brooklyn Bridge — a postcard-grade transition between the bluff-top Heights and the waterfront. Bikes must be walked; the bridge is free and family-friendly.",
     "url": "https://brooklynbridgepark.org/places-to-see/squibb-park-bridge/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
+      "romantic",
       "photo",
       "chill",
       "active"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "18 min",
+    "duration": "15-30 min",
+    "driveFromIC": "15 min",
     "hoursWeekend": "08:00-22:00",
-    "notes": "Pedestrian + bike entry only — leave the car at the Pier 1/Old Fulton garage and walk in (brooklynbridgepark.org). Closes during winter weather until snow/ice is cleared. Heads-up: the 'bouncy bridge' legend is outdated — the original wood bridge (2013) was demolished in 2019 because of excessive bounce/timber rot; the current steel replacement opened May 4, 2020 and is rigid by design (en.wikipedia.org/wiki/Squibb_Park_Bridge, 6sqft.com). Walking IC → Pier 1 → up Squibb Bridge → Promenade → back down via Old Fulton makes a tight 60-min sunset loop without re-parking.",
+    "notes": "Bridge lands at Pier 1 — walk south ~5 min along the Greenway to reach the Pier 2 rink (brooklynbridgepark.org). Reconstruction completed 2020 (turnerconstruction.com). Park at Pier 6 paid lot or hunt Columbia Heights street parking; Squibb Park entrance is at Middagh St & Columbia Heights. Pedestrians only, cyclists must dismount (en.wikipedia.org).",
     "sources": [
       {
         "url": "https://brooklynbridgepark.org/places-to-see/squibb-park-bridge/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Squibb_Park_Bridge",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
-        "url": "https://www.6sqft.com/brooklyn-bridge-parks-rebuilt-squibb-bridge-will-reopen/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.brooklynbridgepark.org/pages/squibb-bridge",
+        "accessed": "2026-05-17T07:00:00Z"
       },
       {
-        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.turnerconstruction.com/projects/brooklyn-bridge-park-corporation-squibb-bridge",
+        "accessed": "2026-05-17T07:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T06:46:30.761Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:59:16.576Z"
   },
   {
     "id": "empire-fulton-ferry-janes-carousel",
@@ -24795,5 +24799,44 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T06:57:15.498Z"
+  },
+  {
+    "id": "front-general-store-dumbo",
+    "name": "Front General Store",
+    "desc": "Japanese-curated vintage & designer shop in DUMBO mixing Prada/Hermès with workwear, jewelry, and home goods.",
+    "longDesc": "A meticulously curated vintage and designer boutique at 143 Front Street run by a Japanese owner couple, with rotating inventory refreshed every Wednesday and Saturday. Expect deep racks of vintage clothing, designer bags (Prada, Gucci, Hermès, Issey Miyake), fine silver/gold jewelry, fragrances, kitchenware, and FGS-original basics — a quick photo-friendly browse that pairs well with Pier 2 skate and Time Out Market within a 10-minute walking radius.",
+    "url": "https://frontgeneralstore.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 10:30-18:30",
+    "notes": "143 Front St, Brooklyn NY 11201 — DUMBO core, walking distance to Time Out Market, Jane's Carousel, and Pier 2 (source: frontgeneralstore.com, Yelp). Inventory updated every Wed/Sat so weekend visits are freshest (source: frontgeneralstore.com). Street parking is rough; use the Pearl St garage or BBP Pier 1/6 lots. ~18 min drive from Industry City via BQE.",
+    "sources": [
+      {
+        "url": "https://frontgeneralstore.com/",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/front-general-store-brooklyn",
+        "accessed": "2026-05-17T07:00:00Z"
+      },
+      {
+        "url": "https://nycvintagemap.com/stores/brooklyn/front-general-store/",
+        "accessed": "2026-05-17T07:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:07:36.217Z"
   }
 ]
