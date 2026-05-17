@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sushi Uesugi Japan Village Industry City omakase",
-    "reason": "Second sit-down option in the same Japan Village courtyard — omakase counter rather than izakaya, gives the itinerary a higher-end fork for the same stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:38:25.092Z"
-  },
-  {
-    "topic": "Oldies bar Japan Village Industry City Japanese cocktails",
-    "reason": "Adjacent late-night Japanese cocktail bar from the same WakuWaku team — natural post-dinner extension of the Japan Village stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:38:25.092Z"
-  },
-  {
-    "topic": "Devoción Williamsburg flagship (148 Grand St) — pitched-roof skylight + sunlit courtyard",
-    "reason": "More dramatic photo backdrop than Livingston; pair as 'photo-first coffee stop' for Williamsburg track ~18 min from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:40:53.809Z"
-  },
-  {
-    "topic": "Sey Coffee Bushwick coffee + pastry alternative near IC drive radius",
-    "reason": "Destination roaster with airy minimalist space; fills gap for east-of-IC zones (Bushwick) where corpus is thin",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:40:53.809Z"
-  },
-  {
-    "topic": "Parlor Coffee Sunset Park backup near Industry City",
-    "reason": "Actually IN Sunset Park (vs nonexistent Devoción SP) — confirms whether a true walk-from-IC specialty coffee exists, closing the Panya backup gap at minimum drive time",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:40:53.810Z"
-  },
-  {
     "topic": "Sing Sing Karaoke East Village private rooms late-night",
     "reason": "Manhattan KTV-style backup for nights when both JTunes and Goldie's are full; well-known private-room operator",
     "requestedBy": "agent",
@@ -10462,5 +10432,95 @@
     "reason": "The umbrella complex housing Kuraichi/Sunrise Mart/Brooklyn Kura; needs a corpus entry that captures the food-hall layer separately from the bottle shop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T13:37:51.475Z"
+  },
+  {
+    "topic": "Mokyo omakase or Noz Brooklyn alternative omakase 15 min from IC",
+    "reason": "Higher-end omakase fallback if Uesugi is booked; tests whether a true splurge tier exists within driving radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:40:03.500Z"
+  },
+  {
+    "topic": "Avocaderia Industry City vegetarian counterpart",
+    "reason": "Pairs with Uesugi as the vegetarian-friendly option at the same IC anchor so the courtyard stop serves all dietary preferences",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:40:03.500Z"
+  },
+  {
+    "topic": "Japan Village marketplace grocery + snack browse",
+    "reason": "Adds a low-cost, photogenic 20-min browse to the same stop for groups who don't want a full sit-down sushi meal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:40:03.500Z"
+  },
+  {
+    "topic": "Sunrise Mart inside Japan Village — Japanese grocery for souvenir/snack run",
+    "reason": "Same complex; rounds out the Japan Village stop with takeaway sweets/ingredients",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:42:01.460Z"
+  },
+  {
+    "topic": "Industry City courtyard public art + LANDING outdoor installations weekend hours",
+    "reason": "Free pre-dinner stroll between IC stops, photo-friendly, zero drive time",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:42:01.461Z"
+  },
+  {
+    "topic": "Hinata Ramen NYC Industry City location ramen counter",
+    "reason": "Adjacent Japanese-food option inside Japan Village if WakuWaku is fully booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:42:01.461Z"
+  },
+  {
+    "topic": "Bakeri Williamsburg (150 Wythe Ave) — Scandinavian-rustic bakery 6 min walk from Devoción",
+    "reason": "Pairs as a pastry-forward second stop in the same Williamsburg track; complements coffee-only flagship",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:44:06.637Z"
+  },
+  {
+    "topic": "Sey Coffee (18 Grattan St, Bushwick) — minimalist light-roast roastery with skylit warehouse",
+    "reason": "Alternate photo-driven coffee anchor for a Bushwick-track variant, ~20 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:44:06.638Z"
+  },
+  {
+    "topic": "The William Vale rooftop / Westlight — Williamsburg skyline viewpoint 8 min from Devoción",
+    "reason": "Extends the Williamsburg track with a midday photo destination after coffee",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:44:06.638Z"
+  },
+  {
+    "topic": "Variety Coffee Roasters Bushwick (Graham Ave) — sister roaster, larger seating",
+    "reason": "Backup coffee anchor in Bushwick with bigger capacity and longer hours for groups",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:45:55.287Z"
+  },
+  {
+    "topic": "Little Skips East Bushwick — vegan-friendly cafe + bakery near Sey",
+    "reason": "Adds vegan pastry option in the same zone for a Bushwick coffee track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:45:55.287Z"
+  },
+  {
+    "topic": "Hungry Ghost Coffee Bushwick — neighborhood-y espresso bar with breakfast",
+    "reason": "Fills the savory-breakfast gap east of IC; pairs with Sey for a coffee crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:45:55.288Z"
+  },
+  {
+    "topic": "On-site Industry City specialty coffee audit — what's actually inside the IC food halls (Blue Bottle? Devoción kiosk? Sey pop-up?)",
+    "reason": "The walk-from-IC specialty coffee gap remains structurally unsolved; need to audit vendors literally inside IC before chasing more neighborhood candidates",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:48:43.532Z"
+  },
+  {
+    "topic": "Yafa Cafe — Yemeni pour-over and cardamom drinks in Sunset Park",
+    "reason": "Distinctive specialty option (pistachio cappuccino, tahini chai) with food crossover; differentiates from City League's origin-bean focus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:48:43.533Z"
+  },
+  {
+    "topic": "Parkette Brooklyn at 4022 5th Ave — daytime cafe with full 7am-7pm window",
+    "reason": "Longer hours than City League (open until 7pm vs 4pm) — fills the late-afternoon coffee slot for Saturfun tracks that finish at IC after 4pm",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T13:48:43.533Z"
   }
 ]

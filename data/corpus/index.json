@@ -6381,25 +6381,23 @@
   },
   {
     "id": "sushi-uesugi",
-    "name": "Sushi Uesugi at Japan Village",
-    "desc": "Tucked-away omakase counter inside Japan Village — Chef Kenji, $60-75 sets, walk-in only",
-    "longDesc": "An intimate sushi counter hidden in the back of the Japan Village food hall at Industry City, where Chef Kenji serves an inventive omakase blending classic cuts with signatures like Yukke Don and Garlic Truffle Rice. Ten-piece omakase runs $60-75 with hand roll and soup, making it one of Brooklyn's most reasonably priced serious omakase rooms. Walk-in only with no reservations — expect a wait on weekend nights, but the counter seating and serene tucked-away vibe make it a strong romantic upgrade over the Japan Village food hall itself.",
+    "name": "Sushi Uesugi",
+    "desc": "Intimate omakase counter tucked beside Japan Village's food hall — chef-driven, walk-in friendly at lunch.",
+    "longDesc": "A small, refined sushi counter adjacent to the Japan Village marketplace at Industry City, focused on seasonal nigiri omakase with creative add-ons like Yukke Don and Garlic Truffle Rice. The lunch omakase reportedly starts around $50 for a 10-piece set, making it one of the few accessible omakase rooms in south Brooklyn; dinner runs longer and pricier at the chef's counter. Counter seats only, intimate feel, and a strong fit when one person in the group wants something more elevated than the Japan Village food-hall stalls.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
       "romantic"
     ],
-    "dietary": [
-      "gluten-free"
-    ],
+    "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Fri-Sat 12:00-15:00, 17:00-21:00; Sun 12:00-15:00, 17:00-20:00",
-    "notes": "Located inside Industry City at 934 3rd Ave / 267 36th St, next to the Japan Village food hall (japanvillage.com). Walk-in only, no reservations — weekend waits are typical, so arrive at open or pad the itinerary (yelp.com, nosleep.city). Omakase is 10 pieces + hand roll + miso for $60-75pp; Chef Kenji also runs an affordable $50 lunch set. Counter seating with ~8-10 seats makes it date-night intimate but tight — not great for groups >2. Pairs naturally with a stroll through Japan Village food hall, Industry City courtyards, or a drive to nearby Sunset Park/Greenwood for dessert.",
+    "hoursWeekend": "Sat 12:00-15:00, 17:00-21:00; Sun 12:00-15:00, 17:00-20:00",
+    "notes": "Located at 267 36th St / 934 3rd Ave (Industry City Building B, beside Japan Village food hall). Counter-only seating; lunch omakase ~$50/10pc reported on Yelp (sushi-uesugi-brooklyn). Signature off-menu: Yukke Don, Garlic Truffle Rice (japanvillage.com). Walk-in friendly at lunch per multiple reviews; reservations advisable for dinner.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
@@ -6408,20 +6406,12 @@
       {
         "url": "https://www.yelp.com/biz/sushi-uesugi-brooklyn",
         "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://nosleep.city/best-omakase-in-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.restaurantji.com/ny/brooklyn/sushi-uesugi-/",
-        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T11:33:25.703Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T13:40:03.477Z"
   },
   {
     "id": "panya-bakery-industry-city",
@@ -6519,42 +6509,47 @@
   {
     "id": "city-league-coffee",
     "name": "City League Coffee Roasters",
-    "desc": "Family-run Sunset Park roastery at The Whale — Diedrich drum roaster, classes, weekend mornings 8am.",
-    "longDesc": "Founded 2018 in a Sunset Park garage by Dane Demchak, City League opened a new ~800sqft roastery in Feb 2026 inside The Whale, a shared multipurpose building with Brooklyn City F.C. The turquoise Diedrich drum anchors the roastery; the lobby holds a coffee bar with baked goods from Little Boxes NYC. They roast rare/exotic lots (e.g. Watermelon Magic co-fermented Colombian) alongside everyday classics, and the space hosts coffee tastings, education classes, and community events — making it the closest serious-coffee + workshop option to Industry City.",
+    "desc": "In-house Sunset Park roaster on 4th Ave — actual specialty coffee under 7 min from IC",
+    "longDesc": "Family-run microroastery that started in a Sunset Park garage in 2018 and now operates a public cafe at 68th & 4th. They roast every bean on-site for tight flavor calibration and run barista classes on weekends. The fastest verified specialty pour-over to Industry City — Parlor and Devoción do not have Sunset Park locations.",
     "url": "https://cityleaguecoffee.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "chill",
-      "curious"
+      "curious",
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$",
+    "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "7 min",
+    "driveFromIC": "6 min",
     "hoursWeekend": "08:00-16:00",
-    "notes": "6808 4th Ave, Brooklyn 11220 (Sunset Park/Bay Ridge border). Weekday 7am-5pm, weekend 8am-4pm — earliest serious-coffee opening near IC. Shares The Whale building with Brooklyn City F.C. (futsal). Watermelon Magic packaging designed by founder's 8-year-old son Omri. Curb parking on 4th Ave usually available before 10am weekends. Coffee classes/tastings hosted in the additional event space — check Instagram for schedule (Daily Coffee News, Feb 2026).",
+    "notes": "Address 6808 4th Avenue, Brooklyn NY 11220 (Sunset Park) — straight south on 3rd/4th Ave from IC, ~1.4 mi (cityleaguecoffee.com). Weekend hours 8am-4pm both Sat & Sun confirmed via Yelp and roaster's own listings (yelp.com/biz/city-league-coffee-roasters-brooklyn). In-house roasting since 2018, focus on origin-specific brews (cityleaguecoffee.com/who-we-are). VERIFIED CORRECTION: Parlor Coffee has NO Sunset Park location — their only physical site is a by-appointment wholesale roastery at 11 Vanderbilt Ave, Wallabout (parlorcoffee.com/pages/where-to-find-us). City League is the actual gap-closer for a true Sunset Park specialty option. Walkability caveat: 1.4 mi south of IC is ~30 min walk, so this is a drive backup, not walk-from-IC.",
     "sources": [
       {
         "url": "https://cityleaguecoffee.com/",
-        "accessed": "2026-05-16T07:00:00Z"
+        "accessed": "2026-05-17T13:45:00Z"
       },
       {
-        "url": "https://dailycoffeenews.com/2026/02/02/city-league-coffee-gets-home-court-advantage-with-new-brooklyn-roastery/",
-        "accessed": "2026-05-16T07:00:00Z"
+        "url": "https://www.yelp.com/biz/city-league-coffee-roasters-brooklyn",
+        "accessed": "2026-05-17T13:45:00Z"
       },
       {
-        "url": "https://www.instagram.com/cityleaguecoffee/",
-        "accessed": "2026-05-16T07:00:00Z"
+        "url": "https://parlorcoffee.com/pages/where-to-find-us",
+        "accessed": "2026-05-17T13:45:00Z"
+      },
+      {
+        "url": "https://cityleaguecoffee.com/who-we-are/",
+        "accessed": "2026-05-17T13:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T07:00:12.903Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:48:43.509Z"
   },
   {
     "id": "yafa-cafe",
@@ -12879,40 +12874,43 @@
   {
     "id": "sey-coffee-bushwick",
     "name": "Sey Coffee",
-    "desc": "Acclaimed light-filled Bushwick roaster — minimalist warehouse cafe pouring single-origin pour-overs",
-    "longDesc": "Sey is one of NYC's most celebrated specialty roasters, occupying a high-ceilinged warehouse on Grattan Street with skylights, pale wood, and trailing plants that turn every cup into a photo. The bar pours seasonal pour-overs and espresso from their own meticulously sourced beans, and the airy minimalist space doubles as an unofficial design-world hangout (no laptops on weekends — it stays cafe, not co-working).",
+    "desc": "Destination micro-roastery in a soaring Bushwick warehouse with light pastries and no-laptop weekends.",
+    "longDesc": "Sey is a contemporary specialty roaster pouring delicate, fruit-forward single-origin coffees in a high-ceilinged, airy industrial space at 18 Grattan St. Weekends draw a focused crowd (no laptops allowed) for filter flights, espresso, and a small rotating pastry case; tipping is famously not required. The minimalist room with skylights is a strong photo spot and a coffee-nerd anchor for any Bushwick stop.",
     "url": "https://www.seycoffee.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "chill",
-      "photo",
-      "curious"
+      "curious",
+      "photo"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan"
+      "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "45-60 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "18 Grattan St, Brooklyn NY 11206 — weekend hours 8–5, no laptops on weekends (sey.coffee). Street parking is generally available in industrial east-Bushwick on weekends. Sub-3.5 mi from Industry City, ~18 min via Hamilton Ave / BQE off-peak (yelp).",
+    "notes": "Address: 18 Grattan St, Brooklyn. Weekday hours 7-5, weekend hours 8-5 (Sey official cafe page). No-laptop policy on weekends keeps the room conversational. Street parking on Grattan/Morgan is usually available on weekends. Pastry selection is small but high-quality; pair with a filter flight. Ph: (347) 871-1611.",
     "sources": [
       {
         "url": "https://www.seycoffee.com/pages/cafe",
-        "accessed": "2026-05-16T23:10:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sey-coffee-brooklyn",
-        "accessed": "2026-05-16T23:10:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://nbktimes.com/en/food-and-drink/sey-coffee/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T23:14:02.719Z"
+    "lastResearchedAt": "2026-05-17T13:45:55.262Z"
   },
   {
     "id": "sunrise-mart-industry-city",
@@ -26882,49 +26880,45 @@
   {
     "id": "oldies-japan-village",
     "name": "Oldies",
-    "desc": "Angel's Share alums' 12-seat Japanese cocktail bar tucked beside Japan Village — fruit cocktails, Toki highballs, sake.",
-    "longDesc": "Run by the Angel's Share team, Oldies channels the intimacy of an old-school Tokyo cocktail den with just 12 seats off the Japan Village food hall at Industry City. Expect spirit-forward stirred cocktails, freshly-squeezed fruit drinks, Suntory Toki highballs with a twist, and a deep sake/shochu pour list (Friday happy hour 3–7pm features $14 Iichiko shochu cocktails). Walk-in only and quiet enough to talk — a strong romantic anchor on Wed–Fri evenings.",
+    "desc": "Intimate 12-seat Japanese cocktail bar adjacent to WakuWaku — fresh-fruit cocktails, Toki highballs, City Pop on vinyl.",
+    "longDesc": "From the WakuWaku team at Japan Village, Oldies is a casual old-school Japanese cocktail lounge specializing in spirit-forward drinks, freshly-squeezed fruit cocktails, and highballs with a twist. The 12-seat room runs Tokyo City Pop, Disco, Funk, and New Wave on the soundsystem, with fun bar snacks from the kitchen until ~9:15 PM. Natural post-dinner extension if you're already eating at WakuWaku or Japan Village.",
     "url": "https://www.wakuwakuny.com/oldies",
     "photoUrl": "https://images.squarespace-cdn.com/content/v1/5df6ab81f224020f76ca1f15/1581457035246-SO57IAMSWZOVTBVXM19W/eLGrl_R8.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "romantic",
       "chill",
-      "curious"
+      "curious",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 14:00-22:30, Sun 16:00-21:30 (closed Mon–Tue; Wed–Thu 17:00-21:30, Fri 17:00-22:30)",
-    "notes": "Inside Industry City Building 4, adjacent to Japan Village food hall (industrycity.com). 12-seat counter, walk-in only, no reservations (timeout.com). Friday happy hour 3–7pm: $14 craft Iichiko shochu cocktails (industrycity.com/event/oldies-friday-happy-hour). Sister concept WakuWaku next door covers food side. Kitchen closes ~1hr 15min before bar close. Wheelchair accessible, credit cards accepted (yelp.com).",
+    "hoursWeekend": "Sat 14:00-22:30, Sun 16:00-21:30",
+    "notes": "269 36th St, inside Industry City's Japan Village complex — same address as WakuWaku (wakuwakuny.com). 12-seat lounge per Yelp (yelp.com/biz/oldies-brooklyn-2). Kitchen closes ~45min before bar close. Closed Mon–Tue. Parking on-site at IC garage. Cash-light; reservations via website recommended on Saturdays.",
     "sources": [
       {
         "url": "https://www.wakuwakuny.com/oldies",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/oldies/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://industrycity.com/event/oldies-friday-happy-hour/2024-05-03/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/news/oldies-at-industry-city-is-angels-shares-first-bar-outside-of-the-east-village-122019",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/oldies-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynreporter.com/2020/08/industry-citys-japan-village-brings-back-eatery-and-cocktail-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/angels-share-speakeasy-owners-open-sit-down-japanese-restaurant-at-industry-city/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T10:42:58.734Z"
+    "lastResearchedAt": "2026-05-17T13:42:01.438Z"
   },
   {
     "id": "bandai-namco-cross-store",
@@ -28331,5 +28325,46 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T13:37:51.450Z"
+  },
+  {
+    "id": "devocion-williamsburg-flagship",
+    "name": "Devoción Williamsburg Flagship",
+    "desc": "Pitched-skylight Colombian coffee flagship with sunlit courtyard and 35-species plant wall.",
+    "longDesc": "Devoción's Williamsburg flagship at 148 Grand St is built around a full-length pitched-glass skylight that floods a sunlit courtyard and a floor-to-ceiling living plant wall of 35+ Colombian species. Guests enter via an exposed-brick corridor that opens into the greenery, with a street-visible coffee laboratory used for public cuppings and classes — a far more dramatic photo backdrop than the Industry City branch. Bean-to-cup in roughly 10 days from Colombian farms.",
+    "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
+    "photoUrl": "https://www.devocion.com/cdn/shop/files/Devocion_Wburg_1025_LizClayman_012_3.jpg?height=1600&v=1771773547",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "photo",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "07:30-18:00",
+    "notes": "Pitched-roof skylight + courtyard + living plant wall make it the strongest 'photo-first coffee stop' in the Williamsburg track (devocion.com). Coffee lab visible from the street hosts public cuppings/classes (devocion.com). Pair as morning anchor before Smorgasburg or Wythe-corridor galleries. Street parking on Grand/Berry is doable weekend mornings; metered after 9am.",
+    "sources": [
+      {
+        "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/devocion-freshest-colombian-coffee/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T13:44:06.610Z"
   }
 ]
