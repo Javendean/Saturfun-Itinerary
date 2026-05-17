@@ -9820,9 +9820,9 @@
   {
     "id": "brooklyn-glass",
     "name": "Brooklyn Glass",
-    "desc": "Sunday one-day glassblowing workshop near IC — make a paperweight + tumbler from 2100°F molten glass.",
-    "longDesc": "Brooklyn Glass is a 14,000 sq ft hot shop on the Gowanus/Park Slope edge that runs a one-day glassblowing workshop on Sundays 11am–4pm. No experience needed — students gather, blow, color, and shape molten glass to take home a paperweight and a drinking tumbler the same day. The furnace floor itself is the photo op: torches, color rods, and team-driven gathering at 2100°F.",
-    "url": "https://brooklynglass.com/index.php/class/one-day-glass-blowing-workshop/",
+    "desc": "Artist-owned hot shop — watch glassblowing, take a class, or grab a hand-blown glass at Hot Glass Cold Beer nights.",
+    "longDesc": "A 4,000 sq ft hot shop on 13th Street with two furnaces, five glory holes, plus flameworking and neon studios — open weekends 10am–6pm with classes, private lessons, and the signature Hot Glass Cold Beer evenings featuring live demos, DJ sets, an open beer bar, and a hand-blown glass to take home. Less than 10 minutes from Industry City and easy to pair with a bladesmithing or maker-track day.",
+    "url": "https://brooklynglass.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
@@ -9832,29 +9832,29 @@
       "photo"
     ],
     "dietary": [],
-    "priceBand": "$$$",
-    "duration": "5 hours",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "Sun 11:00-16:00 (workshop); shop open by class schedule",
-    "notes": "142 13th Street, Brooklyn NY 11215 — Gowanus/Park Slope edge, ~10 min drive from Industry City up 3rd Ave (source: brooklynglass.com class page). One-day workshop $285 + booking fee, Sundays only — book ahead, classes cap small. Street parking is generally available on 13th St and surrounding blocks on Sundays; alt-side rules relaxed weekends (source: NYC DOT alt-side). For a 'just watch the furnace' option without committing to a full class, Brooklyn Glass also hosts public open-studio nights and shorter Sat 5–8pm mini sessions on some weekends (source: brooklynglass.com classes index).",
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "10:00-18:00 Sat & Sun (hot shop + flame/neon)",
+    "notes": "Hot shop is open weekends 10–6 for classes, private lessons, and walk-in observation of working artists (brooklynglass.com/studio). The Hot Glass Cold Beer event series is a 6–10pm Saturday demo night with The Inflatables hot-glass puppet show, six performing glassblowers, DJ, projections, open beer bar, and a take-home hand-blown drinking glass (brooklynglass.com/hot-glass-cold-beer-2). Address 142 13th St, Brooklyn NY 11215; F/R/G to 4th Ave–9th St for transit. Contact dana@brooklynglass.com or info@brooklynglass.com / (718) 569-2110 for class pricing and bookings — official site does not publish a public price list. Street parking on 13th/14th St typically available on weekends; no dedicated lot listed.",
     "sources": [
       {
-        "url": "https://brooklynglass.com/index.php/class/one-day-glass-blowing-workshop/",
+        "url": "https://brooklynglass.com/index.php/studio/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://brooklynglass.com/index.php/education/classes/",
+        "url": "https://brooklynglass.com/index.php/hot-glass-cold-beer-2/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://coursehorse.com/nyc/classes/art/glass3/introduction-to-glassblowing-daytime-",
+        "url": "https://brooklynglass.com/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:42:05.246Z"
+    "lastResearchedAt": "2026-05-17T01:48:37.292Z"
   },
   {
     "id": "marias-bistro-mexicano",
@@ -21690,5 +21690,174 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T01:46:24.266Z"
+  },
+  {
+    "id": "textile-arts-center-gowanus",
+    "name": "Textile Arts Center",
+    "desc": "Gowanus textile studio with weekend natural-dye, weaving, and sewing drop-in workshops.",
+    "longDesc": "Long-running fiber-arts school at 505 Carroll St on the Gowanus/Park Slope edge, with looms, dye baths, and screen-print tables open to the public. Weekend programming includes one-day intensives in natural dyeing (their Sewing Seeds program), tapestry weaving, and indigo, plus shorter Saturday/Sunday workshops bookable through their site or CourseHorse. Slower-paced and tactile — a good counterweight to flame/forge anchors at IC.",
+    "url": "https://textileartscenter.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hours",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "Sat 11:00-18:00, Sun 11:00-17:00",
+    "notes": "505 Carroll St between 3rd & 4th Ave; ~30 blocks straight up 3rd Ave from Industry City (timeout.com, yelp.com). Friday closed — only Sat/Sun count for itinerary. Drop-in workshops typically $40-100; longer 6-hr weekend intensives also offered. Home of the Sewing Seeds natural-dye program (textileartscenter.com). Street parking on Carroll/President is usually findable on weekends. Phone: (718) 369-0222.",
+    "sources": [
+      {
+        "url": "https://textileartscenter.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/textile-arts-center-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://coursehorse.com/nyc/schools/art/textile-arts-center",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/things-to-do/textile-arts-center-classes-park-slope",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:50:27.447Z"
+  },
+  {
+    "id": "brooklyn-kitchen-knife-skills",
+    "name": "The Brooklyn Kitchen — Knife Skills Class",
+    "desc": "3-hour hands-on knife skills class inside Industry City; pairs with Nazz Forge for a 'blade day'",
+    "longDesc": "The Brooklyn Kitchen runs its flagship Knife Skills class in a loft kitchen studio inside Industry City, covering grip, honing, sharpening, and the standard chef's-knife cuts (julienne, brunoise, chiffonade) on real produce. Students work an 8\" chef's knife (bring your own or use theirs) and take home a sharpening stone with instruction on its use. Two weekend slots — 10am–1pm or 6–9pm — make it slottable as either a morning anchor or an evening capstone after a forging session.",
+    "url": "https://thebrooklynkitchen.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "foodie",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "3 hr",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "10:00-13:00, 18:00-21:00",
+    "notes": "Located at 254 36th St in Industry City — same complex as the IC anchor, so effectively zero drive (source: CourseHorse / Brooklyn Kitchen). Class is ~$121 (source: CareerCenters writeup). Take-home sharpening stone included. Thematic pair: book Nazz Forge knife-forging in the morning, then The Brooklyn Kitchen knife skills in the evening for a complete 'forge-and-wield' blade day. Weekend slots fill — book ahead via CourseHorse or thebrooklynkitchen.com.",
+    "sources": [
+      {
+        "url": "https://coursehorse.com/nyc/classes/cooking/cooking-techniques/knife-skills/knife-skills2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.careercenters.com/blog/the-brooklyn-kitchen",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.amny.com/lifestyle/eat-and-drink/williamsburg-s-brooklyn-kitchen-pops-up-in-industry-city-teaching-cooking-skills-from-knife-work-to-grilling-1-13790437/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://thebrooklynkitchen.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:52:36.069Z"
+  },
+  {
+    "id": "acorn-craft-shop",
+    "name": "Acorn Craft Shop",
+    "desc": "Prospect Heights craft supply shop + community workshop space with donation-based craft nights and collage classes.",
+    "longDesc": "Opened April 2026 by ex-tech product designer Christina Dacanay, Acorn is a bright corner craft shop on Washington Ave stocked with yarn, embroidery thread, watercolor sets, and mixed-media supplies. It doubles as a workshop venue running Friday craft nights ($10, sliding scale), Sunday family drop-ins, and rotating classes including a Collage Workshop co-hosted with Brooklyn Creative Reuse ($20). The vibe is intentionally communal and iterative — Dacanay surveyed 750 neighbors before opening and treats programming as a prototype.",
+    "url": "https://acorncraftshop.com/",
+    "photoUrl": "https://acorncraftshop.com/cdn/shop/files/IMG_5186.jpg?v=1776978803&width=3840",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "1-2 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-17:00",
+    "notes": "BCR cross-listing confirmed via Collage Workshop with Brooklyn Creative Reuse ($20, sold out — recurring) (acorncraftshop.com/collections/classes-and-events). Donation-based Friday craft nights and monthly Sunday family drop-ins (grandarmygazette.substack.com). 727 Washington Ave is the western edge of Prospect Heights bordering Crown Heights; metered street parking plus residential side streets typically open on weekends. Sliding-scale ticketing makes this a low-friction Saturfun anchor for a Prospect Heights crafts track when paired with a coffee/brunch stop. Sold-out classes suggest pre-booking required — surface registration link on itinerary card.",
+    "sources": [
+      {
+        "url": "https://acorncraftshop.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://acorncraftshop.com/collections/classes-and-events",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://acorncraftshop.com/pages/about-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://grandarmygazette.substack.com/p/meet-the-neigborhood-mom-who-left",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:54:57.880Z"
+  },
+  {
+    "id": "powerhouse-arts",
+    "name": "Powerhouse Arts",
+    "desc": "85k sq ft Gowanus fabrication complex — printmaking, ceramics, metal, public art shops with sliding-scale weekend workshops",
+    "longDesc": "A 170,000 sq ft adaptive-reuse arts facility inside the 1904 Brooklyn Rapid Transit power station on the Gowanus Canal, anchoring four professional fabrication shops: MGC Community Print Studio (intaglio, lithography, screenprint, Japanese woodblock), PHA Ceramics (wheel, hand-building, 3D-printed clay), Workspace11 architectural metal, and Public Art production. Single-day workshops and master classes run on weekends at a sliding-scale rate so a non-member can drop in for a 2–3 hour intro session. Check the events calendar before driving — programming is curated, not every Saturday has open seats.",
+    "url": "https://powerhousearts.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "10:00-18:00",
+    "notes": "Address: 322 3rd Ave, Brooklyn NY 11215 — sits on the Gowanus Canal at 3rd St, technically Gowanus/Park Slope border (powerhousearts.org/visit-us). Sat & Sun 10am–6pm, closed Mondays. NO on-site parking — use metered street parking on 3rd Ave or the Costco lot ~3 blocks south on 2nd Ave (powerhousearts.org/visit-us). Classes run sliding-scale with a low-cost minimum to remove financial barriers; MGC print sessions range from single-day to 12 weeks across summer/fall/spring semesters (powerhousearts.org/fabrication/classes-workshops). Stronger and more advanced than BCR's smaller community studios — actual industrial print presses, kilns, and a Workspace11 metal shop downstairs. Book ahead via /calendar; walk-ins are gallery/exhibition only.",
+    "sources": [
+      {
+        "url": "https://powerhousearts.org/visit-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://powerhousearts.org/fabrication/classes-workshops",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://powerhousearts.org/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://news.artnet.com/art-world/powerhouse-arts-opens-brooklyn-2307013",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:57:03.574Z"
   }
 ]
