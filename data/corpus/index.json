@@ -9680,51 +9680,54 @@
   {
     "id": "burrow-dumbo",
     "name": "Burrow",
-    "desc": "Hidden Japanese-French pastry counter inside a DUMBO office lobby — but closed weekends.",
-    "longDesc": "Chef Ayako Kurokawa's tiny, near-unmarked counter is tucked inside the lobby of 68 Jay Street, serving French classics (mont blanc, financiers, tarts) reimagined with Japanese restraint — subtle sweetness, matcha and yuzu accents, near-cult mont blanc at ~$8. The catch for Saturfun: Burrow is open Tuesday–Friday, 10:00–15:00 (or until sold out) and CLOSED Saturday and Sunday, so it cannot anchor a weekend itinerary despite being a 12-min drive from Industry City.",
+    "desc": "Hidden DUMBO patisserie by Ayaka Kurokawa — French-Japanese pastries; weekday-only.",
+    "longDesc": "Tucked inside the lobby of 68 Jay Street, Burrow is a tiny counter run by patissier and former Modern/Plaza Hotel pastry chef Ayaka Kurokawa, serving French-Japanese hybrids like matcha financiers, marron pound cake, canelés, and almond croissants. The space is speakeasy-like — you walk through an apartment building lobby to find it. Critically for Saturfun: Burrow is open Tue–Fri only and closed both Saturday and Sunday, so it cannot anchor a weekend dessert crawl as-is.",
     "url": "https://www.burrow.nyc/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
-      "curious",
       "foodie",
-      "photo"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "CLOSED Sat & Sun (Tue-Fri 10:00-15:00 only, until sold out)",
-    "notes": "DO-NOT-ROUTE for weekend itineraries — Burrow is closed both Saturday and Sunday (newyorkspork.com, behindthescenesnyc.com). Weekday-only Tue-Fri 10:00 to ~15:00, items sell out by early afternoon (yelp.com). Address: 68 Jay St #119, Brooklyn NY 11201; entry is through the office building lobby with minimal signage — the 'hidden' part is literal. Signature items: mont blanc with crispy meringue base and balanced cream (~$8), matcha financier, seasonal Japanese-flavored cakes (nbktimes.com). For Saturfun's 'Manhattan only if uniquely justified' test: Burrow does NOT satisfy a weekend Brooklyn-side Japanese-pastry slot — that gap stays open and must be filled by a weekend-open substitute (see enqueue) or, if none qualifies, justifies a Manhattan crossing.",
+    "duration": "20-30 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "closed Sat & Sun",
+    "notes": "Topic premise said 'Burrow Cobble Hill' — corrected: Burrow is at 68 Jay St Suite 119, DUMBO, not Cobble Hill (yelp.com/biz/burrow-brooklyn). Closed weekends, Tue–Fri 10am–3pm until sold out (dumbo.direct, foursquare). Signature: matcha financier, marron pound cake, canelé, almond croissant (wanderlog, behindthescenesnyc). Speakeasy-style counter inside an apartment lobby (nbktimes.com). **Saturfun blocker: weekend closure makes this unusable for Sat/Sun itineraries — flag for removal or save as a weekday-trip seed.** Joe Coffee operates the coffee program in the same building (joe.coffee).",
     "sources": [
       {
         "url": "https://www.burrow.nyc/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T20:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/burrow-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T20:00:00Z"
       },
       {
-        "url": "https://newyorkspork.com/best-bakeries-dumbo-nyc/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.behindthescenesnyc.com/burrow-pastry-shop-in-dumbo/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "http://dumbo.direct/burrow-sugar-addiction-on-the-rise-at-68-jay/",
+        "accessed": "2026-05-17T20:00:00Z"
       },
       {
         "url": "https://nbktimes.com/en/food-and-drink/burrow/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T20:00:00Z"
+      },
+      {
+        "url": "https://www.behindthescenesnyc.com/burrow-pastry-shop-in-dumbo/",
+        "accessed": "2026-05-17T20:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/burrow/52b204c0498efe3c3be32d91",
+        "accessed": "2026-05-17T20:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T19:54:18.714Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T19:58:46.298Z"
   },
   {
     "id": "nazz-forge",
@@ -23610,44 +23613,45 @@
   },
   {
     "id": "mr-tofu-bensonhurst",
-    "name": "Mr Tofu",
-    "desc": "One-man Brooklyn-Chinatown cart slinging house-made tofu pudding, soy milk, and herbal jellies on 86th St.",
-    "longDesc": "Tucked under a red awning on 86th St between produce vendors, Mr Tofu is a metallic street cart where a single proprietor turns out freshly pressed tofu, silky tofu pudding (douhua), house-made soy milk, gui ling gao (tortoise jelly), grass jelly, and mochi noodles (roxreels.com). It's a focused snack mission rather than a sit-down meal — quick, vegan-friendly, and refreshingly cheap, with a 5–10 min weekend wait that moves fast (zippicks.com). Pairs naturally with a Bensonhurst stroll through Brooklyn's third Chinatown.",
+    "name": "Mr. Tofu",
+    "desc": "Bensonhurst street-cart tofu pudding, soy milk, and gui ling gao — a Brooklyn dou-hua institution.",
+    "longDesc": "A one-man metal cart parked on 86th St in Brooklyn's Bensonhurst Chinatown serving freshly made silken tofu pudding (dou hua), house-pressed tofu, gui ling gao tortoise jelly, grass jelly, and fresh soy milk. The menu is tightly focused, fully vegetarian with mostly vegan options, and the pudding is naturally gluten-free — locals queue up for the warm/cold tofu base topped with brown-sugar syrup. Quick-stop dessert, not a sit-down spot.",
     "url": "https://www.yelp.com/biz/mr-tofu-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
-      "foodie"
+      "foodie",
+      "curious"
     ],
     "dietary": [
       "vegetarian",
-      "vegan"
+      "vegan",
+      "gluten-free"
     ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "14 min",
-    "hoursWeekend": "approx 9:00-19:00 (call 917-770-6618 to confirm)",
-    "notes": "Cart, not storefront — look for the red-awning herbal shop frontage on 86th St; easy to walk past (roxreels.com). Cash-friendly street-food setup, one-person operation (yelp.com). Street parking only; manageable afternoons, tighter evenings (zippicks.com). Drive from Industry City via 8th Ave → Bay Pkwy is ~6.5 mi. Pair with a Bensonhurst loop: 86th St dim-sum bakeries, fruit vendors, and the elevated D-train backdrop make a strong photo+snack track. Distinct from Industry City Tofu (44th St cart) — Mr Tofu adds tortoise jelly and mochi noodles to the lineup.",
+    "duration": "15-30 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "08:30-19:00",
+    "notes": "Note: the task referenced 'Yi Ji Shi Mo Tofu Pudding' on Bensonhurst 86th St, but Yi Ji Shi Mo is actually at 88 Elizabeth St in Manhattan Chinatown (rice rolls/cheung fun specialist). The tofu-pudding cart on 86th St Bensonhurst is Mr. Tofu, 2257 86th St, Brooklyn 11214 (yelp.com/biz/mr-tofu-brooklyn). Cash-friendly street operation; weekend street parking on Bay Pkwy side streets typically available. Pairs well as a 15-min sweet closer after a Bensonhurst/Sunset Park food crawl. Phone 917-770-6618 (yelp).",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/mr-tofu-brooklyn",
-        "accessed": "2026-05-17T05:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://zippicks.com/mr-tofu-brooklyn-11214/",
-        "accessed": "2026-05-17T05:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://roxreels.com/2021/08/05/brooklyn-chinatown-bensonhurst/",
-        "accessed": "2026-05-17T05:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:21:50.830Z"
+    "lastResearchedAt": "2026-05-17T20:09:02.174Z"
   },
   {
     "id": "authentic-szechuan-tofu-on-7th",
@@ -32877,5 +32881,136 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T19:51:38.351Z"
+  },
+  {
+    "id": "butter-and-scotch-crown-heights",
+    "name": "Butter & Scotch (PERMANENTLY CLOSED)",
+    "desc": "PERMANENTLY CLOSED — Crown Heights dessert + cocktail bar from Allison Kave & Keavy Landreth; do not route itineraries here.",
+    "longDesc": "Butter & Scotch was a pioneering dessert-bar concept at 818 Franklin Ave in Crown Heights, pairing pastry-chef-driven sweets (S'mores pie, sticky toffee trifle, maple-bacon cupcakes) with a rotating craft cocktail program, boozy milkshakes, and pie shakes spiked with bourbon. The bakery + bar hybrid ran ~2015 through the mid-2020s and was beloved for its 'dessert flight' format — a natural fit for evening dessert-forward tracks — but Yelp, Foursquare, and Eat This NY confirm the storefront is now permanently closed (Yelp listing flagged CLOSED as of March 2026). Owners' Instagram @drunkbakers may surface a successor venture worth requeuing.",
+    "url": "https://www.butterandscotch.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "crown-heights",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "CLOSED — formerly Sat 10:00-02:00 / Sun 10:00-00:00",
+    "notes": "DO NOT PROMOTE. Venue permanently closed per Yelp (updated 2026-03) and Foursquare 'Now Closed' tag, corroborated by Eat This NY (https://eatthisny.com/tag/butter-scotch/feed/). Address was 818 Franklin Ave between Union St & Eastern Pkwy, Crown Heights 11225. Concept (dessert flights + cocktails, weekend brunch service from 10am) is exactly the format Saturfun wants for evening dessert-forward tracks — corpus should backfill with a live equivalent. Owners Allison Kave + Keavy Landreth still publish as @drunkbakers on Instagram; check for a successor pop-up before discarding this slot.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/butter-and-scotch-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/butter--scotch/54ab2db6498ea38c2e72b628",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://ediblebrooklyn.com/2015/now-friday-preview-new-crown-heights-dessert-cocktail-bar-butter-scotch/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/inside-butter-scotch-the-new-bar-bakery-hybrid-in-crown-heights",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/butter-scotch",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T20:01:12.369Z"
+  },
+  {
+    "id": "yuanyang-dessert-86th",
+    "name": "YuanYang Dessert (鸳鸯糖水铺)",
+    "desc": "Hong Kong-style tong sui shop on 86th St — ginger milk pudding with an hourglass timer is the signature.",
+    "longDesc": "The Bensonhurst outpost of the Flushing favorite, this cozy Cantonese-style 糖水铺 (sweet soup shop) is built around classic Hong Kong desserts: ginger milk pudding (served with its own hourglass so you eat it at peak wobble), double-layer steamed milk custard, mango pomelo sago, taro-and-purple-rice with mochi balls, and milk teas. Tablet ordering, trilingual service, validated parking, and a calm, plant-filled room make it an easy savory→sweet closer right on the 86th St Chinatown corridor.",
+    "url": "https://www.yelp.com/biz/yuan-yang-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "Sits at 2174 86th St between Bay 31st/32nd, same corridor as Fu Yuan — perfect savory→sweet one-drive pairing (The Infatuation calls the ginger milk pudding 'incredible' — wobbles, soothes, and burns all at once). Tablet ordering, validated parking nearby, group-friendly portions meant to be shared. Bensonhurst is not in the canonical zone vocabulary; tagged 'industry-city' as the IC-orbit southern-Brooklyn cluster since it's only ~3.5 mi south of IC (much closer than Park Slope center).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/yuan-yang-brooklyn",
+        "accessed": "2026-05-17T19:58:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/yuanyang-dessert",
+        "accessed": "2026-05-17T19:58:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/yuanyangbrooklyn/",
+        "accessed": "2026-05-17T19:58:00Z"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/yuanyang-dessert-86street-yuan-yang-tang-shui-pu-2174-86th-street-brooklyn/12979480",
+        "accessed": "2026-05-17T19:58:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:03:59.507Z"
+  },
+  {
+    "id": "dun-huang-86th-bensonhurst",
+    "name": "Dun Huang (86th St Bensonhurst)",
+    "desc": "Lanzhou hand-pulled lamian and beef noodle soup on the 86th St corridor — savory anchor alternative to cheung fun.",
+    "longDesc": "Dun Huang 敦煌兰州牛肉面 is the Lanzhou-style hand-pulled noodle shop locals call the '86th St Brooklyn' location, sitting two blocks off 86th St at 8421 20th Ave in Bensonhurst. Signature bowl is the clear-broth Lanzhou beef noodle soup (hand-stretched lamian, white radish, chili oil, scallion) with strong sides like cumin lamb skewers, zha jiang noodles, and braised beef. Casual counter-service room, cash-friendly, bowls in the $10-13 range — a fast savory anchor for users who want pulled lamian or dumplings instead of cheung fun.",
+    "url": "https://www.yelp.com/biz/dun-huang-brooklyn-6",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "Note: topic was 'Lan Zhou Handmade Noodle 86th St Bensonhurst' but the actual 86th-St-corridor Lanzhou hand-pulled noodle shop is Dun Huang — the Lan Zhou Handmade Noodle brand's flagship is in Manhattan Chinatown (40 Bowery), not Bensonhurst. Address 8421 20th Ave, Brooklyn 11214 — two blocks north of 86th St (Fantuan lists it as 'Dun Huang 86st Brooklyn'). Closed Tuesdays; open weekends 11am-10pm. Sister branch at 817 60th St (Sunset Park). Order the Lanzhou beef noodle soup with hand-pulled (lamian) thickness — watch the noodle-puller in the open kitchen for a photo moment. Cumin lamb skewers, lamb-pie sandwich (rou jia mo), and dumplings round out a savory-anchor meal. Weekend curb parking on 20th Ave / 85th St is generally findable; metered parking on 86th St commercial strip. From IC (~36th St / 2nd Ave Sunset Park) take 3rd Ave south then east on 86th St — ~13 min off-peak. Bensonhurst is not yet a zone in the corpus schema; tagged industry-city as the anchor cluster reference. Schema gap to address. (source: yelp.com, fantuanorder.com, dunhuangbk.com)",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/dun-huang-brooklyn-6",
+        "accessed": "2026-05-17T20:00:00Z"
+      },
+      {
+        "url": "https://www.fantuanorder.com/store/dun-huang/us-12944",
+        "accessed": "2026-05-17T20:00:00Z"
+      },
+      {
+        "url": "https://www.dunhuangbk.com/",
+        "accessed": "2026-05-17T20:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T20:06:37.143Z"
   }
 ]
