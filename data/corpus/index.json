@@ -14078,45 +14078,45 @@
   {
     "id": "valentino-pier",
     "name": "Louis Valentino Jr. Park & Pier",
-    "desc": "Red Hook waterfront park with the best front-facing Statue of Liberty sunset view in NYC",
-    "longDesc": "A small grass-and-pier peninsula on Red Hook's western edge offering one of the city's most direct, front-facing views of the Statue of Liberty, Governors Island, and lower Manhattan. The pier itself juts into the harbor and is widely considered the best sunset perch in Brooklyn — golden hour lights up the statue and skyline simultaneously. Free, open year-round, with grass for lounging and benches on the pier.",
+    "desc": "Closest land-based front-facing view of the Statue of Liberty — Red Hook's signature sunset pier",
+    "longDesc": "A small Red Hook peninsula jutting into New York Harbor with the closest direct, front-facing view of the Statue of Liberty from anywhere on land in NYC (NYC Parks). The pier looks across to Governors Island, the Lower Manhattan skyline, and Staten Island, and is widely cited as one of the city's best sunset spots. Pair it with a Steve's Key Lime Pie stop two blocks away or dinner at Hometown Bar-B-Que for a complete Red Hook loop.",
     "url": "https://www.nycgovparks.org/parks/valentino-pier",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "romantic",
-      "photo"
+      "photo",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Sunset slot — arrive 30-45 min before sundown for golden-hour light on the statue (nyctourism.com). Address: Ferris St between Coffey & Van Dyke (nycgovparks.org). Parking is free street-only — Red Hook has generous weekend curb availability vs. brownstone neighborhoods (yelp). Pair with Brooklyn Crab, Hometown BBQ, or Fort Defiance just blocks away. NYC Parks standard hours 6am-1am apply; pier itself is unfenced.",
+    "notes": "Address: Ferris St between Coffey St and Van Dyke St (NYC Parks). Free street parking is generally available on weekends in surrounding Red Hook blocks — much easier than most of brownstone Brooklyn. NYC Parks default hours are 6 AM to 1 AM unless posted otherwise. Best arrival window is ~45 min before sunset; the pier faces directly west toward Lady Liberty. Bike parking on-site, kid-friendly (Yelp). Bonus: Steve's Authentic Key Lime Pie is a 3-min walk away on Pier 41 — classic Red Hook sunset combo.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/valentino-pier",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T21:20:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T21:20:00Z"
       },
       {
         "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T21:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
+        "accessed": "2026-05-17T21:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T03:49:00.858Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:25:27.529Z"
   },
   {
     "id": "oxomoco-greenpoint",
@@ -15476,30 +15476,34 @@
   },
   {
     "id": "fornino-pier-6",
-    "name": "Fornino at Pier 6",
-    "desc": "Wood-fired pizzeria with rooftop deck overlooking NY Harbor and the Statue of Liberty.",
-    "longDesc": "Casual waterfront Italian at Brooklyn Bridge Park's Pier 6 entrance, with a coveted rooftop deck where you eat blistered wood-fired pies in open air with direct harbor and Lower Manhattan views. Counter-style ordering keeps it relaxed (no white-tablecloth pressure), and the bar pours beer, wine, and Aperol spritzes — a strong cheap-ish alternative to a DUMBO sit-down when you want outdoor-only dinner. Pair with a stroll on the Pier 6 promenade past the Pilot schooner (sustainable seafood) and Bark Hot Dogs for further casual bites.",
+    "name": "Fornino at Pier 6 (Rooftop)",
+    "desc": "Seasonal wood-fired pizza on a Brooklyn Bridge Park rooftop facing the Statue of Liberty — sunset anchor.",
+    "longDesc": "Fornino's Pier 6 outpost is a seasonal pizzeria perched at the south end of Brooklyn Bridge Park, with a small rooftop deck that looks straight at the Statue of Liberty and lower Manhattan. Wood-fired pizzas, artisanal sodas, beer, wine and cocktails, served casually — the draw is the unobstructed harbor sunset, not fine dining. Rooftop is weather-permitting and seasonally limited; arrive ~45 min before sunset to claim a railing seat, then chain north along the BBP piers (Pier 5 → Pier 2 → Pier 1) for a full waterfront walk.",
     "url": "https://www.fornino.com/brooklyn-bridge-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "chill",
+      "romantic",
       "foodie",
       "photo",
-      "romantic"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "Sat 12:00-21:00, Sun 12:00-20:00 (seasonal)",
-    "notes": "Pier 6 entrance at Atlantic Ave & Furman St; rooftop is seasonal/weather-dependent and reopens for spring (amNewYork). Pilot schooner and Bark Hot Dogs also operate on the same pier as casual outdoor options (Brooklyn Bridge Park official). Weekend parking is metered street parking on Furman St / Joralemon and the Pier 6 ferry lot; arrive early on summer Saturdays.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 12:00-21:00, Sun 12:00-20:00 (seasonal, ~Apr-Oct, weather permitting)",
+    "notes": "Seasonal location — only operates roughly spring through fall; confirm open status before going (an outdated 'TEMP. CLOSED' duplicate listing exists on Yelp under slug fornino-brooklyn-9, but the active listing fornino-brooklyn-5 shows current reviews and hours). Rooftop reservations exist for groups up to 16 but most seating is walk-up first-come; rooftop seating is strictly weather-permitting (source: fornino.com/brooklyn-bridge-park, faq). Happy hour Mon-Fri 4-6 PM at park-level cafe; rooftop late happy hour 9:30-11 PM weather permitting (source: brooklynslifestyle.com). Parking: metered along Atlantic Ave, Furman St, and Joralemon — busy on summer weekends but generally findable within 5 min walk; BQE exit to Atlantic Ave is the fastest car route from IC. Pier 6 is at the southern entrance to BBP, near the beach-volleyball courts and playgrounds, so daytime is family-heavy — go closer to sunset for the romantic/photo vibe (source: brooklynbridgepark.org/places-to-see/pier-6). Pairs naturally with a Pier 1 → Pier 6 (or reverse) sunset walk; for a car-based chain, park once at Pier 6 and walk the piers north.",
     "sources": [
       {
         "url": "https://www.fornino.com/brooklyn-bridge-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/restaurants-cafes/fornino/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -15507,18 +15511,22 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.amny.com/lifestyle/eat-and-drink/forninos-rooftop-at-brooklyn-bridge-park-reopens-for-spring/",
+        "url": "https://www.yelp.com/biz/fornino-brooklyn-5",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://brooklynbridgepark.org/press-releases/brooklyn-bridge-park-announces-2026-season-preview/",
+        "url": "https://brooklynslifestyle.com/fornino-brooklyn-bridge-park-happy-hour/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/fornino-brooklyn-bridge-park-brooklyn",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T21:03:43.296Z"
+    "lastResearchedAt": "2026-05-17T21:23:00.542Z"
   },
   {
     "id": "pilot-oyster-schooner",
@@ -24710,14 +24718,13 @@
   {
     "id": "squibb-park-bridge",
     "name": "Squibb Park Bridge",
-    "desc": "Zigzagging pedestrian bridge linking Brooklyn Heights Promenade area to Brooklyn Bridge Park at Pier 1.",
-    "longDesc": "A whimsical zig-zagging pedestrian-only bridge that drops you from Squibb Park (one block off the Brooklyn Heights Promenade) down into Brooklyn Bridge Park's Greenway at Pier 1, a short stroll from the Pier 2 roller rink and basketball courts. Reopened May 4, 2020 after a full steel rebuild by Turner Construction, it offers framed harbor views of Lower Manhattan and the Brooklyn Bridge — a postcard-grade transition between the bluff-top Heights and the waterfront. Bikes must be walked; the bridge is free and family-friendly.",
+    "desc": "Zigzag steel pedestrian bridge from Brooklyn Heights down to Pier 1 — top-down park entry over the BQE.",
+    "longDesc": "A 450-ft Arup-designed steel switchback bridge that drops walkers from Squibb Park at Columbia Heights/Middagh down over the BQE to the Greenway at Pier 1 in Brooklyn Bridge Park. Reopened May 2020 after the original bouncy timber span was demolished; offers framed views of Lower Manhattan and the Brooklyn Bridge on the descent. Park in the residential blocks of Columbia Heights when the Pier 1/2 lots are full, then walk in from the top — bikes/scooters must be walked across.",
     "url": "https://brooklynbridgepark.org/places-to-see/squibb-park-bridge/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "romantic",
       "photo",
       "chill",
       "active"
@@ -24725,31 +24732,31 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "15-30 min",
-    "driveFromIC": "15 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "08:00-22:00",
-    "notes": "Bridge lands at Pier 1 — walk south ~5 min along the Greenway to reach the Pier 2 rink (brooklynbridgepark.org). Reconstruction completed 2020 (turnerconstruction.com). Park at Pier 6 paid lot or hunt Columbia Heights street parking; Squibb Park entrance is at Middagh St & Columbia Heights. Pedestrians only, cyclists must dismount (en.wikipedia.org).",
+    "notes": "Entry on Columbia Heights at Middagh St, one block off the Promenade (brooklynbridgepark.org). Bridge is open 8am–10pm and free; bikes/scooters must be walked across (brooklynbridgepark.org). Designed by Arup, built by Turner, reopened May 4, 2020 after the original timber span was demolished in late 2019 (6sqft, Wikipedia). Use when Furman St garage and Pier 6 lot are full — street parking is easier up on Columbia Heights/Willow than down on Furman, and the bridge drops you straight onto the Pier 1 Greenway.",
     "sources": [
       {
         "url": "https://brooklynbridgepark.org/places-to-see/squibb-park-bridge/",
-        "accessed": "2026-05-17T07:00:00Z"
+        "accessed": "2026-05-17T21:20:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Squibb_Park_Bridge",
-        "accessed": "2026-05-17T07:00:00Z"
+        "accessed": "2026-05-17T21:20:00Z"
       },
       {
-        "url": "https://www.brooklynbridgepark.org/pages/squibb-bridge",
-        "accessed": "2026-05-17T07:00:00Z"
+        "url": "https://www.6sqft.com/brooklyn-bridge-parks-rebuilt-squibb-bridge-will-reopen/",
+        "accessed": "2026-05-17T21:20:00Z"
       },
       {
-        "url": "https://www.turnerconstruction.com/projects/brooklyn-bridge-park-corporation-squibb-bridge",
-        "accessed": "2026-05-17T07:00:00Z"
+        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+        "accessed": "2026-05-17T21:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T06:59:16.576Z"
+    "lastResearchedAt": "2026-05-17T21:20:26.193Z"
   },
   {
     "id": "empire-fulton-ferry-janes-carousel",
@@ -33792,5 +33799,86 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T21:14:32.992Z"
+  },
+  {
+    "id": "front-general-store",
+    "name": "Front General Store",
+    "desc": "Japanese-owned curated vintage, workwear, and home goods shop on cobblestoned Front St in DUMBO",
+    "longDesc": "A tightly curated general store run by a Japanese couple, mixing vintage Americana (denim, military, workwear), FGS-original apparel, vintage designer bags, and small-batch home goods and dry goods. The interior leans warm wood and apothecary shelving — a slow browse rather than a rack-flip. Sits one block off Washington St, so it pairs naturally with the Manhattan Bridge view stop and Juliana's pizza.",
+    "url": "https://frontgeneralstore.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 10:30-18:30",
+    "notes": "Address: 143 Front St, Brooklyn NY 11201 (Yelp). Tight, well-edited inventory — vintage clothing, designer bags, headwear, footwear, stationery, kitchen + hardware goods (Yelp/owner blurb). Weekend street parking on Front/Pearl is tight; Pearl St Triangle and metered spots near the Archway turn over. Pairs well with Juliana's pizza + Manhattan Bridge photo on Washington St.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/front-general-store-brooklyn",
+        "accessed": "2026-05-17T21:20:00Z"
+      },
+      {
+        "url": "https://frontgeneralstore.com/",
+        "accessed": "2026-05-17T21:20:00Z"
+      },
+      {
+        "url": "https://nycvintagemap.com/stores/brooklyn/front-general-store/",
+        "accessed": "2026-05-17T21:20:00Z"
+      },
+      {
+        "url": "https://onthegrid.city/brooklyn/dumbo/front-general-store",
+        "accessed": "2026-05-17T21:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:16:22.570Z"
+  },
+  {
+    "id": "pebble-beach-bbp",
+    "name": "Pebble Beach at Brooklyn Bridge Park",
+    "desc": "Hidden cove of river-smoothed stones framed by the Manhattan Bridge — driftwood, lapping water, no sand.",
+    "longDesc": "A small rocky strand tucked between Pier 1 and the Main Street section of Brooklyn Bridge Park, Pebble Beach descends straight to the East River with the Brooklyn Bridge to the south and the Manhattan Bridge arching overhead — one of the few spots in NYC where you can stand at water level with both bridges in frame. Driftwood and sea glass collect along the cobbles, and at low tide kids skip stones while photographers stake out the Manhattan Bridge tower against the Lower Manhattan skyline. Pairs perfectly with Granite Prospect a five-minute walk south for a sunset → blue-hour two-stop loop (brooklynbridgepark.org).",
+    "url": "https://brooklynbridgepark.org/places-to-see/pebble-beach/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park is open daily 6AM–1AM, free entry (brooklynbridgepark.org). Pebble Beach sits in the Main Street section, easternmost edge of BBP, between the Brooklyn and Manhattan Bridges — best vantage is dead-center on the cobbles for the dual-bridge + One WTC composition (triptins.com). Driving from Industry City: take the BQE north to the Old Fulton St / Tillary St exit, ~18 min off-peak. Weekend metered street parking on Plymouth St and Water St (Sundays free citywide); the Brooklyn Bridge Park Pier 6 / Pier 2 garages are a 10-min walk south. Tide-dependent — at very high tide the pebble strand narrows to a few feet, so aim for mid-to-low tide for driftwood combing. Pairs with Granite Prospect (5-min walk south at Pier 1) for sunset, then blue hour back at Pebble Beach when the bridge lights come on.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pebble-beach/",
+        "accessed": "2026-05-17T21:20:00Z"
+      },
+      {
+        "url": "https://triptins.com/pebble-beach/",
+        "accessed": "2026-05-17T21:20:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/about/faqs/",
+        "accessed": "2026-05-17T21:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:18:25.071Z"
   }
 ]
