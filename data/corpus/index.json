@@ -2133,41 +2133,37 @@
   },
   {
     "id": "movement-gowanus",
-    "name": "Movement Gowanus",
-    "desc": "NYC's largest climbing gym — 36,000 sq ft of bouldering, top rope and lead across three floors",
-    "longDesc": "Movement Gowanus (formerly Brooklyn Boulders' flagship era) is the largest climbing gym in New York City at 36,000 sq ft, with 300+ top rope, lead, and bouldering problems spread across three floors. Day pass is $35 and includes shoe rental options; weekends pull a strong crowd so morning sessions are quieter. Great photo backdrop on the tall lead walls.",
+    "name": "Movement Gowanus (formerly The Cliffs at Gowanus)",
+    "desc": "NYC's largest climbing gym — 36,000 sq ft of rope, lead, and bouldering across 3 floors with rooftop terrace.",
+    "longDesc": "The Cliffs at Gowanus did not close; it was rebranded as Movement Gowanus after Movement acquired The Cliffs in 2022, and the facility still operates at the original 242 Butler St location. Three floors hold 300+ problems for top rope, lead, and bouldering, plus a dual speed wall, training board room, yoga, and a rooftop terrace with Manhattan/Brooklyn views. Weekend hours run 9am–10pm; street parking is limited so plan to arrive early or accept a short walk.",
     "url": "https://movementgyms.com/gowanus/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "carroll-gardens",
+    "zone": "park-slope",
     "vibe": [
       "active",
-      "photo"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "2-3 hr",
-    "driveFromIC": "12 min",
+    "driveFromIC": "15 min",
     "hoursWeekend": "09:00-22:00",
-    "notes": "Day pass $35; opens 9am Sat/Sun, closes 10pm (movementgyms.com). 242 Butler St — street parking around Bond/Nevins is usually findable on weekend mornings. Mornings/early afternoons are the quietest windows on weekends (yelp.com).",
+    "notes": "The Cliffs at Gowanus rebranded to Movement Gowanus in 2022 after Movement acquired The Cliffs chain — same building at 242 Butler St, same NYC's-largest footprint (movementgyms.com). Confirmed still operating in 2026 via official site. Address sits on the Gowanus/Park Slope border, ~15 min drive from Industry City. Day pass + gear rental available for drop-ins; weekend parking is limited street parking only (movementgyms.com).",
     "sources": [
       {
         "url": "https://movementgyms.com/gowanus/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T07:10:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/movement-gowanus-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.indoorclimbinggym.com/gyms/movement-gowanus-brooklyn/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.facebook.com/TheCliffsAtGowanus/",
+        "accessed": "2026-05-17T07:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:12:41.535Z"
+    "lastResearchedAt": "2026-05-17T07:15:54.816Z"
   },
   {
     "id": "kick-axe-throwing",
@@ -5735,9 +5731,9 @@
   },
   {
     "id": "vital-climbing-williamsburg",
-    "name": "VITAL Climbing Gym — Brooklyn (Williamsburg)",
-    "desc": "Bouldering-only gym in Williamsburg with indoor walls plus a rooftop boulder area — day passes welcome.",
-    "longDesc": "VITAL's Williamsburg flagship is a bouldering-focused gym at 221 N 14th St with indoor problems, a rooftop bouldering deck, plus yoga, cycle and lifting areas (vitalclimbinggym.com/brooklyn). No-rope format means short, social sessions — drop in for a day pass ($38 + 4.5% NYC sales tax, includes one class) without a membership. Open weekends 9am–10pm with on-street parking available and easy BQE access from Industry City.",
+    "name": "VITAL Climbing Gym – Williamsburg",
+    "desc": "Bouldering-only gym in north Williamsburg with rooftop walls and aerial/yoga studios stacked above.",
+    "longDesc": "VITAL's Brooklyn flagship at 221 N 14th St is a bouldering-only facility (no roped climbing) with walls at varied angles, rooftop bouldering, and adjacent aerial silks, yoga, cycle, and fitness studios — closer to an all-day movement campus than a pure climbing gym. Day pass is $38 and includes one class; shoe rental is $5. Hours run weekends 9:00–22:00 with 24/7 access for members, making it an easy late-morning or post-brunch stop for an active-track group willing to drive ~20 min north from Industry City.",
     "url": "https://www.vitalclimbinggym.com/brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5748,36 +5744,32 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "1-2 hr",
+    "duration": "90-120 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "09:00-22:00",
-    "notes": "Bouldering-only — no top-rope or lead, which makes it a fast in/out compared to traditional climbing gyms (vitalclimbinggym.com/brooklyn-gym). Rooftop boulder area is the differentiator vs. other NYC gyms. Day pass $38 + ~4.5% NYC tax, includes one drop-in class (vitalclimbinggym.com/first-visit). Rentals (shoes/chalk) available on site. Street parking in north Williamsburg is doable on weekends but tight near Bedford Ave — try side streets above N 12th. From IC: BQE north to Metropolitan/Williamsburg exits, ~22 min off-peak. Pair with food in Williamsburg post-climb to keep the cluster tight.",
+    "notes": "Bouldering ONLY — earlier task framing of 'roped climbing' is incorrect for this location; aerial silks classes exist but are gymnastics, not roped rock climbing (vitalclimbinggym.com). For true bouldering + ropes, The Cliffs at LIC is the better comparison. Day pass $38 includes one class; shoe rental $5 (yelp.com, Feb 2025). 221 N 14th St sits between Kent Ave and the BQE — weekend street parking is tight; nearby paid lots on Wythe Ave. ~20-25 min drive from IC via Gowanus Expy / BQE. Rooftop bouldering is a notable photo + vibe differentiator vs. Brooklyn Boulders alternatives.",
     "sources": [
       {
         "url": "https://www.vitalclimbinggym.com/brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.vitalclimbinggym.com/brooklyn-gym",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.vitalclimbinggym.com/first-visit",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/vital-climbing-gym-brooklyn-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.mindbodyonline.com/explore/locations/vital-climbing-gym-williamsburg",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://travelexperta.com/vital-climbing-gym-brooklyn/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:11:30.328Z"
+    "lastResearchedAt": "2026-05-17T07:13:58.678Z"
   },
   {
     "id": "dumbo-boulders",
@@ -5829,8 +5821,8 @@
   {
     "id": "threes-brewing-gowanus",
     "name": "Threes Brewing (Gowanus)",
-    "desc": "Beloved Gowanus brewery + taproom with kitchen, coffee bar, and a sprawling backyard — easy post-class drink near Brooklyn Glass.",
-    "longDesc": "Threes Brewing's flagship Gowanus location pairs its hop-forward pilsners and hazy IPAs with a full kitchen (Grand Army South pop-up) and a separate coffee program for designated drivers. The cavernous main bar opens into a covered backyard, giving you flexible seating after a hot session at Brooklyn Glass five minutes away. Weekend hours run noon to late, so it absorbs any after-class slot from early afternoon through dinner.",
+    "desc": "Sprawling brewery + beer garden with The Meat Hook food, coffee bar, and a music venue out back",
+    "longDesc": "Threes' Gowanus flagship at 333 Douglass St is a working brewery, brewpub, beer garden, and music venue all in one. Day-drink lagers and IPAs on the front patio, grab a sausage or smash burger from The Meat Hook kitchen, then drift to the back room for shows; Ninth Street Espresso handles caffeine from 8am. Five-minute walk from Brooklyn Boulders / Gowanus climbing — ideal post-send pint.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5845,22 +5837,26 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 12:00-00:00 (kitchen til 23:00), Sun 12:00-23:00 (kitchen til 22:00)",
-    "notes": "333 Douglass St, Brooklyn — flagship Gowanus taproom with backyard and full kitchen via Grand Army South (threesbrewing.com). ~5 min drive / under a mile from Brooklyn Glass on 3rd Ave, making it the natural post-furnace stop. Coffee bar on-site for non-drinkers / the DD. Street parking on Douglass and Nevins is usually findable on weekends; bigger lots near Whole Foods 3rd Ave a few blocks south. Saturday hours noon–midnight, Sunday noon–11pm per official site (threesbrewing.com).",
+    "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
+    "notes": "333 Douglass St, Brooklyn NY 11217 (Yelp). Fully-functioning brewery + coffee shop + beer shop by day, brewpub + beer garden + music venue by night (threesbrewing.com). Food from The Meat Hook; Ninth Street Espresso 8am-3pm daily (threesbrewing.com). Street parking in Gowanus is generally findable on weekends; ~5 min walk to The Cliffs at Gowanus / Brooklyn Boulders, making this a natural post-climb refuel.",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T07:10:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T07:10:00Z"
+      },
+      {
+        "url": "https://www.beermenus.com/places/18430-threes-brewing-gowanus",
+        "accessed": "2026-05-17T07:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T02:12:14.016Z"
+    "lastResearchedAt": "2026-05-17T07:17:37.670Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -15598,30 +15594,26 @@
   {
     "id": "janes-carousel",
     "name": "Jane's Carousel",
-    "desc": "Restored 1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge — $3/ride, walk-up.",
-    "longDesc": "A meticulously restored 48-horse 1922 Philadelphia Toboggan Company carousel housed in a luminous glass pavilion designed by Jean Nouvel, set right on the East River in Brooklyn Bridge Park's Empire Fulton Ferry section. Rides are $3 each (12 for $20); kids under 42\" or age 3 and under ride free with a paying adult, and no reservation is needed — just queue at the pavilion. From May 14 through Sep 18 it runs Wed–Mon 11:00–19:00 (closed Tuesdays), making it the perfect 30-minute romantic/photo counterpoint to the Time Out Market rooftop a 3-min walk away.",
+    "desc": "1922 wooden carousel inside a Jean Nouvel glass pavilion under the Brooklyn Bridge",
+    "longDesc": "A meticulously restored 48-horse Philadelphia Toboggan Company carousel from 1922, encased in a luminous Jean Nouvel-designed glass box on the DUMBO waterfront. Ten-minute rides for $4 deliver one of the most photogenic vantages in NYC: spinning horses framed by the Brooklyn Bridge and the lower Manhattan skyline. Pairs naturally with a stroll on the Brooklyn Bridge Park promenade or a climbing session at nearby DUMBO Boulders.",
     "url": "https://janescarousel.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
-      "romantic",
       "photo",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "11:00-19:00",
-    "notes": "Summer schedule (May 14–Sep 18) is Wed–Mon 11:00–19:00, closed Tue; winter (Sep 18–May 13) is Thu–Sun 11:00–18:00 (janescarousel.com/hours). No reservation for general rides — $3/ride, 12 for $20, kids under 42\" free with paying adult (janescarousel.com). Park in the LAZ garage at 90 Furman St (Pier 1) or City Parking at 360 Furman St (Pier 6) — limited metered spots on Furman near Pier 2 are 3-hr max; SpotHero is the reliable pre-book option (brooklynbridgepark.org). Pavilion glass + Manhattan skyline backdrop is the photo money shot, best at golden hour ~30 min before close. Private buyouts/birthday rentals exist for groups but require booking via the venue.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "10:00-18:50 (summer, through Sept 13); 11:00-17:50 off-season",
+    "notes": "Tickets $4/ride, one adult + one child under 42\" share a ticket (janescarousel.com). Closed Tuesdays in summer; closed Mon-Tue in fall/spring; closed Mon-Wed in winter. Parking: metered lot on Furman near Pier 2 (3hr max) or paid garages at 90 Furman (LAZ, Pier 1) and 360 Furman (City Parking, Pier 6); DUMBO street parking is scarce on weekends (brooklynbridgepark.org). Glass pavilion glows at golden hour — strongest photo window is the last ride slot before close.",
     "sources": [
       {
         "url": "https://janescarousel.com/hours/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://janescarousel.com/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -15636,7 +15628,7 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T06:14:33.838Z"
+    "lastResearchedAt": "2026-05-17T07:11:56.093Z"
   },
   {
     "id": "bbp-pier-1-granite-prospect",
@@ -24838,5 +24830,46 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T07:07:36.217Z"
+  },
+  {
+    "id": "brooklyn-roasting-pierhouse",
+    "name": "Brooklyn Roasting Company — Pierhouse (Brooklyn Bridge Park)",
+    "desc": "Sustainable BK roaster's espresso bar at Pierhouse — validated parking, 5-min walk to Time Out Market DUMBO.",
+    "longDesc": "Brooklyn Roasting Company's original 25 Jay St DUMBO flagship is permanently closed (did not survive the pandemic, per Yelp). The Pierhouse / 1 Hotel Brooklyn Bridge location at 1 Clinton St is the active espresso bar in this corridor — a tucked-in cafe steps from Brooklyn Bridge Park Pier 1, pulling shots from BRC's own roastery beans on full-immersion pour-overs and traditional espresso. Crucially for a drive day, the Pierhouse garage validates parking for cafe guests, which is unique in the DUMBO/BBP area where street parking is essentially impossible on weekends.",
+    "url": "https://www.brooklynroasting.com/pages/our-stores",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "Note: the original 25 Jay St DUMBO location is permanently CLOSED (source: Yelp, BRC official stores page no longer lists it). Pierhouse location is the active DUMBO-adjacent BRC and the right pick for a drive-in caffeine stop. Pair with Time Out Market DUMBO (~5 min walk via Furman St / BBP greenway) or Brooklyn Bridge Park Pier 1 photo loop. Validated parking in the Pierhouse garage is the killer feature — most DUMBO street parking is metered/permit-only and packed on weekends. Closes at 5pm weekends so this is a morning/early-afternoon stop, not an evening one. From Industry City: Gowanus Expy → BQE to Cadman Plaza W exit, ~13 min off-peak (source: official store page, Yelp).",
+    "sources": [
+      {
+        "url": "https://www.brooklynroasting.com/pages/our-stores",
+        "accessed": "2026-05-17T07:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-roasting-company-brooklyn-19",
+        "accessed": "2026-05-17T07:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-roasting-company-brooklyn-2",
+        "accessed": "2026-05-17T07:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:09:59.203Z"
   }
 ]
