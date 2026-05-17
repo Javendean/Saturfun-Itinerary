@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Hex & Company board game cafe Brooklyn or Manhattan locations",
-    "reason": "Comparable curated-library board-game cafe chain; check if any Brooklyn outpost exists within IC drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:06:42.398Z"
-  },
-  {
-    "topic": "Twenty Sided Store Williamsburg board games and RPG",
-    "reason": "Williamsburg game store/event space with weekend play sessions, fits 15-min IC drive cluster already in roadmap",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:06:42.398Z"
-  },
-  {
-    "topic": "The Brooklyn Strategist 148 Pierrepont St Brooklyn Heights board game cafe",
-    "reason": "Sibling business to Hex & Co. and Sip & Play's main Brooklyn competitor — sits in Brooklyn Heights cluster, 12-15 min from IC, fills the topic's original 'Hex-style cafe in Brooklyn' intent",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:09:30.019Z"
-  },
-  {
-    "topic": "Hex & Co. Union Square 801 Broadway Manhattan board game cafe",
-    "reason": "Closest real Hex location to Brooklyn if a user explicitly wants the Hex brand; Manhattan exception worth indexing for completeness even though it falls outside the driving-preferred radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:09:30.019Z"
-  },
-  {
-    "topic": "Uncommon Goods retail + Park Slope 5th Ave weekend stroll anchor venues",
-    "reason": "Sip & Play sits on the dense 5th Ave Park Slope retail strip — adjacent venues on the same block expand the Park Slope cluster's mix-and-match itinerary options",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:09:30.019Z"
-  },
-  {
     "topic": "The Brooklyn Strategist Carroll Gardens board game cafe play tables",
     "reason": "Sister category — driving-friendly tabletop play space in Carroll Gardens cluster, expands games/play corpus beyond Williamsburg",
     "requestedBy": "agent",
@@ -9058,5 +9028,89 @@
     "reason": "Williamsburg alt within 15-min IC radius — game retail with weekend play events",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T09:06:08.969Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg board game retail and event space",
+    "reason": "Closest non-Hex-affiliated curated board game spot in IC radius (~15 min drive); rounds out the corpus with a Williamsburg alternative for the geographic-tracks model",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:08:31.520Z"
+  },
+  {
+    "topic": "Sunshine Laundromat & Pinball Greenpoint pinball speakeasy",
+    "reason": "Adjacent 'curated games + drinks' venue concept; vintage pinball curation parallels Hex's board-game curation ethos, ~22 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:08:31.521Z"
+  },
+  {
+    "topic": "Wonderville Bushwick indie arcade bar",
+    "reason": "Independent-developer arcade with rotating cabinets — curated-library energy on the video-game side; ~18 min from IC, fits the 'curious' vibe cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:08:31.521Z"
+  },
+  {
+    "topic": "The Hall at Rockwood Music Hall Williamsburg-adjacent live music",
+    "reason": "Evening upgrade for the Williamsburg cluster after a board-game browse + dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:10:34.300Z"
+  },
+  {
+    "topic": "Hex & Co. Manhattan board game cafe comparison",
+    "reason": "Comparison point for tabletop venues; helps decide whether Twenty Sided stays the sole NYC pick or needs alternates",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:10:34.300Z"
+  },
+  {
+    "topic": "Sip & Play 402 Atlantic Ave Boerum Hill board game cafe",
+    "reason": "Other major Brooklyn board-game cafe; sits between Brooklyn Heights and Park Slope clusters, ~10 min from IC — direct comparison venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:12:37.064Z"
+  },
+  {
+    "topic": "Hex & Co. Upper East Side / Upper West Side board game cafe",
+    "reason": "Manhattan sibling business explicitly referenced in the topic; useful as a 'why drive Brooklyn instead' contrast even if Manhattan-only",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:12:37.064Z"
+  },
+  {
+    "topic": "Iris Cafe 20 Columbia Pl Brooklyn Heights quiet coffee",
+    "reason": "Brooklyn Heights cluster pairing — chill cafe 4 min from Brooklyn Strategist for pre/post-game caffeine that the cafe inside can't fully cover",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:12:37.064Z"
+  },
+  {
+    "topic": "The Brooklyn Strategist Cobble Hill board game cafe Court Street",
+    "reason": "Brooklyn-native equivalent to Hex & Co. inside the IC driving radius — fills the same 'board game cafe' slot without Manhattan detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:14:39.477Z"
+  },
+  {
+    "topic": "Twenty Sided Store Williamsburg tabletop games event nights",
+    "reason": "Williamsburg TCG/board game shop with weekend play space — direct Brooklyn alternative to Hex's TCG side, 15 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:14:39.477Z"
+  },
+  {
+    "topic": "The Uncommons Greenwich Village board game cafe Thompson St",
+    "reason": "Other notable Manhattan board game cafe near NYU; useful Manhattan-exception sibling entry for corpus completeness even if outside driving radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:14:39.478Z"
+  },
+  {
+    "topic": "Annie's Blue Ribbon General Store, 232 5th Ave Park Slope",
+    "reason": "Quirky curated gifts/homewares/stationery — quick 20-min stop that adds 'browse and buy something fun' to a Park Slope stroll between Sip & Play and brunch",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:17:08.492Z"
+  },
+  {
+    "topic": "The Ripped Bodice romance bookstore, 218 5th Ave Park Slope",
+    "reason": "First U.S. bookstore exclusively for romance, frequent author events on weekends — a destination retail stop that draws specifically for itineraries with a literary/curious vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:17:08.492Z"
+  },
+  {
+    "topic": "Uncommon Goods Brooklyn HQ sample sale schedule",
+    "reason": "Periodic in-person sales at 140 58th St inside Industry City — if a calendar exists, would be a rare retail tie-in to the IC anchor itself; needs date-specific verification before being itinerary-worthy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T09:17:08.492Z"
   }
 ]

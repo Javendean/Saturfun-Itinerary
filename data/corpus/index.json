@@ -6039,8 +6039,8 @@
   {
     "id": "twenty-sided-store",
     "name": "Twenty Sided Store",
-    "desc": "Williamsburg indie game shop with MTG/FNM, RPG nights, and a tight Brooklyn tabletop community.",
-    "longDesc": "Twenty Sided is a 280 Grand St staple that's anchored Williamsburg's tabletop scene since 2011 — curated TCG/board game selection, weekly Friday Night Magic, board game and RPG events, and pickup D&D. Retail hours run 12-7pm daily but event nights (FNM, RPG sessions) extend later, so confirm via their calendar before driving over. A solid Brooklyn alternative that obviates Midtown game-store trips for casual play.",
+    "desc": "Williamsburg's curated board-game and tabletop RPG shop with weekend D&D and Magic events.",
+    "longDesc": "A retail-meets-event-space hub at 280 Grand Street stocking the largest curated board-game selection in NYC, from indie designers to Magic: the Gathering and authorized D&D inventory. Weekends bring drop-in Magic drafts, organized D&D play, mini-painting classes, and worldbuilding workshops. Open daily 12-7pm — easy to slot in as a 30-45 min browse or a multi-hour event stop.",
     "url": "https://twentysidedstore.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -6051,32 +6051,36 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "1-3 hr",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "12:00-19:00 (retail; event nights run later)",
-    "notes": "280 Grand St, Brooklyn NY 11211 — Williamsburg, walkable from L/G/J trains but easy drive from IC via Prospect Expy + BQE. Specializes in MTG, RPGs, board games (twentysidedstore.com). 88+ Yelp reviews, longtime WPN-affiliated FNM venue (yelp.com). Phone 718-963-1578. Street parking only — Williamsburg metered/residential, plan for 5-10 min hunting on weekend evenings. Event calendar at twentysidedstore.com/pages/calendar lists FNM, board game nights, indie RPG sessions.",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "12:00-19:00",
+    "notes": "280 Grand St, Brooklyn NY 11211; open 7 days 12-7pm (twentysidedstore.com/pages/faq). Authorized D&D and Magic dealer with weekend tournaments, RPG one-shots, mini-painting and improv classes (twentysidedstore.com/collections/events). Curbside parking on Grand and nearby side streets is realistic on weekends; closest paid garage is the Williamsburg Hotel area. Free RPG Day announced for 2026-06-27 (twentysidedstore.com). For the IC cluster: works as a 30-45 min curio stop between food and drinks in the Williamsburg track; upgrade to 2-3 hr if joining a scheduled event.",
     "sources": [
       {
-        "url": "https://twentysidedstore.com/pages/contact",
-        "accessed": "2026-05-17T08:50:00Z"
+        "url": "https://twentysidedstore.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://twentysidedstore.com/pages/faq",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://twentysidedstore.com/pages/about-us",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://twentysidedstore.com/collections/events",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/twenty-sided-store-brooklyn",
-        "accessed": "2026-05-17T08:50:00Z"
-      },
-      {
-        "url": "https://twentysidedstore.com/pages/calendar",
-        "accessed": "2026-05-17T08:50:00Z"
-      },
-      {
-        "url": "https://locator.wizards.com/store/12923",
-        "accessed": "2026-05-17T08:50:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:54:44.899Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T09:10:34.278Z"
   },
   {
     "id": "levant-on-smith",
@@ -11546,10 +11550,10 @@
   {
     "id": "brooklyn-strategist",
     "name": "The Brooklyn Strategist",
-    "desc": "Drop-in board game cafe with 1000+ titles, kid programs and adult RPG/TCG nights",
-    "longDesc": "After 15 years in Carroll Gardens, this gaming hub relocated to a larger space at the base of One Pierrepont Plaza in Brooklyn Heights, where $15 gets you all-day access to a library of more than 1000 board, card, miniature, and role-playing games. Programming spans kids' classes (chess, Pokemon, D&D, Magic) and adult campaigns and tournaments, with private rooms for parties. Saturday night 'Games with Strangers' runs 7-11pm and pairs solo drop-ins into game groups.",
+    "desc": "Brooklyn Heights board-game cafe with 1,000+ games and walk-in play for $15.",
+    "longDesc": "A community board-game cafe at 148 Pierrepont in Brooklyn Heights with a library of 1,000+ board and card games, full cafe service, and structured drop-in play. Walk-ins welcome at $15/person; reservations available 24 hours ahead; weekends include 'Games with Strangers' Saturday nights and family open-play on 1st/3rd weekends.",
     "url": "https://thebrooklynstrategist.com/",
-    "photoUrl": "",
+    "photoUrl": "https://thebrooklynstrategist.com/wp-content/uploads/2025/11/DSC_3013-1024x683.jpeg",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
@@ -11557,33 +11561,33 @@
       "curious"
     ],
     "dietary": [],
-    "priceBand": "$",
-    "duration": "2-4 hr",
-    "driveFromIC": "14 min",
-    "hoursWeekend": "Sat 10:00-23:00, Sun 10:00-20:00",
-    "notes": "Originally at 333 Court St in Carroll Gardens, moved to 148 Pierrepont St in Brooklyn Heights after a rent hike (Brooklyn Eagle). Walk-ins are $15/person; reservations 24h+ in advance recommended (thebrooklynstrategist.com). Cafe on-site; private rooms bookable. Closer parking is tougher in Brooklyn Heights than the old Carroll Gardens block—aim for street parking on Cadman Plaza/Henry St or use the One Pierrepont Plaza garage.",
+    "priceBand": "$$",
+    "duration": "90-180 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "09:00-23:00",
+    "notes": "1,000+ board & card games library; $15/person drop-in (Yelp, thebrooklynstrategist.com). Sat 'Games with Strangers' 7-11pm; 1st/3rd weekends host BHA family open-play (thebha.org). Sibling-style answer to Manhattan's Hex & Co. and Brooklyn's Sip & Play. Cafe serves hot food + drinks; reservations 24h+ ahead by phone +1 (718) 576-3035. Street parking on Pierrepont/Henry; weekend metering is light in Brooklyn Heights but tight — Pierrepont Playground garages on Cadman Plaza are the reliable backup.",
     "sources": [
       {
         "url": "https://thebrooklynstrategist.com/",
-        "accessed": "2026-05-17T08:55:00Z"
-      },
-      {
-        "url": "https://brooklyneagle.com/356971/carroll-gardens-game-store-moving-to-brooklyn-heights/",
-        "accessed": "2026-05-17T08:55:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-brooklyn-strategist-brooklyn",
-        "accessed": "2026-05-17T08:55:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://foursquare.com/v/the-brooklyn-strategist/4f42a95ee4b01e8250101ad2",
-        "accessed": "2026-05-17T08:55:00Z"
+        "url": "https://thebha.org/events/event/board-game-sunday-with-the-bha-and-brooklyn-strategist/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d13417750-Reviews-The_Brooklyn_Strategist-New_York_City_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:56:52.120Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T09:12:37.044Z"
   },
   {
     "id": "hex-and-company-union-square",
@@ -25880,48 +25884,43 @@
   },
   {
     "id": "hex-and-co-union-square",
-    "name": "Hex & Co. Union Square (nearest outpost — Manhattan)",
-    "desc": "Bright board-game cafe with 1,000+ titles, bar-style fare, full coffee/beer/cocktail bar; no Brooklyn location, Union Square is closest.",
-    "longDesc": "Hex & Co. operates three Manhattan-only locations; Union Square at 801 Broadway is the nearest outpost to Industry City and the most car-accessible via the Manhattan Bridge. Table fee runs $15/player for unlimited play from a 1,000+ game library, and the kitchen serves pressed sandwiches, mac and cheese, BBQ chicken pizza and Melt ice cream sandwiches alongside Brooklyn Roasting Company coffee, beer, cider, cocktails and milkshakes. Bright, spacious room with bar-style fare and full café service — works as a 2–3 hour anchor when the group wants a fuller foodie + drinks angle on a game day.",
+    "name": "Hex & Co. Union Square",
+    "desc": "Manhattan board game cafe with 500+ games, full bar, cafe menu, and TCG/RPG event space.",
+    "longDesc": "Hex & Co.'s Union Square outpost (801 Broadway) is the brand's closest location to Brooklyn — a full bar and cafe wrapped around a 500+ title board game library with pro-run D&D, MTG/Pokemon TCG events, and youth programming. Tabletop play runs $15/player with student discounts Mon–Thu; weekends are heavily booked, so the venue strongly recommends reserving a table online.",
     "url": "https://www.hexnyc.com/hexco-union-square/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "chill",
-      "curious",
-      "foodie"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "22 min",
+    "duration": "2-3 hrs",
+    "driveFromIC": "30 min",
     "hoursWeekend": "10:00-23:00",
-    "notes": "Manhattan venue — included because no Brooklyn Hex outpost exists; Union Square is the closest of the three (West Side at 2911 Broadway and East Side at 1462 1st Ave are farther from IC). Drive: IC → Manhattan Bridge → Bowery → 12th St, ~22 min off-peak / 30+ peak. Weekend street parking is brutal around Union Square; budget $25–40 for an Icon/SP+ garage on E 13th or University Pl. Full bar means this complements Strategist's drop-in/no-food model with a real kitchen + cocktail angle (source: hexnyc.com, Yelp May 2026). Tag 'zone: dumbo' is a proxy — actual location is Manhattan/Union Square; no Manhattan zone exists in the enum.",
+    "notes": "Manhattan exception, NOT in Brooklyn — 801 Broadway near Union Square / Greenwich Village; zoned as 'dumbo' because it's the closest enum value (across the Manhattan Bridge). Drive from IC is ~30 min via Gowanus Expy + Manhattan Bridge with no Brooklyn-style street parking — expect to use a paid garage on E 11th/University Pl. $15/player game fee covers unlimited library access (hexnyc.com). Walk-ins welcome but weekend reservations strongly advised due to 'high visitation Sat–Sun' (hexnyc.com). Only justify routing here if a guest specifically wants the Hex brand or pairs it with a Union Square / Strand Bookstore stop; otherwise prefer Brooklyn Strategist (Cobble Hill) or Twenty Sided Store (Williamsburg) for the driving-preferred radius.",
     "sources": [
       {
         "url": "https://www.hexnyc.com/hexco-union-square/",
-        "accessed": "2026-05-17T08:50:00Z"
-      },
-      {
-        "url": "https://www.hexnyc.com/menus-union-square/",
-        "accessed": "2026-05-17T08:50:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/hex-and-company-new-york-3",
-        "accessed": "2026-05-17T08:50:00Z"
+        "accessed": "2026-05-17T09:10:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/news/this-new-board-game-cafe-near-union-square-is-packed-with-500-games-052623",
-        "accessed": "2026-05-17T08:50:00Z"
+        "accessed": "2026-05-17T09:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hex-and-company-new-york-3",
+        "accessed": "2026-05-17T09:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:50:28.594Z"
+    "lastResearchedAt": "2026-05-17T09:14:39.456Z"
   },
   {
     "id": "marlow-and-sons",
@@ -26003,5 +26002,52 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T09:06:08.948Z"
+  },
+  {
+    "id": "beacons-closet-park-slope",
+    "name": "Beacon's Closet — Park Slope",
+    "desc": "Iconic Brooklyn vintage + consignment on Park Slope's 5th Ave shopping strip, same block as Sip & Play",
+    "longDesc": "Beacon's Closet is the destination Brooklyn vintage/used-clothing store, with this Park Slope outpost at 92 5th Ave sitting in the densest stretch of weekend foot traffic on the avenue. Rotating racks of designer-and-streetwear consignment (women's, men's, accessories) plus a buy/sell/trade counter make it a 30–60 min stop that anchors a stroll between Sip & Play, indie bookstores, and the brunch spots clustered between St Marks and Sterling. Cash + card accepted; gets busy 1–4pm on Saturdays so go earlier or later.",
+    "url": "https://beaconscloset.com/pages/park-slope",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-60 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "11:00-20:00",
+    "notes": "Located at 92 5th Ave between St Marks Pl and Warren St; Sat/Sun 11am–8pm (source: beaconscloset.com locations page). Drive from Industry City via 3rd Ave → Atlantic → 5th Ave is ~12–14 min weekends. Metered street parking on 5th Ave or the Park Slope Municipal Lot at 343 6th Ave (~5 min walk). Pairs naturally with Sip & Play (119 5th Ave) and the dense 5th Ave retail row — Annie's Blue Ribbon General Store, The Ripped Bodice romance bookshop, Bird boutique — for a 2–3 hour Park Slope stroll. Note on original topic: Uncommon Goods at 140 58th St inside Industry City is HQ/fulfillment only with no regular public storefront (source: Wikipedia, Uncommon Goods company entry); occasional sample sales would need date-specific research, not a standing itinerary anchor.",
+    "sources": [
+      {
+        "url": "https://beaconscloset.com/pages/park-slope",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://beaconscloset.com/pages/locations",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/beacons-closet-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/heres-why-we-think-brooklyns-fifth-avenue-is-nycs-coolest-street-right-now-031324",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Uncommon_Goods",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T09:17:08.470Z"
   }
 ]
