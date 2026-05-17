@@ -2422,17 +2422,17 @@
   },
   {
     "id": "japan-village-food-hall",
-    "name": "Japan Village",
-    "desc": "Same-roof Japanese food hall + Sunrise Mart cluster inside IC — anchors a Japan Village mini-track with WakuWaku.",
-    "longDesc": "NYC's flagship Japanese food hall, occupying the ground floor of Industry City Building 2. Houses the city's largest Sunrise Mart grocery, Panya Bakery (shokupan + curry pan), Ramen Setagaya (Mt. Fuji-style tonkotsu/niboshi-leaning bowls), and ~10 other stalls — Gohei, Obentoyasan, Hachi, Handroll Bar, Moriya, Shokusaido, Sake's Bar, Yamada, Umami House — plus Sushi Uesugi, Gyuya yakiniku, JTunes karaoke, Kuraichi sake shop, and the WakuWaku izakaya/cocktail bar that this mini-track is built around. Zero drive time when you're already at IC; lets the group graze (shokupan to go, niboshi-style ramen lunch, Sunrise Mart restock) without leaving the courtyard.",
+    "name": "Japan Village Food Hall",
+    "desc": "20,000-sq-ft Japanese food hall inside Industry City with 11+ stalls — the always-open IC fallback when Night Market is dark",
+    "longDesc": "Tucked inside Building 4 at Industry City, Japan Village is a 20,000-sq-ft Japanese marketplace combining a food hall, a sit-down sushi restaurant (Sushi Uesugi), a cocktail bar (Oldies), karaoke (JTunes), and the largest Japanese grocery in NYC. Food stalls include Ramen Setagaya (tonkotsu), Handroll Bar (temaki), Panya Bakery (curry pan, shokupan, matcha), plus Gohei, Hachi, Moriya, Shokusaido, Yamada, Umami House, Gyuya, and Waku Waku. Open daily year-round, so it's the dependable substitute when the IC Night Market isn't running.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
@@ -2440,15 +2440,11 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-20:30 food hall / 11:00-21:00 Sunrise Mart; Sun 11:00-19:00",
-    "notes": "Located at 934 3rd Ave, Brooklyn — this IS Industry City Building 2, so it's the anchor itself, not a drive. Food hall closes 20:30 Fri-Sat, earlier other days; Sunrise Mart runs an extra 30 min later (source: japanvillage.com/eat-drink). Panya Bakery is the shokupan stop (Sat-Sun 11-19); Ramen Setagaya is the ramen stall — confirm niboshi vs. tonkotsu day-of since menu rotates (source: amny.com / japanvillage.com). Free IC garage parking on weekends. Pairs naturally with WakuWaku as the evening pivot inside the same complex.",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Located at 934 3rd Ave inside Industry City Building 4 (japanvillage.com). 11 food stalls plus restaurant, bar, karaoke, and Sunrise Mart grocery (6sqft.com). Weekend hours: Sat 11a-9p, Sun 11a-8p (yelp.com). Use as the always-open IC substitute for Saturday Night Market Nov-Mar or non-last-Saturdays — no drive required since it's on-site. Vegetarian options at Panya (bakery) and several udon/ramen veggie bowls; not certified halal or GF.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.japanvillage.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -2456,18 +2452,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://sunrisemart.com/pages/visit-us",
+        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:44:03.402Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T03:08:30.581Z"
   },
   {
     "id": "cafe-here-red-hook",
@@ -22477,5 +22473,169 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T03:02:22.526Z"
+  },
+  {
+    "id": "smorgasburg-prospect-park",
+    "name": "Smorgasburg Prospect Park",
+    "desc": "Sunday open-air food market with 60+ vendors at Breeze Hill, April–October.",
+    "longDesc": "Smorgasburg's Sunday outpost takes over Breeze Hill near the Lincoln Road entrance to Prospect Park, fielding 60-plus rotating vendors slinging everything from ramen burgers and birria tacos to mochi donuts and natural wine slushies. The 2026 season runs every Sunday from April through October, 11am–6pm, and it's the cleanest weekend counterpart to Industry City's weekday food scene — a 15–20 minute drive away with street parking on the Eastern Parkway / Flatbush side.",
+    "url": "https://www.smorgasburg.com/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sun 11:00-18:00",
+    "notes": "Sundays only, April through October — confirmed Sunday May 17, 2026 11am-6pm (prospectpark.org). Enter Prospect Park at Lincoln Road; market sits on Breeze Hill (smorgasburg.com/locations). Closest weekend parking on Flatbush Ave / Empire Blvd; cash + card accepted at most stalls. Pairs naturally with a post-market walk to the Brooklyn Botanic Garden or Grand Army Plaza farmers market on the same morning.",
+    "sources": [
+      {
+        "url": "https://www.prospectpark.org/visit-the-park/things-to-do/smorgasburg/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.smorgasburg.com/locations",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynslifestyle.com/smorgasburg-nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T03:04:23.133Z"
+  },
+  {
+    "id": "sunset-park-greenmarket-7th-ave",
+    "name": "7th Ave Sunset Park Greenmarket",
+    "desc": "Year-round Saturday farmers market at 7th Ave & 44th St — 5 min drive from Industry City.",
+    "longDesc": "GrowNYC-run neighborhood greenmarket operating every Saturday year-round, 8:00 am to 3:00 pm at 7th Avenue & 44th Street in Sunset Park. Current vendor roster includes Liberty Farms (organic vegetables, poultry, certified-welfare meats), Meredith's Country Bakery, Toigo Orchards II (fruits and greenhouse vegetables), and Walnut Ridge Farm (poultry, eggs, jams, baked goods, mushrooms). Compact, easy in-and-out stop that pairs naturally with an Industry City afternoon — accepts cash, cards, SNAP/EBT, and Health Bucks.",
+    "url": "https://www.grownyc.org/7aveSunsetParkGreenmarket",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "Sat 08:00-15:00",
+    "notes": "Year-round, rain or shine since 2018 (grownyc.org). Located on 7th Ave & 44th St, ~0.9 mi uphill from Industry City — street parking is generally available on 7th Ave side streets Saturday mornings. The seasonal sister market on 4th Ave between 59th & 60th runs only July 11 – Nov 21 and is closed in May (grownyc.org/4AveSunsetParkGreenmarket). Pair with coffee in IC before, or a Sunset Park taco lunch on 5th Ave after.",
+    "sources": [
+      {
+        "url": "https://www.grownyc.org/7aveSunsetParkGreenmarket",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.grownyc.org/4AveSunsetParkGreenmarket",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T03:06:26.905Z"
+  },
+  {
+    "id": "brooklyn-eats-here-2026",
+    "name": "Brooklyn Eats Here 2026",
+    "desc": "Two-day Sunset Park waterfront food festival with 50 Brooklyn vendors, music, and family programming.",
+    "longDesc": "Brooklyn Eats Here brings 50 curated borough food operators — restaurants, street vendors, dessert concepts, and packaged-food brands — to the Sunset Park waterfront at Industry City for two full days on June 13–14, 2026. Distinct from the monthly Brooklyn Night Market: this is a weekend-long, larger-roster festival with live music, contests, giveaways, and family-friendly activities drawing thousands of attendees. Pairs naturally with an IC stop — same campus, but a richer one-day food crawl than the IC Food Hall alone.",
+    "url": "https://www.brooklyneatshere.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "2-3 hours",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "12:00-21:00 (TBD)",
+    "notes": "June 13–14, 2026 only. 50 Brooklyn food vendors set up on the Sunset Park waterfront at Industry City (220 36th St) (brooklyneatshere.com). Two days of food, music, thousands of attendees; games/contests/giveaways for families (brooklyneatshere.com). NOT the same as Brooklyn Night Market — that's monthly Mondays with 40+ vendors (secretnyc.co). IC's published events calendar for those dates lists VinylCon NYC indoors, so BK Eats Here likely occupies the outdoor plaza/waterfront strip (industrycity.com/events). Exact hours and ticket model not yet posted on official site — confirm before the date. IC weekend parking lots ($) on-site; venue is ~5 min walk from any IC building.",
+    "sources": [
+      {
+        "url": "https://www.brooklyneatshere.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://secretnyc.co/best-food-and-drink-festivals-nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/events/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T03:11:43.266Z"
+  },
+  {
+    "id": "hancos-park-slope",
+    "name": "Hanco's (Park Slope)",
+    "desc": "Park Slope's go-to Vietnamese counter — pork banh mi, pho, bubble tea on 7th Ave",
+    "longDesc": "Family-run Brooklyn Vietnamese mini-chain (est. 2005) whose South Slope outpost on 7th Ave anchors a fast banh mi + pho + bubble tea menu for weekend grab-and-go. Crusty baguette with grilled pork or shredded chicken and bright pickled veg runs ~$9-11; counter service moves in 5-15 min even on a Saturday. A clean alternative to the 8th Ave Sunset Park triangle when that strip is crushed.",
+    "url": "https://www.hancos.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "354 7th Ave, Brooklyn NY 11215 (South Slope). Counter order + small dine-in room; mostly takeout. Street parking on 7th Ave/side streets is generally manageable before 6pm on weekends, tighter at dinner. Signature pork banh mi praised for crunchy-outside-soft-inside baguette and pickled veg balance (Yelp 2026 reviews). Tofu/veg sandwich available for vegetarians. Two sibling locations (Smith St in Cobble Hill, Montague in Brooklyn Heights) offer fallback if Park Slope is slammed.",
+    "sources": [
+      {
+        "url": "https://www.hancos.com/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hanco-s-brooklyn",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://zippicks.com/hancos-brooklyn-11215/",
+        "accessed": "2026-05-16"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T03:14:12.704Z"
   }
 ]
