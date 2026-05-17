@@ -16171,8 +16171,8 @@
   {
     "id": "house-of-yes",
     "name": "House of Yes",
-    "desc": "Bushwick's wildest circus-cabaret nightclub — burlesque, drag, aerial acts, then late-night DJ dance floor",
-    "longDesc": "House of Yes is a Bushwick institution at 2 Wyckoff Ave (entrance 408 Jefferson St), running Thursday through Sunday with theatrical variety shows in the early evening — circus, burlesque, drag cabaret — that roll into late-night DJ dance parties on the multi-room floor. Costumes are encouraged, the crowd is queer-friendly and high-energy, and the venue brands itself as a 'temple of expression.' On Friday and Saturday doors typically open at 7pm and the party runs until 4am, with separate ticketed shows earlier and dance entry later.",
+    "desc": "Iconic Bushwick performance-fueled nightclub with aerial circus, theatrical variety shows, and late-night dance parties.",
+    "longDesc": "Housed in a converted warehouse at 2 Wyckoff Ave, House of Yes is Brooklyn's most celebrated immersive nightlife venue — known for aerialists, costumed dancers, and themed parties that blur cabaret, circus, and club. Most weekends feature an early-evening theatrical variety show (around 8pm) followed by a late-night DJ dance party until 4am, with explicit consent culture and a 'dress with intention' policy. Pairs perfectly with a Turk's Inn dinner one block away before doors open.",
     "url": "https://www.houseofyes.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -16183,29 +16183,33 @@
       "active"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "2-4 hr",
+    "priceBand": "$$$",
+    "duration": "2-4 hours",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Fri-Sat 19:00-04:00",
-    "notes": "Higher-energy finale option for a Bushwick evening — pairs well after dinner/drinks in the same cluster. Park 2-4 blocks away; street parking in Bushwick is tight and dedicated lots are scarce (houseofyes.org, Yelp). Costume/dress-to-express culture; buy tickets in advance via Shotgun since shows sell out. 21+ for most late shows. 1-min walk from Jefferson L if guests want to leave the car at IC and train back.",
+    "hoursWeekend": "Fri-Sat 19:00-04:00; Thu 22:00-04:00; closed Sun-Wed",
+    "notes": "Address 2 Wyckoff Ave (entrance at 408 Jefferson St); one block from Jefferson St L stop (houseofyes.org). Weekend street parking in Bushwick is workable but tight — paid parking passes can be purchased per-show via Vivid Seats (vividseats.com). Strict consent culture and dress-up encouraged. Most shows ticketed in advance — check calendar (donyc.com).",
     "sources": [
       {
         "url": "https://www.houseofyes.org/",
-        "accessed": "2026-05-17T14:00:00Z"
+        "accessed": "2026-05-17T23:30:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/House_of_Yes_(Brooklyn)",
+        "accessed": "2026-05-17T23:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/house-of-yes-brooklyn",
-        "accessed": "2026-05-17T14:00:00Z"
+        "accessed": "2026-05-17T23:30:00Z"
       },
       {
         "url": "https://discotech.me/brooklyn/house-of-yes/",
-        "accessed": "2026-05-17T14:00:00Z"
+        "accessed": "2026-05-17T23:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T14:01:29.050Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:33:04.575Z"
   },
   {
     "id": "turks-inn-bushwick",
@@ -28476,42 +28480,38 @@
   {
     "id": "birds-of-a-feather",
     "name": "Birds of a Feather",
-    "desc": "Michelin-team modern Sichuan with one of Brooklyn's deepest natural-leaning wine lists.",
-    "longDesc": "Despite the 'Bushwick wine bar' framing, Birds of a Feather is the Yiming Wang and Xian Zhang Sichuan restaurant at 191 Grand St in Williamsburg — sister to Michelin-starred Cafe China. The wine program spans sparkling, white, orange, and red across multiple regions and pairs unusually well with mapo, dan dan, and dry-pot dishes (corkage $40 per 750ml).",
+    "desc": "Upscale Sichuan from the Cafe China team — numbing-spicy classics in a plant-filled Williamsburg dining room.",
+    "longDesc": "From the Michelin-starred team behind Manhattan's Cafe China, Birds of a Feather brings serious Sichuan cooking to 191 Grand Street with mapo tofu, dan dan noodles, and dry-fried chicken alongside more creative riffs. The greenery-draped room and well-paced service make it a smart sit-down dinner before bouncing 8-10 minutes east to Mood Ring or other Bushwick bars. Reservations strongly recommended on weekends.",
     "url": "https://birdsofafeatherny.com/",
-    "photoUrl": "",
+    "photoUrl": "https://birdsofafeatherny.com/_next/static/media/willow.191897fc.png",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "foodie",
-      "curious"
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "75-90 min",
     "driveFromIC": "18 min",
-    "hoursWeekend": "11:00-22:30",
-    "notes": "Topic was tagged 'Bushwick natural wine bar 5 min from 233 Starr Karaoke' but the actual venue is a Sichuan restaurant in Williamsburg at 191 Grand St (birdsofafeatherny.com) — roughly a 12 min drive, not a walk, from 233 Starr. The wine list is unusually deep and orange-wine-friendly, so it still works as a 'great wine + great food' anchor, just not a pre-karaoke one. Lunch Sat-Sun 11:00-16:30; dinner Fri-Sat to 22:30, Sun to 22:00. For the original Bushwick pre-karaoke intent, see enqueued candidates.",
+    "hoursWeekend": "Sat 11:00-22:30, Sun 11:00-22:00",
+    "notes": "Task said Bushwick but venue is in Williamsburg at 191 Grand St (Yelp, official site). Williamsburg → Mood Ring (1260 Myrtle Ave, Bushwick) is ~8 min drive, so still works as the pre-bar dinner anchor. From Cafe China team — credible Sichuan, not a generic neighborhood pick (Yelp 1700+ photos, 4+ star). Street parking exists on Grand St but tight on weekends; Driggs/Roebling side streets usually easier.",
     "sources": [
       {
-        "url": "https://birdsofafeatherny.com/menu",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://birdsofafeatherny.com/",
+        "accessed": "2026-05-17T23:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/birds-of-a-feather-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/birds-of-a-feather",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T23:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T13:57:31.318Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T23:37:11.282Z"
   },
   {
     "id": "robertas-bushwick",
@@ -34648,5 +34648,145 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T23:19:42.774Z"
+  },
+  {
+    "id": "doner-kebab-turks-inn",
+    "name": "Döner Kebab at Turk's Inn",
+    "desc": "Casual sidewalk kebab counter inside the kitschy Turk's Inn complex — $13 sandwiches before a Sultan Room show",
+    "longDesc": "The takeout sibling of Bushwick's neon-Wisconsin-Turkish supper club Turk's Inn. The Kebab Kiosk slings chicken, lamb, halloumi, and seitan döner on Turkish focaccia (or piled over fries) for around $13 a plate, with vegan and gluten-free options. It shares 234 Starr St with the full restaurant and The Sultan Room music venue, so it's the grab-and-go move before a gig or as a budget Bushwick anchor.",
+    "url": "https://turksinnkebab.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "halal",
+      "gluten-free"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "14:00-00:00",
+    "notes": "Three-in-one complex: kebab counter, full restaurant, Sultan Room music venue, each with its own entrance (timeout.com, bkreader.com). Kebab counter hours Tue-Thu & Sun 2pm-11pm, Fri-Sat 2pm-midnight (turksinnkebab.com). Sandwiches on Turkish focaccia or over fries ~$13 with vegan/halloumi/seitan options (turksnyc.com). ~20 min drive Industry City → 234 Starr St via BQE; street parking on Starr/Wyckoff usually findable on weekends. Pair with a Sultan Room show or as a cheaper alternative to a full Turk's Inn sit-down dinner.",
+    "sources": [
+      {
+        "url": "https://turksinnkebab.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://turksnyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/d%C3%B6ner-kebab-at-turks-inn-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/the-turks-inn-and-doener-kebab",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/news/a-kitschy-midwestern-turkish-supper-club-is-making-a-bushwick-revival-6543815",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:29:26.531Z"
+  },
+  {
+    "id": "mood-ring",
+    "name": "Mood Ring",
+    "desc": "Astrology-themed Bushwick cocktail lounge with sign-based drink specials and tarot-mural back wall",
+    "longDesc": "Mood Ring is an astrology-inspired cocktail bar on Myrtle Ave in Bushwick with a teal-LED bar backlight, galaxy-marble bar top, and a tarot card mural that anchors the room. Drink specials rotate with the astrological calendar (each sign gets its own cocktail), and weekends push late into a low-key dance floor with disco/'70s cosmic vibes — a strong walkable nightcap after Turk's Inn / Sultan Room (Bushwick Daily, NYC Tourism).",
+    "url": "https://www.instagram.com/moodringnyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Fri-Sat 18:00-04:00, Sun 18:00-02:00",
+    "notes": "1260 Myrtle Ave, Brooklyn NY 11221 — ~5 min walk from Turk's Inn/Sultan Room so pairs cleanly into a Bushwick evening cluster (Yelp). Sign-based cocktails change with the zodiac calendar; tarot mural + galaxy bar top photograph well in low light (Bushwick Daily). LGBTQ+-friendly per Travelgay. Late close (4am Fri/Sat) makes it the natural last stop of the night. Street parking on Myrtle/Hart is usable late weekend; Sultan Room block has more.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/mood-ring-brooklyn-2",
+        "accessed": "2026-05-17T23:30:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/bars/4863-mood-ring-bushwick/",
+        "accessed": "2026-05-17T23:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/mood-ring/",
+        "accessed": "2026-05-17T23:30:00Z"
+      },
+      {
+        "url": "https://www.travelgay.com/venue/mood-ring",
+        "accessed": "2026-05-17T23:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:31:18.352Z"
+  },
+  {
+    "id": "the-johnsons-bushwick",
+    "name": "The Johnson's",
+    "desc": "Spacious 70s-basement dive on Troutman with jukebox, pool, pinball, and $3-$5 happy-hour drinks",
+    "longDesc": "The Johnson's transplanted its Lower East Side dive DNA to a sprawling Troutman Street space that looks like somebody's parents' basement circa 1978 — wood paneling, jukebox, pool table, pinball, and a back room that occasionally hosts live bands or burlesque (Bushwick Daily). Drinks are dirt-cheap by NYC standards with a $5 cocktail / $3 beer happy hour running daily 5-9pm, and the unpretentious mix of regulars and Bushwick newcomers makes it a perfect grimy counterweight to slicker bars in the corridor. It's a 7-minute walk from Mood Ring, making it the natural late-night second stop after a craft-cocktail opener.",
+    "url": "http://www.thejohnsonsbushwick.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "15:00-04:00",
+    "notes": "369 Troutman St, Brooklyn NY 11237 (Yelp). Opens daily at 3pm; weekend close commonly cited as 4am (AllBars, Yelp). Happy hour daily 5-9pm: $5 cocktails, $3 beers (Best-Brooklyn). Jukebox + pool table + pinball, back-room live music / burlesque on select nights (Bushwick Daily). 7-min walk from Mood Ring (1260 Myrtle Ave) — pair as late-night dive contrast. Weekend street parking on Troutman/Jefferson is generally findable after 10pm; metered until 7pm.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/the-johnsons-brooklyn",
+        "accessed": "2026-05-17T23:30:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/restaurants/1958-the-johnsons-collective-review-kinda-of-a-new-bushwick-bar/",
+        "accessed": "2026-05-17T23:30:00Z"
+      },
+      {
+        "url": "https://allbarsapp.com/bar/brooklyn-ny/the-johnson-s/4eb6f731-6208-40ae-82d5-54e2c6686e2f",
+        "accessed": "2026-05-17T23:30:00Z"
+      },
+      {
+        "url": "https://www.best-brooklyn.com/bars/the-johnsons/",
+        "accessed": "2026-05-17T23:30:00Z"
+      },
+      {
+        "url": "http://www.thejohnsonsbushwick.com/",
+        "accessed": "2026-05-17T23:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:35:07.309Z"
   }
 ]
