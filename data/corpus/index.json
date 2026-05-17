@@ -20240,23 +20240,25 @@
   {
     "id": "hachi-japan-village",
     "name": "Hachi at Japan Village",
-    "desc": "Takoyaki + okonomiyaki kiosk inside Japan Village food hall at Industry City",
-    "longDesc": "A charming Osaka-style street-food kiosk tucked inside Japan Village's food hall at Industry City. Hachi grills takoyaki (octopus balls), okonomiyaki, taiyaki, yakisoba, yakiudon, and omu-yakisoba in an open kitchen — exactly the savory Japanese street snacks the task's original 'Otafuku-Ya' brief was reaching for. Pairs perfectly with the adjacent ramen/sushi/sake stalls for an in-complex mini-crawl.",
+    "desc": "Japanese street-snack counter inside Japan Village: takoyaki, taiyaki, yakisoba, okonomiyaki.",
+    "longDesc": "Hachi is a kiosk in the Japan Village food hall at Industry City styled like a Japanese street-market stand, with an open kitchen turning out takoyaki (octopus balls), taiyaki (fish-shaped red-bean pastries), yakisoba, yakiudon, and okonomiyaki. Despite a common mix-up, it is not the ramen counter at Japan Village — that role belongs to Ramen Setagaya next door — so Hachi is best slotted as a snack/photo stop rather than a sit-down noodle meal. Cash-and-counter pacing makes it an easy add-on to any IC anchor block.",
     "url": "https://www.japanvillage.com/eat-drink/hachi",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
+      "photo",
       "curious"
     ],
-    "dietary": [],
-    "priceBand": "$$",
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "0 min (inside IC)",
     "hoursWeekend": "Sat 12:00-20:30, Sun 12:00-19:30",
-    "notes": "Task brief named 'Otafuku-Ya Brooklyn' but no such stall exists at Japan Village — the original Otafuku-Ya in East Village is permanently closed (yelp.com/biz/otafuku-new-york-2) and Japan Village's takoyaki+okonomiyaki vendor is actually Hachi (japanvillage.com/eat-drink/hachi). Substituted Hachi as the correct match for the task's intent. Located inside Japan Village food hall at 934 3rd Ave, Brooklyn, NY 11232 — same building as Industry City, so drive time is effectively zero. Food-hall parent hours are wider (Sa 11:00-21:00, Su 11:00-20:00) but Hachi's kiosk hours are tighter (Sa 12:00-20:30, Su 12:00-19:30) — plan around the stall, not the hall.",
+    "notes": "Counter inside Japan Village food hall, Building 4 at Industry City, 934 3rd Ave (japanvillage.com). Menu: takoyaki, taiyaki, yakisoba (pork/chicken/seafood/veggie), yakiudon, omu-yakisoba, okonomiyaki (japanvillage.com). NOT the ramen counter — task topic said 'Hachi ramen' but Hachi serves teppan/grill street snacks; the JV ramen counter is Ramen Setagaya (yelp.com). Veggie yakisoba supports vegetarian; okonomiyaki/takoyaki batters typically contain dashi so flag for strict-vegetarian guests. Parking: IC's own lots (paid, weekend availability good).",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/hachi",
@@ -20267,22 +20269,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "url": "https://www.yelp.com/biz/hachi-brooklyn-4",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/otafuku-new-york-2",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://industrycity.com/visit/eat/japan-village",
+        "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T00:00:13.889Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:14:35.470Z"
   },
   {
     "id": "sakes-bar-japan-village",
@@ -20412,5 +20410,177 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T00:10:27.068Z"
+  },
+  {
+    "id": "handroll-sushi-bar-japan-village",
+    "name": "Handroll Sushi Bar (Japan Village)",
+    "desc": "Made-to-order temaki counter inside Japan Village food hall — no weekend hours published",
+    "longDesc": "A small temaki-only counter inside Sunset Park's Japan Village food hall, rolling scallop, negi toro, and yellowtail handrolls one-by-one in front of guests. As of May 2026 the official site publishes only weekday hours (Mon–Thu 3–6pm, Fri 12–8pm); the parent food hall is open weekends but this specific stall does not list Saturday/Sunday service, so weekend-only itineraries should treat it as closed until phone-confirmed.",
+    "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "2 min",
+    "hoursWeekend": "Closed (per official site — Mon–Thu 3–6pm, Fri 12–8pm only)",
+    "notes": "Official Japan Village stall page lists only weekday hours and omits Sat/Sun entirely (japanvillage.com/eat-drink/handroll-sushi-bar, accessed 2026-05-16). Parent food hall is open Sat 11:00–20:30 and Sun 11:00–19:00 (japanvillage.com/eat-drink, accessed 2026-05-16), but the temaki counter itself appears to be a weekday-lunch/early-evening service only. Recommended action: phone Japan Village at +1 347-584-4578 to confirm before placing on any Sat/Sun itinerary; until then, route weekend Japan Village visitors to Sushi Uesugi or other in-hall vendors. Walkable from Industry City (~5-block walk / 2-min drive), street parking on 3rd Ave or use IC garages.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T00:17:05.224Z"
+  },
+  {
+    "id": "quimbys-bookstore-nyc",
+    "name": "Quimby's Bookstore NYC",
+    "desc": "Brooklyn Gothic zine + alt-press shop next door to Desert Island — punk, occult, outlaw art, queer presses",
+    "longDesc": "Williamsburg outpost of the iconic Chicago zine institution, opened 2017 at 536 Metropolitan in a taxidermy-decorated 'Brooklyn Gothic' room stocked with handmade minicomics, anarchist tracts, punk and DIY history, queer and BIPOC small presses, occult, cycling, and death-metal greeting cards. Sits literally next door to Desert Island Comics (540 Metropolitan), so the two form a single one-block indie-print stop. Hosts readings, signings, and rotating local-artist displays.",
+    "url": "https://quimbysnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-20:00, Sun 12:00-19:00",
+    "notes": "Pair with Desert Island next door (540 Metropolitan) for a back-to-back indie-print run; weekend metered parking on Metropolitan/Union Ave, free street parking on Sundays in most of north BK. Specializes in zines, queer/BIPOC small press, punk and anarchy, outlaw art, occult, cycling (quimbysnyc.com). 'Taxidermy-bedecked space that can only be described as Brooklyn Gothic' (amNewYork). Phone (347) 889-5569.",
+    "sources": [
+      {
+        "url": "https://quimbysnyc.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Quimby's_Bookstore",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/quimbys-bookstore-nyc-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.amny.com/entertainment/quimby-s-iconic-chicago-bookstore-opens-in-nyc-1-13114115/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/shopping/quimbys-bookstore-nyc/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:19:13.893Z"
+  },
+  {
+    "id": "anyone-comics",
+    "name": "Anyone Comics",
+    "desc": "Crown Heights indie comic shop with in-house artists-in-residence and a basement event space.",
+    "longDesc": "Owner Dimitrios Fragiskatos runs Anyone Comics as a creator-first shop: working artists draw on-site, a basement clubhouse hosts launches and 24-hour comic marathons, and the annual Pride Fair celebrates LGBTQIA+ creators. The selection spans single issues, manga, and indie graphic novels, and staff actively help newcomers navigate where to start.",
+    "url": "https://www.anyonecomics.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "crown-heights",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-19:00",
+    "notes": "Moved from 1216 Union St to 831 Nostrand Ave around 2023 (comicsbeat.com). Basement event space hosts signings + late-night marathons (brooklynpaper.com). Pairs naturally with a Crown Heights food stop (Chavela's, Glady's) before or after. Street parking generally easier on Lincoln Pl / St. Johns Pl than on Nostrand itself.",
+    "sources": [
+      {
+        "url": "https://www.anyonecomics.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/anyone-comics-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/business-innovation/crown-heights-now-anyone-can-create-comics-anyone-comics-6542274",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.comicsbeat.com/anyone-comics-is-closing-and-reopening-around-the-corner/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/late-night-comics-crown-heights-shop-hosts-24-hour-comic-book-marathon/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:21:13.191Z"
+  },
+  {
+    "id": "spoonbill-sugartown-booksellers",
+    "name": "Spoonbill & Sugartown Booksellers",
+    "desc": "Williamsburg indie since 1999 with deep art, design, architecture, and rare-book stacks.",
+    "longDesc": "A Bedford Ave institution founded in 1999, Spoonbill mixes new releases, used copies, and rare/signed editions with a strong tilt toward art, design, photography, and architecture monographs (Wikipedia). Exhibition catalogs, artist books, and small-press titles sit next to remainders, which makes it a natural pair-stop with Desert Island Comics four minutes away on Metropolitan Ave.",
+    "url": "https://spoonbillbooks.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-60 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "218 Bedford Ave, Brooklyn NY 11211; phone (718) 387-7322 (Yelp). Official site lists 11am-9pm daily; some third-party listings show 10am-10pm so confirm before late visits. Weekend parking on Bedford is metered and competitive — better to park on Berry/Wythe or use the N. 6th St garage. Pairs naturally with Desert Island Comics (540 Metropolitan Ave, ~4 min walk/drive) for a Williamsburg browse track.",
+    "sources": [
+      {
+        "url": "https://spoonbillbooks.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Spoonbill_&_Sugartown_Books",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/spoonbill-and-sugartown-booksellers-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycbookstores.org/spoonbill-and-sugartown-booksellers/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:23:19.909Z"
   }
 ]

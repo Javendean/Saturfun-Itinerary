@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Hachi ramen counter at Japan Village",
-    "reason": "Completes the Japan Village counter trio (handroll / sushi / ramen) so itineraries can rotate within the same anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:08:23.357Z"
-  },
-  {
-    "topic": "Confirm weekend hours for Handroll Bar — phone Japan Village",
-    "reason": "Current corpus entry has unconfirmed Sat/Sun hours; weekend-only itinerary users need this resolved",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:08:23.357Z"
-  },
-  {
-    "topic": "Quimby's Bookstore Brooklyn (Williamsburg zines)",
-    "reason": "Closest spiritual sibling to Desert Island — zine/small-press depth in Brooklyn, broadens the indie-print cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:10:16.190Z"
-  },
-  {
-    "topic": "Bergen Street Comics successor / Anyone Comics Crown Heights",
-    "reason": "Adds a second Brooklyn indie comics node further south, useful for Park Slope/Crown Heights tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:10:16.190Z"
-  },
-  {
-    "topic": "Spoonbill & Sugartown Booksellers Williamsburg",
-    "reason": "Art-book/used-book counterpart 4 min from Desert Island — natural pair-stop on a Williamsburg browse track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:10:16.190Z"
-  },
-  {
     "topic": "Cafe Zaiya Bryant Park (Japanese bakery + bento)",
     "reason": "Same J-culture Manhattan loop — pair with Kinokuniya across the street; melon pan and curry-pan grab on the way out",
     "requestedBy": "agent",
@@ -6466,5 +6436,95 @@
     "reason": "Expands the higher-end sushi tier across Brooklyn neighborhoods for upgrade paths",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T00:12:19.396Z"
+  },
+  {
+    "topic": "Ramen Setagaya at Japan Village",
+    "reason": "Actual ramen counter inside Japan Village — completes the handroll/sushi/ramen trio the task was reaching for and resolves the Hachi=ramen mislabel",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:14:35.485Z"
+  },
+  {
+    "topic": "Gohei at Japan Village (sushi counter)",
+    "reason": "Rounds out the Japan Village counter set so itineraries can rotate handroll vs. sushi vs. ramen vs. street-snacks within the same IC anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:14:35.485Z"
+  },
+  {
+    "topic": "Umami House at Japan Village",
+    "reason": "Another JV counter with distinct cuisine; expands within-anchor rotation depth without leaving Industry City",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:14:35.485Z"
+  },
+  {
+    "topic": "Re-research existing venue: Sushi Uesugi at Japan Village (weekend hours + omakase price)",
+    "reason": "Direct in-hall substitute for Handroll Sushi Bar when weekend itineraries land at Japan Village; need confirmed Sat/Sun hours to replace the gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:17:05.245Z"
+  },
+  {
+    "topic": "Japan Village weekend vendor sweep — which of the ~12 stalls actually open Sat/Sun",
+    "reason": "Multiple corpus entries point at Japan Village stalls; a single sweep would resolve weekend coverage for all of them at once",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:17:05.245Z"
+  },
+  {
+    "topic": "Best driving-friendly handroll/temaki counter within 15 min of Industry City open on weekends",
+    "reason": "If Handroll Sushi Bar stays weekday-only, weekend itineraries need a comparable temaki option in the IC drive radius (Carroll Gardens / Park Slope candidates likely)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:17:05.246Z"
+  },
+  {
+    "topic": "Spoonbill & Sugartown Booksellers (Williamsburg art books)",
+    "reason": "Completes the Williamsburg indie-print triangle with Quimby's + Desert Island — strong art/design/architecture monograph selection a few blocks away",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:19:13.914Z"
+  },
+  {
+    "topic": "Codex Books (Bushwick small-press/poetry)",
+    "reason": "Newer (2022) Bushwick small-press shop with curated poetry and translated fiction — expands the indie-print cluster into the next neighborhood east",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:19:13.914Z"
+  },
+  {
+    "topic": "Human Relations Bookstore (Bushwick used)",
+    "reason": "Cash-only used-bookstore counterweight to Quimby's new-zine focus; broadens the reading-day route within 10-min drive of Williamsburg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:19:13.914Z"
+  },
+  {
+    "topic": "Chavela's Crown Heights Mexican restaurant on Franklin Ave",
+    "reason": "Pairs with Anyone Comics for a Crown Heights food+culture track; tile-lined room, weekend brunch, ~5 min drive away",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:21:13.210Z"
+  },
+  {
+    "topic": "Hunky Dory Crown Heights cafe-bar dual-mode",
+    "reason": "Day cafe / night cocktail bar within 10 min of Anyone Comics — flexible duration anchor for the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:21:13.210Z"
+  },
+  {
+    "topic": "Brooklyn Children's Museum Crown Heights",
+    "reason": "Adds family-friendly option to the Crown Heights cluster, ~10 min drive from Anyone Comics with dedicated parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:21:13.210Z"
+  },
+  {
+    "topic": "Quimby's Bookstore NYC (536 Metropolitan Ave, Williamsburg)",
+    "reason": "Zines, small-press, and underground comics — extends the Williamsburg browse track and overlaps the same block as Desert Island",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:23:19.924Z"
+  },
+  {
+    "topic": "McNally Jackson Books Williamsburg (76 N 4th St)",
+    "reason": "Larger mainstream indie complements Spoonbill's art-specialty focus; keeps a book-lover within a 5-min walk loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:23:19.924Z"
+  },
+  {
+    "topic": "Human Relations Bookstore (Bushwick used books, 1067 Flushing Ave)",
+    "reason": "Cash-only used-book deep dive 10 min east; natural extension if the Williamsburg track wants a third stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:23:19.924Z"
   }
 ]
