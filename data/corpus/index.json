@@ -15657,8 +15657,8 @@
   {
     "id": "janes-carousel",
     "name": "Jane's Carousel",
-    "desc": "Restored 1922 carousel spinning inside a Jean Nouvel glass box on the DUMBO waterfront",
-    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel (48 hand-carved horses, two chariots) installed in 2011 inside a transparent pavilion designed by Ateliers Jean Nouvel, with retractable glass walls framing the Brooklyn Bridge, Manhattan skyline, and East River. Rides are $4; even non-riders get one of the best photo compositions in NYC — the carousel lit up at dusk with the bridge behind it. Sits directly between Pier 1's lawn and Pebble Beach's cobbled cove, so it slots cleanly into a DUMBO walking loop after parking.",
+    "desc": "1922 restored carousel in a Jean Nouvel glass pavilion on the Brooklyn waterfront with skyline views.",
+    "longDesc": "A meticulously restored 48-horse 1922 PTC carousel housed in an acrylic-walled pavilion designed by Jean Nouvel, with the Brooklyn Bridge and Lower Manhattan skyline as the backdrop. $4 per ride, ~10–15 minutes including the wait, and the surrounding cobblestones at Empire Fulton Ferry are some of DUMBO's most photogenic ground. Closed Tuesdays; summer hours run 10:00–6:50.",
     "url": "https://janescarousel.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -15670,10 +15670,10 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "16 min",
-    "hoursWeekend": "10:00-18:50 (closed Tuesdays; summer schedule May 11–Sep 13)",
-    "notes": "Tickets $4/ride; one child under 42\" rides free with a paying adult (janescarousel.com/hours). Glass pavilion by Jean Nouvel Ateliers (brooklynbridgepark.org). Weekend parking: paid lot at 99 Plymouth St or street parking around Water/Main St — both ~3 min walk. Closed Tuesdays year-round, so a Saturday/Sunday slot is always safe. Best photo angle: from Pebble Beach looking back at the carousel with the Brooklyn Bridge framing it; magic-hour ~30 min before sunset is the move.",
+    "duration": "15-30 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "10:00-18:50",
+    "notes": "Pavilion sits on Empire Fulton Ferry lawn between the Brooklyn and Manhattan bridges; $4/ride, kids under 42\" can share an adult's ticket (janescarousel.com). Summer schedule May 11–Sept 13 2026, closed Tuesdays year-round (janescarousel.com). Weekend parking is tight in DUMBO — SpotHero pre-bookings at Front St / Pearl St garages are the reliable play (spothero.com). Pairs cleanly with a Pier 6 dinner: 8–10 min drive south along Furman St to close out a north-shore evening loop.",
     "sources": [
       {
         "url": "https://janescarousel.com/hours/",
@@ -15682,12 +15682,20 @@
       {
         "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
         "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/janes-carousel-parking",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/janes-carousel/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T07:33:52.776Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T20:48:14.096Z"
   },
   {
     "id": "bbp-pier-1-granite-prospect",
@@ -33400,5 +33408,171 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T20:42:04.361Z"
+  },
+  {
+    "id": "pilot-brooklyn-bridge-park",
+    "name": "Pilot",
+    "desc": "Seasonal oyster bar aboard a historic wooden schooner moored at Pier 6 with lower Manhattan harbor views.",
+    "longDesc": "Pilot is a floating oyster bar set on a moored historic wooden schooner on the north side of Pier 6 in Brooklyn Bridge Park, run by the same Crew NY group behind Manhattan's Grand Banks. The deck menu leans on sustainably harvested oysters, lobster rolls, summery wines, nautically themed cocktails, and seaworthy beers, all consumed against open harbor sightlines of the Statue of Liberty and lower Manhattan. Note the venue is currently closed for restoration per Brooklyn Bridge Park's official page — confirm reopening before routing guests here.",
+    "url": "https://brooklynbridgepark.org/places-to-see/restaurants-cafes/pilot/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "10:00-22:00 (seasonal, Sat-Sun when open)",
+    "notes": "Floating oyster bar on a historic wooden schooner at Pier 6 north side, not a rooftop — pair it with the harbor-sunset slot the way Fornino's rooftop does, but messaging should call out the boat-deck setting (Brooklyn Bridge Park official). Sister venue to Grand Banks; The Infatuation rates the location/vibe higher than service consistency. Currently closed for restoration per the park's own page — verify reopening before recommending. Weekend operating window historically Sat-Sun 10:00-22:00, Wed-Fri 16:00-22:00, closed Mon-Tue (Yelp). Pier 6 entrance has paid lots at 360 Furman St / Brooklyn Bridge Park lots within a 5-min walk.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/restaurants-cafes/pilot/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/pilot-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/pilot",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:44:19.248Z"
+  },
+  {
+    "id": "pier-6-flower-field-volleyball",
+    "name": "Pier 6 Flower Field & Volleyball Courts",
+    "desc": "Half-acre native wildflower meadow plus three free sand volleyball courts at Brooklyn Bridge Park.",
+    "longDesc": "Pier 6 packs two free pre-dinner activities into one stop: a half-acre native wildflower field with swamp milkweed, Joe-Pye weed, and 6-foot false sunflowers (one of NYC's largest monarch butterfly waystations), plus three regulation-size sand volleyball courts open 6AM–11PM for first-come drop-in play when leagues aren't running. The flower field blooms spring through late fall with pinks and golds in summer, blues and purples in fall — the skyline view across the harbor is the kicker. BYO ball; courts are free but unlit programming runs April–November via Big City Volleyball.",
+    "url": "https://brooklynbridgepark.org/places-to-see/pier-6/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "06:00-23:00",
+    "notes": "Free park; volleyball courts open 6AM-11PM, drop-in when no league scheduled (source: brooklynbridgepark.org/things-to-do/volleyball). Flower field is half-acre native meadow, opened Oct 2015, peak monarch sightings late summer (source: brooklynbridgepark.org/places-to-see/gardens/pier-6-flower-field). Adult co-ed beach league runs Wed/Thu/Sat April–November — Saturday slots start 10am, 11am, 12pm, 1pm so afternoon casual play is feasible after league morning blocks. Weekend parking: paid lot at Pier 6 entrance (Furman/Atlantic) plus street parking on Joralemon. BYO ball + net is preset. Steps from Fornino at Pier 6 rooftop.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/gardens/pier-6-flower-field/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/things-to-do/volleyball/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-6/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bigcityvolleyball.com/adult-beach-league-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T20:46:15.880Z"
+  },
+  {
+    "id": "pier-6-granite-prospect-walk",
+    "name": "Pier 6 Gardens to Granite Prospect Sunset Walk",
+    "desc": "Half-mile waterfront stroll from Pier 6's flower field to Pier 1's salvaged-granite sunset steps.",
+    "longDesc": "Start at Pier 6's half-acre Flower Field — a native meadow of swamp milkweed and Liatris that peaks in late June and stays photogenic through fall — then walk the 1.3-mile waterfront promenade north to Pier 1's Granite Prospect, a hillside terrace built from 300+ stones salvaged from the old Roosevelt Island Bridge. The granite steps face directly into the Statue of Liberty and Lower Manhattan skyline, making them the park's prime sunset perch. The full out-and-back walk pairs naturally with dinner at Pilot (the 1924 schooner moored at Pier 6) — gardens before, granite-step golden hour after.",
+    "url": "https://brooklynbridgepark.org/places-to-see/granite-prospect/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park is free, open daily 6AM–1AM (brooklynbridgepark.org). Granite Prospect sits on Pier 1, ~15–20 min walk north from Pier 6 along the waterfront promenade (not 4 min — the park spans 1.3 mi). Pier 6 Flower Field peaks late June through early fall; Granite Terrace lights up in low autumn sun. Paid parking at City Parking garage, 360 Furman St (Pier 6 entrance) or LAZ at 90 Furman St under Squibb Bridge — limited weekend capacity, arrive before 5pm for sunset. Drive from Industry City via 3rd Ave → Hicks St or BQE, ~4 mi. Pairs perfectly as a pre- or post-Pilot anchor.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/granite-prospect/",
+        "accessed": "2026-05-17T20:45:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-6/",
+        "accessed": "2026-05-17T20:45:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/gardens/pier-6-flower-field/",
+        "accessed": "2026-05-17T20:45:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/about/faqs/",
+        "accessed": "2026-05-17T20:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:50:33.826Z"
+  },
+  {
+    "id": "harriets-rooftop",
+    "name": "Harriet's Rooftop",
+    "desc": "11th-floor cocktail rooftop at 1 Hotel Brooklyn Bridge with skyline + bridge views",
+    "longDesc": "Upscale, weather-dependent rooftop bar on the 11th floor of 1 Hotel Brooklyn Bridge with sweeping Manhattan skyline and Brooklyn Bridge views, decorated with reclaimed sustainable materials. The cocktail program runs $25-29 and leans Asian-inspired with a sustainability angle (repurposed citrus peels, coffee grounds). Reservations via SevenRooms strongly recommended, especially for weekend daytime when it opens at noon. (Note: the queue's 'Estuary' name was incorrect — the actual cocktail bar at 1 Hotel Brooklyn Bridge is Harriet's; the original Estuary at ONE°15 Marina is permanently closed.)",
+    "url": "https://www.1hotels.com/brooklyn-bridge/taste/harriets-rooftop",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "12:00-23:00",
+    "notes": "Cocktails $25-29; food service ends 21:45, beverages until 22:45 (1hotels.com). Weather-dependent — call ahead in winter. Sky Swim Lounge poolside tables and weekly Above(Ten) Saturdays / Sol Together Sundays events (1hotels.com). Reservations: SevenRooms or 347.696.2554. Parking: hotel valet at 60 Furman St; alternative is Brooklyn Bridge Park lots ($$) a short walk away. Indoor sibling Harriet's Lounge on floor 10 is the cold-weather backup.",
+    "sources": [
+      {
+        "url": "https://www.1hotels.com/brooklyn-bridge/taste/harriets-rooftop",
+        "accessed": "2026-05-17T20:45:00Z"
+      },
+      {
+        "url": "https://www.1hotels.com/brooklyn-bridge/taste",
+        "accessed": "2026-05-17T20:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/harriets-rooftop-brooklyn-4",
+        "accessed": "2026-05-17T20:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:52:46.919Z"
   }
 ]
