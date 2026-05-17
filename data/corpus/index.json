@@ -2417,29 +2417,28 @@
   {
     "id": "xin-fa-bakery",
     "name": "Xin Fa Bakery",
-    "desc": "Sunset Park Chinatown legend for $1.75 Portuguese egg tarts with blistered caramelized tops and roast pork bao",
-    "longDesc": "A no-frills 8th Ave bakery whose Portuguese-style dan tat get cited by The Infatuation as the best in the five boroughs — flaky shatter-crust shell, dense jiggly custard, charred sugar crown, baked in small batches all day. Pair a hot tart with a cha siu bao and a coffee milk tea; the line moves fast and a six-pack runs $10.50. Cash-friendly counter operation, easy to fold into an 8th Ave crawl four blocks south of Golden Steamer.",
-    "url": "https://www.yelp.com/biz/xinfa-bakery-brooklyn",
+    "desc": "Cash-only Sunset Park Cantonese bakery famed for super-creamy Portuguese egg tarts — perfect pre-sunset picnic pickup.",
+    "longDesc": "A bustling 8th Ave anchor in Brooklyn's Chinatown (founded 1989 in Taishan, Guangdong), Xin Fa turns out blistered-top Portuguese egg tarts ($1.75 each / 6 for $10.50) alongside pork floss buns, coconut bread, matcha sponge squares, and traditional baos. Order at the counter, grab a bag of warm tarts, and roll five minutes uphill to Sunset Park's hilltop for a Manhattan-skyline sunset picnic. Bring cash — they don't take cards — and expect a line on weekends.",
+    "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "chill",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
-    "duration": "20-30 min",
+    "duration": "15-25 min",
     "driveFromIC": "8 min",
     "hoursWeekend": "07:30-17:30",
-    "notes": "Egg tarts $1.75 each / $10.50 for 6, baked in limited daily batches — go before noon (theinfatuation.com). Line can run 15-20 min but turnover is fast (yelp.com). Founded 1989 in Taishan, Guangdong; tarts have crispy shell + dense soft custard with caramelized top, reviewers compare them favorably to Hong Kong / Macau versions (xin-fa-bakery.menu-world.com, ethnojunkie.com). 4 blocks south of Golden Steamer on 8th Ave — easy walking pair. Street parking on 56th St side blocks; 8th Ave itself is tight. Phone (718) 871-2889.",
+    "notes": "Cash only. Located at 5617 8th Ave between 56th and 57th St — paid street parking on 8th Ave can be tight on weekends; side streets (57th/58th) are easier. Counter staff speak Mandarin/Cantonese and some English (Gothamist). Pairs naturally with a sunset stop at Sunset Park's hilltop (skyline view ~5 min drive northeast) or as a snack run before crossing to Industry City. Beyond the egg tarts, locals call out the pork floss buns and coconut bread (Yelp).",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/xinfa-bakery-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/xin-fa-bakery",
+        "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -2447,18 +2446,18 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://ethnojunkie.com/?p=16024",
+        "url": "https://gothamist.com/food/where-to-eat-in-sunset-parks-chinatown-according-to-bonnies-chef-calvin-eng",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://xin-fa-bakery.menu-world.com/",
+        "url": "https://ethnojunkie.com/?p=16024",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T05:40:45.588Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:05:01.342Z"
   },
   {
     "id": "japan-village-food-hall",
@@ -27855,5 +27854,180 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T12:54:02.037Z"
+  },
+  {
+    "id": "evergreens-cemetery-twilight-walk",
+    "name": "The Evergreens Cemetery",
+    "desc": "225-acre 1849 rural-style cemetery in Bushwick with rolling hills, mausoleums, and 500k+ graves; late-afternoon golden hour walk.",
+    "longDesc": "Designed in 1849 by Andrew Jackson Downing in the rural-cemetery style, Evergreens spans 225 acres of rolling Brooklyn-Queens border land with several thousand trees, ornate Victorian mausoleums, and graves of Bill 'Bojangles' Robinson, jazz saxophonist Lester Young, and painter Martin Heade. The Cooper Avenue gates open Saturday and Sunday only, making weekend a sweet spot for a quiet drive-in photo walk. Important: gates close at 4:30 PM year-round, so 'twilight' here only works in late-fall/winter when sunset falls before close — otherwise treat as a golden-hour stand-in for Green-Wood when after-hours isn't running.",
+    "url": "https://www.theevergreenscemetery.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-16:30 (Cooper Ave gates Sat/Sun only)",
+    "notes": "Main entrance: 1629 Bushwick Ave at Conway St; weekend-only Cooper Ave gates on the Queens side give a quieter entry (theevergreenscemetery.org/directions-hours). Free on-street parking is generally available along Bushwick Ave and inside the grounds; visitors drive the loop roads. 225 acres, ~538,000 burials, designed by A.J. Downing in the rural style (en.wikipedia.org/wiki/Cemetery_of_the_Evergreens). Notables: Bill 'Bojangles' Robinson, Lester Young, Martin Johnson Heade. Caveat: gates close 4:30 PM sharp — true twilight only in Nov-Jan when sunset is ~4:30; rest of year position as golden-hour walk and pair with a separate evening stop nearby (e.g., Bushwick bar or House of Yes-adjacent food).",
+    "sources": [
+      {
+        "url": "https://www.theevergreenscemetery.org/directions-hours",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theevergreenscemetery.org/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cemetery_of_the_Evergreens",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-evergreens-cemetery-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T12:56:08.693Z"
+  },
+  {
+    "id": "green-wood-catacombs-tour",
+    "name": "Green-Wood Cemetery Catacombs After-Hours Tour",
+    "desc": "Rare ticketed walk into the 1850s underground vaults beneath a Gothic Brooklyn cemetery — sells out fast.",
+    "longDesc": "Green-Wood's After Hours program is the only way the public can see the 30 brick burial vaults set beneath a hill behind locked iron gates, dating to the early 1850s. The roughly two-hour guided walk crosses the cemetery's hilltop landscape, threads past graves of notable New Yorkers, and ends inside the Catacombs corridor itself. Tickets are $30 ($25 members), tours routinely sell out, and the terrain is hilly — bring a flashlight and sturdy shoes.",
+    "url": "https://www.green-wood.com/calendar/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "~2 hours",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "Tour slot 19:30-21:00 (select Fri/Sat — check calendar)",
+    "notes": "Enter at the 25th St & 5th Ave Gothic gate; on-site cemetery parking is available for ticketed evening events (Untapped Cities). Tour pairs naturally with the Battle Hill outdoor anchor — Battle Hill is the literal high point above where the catacombs are tucked into the hillside. Members-only free variant available via Untapped New York Insiders (Untapped Cities). Pre-purchase required, no walk-ups.",
+    "sources": [
+      {
+        "url": "https://www.green-wood.com/calendar/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.untappedcities.com/catacombs-green-wood-cemetery-tour/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.citysignal.com/green-wood-cemetery-afterhours/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://freetoursbyfoot.com/greenwood-cemetery-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T12:58:29.744Z"
+  },
+  {
+    "id": "sunset-park-summit",
+    "name": "Sunset Park Summit",
+    "desc": "Free 164-ft hilltop with harbor + Statue of Liberty views, 8 min uphill from Industry City",
+    "longDesc": "Sunset Park sits atop a 164-foot ridge of the Harbor Hill Moraine — the same glacial spine that gives Green-Wood its elevation, but free, ungated, and closer to Industry City. The 7th Ave & 43rd St corner is the SE entrance nearest the summit lawn, where you get an unobstructed western view of New York Harbor, the Statue of Liberty, lower Manhattan, and (on clear days) the Staten Island hills. Reliable golden-hour pin and a clean alternative when Green-Wood is closed or you don't want to deal with cemetery decorum.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free 24.5-acre public park; the highest point in the neighborhood at 164 ft on the Harbor Hill Moraine (Wikipedia). View encompasses Manhattan skyline, Statue of Liberty, Staten Island, NJ hills (NYC Parks). Default NYC Parks hours are 6am-1am unless posted otherwise (NYC Parks rules). Recreation center on-site is 8am-10pm weekdays (separate facility). Park entrance closest to summit lawn is 7th Ave & 43rd St (the SE corner, uphill side). Street parking generally available on 6th/7th Ave on weekends. Pairs well with Industry City lunch + Green-Wood as a same-day high-points triptych — same moraine, three different vantage points.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://portal.311.nyc.gov/article/?kanumber=KA-02234",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T13:00:48.433Z"
+  },
+  {
+    "id": "green-wood-weeping-beech-valley-water-loop",
+    "name": "Green-Wood Weeping Beech & Valley Water Loop",
+    "desc": "Walk the canopy tunnel of Larch Ave's weeping beech, then loop down to Valley Water, a glacial kettle pond — all from the 25th St lot.",
+    "longDesc": "Two of Green-Wood's most cinematic stops, easily strung into one parking session. The Larch Avenue weeping beech (Fagus sylvatica pendula) drapes pendulous, slightly contorted branches across the road to form a living tunnel you walk under. From there, descend to Valley Water — one of four glacial kettle ponds carved by the retreating Wisconsin Ice Sheet ~18,000 years ago — where herons, egrets, and migrating songbirds work the reedy edges (NYC Bird Alliance).",
+    "url": "https://www.green-wood.com/map-of-green-wood-cemetery/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "photo",
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-75 min",
+    "driveFromIC": "9 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "Park free at the main entrance lot, 500 25th St at 5th Ave (Green-Wood). On weekends the Fort Hamilton Pkwy and Prospect Park West (9th Ave/20th St) gates also accept vehicles 8a-4p, but the 25th St lot is the closest to both the Larch Ave beech and Valley Water. Grab a paper map at the gatehouse — pond and tree labels are easier to follow on paper than phone. Best light: late afternoon for backlit beech canopy; early morning for mirror-flat pond reflections and waterfowl. The beech is described as 'the most enchanting' weeping beech in the cemetery, with branches you walk/drive under (green-woodtrees.blogspot.com).",
+    "sources": [
+      {
+        "url": "http://green-woodtrees.blogspot.com/2009/08/weeping-beech.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.green-wood.com/hours-directions-rules/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.green-wood.com/map-of-green-wood-cemetery/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://nycbirdalliance.org/events-birding/birding-resources/birding-in-nyc/birding-in-brooklyn/green-wood-cemetery",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Green-Wood_Cemetery",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T13:03:01.233Z"
   }
 ]
