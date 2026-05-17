@@ -9506,38 +9506,37 @@
   },
   {
     "id": "brooklyn-clay-industries",
-    "name": "Brooklyn Clay Industries",
-    "desc": "BYOB one-time pottery classes — Sunday wheel intro, Saturday handbuilding — $85, 2 hrs",
-    "longDesc": "Note: the studio is at 63 Flushing Ave in the Brooklyn Navy Yard (Building 62, Suite 306), not Gowanus as commonly tagged in roundups. Weekend drop-in offerings rotate as 'BYOB Intro to Pottery Wheel' on select Sundays and 'BYOB Hand Building' on Saturdays, both $85 and beginner-friendly. Stoneware wheel work in a fully-equipped shared studio; bi-weekly listings mean weekend availability needs to be checked the week before.",
+    "name": "Brooklyn Clay Industries — One-Time Class",
+    "desc": "Drop-in $85 pottery class (wheel or hand-build) at a Navy Yard studio, weekends 12–6:30pm.",
+    "longDesc": "Brooklyn Clay Industries runs single-session pottery classes for $85/person in Building 62 of the Brooklyn Navy Yard — choose wheel-throwing or hand-building, with some BYOB and complimentary-wine sessions. Slots run Saturday and Sunday between 12:00 and 6:30pm; the studio also offers 8/12-week courses and private lessons if you want to go deeper.",
     "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "curious",
-      "chill",
-      "active"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2 hr",
+    "duration": "2-3 hr",
     "driveFromIC": "22 min",
-    "hoursWeekend": "varies by class — Sun wheel intros + Sat handbuilding, BYOB",
-    "notes": "Actual address is 63 Flushing Ave, Building 62 #306, Navy Yard — NOT Gowanus (roundups conflate the two) (brooklynclayindustries.com). One-time classes $85, listed bi-weekly with 2-week to 1-month lead; must reserve in advance, no walk-ins (brooklynclayindustries.com/classes/one-time-class). For an actual Gowanus stoneware option see The Pottery Studio on 9th St or Slow Burn Ceramics on 15th St. Office: (718) 596-4029.",
+    "hoursWeekend": "12:00-18:30",
+    "notes": "NOTE: Topic said Gowanus but the actual studio is at 63 Flushing Ave., Building 62, Suite 306, in the Brooklyn Navy Yard — not Gowanus (source: brooklynclayindustries.com). Drive from Industry City is ~22 min via Prospect Expy / BQE, longer in weekend traffic. One-time classes are $85 flat; bi-weekly new listings so check the calendar with blue dots (source). BYOB on most sessions, occasional complimentary wine. If user specifically wants a Gowanus studio, alternatives include The Pottery Studio (9th St) and Slow Burn Ceramics (65 15th St #2f) — both queued below.",
     "sources": [
       {
-        "url": "https://www.brooklynclayindustries.com/",
-        "accessed": "2026-05-16T10:30:00Z"
+        "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
-        "accessed": "2026-05-16T10:30:00Z"
+        "url": "https://www.brooklynclayindustries.com/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:22:14.011Z"
+    "lastResearchedAt": "2026-05-17T01:18:26.345Z"
   },
   {
     "id": "choplet-greenpoint",
@@ -21255,5 +21254,163 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T01:09:22.775Z"
+  },
+  {
+    "id": "cafe-grumpy-greenpoint",
+    "name": "Café Grumpy Greenpoint",
+    "desc": "Roastery-adjacent flagship for a focused pre-class espresso — opens 7am Sunday, two blocks from Choplet.",
+    "longDesc": "Café Grumpy's Greenpoint cafe sits next door to its roastery on Meserole Ave, so the espresso pulls about as fresh as you can get in NYC. The room is small and disciplined — no Wi-Fi-laptop sprawl, just a serious bar program, a short pastry case, and quick benches if you want to sit. It's the right caliber for a 30-minute warm-up before a 10am ceramics session, and it's a two-block walk from Choplet. (Substituting for Champion Coffee, which Yelp now lists as closed as of March 2026.)",
+    "url": "https://cafegrumpy.com/locations/greenpoint/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "07:00-19:00",
+    "notes": "Roastery is literally next door, so beans are pulled within days of roast (cafegrumpy.com). Originally queued as Champion Coffee, but Champion's Greenpoint location at 142 Nassau Ave is permanently closed per Yelp's March 2026 update (yelp.com/biz/champion-coffee-greenpoint). Cafe Grumpy is the strongest like-for-like substitute in the same micro-neighborhood and opens equally early. Street parking is realistic on Sunday mornings along Meserole/Russell. ~2 blocks from Choplet ceramics studio.",
+    "sources": [
+      {
+        "url": "https://cafegrumpy.com/locations/greenpoint/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/champion-coffee-greenpoint",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/caf%C3%A9-grumpy-brooklyn-3",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:14:10.826Z"
+  },
+  {
+    "id": "clayhouse-brooklyn-try-wheel",
+    "name": "Clayhouse Brooklyn — Adult Try Wheel Night",
+    "desc": "2-hour drop-in pottery wheel class on Smith St; no experience needed, all materials provided",
+    "longDesc": "Beginner-friendly one-time wheel class at Clayhouse's Carroll Gardens studio (229 Smith St), running Saturdays 7-9pm at $85/person with professional instruction and all tools/clay provided. BYOB-friendly (cups provided), and finished pieces can be glazed and kiln-fired for an extra $15/piece with pickup 4-6 weeks later. Great evening anchor on the Carroll Gardens/Cobble Hill side of the cluster — easy 12-15 min drive from Industry City via 3rd Ave/Hamilton Ave.",
+    "url": "https://www.clayhousebrooklyn.com/adult-in-person-classes/adult-try-wheel-night/",
+    "photoUrl": "https://www.clayhousebrooklyn.com/wp-content/uploads/2023/03/IMG_5731-768x1024.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "curious",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Sat 19:00-21:00 (Try Wheel session)",
+    "notes": "229 Smith St, Brooklyn NY 11231 — Carroll Gardens, not Gowanus despite the search framing (clayhousebrooklyn.com). $85/person, $15/piece optional glaze+fire with 4-6 wk pickup, so warn users they leave empty-handed day-of. BYOB welcome, cups provided. Street parking on Smith/Court is metered until 7pm then free; consider Degraw/Sackett side streets after dusk. Closer Red Hook/Gowanus alternative: The Pottery Studio on 9th St if user prefers a true Gowanus address.",
+    "sources": [
+      {
+        "url": "https://www.clayhousebrooklyn.com/adult-in-person-classes/adult-try-wheel-night/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.clayhousebrooklyn.com/try-classes/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:16:26.332Z"
+  },
+  {
+    "id": "choplet-greenpoint-wheel-class",
+    "name": "Choplet Ceramic Studio Greenpoint — One Day Wheel Throwing",
+    "desc": "2-hour beginner pottery wheel class in Greenpoint with clay, tools, glaze, and one fired piece included.",
+    "longDesc": "Choplet's newly opened Greenpoint studio (Nov 2025) runs a 2-hour One Day Wheel Throwing workshop on Saturdays (4–6 PM) and Sundays (10 AM–12 PM) for $90, no experience required. Price covers instruction, clay, tools, towels, glaze, and firing of one finished piece (extras $15 each, cash). Sister to the long-running Williamsburg location; small group format with skilled instructors guiding centering, opening, and pulling on the wheel.",
+    "url": "https://choplet.com/custom_classes/one-day-wheel-throwing-2/",
+    "photoUrl": "https://choplet.com/wp-content/uploads/2025/11/Greenpoint-Private.png",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 4–6 PM / Sun 10 AM–12 PM",
+    "notes": "Address: 121 Meserole Ave, Brooklyn, NY 11222 (greenpoint.choplet.com). Phone 347-289-1067. $90 covers clay/tools/glaze/firing of 1 piece, extra pieces $15 cash. Studio opened Nov 1, 2025 (newest of two Choplet locations). Street parking in Greenpoint is achievable on weekends but tight — budget 5–10 min to find a spot. Drive from IC ~22 min via Gowanus Expy → BQE → McGuinness Blvd; longer if BQE congested (source: choplet.com).",
+    "sources": [
+      {
+        "url": "https://choplet.com/custom_classes/one-day-wheel-throwing-2/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://choplet.com/ceramic-classes/classes-at-choplet-greenpoint/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:20:24.318Z"
+  },
+  {
+    "id": "apotheke-candle-studio-red-hook",
+    "name": "APOTHEKE Candle Studio",
+    "desc": "Hour-long candle pouring class in Red Hook — blend your own scent from 50+ fragrance oils.",
+    "longDesc": "APOTHEKE's 10-seat candle bar inside their Van Brunt Street flagship runs a $68 Classic Candle Pouring Class — guided fragrance discovery, then pour your own soy-blend candle (~1 hour, plus ~1 hour set time before pickup). Walk-ins welcome on weekends; registration recommended. A cleaner, less-messy single-session alt to pottery, and 10 min from IC with street parking on Van Brunt.",
+    "url": "https://apothekeco.com/products/classic-candle-pouring-class",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 10:00-20:00, Sun 10:00-19:00",
+    "notes": "459 Van Brunt St, Suite 16, across from Hometown BBQ (apothekeco.com/pages/visit-us). Class is $68/seat, ages 10+, walk-ins welcome but registration encouraged (apothekeco.com/products/classic-candle-pouring-class). Candle needs ~1 hour to set — pair with a Hometown BBQ or Fairway run, then pick up. Cleaner pottery alternative; nothing to fire/glaze, take it home same day. 48-hour cancellation for credit.",
+    "sources": [
+      {
+        "url": "https://apothekeco.com/products/classic-candle-pouring-class",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://apothekeco.com/pages/visit-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://apothekeco.com/pages/studio-class",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/apotheke-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/things-to-do/apotheke",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:22:58.554Z"
   }
 ]
