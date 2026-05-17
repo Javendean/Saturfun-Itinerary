@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Cosme Manhattan or Atla — Enrique Olvera Mexican fine dining, Manhattan but unique",
-    "reason": "Manhattan exception only justified by Olvera-tier reputation as Oaxacan/CDMX peer",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:52:31.791Z"
-  },
-  {
-    "topic": "Casa Ora Bushwick — Venezuelan tasting menu, ~18 min from IC",
-    "reason": "Another Michelin-starred Brooklyn Latin American option with shorter drive than Oxomoco",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:52:31.791Z"
-  },
-  {
-    "topic": "Lavender Lake bar Gowanus — backyard cocktail spot 5 min from Insa",
-    "reason": "Completes a Gowanus dinner+drinks chain for the 3rd Ave corridor track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:54:28.592Z"
-  },
-  {
-    "topic": "Threes Brewing Gowanus taproom — large-group beer hall 6 min from Insa",
-    "reason": "Adds a casual pre-dinner anchor that scales to 8-12 people in the same cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:54:28.592Z"
-  },
-  {
-    "topic": "Four & Twenty Blackbirds pie shop Gowanus — dessert 4 min from Insa",
-    "reason": "Natural after-Korean-BBQ sweets stop, extends the corridor into a 3-stop evening",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:54:28.592Z"
-  },
-  {
     "topic": "al di la Trattoria Park Slope — cash-only Northern Italian institution",
     "reason": "Adjacent romantic-foodie Park Slope alternate within IC drive radius, different price/vibe band",
     "requestedBy": "agent",
@@ -11590,5 +11560,95 @@
     "reason": "If the goal is 'closer-to-IC Latin fine dining,' a strong Bushwick Mexican may beat any surviving Peruvian on drive time",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T17:03:42.284Z"
+  },
+  {
+    "topic": "Cosme Flatiron — Enrique Olvera flagship NYC, dinner-only tasting-forward Mexican (35 E 21st St)",
+    "reason": "Olvera's higher-end NYC sibling; dinner-only but the destination Mexican fine-dining benchmark — worth its own entry for evening tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:05:54.463Z"
+  },
+  {
+    "topic": "Casa Enrique Long Island City — Michelin-starred Mexican (Cosme Aguilar)",
+    "reason": "Closest non-Manhattan Michelin Mexican peer; LIC ~25 min from IC, tests whether Queens can substitute for Manhattan exception",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:05:54.463Z"
+  },
+  {
+    "topic": "Oxomoco Greenpoint — wood-fired modern Mexican, Michelin-starred, Brooklyn",
+    "reason": "Brooklyn's strongest modern-Mexican answer to Atla/Cosme; should be benchmarked before greenlighting more Manhattan exceptions",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:05:54.464Z"
+  },
+  {
+    "topic": "Re-research existing venue: Ensenada Bushwick — Mexican seafood spot on Wyckoff",
+    "reason": "Pairs with Casa Ora as a Bushwick Latin food cluster for a single-track itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:08:01.514Z"
+  },
+  {
+    "topic": "Best mezcal/agave cocktail bar within 5 min walk of Casa Ora (East Williamsburg)",
+    "reason": "Natural post-dinner stop to extend a Bushwick foodie track without re-driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:08:01.514Z"
+  },
+  {
+    "topic": "Syndicated Bar & Cinema Bushwick — repertory movies + dinner",
+    "reason": "Sequel activity to Casa Ora dinner within the same neighborhood cluster, supports 'curious' vibe track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:08:01.515Z"
+  },
+  {
+    "topic": "Halyards bar Gowanus 406 3rd Ave backyard cocktails",
+    "reason": "Actual replacement for the Gowanus dinner+drinks chain — backyard dive on the 3rd Ave corridor ~5 min from Insa",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:11:09.133Z"
+  },
+  {
+    "topic": "Mission Dolores beer garden 4th Ave Gowanus/Park Slope border",
+    "reason": "Open-air drinking spot near Insa with rotating taps — fits the 3rd Ave corridor track with garage-bay patio",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:11:09.133Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus 333 Douglass St — confirm current status and patio hours",
+    "reason": "Brewery + cocktail program with outdoor space close to Insa; needs status check given recent Brooklyn bar closures",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:11:09.134Z"
+  },
+  {
+    "topic": "Strong Rope Brewery Red Hook — small-batch taproom near IC for groups",
+    "reason": "Red Hook cluster beer alternative within 10-min drive of IC, less crowded than Threes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:13:07.567Z"
+  },
+  {
+    "topic": "Other Half Brewing Carroll Gardens — flagship taproom",
+    "reason": "Adjacent zone, walkable from Carroll Gardens dinner spots, IPAs known nationally — fills a 'destination beer' slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:13:07.567Z"
+  },
+  {
+    "topic": "Finback Brewery Gowanus outpost — second taproom on same drive corridor",
+    "reason": "Backup option if Threes is over capacity on a weekend; same Gowanus cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:13:07.569Z"
+  },
+  {
+    "topic": "Ample Hills Creamery Gowanus flagship — Brooklyn small-batch ice cream",
+    "reason": "Alternate dessert anchor in the same Gowanus corridor with later hours than pie shop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:15:01.663Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus — taproom 6 min from Insa",
+    "reason": "Extends the Insa→Blackbirds corridor into a 4-stop evening with drinks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:15:01.663Z"
+  },
+  {
+    "topic": "Brooklyn Farmacy & Soda Fountain Carroll Gardens — classic egg cream + sundaes",
+    "reason": "Photogenic dessert alternative with longer evening hours for late corridors",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T17:15:01.665Z"
   }
 ]

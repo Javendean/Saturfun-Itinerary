@@ -5851,44 +5851,43 @@
   },
   {
     "id": "threes-brewing-gowanus",
-    "name": "Threes Brewing (Gowanus)",
-    "desc": "Year-round backyard beer garden + working brewery with full kitchen, 10 min from IC",
-    "longDesc": "Threes' flagship Gowanus location is a fully-functioning brewery, brewpub, and music venue with The Yard — a lush, tented year-round outdoor space featuring a winterized outdoor bar serving beer, wine, and cocktails. The complex also houses Ninth Street Espresso (8am-3pm), a retail shop, and an upstairs music room called Tiny Montgomery. Pairs naturally with Royal Palms Shuffleboard (two blocks away) for a chill/active Gowanus track.",
+    "name": "Threes Brewing — Gowanus Taproom",
+    "desc": "Cavernous brewpub + beer garden in Gowanus — walk-in friendly for 8-12 person groups, 6 min from IC.",
+    "longDesc": "Threes' flagship Gowanus location is a brewery, beer hall, and indoor/outdoor beer garden in one — multiple distinct rooms (Main Bar with high ceilings and skylight, music space Tiny Montgomery, and The Yard outdoor area year-round) make it one of the easiest large-group landings in Brooklyn. No reservations required for the taproom; Grand Army South runs the kitchen with burgers and bar food until 11pm Sat / 10pm Sun, so it scales as either a pre-dinner anchor or a full sit-down for 8-12.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
-      "foodie",
-      "curious"
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-00:00 (kitchen til 23:00), Sun 12:00-23:00 (kitchen til 22:00)",
-    "notes": "The Yard is the main draw — tented in winter, open-air in summer, with its own outdoor bar (threesbrewing.com/pages/gowanus). Full kitchen + bar menu, brewery tanks visible from main bar, Ninth Street Espresso runs the coffee program 8a-3p daily. Street parking in Gowanus is generally available on weekends; 3rd Ave / Douglass St corridor (threesbrewing.com). Two blocks from Royal Palms Shuffleboard Club — natural chill→active pairing.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
+    "notes": "333 Douglass St — Gowanus/Park Slope border. Kitchen by Grand Army South (Sat 12-11pm, Sun 12-10pm). Multiple rooms = Main Bar, Tiny Montgomery (music/private), The Yard outdoor (year-round) — call (718) 568-9673 for large-group accommodation. Street parking on Douglass/3rd Ave usually findable on weekends; Gowanus is car-friendly vs. the rest of Brooklyn (source: threesbrewing.com/pages/gowanus). Yelp 4-star average across 499+ reviews (source: yelp.com/biz/threes-brewing-brooklyn).",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-17T08:35:00Z"
+        "accessed": "2026-05-17T17:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-17T08:35:00Z"
+        "accessed": "2026-05-17T17:05:00Z"
       },
       {
-        "url": "https://threesbrewing.com/pages/faq",
-        "accessed": "2026-05-17T08:35:00Z"
+        "url": "https://venues.tripleseat.com/venues/new-york/threes-brewing",
+        "accessed": "2026-05-17T17:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:41:29.594Z"
+    "lastResearchedAt": "2026-05-17T17:13:07.541Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -30381,5 +30380,189 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T17:03:42.259Z"
+  },
+  {
+    "id": "atla-noho",
+    "name": "Atla",
+    "desc": "Enrique Olvera's all-day modern Mexican in NoHo — Pujol DNA in casual Manhattan form",
+    "longDesc": "Chef Enrique Olvera's (Pujol, Cosme) casual all-day NoHo counterpart serves seasonal modern Mexican rooted in masa, herbs, and Hudson Valley produce — chilaquiles, mole-driven entrees, Oaxacan-leaning cocktails. Bright minimal room, full bar, gluten-free options, sidewalk seating. The Manhattan exception is justified here: there is no Brooklyn equivalent for Olvera-tier modern Mexican, and Atla's daytime hours (open Sat 11am) make it the rare Olvera venue compatible with a driving itinerary.",
+    "url": "https://www.eatatla.com/location/atla-noho/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "gluten-free",
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-17:00",
+    "notes": "Manhattan exception: only justified by Olvera-tier reputation as Oaxacan/CDMX peer to Pujol — no Brooklyn equivalent at this caliber (yelp, eatatla). Route from IC: Gowanus → Manhattan Bridge → Houston/Lafayette (~20-25 min Sat). Zone tagged 'dumbo' as the bridge crossing proxy; venue is 372 Lafayette St, NoHo. Resy reservations strongly advised; brunch and early-lunch windows easier than dinner. Saturday 11am open is the unlock for daytime drivers — Cosme is dinner-only (5pm earliest). Full bar, gluten-free menu noted, patio when weather permits.",
+    "sources": [
+      {
+        "url": "https://www.eatatla.com/location/atla-noho/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/atla-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/atla-noho",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/atla-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:05:54.438Z"
+  },
+  {
+    "id": "casa-ora",
+    "name": "Casa Ora",
+    "desc": "Michelin-recognized Venezuelan fine dining in East Williamsburg/Bushwick — asado negro, tequeños, sharp cocktails",
+    "longDesc": "The first Venezuelan restaurant ever included in the MICHELIN Guide (recognized six years running), Casa Ora is the project of NoMad/Eleven Madison Park alum Ivo Diaz and his mother, executive chef Isbelis Diaz. Expect refined, farm-to-table interpretations of Venezuelan classics — tequeños with double salsa, 48-hour braised asado negro in burnt papelón, and a serious cocktail program. Service is à la carte plus periodic prix-fixe events; book ahead for Friday/Saturday nights as the dining room fills early.",
+    "url": "https://casaoranyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat-Sun brunch 11:00-15:30; dinner Fri-Sat 17:30-00:00, Sun 17:30-22:00",
+    "notes": "148 Meserole St, Suite 1, Brooklyn NY 11206 — East Williamsburg/Bushwick border (Michelin Guide, casaoranyc.com). Free street parking typically available nearby (Yelp reviews). Reservations strongly advised via OpenTable; phone (718) 223-3116. Signature dishes: tequeños, asado negro 48-hr short rib in papelón (Time Out NY). Six consecutive years in MICHELIN Guide as of 2026.",
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/casa-ora",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://casaoranyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.casaoranyc.com/location/casa-ora/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/casa-ora",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/casa-ora-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T17:08:01.490Z"
+  },
+  {
+    "id": "lavender-lake-williamsburg",
+    "name": "Lavender Lake",
+    "desc": "Backyard cocktail bar relocated from Gowanus to Williamsburg in 2023 — converted horse-stable space, reclaimed-wood bar, full patio out back",
+    "longDesc": "The beloved 11-year Gowanus bar at 383 Carroll St closed in December 2021 ahead of the building's demolition and reopened in March 2023 at 53 Broadway near the Williamsburg Bridge, bringing the same crew and chef. The interior is a converted horse stable with reclaimed-wood bar and silver-treated mirrors; the back patio is the draw, and the namesake cocktail (lavender-infused vodka, iced tea, lemon) plus five rotating drafts anchor the menu.",
+    "url": "http://www.lavenderlake.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
+    "notes": "IMPORTANT: the original Gowanus location at 383 Carroll St is permanently closed — building was demolished post-rezoning (patch.com, Dec 2021). The bar reopened March 2023 at 53 Broadway in Williamsburg with the same staff and concept (greenpointers, bkmag). New site is ~7 mi from IC via the BQE; not a Gowanus dinner+drinks chain candidate anymore — it now belongs to a Williamsburg cluster (pair with Diner, Reynard, or Marlow & Sons). Backyard patio confirmed (timeout); cocktail-forward with rotating drafts; budget-friendly (~$6 beer baseline). Wednesday-only happy hour 4-7pm; Wed-Fri midday happy hour 12-7pm.",
+    "sources": [
+      {
+        "url": "https://patch.com/new-york/parkslope/gowanus-lavender-lake-close-ahead-building-demolition",
+        "accessed": "2026-05-17T17:10:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2023/02/08/lavender-lake-has-found-a-new-home-in-where-else-williamsburg/",
+        "accessed": "2026-05-17T17:10:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2023/04/10/lavender-lake-serves-up-distinctive-cocktails-and-enticing-bar-food-in-williamsburg/",
+        "accessed": "2026-05-17T17:10:00Z"
+      },
+      {
+        "url": "http://www.lavenderlake.com/",
+        "accessed": "2026-05-17T17:10:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/lavender-lake",
+        "accessed": "2026-05-17T17:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T17:11:09.112Z"
+  },
+  {
+    "id": "four-and-twenty-blackbirds",
+    "name": "Four & Twenty Blackbirds",
+    "desc": "Iconic Gowanus pie shop — flaky, salted-honey + bourbon-pecan slices in a tiny corner cafe",
+    "longDesc": "Sister-run pie shop on the Gowanus/Park Slope border that helped launch Brooklyn's artisan pie boom — known for salted honey, bourbon pecan, and seasonal fruit pies in all-butter crust. Tiny corner cafe with a few seats, counter service, and whole pies to-go; whole-pie pre-orders recommended on weekends. Closes at 7pm so it slots in as a late-afternoon dessert, not a late-night stop.",
+    "url": "https://birdsblack.com/pages/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 9:00-19:00, Sun 10:00-19:00",
+    "notes": "439 3rd Ave at 9th St — ~0.4 mi / 4 min north of Insa (328 Douglass St), making it a natural post-Korean-BBQ dessert (Yelp). Weekend close at 7pm means schedule before dinner runs late (birdsblack.com). Tiny shop, often a line on weekends — whole-pie call-ahead recommended.",
+    "sources": [
+      {
+        "url": "https://birdsblack.com/pages/locations",
+        "accessed": "2026-05-17T17:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/four-and-twenty-blackbirds-brooklyn",
+        "accessed": "2026-05-17T17:10:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/four-twenty-blackbirds",
+        "accessed": "2026-05-17T17:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T17:15:01.639Z"
   }
 ]
