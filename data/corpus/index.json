@@ -2857,8 +2857,8 @@
   {
     "id": "sunnys-bar-red-hook",
     "name": "Sunny's Bar",
-    "desc": "1890 dockside Red Hook saloon with nightly live music and a legendary Saturday bluegrass jam.",
-    "longDesc": "A 135-year-old waterfront bar at 253 Conover St, two blocks from the Red Hook piers, that started as a longshoreman's hangout and is now a beloved music and community space run by Tone Balzano Johansen. Memorabilia-stuffed back room hosts bluegrass, folk and jazz nightly except Mondays from 8-10pm — the Saturday bluegrass jam is the signature draw. Cash-friendly, unpretentious, and a perfect late-night cap after dinner at The Good Fork.",
+    "desc": "Legendary 1890s Red Hook saloon famous for its Saturday-night bluegrass jam in a back room.",
+    "longDesc": "A salty, knickknack-cluttered waterfront bar that's operated under various Balzano-family guises since the 1890s, Sunny's is the living room of Red Hook. Saturday programming centers on a roving bluegrass/old-time jam that draws acoustic players from across the city — show up early before the back room fills. Live music nightly except Mondays, typically 8–10pm; the bar itself opens at noon on Saturdays, so you can grab a stool, a beer, and a porch view before the strings kick in.",
     "url": "https://www.sunnysredhook.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2870,28 +2870,28 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "90-120 min",
+    "duration": "60-120 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-00:00",
-    "notes": "Founded 1890 as John's Bar serving Red Hook stevedores (Wikipedia). Live music nightly except Mondays, 8-10pm sets (sunnysredhook.com). Saturday bluegrass jam is the signature programming associated with current owner Tone Balzano Johansen (Wikipedia). Survived Hurricane Sandy (closed Oct 2012, reopened Sept 2013 after community fundraising). Address 253 Conover St — 2 blocks from Red Hook piers, ~10 min drive from Industry City with ample street parking on weekends. Ideal late-night extension after a Good Fork dinner; both venues sit on the same Red Hook waterfront cluster.",
+    "hoursWeekend": "Sat 12:00-01:00",
+    "notes": "253 Conover St, deep Red Hook waterfront — street parking is usually plentiful on Conover/Reed/Van Brunt on weekends (sunnysredhook.com). Live music nightly except Mondays, 8–10pm; Saturday bluegrass jam is the legacy slot, often packed by 9pm so arrive 7:30 to claim a seat in the back room (sunnysredhook.com/location). Cash-friendly, beer/wine/cocktails, no kitchen — pair with a Fort Defiance or Hometown BBQ dinner first.",
     "sources": [
       {
         "url": "https://www.sunnysredhook.com/location/sunnys-bar/",
-        "accessed": "2026-05-17T17:00:00Z"
+        "accessed": "2026-05-17T23:10:00Z"
+      },
+      {
+        "url": "https://www.sunnysredhook.com/",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Sunny's_Bar",
-        "accessed": "2026-05-17T17:00:00Z"
-      },
-      {
-        "url": "https://www.sunnysredhook.com/calendar/",
-        "accessed": "2026-05-17T17:00:00Z"
+        "accessed": "2026-05-17T23:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T16:47:00.806Z"
+    "lastResearchedAt": "2026-05-17T23:10:22.613Z"
   },
   {
     "id": "littlefield-gowanus",
@@ -25716,48 +25716,48 @@
   {
     "id": "brooklyn-steel",
     "name": "Brooklyn Steel",
-    "desc": "1,800-cap Bowery Presents concert hall in a converted East Williamsburg steel plant.",
-    "longDesc": "Brooklyn Steel is the largest Bowery Presents venue in NYC — a 20,000 sq ft former steel manufacturing plant turned high-end music club with a main floor, balcony, three bars, and L-Acoustics rig. It opened in spring 2017 with a four-night LCD Soundsystem run and now hosts the touring acts that have outgrown Music Hall of Williamsburg. No on-site lot, but street parking and a few small public lots in the industrial blocks around Frost & Debevoise are usable on weekends.",
+    "desc": "1,800-cap Bowery Presents warehouse venue in Greenpoint hosting indie, rock, and hip-hop tours",
+    "longDesc": "Brooklyn Steel is a converted East Williamsburg/Greenpoint steel fabrication building turned 1,800-capacity concert hall operated by The Bowery Presents (AEG). It's the largest Bowery-run room in Brooklyn — one tier above Music Hall of Williamsburg — with a main floor, balcony, and three bars; 2026 calendar includes Iron & Wine (May 13), Kevin Morby (June 10), Wolfmother (June 23), Dry Cleaning, The Black Angels, and They Might Be Giants.",
     "url": "https://www.bowerypresents.com/venues/brooklyn-steel",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "williamsburg",
+    "zone": "greenpoint",
     "vibe": [
       "curious",
       "chill"
     ],
     "dietary": [],
-    "priceBand": "$$$",
-    "duration": "3-4 hr",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "doors typically 19:00; show-night only",
-    "notes": "319 Frost St, Brooklyn NY 11222; 1,800 cap; opened Spring 2017 by The Bowery Presents in a former steel plant — original steel was repurposed into the build-out (Bowery Presents). Main floor + balcony, 40 restrooms, 3 bars (Wikipedia, amNewYork). No house parking — street + small industrial lots near Frost/Debevoise on weekends (Bowery Presents). Note user constraint: bigger-room sibling to MHOW for nights when a headliner outgrows the 600-cap room; ticketed-only, check listing before driving.",
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "doors typically 19:00; varies by show",
+    "notes": "319 Frost St near Debevoise (zip 11222) — East Williamsburg/Greenpoint border (bowerypresents.com). No on-site parking but a lot across the street plus street parking on Frost/Meeker (prked.com). Drive from Industry City via BQE runs ~22-28 min on weekends. Capacity 1,800 with main floor + balcony + three bars (venuereport.com). Phone (888) 929-7849. Bowery Presents 2026 lineup confirmed across Bandsintown, Songkick, and Ticketmaster.",
     "sources": [
       {
         "url": "https://www.bowerypresents.com/venues/brooklyn-steel",
-        "accessed": "2026-05-17T08:25:00Z"
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Brooklyn_Steel",
-        "accessed": "2026-05-17T08:25:00Z"
+        "url": "https://www.bandsintown.com/v/10007698-brooklyn-steel",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://www.amny.com/entertainment/brooklyn-steel-east-williamsburg-s-new-music-venue-opens-with-locals-lcd-soundsystem-1.13366355/",
-        "accessed": "2026-05-17T08:25:00Z"
+        "url": "https://www.songkick.com/venues/3457684-brooklyn-steel",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://www.l-acoustics.com/customer-stories/brooklyn-steel/",
-        "accessed": "2026-05-17T08:25:00Z"
+        "url": "https://www.venuereport.com/venue/brooklyn-steel/",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/brooklyn-steel-brooklyn",
-        "accessed": "2026-05-17T08:25:00Z"
+        "url": "https://prked.com/blog/brooklyn-steel-parking-guide",
+        "accessed": "2026-05-17T23:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:31:36.097Z"
+    "lastResearchedAt": "2026-05-17T23:12:23.817Z"
   },
   {
     "id": "warsaw-polish-national-home",
@@ -25811,55 +25811,51 @@
   {
     "id": "babys-all-right",
     "name": "Baby's All Right",
-    "desc": "South Williamsburg dinner + live music venue with full bar, late-night DJs, and Latin-leaning small plates until 4am",
-    "longDesc": "Baby's All Right is a 5,000 sq ft three-room hybrid at 146 Broadway off Bedford — a restaurant, bar, and 280-cap performance room under one roof. The kitchen runs a Latin American-leaning dinner and small-plates menu (plus a busy weekend bottomless brunch), and the venue stays open until 4am with DJ sets and live bookings most nights, making it one of the few Williamsburg spots that genuinely fills the after-midnight dinner-and-dance gap.",
+    "desc": "280-cap South Williamsburg indie room with restaurant — sub-headliner discovery before bands graduate to Music Hall.",
+    "longDesc": "Opened 2013 in the former Hygrade Food Products hot-dog factory at 146 Broadway, Baby's All Right is a three-room compound — Live Room, Front Lounge, and Restaurant — that anchors Brooklyn's indie booking pipeline (sub-headliners here often jump to Music Hall of Williamsburg next year). Recent/upcoming May 2026 weekends include Red Rum Club + Ollie Gullick (Fri 5/1), Suzy Sheer + Lea Jaffe (Sat 5/2), Snuggle two-night stand (Mon-Tue 5/4–5/5), Accessory + Golden Apples (Wed 5/6), Antony Szmierek (Sat 5/9 7:30pm), and Nana Grizol (Mon 5/11). Doors usually 6:30–7pm, late sets often added 10:30pm on weekends; you can eat in the front restaurant without a ticket and walk into the show after.",
     "url": "https://babysallright.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "chill",
       "curious",
-      "foodie"
+      "chill",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "2-3 hr",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "11:00-04:00 (brunch from 11; kitchen + shows late)",
-    "notes": "Address 146 Broadway, Brooklyn NY (South Williamsburg, off Bedford Ave) (yelp.com). Open 7 nights 6pm–4am with weekend brunch added on Sat/Sun (nyctourism.com). Three-room layout: bar, restaurant, performance space — so you can eat, drink, and catch a show without leaving (wikipedia). Latin American small plates + full dinner menu, plus bottomless brunch (timeout.com). Mostly street parking — SpotHero lists nearby garages and the venue suggests arriving 30–60 min early on show nights (spothero.com). Drive from Industry City ~15–20 min via Prospect Expy / BQE depending on traffic. Phone 718-599-5800. Best fit on Saturfun as the late-night cap for a Williamsburg track when an earlier dinner stop wants a venue that keeps going past midnight.",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "18:00-02:00",
+    "notes": "Address 146 Broadway, Brooklyn NY 11211 — base of the Williamsburg Bridge, South Williamsburg side (Wikipedia). 280 standing capacity across three rooms — Live Room, Front Lounge, Restaurant (The Vendry, Wikipedia). Sub-headliner discovery venue — bands often graduate to Music Hall of Williamsburg or Brooklyn Steel within 12–18 months. May 2026 weekend slate from JamBase/Songkick listings: Red Rum Club + Ollie Gullick (Fri 5/1), Suzy Sheer + Lea Jaffe (Sat 5/2), Andrew Lucier (Sun 5/3), Antony Szmierek (Sat 5/9 7:30pm) (JamBase). Full calendar lives on seetickets.us/eventim.us — site auth-walled, so check babysallright.com first then hop to the calendar link. Weekend parking: metered street along Broadway/Bedford is free Sundays, paid Saturday; safer to take Berry St or Driggs side streets and walk 3-4 blocks. Restaurant doesn't require a show ticket — handy if you're early or undecided.",
     "sources": [
       {
         "url": "https://babysallright.com/",
-        "accessed": "2026-05-17T22:30:00Z"
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Baby%27s_All_Right",
-        "accessed": "2026-05-17T22:30:00Z"
+        "url": "https://en.wikipedia.org/wiki/Baby's_All_Right",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/nightlife/babys-all-right-williamsburg/",
-        "accessed": "2026-05-17T22:30:00Z"
+        "url": "https://thevendry.com/venue/160383/babys-all-right-brooklyn-ny",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/music-nightlife/babys-all-right",
-        "accessed": "2026-05-17T22:30:00Z"
+        "url": "https://www.jambase.com/venue/babys-all-right",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/babys-all-right-brooklyn",
-        "accessed": "2026-05-17T22:30:00Z"
-      },
-      {
-        "url": "https://spothero.com/destination/nyc/baby-s-all-right-parking",
-        "accessed": "2026-05-17T22:30:00Z"
+        "url": "https://www.songkick.com/venues/2445014-babys-all-right/calendar",
+        "accessed": "2026-05-17T23:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T22:27:06.612Z"
+    "lastResearchedAt": "2026-05-17T23:14:59.368Z"
   },
   {
     "id": "gowanus-gardens",
@@ -27172,53 +27168,40 @@
   {
     "id": "elsewhere-bushwick",
     "name": "Elsewhere",
-    "desc": "Multi-room Bushwick music venue with a 500-cap rooftop, daring electronic and indie bookings.",
-    "longDesc": "Elsewhere is a five-space live-music and nightclub complex in industrial Bushwick: a 675-capacity Main Hall, a 200-cap Hall, a Loft lounge, a Gallery, and a 500-cap open-air Rooftop that doubles as a daytime bar and night party venue. Programming spans experimental electronic, indie, ambient, queer club nights, and film screenings — a strong booking complement to Music Hall of Williamsburg in the same drive radius from Industry City. Weekend rooftop opens 2pm Sat/Sun in season, with indoor shows running well past midnight.",
-    "url": "https://www.elsewhere.club/",
+    "desc": "Multi-room Bushwick music venue — Hall, Zone One, and seasonal Rooftop with electronic-leaning bookings.",
+    "longDesc": "Elsewhere is a three-stage independent venue in Bushwick built inside a converted warehouse, with The Hall (~775 cap) for headliners, Zone One (~300 cap) for emerging acts, and a seasonal Rooftop for daytime DJ sets. May–June 2026 calendar leans heavily electronic and global club — Marie Davidson DJ set (May 29), Nia Archives presents 'Up Ya Archives' (May 21), Bashment Sound, South House vs Naija House, Thaiboy Digital's UNDERWORLD Tour (June 5) — making it a strong complement to indie-rock-focused Bowery Presents rooms.",
+    "url": "https://www.elsewhere.club/calendar",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "curious",
-      "chill",
-      "photo"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-4 hr",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Rooftop Sat 14:00-00:00, Sun 14:00-21:00; indoor shows vary by event",
-    "notes": "599 Johnson Ave, Brooklyn 11237. Five distinct spaces under one roof — Main (675), Hall (200), Rooftop (500), Loft, Gallery (elsewhere.club/about). No on-site parking; venue explicitly says street parking on surrounding industrial blocks is generally available within a few blocks (discotech.me/brooklyn/elsewhere). From IC take Hamilton Ave → BQE E → Flushing Ave exit, ~22 min off-peak. Rooftop programming Apr-Oct; check rooftop-2026 calendar (elsewhere.club/rooftop-2026). 21+ for most night events; some all-ages early shows. Pairs well with a pre-show Bushwick dinner or post-show late food on Knickerbocker.",
+    "duration": "2-4 hrs",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 14:00–00:00, Sun 14:00–21:00",
+    "notes": "599 Johnson Ave, Brooklyn 11237 (source: elsewhere.club). Three rooms run independent shows the same night — check calendar for room (Hall / Zone One / Rooftop). Drive ~20 min from IC via BQE → Metropolitan Ave; street parking on side streets but tightens after 9pm — arrive early or rideshare home. Rooftop is seasonal (warm months) with daytime DJ sets that pair well with an early-evening dinner stop. Closest L stops are Jefferson St (5 min walk) and Morgan Ave (10 min walk) if leaving the car at IC and training in. May/June 2026 highlights: Nia Archives 'Up Ya Archives' (May 21 full venue), Marie Davidson DJ set (May 29 Rooftop), Thaiboy Digital UNDERWORLD Tour (June 5 Hall).",
     "sources": [
       {
-        "url": "https://www.elsewhere.club/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.elsewhere.club/calendar",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://www.elsewhere.club/about",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.elsewhere.club/rooftop-2026",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/elsewhere-rooftop-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://discotech.me/brooklyn/elsewhere/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.elsewhere.club/help",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Elsewhere_(music_venue)",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T23:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T11:16:05.114Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:17:10.908Z"
   },
   {
     "id": "westlight-rooftop",
@@ -30135,53 +30118,45 @@
   {
     "id": "red-hook-tavern",
     "name": "Red Hook Tavern",
-    "desc": "Dry-aged burger and classic cocktails in a warm Van Brunt tavern — Beard 2026 hospitality semifinalist.",
-    "longDesc": "Red Hook Tavern serves a tight, classic American menu — the much-loved dry-aged burger, French onion soup, and a full cocktail/wine/beer program — in a warm, wood-trimmed waterfront room at 329 Van Brunt. It's the cocktail-bar-with-real-food anchor Red Hook has been missing since Fort Defiance closed, and was named a James Beard Foundation 2026 Outstanding Hospitality semifinalist. Reservations open 2 weeks out on Resy for parties up to 8; walk-ins are first-come at the bar.",
-    "url": "https://www.redhooktavern.com/",
-    "photoUrl": "",
+    "desc": "Billy Durney's wood-paneled corner tavern — dry-aged burger weekend lunch on Van Brunt St (replaces shuttered Hope & Anchor).",
+    "longDesc": "An old-school American tavern from Hometown Bar-B-Que's Billy Durney, named a 2026 James Beard semifinalist for Outstanding Hospitality. Weekend 'lunch' service runs noon-2:45pm with the famously dry-aged burger, oysters, and a martini-forward bar — same Van Brunt block as the now-closed Hope & Anchor, and a more polished anchor for a Red Hook Saturday.",
+    "url": "https://www.redhooktavern.com/visit-us",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6442aec9db47706856d7d156/908ab0cd-663c-420b-8222-457a97491696/Redhook+Tavern+window.jpg",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
       "chill",
-      "romantic"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "Sat-Sun 12:00-14:45, 17:00-21:30",
-    "notes": "Anchor dinner stop for the Red Hook cluster. Dry-aged burger is the signature order; cocktail program is full bar. Lunch Thu–Sun 12–2:45pm opens a daytime window few cocktail spots offer (redhooktavern.com/visit-us). Reservations via Resy, released 14 days out, parties up to 8 (resy.com/cities/new-york-ny/venues/red-hook-tavern). Street parking on Van Brunt is limited on weekend evenings — arrive 15 min early or park near Valentino Pier and walk. Phone (917) 966-6094.",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat-Sun 12:00-14:45 & 17:00-21:30",
+    "notes": "Originally queued as Hope & Anchor — that diner permanently closed Feb 2018 after 15 years (Patch). Red Hook Tavern is the strongest same-block substitute and a 2026 James Beard semifinalist for Outstanding Hospitality (worldbeststeaks). Reservations recommended via website; ample street parking on Van Brunt on weekends. Karaoke/drag-brunch angle from the original brief is NOT covered here — see enqueued candidates for that vibe.",
     "sources": [
       {
-        "url": "https://www.redhooktavern.com/",
-        "accessed": "2026-05-17T22:55:00Z"
-      },
-      {
         "url": "https://www.redhooktavern.com/visit-us",
-        "accessed": "2026-05-17T22:55:00Z"
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
-        "url": "https://www.redhooktavern.com/menu",
-        "accessed": "2026-05-17T22:55:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/red-hook-tavern",
-        "accessed": "2026-05-17T22:55:00Z"
-      },
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/red-hook-tavern",
-        "accessed": "2026-05-17T22:55:00Z"
+        "url": "https://patch.com/new-york/gowanus/red-hooks-hope-anchor-close-after-15-years-owners-say",
+        "accessed": "2026-05-17T23:10:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/red-hook-tavern-brooklyn",
-        "accessed": "2026-05-17T22:55:00Z"
+        "accessed": "2026-05-17T23:10:00Z"
+      },
+      {
+        "url": "https://www.worldbeststeaks.com/best-burger-1/red-hook-tavern",
+        "accessed": "2026-05-17T23:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T23:05:19.160Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T23:08:19.483Z"
   },
   {
     "id": "van-brunt-stillhouse",
