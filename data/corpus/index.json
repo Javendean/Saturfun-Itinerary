@@ -5081,49 +5081,50 @@
   },
   {
     "id": "sahadis-industry-city",
-    "name": "Sahadi's Industry City",
-    "desc": "Second-gen Middle Eastern grocer's IC outpost — mezze bar, brunch, and pantry shop under one roof.",
-    "longDesc": "The 121-year-old Atlantic Ave institution's Industry City spin-off pairs a full-service cafe and bar with a curated grocery (olives, spices, prepared foods). Weekend brunch runs 11am–3:30pm with shakshuka, labneh, and house pita; the bar pours arak cocktails and natural wines until early evening. Sits in the same IC courtyard as Carreau, so zero drive time between stops.",
-    "url": "https://sahadis.com/pages/locations",
+    "name": "Sahadi's — Industry City",
+    "desc": "121-year-old Brooklyn Lebanese grocer's IC outpost — pantry, mezze counter, sit-down eatery.",
+    "longDesc": "The Industry City sibling of the legendary Atlantic Ave Sahadi's: a full Middle Eastern grocery (olives, spices, nuts, halva, imported pantry staples by the pound) paired with a prepared-foods counter slinging hummus, labneh, fattoush, kibbeh, shawarma plates and zaatar manakish. There's also a sit-down cafe and bar inside Building 4, so you can graze a curious browse loop and snag a sandwich without leaving IC.",
+    "url": "https://industrycity.com/tenants/sahadis/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
+      "curious",
       "foodie",
-      "chill",
-      "curious"
+      "chill"
     ],
     "dietary": [
       "vegetarian",
-      "vegan"
+      "vegan",
+      "halal"
     ],
     "priceBand": "$$",
-    "duration": "45-75 min",
+    "duration": "30-45 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "11:00-19:00",
-    "notes": "Inside Industry City at 52 35th St, Brooklyn NY 11232 (sahadis.com). Weekend brunch 11am-3:30pm Sat/Sun (sahadis.com). Grocery + cafe + bar + events space; live music calendar on site (sahadis.com). Pairs naturally with Carreau as adjacent stop — both inside IC building cluster, walkable courtyard, no drive needed. Outpost of the 1948 Atlantic Ave original; opened at IC as a fuller dine-in concept (gothamist.com, 6sqft.com).",
+    "notes": "Address: 34 35th St, Building 4, Brooklyn NY 11232 (industrycity.com). Open Sat & Sun 11am–7pm; brunch served 11am–3:30pm and bar runs late Fri/Sat until 10pm (yelp.com). Pairs perfectly with Li-Lac Chocolates and Japan Village in the same complex for a no-drive foodie loop. Vegan/veg-friendly mezze and pantry items are abundant; most prepared items are halal-compatible (verify per item at counter). Parking on-site at IC lot.",
     "sources": [
       {
-        "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-16T06:30:00Z"
+        "url": "https://industrycity.com/tenants/sahadis/",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://sahadis.com/pages/brunch-bar-menu",
-        "accessed": "2026-05-16T06:30:00Z"
+        "url": "https://www.yelp.com/biz/sahadis-industry-city-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://gothamist.com/food/inside-the-glorious-new-sahadis-in-industry-city",
-        "accessed": "2026-05-16T06:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.6sqft.com/121-year-old-middle-eastern-grocery-sahadis-opens-second-brooklyn-location-at-industry-city/",
-        "accessed": "2026-05-16T06:30:00Z"
+        "url": "https://sahadis.com/pages/locations",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T06:31:01.434Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:49:50.710Z"
   },
   {
     "id": "micol-ceramics",
@@ -20800,5 +20801,195 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T00:37:01.546Z"
+  },
+  {
+    "id": "ktown-32nd-food-crawl",
+    "name": "Koreatown 32nd St Food Crawl — Han, Cho Dang Gol, Paris Baguette",
+    "desc": "Three-stop K-town crawl: anju at Her Name Is Han, handmade tofu at Cho Dang Gol, finish with red-bean pastries at Paris Baguette",
+    "longDesc": "A compact Manhattan-exception evening anchored on 32nd Street: start at Her Name Is Han (17 E 31st) for refined drinking-snacks and house-made makgeolli, walk five minutes north to Cho Dang Gol (55 W 35th) for sundubu-jjigae and tofu made fresh each morning, then end on the 32nd Street strip itself at Paris Baguette (6 W 32nd) for sweet/savory pastries to-go. Best framed as a 10-minute walk south from a Bryant Park / NYPL reading-and-manga afternoon — everything sits within a 4-block walking triangle.",
+    "url": "https://www.google.com/maps/dir/Her+Name+Is+Han+17+E+31st+St,+New+York,+NY/Cho+Dang+Gol+55+W+35th+St,+New+York,+NY/Paris+Baguette+6+W+32nd+St,+New+York,+NY",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "30-40 min",
+    "hoursWeekend": "Han Sat 12:00-14:00 & 17:00-22:45 / Cho Dang Gol Sat-Sun 12:00-21:30 / Paris Baguette Sat 05:00-23:00, Sun 05:00-22:00",
+    "notes": "MANHATTAN EXCEPTION — uniquely justified as a dinner extension to a Midtown manga/reading day (10-min walk south of Bryant Park). Driving from IC: ~30-40 min via Battery Tunnel; weekend street parking in K-town is brutal so plan on a garage ($30-50) on 32nd/35th, or train it from Atlantic-Barclays. Order plan: at Han go for the seasonal anju + a bottle of makgeolli (refined banchan-forward small plates, last dinner order 22:45 Fri/Sat) (yelp.com, hernameishan.com); at Cho Dang Gol the sundubu and handmade-tofu platters are the signature — village-style tofu made fresh every morning, Michelin Guide listed (chodanggolnyc.com, guide.michelin.com); cap with red-bean croissants or strawberry cream cake from Paris Baguette's 32nd St flagship, open until 23:00 Thu-Sat for a late grab-and-go (parisbaguette.com). Vegetarians do well at Cho Dang Gol (tofu-centric menu) and Paris Baguette; Han is more meat/seafood-leaning. All three are within a 4-block walking triangle so park once.",
+    "sources": [
+      {
+        "url": "http://www.hernameishan.com/dinner",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.yelp.com/biz/her-name-is-han-new-york-3",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://chodanggolnyc.com/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cho-dang-gol",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://parisbaguette.com/locations/ny/new-york/6-west-32nd-street/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.yelp.com/biz/paris-baguette-new-york-33",
+        "accessed": "2026-05-16"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:39:31.892Z"
+  },
+  {
+    "id": "loft-japan-village",
+    "name": "The Loft at Japan Village",
+    "desc": "20,000 sq ft second-floor Japanese cultural space inside Industry City — traditional tea ceremony, pottery, manga & more",
+    "longDesc": "The Loft takes over the entire second floor above Japan Village's food hall at Industry City, with Chashitsu hosting 15-20 minute traditional matcha tea ceremonies you can watch a master perform. Browse handmade Setomonoya pottery, hunt manga and anime collectibles at BookOff, pick up affordable Sanrio goods at Daiso, and pair the visit with sake and small plates downstairs at Sake's Bar in the food hall.",
+    "url": "https://www.theloftatjapanvillage.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "Located on the 2nd floor at 934 3rd Avenue inside Industry City — same building as Saturfun's IC anchor (industrycity.com). Chashitsu tea ceremony is the marquee experience: 15-20 min traditional matcha presentation by a master with Japanese sweets (gothamtogo.com). Sake's Bar (downstairs in the food hall, Fri/Sat 12-20:30, Sun 12-19:30) serves Japanese draft beer, sake and original cocktails (japanvillage.com). Validated parking with $50 Sunrise Mart or $100 Sushi Uesugi spend (japanvillage.com). Other tenants worth the trip: Setomonoya handmade pottery, BookOff used manga/anime, Daiso, Bobinage sewing studio, Taro's Origami, Conodio botanicals.",
+    "sources": [
+      {
+        "url": "https://www.theloftatjapanvillage.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/the-loft-at-japan-village-has-taken-over-a-full-second-floor-at-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://gothamtogo.com/japan-village-unveils-massive-second-floor-expansion-the-loft-at-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink/sakes-bar",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/directions",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:41:46.835Z"
+  },
+  {
+    "id": "sushi-uesugi-japan-village",
+    "name": "Sushi Uesugi (inside Japan Village)",
+    "desc": "Tucked-away omakase counter inside Japan Village — $50 lunch sets, walk-in only, the food hall's serious sushi pick.",
+    "longDesc": "Sushi Uesugi is a small, refined omakase restaurant occupying its own corner of the Japan Village food hall at Industry City. Chef Uesugi runs an intimate counter where each course spotlights seasonal Japanese fish, with signature off-menu touches like Yukke Don and a Garlic Truffle Rice that locals quietly rave about. The $50 lunch omakase (10 pieces, walk-in only) is one of the best sushi values in Brooklyn and the reason to choose this over the umbrella Japan Village listing.",
+    "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-75 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "12:00-14:30, 17:00-19:30 (Sat/Sun, walk-in only)",
+    "notes": "Correction during research: 'Hibino Sushi' is not a tenant at Japan Village — Hibino is a separate restaurant at 333 Henry St, Cobble Hill (https://hibino-brooklyn.com). Inside Japan Village the strongest stall-level sushi pick is Sushi Uesugi: $50 lunch omakase, 10 pieces, walk-in only, Wed–Sun noon–2:30pm and 5–7:30pm (https://www.japanvillage.com/eat-drink/sushi-uesugi). Yelp reviewers consistently highlight thick cuts, fresh fish flown from Japan, and clean, intimate ambience (https://www.yelp.com/biz/sushi-uesugi-brooklyn). Since it sits inside Industry City, drive time from the IC anchor is effectively 0 — park in any IC lot and walk in via Building 4.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sushi-uesugi-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:44:48.385Z"
+  },
+  {
+    "id": "kijitora-williamsburg",
+    "name": "Kijitora (N 7th)",
+    "desc": "Cat-branded Japanese cafe in Williamsburg pouring hand-prepped matcha lattes alongside mochi brownies and seasonal wagashi.",
+    "longDesc": "Kijitora's North 7th flagship is the closest Brooklyn answer to Café Kitsuné — a tight, design-forward room where ceremonial-grade matcha is whisked to order and paired with rotating wagashi, dorayaki, and the signature mochi brownie. Expect seasonal pours like Matcha Peach Fuzz or iced strawberry matcha, and a tiramisu latte that locals consistently rank among Brooklyn's best. Crowded but quick on weekend mornings; grab-and-go works if the four-seat counter is full.",
+    "url": "https://www.kijitorabrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 08:00-19:00, Sun ~08:00-18:00",
+    "notes": "Park on Berry, Wythe, or N 8th — Saturday meters until 7pm but turnover is fast (kijitorabrooklyn.com). Phone (347) 763-0087. Matcha is whisked by hand so expect a short wait at peak (yelp.com). Pairs naturally as a sweets stop after a Japanese grocer-crawl in Williamsburg or after a meal at the Industry City cluster — drive up the BQE, exit Metropolitan Ave.",
+    "sources": [
+      {
+        "url": "https://www.kijitorabrooklyn.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kijitora-new-york-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://mylocalmatcha.com/cafe/kijitora-brooklyn-williamsburg/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.benjisguidetonyc.com/blog/kijitora-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:47:54.361Z"
   }
 ]

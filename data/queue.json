@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Koreatown 32nd St food crawl (Her Name Is Han, Cho Dang Gol, Paris Baguette)",
-    "reason": "10-min walk south of Bryant Park; obvious dinner extension for a Midtown-anchored manga-and-reading day, expands the Manhattan-exception corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:14:12.877Z"
-  },
-  {
-    "topic": "The Loft at Japan Village — sake bar + tea ceremony space",
-    "reason": "Second-floor cultural/event space inside Japan Village; distinct experience from the food hall and worth its own card for romantic/curious vibes",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:16:03.040Z"
-  },
-  {
-    "topic": "Hibino Sushi inside Japan Village food hall",
-    "reason": "Stall-level granularity for the food hall; lets the corpus surface a specific sushi pick rather than only the umbrella venue",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:16:03.040Z"
-  },
-  {
-    "topic": "Cafe Kitsune-style matcha or wagashi spot near Industry City",
-    "reason": "Extends the Japanese-Brooklyn cluster with a sweets/coffee follow-on after the grocer-crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:16:03.040Z"
-  },
-  {
-    "topic": "Sahadi's Industry City - Lebanese pantry + prepared foods counter",
-    "reason": "Another in-complex 'curious browse' stop that pairs well with Li-Lac for a foodie loop without leaving IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:18:02.911Z"
-  },
-  {
     "topic": "Japan Village basement at Industry City - sake + Japanese grocery hall",
     "reason": "Highest-density browseable food experience in IC; natural sibling to Li-Lac as a sample-and-stroll anchor",
     "requestedBy": "agent",
@@ -6586,5 +6556,95 @@
     "reason": "Brooklyn-side alternative photogenic historic-bar capper, lets the corpus offer a non-Manhattan capper for evenings that end in Brooklyn",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T00:37:01.570Z"
+  },
+  {
+    "topic": "Kang Ho Dong Baekjeong 32nd St NYC — Korean BBQ flagship",
+    "reason": "Heavier-protein alternative to the Han/Cho Dang Gol pairing for nights when the group wants tableside grill instead of tofu+anju",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:39:31.919Z"
+  },
+  {
+    "topic": "Nowon NYC East Village smash-burger + Korean cocktails",
+    "reason": "Younger/louder K-American crossover spot that pairs naturally with an LES/EV manga-shop crawl rather than the Midtown anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:39:31.919Z"
+  },
+  {
+    "topic": "Kossar's Bagels + Russ & Daughters LES weekend brunch crawl",
+    "reason": "Mirrors the 'three-stop walkable Manhattan food triangle' pattern for a Lower East Side variation that pairs with Economy Candy + comic shops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:39:31.919Z"
+  },
+  {
+    "topic": "Chashitsu tea ceremony booking specifics and pricing",
+    "reason": "If reservations are required this becomes a planning constraint for itinerary cards",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:41:46.856Z"
+  },
+  {
+    "topic": "Setomonoya pottery shop at The Loft — handmade ceramics",
+    "reason": "Standalone retail/souvenir stop with strong photo + gift appeal for foodie/curious vibes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:41:46.856Z"
+  },
+  {
+    "topic": "Taro's Origami Studio at The Loft",
+    "reason": "Hands-on activity option fits the manga panel harvester audience of artist-friends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:41:46.856Z"
+  },
+  {
+    "topic": "Handroll Sushi Bar inside Japan Village food hall",
+    "reason": "Casual temaki counter (scallop, negi toro, yellowtail) — the budget/quick complement to Sushi Uesugi at the same address; rounds out food-hall sushi options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:44:48.404Z"
+  },
+  {
+    "topic": "Re-research existing venue: Hibino Brooklyn (333 Henry St, Cobble Hill)",
+    "reason": "The real Hibino — Kyoto-style obanzai + house-made tofu + sushi — sits in Cobble Hill, ~15 min drive from IC; belongs in the corpus as its own entry, not conflated with Japan Village",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:44:48.404Z"
+  },
+  {
+    "topic": "Gohei (kaiseki/donburi stall inside Japan Village)",
+    "reason": "Adjacent stall-level pick from the same food hall; expands per-stall granularity beyond the sushi axis so the corpus can recommend a non-raw alternative within the same parking trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:44:48.404Z"
+  },
+  {
+    "topic": "UnD Japanese matcha & bakery (Greenpoint) — ceremonial Uji matcha, melon pan, shokupan, wagashi",
+    "reason": "Adds a Greenpoint anchor to the Japanese-Brooklyn cluster; pairs with Greenpoint grocers/izakaya for a longer drive day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:47:54.384Z"
+  },
+  {
+    "topic": "Casita of Brooklyn (Park Slope) — 4.8★ matcha cafe ~10 min from IC",
+    "reason": "Much closer alternative for short-drive days when Williamsburg traffic is bad; rounds out the Park Slope cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:47:54.384Z"
+  },
+  {
+    "topic": "As You Like (Williamsburg) — Japanese coffee shop doubling as a ceramics + florals shop",
+    "reason": "Same Williamsburg cluster as Kijitora; gives the itinerary a back-to-back sweets+ceramics pairing for the curious/photo vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:47:54.384Z"
+  },
+  {
+    "topic": "Japan Village at Industry City - Japanese food hall + grocery",
+    "reason": "Completes the in-complex foodie browse loop with Sahadi's and Li-Lac; massive curious-browse footprint with prepared foods",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:49:50.733Z"
+  },
+  {
+    "topic": "Sahadi's original Atlantic Ave flagship - Cobble Hill",
+    "reason": "10-min drive from IC; the OG since 1948 with a denser bulk-bin experience for a dedicated pantry run",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:49:50.733Z"
+  },
+  {
+    "topic": "Avlee Greek Kitchen at Industry City - Mediterranean counterpart",
+    "reason": "Adjacent cuisine in same complex; rounds out a Mediterranean track without leaving IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T00:49:50.733Z"
   }
 ]
