@@ -15615,53 +15615,43 @@
   {
     "id": "time-out-market-new-york",
     "name": "Time Out Market New York",
-    "desc": "21-vendor curated food hall inside Empire Stores with a Brooklyn Bridge–facing rooftop deck.",
-    "longDesc": "Time Out's editors hand-picked 21 NYC chefs and restaurants (Pat LaFrieda, Mr. Taka Ramen, Felice Pasta Bar, Clinton St. Baking, Jacob's Pickles, Bessou, Avocaderia, Juliana's Pizza) under one roof in the historic Empire Stores warehouse. The 5th-floor and rooftop deliver direct sightlines of the Brooklyn Bridge, Manhattan Bridge, and lower-Manhattan skyline — making it an easy indoor handoff after a DUMBO/Pebble Beach sunset stroll. Order at the stalls, grab a table indoors or head up the exterior stairs/elevator to the roof for drinks.",
-    "url": "https://www.timeout.com/time-out-market-new-york",
+    "desc": "24,000 sq ft waterfront food hall in Empire Stores with 21 vendors, 3 bars, and a rooftop.",
+    "longDesc": "Brooklyn's flagship food hall packs curated NYC restaurants — Jacob's Pickles, Fornino, Ess-a-Bagel, Bark Barbecue, Clinton St. Baking Co., Doughnuttery — into the restored Empire Stores warehouse on the DUMBO waterfront. Order from any stall, grab a shared table, then ride up to the fifth-floor rooftop for skyline + Brooklyn Bridge views. Sits two minutes from Jane's Carousel and Pebble Beach, so it slots cleanly into a DUMBO walking loop.",
+    "url": "https://www.timeoutmarket.com/newyork/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "foodie",
-      "chill",
       "photo",
-      "romantic"
+      "curious"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan"
+      "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "08:00-23:00 Sat, 08:00-22:00 Sun",
-    "notes": "21 stalls + 3 bars + live-music stage + rooftop; rooftop reachable via exterior stairs or two elevators, one inside Empire Stores' first floor and one outside near the East River entrance (timeout.com). Weekend rooftop seating wait runs 15–30 min and stall lines 10–20 min at peak (zippicks.com). Street parking in DUMBO is extremely limited — nearest paid garages are 85 Adams St, 90 Washington St, and 100 Jay St (zippicks.com). Strong vegetarian/vegan coverage via Avocaderia and bakery stalls.",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 8:00-23:00, Sun 8:00-22:00",
+    "notes": "55 Water St, Brooklyn — four entrances incl. waterfront lobby off Old Dock St (timeout.com). Drive from IC is ~15 min via Gowanus Expy/BQE; weekend parking at Empire Stores garage or street parking on Plymouth/Water. Pair with Jane's Carousel (2-min walk) or Brooklyn Bridge Park (3-min walk). Rooftop bar opens later in the day — best for late-afternoon/golden-hour photos.",
     "sources": [
       {
         "url": "https://www.timeout.com/time-out-market-new-york",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T21:10:00Z"
       },
       {
         "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/time-out-market-new-york/how-to-get-here",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://zippicks.com/time-out-market-new-york-brooklyn-11201/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T21:10:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/time-out-market-new-york/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T21:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T17:18:30.865Z"
+    "lastResearchedAt": "2026-05-17T21:12:03.069Z"
   },
   {
     "id": "janes-carousel",
@@ -24626,8 +24616,8 @@
   {
     "id": "the-river-cafe",
     "name": "The River Café",
-    "desc": "Michelin-starred waterfront fine dining beneath the Brooklyn Bridge with full Manhattan skyline views.",
-    "longDesc": "Open since 1977 on a barge moored at the foot of the Brooklyn Bridge, The River Café pairs Chef Brad Steelman's seasonal New American prix fixe with one of the most cinematic skyline views in NYC and live piano from longtime resident pianist Dom Salvador. Dinner-only Wed-Sun with a strict dress code — jackets required for gentlemen, no jeans, sneakers, or sandals. Reservations are essential and parties of 5+ must book by phone; valet meets cars at the bottom of the cobblestone driveway.",
+    "desc": "Michelin-starred riverside fine dining under the Brooklyn Bridge with full Manhattan skyline views",
+    "longDesc": "An iconic 1977-vintage destination at the foot of the Brooklyn Bridge, The River Café pairs a Michelin-starred New American tasting menu with a panoramic, water-level view of Lower Manhattan. Chef Brad Steelman's 3-course prix fixe ($200 pp) and an optional pre-arranged 4-course tasting are served beside live piano from Dom Salvador. Jackets required for gentlemen — no jeans, athletic wear, or sandals — making it a clear step above Cecconi's for milestone romantic evenings.",
     "url": "https://rivercafe.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -24641,38 +24631,38 @@
       "vegetarian"
     ],
     "priceBand": "$$$",
-    "duration": "2-3 hr",
+    "duration": "2-2.5 hr",
     "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 17:00-23:00, Sun 17:00-22:00",
-    "notes": "Michelin-starred New American prix fixe (rivercafe.com); dinner-only Wed-Sun, closed Mon-Tue (opentable.com). Strict dress code: jackets required for gentlemen, ties preferred, no jeans/athletic wear/sandals (rivercafe.com). Valet at the cobblestone driveway entrance — tell the driver to go all the way down to the front door (rivercafe.com). 1 Water St, Brooklyn 11201; 718-522-5200. Iconic proposal/anniversary venue; pair with a Brooklyn Bridge Park walk before the 5:00pm seating for golden-hour photos.",
+    "hoursWeekend": "Sat–Sun 17:00–21:30 (last seating ~21:30; closed Mon/Tue)",
+    "notes": "3-course prix fixe $200/pp; 4-course pre-arranged tasting on request (rivercafe.com/dinner-menu). Jacket required, ties preferred; no jeans/athletic/sandals (rivercafe.com). Parties of 5+ must call 718-522-5200 (rivercafe.com). Dedicated valet/parking lot at rivercafe.com/parking — verify weekend availability before arrival. Michelin Guide–listed (guide.michelin.com).",
     "sources": [
       {
         "url": "https://rivercafe.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T21:10:00Z"
       },
       {
-        "url": "https://rivercafe.com/reservations/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://rivercafe.com/dinner-menu/",
+        "accessed": "2026-05-17T21:10:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/the-river-cafe",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T21:10:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/The_River_Caf%C3%A9_(Brooklyn)",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.opentable.com/r/the-river-cafe-brooklyn",
+        "accessed": "2026-05-17T21:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T06:42:40.833Z"
+    "lastResearchedAt": "2026-05-17T21:05:40.813Z"
   },
   {
     "id": "celestine-dumbo",
     "name": "Celestine",
-    "desc": "Mediterranean waterfront restaurant on John St in DUMBO with Manhattan Bridge skyline views",
-    "longDesc": "Celestine sits at 1 John St directly on the East River waterfront, serving Mediterranean coastal mezze (labneh, za'atar flatbread, lamb skewers, lobster tagliatelle, branzino) with sweeping views of both the Manhattan and Brooklyn bridges. The patio is the draw — wide sit-down outdoor seating below the Manhattan Bridge with vegetarian-friendly menu and a strong brunch service. Weekend brunch (11am-3pm Sat/Sun) and dinner (5:15-10pm) make it a flexible Cecconi's alternative; Resy reservations strongly recommended.",
+    "desc": "Mediterranean waterfront dinner under the Manhattan Bridge with floor-to-ceiling skyline views",
+    "longDesc": "Seasonal Mediterranean coastal kitchen tucked beneath the Manhattan Bridge on the DUMBO waterfront, with floor-to-ceiling windows framing the Brooklyn Bridge and downtown skyline. Menu leans on mezze (golden beets, grilled octopus) and shareable mains (Wagyu skewers, pistachio-pesto pasta); reservations via Resy are essential on weekends. Functions as a strong romantic-dinner fallback in the same DUMBO/Brooklyn-Bridge cluster as Cecconi's.",
     "url": "https://www.celestinebk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -24686,32 +24676,36 @@
       "vegetarian"
     ],
     "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "11:00-15:00, 17:15-22:00",
-    "notes": "Waterfront patio with Manhattan + Brooklyn Bridge views; Mediterranean mezze, lamb skewers, lobster tagliatelle, branzino (celestinebk.com). Weekend brunch 11-3, dinner 5:15-10 — busiest service, reserve via Resy (opentable.com/r/celestine-brooklyn). DUMBO street parking is tight on weekends; SpotHero garages on Pearl/Front recommended (spothero.com/destination/nyc/dumbo-parking). Adjacent skyline-view backup to Cecconi's when fully booked.",
+    "duration": "1.5-2 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat-Sun 11:00-15:00, 17:15-22:00",
+    "notes": "Weekend service splits into brunch (11-3) and dinner (5:15-10) with last seating ~9:45pm (celestinebk.com). Floor-to-ceiling windows on the East River give it the strongest sunset/skyline view in this price band (theinfatuation.com). Parking is the weak point — DUMBO street parking is brutal on weekends; nearest reliable option is the Brooklyn Bridge Park / Pier 1 garages, ~5 min walk. Book Resy 2-3 weeks out for a window seat (opentable.com).",
     "sources": [
       {
         "url": "https://www.celestinebk.com/",
-        "accessed": "2026-05-17T06:40:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/celestine-brooklyn",
-        "accessed": "2026-05-17T06:40:00Z"
+        "accessed": "2026-05-17T21:10:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/celestine",
-        "accessed": "2026-05-17T06:40:00Z"
+        "accessed": "2026-05-17T21:10:00Z"
       },
       {
         "url": "https://www.opentable.com/r/celestine-brooklyn",
-        "accessed": "2026-05-17T06:40:00Z"
+        "accessed": "2026-05-17T21:10:00Z"
+      },
+      {
+        "url": "https://hotelsabovepar.com/this-waterfront-restaurant-in-dumbo-brooklyn-boasts-unparalleled-views-of-the-manhattan-cityscape/",
+        "accessed": "2026-05-17T21:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/celestine-brooklyn",
+        "accessed": "2026-05-17T21:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T06:44:38.203Z"
+    "lastResearchedAt": "2026-05-17T21:09:59.783Z"
   },
   {
     "id": "squibb-park-bridge",
@@ -33707,5 +33701,96 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T21:01:34.372Z"
+  },
+  {
+    "id": "gran-electrica",
+    "name": "Gran Eléctrica (CLOSED)",
+    "desc": "Closed Dec 31, 2024 after 12 years; DUMBO Mexican spot has been replaced by Hildur (French/Scandinavian).",
+    "longDesc": "Gran Eléctrica was a Michelin Bib Gourmand-recognized regional Mexican cantina at 5 Front St in DUMBO, beloved for its rear patio under the Manhattan Bridge and a 100+ tequila/mezcal list. Owners Tamer Hamawi and Emelie Kihlstrom served their final dinner on December 31, 2024, citing post-pandemic sales that never recovered. The space has since reopened as Hildur, a French bistro with a Scandinavian accent (Kihlstrom's homeland) — so the address is live but the Mexican concept is not.",
+    "url": "https://www.granelectrica.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "Permanently closed 2024-12-31 after 12 years of operation (Andrea Strong, Apple Eats). Yelp listing flags CLOSED as of April 2026. The 5 Front St space is now Hildur, a French/Scandinavian bistro from the same owner Emelie Kihlstrom — granelectrica.com domain currently serves Hildur's site. DO NOT PROMOTE to itinerary; reservations will fail. Replacement Mexican candidates enqueued below.",
+    "sources": [
+      {
+        "url": "https://andreastrong.substack.com/p/gran-electrica-to-close",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://appleeats.com/popular-mexican-cantina-gran-electrica-is-closing/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gran-electrica-brooklyn-3",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.granelectrica.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T21:08:00.655Z"
+  },
+  {
+    "id": "brooklyn-historical-society-dumbo",
+    "name": "Brooklyn Historical Society DUMBO (Waterfront Exhibition)",
+    "desc": "Free-ish 3,200 sq ft waterfront-history museum tucked inside Empire Stores — quick, curious, weather-proof.",
+    "longDesc": "A satellite of the Center for Brooklyn History on the 2nd floor of Empire Stores, dedicated to the permanent multimedia exhibition Waterfront — the borough's coastline told through workers, artists, ecosystems and industries. Suggested admission $10 (free under 12, students, members), making it a low-commitment 30-45 min couples stop you can pair with anything else in the Empire Stores complex. Note: user referenced '3rd floor' but the official Empire Stores tenant page lists it as 2nd floor (empirestoresdumbo.com/about).",
+    "url": "https://www.empirestoresdumbo.com/about",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "Fri 11:00-20:00, Sat 11:00-20:00, Sun 11:00-18:00",
+    "notes": "On 2nd floor of Empire Stores at 55 Water St, DUMBO — same complex as Time Out Market, so couples can chain food + history without a car-move (empirestoresdumbo.com/about). Permanent exhibition is 'Waterfront,' opened May 2017, 3,200 sq ft, multimedia (waterfrontalliance.org). Suggested admission $10 adult / $6 senior+teacher / free for kids under 12, students, members (cityguideny.com). Status note: Foursquare lists it as 'Now Closed' but the official Empire Stores tenant page and NYC Tourism still feature it — recommend calling Center for Brooklyn History to confirm before driving out. Parking: paid lots at Empire Stores garage and along Front/Water St on weekends.",
+    "sources": [
+      {
+        "url": "https://www.empirestoresdumbo.com/about",
+        "accessed": "2026-05-17T21:10:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/brooklyn-historical-society-dumbo/",
+        "accessed": "2026-05-17T21:10:00Z"
+      },
+      {
+        "url": "https://waterfrontalliance.org/2018/01/19/waterfront-at-brooklyn-historical-society-dumbo/",
+        "accessed": "2026-05-17T21:10:00Z"
+      },
+      {
+        "url": "https://www.cityguideny.com/article/Historic-Brooklyn-Waterfront-at-Brooklyn-Historical-Society-Dumbo",
+        "accessed": "2026-05-17T21:10:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Center_for_Brooklyn_History",
+        "accessed": "2026-05-17T21:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:14:32.992Z"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Re-research existing venue: The River Café (1 Water St, DUMBO)",
-    "reason": "Higher-tier romantic-track dinner anchor under Brooklyn Bridge — tasting-menu pairing for users who want a step above Cecconi's",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:20:34.086Z"
-  },
-  {
-    "topic": "Gran Eléctrica (5 Front St, DUMBO) Mexican patio dinner",
-    "reason": "DUMBO romantic-track variant with a different cuisine — covers couples who want sit-down + reservations but not Italian",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:20:34.086Z"
-  },
-  {
-    "topic": "Celestine (1 John St, DUMBO) Mediterranean waterfront dinner",
-    "reason": "Adjacent same-zone romantic option with East River views; fills the 'Cecconi's booked out' fallback slot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:20:34.086Z"
-  },
-  {
-    "topic": "Time Out Market New York (Empire Stores, DUMBO)",
-    "reason": "Food-hall anchor 2-min walk from the carousel — fills the foodie slot in a DUMBO track that currently leans scenery-heavy",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:22:35.908Z"
-  },
-  {
-    "topic": "Brooklyn Historical Society DUMBO (Empire Stores 3rd floor)",
-    "reason": "Another low-effort curious stop in the same Empire Stores complex — keeps the cluster tight for couples without a car-move",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T17:22:35.908Z"
-  },
-  {
     "topic": "Front General Store (DUMBO vintage)",
     "reason": "Adds a 'shop' beat to the DUMBO track that's neither food nor view — broadens vibe coverage for the cluster",
     "requestedBy": "agent",
@@ -12862,5 +12832,95 @@
     "reason": "100+ vendor outdoor food market now at BBP; Sunday-specific alternative to DUMBO sit-downs",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T21:03:43.321Z"
+  },
+  {
+    "topic": "Bridge Park Boathouse / Brooklyn Bridge Park Pier 1 promenade — golden-hour walk pairing for River Café dinner",
+    "reason": "Natural pre-dinner stroll with same skyline backdrop strengthens the romantic-track itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:05:40.841Z"
+  },
+  {
+    "topic": "Time Out Market New York at Empire Stores (DUMBO) — casual alternative pairing",
+    "reason": "Gives the romantic-track a $$ fallback in the same zone if River Café is booked or budget-constrained",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:05:40.841Z"
+  },
+  {
+    "topic": "Vinegar Hill House — Brooklyn neighborhood-y romantic dinner alternative near DUMBO",
+    "reason": "Adds a candle-lit, lower-priced romantic option a short walk from River Café for users who want intimacy over spectacle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:05:40.841Z"
+  },
+  {
+    "topic": "Oxomoco (Greenpoint) — Michelin-starred wood-fired Mexican with romantic skylit patio",
+    "reason": "Strongest Brooklyn replacement for the DUMBO romantic-Mexican slot; ~22 min drive from IC with weekend street parking on Bayard/Lorimer; Michelin star adds prestige tier the corpus is thin on",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:08:00.678Z"
+  },
+  {
+    "topic": "Chela & Garnacha (Astoria) — regional Mexican antojitos, BYOB-adjacent vibe",
+    "reason": "Backfills a casual romantic Mexican option if Oxomoco is overbooked; LIC-Astoria edge stretches the 15-min radius rule but justifies via cuisine scarcity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:08:00.678Z"
+  },
+  {
+    "topic": "Hildur (DUMBO, 5 Front St) — French/Scandinavian successor to Gran Eléctrica",
+    "reason": "Same address, same patio, different cuisine — natural DUMBO romantic-track candidate under a French/Nordic bucket rather than Mexican; worth a dedicated research pass",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:08:00.678Z"
+  },
+  {
+    "topic": "Casa Ora (Bushwick) — Venezuelan tasting menu, romantic backyard",
+    "reason": "Adjacent to Mexican in the Latin-American-romantic bucket; covers couples who want sit-down Latin without Italian, with a real outdoor space and ~20 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:08:00.678Z"
+  },
+  {
+    "topic": "Bridge Coffee Shop DUMBO — espresso bar with Manhattan Bridge framing",
+    "reason": "Daytime photo-op pairing for a Celestine dinner; same 1-block radius, fills the morning slot in a DUMBO-anchored track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:09:59.809Z"
+  },
+  {
+    "topic": "Time Out Market New York DUMBO — multi-vendor food hall rooftop",
+    "reason": "Lower-commitment fallback in the same waterfront cluster when Celestine is booked; covers $-$$ price band the corpus is thin on",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:09:59.809Z"
+  },
+  {
+    "topic": "Front Street Pizza DUMBO — late-night slice spot",
+    "reason": "Post-dinner walkable anchor that completes a DUMBO romantic-evening loop without driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:09:59.809Z"
+  },
+  {
+    "topic": "Jacob's Pickles Time Out Market DUMBO (fried chicken vendor)",
+    "reason": "Individual standout vendor inside TOM — useful as a dish-level recommendation when the itinerary calls out one order",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:12:03.092Z"
+  },
+  {
+    "topic": "Cecconi's DUMBO (waterfront Italian, Empire Stores neighbor)",
+    "reason": "Sit-down alternative to TOM in the same block — covers the foodie slot for groups wanting table service over food-hall chaos",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:12:03.092Z"
+  },
+  {
+    "topic": "Front Street Pizza DUMBO (late-night slice)",
+    "reason": "Quick, cheap DUMBO foodie option for tracks that already used budget at a bigger stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:12:03.092Z"
+  },
+  {
+    "topic": "Time Out Market New York (Empire Stores rooftop + food hall)",
+    "reason": "Same building — anchors the no-car-move DUMBO mini-cluster with 20+ vendors and a Brooklyn Bridge rooftop view",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:14:33.016Z"
+  },
+  {
+    "topic": "Powerhouse Arena bookstore DUMBO",
+    "reason": "5-min walk from Empire Stores — curious/photo vibe, large-format art books, frequent author events on weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T21:14:33.016Z"
   }
 ]
