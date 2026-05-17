@@ -10351,8 +10351,8 @@
   {
     "id": "bush-terminal-piers-park",
     "name": "Bush Terminal Piers Park",
-    "desc": "Eight-block reclaimed-pier park on the Sunset Park waterfront with tide ponds and unobstructed Manhattan sunset views.",
-    "longDesc": "Once a derelict shipping complex, this NYC Parks waterfront opened in 2014 with two multipurpose fields, restored wetlands, tide ponds, and a long esplanade pointing straight at lower Manhattan and the Statue of Liberty. It's the flat, sea-level sister to Sunset Park's hilltop view — better when wind or rain makes the hill miserable, and the only spot in the zone where you can stand right at the water for golden hour. Free parking lot off 43rd St makes it a drop-in stop, but the 7pm gate closure means you have to time sunset carefully outside of peak summer.",
+    "desc": "Free Sunset Park waterfront with tidal ponds and pier-level Lower Manhattan + Statue of Liberty views",
+    "longDesc": "An eight-block waterfront park built on a remediated port complex, with a jetty, two tidal ponds, restored wetlands, and a forested peninsula. The pier extends right into Upper Bay for a low, open angle on Lower Manhattan, the Statue of Liberty, and Bayonne across the channel — golden-hour-friendly but the gates close at 7:00 PM, so summer sunsets often happen after lockout. Enter at the foot of 43rd Street; street parking on 1st/2nd Ave is easy on weekends.",
     "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10364,28 +10364,28 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "5 min",
     "hoursWeekend": "07:00-19:00",
-    "notes": "Entrance and free parking lot at 43rd St & 1st Ave, ~5 min drive north of Industry City (nyctourism.com). Park officially closes 7pm year-round per NYC Parks, so in winter you catch sunset; in summer (sunset ~8:25pm) the hilltop at Sunset Park itself is the better pick — use this as the rainy/windy/low-mobility fallback (nycgovparks.org). Waterfront esplanade, restored tidal wetlands, and an iconic swing set facing the harbor (nyctourism.com). No food/drinks on site — pair with Industry City food hall before or after.",
+    "notes": "Free entry; gates lock at 7pm so check sunset time before planning (NYC Parks). Enter at 43rd St & 1st Ave — esplanade leads past tidal ponds to the jetty with skyline + Statue of Liberty views (nyctourism.com). Two multipurpose fields, comfort station, bike lanes; close enough to IC that you can pair it with a food-hall dinner after (Brownstoner). Restored wetlands host shorebirds — bring binoculars if curious.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
-        "accessed": "2026-05-17T13:10:00Z"
+        "accessed": "2026-05-17T21:30:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
-        "accessed": "2026-05-17T13:10:00Z"
+        "accessed": "2026-05-17T21:30:00Z"
       },
       {
-        "url": "https://prked.com/blog/bush-terminal-piers-park-brooklyn-parking-guide",
-        "accessed": "2026-05-17T13:10:00Z"
+        "url": "https://www.brownstoner.com/brooklyn-life/closing-bell-bush-terminal-piers-park-opens-in-sunset-park/",
+        "accessed": "2026-05-17T21:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T13:06:57.944Z"
+    "lastResearchedAt": "2026-05-17T21:31:27.878Z"
   },
   {
     "id": "owls-head-park",
@@ -33880,5 +33880,181 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T21:18:25.071Z"
+  },
+  {
+    "id": "pier-44-waterfront-garden",
+    "name": "Pier 44 Waterfront Garden",
+    "desc": "Quiet Red Hook pocket garden with Statue of Liberty + Verrazano views; calmer than Valentino Pier next door.",
+    "longDesc": "A small, beautifully planted waterfront garden at the foot of Conover Street, designed by Lynden Miller (of Central Park's Conservatory Garden). The Waterfront Museum barge is moored alongside, and historical context is curated by PortSide NewYork through their Red Hook WaterStories project. Sunset light hits Manhattan and Lady Liberty head-on across the harbor, with far fewer people than the adjacent Valentino Pier.",
+    "url": "https://redhookwaterstories.org/waterfront-access-points",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "Sunrise-21:00",
+    "notes": "Free, gated entry off 290 Conover St marked by a red wooden sign on a black gate (Yelp). Garden designed by Lynden Miller, the same hand behind Central Park's Conservatory Garden (publicgardendesign.com). PortSide NewYork stewards adjacent waterfront access and the Waterfront Museum barge moored here (waterfrontmuseum.org). Direct front-facing Statue of Liberty + Verrazano sightlines; pair with a Valentino Pier walk one block north for two contrasting sunset spots in one stop. Street parking on Conover/Coffey is usually findable on weekends.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/pier-44-waterfront-garden-brooklyn",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://waterfrontmuseum.org/about/",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://redhookwaterstories.org/waterfront-access-points",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "http://www.publicgardendesign.com/pier-44-waterfront-garden-red-hook.html",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier",
+        "accessed": "2026-05-17T21:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:27:26.316Z"
+  },
+  {
+    "id": "pier-4-beach-bbp",
+    "name": "Pier 4 Beach at Brooklyn Bridge Park",
+    "desc": "Quiet pocket beach with Manhattan skyline sunset views and a Bird Island nature preserve",
+    "longDesc": "A tucked-away sand beach on the footprint of a former pier, Pier 4 sits mid-park facing the harbor with an unobstructed western view of Lower Manhattan — prime sunset light over the water and skyline. The adjacent Bird Island habitat draws migratory species, and the cove doubles as the park's free kayak launch on summer weekends.",
+    "url": "https://brooklynbridgepark.org/places-to-see/pier-4-beach/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park open 6AM-1AM daily, free entry (brooklynbridgepark.org). Parking is limited — paid garages run by LAZ near Pier 1 and City Parking near Pier 6, plus metered 3-hour spots on Furman St near Pier 2 (brooklynbridgepark.org/about/faqs). No swimming; the beach is rocky/sand and used for kayak launches Wed/Thu/Sat + kids' Sundays in summer. For sunset photos, the unobstructed western harbor frame is best 30 min before official sunset; pair with Pebble Beach a few piers north if the group wants a second skyline angle.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-4-beach/",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/about/faqs/",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/articles/things-to-do-brooklyn-bridge-park/",
+        "accessed": "2026-05-17T21:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:29:31.649Z"
+  },
+  {
+    "id": "owls-head-park-overlook",
+    "name": "Owl's Head Park Overlook",
+    "desc": "24-acre Bay Ridge hilltop with elevated harbor + Verrazzano sightline; quiet sunset alternative to Sunset Park's bluff.",
+    "longDesc": "Tucked at 68th St & Colonial Rd in Bay Ridge, Owl's Head's western ridge climbs above the Belt Parkway to a grassy overlook with open sightlines across New York Harbor to Staten Island and the Verrazzano-Narrows Bridge. It's noticeably less crowded than Sunset Park's bluff and the elevation gives the sunset more layered foreground (treeline, container ships, bridge towers). A free on-site lot plus quiet residential street parking make it a clean drive-in/drive-out stop.",
+    "url": "https://www.nycgovparks.org/parks/owls-head-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "photo",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "06:00-21:00 (dawn to dusk)",
+    "notes": "Park itself is 24 acres of rolling hills with the western edge functioning as the overlook (visitbrooklyn.nyc). Free on-site lot, open 24/7, well-lit (prked.com); fills up at golden hour on weekends so arrive ~45 min before sunset. Trails, basketball, and Brooklyn's only city skatepark (Millennium) are bonus draws if pairing with active vibe. ~12 min drive south of Industry City via 3rd Ave or Shore Pkwy.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/owls-head-park",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/thingstodo/owls-head-park",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://prked.com/blog/owl's-head-park-brooklyn-parking-guide",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Owl's_Head_Park",
+        "accessed": "2026-05-17T21:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T21:33:36.686Z"
+  },
+  {
+    "id": "bat-pier-4-ferry-plaza",
+    "name": "Brooklyn Army Terminal Pier 4 & Ferry Plaza",
+    "desc": "Free waterfront pier with Statue of Liberty sunset views and complimentary weekend parking, 5 min from IC.",
+    "longDesc": "Public promenade extending out onto Pier 4 at the historic Brooklyn Army Terminal, with open sightlines across the Upper Bay toward Lower Manhattan, Governors Island, and the Statue of Liberty. The Ferry Plaza Park sits between Building A and the NYC Ferry South Brooklyn landing, and the north edge of Pier 4 is open for walking and fishing. Free municipal lot on Pier 4 makes it a frictionless sunset stop on a driving itinerary.",
+    "url": "https://brooklynarmyterminal.com/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-60 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "sunrise-sunset",
+    "notes": "Address 140 58th St, Brooklyn NY 11220. Public spaces open 365 days, sunrise to sunset (brooklynarmyterminal.com/visit). Weekend driving route: 2nd Ave → left on 58th St → past Building A to waterfront parking lot; alternate signed route via 1st Ave & 58th St to the Pier 4 ferry stop lot (same source). Free Pier 4 municipal parking, may be limited during events (brooklynarmyterminal.com/visit). NYC Ferry South Brooklyn route lands here if anyone wants to arrive car-free (ferry.nyc/routes-and-schedules/south-brooklyn). Pier 4 specifically maintains public access along the north edge with fishing permitted (nyc.gov waterfront-access map). Pair with an IC food-hall dinner before, or a Bush Terminal Piers Park hop after.",
+    "sources": [
+      {
+        "url": "https://brooklynarmyterminal.com/visit",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://www.nyc.gov/assets/planning/download/pdf/data-maps/maps-geography/waterfront-access-map/bk_army_terminal.pdf",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://www.ferry.nyc/routes-and-schedules/south-brooklyn/",
+        "accessed": "2026-05-17T21:30:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Brooklyn_Army_Terminal",
+        "accessed": "2026-05-17T21:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:35:54.190Z"
   }
 ]
