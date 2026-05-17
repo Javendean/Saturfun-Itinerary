@@ -5638,9 +5638,9 @@
   },
   {
     "id": "time-out-market-dumbo",
-    "name": "Time Out Market New York (DUMBO)",
-    "desc": "24,000 sqft food hall in Empire Stores — 21 vendors, 3 bars, 5th-floor rooftop with bridge views",
-    "longDesc": "Curated two-story food hall on the 1st and 5th floors of the historic Empire Stores warehouse at 55 Water St. The lineup pulls Time Out NY's top picks under one roof — Fornino pizza, Mr. Taka ramen, Jacob's Pickles fried chicken, Ess-a-Bagel, Felice pasta, Avocaderia, DŌ cookie dough — plus a rooftop terrace looking straight at the Brooklyn and Manhattan Bridges. Open from 8am for breakfast which makes it a flexible meal anchor for the DUMBO photo track.",
+    "name": "Time Out Market New York",
+    "desc": "DUMBO food hall inside Empire Stores with 21 restaurants, 3 bars, and a rooftop facing the Brooklyn Bridge.",
+    "longDesc": "Time Out Market occupies the 5th floor and rooftop of the historic Empire Stores warehouse at 55 Water Street, curating 21 of the city's best chefs (Jacob's Pickles, Mr. Taka, Mao's Bao, etc.) under one roof with three bars, a live-entertainment stage, and outdoor seating. The rooftop and outdoor terrace deliver unobstructed views of the Brooklyn Bridge, Manhattan Bridge, and Lower Manhattan skyline — a foodie + photo anchor for the DUMBO track that sits a 5-minute walk from Pebble Beach. Access the rooftop via two elevators or the outdoor stairs.",
     "url": "https://www.timeout.com/time-out-market-new-york",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5656,35 +5656,31 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "Sat 8:00-23:00; Sun 8:00-22:00",
-    "notes": "Empire Stores street parking is tight, but 1,200+ off-street spaces sit within two blocks; 100 Jay St garage is the reliable paid backup (empirestoresdumbo.com/visit-us). Rooftop crowds peak at sunset — late afternoon arrival lets you eat downstairs then move up for golden hour over the bridges (timeout.com FAQs). 21 vendors + 3 bars under one roof means the group can split orders without leaving the building (gothamist.com). Pairs naturally with a Brooklyn Bridge Park / Pebble Beach photo walk before or after.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 08:00-23:00, Sun 08:00-22:00",
+    "notes": "Empire Stores building, 5th floor + rooftop (Time Out Market website). DUMBO street parking is scarce on weekends; the closest paid garage is 100 Jay Street, ~5 min walk (FAQs). 21 restaurants + 3 bars + stage + outdoor terrace (NYC Tourism). Rooftop has a separate cocktail bar with Brooklyn Bridge sightline — best photo angle is the north-facing terrace at golden hour.",
     "sources": [
       {
-        "url": "https://www.timeout.com/time-out-market-new-york/faqs",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.empirestoresdumbo.com/visit-us",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T07:32:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/time-out-market-new-york",
+        "accessed": "2026-05-17T07:32:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/time-out-market-new-york/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T07:32:00Z"
       },
       {
-        "url": "https://gothamist.com/food/enormous-time-out-market-opens-in-dumbo-with-a-stellar-line-up-of-restaurants",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.timeout.com/newyork/time-out-market/faq",
+        "accessed": "2026-05-17T07:32:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T06:26:28.557Z"
+    "lastResearchedAt": "2026-05-17T07:35:43.747Z"
   },
   {
     "id": "pier-2-brooklyn-bridge-park",
@@ -10913,16 +10909,16 @@
   },
   {
     "id": "cecconis-dumbo",
-    "name": "Cecconi's DUMBO",
-    "desc": "Soho House Group's Northern Italian sit-down brunch with a waterfront terrace under the Brooklyn Bridge.",
-    "longDesc": "Anchor tenant inside the Empire Stores warehouse complex, Cecconi's brings the Mayfair original's Northern Italian playbook — wood-fired pizzettas, fresh pastas, Cicchetti — to a soaring brick-and-timber dining room with a glass-walled terrace facing the Manhattan skyline. The dedicated weekend brunch menu (10:30am–4:30pm) layers eggs Benedict, truffle scrambles, and bellinis over the standard lunch carte, making it the table-service alternative to the Time Out Market food hall one floor down.",
+    "name": "Cecconi's Dumbo",
+    "desc": "Upscale Northern Italian with Manhattan-skyline waterfront views inside Empire Stores.",
+    "longDesc": "Mayfair-import Cecconi's occupies a restored warehouse space inside Empire Stores between the Brooklyn and Manhattan bridges, serving handmade pastas, wood-fired pizzas, and Venetian classics. The terrace and tall arched windows look directly at the East River and Manhattan skyline, making it the romantic-dinner upgrade for the DUMBO track. Reservations strongly recommended on weekends.",
     "url": "https://www.cecconisrestaurants.com/dumbo/",
-    "photoUrl": "https://www.cecconis.com/media/hlrhmkyy/mariell-lindhansen-1538.jpg",
+    "photoUrl": "https://www.cecconisrestaurants.com/media/1zglncvd/mariell-lindhansen-2279.jpg",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
-      "foodie",
       "romantic",
+      "foodie",
       "photo"
     ],
     "dietary": [
@@ -10932,29 +10928,25 @@
     "duration": "90-120 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "11:30-22:00",
-    "notes": "Dedicated brunch menu runs Sat/Sun 10:30am-4:30pm (cecconisrestaurants.com); full lunch+dinner service 11:30am-10pm on weekends per the official site. Address 55 Water St, inside Empire Stores between the Brooklyn and Manhattan bridges. Terrace seats request-only — book ahead via OpenTable and ask for outdoor on the notes field. Parking: paid lot at Brooklyn Bridge Park Pier 1 garage (~5 min walk) or street parking on Water/Plymouth (free Sundays, metered Saturdays). Group-friendly: large square 6-8 top tables on the south wall (opentable.com). Owned by Soho House Group, so dress is smart-casual and bar can get loud after 1pm (tripadvisor.com).",
+    "notes": "Located in Empire Stores at 55 Water St — same complex as Time Out Market, so the romantic variant slots into the existing DUMBO anchor (cecconisrestaurants.com). Weekend brunch also available. Street parking is tight; use Brooklyn Bridge Park garage or the lot under the Manhattan Bridge overpass (patch.com).",
     "sources": [
       {
         "url": "https://www.cecconisrestaurants.com/dumbo/",
-        "accessed": "2026-05-17T07:00:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/cecconis-dumbo-brooklyn",
-        "accessed": "2026-05-17T07:00:00Z"
+        "accessed": "2026-05-17T07:35:00Z"
       },
       {
         "url": "https://www.empirestoresdumbo.com/tenants/cecconis-3",
-        "accessed": "2026-05-17T07:00:00Z"
+        "accessed": "2026-05-17T07:35:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d12585219-Reviews-Cecconi_s-Brooklyn_New_York.html",
-        "accessed": "2026-05-17T07:00:00Z"
+        "url": "https://patch.com/new-york/heights-dumbo/dumbo-gets-new-waterside-italian-eatery-cecconis",
+        "accessed": "2026-05-17T07:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T07:05:44.538Z"
+    "lastResearchedAt": "2026-05-17T07:31:41.298Z"
   },
   {
     "id": "bbp-pier-1-sunset",
@@ -11039,9 +11031,9 @@
   },
   {
     "id": "bouldering-project-gowanus",
-    "name": "Bouldering Project Gowanus (fka Brooklyn Boulders)",
-    "desc": "22,000+ sq ft bouldering megagym — climbing walls, yoga, co-working, 10 min from Industry City.",
-    "longDesc": "The Gowanus flagship of Bouldering Project (the rebrand of Brooklyn Boulders after its 2022 acquisition) packs bouldering terrain, training boards, a heated yoga studio, fitness floor, and a co-working lounge into a single warehouse. Weekend day passes get you in without a membership; shoe and chalk rentals available on-site. Strong active-track anchor — pair with a Park Slope or Carroll Gardens lunch stop afterward.",
+    "name": "Bouldering Project Gowanus",
+    "desc": "Bouldering-only gym with 6,000+ sq ft of terrain, kilter board, hot yoga studio, and weights — no belay partner needed.",
+    "longDesc": "Bouldering Project's Brooklyn flagship at 575 Degraw St is the dedicated bouldering counterpart to Movement Gowanus a few blocks away — no ropes, just pads, so you can show up solo and start climbing. A 2023 expansion added 60% more terrain plus a heated yoga studio, fitness floor with weights/cardio, kilter board, campus and hang boards, and a co-working lounge. Weekend hours run 8a–8p, with day passes available alongside the $120/mo membership, and street parking around 3rd/4th Ave on Saturdays is generally workable if you arrive before late morning.",
     "url": "https://boulderingproject.com/location/gowanus/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -11052,24 +11044,28 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "1.5-2 hr",
-    "driveFromIC": "10 min",
+    "duration": "60-120 min",
+    "driveFromIC": "13 min",
     "hoursWeekend": "08:00-20:00",
-    "notes": "Located at 575 Degraw St, Brooklyn NY 11217 — formerly Brooklyn Boulders Gowanus, rebranded to Bouldering Project in 2022 (boulderingproject.com). Bouldering-only (no top-rope) — first-timers need a brief orientation. Street parking on Degraw/3rd Ave is generally findable on weekend mornings; no dedicated lot. Day pass typically ~$36 with separate $7 shoe rental (verify on-site).",
+    "notes": "Bouldering-only (no top-rope/lead) — strong contrast to Movement Gowanus which is a few blocks away and has ropes (boulderingproject.com). 6,000+ sq ft of climbing terrain after the 2023 renovation, plus heated yoga, kilter board, campus/hang boards, fitness area, co-working, and locker rooms with showers (boulderingproject.com). Address 575 Degraw St, Brooklyn NY 11217; phone (347) 834-9066 (yelp.com). Membership $120/mo, $1,200/yr, or 10-visit punch pass $285 — day pass available but price not posted online; call ahead (boulderingproject.com/gowanus-pricing-membership). Weekend hours 8a–8p both Sat & Sun (boulderingproject.com).",
     "sources": [
       {
         "url": "https://boulderingproject.com/location/gowanus/",
-        "accessed": "2026-05-16T12:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/bouldering-project-gowanus-brooklyn-2",
-        "accessed": "2026-05-16T12:30:00Z"
+        "url": "https://boulderingproject.com/gowanus-pricing-membership/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bouldering-project-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:24:12.678Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:39:55.037Z"
   },
   {
     "id": "afuri-ramen-williamsburg",
@@ -15594,8 +15590,8 @@
   {
     "id": "janes-carousel",
     "name": "Jane's Carousel",
-    "desc": "1922 wooden carousel inside a Jean Nouvel glass pavilion under the Brooklyn Bridge",
-    "longDesc": "A meticulously restored 48-horse Philadelphia Toboggan Company carousel from 1922, encased in a luminous Jean Nouvel-designed glass box on the DUMBO waterfront. Ten-minute rides for $4 deliver one of the most photogenic vantages in NYC: spinning horses framed by the Brooklyn Bridge and the lower Manhattan skyline. Pairs naturally with a stroll on the Brooklyn Bridge Park promenade or a climbing session at nearby DUMBO Boulders.",
+    "desc": "Restored 1922 carousel spinning inside a Jean Nouvel glass box on the DUMBO waterfront",
+    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel (48 hand-carved horses, two chariots) installed in 2011 inside a transparent pavilion designed by Ateliers Jean Nouvel, with retractable glass walls framing the Brooklyn Bridge, Manhattan skyline, and East River. Rides are $4; even non-riders get one of the best photo compositions in NYC — the carousel lit up at dusk with the bridge behind it. Sits directly between Pier 1's lawn and Pebble Beach's cobbled cove, so it slots cleanly into a DUMBO walking loop after parking.",
     "url": "https://janescarousel.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -15603,14 +15599,14 @@
     "vibe": [
       "photo",
       "chill",
-      "curious"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "10:00-18:50 (summer, through Sept 13); 11:00-17:50 off-season",
-    "notes": "Tickets $4/ride, one adult + one child under 42\" share a ticket (janescarousel.com). Closed Tuesdays in summer; closed Mon-Tue in fall/spring; closed Mon-Wed in winter. Parking: metered lot on Furman near Pier 2 (3hr max) or paid garages at 90 Furman (LAZ, Pier 1) and 360 Furman (City Parking, Pier 6); DUMBO street parking is scarce on weekends (brooklynbridgepark.org). Glass pavilion glows at golden hour — strongest photo window is the last ride slot before close.",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "10:00-18:50 (closed Tuesdays; summer schedule May 11–Sep 13)",
+    "notes": "Tickets $4/ride; one child under 42\" rides free with a paying adult (janescarousel.com/hours). Glass pavilion by Jean Nouvel Ateliers (brooklynbridgepark.org). Weekend parking: paid lot at 99 Plymouth St or street parking around Water/Main St — both ~3 min walk. Closed Tuesdays year-round, so a Saturday/Sunday slot is always safe. Best photo angle: from Pebble Beach looking back at the carousel with the Brooklyn Bridge framing it; magic-hour ~30 min before sunset is the move.",
     "sources": [
       {
         "url": "https://janescarousel.com/hours/",
@@ -15619,16 +15615,12 @@
       {
         "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
         "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://spothero.com/destination/nyc/janes-carousel-parking",
-        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T07:11:56.093Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:33:52.776Z"
   },
   {
     "id": "bbp-pier-1-granite-prospect",
@@ -24217,28 +24209,23 @@
   {
     "id": "granite-prospect-pier-1",
     "name": "Granite Prospect at Pier 1",
-    "desc": "Free granite-step amphitheater on Pier 1 with unobstructed Lower Manhattan skyline — BYO picnic.",
-    "longDesc": "Granite Prospect is a dramatic set of ~300 salvaged granite steps along the west edge of Pier 1, repurposed from the Roosevelt Island Bridge reconstruction. The wide stair-terrace faces directly across the East River at Lower Manhattan and the Brooklyn Bridge, doubling as informal seating for picnics, sunset hangs, and the summer 'Movies With A View' series. Pier 1's three lawns sit just behind it if you want grass instead of stone.",
+    "desc": "Stepped granite overlook at Pier 1 facing Lower Manhattan and the Statue of Liberty.",
+    "longDesc": "A hillside terrace built from over 300 salvaged granite blocks (about 2,000 linear feet) reclaimed from the Roosevelt Island Bridge reconstruction. The stepped slabs work as both seating and a wide-open photo platform pointed directly at Lower Manhattan, the Brooklyn Bridge, and the Statue of Liberty — a strong sunset spot tucked into the southern end of Pier 1.",
     "url": "https://brooklynbridgepark.org/places-to-see/granite-prospect/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "chill",
       "photo",
+      "chill",
       "romantic"
     ],
-    "dietary": [
-      "vegetarian",
-      "vegan",
-      "halal",
-      "gluten-free"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "15 min",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Free, open 6AM–1AM daily (brooklynbridgepark.org). Parking is tight: LAZ garage at 90 Furman St (under Squibb Bridge) is closest to Pier 1; metered 3-hr spaces on Furman near Pier 2 as backup (brooklynbridgepark.org/plan-your-visit/maps-and-directions). Bring blanket — granite gets hot midday, cold after sunset. Same skyline angle as Time Out Market rooftop but at ground level, no wait, no $20 cover charge. Pairs well with Jane's Carousel and Brooklyn Bridge walk just north in DUMBO.",
+    "notes": "Free, open-air, no ticket needed. Steep stone steps face west toward the harbor — best light is golden hour through sunset (Granite Prospect page, brooklynbridgepark.org). Made from 300+ salvaged granite pieces from the Roosevelt Island Bridge rebuild (LALH place study). Park hours run 6AM-1AM daily. Weekend parking: Pier 6 garage at Atlantic Ave or street parking along Furman St; arriving via Old Fulton St keeps you closest to the Prospect at Pier 1's south end.",
     "sources": [
       {
         "url": "https://brooklynbridgepark.org/places-to-see/granite-prospect/",
@@ -24249,18 +24236,18 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://brooklynbridgepark.org/about/faqs/",
+        "url": "https://lalh.org/place-studies/brooklyn-bridge-park-brooklyn-new-york/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+        "url": "https://dumbo.is/hometo/the-granite-prospect-at-brooklyn-bridge-park",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T06:18:29.029Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T07:37:31.849Z"
   },
   {
     "id": "empire-stores-dumbo",
