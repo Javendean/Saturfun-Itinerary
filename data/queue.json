@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sunset Park weekend street-parking map / lot near 8th Ave & 57th",
-    "reason": "All three banh mi pins are cash + takeout + curbside-eating — parking intel is the actual blocker, not the food",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:02:52.530Z"
-  },
-  {
-    "topic": "Cà phê Vy or other Sunset Park Vietnamese iced coffee stop",
-    "reason": "Pairs naturally with a banh mi crawl and rounds out a single-cluster Sunset Park morning track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:02:52.530Z"
-  },
-  {
-    "topic": "Xinfa Bakery 5617 8th Ave Brooklyn Portuguese egg tart",
-    "reason": "Two doors from Dragon Bay; Infatuation calls it the neighborhood's top bakery for egg tarts at $1.75 — completes the bakery hop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:06:37.418Z"
-  },
-  {
-    "topic": "Ba Xuyên 4222 8th Ave Brooklyn banh mi",
-    "reason": "The anchor banh mi stop the task mentions — eight blocks south of Dragon Bay, perfect 8th Ave morning crawl pairing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:06:37.418Z"
-  },
-  {
-    "topic": "Bo Ky 5121 8th Ave Brooklyn Vietnamese Chinese noodle soup",
-    "reason": "Vietnamese-Cantonese hybrid right on the strip; fills the noodle-soup slot if the bakery crawl runs into lunch",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:06:37.418Z"
-  },
-  {
     "topic": "Bakery 1988 5716 8th Ave Brooklyn Chinese bakery",
     "reason": "Across-the-street alternative to Dragon Bay with longer hours (7am-7pm); useful fallback when Dragon Bay sells out late afternoon",
     "requestedBy": "agent",
@@ -7396,5 +7366,89 @@
     "reason": "Southwest anchor ~12 min south of IC for true west-routing weekend itineraries; cheap eats counterweight to pricier 7th Ave spots",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T03:14:12.726Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself) — best benches with skyline view for banh mi picnic",
+    "reason": "Closes the loop on takeout-only food — gives the cluster a legitimate eating venue with Manhattan skyline payoff, 6 blocks from the banh mi shops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:17:49.914Z"
+  },
+  {
+    "topic": "Costco Sunset Park weekend parking (976 3rd Ave) — free lot with purchase validation",
+    "reason": "Alternative free weekend parking ~10 min walk to 8th Ave; doubles as grocery stop on a Saturday IC + Chinatown loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:17:49.914Z"
+  },
+  {
+    "topic": "Greenwood Heights residential street parking — 6th Ave between 25th-36th",
+    "reason": "Backup parking zone closer to IC if Chinatown side streets are full; opens up walking access to cemetery + breweries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:17:49.914Z"
+  },
+  {
+    "topic": "Thanh Da Sunset Park Vietnamese restaurant",
+    "reason": "Second 8th Ave Vietnamese anchor — broader sit-down menu (pho, bun) for a Sunset Park dinner alternative to Ba Xuyên's counter-only format",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:20:23.349Z"
+  },
+  {
+    "topic": "Kinhfolk Vietnamese coffee Brooklyn flagship",
+    "reason": "Third-wave Vietnamese specialty coffee — modern counterpoint to Ba Xuyên's old-school style, useful for a 'two-stop coffee crawl' track variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:20:23.349Z"
+  },
+  {
+    "topic": "Sunset Park hilltop Manhattan skyline view spot",
+    "reason": "Free post-banh-mi walk anchor in the same cluster — turns Ba Xuyên into a 90-min mini-track without driving anywhere",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:20:23.349Z"
+  },
+  {
+    "topic": "Kam Hing Coffee Shop Sunset Park sponge cake",
+    "reason": "Classic Brooklyn Chinatown bakery, $1 steamed sponge cakes — pairs with Xinfa for a bakery flight",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:22:07.271Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave Sunset Park",
+    "reason": "Yunnanese rice noodles two blocks from Xinfa — savory anchor for an 8th Ave food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:22:07.271Z"
+  },
+  {
+    "topic": "Ba Xuyen banh mi 4222 8th Ave Sunset Park",
+    "reason": "Legendary Vietnamese sandwich just up 8th Ave — completes the Sunset Park drive-up snack triangle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:22:07.271Z"
+  },
+  {
+    "topic": "Thanh Da Sunset Park Vietnamese 8th Ave",
+    "reason": "Adjacent 8th Ave Vietnamese — broader pho/banh mi corridor coverage south of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:24:05.279Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5th Ave Sunset Park rice noodles",
+    "reason": "Other half of the Sunset Park food corridor — over-the-bridge crossing-noodles spot completes the neighborhood food map",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:24:05.279Z"
+  },
+  {
+    "topic": "Kai Feng Fu dumplings Sunset Park 6th Ave",
+    "reason": "$1 dumplings legend within walking distance — rounds out a Sunset Park grazing track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:24:05.279Z"
+  },
+  {
+    "topic": "Pho BK 5604 8th Ave Brooklyn Vietnamese pho noodle soup",
+    "reason": "Actual Vietnamese pho option on the same 8th Ave strip — fills the Vietnamese-noodle slot the original Bo Ky seed was reaching for",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:26:44.316Z"
+  },
+  {
+    "topic": "Wong Wong Noodle Soup Sunset Park Fujianese hand-pulled noodles",
+    "reason": "Fujianese hand-pulled noodle alternative on the 8th Ave bakery strip; rounds out the regional Chinese noodle coverage in the IC-adjacent cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T03:26:44.317Z"
   }
 ]

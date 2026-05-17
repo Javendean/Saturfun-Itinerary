@@ -1974,42 +1974,40 @@
   {
     "id": "ba-xuyen",
     "name": "Ba Xuyên",
-    "desc": "No-frills Sunset Park counter serving what's widely called NYC's best banh mi.",
-    "longDesc": "A bare-bones Vietnamese sandwich shop on 8th Ave that has been a Sunset Park institution for decades. The classic banh mi dac biet — pâté, headcheese, pickled daikon-carrot, cilantro, jalapeño — comes on a perfectly crackly baguette for under $7. Cash-friendly, fast, and a beloved pre-park or pre-Industry City fuel stop.",
-    "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
+    "desc": "Sunset Park's legendary takeout banh mi counter — pâté-rich classics on shatter-crust baguette.",
+    "longDesc": "Cash-friendly Vietnamese sandwich shop on 8th Ave that's been the borough's banh mi benchmark for two decades — order the #1 (pâté, head cheese, ham) or the BBQ pork, all served on a crackly house baguette with house mayo, daikon-carrot pickle, cilantro and jalapeño. It's strictly counter service with a couple of stools, so grab-and-eat in the car or in nearby Sunset Park itself. Opens early (7am) which makes it the ideal first stop on an 8th Ave morning crawl before drinks at Industry City or dim sum at Dragon Bay.",
+    "url": "https://www.google.com/maps/place/Ba+Xuy%C3%AAn/@40.6486,-74.0089,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "chill"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "07:30-18:30",
-    "notes": "4222 8th Ave at 43rd St, Sunset Park — ~1 mi east of Industry City, easy weekend street parking on side streets (source: Yelp listing, NYC Tourism). Order banh mi dac biet (#1) or the chicken; vegetarian tofu banh mi available. Cash preferred, very small dine-in counter so plan takeout to Sunset Park (the actual park) or back to IC rooftop.",
+    "duration": "20-30 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "07:00-18:30",
+    "notes": "4222 8th Ave between 42nd–43rd St; cash strongly preferred, card minimum may apply (Yelp). Sandwiches ~$6–8 — one of the cheapest serious meals in NYC. Eight blocks south of Dragon Bay so an easy pre-dim-sum or post-IC pickup. Street parking on 8th Ave is usually findable on weekends (Tripadvisor reviews). Pho and Vietnamese iced coffee also available but the banh mi is the reason.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d598579-Reviews-Ba_Xuyen-Brooklyn_New_York.html",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://bklyner.com/ba-xuyen-8th-avenue-serves-delicious-banh-mi-sunset-park/",
+        "url": "https://ba-xuyn.wheree.com/menu",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T04:02:37.201Z"
+    "lastResearchedAt": "2026-05-17T03:24:05.253Z"
   },
   {
     "id": "hainan-chicken-house-sunset-park",
@@ -22637,5 +22635,181 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T03:14:12.704Z"
+  },
+  {
+    "id": "sunset-park-chinatown-parking",
+    "name": "8th Ave Chinatown Parking Plan (Amano Garage + Sunday Meters)",
+    "desc": "Park-and-banh-mi cheat sheet for 8th Ave: Sunday meters are free; Amano lot at 5435 55th St is the 24/7 backup.",
+    "longDesc": "Brooklyn's largest Chinatown runs 8th Ave from 42nd to 68th, and the three banh mi pins (Ba Xuyên 4222, Little Thanh Da 5624, Thanh Da) all need a curbside-eating plan. On Sundays NYC suspends meter enforcement and most alternate-side rules, so you can park free directly on 8th Ave or side streets. On Saturdays, meters run 9am-7pm and the strip churns hard — pivot to Amano / Amp Valet at 5435 55th St (24/7, ~2 blocks from 8th & 57th) or hunt side streets uphill toward 6th/7th Ave between 54th-58th, which are quieter and residential.",
+    "url": "https://www.google.com/maps/place/5435+55th+St,+Brooklyn,+NY+11220",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sunday meters free all day; Saturday meters 9:00-19:00; Amano lot 24/7",
+    "notes": "Sunday is the cheat day — NYC suspends meter enforcement citywide on Sundays (nyc.gov/dot). ASP rules also typically suspended Sundays. Saturday plan: aim for Amano at 5435 55th St (24/7, hellosbrooklyn.com) or residential side streets between 6th-7th Ave from 54th-58th. NYC DOT reduced parking restrictions on 8th Ave 37th-61st in 2012, easing weekend turnover. Don't park within 15ft of hydrants; double-parking is enforced even in Chinatown on weekends.",
+    "sources": [
+      {
+        "url": "https://www.spotangels.com/nyc/sunset-park-parking",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://hellosbrooklyn.com/parking-in-sunset-park-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyc.gov/html/dot/html/motorist/parking-rates.shtml",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/neighborhood/Sunset-Park-New-York-City-Brooklyn-NY/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T03:17:49.891Z"
+  },
+  {
+    "id": "ba-xuyen-sunset-park",
+    "name": "Ba Xuyên",
+    "desc": "Iconic Sunset Park Vietnamese counter — cà phê sữa đá and $5 banh mi, six blocks south of Industry City",
+    "longDesc": "Family-run Sunset Park institution on the 8th Ave 'Little Saigon' strip, beloved for cold-drip cà phê sữa đá brewed with Café du Monde and poured over ice with sweet condensed milk. The $5 banh mi (classic dac biet, BBQ pork, or grilled chicken) and $3.50 avocado shake are the canonical pairing. Counter-service, cash only, and consistently named among NYC's best Vietnamese sandwiches by Time Out, The Infatuation, and NYC Tourism.",
+    "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "07:00-18:30",
+    "notes": "Address: 4222 8th Ave at 42nd St, Sunset Park, ~6 blocks south of Industry City (yelp.com). Cash only — bring small bills (bklyner.com). Order the cà phê sữa đá plus a classic banh mi ($5) and avocado shake ($3.50); arrive before 11am on weekends to beat the line and snag street parking on 8th Ave or the side streets (timeout.com). Pairs naturally with a longer Sunset Park morning: walk it off uphill in Sunset Park itself for the Manhattan skyline view, then drive 5 min back to Industry City.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/ba-xuyen",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/ba-xuyen-8th-avenue-serves-delicious-banh-mi-sunset-park/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://onthegrid.city/brooklyn/sunset-park/ba-xuy%C3%AAn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T03:20:23.332Z"
+  },
+  {
+    "id": "xinfa-bakery",
+    "name": "Xinfa Bakery",
+    "desc": "Sunset Park bakery famous for $1.75 Portuguese egg tarts with blistered, caramelized tops",
+    "longDesc": "A no-frills Chinese bakery on 8th Ave that locals and food critics agree turns out one of NYC's best Portuguese egg tarts — flaky lamination, jiggly custard, and a torched mahogany top — for just $1.75. They bake limited batches daily, so morning visits hit them fresh; come early or you'll be staring at an empty tray. Cash-friendly, two doors from Dragon Bay, perfect as the sweet leg of a Sunset Park dim sum-and-bakery crawl.",
+    "url": "https://www.yelp.com/biz/xinfa-bakery-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "07:30-17:30",
+    "notes": "Portuguese egg tarts are the marquee item at $1.75 each — limited daily quantity, arrive before noon on weekends (Yelp, Wanderlog). Also worth grabbing: cocktail buns, pineapple buns, and red-bean mochi. Cash preferred; tiny storefront, mostly takeout. Two doors from Dragon Bay Seafood, making it a natural bakery-after-dim-sum stop on 8th Ave's Chinatown strip.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/xinfa-bakery-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://xin-fa-bakery.menu-world.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://wanderlog.com/place/details/883611/xin-fa-bakery",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T03:22:07.246Z"
+  },
+  {
+    "id": "yun-nan-flavor-garden-sunset-park",
+    "name": "Yun Nan Flavor Garden",
+    "desc": "Kunming-couple noodle counter on 8th Ave: guoqiao mixian, spicy-sour rib noodles, bone-broth bowls",
+    "longDesc": "Run by a couple from Kunming, this Sunset Park 8th Ave shop specializes in Yunnan crossing-the-bridge noodles (guoqiao mixian) plus rib noodles, spicy-and-sour bowls and clear-soup dumplings — the kind of hard-to-find regional Yunnan cooking that rarely surfaces outside Flushing. Perfect lunch swap if the 8th Ave bakery crawl runs long: it's a five-minute walk from the Fay Da / Sing Cheung Bakery cluster and still cheap, fast, and weekend-friendly.",
+    "url": "https://www.google.com/maps/place/Yun+Nan+Flavour+Garden/@40.6428,-74.0006,17z",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "9 min",
+    "hoursWeekend": "10:30-22:30",
+    "notes": "Research seed asked for 'Bo Ky 5121 8th Ave' — Bo Ky has no Brooklyn presence; the Sunset Park outpost (Mister Bo Ky, 6303 8th Ave) is permanently closed (Yelp), and the original is in Manhattan Chinatown. 5121 8th Ave is currently Yun Nan Flavor Garden, which serves the same noodle-soup slot on the same strip (NYC Tourism). Yunnan crossing-the-bridge noodles, spicy-sour, rib noodles and bone-broth pork bowls are the signatures (Yelp, 361 reviews). Metered street parking on 8th Ave is workable on weekends outside the 12-1pm crush. Cash-leaning; small dining room, mostly takeout vibe.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mister-bo-ky-sunset-park",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d5075334-Reviews-Yun_Nan_Flavor_Garden-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T03:26:44.292Z"
   }
 ]
