@@ -2381,9 +2381,9 @@
   {
     "id": "xin-fa-bakery",
     "name": "Xin Fa Bakery",
-    "desc": "Sunset Park Chinatown bakery famous for blackened-top Portuguese egg tarts at $1.75 each.",
-    "longDesc": "A cult-favorite Cantonese-style bakery on Brooklyn's 8th Ave Chinatown strip, Xin Fa pulls trays of Portuguese egg tarts throughout the day — flaky lard pastry, thick custard, deeply caramelized tops. Six-pack for $10.50 makes it a perfect car-friendly grab after dumplings at Kai Feng Fu two blocks south. Cash-preferred, expect a line on weekends.",
-    "url": "https://www.yelp.com/biz/xinfa-bakery-brooklyn",
+    "desc": "Sunset Park Chinese bakery turning out NYC's most beloved $1.75 Portuguese egg tarts",
+    "longDesc": "A no-frills 8th Ave bakeshop whose dan tats — flaky lard-laminated crust, jiggly barely-set custard, charred caramelized top — are widely cited as the best in the five boroughs (The Infatuation, Jan 2026). Trays come out hot all day for $1.75 each, plus pineapple buns, cocktail buns, and savory baked pork buns; the line moves fast even when it spills onto the sidewalk. A direct head-to-head egg-tart pairing with Fay Da four blocks away on the same 8th Ave strip.",
+    "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -2396,27 +2396,31 @@
     ],
     "priceBand": "$",
     "duration": "15-30 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "6 min",
     "hoursWeekend": "07:30-17:30",
-    "notes": "5617 8th Ave, Brooklyn NY 11220 (Yelp). Portuguese egg tarts $1.75 ea / 6-pack $10.50; baked in batches all day with flaky pastry and blackened caramelized custard top (NYC Tourism, Yelp). Weekend metered parking on 8th Ave is tight midday — easiest before 11am. Two-block walk to Kai Feng Fu Dumpling House at 4801 8th Ave makes the classic dumpling-then-tart loop (NYC Tourism).",
+    "notes": "Tarts are $1.75 each and sell out — go early or accept a wait (Yelp, 336 reviews; The Infatuation review). Cash-preferred, counter-service, no seating; eat in the car or walk to Sunset Park itself five blocks east. Pairs naturally with a Fay Da egg-tart comparison and a dim sum stop on the same 8th Ave Chinatown strip (NYC Tourism guide).",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/xinfa-bakery-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/xin-fa-bakery",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/xin-fa-bakery/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://xinfabakery.shop/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T14:16:38.585Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T05:26:16.483Z"
   },
   {
     "id": "japan-village-food-hall",
@@ -22669,50 +22673,40 @@
   {
     "id": "ba-xuyen-sunset-park",
     "name": "Ba Xuyên",
-    "desc": "Iconic Sunset Park Vietnamese counter — cà phê sữa đá and $5 banh mi, six blocks south of Industry City",
-    "longDesc": "Family-run Sunset Park institution on the 8th Ave 'Little Saigon' strip, beloved for cold-drip cà phê sữa đá brewed with Café du Monde and poured over ice with sweet condensed milk. The $5 banh mi (classic dac biet, BBQ pork, or grilled chicken) and $3.50 avocado shake are the canonical pairing. Counter-service, cash only, and consistently named among NYC's best Vietnamese sandwiches by Time Out, The Infatuation, and NYC Tourism.",
-    "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
-    "photoUrl": "",
+    "desc": "Spartan Sunset Park banh mi counter that NYC critics rank among the city's best, under $7 a sandwich.",
+    "longDesc": "A no-frills Vietnamese sandwich shop on 8th Ave in Sunset Park's Chinatown, Ba Xuyên has been a neighborhood staple since the 1990s, turning out crackly baguettes loaded with house pâté, pickled daikon-carrot, cilantro and your choice of grilled pork, shredded chicken, pâté-headcheese combo or sardine. NYC & Co. calls the balance of sweet, briny carrots and savory meat 'a study in delicious contrasts.' Order at the counter, eat in your car or walk it back toward East Harbor — perfect as the savory anchor of a Sunset Park multi-cuisine crawl.",
+    "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
+    "photoUrl": "https://images.ctfassets.net/1aemqu6a6t65/6tIOOVsGkJ5WSGIknwHqGL/07b1d544688cd60b3b6fcca39d87d3fb/ba-xuyen-kate-glicksberg-2083",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill"
+      "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "07:00-18:30",
-    "notes": "Address: 4222 8th Ave at 42nd St, Sunset Park, ~6 blocks south of Industry City (yelp.com). Cash only — bring small bills (bklyner.com). Order the cà phê sữa đá plus a classic banh mi ($5) and avocado shake ($3.50); arrive before 11am on weekends to beat the line and snag street parking on 8th Ave or the side streets (timeout.com). Pairs naturally with a longer Sunset Park morning: walk it off uphill in Sunset Park itself for the Manhattan skyline view, then drive 5 min back to Industry City.",
+    "hoursWeekend": "07:30-18:30",
+    "notes": "4222 8th Ave at 43rd St, Brooklyn 11232 (NYC Tourism). Cash-friendly, tiny seating area; most folks take out. ~0.9 mi north of Industry City, free street parking on 8th Ave weekends but expect to circle. Pair with East Harbor Seafood Palace or Yun Nan Flavour Garden for a Sunset Park grazing loop (Yelp).",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/ba-xuyen",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T05:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
+        "accessed": "2026-05-17T05:15:00Z"
       },
       {
         "url": "https://bklyner.com/ba-xuyen-8th-avenue-serves-delicious-banh-mi-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://onthegrid.city/brooklyn/sunset-park/ba-xuy%C3%AAn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T05:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T03:20:23.332Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T05:16:58.429Z"
   },
   {
     "id": "xinfa-bakery",
@@ -23372,46 +23366,51 @@
   {
     "id": "yi-ji-shi-mo-noodle-corp",
     "name": "Yi Ji Shi Mo Noodle Corp",
-    "desc": "Stone-ground cheung fun & sesame paste noodles — Manhattan Chinatown counter, sub-$10",
-    "longDesc": "A six-foot takeout window in Chinatown where the rice flour is stone-ground fresh every morning, giving the cheung fun a silkier, more elastic pull than anywhere else in NYC. Sesame paste cold noodles and pork-shrimp-cilantro rice rolls run $3–$9; cash only, no seating, takeout-only. The Infatuation, Atlas Obscura, and Bon Appétit have all flagged it as a top sub-$10 meal in the city.",
-    "url": "https://yijishimo.site/",
+    "desc": "Tiny Chinatown counter grinding rice on-site daily for the city's most delicate cheung fun.",
+    "longDesc": "A three-person takeout window on Elizabeth Street where workers stone-grind rice into milk every morning, then steam it to order into translucent rolls stuffed with shrimp, pork, curry fish ball, or pork-shrimp-cilantro. Also serves fresh soy milk, tea eggs, congee, and black sesame soup. Cash only, no seating, sub-$10 — the wait can stretch past an hour on weekends, so call ahead at (646) 233-6311.",
+    "url": "https://www.google.com/maps/place/Yi+Ji+Shi+Mo+Noodle+Corp/@40.7173,-73.9967,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "manhattan-chinatown",
     "vibe": [
       "foodie",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "07:00-16:00 (closed Mon)",
-    "notes": "Address discrepancy flagged: source topic said '6121 8th Ave Brooklyn,' but Yi Ji Shi Mo is at 88 Elizabeth St, Manhattan Chinatown — no Brooklyn outpost exists (Yelp, Infatuation, Atlas Obscura). Justified as Manhattan exception per spec: stone-ground rice flour cheung fun is genuinely unique in NYC and the sesame paste cold noodles are a signature off-menu order (theinfatuation.com). Cash only, takeout window, expect a 5–15 min line on weekends. Drive ~20 min from IC via Hugh L. Carey Tunnel; metered/garage parking on Bayard or Mott. Zone tagged 'dumbo' as the nearest Brooklyn zone slug since schema lacks a Manhattan/Chinatown option — Manhattan Bridge from DUMBO is the natural approach. For an actual Sunset Park 8th Ave crawl extension, see enqueue.",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 07:00-16:00, Sun closed (some sources list Sun 07:00-16:00 — call to confirm)",
+    "notes": "Uniquely justifies a Manhattan crossover: only NYC shop grinding rice and making soy milk in-house daily (Atlas Obscura). Pairs naturally with a Sunset Park douhua warm-up before the bridge or with a follow-on Chinatown loop (Mei Lai Wah, Nom Wah, Fong On). Cash only, counter service, no bathroom. Weekend parking is rough — Mulberry St garage (143 Mulberry) or Bowery garages are the realistic options; meters in Chinatown turn over slowly on Saturdays. Call ahead to skip the 60+ min wait (The Infatuation, Mott Street Girls). Closed Mondays.",
     "sources": [
       {
+        "url": "https://www.atlasobscura.com/places/yi-ji-shi-mo-noodle-corp",
+        "accessed": "2026-05-17"
+      },
+      {
         "url": "https://www.theinfatuation.com/new-york/reviews/yi-ji-shi-mo",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.mottstreetgirls.com/chinatown/yi-ji-shi-mo",
+        "accessed": "2026-05-17"
       },
       {
         "url": "https://www.yelp.com/biz/yi-ji-shi-mo-noodle-corp-new-york-5",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://www.atlasobscura.com/places/yi-ji-shi-mo-noodle-corp",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://yijishimo.site/menu",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://emilyfedner.substack.com/p/chinatown-cheung-fun-crawl",
+        "accessed": "2026-05-17"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:57:41.602Z"
+    "lastResearchedAt": "2026-05-17T05:19:23.460Z"
   },
   {
     "id": "dun-huang-60th-st",
@@ -23541,5 +23540,90 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T05:10:54.703Z"
+  },
+  {
+    "id": "mr-tofu-bensonhurst",
+    "name": "Mr Tofu",
+    "desc": "One-man Brooklyn-Chinatown cart slinging house-made tofu pudding, soy milk, and herbal jellies on 86th St.",
+    "longDesc": "Tucked under a red awning on 86th St between produce vendors, Mr Tofu is a metallic street cart where a single proprietor turns out freshly pressed tofu, silky tofu pudding (douhua), house-made soy milk, gui ling gao (tortoise jelly), grass jelly, and mochi noodles (roxreels.com). It's a focused snack mission rather than a sit-down meal — quick, vegan-friendly, and refreshingly cheap, with a 5–10 min weekend wait that moves fast (zippicks.com). Pairs naturally with a Bensonhurst stroll through Brooklyn's third Chinatown.",
+    "url": "https://www.yelp.com/biz/mr-tofu-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "approx 9:00-19:00 (call 917-770-6618 to confirm)",
+    "notes": "Cart, not storefront — look for the red-awning herbal shop frontage on 86th St; easy to walk past (roxreels.com). Cash-friendly street-food setup, one-person operation (yelp.com). Street parking only; manageable afternoons, tighter evenings (zippicks.com). Drive from Industry City via 8th Ave → Bay Pkwy is ~6.5 mi. Pair with a Bensonhurst loop: 86th St dim-sum bakeries, fruit vendors, and the elevated D-train backdrop make a strong photo+snack track. Distinct from Industry City Tofu (44th St cart) — Mr Tofu adds tortoise jelly and mochi noodles to the lineup.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/mr-tofu-brooklyn",
+        "accessed": "2026-05-17T05:20:00Z"
+      },
+      {
+        "url": "https://zippicks.com/mr-tofu-brooklyn-11214/",
+        "accessed": "2026-05-17T05:20:00Z"
+      },
+      {
+        "url": "https://roxreels.com/2021/08/05/brooklyn-chinatown-bensonhurst/",
+        "accessed": "2026-05-17T05:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T05:21:50.830Z"
+  },
+  {
+    "id": "authentic-szechuan-tofu-on-7th",
+    "name": "Authentic Szechuan (Tofu on 7th)",
+    "desc": "Park Slope Sichuan sit-down famous for mapo tofu and Chongqing spicy chicken; a tofu-forward anchor meal.",
+    "longDesc": "Locally known for years as 'Tofu on 7th' before moving to 5th Ave and rebranding as Authentic Szechuan, this Park Slope mainstay serves silky, chili-oil-drenched mapo tofu, dry-fried Chongqing spicy chicken, spicy wontons, and a wide tofu section that gives the room its nickname. Sichuan-authentic side of the menu is the move; portions are generous, room is unfussy and weekend-friendly for a 60–90 min sit-down anchor.",
+    "url": "https://szechuanparkslope.com/",
+    "photoUrl": "https://szechuanparkslope.com/r_gallery_images/rgallery-19255/2.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 11:00-22:15, Sun 12:00-21:45",
+    "notes": "Aliases: Tofu on 7th, Tofu on 5th, Authentic Szechuan Tofu of 5th Avenue — same kitchen, same 384 5th Ave address (https://szechuanparkslope.com/). Mapo tofu and Chongqing spicy chicken consistently flagged as best-in-Brooklyn-tier by reviewers (https://brooklynvegetarian.wordpress.com/2017/05/29/authentic-szechuan-aka-tofu-on-5th/). Vegetarians have a dedicated tofu section; flag dishes with chili-oil heat for guests sensitive to spice. Weekend metered parking on 5th Ave is tight after 7pm — recommend arriving by 6:30 or parking on the side streets (6th/7th St). Drive from Industry City: ~2 miles up 4th/5th Ave, typically 10–15 min on weekends. Phone: 718-788-2299.",
+    "sources": [
+      {
+        "url": "https://szechuanparkslope.com/",
+        "accessed": "2026-05-17T05:20:00Z"
+      },
+      {
+        "url": "https://www.tofuon7thbrooklyn.com/",
+        "accessed": "2026-05-17T05:20:00Z"
+      },
+      {
+        "url": "https://brooklynvegetarian.wordpress.com/2017/05/29/authentic-szechuan-aka-tofu-on-5th/",
+        "accessed": "2026-05-17T05:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/authentic-szechuan-park-slope",
+        "accessed": "2026-05-17T05:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T05:24:14.350Z"
   }
 ]

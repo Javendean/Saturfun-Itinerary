@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Ba Xuyen Sunset Park — banh mi on 8th Ave",
-    "reason": "Vietnamese banh mi to round out a multi-cuisine Sunset Park drive crawl, walking distance from East Harbor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:43:15.404Z"
-  },
-  {
-    "topic": "Yi Ji Shi Mo Noodle Corp, 88 Elizabeth St Manhattan — stone-ground rice rolls + handmade soy milk",
-    "reason": "The original queue label points here; uniquely justifies a Manhattan crossover (only NYC spot grinding rice and soy daily on-site) and pairs with a Sunset Park douhua warm-up via a longer Chinatown loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:46:52.127Z"
-  },
-  {
-    "topic": "Mr Tofu, 2257 86th St Bensonhurst — Brooklyn's other handmade tofu specialist",
-    "reason": "Expands corpus with a second Brooklyn-Chinatown handmade tofu node (~15 min drive from IC) for variety on tofu-focused tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:46:52.127Z"
-  },
-  {
-    "topic": "Tofu on 7th, 384 5th Ave Park Slope — Sichuan mapo/silken tofu sit-down",
-    "reason": "Complements snack-style Tofu Stall with a sit-down tofu-forward meal in a different zone (park-slope), useful when track needs a longer anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:46:52.128Z"
-  },
-  {
-    "topic": "Xin Fa Bakery 5617 8th Ave Sunset Park — Portuguese egg tart specialist",
-    "reason": "Strongly documented (MTA Away guide, 336 Yelp reviews) as the neighborhood's best bakery; perfect direct comparison to Fay Da's egg tart on the same 8th Ave strip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:49:52.078Z"
-  },
-  {
     "topic": "Golden Steamer 5224 8th Ave Sunset Park — pumpkin and salted egg yolk steamed buns",
     "reason": "Manhattan-Chinatown favorite that expanded to BK; expands the corpus beyond baked goods into steamed-bun territory, two blocks from Fay Da",
     "requestedBy": "agent",
@@ -7924,5 +7894,95 @@
     "reason": "Fills the coffee/dessert slot in a Sunset Park track that's currently noodle-heavy; 8 min from IC.",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T05:14:48.894Z"
+  },
+  {
+    "topic": "Thanh Da banh mi Sunset Park 7th Ave Brooklyn",
+    "reason": "Direct banh mi rival two blocks west — gives the crawl a side-by-side tasting option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:16:58.452Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park 8th Ave Yunnan rice noodles",
+    "reason": "Walkable Yunnan crossing-bridge noodles round out the 8th Ave Chinatown stretch",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:16:58.452Z"
+  },
+  {
+    "topic": "Lucky Eight Restaurant 8th Ave Sunset Park dim sum and Cantonese",
+    "reason": "Cantonese seafood/dim sum anchor a few blocks south, complements East Harbor for a multi-stop Chinatown route",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:16:58.452Z"
+  },
+  {
+    "topic": "Fong On, 81 Division St Manhattan — handmade tofu, almond jelly, fresh soy milk",
+    "reason": "Same soy-milk craft theme as Yi Ji Shi Mo; fourth-generation Chinatown tofu shop that complements the rice-roll stop on a single crossover loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:19:23.480Z"
+  },
+  {
+    "topic": "Yin Ji Chang Fen, 91 Bayard St Manhattan — Guangzhou-style cheung fun chain",
+    "reason": "Direct cheung-fun comparison point two blocks away; lets the itinerary offer a 'rice roll crawl' variant or a fallback if Yi Ji Shi Mo's line is brutal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:19:23.480Z"
+  },
+  {
+    "topic": "Mei Lai Wah Bakery, 64 Bayard St Manhattan — classic Cantonese roast pork bun and coffee",
+    "reason": "Cheap, fast Chinatown anchor that rounds out a morning loop after the rice rolls before heading back over the bridge",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:19:23.480Z"
+  },
+  {
+    "topic": "Lucky Eight Restaurant, 5204 8th Ave Sunset Park — Cantonese dim-sum anchor en route from IC to Bensonhurst",
+    "reason": "Connects IC ↔ Bensonhurst tofu cluster with a full-meal Chinatown stop on the same 8th Ave corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:21:50.852Z"
+  },
+  {
+    "topic": "Yi Ji Shi Mo, 6022 8th Ave — handmade rice noodle roll specialist in Brooklyn Chinatown",
+    "reason": "Builds out a multi-stop South Brooklyn Chinese-handmade track alongside Mr Tofu and Industry City Tofu",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:21:50.852Z"
+  },
+  {
+    "topic": "Kam Hing Coffee Shop Bensonhurst outpost — sponge cake + HK milk tea finisher",
+    "reason": "Caps a tofu/dim-sum Bensonhurst track with a dessert+drink that travels well for the drive back to IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:21:50.852Z"
+  },
+  {
+    "topic": "Lan Sheng or Szechuan Mountain House Brooklyn outpost — sit-down Sichuan alternative if driving slightly further",
+    "reason": "Gives the corpus a second sit-down Sichuan option so tracks aren't single-point-of-failure if Authentic Szechuan is on a wait",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:24:14.372Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook adjacent dessert/coffee spot pairing with a Park Slope dinner anchor",
+    "reason": "Builds a Red Hook → Park Slope cross-zone track using the new anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:24:14.372Z"
+  },
+  {
+    "topic": "Kings County Brewers Collective or Other Half Brooklyn — after-dinner drinks within 10 min of 384 5th Ave",
+    "reason": "Adds a post-dinner drinks stop to extend a Park Slope anchor into a full evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:24:14.372Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House 4801 8th Ave Sunset Park — lamb-and-coriander dumplings",
+    "reason": "Cheap, fast, beloved dumpling counter on the same 8th Ave Chinatown crawl as Xin Fa and Fay Da; rounds out a savory+sweet bakery route from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:26:16.504Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden 5121 8th Ave Sunset Park — Yunnan rice noodle soup",
+    "reason": "Highly rated regional Chinese spot two blocks from Xin Fa; expands the IC-adjacent 8th Ave food cluster beyond bakeries and dumplings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:26:16.504Z"
+  },
+  {
+    "topic": "Ba Xuyen 4222 8th Ave Sunset Park — Vietnamese banh mi",
+    "reason": "Anchors the southern end of the 8th Ave drive corridor; adds a non-Chinese counterpoint and a documented standout sandwich shop near IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:26:16.504Z"
   }
 ]
