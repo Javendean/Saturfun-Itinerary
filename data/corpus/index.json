@@ -6123,38 +6123,45 @@
   },
   {
     "id": "japan-village-industry-city",
-    "name": "Japan Village",
-    "desc": "20,000-sq-ft Japanese food hall + Sunrise Mart grocery + Kuraichi sake/whisky shop inside IC",
-    "longDesc": "A cultural mini-village tucked into Industry City's Buildings 3 & 4 with 10+ food stalls (Ramen Setagaya, Hachi okonomiyaki, Handroll Bar, Shokusaido tempura/katsu) plus the city's largest Sunrise Mart for Japanese groceries, snacks, and tofu. Kuraichi inside the hall is a dedicated Japanese liquor shop stocking sake, shochu, Japanese whisky, and craft beer — perfect for a sample-and-stroll afternoon alongside Li-Lac. Free indoor seating, photogenic neon and lantern lighting, and easy access from the IC parking lots.",
+    "name": "Japan Village (Sunrise Mart + Food Hall)",
+    "desc": "20,000 sq ft Japanese marketplace inside Industry City — grocery, butcher, seafood, and an 11-vendor food hall.",
+    "longDesc": "Anchored by Sunrise Mart's full Japanese grocery (homemade tofu, yuba, soy milk, wagyu butcher, fresh seafood and sushi counter), Japan Village's food hall lines up 11 vendors covering miso bars, okonomiyaki, takoyaki, ramen, omakase sushi, Japanese pastries and teas. It's the strongest Japanese cluster in Brooklyn outside Manhattan and lives on the ground floor of Industry City Building 4, so it slots into any IC itinerary without re-parking.",
     "url": "https://www.japanvillage.com/",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67c5dc17d34d66734fb100b9_JV-%20website%20kuraichi.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
       "curious",
-      "photo",
-      "chill"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min (onsite, Buildings 3 & 4)",
-    "hoursWeekend": "Sat 11:00-20:30, Sun 11:00-19:00 (Kuraichi sake shop 12:00-19:30 daily)",
-    "notes": "Anchor at 934 3rd Ave entrance; pair with Li-Lac as a sample-and-stroll combo. Grocery (Sunrise Mart) is browse-heavy — give 30+ min just for the aisles (japanvillage.com). Kuraichi sake selection is the standout, with bottles you won't find in standard NY liquor stores (industrycity.com). Weekend lines at Setagaya ramen and Handroll Bar can hit 20+ min around 1pm — go early or after 3pm (yelp.com). Onsite IC parking lots make this driving-friendly.",
+    "driveFromIC": "0 min (on-site, Building 4)",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Located at 934 3rd Ave, Brooklyn (Industry City Building 4). Weekend hours: Sat 11a-9p, Sun 11a-8p (Yelp, Sunrise Mart visit-us page). Food hall vendors include choose-your-own miso soup station, okonomiyaki, takoyaki, ramen, omakase sushi, and a Japanese pastry/tea stand (Gothamist, 6sqft). Sunrise Mart inside carries homemade tofu/yuba/soy milk, wagyu butcher, and a fresh seafood counter with sushi-grade fish. Park in IC's paid on-site lots ($5-15 weekend); no separate drive from IC required — pair with Tadaima, Makers Guild, or Sahadi's in the same stop.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/japan-village/",
+        "url": "https://industrycity.com/tenants/sunrise-mart/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -6164,8 +6171,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T00:52:16.128Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:29:24.594Z"
   },
   {
     "id": "the-gutter-williamsburg",
@@ -6381,11 +6388,11 @@
   },
   {
     "id": "panya-bakery-industry-city",
-    "name": "Panya Bakery",
-    "desc": "Japanese bakery in Japan Village courtyard — curry pan, shokupan, matcha lattes, kakigori in summer.",
-    "longDesc": "An authentic Japanese bakery tucked into Japan Village inside Industry City's Building 4, Panya turns out fluffy shokupan milk bread, golden-fried curry pan, matcha cream puffs, and yuzu teas alongside specialty coffee. It's a calmer, sit-down-friendly alternative to the bustling Japan Village food hall and Sunrise Mart next door — ideal as a mid-itinerary coffee or sweet stop before or after the rest of an IC track.",
-    "url": "https://industrycity.com/tenants/panya-bakery/",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3af498e88f485f85087c_Panya%20brunch%20photos.avif",
+    "name": "Panya Bakery (Japan Village)",
+    "desc": "Japanese bakery in IC's Japan Village courtyard: matcha lattes, curry pan, shokupan, cream puffs.",
+    "longDesc": "A counter-service Japanese bakery tucked into the Japan Village courtyard at Industry City, serving fresh-baked curry pan and shokupan alongside matcha lattes, drip coffee, loose-leaf tea, and matcha cream puffs. Brunch runs Wednesday through Sunday with indoor and outdoor courtyard seating, making it a strong early-morning anchor before heading into the rest of IC. Custom cake orders available.",
+    "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3abc322e23513a29789d_panya%20web.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
@@ -6398,30 +6405,26 @@
     "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat-Sun 8:00-16:00",
-    "notes": "Inside Japan Village courtyard, Building 4 at 220 36th St (industrycity.com). IC tenant page lists Wed-Sun 8AM-4PM (industrycity.com); japanvillage.com shows split hours Sat 11-7 / Sun 11-6 (japanvillage.com) — call ahead on weekends. Curry pan and shokupan are the signature must-orders; matcha cream puffs and kakigori (summer) round out the menu (commercialobserver.com 2025/07). Free weekend parking on-site at IC garages. Pair with Japan Village shopping or a Sahadi's run upstairs.",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
+    "notes": "Inside Japan Village courtyard at 934 3rd Ave (Industry City); pair with Sunrise Mart shopping or Mr. Bing next door. Weekend opening is 11am — not a true early-morning option on Sat/Sun (Wed-Fri it opens 9am). Brunch service Wed-Sun (japanvillage.com). Free IC garage parking on weekends.",
     "sources": [
       {
-        "url": "https://industrycity.com/tenants/panya-bakery/",
-        "accessed": "2026-05-16T07:00:00Z"
+        "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
-        "accessed": "2026-05-16T07:00:00Z"
+        "url": "https://industrycity.com/tenants/panya-bakery/",
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
         "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
-        "accessed": "2026-05-16T07:00:00Z"
-      },
-      {
-        "url": "https://www.instagram.com/panyabrooklyn/",
-        "accessed": "2026-05-16T07:00:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T06:55:08.842Z"
+    "lastResearchedAt": "2026-05-17T01:33:15.315Z"
   },
   {
     "id": "jtunes-karaoke",
@@ -11870,15 +11873,15 @@
   {
     "id": "brooklyn-kura",
     "name": "Brooklyn Kura",
-    "desc": "America's first sake brewery — tasting room inside Industry City Building 6 with draft flights and brewhouse views.",
-    "longDesc": "Brooklyn Kura is the original American craft sake kura, pouring rotating drafts of junmai, nigori, and limited Kura Kin members' releases at a long blonde-wood bar inside Industry City Building 6. The taproom looks straight into the working brewery floor — open koji and fermentation tanks visible behind glass — giving the same window-on-craft theatricality as a Li-Lac chocolate factory tour, but with rice, water, yeast, and koji. Snacks are minimal and Japanese-leaning, and weekend flights make it a perfect 45-minute warm-up before walking deeper into IC for food.",
-    "url": "https://www.brooklynkura.com/",
+    "desc": "NYC's first sake brewery — taproom flights, sake-on-tap, and Japanese small bites inside Industry City.",
+    "longDesc": "Brooklyn Kura is America's pioneering craft sake brewery, founded in 2018 and relocated in 2023 to a flagship brewery and tasting room in Industry City's Courtyard 5/6. The taproom pours flights of their flagship Number Fourteen, Occidental, and seasonal nama brews straight from tank, alongside shochu cocktails and a Japanese-leaning snack menu (onigiri, agedashi tofu, pickles). Same-complex with Japan Village's Kuraichi sake shop, so it slots seamlessly into an IC sake-and-snacks afternoon with zero re-parking.",
+    "url": "https://www.brooklynkura.com",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
       "chill",
+      "curious",
       "foodie"
     ],
     "dietary": [
@@ -11887,13 +11890,13 @@
       "gluten-free"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
+    "duration": "60-90 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
-    "notes": "Located at 68 34th St, Building 6, Industry City — on-site, no drive needed (industrycity.com). Closed Mon–Wed; Thu–Fri 16:00-21:00 (brooklynkura.com). Tasting room overlooks the brewing floor with visible fermentation tanks and koji room (turnstiletours.com). Sake is naturally gluten-free; vegan-friendly. Weekend flights typically available on-site; reservations recommended for groups. Pairs well with stacking IC food hall before/after.",
+    "notes": "Inside Industry City Courtyard 5/6 at 68 34th St — same complex as Japan Village/Kuraichi, so park once and walk. Closed Mon-Wed; opens Thu-Fri 16:00. Flights of 3-4 pours are the recommended first-visit order; sake-on-tap rotates and is exclusive to the taproom (source: brooklynkura.com). Guided brewery tours bookable via UrbanSake (source: urbansake.com). Snack menu is naturally vegan/GF-friendly since sake itself contains no animal products or gluten.",
     "sources": [
       {
-        "url": "https://www.brooklynkura.com/",
+        "url": "https://www.brooklynkura.com",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -11901,7 +11904,7 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/brooklyn-kura-brooklyn",
+        "url": "https://www.urbansake.com/all-sake-events/nyc-brooklyn-kura-guided-brewery-tour-and-sake-tasting-2026-04-10/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -11911,8 +11914,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T00:54:12.821Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:31:25.108Z"
   },
   {
     "id": "bamboo-garden-sunset-park",
@@ -21412,5 +21415,90 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T01:22:58.554Z"
+  },
+  {
+    "id": "kajiha-industry-city",
+    "name": "KAJIHA at Makers Guild",
+    "desc": "Japanese-inspired botanical design studio with dried-flower resin ornament workshops",
+    "longDesc": "Sonoko Kaneko's botanical objects lab inside The Makers Guild at Industry City Building 5, Level 2 — handcrafted arrangements, scents, and home objects rooted in ancient Japanese cultural rituals and wabi-sabi aesthetics. They host a Dried Flower Resin Ornament Making Workshop and sell sculptural floral pieces, making it a perfect quiet co-stop with Tadaima two doors down.",
+    "url": "https://www.kajiha.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat-Sun 12:00-17:00",
+    "notes": "Inside The Makers Guild, Building 5, Level 2 at Industry City (sonokokaneko.com). Asian- and women-owned; closed Mon-Wed (tripadvisor.com). Pairs perfectly with Tadaima for a Japanese-craft mini-track inside one hall.",
+    "sources": [
+      {
+        "url": "https://www.kajiha.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.sonokokaneko.com/about",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60827-d32871755-Reviews-Kajiha-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanculture-nyc.com/blog/japanculturenyc-holiday-gift-guide-2021-part-ii",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:25:08.103Z"
+  },
+  {
+    "id": "saskia-jewelry-makers-guild",
+    "name": "SASKIA Jewelry Studio (Makers Guild)",
+    "desc": "Hands-on beading & jewelry workshop tucked inside Industry City's Makers Guild on Building 5's 2nd floor.",
+    "longDesc": "SASKIA is Saskia de Vries's working studio + storefront, part of Industry City's 25,000 sq ft Makers Guild on the 2nd floor of Building 5 (industrycity.com). She runs walk-in beading workshops for adults and kids — free with kit purchase — using gemstones, brass, wood, and travel-sourced focal pieces; perfect drop-in for the 'curious/active' track since the same floor has Brooklyn Candle Studio, Micol Ceramics, and other makers (bklyner.com). Heads-up: as of early 2026 the brand is running a heavy closing sale, so call ahead before routing a party here.",
+    "url": "https://industrycitystudios.org/studios/saskia-de-vries-designs/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "12:00-18:00 (verify — closing sale)",
+    "notes": "Located Building 5, 67 35th St, Floor 2, Studio B214, inside the Makers Guild (industrycitystudios.org). Beading workshops are free with kit purchase — kit prices vary by materials, plan ~$30-80/person (industrycity.com event listing). Makers Guild collective covers ~9 artisan shops on the same floor, so this stop pairs naturally with a candle-pour or ceramics demo without re-parking. Reports of brand closure / 50% off sale as of 2026 — call SASKIA before booking a group/party slot.",
+    "sources": [
+      {
+        "url": "https://industrycitystudios.org/studios/saskia-de-vries-designs/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/event/jewelry-making-workshop-28/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/industry-city-maker-spotlight-saskia/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2019/12/10/makers-guild-to-provide-unique-experience-for-shoppers-at-industry-city/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:27:22.881Z"
   }
 ]
