@@ -5999,82 +5999,88 @@
   {
     "id": "the-uncommons",
     "name": "The Uncommons",
-    "desc": "Manhattan's first board game cafe — Greenwich Village lending library of 1,000+ games, $10 cover for 3 hrs",
-    "longDesc": "Located at 230 Thompson St in Greenwich Village on the NYU campus, a block from Washington Square Park, The Uncommons bills itself as Manhattan's first board game cafe. A $10 cover unlocks a lending library of over 1,000 games for 3 hours alongside Joe Coffee service. Hits capacity on weekends and holidays with waits up to 3 hours, so reservations or early arrival are advised.",
+    "desc": "Greenwich Village board game cafe with 1,000+ game library, $10 cover, coffee/beer/wine",
+    "longDesc": "Manhattan's original board game cafe (open since 2013) at 230 Thompson St, one block off MacDougal between Washington Sq Park and NYU. A $10/person cover unlocks an enormous lending library said to be one of the largest on the East Coast, with coffee, espresso, beer, wine and snacks while you play. Also one of the biggest Magic: The Gathering rooms in town if the group skews TCG.",
     "url": "https://uncommonsnyc.com/",
+    "photoUrl": "https://uncommonsnyc.com/wp-content/uploads/2015/05/Rampage_Board_Game_PatientRock_DotCom.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "2-3 hr",
+    "driveFromIC": "25-30 min",
+    "hoursWeekend": "Fri-Sat 10:00-24:00, Sun 10:00-23:00",
+    "notes": "Manhattan backup if Hex Union Square is fully booked — same deep library concept, closer to Washington Sq / NYU vibe than to Union Square. $10/person cover charge for ~3 hours of play (Wikipedia/Yelp). Address is 230 Thompson St (one block east of MacDougal), so the original 'MacDougal St' note in the seed topic is slightly off but the neighborhood read is right. From IC: BQE → Manhattan Bridge → through SoHo, ~25-30 min on weekends; street parking in the Village is a known pain, plan for a garage on Houston or LaGuardia Pl (sources: uncommonsnyc.com, en.wikipedia.org/wiki/The_Uncommons, yelp.com).",
+    "sources": [
+      {
+        "url": "https://uncommonsnyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Uncommons",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-uncommons-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/things-to-do/the-uncommons",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T08:52:36.938Z"
+  },
+  {
+    "id": "twenty-sided-store",
+    "name": "Twenty Sided Store",
+    "desc": "Williamsburg indie game shop with MTG/FNM, RPG nights, and a tight Brooklyn tabletop community.",
+    "longDesc": "Twenty Sided is a 280 Grand St staple that's anchored Williamsburg's tabletop scene since 2011 — curated TCG/board game selection, weekly Friday Night Magic, board game and RPG events, and pickup D&D. Retail hours run 12-7pm daily but event nights (FNM, RPG sessions) extend later, so confirm via their calendar before driving over. A solid Brooklyn alternative that obviates Midtown game-store trips for casual play.",
+    "url": "https://twentysidedstore.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "brooklyn-heights",
+    "zone": "williamsburg",
     "vibe": [
       "chill",
       "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "22-30 min",
-    "hoursWeekend": "Sat 10:00-24:00, Sun 10:00-23:00",
-    "notes": "MANHATTAN COMP — not a fit under the IC-anchored driving radius constraint. Address: 230 Thompson St, New York, NY 10012 (Greenwich Village / NYU). Driving from IC routes via Hugh L. Carey Tunnel (~22 min off-peak, 30+ min weekend midday) then street-parking hell around Washington Square — Manhattan parking is the disqualifier, not drive time (yelp). Cover charge $10 for 3 hrs of game access (uncommonsnyc). Peak waits up to 3 hours, reservations strongly recommended (uncommonsnyc). Use this entry as benchmark only — surface Brooklyn alternatives (Brooklyn Strategist, Hex & Co Park Slope) instead unless user explicitly wants a Manhattan justification venue.",
-    "sources": [
-      {
-        "url": "https://uncommonsnyc.com/",
-        "accessed": "2026-05-16T06:20:00Z"
-      },
-      {
-        "url": "https://uncommonsnyc.com/about/",
-        "accessed": "2026-05-16T06:20:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/the-uncommons-new-york",
-        "accessed": "2026-05-16T06:20:00Z"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/The_Uncommons",
-        "accessed": "2026-05-16T06:20:00Z"
-      }
-    ],
-    "promotedTo": null,
-    "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T06:27:03.984Z"
-  },
-  {
-    "id": "twenty-sided-store",
-    "name": "Twenty Sided Store",
-    "desc": "Curated Williamsburg game shop for board games, RPGs, and Magic: The Gathering, with regular in-store events.",
-    "longDesc": "Twenty Sided is a beloved Williamsburg tabletop shop at 280 Grand St specializing in board games, role-playing games, and Magic: The Gathering, plus geeky accessories. The store hosts weekly events, demos, workshops, social mixers, and mystery parties — call ahead to confirm open-play table availability since their public pages don't list a standing open-gaming schedule.",
-    "url": "https://twentysidedstore.com/",
-    "photoUrl": "",
-    "aiBackgroundUrl": "",
-    "zone": "williamsburg",
-    "vibe": [
-      "curious",
-      "chill"
-    ],
-    "dietary": [],
-    "priceBand": "$",
-    "duration": "45-90 min",
+    "duration": "1-3 hr",
     "driveFromIC": "20 min",
-    "hoursWeekend": "12:00-19:00",
-    "notes": "Sat & Sun 12-7p, same as weekday hours (twentysidedstore.com/pages/contact). 280 Grand St, Brooklyn NY 11211; phone 718-963-1578. Specializes in board games, RPGs, MTG with a calendar of events/workshops (twentysidedstore.com about-us). Street parking in south Williamsburg is workable on weekends; Domino Park lot and several Brooklyn Mini Storage / Williamsburg garage lots within 5-min walk. ~20 min drive from Industry City via Hamilton Ave / BQE. Yelp confirms hobby-shop category and event/play-space reputation (yelp.com/biz/twenty-sided-store-brooklyn).",
+    "hoursWeekend": "12:00-19:00 (retail; event nights run later)",
+    "notes": "280 Grand St, Brooklyn NY 11211 — Williamsburg, walkable from L/G/J trains but easy drive from IC via Prospect Expy + BQE. Specializes in MTG, RPGs, board games (twentysidedstore.com). 88+ Yelp reviews, longtime WPN-affiliated FNM venue (yelp.com). Phone 718-963-1578. Street parking only — Williamsburg metered/residential, plan for 5-10 min hunting on weekend evenings. Event calendar at twentysidedstore.com/pages/calendar lists FNM, board game nights, indie RPG sessions.",
     "sources": [
       {
         "url": "https://twentysidedstore.com/pages/contact",
-        "accessed": "2026-05-16T13:08:00Z"
-      },
-      {
-        "url": "https://twentysidedstore.com/pages/about-us",
-        "accessed": "2026-05-16T13:08:00Z"
+        "accessed": "2026-05-17T08:50:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/twenty-sided-store-brooklyn",
-        "accessed": "2026-05-16T13:08:00Z"
+        "accessed": "2026-05-17T08:50:00Z"
+      },
+      {
+        "url": "https://twentysidedstore.com/pages/calendar",
+        "accessed": "2026-05-17T08:50:00Z"
+      },
+      {
+        "url": "https://locator.wizards.com/store/12923",
+        "accessed": "2026-05-17T08:50:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:11:37.980Z"
+    "lastResearchedAt": "2026-05-17T08:54:44.899Z"
   },
   {
     "id": "levant-on-smith",
@@ -25833,5 +25839,92 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T08:39:37.345Z"
+  },
+  {
+    "id": "brooklyn-game-lab-park-slope",
+    "name": "Brooklyn Game Lab",
+    "desc": "Park Slope tabletop hangout with weekend Pokemon, Magic, and D&D drop-ins — family-leaning but with adult leagues.",
+    "longDesc": "Two adjacent storefronts on 7th Ave (479 'Center Slope' and 481 'Annex') stocked with hundreds of board games, RPG kits, and a steady weekend rhythm: Saturday Pokemon Club 2-4pm, Magic: The Gathering League 4-6pm, and Friday/Saturday Night D&D for teens and adults. Core audience is 6-18, but the evening league play and teen passes (Sat 2-6pm at the Annex) make it a credible low-key stop if you want a different intensity register near IC — think families warming up, hobbyists swapping decks, no bar/restaurant noise.",
+    "url": "https://brooklyngamelab.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 14:00-18:00",
+    "notes": "Two storefronts: 479 7th Ave (Center Slope) and 481 7th Ave (Annex), Brooklyn NY 11215 (yelp.com). Saturday afternoons: Pokemon 2-4pm, Magic 4-6pm at Center Slope; Teen Hang 2-6pm at the Annex (hisawyer.com). Friday/Saturday Night D&D listed in site nav (brooklyngamelab.com). Phone 718.788.1122. Mostly kid/teen-oriented programming — adults welcome at league play but this is not a 'board game bar'. 7th Ave metered parking on weekends; side streets (8th/9th/10th) are easier. ~13 min drive from IC up 4th Ave to 9th St.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-game-lab-brooklyn",
+        "accessed": "2026-05-17T08:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-game-lab-brooklyn-2",
+        "accessed": "2026-05-17T08:45:00Z"
+      },
+      {
+        "url": "https://brooklyngamelab.com/",
+        "accessed": "2026-05-17T08:45:00Z"
+      },
+      {
+        "url": "https://www.hisawyer.com/providers/brooklyn-game-lab/1039-bgl-south-slope",
+        "accessed": "2026-05-17T08:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T08:47:42.008Z"
+  },
+  {
+    "id": "hex-and-co-union-square",
+    "name": "Hex & Co. Union Square (nearest outpost — Manhattan)",
+    "desc": "Bright board-game cafe with 1,000+ titles, bar-style fare, full coffee/beer/cocktail bar; no Brooklyn location, Union Square is closest.",
+    "longDesc": "Hex & Co. operates three Manhattan-only locations; Union Square at 801 Broadway is the nearest outpost to Industry City and the most car-accessible via the Manhattan Bridge. Table fee runs $15/player for unlimited play from a 1,000+ game library, and the kitchen serves pressed sandwiches, mac and cheese, BBQ chicken pizza and Melt ice cream sandwiches alongside Brooklyn Roasting Company coffee, beer, cider, cocktails and milkshakes. Bright, spacious room with bar-style fare and full café service — works as a 2–3 hour anchor when the group wants a fuller foodie + drinks angle on a game day.",
+    "url": "https://www.hexnyc.com/hexco-union-square/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-23:00",
+    "notes": "Manhattan venue — included because no Brooklyn Hex outpost exists; Union Square is the closest of the three (West Side at 2911 Broadway and East Side at 1462 1st Ave are farther from IC). Drive: IC → Manhattan Bridge → Bowery → 12th St, ~22 min off-peak / 30+ peak. Weekend street parking is brutal around Union Square; budget $25–40 for an Icon/SP+ garage on E 13th or University Pl. Full bar means this complements Strategist's drop-in/no-food model with a real kitchen + cocktail angle (source: hexnyc.com, Yelp May 2026). Tag 'zone: dumbo' is a proxy — actual location is Manhattan/Union Square; no Manhattan zone exists in the enum.",
+    "sources": [
+      {
+        "url": "https://www.hexnyc.com/hexco-union-square/",
+        "accessed": "2026-05-17T08:50:00Z"
+      },
+      {
+        "url": "https://www.hexnyc.com/menus-union-square/",
+        "accessed": "2026-05-17T08:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hex-and-company-new-york-3",
+        "accessed": "2026-05-17T08:50:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/this-new-board-game-cafe-near-union-square-is-packed-with-500-games-052623",
+        "accessed": "2026-05-17T08:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T08:50:28.594Z"
   }
 ]
