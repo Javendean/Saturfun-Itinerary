@@ -2439,48 +2439,44 @@
   },
   {
     "id": "japan-village-food-hall",
-    "name": "Japan Village Food Hall",
-    "desc": "20,000-sq-ft Japanese food hall inside Industry City with 11+ stalls — the always-open IC fallback when Night Market is dark",
-    "longDesc": "Tucked inside Building 4 at Industry City, Japan Village is a 20,000-sq-ft Japanese marketplace combining a food hall, a sit-down sushi restaurant (Sushi Uesugi), a cocktail bar (Oldies), karaoke (JTunes), and the largest Japanese grocery in NYC. Food stalls include Ramen Setagaya (tonkotsu), Handroll Bar (temaki), Panya Bakery (curry pan, shokupan, matcha), plus Gohei, Hachi, Moriya, Shokusaido, Yamada, Umami House, Gyuya, and Waku Waku. Open daily year-round, so it's the dependable substitute when the IC Night Market isn't running.",
+    "name": "Japan Village",
+    "desc": "20,000 sq ft Japanese food hall inside Industry City — 10+ stalls, izakaya, sushi bar, sake shop, supermarket.",
+    "longDesc": "NYC's first dedicated Japanese food hall, spanning Buildings 3 & 4 at Industry City. Current 2026 lineup includes food stalls Ramen Setagaya, Handroll Bar, Shokusaido, Gohei, Obentoyasan, Hachi, Moriya, Yamada, Umami House and Sake's Bar, plus sit-down spots Sushi Uesugi, Gyuya yakiniku, Waku Waku izakaya, Oldies cocktail bar and JTunes karaoke. Anchored by Sunrise Mart supermarket, Kuraichi sake/spirits shop and Panya Bakery for curry pan and shokupan.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "1-2 hr",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
-    "notes": "Located at 934 3rd Ave inside Industry City Building 4 (japanvillage.com). 11 food stalls plus restaurant, bar, karaoke, and Sunrise Mart grocery (6sqft.com). Weekend hours: Sat 11a-9p, Sun 11a-8p (yelp.com). Use as the always-open IC substitute for Saturday Night Market Nov-Mar or non-last-Saturdays — no drive required since it's on-site. Vegetarian options at Panya (bakery) and several udon/ramen veggie bowls; not certified halal or GF.",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Inside Industry City Buildings 3 & 4, entrance 934 3rd Ave (industrycity.com). Weekend hours 11am-9pm Fri+Sat, 11am-8pm Sun (industrycity.com/tenants/japan-village). Stall lineup confirmed via official site japanvillage.com/eat-drink. Ramen Setagaya is the hall's standout — Mt. Fuji Ramen with chili-tomato espuma and parmesan (theinfatuation.com). WakuWaku izakaya operates as a separate evening anchor inside the hall. IC garage parking on-site, plenty of weekend space. Note: 'Osakana' on Graham Ave is a separate Williamsburg fishmonger, not a Japan Village vendor.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T11:30:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T11:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/japan-village",
+        "accessed": "2026-05-17T11:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T03:08:30.581Z"
+    "lastResearchedAt": "2026-05-17T11:24:50.449Z"
   },
   {
     "id": "cafe-here-red-hook",
@@ -5102,17 +5098,17 @@
   },
   {
     "id": "sahadis-industry-city",
-    "name": "Sahadi's — Industry City",
-    "desc": "121-year-old Brooklyn Lebanese grocer's IC outpost — pantry, mezze counter, sit-down eatery.",
-    "longDesc": "The Industry City sibling of the legendary Atlantic Ave Sahadi's: a full Middle Eastern grocery (olives, spices, nuts, halva, imported pantry staples by the pound) paired with a prepared-foods counter slinging hummus, labneh, fattoush, kibbeh, shawarma plates and zaatar manakish. There's also a sit-down cafe and bar inside Building 4, so you can graze a curious browse loop and snag a sandwich without leaving IC.",
-    "url": "https://industrycity.com/tenants/sahadis/",
-    "photoUrl": "",
+    "name": "Sahadi's at Industry City",
+    "desc": "Iconic Lebanese-American grocer's IC outpost with saj sandwiches, meze counter, and Lebanese wines on tap.",
+    "longDesc": "Sahadi's second Brooklyn location is a 7,500-sq-ft Middle Eastern market + cafe + bar inside Industry City Building 4, with one of NYC's only operational saj griddles turning out made-to-order flatbread sandwiches. The prepared-foods counter rotates ~30 daily dishes (hummus, tabbouleh, kibbeh, kebabs, seasonal meze), and weekend brunch runs Sat-Sun 11-3:30. Strong vegetarian and halal-friendly Plan B when the WakuWaku/Oldies Japanese counters at IC have a wait.",
+    "url": "https://sahadis.com/pages/locations",
+    "photoUrl": "https://sahadis.com/cdn/shop/files/Industry_City_slider.jpg?v=1700593548&width=480",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
       "foodie",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian",
@@ -5120,32 +5116,32 @@
       "halal"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-19:00",
-    "notes": "Address: 34 35th St, Building 4, Brooklyn NY 11232 (industrycity.com). Open Sat & Sun 11am–7pm; brunch served 11am–3:30pm and bar runs late Fri/Sat until 10pm (yelp.com). Pairs perfectly with Li-Lac Chocolates and Japan Village in the same complex for a no-drive foodie loop. Vegan/veg-friendly mezze and pantry items are abundant; most prepared items are halal-compatible (verify per item at counter). Parking on-site at IC lot.",
+    "hoursWeekend": "11:00-19:00 (brunch 11:00-15:30)",
+    "notes": "Entrance at 34 35th St, Building 4 (industrycity.com). Brunch Sat-Sun 11-3:30 with Lebanese wines on tap and saj sandwich station (6sqft). Phone (718) 788-7500. Pairs as a contrast anchor or vegetarian/halal-friendly fallback to Japanese counters elsewhere in IC. Parking via IC garages on weekends.",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/sahadis/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/sahadis-industry-city-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://gothamist.com/food/inside-the-glorious-new-sahadis-in-industry-city",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/121-year-old-middle-eastern-grocery-sahadis-opens-second-brooklyn-location-at-industry-city/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://sahadis.com/pages/brunch-bar-menu",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T00:49:50.710Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T11:26:56.277Z"
   },
   {
     "id": "micol-ceramics",
@@ -6356,22 +6352,24 @@
   {
     "id": "sushi-uesugi",
     "name": "Sushi Uesugi at Japan Village",
-    "desc": "Intimate omakase counter inside Japan Village blending tradition with seasonal creativity",
-    "longDesc": "A tucked-away omakase bar adjacent to the Japan Village food hall at Industry City, where each course spotlights the season's freshest catch alongside signature plates like Yukke Don and Garlic Truffle Rice. Lunch sets start around $50pp for 10 pieces; the dinner counter leans more refined for a quiet, date-night pace. Walk-ins possible but reservations strongly recommended.",
+    "desc": "Tucked-away omakase counter inside Japan Village — Chef Kenji, $60-75 sets, walk-in only",
+    "longDesc": "An intimate sushi counter hidden in the back of the Japan Village food hall at Industry City, where Chef Kenji serves an inventive omakase blending classic cuts with signatures like Yukke Don and Garlic Truffle Rice. Ten-piece omakase runs $60-75 with hand roll and soup, making it one of Brooklyn's most reasonably priced serious omakase rooms. Walk-in only with no reservations — expect a wait on weekend nights, but the counter seating and serene tucked-away vibe make it a strong romantic upgrade over the Japan Village food hall itself.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
       "romantic"
     ],
-    "dietary": [],
+    "dietary": [
+      "gluten-free"
+    ],
     "priceBand": "$$$",
     "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "12:00-15:00, 17:00-21:00",
-    "notes": "Located at 934 3rd Ave / 267 36th St inside Japan Village at Industry City (japanvillage.com). Lunch omakase ~$50pp for 10pc; dinner is the higher-end experience with seasonal nigiri and signature Yukke Don / Garlic Truffle Rice (yelp.com). 87+ Yelp reviews praise fresh, thick cuts and intimate counter feel. Weekend hours: Fri-Sat 12-3 & 5-9; Sun 12-3 & 5-8. Park in Industry City lots — no separate driving required since this anchors the IC cluster itself.",
+    "hoursWeekend": "Fri-Sat 12:00-15:00, 17:00-21:00; Sun 12:00-15:00, 17:00-20:00",
+    "notes": "Located inside Industry City at 934 3rd Ave / 267 36th St, next to the Japan Village food hall (japanvillage.com). Walk-in only, no reservations — weekend waits are typical, so arrive at open or pad the itinerary (yelp.com, nosleep.city). Omakase is 10 pieces + hand roll + miso for $60-75pp; Chef Kenji also runs an affordable $50 lunch set. Counter seating with ~8-10 seats makes it date-night intimate but tight — not great for groups >2. Pairs naturally with a stroll through Japan Village food hall, Industry City courtyards, or a drive to nearby Sunset Park/Greenwood for dessert.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
@@ -6380,12 +6378,20 @@
       {
         "url": "https://www.yelp.com/biz/sushi-uesugi-brooklyn",
         "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://nosleep.city/best-omakase-in-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/sushi-uesugi-/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T09:46:59.417Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:33:25.703Z"
   },
   {
     "id": "panya-bakery-industry-city",
@@ -11864,49 +11870,43 @@
   {
     "id": "brooklyn-kura",
     "name": "Brooklyn Kura",
-    "desc": "America's first craft sake brewery — guided tour + 3-pour tasting flight inside Industry City",
-    "longDesc": "Brooklyn Kura was the first dedicated craft sake brewery in the U.S., now operating a full production facility and tap room in Industry City's Courtyard 5/6. Their $45 guided tour walks you through the brewing floor for about an hour and ends with a flight of three house sakes, including tap-room-exclusive styles like shiboritate, moromi and orizake. The taproom itself stays open later for drop-in flights, shochu cocktails, and small bites (cheese, charcuterie, nori).",
+    "desc": "America's first sake brewery — taproom with rotating draft sake, shochu cocktails, and small bites inside Industry City.",
+    "longDesc": "Brooklyn Kura is the first sake brewery to open in the United States, brewing junmai-style sake on-site at Industry City and pouring rotating varieties on tap. The taproom (Building 6, Courtyard 5-6) serves flights, single pours, shochu cocktails, and an inventive snack menu — and runs guided brewery tours plus pairing classes (sake & cheese, etc.). Pairs perfectly as a post-dinner sake flight after WakuWaku without leaving the campus.",
     "url": "https://www.brooklynkura.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "curious",
-      "foodie",
-      "chill"
+      "chill",
+      "foodie"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60 min",
-    "driveFromIC": "0 min (inside IC)",
-    "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
-    "notes": "Closed Mon-Wed; Thu-Fri 16:00-21:00. Tours are scheduled events that must be pre-booked via the events page — drop-ins get the tap room only, not the brewery floor (brooklynkura.com/pages/events). Tour is $45 and runs ~1 hr including the 3-pour flight (urbansake.com). Sake is naturally gluten-free and vegan, making this a rare guided-tasting option for restricted diets. Pairs cleanly with Japan Village in the same complex for a single-park-once IC afternoon. 21+. Phone (347) 766-1601.",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min (in IC)",
+    "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00 (Thu-Fri 16:00-21:00)",
+    "notes": "Address: 68 34th St, Building 6, Courtyard 5-6, Brooklyn NY 11232 (official site lists this; IC tenant page lists 34 34th St — same building entrance). Closed Mon-Wed. Sake on tap is the headline draw; flights are the standard order. Tours and pairing classes bookable on their events page (source: brooklynkura.com/pages/events). Industry City parking lots on site, $ weekend rate. Walk from WakuWaku (Bldg 2) ~3 min through Courtyard 3 → 5/6 (source: industrycity.com/tenants/brooklyn-kura). Larger-than-8 parties: events@brooklynkura.com.",
     "sources": [
       {
-        "url": "https://www.brooklynkura.com/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.urbansake.com/all-sake-events/nyc-brooklyn-kura-guided-brewery-tour-and-sake-tasting-2026-05-29/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.brooklynkura.com/pages/about",
+        "accessed": "2026-05-17T11:30:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/brooklyn-kura/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T11:30:00Z"
       },
       {
         "url": "https://turnstiletours.com/brooklyn-kura-sake-brewery-industry-city/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T11:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T10:47:44.930Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T11:29:14.996Z"
   },
   {
     "id": "bamboo-garden-sunset-park",
@@ -26282,45 +26282,41 @@
   },
   {
     "id": "kuraichi-sake-shop",
-    "name": "Kuraichi Sake Shop",
-    "desc": "NYC's deepest Japanese sake, shochu, awamori & whisky shop inside Japan Village at Industry City.",
-    "longDesc": "Tucked inside Japan Village in Industry City's Building 4, Kuraichi is a specialty Japanese spirits retailer carrying a serious sake selection alongside shochu, awamori, Japanese whisky and wine you genuinely can't find at a regular bottle shop. Staff are knowledgeable and will steer you to a bottle for the price point you name. Perfect grab-and-go retail anchor to cap a Japan Village food crawl on your way back to the car.",
+    "name": "Kuraichi",
+    "desc": "NYC's deepest Japanese sake, shochu, awamori & whisky shop tucked inside Japan Village.",
+    "longDesc": "Kuraichi is the liquor wing of Japan Village in Industry City (Building 4, 88 35th St), stocking hundreds of sakes organized by genre — dry, fruity, umami, smooth — alongside junmai/ginjo/nigori/nama types, plus Japanese whisky with assorted cask finishes, shochu and awamori. Staff picks rotate monthly with discounts, and they run tastings and special-order service. A perfect quick pickup paired with a Japan Village food-hall lap before heading to a drinks stop.",
     "url": "https://kuraichibk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "curious",
-      "foodie"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "20-40 min",
-    "driveFromIC": "0 min (inside IC, Bldg 4)",
-    "hoursWeekend": "12:00-20:00 (Fri-Sat), 12:00-19:30 (Sun)",
-    "notes": "Entrance at 88 35th St, Building 4 inside Japan Village (industrycity.com). Phone (646) 460-3765. Sun-Thu 12-7:30pm, Fri-Sat 12-8pm — note shop closes earlier than the food hall, so hit it before dinner if you want to take a bottle home. Carries sake, shochu, awamori, Japanese whisky and wine (kuraichibk.com). Free IC weekend parking on-site.",
+    "duration": "20-30 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-19:30",
+    "notes": "Inside Japan Village at IC Building 4 (industrycity.com). Bottles roughly $26-$48+ with premium options higher (kuraichibk.com). Pair with Japan Village food stalls then drive to a drinks venue; ask staff for a 'staff pick' for a curated tasting at home. Tel (646) 460-3765.",
     "sources": [
-      {
-        "url": "https://industrycity.com/tenants/kuraichi/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
       {
         "url": "https://kuraichibk.com/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.japanvillage.com/eat-drink",
+        "url": "https://industrycity.com/tenants/kuraichi/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/kuraichi-brooklyn-2",
+        "url": "https://www.facebook.com/japanvillagebrooklyn/posts/kuraichi-our-sake-shop-has-finally-opened-here-you-can-find-a-wide-variety-of-sa/433283710812135/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T09:50:51.573Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:31:11.049Z"
   },
   {
     "id": "le-crocodile-williamsburg",

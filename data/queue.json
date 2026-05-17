@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Japan Village food hall at Industry City — current vendor lineup 2026",
-    "reason": "WakuWaku grew out of the Japan Village hall; mapping remaining vendors (Osakana, Shoyu Ramen, etc.) fills out the same-zone Japanese cluster for one-stop tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:54:39.170Z"
-  },
-  {
-    "topic": "Sahadi's at Industry City — Lebanese/Middle Eastern counter",
-    "reason": "Adjacent IC non-Japanese anchor for a contrast pairing or vegetarian/halal Plan B when the WakuWaku/Oldies counter is full",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:54:39.170Z"
-  },
-  {
-    "topic": "Brooklyn Kura sake brewery tasting room at Industry City",
-    "reason": "Direct sake-thematic extension within the same building cluster — could chain WakuWaku dinner → Brooklyn Kura flight without leaving IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:54:39.170Z"
-  },
-  {
-    "topic": "Kuraichi sake & Japanese liquor shop at Japan Village",
-    "reason": "Direct adjacency — completes the Japan-themed IC mini-track with a sake pickup before drinks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:56:48.978Z"
-  },
-  {
-    "topic": "Sushi Uesugi at Japan Village (sit-down omakase counter)",
-    "reason": "Upgraded romantic/foodie variant of the Japan Village track for date-night routing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T13:56:48.978Z"
-  },
-  {
     "topic": "Panya Bakery (Japanese pastries) at Industry City",
     "reason": "Daytime/morning bookend for the Japan track — quick photo-friendly stop adjacent to Japan Village",
     "requestedBy": "agent",
@@ -9748,5 +9718,101 @@
     "reason": "22nd-floor panoramic rooftop bar a few blocks from Brooklyn Bowl — completes the Williamsburg rooftop trio alongside Bar Blondeau and Laser Wolf",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T11:22:44.793Z"
+  },
+  {
+    "topic": "Ramen Setagaya at Japan Village — Mt. Fuji Ramen specifics",
+    "reason": "Hall's signature dish; standalone stop within a Japan Village track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:24:50.477Z"
+  },
+  {
+    "topic": "Sushi Uesugi at Japan Village — omakase / sushi bar tier",
+    "reason": "Sit-down sushi anchor inside the hall, different price/duration profile than the stalls",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:24:50.477Z"
+  },
+  {
+    "topic": "Gyuya yakiniku at Japan Village — Japanese BBQ",
+    "reason": "Evening grill-your-own option that pairs with WakuWaku for a long Japanese cluster night",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:24:50.477Z"
+  },
+  {
+    "topic": "Panya Bakery at Japan Village — curry pan, shokupan, matcha",
+    "reason": "Grab-and-go Japanese bakery; rounds out a morning IC start before manga panel harvest",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:24:50.477Z"
+  },
+  {
+    "topic": "Ends Meat IC - whole-animal salumi counter at Industry City",
+    "reason": "Another IC food-hall anchor that pairs with Sahadi's for a meze+charcuterie contrast track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:26:56.298Z"
+  },
+  {
+    "topic": "Li-Lac Chocolates factory shop at Industry City",
+    "reason": "Adjacent IC sweet stop within walking distance to round out a Sahadi's lunch into a multi-stop IC loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:26:56.298Z"
+  },
+  {
+    "topic": "Burrow patisserie at Industry City (Japanese-French pastry)",
+    "reason": "Within-IC dessert pairing for either the Japanese-counter or Sahadi's track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:26:56.298Z"
+  },
+  {
+    "topic": "Hana Makgeolli (Greenpoint Korean rice wine brewery, tasting room)",
+    "reason": "Same artisanal-rice-beverage thematic as Brooklyn Kura but in a different zone — extends the 'fermented rice drink crawl' beyond IC for itineraries willing to drive 25 min north",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:29:15.018Z"
+  },
+  {
+    "topic": "Other Half Brewing Industry City taproom",
+    "reason": "Beer counterpart inside the same IC campus — lets the itinerary engine offer a non-sake drinks chain (WakuWaku → Other Half) without leaving the complex",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:29:15.018Z"
+  },
+  {
+    "topic": "Industry City Japan Village / Sunrise Mart food hall",
+    "reason": "Adjacent Japanese-themed stop inside IC — completes a 'Japan-in-IC' mini-track pairing with Kura and WakuWaku for visitors who want a fully themed afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:29:15.018Z"
+  },
+  {
+    "topic": "Hotaru izakaya inside Japan Village",
+    "reason": "Closes the Japan Village mini-track with a sit-down sake/shochu pour right after the Kuraichi pickup, zero drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:31:11.072Z"
+  },
+  {
+    "topic": "Sunrise Mart / Japanese snacks at Japan Village food hall",
+    "reason": "Adjacent same-roof grocery completes the Japanese pre-drinks browse loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:31:11.072Z"
+  },
+  {
+    "topic": "Rule of Thirds Japanese restaurant Williamsburg (driving from IC)",
+    "reason": "Strong Japanese drinks/dinner option 18-22 min drive when extending the Japan theme beyond IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:31:11.072Z"
+  },
+  {
+    "topic": "Mr. Taka Ramen at Japan Village food hall (counter ramen for the walk-in wait)",
+    "reason": "Natural fallback/companion when Uesugi has a long wait; keeps the date inside Japan Village",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:33:25.724Z"
+  },
+  {
+    "topic": "Greenwood Park beer garden (post-omakase drinks 5 min from IC)",
+    "reason": "Date-night extender — outdoor, casual contrast to the formal sushi counter",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:33:25.725Z"
+  },
+  {
+    "topic": "Sunset Park rooftop viewpoint at Industry City Building 5 (golden-hour photo stop)",
+    "reason": "Romantic visual anchor walkable from Uesugi for post-dinner skyline moment",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:33:25.725Z"
   }
 ]
