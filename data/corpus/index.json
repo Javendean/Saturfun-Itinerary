@@ -1809,30 +1809,42 @@
   {
     "id": "insa-gowanus",
     "name": "Insa",
-    "desc": "Korean BBQ + private karaoke rooms (KTV)",
-    "longDesc": "Korean BBQ + private karaoke rooms (KTV) — the bookable group-of-friends move that ALSO functions as a backup dinner option",
-    "url": "https://www.insabrooklyn.com/",
+    "desc": "Gowanus Korean BBQ with five themed private karaoke rooms — tabletop grills, soju, late-night singing.",
+    "longDesc": "Insa is a sprawling Korean BBQ + karaoke destination at 328 Douglass St in Gowanus, pairing tabletop charcoal grills (galbi, pork belly, banchan) with five private karaoke rooms that run until 2am on weekends. Small rooms fit up to 10 guests at $80/hr; the large room holds 20 at $200/hr, with 2-hour Fri/Sat minimums and a mandatory 20% gratuity. The kitchen-then-sing flow makes it a natural late-evening anchor after Royal Palms shuffleboard a few blocks away.",
+    "url": "https://insabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "gowanus",
+    "zone": "park-slope",
     "vibe": [
-      "social",
-      "party",
       "foodie",
-      "weird"
+      "active",
+      "curious"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$$$",
     "duration": "2-3 hr",
-    "driveFromIC": "7 min drive",
-    "hoursWeekend": null,
-    "notes": "Karaoke rooms book up — reserve in advance.",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Fri-Sat 17:30-02:00, Sun 16:00-22:00",
+    "notes": "Closed Mon-Tue. Karaoke is auto-2hr on Fri/Sat; reserve well ahead via OpenTable (rooms book out 2-3 weeks for prime weekend slots). Strong banchan, charcoal grills at the table, full bar with soju cocktails. Walkable to Royal Palms Shuffleboard (~6 min walk) and Threes Brewing — pairs perfectly as the 'eat + sing' second half of a Gowanus active-foodie night (insabrooklyn.com/karaoke). Street parking around Douglass/Nevins is plausible weekend evenings; paid lots on 3rd Ave as backup.",
     "sources": [
       {
-        "url": "C:\\tmp\\saturfun-content-research.md",
-        "accessed": "2026-05-15T22:12:44.369Z"
+        "url": "https://insabrooklyn.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://insabrooklyn.com/karaoke",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://insabrooklyn.com/hours-and-location",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/insa-karaoke-room-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
@@ -1842,7 +1854,7 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 9 — 10:00 PM Late Night (NEW)",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-15T22:12:44.382Z"
+    "lastResearchedAt": "2026-05-17T10:53:36.266Z"
   },
   {
     "id": "bookoff-animelab-industry-city",
@@ -5898,49 +5910,49 @@
   {
     "id": "brooklyn-bowl-williamsburg",
     "name": "Brooklyn Bowl Williamsburg",
-    "desc": "16-lane bowling alley + 600-cap music venue with Blue Ribbon fried-chicken kitchen on Wythe Ave",
-    "longDesc": "Brooklyn Bowl is Williamsburg's go-bigger group-activity anchor: 16 wood lanes, a 600-capacity concert room, and a full Blue Ribbon kitchen famous for its fried chicken and Southern sides. Lanes are $30 per half hour for up to 8 guests plus $5.95 shoe rentals, and the venue is 21+ after 6pm, so groups with anyone under 21 should target the all-ages weekend Family Bowl window. It pairs naturally as a 'scale up from The Gutter' option when a crew wants bowling, food and a show under one roof.",
+    "desc": "16-lane bowling + live music venue with group lane reservations 10-200 guests, food/bev delivered lane-side",
+    "longDesc": "A combined bowling alley, concert hall, and Blue Ribbon-catered restaurant on Wythe Ave. Lanes book at $30/lane/30 min for up to 8 guests, with weekend Family Bowl open Sat 12-5pm and Sun 12-6pm; larger groups (10-200) reserve lane blocks that stay open during a concert — a unique VIP setup where bands play while you bowl. Full private buyouts are available via events@brooklynbowl.com for weddings, corporate, and bat/bar mitzvahs.",
     "url": "https://www.brooklynbowl.com/brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "active",
-      "foodie",
-      "chill"
+      "chill",
+      "foodie"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 11:00-02:00 / Sun 11:00-23:00 (all-ages Family Bowl Sat 12:00-17:00, Sun 12:00-18:00; 21+ after 18:00)",
-    "notes": "61 Wythe Ave, Williamsburg. 16 lanes at $30/lane per half hour up to 8 guests, $5.95 shoe rental (brooklynbowl.com/brooklyn-bowling). Blue Ribbon kitchen runs as long as shows are on; signature is the fried chicken platter (yelp.com/biz/brooklyn-bowl-brooklyn). No on-site lot — use SpotHero/ParkWhiz for nearby garages or street parking off Wythe/N 11th (parkwhiz.com/brooklyn-bowl-parking). 21+ after 6pm, all ages during weekend daytime Family Bowl (brooklynbowl.com/brooklyn-faqs). Sundays also host The Rock and Roll Playhouse at 12:30pm — useful kid-friendly anchor.",
+    "duration": "1.5-3 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 12:00-05:00 (next day), Sun 12:00-00:00 (Family Bowl: Sat 12-17, Sun 12-18)",
+    "notes": "Lane pricing $30/lane/30 min up to 8 guests + $5.95 shoe rental (brooklynbowl.com). Group reservations during concerts host 10-200 on lanes with Blue Ribbon food/bev runners (specialevents.livenation.com). Address 61 Wythe Ave, Brooklyn NY 11249. NOTE: contrary to common belief, no dedicated on-site parking lot — paid garages and street parking within walking distance, plan ~5-10 min buffer on weekends (yelp.com, brooklynbowl FAQ). Equidistant to Bedford Ave L and Nassau G if guests want to skip driving. For Saturfun's group-booking track, this is a higher-capacity, livelier alternative to The Gutter — Gutter is craft-beer-divey, Brooklyn Bowl is concert-venue-scale.",
     "sources": [
       {
-        "url": "https://www.brooklynbowl.com/brooklyn",
-        "accessed": "2026-05-17T08:00:00Z"
+        "url": "https://www.brooklynbowl.com/brooklyn-bowling",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.brooklynbowl.com/brooklyn-bowling",
-        "accessed": "2026-05-17T08:00:00Z"
+        "url": "https://specialevents.livenation.com/venues/brooklyn-bowl-williamsburg",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.brooklynbowl.com/brooklyn-faqs",
-        "accessed": "2026-05-17T08:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynbowl.com/brooklyn-special-events",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/brooklyn-bowl-brooklyn",
-        "accessed": "2026-05-17T08:00:00Z"
-      },
-      {
-        "url": "https://www.parkwhiz.com/brooklyn-bowl-parking/",
-        "accessed": "2026-05-17T08:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:00:21.084Z"
+    "lastResearchedAt": "2026-05-17T11:01:38.183Z"
   },
   {
     "id": "sip-and-play-park-slope",
@@ -6166,41 +6178,44 @@
   {
     "id": "the-gutter-williamsburg",
     "name": "The Gutter",
-    "desc": "8-lane dive-bar bowling alley in Williamsburg with cheap drinks, pool tables, and a retro vibe (21+).",
-    "longDesc": "The Gutter is a beloved Williamsburg institution: an unpretentious bowling alley grafted onto a dive bar, with eight lanes, pool tables, and a back lounge called The Spare Room. It's the indie, cheaper, more chaotic cousin to Brooklyn Bowl—no bands, no food hype, just lanes, beer, and 4 AM closing time. 21+ only, so plan around that.",
+    "desc": "Vintage 8-lane bowling bar with 1970s manual-score lanes, dive vibe, craft beer, open till 4am.",
+    "longDesc": "Brooklyn's first bowling alley to open in decades when it debuted in 2007, The Gutter pairs eight reclaimed wood-paneled lanes from a defunct 1970s Wisconsin alley with a long bar pouring craft drafts and stiff cocktails. Walk-ins are welcome before peak hours, otherwise reserve a lane by the half-hour or hour — Friday/Saturday nights are hourly only. Strict 21+ policy and a backroom that hosts indie shows and comedy keep the energy adult and divey, unlike polished competitors.",
     "url": "https://gutterbarbowl.com/williamsburg",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "chill",
-      "curious",
       "active"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Sat-Sun 12:00-04:00, Fri 14:00-04:00",
-    "notes": "200 N 14th St, Brooklyn 11249, on the Williamsburg/Greenpoint edge near the East River (gutterbarbowl.com). Lane pricing $35/half-hour Fri-Sat, $30 Sun-Thu; shoes $6, socks $4 (gutterbarbowl.com). 21+ at all times — hard constraint vs. Brooklyn Bowl which is more flexible. Friday/Saturday are hourly-rate only, walk-in (yelp.com). Street parking in north Williamsburg is tight on weekends; allow 10-15 min to find a spot, or use the lot at 184 Kent Ave. Drive from Industry City is ~22 min via the BQE off-peak.",
+    "duration": "1-2 hr",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat-Sun 12:00-04:00",
+    "notes": "200 N 14th St on the Williamsburg/Greenpoint border (gutterbarbowl.com). Lanes $45/hr Fri-Sun, $40/hr Mon-Thu; per-game $7-8 weekdays only (brokelyn.com). 21+ at all times. Street parking on N 14th/15th is usually findable on weekends — easier than core Williamsburg. Direct shot from IC up the BQE (~20 min). Pair with a Greenpoint dinner (Adelina's, Achilles Heel) for a full track.",
     "sources": [
       {
         "url": "https://gutterbarbowl.com/williamsburg",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-gutter-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/bars/the-gutter-bowling-alley-and-bar",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://brokelyn.com/price-check-brooklyn-bowling-alleys/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/the-gutter-bowling-alley-and-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:48:17.643Z"
+    "lastResearchedAt": "2026-05-17T10:55:28.485Z"
   },
   {
     "id": "oldies-industry-city",
@@ -26887,5 +26902,95 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T10:49:57.810Z"
+  },
+  {
+    "id": "llama-inn-closed",
+    "name": "Llama Inn (Permanently Closed Dec 2025)",
+    "desc": "Former higher-end Peruvian on Withers St in Williamsburg; closed Dec 2025 after ~10 years — not bookable.",
+    "longDesc": "Llama Inn was Erik Ramirez's acclaimed modern Peruvian restaurant at 50 Withers St in Williamsburg. After about a decade of service it closed permanently in late December 2025 (Greenpointers, 2025-12-03; Yelp and OpenTable now list it as closed as of 2026). Retained here only to prevent re-queueing; do not include in active itineraries — see enqueued Williamsburg replacements for higher-end dinner anchors.",
+    "url": "https://greenpointers.com/2025/12/03/peruvian-restaurant-llama-inn-closing-later-this-month/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "n/a",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Permanently closed",
+    "notes": "PERMANENTLY CLOSED — Llama Inn shuttered late December 2025 after ten years at 50 Withers St (Greenpointers 2025-12-03). Yelp and OpenTable confirm closure as of May 2026. Do NOT promote to corpus/itinerary. Original concept was chef Erik Ramirez's modern Peruvian; sister restaurant Llama San in Manhattan is unrelated to the Williamsburg post-show/pre-bowl driving-cluster use case (subway-only Greenwich Village). Replace with another Williamsburg/Greenpoint higher-end dinner — see enqueue.",
+    "sources": [
+      {
+        "url": "https://greenpointers.com/2025/12/03/peruvian-restaurant-llama-inn-closing-later-this-month/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/llama-inn-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/llama-inn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:57:38.699Z"
+  },
+  {
+    "id": "union-pool-williamsburg",
+    "name": "Union Pool",
+    "desc": "Indoor bar + huge string-lit back patio with El Diablo taco truck running till 3:30am",
+    "longDesc": "A Williamsburg institution under the BQE: a dive-y front bar and live-music room open onto a sprawling stone patio strung with Christmas lights, picnic tables, and a central pit that's a pond in summer and a fire in winter. The El Diablo Taco Truck parks on the patio year-round serving organic beef, pork, and vegetarian tacos late into the night, so you get drinks, food, and outdoor space without leaving the venue.",
+    "url": "https://www.union-pool.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 14:00-04:00, Sun 14:00-02:00 (taco truck Sat 14:00-03:30, Sun 14:00-00:00)",
+    "notes": "484 Union Ave at Meeker, under the BQE. Group-friendly — picnic-table seating on the patio, no reservations. El Diablo Tacos is a separate cash/card window on the patio (eldiablotacos.com). Weekend street parking is realistic on Union Ave or side streets north of Meeker; 6-min walk to The Gutter (200 N 14th) makes this a natural first stop on a Williamsburg track (brooklynvegan.com, union-pool.com).",
+    "sources": [
+      {
+        "url": "https://www.union-pool.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.union-pool.com/the-space",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/union-pool-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/el-diablo-taco-truck-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynvegan.com/union-pools-patio-and-taco-truck-are-back-open/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "http://www.eldiablotacos.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:59:32.600Z"
   }
 ]
