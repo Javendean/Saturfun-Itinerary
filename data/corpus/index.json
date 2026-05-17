@@ -14972,16 +14972,16 @@
   },
   {
     "id": "taiyaki-nyc-chinatown",
-    "name": "Taiyaki NYC (Chinatown)",
-    "desc": "Fish-shaped Japanese waffle cones with matcha & black-sesame soft-serve — the original Chinatown flagship.",
-    "longDesc": "Fluffy taiyaki waffles stuffed with custard or red bean, then topped with swirled matcha, black-sesame, or vanilla soft-serve and toppings like mochi, fruity pebbles, or whipped cream. The Williamsburg outpost at 294 Bedford Ave is permanently closed, so the original Baxter Street shop in Manhattan Chinatown is the only operating Taiyaki — uniquely justified because nothing else in NYC does the fish-cone-plus-soft-serve format. Pair it with a Chinatown food walk or an MOCA visit on the same trip.",
+    "name": "Taiyaki NYC (Chinatown Flagship)",
+    "desc": "Fish-shaped waffle cone stuffed with artisan Asian soft serve — peak photo dessert.",
+    "longDesc": "Taiyaki NYC's original Chinatown shop pipes Asian-leaning soft serve (matcha, black sesame, ube, Thai milk tea) into a crisp-chewy fish-shaped waffle cone, often crowned with a Pocky tail or unicorn topper. The Williamsburg outpost at 294 Bedford has permanently closed (Yelp 'Closed' designation, May 2026), so Baxter Street is now the only NYC location and the singular source of the viral fish cone. Park nearby on Centre/Lafayette, walk it for the iconic side-profile shot.",
     "url": "https://taiyakinyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie",
       "photo",
+      "foodie",
       "curious"
     ],
     "dietary": [
@@ -14991,21 +14991,29 @@
     "duration": "30-45 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
-    "notes": "Williamsburg shop at 294 Bedford Ave is permanently CLOSED per Yelp listing (taiyakinyc.com only advertises Baxter St) — do not route there. Manhattan Chinatown location at 119 Baxter St is uniquely justified because it's the sole remaining Taiyaki and matches the Chinatown-flavor niche literally. ~22 min from IC via Manhattan Bridge off-peak; street parking is rough on weekends — consider the Mulberry St garage or pair with a Chinatown food crawl so the parking cost amortizes. Vegan soft-serve flavors rotate.",
+    "notes": "Manhattan exception justified: Williamsburg sibling at 294 Bedford Ave is permanently closed per Yelp 'CLOSED' status as of May 2026 (yelp.com/biz/taiyaki-nyc-williamsburg-brooklyn-7), and the official site lists only 119 Baxter St as the active NYC store (taiyakinyc.com). Drive IC → Chinatown via Hugh L. Carey Tunnel or Brooklyn Bridge ~20-25 min on weekends; metered street parking on Baxter/Bayard or garages on Mulberry. The fish cone's profile reads instantly in photos against Chinatown signage, making it a strong photo anchor if the track ends with a Manhattan capper. Signature builds: 'Unicorn' (rainbow soft serve), 'It's Matcha Time,' 'Squid Ink' black cone variant. Cash + cards. (taiyakinyc.com, yelp.com)",
     "sources": [
       {
         "url": "https://taiyakinyc.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T20:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/taiyaki-nyc-williamsburg-brooklyn-7",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T20:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/taiyaki-nyc-new-york",
+        "accessed": "2026-05-17T20:35:00Z"
+      },
+      {
+        "url": "https://hoodline.com/2018/07/taiyaki-nyc-brings-its-fish-shaped-cones-to-williamsburg/",
+        "accessed": "2026-05-17T20:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T16:42:21.566Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:33:32.057Z"
   },
   {
     "id": "wenwen-greenpoint",
@@ -33211,5 +33219,186 @@
     "enriched": false,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T20:29:35.757Z"
+  },
+  {
+    "id": "chinatown-ice-cream-factory",
+    "name": "The Original Chinatown Ice Cream Factory",
+    "desc": "Family-run Asian-flavor scoop shop on Bayard St, slinging black sesame and lychee since 1978.",
+    "longDesc": "A Manhattan Chinatown institution opened in 1978, this take-out counter on Bayard Street made Asian ice cream flavors mainstream in NYC. Rotating scoops include black sesame, lychee, red bean, almond cookie, don tot (Chinese egg custard), pandan, durian, ube, ginger, and matcha — $8.50 single / $13.50 double. Tiny shop, almost always a line down the block, but it moves fast and the flavor depth (especially the black sesame) is the benchmark every newer Asian dessert spot in the city is measured against.",
+    "url": "https://www.chinatownicecreamfactory.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "20-30 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "65 Bayard St, Manhattan Chinatown — across the Manhattan Bridge from Brooklyn, so it's the natural Manhattan counterpoint to a Brooklyn ice cream stop (zoned as 'dumbo' since schema lacks a Manhattan zone; venue is actually Chinatown). Take-out only, no seating — order at counter, eat walking down Mott or Mosco St. Cash and card. Weekend parking in Chinatown is brutal; best bet is the Mott St municipal garage (corner of Mott/Bayard) or a metered spot west of Chrystie before noon. Drive from IC: BQE → Manhattan Bridge → exit Canal → ~22 min off-peak, 35+ with traffic (source: Google Maps routing). Daily hours 11:00am–10:00pm (chinatownicecreamfactory.com).",
+    "sources": [
+      {
+        "url": "https://www.chinatownicecreamfactory.com/",
+        "accessed": "2026-05-17T20:35:00Z"
+      },
+      {
+        "url": "https://www.chinatownicecreamfactory.com/ice-cream",
+        "accessed": "2026-05-17T20:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/chinatown-ice-cream-factory-new-york",
+        "accessed": "2026-05-17T20:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/chinatown-ice-cream-factory/",
+        "accessed": "2026-05-17T20:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:35:47.479Z"
+  },
+  {
+    "id": "ferrane-bakery",
+    "name": "Ferrane Bakery",
+    "desc": "Swedish bakery from a BonBon co-founder — kanelbulle, princess cake, scratch breads with East/North African accents.",
+    "longDesc": "Opened in 2025 on Clark Street by Selim Adira (BonBon co-founder) and Emon Maasho, Ferrane (Moroccan for 'community oven') serves Swedish classics like kanelbulle and prinsesstårta alongside breads milled from Brooklyn Granary & Mill flours. Head baker Mathilda Jacob — a Young World Champion in Baking — leads a pastry program that fuses Scandinavian technique with Eritrean and Moroccan flavor cues. A quick weekend stop before walking the Promenade.",
+    "url": "https://ferranebakery.com/",
+    "photoUrl": "https://ferranebakery.com/cdn/shop/files/ferrane.png",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "07:00-18:00",
+    "notes": "57 Clark Street, Brooklyn Heights (Brooklyn Eagle, Time Out NY). Open daily 7am–6pm (Time Out NY). Founded by Emon Maasho and Selim Adira — Selim co-founded the viral BonBon Swedish candy shop (Time Out NY, Eater NY). Head baker Mathilda Jacob is a former Young World Champion in Baking (Iceland). Pastries built on Swedish recipes with East/North African flair; breads use custom-milled grains from Brooklyn Granary & Mill. Pair with a walk on the Promenade or a stop at Books Are Magic nearby. Street parking on weekends is tight in the Heights — consider garage on Henry St or Cadman Plaza.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/news/the-team-behind-nycs-viral-swedish-candy-store-just-opened-a-bakery-in-brooklyn-heights-071025",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/292459/swedish-african-ferrane-bakery-set-to-open-on-clark-street/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://ferranebakery.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/ferrane-bakery-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T20:37:44.844Z"
+  },
+  {
+    "id": "burrow-pastries-dumbo",
+    "name": "Burrow",
+    "desc": "Hidden Japanese-French pastry counter tucked inside the lobby of a DUMBO office building",
+    "longDesc": "Patissier Ayako Kurokawa's nearly-secret pastry counter sits inside the unmarked lobby of 68 Jay Street, fusing classic French technique with Japanese flavors — gateau Basque, matcha madeleines, caramel banana cake, chantilly hot chocolate. Treasures sell out fast and the shop is open only Tuesday-Friday 10am-3pm, so it functions as a weekday detour rather than a weekend stop for Saturfun.",
+    "url": "https://www.burrow.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "Closed Sat-Sun",
+    "notes": "WEEKEND-CLOSED — Tue-Fri 10:00-15:00 only (Yelp, May 2026). Address: 68 Jay St, Ste 119, Brooklyn NY 11201. Counter is hidden in the lobby; no street signage, hence the 'burrow' name (BTSNYC). Owner Ayako Kurokawa blends French + Japanese + American influences (NBK Times). Whole strawberry shortcakes by advance reservation. For Saturfun: surface as a 'weekday detour' callout or filter from weekend-active itineraries; pair with weekend-open DUMBO dessert candidates instead.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/burrow-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.behindthescenesnyc.com/burrow-pastry-shop-in-dumbo/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://nbktimes.com/en/food-and-drink/burrow/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.burrow.nyc/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:40:03.233Z"
+  },
+  {
+    "id": "fine-and-raw-chocolate-factory",
+    "name": "Fine & Raw Chocolate Factory",
+    "desc": "Bean-to-bar Brooklyn chocolate factory with chocolate cafe, bonbons, and machinery views (weekday-only).",
+    "longDesc": "Fine & Raw is an artisan bean-to-bar chocolate maker in East Williamsburg/Bushwick at 70 Scott Ave, producing organic, vegan-friendly bars, truffles, and bonbons. Their factory hosts a chocolate-themed cafe and gift shoppe with open-plan immersive views of treat-making machinery in action, and a $19 factory tasting tour pairing experience is available. Closed Saturdays, Sundays, and Mondays — useful for weekday or holiday-week Saturfun runs, not standard weekend tracks.",
+    "url": "https://www.fineandraw.com/pages/the-factory",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Closed Sat-Sun (Tue-Fri 9:30-17:00)",
+    "notes": "WEEKDAY-ONLY: closed Sat/Sun/Mon (fineandraw.com factory page). Address 70 Scott Ave, Brooklyn 11237 — technically Bushwick edge of East Williamsburg, ~5 min walk from Jefferson L. Bean-to-bar organic chocolate with vegan options; cafe overlooks production floor (ediblebrooklyn.com). $19 factory tasting + pairing tour bookable via pulsd. Private weekend viewings/tastings can be arranged by emailing goodtimes@fineandraw.com — possible workaround for Saturfun anchors. Industrial-zone street parking widely available on weekends.",
+    "sources": [
+      {
+        "url": "https://www.fineandraw.com/pages/the-factory",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/fine-and-raw-chocolate-factory-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.ediblebrooklyn.com/2022/bean-to-bar-to-bushwick-fine-raw-chocolate/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://pulsd.com/new-york/promotions/fine-and-raw-chocolate-factory-tour-tasting-experience-nyc",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T20:42:04.361Z"
   }
 ]
