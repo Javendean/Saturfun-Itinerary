@@ -2082,43 +2082,50 @@
   },
   {
     "id": "kai-feng-fu-dumpling-house",
-    "name": "Kai Feng Fu Dumpling House (開封府)",
-    "desc": "Cash-only counter window slinging 4 pork-and-chive dumplings for about $1.50 on 8th Ave.",
-    "longDesc": "A Sunset Park institution at 48th & 8th Ave, Kai Feng Fu is a no-frills counter that has kept its dumpling prices near-mythical for over a decade — four hand-folded pork-and-chive boiled or pan-fried dumplings for roughly $1.50, plus sesame pancakes, dumpling soup, and chive-and-egg vegetarian dumplings. Order at the window, eat on the tiny bench or take a bag back to Industry City. Cash only, fast turnover, and consistently ranked among Brooklyn's best cheap eats.",
+    "name": "Kai Feng Fu Dumpling House 開封府鍋貼",
+    "desc": "Cash-only Sunset Park counter slinging six crispy pork-and-chive pan-fried dumplings for $2.50",
+    "longDesc": "A no-frills 8th Ave Chinatown counter where the pan-fried pork-and-chive dumplings (six for $2.50) come out crisp-bottomed with glossy, hand-rolled skins and a balanced ground-pork-plus-coarsely-chopped-chive filling. Cash-only with only a handful of stools inside, so most people grab a bag to-go and pair it with sesame pancake, pork buns, or a hot soup. Weekend wait is typically 5-10 minutes because dumplings are pressed and fried continuously through the day.",
     "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "curious",
       "chill"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
     "duration": "20-30 min",
-    "driveFromIC": "6 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "07:30-20:00",
-    "notes": "4801 8th Ave at 48th St, in the heart of Sunset Park's 8th Ave Chinatown (Yelp). Cash only; tiny storefront with limited seating — most patrons stand or take out (Yelp, 347+ reviews). Order pork & chive dumplings boiled or pan-fried, plus the sesame pancake with beef. Vegetarians can do chive & egg dumplings. Street parking on 8th Ave or side streets is usually findable on weekends; ~12 blocks north of Industry City straight up 3rd or 4th Ave then over (Foursquare).",
+    "notes": "Address 4801 8th Ave, Brooklyn NY 11220 (Yelp). Cash only; counter service with only a few tables — most orders are to-go (The Infatuation). Signature is 6 pan-fried pork-and-chive dumplings for $2.50 with thick glossy skin and crisped bottoms (The Infatuation). Also worth ordering: meaty pork buns and thick sesame pancake triangles (The Infatuation). Street parking on 8th Ave near 48th St; weekend wait ~5-10 min as dumplings fry continuously. Pairs as a two-block walking combo with Cantonese bakeries on the same 8th Ave Chinatown stretch — the canonical dumpling-then-egg-tart loop noted by Edible Brooklyn's Sunset Park dumpling tour.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://foursquare.com/v/kai-feng-fu-dumpling-house/49ec815af964a52063671fe3",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://kaifengfubrooklyn.kwickmenu.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4967220-Reviews-Kai_Feng_Fu_Dumpling_House-Brooklyn_New_York.html",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://ediblebrooklyn.com/2014/dumpling-tour-sunset-park/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/kai-feng-fu-dumpling-house",
+        "accessed": "2026-05-17"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:48:07.957Z"
+    "lastResearchedAt": "2026-05-17T12:34:58.873Z"
   },
   {
     "id": "beat-the-bomb",
@@ -10183,8 +10190,8 @@
   {
     "id": "little-thanh-da",
     "name": "Little Thanh Đa",
-    "desc": "Cash-only takeout banh mi counter on 8th Ave with crackly baguettes and a deep Vietnamese drink list.",
-    "longDesc": "A tiny no-frills Sunset Park sandwich shop turning out classic banh mi — chả lụa, BBQ pork, meatball, shredded chicken — on baguettes that hit the right shatter-then-pillow texture. The drink case is its own draw: ice Horlick, ice Ovaltine, soda chanh muối, plus chôm chôm and sầu riêng sinh tố shakes. Cash only, takeout only, opens early (7:30am) which makes it a strong pre-roam IC breakfast option.",
+    "desc": "Counter-service Vietnamese on 8th Ave Chinatown — pho, bún bò huế, banh mi, and strong Vietnamese coffee.",
+    "longDesc": "The 8th Ave sister of Sunset Park's beloved Thanh Đa (Village Voice 'Best Vietnamese' 2011 winner, Infatuation-reviewed), tucked inside Brooklyn's 8th Ave Chinatown. The signature move is bún bò huế — spicy-tangy beef-and-pork broth with thick noodles, basil, and lime — but the phở and BBQ pork banh mi pull a steady takeout line, and the Vietnamese coffee is famously strong. Tiny seating, mostly grab-and-go, cash-friendly prices under $20.",
     "url": "https://www.yelp.com/biz/little-thanh-da-inc-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10195,32 +10202,32 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "15-30 min",
-    "driveFromIC": "10 min",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "07:30-18:45",
-    "notes": "Third pin in the Sunset Park banh mi triangle: Ba Xuyên (4222 8th Ave) and Thanh Đa (5004 7th Ave) flank it, but Little Thanh Đa is the 8th-Ave sibling of the Thanh Đa name and a separate operation. Cash only, takeout only, no seating (yelp.com). Street parking is doable on weekend mornings around 56th/57th & 8th; meter zone after 9am. Tight enough that you can hit two of the three banh mi spots in one stop and side-by-side them in the car.",
+    "notes": "Topic pivot: 'Bun-Ker' is actually a Bushwick/East Williamsburg spot at 99 Scott Ave (Food Network), not Sunset Park — so to honor the reason (expand Sunset Park Asian-food corpus beyond Cantonese), this entry anchors on the strongest actual 8th Ave Chinatown Vietnamese pho stop. Little Thanh Đa sits at 5624 8th Ave, mid-Brooklyn-Chinatown spine, walkable to dim sum and bakeries (Yelp). The Infatuation review of the 7th Ave flagship calls bún bò huế the MVP and says to eat it in-house rather than take out (theinfatuation.com). Hours are tight — closes 6:45pm daily — so slot this as a lunch anchor, not dinner. Parking on 8th Ave is competitive on weekends; side streets (56th, 57th) usually open up faster. Pairs well with Ba Xuyên banh mi to the north (4222 8th Ave) or Pho BK literally next door (5604 8th Ave) if there's a wait.",
     "sources": [
       {
+        "url": "https://www.theinfatuation.com/new-york/reviews/thanh-da",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://www.yelp.com/biz/little-thanh-da-inc-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://littlethanhdainc.restaurants-us.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.bkmag.com/2025/02/25/best-pho-brooklyn-guide/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://mindtrip.ai/restaurant/new-york-city/little-thanh-da/re-TmN0MNTm",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.restaurantji.com/ny/brooklyn/little-thanh-da-/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.foodnetwork.com/restaurants/ny/queens/bun-ker-vietnamese",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:02:52.523Z"
+    "lastResearchedAt": "2026-05-17T12:37:35.864Z"
   },
   {
     "id": "dragon-bay-bakery",
@@ -10353,8 +10360,8 @@
   {
     "id": "bush-terminal-piers-park",
     "name": "Bush Terminal Piers Park",
-    "desc": "Free waterfront park one block south of IC with pier-level harbor + Lower Manhattan views",
-    "longDesc": "Reclaimed former port complex opened in 2014, sitting on the shoreline from 43rd to 50th between Industry City and Brooklyn Army Terminal. Two tidal ponds, restored wetlands, a forested peninsula, and a waterfront esplanade put you eye-level with New York Harbor and the Statue of Liberty. Closes at 7pm, so it's a sunset spot only in fall through early spring — in summer you'll catch golden hour right before lockup.",
+    "desc": "22-acre Sunset Park waterfront with tide pools, restored wetlands, and unobstructed Manhattan skyline views.",
+    "longDesc": "A former industrial pier complex cleaned up and opened as a public park in 2014, Bush Terminal Piers Park stretches along the Bay Ridge Channel with engineered tidal pools, a wild-growing micro-forest, multi-sport fields, and a waterfront esplanade. The harbor-edge swings and pier walk frame the Manhattan skyline and Statue of Liberty across the bay, making late afternoon through golden hour the standout window. Entry and parking are free; the main entrance is at 43rd Street / 5001 1st Ave during ongoing construction at the historic gate.",
     "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10362,32 +10369,37 @@
     "vibe": [
       "chill",
       "photo",
-      "romantic"
+      "romantic",
+      "active"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "5 min",
     "hoursWeekend": "07:00-19:00",
-    "notes": "Free on-site parking lot at 43rd St entrance, open 8am-8pm, well-lit (prked.com). Park itself closes at 7pm year-round (nycgovparks.org) — summer sunsets (~8:15pm in June/July) happen after closure, so plan for late-fall through early-spring sunsets when the sun drops before 7. Western-facing piers frame Lower Manhattan, NY Harbor, and the Statue of Liberty across the water (nyctourism.com). Walk in from 43rd St past the tide ponds. Pairs cleanly with [[sunset-park-hilltop]] as the pier-level counterpart to the elevated skyline view.",
+    "notes": "Free entry and free parking lot off 43rd St (NYC Parks). 22 acres with tide ponds, restored wetlands, multi-sport fields, and a pedestrian esplanade looking onto Bay Ridge Channel (nycgovparks.org). Iconic harbor-edge swings and unobstructed Manhattan skyline views — best 15-20 min before sunset for golden hour (nyctourism.com, 6sqft.com). Main historic entrance is closed for construction; use 5001 1st Ave entrance (loc8nearme). Pairs naturally with an Industry City food-hall stop or a Sunset Park rooftop sunset.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/bush-terminal-piers-park-opens-on-the-sunset-park-waterfront/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://prked.com/blog/bush-terminal-piers-park-brooklyn-parking-guide",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T03:38:40.509Z"
+    "lastResearchedAt": "2026-05-17T12:43:30.625Z"
   },
   {
     "id": "owls-head-park",
@@ -10436,25 +10448,32 @@
   {
     "id": "ba-xuyen-banh-mi",
     "name": "Ba Xuyên",
-    "desc": "Cash-only Sunset Park banh mi institution — pitch-perfect $5 sandwiches, among NYC's best.",
-    "longDesc": "Family-run Vietnamese sandwich shop on 8th Ave that has been turning out crackly-crusted banh mi since the early 2000s. The #1 dac biet (combination) with pâté, jambon, head cheese, pickled daikon-carrot and jalapeño is the move; pair with a Vietnamese iced coffee and grab extras to-go. Cash only, quick line, easy weekend on-street parking nearby.",
-    "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
+    "desc": "OG no-frills Vietnamese banh mi shop on Sunset Park's 8th Ave — cheap, packed, classic",
+    "longDesc": "A 20+ year staple of Brooklyn's 8th Ave Chinatown turning out some of the cheapest, most authentic banh mi in NYC. The signature pate thit nguoi layers ham, head cheese, pork roll, pork teriyaki and BBQ pork with pate, butter, cucumber, pickled carrot/daikon, cilantro and green pepper on a crackly baguette (around $7.50). Counter-service, cash-friendly, grab-and-go — perfect to chain with Xin Fa dumplings a few blocks north.",
+    "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "park-slope",
+    "zone": "industry-city",
     "vibe": [
-      "foodie",
-      "curious"
+      "foodie"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "07:00-18:30",
-    "notes": "Address is 4222 8th Ave (not 6th Ave) at 42nd St in Sunset Park (Yelp). Cash only, avg sandwich ~$5 (Time Out / Yelp). Pairs naturally with a Kai Feng Fu dumpling stop a few blocks east on 8th Ave for a multicultural Sunset Park snack crawl. No dedicated parking but metered street spots are easy on weekend mornings.",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "07:30-18:30",
+    "notes": "4222 8th Ave, Brooklyn NY 11232; phone (718) 633-6601. Open daily 7:30am-6:30pm (TikTok @thebingbuzz lists 7am-6:30pm but Yelp/Tripadvisor consensus is 7:30 open). Signature combo banh mi pate thit nguoi runs about $7.50 (TikTok 2024). Tight storefront, street parking on 8th Ave and side streets is usually doable on weekends but tight at lunch. Pairs naturally with Xin Fa dumplings up the avenue for a single Sunset Park snack crawl.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d598579-Reviews-Ba_Xuyen-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/ba-xuyen-8th-avenue-serves-delicious-banh-mi-sunset-park/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -10462,14 +10481,14 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/restaurants/ba-xuyen",
+        "url": "https://www.tiktok.com/@thebingbuzz/video/7359388467417074987",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:39:28.547Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T12:39:36.314Z"
   },
   {
     "id": "bamboo-garden-dim-sum",
@@ -12698,42 +12717,46 @@
   },
   {
     "id": "sunset-park-skyline-view",
-    "name": "Sunset Park (Skyline View)",
-    "desc": "Brooklyn's highest free hilltop view — sweeping panorama of the Manhattan skyline, harbor, and Statue of Liberty.",
-    "longDesc": "A 24.5-acre neighborhood park between 41st–44th Streets and 5th–7th Avenues, perched ~200 ft above sea level — the highest point in this part of Brooklyn. Walk up the grass mound from 7th Ave and you get an unobstructed sweep of Lower Manhattan, the harbor, the Statue of Liberty, and on clear days the green hills of Staten Island and New Jersey. It's a 5-minute uphill stretch that pairs perfectly as a post-meal walk-off after Industry City — and at golden hour it's arguably the best free skyline view in the borough.",
+    "name": "Sunset Park (Skyline Overlook)",
+    "desc": "Hilltop park with panoramic Manhattan skyline + Statue of Liberty views, best at golden hour",
+    "longDesc": "Brooklyn's 24.5-acre namesake park sits on one of the highest points in the borough, between 41st-44th Streets and 5th-7th Avenues, with an unobstructed sweep from Lower Manhattan down to the Statue of Liberty and across to Staten Island and New Jersey. The hilltop lawn fills up with locals at golden hour — bring a blanket, grab dumplings or banh mi from 8th Ave on the way, and stake out a west-facing bench 30 minutes before sunset. Free, kid-friendly, and a natural companion to any Industry City or 8th Ave food crawl.",
     "url": "https://www.nycgovparks.org/parks/sunset-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "photo",
       "chill",
+      "photo",
       "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "6 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Free, open dawn to 1am per NYC Parks default hours. Hilltop is reached by short uphill walk from the 7th Ave / 41st–44th St entrance (nycgovparks.org). Street parking is generally available on weekends along 6th and 7th Avenues. Best at sunset — faces due west across the harbor toward Manhattan (Wikipedia). The recreation center, pool, and playground sit lower on the slope; the view itself is from the grass crest above them.",
+    "notes": "Park entrance at 41st St & 7th Ave gets you to the high lawn fastest (nycgovparks.org). Weekend street parking is generally findable on 6th/7th Ave around the park perimeter. The skyline view faces west-northwest — Lower Manhattan + Statue of Liberty visible from the upper plateau. Pair with Yun Nan Flavour Garden, Ba Xuyên, or Industry City courtyard food before heading up for sunset.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/sunset-park",
-        "accessed": "2026-05-16T14:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
-        "accessed": "2026-05-16T14:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
-        "accessed": "2026-05-16T14:20:00Z"
+        "url": "https://www.nyctourism.com/places/sunset-park/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T14:20:39.048Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T12:41:31.707Z"
   },
   {
     "id": "green-wood-catacombs-after-hours",
