@@ -15798,45 +15798,53 @@
   {
     "id": "the-long-island-bar",
     "name": "The Long Island Bar",
-    "desc": "1951 Cobble Hill corner diner-bar slinging the city's best martini, a double-patty burger and cheese curds.",
-    "longDesc": "A Cobble Hill landmark since 1951, reinvented in 2013 by Toby Cecchini (inventor of the modern Cosmo) and Joel Tompkins — original neon, leather booths and Formica intact. The kitchen punches well above bar-food weight: the dry-aged LI Burger ($22), fried cheese curds with French onion dip, deviled eggs and shrimp cocktail are the order, paired with the precise $20 'A Martini' (Hepple gin, Dassai 50 sake, Lustau blanco vermouth). Walk-in only and famously busy, so arrive at the 2pm weekend open or after 9:30pm to slide in.",
+    "desc": "1951 neon-fronted Cobble Hill corner bar with a top-tier cheeseburger and Toby Cecchini cocktails",
+    "longDesc": "Originally opened in 1951 and reborn in 2013 under Toby Cecchini (the bartender credited with codifying the Cosmopolitan) and Joel Tompkins, The Long Island Bar is a Cobble Hill landmark on the Atlantic & Henry corner with its giant vintage neon sign intact. The kitchen turns out one of New York's most-praised cheeseburgers alongside a famously addictive bar nut mix, while the drinks list keeps things classic — gimlets, martinis, daiquiris — at fair-for-the-craft prices. It's the late-night dinner-and-drinks anchor of the neighborhood, won VinePair's Industry Icon of the Year in 2023, and stays unfussy enough to walk into without a reservation if you time it right.",
     "url": "https://www.thelongislandbar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
       "chill",
-      "romantic",
-      "foodie"
+      "foodie",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "90-120 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "Sat-Sun 14:00-00:00",
-    "notes": "Correction to brief: walk-in only, does NOT take Resy (theinfatuation.com, thelongislandbar.com) — strategy is to arrive at 2pm Sat/Sun open or after 9:30pm for the second wave. 110 Atlantic Ave at Henry St, technically the Cobble Hill / Brooklyn Heights border. No dedicated parking but Atlantic Ave + side streets (Henry, Hicks, Pacific) have free Sat/Sun metered/residential parking. Closed Mondays. Menu has no formal steak frites — closest is the double-patty LI Burger w/ fries ($22) or a bowl of fries ($10) à la carte. Best martini in NYC per Punch + Eater consensus; the 'A Martini' uses Junmai Daiginjo sake in place of vermouth-water dilution.",
+    "duration": "1.5-2 hr",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat-Sun 14:00-24:00",
+    "notes": "Address: 110 Atlantic Ave, Brooklyn, NY 11201 — corner of Atlantic & Henry (Yelp/Apple Maps). Closed Mondays; Tue-Fri 17:00-24:00; Sat-Sun opens early at 14:00, which is the parking sweet spot. Owners are Toby Cecchini + Joel Tompkins (NOT Sohui Kim — brief was incorrect; Kim's restaurants are Gage & Tollner, Insa, The Good Fork). Cheeseburger and nut mix are the canonical orders; cocktails skew classic-spec. VinePair 2023 Next Wave 'Industry Icon of the Year' (vinepair.com). Weekend parking: metered street parking on Atlantic/Henry/Clinton is enforced Sat until 19:00 and free Sunday; arriving at 14:00 open is usually walkable. No reservations for the bar; small dining-room reservations via site.",
     "sources": [
       {
-        "url": "https://www.thelongislandbar.com/menus",
-        "accessed": "2026-05-17T16:15:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/the-long-island-bar",
-        "accessed": "2026-05-17T16:15:00Z"
+        "url": "https://www.thelongislandbar.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-long-island-bar-brooklyn",
-        "accessed": "2026-05-17T16:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/the-long-island-bar",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://vinepair.com/articles/2023-next-wave-long-island-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.ediblebrooklyn.com/2014/long-island-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/nightlife/the-long-island-bar/",
-        "accessed": "2026-05-17T16:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T16:19:00.616Z"
+    "lastResearchedAt": "2026-05-17T22:08:31.517Z"
   },
   {
     "id": "donna-williamsburg",
@@ -18366,15 +18374,16 @@
   },
   {
     "id": "leyenda-carroll-gardens",
-    "name": "Leyenda (PERMANENTLY CLOSED)",
-    "desc": "CLOSED Mar 2025 — Ivy Mix's pan-Latin mezcal/agave bar on Smith St; do not route guests here.",
-    "longDesc": "Leyenda was a James Beard-recognized pan-Latin cocktail bar at 221 Smith St, Carroll Gardens, opened in 2015 by Ivy Mix and Julie Reiner and celebrated for its deep mezcal, tequila and rum program. It shuttered at the end of March 2025, just shy of its 10th anniversary, citing the need for a larger space; no new location has been announced as of May 2026. The leyendabk.com site still displays legacy hours and the OpenTable page is stale, so this entry exists only to prevent the corpus from accidentally promoting a closed venue.",
+    "name": "Leyenda",
+    "desc": "Julie Reiner & Ivy Mix's pan-Latin agave cocktail bar on Smith Street with mezcal, tequila & Sue Torres bites.",
+    "longDesc": "Co-owned by cocktail doyenne Julie Reiner (Clover Club) and James Beard-recognized bartender Ivy Mix, Leyenda is a pan-Latin temple to agave spirits — mezcal, tequila, rum, cachaça and pisco — paired with chef Sue Torres's ceviche, picadillo tacos and pupusas. The 12-seat bar and 50-seat church-pew dining room sit directly across Smith Street from Clover Club, anchoring Carroll Gardens' cocktail block. Saturday opens at 1pm so it slots cleanly into a daytime Brooklyn drive itinerary.",
     "url": "https://leyendabk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
       "romantic",
+      "foodie",
       "curious"
     ],
     "dietary": [
@@ -18383,38 +18392,30 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "PERMANENTLY CLOSED (March 2025)",
-    "notes": "DO NOT PROMOTE. Closed end of March 2025 after ~10 years (Time Out NY, 2025-02-06; The Spirits Business, 2025-02; Drinks International, 2025). Ivy Mix's current Brooklyn project is Whoopsie Daisy wine bar in Crown Heights. Official site and OpenTable listing remain online but are stale — Yelp correctly flags 'CLOSED'. Address was 221 Smith St, Brooklyn NY 11201; pre-closure: M-Th 5p-12a, F 5p-1a, Sa 1p-1a, Su 1p-12a. ~12 min drive from Industry City via Hamilton Ave/3rd Ave (off-peak). Use enqueued alternatives for the 'late-night craft cocktail closer to IC than Brooklyn Heights' slot.",
+    "hoursWeekend": "Sat 13:00-01:00, Sun 13:00-00:00",
+    "notes": "221 Smith St, Brooklyn NY 11201; phone (347) 987-3260. Sister bar to Clover Club directly across the street (leyendabk.com). Ivy Mix is a James Beard Outstanding Bar nominee/winner and author of Spirits of Latin America (nyctourism.com). Spirit focus on agave — mezcal/tequila — plus rum, cachaça, pisco (nyctourism.com). Has outdoor patio, ~50 table seats incl. church-pew banquette (nyctourism.com). NYC Tourism lists $$$ but cocktail menu averages ~$15 putting it at $$ in Saturfun bands. Note: Yelp page currently mislabels Leyenda as 'CLOSED' but the official site lists active 2026 hours and recent Instagram activity confirms operating — treat Yelp tag as stale (yelp.com vs leyendabk.com).",
     "sources": [
       {
-        "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.thespiritsbusiness.com/2025/02/brooklyn-bar-leyenda-to-close/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://drinksint.com/news/fullstory.php/aid/11588/Brooklyn_92s_Leyenda_to_close_at_the_end_of_March.html",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/leyenda-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://leyendabk.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:05:00Z"
       },
       {
-        "url": "https://www.leyendabk.com/contact",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.nyctourism.com/nightlife/leyenda-carroll-gardens/",
+        "accessed": "2026-05-17T22:05:00Z"
+      },
+      {
+        "url": "https://chilledmagazine.com/julie-reiner-and-ivy-mix-open-leyenda-cocktail-bar/",
+        "accessed": "2026-05-17T22:05:00Z"
+      },
+      {
+        "url": "https://www.theworlds50best.com/discovery/Establishments/US/New-York/Leyenda.html",
+        "accessed": "2026-05-17T22:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T21:59:43.065Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T22:01:57.740Z"
   },
   {
     "id": "four-horsemen",
@@ -34176,5 +34177,139 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T21:42:33.199Z"
+  },
+  {
+    "id": "mesa-coyoacan",
+    "name": "Mesa Coyoacan",
+    "desc": "Rustic Williamsburg Mexican with a Michelin-listed mezcal/tequila bar and weekend brunch on Graham Ave.",
+    "longDesc": "Chef Ivan Garcia's warm, candle-lit room at 372 Graham Ave has been Williamsburg's go-to for traditional Mexican since 2009 — overstuffed tacos, chiles en nogada, green enchiladas with Oaxaca cheese, and a huge house-infused tequila and mezcal list that's earned Michelin Guide recognition as a top agave bar. Weekend brunch (Sat-Sun from noon) adds huevos rancheros and tortas alongside the regular dinner menu. Sits on the East Williamsburg side of Graham, where weekend street parking is realistic — unlike the Bedford/N6 corridor.",
+    "url": "https://www.mesacoyoacan.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "12:00-22:00",
+    "notes": "Saturday hours actually run 12:00-23:00; Sunday closes at 22:00 (mesacoyoacan.com). Weekend brunch 12:00-17:00 with full dinner menu picking up after (mesacoyoacan.com/brunchmenu). Address 372 Graham Ave, Brooklyn NY 11211 — eastern Williamsburg/Italian Williamsburg side; metered + residential parking generally available on weekends, much easier than Bedford corridor. Direct replacement for the closed Donna slot: same Williamsburg agave/cocktail anchor function at a $$ band instead of $$$, with food strong enough to be the closing dinner stop. Yelp 850+ reviews, 4-star (yelp.com/biz/mesa-coyoacan-brooklyn). Listed in Michelin Guide as tequila/mezcal bar (finedininglovers.com). Reservations via OpenTable recommended for Sat night (opentable.com/r/mesa-coyoacan-brooklyn).",
+    "sources": [
+      {
+        "url": "https://www.mesacoyoacan.com/",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.mesacoyoacan.com/menu",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.mesacoyoacan.com/brunchmenu",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mesa-coyoacan-brooklyn",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/mesa-coyoacan-brooklyn",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.finedininglovers.com/restaurants/mesa-coyoacan",
+        "accessed": "2026-05-17T22:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:03:56.130Z"
+  },
+  {
+    "id": "casa-publica-williamsburg",
+    "name": "Casa Pública",
+    "desc": "Mexico City–inspired cantina in South Williamsburg with a serious tequila and mezcal bar program.",
+    "longDesc": "Casa Pública sits on the corner of Union Ave and South 2nd, with clay-tile floors, arched brick doorways, and a mosaic mural of corn being hand-ground that channels a CDMX hacienda (Time Out). The bar leans hard on agave — large-format tequila cocktails (including a $48 'Dirty Dancing'-named pour) and a deep mezcal list curated by beverage director Meaghan Montagano (ex-Extra Fancy, La Sirena) pair with tacos, guacamole, and mole. Saturday opens at 10am, so it works as a long brunch+drinks stop or a late agave nightcap on the drive back from a Williamsburg track.",
+    "url": "https://www.casapublicabk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 10:00-22:00, Sun 10:00-21:00",
+    "notes": "594 Union Ave at South 2nd, Brooklyn 11211 (casapublicabk.com). Tequila is treated as a food group — large-format agave cocktails and mezcal flights anchor the bar (timeout.com). Multi-room space with floor-to-ceiling windows and imported tile, comfortable for a leisurely seated session rather than standing-room drinks. Street parking in South Williamsburg is realistic on weekends, especially before the dinner rush. Pairs well with a late-afternoon Domino Park walk or a Smorgasburg pivot.",
+    "sources": [
+      {
+        "url": "https://www.casapublicabk.com/",
+        "accessed": "2026-05-17T22:10:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/casa-publica",
+        "accessed": "2026-05-17T22:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T22:06:12.392Z"
+  },
+  {
+    "id": "clover-hill-closed",
+    "name": "Clover Hill (CLOSED)",
+    "desc": "Former Michelin-starred 7-course tasting counter in Brooklyn Heights — permanently closed in 2025",
+    "longDesc": "Clover Hill was an intimate 22-seat tasting-menu restaurant at 20 Columbia Pl that earned a Michelin star under chef Charlie Mitchell (first Black chef in NY State to do so) and later continued under chef Sam Rogers with a 7-course menu around $135 plus $95 pairing. After a roughly 3.5-year run it permanently shuttered; do not route guests here.",
+    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/clover-hill",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "2-2.5 hr",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "PERMANENTLY CLOSED — exclude from active itineraries. Three-and-a-half-year run ended in 2025 per Court Street Journal closure piece (https://www.courtstreetjournal.com/p/clover-hill-closes-leaving-a-lasting). Yelp listing also marks it CLOSED (https://www.yelp.com/biz/clover-hill-brooklyn). Kept for archival/context only. Original concept: French technique + New American with Latin accents under Sam Rogers post-2024, 7 courses ~$135, optional pairing ~$95 (Resy primer, https://blog.resy.com/2022/03/everything-you-need-to-know-about-clover-hill-in-brooklyn-heights/). For the higher-end Brooklyn Heights / near-IC dinner slot, route to Gage & Tollner, The River Café, or Francie instead (see enqueue).",
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/clover-hill",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.courtstreetjournal.com/p/clover-hill-closes-leaving-a-lasting",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/clover-hill-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2022/03/everything-you-need-to-know-about-clover-hill-in-brooklyn-heights/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:10:48.428Z"
   }
 ]
