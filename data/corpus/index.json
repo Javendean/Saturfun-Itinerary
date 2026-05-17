@@ -6040,25 +6040,25 @@
   {
     "id": "twenty-sided-store",
     "name": "Twenty Sided Store",
-    "desc": "Williamsburg's curated board-game and tabletop RPG shop with weekend D&D and Magic events.",
-    "longDesc": "A retail-meets-event-space hub at 280 Grand Street stocking the largest curated board-game selection in NYC, from indie designers to Magic: the Gathering and authorized D&D inventory. Weekends bring drop-in Magic drafts, organized D&D play, mini-painting classes, and worldbuilding workshops. Open daily 12-7pm — easy to slot in as a 30-45 min browse or a multi-hour event stop.",
+    "desc": "Williamsburg's flagship indie game shop — board games, MTG, D&D, plus in-store play and weekend events.",
+    "longDesc": "Curated game store at 280 Grand St specializing in board games, Magic: The Gathering, and TTRPGs, with in-store events for D&D, MTG, and a wide board-game rotation (source: twentysidedstore.com/pages/faq). Open noon–7pm every day — short and tight, so plan the visit as a 45–75 min stop after lunch (source: twentysidedstore.com/pages/contact). Pair with the 456 Grand St garage two blocks east: it's the cleanest weekend park-and-walk for this stretch of Grand, since the store itself only has street parking (source: Yelp/Loc8NearMe).",
     "url": "https://twentysidedstore.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "30-45 min",
+    "duration": "45-75 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "12:00-19:00",
-    "notes": "280 Grand St, Brooklyn NY 11211; open 7 days 12-7pm (twentysidedstore.com/pages/faq). Authorized D&D and Magic dealer with weekend tournaments, RPG one-shots, mini-painting and improv classes (twentysidedstore.com/collections/events). Curbside parking on Grand and nearby side streets is realistic on weekends; closest paid garage is the Williamsburg Hotel area. Free RPG Day announced for 2026-06-27 (twentysidedstore.com). For the IC cluster: works as a 30-45 min curio stop between food and drinks in the Williamsburg track; upgrade to 2-3 hr if joining a scheduled event.",
+    "notes": "Anchor venue for the 456 Grand garage walkthrough — garage sits ~2 blocks east at 456 Grand St, store at 280 Grand St, so a 5-minute walk west covers it. No formal board-game library confirmed on site (FAQ silent), but staff host open play and scheduled events; email info@twentysidedstore.com to confirm any drop-in play that day. Hours are 12–7p everyday including weekends (source: twentysidedstore.com/pages/contact, accessed 2026-05-17). 280 Grand St, Brooklyn NY 11211, 718-963-1578.",
     "sources": [
       {
-        "url": "https://twentysidedstore.com/",
+        "url": "https://twentysidedstore.com/pages/contact",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -6066,22 +6066,18 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://twentysidedstore.com/pages/about-us",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://twentysidedstore.com/collections/events",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/twenty-sided-store-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/shopping/twenty-sided-store/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T09:10:34.278Z"
+    "lastResearchedAt": "2026-05-17T09:37:56.319Z"
   },
   {
     "id": "levant-on-smith",
@@ -11542,27 +11538,28 @@
   {
     "id": "brooklyn-strategist",
     "name": "The Brooklyn Strategist",
-    "desc": "Carroll Gardens board game cafe with a 1,000+ title library, BYOB nights, and walk-in or reserved tables",
-    "longDesc": "Hex & Co.'s closest Brooklyn analog: a Carroll Gardens cafe + game library at 333 Court St with over 1,000 board and card games on open shelves, table service, and a BYOB-friendly adult evening format on weekends. Day-of-game admission gets you the full library and house staff who'll teach a rules-heavy pick; reserve ahead for groups of 4+ on Saturday nights because the floor fills fast. Bring a bottle, order coffee or snacks, post up for 2-3 hours.",
-    "url": "https://thebrooklynstrategist.com/",
+    "desc": "Carroll Gardens board game café with 500+ games, BYOB at night, $15 for 4 hrs of play.",
+    "longDesc": "Hex & Co has no Brooklyn location, but The Brooklyn Strategist is the borough's closest equivalent: a Court Street game hub with 500+ titles, French-press coffee, tea, old-fashioned sodas, cookies and snacks, plus a BYOB policy after the kids' programs wrap. Generous four-hour table sessions for $15 make it an easy drop-in stop between Carroll Gardens dining (Buttermilk Channel, Frankies 457) and an Industry City drive home.",
+    "url": "https://www.thebrooklynstrategist.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
+      "curious",
       "chill",
-      "curious"
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "11 min",
-    "hoursWeekend": "Sat 09:00-23:00, Sun 09:00-20:00",
-    "notes": "Hex & Co. itself is Manhattan-only (Morningside Heights / UES / Union Square) — The Brooklyn Strategist is their Brooklyn-side counterpart and the right within-radius comparator (timeout.com, yelp.com). BYOB on game nights; walk-ins accepted but Saturday-night reservations strongly recommended for tables of 4+ (parkslopeparents.com). Court St has street parking with light Saturday turnover; metered until 19:00. Pairs well with a Smith St dinner stop afterward.",
+    "priceBand": "$",
+    "duration": "2-4 hr",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 10:00-23:00, Sun 10:00-20:00",
+    "notes": "Routed here because Hex & Co (the originally requested chain) operates only in Manhattan: 2911 Broadway, 1462 1st Ave, 801 Broadway (hexnyc.com). The Brooklyn Strategist at 333 Court St between Union & Sackett is the Brooklyn-side analog — board game café with food/drink, BYOB nights for adults, after-school kids programming by day (Untapped Cities; Time Out NY). Free street parking is realistic on Court St weekends. $15 covers four hours of unlimited play (brokelyn.com). Pairs naturally with a romantic dinner at Frankies 457 Spuntino or Buttermilk Channel for a Carroll Gardens evening track.",
     "sources": [
       {
-        "url": "https://thebrooklynstrategist.com/",
+        "url": "https://www.hexnyc.com/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -11570,22 +11567,26 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
+        "url": "https://www.untappedcities.com/the-brooklyn-strategist-is-a-combination-board-gamecoffee-shop-in-carroll-gardens-queens/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://www.timeout.com/newyork/things-to-do/brooklyn-strategist-1",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/things-to-do/board-game-cafes-to-play-catan-and-dnd-in-nyc",
+        "url": "https://brokelyn.com/brooklyn-strategist-opens-on-court-street/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.hexnyc.com/",
+        "url": "https://www.nyctourism.com/shopping/the-brooklyn-strategist-carroll-gardens/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T09:26:49.156Z"
+    "lastResearchedAt": "2026-05-17T09:35:58.924Z"
   },
   {
     "id": "hex-and-company-union-square",
@@ -11724,8 +11725,8 @@
   {
     "id": "the-brooklyn-strategist",
     "name": "The Brooklyn Strategist",
-    "desc": "1,000+ board games, $15 walk-in play, full cafe — relocated 2025 to Brooklyn Heights from Carroll Gardens",
-    "longDesc": "Jon Freeman's beloved board-game cafe moved in 2025 from 333 Court St in Carroll Gardens to a larger space at 148 Pierrepont St in Brooklyn Heights, citing a steep rent hike (Brooklyn Eagle). The new location at the base of One Pierrepont Plaza offers a 1,000+ game library, tables sized for 2-8 players, a full cafe with hot food, and private gaming rooms. Walk-in play is $15/person; reservations available 24+ hours ahead, and Saturday's 7-11pm 'Games with Strangers' meetup is a low-friction way to drop in solo.",
+    "desc": "Board game café with 1000+ titles, $15 walk-in play, full cafe with hot food & drinks.",
+    "longDesc": "A community board game café and store stocking over 1,000 board and card games for walk-in play at $15/person. Recently relocated from Carroll Gardens (333 Court St) to a larger Brooklyn Heights space at 148 Pierrepont St with a full cafe serving hot food, coffee, and snacks. Open until 11pm on weekends and hosts a 'Games with Strangers' meetup Saturday nights 7–11pm — a great late-anchor or rainy-day swap for tabletop-curious tracks.",
     "url": "https://thebrooklynstrategist.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -11734,30 +11735,36 @@
       "chill",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
-    "duration": "2-4 hr",
+    "duration": "90-120 min",
     "driveFromIC": "13 min",
-    "hoursWeekend": "09:00-23:00",
-    "notes": "Important corpus update: venue is no longer in Carroll Gardens — relocated 2025 to 148 Pierrepont St, Brooklyn Heights (Brooklyn Eagle). Closer to IC than Twenty Sided Store (Park Slope/Prospect Heights). Weekend street parking in Brooklyn Heights is muni-meter, tight on Saturdays; nearby Pierrepont Plaza garage is the reliable option. $15 buys ~4 hr of play. Saturday 'Games with Strangers' 7-11pm pairs well with an early Atlantic Ave / Cobble Hill dinner.",
+    "hoursWeekend": "Sat 09:00-23:00, Sun 09:00-23:00",
+    "notes": "Relocated from 333 Court St, Carroll Gardens to 148 Pierrepont St, Brooklyn Heights (new flagship location, official site confirms address). Walk-in play is $15/person, library of 1000+ games, full cafe with hot food & drinks (thebrooklynstrategist.com). Saturday 'Games with Strangers' meetup 7-11pm is a strong late-evening tabletop social anchor. Reservations recommended 24+ hours ahead by phone (718-576-3035). Tripadvisor and Untapped Cities historically referenced the Carroll Gardens address — flag this for any older itinerary data. Drive from IC via Gowanus Expy/BQE typically 12-15 min on weekends; metered street parking on Pierrepont/Henry plus several Brooklyn Heights garages within 2-3 blocks.",
     "sources": [
       {
         "url": "https://thebrooklynstrategist.com/",
-        "accessed": "2026-05-16T13:10:00Z"
-      },
-      {
-        "url": "https://brooklyneagle.com/356971/carroll-gardens-game-store-moving-to-brooklyn-heights/",
-        "accessed": "2026-05-16T13:10:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-brooklyn-strategist-brooklyn",
-        "accessed": "2026-05-16T13:10:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.untappedcities.com/the-brooklyn-strategist-is-a-combination-board-gamecoffee-shop-in-carroll-gardens-queens/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgeparents.com/where-to-play-in-brooklyn-board-games/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T13:14:05.816Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T09:31:21.905Z"
   },
   {
     "id": "kings-games-midwood",
@@ -26087,5 +26094,42 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T09:28:55.261Z"
+  },
+  {
+    "id": "littleman-parking-262-s-4th",
+    "name": "LittleMan Parking — 262 S. 4th St. Garage",
+    "desc": "24/7 valet garage in South Williamsburg, ~0.2 mi from Grand St — solid fallback when 456 Grand sells out.",
+    "longDesc": "LittleMan-operated indoor garage at 262 S. 4th Street (between Roebling and Havemeyer), about a 3-minute walk to the Grand St / North Williamsburg dining strip. Open 24/7 with valet service; bookable via ParkWhiz, BestParking, and SpotHero. Use as a backup when the nearby 456 Grand garage shows sold-out weekend inventory.",
+    "url": "https://www.parkwhiz.com/p/brooklyn-parking/262-s-4th-st/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "drop-off",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "Open 24/7",
+    "notes": "Valet, indoor, 24/7 access (ParkWhiz). Published reference daily rate ~$16 (BestParking aggregator) but weekend prepay rates on ParkWhiz/SpotHero vary by arrival/departure window — check live booking before relying on a number. Distance to Grand St spine: ~0.2 mi / 4 min walk via S. 4th → Havemeyer → Grand.",
+    "sources": [
+      {
+        "url": "https://www.parkwhiz.com/p/brooklyn-parking/262-s-4th-st/?monthly=1&view=list",
+        "accessed": "2026-05-17T09:30:00Z"
+      },
+      {
+        "url": "https://littlemanparking.com/",
+        "accessed": "2026-05-17T09:30:00Z"
+      },
+      {
+        "url": "https://www.bestparking.com/brooklyn-ny-parking/neighborhoods/williamsburg-parking/",
+        "accessed": "2026-05-17T09:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T09:40:03.097Z"
   }
 ]
