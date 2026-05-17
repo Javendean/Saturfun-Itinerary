@@ -24442,5 +24442,231 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T06:35:52.261Z"
+  },
+  {
+    "id": "empire-stores-rooftop",
+    "name": "Empire Stores Rooftop (Time Out Market DUMBO)",
+    "desc": "Free 5th-floor public deck with Brooklyn Bridge and Manhattan skyline views above DUMBO's food hall",
+    "longDesc": "Above Time Out Market on the 5th floor of the restored Empire Stores warehouse, this open-air rooftop deck stares straight at the Brooklyn Bridge, Manhattan Bridge, and lower Manhattan skyline across the East River. No purchase required — walk up the outside stairs or take one of two elevators (one inside the Empire Stores lobby, one off the East River entrance). It is a 90-second walk from Jacques Torres Chocolate, making it the natural anchor for a DUMBO photo loop.",
+    "url": "https://www.timeout.com/time-out-market-new-york/how-to-get-here",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "08:00-23:00 Sat, 08:00-22:00 Sun",
+    "notes": "Rooftop is free to enter during Time Out Market hours — you do not need to order food to access the deck (freetoursbyfoot). Two elevators plus an exterior staircase reach the 5th floor; the East River-facing elevator is the fastest from the waterfront promenade (timeoutmarket). Arrive early on weekends for railing spots facing the Manhattan Bridge; late-afternoon and golden-hour light are strongest. Some after-hours rooftop bar events are 21+ and may require RSVP, but daytime access is unrestricted. Park at the Brooklyn Bridge Park lot off Old Dock St rather than circling Water St.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/time-out-market-new-york/how-to-get-here",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://freetoursbyfoot.com/things-to-do-dumbo/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/empire-stores/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:38:05.651Z"
+  },
+  {
+    "id": "westville-dumbo",
+    "name": "Westville DUMBO",
+    "desc": "Vegetable-forward neighborhood American with weekend brunch — pick-4 Market Plate is the move.",
+    "longDesc": "DUMBO outpost of the Westville mini-chain, beloved for its $18 Market Plate that lets you build a meal from 24+ rotating seasonal vegetable sides — a rare $$ sit-down where vegetarians, vegans, and GF guests get equal billing alongside burgers and pancakes. Weekend brunch starts at 10am with eggs, classics, and Spicy Watermelon Margaritas ($15), and the room stays calmer than the Time Out Market scrum a block away. Generous portions, reservations on OpenTable, indoor + outdoor seating.",
+    "url": "https://westville.com/locations/westville-dumbo/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "10:00-16:00, 17:00-22:00",
+    "notes": "Address is 81 Washington St (corner of Water St), not Water St proper (Yelp). Market Plate = pick 4 vegetable sides for $18, a standout value vs DUMBO norms — one reviewer flagged it as 'some of the best prices we have encountered in NY' vs the typical $23+ entrees (Tripadvisor). Weekend brunch service is reportedly fast (Tripadvisor). Reservations via OpenTable. Street parking in DUMBO is rough on weekends — use the lot at 55 Water St or the garage under Brooklyn Bridge Park Pier 1.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/westville-dumbo-brooklyn-3",
+        "accessed": "2026-05-17T06:40:00Z"
+      },
+      {
+        "url": "https://westville.com/locations/westville-dumbo/",
+        "accessed": "2026-05-17T06:40:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/westville-dumbo-brooklyn",
+        "accessed": "2026-05-17T06:40:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d12201736-Reviews-Westville_Dumbo-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T06:40:00Z"
+      },
+      {
+        "url": "https://westville.com/menu/brunch/",
+        "accessed": "2026-05-17T06:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:40:25.733Z"
+  },
+  {
+    "id": "the-river-cafe",
+    "name": "The River Café",
+    "desc": "Michelin-starred waterfront fine dining beneath the Brooklyn Bridge with full Manhattan skyline views.",
+    "longDesc": "Open since 1977 on a barge moored at the foot of the Brooklyn Bridge, The River Café pairs Chef Brad Steelman's seasonal New American prix fixe with one of the most cinematic skyline views in NYC and live piano from longtime resident pianist Dom Salvador. Dinner-only Wed-Sun with a strict dress code — jackets required for gentlemen, no jeans, sneakers, or sandals. Reservations are essential and parties of 5+ must book by phone; valet meets cars at the bottom of the cobblestone driveway.",
+    "url": "https://rivercafe.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 17:00-23:00, Sun 17:00-22:00",
+    "notes": "Michelin-starred New American prix fixe (rivercafe.com); dinner-only Wed-Sun, closed Mon-Tue (opentable.com). Strict dress code: jackets required for gentlemen, ties preferred, no jeans/athletic wear/sandals (rivercafe.com). Valet at the cobblestone driveway entrance — tell the driver to go all the way down to the front door (rivercafe.com). 1 Water St, Brooklyn 11201; 718-522-5200. Iconic proposal/anniversary venue; pair with a Brooklyn Bridge Park walk before the 5:00pm seating for golden-hour photos.",
+    "sources": [
+      {
+        "url": "https://rivercafe.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://rivercafe.com/reservations/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/the-river-cafe",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_River_Caf%C3%A9_(Brooklyn)",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:42:40.833Z"
+  },
+  {
+    "id": "celestine-dumbo",
+    "name": "Celestine",
+    "desc": "Mediterranean waterfront restaurant on John St in DUMBO with Manhattan Bridge skyline views",
+    "longDesc": "Celestine sits at 1 John St directly on the East River waterfront, serving Mediterranean coastal mezze (labneh, za'atar flatbread, lamb skewers, lobster tagliatelle, branzino) with sweeping views of both the Manhattan and Brooklyn bridges. The patio is the draw — wide sit-down outdoor seating below the Manhattan Bridge with vegetarian-friendly menu and a strong brunch service. Weekend brunch (11am-3pm Sat/Sun) and dinner (5:15-10pm) make it a flexible Cecconi's alternative; Resy reservations strongly recommended.",
+    "url": "https://www.celestinebk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "11:00-15:00, 17:15-22:00",
+    "notes": "Waterfront patio with Manhattan + Brooklyn Bridge views; Mediterranean mezze, lamb skewers, lobster tagliatelle, branzino (celestinebk.com). Weekend brunch 11-3, dinner 5:15-10 — busiest service, reserve via Resy (opentable.com/r/celestine-brooklyn). DUMBO street parking is tight on weekends; SpotHero garages on Pearl/Front recommended (spothero.com/destination/nyc/dumbo-parking). Adjacent skyline-view backup to Cecconi's when fully booked.",
+    "sources": [
+      {
+        "url": "https://www.celestinebk.com/",
+        "accessed": "2026-05-17T06:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/celestine-brooklyn",
+        "accessed": "2026-05-17T06:40:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/celestine",
+        "accessed": "2026-05-17T06:40:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/celestine-brooklyn",
+        "accessed": "2026-05-17T06:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T06:44:38.203Z"
+  },
+  {
+    "id": "squibb-park-bridge",
+    "name": "Squibb Park Bridge",
+    "desc": "Zig-zag steel footbridge linking Pier 1 to Brooklyn Heights Promenade — free photo loop with harbor views",
+    "longDesc": "A 450-ft pedestrian-only bridge that zigzags from the Greenway at Pier 1 up to Squibb Park in Brooklyn Heights, connecting straight to the Promenade. The 2020 steel rebuild by Arup replaced the original timber bridge — note: contrary to popular memory it is intentionally NOT bouncy anymore, but the zig-zag geometry still frames perfect skyline + Brooklyn Bridge shots at each switchback. A free 15-20 min loop that pairs cleanly with a Pier 1 sunset stop.",
+    "url": "https://brooklynbridgepark.org/places-to-see/squibb-park-bridge/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "photo",
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "08:00-22:00",
+    "notes": "Pedestrian + bike entry only — leave the car at the Pier 1/Old Fulton garage and walk in (brooklynbridgepark.org). Closes during winter weather until snow/ice is cleared. Heads-up: the 'bouncy bridge' legend is outdated — the original wood bridge (2013) was demolished in 2019 because of excessive bounce/timber rot; the current steel replacement opened May 4, 2020 and is rigid by design (en.wikipedia.org/wiki/Squibb_Park_Bridge, 6sqft.com). Walking IC → Pier 1 → up Squibb Bridge → Promenade → back down via Old Fulton makes a tight 60-min sunset loop without re-parking.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/squibb-park-bridge/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Squibb_Park_Bridge",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/brooklyn-bridge-parks-rebuilt-squibb-bridge-will-reopen/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T06:46:30.761Z"
   }
 ]
