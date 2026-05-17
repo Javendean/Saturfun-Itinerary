@@ -9779,9 +9779,9 @@
   {
     "id": "bklyn-clay-prospect-heights",
     "name": "BKLYN CLAY (Prospect Heights)",
-    "desc": "Drop-in wheel-throwing TryDay Night — 2hr beginner session at a large, well-equipped ceramics studio.",
-    "longDesc": "BKLYN CLAY's Prospect Heights flagship at 535 Carlton Ave runs $85, 2-hour TryDay Night beginner wheel-throwing classes (capacity 12, ages 7+, BYO/onsite beer & wine) plus longer Saturday handbuilding workshops 10am–3pm. Instruction-led, no finished take-home piece for TryDay — you trade the keepsake for a relaxed, no-commitment intro at a larger studio than Gowanus' Gasworks. Good fallback when Gasworks' tiny class capacity is booked.",
-    "url": "https://bklynclay.com/tryday-prospect",
+    "desc": "Drop-in wheel-throwing class on Fri/Sat nights, BYO-vibes with beer + wine for sale at the studio.",
+    "longDesc": "BKLYN CLAY's flagship Prospect Heights studio at 535 Carlton Ave runs a 2-hour 'TryDay Night' wheel class every Friday and Saturday at 7:30pm — $85/person, 12 students max, beer and wine for purchase on-site. No finished piece to take home (it's an introductory throwing experience), so best treated as an evening activity stop, not a souvenir maker. Note: BKLYN CLAY does NOT operate inside Industry City — Prospect Heights is the closest of its two locations (the other is Tribeca).",
+    "url": "https://bklynclay.com/tryday",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
@@ -9792,31 +9792,27 @@
     "dietary": [],
     "priceBand": "$$",
     "duration": "2 hr",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "TryDay Fri/Sat 19:30-21:30; Sat workshops 10:00-15:00",
-    "notes": "Task said 'Gowanus' but BKLYN CLAY is in Prospect Heights, not Gowanus — kept as the Gasworks fallback because it's the nearest large-capacity ceramics studio (15-20 min from IC via 4th Ave/Atlantic). TryDay is wheel-throwing with no take-home; Saturday workshops are bookable single sessions with finished pieces (https://bklynclay.com/schedule). Street parking on Carlton + Barclays Center garage 0.4 mi away. Second BKLYN CLAY location is Tribeca, 288 West St — skip for the IC-anchored itinerary.",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "TryDay class Fri/Sat 19:30-21:30",
+    "notes": "TryDay Night = 2 hr wheel-throwing class, $85/person, 12 students with an instructor, age 7+ (under 16 must have adult also enrolled), 48-hr cancellation window (https://bklynclay.com/tryday). Beer/wine sold on-site, no outside drinks. Drive from IC ~15 min via Prospect Expy. IMPORTANT: BKLYN CLAY has no Industry City location — locations are 535 Carlton Ave Prospect Heights and 288 West St Tribeca (https://bklynclay.com/). For a true in-IC ceramic option, Micòl Ceramics at 67 35th St Suite C239 is inside Industry City itself (https://www.micolceramics.com/info).",
     "sources": [
       {
-        "url": "https://bklynclay.com/tryday-prospect",
+        "url": "https://bklynclay.com/tryday",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://bklynclay.com/schedule",
+        "url": "https://bklynclay.com/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://bklynclay.com/workshops",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.hisawyer.com/providers/bklyn-clay/1099-bklyn-clay",
+        "url": "https://www.micolceramics.com/info",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T10:40:04.777Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:11:59.435Z"
   },
   {
     "id": "brooklyn-glass",
@@ -21084,5 +21080,180 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T00:58:02.860Z"
+  },
+  {
+    "id": "the-pottery-studio-brooklyn-gowanus",
+    "name": "The Pottery Studio — Brooklyn 9th Street",
+    "desc": "10,000 sq ft Gowanus pottery studio with weekend wheel and handbuilding classes a block from the R train.",
+    "longDesc": "Genuine Gowanus pottery studio at 43C 9th Street running weekend wheel-throwing and handbuilding sessions Saturdays and Sundays at 11am-1pm and 3pm-5pm ($235 per session, ~2 hours). The 10,000 sq ft space supports cone 10 reduction firing and offers memberships from $155-$235/month — serious enough for returning potters, accessible enough for an intro session with a friend. Sits one block from the R-train 9th St stop on the Gowanus/Park Slope border, with metered street parking on 9th Street and 2nd/3rd Avenue.",
+    "url": "https://thepotterystudio.com/pages/brooklyn",
+    "photoUrl": "https://cdn.shopify.com/s/files/1/0270/5791/3953/files/IMG_1993.jpg?v=1747599256",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "2 hr",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat-Sun 11:00-17:00 (class blocks)",
+    "notes": "Address: 43C 9th Street, Brooklyn NY 11215 — actual Gowanus location, walkable from R-train 9th St stop, ~10 min drive from Industry City via 3rd Ave. Weekend offerings: Sat 11am-1pm and 3pm-5pm 'Introduction to Wheelthrowing', Sun 11am-1pm 'Handbuilding Exploration', Sun 3pm-5pm 'Returning Wheelthrowing' — each $235 for a multi-week session, 2 hr per class (source: thepotterystudio.com/collections/the-pottery-studio-classes-brooklyn). Cone 10 reduction firing is the standout technical capability; rare for a class-accessible studio (source: thepotterystudio.com/pages/brooklyn). This fills the geographic gap left by Brooklyn Clay Industries' misleading 'Gowanus' tag — Pottery Studio is genuinely on 9th Street in Gowanus.",
+    "sources": [
+      {
+        "url": "https://thepotterystudio.com/pages/brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://thepotterystudio.com/collections/the-pottery-studio-classes-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-pottery-studio-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.reqce.com/projects/the-pottery-studio-opens-its-doors-in-gowanus",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T01:02:20.476Z"
+  },
+  {
+    "id": "slow-burn-ceramics",
+    "name": "Slow Burn Ceramics",
+    "desc": "Community clay studio on the Gowanus/South Slope edge — workshops + member open-studio hours, 8 min from IC.",
+    "longDesc": "Sunny second-floor ceramics studio at 65 15th St offering wheel/handbuilding workshops, multi-week classes, and a $225/mo studio membership with 6am–midnight access (3-month minimum). Walk-in 'open studio' isn't a thing here — weekend access means booking a workshop seat or holding a membership — but the vibe is unhurried, beginner-friendly, and tightly scoped to the South Brooklyn ceramics community.",
+    "url": "https://www.slowburnceramicsbk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "varies by workshop; member access 6:00-24:00",
+    "notes": "Membership ($225/mo, 3-mo min) unlocks 6am–midnight access to wheels, slab roller, and extruder; includes one storage shelf, first bag of clay, free bisque firings, and glaze firings at $0.06/cu in (slowburnceramicsbk.com/memberships). For weekend visitors without a membership, the realistic path is booking a workshop or class via the Kilnfire portal — drop-in open studio is not offered (slowburnceramicsbk.com). Studio is upstairs at 65 15th St #2F, between 2nd and 3rd Ave; street parking on 15th/16th is usually available on weekends. Listed in the Gowanus Arts directory (gowanusarts.org).",
+    "sources": [
+      {
+        "url": "https://www.slowburnceramicsbk.com/",
+        "accessed": "2026-05-17T01:05:00Z"
+      },
+      {
+        "url": "https://www.slowburnceramicsbk.com/memberships",
+        "accessed": "2026-05-17T01:05:00Z"
+      },
+      {
+        "url": "https://slowburnceramics.kilnfire.com/classes/workshops",
+        "accessed": "2026-05-17T01:05:00Z"
+      },
+      {
+        "url": "https://gowanusarts.org/directory/slow-burn-ceramics/",
+        "accessed": "2026-05-17T01:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:04:32.422Z"
+  },
+  {
+    "id": "artshack-brooklyn",
+    "name": "Artshack Brooklyn",
+    "desc": "Bed-Stuy nonprofit ceramics studio with weekend one-off workshops and sliding-scale community access",
+    "longDesc": "Nonprofit community ceramics studio on Bedford Ave (est. 2016) offering one-off weekend pottery workshops alongside 4- and 8-week adult sessions. Mission-driven access via scholarships, free community days, and subsidized seats for low-income high schoolers, seniors, and differently-abled adults — a rare nonprofit lane next to Brooklyn's commercial wheel-throwing studios. Includes a small cafe, gallery, shop, and artist residency under one roof.",
+    "url": "https://www.artshackbrooklyn.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-18:00",
+    "notes": "Drop-in one-off weekend classes are posted to the events calendar (artshackbrooklyn.org/events) — Saturday programming is class-schedule-dependent, while Sunday open studio runs 10:00–18:00 (search result, chamberofcommerce.com). Sliding-scale access is delivered via scholarships and quarterly free community days rather than a published low/high tier — workshop face price typically $60–90 for one-off sessions per HiSawyer marketplace listings. Street parking on Bedford Ave is generally available on weekends. 1127 Bedford Ave, Brooklyn, NY 11216. Phone 347.417.3304 / 917.847.0311.",
+    "sources": [
+      {
+        "url": "https://www.artshackbrooklyn.org/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.artshackbrooklyn.org/events/events",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.hisawyer.com/providers/artshack/6269-artshack-annex",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.ceramicsnow.org/pottery-classes/new-york/artshack-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://grantees.brooklynartscouncil.org/2020/artshack-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:06:52.663Z"
+  },
+  {
+    "id": "me-and-pauls-greenpoint",
+    "name": "Me and Paul's (formerly Paulie Gee's Greenpoint)",
+    "desc": "Same legendary wood-fired pies from the original Paulie Gee's oven, now in a louder Greenpoint tavern reboot.",
+    "longDesc": "After closing in January 2026 for renovations, the original Paulie Gee's at 60 Greenpoint Ave reopened April 30, 2026 as Me and Paul's — same oven, same recipes, including the cult vegan pies, but a longer bar, old-school booths, a jukebox, pool, and darts. Order at the bar instead of table service, expect cold beer/cocktails alongside the Neapolitan-inspired pizzas, and treat it as a faster, looser dinner anchor a 5-minute walk from most Greenpoint pottery and wheel-throwing studios.",
+    "url": "https://greenpointers.com/2026/04/30/paulie-gees-original-restaurant-reopens-today-as-me-and-pauls/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "12:00-02:00",
+    "notes": "Rebranded April 30, 2026 from Paulie Gee's Greenpoint to Me and Paul's; same oven, same pizza recipes, new management is the team behind Skinny Dennis and Rocka Rolla (greenpointers.com). Order-at-bar, no table service, dine-in only because wood-fired pies are meant to come straight from the oven (pauliegee.com). Daily noon–2am makes it a forgiving post-6pm-wheel-class anchor. Street parking in industrial Greenpoint is generally easier on weekends than further south in Williamsburg. Drive from Industry City: BQE north, ~6.5 miles, typically 18–22 min off-peak.",
+    "sources": [
+      {
+        "url": "https://greenpointers.com/2026/04/30/paulie-gees-original-restaurant-reopens-today-as-me-and-pauls/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://pauliegee.com/restaurant/greenpoint/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/paulie-gees-in-greenpoint-is-closing-for-renovations-and-reopening-as-a-tavern-123025",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/paulie-gees-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T01:09:22.775Z"
   }
 ]

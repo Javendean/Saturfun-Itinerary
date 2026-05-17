@@ -1,35 +1,5 @@
 [
   {
-    "topic": "The Pottery Studio Brooklyn — 9th Street Gowanus weekend wheel classes",
-    "reason": "Actual Gowanus pottery studio walkable from R-train; fills the geographic gap the Brooklyn Clay Industries 'Gowanus' tag falsely implied",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:22:14.019Z"
-  },
-  {
-    "topic": "Slow Burn Ceramics — 65 15th Street community clay studio weekend access",
-    "reason": "Closer to IC (15th St / 3rd Ave edge of Gowanus, ~8 min drive); community membership model that may allow open-studio weekends",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:22:14.019Z"
-  },
-  {
-    "topic": "Artshack Brooklyn — Bed-Stuy nonprofit pottery weekend workshops",
-    "reason": "Sliding-scale community ceramics; expands corpus beyond commercial studios into the nonprofit art-class lane",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:22:14.019Z"
-  },
-  {
-    "topic": "Paulie Gee's Greenpoint wood-fired pizza dinner",
-    "reason": "Walkable post-class dinner anchor in the same Greenpoint cluster — pairs with a 6pm wheel-class finish",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:24:32.548Z"
-  },
-  {
-    "topic": "BKLYN CLAY Industry City ceramic studio weekend class",
-    "reason": "Alternative ceramic-studio candidate inside IC itself; lets the engine compare an in-cluster option vs the Greenpoint drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:24:32.548Z"
-  },
-  {
     "topic": "Champion Coffee Greenpoint pre-class espresso stop",
     "reason": "Short stop adjacent to Choplet for the 10am Sunday session; rounds out a Greenpoint micro-itinerary",
     "requestedBy": "agent",
@@ -6694,5 +6664,95 @@
     "reason": "Tiny Columbia Pl cafe two blocks from the Promenade — fills the 'something warm in hand before the walk' slot on the Cobble Hill track without adding drive time",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T01:00:10.163Z"
+  },
+  {
+    "topic": "Choplet Ceramics Williamsburg open studio Saturday drop-in wheel",
+    "reason": "Williamsburg counterpart to Gowanus pottery — single-session drop-in alternative for friends who don't want a multi-week commitment",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:02:20.494Z"
+  },
+  {
+    "topic": "BKLYN CLAY Industry City Sunset Park ceramics drop-in classes",
+    "reason": "Pottery option literally inside Industry City — drive time = 0, direct geographic anchor coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:02:20.494Z"
+  },
+  {
+    "topic": "Gasworks NYC Gowanus glassblowing weekend intro experience",
+    "reason": "Adjacent maker-craft on the same Gowanus block radius — extends 'try a craft' itinerary track beyond ceramics",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:02:20.494Z"
+  },
+  {
+    "topic": "BKLYN CLAY Industry City — drop-in vs membership ceramics access at IC itself",
+    "reason": "On-campus alternative to Slow Burn; if it offers weekend drop-in, it's a zero-drive ceramics option for the itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:04:32.441Z"
+  },
+  {
+    "topic": "Gowanus Souvenir Shop / Gowanus Print Lab weekend workshops",
+    "reason": "Same 'hands-on craft within 10 min of IC' lane as Slow Burn; diversifies the curious/chill cluster beyond ceramics",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:04:32.442Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus — post-ceramics drinks pairing 5 min from Slow Burn",
+    "reason": "Natural drive-time pair stop for a Slow Burn workshop morning; rounds out a South Slope/Gowanus track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:04:32.442Z"
+  },
+  {
+    "topic": "Textile Arts Center Gowanus weekend workshops",
+    "reason": "Adjacent nonprofit/community craft lane (weaving, natural dye) within 10 min of IC — extends the sliding-scale art-class cluster beyond ceramics",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:06:52.680Z"
+  },
+  {
+    "topic": "BKLYN CLAY Industry City wheel-throwing drop-ins",
+    "reason": "Commercial counterpart inside Industry City itself — lets the corpus contrast nonprofit (Artshack) vs. on-anchor commercial pottery for the same intent",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:06:52.680Z"
+  },
+  {
+    "topic": "Gasworks NYC Bushwick ceramics open studio",
+    "reason": "Bushwick neighbor venue that fills a separate cluster on the same activity type, useful when drivers want Bushwick food/bar pairings after class",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:06:52.680Z"
+  },
+  {
+    "topic": "Paulie Gee's Slice Shop at 110 Franklin St, Greenpoint",
+    "reason": "Same-family vegan-friendly slice option a few blocks south — cheaper, faster, walkable alternative to the sit-down tavern for a tight post-class window",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:09:22.793Z"
+  },
+  {
+    "topic": "Adelina's Greenpoint Italian dinner",
+    "reason": "Adds a non-pizza Italian anchor in the same Greenpoint cluster for itineraries where pizza was already used earlier in the day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:09:22.793Z"
+  },
+  {
+    "topic": "Lucky Dog Greenpoint backyard bar",
+    "reason": "Same ownership group as Me and Paul's — natural post-dinner drinks pairing inside the Greenpoint cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:09:22.793Z"
+  },
+  {
+    "topic": "Micòl Ceramics Industry City pottery wheel demo and class",
+    "reason": "True in-IC ceramic studio (67 35th St, Suite C239) — the actual in-cluster alternative the engine was looking for",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:11:59.454Z"
+  },
+  {
+    "topic": "BAT Clay Studio Brooklyn weekend classes and location",
+    "reason": "Another Brooklyn ceramic option that surfaced; needs distance-from-IC vetting",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:11:59.454Z"
+  },
+  {
+    "topic": "Clayhouse Brooklyn wheel class and Try Class options",
+    "reason": "Drop-in friendly ceramic studio worth comparing on price/drive-time vs BKLYN CLAY",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T01:11:59.454Z"
   }
 ]
