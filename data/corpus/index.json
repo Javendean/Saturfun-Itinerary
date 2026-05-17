@@ -2869,8 +2869,8 @@
   {
     "id": "sunnys-bar-red-hook",
     "name": "Sunny's Bar",
-    "desc": "Century-old Red Hook dive on the waterfront — bluegrass jam Saturdays, candlelit and laid-back.",
-    "longDesc": "Tucked behind a no-sign red door on cobblestoned Conover Street, Sunny's has been a longshoremen's bar since 1890 and now anchors Red Hook's late-night scene with cheap beer, mismatched chairs and live music every night except Mondays. The Saturday night bluegrass jam (8-10pm) draws a regular cast of fiddlers; the back room opens to a small garden in warm weather. Perfect high-contrast follow to an omakase — no menu, no fuss, just atmosphere.",
+    "desc": "1890 dockside Red Hook saloon with nightly live music and a legendary Saturday bluegrass jam.",
+    "longDesc": "A 135-year-old waterfront bar at 253 Conover St, two blocks from the Red Hook piers, that started as a longshoreman's hangout and is now a beloved music and community space run by Tone Balzano Johansen. Memorabilia-stuffed back room hosts bluegrass, folk and jazz nightly except Mondays from 8-10pm — the Saturday bluegrass jam is the signature draw. Cash-friendly, unpretentious, and a perfect late-night cap after dinner at The Good Fork.",
     "url": "https://www.sunnysredhook.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2881,33 +2881,29 @@
       "romantic"
     ],
     "dietary": [],
-    "priceBand": "$",
-    "duration": "60-90 min",
-    "driveFromIC": "9 min",
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-00:00",
-    "notes": "Cash + card; arrive before 8pm for a seat on bluegrass nights (sunnysredhook.com/calendar). Street parking on Conover/Reed is usually findable on weekends — Red Hook has no subway so spaces turn over (timeout.com). Cocktails are simple and cheap; food is BYO or grab tacos from nearby Hometown Bar-B-Que first.",
+    "notes": "Founded 1890 as John's Bar serving Red Hook stevedores (Wikipedia). Live music nightly except Mondays, 8-10pm sets (sunnysredhook.com). Saturday bluegrass jam is the signature programming associated with current owner Tone Balzano Johansen (Wikipedia). Survived Hurricane Sandy (closed Oct 2012, reopened Sept 2013 after community fundraising). Address 253 Conover St — 2 blocks from Red Hook piers, ~10 min drive from Industry City with ample street parking on weekends. Ideal late-night extension after a Good Fork dinner; both venues sit on the same Red Hook waterfront cluster.",
     "sources": [
       {
         "url": "https://www.sunnysredhook.com/location/sunnys-bar/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T17:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunny's_Bar",
+        "accessed": "2026-05-17T17:00:00Z"
       },
       {
         "url": "https://www.sunnysredhook.com/calendar/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/bars/sunnys",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://punchdrink.com/venues/sunnys-2/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T17:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:12:28.859Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:47:00.806Z"
   },
   {
     "id": "littlefield-gowanus",
@@ -14035,41 +14031,41 @@
   },
   {
     "id": "fort-defiance-red-hook",
-    "name": "Fort Defiance (CLOSED)",
-    "desc": "PERMANENTLY CLOSED Dec 3, 2023 — do not route. See enqueue for replacement cocktail anchors.",
-    "longDesc": "Fort Defiance was St. John Frizell's beloved 15-year Red Hook cocktail-and-cafe institution at 365 Van Brunt St, famous for its Irish coffees and the crisp St. John's martini. After surviving Hurricane Sandy and a pandemic-era pivot to a general store at a temporary address, Frizell shuttered the venue on Dec 3, 2023 to focus on Gage & Tollner and Sunken Harbor Club. The space is dark; Yelp and Foursquare both list it as CLOSED as of 2026.",
+    "name": "Fort Defiance (Permanently Closed)",
+    "desc": "Beloved Red Hook cafe-bar — closed Dec 2023 after 15 years; do not include in itineraries.",
+    "longDesc": "Fort Defiance was a James Beard-nominated all-day cafe and cocktail bar at 347 Van Brunt St in Red Hook, owned by St. John Frizell. It pivoted to a 'General Store' during the pandemic, briefly reopened for dinner and drinks, then announced its permanent closure in November 2023 with final service on December 3, 2023. The space is no longer operating as Fort Defiance.",
     "url": "https://www.bkmag.com/2023/11/23/fort-defiance-a-red-hook-stalwart-is-closing-after-15-years/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "romantic"
+      "foodie"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "CLOSED",
-    "notes": "DO NOT INCLUDE in active itinerary — venue is permanently closed. Last service Dec 3, 2023 (BKMag). Owner St. John Frizell now runs Sunken Harbor Club inside Gage & Tollner downtown if guests want the same cocktail program. For the Red Hook cluster cocktail-anchor role 5 min from Brooklyn Crab, route to Red Hook Tavern (329 Van Brunt) or Hope & Anchor instead. Keeping this entry in the corpus only as a tombstone so the topic does not re-enter the research queue.",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "Permanently closed",
+    "notes": "CLOSED December 2023 after 15 years; owner St. John Frizell could not find a buyer in time (BKMag, Nov 2023). The 'General Store' name refers to a 2020-21 pandemic-era pivot at a temporary nearby location, not a current concept. Yelp lists the business as CLOSED as of April 2026. The 347 Van Brunt address is 3 blocks (~3 min walk) from Good Fork at 391 Van Brunt; for the original purpose of pre/post-dinner cocktails near Good Fork, swap in Red Hook Tavern (329 Van Brunt) or Hope & Anchor (347 Van Brunt) — both currently operating.",
     "sources": [
       {
         "url": "https://www.bkmag.com/2023/11/23/fort-defiance-a-red-hook-stalwart-is-closing-after-15-years/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/fort-defiance-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://foursquare.com/v/fort-defiance/4a412995f964a520daa41fe3",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://cititour.com/NYC_News/Fort-Defiance-to-Close-in-Red-Hook/7891",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T15:48:21.469Z"
+    "lastResearchedAt": "2026-05-17T16:45:05.735Z"
   },
   {
     "id": "valentino-pier",
@@ -30129,5 +30125,127 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T16:40:34.963Z"
+  },
+  {
+    "id": "red-hook-tavern",
+    "name": "Red Hook Tavern",
+    "desc": "Michelin-listed corner tavern with dry-aged burger, country ham croquettes, and a sharp cocktail list.",
+    "longDesc": "A warm, wood-paneled neighborhood tavern on Van Brunt with a tight menu of American comfort cooking — Country Ham Croquettes ($16), Romaine Wedge with Nueske's bacon ($21), French Onion Soup ($18), and a celebrated dry-aged burger. The cocktail program leans classic with serious technique (Tavern Julep $17, Isle Old Fashioned $20, Dukes Martini $21), making it an ideal shareable-plates stop after Brooklyn Crab. Listed in the MICHELIN Guide.",
+    "url": "https://www.redhooktavern.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6442aec9db47706856d7d156/908ab0cd-663c-420b-8222-457a97491696/Redhook+Tavern+window.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "12:00-14:45, 17:00-21:30",
+    "notes": "Weekend lunch noon-2:45pm and dinner 5-9:30pm Thu-Sun (redhooktavern.com/visit-us). Menu pulls confirmed: Country Ham Croquettes $16 with aged white cheddar + dijonnaise + rye crumbs, Romaine Wedge $21 with bleu cheese + Nueske's bacon + buttermilk herb (redhooktavern.com/menu). Cocktails include Tavern Julep $17, Luna de Margarita $18, Isle Old Fashioned $20 (Toki + pineapple + allspice + jerk bitters), Dukes Martini $21. Michelin-listed (guide.michelin.com). Street parking on Van Brunt and side streets — Red Hook is car-friendly. 5-6 min drive from Industry City via 3rd Ave → Beard St → Van Brunt. Reservations on OpenTable; corner location at Coffey St is photogenic for the harvester.",
+    "sources": [
+      {
+        "url": "https://www.redhooktavern.com/menu",
+        "accessed": "2026-05-17T16:45:00Z"
+      },
+      {
+        "url": "https://www.redhooktavern.com/visit-us",
+        "accessed": "2026-05-17T16:45:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/red-hook-tavern",
+        "accessed": "2026-05-17T16:45:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/red-hook-tavern-brooklyn",
+        "accessed": "2026-05-17T16:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T16:48:56.710Z"
+  },
+  {
+    "id": "van-brunt-stillhouse",
+    "name": "Van Brunt Stillhouse",
+    "desc": "Red Hook craft distillery with a hidden courtyard cocktail bar pouring in-house whiskey, rum, and grappa.",
+    "longDesc": "Artisanal Red Hook distillery named for Brooklyn's original Dutch settler, handcrafting whiskey, bourbon, rum, moonshine, and rare grappa on site. The tucked-away 'Loading Dock' courtyard bar pours craft cocktails built from spirits distilled feet away, with public and private tours bookable through the website. Weekend-only tasting room makes it feel like a discovery.",
+    "url": "https://www.vanbruntstillhouse.com",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri 16:00-20:00, Sat 13:00-20:00, Sun 13:00-18:00",
+    "notes": "Located at 6 Bay St in Red Hook; courtyard 'Loading Dock' bar is the photogenic anchor (source: nyctourism.com). Spirits include whiskey, bourbon, rum, moonshine, and grappa — grappa is a rare NYC offering (source: nyctourism.com). Weekend-only tasting; Mon-Thu is bottle sales 2-5p only (source: vanbrunt_whiskey IG via yelp). Street parking generally available in Red Hook on weekends.",
+    "sources": [
+      {
+        "url": "https://www.nyctourism.com/nightlife/van-brunt-stillhouse-red-hook/",
+        "accessed": "2026-05-17T17:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/van-brunt-stillhouse-brooklyn-2",
+        "accessed": "2026-05-17T17:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:50:57.672Z"
+  },
+  {
+    "id": "hope-and-anchor-red-hook",
+    "name": "Hope & Anchor (CLOSED)",
+    "desc": "Permanently closed Feb 2018 — was a nautical retro diner with full bar and weekend drag karaoke at 347 Van Brunt.",
+    "longDesc": "Hope & Anchor was a maritime-themed Red Hook diner-cum-pub that opened in 2002 and closed at the end of February 2018 after the owners could not renew their lease. It was beloved for classic red-vinyl diner seating, 15+ burger variations, strong cocktails, late Fri/Sat 1am close, and Saturday-night drag karaoke. The 347 Van Brunt Street space was subsequently occupied by The Copper Pot, so this venue should NOT be surfaced as an active itinerary option.",
+    "url": "https://patch.com/new-york/gowanus/red-hooks-hope-anchor-close-after-15-years-owners-say",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "n/a — closed",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "CLOSED — permanently shuttered February 2018",
+    "notes": "CLOSED PERMANENTLY. Original hours were Sat 9am–1am, Sun 9am–10pm. Lease non-renewal ended a ~15-year run (Patch, Feb 2018). Yelp page still tagged CLOSED as of Jan 2026. Space became Copper Pot (Realty Collective). Do NOT promote into any itinerary; retain in corpus only as a deduplication/anti-research marker. For the same late-night Red Hook cocktail+small-plates slot, see enqueued alternatives.",
+    "sources": [
+      {
+        "url": "https://patch.com/new-york/gowanus/red-hooks-hope-anchor-close-after-15-years-owners-say",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hope-and-anchor-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://realtycollective.com/hope-anchor-becomes-copper-pot/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/hope-anchor",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T16:53:37.316Z"
   }
 ]
