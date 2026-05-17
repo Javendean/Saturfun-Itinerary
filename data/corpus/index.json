@@ -5951,46 +5951,47 @@
   {
     "id": "sip-and-play-park-slope",
     "name": "Sip & Play",
-    "desc": "Park Slope board game cafe with 500+ games, boba, beer, and sandwiches",
-    "longDesc": "Brick-lined Park Slope cafe with a 500+ board game library spanning party classics to deep euros, plus a full kitchen running sandwiches, salads, bubble tea, beer, and wine. Table-play is $12 per person for three hours on weekends (walk-ins welcome, reservations $15/pp guarantee a table). The closest true Hex & Co analog in Brooklyn — and a ~10 min drive from Industry City.",
+    "desc": "Park Slope board-game cafe with 500+ games, boba, beer, and a real kitchen — Brooklyn's Hex equivalent.",
+    "longDesc": "Sip & Play is Park Slope's premier board game cafe at 471 5th Ave, stocking 500+ tabletop games for a $12/person walk-in table fee (3 hrs, Fri–Sun) or $15/person reserved via Tock. The kitchen runs sandwiches, salads, and shareable apps alongside bubble tea, drip coffee, beer, and wine — the kitchen closes 2.5–3 hours before the venue, so plan food early. Sourced as the Brooklyn analog after confirming Hex & Company has no Brooklyn location (Manhattan-only: Morningside, UES, Union Square).",
     "url": "https://www.sipnplaynyc.com/",
-    "photoUrl": "",
+    "photoUrl": "https://static.wixstatic.com/media/3683c8_2d249a2fda2a428fbd7501e084743acb~mv2.png",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
-      "curious"
+      "curious",
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$",
-    "duration": "3 hr",
-    "driveFromIC": "10 min",
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "15 min",
     "hoursWeekend": "Sat 10:00-00:00, Sun 10:00-23:00",
-    "notes": "Note: Hex & Co has no Brooklyn location (only Morningside Heights, UES, and Union Square in Manhattan), so the closest Brooklyn equivalent was selected. Sip & Play at 471 5th Ave Park Slope is ~10 min from IC via 3rd/4th Ave, with metered + side-street parking. 500+ games (yelp), $10 weekday / $12 weekend table fee, $15/pp for guaranteed reservation (sipnplaynyc.com). Menu: sandwiches, salads, boba, beer, wine, coffee — vegetarian sandwich/salad options confirmed (yelp menu). Sat 10am-12am, Sun 10am-11pm. Phone (718) 971-1684.",
+    "notes": "Topic was 'Hex & Company Brooklyn' but Hex has no Brooklyn location — confirmed three Manhattan-only locations (Morningside, UES, Union Square) via hexnyc.com. Pivoted to Sip & Play as the direct Brooklyn analog (board-game cafe + kitchen + boba/beer) since Manhattan substitution wasn't uniquely justified vs. a Brooklyn equivalent 15 min from IC. Table fee model: $10 walk-in weekdays, $12 walk-in Fri-Sun/holidays, $15 reserved — all for 3-hr blocks (sipnplaynyc.com). Reservations via Tock; groups 9+ email sipnplaynyc@gmail.com. Kitchen closes 2.5-3 hrs before venue close, so order food in the first half of the session. Park Slope 5th Ave has metered street parking on weekends with reasonable turnover; nearest paid lot is on 4th Ave. Good chain anchor for a Park Slope play-track combined with nearby food/dessert stops on 5th Ave.",
     "sources": [
       {
         "url": "https://www.sipnplaynyc.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T09:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sip-n-play-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T09:30:00Z"
+      },
+      {
+        "url": "https://www.exploretock.com/sipnplay/",
+        "accessed": "2026-05-17T09:30:00Z"
       },
       {
         "url": "https://www.hexnyc.com/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://brooklynbridgeparents.com/where-to-play-in-brooklyn-board-games/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T09:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T09:04:28.280Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T09:22:25.606Z"
   },
   {
     "id": "the-uncommons",
@@ -9301,49 +9302,40 @@
   {
     "id": "desert-island-comics",
     "name": "Desert Island",
-    "desc": "Williamsburg's punk-rock indie comic shop in a former bakery — zines, art books, underground comics on consignment.",
-    "longDesc": "A tightly curated comics, graphic novel and zine shop housed in a former bakery on Metropolitan Ave since 2008, specializing in experimental, underground and self-published work sold on consignment. The New Yorker called it 'a bookshop so beautifully designed that it doubles as a work of art,' and the NYT dubbed it the 'Punk Rock' comic shop for its DIY aesthetic (desertislandbrooklyn.com). Frequent in-store signings, zine releases and Comic Arts Brooklyn programming make it a tight curated counterpart to Kinokuniya's depth — no Manhattan crossing needed.",
+    "desc": "Williamsburg indie comic shop, alt/underground titles + the home of Comic Arts Brooklyn",
+    "longDesc": "Founded by Gabriel Fowler in 2008, Desert Island specializes in underground, alternative, and self-published comics on consignment from indie creators. They publish the Eisner-nominated Smoke Signal anthology and host the annual Comic Arts Brooklyn festival, so the shelves rotate constantly with stuff you can't get at a chain. Small storefront on Metropolitan near Union — a 20-minute browse for the curious, a 45-minute deep-dive for collectors.",
     "url": "https://www.desertislandbrooklyn.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5cdcff0c8d97401d06bf51a2/aad3edae-92ef-43a2-907b-71d29846d9af/comicsbanner.png",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "curious",
-      "chill",
-      "photo"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "12:00-19:00",
-    "notes": "490 Metropolitan Ave, Brooklyn NY 11211 — Wed–Sun 12–7pm, closed Mon/Tue (desertislandbrooklyn.com). Street parking only; Metropolitan Ave is metered/permitted weekdays but typically free on weekends — plan ~5 min for a spot. Pairs well with a Lorimer/Graham coffee stop or a walk to McCarren. Signature ice-blue stalactite window sculptures are a photo moment (desertislandbrooklyn.com). Indie/underground/zine focus differs sharply from Kinokuniya's mainstream-manga depth, so the two corpus entries don't overlap.",
+    "notes": "Closed Mon/Tues; open Wed-Sun 12-7pm (desertislandbrooklyn.com/contact). Pair tightly with Twenty Sided Store on Grand St — both Williamsburg indie-nerd anchors within walking distance of each other, so a 'curious browsers' mini-track can hit both with a single park. Street parking on Metropolitan/Union typically findable on weekends but tighter than IC; expect 5-8 min hunting. Address is 490 Metropolitan Ave — older listings (Wikipedia, Apple Maps) still cite 540, but the official site lists 490 (desertislandbrooklyn.com/contact). Hosts Comic Arts Brooklyn annually (comicartsbrooklyn.com), which can transform the block if scheduling overlaps. Underground/alt/self-pub focus means inventory rotates fast and visit-to-visit experience varies — strength for repeat itineraries.",
     "sources": [
       {
-        "url": "https://www.desertislandbrooklyn.com/",
-        "accessed": "2026-05-16T10:15:00Z"
-      },
-      {
         "url": "https://www.desertislandbrooklyn.com/contact",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Desert_Island_(comic_shop)",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/desert-island-brooklyn",
-        "accessed": "2026-05-16T10:15:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/shopping/desert-island/",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T10:10:16.182Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T09:24:37.038Z"
   },
   {
     "id": "sunrise-mart-soho",
@@ -11550,44 +11542,50 @@
   {
     "id": "brooklyn-strategist",
     "name": "The Brooklyn Strategist",
-    "desc": "Brooklyn Heights board-game cafe with 1,000+ games and walk-in play for $15.",
-    "longDesc": "A community board-game cafe at 148 Pierrepont in Brooklyn Heights with a library of 1,000+ board and card games, full cafe service, and structured drop-in play. Walk-ins welcome at $15/person; reservations available 24 hours ahead; weekends include 'Games with Strangers' Saturday nights and family open-play on 1st/3rd weekends.",
+    "desc": "Carroll Gardens board game cafe with a 1,000+ title library, BYOB nights, and walk-in or reserved tables",
+    "longDesc": "Hex & Co.'s closest Brooklyn analog: a Carroll Gardens cafe + game library at 333 Court St with over 1,000 board and card games on open shelves, table service, and a BYOB-friendly adult evening format on weekends. Day-of-game admission gets you the full library and house staff who'll teach a rules-heavy pick; reserve ahead for groups of 4+ on Saturday nights because the floor fills fast. Bring a bottle, order coffee or snacks, post up for 2-3 hours.",
     "url": "https://thebrooklynstrategist.com/",
-    "photoUrl": "https://thebrooklynstrategist.com/wp-content/uploads/2025/11/DSC_3013-1024x683.jpeg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "brooklyn-heights",
+    "zone": "carroll-gardens",
     "vibe": [
       "chill",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "90-180 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "09:00-23:00",
-    "notes": "1,000+ board & card games library; $15/person drop-in (Yelp, thebrooklynstrategist.com). Sat 'Games with Strangers' 7-11pm; 1st/3rd weekends host BHA family open-play (thebha.org). Sibling-style answer to Manhattan's Hex & Co. and Brooklyn's Sip & Play. Cafe serves hot food + drinks; reservations 24h+ ahead by phone +1 (718) 576-3035. Street parking on Pierrepont/Henry; weekend metering is light in Brooklyn Heights but tight — Pierrepont Playground garages on Cadman Plaza are the reliable backup.",
+    "duration": "2-3 hr",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "Sat 09:00-23:00, Sun 09:00-20:00",
+    "notes": "Hex & Co. itself is Manhattan-only (Morningside Heights / UES / Union Square) — The Brooklyn Strategist is their Brooklyn-side counterpart and the right within-radius comparator (timeout.com, yelp.com). BYOB on game nights; walk-ins accepted but Saturday-night reservations strongly recommended for tables of 4+ (parkslopeparents.com). Court St has street parking with light Saturday turnover; metered until 19:00. Pairs well with a Smith St dinner stop afterward.",
     "sources": [
       {
         "url": "https://thebrooklynstrategist.com/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/the-brooklyn-strategist-brooklyn",
+        "url": "https://www.yelp.com/biz/the-brooklyn-strategist-new-york",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://thebha.org/events/event/board-game-sunday-with-the-bha-and-brooklyn-strategist/",
+        "url": "https://www.timeout.com/newyork/things-to-do/brooklyn-strategist-1",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d13417750-Reviews-The_Brooklyn_Strategist-New_York_City_New_York.html",
+        "url": "https://www.timeout.com/newyork/things-to-do/board-game-cafes-to-play-catan-and-dnd-in-nyc",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.hexnyc.com/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T09:12:37.044Z"
+    "lastResearchedAt": "2026-05-17T09:26:49.156Z"
   },
   {
     "id": "hex-and-company-union-square",
@@ -26049,5 +26047,45 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T09:17:08.470Z"
+  },
+  {
+    "id": "hibino-cobble-hill",
+    "name": "Hibino",
+    "desc": "Kyoto-style obanzai, fresh house-made tofu, and sushi — a 10-min drive from IC and 5 min from Brooklyn Strategist.",
+    "longDesc": "Tiny Cobble Hill Japanese spot open since 2007, serving daily-changing obanzai small plates ($5 each, written on chalkboards), fresh tofu made in-house, and traditional plus new-style sushi. Perfect early dinner after an afternoon at Brooklyn Strategist — closed Sundays/Wednesdays, no reservations, so arrive at the 4:30 PM open or expect a short wait.",
+    "url": "https://hibino-brooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 12:00-14:30, 16:30-22:00; closed Sun",
+    "notes": "Corner of Henry & Pacific, ~5 min drive from Brooklyn Strategist on Court St. Cash-friendly small room, no reservations — arrive at 4:30 PM open for an early dinner slot. Daily obanzai chalkboard rotates; tonkatsu and house tofu are signatures (theinfatuation.com). Weekend street parking on Pacific or Clinton is usually available; metered on Henry. Pairs well with afternoon gaming since you can hold the table after a board-game session without rushing.",
+    "sources": [
+      {
+        "url": "https://hibino-brooklyn.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/hibino-cobble-hill",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/hibino-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T09:28:55.261Z"
   }
 ]
