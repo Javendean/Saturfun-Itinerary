@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Don Paco Lopez Panaderia Sunset Park 5th Ave",
-    "reason": "Adjacent Mexican bakery for pan dulce dessert stop after a Tulcingo lunch — same drive cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:52:42.695Z"
-  },
-  {
-    "topic": "Tortilleria Mexicana Los Hermanos Bushwick",
-    "reason": "Cross-zone Mexican benchmark for the corpus — same cuisine, completely different vibe (factory-floor tacos) for variety",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:52:42.695Z"
-  },
-  {
-    "topic": "Tacos El Bronco 5th Ave Sunset Park",
-    "reason": "Other Mexican anchor on the same 5th Ave corridor — completes the panaderia/taqueria pairing near Don Paco",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:54:31.833Z"
-  },
-  {
-    "topic": "Don Paco Lopez Panaderia Sunset Park",
-    "reason": "Direct comparison venue for ranking; ensures both peers are in the corpus side-by-side",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:54:31.833Z"
-  },
-  {
-    "topic": "Tacos El Bronco — 4324 5th Ave Sunset Park taqueria",
-    "reason": "Direct neighbor on the same 5th Ave Mexican corridor; expands late-night taco cluster for cross-comparison",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:56:30.359Z"
-  },
-  {
     "topic": "Don Paco Lopez Panaderia — Sunset Park Mexican bakery for late-night pan dulce",
     "reason": "Pairs naturally with a Matamoros stop; rounds out the Sunset Park Mexican cluster with a dessert/coffee option",
     "requestedBy": "agent",
@@ -7216,5 +7186,83 @@
     "reason": "Natural dessert/coffee follow-up on the same 4th Ave drag, walkable from Bronco for a multi-stop Mexican track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T02:39:31.025Z"
+  },
+  {
+    "topic": "Panaderia Mi Mexico Pequeño 4513 5th Ave Sunset Park Brooklyn",
+    "reason": "Actual 5th Ave Mexican bakery — gives the cluster a true 5th-Ave-strip pan dulce alternative if Don Paco is closed Sunday afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:41:38.341Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos Bushwick weekend tour",
+    "reason": "Borough-wide Mexican depth: working tortilla factory with taco counter, expands the Mexican-food corpus beyond Sunset Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:41:38.341Z"
+  },
+  {
+    "topic": "Sunset Park 5th Ave Mexican corridor walking food crawl best stops",
+    "reason": "Lets the planner build a multi-stop Mexican track instead of single venues — useful for the geographic-cluster track model",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:41:38.341Z"
+  },
+  {
+    "topic": "Mesa Coyoacan Williamsburg",
+    "reason": "Upscale sit-down Mexican in Williamsburg — completes the Mexican-vibe spectrum (factory floor → bakery → date-night) inside the 15-min-drive cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:43:54.156Z"
+  },
+  {
+    "topic": "Roberta's Bushwick",
+    "reason": "Adjacent Bushwick destination — once a guest has driven 22 min to Starr St, Roberta's wood-fired pizza is a 6-min hop and unlocks a full Bushwick track instead of a one-stop detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:43:54.157Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos Bushwick",
+    "reason": "Anchor of the wider NYC Mexican food map; if user is open to a 25-min Bushwick detour, completes the 'taqueria attached to a working tortilla factory' archetype the 5th Ave corridor lacks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:46:11.573Z"
+  },
+  {
+    "topic": "Melt Bakery or other ice-cream/dessert stop near 5th Ave Sunset Park",
+    "reason": "Dessert third act after panaderia + taqueria; closes the loop on a 5th Ave food-crawl track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:46:11.573Z"
+  },
+  {
+    "topic": "Costa Verde Restaurant 5th Ave Sunset Park",
+    "reason": "Adds Ecuadorian/Latin breadth to the 5th Ave corridor beyond the Mexican axis — gives tracks a non-taco alternative for repeat visitors",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:46:11.573Z"
+  },
+  {
+    "topic": "Tacos El Bronco Sunset Park 5th Ave",
+    "reason": "Iconic Sunset Park taco truck/storefront — completes a Mexican food crawl pairing with Don Paco for a single-track itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:48:17.637Z"
+  },
+  {
+    "topic": "Sunset Park (the actual park) skyline viewpoint",
+    "reason": "Free, photogenic Manhattan-skyline overlook 4 blocks from Don Paco — natural after-bakery stop with zero added drive time",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:48:17.637Z"
+  },
+  {
+    "topic": "Tacos Matamoros — 4508 5th Ave Sunset Park taqueria",
+    "reason": "Direct competitor two blocks south on the 5th Ave Mexican corridor; classic crawl pairing for cross-comparison",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:50:54.579Z"
+  },
+  {
+    "topic": "Don Paisano — 5th Ave Sunset Park birria specialist",
+    "reason": "Birria-forward neighbor extends the late-night taco cluster with a different signature dish",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:50:54.579Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos — Bushwick taqueria inside a tortilla factory",
+    "reason": "Drivable from IC (~18 min); fresh-pressed tortillas anchor a separate Mexican-track alternative outside Sunset Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:50:54.580Z"
   }
 ]
