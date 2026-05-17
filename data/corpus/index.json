@@ -7384,41 +7384,41 @@
   {
     "id": "sunken-harbor-club",
     "name": "Sunken Harbor Club",
-    "desc": "Nautical 2nd-floor tiki cocktail bar above Gage & Tollner, walk-in only, Frizell's post-Fort-Defiance program.",
-    "longDesc": "Intimate nautical/tropical cocktail bar tucked on the 2nd floor above the historic Gage & Tollner restaurant in Downtown Brooklyn. After eight years as a weekly pop-up at St. John Frizell's Red Hook mainstay Fort Defiance, the Club anchored here in October 2021; cocktails are designed and executed by Chief Cocktail Officer Garret Richard, co-author of a notable cocktail techniques book. Walk-in only, first-come first-served, 21+ after 7pm — small room fills fast on weekends.",
+    "desc": "Tropical cocktail bar tucked above Gage & Tollner, fine-dining tiki by Garret Richard.",
+    "longDesc": "A second-floor hideaway above the landmarked Gage & Tollner dining room on Fulton Street, Sunken Harbor Club is Chief Cocktail Officer Garret Richard's tropical lab — rum-forward Mai Tais, swizzles, and obscure tiki revivals served in a wood-paneled, nautical-kitsch room (sunkenharbor.club). It's walk-in only and 21+ after 7pm, so arrive at 5pm on a Saturday to actually sit at the bar (yelp.com). For the South Brooklyn cocktail trio it slots perfectly as the tropical counterpoint to Long Island Bar's stiff classics — same Cecchini/Frizell orbit, ~8 min drive from Industry City.",
     "url": "https://www.sunkenharbor.club/location/new-york/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
+      "chill",
       "curious",
-      "romantic",
-      "chill"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "Fri-Sat 17:00-00:00, Sun 17:00-23:00",
-    "notes": "Cross-zone option — 15 min drive from IC, outside the Red Hook cluster, so use as a standalone evening anchor rather than slotting into a Red Hook track. Address: 372 Fulton St, 2nd Fl, Brooklyn NY 11201. Walk-in only — no reservations, expect a wait on weekends (yelp). Park in one of the Fulton Mall public garages; metered street parking is hard after 18:00. Phone (347) 689-3677. Photo not yet sourced — needs CDN lookup or AI background.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "17:00-00:00",
+    "notes": "372 Fulton St, 2nd Floor — entrance via Gage & Tollner. Walk-in only, no reservations; arrive at open (5pm) for bar seats (sunkenharbor.club). 21+ after 7pm. Street parking on Fulton/Smith is tight on weekend nights — Schermerhorn or Hoyt municipal garages are the reliable bet. Cocktail program by Garret Richard, co-author of 'Tropical Standard'; rum-heavy menu with Mai Tais, swizzles, and dealer's-choice. Pairs as 3rd stop after Long Island Bar (Cobble Hill) and a Red Hook dinner; or as a single destination night with Gage & Tollner downstairs.",
     "sources": [
       {
         "url": "https://www.sunkenharbor.club/location/new-york/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.gageandtollner.com/location/sunken-harbor-club/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sunken-harbor-club-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/sunken-harbor-club",
+        "accessed": "2026-05-17T22:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T16:55:39.685Z"
+    "lastResearchedAt": "2026-05-17T21:46:43.043Z"
   },
   {
     "id": "midnights-williamsburg",
@@ -23807,50 +23807,46 @@
   },
   {
     "id": "sunset-park-viewpoint",
-    "name": "Sunset Park (the park)",
-    "desc": "Hilltop Brooklyn park with one of the best Manhattan skyline + Statue of Liberty sunset views in NYC",
-    "longDesc": "A 24.5-acre hilltop park between 41st-44th Streets and 5th-7th Avenues whose crown is its namesake sunset: from the upper lawn you get an unobstructed sweep of the Manhattan skyline, New York Harbor, the Statue of Liberty, and the Verrazzano in one frame. Far less crowded than Brooklyn Bridge Park or DUMBO, it's a 5-8 minute drive uphill from Industry City and an ideal walk-off after Sunset Park dim sum.",
+    "name": "Sunset Park (Brooklyn High Point)",
+    "desc": "Brooklyn's highest natural point — panoramic Lower Manhattan skyline + Statue of Liberty at dusk.",
+    "longDesc": "A 24.5-acre hilltop park between 41st-44th Streets and 5th-7th Avenues that rises to 164 ft, the highest natural elevation in Brooklyn. From the crest just west of 7th Ave at 43rd St you get an unobstructed westward sightline across brownstone Brooklyn to the Statue of Liberty, the Lower Manhattan skyline, Staten Island and the Jersey hills — making it one of the city's quietest, free-est golden-hour spots. It's a 5-minute drive from Industry City and an easy pairing with Green-Wood Cemetery before a night activity.",
     "url": "https://www.nycgovparks.org/parks/sunset-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "park-slope",
     "vibe": [
       "chill",
-      "photo",
-      "romantic"
+      "romantic",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "8 min",
+    "driveFromIC": "6 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Free 3-hour parking lot on the north side of the park; additional street parking on surrounding blocks but tight on weekends (parkopedia, spothero). The high point of the lawn near 6th Ave and 43rd St is the money shot — Manhattan skyline framed by the harbor and Statue of Liberty (NYC Parks). Time arrival ~30 min before sunset; the lawn fills with locals and photographers as light turns. Pair with Industry City food hall or East Wind Snack Shop dim sum beforehand.",
+    "notes": "Park itself open dawn-1am (NYC Parks standard). Recreation center currently closed for reconstruction, but the hilltop lawn/promenade is fully open. Best viewpoint: top of the slope just west of 7th Ave at 43rd St — arrive 20-30 min before posted sunset for the skyline-to-Statue-of-Liberty sightline (NY Almanack, NYC Parks). Street parking on 6th-7th Aves is generally available on weekend evenings; no dedicated lot. Pair naturally with Green-Wood Cemetery (4 min north) or Industry City dinner after.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/sunset-park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T21:40:00Z"
+      },
+      {
+        "url": "https://www.newyorkalmanack.com/2024/01/brooklyn-sunset-park-new-york-city/",
+        "accessed": "2026-05-17T21:40:00Z"
       },
       {
         "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T21:40:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://yourbrooklynguide.com/brooklyn-sunset-spots/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T21:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:49:56.354Z"
+    "lastResearchedAt": "2026-05-17T21:44:37.029Z"
   },
   {
     "id": "made-bush-terminal",
@@ -34056,5 +34052,131 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T21:35:54.190Z"
+  },
+  {
+    "id": "green-wood-historic-trolley-tour",
+    "name": "Discover Green-Wood Historic Trolley Tour",
+    "desc": "2-hour Saturday trolley through Brooklyn's 478-acre garden cemetery — Basquiat, Battle of Brooklyn, Gothic Revival arches.",
+    "longDesc": "Green-Wood Cemetery's flagship public tour: a guided trolley loop through 478 acres of 19th-century landscape past notable graves (Basquiat, Bernstein, Boss Tweed) and Revolutionary War sites from the Battle of Brooklyn. Tours run Saturdays 1:00-3:00pm with check-in at the trolley by the Gothic Arch at the Main Entrance (5th Ave & 25th St). $30 general / $20 Green-Wood Historic Fund members; ages 10+ recommended.",
+    "url": "https://www.green-wood.com/calendar/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Sat 13:00-15:00",
+    "notes": "Meet at the Gothic Arch / Main Entrance, 500 25th St, Brooklyn — check-in at the trolley (https://www.eventbrite.com/e/discover-green-wood-trolley-tour-tickets-1980161691925). $30 general, ~$20 members; tickets via Eventbrite often add a small fee. Trolley itself is ADA-compliant but some stops aren't — advance arrangements via 718-210-3080 ext. 1 (green-wood.com). On-site parking inside the gates is free on weekends. Tour is fixed-route, no quick exits — bring water, sun cover, and a real camera if you're shooting (the Gothic Arch + Battle Hill views are the photo set).",
+    "sources": [
+      {
+        "url": "https://www.eventbrite.com/e/discover-green-wood-trolley-tour-tickets-1980161691925",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/events/discover-green-wood-historic-trolley-tour/",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.green-wood.com/group-tours/",
+        "accessed": "2026-05-17T22:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:38:10.877Z"
+  },
+  {
+    "id": "nightfall-at-green-wood",
+    "name": "Nightfall at Green-Wood",
+    "desc": "Once-a-year fall night where Green-Wood Cemetery transforms into an illuminated stage of musicians, circus, and projection.",
+    "longDesc": "Green-Wood's flagship after-dark event — a three-hour, non-linear nighttime walk through illuminated cemetery paths where 2,000 attendees encounter classical musicians tucked between mausoleums, Bindlestiff Family Cirkus acts, Rooftop Films projections cast onto stone, candlelit Morbid Anatomy storytellers, and MC Creatine Price's operatic interludes. Produced with Death of Classical, it runs one or two October nights only (7pm–10pm); 21+, flashlight + sturdy shoes required, and it sells out fast each year.",
+    "url": "https://www.green-wood.com/event/nightfall-2/",
+    "photoUrl": "https://gwc-14060.kxcdn.com/wp-content/uploads/2025/07/nightfall-2025.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "photo",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "3 hr",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "19:00-22:00 (mid-October only; check-in 18:30)",
+    "notes": "Seasonal flagship — one or two nights in mid-October only (Oct 16–17 in 2025). GA $85 / member $68 / premium $115 with 2 drinks + tote (source: green-wood.com event page). 21+ with ID; non-linear three-hour outdoor walk over steep hills, stairs, and uneven terrain — flashlight strongly encouraged (source: green-wood.com). Partners: Death of Classical, Rooftop Films, Bindlestiff Family Cirkus, Morbid Anatomy; MC Creatine Price (source: deathofclassical.com). Tickets sell out; final sale, no refunds. Drive from IC ~8 min via 3rd Ave to 25th St main gate; weekend street parking on 5th Ave is usually findable but arrive 15+ min early.",
+    "sources": [
+      {
+        "url": "https://www.green-wood.com/event/nightfall-2/2025-10-16/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.deathofclassical.com/concerts/nightfall-2025",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/non-profit-community/nightfall-time-flies-set-to-dazzle-visitors-at-green-wood-cemetery-9622188",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.broadwayworld.com/cabaret/article/Review-Death-of-Classicals-NIGHTFALL-Transformed-Green-Wood-Cemetery-20251025",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T21:40:14.287Z"
+  },
+  {
+    "id": "angels-share-catacombs-greenwood",
+    "name": "The Angel's Share — Concerts in the Catacombs (Green-Wood)",
+    "desc": "Death of Classical's candlelit chamber-music series inside Green-Wood's 1850s catacombs.",
+    "longDesc": "Curated by Andrew Ousley with composer Paola Prestini orbiting the lineup (her 'Houses of Zodiac' ran here Oct 2025), the Angel's Share stages 30-40 person chamber-music shows by candlelight inside Green-Wood Cemetery's historic catacombs — Vogue called it 'one of the most riveting and unusual chamber music performances of my lifetime.' Tickets typically include a guided sunset walk through the cemetery plus a whiskey/wine pour, then 60-75 min of music in the crypt; tickets are usually $95-$175 and sell out within minutes of the mailing-list drop. Upcoming 2026 dates include Min Kwon's 'America/Beautiful 250' (Jun 18-20) and the Poesis Quartet performing Beethoven Op. 135 (Jul 9-11).",
+    "url": "https://www.deathofclassical.com/series/angelshare",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "romantic",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "2-2.5 hr",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "shows typically 7:00pm-9:30pm; arrival 30 min early",
+    "notes": "Main entrance 500 25th St, Brooklyn — gothic arch gate is the meeting point (deathofclassical.com). Street parking on 25th St / 5th Ave usually open weekend evenings; cemetery itself has no public lot. Pairs perfectly with a Park Slope/South Slope dinner after (Pasta Louise, Krupa Grocery). Get on the Death of Classical newsletter — Vogue/Gothamist coverage means tickets disappear in <10 min (gothamist.com). Series runs roughly Apr-Oct; check site for 2026 full calendar (deathofclassical.com).",
+    "sources": [
+      {
+        "url": "https://www.deathofclassical.com/series/angelshare",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.paolaprestini.com/news/paola-prestini-announces-2025-26-season",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/arts-entertainment/in-the-nycs-crypts-and-catacombs-death-of-classical-brings-music-to-life",
+        "accessed": "2026-05-17T22:00:00Z"
+      },
+      {
+        "url": "https://bkreader.com/2022/03/29/a-walk-to-the-catacombs-for-a-classical-concert-acclaimed-music-series-returns-to-green-wood-cemetery",
+        "accessed": "2026-05-17T22:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T21:42:33.199Z"
   }
 ]
