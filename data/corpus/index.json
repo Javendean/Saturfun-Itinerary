@@ -21069,16 +21069,16 @@
   {
     "id": "brooklyn-farmacy-soda-fountain",
     "name": "Brooklyn Farmacy & Soda Fountain",
-    "desc": "1920s apothecary turned soda fountain: egg creams, sundaes, tin ceilings",
-    "longDesc": "A working soda fountain inside the preserved Longo's Pharmacy storefront from 1920, complete with original wooden drawers, penny-tile floor and pressed-tin ceiling. Soda jerks pull authentic Brooklyn egg creams and build sundaes with Adirondack Creamery ice cream, house-made syrups, hot fudge, toasted pecans and crumbled hard pretzels. The classic stop after a Cobble Hill/Carroll Gardens food crawl — counter seating, family-friendly, no reservations.",
+    "desc": "1920s apothecary turned soda fountain — egg creams, sundaes, tin ceilings, soda jerks in aprons",
+    "longDesc": "Restored 1920s pharmacy on a quiet Carroll Gardens corner where soda jerks pull New York egg creams and build over-the-top sundaes behind the original marble counter. Penny-tile floors, tin ceilings, and the apothecary's wooden drawers are intact — a photo-vibe slot that pairs naturally with a dessert crawl. Small-batch house syrups, ice cream floats, and seasonal specials anchor the menu alongside espresso, beer, and wine.",
     "url": "http://www.brooklynfarmacyandsodafountain.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
       "chill",
-      "foodie",
-      "photo"
+      "photo",
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
@@ -21087,33 +21087,33 @@
     "duration": "30-45 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "13:00-22:00",
-    "notes": "513 Henry St at Sackett, Carroll Gardens. Weekend hours Sat–Sun 1pm–10pm; weekdays open 2pm (source: brooklynfarmacyandsodafountain.com/hours). Signature items: NY egg cream, ice cream floats, sundaes with hard-pretzel + pecan + hot fudge toppings, Adirondack Creamery ice cream including cherry-chocolate-chip; small savory menu (sandwiches, breakfast biscuits) too (source: Yelp 2026, Tripadvisor 2026). Street parking on Henry/Sackett usually available weekends; small interior so weekend afternoons can wait 10–20 min. Pairs naturally with Court St / Smith St food stops before the sundae stop.",
+    "notes": "Address 513 Henry St at Sackett, in the original Longo Brothers Pharmacy (1920s) — interior restoration kept the wooden drawers, marble counter, penny tile and tin ceiling (citylore.org). Soda jerks build egg creams and sundaes to order; menu also includes house-syrup sodas, floats, milkshakes, baked goods, espresso, wine, and beer (brooklynfarmacyandsodafountain.com/menu). Weekend hours Sat-Sun 1pm-10pm (yelp.com). Street parking only and Carroll Gardens signs are day-specific — read the post before locking the car; Smith St garages are a 5-min walk if needed. Pairs cleanly with Malai Ice Cream on Smith St for a two-stop dessert crawl, both <0.5 mi apart.",
     "sources": [
       {
-        "url": "http://www.brooklynfarmacyandsodafountain.com/hours",
-        "accessed": "2026-05-17T15:25:00Z"
+        "url": "http://www.brooklynfarmacyandsodafountain.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "http://www.brooklynfarmacyandsodafountain.com/menu",
-        "accessed": "2026-05-17T15:25:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/brooklyn-farmacy-and-soda-fountain-brooklyn",
-        "accessed": "2026-05-17T15:25:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/brooklyn-farmacy-soda-fountain/",
-        "accessed": "2026-05-17T15:25:00Z"
+        "url": "https://citylore.org/places/brooklyn-farmacy-soda-fountain/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://onthegrid.city/brooklyn/carroll-gardens/brooklyn-farmacy-soda-fountain",
-        "accessed": "2026-05-17T15:25:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/brooklyn-farmacy-soda-fountain-1",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T15:20:24.642Z"
+    "lastResearchedAt": "2026-05-17T18:46:41.632Z"
   },
   {
     "id": "the-pottery-studio-brooklyn-gowanus",
@@ -31833,5 +31833,191 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T18:36:40.858Z"
+  },
+  {
+    "id": "soft-swerve-downtown-brooklyn",
+    "name": "Soft Swerve (Downtown Brooklyn)",
+    "desc": "Asian-flavor soft serve: ube, black sesame, matcha with mochi/crunchy toppings",
+    "longDesc": "Soft Swerve specializes in Asian-inspired soft serve - signature ube (purple yam) and black sesame are the photo-bait flavors, with matcha, Hong Kong milk tea, and Vietnamese coffee rotating in. You can swirl two flavors and pile on crunchies, mochi, or Skor toffee. Note: no Williamsburg storefront exists - the only Brooklyn location is in Downtown Brooklyn at 445 Albee Square W, which is actually a shorter drive from Industry City than Williamsburg would be.",
+    "url": "https://www.softswervenyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "curious",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "12:00-22:30",
+    "notes": "Address: 445 Albee Square W, Brooklyn (Downtown Brooklyn, near City Point / DeKalb Market Hall) (softswervenyc.com). Hours Mon-Sun 12:00-22:30 (yelp.com). Signature ube and black sesame soft serve; vegan ube available (softswervenyc.com/menu). No Williamsburg location exists - confirmed via official site listing only Downtown Brooklyn for Brooklyn. Street parking around Fulton/Flatbush is metered and tight; better to use City Point garage or DeKalb Market lot. Pairs well as a sweet finisher after a Dumbo or downtown stop; can be grabbed to-go and walked to nearby Fort Greene Park.",
+    "sources": [
+      {
+        "url": "https://www.softswervenyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.softswervenyc.com/menu",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/soft-swerve-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://downtownbrooklyn.com/listing/soft-swerve/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:40:49.133Z"
+  },
+  {
+    "id": "tacocina-domino-park",
+    "name": "Tacocina at Domino Park",
+    "desc": "Danny Meyer taco stand on the East River with skyline views, margaritas, and a sunset waterfront stroll.",
+    "longDesc": "Tacocina is a Union Square Hospitality Group (Shake Shack team) taco kiosk tucked into Williamsburg's Domino Park, serving pork, chicken adobo, beef-and-potato, and shrimp tacos alongside margaritas, mezcal negronis, and Mexican shrimp cocktail. Pair an evening order with the park's elevated waterfront walkway for direct Manhattan-skyline sunset views over the East River. No reservations and weekend evenings get loud and lively, so grab tacos to-go and post up on the benches near the syrup tanks.",
+    "url": "https://www.heytacocina.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:30-21:00",
+    "notes": "Address: 25 River St, Brooklyn NY 11249, inside Domino Park (Yelp). Open daily 11:30am-9pm including Sat/Sun (heytacocina.com, Yelp). No reservations — counter order, outdoor benches (NYC Tourism). Pairs with the elevated waterfront walkway for sunset/Manhattan skyline shots (dominopark.com). Park itself open 6am-1am, so post-dinner stroll is easy. Street parking on Kent Ave / River St; three park entrances at Kent & S 5th, S 3rd, and Grand. Drive from Industry City via BQE ~18 min off-peak. Naturally chains with OddFellows Ice Cream on Kent Ave (same Domino Park stop).",
+    "sources": [
+      {
+        "url": "https://www.heytacocina.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tacocina-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/tacocina/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.dominopark.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.dominopark.com/plan-your-visit",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.afar.com/magazine/the-geniuses-behind-shake-shack-just-opened-a-taco-stand-in-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T18:42:40.654Z"
+  },
+  {
+    "id": "caffe-panna-greenpoint",
+    "name": "Caffè Panna Greenpoint",
+    "desc": "Italian-style gelato factory-shop with daily-changing scoops, affogatos, and tomato-basil soft serve sundaes",
+    "longDesc": "Hallie Meyer's beloved Gramercy gelato shop expanded into a 5,000 sqft Greenpoint factory in July 2024 at the corner of Norman and Banker — 3,500 sqft of onsite production fueling a dozen+ daily-changing flavors including signatures Red Flag (strawberry-graham) and Aud's Dream (peanut butter swirl). Greenpoint-exclusives include affogatos, granitas, and the Sungold soft serve sundae topped with cherry tomatoes, basil, olive oil, and sea salt. Indoor seating plus outdoor tables on Norman Ave, with hand-packed pints ($13) and collab flavors with Pan Pan Vino Vino and Taku Sando.",
+    "url": "https://www.caffepanna.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Wed-Sun 13:30-21:30 (closed Mon-Tue)",
+    "notes": "Italian-American gelato counterpoint to Malai's South Asian program — extends the dessert axis at the north edge of the 25-min drive window. Late close (9:30pm) makes it a strong post-dinner cap. Daily-rotating menu means flavor lineup is unpredictable; follow @caffepanna on IG morning-of for the day's list. Sungold sundae is the photo grab — savory-sweet tomato/basil/EVOO/sea salt on soft serve, only available in Greenpoint (bkmag.com). Closed Mon/Tue is the main scheduling constraint. Street parking on Norman/Banker is feasible on weekends but tighter than Industry City; allow a few extra minutes.",
+    "sources": [
+      {
+        "url": "https://www.caffepanna.com/",
+        "accessed": "2026-05-17T18:45:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2024/07/16/caffe-panna/",
+        "accessed": "2026-05-17T18:45:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/lifestyle-culture/heres-the-scoop-on-ice-cream-shop-caffe-panna-landing-in-greenpoint-9221838",
+        "accessed": "2026-05-17T18:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:44:45.321Z"
+  },
+  {
+    "id": "japanese-bite-stand-yamada",
+    "name": "Japanese Bite Stand Yamada",
+    "desc": "Kakigori stand inside Japan Village food hall — fluffy shaved ice with matcha, syrups, and mochi sides.",
+    "longDesc": "Yamada is a counter inside Japan Village, the sprawling Japanese food hall occupying Industry City Buildings 3 & 4. The specialty is kakigori — paper-thin shaved ice mounded high and drenched in syrups like uji matcha, kinako, and seasonal fruit, often finished with condensed milk or soft serve. The stand also rotates mochi ice cream, matcha and hojicha drinks, and small Japanese bites, making it the cleanest 'walk five minutes from Big Alice' dessert capstone Saturfun can offer.",
+    "url": "https://www.japanvillage.com/eat-drink/yamada",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "12:00-19:00",
+    "notes": "Located on the upper food-hall level of Japan Village at 934 3rd Ave, which industrycity.com lists as a tenant in Buildings 3 & 4 (industrycity.com/tenants/japan-village). Yamada stand hours are 12:00–19:00 daily per Yelp listing (yelp.com/biz/japanese-bite-stand-yamada-brooklyn); Japan Village overall stays open until 21:00 on Fri/Sat (japanvillage.com). Parking: IC's 2nd Ave garage and street parking on 3rd Ave are typically open on weekends. Pairs naturally with a Sunrise Mart browse before/after.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/yamada",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japanese-bite-stand-yamada-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/yamada_stand_ny/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T18:49:26.804Z"
   }
 ]

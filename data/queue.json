@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Soft Swerve Williamsburg ube/black sesame soft serve",
-    "reason": "Distinct Asian-flavor soft-serve alternative within the cluster, fills the curious/photo vibe",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:25:22.387Z"
-  },
-  {
-    "topic": "Domino Park weekend evening food + scenery loop (Tacocina + waterfront)",
-    "reason": "Pairs naturally with OddFellows as a single Domino Park stop for itinerary chaining",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:25:22.388Z"
-  },
-  {
-    "topic": "Caffè Panna Greenpoint (16 Norman Ave) Italian-style gelato outpost",
-    "reason": "Italian-American gelato counterpoint to Malai; opened 2024 in a 5,000 sqft factory/shop, Wed-Sun late hours — extends the dessert axis at the far edge of the 25-min drive window",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:27:41.987Z"
-  },
-  {
-    "topic": "Brooklyn Farmacy & Soda Fountain (Carroll Gardens) old-school egg creams and sundaes",
-    "reason": "Pairs naturally with Malai on a Smith/Court dessert crawl; nostalgia/photo-vibe slot the corpus is missing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:27:41.987Z"
-  },
-  {
-    "topic": "Hijiki Dessert Bar or other Brooklyn Japanese kakigori spot",
-    "reason": "Third dessert culture (Japanese shaved ice / matcha soft serve) would round out the spiced/Italian/Japanese trio beyond Van Leeuwen",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T16:27:41.987Z"
-  },
-  {
     "topic": "Junior's Restaurant & Cheesecake — 386 Flatbush Ave Ext, Downtown Brooklyn (Fri/Sat until midnight)",
     "reason": "Iconic Brooklyn cheesecake institution; perfect 11pm-midnight dessert anchor for a Downtown Brooklyn / Fort Greene track even though it closes before 3am",
     "requestedBy": "agent",
@@ -12112,5 +12082,95 @@
     "reason": "Adjacent Williamsburg daytime anchor — fills the morning/afternoon slot in same cluster as Van Leeuwen evening stop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T18:38:42.202Z"
+  },
+  {
+    "topic": "DeKalb Market Hall food hall Downtown Brooklyn weekend lunch",
+    "reason": "Same City Point complex as Soft Swerve - natural pairing for a downtown food stop with 40+ vendors covering multiple cuisines",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:40:49.156Z"
+  },
+  {
+    "topic": "Spritzenhaus33 Greenpoint beer garden weekend driving",
+    "reason": "Adjacent neighborhood beer-garden vibe with parking, expands Greenpoint/Williamsburg cluster for chill outdoor drinks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:40:49.156Z"
+  },
+  {
+    "topic": "Burly Coffee Williamsburg specialty espresso bar",
+    "reason": "If user wants a true Williamsburg coffee anchor since this Soft Swerve isn't there, fills the photo/curious slot for that zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:40:49.156Z"
+  },
+  {
+    "topic": "Domino Park elevated walkway sunset photo spot",
+    "reason": "Standalone scenery anchor that pairs with any Williamsburg food stop, not just Tacocina",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:42:40.679Z"
+  },
+  {
+    "topic": "Misi or Lilia patio weekend evening Williamsburg",
+    "reason": "Upscale Italian alternative for the same Domino Park / North Williamsburg cluster if user wants a sit-down dinner instead of a taco-stand",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:42:40.679Z"
+  },
+  {
+    "topic": "Marsha (rooftop) at The William Vale Williamsburg",
+    "reason": "Rooftop skyline-view bar 8 min north of Domino Park — extends the waterfront-evening cluster after tacos",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:42:40.679Z"
+  },
+  {
+    "topic": "Pan Pan Vino Vino Greenpoint natural wine bar (Caffè Panna collab partner)",
+    "reason": "Same Greenpoint cluster, evening drinks pairing with the gelato stop; closes the food→wine→dessert loop in one neighborhood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:44:45.345Z"
+  },
+  {
+    "topic": "Taku Sando Greenpoint Japanese sandwich shop",
+    "reason": "Caffè Panna collab partner, walkable from 16 Norman; adds a savory anchor that lets a Greenpoint mini-track stand on its own",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:44:45.345Z"
+  },
+  {
+    "topic": "WNYC Transmitter Park Greenpoint waterfront with Manhattan skyline view",
+    "reason": "8-min walk from Caffè Panna; free outdoor anchor that converts a one-stop dessert run into a proper Greenpoint evening loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:44:45.345Z"
+  },
+  {
+    "topic": "Court Pastry Shop (Court St, Carroll Gardens) old-school Italian-American bakery — lobster tails, sfogliatelle, cannoli",
+    "reason": "Same nostalgia/old-Brooklyn lane as Farmacy; cheap walk-up dessert that extends a Carroll Gardens dessert crawl by one more stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:46:41.655Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods (Court St) deli + fresh mozzarella counter",
+    "reason": "Fills a savory anchor in the Smith/Court corridor the corpus currently treats as dessert-only; lets the cluster cover a real meal, not just sweets",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:46:41.656Z"
+  },
+  {
+    "topic": "Books Are Magic (Smith St flagship) indie bookstore",
+    "reason": "Photo-vibe + browsing buffer between dessert stops in the same Carroll Gardens cluster; non-food slot the corpus is thin on for this zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:46:41.656Z"
+  },
+  {
+    "topic": "Bonsai Kakigori (30 N 7th St, Williamsburg) — fine-dining kakigori with seasonal sculpted presentations",
+    "reason": "Backup Japanese shaved-ice anchor if Yamada is closed; ~20 min drive from IC, weekend street parking on the BQE side blocks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:49:26.827Z"
+  },
+  {
+    "topic": "Cafe Japon at Japan Village — tea-forward sibling stand serving kakigori and yuzu lattes",
+    "reason": "Same Industry City address as Yamada; gives a quieter, sit-down alternative for the matcha+shaved-ice slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:49:26.828Z"
+  },
+  {
+    "topic": "Patisserie Tomoko (568 Union Ave, Williamsburg) — Japanese pastry counter with seasonal kakigori and matcha mille crepe",
+    "reason": "Diversifies Japanese-dessert coverage beyond pure shaved-ice if user wants a refined cake-shop variant within 20 min drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T18:49:26.828Z"
   }
 ]
