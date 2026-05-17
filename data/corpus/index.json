@@ -31336,5 +31336,246 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T18:01:48.476Z"
+  },
+  {
+    "id": "modern-love-brooklyn",
+    "name": "Modern Love Brooklyn (CLOSED)",
+    "desc": "CLOSED June 2025 — Isa Chandra Moskowitz's swanky vegan comfort spot shuttered after 8 years",
+    "longDesc": "Modern Love Brooklyn, chef Isa Chandra Moskowitz's beloved 'swanky vegan comfort food' restaurant at 317 Union Ave in Williamsburg, closed in June 2025 after eight years. Moskowitz cited margin compression from third-party delivery apps (DoorDash, Uber Eats) as a key factor. She said she's looking for a new space, but as of May 2026 nothing has been announced — do not include in itineraries.",
+    "url": "https://www.brooklynvegan.com/modern-love-closing-williamsburg-location/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "CLOSED PERMANENTLY",
+    "notes": "PERMANENTLY CLOSED June 2025 after 8 years at 317 Union Ave, Williamsburg (Brooklyn Vegan, Men's Journal). Owner Isa Chandra Moskowitz attributed closure to delivery-app fees eroding margins despite strong takeout volume (Brooklyn Vegan). She has stated she is 'already looking for a new space' but no replacement venue has been announced as of May 2026 (Men's Journal). Yelp listing confirms CLOSED status. Excluded from itinerary corpus — kept as a record so future research passes don't re-investigate.",
+    "sources": [
+      {
+        "url": "https://www.brooklynvegan.com/modern-love-closing-williamsburg-location/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.mensjournal.com/food/beloved-vegan-restaurant-is-closing-after-8-years",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/modern-love-brooklyn-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynvegan.com/nyc-vegan-restaurant-modern-love-struggling-to-keep-the-doors-open/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T18:04:08.313Z"
+  },
+  {
+    "id": "dirt-candy",
+    "name": "Dirt Candy",
+    "desc": "Michelin-starred vegetable tasting menu by Amanda Cohen on the LES — prestige vegetarian anchor.",
+    "longDesc": "Amanda Cohen's pioneering vegetable-only fine dining room at 86 Allen St, holding a Michelin star and running a seasonally-rotating five-course tasting menu ($110/pp, tip included). A defensible 'fully-vegetable prestige' anchor for nights when the itinerary needs a vegetarian centerpiece; reservations open ~30 days out and a credit card is required ($50/pp cancellation fee inside 24h).",
+    "url": "https://www.dirtcandynyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "2 hr",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 17:30-22:30; Sun closed",
+    "notes": "Actually in LES Manhattan (86 Allen St between Grand/Broome) — zone mapped to 'dumbo' as the nearest Brooklyn gateway since the enum has no Manhattan option; drive routes via Brooklyn-Battery Tunnel or Manhattan Bridge → Dumbo → FDR (~25 min from IC, weekend traffic dependent). Single $110 five-course tasting only (no a la carte); optional $55 wine pairing or $45 NA pairing (dirtcandynyc.com/reservations). Closed Sun & Mon — Saturday-only fit for weekend itineraries. Street parking on LES is rough; nearest garages on Broome/Delancey. Cohen is James Beard-nominated; Michelin star confirmed via guide.michelin.com listing.",
+    "sources": [
+      {
+        "url": "https://www.dirtcandynyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.dirtcandynyc.com/hours-location",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.dirtcandynyc.com/reservations",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/dirt-candy",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://robbreport.com/food-drink/dining/vegetarian-restaurant-dirt-candy-amanda-cohen-2727883/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:06:38.302Z"
+  },
+  {
+    "id": "reverie-williamsburg",
+    "name": "Reverie",
+    "desc": "Chef Guy Vaknin's vegan + kosher shared-plates flagship — Williamsburg's most refined plant-based room.",
+    "longDesc": "Reverie is the Brooklyn debut from City Roots Hospitality, helmed by Chef Guy Vaknin, serving globally inspired vegan shared plates (spicy tuna cones, whipped ricotta brioche, miso-glazed short ribs) inside a biophilic Williamsburg space of plaster, terracotta, brass, and velvet. Fully plant-based and kosher-certified — a rare combination in NYC — with a craft cocktail bar and weekend brunch service. Best treated as a tasting-style progression by ordering across the shared-plate sections.",
+    "url": "https://reveriebrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat-Sun brunch 11:30-15:30; Fri-Sat dinner 16:30-22:30; Sun dinner 16:30-22:00",
+    "notes": "Pivot from originally-queued 'Avant Garden (Williamsburg)' which is permanently closed at 188 Havemeyer St as of Sept 2025 (yelp.com/biz/avant-garden-brooklyn-brooklyn-2); the surviving Avant Garden at 95 Ave A is Manhattan-only and violates the driving-radius rule. Reverie is the strongest in-radius substitute: refined plant-based shared plates, Williamsburg, ~18 min from IC via Hamilton Ave/BQE. Apps $14-19, entrées $22-36, desserts $16-19, cocktails $17-22 (reveriebrooklyn.com/menu). Closed Mondays. Street parking in Williamsburg is tight on weekends — plan on Williamsburg Bridge plaza lots or Metropolitan Ave metered spots. Reservations via Resy; private dining for 11-25 with prix-fixe family-style is the closest thing to a formal tasting.",
+    "sources": [
+      {
+        "url": "https://reveriebrooklyn.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://reveriebrooklyn.com/vegan-restaurants-in-brooklyn-guide/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/reverie-vegan-restaurant-and-cocktail-bar-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/avant-garden-brooklyn-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://cityrootsnyc.com/restaurants/reverie/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:09:24.858Z"
+  },
+  {
+    "id": "semma-west-village",
+    "name": "Semma",
+    "desc": "1-Michelin Tamil Nadu cooking from Chef Vijay Kumar — NYC's only Michelin-starred Indian restaurant.",
+    "longDesc": "Semma (Unapologetic Foods, same team as Dhamaka/Adda) serves rigorous South Indian cooking rooted in Tamil Nadu traditions and topped the 2025 NYT 100 Best Restaurants list — the first Indian restaurant ever to claim #1. The vegetarian half of the menu is genuinely first-class: gunpowder dosa stuffed with masala potato, Mangalorean cauliflower, uzhavar santhai poriyal, and a seasonal root-vegetable uttappam. Reservations open ~15 days out on Resy; a handful of bar seats are held for walk-ins.",
+    "url": "https://www.semma.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "17:00-22:00 (Sat-Sun); closed Monday",
+    "notes": "Manhattan exception — uniquely justified: NYC's only Michelin-starred Indian restaurant (Michelin Guide), #1 on NYT 100 Best 2025, and one of the strongest pure-vegetarian tasting paths in the city for a milestone-celebration tier. 60 Greenwich Ave, West Village (212-373-8900). Drive from Industry City via Hugh L. Carey/Brooklyn-Battery Tunnel ~20-25 min off-peak; weekend street parking is scarce — recommend SP+ or Icon garage on W 13th/Greenwich Ave. Reservations are tough — set a Resy notify or arrive at 5pm for bar walk-ins. Pair with a West Village walk if you arrive early.",
+    "sources": [
+      {
+        "url": "https://www.semma.nyc/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/semma",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/semma",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/semma",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/semma-new-york-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:11:28.657Z"
+  },
+  {
+    "id": "wayward-fare",
+    "name": "Wayward Fare",
+    "desc": "Akhtar Nawab's seasonal Italian trattoria in Prospect Heights with global, well-traveled accents",
+    "longDesc": "Chef Akhtar Nawab's 44-seat Vanderbilt Ave trattoria spins Italian classics through a Mediterranean lens, drawing on Spain, France, Greece and Turkey alongside Italy. Exposed brick, a nine-seat bar and a wood-fired oven anchor the room; a recently opened outdoor café extends the seasonal program. Vogue named it one of NYC's most romantic restaurants and Eater flagged it among Brooklyn's best new openings.",
+    "url": "https://waywardfarebk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 17:00-22:00, Sun 17:00-21:00",
+    "notes": "554 Vanderbilt Ave, Brooklyn NY 11238; reservations via Resy, 347-221-1385 (waywardfarebk.com). Seasonal Italian with regional Mediterranean detours under chef Akhtar Nawab (Brooklyn Eagle, 2024-01-31). Wood-fired oven dishes include roasted oysters and swordfish with chickpeas and saffron (Hospitality HQ). Weekend dinner only — no lunch service; happy hour is weekdays. Vanderbilt Ave has metered street parking and side-street residential parking on Pacific/Dean.",
+    "sources": [
+      {
+        "url": "https://waywardfarebk.com/",
+        "accessed": "2026-05-17T18:05:00Z"
+      },
+      {
+        "url": "https://waywardfarebk.com/menu/",
+        "accessed": "2026-05-17T18:05:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2024/01/31/akhtar-nawab-expands-the-dining-experiences-in-prospect-heights/",
+        "accessed": "2026-05-17T18:05:00Z"
+      },
+      {
+        "url": "https://hosphq.com/project/wayward-fare/",
+        "accessed": "2026-05-17T18:05:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/wayward-fare/",
+        "accessed": "2026-05-17T18:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T18:13:30.507Z"
   }
 ]
