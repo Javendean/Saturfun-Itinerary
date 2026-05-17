@@ -12321,43 +12321,51 @@
   {
     "id": "bar-blondeau",
     "name": "Bar Blondeau",
-    "desc": "Sixth-floor Wythe Hotel rooftop with floor-to-ceiling Manhattan skyline views, French small plates and natural-wine cocktails.",
-    "longDesc": "Bar Blondeau sits six floors above the Wythe Hotel in Williamsburg with floor-to-ceiling windows framing unobstructed Manhattan skyline and East River views. The seafood-leaning French menu pairs with a seasonal, easy-sipping cocktail list and a deep natural-wine program, and the room shifts from a sunset hang into a late-night plant-filled lounge. Weekends open early (Sat 2pm, Sun 1pm), which makes it a viable golden-hour stop before dinner rather than only a nightcap.",
+    "desc": "Wythe Hotel 6th-floor rooftop bar — Manhattan-skyline views, French-leaning small plates, natural wine, late hours.",
+    "longDesc": "From the Le Crocodile / Chez Ma Tante team (Aidan O'Neal, Jake Leiber) with Golden Age Hospitality, Bar Blondeau sits atop the Wythe Hotel with unobstructed Manhattan skyline views and a Bonetti/Kozerski-designed leather-and-oak room. The kitchen is seafood-forward with French, Spanish and Portuguese accents, paired with natural wines and a serious cocktail program (Martini Blond, Sunbird, L'Orange frozen, Le Spritz on draft). Open until midnight weeknights and 1am Fri/Sat, it credibly fills the late-dinner cocktail-bar slot Achilles Heel used to hold.",
     "url": "https://www.barblondeau.com/",
-    "photoUrl": "https://cdn.sanity.io/images/q8q5tcan/production/93d6fd92e3a8a65a7429500a98d0b51465e39091-2500x1786.jpg?w=1600&q=75&fit=max&auto=format",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "romantic",
-      "photo",
-      "chill"
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$$",
-    "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 14:00-01:00, Sun 13:00-00:00",
-    "notes": "6th-floor rooftop at Wythe Hotel, 80 Wythe Ave (wythehotel.com/bar-blondeau). Weekend hours from official site: Sat opens 2pm, Sun opens 1pm; Fri/Sat close 1am, Sun-Thu close midnight (barblondeau.com). Reservations on Resy strongly recommended for sunset window. Built-in sound system supports DJ plug-in for private events but regular nights are ambient music, not a DJ program (wythehotel.com/bar-blondeau). Drive from Industry City via BQE ~18 min off-peak; street parking on Wythe/Berry is hit-or-miss on weekends — Wythe Hotel valet is the reliable fallback.",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "17:00-01:00",
+    "notes": "6th-floor rooftop of Wythe Hotel, 80 Wythe Ave (Williamsburg). Sunset Hour offers $11 cocktails 5-7pm weekdays (Yelp). Fri/Sat close at 1am — genuine late-night option (barblondeau.com). Chef partners Aidan O'Neal & Jake Leiber of Le Crocodile / Chez Ma Tante; cocktails by bar manager Sörine Anderson (WWD). Drive from Industry City via Gowanus + BQE typically 20-25 min weekends; Wythe Hotel has valet, plus street parking on N. 11th / Berry. Reservations on Resy recommended for kitchen seating; walk-ins at the bar.",
     "sources": [
       {
         "url": "https://www.barblondeau.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
       },
       {
         "url": "https://www.wythehotel.com/bar-blondeau",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
       },
       {
-        "url": "https://www.therooftopguide.com/rooftop-bars-in-new-york/bar-blondeau-at-wythe-hotel.html",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/bar-blondeau-brooklyn",
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://wwd.com/eye/lifestyle/bar-blondeau-wythe-hotel-williamsburg-brooklyn-1234891986/",
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/barblondeau",
+        "accessed": "2026-05-17T22:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T17:49:55.781Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T22:37:14.156Z"
   },
   {
     "id": "wakuwaku-ny",
@@ -26397,8 +26405,8 @@
   {
     "id": "le-crocodile-williamsburg",
     "name": "Le Crocodile",
-    "desc": "All-day French brasserie inside Wythe Hotel — steak frites, roast chicken, banquettes",
-    "longDesc": "Chefs Aidan O'Neal and Jake Leiber's polished neighborhood brasserie in the lobby of the Wythe Hotel, doing breakfast through dinner with a Parisian touch. Signatures include the steak au poivre with crisp golden frites and roast chicken with herb jus — strong upgrade tier above casual bistros when a night feels special. Reservations on Resy go fast for weekend dinner; brunch is a softer entry point.",
+    "desc": "All-day French brasserie inside the Wythe Hotel with a kitchen that runs to 11pm on weekends.",
+    "longDesc": "Le Crocodile is the Williamsburg brasserie from Chez Ma Tante chefs Aidan O'Neal and Jake Leiber, tucked into the lobby of the Wythe Hotel at 80 Wythe Ave. It serves earnest French fare — steak frites, escargot, roast chicken — in a Parisian-meets-NY room, and the kitchen stays open until 11pm Thursday through Saturday, making it a reliable late-dinner fallback when Greenpoint spots like Midnights wind down early.",
     "url": "https://www.lecrocodile.com/",
     "photoUrl": "https://static.wixstatic.com/media/3e9cbe_f534f70871dd4014b3594cbf908419ab~mv2.jpeg",
     "aiBackgroundUrl": "",
@@ -26412,31 +26420,31 @@
     ],
     "priceBand": "$$$",
     "duration": "90-120 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "07:00-23:00",
-    "notes": "Located in the Wythe Hotel, 80 Wythe Ave, Williamsburg (lecrocodile.com). Weekend hours run 7am-11pm Fri-Sat and 7am-10pm Sun (lecrocodile.com). Phone (718) 460-8004. ~18 min drive from Industry City via BQE; weekend street parking is tight but the Wythe valet and N 11th St lots are reliable. Best ordered: steak au poivre, roast chicken, frites, gougères — the room has classic French banquette + tile photo appeal. Pairs well as the upgrade slot in a Williamsburg cluster track alongside Domino Park, Bar Bête, and a Wythe rooftop nightcap (Bar Blondeau upstairs in the same hotel).",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 7:00-23:00, Sun 7:00-22:00",
+    "notes": "Located in Wythe Hotel lobby, 80 Wythe Ave, Williamsburg (lecrocodile.com). Hours: Mon-Wed & Sun 7am-10pm, Thu-Sat 7am-11pm — one of the later kitchens in north Brooklyn (yelp.com, nyctourism.com). Reservations via Resy strongly recommended for weekend dinner; walk-ins more feasible at the bar. Hotel valet plus paid street parking on Wythe/N 11th; weekend curbside is tight but doable past 9pm. Strong fallback when Greenpoint late-night spots close early; pairs well with a Bar Blondeau rooftop nightcap upstairs at the Wythe.",
     "sources": [
       {
         "url": "https://www.lecrocodile.com/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.wythehotel.com/dining",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/le-crocodile-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/le-crocodile/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://www.wythehotel.com/dining",
+        "accessed": "2026-05-17T22:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T10:12:16.854Z"
+    "lastResearchedAt": "2026-05-17T22:39:10.751Z"
   },
   {
     "id": "chez-moi",
@@ -32636,46 +32644,46 @@
   {
     "id": "le-crocodile",
     "name": "Le Crocodile",
-    "desc": "Upscale all-day French brasserie inside the Wythe Hotel on the Williamsburg-Greenpoint border",
-    "longDesc": "A polished neighborhood brasserie tucked into the Wythe Hotel, Le Crocodile serves earnest French fare — steak frites, escargots, raw bar — in a soft, candlelit room with green leather banquettes. It's the special-occasion anchor for the north Brooklyn corridor, with rooftop drinks at Bar Blondeau upstairs as a natural nightcap. Reservations on Resy are essential on weekends.",
+    "desc": "NYT 3-star French brasserie on the ground floor of the Wythe Hotel — pairs directly with Bar Blondeau upstairs.",
+    "longDesc": "All-day Williamsburg brasserie from Chez Ma Tante chef-partners Jake Leiber and Aidan O'Neal, occupying the ground floor of the Wythe Hotel in a soaring brick-and-timber room that was once a sugar-refinery cooperage. The kitchen turns out earnest French standards — crisp thin golden frites, steak au poivre, roasted chicken with herb jus — and earned a three-star New York Times review. Because Bar Blondeau sits six floors up in the same building, dinner here flows straight into a rooftop nightcap without moving the car.",
     "url": "https://www.lecrocodile.com/",
-    "photoUrl": "https://static.wixstatic.com/media/3e9cbe_f534f70871dd4014b3594cbf908419ab~mv2.jpeg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "romantic",
-      "foodie"
+      "foodie",
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$$",
     "duration": "90-120 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "07:00-23:00",
-    "notes": "Inside the Wythe Hotel at 80 Wythe Ave on the Williamsburg-Greenpoint border (lecrocodile.com). All-day service: breakfast, lunch, Après-Midi, dinner, and weekend brunch (lecrocodile.com/brunch-menu). Book via Resy — weekends fill fast (resy.com). Bar Blondeau on the rooftop is the obvious post-dinner move; valet/street parking around N 11th St on weekends.",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat-Sun brunch 10:00-15:00; Sat dinner 17:00-23:00; Sun dinner 17:00-22:00",
+    "notes": "NYT three-star brasserie and NYC Top 100 (nyctourism.com). Ground-floor tenant of the Wythe Hotel, directly below Bar Blondeau rooftop — natural pre/post-rooftop pairing without re-parking (wythehotel.com/dining). Breakfast Sat-Sun 7-10, brunch 10-15, après-midi 15-17, dinner runs late Thu-Sat (lecrocodile.com). Weekend street parking in north Williamsburg is tight; Wythe Hotel valet is the reliable fallback. Reserve via Resy 2-3 weeks out for prime Saturday slots.",
     "sources": [
       {
         "url": "https://www.lecrocodile.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
       },
       {
         "url": "https://www.wythehotel.com/dining",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/le-crocodile/",
+        "accessed": "2026-05-17T22:35:00Z"
       },
       {
         "url": "https://resy.com/cities/new-york-ny/venues/le-crocodile",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/le-crocodile-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T19:38:13.409Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T22:35:15.684Z"
   },
   {
     "id": "variety-coffee-greenpoint",
@@ -33639,11 +33647,11 @@
   },
   {
     "id": "westlight-william-vale",
-    "name": "Westlight",
-    "desc": "22nd-floor rooftop cocktail bar atop The William Vale with 360° Manhattan + Brooklyn skyline views.",
-    "longDesc": "Westlight sits on the 22nd floor of The William Vale hotel in Williamsburg, serving original and classic cocktails alongside rare spirits, craft beer, and small plates inspired by global street food from Andrew Carmellini's NoHo Hospitality Group. The wraparound terrace delivers 360° views spanning the Manhattan skyline, the East River, and north Brooklyn — best at golden hour. Under-21 guests are admitted until 6pm; after 6pm it becomes 21+, so time a family/mixed-age stop before sunset.",
+    "name": "Westlight at The William Vale",
+    "desc": "22nd-floor rooftop cocktail bar with 360° Manhattan + Brooklyn skyline views and Carmellini small plates.",
+    "longDesc": "Perched on the 22nd floor of The William Vale hotel, Westlight wraps a central bar in floor-to-ceiling glass that opens onto an outdoor terrace, offering uninterrupted sightlines to the Empire State Building, One World Trade Center, and the Brooklyn Bridge. The menu — handcrafted classic cocktails, rare spirits, craft beer, and globally-inflected small plates from chef Andrew Carmellini's NoHo Hospitality Group — is built for grazing while the light changes. It's the highest-altitude alternative to Bar Blondeau's 6th-floor terrace and the cleanest 'wow' moment in the Williamsburg track.",
     "url": "https://www.westlightnyc.com/",
-    "photoUrl": "https://images.getbento.com/accounts/e911161024a627d84acd70f29ca7b56f/media/In6ZLTzHQVmhIiFMNAW0_Gallery6.jpg?w=1200&fit=max&auto=compress,format&cs=origin",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
@@ -33656,27 +33664,35 @@
     ],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "20 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "Sat 12:00-02:00, Sun 12:00-00:00",
-    "notes": "22nd floor of The William Vale, 111 N 12th St (westlightnyc.com). Under-21 admitted until 6pm only; 21+ after 6pm (westlightnyc.com). Valet parking on-site at the hotel plus street parking nearby — meaningful for an IC→Williamsburg drive trip. Andrew Carmellini / NoHo Hospitality small-plates menu (thewilliamvale.com). Best paired late-afternoon for sunset over Manhattan.",
+    "notes": "22nd-floor rooftop with indoor lounge + outdoor terrace; 360° skyline views (Manhattan + East River + Brooklyn) (westlightnyc.com). Menu = Andrew Carmellini/NoHo Hospitality bar snacks + cocktails (thewilliamvale.com). Address: 111 N 12th St, Brooklyn, NY 11249. Reservations strongly recommended for sunset windows via OpenTable. Parking: William Vale offers on-site valet — book it; Williamsburg curb parking is unreliable on weekends. Pair in the Williamsburg cluster with Domino Park (10-min walk) and Bar Blondeau on the same block for a lower-altitude contrast.",
     "sources": [
       {
         "url": "https://www.westlightnyc.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
       },
       {
         "url": "https://www.westlightnyc.com/location/westlight/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
       },
       {
         "url": "https://www.thewilliamvale.com/dining/westlight/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://www.westlightnyc.com/terrace/",
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/westlight/",
+        "accessed": "2026-05-17T22:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T21:01:34.372Z"
+    "lastResearchedAt": "2026-05-17T22:33:12.223Z"
   },
   {
     "id": "gran-electrica",
@@ -34324,5 +34340,52 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T22:18:57.282Z"
+  },
+  {
+    "id": "el-pinguino-greenpoint",
+    "name": "El Pingüino",
+    "desc": "Narrow Spanish seafood-and-cocktail bar with rare 10pm–midnight late happy hour ($10 sardines + Faccia Brutto Ferraris).",
+    "longDesc": "El Pingüino is a tiny tile-walled Spanish seafood bar on Greenpoint Ave run by the team behind The Long Island Bar — tinned fish, half-shell oysters, sherry, and martinis, served until midnight every night. Beyond the standard 4–7pm happy hour (half-off oysters, $12 sherry/martinis), it runs a second 10pm–midnight late happy hour featuring $10 sardines, $10 Midori sours, and $10 Faccia Brutto Ferraris — currently one of the only true late-night cocktail anchors in Greenpoint after Achilles Heel's closure. Walk-in only at the bar; small reservation list for tables.",
+    "url": "https://www.pinguinogreenpoint.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "16:00-24:00",
+    "notes": "25 Greenpoint Ave at the Manhattan Ave end of the strip — street parking on Franklin/Java is realistic on weekend nights (theinfatuation.com, pinguinogreenpoint.com). Daily 4pm–midnight; late HH 10pm–12am is the differentiator vs. early-closing Greenpoint peers (cheerhop.com, sipmunchyap.com). Cash-priced cocktails sub-$12 during HH windows; tinned-fish and oyster heavy menu. Walk-in friendly at the bar; arrive ~9:45pm to lock seats before late HH starts.",
+    "sources": [
+      {
+        "url": "https://www.pinguinogreenpoint.com/",
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/el-pinguino",
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/el-ping%C3%BCino-brooklyn",
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://cheerhop.com/brooklyn/el-pinguino",
+        "accessed": "2026-05-17T22:35:00Z"
+      },
+      {
+        "url": "https://sipmunchyap.com/restaurant/el-ping-ino-greenpoint-brooklyn",
+        "accessed": "2026-05-17T22:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T22:41:16.003Z"
   }
 ]
