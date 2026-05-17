@@ -13285,8 +13285,8 @@
   {
     "id": "qahwah-house-bay-ridge",
     "name": "Qahwah House (Bay Ridge)",
-    "desc": "Yemeni specialty coffee + qahwa, mofa-style pastries; halal, late hours, on-site parking",
-    "longDesc": "Bay Ridge outpost of the Yemen-rooted Qahwah House chain pouring single-origin Yemeni beans as adeni chai, jubani, mofawar and a signature pistachio latte alongside honeycomb bread and spinach-feta sabaya. The room runs late (until 1am Fri/Sat), is fully halal-certified, and has rare-for-NYC on-site parking, making it an easy IC-adjacent coffee anchor when Yafa or the Williamsburg flagship are slammed.",
+    "desc": "Yemeni coffee house from Dearborn, MI — Jubani, Adeni chai, honeycomb pastries on 4th Ave.",
+    "longDesc": "Bay Ridge outpost of the Yemeni-American chain that started in Dearborn in 2017 and now spans 30+ locations. Signature pours are Jubani (light roast with cardamom, cinnamon, ginger), Adeni chai with nutmeg-cardamom milk, and Rada'ey; pair with Khaliat Alnahl honeycomb pastry. Late hours and a community-first room — managers framed the Bay Ridge opening as a cultural anchor for both Arab and South Asian regulars (BKReader, Feb 2024).",
     "url": "https://qahwahhouse.com/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -13297,36 +13297,36 @@
       "foodie"
     ],
     "dietary": [
-      "halal",
-      "vegetarian"
+      "vegetarian",
+      "halal"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "14 min",
     "hoursWeekend": "07:00-01:00 Sat, 07:00-23:00 Sun",
-    "notes": "8602 4th Ave, Brooklyn NY 11209 (source: Yelp listing). Weekend hours: Sat 7:00-01:00, Sun 7:00-23:00 per aggregator; Zabihah lists 09:00-01:00 — call (646) 677-4079 to confirm same-day. Halal-certified, no alcohol, on-site parking validated (source: Zabihah). Straight shot south on 4th Ave from Industry City (~2 mi, 8-12 min depending on Verrazzano traffic). Order pickup via order.online if grabbing-to-go before a Bay Ridge walk. Menu hits: adeni chai, jubani, mofawar latte, pistachio latte, honeycomb bread, sabaya. Pairs naturally with a Yemeni mandi dinner at Yemen Cafe or Hadramout nearby to build a full Bay Ridge Yemeni track.",
+    "notes": "Address: 8602 4th Ave, Brooklyn, NY 11209 (Bay Ridge — not in enum; mapped to industry-city as closest 4th-Ave southwest-Brooklyn anchor). Drive from IC is straight down 4th Ave / Gowanus, ~4 mi, no tolls. Weekend free street parking on 4th Ave and the side streets is generally available outside Sunday-morning church rush; metered spots on 86th St. Opened Feb 2024, direct comp to Moka & Co in the Yemeni-coffee category (BKReader). Order the Jubani if first visit; Adeni chai is the bestseller (Middle East Eye). Phone (646) 677-4079.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/qahwah-house-brooklyn-3",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.bkreader.com/lifestyle-culture/yemeni-coffee-chain-adds-caffeniated-delight-to-bay-ridge-11458039",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.zabihah.com/restaurants/08dd8a63-325b-43a4-845a-f8b5df10ec45/qahwah-bay-ridge-ny",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/qahwah-house-brooklyn-3",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://qahwahhouse.com/locations",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://order.online/en-US/store/qahwah-house-bay-ridge-35291213",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.facebook.com/QawhahHouseBayRidge/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T14:57:42.138Z"
+    "lastResearchedAt": "2026-05-17T14:38:51.567Z"
   },
   {
     "id": "moka-and-co-bay-ridge",
@@ -23071,8 +23071,8 @@
   {
     "id": "tanoreen-bay-ridge",
     "name": "Tanoreen",
-    "desc": "Palestinian/Levantine mezze-and-mains destination in Bay Ridge, Michelin Guide listed, run by chef Rawia Bishara.",
-    "longDesc": "Chef Rawia Bishara's Bay Ridge institution (since 1998) plates classical Palestinian and broader Levantine home cooking — muhammara with house-baked pita, knafeh that needs 20 minutes in the oven, slow-cooked lamb shank, generous vegetarian mezze. Tucked into an unassuming 3rd Ave corner ~24 blocks south of Industry City, it's the natural dinner anchor after sunset at Owl's Head Park so you never have to drive back north. Weekend reservations strongly recommended; closed Mondays.",
+    "desc": "Chef Rawia Bishara's Palestinian fine-dining destination in Bay Ridge — Michelin-listed, halal-friendly.",
+    "longDesc": "Opened in 1998 by Chef/Owner Rawia Bishara, Tanoreen is the higher-end Palestinian counterpoint to Ayat: signature braised bone-in lamb shank with cilantro-parsley-basil gremolata ($46), refined mezze, and a Michelin Guide listing. Free valet parking Fri–Sun from 5pm makes it unusually driver-friendly for the neighborhood, and weekend hours run noon to 10pm. Same Bay Ridge halal cultural track as Ayat, but a clear step up in price band and plating.",
     "url": "https://tanoreen.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -23083,40 +23083,40 @@
       "curious"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan"
+      "halal",
+      "vegetarian"
     ],
-    "priceBand": "$$",
+    "priceBand": "$$$",
     "duration": "90-120 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "12:00-22:00",
-    "notes": "Located in Bay Ridge at 7523 3rd Ave, Brooklyn 11209 — corpus 'zone' enum lacks bay-ridge so industry-city is used as the nearest legal anchor (consider adding a bay-ridge zone). ~3 mi / 10-12 min drive south on 3rd Ave from IC; weekend street parking is generally available within 1-2 blocks (Michelin Guide). Closed Mondays; Tue-Sun 12pm-10pm (Yelp/Tanoreen site). Reservation recommended on weekends (Infatuation). Strong vegetarian/vegan coverage via mezze (mutabbal, muhammara, fattoush, stuffed grape leaves). Phone (718) 748-5600.",
+    "notes": "Bay Ridge (not technically Industry City's 10-min cluster, but a short Belt Pkwy / 3rd Ave drive south — same corridor as Ayat). Closed Mondays; Tue–Sun 12:00–22:00 (yelp.com). Free valet Fri–Sun from 5pm (visitbrooklyn.nyc) — rare for the neighborhood and a key driver-friendly signal. Michelin Guide listed (guide.michelin.com). Chef Rawia Bishara is a cookbook author and James Beard semifinalist; menu leans Palestinian/Levantine with signature braised lamb shank $46. Reservations via OpenTable strongly recommended on weekends. Halal-friendly; strong vegetarian mezze depth.",
     "sources": [
       {
         "url": "https://tanoreen.com/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/tanoreen",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tanoreen",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/tanoreen-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/tanoreen",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/tanoreen",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.opentable.com/r/tanoreen",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T03:55:47.416Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:42:51.246Z"
   },
   {
     "id": "sunset-park-summit-lawn",
@@ -28900,13 +28900,59 @@
   },
   {
     "id": "yemen-cafe-bay-ridge",
-    "name": "Yemen Café & Restaurant (5th Ave)",
-    "desc": "Bay Ridge Yemeni institution since 1986 — bubbling fahsa, slow-roast haneeth, fresh tandoor bread",
-    "longDesc": "A Bay Ridge fixture on 5th Ave (and the savory other half of a Yemeni cluster with Qahwah House nearby). Lamb haneeth slow-roasts about six hours until it falls off the bone; the signature fahsa arrives bubbling in a cast-iron bowl alongside hot tandoor bread, broth, and pickles that hit the table free with every meal. Halal, no alcohol, family-run since 1986.",
+    "name": "Yemen Café & Restaurant (Bay Ridge)",
+    "desc": "Slow-cooked lamb haneeth and bubbling fahsah in a tandoor-baked-bread Yemeni dining room, one block from Moka & Co.",
+    "longDesc": "The Bay Ridge outpost of NYC's original Yemeni restaurant (est. 1986 on Atlantic Ave) serves fall-off-the-bone lamb haneeth, sizzling stone-bowl fahsah, and complimentary fresh-baked malawah from a clay tandoor with every meal. Halal, no alcohol, generous portions, and unusually attentive service for the price. Pairs perfectly with a post-dinner Yemeni coffee at Moka & Co one block north on 5th Ave.",
     "url": "https://yemencafe.com/yemencafrestaurant5th",
-    "photoUrl": "https://res.cloudinary.com/dytzex383/image/upload/v1777578327/scout/media/ChIJExC3nU9awokRgODOvdb3awc/mi_DdJCWXgkiXZQn5Cg.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "halal",
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "09:00-22:30",
+    "notes": "Established 1986 as one of the first Yemeni restaurants in the US; Bay Ridge location at 7317 5th Ave is open 9:00 AM–10:30 PM daily (yelp.com). Signature dishes: lamb haneeth, fahsah, lamb mandi, and complimentary tandoor-baked Yemeni flatbread served with soup and salad (theblot.org). Halal, no alcohol — pair with mint tea or saltah. Street parking on 5th Ave is workable on weekends. Phone (718) 745-3000 for reservations; walk-in friendly. Forms a tight Bay Ridge Yemeni dinner+coffee pair with Moka & Co (one block north on 5th Ave at 73rd St).",
+    "sources": [
+      {
+        "url": "https://yemencafe.com/yemencafrestaurant5th",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yemen-cafe-and-restaurant-brooklyn-2",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/yemen-cafe-restaurant",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://theblot.org/yemen-cafe-brooklyn-review/",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T14:36:27.995Z"
+  },
+  {
+    "id": "hadramout-restaurant",
+    "name": "Hadramout Restaurant",
+    "desc": "Basement Yemeni hideaway on Atlantic Ave with pit-cooked lamb mandi and camel murals",
+    "longDesc": "Halal Yemeni classic on the historic Middle Eastern stretch of Atlantic Ave, set in a mural-painted basement (camels, sheep, countryside) that feels transported from Sana'a. Signature mandi lamb is pressure-cooked in a 4-foot pit, served on saffron rice with house bread and hummus; the late-night kitchen runs until 5 AM on weekends — rare for a sit-down Yemeni spot in NYC.",
+    "url": "https://hadramoutnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
     "vibe": [
       "foodie",
       "curious",
@@ -28917,78 +28963,30 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "09:00-22:30",
-    "notes": "7317 5th Ave, Brooklyn NY 11209; (718) 745-3000. Established 1986 (yemencafe.com). Order the fahsa or lamb haneeth — both share signature plates that arrive with complimentary tandoor bread, broth, salad, and pickles (The Infatuation; yemencafe.com). Halal, no alcohol. Weekend street parking on side streets off 5th Ave is generally available; pairs naturally with Qahwah House for post-dinner Yemeni coffee. Zone tagged industry-city as a driveable extension since Saturfun has no dedicated Bay Ridge zone.",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "14:00-05:00",
+    "notes": "172 Atlantic Ave (basement entrance, between Court & Clinton). Order the lamb mandi or mulikhia lamb; bread + hummus + olive oil starter is consistently praised (Yelp, Restaurantji). Halal, no alcohol — pairs well as dinner before a late drive back. Weekend parking on Hicks / side streets after 7 PM is doable. Cash-friendly. (yelp.com/biz/hadramout-restaurant-brooklyn-3) (hadramoutnyc.com)",
     "sources": [
       {
-        "url": "https://yemencafe.com/yemencafrestaurant5th",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://hadramoutnyc.com/",
+        "accessed": "2026-05-17T14:35:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/yemen-cafe-bay-ridge",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.yelp.com/biz/hadramout-restaurant-brooklyn-3",
+        "accessed": "2026-05-17T14:35:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/yemen-cafe-and-restaurant-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.restaurantji.com/ny/brooklyn/hadramout-restaurant-nyc-yemeni-food-/",
+        "accessed": "2026-05-17T14:35:00Z"
       },
       {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/yemen-cafe-restaurant",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://freshnyc.com/middle-eastern/yemeni-middle-eastern-food-brooklyn-hadramout-restaurant",
+        "accessed": "2026-05-17T14:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T14:30:11.591Z"
-  },
-  {
-    "id": "hadramout-restaurant",
-    "name": "Hadramout Restaurant",
-    "desc": "Authentic Yemeni mandi and haneeth — lamb pressure-cooked in an underground pit on Atlantic Ave.",
-    "longDesc": "Hadramout is a long-running Yemeni kitchen on Atlantic Avenue's Middle Eastern stretch known for lamb mandi cooked in a 4-foot underground pit, plus haneeth, salta, and fahsa stews served with lavash. Weekend hours run until 5am, which makes it work as either a late lunch, dinner, or post-bar anchor. Note: the venue is on the Brooklyn Heights/Cobble Hill border, NOT Bay Ridge as the task brief stated — Yemen Cafe is the Bay Ridge Yemeni anchor.",
-    "url": "https://hadramoutnyc.com/",
-    "photoUrl": "",
-    "aiBackgroundUrl": "",
-    "zone": "brooklyn-heights",
-    "vibe": [
-      "foodie",
-      "curious"
-    ],
-    "dietary": [
-      "halal"
-    ],
-    "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "14:00-05:00",
-    "notes": "Address: 172 Atlantic Ave, Brooklyn NY 11201 (Brooklyn Heights/Cobble Hill border, on the Yemeni-Lebanese stretch of Atlantic Ave) (yelp.com). Signature: Lamb Mandi cooked in a 4-foot underground pit; also Lamb Haneeth with Ma'soob, Salta, Fahsa, served with lavash (grubhub.com, freshnyc.com). Weekend hours Sat-Sun 2pm-5am — strong late-night option (yelp.com). Halal. Phone (718) 222-1066. Weekend street parking on Atlantic/Henry/Clinton is feasible but tight; Brooklyn Bridge Park garages are nearby. Task brief said 'Bay Ridge' — that is incorrect; the Bay Ridge Yemeni equivalent is Yemen Cafe (already in corpus).",
-    "sources": [
-      {
-        "url": "https://www.yelp.com/biz/hadramout-restaurant-brooklyn-3",
-        "accessed": "2026-05-17T14:25:00Z"
-      },
-      {
-        "url": "https://hadramoutnyc.com/",
-        "accessed": "2026-05-17T14:25:00Z"
-      },
-      {
-        "url": "https://www.grubhub.com/restaurant/hadramout-restaurant-172-atlantic-ave-brooklyn/1067691",
-        "accessed": "2026-05-17T14:25:00Z"
-      },
-      {
-        "url": "https://freshnyc.com/middle-eastern/yemeni-middle-eastern-food-brooklyn-hadramout-restaurant",
-        "accessed": "2026-05-17T14:25:00Z"
-      },
-      {
-        "url": "https://www.zabihah.com/restaurants/cad6aab5-7767-11ef-95ae-6045bdeb9f57/hadramout-brooklyn-ny",
-        "accessed": "2026-05-17T14:25:00Z"
-      }
-    ],
-    "promotedTo": null,
-    "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T14:32:25.651Z"
+    "lastResearchedAt": "2026-05-17T14:40:58.617Z"
   }
 ]
