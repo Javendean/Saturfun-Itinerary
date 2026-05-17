@@ -2295,41 +2295,44 @@
   {
     "id": "melody-lanes",
     "name": "Melody Lanes",
-    "desc": "Family-run 1950s-era 26-lane bowling alley in Sunset Park with glow bowl and late-night all-you-can-bowl",
-    "longDesc": "Melody Lanes is a 26-lane retro bowling alley tucked into Industry City's back door at 461 37th St, family-run since the 1950s with arcade games, league play, and a divey bar feel. Friday and Saturday nights run glow bowling, and from midnight to close they switch to an 'all-you-can-bowl' flat rate — a rare late-night activity option in a neighborhood that otherwise shuts down by 11. Weekend lane pricing is around $65/hour, so it's most efficient with 4-6 people.",
+    "desc": "Family-run 26-lane bowling alley in Sunset Park — all-ages, full bar, ~5 min from IC.",
+    "longDesc": "A no-frills, family-owned bowling alley on 37th St that's been a Sunset Park fixture for decades, with 26 lanes, arcade, snack counter and a full-service bar. Unlike The Gutter's 21+ policy, Melody Lanes welcomes kids and groups any time of day, making it the go-to daytime/family bowling option for an IC-anchored crew. Hourly rates: $65/hr weekend daytime (9am-5pm) and $70/hr weekend evenings.",
     "url": "https://melodylanesny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
       "active",
-      "curious"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "5 min",
-    "hoursWeekend": "09:00-01:00",
-    "notes": "461 37th St, Brooklyn NY 11232; phone (718) 832-2695. 26 lanes, arcade, full bar. Weekend lanes ~$65/hr; glow bowling Fri/Sat nights; 'all you can bowl' from midnight to close Fri/Sat (source: yelp.com/biz/melody-lanes-brooklyn-3). Street parking on 37th/38th is realistic on weekends since most IC tenants close by 8pm. Walking distance from IC's south end — drive time is nominal, basically a 5-min reposition.",
+    "hoursWeekend": "Sat 9:00-01:00, Sun 9:00-00:00",
+    "notes": "461 37th St, Brooklyn NY 11232 — just a few blocks west of Industry City (melodylanesny.com). Hourly pricing: $65/hr Sat-Sun 9am-5pm, $70/hr Fri-Sat 5pm-close (melodylanesny.com). 26 lanes, arcade, full bar, family-friendly all hours (yelp.com). Reservations recommended for groups of 10+ with $50/lane deposit. Street parking on 37th/4th Ave usually available on weekends; no dedicated lot — SpotHero lists nearby garages (spothero.com). Phone: (718) 832-2695.",
     "sources": [
       {
         "url": "https://melodylanesny.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T08:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/melody-lanes-brooklyn-3",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T08:05:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/melody-lanes-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T08:05:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/melody-lanes-parking",
+        "accessed": "2026-05-17T08:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T02:54:44.959Z"
+    "lastResearchedAt": "2026-05-17T08:02:21.198Z"
   },
   {
     "id": "wakuwaku",
@@ -5817,8 +5820,8 @@
   {
     "id": "threes-brewing-gowanus",
     "name": "Threes Brewing (Gowanus)",
-    "desc": "Pilsner-leaning Gowanus brewery with year-round yard, kitchen, and music venue under one roof.",
-    "longDesc": "Threes' flagship Gowanus taproom at 333 Douglass St opened in 2014 as a working brewery, beer shop, and cafe by day, and brewpub/beer garden/music venue by night — high ceilings, skylight, visible fermentation tanks, and a winterized outdoor yard. The beer lineup leans clean lagers and pilsners (with mixed-culture and hoppy options), and food comes from Grand Army South 5-11pm with Ninth Street Espresso pouring coffee 8am-3pm. About 6 minutes' walk from Movement Gowanus, making it the natural lighter-beer counterweight to Other Half's hop-forward Carroll Gardens taproom after a climbing session.",
+    "desc": "Gowanus brewpub with a 3,200 sq ft backyard — beer, burgers, and decompression three minutes from Royal Palms.",
+    "longDesc": "Threes' flagship Gowanus taproom occupies a former auto-body shop at 333 Douglass St between 3rd and 4th Avenues, with an indoor bar and 'The Yard' — a 3,200 sq ft outdoor space anchored by a 16-foot steel trellis draped in hops, ivy, and wisteria (lush in summer, tented and heated in winter). The kitchen is run as Grand Army South, doing brewpub-elevated burgers, fries, and snacks designed to pair with the house IPAs and lagers. A natural post-Royal-Palms slot: drive a few blocks, grab a pint at a picnic table outside, decompress before the next anchor.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5829,28 +5832,36 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "45-60 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
-    "notes": "333 Douglass St between 3rd & 4th Aves; ~6-min walk from Movement Gowanus climbing gym (source: threesbrewing.com). Kitchen Sat 12-23:00, Sun 12-22:00 via Grand Army South (source: threesbrewing.com/pages/gowanus). Pilsner/lager-forward complement to Other Half's hop-heavy lineup — fills the 'lighter beer' slot in a post-climb cluster. Street parking on Douglass/3rd Ave is generally findable on weekends; multiple paid lots within 3 blocks. ~1.7 mi / 12 min drive from Industry City via 3rd Ave.",
+    "hoursWeekend": "12:00-00:00 Sat / 12:00-23:00 Sun (kitchen closes 1hr earlier)",
+    "notes": "Real outdoor space with picnic tables and trellis canopy; great for group hangs (source: theinfatuation.com). Dog policy nuance — dogs are permitted at sidewalk seating only, NOT inside The Yard at Gowanus (source: threesbrewing.com/faq); if user has a dog, route them to a sidewalk table. Street parking in Gowanus is first-come/first-served plus a nearby garage; ~3 min drive from Royal Palms Shuffleboard, ~12 min from Industry City via Gowanus Expressway. Kitchen by Grand Army South (burgers, fries, brewpub menu).",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-17T08:00:00Z"
+        "accessed": "2026-05-17T08:05:00Z"
+      },
+      {
+        "url": "https://threesbrewing.com/pages/faq",
+        "accessed": "2026-05-17T08:05:00Z"
+      },
+      {
+        "url": "https://threesbrewing.com/pages/yard-space",
+        "accessed": "2026-05-17T08:05:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/threes-brewing",
+        "accessed": "2026-05-17T08:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-17T08:00:00Z"
-      },
-      {
-        "url": "https://www.beermenus.com/places/18430-threes-brewing-gowanus",
-        "accessed": "2026-05-17T08:00:00Z"
+        "accessed": "2026-05-17T08:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T07:50:01.459Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T08:07:11.186Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -11333,48 +11344,40 @@
   {
     "id": "strong-rope-brewery-red-hook",
     "name": "Strong Rope Brewery (Red Hook Taproom)",
-    "desc": "All-NY-state-ingredient brewery in a Red Hook waterfront warehouse — terroir-driven beer 10 min from IC",
-    "longDesc": "Founded in 2015 with a strict 100% New York State sourcing rule (grain, hops, yeast, fruit), Strong Rope now operates exclusively from its Red Hook taproom at 185 Van Dyke St after closing the original Gowanus location on March 28, 2026. The lineup leans toward farmhouse saisons, lagers, and NY-malt-forward ales — including River Dragon, a Hudson Valley saison shipped down the river on the Schooner Apollonia. Joe Coffee occupies the front counter, and the cobblestone warehouse vibe makes it a strong contrast to the slicker Threes/Other Half taprooms.",
+    "desc": "Waterfront brewery with picnic-table patio overlooking NY Harbor; family- and dog-friendly chill stop",
+    "longDesc": "Strong Rope's Red Hook taproom sits right on the Van Dyke Street pier with a mix of umbrella'd picnic tables, bistro seating, and standing room facing New York Harbor and the Statue of Liberty (source: strongropebrewery.com/taproom). They brew exclusively with NY State-grown grain and hops, run a no-kitchen model that invites outside food, food trucks, and delivery from Hometown BBQ and Hoek Pizza, and welcome leashed dogs with water bowls. It's a low-key decompression stop after Royal Palms or an IC stroll — no reservations, first-come patio, weekend afternoons fill quickly when the harbor light is best.",
     "url": "https://www.strongropebrewery.com/taproom",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "curious",
-      "foodie"
+      "photo"
     ],
-    "dietary": [
-      "vegetarian",
-      "vegan"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "12:00-23:00",
-    "notes": "100% NY-state ingredients is the real differentiator vs. Threes/Other Half — saisons and lagers built around Hudson Valley malt and Finger Lakes hops (strongropebrewery.com). Originally at 574 President St for 10 years; consolidated to Red Hook in March 2026 (yelp.com). Street parking on Van Dyke and Conover is generally available on weekend afternoons; Joe Coffee sharing the space means a built-in non-drinker option (joe.coffee). No kitchen — food trucks rotate Fri/Sat; BYO food is welcome.",
+    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-21:00",
+    "notes": "185 Van Dyke St, Brooklyn NY 11231; phone 929.294.9379 (strongropebrewery.com). No on-site parking — use street parking on Van Dyke/Conover; DO NOT park in the 175 Van Dyke lot (they tow) (source: official taproom page). No kitchen — bring food, order delivery, or grab a slice at Mark's Red Hook Pizza nearby. Dog- and kid-friendly; harbor sunset views are the photo hook.",
     "sources": [
       {
         "url": "https://www.strongropebrewery.com/taproom",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/strong-rope-brewery-brooklyn-3",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://joe.coffee/locations/ny/brooklyn/strong-rope-brewery-red-hook-brooklyn/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T08:00:00Z"
       },
       {
         "url": "https://www.business.nyctourism.com/places/strong-rope-brewery-red-hook",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T08:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/strong-rope-brewery-brooklyn-3",
+        "accessed": "2026-05-17T08:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:45:56.743Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T08:11:43.925Z"
   },
   {
     "id": "lavender-lake",
@@ -25303,5 +25306,93 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T07:54:07.257Z"
+  },
+  {
+    "id": "the-springs-brooklyn-closed",
+    "name": "The Springs Brooklyn (CLOSED)",
+    "desc": "Beloved Palm Springs-themed Greenpoint bar with free shuffleboard; closed abruptly January 2024.",
+    "longDesc": "The Springs ran 2018-2024 at 224 Franklin St in Greenpoint, a retro SoCal-themed bar with a huge tree-lined backyard, big booths, and a free shuffleboard court that made it a go-to for groups of 6+. It shut down in early January 2024 with no formal reason (Reddit chatter blamed rent hikes). No active ping pong was documented at this venue — that detail in the queue topic appears to be a mix-up with another spot.",
+    "url": "https://www.timeout.com/newyork/bars/springs-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "active",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "CLOSED PERMANENTLY",
+    "notes": "DO NOT PROMOTE — closed January 2024 per Greenpointers (https://greenpointers.com/2024/01/09/the-springs-bar-on-franklin-street-abruptly-closes/) and confirmed closed on Yelp/Foursquare/Tripadvisor as of 2026. Logged here so the auto-researcher doesn't re-queue it. The niche it filled (Greenpoint active group bar) is better served now by Sunshine Laundromat (pinball), Floyd NY (indoor bocce), or Union Hall (indoor bocce). The queue topic conflated ping pong with shuffleboard — Springs only had shuffleboard.",
+    "sources": [
+      {
+        "url": "https://greenpointers.com/2024/01/09/the-springs-bar-on-franklin-street-abruptly-closes/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-springs-bar-and-lounge-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/springs-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/the-springs/5ad26abbee712066bb51b505",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T08:04:44.092Z"
+  },
+  {
+    "id": "the-bell-house-front-room",
+    "name": "The Bell House — Front(ier) Room",
+    "desc": "Front lounge bar of Gowanus' converted warehouse venue — 26-ft oak bar, vintage couches, big windows, easy walk from Royal Palms.",
+    "longDesc": "The Bell House is a 1920s warehouse turned into a two-room music/comedy venue; the Front(ier) Room is its 150-cap front bar with a 26-foot oak bar, 12 drafts, full cocktail/wine list, and vintage furniture under soft lighting. It's open on event nights (most weekends) and works either as a chill pre-show drink steps from Royal Palms shuffleboard or as an evening pivot if a show is on. Note: despite local talk of a 'patio,' the front bar is actually indoor with large street-facing windows, not a true outdoor patio — street seating is limited to sidewalk lean-ups.",
+    "url": "https://www.thebellhouseny.com/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat-Sun 12:00-04:00 (Front bar open on event nights)",
+    "notes": "Address 149 7th St, Gowanus (timeout.com, nyctourism.com). Front(ier) Room = 150-cap lounge, 26' oak bar, 12 drafts + full bar, vintage furniture, large windows (venuereport.com, thebash.com). Bar opens 'any night an event is scheduled' — check shows calendar before betting on it as a walk-in (livenation.com). Street parking only per official visit page; ~0.5 mi / 3-min drive from Royal Palms Shuffleboard on Union St — easy evening pivot. The 'front patio' framing is a misread; the windowed front room is the chill-drink option, not a true outdoor space.",
+    "sources": [
+      {
+        "url": "https://www.thebellhouseny.com/visit",
+        "accessed": "2026-05-17T08:05:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/music/the-bell-house",
+        "accessed": "2026-05-17T08:05:00Z"
+      },
+      {
+        "url": "https://www.venuereport.com/venue/the-bell-house/",
+        "accessed": "2026-05-17T08:05:00Z"
+      },
+      {
+        "url": "https://www.thebash.com/profiles/the-bell-house-front-lounge",
+        "accessed": "2026-05-17T08:05:00Z"
+      },
+      {
+        "url": "https://www.livenation.com/venue/KovZ917ARvk/the-bell-house-events",
+        "accessed": "2026-05-17T08:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T08:09:45.333Z"
   }
 ]

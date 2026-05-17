@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Melody Lanes Sunset Park bowling alley",
-    "reason": "Closer-than-Gutter bowling option (~5 min from IC, on 37th St), no-frills, all-ages — fills a gap for daytime/family group activity that The Gutter's 21+ policy blocks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:41:01.101Z"
-  },
-  {
-    "topic": "The Springs Brooklyn (Greenpoint shuffleboard + ping pong bar)",
-    "reason": "Adjacent 'active bar' niche to round out the Kick Axe / Royal Palms / Gutter cluster — different game, similar group-of-6 vibe, ~15 min from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:41:01.101Z"
-  },
-  {
-    "topic": "Threes Brewing Gowanus taproom backyard",
-    "reason": "Real Gowanus backyard/patio replacement for the post-Royal-Palms decompression slot — 333 Douglass St, ~3 min drive from Royal Palms, dog-friendly outdoor space",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:43:43.314Z"
-  },
-  {
-    "topic": "The Bell House Gowanus front patio bar",
-    "reason": "Chill drinks option steps from Royal Palms with a small outdoor area; doubles as evening pivot if a show is on",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:43:43.314Z"
-  },
-  {
-    "topic": "Strong Rope Brewery Red Hook taproom outdoor",
-    "reason": "Adjacent zone (Red Hook) chill decompression bar with patio — within 10 min drive of IC and Royal Palms",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:43:43.314Z"
-  },
-  {
     "topic": "Strong Rope Brewery Red Hook taproom",
     "reason": "Another small Red Hook-adjacent brewery for extending the beer-flight track without leaving the 10-min IC radius",
     "requestedBy": "agent",
@@ -8740,5 +8710,83 @@
     "reason": "Cross-borough comparison node — lets the planner reject Manhattan/Queens bowling in favor of Brooklyn options with explicit reasoning",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T08:00:21.101Z"
+  },
+  {
+    "topic": "Frames Bowling Lounge Brooklyn alternative",
+    "reason": "Cross-check other all-ages BK bowling options to map the daytime-family bowling tier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:02:21.216Z"
+  },
+  {
+    "topic": "Sunset Park 5th Ave taqueria crawl near Melody Lanes",
+    "reason": "Pair a pre/post-bowling food stop within walking distance to build a Sunset Park mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:02:21.216Z"
+  },
+  {
+    "topic": "Industry City arcade bar Sunday Gaming Lab",
+    "reason": "Cluster Melody Lanes with other IC-zone active/play venues for a 'game day' track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:02:21.216Z"
+  },
+  {
+    "topic": "Sunshine Laundromat (Greenpoint pinball bar inside a working laundromat)",
+    "reason": "Direct replacement for the Greenpoint active-bar slot The Springs would have filled — quirky, group-of-6 friendly, ~20 min from IC, very photogenic",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:04:44.114Z"
+  },
+  {
+    "topic": "Floyd NY (Brooklyn Heights indoor bocce bar)",
+    "reason": "Closest active-bar analog to Royal Palms/Kick Axe — indoor bocce court, leather couches, ~12 min from IC, weekend street parking workable",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:04:44.114Z"
+  },
+  {
+    "topic": "Union Hall (Park Slope indoor bocce + live music basement)",
+    "reason": "Two indoor bocce courts upstairs and a live music venue downstairs; doubles as activity + nightcap in one stop, ~12 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:04:44.114Z"
+  },
+  {
+    "topic": "Grand Army Bar Boerum Hill",
+    "reason": "Same hospitality group as Grand Army South (Threes' kitchen); cocktail-and-oyster spot that fits the 'after-Threes nightcap' slot for foodie tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:07:11.216Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom (333 Douglass St)",
+    "reason": "True chill-drinks alternative ~5 min drive from Royal Palms with actual outdoor back patio + rotating taps — fills the 'outdoor pivot' slot Bell House can't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:09:45.352Z"
+  },
+  {
+    "topic": "Lavender Lake bar Gowanus backyard",
+    "reason": "Real outdoor garden bar two blocks from Royal Palms; relaxed, dog-friendly, fits the chill-evening-pivot brief better than Bell House's indoor lounge",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:09:45.352Z"
+  },
+  {
+    "topic": "Union Hall Park Slope (bocce + downstairs music)",
+    "reason": "Sister-vibe to Bell House just 8 min drive — bocce courts + fireplace lounge + basement music room; another show-or-chill dual-purpose venue in cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:09:45.352Z"
+  },
+  {
+    "topic": "Other Half Brewing Domino Park / Williamsburg taproom outdoor",
+    "reason": "Complementary brewery option in adjacent zone for chill-bar variant of itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:11:43.947Z"
+  },
+  {
+    "topic": "Sunny's Bar Red Hook live music dive",
+    "reason": "Iconic Red Hook nightcap within 5 min drive of Strong Rope — pairs as evening anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:11:43.947Z"
+  },
+  {
+    "topic": "Valentino Pier Red Hook sunset photo spot",
+    "reason": "Free harbor-view photo stop one block from Strong Rope; strong filler between Royal Palms and the brewery",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:11:43.947Z"
   }
 ]
