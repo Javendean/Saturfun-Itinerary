@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sunset Park (the park) — Manhattan skyline overlook at 41st/5th Ave",
-    "reason": "Free 10-min photo stop with one of NYC's best skyline views; pairs with any Sunset Park food crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:21:56.252Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden — Yunnan rice noodles in Sunset Park",
-    "reason": "Regional Chinese specialty rarely found elsewhere in BK; adds a sit-down option to balance the grazing stops",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:21:56.252Z"
-  },
-  {
-    "topic": "Sabor de Colombia Restaurant and Bakery (4601 5th Ave, Sunset Park) — Colombian arepas/empanadas/tamales sit-down counterpart to Pariscien",
-    "reason": "Larger Colombian restaurant+bakery on 5th Ave with full Bandeja Paisa menu; pairs as a meal venue when the bakery stop isn't enough",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:24:49.713Z"
-  },
-  {
-    "topic": "Calibella Bakery & Piqueteadero (Brooklyn) — Colombian pan de queso, buñuelos, piqueteadero platters",
-    "reason": "Adds a third Colombian-bakery data point with shareable piqueteadero plates, useful for groups in the IC cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:24:49.713Z"
-  },
-  {
-    "topic": "Don Paco Lopez Panadería (4703 4th Ave, Sunset Park) — Salvadoran/Mexican pan dulce two blocks from Pariscien",
-    "reason": "Directly cross-references the Mexican pan dulce option already in the corpus; same block, different Latin tradition for A/B contrast",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T15:24:49.713Z"
-  },
-  {
     "topic": "Don Paco Lopez Panaderia 5th Ave Sunset Park — Mexican bakery for conchas and tres leches",
     "reason": "Completes a Sunset Park Mexican corridor: La Flor (coffee/breakfast) → El Bronco (tacos) → Don Paco (pan dulce dessert)",
     "requestedBy": "agent",
@@ -11110,5 +11080,95 @@
     "reason": "Another cheap-eats cornerstone of Brooklyn Chinatown <0.3 mi from Ba Xuyên; expands the 8th Ave foodie corpus and pairs naturally on the same drive",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T15:37:06.366Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park — waterfront skyline + tidal pools at 43rd St",
+    "reason": "Adjacent free outdoor stop with a different angle on the same skyline, 4 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:39:06.523Z"
+  },
+  {
+    "topic": "Brooklyn Army Terminal Atrium — historic glass-roofed atrium tours",
+    "reason": "Free architectural photo stop walking distance from IC, weekend access varies",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:39:06.523Z"
+  },
+  {
+    "topic": "8th Avenue Brooklyn Chinatown dim sum lunch spot",
+    "reason": "Pairs the overlook with the closest authentic food crawl, 5 min drive east of the park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:39:06.523Z"
+  },
+  {
+    "topic": "Lan Zhou Handmade Noodle — Sunset Park hand-pulled Lanzhou beef noodle soup",
+    "reason": "Pairs with Yun Nan as a second regional-Chinese noodle option in the same 8th Ave cluster; rounds out a noodle-focused Sunset Park track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:41:19.037Z"
+  },
+  {
+    "topic": "Tacos El Bronco — Sunset Park taqueria on 5th Ave",
+    "reason": "Anchors the Latino half of Sunset Park's dual food identity (5th Ave Mexican + 8th Ave Chinese); completes the geographic cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:41:19.037Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House — Sunset Park lamb-and-coriander dumplings",
+    "reason": "Cheap, fast dim-sum-style stop within 5 blocks of Yun Nan; adds a grazing option for the same Sunset Park drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:41:19.037Z"
+  },
+  {
+    "topic": "Tacos El Bronco (4324 5th Ave, Sunset Park) — Mexican taqueria + parrilla on same 5th Ave corridor",
+    "reason": "Anchors a 5th Ave Latin food crawl alongside Sabor de Colombia and Pariscien, 5 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:43:20.286Z"
+  },
+  {
+    "topic": "Brooklyn Wok Shop or Yun Nan Flavour Garden (Sunset Park Chinatown, 8th Ave) — dim sum / Yunnan rice noodles",
+    "reason": "Sunset Park's other major immigrant food zone is 8th Ave Chinatown; gives a non-Latin cluster within the same 10-min IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:43:20.286Z"
+  },
+  {
+    "topic": "Las Quesadillas de la Hortaliza (food cart / 5th Ave, Sunset Park) — handmade huaraches and quesadillas",
+    "reason": "Quick photo-friendly street-food stop to chain after a Sabor sit-down or before Pariscien",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:43:20.286Z"
+  },
+  {
+    "topic": "Calibella Bakery & Piqueteadero Inc. #2 (Ridgewood location)",
+    "reason": "Second Calibella outpost in Ridgewood — confirms scale and lets us A/B which Calibella works better as an IC-driveable cluster anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:45:21.858Z"
+  },
+  {
+    "topic": "Arepa Lady (Jackson Heights, Queens)",
+    "reason": "Benchmark Colombian arepa de queso/choclo destination; pairs as a longer drive comparison for the panadería track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:45:21.858Z"
+  },
+  {
+    "topic": "Mil Mundos Books (Bushwick) coffee + Spanish-language bookshop",
+    "reason": "Walkable companion stop within Bushwick cluster after a Calibella breakfast — extends a single IC->Bushwick drive into a 2-stop track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:45:21.858Z"
+  },
+  {
+    "topic": "Tacos El Bronco (4324 4th Ave, Sunset Park) — Mexican taqueria + tortas walking distance from Don Paco",
+    "reason": "Completes a pan-dulce + tacos Sunset Park Latin food crawl on the same 4th Ave corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:47:20.893Z"
+  },
+  {
+    "topic": "La Gran Via Bakery (4516 5th Ave, Sunset Park) — competing third-generation Mexican panadería one block over",
+    "reason": "Direct Mexican-vs-Mexican panadería A/B test within Sunset Park; tests whether corpus should support intra-zone rivalry comparisons",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:47:20.893Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos (Bushwick) — masa source for Sunset Park taquerias, open-to-public retail",
+    "reason": "Connects the Sunset Park Latin food cluster to its Bushwick supply chain — adds a 'where the masa comes from' curiosity stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T15:47:20.893Z"
   }
 ]
