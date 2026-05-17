@@ -6121,8 +6121,8 @@
   {
     "id": "japan-village-industry-city",
     "name": "Japan Village",
-    "desc": "20,000 sq ft Japanese food hall + Sunrise Mart inside Industry City — ramen, soba, izakaya, depachika groceries",
-    "longDesc": "NYC's first true Japanese food hall, modeled on Tokyo's depachika basement markets. Inside Industry City you get Setagaya ramen, Gohei soba/udon, Hachi yakisoba/okonomiyaki, Shokusaido tempura/katsu, Moriya donburi, Café Japon pastries, and Wakuwaku izakaya for sake-and-skewers — plus the largest Sunrise Mart in NYC for matcha KitKats, specialty soy, and hard-to-find imports. Pairs natively with Brooklyn Kura: same building, zero drive time, same anchor parking.",
+    "desc": "20,000 sq ft Japanese food hall inside Industry City with ramen, sushi, bento + Sunrise Mart grocery upstairs.",
+    "longDesc": "NYC's first dedicated Japanese food hall, anchoring Industry City's Buildings 3 & 4. Roughly 10 stalls including Ramen Setagaya, Handroll Bar, Gohei, Obentoyasan, Hachi, Moriya, Shokusaido, Sake's Bar, Yamada and Umami House, plus a full Sunrise Mart grocery and arcade with Japanese claw machines on the mezzanine. Validated parking on-site (2 hr) with a $50 Sunrise Mart purchase or $100 Sushi Uesugi spend — ideal rainy-day base camp for an entire IC track.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -6138,34 +6138,30 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00 (food hall closes 20:30 Fri-Sat)",
-    "notes": "Located at 934 3rd Ave inside Industry City — block away from Brooklyn Kura, same complex parking (industrycity.com tenant page). Food hall vendors confirmed via Gothamist + Time Out + amNY coverage (Setagaya ramen, Gohei soba, Hachi okonomiyaki/yakisoba, Shokusaido katsu/tempura, Moriya donburi, Café Japon, Wakuwaku izakaya). Kuraichi sake/whiskey shop is the future-build that closes the loop with Brooklyn Kura's tour — sake tasting upstairs at Kura, retail bottle pickup downstairs at Kuraichi. Hours per official japanvillage.com: Sat 11-21, Sun 11-20.",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Located at 934 3rd Ave, Buildings 3 & 4 inside Industry City (industrycity.com). Vendor list confirmed via japanvillage.com/eat-drink: Gohei, Obentoyasan, Hachi, Handroll Bar, Moriya, Shokusaido, Sake's Bar, Yamada, Umami House, Ramen Setagaya. Validated parking (2 hr) with $50 Sunrise Mart receipt or $100 Sushi Uesugi spend (japanvillage.com/directions); weekend street parking between IC buildings is also viable. Mezzanine arcade and Sunrise Mart shopping let a single stop fill 90+ minutes — strong rainy-day anchor.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-17T10:30:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-17T10:30:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/directions",
+        "accessed": "2026-05-17T10:30:00Z"
       },
       {
         "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/japan-village",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T10:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T09:53:00.512Z"
+    "lastResearchedAt": "2026-05-17T10:36:07.183Z"
   },
   {
     "id": "the-gutter-williamsburg",
@@ -26582,5 +26578,183 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T10:27:03.247Z"
+  },
+  {
+    "id": "japan-village-snack-flight",
+    "name": "Japan Village Snack Flight (Sunrise Mart + Food Hall)",
+    "desc": "DIY konbini-style tasting flight: build a snack tray at Sunrise Mart, eat in the food hall.",
+    "longDesc": "Inside Industry City Building B, Japan Village pairs the largest Japanese grocery store in NYC (Sunrise Mart) with an 11-stall food hall under one roof. Build a Family Mart-style tasting flight by grabbing 6-8 items off the snack wall (Calbee jagariko, Pocky variants, melon pan, onigiri, Pocari Sweat, mochi ice cream, Black Thunder bars, seasonal Kit Kats) plus a hot bite from a stall (takoyaki, okonomiyaki, or curry pan), then assemble at a communal table. Spending $50+ at Sunrise Mart validates 2 hours of parking in the Industry City lot.",
+    "url": "https://www.japanvillage.com/eat-drink",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Anchor venue at IC Building B, 934 3rd Ave — same address houses Sunrise Mart and the food hall stalls (Yelp, japanvillage.com). Snack-flight angle: pick one of each Family Mart category (savory chip, sweet biscuit, gummy/jelly, onigiri/rice item, hot pastry, bottled drink, ice cream) for a structured tasting. Hit Sunrise Mart first for cold/shelf items, then add a hot stall item (Wakuwaku izakaya for sit-down, or grab-and-go from the food hall counters). Validated parking in IC lot with $50+ Sunrise Mart spend, 2hr cap (japanvillage.com/directions). Weekend street parking around IC buildings is largely open. Vegetarian-friendly snack wall; halal/gluten-free options limited — check labels (many Japanese snacks contain pork gelatin or wheat).",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/sunrise-mart/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/directions",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:28:55.817Z"
+  },
+  {
+    "id": "tikuran-ramen",
+    "name": "Tikuran Ramen",
+    "desc": "Compact standalone ramen-ya in Sunset Park — Tokyo tonkotsu shoyu and miso bowls, broth-first, no food-hall chaos.",
+    "longDesc": "A small Sunset Park ramen shop (~8 min south of IC) focused on rich broths and springy noodles rather than a sprawling menu. Tokyo Tonkotsu Shoyu with extra chashu and the miso ramen with corn + egg are the picks; karaage and a few buns round it out. Quiet, casual, counter-friendly — the antidote to a packed Japan Village on Sunrise Mart days.",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tikuran+Ramen+732+61st+St+Brooklyn+NY+11220",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "12:00-22:30 (verify by phone)",
+    "notes": "732 61st St, Sunset Park — standalone shop, not the food hall (ZipPicks). ~1.8 mi south of IC via 3rd Ave → 7th Ave. Street parking, manageable with a few blocks of circling, tougher after 6pm (ZipPicks). Weekend wait ~15-25 min at peak; shorter solo at counter. Pairs naturally with a Sunrise Mart grocery run — drive over after shopping if Japan Village is slammed. Note: Ramen Setagaya at 934 3rd Ave is *inside* Japan Village/IC, so it's not a viable overflow option (Tripadvisor).",
+    "sources": [
+      {
+        "url": "https://zippicks.com/tikuran-ramen-brooklyn-11220/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d25476798-Reviews-Tikuran_Ramen-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/tikuran-ramen-732-61st-st-brooklyn/3087221",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d15696765-Reviews-Ramen_Setagaya-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T10:31:50.663Z"
+  },
+  {
+    "id": "setagaya-japan-village-ic",
+    "name": "Ramen Setagaya (Japan Village)",
+    "desc": "Tokyo-style shio ramen counter inside Japan Village food hall at Industry City Building 4.",
+    "longDesc": "Setagaya runs a stall inside Japan Village, NYC's first Japanese food hall, in IC Building 4 at 934 3rd Ave. The signature is a delicate shio (salt) broth built from dried fish, kelp and chicken; the showpiece Mt. Fuji bowl piles grated parmesan over a chili-tomato-rimmed tonkotsu. Counter seating in the hall, easy walk to Sunrise Mart grocery, Hachi (okonomiyaki), Gohei (soba/udon) and the Wakuwaku izakaya — making it a self-contained rainy-day cluster.",
+    "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "0 min (inside IC Building 4)",
+    "hoursWeekend": "Sat 11:30-20:30, Sun 11:30-19:30",
+    "notes": "Located at 934 3rd Ave, Brooklyn, NY 11232 inside Japan Village food hall in IC Building 4 (yelp.com/biz/japan-village-brooklyn). Stall hours Mon-Thu & Sun 11:30-19:30, Fri-Sat 11:30-20:30 (setagayany.com); surrounding hall stays open until 21:00 on Fri-Sat. Founded by Tsukasa Maejima (NYC since 2007). Real ramen anchor — replaces the previous incorrect 'Mokbar at IC' reference (Mokbar is at Chelsea Market, Manhattan). Pairs naturally with Sunrise Mart browsing, Hachi or Wakuwaku for a multi-stop Japan Village loop without leaving the building.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.setagayany.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T10:33:54.564Z"
+  },
+  {
+    "id": "d-jing-k-korean-kitchen",
+    "name": "D-Jing K Korean Kitchen",
+    "desc": "Chef Joy's fast-casual Korean stall inside Industry City Food Hall — bibimbap, spicy noodles, Korean wings, banchan.",
+    "longDesc": "D-Jing is Chef Joy's first dedicated Korean concept, tucked into the Industry City Food Hall in Building 2 with 'Seoulful street eats' done right — bibimbap bowls, spicy noodles, bulgogi, mandu dumplings, Korean wings and a rotating banchan lineup. Bold, comforting flavors at food-hall speed, which makes it the actual on-campus Korean comfort stop (filling the role the itinerary previously imagined Mokbar would). Order at counter, eat at communal tables, then drift to the surrounding stalls and the IC courtyard.",
+    "url": "https://djingkfood.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-20:00",
+    "notes": "Inside IC Food Hall, Building 2, entrance at 238 36th St (industrycity.com). Weekend hours Fri-Sun 11am-8pm; weekday close is 7:30pm. Fast-casual counter service — pair with a bao or coffee from neighboring stalls. Bibimbap and Korean wings are the signature orders; mandu and tom yum-style noodles round out the menu (djingkfood.nyc). IC parking lot makes this trivial when you're already on campus.",
+    "sources": [
+      {
+        "url": "https://djingkfood.nyc/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/d-jing-korean-food/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/d-jing-korean-food-254-36th-st-building-2-brooklyn/12498072",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T10:38:02.627Z"
   }
 ]
