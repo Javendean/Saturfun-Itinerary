@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Tonchin Brooklyn ramen at 109 N 3rd St — Michelin-recognized tonkotsu option",
-    "reason": "Heavier richer broth alternative for a different mood; still in Williamsburg cluster, ~12-min walk from VITAL",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:26:30.120Z"
-  },
-  {
-    "topic": "Okonomi / Yuji Ramen at 150 Ainslie St — 12-seat seafood-rich evening ramen",
-    "reason": "Quieter sit-down counter experience for a slower recovery meal; expands south Williamsburg coverage",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:26:30.120Z"
-  },
-  {
-    "topic": "Samurai Mama izakaya on Grand St Williamsburg — udon and small plates",
-    "reason": "Non-ramen recovery alternative for variety in the Williamsburg foodie cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:26:30.120Z"
-  },
-  {
-    "topic": "Juliana's Pizza DUMBO (original Patsy Grimaldi coal-oven location)",
-    "reason": "Standalone DUMBO anchor if Time Out Market is too crowded; pairs with Brooklyn Bridge Park walk",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:28:20.634Z"
-  },
-  {
-    "topic": "Empire Stores rooftop & Brooklyn Bridge Park promenade walk",
-    "reason": "Free photo-walk filler between climbing and food hall in the DUMBO track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:28:20.634Z"
-  },
-  {
     "topic": "Cecconi's DUMBO waterfront Italian",
     "reason": "Upscale dinner alternative in same Empire Stores complex for romantic variant of the DUMBO track",
     "requestedBy": "agent",
@@ -8536,5 +8506,95 @@
     "reason": "Pairs with Threes for an 'active + drinks' Gowanus micro-itinerary the user already implied",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T07:17:37.692Z"
+  },
+  {
+    "topic": "Okonomi / Yuji Ramen in Williamsburg — lighter dashi-forward ramen, breakfast-to-lunch shokudo by day",
+    "reason": "Williamsburg ramen alternative with a totally different broth profile and morning slot — complements Tonchin's heavier evening tonkotsu in the cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:20:00.576Z"
+  },
+  {
+    "topic": "Samurai Mama Williamsburg — udon and izakaya plates on Grand St",
+    "reason": "Adds a noodle-but-not-ramen option in the same neighborhood cluster for groups who've already done tonkotsu.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:20:00.576Z"
+  },
+  {
+    "topic": "Ichiran Bushwick — solo-booth tonkotsu ramen experience",
+    "reason": "Direct tonkotsu comparison point to Tonchin; different vibe (private booths, no conversation) for a curiosity/photo track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:20:00.577Z"
+  },
+  {
+    "topic": "Samesa at 152 Metropolitan Ave — Eastern Mediterranean counter for a quieter Williamsburg dinner alternative",
+    "reason": "Pairs with Okonomi as a non-ramen, similarly low-key south-Williamsburg sit-down option within 2 blocks; broadens dietary coverage (vegetarian-friendly mezze)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:22:02.044Z"
+  },
+  {
+    "topic": "Bernie's at 332 Driggs Ave — old-school Americana diner vibe in Greenpoint/Williamsburg border",
+    "reason": "Different daypart counterweight (late brunch / casual dinner) inside the same 20-min IC driving cluster, useful when itineraries need a 'fun' rather than 'quiet' recovery meal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:22:02.044Z"
+  },
+  {
+    "topic": "Win Son Bakery at 164 Graham Ave — Taiwanese-American bakery+cafe, walkable from Okonomi",
+    "reason": "Natural pre- or post-Okonomi pairing in the Ainslie/Graham micro-cluster; expands corpus with daytime pastry/coffee coverage in south Williamsburg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:22:02.044Z"
+  },
+  {
+    "topic": "Okonomi / Yuji Ramen on Ainslie St Williamsburg — set-menu Japanese breakfast and mazemen",
+    "reason": "Adjacent Williamsburg Japanese venue with a totally different format (set teishoku) — broadens the foodie cluster beyond udon/ramen.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:25:24.218Z"
+  },
+  {
+    "topic": "Rule of Thirds Greenpoint — modern Japanese small plates and natural wine",
+    "reason": "Walkable from Williamsburg, photogenic interior, expands the izakaya/small-plates lane upmarket for date-night routing.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:25:24.218Z"
+  },
+  {
+    "topic": "Bozu izakaya on Grand St Williamsburg — bombs and binchotan skewers",
+    "reason": "Two blocks from Samurai Mama; lets the cluster route two izakaya stops or pick the better fit by mood/price.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:25:24.218Z"
+  },
+  {
+    "topic": "Grimaldi's Pizzeria DUMBO (the chain next door) — disambiguation entry",
+    "reason": "Tourists constantly conflate the two; Saturfun needs a clear comparison so the planner can route correctly and explain the history.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:27:21.487Z"
+  },
+  {
+    "topic": "Front Street Pizza or L'industrie Williamsburg as backup coal/wood-fired pizza if Juliana's line is >45 min",
+    "reason": "Anchor needs a fallback within driving distance for the 'too crowded' branch of the itinerary.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:27:21.488Z"
+  },
+  {
+    "topic": "Empire Stores rooftop + Time Out Market DUMBO pairing logistics",
+    "reason": "Natural 15-min-walk companion stops to Juliana's; corpus should capture the walking-cluster around Old Fulton/Water for multi-stop DUMBO tracks.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:27:21.488Z"
+  },
+  {
+    "topic": "Jane's Carousel DUMBO weekend hours and photo spots",
+    "reason": "Adjacent free DUMBO landmark on the same promenade — pairs as a 10-min extension of this entry and fills the same 'free photo filler' slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:29:37.539Z"
+  },
+  {
+    "topic": "Pebble Beach Brooklyn Bridge Park sunset viewpoint",
+    "reason": "Best golden-hour photo anchor 2 minutes south of Empire Stores; strengthens evening DUMBO track variants",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:29:37.539Z"
+  },
+  {
+    "topic": "Time Out Market New York DUMBO food hall weekend lineup",
+    "reason": "Sits inside Empire Stores itself; natural conversion target when the rooftop walk runs into mealtime",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T07:29:37.539Z"
   }
 ]
