@@ -2639,9 +2639,9 @@
   {
     "id": "frankies-457-spuntino",
     "name": "Frankies 457 Spuntino",
-    "desc": "20-year Carroll Gardens Italian on Court St with a leafy back garden and Castronovo-Falcinelli cavatelli",
-    "longDesc": "Frank Castronovo and Frank Falcinelli's Court Street stalwart, now in its 20th year, serves Tuscan-leaning Italian out of a Carroll Gardens brownstone with a carriage-house garden out back. The cavatelli with sausage and pappardelle with lamb ragù are the long-running signatures; weekend nights, the garden tables are the prize. About 18 minutes from Industry City and on the same Court St block as the neighborhood's best sandwich shops, so it doubles as the dinner anchor of a Carroll Gardens cluster.",
-    "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
+    "desc": "Carroll Gardens Italian institution on Court St with a brick-walled back garden",
+    "longDesc": "Frankies 457 has anchored Court Street for 20 years with a tight, ingredient-driven Italian menu — cavatelli with browned sage and butter, meatballs, sliced ribeye, and house-made sausage. The back garden is the move on weekends: ivy-covered brick, string lights, and a glass roof that keeps it usable shoulder-season. Lunch and dinner run the same menu seven days a week with rotating seasonal specials.",
+    "url": "https://www.frankiesspuntino.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
@@ -2653,37 +2653,37 @@
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
-    "notes": "Reservations strongly recommended weekends via OpenTable (opentable.com/r/frankies-spuntino-brooklyn). Back garden + carriage-house seating is the highlight in warm weather (Tripadvisor reviews). Court St curbside parking is metered but workable on a Saturday before 6pm; otherwise side streets toward Smith. Pairs naturally with a Carroll Gardens lunch stop on the same block.",
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "11:00-23:00 (Sat) / 11:00-22:00 (Sun)",
+    "notes": "457 Court St, Carroll Gardens; sit-down Italian alternative to quick Court St slice/sandwich stops; garden seating is the signature photo (frankiesspuntino.com). 20th-year institution per official site, reservations available via OpenTable.",
     "sources": [
       {
+        "url": "https://www.frankiesspuntino.com/",
+        "accessed": "2026-05-17T15:20:00Z"
+      },
+      {
         "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
-        "accessed": "2026-05-16T20:25:00Z"
+        "accessed": "2026-05-17T15:20:00Z"
       },
       {
         "url": "https://www.frankiesspuntino.com/menus/",
-        "accessed": "2026-05-16T20:25:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/frankies-457-spuntino-brooklyn-3",
-        "accessed": "2026-05-16T20:25:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d544913-Reviews-Frankies_457_Spuntino-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T20:25:00Z"
+        "accessed": "2026-05-17T15:20:00Z"
       },
       {
         "url": "https://www.opentable.com/r/frankies-spuntino-brooklyn",
-        "accessed": "2026-05-16T20:25:00Z"
+        "accessed": "2026-05-17T15:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/frankies-457-spuntino-brooklyn-3",
+        "accessed": "2026-05-17T15:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:26:50.489Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T15:16:13.009Z"
   },
   {
     "id": "win-son-bakery-williamsburg",
@@ -7759,8 +7759,8 @@
   {
     "id": "court-street-grocers",
     "name": "Court Street Grocers",
-    "desc": "Carroll Gardens deli-grocery beloved for inventive hot heros and pristine cold sandwiches.",
-    "longDesc": "A local-institution sandwich counter and provisions shop at 485 Court St (one block west of Smith), Court Street Grocers builds layered heros like the Turkey Club, Uncle Eddie, and seasonal specials on house-baked bread, plus a tight grocery selection of pantry staples and house pickles. It's a natural walkable lunch after Books Are Magic on Smith — about a five-minute stroll — and the airy storefront has a few stools plus easy takeout for eating on a Cobble Hill stoop or Carroll Park bench.",
+    "desc": "Beloved Italian-American sandwich counter and grocery — Turkey Hero, Uncle Eddie, perfect picnic fuel for Carroll Park.",
+    "longDesc": "Court Street Grocers is the daytime answer to Frankies on the same Carroll Gardens stretch: a counter-service deli and small grocery turning out cult-status sandwiches like the Turkey Hero (Boar's Head turkey, herb mayo, pickled jalapeños), the Uncle Eddie (egg, ham, swiss), and the Tom Cat (broccoli rabe, mozzarella, sundried tomato). Order at the counter, walk three blocks down Court to Carroll Park, and you've got a picnic that beats most sit-down lunches in the neighborhood. Open 7 days, 8a–5p, which makes it the reliable midday counterpart to Frankies' dinner-leaning hours.",
     "url": "https://www.courtstreetgrocers.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7774,32 +7774,28 @@
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "12 min",
     "driveFromFlushing": "30-35 min via Whitestone Expwy → GCP → BQE (I-278 W) → Hamilton Ave exit, then Court St north; weekend mornings before 10am closer to 28 min, midday Saturday can stretch to 40-45 min if BQE is backed up at the Kosciuszko or Williamsburg approach",
     "hoursWeekend": "08:00-17:00",
-    "notes": "Address is 485 Court St — task mentioned Smith St but the shop sits one block west of Smith, still a 4-5 min walk from Books Are Magic (225 Smith). Cash + card; counter service, limited seating. Yelp lists hours as 8am-5pm daily as of May 2026 (yelp.com). Sandwiches avg ~$13-16 (theinfatuation.com). Hero Shop on Sullivan is closed; Carroll Gardens is the flagship.",
+    "notes": "485 Court St, Carroll Gardens. Order-at-counter — limited seating, designed for takeaway. Walk to Carroll Park (3 blocks, ~5 min) for the picnic move; or eat in the car with windows down. Cash + cards. Vegetarian options solid (Tom Cat, Pepper Steak nonwithstanding the meat eponyms — also egg sandwiches). Weekend parking on Court/Smith side streets is easier than weeknight but plan for 5-10 min of circling. (sources: courtstreetgrocers.com/contact-hours-csg, yelp.com/biz/court-street-grocers-brooklyn)",
     "sources": [
       {
-        "url": "https://www.courtstreetgrocers.com/",
+        "url": "https://www.courtstreetgrocers.com/contact-hours-csg",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.courtstreetgrocers.com/menu-csg",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/shopping/court-street-grocers-1",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T15:12:37.235Z"
+    "lastResearchedAt": "2026-05-17T15:22:41.260Z"
   },
   {
     "id": "socrates-sculpture-park",
@@ -13759,10 +13755,10 @@
   },
   {
     "id": "prime-meats-carroll-gardens",
-    "name": "Prime Meats (Closed 2018)",
-    "desc": "Castronovo/Falcinelli's beloved German-Austrian tavern next to Frankies 457 — permanently closed November 2018.",
-    "longDesc": "Prime Meats opened in 2010 at 465 Court Street, two doors down from Frankies 457 Spuntino, serving Bavarian pretzels, weisswurst, spaetzle, bone marrow, and Vesper Brett under chef Damon Wise alongside an Austrian-leaning wine list. The Franks closed it in November 2018 to make way for an expanded F&F concept; the address now houses F&F Restaurant and Bar (pizza, pies, cocktails) — not a German-Austrian replacement. Worth knowing about for the Frankies story but not bookable for a Saturfun itinerary.",
-    "url": "https://brooklyneagle.com/articles/2018/11/28/prime-meats-in-carroll-gardens-is-closing-this-weekend/",
+    "name": "Prime Meats (CLOSED 2018)",
+    "desc": "PERMANENTLY CLOSED Dec 2018 — former Frankies sister German/Austrian spot at 465 Court St; space absorbed by Frankies 457.",
+    "longDesc": "Prime Meats was the Germanic sibling to Frankies 457 Spuntino, opened in 2010 by Frank Castronovo and Frank Falcinelli two doors down on Court St. Known for dry-aged steaks, schnitzel, German/Austrian whites and a Prohibition-era cocktail bar, it closed Sunday Dec 2, 2018 so the owners could expand Frankies 457 into the space. Not usable for itineraries — kept as a corpus reference for the Frankies family history.",
+    "url": "https://www.opentable.com/r/prime-meats",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
@@ -13771,32 +13767,32 @@
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "closed",
+    "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Permanently closed (Nov 2018)",
-    "notes": "Closed Nov 25, 2018 per Brooklyn Eagle; same Frank Castronovo/Frank Falcinelli team that runs Frankies 457 Spuntino next door (Brooklyn Eagle 2018-11-28). Space turned over to F&F Pizzeria expansion and is now F&F Restaurant and Bar — pizza, pies, cocktails, NOT German-Austrian (Time Out NY, Yelp). For an actual German-Austrian Brooklyn option, see Radegast Hall in Williamsburg (proposed via enqueue). Do not surface Prime Meats as bookable; keep as historical/context node only.",
+    "hoursWeekend": "CLOSED PERMANENTLY",
+    "notes": "Closed Dec 2, 2018 (Brooklyn Eagle, 2018-11-28). Yelp confirms 'CLOSED' status as of Feb 2026. Address was 465 Court St, Brooklyn NY 11231. Owners Castronovo + Falcinelli expanded Frankies 457 Spuntino into the vacated space. DO NOT route users here — flag as closed in any UI surface. Useful only as historical context when describing the Frankies cluster.",
     "sources": [
       {
         "url": "https://brooklyneagle.com/articles/2018/11/28/prime-meats-in-carroll-gardens-is-closing-this-weekend/",
-        "accessed": "2026-05-16T15:30:00Z"
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://www.timeout.com/newyork/restaurants/f-f-restaurant-and-bar",
-        "accessed": "2026-05-16T15:30:00Z"
+        "url": "https://www.yelp.com/biz/prime-meats-brooklyn",
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://www.yelp.com/biz/f-and-f-restaurant-and-bar-brooklyn",
-        "accessed": "2026-05-16T15:30:00Z"
+        "url": "https://www.timeout.com/newyork/restaurants/prime-meats",
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/prime-meats/",
-        "accessed": "2026-05-16T15:30:00Z"
+        "url": "https://punchdrink.com/venues/prime-meats/",
+        "accessed": "2026-05-17"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T15:31:55.908Z"
+    "lastResearchedAt": "2026-05-17T15:18:26.643Z"
   },
   {
     "id": "clover-club",
@@ -21084,48 +21080,51 @@
   {
     "id": "brooklyn-farmacy-soda-fountain",
     "name": "Brooklyn Farmacy & Soda Fountain",
-    "desc": "Restored 1920s apothecary turned soda fountain — egg creams, house sodas, and original sundaes.",
-    "longDesc": "Set inside a meticulously restored 1920s apothecary at 513 Henry St in Carroll Gardens, Brooklyn Farmacy serves original ice cream sundaes, house-made artisanal sodas, ice cream floats, egg creams, and savory sandwiches under the old pharmacy fixtures. The 'Contemporary Soda Fountain in a Historic Apothecary' tagline is literal — the tin ceiling, marble counter, and apothecary drawers all survive from the original Longo Pharmacy. Ideal sweet stop after a savory browse at Sahadi's, ten blocks south on the same Henry/Smith corridor.",
+    "desc": "1920s apothecary turned soda fountain: egg creams, sundaes, tin ceilings",
+    "longDesc": "A working soda fountain inside the preserved Longo's Pharmacy storefront from 1920, complete with original wooden drawers, penny-tile floor and pressed-tin ceiling. Soda jerks pull authentic Brooklyn egg creams and build sundaes with Adirondack Creamery ice cream, house-made syrups, hot fudge, toasted pecans and crumbled hard pretzels. The classic stop after a Cobble Hill/Carroll Gardens food crawl — counter seating, family-friendly, no reservations.",
     "url": "http://www.brooklynfarmacyandsodafountain.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/52d840fce4b09614df37f3d8/68419b2f-f587-401b-a07c-12635e3183cd/_MHT5012-2.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
       "chill",
-      "curious",
-      "photo",
-      "foodie"
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "13 min",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "13:00-22:00",
-    "notes": "Restored Longo Pharmacy interior with original tin ceiling and apothecary cabinetry (brooklynfarmacyandsodafountain.com). Signature items: egg creams, house artisanal sodas, original sundaes, ice cream floats (yelp.com). Also serves savory sandwiches, breakfast biscuits, espresso, wine and beer for a fuller stop. Weekend hours 1pm-10pm — wide afternoon/evening window. Street parking on Henry/Sackett is realistic on weekends but tight; allow 5-10 min to find a spot.",
+    "notes": "513 Henry St at Sackett, Carroll Gardens. Weekend hours Sat–Sun 1pm–10pm; weekdays open 2pm (source: brooklynfarmacyandsodafountain.com/hours). Signature items: NY egg cream, ice cream floats, sundaes with hard-pretzel + pecan + hot fudge toppings, Adirondack Creamery ice cream including cherry-chocolate-chip; small savory menu (sandwiches, breakfast biscuits) too (source: Yelp 2026, Tripadvisor 2026). Street parking on Henry/Sackett usually available weekends; small interior so weekend afternoons can wait 10–20 min. Pairs naturally with Court St / Smith St food stops before the sundae stop.",
     "sources": [
       {
-        "url": "http://www.brooklynfarmacyandsodafountain.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "http://www.brooklynfarmacyandsodafountain.com/hours",
+        "accessed": "2026-05-17T15:25:00Z"
       },
       {
-        "url": "http://www.brooklynfarmacyandsodafountain.com/hours",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "http://www.brooklynfarmacyandsodafountain.com/menu",
+        "accessed": "2026-05-17T15:25:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/brooklyn-farmacy-and-soda-fountain-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T15:25:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/brooklyn-farmacy-soda-fountain/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T15:25:00Z"
+      },
+      {
+        "url": "https://onthegrid.city/brooklyn/carroll-gardens/brooklyn-farmacy-soda-fountain",
+        "accessed": "2026-05-17T15:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T00:58:02.860Z"
+    "lastResearchedAt": "2026-05-17T15:20:24.642Z"
   },
   {
     "id": "the-pottery-studio-brooklyn-gowanus",
@@ -29302,5 +29301,46 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T15:14:27.597Z"
+  },
+  {
+    "id": "bing-li-pork-chop-house",
+    "name": "Bing Li Pork Chop House (unverified)",
+    "desc": "Reported Taiwanese pork-chop counter on 8th Ave — could not be verified in any public source as of May 2026.",
+    "longDesc": "Research could not confirm the existence of a venue named Bing Li Pork Chop House on 8th Avenue in Sunset Park. Yelp, Google, Tripadvisor, the MTA Away Sunset Park Chinatown guide, Gothamist's Calvin Eng guide, and Chinese-language sources (foodmapnyc, documentedny) returned no match; the closest known Taiwanese pork-chop counter is Taiwan Pork Chop House at 3 Doyers St in Manhattan Chinatown, and the closest Sunset Park pork-chop options are Cantonese (Lucky Eight at 5204 8th Ave, Roast 28). This entry is held back from the live corpus pending a primary source (storefront photo, business filing, or first-hand confirmation).",
+    "url": "https://www.google.com/maps/search/Bing+Li+Pork+Chop+House+8th+Avenue+Sunset+Park+Brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "unknown",
+    "notes": "UNVERIFIED — no listing found on Yelp, Google Maps, Tripadvisor, OpenTable, MenuPix, MTA Away guide, Gothamist Calvin Eng guide, Brokelyn dim sum guide, foodmapnyc, or documentedny (searches performed 2026-05-17). Closest Taiwanese pork-chop institution is Taiwan Pork Chop House, 3 Doyers St, Manhattan (https://www.taiwanporkchop.com). Closest Sunset Park 8th-Ave pork-chop options are Cantonese roast-meat counters: Lucky Eight (5204 8th Ave) and Roast 28 (8th Ave @ 49th St). Recommend corpus operator verify the source of this name — possible misremembering of Taiwan Pork Chop House, or a small unindexed counter that needs a storefront photo to confirm.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/search?cflt=taiwanese&find_loc=Sunset+Park,+Brooklyn,+NY",
+        "accessed": "2026-05-17T15:20:00Z"
+      },
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-17T15:20:00Z"
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/",
+        "accessed": "2026-05-17T15:20:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d779855-Reviews-Lucky_Eight_Restaurant-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T15:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": false,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T15:26:15.291Z"
   }
 ]
