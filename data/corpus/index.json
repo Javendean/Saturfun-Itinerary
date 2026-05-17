@@ -11373,37 +11373,40 @@
   {
     "id": "strong-rope-brewery-red-hook",
     "name": "Strong Rope Brewery (Red Hook)",
-    "desc": "NY-grain-only farm brewery on the Red Hook waterfront, 14 rotating taps and harbor views.",
-    "longDesc": "Strong Rope's Red Hook taproom occupies a beer-hall-style space at 185 Van Dyke St with outdoor picnic tables looking onto New York Harbor. Fourteen rotating taps run from Bohemian pilsners to imperial IPAs, all brewed exclusively with New York State grain, alongside NY wines, cider and spirits. No in-house kitchen, but BYO food and rotating local pop-ups/food trucks make it an easy pairing stop after Defonte's or Steve's Key Lime nearby.",
+    "desc": "100% New York State hops + malt brewery in a Pier 41 warehouse — beer crawl partner for Red Hook Winery.",
+    "longDesc": "Founded 2015 to make 'truly regional' beer using 100% New York hops and malt — a genuinely uncommon constraint that shapes the lineup (look for River Dragon Saison, brewed with Hudson Valley Malt that arrives via the Schooner Apollonia down the Hudson). Taproom is a casual industrial space on the Red Hook waterfront with rotating drafts plus NY state wine, cider, spirits and canned cocktails; no kitchen but food trucks pop up and they actively encourage delivery from Hometown BBQ, Hoek Pizza, or Court Street Grocers. Pairs naturally with Red Hook Winery next door at Pier 41 for a two-stop beer-then-wine crawl.",
     "url": "https://www.strongropebrewery.com/taproom",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "curious",
-      "photo"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "9 min",
+    "duration": "45-60 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-21:00",
-    "notes": "185 Van Dyke St, Brooklyn NY 11231. 14 rotating taps brewed only with NY State grain; also NY wines, cider, spirits, NA options (strongropebrewery.com/taproom). No kitchen — BYO food, delivery, or rotating pop-ups/trucks. Family and dog friendly (leashed); water bowls + treats on request. No on-site parking — street only, and they explicitly warn off the 175 Van Dyke lot due to towing (source). Waterfront views = strong photo moment for the beer-flight track. Pairs naturally with Widow Jane Distillery and Red Hook Winery one block away.",
+    "notes": "Address 185 Van Dyke St, Brooklyn NY 11231; same Pier 41 complex as Red Hook Winery and Brooklyn Crab so park once, crawl both (strongropebrewery.com/taproom). No on-site parking — street only; explicitly warns DO NOT park at the adjacent 175 Van Dyke St lot (towed). No kitchen — bring food, order delivery, or grab from nearby Hometown BBQ. 100% NY grain story is the hook for the 'curious' track — ask staff about the schooner-shipped Hudson Valley malt (strongropebrewery.com).",
     "sources": [
       {
         "url": "https://www.strongropebrewery.com/taproom",
-        "accessed": "2026-05-17T08:15:00Z"
+        "accessed": "2026-05-17T22:55:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/strong-rope-brewery-brooklyn-3",
-        "accessed": "2026-05-17T08:15:00Z"
+        "url": "https://www.strongropebrewery.com/",
+        "accessed": "2026-05-17T22:55:00Z"
+      },
+      {
+        "url": "https://www.business.nyctourism.com/places/strong-rope-brewery-red-hook",
+        "accessed": "2026-05-17T22:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:13:45.893Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:59:13.191Z"
   },
   {
     "id": "lavender-lake",
@@ -25368,50 +25371,46 @@
   },
   {
     "id": "widow-jane-distillery",
-    "name": "Widow Jane Distillery (formerly Cacao Prieto)",
-    "desc": "Red Hook bourbon + rye distillery in the historic Cacao Prieto building — tour, barrel room, tasting flight.",
-    "longDesc": "Housed in the same 218 Conover St brick building that once held Cacao Prieto's bean-to-bar operation, Widow Jane runs ~60-min weekend tours at 1, 3, and 5 PM that walk you through the aging warehouse, cooking and distillation floor, and finish with a flight of the 10 Yr Bourbon, Paradigm Rye, and Apple Wood Rye. Note: the Cacao Prieto chocolate factory and shop are permanently closed as of 2025 — only the distillery half of the original operation still welcomes visitors. Tickets $27, max 10 per group; book ahead since weekend slots fill.",
+    "name": "Widow Jane Distillery",
+    "desc": "Red Hook bourbon distillery with mineral-water whiskey, guided tours and Botanica tasting bar on Conover St.",
+    "longDesc": "Small-batch bourbon and rye distillery at 218 Conover St blending its spirits with limestone mineral water from the Widow Jane Mine in Rosendale, NY. Public flagship tours run Fri 4pm and Sat/Sun at 1/3/5pm ($27, 10-guest cap) and include a guided tasting; their adjacent cocktail bar Botanica pours flights and seasonal drinks Fri 4-10pm and Sat/Sun 2-10pm. Walkable from Fort Defiance, Brooklyn Crab, Red Hook Winery and the Red Hook Ferry stop, making it the spirits anchor of a Red Hook drinks crawl.",
     "url": "https://widowjane.com/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "curious",
-      "foodie",
-      "chill"
+      "chill",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-75 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "11:00-19:00 (tours Sat/Sun 13:00, 15:00, 17:00)",
-    "notes": "Same Conover St brick building as the original Cacao Prieto bean-to-bar factory; chocolate side is permanently closed per Yelp Sept 2025 and Tripadvisor, distillery half operates as Widow Jane (widowjane.com/visit). $27/person, 10 guest cap (widowjane.com). Tour covers aging warehouse, distillation floor, tasting flight of 10 Yr Bourbon + Paradigm Rye + Apple Wood Rye (widowjane.com). Street parking on Conover/Reed is usually findable on weekends; Red Hook has no subway so driving is the natural mode. Pairs cleanly with Raaka Chocolate (5 min walk) and Hometown BBQ (3 min drive) for a Red Hook foodie+curious afternoon (redhookwaterstories.org).",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat-Sun 11:00-19:00 (Botanica bar 14:00-22:00)",
+    "notes": "Tours $27/pp, Fri 4pm + Sat/Sun 1/3/5pm, book at widowjane.com/visit; max 10 guests so reserve ahead (widowjane.com). Tastings Wed-Sun (widowjane.com). Plentiful Red Hook street parking on weekends — area noted as 'a lot of parking' vs rest of Brooklyn (yelp.com). Pair with Red Hook Winery or Fort Defiance for a 3-stop drinks track all within ~5 walking min.",
     "sources": [
       {
         "url": "https://widowjane.com/visit",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/cacao-prieto-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Attraction_Review-g60827-d4833180-Reviews-Cacao_Prieto-Brooklyn_New_York.html",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:55:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/widow-jane-distillery-red-hook-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:55:00Z"
       },
       {
         "url": "https://www.nyctourism.com/attractions-tours/widow-jane/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:55:00Z"
+      },
+      {
+        "url": "https://widowjane.com/botanica",
+        "accessed": "2026-05-17T22:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T22:46:58.864Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T23:01:06.156Z"
   },
   {
     "id": "the-springs-brooklyn-closed",
@@ -30136,10 +30135,10 @@
   {
     "id": "red-hook-tavern",
     "name": "Red Hook Tavern",
-    "desc": "Michelin-listed corner tavern with dry-aged burger, country ham croquettes, and a sharp cocktail list.",
-    "longDesc": "A warm, wood-paneled neighborhood tavern on Van Brunt with a tight menu of American comfort cooking — Country Ham Croquettes ($16), Romaine Wedge with Nueske's bacon ($21), French Onion Soup ($18), and a celebrated dry-aged burger. The cocktail program leans classic with serious technique (Tavern Julep $17, Isle Old Fashioned $20, Dukes Martini $21), making it an ideal shareable-plates stop after Brooklyn Crab. Listed in the MICHELIN Guide.",
+    "desc": "Dry-aged burger and classic cocktails in a warm Van Brunt tavern — Beard 2026 hospitality semifinalist.",
+    "longDesc": "Red Hook Tavern serves a tight, classic American menu — the much-loved dry-aged burger, French onion soup, and a full cocktail/wine/beer program — in a warm, wood-trimmed waterfront room at 329 Van Brunt. It's the cocktail-bar-with-real-food anchor Red Hook has been missing since Fort Defiance closed, and was named a James Beard Foundation 2026 Outstanding Hospitality semifinalist. Reservations open 2 weeks out on Resy for parties up to 8; walk-ins are first-come at the bar.",
     "url": "https://www.redhooktavern.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6442aec9db47706856d7d156/908ab0cd-663c-420b-8222-457a97491696/Redhook+Tavern+window.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
@@ -30147,36 +30146,42 @@
       "chill",
       "romantic"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$$",
-    "duration": "60-90 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "12:00-14:45, 17:00-21:30",
-    "notes": "Weekend lunch noon-2:45pm and dinner 5-9:30pm Thu-Sun (redhooktavern.com/visit-us). Menu pulls confirmed: Country Ham Croquettes $16 with aged white cheddar + dijonnaise + rye crumbs, Romaine Wedge $21 with bleu cheese + Nueske's bacon + buttermilk herb (redhooktavern.com/menu). Cocktails include Tavern Julep $17, Luna de Margarita $18, Isle Old Fashioned $20 (Toki + pineapple + allspice + jerk bitters), Dukes Martini $21. Michelin-listed (guide.michelin.com). Street parking on Van Brunt and side streets — Red Hook is car-friendly. 5-6 min drive from Industry City via 3rd Ave → Beard St → Van Brunt. Reservations on OpenTable; corner location at Coffey St is photogenic for the harvester.",
+    "duration": "90-120 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "Sat-Sun 12:00-14:45, 17:00-21:30",
+    "notes": "Anchor dinner stop for the Red Hook cluster. Dry-aged burger is the signature order; cocktail program is full bar. Lunch Thu–Sun 12–2:45pm opens a daytime window few cocktail spots offer (redhooktavern.com/visit-us). Reservations via Resy, released 14 days out, parties up to 8 (resy.com/cities/new-york-ny/venues/red-hook-tavern). Street parking on Van Brunt is limited on weekend evenings — arrive 15 min early or park near Valentino Pier and walk. Phone (917) 966-6094.",
     "sources": [
       {
-        "url": "https://www.redhooktavern.com/menu",
-        "accessed": "2026-05-17T16:45:00Z"
+        "url": "https://www.redhooktavern.com/",
+        "accessed": "2026-05-17T22:55:00Z"
       },
       {
         "url": "https://www.redhooktavern.com/visit-us",
-        "accessed": "2026-05-17T16:45:00Z"
+        "accessed": "2026-05-17T22:55:00Z"
+      },
+      {
+        "url": "https://www.redhooktavern.com/menu",
+        "accessed": "2026-05-17T22:55:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/red-hook-tavern",
+        "accessed": "2026-05-17T22:55:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/red-hook-tavern",
-        "accessed": "2026-05-17T16:45:00Z"
+        "accessed": "2026-05-17T22:55:00Z"
       },
       {
-        "url": "https://www.opentable.com/r/red-hook-tavern-brooklyn",
-        "accessed": "2026-05-17T16:45:00Z"
+        "url": "https://www.yelp.com/biz/red-hook-tavern-brooklyn",
+        "accessed": "2026-05-17T22:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T16:48:56.710Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T23:05:19.160Z"
   },
   {
     "id": "van-brunt-stillhouse",
@@ -34523,5 +34528,98 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T22:52:56.470Z"
+  },
+  {
+    "id": "tavern-next-door",
+    "name": "Tavern Next Door",
+    "desc": "Billy Durney's disco-era cocktail lounge next to Red Hook Tavern; Paris-by-way-of-Brooklyn vibe with sliders and disco fries.",
+    "longDesc": "A loud, dark, laidback cocktail lounge from Billy Durney (Hometown BBQ, Red Hook Tavern) at 327 Van Brunt, with reinvented disco-era cocktails led by his brother Conor Johns — think a serious Blue Hawaiian and a dessert-cream White Russian. The kitchen runs counter-service: mini Tavern burgers (two for $24), brisket queso disco fries, bucatini with clams. Prime-time reservations book out about two weeks ahead and lines form at both doors on weekends.",
+    "url": "https://www.opentable.com/r/tavern-next-door-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "evenings into late night (verify via @tavern_next_door)",
+    "notes": "Non-dive nightcap that actually pairs with the Red Hook drinks track — meaningfully different from Sunny's (dive/folk) and Botanica (distillery-attached whiskey bar). Counter-service, so no host stress, but weekend lines are real; aim for arrival before 9pm or hold a reservation. Same block as Red Hook Tavern (329) so you can stack: early dinner at the Tavern, walk five feet for the nightcap. Free Red Hook street parking is generally easier than DUMBO/Williamsburg on weekends (the Court Street Journal piece notes 'one crazy night in Paris' as the design brief).",
+    "sources": [
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/tavern-next-door",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.courtstreetjournal.com/p/billy-durney-tavern-next-door-red-hook-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.cobblehillcollective.com/p/a-new-cocktail-lounge-from-red-hook",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.corner.inc/place/1509985",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.redhooktavern.com/visit-us",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:56:59.040Z"
+  },
+  {
+    "id": "hometown-bar-b-que",
+    "name": "Hometown Bar-B-Que",
+    "desc": "Pit-smoked Texas-style BBQ counter in Red Hook with live music on weekends",
+    "longDesc": "Billy Durney's oak-smoked brisket, jalapeño-cheddar sausage, and lamb banh mi sandwiches served counter-style at 454 Van Brunt St until they sell out. The Reed Street entrance opens onto the Fairway parking lot, and live music fills the dining hall Friday through Sunday nights — a natural foodie anchor for a Red Hook winery/brewery walk.",
+    "url": "https://hometownbbq.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri-Sat 12:00-23:00, Sun 12:00-22:00",
+    "notes": "Walk-up counter, first-come first-served until sellout — go early on Saturday for brisket and the Friday-Sunday-only pastrami ($28). Brisket sandwich $18, pulled pork $17, lamb banh mi $19; sides include mac & cheese, Texas-style pinto beans, collards, banana cream pudding (hometownbbq.com). Live music Friday-Sunday nights (visitbrooklyn.nyc). Closed Mondays. Parking lot entrance off Reed Street overlooking the old Fairway lot — rare on-site parking for the Red Hook cluster, which pairs cleanly with Red Hook Winery and Widow Jane just down the pier.",
+    "sources": [
+      {
+        "url": "https://hometownbbq.com/locations",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://hometownbbq.com/menu-rh",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/hometown-bar-b-que",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T23:03:08.424Z"
   }
 ]
