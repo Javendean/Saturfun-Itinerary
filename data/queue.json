@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Tomoe Sushi or Kotobuki counter inside Japan Village food hall",
-    "reason": "Natural meal anchor that closes the tea-ceremony + pottery + Japanese-lunch loop without leaving IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:12:16.097Z"
-  },
-  {
-    "topic": "Brooklyn Kura sake brewery (Industry City)",
-    "reason": "Another Japanese-craft venue within IC for the same chill/curious vibe — pairs with tea-ceremony track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:12:16.097Z"
-  },
-  {
-    "topic": "Kettl Tea Greenpoint flagship teahouse and tasting room",
-    "reason": "Brooklyn-side high-end Japanese tea — keeps lineage thread on the IC side of the river, ~18 min drive from IC, strengthens the primary corpus instead of relying on Manhattan backups",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:14:52.282Z"
-  },
-  {
-    "topic": "Cha-An Teahouse 2nd-floor Japanese kaiseki + tea on E 9th St",
-    "reason": "Same East Village micro-cluster as Setsugekka — pairs naturally as a longer 'tea + light kaiseki' Manhattan-day option if the user is already crossing the bridge",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:14:52.282Z"
-  },
-  {
-    "topic": "Tea Drunk East Village Chinese gongfu tea ceremony",
-    "reason": "Diversifies the ceremony thread from Japanese chadō to Chinese gongfu; walkable from Setsugekka so they can be combined as a single Manhattan tea crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:14:52.282Z"
-  },
-  {
     "topic": "Kai Feng Fu Dumpling House 8th Ave Sunset Park pork chive dumplings",
     "reason": "Two-block walking pair completes the canonical Sunset Park Chinatown dumpling-then-tart loop",
     "requestedBy": "agent",
@@ -10060,5 +10030,89 @@
     "reason": "Confirmed pottery upstream stop — needs corpus entry to chain with Sunrise Mart",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T12:20:45.245Z"
+  },
+  {
+    "topic": "Handroll Bar inside Japan Village food hall (casual temaki counter)",
+    "reason": "Casual, no-reservation alternative to Sushi Uesugi for the same IC sushi-anchor slot — fills a sub-$$ price band variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:23:26.653Z"
+  },
+  {
+    "topic": "Setsugekka tea ceremony at Industry City",
+    "reason": "Pairs directly with this entry as the upstream stop in the Japanese-themed IC loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:23:26.653Z"
+  },
+  {
+    "topic": "Best Japanese pastry/dessert vendor inside Japan Village (Cha-An Teahouse style)",
+    "reason": "Closes the loop with a sweet course after sushi without leaving the food hall",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:23:26.653Z"
+  },
+  {
+    "topic": "Hayama Sushi Industry City omakase counter",
+    "reason": "Japanese-craft pairing within IC — close out a sake/tea/sushi triple-track day without leaving the complex",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:25:15.374Z"
+  },
+  {
+    "topic": "Kaminari Ramen Industry City",
+    "reason": "Casual Japanese food anchor inside IC; natural pre/post stop to Brooklyn Kura on the same chill/curious track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:25:15.374Z"
+  },
+  {
+    "topic": "Bellocq Tea Atelier Greenpoint salon",
+    "reason": "Companion to Kettl on the Greenpoint tea-lineage thread — botanical/European tea counterpart to Kettl's Japanese single-origin focus, both walkable within the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:27:24.994Z"
+  },
+  {
+    "topic": "Oxalis Greenpoint tasting menu (dinner alt: cafe Popular pastries)",
+    "reason": "Adds a high-end food anchor in the Greenpoint cluster so a Kettl tasting can chain into dinner without re-driving across boroughs",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:27:24.994Z"
+  },
+  {
+    "topic": "Archestratus Books + Foods Greenpoint",
+    "reason": "Curated cookbook-and-cafe shop within 5 min walk of Kettl — strengthens a 'curious + chill' Greenpoint micro-track for the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:27:24.995Z"
+  },
+  {
+    "topic": "Sunrise Mart East Village Japanese grocery",
+    "reason": "Adjacent to Cha-An on Stuyvesant/9th St — extends the EV Japanese micro-cluster with a browse-able snack stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:29:52.049Z"
+  },
+  {
+    "topic": "Otafuku Plus Japanese street food E 9th St",
+    "reason": "Same block as Cha-An; takoyaki/okonomiyaki counter makes a casual savory bookend to the tea set",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:29:52.049Z"
+  },
+  {
+    "topic": "Tomoe Sushi Greenwich Village",
+    "reason": "Another Manhattan Japanese anchor 10 min west — completes a 'cross-the-bridge for Japanese' Manhattan day option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:29:52.049Z"
+  },
+  {
+    "topic": "T Shop SoHo Chinese gongfu tea ceremony",
+    "reason": "Third leg of a Manhattan tea-ceremony triangle — also gongfu but more design-forward and chattier than Tea Drunk, lets the corpus offer a less-formal Chinese-tea alternative when reservations are full",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:32:57.947Z"
+  },
+  {
+    "topic": "Floating Mountain Tea House Upper West Side gongfu",
+    "reason": "Adds an UWS gongfu option so the ceremony thread isn't entirely concentrated in the East Village — useful when itinerary anchors a Central Park or Lincoln Center stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:32:57.948Z"
+  },
+  {
+    "topic": "Kettl Tea Williamsburg matcha tasting bar",
+    "reason": "Brings the ceremony thread back into Brooklyn (10-15 min from IC) with Japanese matcha gradings — diversifies geographically so users without time for a Manhattan crossing still get a ritual-tea option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T12:32:57.948Z"
   }
 ]

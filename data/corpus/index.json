@@ -11891,8 +11891,8 @@
   {
     "id": "brooklyn-kura",
     "name": "Brooklyn Kura",
-    "desc": "NYC's first sake brewery and tap room, on-site at Industry City — sake on tap, shochu cocktails, small bites.",
-    "longDesc": "Brooklyn Kura is the only sake brewery in NYC (one of just two in the five boroughs), tucked into Industry City's Courtyard 5/6. The tap room pours flights of their house-brewed junmai alongside guest sakes, shochu-based cocktails, and a tight Japanese snack menu — ideal for unwinding after lunch at Uesugi without leaving the IC cluster. It's casual, brewery-style seating with the tanks visible behind the bar.",
+    "desc": "First sake brewery in NYC — tap room pours draft junmai and rare tap-only varieties inside Industry City.",
+    "longDesc": "Brooklyn Kura is America's first kura-style sake brewery, located inside Industry City Building 7. The tap room rotates draft junmai alongside tasting-room exclusives like shiboritate, nigori, and orizake, served with light snacks (cheese, charcuterie, nori). Brewery tours via Turnstile run weekends and explain the rice-to-bottle process — pairs well with a tea-ceremony or ramen stop in the same complex.",
     "url": "https://www.brooklynkura.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -11903,31 +11903,36 @@
       "foodie"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min (on-site)",
+    "driveFromIC": "0 min (inside IC)",
     "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
-    "notes": "Located in Industry City Courtyard 5/6 at 68 34th St (industrycity.com listing). Saturday 12-9pm, Sunday 1-8pm; Thu/Fri 4-9pm (brooklynkura.com/pages/about). Sake on tap, expanded bar menu with shochu cocktails, snacks and small bites. Walk-in friendly; private event bookings via events@brooklynkura.com. Pairs naturally as the evening cap to a Japanese mini-track that starts with Uesugi lunch — no driving required between stops.",
+    "notes": "Located at 68 34th St, Building 7 inside Industry City (industrycity.com tenant page). Tasting room closed Mon-Wed; Thu-Fri 16:00-21:00 (brooklynkura.com). Tap-only varieties (shiboritate, moromi, orizake) are the move — not available in retail bottles. Turnstile Tours runs guided brewery walkthroughs on select weekends (turnstiletours.com). Weekend parking is the IC garage on 32nd/33rd. Phone (347) 766-1601.",
     "sources": [
       {
-        "url": "https://www.brooklynkura.com/pages/about",
-        "accessed": "2026-05-17T12:00:00Z"
+        "url": "https://www.brooklynkura.com/",
+        "accessed": "2026-05-17T12:25:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/brooklyn-kura/",
-        "accessed": "2026-05-17T12:00:00Z"
+        "accessed": "2026-05-17T12:25:00Z"
+      },
+      {
+        "url": "https://turnstiletours.com/brooklyn-kura-sake-brewery-industry-city/",
+        "accessed": "2026-05-17T12:25:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/brooklyn-kura-brooklyn",
-        "accessed": "2026-05-17T12:00:00Z"
+        "accessed": "2026-05-17T12:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:10:28.662Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T12:25:15.356Z"
   },
   {
     "id": "bamboo-garden-sunset-park",
@@ -20917,11 +20922,11 @@
   },
   {
     "id": "sushi-uesugi-japan-village",
-    "name": "Sushi Uesugi (inside Japan Village)",
-    "desc": "Tucked-away omakase counter inside Japan Village — $50 lunch sets, walk-in only, the food hall's serious sushi pick.",
-    "longDesc": "Sushi Uesugi is a small, refined omakase restaurant occupying its own corner of the Japan Village food hall at Industry City. Chef Uesugi runs an intimate counter where each course spotlights seasonal Japanese fish, with signature off-menu touches like Yukke Don and a Garlic Truffle Rice that locals quietly rave about. The $50 lunch omakase (10 pieces, walk-in only) is one of the best sushi values in Brooklyn and the reason to choose this over the umbrella Japan Village listing.",
+    "name": "Sushi Uesugi at Japan Village",
+    "desc": "Intimate omakase counter inside the Japan Village complex at Industry City — seasonal sushi, no leaving IC.",
+    "longDesc": "Sushi Uesugi is the dedicated sushi restaurant adjacent to the Japan Village food hall at Industry City, serving an omakase tasting experience built around seasonal catches with signature plates like Yukke Don and Garlic Truffle Rice. Chef-driven and reservation-friendly, it's the natural mid-loop meal anchor after a tea ceremony or pottery session on-site. Lunch service (12–3pm) makes it the cleanest way to close a Japanese-themed Industry City afternoon without driving anywhere.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
@@ -20930,33 +20935,33 @@
       "curious"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "60-75 min",
+    "priceBand": "$$$",
+    "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "12:00-14:30, 17:00-19:30 (Sat/Sun, walk-in only)",
-    "notes": "Correction during research: 'Hibino Sushi' is not a tenant at Japan Village — Hibino is a separate restaurant at 333 Henry St, Cobble Hill (https://hibino-brooklyn.com). Inside Japan Village the strongest stall-level sushi pick is Sushi Uesugi: $50 lunch omakase, 10 pieces, walk-in only, Wed–Sun noon–2:30pm and 5–7:30pm (https://www.japanvillage.com/eat-drink/sushi-uesugi). Yelp reviewers consistently highlight thick cuts, fresh fish flown from Japan, and clean, intimate ambience (https://www.yelp.com/biz/sushi-uesugi-brooklyn). Since it sits inside Industry City, drive time from the IC anchor is effectively 0 — park in any IC lot and walk in via Building 4.",
+    "hoursWeekend": "Fri–Sat 12:00–15:00, 17:00–21:00; Sun 12:00–15:00, 17:00–20:00",
+    "notes": "Located at 267 36th St, directly inside the Industry City Japan Village complex — zero-drive anchor between a tea ceremony at Setsugekka (also IC) and pottery/manga browsing in the food hall (japanvillage.com). Omakase format; reservations strongly advised, especially weekends (yelp.com). Lunch chirashi kaisen don and a la carte nigiri are the lighter midday option vs. full omakase. Note: original brief mentioned Tomoe Sushi / Kotobuki — neither operates at Japan Village; Sushi Uesugi is the on-site sushi anchor.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T12:35:00Z"
       },
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T12:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sushi-uesugi-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T12:35:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T12:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T00:44:48.385Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T12:23:26.635Z"
   },
   {
     "id": "kijitora-williamsburg",
@@ -27633,5 +27638,150 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T12:18:57.092Z"
+  },
+  {
+    "id": "kettl-tea-greenpoint",
+    "name": "Kettl Tea — Greenpoint Flagship",
+    "desc": "Japanese tea importer's Greenpoint flagship — tasting counter, in-house stone-milled matcha, seasonal wagashi.",
+    "longDesc": "Kettl's Greenpoint flagship is a serious single-origin Japanese teahouse with a dedicated tasting counter, an in-house Japanese stone mill for fresh matcha, and a seasonal $90 Guided Omakase pairing four loose-leaf teas plus a premium matcha with wagashi handmade daily by Phoebe Ogawa. Walk-ins get matcha, sencha, hojicha, and pastry by-the-pot service in the cafe gallery; the tasting counter is bookable for a more guided flight. About an 18-minute drive up the BQE from Industry City, with weekend street parking around Manhattan Ave / Greenpoint Ave.",
+    "url": "https://kettl.co/pages/visit-us",
+    "photoUrl": "https://kettl.co/cdn/shop/files/Kettl_Greenpoint_7c889cb1-7bbd-4fd5-9881-fa12942b483d.jpg?v=1762271649&width=1600",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 9:00-20:00, Sun 9:00-19:00",
+    "notes": "Flagship at 70 Greenpoint Ave, Brooklyn NY 11222 (Yelp, Greenpointers). Tasting counter offers curated flights of prized teas plus by-the-pot service of the full catalog (kettl.co/products/tasting-flight). The Class | A Seasonal Guided Omakase Tasting is $90 and includes four loose-leaf teas + one premium stone-milled matcha with seasonal wagashi by Phoebe Ogawa (kettl.co/products/class-a-seasonal-guided-omakase-tasting). Kettl grinds matcha in-house — rare in the US (Tea For Me Please). Crowded on weekends; reservations recommended for the tasting counter and required for the omakase class.",
+    "sources": [
+      {
+        "url": "https://kettl.co/pages/visit-us",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://kettl.co/products/tasting-flight",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://kettl.co/products/class-a-seasonal-guided-omakase-tasting",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2022/01/07/kettls-greenpoint-flagship-store-is-a-tea-drinkers-paradise/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kettl-brooklyn-3",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.teaformeplease.com/tea-places-kettl-flagship-cafe-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T12:27:24.973Z"
+  },
+  {
+    "id": "cha-an-teahouse",
+    "name": "Cha-An Teahouse",
+    "desc": "Hidden 2nd-floor East Village Japanese teahouse with weekend kaiseki-style afternoon tea ($68/pp).",
+    "longDesc": "Cha-An has served Japanese sweets, savory bento, and a deep tea list from a serene 2nd-floor walk-up on E 9th St since 2004. The weekend-only afternoon tea is a tiered, multi-course set — matcha custard puffs, sakura mochi, inari, egg sandwiches, a tiramisu finisher, and choice of tea — with just 20 seats per session. It's the closest thing to a 'light kaiseki + tea ceremony' experience the East Village offers, and a natural pairing for anyone already in Manhattan for Setsugekka.",
+    "url": "https://www.chaanteahouse.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 12:00-21:00 / Sun 12:00-19:00",
+    "notes": "Address is 230 E 9th St, 2nd Fl, East Village Manhattan — not Brooklyn; zone tag 'dumbo' reflects the most natural BK-side bridge gateway (Manhattan Bridge) since the enum has no Manhattan option (chaanteahouse.com). Closed Tue/Wed. Weekend afternoon tea is reservation-only and caps at 20 guests/session — book ahead via the site's Sat/Sun slot links (chaanteahouse.com/afternoon-tea). À la carte sweets and savory bento available outside tea service. Weekend parking in East Village is street-only and tough; budget extra time or use a paid lot near Astor Place. Pairs cleanly with Setsugekka (3 blocks away) for a single Manhattan tea-themed half-day (yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.chaanteahouse.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.chaanteahouse.com/afternoon-tea",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/cha-an-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T12:29:52.031Z"
+  },
+  {
+    "id": "tea-drunk",
+    "name": "Tea Drunk",
+    "desc": "Reservation-only gongfu cha teahouse in the East Village — heritage single-origin Chinese teas, multiple steepings.",
+    "longDesc": "Founded by Shunan Teng (TED-Ed tea historian), Tea Drunk is NYC's most serious Chinese gongfu cha destination: a tiny East Village room where you sit at a wooden tea table and a server brews one rare leaf for you across 6-10 short steepings in small porcelain cups. The seasonal menu rotates every two weeks following the ancient Chinese 24-period lunisolar calendar, drawing from heritage mountains like Wuyi (Dan Cong, Shui Xian) and Yunnan puerh. It sits on the same East Village block as Setsugekka (Japanese chadō at 74 E 7th), making the two a natural Manhattan tea-ceremony crawl that contrasts Chinese and Japanese ritual side by side.",
+    "url": "https://www.teadrunk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-75 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Fri-Sun 13:00-19:00 (reservation only)",
+    "notes": "Manhattan venue at 123 E 7th St — justified per task brief because it pairs with Setsugekka (74 E 7th, Japanese chadō) as a single walkable tea-ceremony crawl (edible manhattan, teadrunk.com). Reservation-only seasonal tastings, no walk-ins (teadrunk.com). Menu shifts every two weeks on the Chinese 24-period calendar (cityguideny.com). Yelp shows 'CLOSED' as of Feb 2026 but the official site and founder's LinkedIn confirm reservation tastings are active — recommend calling (917) 573-9936 to confirm before driving in. Parking: street parking around Tompkins Sq is rough on weekends; nearest reliable garages are on E 6th/Avenue A. Drive from Industry City ~22 min off-peak via Hugh L. Carey Tunnel + FDR.",
+    "sources": [
+      {
+        "url": "https://www.teadrunk.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.cityguideny.com/article/traditional-tea-ceremonies-nyc-",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://ediblemanhattan.com/uncategorized/teahouse-tea-drunk-t-shop-setsugekka-kitano-hotel/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tea-drunk-new-york-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.linkedin.com/in/shunanteng/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T12:32:57.928Z"
   }
 ]
