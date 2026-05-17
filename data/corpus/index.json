@@ -27046,5 +27046,235 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T11:10:07.410Z"
+  },
+  {
+    "id": "union-pool",
+    "name": "Union Pool",
+    "desc": "Williamsburg dive with a big back patio, fountain, El Diablo taco truck, and DJs nightly until 4am.",
+    "longDesc": "A long-running Williamsburg institution housed in a former pool-supply store, Union Pool's main draw is a sprawling fenced back patio with picnic tables, a stone fountain, and the El Diablo taco truck parked in the corner slinging cheap, well-spiced tacos until 3:30-4am. Resident DJs spin seven nights a week, and on summer Saturdays it hosts free outdoor concerts starting at 4pm. Strong fit as a pre/post-show anchor for a Music Hall of Williamsburg night — it's a 7-minute walk away and the patio absorbs a big group without a reservation.",
+    "url": "https://www.union-pool.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 14:00-04:00, Sun 14:00-02:00",
+    "notes": "484 Union Ave, Brooklyn 11211, ~7 min walk to Music Hall of Williamsburg. Back patio open year-round (heated in winter). El Diablo Taco Truck on-site Sat-Sun 13:00-04:00 (Yelp). DJs every night 10pm-4am (NYC Tourism). Free outdoor concerts every Saturday at 4pm in summer (Brooklyn Vegan). Street parking on Union/Meeker is doable on weekend evenings but tight — McCarren Park lots are the nearest backup. Cash-friendly, no cover most nights.",
+    "sources": [
+      {
+        "url": "https://www.union-pool.com/the-space",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/union-pool-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/el-diablo-taco-truck-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/union-pool/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynvegan.com/union-pools-patio-and-taco-truck-are-back-open/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:14:04.685Z"
+  },
+  {
+    "id": "elsewhere-bushwick",
+    "name": "Elsewhere",
+    "desc": "Multi-room Bushwick music venue with a 500-cap rooftop, daring electronic and indie bookings.",
+    "longDesc": "Elsewhere is a five-space live-music and nightclub complex in industrial Bushwick: a 675-capacity Main Hall, a 200-cap Hall, a Loft lounge, a Gallery, and a 500-cap open-air Rooftop that doubles as a daytime bar and night party venue. Programming spans experimental electronic, indie, ambient, queer club nights, and film screenings — a strong booking complement to Music Hall of Williamsburg in the same drive radius from Industry City. Weekend rooftop opens 2pm Sat/Sun in season, with indoor shows running well past midnight.",
+    "url": "https://www.elsewhere.club/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-4 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Rooftop Sat 14:00-00:00, Sun 14:00-21:00; indoor shows vary by event",
+    "notes": "599 Johnson Ave, Brooklyn 11237. Five distinct spaces under one roof — Main (675), Hall (200), Rooftop (500), Loft, Gallery (elsewhere.club/about). No on-site parking; venue explicitly says street parking on surrounding industrial blocks is generally available within a few blocks (discotech.me/brooklyn/elsewhere). From IC take Hamilton Ave → BQE E → Flushing Ave exit, ~22 min off-peak. Rooftop programming Apr-Oct; check rooftop-2026 calendar (elsewhere.club/rooftop-2026). 21+ for most night events; some all-ages early shows. Pairs well with a pre-show Bushwick dinner or post-show late food on Knickerbocker.",
+    "sources": [
+      {
+        "url": "https://www.elsewhere.club/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.elsewhere.club/about",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.elsewhere.club/rooftop-2026",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/elsewhere-rooftop-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://discotech.me/brooklyn/elsewhere/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Elsewhere_(music_venue)",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T11:16:05.114Z"
+  },
+  {
+    "id": "westlight-rooftop",
+    "name": "Westlight",
+    "desc": "22nd-floor 360° rooftop cocktail bar atop The William Vale with Manhattan skyline views",
+    "longDesc": "Perched on the 22nd floor of The William Vale hotel in north Williamsburg, Westlight is Andrew Carmellini's NoHo Hospitality rooftop bar offering 360-degree views of Manhattan, Brooklyn, and the East River. The menu pairs original and classic cocktails with rare spirits, craft beer, wine, and globally inspired small plates. Weekends open at 12pm (21+ after 6pm), and valet parking on-site makes it easy for a pre-Brooklyn-Bowl stop.",
+    "url": "https://www.westlightnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "photo",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-02:00, Sun 12:00-24:00",
+    "notes": "Solid Bar Blondeau alternative — 22nd-floor 360° views vs. Blondeau's mid-rise vantage; reservations encouraged on weekends via SevenRooms (westlightnyc.com/reservations). 21+ after 6pm — guests under 21 admitted only before 6pm. Valet parking on-site at The William Vale (NoHo Hospitality / Andrew Carmellini). ~22 min drive from Industry City via BQE; ~7 min north of Brooklyn Bowl Williamsburg, making it a natural pre-show cocktail stop. Address: 111 N 12th St, 22nd Fl, Brooklyn, NY 11249.",
+    "sources": [
+      {
+        "url": "https://www.westlightnyc.com/",
+        "accessed": "2026-05-17T11:15:00Z"
+      },
+      {
+        "url": "https://www.westlightnyc.com/location/westlight/",
+        "accessed": "2026-05-17T11:15:00Z"
+      },
+      {
+        "url": "https://www.thewilliamvale.com/dining/westlight/",
+        "accessed": "2026-05-17T11:15:00Z"
+      },
+      {
+        "url": "https://www.westlightnyc.com/reservations/",
+        "accessed": "2026-05-17T11:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:17:50.374Z"
+  },
+  {
+    "id": "the-ides-wythe-hotel",
+    "name": "The Ides at Wythe Hotel (Closed — now Bar Blondeau)",
+    "desc": "Former 6th-floor Wythe rooftop cocktail bar; closed 2020 and replaced by Bar Blondeau in 2021.",
+    "longDesc": "The Ides was the original rooftop cocktail-and-views bar on the 6th floor of Wythe Hotel in Williamsburg, known for brass-and-marble interiors, an outdoor terrace facing the Manhattan skyline, and a seasonal cocktail-only program (no food beyond bar snacks). It shuttered during the 2020 hotel pause and was reconceived by the same Andrew Tarlow group as Bar Blondeau, which reopened the space in 2021 with a French small-plates menu, natural wine list, and the same skyline view. Yelp still lists The Ides as 'CLOSED' as of February 2026.",
+    "url": "https://www.wythehotel.com/dining",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "romantic",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "PERMANENTLY CLOSED",
+    "notes": "Do not route itineraries here — venue is defunct. Same physical rooftop now operates as Bar Blondeau (already in corpus) which added a food program, so the 'cocktail-only/no-food' contrast point against Bar Blondeau no longer exists at this address. For a true cocktail-only Williamsburg rooftop contrast, see enqueue (Westlight at The William Vale is the strongest like-for-like substitute). Yelp marks 'CLOSED - Updated February 2026' (https://www.yelp.com/biz/the-ides-bar-brooklyn). Wythe Hotel dining page now lists only Bar Blondeau and Le Crocodile, with no mention of The Ides (https://www.wythehotel.com/dining).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/the-ides-bar-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.wythehotel.com/dining",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.barblondeau.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:20:19.117Z"
+  },
+  {
+    "id": "bar-blondeau-wythe-rooftop",
+    "name": "Bar Blondeau (formerly Lemon's, Wythe Hotel rooftop)",
+    "desc": "6th-floor Wythe Hotel rooftop with Manhattan skyline views — 5-min walk from Brooklyn Bowl",
+    "longDesc": "Bar Blondeau is the rooftop bar on the 6th floor of the Wythe Hotel at 80 Wythe Ave — the same address that was Lemon's (coastal-Italian tiki-leaning concept) from 2019 until it rebranded in 2021. It now runs a seasonal New York cocktail program with East Coast oysters, spicy tuna toast, fried chicken, and steak au poivre, with full-frontal Manhattan skyline views. Weekend hours open early (Sat 2pm, Sun 1pm) making it a strong pre-Brooklyn-Bowl drinks stop just one block from the venue.",
+    "url": "https://www.barblondeau.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 14:00-00:00, Sun 13:00-00:00",
+    "notes": "NOTE: The task topic 'Lemon's rooftop at Hoxton Williamsburg' is factually incorrect on two counts. (1) Lemon's was at the Wythe Hotel, not the Hoxton (nyctourism.com, afar.com). (2) Lemon's closed and was rebranded as Bar Blondeau in 2021; Yelp lists Lemon's as permanently closed as of Dec 2025 (yelp.com). The Hoxton Williamsburg's actual rooftop is Laser Wolf (thehoxton.com). Bar Blondeau is the substantive, currently-operating successor at 80 Wythe Ave — 5-min walk to Brooklyn Bowl (61 Wythe Ave). Reservations via barblondeau.com or 718-460-8006. Weekend street parking in Williamsburg is tight on show nights; Hoxton/Wythe paid lots nearby.",
+    "sources": [
+      {
+        "url": "https://www.barblondeau.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lemons-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://cititour.com/NYC_News/Midtowns-PHD-Terrace-is-Now-a-Dream-in-Lemons/8521",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.afar.com/places/lemons",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://thehoxton.com/williamsburg/laser-wolf-restaurant/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:22:44.767Z"
   }
 ]
