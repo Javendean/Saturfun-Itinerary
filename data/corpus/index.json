@@ -2054,41 +2054,43 @@
   },
   {
     "id": "kai-feng-fu-dumpling-house",
-    "name": "Kai Feng Fu Dumpling House",
-    "desc": "No-frills 8th Ave counter slinging fried pork-and-chive dumplings, legendary for sub-$1-each pricing.",
-    "longDesc": "Cash-only Sunset Park dumpling window at 4801 8th Ave with thick-skinned, crispy-bottomed pork-and-chive dumplings hot off the griddle in under five minutes. Six fried for around $2.50 plus pork buns, scallion pancakes, and noodles round out an extremely cheap Chinatown crawl stop. A few stools inside but most people grab a bag and eat curbside — ideal as a 2nd or 3rd hand-held bite three blocks south of East Harbor Seafood Palace.",
-    "url": "https://www.google.com/maps/place/Kai+Feng+Fu+Dumpling+House/",
+    "name": "Kai Feng Fu Dumpling House (開封府)",
+    "desc": "Cash-only counter window slinging 4 pork-and-chive dumplings for about $1.50 on 8th Ave.",
+    "longDesc": "A Sunset Park institution at 48th & 8th Ave, Kai Feng Fu is a no-frills counter that has kept its dumpling prices near-mythical for over a decade — four hand-folded pork-and-chive boiled or pan-fried dumplings for roughly $1.50, plus sesame pancakes, dumpling soup, and chive-and-egg vegetarian dumplings. Order at the window, eat on the tiny bench or take a bag back to Industry City. Cash only, fast turnover, and consistently ranked among Brooklyn's best cheap eats.",
+    "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "chill"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
-    "duration": "15-25 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "08:00-22:00",
-    "notes": "Cash only; counter service, mostly takeout (Infatuation). Signature is 6 fried pork-and-chive dumplings for ~$2.50 — the old '4 for $1' lore has nudged up but it's still the cheapest hot bite on the crawl (Infatuation). Three blocks south of East Harbor Seafood Palace on 8th Ave — pair as a dim-sum-then-dumplings Sunset Park Chinatown one-two (eatthisny). Weekend street parking on 48th/49th between 7th and 8th tends to open up by mid-afternoon; otherwise pay lot at 5th & 50th. Skin is thick and doughy by design — order them fried, not boiled, for the crispy bottom.",
+    "duration": "20-30 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "07:30-20:00",
+    "notes": "4801 8th Ave at 48th St, in the heart of Sunset Park's 8th Ave Chinatown (Yelp). Cash only; tiny storefront with limited seating — most patrons stand or take out (Yelp, 347+ reviews). Order pork & chive dumplings boiled or pan-fried, plus the sesame pancake with beef. Vegetarians can do chive & egg dumplings. Street parking on 8th Ave or side streets is usually findable on weekends; ~12 blocks north of Industry City straight up 3rd or 4th Ave then over (Foursquare).",
     "sources": [
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
-        "accessed": "2026-05-17T05:05:00Z"
+        "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://eatthisny.com/2011/01/05/dumplings/behind-door-no-2-kai-feng-fu/",
-        "accessed": "2026-05-17T05:05:00Z"
+        "url": "https://foursquare.com/v/kai-feng-fu-dumpling-house/49ec815af964a52063671fe3",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4967220-Reviews-Kai_Feng_Fu_Dumpling_House-Brooklyn_New_York.html",
-        "accessed": "2026-05-17T05:05:00Z"
+        "url": "https://kaifengfubrooklyn.kwickmenu.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T05:12:56.895Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T05:48:07.957Z"
   },
   {
     "id": "beat-the-bomb",
@@ -2381,9 +2383,9 @@
   {
     "id": "xin-fa-bakery",
     "name": "Xin Fa Bakery",
-    "desc": "Sunset Park Chinese bakery turning out NYC's most beloved $1.75 Portuguese egg tarts",
-    "longDesc": "A no-frills 8th Ave bakeshop whose dan tats — flaky lard-laminated crust, jiggly barely-set custard, charred caramelized top — are widely cited as the best in the five boroughs (The Infatuation, Jan 2026). Trays come out hot all day for $1.75 each, plus pineapple buns, cocktail buns, and savory baked pork buns; the line moves fast even when it spills onto the sidewalk. A direct head-to-head egg-tart pairing with Fay Da four blocks away on the same 8th Ave strip.",
-    "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
+    "desc": "Sunset Park Chinatown legend for $1.75 Portuguese egg tarts with blistered caramelized tops and roast pork bao",
+    "longDesc": "A no-frills 8th Ave bakery whose Portuguese-style dan tat get cited by The Infatuation as the best in the five boroughs — flaky shatter-crust shell, dense jiggly custard, charred sugar crown, baked in small batches all day. Pair a hot tart with a cha siu bao and a coffee milk tea; the line moves fast and a six-pack runs $10.50. Cash-friendly counter operation, easy to fold into an 8th Ave crawl four blocks south of Golden Steamer.",
+    "url": "https://www.yelp.com/biz/xinfa-bakery-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -2391,17 +2393,15 @@
       "foodie",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "15-30 min",
-    "driveFromIC": "6 min",
+    "duration": "20-30 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "07:30-17:30",
-    "notes": "Tarts are $1.75 each and sell out — go early or accept a wait (Yelp, 336 reviews; The Infatuation review). Cash-preferred, counter-service, no seating; eat in the car or walk to Sunset Park itself five blocks east. Pairs naturally with a Fay Da egg-tart comparison and a dim sum stop on the same 8th Ave Chinatown strip (NYC Tourism guide).",
+    "notes": "Egg tarts $1.75 each / $10.50 for 6, baked in limited daily batches — go before noon (theinfatuation.com). Line can run 15-20 min but turnover is fast (yelp.com). Founded 1989 in Taishan, Guangdong; tarts have crispy shell + dense soft custard with caramelized top, reviewers compare them favorably to Hong Kong / Macau versions (xin-fa-bakery.menu-world.com, ethnojunkie.com). 4 blocks south of Golden Steamer on 8th Ave — easy walking pair. Street parking on 56th St side blocks; 8th Ave itself is tight. Phone (718) 871-2889.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
+        "url": "https://www.yelp.com/biz/xinfa-bakery-brooklyn",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -2413,14 +2413,18 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://xinfabakery.shop/",
+        "url": "https://ethnojunkie.com/?p=16024",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://xin-fa-bakery.menu-world.com/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T05:26:16.483Z"
+    "lastResearchedAt": "2026-05-17T05:40:45.588Z"
   },
   {
     "id": "japan-village-food-hall",
@@ -5382,8 +5386,8 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Cash-only Kunming noodle shop on 8th Ave — crossing-the-bridge mixian and cold appetizers",
-    "longDesc": "A husband-and-wife team from Kunming runs this unassuming Sunset Park storefront, one of the only true Yunnanese kitchens in NYC. The headliners are guoqiao mixian (crossing-the-bridge rice noodles, with raw sliced meat cooked tableside in scalding broth) and zhajiang mi xian, rounded out by chilled cucumber salad, sour-spicy dumplings, and braised pork-intestine noodles. Tiny, cash-only, with prices that read like a typo against the quality.",
+    "desc": "Hand-pulled Yunnan rice noodles and crossing-the-bridge bowls from a Kunming-born couple in Sunset Park Chinatown.",
+    "longDesc": "A tiny, no-frills Sunset Park favorite specializing in the cuisine of Yunnan province — hand-pulled rice noodles, guoqiao mixian (crossing-the-bridge noodles) layered with sliced meats and vegetables, and the #8 numbing-spicy meat-sauce soup with braised lamb. Run by a couple from Kunming; cash only, takeout-leaning but with seats for a quick sit-down bowl after Golden Steamer down the block.",
     "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5392,36 +5396,34 @@
       "foodie",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "09:00-21:00",
-    "notes": "Cash only — bring small bills (Yelp, NetWaiter). Address is 5121 8th Ave at ~52nd St, deep in Brooklyn's 8th Ave Chinatown; metered + side-street parking on 51st/52nd is usually findable on weekend mornings but tightens after noon. Must-orders per consensus reviews: crossing-the-bridge mixian, zhajiang mi xian, cold cucumber, sour-spicy dumplings (Stuy Spec, NYC Tourism). Phone (718) 633-3090. Pairs naturally with a dim sum or bakery stop nearby to contrast Yunnan vs. Cantonese on the same block.",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "10:00-21:00",
+    "notes": "Sunset Park Chinatown anchor on 8th Ave — walkable from Golden Steamer and a short drive from IC. Order guoqiao mixian or the #8 spicy meat-sauce rice noodles (Yelp, Stuyvesant Spectator). Cash only (Yelp). Street parking on 8th Ave is tight on weekends; side streets off 51st/52nd are usually easier. Run by a Kunming-born couple, a rare Yunnan specialist in NYC (NYC Tourism).",
     "sources": [
       {
-        "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-17"
+        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+        "accessed": "2026-05-17T05:45:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-17"
+        "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
+        "accessed": "2026-05-17T05:45:00Z"
       },
       {
         "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-17T05:45:00Z"
       },
       {
-        "url": "https://yunnanflavorgarden.netwaiter.com/",
-        "accessed": "2026-05-17"
+        "url": "https://yunnanflavorgarden.menu-res.com/menu",
+        "accessed": "2026-05-17T05:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:32:54.032Z"
+    "lastResearchedAt": "2026-05-17T05:42:36.839Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -23672,5 +23674,100 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T05:30:36.039Z"
+  },
+  {
+    "id": "city-league-coffee-roasters",
+    "name": "City League Coffee Roasters",
+    "desc": "Sunset Park–born specialty roaster, 4 blocks from 8th Ave Chinatown — perfect bun-crawl caffeine anchor.",
+    "longDesc": "Started in a Sunset Park garage in 2018 and now roasting on-site at 6808 4th Ave, City League pours single-origin pour-overs, espresso, and their house Bodega blend. Bright industrial room with bench seating; 4 blocks west of the southern end of 8th Ave Brooklyn Chinatown, so a natural pre- or post-stop for a bao/scallion-pancake crawl.",
+    "url": "https://cityleaguecoffee.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "08:00-16:00",
+    "notes": "Topic header named 'Kaffe 1668 Sunset Park / 8th Ave' but Kaffe 1668 has no Sunset Park branch — only Tribeca at 275 & 401 Greenwich St (kaffe1668.com). City League substituted as the legitimate Sunset Park specialty-coffee anchor: in-house roaster, 6808 4th Ave (Yelp), opened the Bay Ridge/Sunset Park border cafe in 2022 with ~50 indoor/outdoor seats (brooklynpaper.com). 8th Ave Chinatown runs ~42nd–68th, so City League sits 4 blocks west of the southern bun-crawl edge (MTA Away food guide). Street parking on 4th Ave generally available on weekends. Kaffe 1668 itself re-enqueued as a Manhattan candidate for separate consideration.",
+    "sources": [
+      {
+        "url": "https://cityleaguecoffee.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/city-league-coffee-roasters-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/city-league-opens-internet-cafe/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.kaffe1668.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T05:45:42.251Z"
+  },
+  {
+    "id": "sunset-park-viewpoint",
+    "name": "Sunset Park (the park)",
+    "desc": "Hilltop Brooklyn park with one of the best Manhattan skyline + Statue of Liberty sunset views in NYC",
+    "longDesc": "A 24.5-acre hilltop park between 41st-44th Streets and 5th-7th Avenues whose crown is its namesake sunset: from the upper lawn you get an unobstructed sweep of the Manhattan skyline, New York Harbor, the Statue of Liberty, and the Verrazzano in one frame. Far less crowded than Brooklyn Bridge Park or DUMBO, it's a 5-8 minute drive uphill from Industry City and an ideal walk-off after Sunset Park dim sum.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free 3-hour parking lot on the north side of the park; additional street parking on surrounding blocks but tight on weekends (parkopedia, spothero). The high point of the lawn near 6th Ave and 43rd St is the money shot — Manhattan skyline framed by the harbor and Statue of Liberty (NYC Parks). Time arrival ~30 min before sunset; the lawn fills with locals and photographers as light turns. Pair with Industry City food hall or East Wind Snack Shop dim sum beforehand.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://yourbrooklynguide.com/brooklyn-sunset-spots/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T05:49:56.354Z"
   }
 ]
