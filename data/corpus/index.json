@@ -1974,40 +1974,44 @@
   {
     "id": "ba-xuyen",
     "name": "Ba Xuyên",
-    "desc": "Sunset Park's legendary takeout banh mi counter — pâté-rich classics on shatter-crust baguette.",
-    "longDesc": "Cash-friendly Vietnamese sandwich shop on 8th Ave that's been the borough's banh mi benchmark for two decades — order the #1 (pâté, head cheese, ham) or the BBQ pork, all served on a crackly house baguette with house mayo, daikon-carrot pickle, cilantro and jalapeño. It's strictly counter service with a couple of stools, so grab-and-eat in the car or in nearby Sunset Park itself. Opens early (7am) which makes it the ideal first stop on an 8th Ave morning crawl before drinks at Industry City or dim sum at Dragon Bay.",
-    "url": "https://www.google.com/maps/place/Ba+Xuy%C3%AAn/@40.6486,-74.0089,17z",
+    "desc": "Cash-only Sunset Park banh mi shop, ~5 min south of IC on 8th Ave — sandwiches under $8 (TikTok/Bing).",
+    "longDesc": "An unassuming counter that has anchored Brooklyn's 8th Ave Vietnamese strip for 20+ years, Ba Xuyên turns out one of NYC's most-cited banh mi (pâté + thịt nguội: ham, head cheese, pork roll, pork teriyaki, BBQ pork, butter, pickled carrot/daikon, cucumber, cilantro, jalapeño). It's cash-only, no seating to speak of, and lines move fast — perfect as a takeaway snack stop after Industry City or East Wind dim sum.",
+    "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "5 min",
-    "hoursWeekend": "07:00-18:30",
-    "notes": "4222 8th Ave between 42nd–43rd St; cash strongly preferred, card minimum may apply (Yelp). Sandwiches ~$6–8 — one of the cheapest serious meals in NYC. Eight blocks south of Dragon Bay so an easy pre-dim-sum or post-IC pickup. Street parking on 8th Ave is usually findable on weekends (Tripadvisor reviews). Pho and Vietnamese iced coffee also available but the banh mi is the reason.",
+    "duration": "30-45 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "07:30-18:30",
+    "notes": "4222 8th Ave at 43rd St, Brooklyn NY 11232; (718) 633-6601. Cash-only; #1 combo banh mi ~$7.50 (TikTok/@thebingbuzz). Same 8th Ave corridor as East Wind / Yun Nan Flavour Garden — easy to pair after dim sum. Curbside parking on 8th Ave is metered and tight on weekends; 5th Ave side streets in the 40s are easier (NYC Tourism, Bklyner).",
     "sources": [
       {
+        "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
+        "accessed": "2026-05-17T04:45:00Z"
+      },
+      {
+        "url": "https://bklyner.com/ba-xuyen-8th-avenue-serves-delicious-banh-mi-sunset-park/",
+        "accessed": "2026-05-17T04:45:00Z"
+      },
+      {
         "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T04:45:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d598579-Reviews-Ba_Xuyen-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://ba-xuyn.wheree.com/menu",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.tiktok.com/@thebingbuzz/video/7359388467417074987",
+        "accessed": "2026-05-17T04:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T03:24:05.253Z"
+    "lastResearchedAt": "2026-05-17T04:47:53.405Z"
   },
   {
     "id": "hainan-chicken-house-sunset-park",
@@ -5382,8 +5386,8 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Tiny Sunset Park Yunnanese counter famous for crossing-the-bridge noodles assembled tableside in screaming-hot broth",
-    "longDesc": "A husband-and-wife counter from Kunming serving rare Yunnan dishes a few blocks south of Kai Feng Fu on 8th Ave. The signature guoqiao mixian (crossing-the-bridge noodles) arrives disassembled — raw beef or lamb, vegetables, a heap of rice noodles, and a bowl of fiercely hot, fragrant chicken broth you tip everything into to cook at the table. Cash-friendly, fluorescent-lit, mostly takeout — perfect quick stop pre- or post-Kai Feng Fu on a Sunset Park graze.",
+    "desc": "Kunming-run Sunset Park noodle counter pulling Yunnan rice noodles into broths most NYC menus never touch.",
+    "longDesc": "A husband-and-wife team from Kunming runs this no-frills 8th Avenue counter specializing in the rice noodles and herb-forward broths of Yunnan province. Order the guoqiao mixian (cross-the-bridge rice noodles) where a near-boiling clay bowl of broth cooks the meats and noodles at the table, or the rice noodles with crispy meat sauce for under $10. Cash only, takeout-leaning, and a true diversifier on the otherwise Cantonese-dominated 8th Ave track.",
     "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5396,34 +5400,30 @@
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "11:00-21:00",
-    "notes": "5121 8th Ave, Brooklyn NY 11220, (718) 633-3090 (Yelp). Yunnanese specialty; signature guoqiao mixian / crossing-the-bridge noodles served disassembled with raw meat cooked tableside in scalding chicken broth (NYC Tourism). Also strong on hot-and-sour soup and pork bone-broth noodle bowls (Stuy Spec). Tiny room, mostly takeout — order at the counter. Paid and free street parking around 51st/8th Ave on weekends; pairs with Kai Feng Fu bakery 5 blocks north on the same 8th Ave Chinatown spine. ~8 min drive from Industry City via 3rd Ave or 4th Ave.",
+    "hoursWeekend": "11:00-21:30",
+    "notes": "5121 8th Ave at 51st St, Brooklyn 11220, (718) 633-3090. Cash only — no credit cards (notanotherbrooklynblog). Hours not published online; call ahead on weekends. Signatures: guoqiao mixian (crossing-the-bridge rice noodles ~$8.75), rice noodles with crispy meat sauce, hot & sour soup, noodles in pork bone broth (nyctourism). Owners hail from Kunming, Yunnan's capital — rare regional specialist on a corridor dominated by Cantonese (Eat the World NYC). Drives ~8 min south from IC down 3rd Ave to 51st & 8th; weekend metered street parking on 8th Ave and side streets is usually findable. Great pairing with East Harbor dim sum (different cuisine, same trip).",
     "sources": [
       {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-17T04:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-17T04:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/restaurants/yun-nan-flavour-garden",
-        "accessed": "2026-05-17T04:30:00Z"
+        "url": "https://notanotherbrooklynblog.com/2015/03/10/eating-8th-avenue-yun-nan-flavour-garden/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
-        "accessed": "2026-05-17T04:30:00Z"
-      },
-      {
-        "url": "https://foursquare.com/v/yun-nan-flavour-garden/51d868ac498ef583276dcf4b",
-        "accessed": "2026-05-17T04:30:00Z"
+        "url": "http://www.eattheworldnyc.com/2013/10/yun-nan-flavour-garden.html",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:37:41.973Z"
+    "lastResearchedAt": "2026-05-17T04:45:49.987Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -5471,40 +5471,42 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Cart-style Cantonese banquet hall — loud, family-packed weekend dim sum just off the BQE.",
-    "longDesc": "A 600-seat Sunset Park / Dyker Heights institution where push-carts of har gow, siu mai, cheung fun, and roast meats circle a chandeliered ballroom from morning into the afternoon. Weekends are peak chaos — expect a numbered ticket and a 20-40 min wait by 11:30am, but the cart parade and group-friendly Lazy-Susan tables are the entire point. Cash-friendly, kid-friendly, no reservations for dim sum.",
-    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+    "desc": "Old-school weekend cart dim sum in Brooklyn's Sunset Park — chase dumplings before 3pm in a banquet hall.",
+    "longDesc": "Cantonese banquet-style dim sum service at 714 65th St (between 7th & 8th Ave), where push-carts still roam the dining room until 3pm. Michelin-listed, $$ price band, and famous for har gow, shu mai, snow pea leaf dumplings, and salt-and-pepper squid. Arrive 10:30-11am on weekends to beat the line; pair with a Kai Feng Fu dumpling chaser five blocks north on the same drive.",
+    "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "park-slope",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "75-90 min",
+    "duration": "60-90 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-22:00",
-    "notes": "Listed in the MICHELIN Guide for Brooklyn (guide.michelin.com). 714 65th St between 7th & 8th Ave, on the Sunset Park / Dyker Heights border — ~1.5 mi south of Industry City, an easy 3rd Ave drive. Weekend dim sum runs ~9am-3pm with carts; full Cantonese menu and seafood tanks after. Crowds peak 11:30am-1pm — arrive by 10:30 or after 2 to skip the worst of the line (yelp.com). Street parking on 65th/66th/7th Ave is usually findable on weekend mornings. Phone (718) 765-0098, cart-style ordering means no app — pay in cash if possible.",
+    "hoursWeekend": "09:00-22:00 (carts until 15:00)",
+    "notes": "714 65th St between 7th & 8th Ave, Sunset Park; (718) 765-0098 (Yelp). Dim sum carts run until 3pm — go early, ~10:30-11am on weekends for a 15-20 min wait (Cinnamon Society). Michelin-listed Cantonese banquet-style; cash-friendly but cards accepted. Street parking on 65th/7th Ave is plausible Sunday late-morning; ~8 min south of Industry City via 3rd Ave. Pairs naturally with Kai Feng Fu Dumpling House five blocks north on 8th Ave for a 'big lunch + cheap dumpling chaser' track.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-17T04:30:00Z"
+        "accessed": "2026-05-17T04:40:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-17T04:30:00Z"
+        "accessed": "2026-05-17T04:40:00Z"
       },
       {
-        "url": "https://foursquare.com/v/east-harbor-seafood-palace-%E8%BF%8E%E8%B3%93%E5%A4%A7%E9%85%92%E6%A8%93/4a58ae56f964a520a8b71fe3",
-        "accessed": "2026-05-17T04:30:00Z"
+        "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
+        "accessed": "2026-05-17T04:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:32:46.358Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T04:41:24.076Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -10408,44 +10410,40 @@
   {
     "id": "ba-xuyen-banh-mi",
     "name": "Ba Xuyên",
-    "desc": "OG Sunset Park banh mi counter — $7.50 pâté thịt nguội, 20+ years deep, six blocks east of the park",
-    "longDesc": "An unassuming, no-frills Vietnamese sandwich shop that has anchored Brooklyn's 8th Ave Chinatown for two decades and is routinely ranked among NYC's best banh mi. The signature pâté thịt nguội layers ham, head cheese, pork roll, pork teriyaki, and BBQ pork with pâté, butter, pickled daikon and carrot, cucumber, cilantro, and green chili on a crackly baguette — all for around $7.50. Cash-friendly, fast turnaround, perfect to grab before climbing Sunset Park's hill for the sunset skyline view.",
-    "url": "https://www.google.com/maps/place/Ba+Xuy%C3%AAn/@40.6470,-74.0036,17z",
+    "desc": "Cash-only Sunset Park banh mi institution — pitch-perfect $5 sandwiches, among NYC's best.",
+    "longDesc": "Family-run Vietnamese sandwich shop on 8th Ave that has been turning out crackly-crusted banh mi since the early 2000s. The #1 dac biet (combination) with pâté, jambon, head cheese, pickled daikon-carrot and jalapeño is the move; pair with a Vietnamese iced coffee and grab extras to-go. Cash only, quick line, easy weekend on-street parking nearby.",
+    "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "park-slope",
     "vibe": [
       "foodie",
-      "chill"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "20-30 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "07:30-18:30",
-    "notes": "4222 8th Ave between 42nd & 43rd, in the 8th Ave Brooklyn Chinatown strip (bklyner). Daily 7:30am–6:30pm; cash strongly preferred (yelp). Pair with a walk up to Sunset Park's summit lawn for the Manhattan/harbor sunset view — ~0.4 mi west, ~8 min walk. Weekend parking on 8th Ave itself is tight; try side streets like 42nd or metered spots on 7th Ave. Iconic order: #1 banh mi pâté thịt nguội ($7.50) (tiktok).",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "07:00-18:30",
+    "notes": "Address is 4222 8th Ave (not 6th Ave) at 42nd St in Sunset Park (Yelp). Cash only, avg sandwich ~$5 (Time Out / Yelp). Pairs naturally with a Kai Feng Fu dumpling stop a few blocks east on 8th Ave for a multicultural Sunset Park snack crawl. No dedicated parking but metered street spots are easy on weekend mornings.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://bklyner.com/ba-xuyen-8th-avenue-serves-delicious-banh-mi-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.tiktok.com/@thebingbuzz/video/7359388467417074987",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.timeout.com/newyork/restaurants/ba-xuyen",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T11:17:39.019Z"
+    "lastResearchedAt": "2026-05-17T04:39:28.547Z"
   },
   {
     "id": "bamboo-garden-dim-sum",
@@ -23345,5 +23343,45 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T04:35:36.633Z"
+  },
+  {
+    "id": "park-asia",
+    "name": "Park Asia",
+    "desc": "Grand Sunset Park Cantonese banquet hall with cart-style dim sum and live-tank seafood.",
+    "longDesc": "Park Asia is a high-ceilinged, big-window banquet room on 8th Ave that's been a Sunset Park dim sum anchor since 2005, with carts circling round tables on weekend mornings and live-tank Cantonese seafood (lobster, crab, fish) by night. The sticky-rice dumplings with pork are an Infatuation pick; expect a wait on weekend afternoons. Less critically beloved than East Harbor or Bamboo Garden a few blocks south, but the bright, airy room and easy 8th Ave parking make it the most pleasant cart-dim-sum experience on the strip.",
+    "url": "https://www.google.com/maps/place/Park+Asia/@40.6308,-74.0114,17z",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "Cantonese seafood + cart dim sum at 6521 8th Ave, Sunset Park (parkasiabrooklyn.com, cert currently expired — link to Google Maps instead). Grand banquet room, lots of natural light, big round tables — great for a 4+ person sit-down (theinfatuation.com/new-york/reviews/park-asia). Signature: sticky-rice dumplings with pork. Anticipate a wait on weekend afternoons; arrive before 11:30 to skip the line. Street parking on 8th Ave is usually findable on weekends. ~7 min drive from Industry City via 3rd Ave → 65th St.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/park-asia-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/park-asia",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://parkasia.goto-restaurants.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T04:50:12.302Z"
   }
 ]
