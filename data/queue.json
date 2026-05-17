@@ -1,35 +1,5 @@
 [
   {
-    "topic": "MADE Bush Terminal arts campus and studios",
-    "reason": "Adjacent creative-industry destination one block from the park; pairs well as a stop-pair anchor in the same 43rd-St waterfront micro-cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:58:04.338Z"
-  },
-  {
-    "topic": "Brooklyn Army Terminal atrium and ferry pier",
-    "reason": "Next pier south with monumental industrial atrium + NYC Ferry stop; extends the South Brooklyn waterfront track with a third free architectural beat",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:58:04.338Z"
-  },
-  {
-    "topic": "Erie Basin Park Red Hook waterfront skyline overlook",
-    "reason": "Another free harbor-view park in the 15-min-drive radius; cluster of alternative skyline overlooks gives the itinerary engine more substitution options",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:58:04.338Z"
-  },
-  {
-    "topic": "Shore Road Park Bay Ridge bike path harbor walk",
-    "reason": "Linear waterfront park immediately west of Owl's Head — pairs naturally for a longer Bay Ridge harbor leg of an IC track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:59:52.748Z"
-  },
-  {
-    "topic": "American Beauty Bay Ridge cocktail bar",
-    "reason": "Nearby evening anchor for a Bay Ridge cluster after a sunset Owl's Head stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T11:59:52.748Z"
-  },
-  {
     "topic": "Hinsch's Confectionery Bay Ridge old-school soda fountain",
     "reason": "Quirky daytime food anchor that gives the Bay Ridge zone a foodie pairing beyond the park itself",
     "requestedBy": "agent",
@@ -8086,5 +8056,89 @@
     "reason": "Lesser-known harbor/skyline overlook 10 min from IC, complements the geographic Sunset Park cluster",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T05:49:56.377Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park tidal pools and waterfront",
+    "reason": "Directly adjacent free public park with rare NYC tidal-pool ecology - completes the MADE stop-pair as a photo/chill add-on",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:52:05.116Z"
+  },
+  {
+    "topic": "Public Records Sunset Park music venue opening schedule",
+    "reason": "1,000-seat live venue inside MADE Building A; if open by visit date it becomes its own primetime evening anchor for the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:52:05.117Z"
+  },
+  {
+    "topic": "Makelab fabrication studio Sunset Park",
+    "reason": "New MADE tenant doing CNC/3D-print/laser work; worth checking for open-shop tours that would fit the 'curious/maker' track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:52:05.117Z"
+  },
+  {
+    "topic": "Bush Terminal Park hidden tidal pools Sunset Park",
+    "reason": "Another little-known Sunset Park waterfront beat between IC and BAT — free, photo-rich, weekend-only tidal access, fills the same architectural-industrial track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:54:23.586Z"
+  },
+  {
+    "topic": "Momo Test Kitchen Brooklyn Army Terminal Nepalese momos",
+    "reason": "On-site BAT food vendor — anchors BAT as a meal stop, not just a photo stop, and adds Nepalese/Tibetan dietary variety to the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:54:23.586Z"
+  },
+  {
+    "topic": "Turnstile Tours Brooklyn Navy Yard architecture walking tour",
+    "reason": "Same operator runs an even bigger industrial-heritage tour at the Navy Yard — natural escalation for users who love BAT's atrium tour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:54:23.586Z"
+  },
+  {
+    "topic": "Louis Valentino Jr. Park & Pier Red Hook skyline view",
+    "reason": "Nearest sibling overlook to Erie Basin — Statue of Liberty + harbor view, also free, gives substitution depth within Red Hook cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:56:45.694Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park Sunset Park harbor view",
+    "reason": "Closest waterfront overlook to Industry City itself (<5 min drive) — fills the gap when Red Hook is overbooked or traffic-blocked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:56:45.694Z"
+  },
+  {
+    "topic": "Owls Head Park Bay Ridge harbor overlook",
+    "reason": "Hillier south-of-IC overlook with Verrazzano + harbor views, extends the alternative-skyline cluster southward",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:56:45.694Z"
+  },
+  {
+    "topic": "69th Street Pier (American Veterans Memorial Pier) Bay Ridge",
+    "reason": "Concrete pier jutting into the Narrows — the single best photo spot on the Shore Road stretch and the official start of the greenway",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:58:46.908Z"
+  },
+  {
+    "topic": "Bay Ridge Pizza staple: Gino's of Bay Ridge or Lenny's Pizza on 86th",
+    "reason": "Need a strong food anchor to close the Bay Ridge harbor leg after the bike/walk before driving back toward IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T05:58:46.908Z"
+  },
+  {
+    "topic": "Coszcal De Allende Bay Ridge (Mexican + cocktails)",
+    "reason": "Top local-favorite Bay Ridge cocktail/food anchor — 'If it's not Coszcals it's not Saturday night' per neighborhood reviewers; needs bay-ridge zone added",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:03:38.524Z"
+  },
+  {
+    "topic": "Hinterlands cocktail bar Bay Ridge 3rd Ave",
+    "reason": "Bay Ridge-proper craft cocktail spot that would slot into a real Bay Ridge cluster after Owl's Head Park sunset",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:03:38.524Z"
+  },
+  {
+    "topic": "Add bay-ridge as a zone value (corpus schema)",
+    "reason": "Owl's Head Park, Shore Road bike path, and any Bay Ridge cocktail anchors all need this zone; current enum forces them into industry-city or park-slope which misrepresents drive geometry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T06:03:38.524Z"
   }
 ]
