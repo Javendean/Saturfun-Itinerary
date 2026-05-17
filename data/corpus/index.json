@@ -837,8 +837,8 @@
   {
     "id": "public-records-gowanus",
     "name": "Public Records",
-    "desc": "Vegan restaurant, vinyl listening lounge, and OJAS-tuned Sound Room inside the old ASPCA HQ.",
-    "longDesc": "A five-room hospitality + music campus in Gowanus built inside the historic ASPCA headquarters: The Atrium restaurant/music lounge, the OJAS-tuned Sound Room club, Cafe Public (vegan day cafe), UPSTAIRS (intimate listening + cocktail bar), and The Nursery garden. The kitchen is fully vegan with Mediterranean–Korean fusion plates (chickpea frittata, motepillo turmeric tofu, oyster mushroom enchilada tacos), and the Sound Room runs a custom Devon Turnbull (OJAS) + Jason Ojeda system with an Isonoe rotary mixer for weekend DJ sets that run until 4am.",
+    "desc": "Hi-fi listening bar with all-vegan dinner program and resident DJs Fri/Sat in a converted Gowanus ASPCA building.",
+    "longDesc": "Public Records is a five-space music-and-dining campus at 233 Butler St — The Atrium restaurant and music lounge, the club-scale Sound Room, an UPSTAIRS cocktail listening lounge, Cafe Public, and The Nursery indoor/outdoor garden. The kitchen is entirely plant-based and zero-waste, and Friday and Saturday nights run resident-DJ programming alongside the dinner service, making it the closest direct analog to a Williamsburg listening-bar evening within a short drive of Industry City (sources: publicrecords.nyc, Wikipedia, The Infatuation, Brooklyn Eagle).",
     "url": "https://publicrecords.nyc/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -846,37 +846,42 @@
     "vibe": [
       "chill",
       "curious",
-      "foodie"
+      "foodie",
+      "romantic"
     ],
     "dietary": [
-      "vegan",
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "priceBand": "$$$",
-    "duration": "90-120 min",
+    "duration": "2-3 hrs",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Fri 18:00-04:00, Sat 10:00-04:00, Sun 10:00-21:00",
-    "notes": "Address: 233 Butler St, Gowanus (technically Gowanus/Boerum Hill border) — closer to IC than most Williamsburg listening bars. Reserve The Atrium for dinner via Resy; Sound Room shows are ticketed separately via Dice. UPSTAIRS is the more intimate cocktail-and-vinyl room and pairs naturally with [[kissa-kissa]] as a listening-bar bracket. Weekend parking on Butler/Nevins is realistic; metered. Closed Mon/Tue. Entirely vegan kitchen — high-impact dietary fit (publicrecords.nyc; gothamist.com; Wikipedia).",
+    "hoursWeekend": "Sat 10:00-04:00, Sun 10:00-21:00",
+    "notes": "All-vegan, zero-waste kitchen across The Atrium (dinner + music lounge) and Cafe Public (daytime) (publicrecords.nyc). UPSTAIRS is the intimate hi-fi cocktail listening room; Sound Room is the larger club space; The Nursery occupies the former parking lot, so on-site parking is gone — use 4th Ave / Nevins St curbside or the 3rd Ave municipal lots (Wikipedia; Brooklyn Eagle 2019). DJ programming runs Fri/Sat with eclectic electronic focus (RA news; Brooklynvegan). Address 233 Butler St, ~12 min drive from Industry City via 3rd Ave / Hamilton Ave. Geographic zone is technically Gowanus — mapped to park-slope as nearest enum neighbor.",
     "sources": [
       {
         "url": "https://publicrecords.nyc/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Public_Records_(venue)",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/public-records",
+        "accessed": "2026-05-17T22:30:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2019/03/18/public-records-gowanus/",
+        "accessed": "2026-05-17T22:30:00Z"
+      },
+      {
+        "url": "https://ra.co/news/43276",
+        "accessed": "2026-05-17T22:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/public-records-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://gothamist.com/arts-entertainment/photos-inside-gowanuss-experimental-venue-public-records",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/upstairs-at-public-records",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
       }
     ],
     "promotedTo": null,
@@ -886,7 +891,7 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 5 — 3:30 PM Gaming/Active",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-17T11:37:37.710Z"
+    "lastResearchedAt": "2026-05-17T22:31:12.985Z"
   },
   {
     "id": "brooklyn-boulders-gowanus-gowanus",
@@ -15775,53 +15780,49 @@
   {
     "id": "the-long-island-bar",
     "name": "The Long Island Bar",
-    "desc": "1951 neon-fronted Cobble Hill corner bar with a top-tier cheeseburger and Toby Cecchini cocktails",
-    "longDesc": "Originally opened in 1951 and reborn in 2013 under Toby Cecchini (the bartender credited with codifying the Cosmopolitan) and Joel Tompkins, The Long Island Bar is a Cobble Hill landmark on the Atlantic & Henry corner with its giant vintage neon sign intact. The kitchen turns out one of New York's most-praised cheeseburgers alongside a famously addictive bar nut mix, while the drinks list keeps things classic — gimlets, martinis, daiquiris — at fair-for-the-craft prices. It's the late-night dinner-and-drinks anchor of the neighborhood, won VinePair's Industry Icon of the Year in 2023, and stays unfussy enough to walk into without a reservation if you time it right.",
+    "desc": "Landmark 1951 corner bar with iconic neon, revived by Toby Cecchini for precise classic cocktails.",
+    "longDesc": "Atlantic + Henry corner spot opened in 1949/51 by Spanish immigrant Ramon Montero, reopened in 2013 by Cosmo-inventor Toby Cecchini and Joel Tompkins (vinepair.com). Original chrome diner interior, original red/green neon, and a tight menu of perfectly executed classics — Daiquiri, Gibson, Negroni — alongside a short food list. Walk-in only; arrive by 6pm on a Saturday or expect a wait.",
     "url": "https://www.thelongislandbar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
       "chill",
-      "foodie",
-      "romantic"
+      "romantic",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "1.5-2 hr",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "Sat-Sun 14:00-24:00",
-    "notes": "Address: 110 Atlantic Ave, Brooklyn, NY 11201 — corner of Atlantic & Henry (Yelp/Apple Maps). Closed Mondays; Tue-Fri 17:00-24:00; Sat-Sun opens early at 14:00, which is the parking sweet spot. Owners are Toby Cecchini + Joel Tompkins (NOT Sohui Kim — brief was incorrect; Kim's restaurants are Gage & Tollner, Insa, The Good Fork). Cheeseburger and nut mix are the canonical orders; cocktails skew classic-spec. VinePair 2023 Next Wave 'Industry Icon of the Year' (vinepair.com). Weekend parking: metered street parking on Atlantic/Henry/Clinton is enforced Sat until 19:00 and free Sunday; arriving at 14:00 open is usually walkable. No reservations for the bar; small dining-room reservations via site.",
+    "duration": "60-90 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "Sat-Sun 14:00-00:00",
+    "notes": "110 Atlantic Ave, Brooklyn NY 11201 (yelp.com). Walk-in only, no reservations. Closed Mondays; Tue-Fri 17:00-00:00, Sat-Sun 14:00-00:00 (thelongislandbar.com). Pairs cleanly with Grand Army (Boerum/Cobble corridor, ~8 min between) for a two-stop Late Night track. Street parking on Henry/Hicks tightens after 7pm; better to use the Atlantic Ave municipal lot or park near IC and rideshare back if going deep on cocktails. Co-owner Toby Cecchini is credited with inventing the modern Cosmopolitan (vinepair.com).",
     "sources": [
       {
         "url": "https://www.thelongislandbar.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:25:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-long-island-bar-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:25:00Z"
+      },
+      {
+        "url": "https://vinepair.com/articles/long-island-bar-oral-history/",
+        "accessed": "2026-05-17T22:25:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/the-long-island-bar",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://vinepair.com/articles/2023-next-wave-long-island-bar/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.ediblebrooklyn.com/2014/long-island-bar/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:25:00Z"
       },
       {
         "url": "https://www.nyctourism.com/nightlife/the-long-island-bar/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T22:08:31.517Z"
+    "lastResearchedAt": "2026-05-17T22:22:50.620Z"
   },
   {
     "id": "donna-williamsburg",
@@ -18351,16 +18352,15 @@
   },
   {
     "id": "leyenda-carroll-gardens",
-    "name": "Leyenda",
-    "desc": "Julie Reiner & Ivy Mix's pan-Latin agave cocktail bar on Smith Street with mezcal, tequila & Sue Torres bites.",
-    "longDesc": "Co-owned by cocktail doyenne Julie Reiner (Clover Club) and James Beard-recognized bartender Ivy Mix, Leyenda is a pan-Latin temple to agave spirits — mezcal, tequila, rum, cachaça and pisco — paired with chef Sue Torres's ceviche, picadillo tacos and pupusas. The 12-seat bar and 50-seat church-pew dining room sit directly across Smith Street from Clover Club, anchoring Carroll Gardens' cocktail block. Saturday opens at 1pm so it slots cleanly into a daytime Brooklyn drive itinerary.",
+    "name": "Leyenda (CLOSED March 2025)",
+    "desc": "CLOSED — pan-Latin cocktail bar from Ivy Mix; shut its doors at 10-year mark in March 2025.",
+    "longDesc": "Leyenda was a James Beard-recognized pan-Latin cocktail bar at 221 Smith St in Carroll Gardens, opened in 2015 by Ivy Mix and the Clover Club team. It served mezcal/tequila/rum flights alongside ceviche, mole-topped enchiladas, and tacos. Owners declined to renew the lease and closed on March 28, 2025; the team has signalled they are scouting a new location but no reopening date is announced as of May 2026.",
     "url": "https://leyendabk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
-      "romantic",
-      "foodie",
+      "chill",
       "curious"
     ],
     "dietary": [
@@ -18368,31 +18368,31 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 13:00-01:00, Sun 13:00-00:00",
-    "notes": "221 Smith St, Brooklyn NY 11201; phone (347) 987-3260. Sister bar to Clover Club directly across the street (leyendabk.com). Ivy Mix is a James Beard Outstanding Bar nominee/winner and author of Spirits of Latin America (nyctourism.com). Spirit focus on agave — mezcal/tequila — plus rum, cachaça, pisco (nyctourism.com). Has outdoor patio, ~50 table seats incl. church-pew banquette (nyctourism.com). NYC Tourism lists $$$ but cocktail menu averages ~$15 putting it at $$ in Saturfun bands. Note: Yelp page currently mislabels Leyenda as 'CLOSED' but the official site lists active 2026 hours and recent Instagram activity confirms operating — treat Yelp tag as stale (yelp.com vs leyendabk.com).",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "Permanently closed 2025-03-28 after ~10 years (Time Out, Spirits Business). Do NOT promote to itinerary. Site footer still shows hours but business has shut. Sister bar Clover Club is across the street and remains open; Llama Inn (Williamsburg) and Maite (Bushwick) are the closest live Latin-cocktail equivalents within driving range of Industry City.",
     "sources": [
       {
+        "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
+        "accessed": "2026-05-17T22:25:00Z"
+      },
+      {
+        "url": "https://www.thespiritsbusiness.com/2025/02/brooklyn-bar-leyenda-to-close/",
+        "accessed": "2026-05-17T22:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/leyenda-brooklyn",
+        "accessed": "2026-05-17T22:25:00Z"
+      },
+      {
         "url": "https://leyendabk.com/",
-        "accessed": "2026-05-17T22:05:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/nightlife/leyenda-carroll-gardens/",
-        "accessed": "2026-05-17T22:05:00Z"
-      },
-      {
-        "url": "https://chilledmagazine.com/julie-reiner-and-ivy-mix-open-leyenda-cocktail-bar/",
-        "accessed": "2026-05-17T22:05:00Z"
-      },
-      {
-        "url": "https://www.theworlds50best.com/discovery/Establishments/US/New-York/Leyenda.html",
-        "accessed": "2026-05-17T22:05:00Z"
+        "accessed": "2026-05-17T22:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T22:01:57.740Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:25:11.331Z"
   },
   {
     "id": "four-horsemen",
@@ -25797,50 +25797,55 @@
   {
     "id": "babys-all-right",
     "name": "Baby's All Right",
-    "desc": "280-cap South Williamsburg indie venue with Latin-leaning kitchen open till 4am",
-    "longDesc": "Hybrid bar/restaurant/performance space at 146 Broadway off Bedford, occupying ~5,000 sq ft with a 280-capacity general-admission room behind a full dining room. Programming spans indie rock, jazz, electronic, R&B and the occasional comedy night, with a Latin American small-plates menu plus weekend brunch. Kitchen runs late so a 7pm dinner rolls straight into a 9-10pm early set without leaving the building.",
+    "desc": "South Williamsburg dinner + live music venue with full bar, late-night DJs, and Latin-leaning small plates until 4am",
+    "longDesc": "Baby's All Right is a 5,000 sq ft three-room hybrid at 146 Broadway off Bedford — a restaurant, bar, and 280-cap performance room under one roof. The kitchen runs a Latin American-leaning dinner and small-plates menu (plus a busy weekend bottomless brunch), and the venue stays open until 4am with DJ sets and live bookings most nights, making it one of the few Williamsburg spots that genuinely fills the after-midnight dinner-and-dance gap.",
     "url": "https://babysallright.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "chill",
-      "curious"
+      "curious",
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "90-120 min",
+    "duration": "2-3 hr",
     "driveFromIC": "18 min",
-    "hoursWeekend": "18:00-04:00",
-    "notes": "146 Broadway near Bedford Ave, South Williamsburg (Yelp). 280-capacity since 2013, has hosted early sets from Mitski, Japanese Breakfast and Porches (Wikipedia/IndieOnTheMove). Mostly GA standing with clear sightlines. Street parking tight on weekends — SpotHero has garages along Bedford/S 6th. Phone 1-718-599-5800. Cover varies by show; some early sets and DJ nights run free or low-cover (source).",
+    "hoursWeekend": "11:00-04:00 (brunch from 11; kitchen + shows late)",
+    "notes": "Address 146 Broadway, Brooklyn NY (South Williamsburg, off Bedford Ave) (yelp.com). Open 7 nights 6pm–4am with weekend brunch added on Sat/Sun (nyctourism.com). Three-room layout: bar, restaurant, performance space — so you can eat, drink, and catch a show without leaving (wikipedia). Latin American small plates + full dinner menu, plus bottomless brunch (timeout.com). Mostly street parking — SpotHero lists nearby garages and the venue suggests arriving 30–60 min early on show nights (spothero.com). Drive from Industry City ~15–20 min via Prospect Expy / BQE depending on traffic. Phone 718-599-5800. Best fit on Saturfun as the late-night cap for a Williamsburg track when an earlier dinner stop wants a venue that keeps going past midnight.",
     "sources": [
       {
         "url": "https://babysallright.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Baby%27s_All_Right",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/babys-all-right-williamsburg/",
+        "accessed": "2026-05-17T22:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/music-nightlife/babys-all-right",
+        "accessed": "2026-05-17T22:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/babys-all-right-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.indieonthemove.com/venues/babys-all-right-brooklyn-new-york",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
       },
       {
         "url": "https://spothero.com/destination/nyc/baby-s-all-right-parking",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T11:12:09.673Z"
+    "lastResearchedAt": "2026-05-17T22:27:06.612Z"
   },
   {
     "id": "gowanus-gardens",
@@ -27021,55 +27026,47 @@
   {
     "id": "union-pool-williamsburg",
     "name": "Union Pool",
-    "desc": "Indoor bar + huge string-lit back patio with El Diablo taco truck running till 3:30am",
-    "longDesc": "A Williamsburg institution under the BQE: a dive-y front bar and live-music room open onto a sprawling stone patio strung with Christmas lights, picnic tables, and a central pit that's a pond in summer and a fire in winter. The El Diablo Taco Truck parks on the patio year-round serving organic beef, pork, and vegetarian tacos late into the night, so you get drinks, food, and outdoor space without leaving the venue.",
+    "desc": "Iconic Williamsburg dive with a huge patio, El Diablo taco truck, and nightly resident DJs 8pm–4am.",
+    "longDesc": "Union Pool is a 150-cap Williamsburg institution at 484 Union Ave with a former pool-supply storefront converted into a main bar, back room music venue, and a sprawling stone patio with a fountain pond. El Diablo Taco Truck slings late-night Mexican from the yard most nights, and resident DJs spin a wide range 7 nights a week from 8pm–4am — perfect dinner-and-dance plug-in after an IC-anchored cluster night.",
     "url": "https://www.union-pool.com/",
-    "photoUrl": "",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/621fa60140c16c4fe54ab464/d0416db7-2c78-4d81-b358-ac2a896280c9/HCH_2633.jpg",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "chill",
       "foodie",
-      "photo"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "1.5-2 hr",
     "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 14:00-04:00, Sun 14:00-02:00 (taco truck Sat 14:00-03:30, Sun 14:00-00:00)",
-    "notes": "484 Union Ave at Meeker, under the BQE. Group-friendly — picnic-table seating on the patio, no reservations. El Diablo Tacos is a separate cash/card window on the patio (eldiablotacos.com). Weekend street parking is realistic on Union Ave or side streets north of Meeker; 6-min walk to The Gutter (200 N 14th) makes this a natural first stop on a Williamsburg track (brooklynvegan.com, union-pool.com).",
+    "hoursWeekend": "Sat 14:00-04:00, Sun 14:00-02:00",
+    "notes": "Backyard with stone patio + fountain pond open year-round; El Diablo Tacos in the yard most nights (union-pool.com). Resident DJs nightly 8pm–4am (yelp.com). No reservations, no cover for most patio/bar nights — ticketed shows in back room. Street parking in Williamsburg gets tight after 9pm; Lorimer St garage is the safer drop after IC.",
     "sources": [
       {
         "url": "https://www.union-pool.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
       },
       {
         "url": "https://www.union-pool.com/the-space",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/union-pool-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-17T22:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/el-diablo-taco-truck-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.brooklynvegan.com/union-pools-patio-and-taco-truck-are-back-open/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "http://www.eldiablotacos.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.nyctourism.com/nightlife/union-pool/",
+        "accessed": "2026-05-17T22:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T10:59:32.600Z"
+    "lastResearchedAt": "2026-05-17T22:29:04.233Z"
   },
   {
     "id": "spare-room-at-the-gutter",
