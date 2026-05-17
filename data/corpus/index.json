@@ -1930,9 +1930,9 @@
   {
     "id": "tacos-el-bronco",
     "name": "Tacos El Bronco",
-    "desc": "Cash-only Sunset Park taqueria with a real al pastor trompo and $3 small tacos that punch way above their price.",
-    "longDesc": "Mariano Tapia's 2008 cart-turned-taqueria a few blocks south of Industry City, with a vertical al pastor spit spinning by the window. The Infatuation's pro move: skip the big plates and order the $3 small tacos — double tortillas, onions, cilantro — and don't sleep on the campechanos (beef, sausage, crispy pork skin). Cash only.",
-    "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
+    "desc": "Cult-favorite Sunset Park taco truck on 5th Ave spinning real al pastor and slow-stewed birria.",
+    "longDesc": "Tacos El Bronco's 5th Ave truck (37th St) is the legendary counterpart to its 4th Ave sit-down spot, with a vertical trompo of al pastor crowned by pineapple and a constantly bubbling pot of birria. The line is long but moves fast; tacos run roughly $4 each and the operation is cash-only. Snag tacos al pastor, birria, lengua, and a torta and eat curbside — it's the most authentic taqueria experience within a five-minute drive of Industry City.",
+    "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -1944,26 +1944,26 @@
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "5 min",
-    "hoursWeekend": "11:00-02:00 (Sun 11:00-01:00)",
-    "notes": "Address is 4324 4th Ave, Brooklyn NY 11232 — task title said 5th Ave but the trompo is on 4th Ave at 44th St (Yelp, Infatuation). Cash only. Tacos $3 each; The Infatuation calls al pastor 'a must-order' but rates campechanos as the superior pick (The Infatuation). Trompo visible from the street — strong photo moment. Weekend street parking on 4th Ave is doable; alt-side rules don't apply Sun.",
+    "hoursWeekend": "13:00-02:00",
+    "notes": "5th Ave truck at 37th St / ~5001 5th Ave, Sunset Park — cash only, no seating (Yelp). Al pastor sliced from a vertical trompo with pineapple; birria slow-cooked, rich and spicy (Infatuation review). Long line but fast-moving; tacos ~$4. The 4324 4th Ave sit-down location is the same family and stays open later if the truck is closed (Yelp).",
     "sources": [
       {
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
         "url": "https://www.theinfatuation.com/new-york/reviews/tacos-el-bronco",
-        "accessed": "2026-05-16T15:30:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
-        "accessed": "2026-05-16T15:30:00Z"
-      },
-      {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/cuisine/mexican/tacos-el-bronco-2",
-        "accessed": "2026-05-16T15:30:00Z"
+        "url": "https://www.grubhub.com/restaurant/tacos-el-bronco-5001-5th-avenue-brooklyn/8403144",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T15:26:56.672Z"
+    "lastResearchedAt": "2026-05-17T02:21:30.067Z"
   },
   {
     "id": "ba-xuyen",
@@ -5297,15 +5297,16 @@
   },
   {
     "id": "don-paco-lopez-panaderia",
-    "name": "Don Paco López Panadería",
-    "desc": "Third-gen Sunset Park Mexican bakery famed for conchas, orejas, and campechanas since 1991.",
-    "longDesc": "Family-run panadería founded by Francisco 'Don Paco' López in 1991, drawing on recipes carried from Chila de las Flores, Puebla. Rows of conchas (cookie-topped buns), flaky orejas, and caramel-glazed campechanas anchor a case widely cited as Brooklyn's best pan dulce. Counter-only, cash-friendly, perfect 15-min sweet bookend after a 5th Ave taco crawl.",
+    "name": "Don Paco Lopez Panaderia",
+    "desc": "Third-generation Sunset Park Mexican bakery beloved for its conchas, pan dulce, and savory tamales since 1991.",
+    "longDesc": "Don Paco Lopez has been baking on 4th Ave since 1991, descended from a family bakery that opened in Chila de las Flores, Puebla in 1932 (donpacolopez.com). Glass cases hold rows of conchas, orejas, campechanas, and cuernos alongside tamales, pambazos, and quesadillas — a true full-spectrum panaderia rather than a cafe. Ideal as a quick after-meal dessert stop on the 4th Ave corridor, with tres leches and custom cakes available to pre-order.",
     "url": "https://donpacolopez.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "curious",
       "chill"
     ],
     "dietary": [
@@ -5315,8 +5316,12 @@
     "duration": "20-30 min",
     "driveFromIC": "6 min",
     "hoursWeekend": "06:00-21:00",
-    "notes": "Address is 4703 4th Ave (one block west of the 5th Ave Mexican corridor anchored by Tacos Matamoros + Tacos El Bronco) — pairs cleanly as the sweet stop after a taco crawl (theinfatuation.com, bklyner.com). Founded 1991 by Francisco López, recipes trace to 1932 Chila de las Flores, Puebla (donpacolopez.com/about-us). Headline items: conchas, orejas, campechanas; expanded to East Harlem (2000) and Westbury LI (2024). Street parking on 4th Ave/47th St typically open on weekends; verify hours by phone — bakery opens early and may close earlier than listed if sold out.",
+    "notes": "Actual address is 4703 4th Ave (not 5th Ave) — task brief had a slight inaccuracy (grubhub.com). Cash-friendly counter-service; grab-and-go works well after a sit-down meal like Maria's. The Infatuation calls out their conchas as among Brooklyn's best (theinfatuation.com); Viewing NYC's video feature highlights the family operation (viewing.nyc). Tres leches not prominently listed on standing menu — call ahead or order via their site if it's the must-have. Street parking on 4th Ave/47th St is doable on weekends but tight; Industry City lot to here is ~0.7 mi straight down 4th Ave.",
     "sources": [
+      {
+        "url": "https://donpacolopez.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
       {
         "url": "https://donpacolopez.com/pages/about-us",
         "accessed": "2026-05-16T00:00:00Z"
@@ -5326,18 +5331,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://bklyner.com/don-paco-lopez-panaderia-gets-much-deserved-love-new-york-times-sunset-park/",
+        "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
+        "url": "https://www.grubhub.com/restaurant/don-paco-lopez-panaderia-4703-4th-ave-brooklyn/1998623",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:44:00.543Z"
+    "lastResearchedAt": "2026-05-17T02:23:22.689Z"
   },
   {
     "id": "thanh-da-sandwich",
@@ -5556,17 +5561,17 @@
   },
   {
     "id": "sunset-park-skyline-overlook",
-    "name": "Sunset Park (Manhattan Skyline Overlook)",
-    "desc": "Brooklyn's second-highest hilltop park with sweeping Manhattan skyline, harbor and Statue of Liberty views",
-    "longDesc": "A 24.5-acre hilltop park between 41st-44th Sts and 5th-7th Aves, just 0.5 mi uphill from Kai Feng Fu and Industry City. The bluff at the park's crest opens onto a wide-screen panorama of Lower Manhattan, the Statue of Liberty, NY Harbor, and the green ridges of Staten Island and New Jersey — the city's best free skyline overlook south of the Brooklyn Bridge. Locals picnic on the lawn past sunset for the sparkle of the skyline lights against the park.",
+    "name": "Sunset Park (Skyline Overlook)",
+    "desc": "Free hilltop park with unobstructed Manhattan skyline, Statue of Liberty and harbor views.",
+    "longDesc": "Sunset Park is a 24.5-acre NYC park between 41st–44th Streets and 5th–7th Avenues, perched atop a 164-foot terminal moraine — the highest natural point in this part of Brooklyn. From the upper ridge near 5th Ave, you get an unobstructed sightline to the full downtown Manhattan skyline, the Statue of Liberty, New York Harbor and, on clear days, the Staten Island and New Jersey hills. Pairs perfectly as a free post-meal walk after tacos or pan dulce on 5th Ave.",
     "url": "https://www.nycgovparks.org/parks/sunset-park",
-    "photoUrl": "",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sunset_Park_Brooklyn.jpg/1280px-Sunset_Park_Brooklyn.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "photo",
-      "active",
       "chill",
+      "active",
       "romantic"
     ],
     "dietary": [],
@@ -5574,29 +5579,29 @@
     "duration": "30-45 min",
     "driveFromIC": "6 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Sited on the second-highest point in Brooklyn; the bluff affords a thrilling view of the harbor, Manhattan skyline, Statue of Liberty, Staten Island and New Jersey (nycgovparks.org). Playground area posted 06:00-21:00 but the park lawn/overlook follows NYC Parks general 06:00-01:00 rule. Free street parking on weekends along 6th/7th Ave; from IC drive south on 3rd Ave, left up 41st St, ~6 min. Pair as the photo/active beat right after dim sum at Kai Feng Fu (0.5 mi / ~3 min drive uphill). Best skyline light: golden hour through dusk. No restrooms reliably open — use IC or Kai Feng Fu first.",
+    "notes": "Free; no ticket or reservation. Hilltop overlook is on the western/5th Ave side near 41st St — climb the short rise from the 5th Ave entrance for the cleanest skyline angle (en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)). Standard NYC Parks hours 6am–1am (nycgovparks.org). Parking is curb side on local streets; weekend street parking on 6th Ave or side streets above 41st is generally available (nycgovparks.org/parks/sunset-park). Best light ~1 hour before sunset; the park is literally named for this. Pairs naturally with Tacos El Bronco, Don Paco Lopez Panaderia and other 5th Ave stops.",
     "sources": [
       {
-        "url": "https://www.nycgovparks.org/parks/sunset-park",
-        "accessed": "2026-05-16T05:58:00Z"
-      },
-      {
-        "url": "https://www.nycgovparks.org/parks/sunset-park/highlights/166",
-        "accessed": "2026-05-16T05:58:00Z"
-      },
-      {
-        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
-        "accessed": "2026-05-16T05:58:00Z"
-      },
-      {
         "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
-        "accessed": "2026-05-16T05:58:00Z"
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/sunset-park/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://yourbrooklynguide.com/brooklyn-sunset-spots/",
+        "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T06:03:15.623Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T02:25:25.619Z"
   },
   {
     "id": "color-factory-nyc",
@@ -9941,10 +9946,10 @@
   },
   {
     "id": "tortilleria-mexicana-los-hermanos",
-    "name": "Tortillería Mexicana Los Hermanos",
-    "desc": "Working tortilla factory in a Bushwick garage with a counter serving tacos on tortillas pulled off the line.",
-    "longDesc": "Operating since 1998 in far-east Bushwick's old 'Tortilla Triangle,' Los Hermanos is the last factory of its kind still running a public counter — you eat in the dining room while watching machinery extrude fresh tortillas through a plastic curtain. Three tacos run about $9.75 with cilantro, onion, red and green salsas, and the operation stays defiantly cash-only and BYOB. Buy a thirty-count stack of warm tortillas on the way out for around $1.25.",
-    "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
+    "name": "Tortilleria Mexicana Los Hermanos",
+    "desc": "Cult Bushwick tortilla factory with a tiny taqueria counter serving tacos from the line, fresh off the press.",
+    "longDesc": "A working corn-tortilla factory on a quiet Bushwick block that doubles as a no-frills taqueria — you watch the press run from the dining room while eating $2-something tacos made with tortillas pulled minutes earlier. Cash-only, BYOB, and you write your order on scrap paper and slide it across the counter; Anthony Bourdain once called these the best tacos in NYC. Pairs naturally with the Troutman/Starr Street murals and the surrounding Bushwick press-shop crawl.",
+    "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
@@ -9958,20 +9963,12 @@
     ],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "20 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "11:00-23:30",
-    "notes": "Cash only and BYOB — bring small bills and a six-pack if you want beer (Bushwick Daily). The factory floor is visible from the dining counter through a plastic curtain, making this one of the only spots in NYC where you can eat a taco made from a tortilla minutes old (Atlas Obscura). Address is 271 Starr St; street parking is generally available on weekends in this stretch of industrial Bushwick (Yelp listing). Tacos run ~$9.75 for three with full garnish including red/green salsas (Bushwick Daily). The bulk tortilla buy (~30 for $1.25) is a worthwhile take-home — pairs naturally with a Sunset Park grocery-stop pillar if chaining a Mexican corridor day.",
+    "notes": "Cash only, BYOB, no alcohol on premises (Yelp, Infatuation). Order by writing items on scrap paper and sliding it to the counter (NYC Tourism). Tacos ~$2.25, tostadas ~$2.50, quesadillas ~$3.25; pork (carnitas, chorizo) and steak are the standouts (Bushwick Daily, Infatuation). One of the last surviving tortillerias from the 1990s 'Tortilla Triangle' and the only one in NYC where you can eat tacos in the same room as the running tortilla line (Atlas Obscura, NYC Tourism). Street parking in Bushwick is generally findable on weekends within 1-3 blocks; the factory is a few minutes' walk from the Jefferson Street L for non-driving friends. Loud tortilla machine — fun, not romantic.",
     "sources": [
       {
-        "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://bushwickdaily.com/food-and-drink/6685-los-hermanos-tacos-tortilla-factory-bushwick/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tortilleria-mexicana-los-hermanos",
+        "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -9979,14 +9976,22 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
+        "url": "https://www.theinfatuation.com/new-york/reviews/tortilleria-mexicana-los-hermanos",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/food-and-drink/6685-los-hermanos-tacos-tortilla-factory-bushwick/",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T02:14:15.673Z"
+    "lastResearchedAt": "2026-05-17T02:29:24.312Z"
   },
   {
     "id": "tulcingo-sunset-park",
@@ -22108,5 +22113,59 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T02:19:29.167Z"
+  },
+  {
+    "id": "sobre-masa-bushwick",
+    "name": "Sobre Masa",
+    "desc": "Heirloom-corn tortilleria and dinner taqueria in a Bushwick industrial loft, masa milled daily.",
+    "longDesc": "Sobre Masa mills Mexican heirloom corn (Oaxacan, Pueblan, Tlaxcalan varieties) into fresh masa every day and serves it across tortillas, tlayudas, tetelas, and a tight taqueria menu paired with mezcal and agave cocktails. The Harrison Pl space is a converted Bushwick warehouse with an open mill, counter retail (take-home tortillas, totopos, masa) and a full dinner service that earned a Michelin Guide nod.",
+    "url": "https://sobremasa.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "24 min",
+    "hoursWeekend": "Sat 18:00-23:00, Sun 13:00-20:00",
+    "notes": "Anchor 52 Harrison Pl, Brooklyn NY 11237 (source: sobremasa.com/pages/contact-us). Saturday is dinner-only from 6pm; Sunday is the only weekend daytime window (1pm open) — slot it as Sunday lunch or Saturday dinner. Reservations via OpenTable recommended; counter/retail walk-in for tortillas-to-go. Heirloom corn sourced from Tamoa and small Mexican farms (source: Time Out NY, Bushwick Daily). Drive from IC: ~9 mi via BQE/Meeker, 22-28 min weekend traffic. Street parking generally available on Harrison Pl / Porter Ave industrial blocks. Pairs with La Malinche for a 'tortilla triangle' compare-and-contrast day (heirloom vs. classic masa).",
+    "sources": [
+      {
+        "url": "https://sobremasa.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://sobremasa.com/pages/contact-us",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/sobre-masa-expands-its-excellent-tortilla-shop-to-bushwick-101921",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/food-and-drink/sobre-masa-brings-a-tortilleria-taqueria-and-mexican-cocktails-to-bushwick/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/sobre-masa",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/sobre-masa-tortilleria-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T02:27:25.844Z"
   }
 ]
