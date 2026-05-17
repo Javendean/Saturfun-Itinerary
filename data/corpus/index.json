@@ -1930,25 +1930,26 @@
   {
     "id": "tacos-el-bronco",
     "name": "Tacos El Bronco",
-    "desc": "Cult-favorite Sunset Park taco truck on 5th Ave spinning real al pastor and slow-stewed birria.",
-    "longDesc": "Tacos El Bronco's 5th Ave truck (37th St) is the legendary counterpart to its 4th Ave sit-down spot, with a vertical trompo of al pastor crowned by pineapple and a constantly bubbling pot of birria. The line is long but moves fast; tacos run roughly $4 each and the operation is cash-only. Snag tacos al pastor, birria, lengua, and a torta and eat curbside — it's the most authentic taqueria experience within a five-minute drive of Industry City.",
-    "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
+    "desc": "Cash-only Sunset Park taqueria famed for $3 al pastor, suadero, and campechano tacos",
+    "longDesc": "A long-running Sunset Park institution that started as a truck and grew into a sit-down restaurant on 4th Ave, Tacos El Bronco serves double-tortilla tacos at roughly $3 each with al pastor, suadero, chorizo, and the signature campechano (salty beef + chorizo + crispy pork skin) leading the order. The Infatuation calls it 'the reason you visit Sunset Park,' and the menu stretches into mole poblano, lengua, tripe, and oversized tortas (theinfatuation.com). Cash only, late kitchen hours, and an undeniably Mexican atmosphere (yelp.com).",
+    "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "5 min",
-    "hoursWeekend": "13:00-02:00",
-    "notes": "5th Ave truck at 37th St / ~5001 5th Ave, Sunset Park — cash only, no seating (Yelp). Al pastor sliced from a vertical trompo with pineapple; birria slow-cooked, rich and spicy (Infatuation review). Long line but fast-moving; tacos ~$4. The 4324 4th Ave sit-down location is the same family and stays open later if the truck is closed (Yelp).",
+    "hoursWeekend": "Sat 11:00-02:00, Sun 11:00-01:00",
+    "notes": "Address corrected: 4324 4th Ave (not 5th Ave) at 44th St, Sunset Park, Brooklyn 11220 — task topic listed 5th Ave but search across Yelp, The Infatuation, and Tripadvisor confirms 4th Ave (yelp.com, theinfatuation.com). Cash-only sit-down restaurant; the separate Tacos El Bronco truck at 37th & 5th Ave is its food-truck sibling (yelp.com). Phone (718) 788-2229. Must-orders per The Infatuation: campechanos, al pastor, suadero, chorizo; mole poblano and tortas also strong. Pairs naturally with Tulcingo for a 5th/4th Ave Mexican corridor comparison since they sit ~3 blocks apart.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -1956,14 +1957,18 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://www.grubhub.com/restaurant/tacos-el-bronco-5001-5th-avenue-brooklyn/8403144",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4728109-Reviews-Tacos_El_Bronco-Brooklyn_New_York.html",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://onthegrid.city/brooklyn/sunset-park/tacos-el-bronco",
         "accessed": "2026-05-16T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T02:21:30.067Z"
+    "lastResearchedAt": "2026-05-17T02:39:31.006Z"
   },
   {
     "id": "ba-xuyen",
@@ -16221,9 +16226,9 @@
   {
     "id": "mood-ring-bushwick",
     "name": "Mood Ring",
-    "desc": "Astrology-themed cocktail bar with teal LEDs, tarot mural, and zodiac-inspired drinks in Bushwick.",
-    "longDesc": "Mood Ring is a cosmic '70s-meets-Wong-Kar-wai cocktail lounge on Myrtle Ave: teal LED-backlit bar, velvet booths, galaxy marble bar top, and a tarot card mural that doubles as a photo wall. Rotating zodiac cocktails follow the astrological calendar (e.g. Scorpio season's mezcal-Campari-ancho 'the Sting'), plus a Tony Leung bourbon nod to In the Mood for Love. Late-close (3-4am Thu-Sat) makes it a strong nightcap after a Bushwick music venue.",
-    "url": "https://moodringnyc.com",
+    "desc": "Astrology-themed cocktail lounge with cosmic '70s décor, zodiac drink specials, and weekend DJs.",
+    "longDesc": "A woman-led, LGBTQ+-friendly Bushwick bar where the menu rotates with the astrological calendar — each sign gets its own signature cocktail. The neon-lit, tarot-and-houseplants interior is built for photos, and weekend nights bring DJs spinning until 4am. Plays as a perfect quirky capstone after a Bushwick food crawl.",
+    "url": "https://www.moodringnyc.club/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
@@ -16236,11 +16241,11 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Fri-Sat 18:00-04:00",
-    "notes": "1260 Myrtle Ave, Brooklyn, NY 11221. Owned by Bowen Goh + Vanessa Li; cocktails rotate with the astrological calendar (nyctourism.com). LGBTQ+-friendly per Travel Gay listing. Walkable from Sultan Room / House of Yes corridor — pairs well as a late-night nightcap after a music venue. Street parking on Myrtle/side streets typical for Bushwick weekends; arrive before 22:00 for easier spots.",
+    "hoursWeekend": "Fri-Sat 18:00-04:00, Sun 18:00-02:00",
+    "notes": "Sign-based drink specials rotate with the zodiac calendar (Bushwick Daily, NYC Tourism). Cash-friendly, often a line after 11pm on weekends; arriving 8-10pm gives the best shot at the back lounge for photos. Street parking on Myrtle Ave is usually findable on weekend evenings. Phone (917) 818-1738 for table holds on big nights.",
     "sources": [
       {
-        "url": "https://www.nyctourism.com/nightlife/mood-ring/",
+        "url": "https://www.moodringnyc.club/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -16248,7 +16253,11 @@
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
-        "url": "https://bushwickdaily.com/bars/4957-mood-ring-astrology-bar-bushwick/",
+        "url": "https://www.nyctourism.com/nightlife/mood-ring/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/bars/4863-mood-ring-bushwick/",
         "accessed": "2026-05-16T00:00:00Z"
       },
       {
@@ -16259,7 +16268,7 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T18:24:12.499Z"
+    "lastResearchedAt": "2026-05-17T02:35:31.119Z"
   },
   {
     "id": "bagel-pub-sunset-park",
@@ -22167,5 +22176,138 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T02:27:25.844Z"
+  },
+  {
+    "id": "sunset-park-5th-ave-mexican-corridor",
+    "name": "5th Ave Mexican Corridor (La Malinche + Panaderias)",
+    "desc": "Walk Sunset Park's 5th Ave taqueria + tortilleria + panaderia + paleteria strip, anchored at La Malinche.",
+    "longDesc": "Park once on 5th Ave near 42nd St and walk the corridor: Tortilleria La Malinche (4202 5th Ave, open 24h) for fresh corn tortillas sold by the pound, then south past taquerias and Don Paco Lopez Panaderia (a three-generation family bakery since 1991 famous for conchas), continuing to Panaderia Mi Mexico Pequeno at 4513 5th Ave for pan de muerto and trays of seashell-shaped conchas. Cap the walk with a paleta from Paleteria La Michoacana. Dense, working-class, immigrant-rooted, and across the street from actual Sunset Park (the park) for a post-walk view.",
+    "url": "https://www.google.com/maps/place/Tortilleria+La+Malinche/@40.6494,-74.0089,17z",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "La Malinche 24h; panaderias roughly 06:00-22:00",
+    "notes": "Anchor: Tortilleria La Malinche, 4202 5th Ave between 42nd & 43rd, across from Sunset Park; fresh tortillas by the pound, co-owned by Jesús Israel Delgado Díaz and Ilsel Garcia (NY City Lens). Don Paco López Panadería is a Sunset Park institution since 1991 known for conchas (Gothamist). Panaderia Mi Mexico Pequeño at 4513 5th Ave between 45th–46th has conchas + pan de muerto (Yelp). Walk south on 5th Ave from 42nd toward 50th to hit the densest cluster; weekend street parking is doable on side streets east of 5th. Paleta stop: Paleteria La Michoacana for the closer.",
+    "sources": [
+      {
+        "url": "https://nycitylens.com/sunset-park-tortilleria-new-yorks-growing-mexican-accent/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tortilleria-la-malinche-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/arts-entertainment/for-great-mexican-food-head-to-sunset-park-here-are-some-of-the-best-places",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/panaderia-mi-mexico-peque%C3%B1o-sunset-park",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/itineraries/exploring-latino-culture-in-sunset-park-brooklyn/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T02:31:40.634Z"
+  },
+  {
+    "id": "robertas-pizza-bushwick",
+    "name": "Roberta's",
+    "desc": "Wood-fired Neapolitan pizza institution with a sprawling backyard, tiki bar, and house-cured meats.",
+    "longDesc": "The Bushwick original that put NYC wood-fired pizza on the map — Bee Sting (soppressata + honey) and Famous Original are the move, alongside handmade pasta, house-cured meats, and seasonal vegetables. The cinderblock dining room opens onto a heated tiki bar and a huge patio with picnic tables, making it a strong weekend daytime hang as well as a dinner stop. Six minutes from Los Hermanos makes it the natural Bushwick track dinner anchor.",
+    "url": "https://www.robertaspizza.com/bushwick",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
+    "notes": "Weekend backyard/tiki bar seating is heated and partially covered (Yelp). Walk-ins only at the main restaurant — OpenTable reservations are for the connected tasting room (Blanca). Street parking on Moore/Bogart is generally findable on weekends but tight at dinner; pair with Los Hermanos (6 min) earlier in the day. (robertaspizza.com/bushwick) (yelp.com)",
+    "sources": [
+      {
+        "url": "https://www.robertaspizza.com/bushwick",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/robertas-brooklyn-2",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/roberta-s",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T02:33:34.119Z"
+  },
+  {
+    "id": "syndicated-bar-theater-kitchen",
+    "name": "Syndicated Bar Theater Kitchen",
+    "desc": "Dine-in cinema + cocktail bar + American kitchen under one Bushwick roof",
+    "longDesc": "A 60-seat full-service movie house tucked behind a craft cocktail bar and seasonal American restaurant at 40 Bogart St — order burgers, snacks and film-themed drinks (think 'Redrum') from your theater seat. Programming swings between cult repertory and new indies; tickets are a flat $10. The bar and dining room stay open late, so it doubles as a pre/post-dinner activity for a Bushwick driving track.",
+    "url": "https://syndicatedbk.com/",
+    "photoUrl": "https://syndicatedbk.com/wp-content/uploads/2018/10/IMG_9306.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 15:00-02:00, Sun 15:00-00:00",
+    "notes": "60-seat dine-in cinema with in-seat food/drink service; $10 tickets via Veezi (syndicatedbk.com). Cocktails ~$12-13, film-named (e.g. 'Redrum'). Corner of Bogart & Thames, one block from Morgan Ave L — street parking is doable on weekends in the surrounding industrial blocks. 4 min drive from Los Hermanos taqueria, ~20 min from Industry City via the BQE.",
+    "sources": [
+      {
+        "url": "https://syndicatedbk.com/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/syndicated-bar-theater-kitchen-brooklyn",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/arts-culture/3598-syndicated-bar-restaurant-theater-can-be-whatever-you-want-it-to-be/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T02:37:33.613Z"
   }
 ]

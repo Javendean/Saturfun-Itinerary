@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Cinco de Mayo Place / 5th Ave Sunset Park Mexican corridor",
-    "reason": "The blocks around La Malinche are a dense taqueria + panaderia + paleteria strip — worth a 'walk the corridor' track entry",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:48:42.237Z"
-  },
-  {
-    "topic": "Roberta's Pizza Bushwick (261 Moore St)",
-    "reason": "Natural pairing 6 min from Los Hermanos — extends the Bushwick track with a wood-fired pizza anchor that has weekend backyard seating",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:50:40.217Z"
-  },
-  {
-    "topic": "Mood Ring Bushwick astrology bar (1260 Myrtle Ave)",
-    "reason": "Nightlife capstone for a Bushwick food+drinks loop; quirky photo-friendly vibe within 8 min drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:50:40.217Z"
-  },
-  {
-    "topic": "Syndicated Bar Theater Kitchen Bushwick (40 Bogart St)",
-    "reason": "Cinema + cocktails + diner food in one room — fills the activity slot in a Bushwick driving track 4 min from Los Hermanos",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:50:40.217Z"
-  },
-  {
-    "topic": "Tacos El Bronco 4324 5th Ave Sunset Park",
-    "reason": "Primary 5th Ave taco anchor — pair with Tulcingo to give the Sunset Park Mexican corridor a two-stop comparison",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T10:52:42.695Z"
-  },
-  {
     "topic": "Don Paco Lopez Panaderia Sunset Park 5th Ave",
     "reason": "Adjacent Mexican bakery for pan dulce dessert stop after a Tulcingo lunch — same drive cluster",
     "requestedBy": "agent",
@@ -7156,5 +7126,95 @@
     "reason": "Wood-fired pizza in a hidden brewery courtyard — natural evening anchor after a Bushwick afternoon, keeps the same Bushwick/Ridgewood cluster alive into dinner",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T02:29:24.333Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia Sunset Park concha bakery",
+    "reason": "Three-generation family bakery on the same 5th Ave corridor — strong standalone foodie+curious pin if user wants the corridor split into individual stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:31:40.651Z"
+  },
+  {
+    "topic": "Sunset Park (the park) sunset skyline view Brooklyn",
+    "reason": "The actual park is directly across from La Malinche and has the famous Manhattan skyline view at sunset — pair with the food walk as a single track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:31:40.651Z"
+  },
+  {
+    "topic": "Paleteria La Michoacana Sunset Park Brooklyn",
+    "reason": "Authentic paletas/aguas frescas; logical dessert closer for the corridor walk and an independent hot-weather pin",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:31:40.651Z"
+  },
+  {
+    "topic": "Bunna Cafe Bushwick (vegan Ethiopian, 1097 Bergen / Bushwick Ave)",
+    "reason": "Adds a vegan/vegetarian Bushwick dinner option so the track isn't pizza-dependent; satisfies dietary diversity in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:33:34.140Z"
+  },
+  {
+    "topic": "Mood Ring bar Bushwick (1260 Myrtle Ave, astrology-themed cocktails)",
+    "reason": "Late-night photo/chill capper for the Bushwick track within 5 min of Roberta's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:33:34.140Z"
+  },
+  {
+    "topic": "House of Yes Bushwick (2 Wyckoff Ave, immersive nightlife venue)",
+    "reason": "Iconic Bushwick nightlife anchor with weekend daytime events; extends the track past dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:33:34.140Z"
+  },
+  {
+    "topic": "House of Yes Bushwick (2 Wyckoff Ave) — circus-cabaret nightclub",
+    "reason": "Higher-energy Bushwick nightlife alternative within 5 min of Mood Ring; photo-rich for the same loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:35:31.136Z"
+  },
+  {
+    "topic": "The Johnson's Bushwick dive bar (369 Troutman St)",
+    "reason": "Cheaper companion stop before Mood Ring; balances priceBand variety in the Bushwick cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:35:31.136Z"
+  },
+  {
+    "topic": "Birdy's cocktail bar (474 Lorimer St, East Williamsburg)",
+    "reason": "Adjacent zone extension — bridges Bushwick loop to Williamsburg cluster with strong cocktail program",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:35:31.136Z"
+  },
+  {
+    "topic": "House of Yes Bushwick — immersive nightclub & circus theater",
+    "reason": "Adds a high-energy late-night option to the Bushwick cluster after Syndicated",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:37:33.633Z"
+  },
+  {
+    "topic": "Mood Ring Bushwick — astrology-themed cocktail bar",
+    "reason": "Walkable nightcap option on Myrtle that pairs with a Syndicated film slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:37:33.633Z"
+  },
+  {
+    "topic": "Roberta's Bushwick — wood-fired pizza & garden",
+    "reason": "Closest iconic dinner anchor (5 min walk from Syndicated) to round out a Bushwick driving track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:37:33.633Z"
+  },
+  {
+    "topic": "Tacos El Bronco Truck (37th St & 5th Ave, Sunset Park) — separate food-truck operation",
+    "reason": "Lets the corpus offer a 'truck vs. sit-down' Bronco comparison side-by-side with the restaurant and Tulcingo",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:39:31.024Z"
+  },
+  {
+    "topic": "Tacos El Bronquito 405 45th St Sunset Park — Bronco spinoff",
+    "reason": "Completes a three-Bronco mini-cluster and gives the Sunset Park Mexican corridor a deeper bench",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:39:31.025Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia 4703 4th Ave Sunset Park — Mexican bakery for pan dulce",
+    "reason": "Natural dessert/coffee follow-up on the same 4th Ave drag, walkable from Bronco for a multi-stop Mexican track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T02:39:31.025Z"
   }
 ]
