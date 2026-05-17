@@ -19247,8 +19247,8 @@
   {
     "id": "bar-tabac",
     "name": "Bar Tabac",
-    "desc": "Corner French bistro anchoring Smith Street — weekend brunch with live jazz and Moules Frites",
-    "longDesc": "Sidewalk-cafe bistro at the Smith & Dean corner that's been the unofficial Smith Street weekend living room for two decades. Saturday and Sunday brunch runs 10am–5pm with Niçoise, Croque Monsieur, and signature Moules Frites; live jazz four nights a week keeps the bohemian-Brooklyn energy after dark. The natural pivot point for a Smith Street walk between Atlantic Ave and Carroll St.",
+    "desc": "Classic French bistro on Smith Street with weekend brunch, sidewalk seating, and live jazz.",
+    "longDesc": "Bar Tabac is a Cobble Hill institution at 128 Smith Street modeled on a Parisian corner tabac, with mosaic-tile floors, zinc bar, and sidewalk tables. Weekend brunch runs 10am–5pm (Niçoise, Croque Monsieur, moules frites) with live music six nights a week. Reliable Parisian energy and a sturdy wine-and-cocktail list make it a good ~10-minute drive from Industry City for a Cobble Hill track stop.",
     "url": "https://www.bartabacbistro.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -19263,31 +19263,27 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "10:00-02:00",
-    "notes": "128 Smith St, corner of Dean — easiest anchor for a Smith St walking loop (Atlantic→Carroll). Weekend brunch Sat/Sun 10am–5pm; dinner runs till 2am Fri/Sat (bartabacbistro.com). Live jazz 4x/week — verify night at door (Yelp). Weekend metered parking on Smith and free on most side streets; Sunday-morning curb is the sweet spot. Pairs naturally with a Bien Cuit pastry walk-up beforehand and Books Are Magic browsing after.",
+    "notes": "Brunch Sat/Sun 10:00–17:00, dinner Fri/Sat 17:00–02:00 (bartabacbistro.com). 128 Smith St, corner of Dean — sidewalk seating prime for people-watching; live music six nights/week, jazz brunches a signature draw (Yelp). Street parking on Smith/Dean/Bergen is manageable on weekend mornings; Boerum Hill municipal lots within 4-block walk. (718) 923-0918.",
     "sources": [
       {
         "url": "https://www.bartabacbistro.com/",
-        "accessed": "2026-05-16T22:35:00Z"
+        "accessed": "2026-05-17T10:05:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/bar-tabac-brooklyn",
-        "accessed": "2026-05-16T22:35:00Z"
+        "accessed": "2026-05-17T10:05:00Z"
       },
       {
         "url": "https://www.opentable.com/r/bar-tabac-brooklyn",
-        "accessed": "2026-05-16T22:35:00Z"
-      },
-      {
-        "url": "https://www.jauntguide.com/guide/strolling-smith-street",
-        "accessed": "2026-05-16T22:35:00Z"
+        "accessed": "2026-05-17T10:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:33:56.588Z"
+    "lastResearchedAt": "2026-05-17T10:05:13.076Z"
   },
   {
     "id": "frankies-570-spuntino-west-village",
@@ -26299,5 +26295,93 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T09:50:51.573Z"
+  },
+  {
+    "id": "le-crocodile-williamsburg",
+    "name": "Le Crocodile",
+    "desc": "All-day French brasserie inside Wythe Hotel — steak frites, roast chicken, banquettes",
+    "longDesc": "Chefs Aidan O'Neal and Jake Leiber's polished neighborhood brasserie in the lobby of the Wythe Hotel, doing breakfast through dinner with a Parisian touch. Signatures include the steak au poivre with crisp golden frites and roast chicken with herb jus — strong upgrade tier above casual bistros when a night feels special. Reservations on Resy go fast for weekend dinner; brunch is a softer entry point.",
+    "url": "https://www.lecrocodile.com/",
+    "photoUrl": "https://static.wixstatic.com/media/3e9cbe_f534f70871dd4014b3594cbf908419ab~mv2.jpeg",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "07:00-23:00",
+    "notes": "Located in the Wythe Hotel, 80 Wythe Ave, Williamsburg (lecrocodile.com). Weekend hours run 7am-11pm Fri-Sat and 7am-10pm Sun (lecrocodile.com). Phone (718) 460-8004. ~18 min drive from Industry City via BQE; weekend street parking is tight but the Wythe valet and N 11th St lots are reliable. Best ordered: steak au poivre, roast chicken, frites, gougères — the room has classic French banquette + tile photo appeal. Pairs well as the upgrade slot in a Williamsburg cluster track alongside Domino Park, Bar Bête, and a Wythe rooftop nightcap (Bar Blondeau upstairs in the same hotel).",
+    "sources": [
+      {
+        "url": "https://www.lecrocodile.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.wythehotel.com/dining",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/le-crocodile-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/le-crocodile/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T10:12:16.854Z"
+  },
+  {
+    "id": "chez-moi",
+    "name": "Chez Moi",
+    "desc": "Cozy Atlantic Ave French bistro — steak frites, escargot, absinthe bar, weekend brunch to late dinner.",
+    "longDesc": "A romantic, bookshelf-lined French bistro on Atlantic Ave at the Brooklyn Heights/Cobble Hill border, doing classic bouillabaisse, côte de boeuf, escargots, oysters and profiteroles alongside a notable absinthe selection. Opens 10am for weekend brunch (croque madame, frittatas) and runs straight through to 11:30pm dinner service, so it slots into either a late-lunch or post-sunset itinerary slot. Side-street parking on Henry/Hicks/State is materially easier than the Smith St corridor in Carroll Gardens.",
+    "url": "https://www.chezmoiny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "10:00-23:30",
+    "notes": "135 Atlantic Ave, sits on the Heights/Cobble Hill line (Tripadvisor lists Cobble Hill, the restaurant's own site says Brooklyn Heights). Drive from IC via Hamilton Ave → BQE → Atlantic Ave exit, ~15 min off-peak. Parking advantage vs Carroll Gardens French alternatives: Atlantic Ave meters are free Sundays and after 7pm Sat, and the Heights side streets (Henry, Hicks, State, Pacific) turn over more reliably than Smith St's permit-heavy residential blocks (chezmoiny.com; nyc.gov DOT meter rules). Reservations via Resy recommended for Sat dinner.",
+    "sources": [
+      {
+        "url": "https://www.chezmoiny.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/chez-moi-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/chez-moi",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyc.gov/html/dot/html/motorist/parking-rates.shtml",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T10:10:22.881Z"
   }
 ]
