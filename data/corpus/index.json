@@ -6344,23 +6344,24 @@
   },
   {
     "id": "sushi-uesugi",
-    "name": "Sushi Uesugi",
-    "desc": "Intimate omakase counter tucked next to Japan Village — seasonal nigiri, Yukke Don, Garlic Truffle Rice.",
-    "longDesc": "An eight-seat omakase room beside the Japan Village food hall in Industry City, helmed by Chef Kenji. The kitchen leans on the season's freshest catch with signature touches like Yukke Don and Garlic Truffle Rice, and the lunch omakase remains one of Brooklyn's best-value high-end sushi sets. Pairs naturally with a Japan Village stroll before or after the meal.",
+    "name": "Sushi Uesugi at Japan Village",
+    "desc": "Intimate counter omakase next door to Japan Village — seasonal cuts, Yukke Don, garlic truffle rice.",
+    "longDesc": "A refined sit-down omakase room attached to Industry City's Japan Village food hall, Sushi Uesugi pairs traditional Edomae technique with quietly inventive plates like Yukke Don and garlic truffle rice. The weekend lunch omakase set (around $50pp for 10pc) is the steal entry point; dinner stretches the seasonal catch into a full chef's-choice progression. Counter-only seating keeps it serene and unhurried.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "romantic"
+      "romantic",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "60-90 min",
+    "duration": "75-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "12:00-15:00, 17:00-21:00",
-    "notes": "267 36th St, next to Japan Village food hall in Industry City (japanvillage.com). Lunch omakase set around $50/10pc; dinner omakase higher (yelp.com). Reservation strongly recommended — only ~8-10 seats. On-site IC weekend parking validation policy makes this an ideal anchor stop. Chef Kenji praised for thick cuts and seasonal sourcing.",
+    "hoursWeekend": "Fri-Sat 12:00-15:00, 17:00-21:00; Sun 12:00-14:30, 17:00-19:30",
+    "notes": "Located at 267 36th St, immediately next to Japan Village food hall inside the Industry City complex — zero drive from IC anchor (japanvillage.com). Lunch omakase ~$50pp for 10pc is the value play; signatures include Yukke Don and Garlic Truffle Rice (japanvillage.com, yelp.com). Reservations strongly recommended — counter-only, intimate room. Pairs well as a higher-end upgrade from the Handroll Bar option in the same complex.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
@@ -6373,8 +6374,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T23:57:56.167Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T00:12:19.380Z"
   },
   {
     "id": "panya-bakery-industry-city",
@@ -12884,16 +12885,16 @@
   },
   {
     "id": "sunrise-mart-industry-city",
-    "name": "Sunrise Mart",
-    "desc": "Largest Sunrise Mart in NYC — Japanese groceries, snacks, sake, and prepared meals inside Japan Village",
-    "longDesc": "NYC's go-to market for fresh Japanese ingredients, imported snacks, sake, and ready-to-eat meals, located inside the Japan Village marketplace in Industry City's Building 3. Pair it with a pastry stop at Panya next door for an easy Japan-themed mini-track without leaving the complex.",
+    "name": "Sunrise Mart (Japan Village, Industry City)",
+    "desc": "Biggest Sunrise Mart in NYC — Japanese grocery inside Japan Village hall: sushi-grade fish, wagyu, snacks.",
+    "longDesc": "Sunrise Mart's Industry City outpost is the largest of the chain's NYC locations, anchoring the 20,000 sq ft Japan Village hall in Building 3. The aisles cover fresh sushi-grade fish, shabu-shabu pork, wagyu beef, sauces, sake, and a famously deep snack/candy wall. It's the natural post-ramen browse after a meal in the adjacent food hall and pairs well with a beer at Mikkeller next door.",
     "url": "https://industrycity.com/tenants/sunrise-mart/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie",
-      "curious"
+      "curious",
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
@@ -12901,26 +12902,26 @@
     "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-21:00",
-    "notes": "Inside Japan Village at 934 3rd Ave, Building 3 (industrycity.com). Weekend hours Fri/Sat 11am-9pm, Sunday 11am-8pm (industrycity.com). Stocks fresh Japanese ingredients, imported snacks, sake/shochu, bento and onigiri; natural pairing with Panya for a Japan mini-track (yelp.com).",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Located inside Japan Village, Building 3, 934 3rd Ave entrance (industrycity.com). Largest Sunrise Mart in NYC per The Bridge writeup; family-owned. Free weekend parking in IC lots. Pair with Industry City Ramen / Mikkeller / Japan Village food stalls.",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/sunrise-mart/",
-        "accessed": "2026-05-16T14:30:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
-        "accessed": "2026-05-16T14:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://sunrisemart.com/pages/visit-us",
-        "accessed": "2026-05-16T14:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://thebridgebk.com/brooklyn-finally-gets-a-japanese-marketplace-of-its-own/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T14:35:18.560Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:04:32.657Z"
   },
   {
     "id": "wakuwaku-japan-village",
@@ -20282,5 +20283,134 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T00:00:13.889Z"
+  },
+  {
+    "id": "sakes-bar-japan-village",
+    "name": "Sake's Bar at Japan Village",
+    "desc": "Refined sake & shochu bar tucked inside Japan Village food hall at Industry City.",
+    "longDesc": "Chill, design-forward Japanese drinks bar inside IC's 20,000 sq ft Japan Village. Curated Junmai, Ginjo, and Daiginjo pours plus shochu, Japanese drafts, original cocktails, and fruit chu-his (kiwi, orange, grapefruit) — pair with bites from the surrounding 11 food stalls for an effortless evening anchor that needs zero extra driving.",
+    "url": "https://www.japanvillage.com/eat-drink/sakes-bar",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Fri 12:00-20:00, Sat 12:00-20:30, Sun 12:00-19:00",
+    "notes": "Located inside Japan Village at 934 3rd Ave, Brooklyn (industrycity.com tenant page). Friday happy hour 4-7pm with discounted drinks (japanvillage.com/eat-drink/sakes-bar). Sake's Bar is positioned as a 'refined sanctuary' blending contemporary aesthetics with Japanese elegance — ideal evening cap inside IC after a daytime food haul; pairs naturally with bites from the food-hall stalls. Note: Sake's Bar closes earlier than IC's other evening venues (last call ~20:30 Sat), so schedule it before any later stop. Hi-Collar (Manhattan East Village) was the alternative considered but pushed to enqueue because the ~45-min drive breaks the IC-anchor pattern.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/sakes-bar",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-16"
+      },
+      {
+        "url": "https://www.japanvillage.com/",
+        "accessed": "2026-05-16"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:02:36.535Z"
+  },
+  {
+    "id": "mokbar-park-slope-closed",
+    "name": "Mokbar Brooklyn (Park Slope) — PERMANENTLY CLOSED",
+    "desc": "Esther Choi's Korean ramen bar at 212 Flatbush shut down in 2025; no Industry City location exists.",
+    "longDesc": "Mokbar's Brooklyn outpost near Barclays Center, along with its sister concept Gahm by Mokbar at the same address, quietly closed in 2025 (Patch, Yelp). No Mokbar stall has ever operated at Industry City despite older aggregator listings suggesting otherwise. Only Chelsea Market (75 9th Ave) and Midtown (Lexington Ave) remain open — both Manhattan, ~25-30 min drive from IC via the Battery Tunnel.",
+    "url": "https://www.mokbar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "DO NOT PROMOTE. Researched as a ramen alternative to Yuji/Hibino in Industry City's Japan Village — turned out to be a dead lead. Yelp tags both Mokbar Brooklyn and Gahm by Mokbar at 212 Flatbush as CLOSED as of April-May 2026 (Yelp). Patch confirmed Iron Chef finalist Esther Choi's Park Slope spot quietly closed with no official statement (Patch). Mokbar.com still lists 212 Flatbush with hours but social pages went dark July 2024 — site is stale. No evidence of an Industry City stall ever existing despite a few aggregator mentions; not in official IC food hall directory. Viable Mokbar locations are Manhattan-only (Chelsea Market + Midtown), which fails the IC-driving-radius constraint. For groups wanting a second noodle option in the same food hall, route to Japan Village ramen vendors at IC directly (Hibino, Yuji Ramen) — this is the original intent the topic was meant to serve.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/mokbar-brooklyn-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gahm-by-mokbar-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/parkslope/iron-chef-finalist-s-korean-restaurant-quietly-closes-park-slope",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.mokbar.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T00:08:23.199Z"
+  },
+  {
+    "id": "industry-city-courtyards-weekend",
+    "name": "Industry City Courtyards Weekend Programming",
+    "desc": "Rotating weekend bandshell concerts, pop-up markets, and festivals across IC's outdoor courtyards.",
+    "longDesc": "Industry City's outdoor courtyards (notably Courtyard 1/2 with its Bandshell) host free weekend programming year-round — tribute-band concerts Saturdays and Sundays roughly 3-6pm, curated pop-up markets like MILNA (South Asian) and El Souq (SWANA + South Asian), seasonal events like VinylCon and Rock and Roll Playhouse kids' sets. Programming turns IC from a 'stop and eat' food-hall stop into a multi-hour anchor; check industrycity.com/events the week-of before locking the itinerary.",
+    "url": "https://industrycity.com/events/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "halal"
+    ],
+    "priceBand": "$",
+    "duration": "1-3 hr",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "varies; bandshell typically Sat-Sun 15:00-18:00",
+    "notes": "Bandshell shows run Sat/Sun ~3-6pm in the warm months (source: industrycity.com/events). Courtyard 1/2 also hosts dance parties, vintage markets, and pop-ups (source: partyslate.com/event-spaces/15795). Confirmed upcoming: MILNA Market Sun May 17 11-6pm, Real Young & Lazy Horse Sat May 30 3-7pm, Minglewood Plays Grateful Dead Sun May 31 2-6pm, VinylCon NYC Jun 13-14, Bar Convent Brooklyn courtyard activation Jun 9-10. Parking inside IC garages on weekends is usually open; on big-event Saturdays expect a queue.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/events/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://www.partyslate.com/event-spaces/15795",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2021/04/23/outdoor-music-series-coming-to-industry-city-courtyard/",
+        "accessed": "2026-05-16T00:00:00Z"
+      },
+      {
+        "url": "https://wineindustryadvisor.com/2026/05/12/what-to-expect-at-bar-convent-brooklyn-2026/",
+        "accessed": "2026-05-16T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T00:10:27.068Z"
   }
 ]
