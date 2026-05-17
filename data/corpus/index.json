@@ -5820,48 +5820,43 @@
   {
     "id": "threes-brewing-gowanus",
     "name": "Threes Brewing (Gowanus)",
-    "desc": "Gowanus brewpub with a 3,200 sq ft backyard — beer, burgers, and decompression three minutes from Royal Palms.",
-    "longDesc": "Threes' flagship Gowanus taproom occupies a former auto-body shop at 333 Douglass St between 3rd and 4th Avenues, with an indoor bar and 'The Yard' — a 3,200 sq ft outdoor space anchored by a 16-foot steel trellis draped in hops, ivy, and wisteria (lush in summer, tented and heated in winter). The kitchen is run as Grand Army South, doing brewpub-elevated burgers, fries, and snacks designed to pair with the house IPAs and lagers. A natural post-Royal-Palms slot: drive a few blocks, grab a pint at a picnic table outside, decompress before the next anchor.",
+    "desc": "Year-round backyard beer garden + working brewery with full kitchen, 10 min from IC",
+    "longDesc": "Threes' flagship Gowanus location is a fully-functioning brewery, brewpub, and music venue with The Yard — a lush, tented year-round outdoor space featuring a winterized outdoor bar serving beer, wine, and cocktails. The complex also houses Ninth Street Espresso (8am-3pm), a retail shop, and an upstairs music room called Tiny Montgomery. Pairs naturally with Royal Palms Shuffleboard (two blocks away) for a chill/active Gowanus track.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
-      "foodie"
+      "foodie",
+      "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "12:00-00:00 Sat / 12:00-23:00 Sun (kitchen closes 1hr earlier)",
-    "notes": "Real outdoor space with picnic tables and trellis canopy; great for group hangs (source: theinfatuation.com). Dog policy nuance — dogs are permitted at sidewalk seating only, NOT inside The Yard at Gowanus (source: threesbrewing.com/faq); if user has a dog, route them to a sidewalk table. Street parking in Gowanus is first-come/first-served plus a nearby garage; ~3 min drive from Royal Palms Shuffleboard, ~12 min from Industry City via Gowanus Expressway. Kitchen by Grand Army South (burgers, fries, brewpub menu).",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 12:00-00:00 (kitchen til 23:00), Sun 12:00-23:00 (kitchen til 22:00)",
+    "notes": "The Yard is the main draw — tented in winter, open-air in summer, with its own outdoor bar (threesbrewing.com/pages/gowanus). Full kitchen + bar menu, brewery tanks visible from main bar, Ninth Street Espresso runs the coffee program 8a-3p daily. Street parking in Gowanus is generally available on weekends; 3rd Ave / Douglass St corridor (threesbrewing.com). Two blocks from Royal Palms Shuffleboard Club — natural chill→active pairing.",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-17T08:05:00Z"
-      },
-      {
-        "url": "https://threesbrewing.com/pages/faq",
-        "accessed": "2026-05-17T08:05:00Z"
-      },
-      {
-        "url": "https://threesbrewing.com/pages/yard-space",
-        "accessed": "2026-05-17T08:05:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/threes-brewing",
-        "accessed": "2026-05-17T08:05:00Z"
+        "accessed": "2026-05-17T08:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-17T08:05:00Z"
+        "accessed": "2026-05-17T08:35:00Z"
+      },
+      {
+        "url": "https://threesbrewing.com/pages/faq",
+        "accessed": "2026-05-17T08:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T08:07:11.186Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T08:41:29.594Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -11514,12 +11509,12 @@
   {
     "id": "royal-palms-shuffleboard-club",
     "name": "Royal Palms Shuffleboard Club",
-    "desc": "10 regulation shuffleboard courts in a 17,000 sq ft vintage-Florida bar on the Gowanus Canal — active dive energy minus the BQE haul.",
-    "longDesc": "Brooklyn's one-and-only shuffleboard bar packs 10 regulation courts, 8 cabana booths, full cocktail bar and rotating food trucks (recent: Amazigh) into a kitschy mid-century Florida-snowbird clubhouse. 21+ every day except 'Family Sundays' when all ages are welcome until 8pm. Closer-to-IC alternative to Brooklyn Bowl/The Gutter for the night-out 'active dive' slot — same competitive-bar-game vibe, walkable to Carroll Gardens/Park Slope dinner spots.",
-    "url": "https://www.royalpalmsbrooklyn.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5a6f528a8fd4d2dc09606287/9c2bffc8-df3a-4333-946a-030ad53083e7/royalpalms_05.19.24-00112.jpg",
+    "desc": "Indoor shuffleboard hall with 10 courts, full bar, and a rotating food truck parked inside.",
+    "longDesc": "A Gowanus anchor since 2014, Royal Palms turned shuffleboard into a date-night sport with 10 regulation courts, palm-trimmed decor, and a long bar. A single food truck parks inside the warehouse and rotates weekly, so the menu changes every visit. Walk-ins are accepted but courts ($40/hr, up to 8 players) fill fast on weekend nights — reservations on the site are the move.",
+    "url": "https://www.royalpalmsshuffle.com/",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "park-slope",
+    "zone": "gowanus",
     "vibe": [
       "active",
       "chill",
@@ -11527,32 +11522,24 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "1.5-2 hr",
-    "driveFromIC": "11 min",
-    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-20:00",
-    "notes": "514 Union St, Brooklyn NY 11215 — borderline Gowanus/Park Slope, ~11 min drive from Industry City via 3rd Ave/Hamilton Ave (Apple Maps). 10 regulation shuffleboard courts + 8 group cabana booths in a 17,000 sq ft space (royalpalmsbrooklyn.com). 21+ every day except 'Family Sundays' (royalpalmsbrooklyn.com). Rotating food trucks instead of in-house kitchen, full cocktail bar. Weekend street parking on Union/Nevins is feasible but plan for 5-10 min hunting; Gowanus has more open curb than Williamsburg. Booking courts in advance via the site is strongly recommended on Sat nights (Yelp reviews).",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 1pm-2am, Sun 1pm-12am",
+    "notes": "514 Union St, Brooklyn NY 11215 — ~2.5 mi / ~10 min drive from Industry City via 3rd Ave. Street parking is the norm; the surrounding Gowanus blocks (Union/Nevins/Bond) are usually findable on weekends, easier than Park Slope. Courts cost $40/hr per court (up to 8 players); reservations strongly recommended Fri-Sat after 7pm (royalpalmsshuffle.com). Rotating food truck schedule is posted weekly under 'Truck' on the site. This venue is the canonical reason Gowanus needs its own zone — calling it 'park-slope' or 'carroll-gardens' obscures that it clusters with Threes Brewing, Powerhouse Arts, and the new Gowanus Mile waterfront.",
     "sources": [
       {
-        "url": "https://www.royalpalmsbrooklyn.com/",
-        "accessed": "2026-05-16T13:35:00Z"
+        "url": "https://www.royalpalmsshuffle.com/",
+        "accessed": "2026-05-17T08:35:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/the-royal-palms-shuffleboard-brooklyn-brooklyn",
-        "accessed": "2026-05-16T13:35:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/nightlife/royal-palms-shuffleboard-club-gowanus/",
-        "accessed": "2026-05-16T13:35:00Z"
-      },
-      {
-        "url": "https://maps.apple.com/place?place-id=I8D2B366153DF37F&address=514+Union+St%2C+Brooklyn%2C+NY+11215",
-        "accessed": "2026-05-16T13:35:00Z"
+        "url": "https://www.royalpalmsshuffle.com/brooklyn",
+        "accessed": "2026-05-17T08:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T13:42:29.748Z"
+    "lastResearchedAt": "2026-05-17T08:43:17.718Z"
   },
   {
     "id": "brooklyn-strategist",
@@ -25717,5 +25704,134 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T08:33:34.683Z"
+  },
+  {
+    "id": "babys-all-right",
+    "name": "Baby's All Right",
+    "desc": "280-cap indie club + restaurant on Broadway near Bedford — emerging-artist bookings and a late-dinner bar.",
+    "longDesc": "A 5,000-sq-ft three-room spot (live room, front lounge, restaurant) inside the old Hygrade Food Products hot-dog plant, open since 2013. The 250-280-cap show room has hosted SZA, Mac DeMarco, Charli XCX, Courtney Barnett, and Billie Eilish on the way up, and weekend programming swings from indie rock to jazz, electronic, and experimental. Kitchen and bar run alongside shows so you can eat without a separate stop.",
+    "url": "https://babysallright.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "17:00-04:00",
+    "notes": "146 Broadway at Bedford Ave, South Williamsburg; 280-cap indie venue + bar + restaurant in former Hygrade hot-dog plant (Wikipedia). Booking leans emerging/discovery — pre-fame stops by SZA, Charli XCX, Billie Eilish (nyctourism.com). Three rooms: Live Room, Front Lounge, Restaurant (babysallright.com). ~18 min drive from IC via BQE; street parking weekends is doable but tighter than Red Hook — leave buffer. Confirm doors/showtime per event on Seetickets calendar.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Baby's_All_Right",
+        "accessed": "2026-05-17T08:35:00Z"
+      },
+      {
+        "url": "https://babysallright.com/",
+        "accessed": "2026-05-17T08:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/babys-all-right-williamsburg/",
+        "accessed": "2026-05-17T08:35:00Z"
+      },
+      {
+        "url": "https://thevendry.com/venue/160383/babys-all-right-brooklyn-ny",
+        "accessed": "2026-05-17T08:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T08:35:31.408Z"
+  },
+  {
+    "id": "gowanus-gardens",
+    "name": "Gowanus Gardens",
+    "desc": "Neighborhood bar with a string-lit rainbow back patio, craft cocktails, and bar-snack kitchen on 4th Ave.",
+    "longDesc": "Opened by three Gowanus locals at 256 4th Ave, Gowanus Gardens pairs a long indoor bar with a spacious, string-light-covered back patio painted in rainbow stripes — heated and partially covered for shoulder-season hangs. The menu leans playful (fried pickles, pulled pork, Spam musubi) alongside craft beer on tap and quirky cocktails like the Anejo-and-eggnog 'Nog's Yer Druncle.' Late kitchen hours (1a Sun–Thu, 2a Fri–Sat) make it a strong post-IC dinner spot for outdoor drinks.",
+    "url": "https://www.gowanusgardensbk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 13:00-03:00, Sun 13:00-02:00",
+    "notes": "Outdoor beer-garden-style patio across 4th Ave from the old Mission Dolores footprint — directly fills the 'outdoor drinks near IC' bucket (Gothamist). 21+ after 8pm; no pets. Weekend metered parking on 4th Ave; side-street parking on Carroll/President. Happy hour Mon–Fri 3–7p (gowanusgardensbk.com).",
+    "sources": [
+      {
+        "url": "https://www.gowanusgardensbk.com/",
+        "accessed": "2026-05-17T08:35:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/great-bar-food-and-cute-backyard-new-gowanus-gardens",
+        "accessed": "2026-05-17T08:35:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/gowanus-gardens/",
+        "accessed": "2026-05-17T08:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gowanus-gardens-brooklyn",
+        "accessed": "2026-05-17T08:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T08:37:31.712Z"
+  },
+  {
+    "id": "seven-bridges-park-slope",
+    "name": "Seven Bridges (Permanently Closed)",
+    "desc": "Closed beer bar in former Mission Dolores space; courtyard now dormant — do not route guests here",
+    "longDesc": "Seven Bridges opened in spring 2023 in the former Mission Dolores space at 249 4th Ave, run by the team behind The Hop Shop on Columbia St, inheriting the converted auto-body footprint and outdoor courtyard with 2pm–4am daily hours (Patch, BKMAG). Multiple aggregators (Yelp, Foursquare, Untappd) now list the venue as permanently closed as of late 2025, and no successor tenant is publicly announced for the address. Keep flagged as unavailable until a new operator surfaces; the courtyard remains a strong candidate spec for any replacement worth re-researching.",
+    "url": "https://www.instagram.com/sevenbridgesbk/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Permanently closed",
+    "notes": "CLOSED — do not surface in itineraries. Seven Bridges (Hop Shop owners) succeeded Mission Dolores ~2023 (Patch, BKMAG 2023-04-26) but is now listed Closed on Yelp/Foursquare/Untappd as of late 2025. Replacement tenant at 249 4th Ave unknown. Re-research trigger: new liquor-license filing or press mention at this address.",
+    "sources": [
+      {
+        "url": "https://patch.com/new-york/parkslope/new-bar-headed-former-mission-dolores-space-park-slope",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2023/04/26/park-slope-finally-gets-a-dedicated-beer-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/seven-bridges-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/seven-bridges/60e8ea8bf2c48d2c9ca18c79",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://untappd.com/v/seven-bridges/10706719",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T08:39:37.345Z"
   }
 ]

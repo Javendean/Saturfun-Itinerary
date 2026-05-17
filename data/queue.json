@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Baby's All Right — 280-cap club + restaurant on Broadway, South Williamsburg",
-    "reason": "Smaller, more discovery-driven booking; gives the corpus a tier-below option for emerging-artist nights and an adjacent late dinner",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:54:07.396Z"
-  },
-  {
-    "topic": "Gowanus Gardens 256 4th Ave Brooklyn outdoor patio bar kitchen",
-    "reason": "Actual outdoor beer-garden-style bar across the street from the old Mission Dolores spot — fills the 'outdoor drinks near IC' bucket the original topic was reaching for",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:57:16.734Z"
-  },
-  {
-    "topic": "Seven Bridges bar Park Slope 249 4th Ave Hop Shop owners opening status",
-    "reason": "Replacement venue in the former Mission Dolores space; if open, it inherits the courtyard and is a direct 10-min-from-IC candidate",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:57:16.734Z"
-  },
-  {
-    "topic": "Threes Brewing Gowanus 333 Douglass St taproom outdoor backyard",
-    "reason": "Established Gowanus craft brewery with backyard space, ~10 min from IC — strong active/chill bucket adjacency to Royal Palms for a two-stop track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:57:16.734Z"
-  },
-  {
-    "topic": "Add 'gowanus' to zone enum in venue schema",
-    "reason": "Royal Palms, Threes Brewing, Gowanus Gardens, and Mission Dolores's replacement all sit in Gowanus proper; current taxonomy forces them into park-slope/carroll-gardens, which loses cluster precision for driving-friendly tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:57:16.734Z"
-  },
-  {
     "topic": "Twenty Sided Store Williamsburg board game shop + play space",
     "reason": "Independent gaming hub with regular open play nights in Williamsburg — fills tabletop slot in a different drivable zone from Industry City",
     "requestedBy": "agent",
@@ -8884,5 +8854,89 @@
     "reason": "Pre-show pierogi alternative if no Warsaw concert that night; locks in the Greenpoint Polish cluster",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T08:33:34.701Z"
+  },
+  {
+    "topic": "Union Pool — Williamsburg dive bar + backyard taco truck + indie booking",
+    "reason": "Adjacent tier-below music spot, pairs with Baby's for a Williamsburg double-header",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:35:31.428Z"
+  },
+  {
+    "topic": "Pete's Candy Store — Williamsburg small-room (under 50 cap) for singer-songwriter discovery nights",
+    "reason": "Even smaller booking tier, fills the 'tiniest show' slot in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:35:31.428Z"
+  },
+  {
+    "topic": "Diamond Lil cocktail bar — Bedford Ave, walk from Baby's All Right",
+    "reason": "Pre/post-show drink within 5-min walk, extends a Williamsburg track without re-parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:35:31.428Z"
+  },
+  {
+    "topic": "Threes Brewing 333 Douglass St Gowanus taproom patio",
+    "reason": "Adjacent outdoor-drinks anchor in Gowanus, 8 min from IC; rotating food pop-ups complement Gardens' bar-snack menu",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:37:31.731Z"
+  },
+  {
+    "topic": "Lavender Lake 383 Carroll St Gowanus canal-side backyard bar",
+    "reason": "Iconic Gowanus backyard bar a few blocks away — pairs naturally with Gardens for an outdoor-drinks Gowanus mini-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:37:31.732Z"
+  },
+  {
+    "topic": "Royal Palms Shuffleboard Club 514 Union St Gowanus",
+    "reason": "Activity venue 5 min from Gardens with indoor/patio drinks and rotating food trucks; expands Gowanus track beyond pure bars",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:37:31.732Z"
+  },
+  {
+    "topic": "Hōp Residency Park Slope — Chef Bun Cheam Khmer menu (Red Hook Tavern alum), opened early 2026",
+    "reason": "Live, courtyard-adjacent Park Slope replacement candidate covered in BKMAG 2026-01-12; 10-15 min drive from IC and dietary/photo-friendly",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:39:37.371Z"
+  },
+  {
+    "topic": "The Hop Shop, Columbia Waterfront — original owners' bar still operating",
+    "reason": "Direct substitute for the closed Seven Bridges concept; ~8 min drive from IC, beer-forward, weekend parking on Columbia St",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:39:37.371Z"
+  },
+  {
+    "topic": "Fourth Avenue Pub, 76 4th Ave Park Slope — operating beer bar with backyard",
+    "reason": "Closest live analog to Mission Dolores/Seven Bridges courtyard format in Park Slope; 12-15 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:39:37.371Z"
+  },
+  {
+    "topic": "Other Half Brewing Carroll Gardens taproom 195 Centre St",
+    "reason": "Adjacent Brooklyn craft brewery anchor for a beer-forward driving track; pairs with Red Hook venues",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:41:29.616Z"
+  },
+  {
+    "topic": "Strong Rope Brewery Red Hook taproom backyard",
+    "reason": "Smaller-scale Red Hook brewery alternative closer to IC, fills out the brewery cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:41:29.616Z"
+  },
+  {
+    "topic": "Ample Hills Creamery Gowanus factory 305 Nevins St",
+    "reason": "Dessert stop within walking distance of Threes — extends a Gowanus track without re-parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:41:29.616Z"
+  },
+  {
+    "topic": "Powerhouse Arts (322 3rd Ave, Gowanus)",
+    "reason": "Adaptive-reuse arts complex opened 2023; gives the Gowanus zone an art/photo anchor distinct from food+drink",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:43:17.736Z"
+  },
+  {
+    "topic": "Lavender Lake (383 Carroll St, Gowanus)",
+    "reason": "All-weather backyard bar on the canal — covers the romantic/chill slot in a Gowanus track and tests the zone's evening density",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:43:17.737Z"
   }
 ]
