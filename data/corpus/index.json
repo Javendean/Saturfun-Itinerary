@@ -837,30 +837,46 @@
   {
     "id": "public-records-gowanus",
     "name": "Public Records",
-    "desc": "Vinyl listening room + Sound Room music venue + plant-based cafe + nursery",
-    "longDesc": "Vinyl listening room + Sound Room music venue + plant-based cafe + nursery; multiple spaces in one campus, Sat 10am-4am",
+    "desc": "Vegan restaurant, vinyl listening lounge, and OJAS-tuned Sound Room inside the old ASPCA HQ.",
+    "longDesc": "A five-room hospitality + music campus in Gowanus built inside the historic ASPCA headquarters: The Atrium restaurant/music lounge, the OJAS-tuned Sound Room club, Cafe Public (vegan day cafe), UPSTAIRS (intimate listening + cocktail bar), and The Nursery garden. The kitchen is fully vegan with Mediterranean–Korean fusion plates (chickpea frittata, motepillo turmeric tofu, oyster mushroom enchilada tacos), and the Sound Room runs a custom Devon Turnbull (OJAS) + Jason Ojeda system with an Isonoe rotary mixer for weekend DJ sets that run until 4am.",
     "url": "https://publicrecords.nyc/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "gowanus",
+    "zone": "park-slope",
     "vibe": [
+      "chill",
       "curious",
-      "social",
-      "weird",
-      "photo"
+      "foodie"
     ],
     "dietary": [
-      "vegan"
+      "vegan",
+      "vegetarian"
     ],
-    "priceBand": "$$",
-    "duration": "1.5-2 hr",
-    "driveFromIC": "7 min drive",
-    "hoursWeekend": null,
-    "notes": "Genuinely unique. The Atrium is daytime-friendly; UPSTAIRS opens evening.",
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Fri 18:00-04:00, Sat 10:00-04:00, Sun 10:00-21:00",
+    "notes": "Address: 233 Butler St, Gowanus (technically Gowanus/Boerum Hill border) — closer to IC than most Williamsburg listening bars. Reserve The Atrium for dinner via Resy; Sound Room shows are ticketed separately via Dice. UPSTAIRS is the more intimate cocktail-and-vinyl room and pairs naturally with [[kissa-kissa]] as a listening-bar bracket. Weekend parking on Butler/Nevins is realistic; metered. Closed Mon/Tue. Entirely vegan kitchen — high-impact dietary fit (publicrecords.nyc; gothamist.com; Wikipedia).",
     "sources": [
       {
-        "url": "C:\\tmp\\saturfun-content-research.md",
-        "accessed": "2026-05-15T22:12:44.369Z"
+        "url": "https://publicrecords.nyc/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Public_Records_(venue)",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/public-records-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/arts-entertainment/photos-inside-gowanuss-experimental-venue-public-records",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/upstairs-at-public-records",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
@@ -870,7 +886,7 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 5 — 3:30 PM Gaming/Active",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-15T22:12:44.382Z"
+    "lastResearchedAt": "2026-05-17T11:37:37.710Z"
   },
   {
     "id": "brooklyn-boulders-gowanus-gowanus",
@@ -12415,44 +12431,48 @@
   },
   {
     "id": "panya-bakery-japan-village",
-    "name": "Panya Bakery (Japan Village)",
-    "desc": "Japanese bakery inside Industry City's Japan Village — shokupan, curry pan, matcha cream puffs",
-    "longDesc": "Tucked into the Japan Village courtyard at Industry City, Panya bakes authentic Japanese breads in-house: pillowy shokupan milk bread, savory curry pan, potato croquette pan, sausage rolls, and matcha pastries. Counter ordering with indoor/outdoor seating, plus matcha, coffee, and weekend brunch. Perfect first stop before exploring the rest of Japan Village or the broader Sunset Park food crawl.",
+    "name": "Panya Bakery at Japan Village",
+    "desc": "Authentic Japanese bakery inside Japan Village — curry pan, shokupan, matcha drinks, kakigori.",
+    "longDesc": "Panya Brooklyn relocated into Industry City's Japan Village Courtyard in 2025, serving freshly baked Japanese breads (curry pan, shokupan, anpan), pastries, custom cakes, loose-leaf yuzu teas, matcha lattes, and kakigori shaved ice. Weekend brunch service is a draw — quick photo-friendly stop tucked into Building 4 alongside the rest of the Japan Village food hall. Order pastries to-go and pair with a coffee for a morning bookend before the rest of the Japan track.",
     "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
     "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3af498e88f485f85087c_Panya%20brunch%20photos.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "photo",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "0 min",
+    "duration": "20-30 min",
+    "driveFromIC": "0 min (on-site, Building 4)",
     "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
-    "notes": "Located at 934 3rd Ave, Brooklyn NY 11232 inside Japan Village courtyard at Industry City (commercialobserver.com 2025-07). Signature items: shokupan, curry pan, matcha cream puffs, potato croquette pan (japanvillage.com). Weekend brunch service Wed-Sun. Walk-up counter, no reservation needed. Use IC parking lots — Panya itself is steps from the courtyard entrance.",
+    "notes": "Inside Industry City Building 4 / Japan Village Courtyard at 934 3rd Ave (entrance also via 220 36th St, Suite 2-A) (japanvillage.com; industrycity.com). Hours listed by Industry City's tenant directory (Wed–Sun 8AM–4PM) differ from Japan Village's operator hours (Sat 11–7, Sun 11–6) — prefer the operator times (japanvillage.com). Specialties: curry pan, shokupan, matcha latte, kakigori, custom cakes (panya@japanvillage.com). Reopened in Industry City in July 2025 after the East Village closure (commercialobserver.com 2025-07).",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
-        "accessed": "2026-05-16T14:00:00Z"
-      },
-      {
-        "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
-        "accessed": "2026-05-16T14:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/panya-bakery/",
-        "accessed": "2026-05-16T14:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/panyabrooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T14:01:28.261Z"
+    "lastResearchedAt": "2026-05-17T11:35:27.674Z"
   },
   {
     "id": "ramen-setagaya-mt-fuji",
@@ -18196,8 +18216,8 @@
   {
     "id": "eavesdrop",
     "name": "Eavesdrop",
-    "desc": "Greenpoint audiophile listening bar with Danley speakers, natural wine, cocktails, and izakaya plates.",
-    "longDesc": "A 1,000 sq ft jazz-kissa-inspired listening bar at 674 Manhattan Ave, Greenpoint, with 36 seats and a custom sound system built around Danley SH60 loudspeakers and Seaton Submersive subs, fed by Technics turntables, Pioneer CDJs, and a MasterSounds Radius rotary mixer. Designed by Danny Taylor of House Under Magic with a diffusion wall and acoustic paneling, it pairs craft cocktails and a globe-spanning natural wine list (Italian pet nats, Spanish whites, Chilean skin contact, Australian reds) with small plates in an intentionally low-volume, conversation-friendly room. Co-founded by Charlie Ballinger, Max Dowaliby, Dan Wissinger and Taylor; reservations via Resy.",
+    "desc": "Greenpoint listening bar with natural wines, craft cocktails, and a diffusion-tuned hi-fi vinyl room.",
+    "longDesc": "A 36-seat audiophile bar at 674 Manhattan Ave channeling 1950s Japanese kissa culture, with acoustic panels, a custom diffusion wall, and a curated turntable program. Weekend DJs spin hip hop, jazz, soul, and deep house, while small plates, craft cocktails, and natural wines round out the room. Weekend doors open at 2pm — an easy late-afternoon stop after an Industry City start.",
     "url": "https://www.eavesdrop.nyc/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -18213,34 +18233,34 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 14:00-02:00, Sun 14:00-01:00",
-    "notes": "Audiophile rig: Danley SH60 + Seaton Submersive subs, MasterSounds Radius rotary mixer (insheepsclothinghifi.com). Room designed by Danny Taylor / House Under Magic with diffusion wall + acoustic panels (archpaper.com). Inspired by Tokyo jazz kissa but tuned for conversation rather than dancing (eavesdrop.nyc). Natural wine list spans Italian pet nats, Spanish whites, Chilean skin contact, Australian reds (insheepsclothinghifi.com). Weekend street parking in Greenpoint is achievable north of the McGuinness corridor; arrive before 6pm Sat for best odds. Resy reservations recommended; only 36 seats.",
+    "hoursWeekend": "14:00-01:00",
+    "notes": "1000 sq ft, 36 seats, diffusion wall + acoustic panels for true listening-bar acoustics (insheepsclothinghifi.com). Mon/Tue features rotating LP picks from The Mixtape Shop and Brooklyn Record Exchange (timeout.com). Natural wine + craft cocktail menu paired with small plates (eavesdrop.nyc). Weekend street parking in north Greenpoint above Greenpoint Ave is workable; allow ~22 min drive from IC via BQE.",
     "sources": [
       {
         "url": "https://www.eavesdrop.nyc/",
-        "accessed": "2026-05-16T20:55:00Z"
-      },
-      {
-        "url": "https://insheepsclothinghifi.com/eavesdrop-nyc/",
-        "accessed": "2026-05-16T20:55:00Z"
-      },
-      {
-        "url": "https://www.archpaper.com/2022/06/brooklyn-eavesdrop-custom-elements-active-listening/",
-        "accessed": "2026-05-16T20:55:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/eavesdrop",
-        "accessed": "2026-05-16T20:55:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://insheepsclothinghifi.com/eavesdrop-nyc/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://thespaces.com/eavesdrop-brooklyn-vinyl-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/eavesdrop-brooklyn",
-        "accessed": "2026-05-16T20:55:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:52:48.141Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T11:39:30.137Z"
   },
   {
     "id": "harts-brooklyn",
@@ -27272,5 +27292,111 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T11:22:44.767Z"
+  },
+  {
+    "id": "the-keep-ridgewood",
+    "name": "The Keep",
+    "desc": "Cabinet-of-curiosities cocktail bar on the Bushwick/Ridgewood border with live jazz",
+    "longDesc": "A dimly lit, antique-festooned drinking room built by Diego and Stephanie Castillo, packed with taxidermy, vintage mirrors, tapestries, armor, weapons, chandeliers and 30 years of curios sourced from Delhi to Peru. Cocktails run $9-$12, well drinks $6, and there's a beer-and-shot special at $5, with small plates like mini-meatballs, kielbasa coins and a vegetarian Mediterranean plate. Live jazz on Wednesdays plus DJs and projection mapping on weekends — it was one of the first bars in the area to program jazz seriously.",
+    "url": "https://www.thekeepny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "curious",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "16:00-04:00",
+    "notes": "Not a Japanese listening bar despite the original research brief — actual concept is antique curio cabinet + cocktails + live jazz, on the Cypress/Starr corner just over the Bushwick/Ridgewood line in Queens (gothamist.com, bushwickdaily.com). Live music Wednesdays from open; weekends feature DJs and projection mapping per the venue (thekeepny.com via we-heart.com). Cocktail prices $9-$12, well drinks $6, beers $6-$7, beer-and-shot $5 (gothamist.com). Open daily 4pm-4am (p2bars.com). Drive from Industry City via BQE/Metropolitan Ave is ~20-25 min off-peak; street parking on Cypress/Starr is generally available evenings. Pairs better with a Bushwick-cluster itinerary (Mood Ring, Birdy's, House of Yes) than with the Kissa Kissa/Japanese-audiophile cluster the original brief assumed.",
+    "sources": [
+      {
+        "url": "https://www.thekeepny.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/inside-the-keep-your-new-source-for-booze-curios-in-ridgewood",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/restaurants/2671-house-of-curiosities-style-cafebar-the-keep-is-opening-at-bushwickridgewood-boarder/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.we-heart.com/2015/01/21/the-keep-bushwick-brooklyn-new-york/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://p2bars.com/bars-near-me/the-keep/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-keep-ridgewood",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:41:58.934Z"
+  },
+  {
+    "id": "nako-matcha-brooklyn-heights",
+    "name": "Nako",
+    "desc": "Sleek Brooklyn Heights cafe with ceremonial-grade matcha soft-serve and balanced matcha lattes",
+    "longDesc": "Nako is a minimal, design-forward coffee + matcha bar tucked on a quiet block between Brooklyn Heights and Brooklyn Bridge Park. Its matcha program — bold lattes, iced shaken matcha, and a signature soft-serve — has made it one of Brooklyn's go-to modern matcha destinations. Substitute pick because the requested 'Matcha Cafe Maiko at Japan Village' does not exist (Maiko has no Brooklyn location; Japan Village's matcha is served by Panya).",
+    "url": "https://nako.coffee/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "IMPORTANT SUBSTITUTION: The originating queue topic 'Matcha Cafe Maiko at Japan Village' is based on an incorrect premise — Matcha Cafe Maiko has no Brooklyn location (closest is 132 Bowery, Manhattan, ~25 min weekend drive from IC) and Japan Village's matcha vendor is Panya Bakery (matchacafe-maiko.com/eng/store). Nako is the strongest IC-adjacent Brooklyn replacement that hits the same 'matcha soft-serve + lattes' brief and pairs cleanly with a Brooklyn Heights / Brooklyn Bridge Park stop after an IC anchor. Located 18 Columbia Pl between Joralemon St and Atlantic Ave; street parking is generally available on weekends in this residential pocket of Brooklyn Heights (nako.coffee, visitbrooklyn.nyc).",
+    "sources": [
+      {
+        "url": "https://nako.coffee/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.matchacafe-maiko.com/eng/store/index.html?country=usa&region=ny&target=ny-ny",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.matcha-spot.com/cities/brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/now-in-bklyn/brooklyns-best-matcha-where-ceremonial-grade-shines",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://joe.coffee/locations/ny/brooklyn/nako-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T11:45:32.158Z"
   }
 ]
