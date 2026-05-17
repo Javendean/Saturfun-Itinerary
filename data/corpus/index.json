@@ -16089,44 +16089,43 @@
   {
     "id": "red-hook-winery",
     "name": "The Red Hook Winery",
-    "desc": "Pier 41 urban winery making single-vineyard NY wines; harbor-view tasting room with flights and snacks.",
-    "longDesc": "Tucked inside a working warehouse on Pier 41, Red Hook Winery vinifies Long Island and Finger Lakes fruit on-site and pours flights, glasses, and bottles in a tasting room overlooking the East River and Statue of Liberty. Weekend visits are reservation-friendly ($20 per guest, 90 minutes, applied as credit toward your bill) and pair well with charcuterie before walking to Sunny's, Hometown BBQ, or the Pier 44 waterfront.",
-    "url": "https://redhookwinery.com/tastingroom",
+    "desc": "Pier 41 urban winery making single-vineyard Long Island wines with Statue of Liberty views from the tasting room",
+    "longDesc": "Tucked into the Liberty Warehouse complex on Pier 41, The Red Hook Winery sources fruit from small Long Island vineyards and ferments each lot separately under three different winemakers — yielding an unusually diverse flight for a single label. Choose the 90-minute À la Carte ($20/person, redeemable toward bottles) or the guided 60-minute Private Tasting of six pours ($45/person, +10% off retail), and add the 30-minute Barrel Room tour returning Summer 2026. Walk-outs lead to a working pier deck with direct Statue of Liberty sightlines.",
+    "url": "https://redhookwinery.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "romantic",
-      "curious"
+      "curious",
+      "romantic"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "Fri-Sat 12:00-20:00, Sun 12:00-18:00",
-    "notes": "Address 175 Van Dyke St, Pier 41, Suite 325A (redhookwinery.com/tastingroom). À la carte reservation $20/guest applied as credit; Private Tasting (6 wines, guided, ~60 min) $45/guest with 10% retail discount; Barrel Room + Winery Tour add-on $30/guest returning Summer 2026 (redhookwinery.com). Free street parking on Van Dyke / Conover is usually findable on weekends; the pier itself has limited gated parking. Flows naturally into Sunny's Bar (Conover St, ~5 min walk) or Hometown BBQ for a Red Hook track anchor.",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-18:00",
+    "notes": "Reservations recommended for Private Tasting and Barrel Tour; À la Carte takes walk-ins on first-come basis (source: redhookwinery.com/tastingroom). Tasting room at Pier 41 Suite 325A; main winery at 185 Van Dyke next to Strong Rope Brewery (source: redhookwinery.com). Closed Tue/Wed. Pier-side seating with Statue of Liberty views. Walkable to Widow Jane Distillery and Botanica Floral within ~5 min — natural Red Hook 'makers' triangle.",
     "sources": [
       {
         "url": "https://redhookwinery.com/tastingroom",
-        "accessed": "2026-05-17T16:35:00Z"
+        "accessed": "2026-05-17T22:45:00Z"
       },
       {
-        "url": "https://redhookwinery.com/faqs",
-        "accessed": "2026-05-17T16:35:00Z"
+        "url": "https://redhookwinery.com/",
+        "accessed": "2026-05-17T22:45:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-red-hook-winery-brooklyn",
-        "accessed": "2026-05-17T16:35:00Z"
+        "accessed": "2026-05-17T22:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T16:33:25.981Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:48:52.016Z"
   },
   {
     "id": "fort-defiance",
@@ -25369,42 +25368,50 @@
   },
   {
     "id": "widow-jane-distillery",
-    "name": "Widow Jane Distillery",
-    "desc": "Red Hook small-batch bourbon distillery with weekend tours and the Botanica cocktail bar on-site.",
-    "longDesc": "Widow Jane has been distilling bourbon and rye in a Red Hook warehouse on Conover Street since 2012, blending mature spirits with Rosendale, NY limestone mineral water. Weekend public tours ($27, capped at 10 guests) walk you through the rickhouse and production floor and end with a flight of the 10 Year Bourbon, Paradigm Rye, and Apple Wood Rye. After the tour, stay for cocktails at Botanica, the on-site bar carved out of the distillery's barrel room.",
+    "name": "Widow Jane Distillery (formerly Cacao Prieto)",
+    "desc": "Red Hook bourbon + rye distillery in the historic Cacao Prieto building — tour, barrel room, tasting flight.",
+    "longDesc": "Housed in the same 218 Conover St brick building that once held Cacao Prieto's bean-to-bar operation, Widow Jane runs ~60-min weekend tours at 1, 3, and 5 PM that walk you through the aging warehouse, cooking and distillation floor, and finish with a flight of the 10 Yr Bourbon, Paradigm Rye, and Apple Wood Rye. Note: the Cacao Prieto chocolate factory and shop are permanently closed as of 2025 — only the distillery half of the original operation still welcomes visitors. Tickets $27, max 10 per group; book ahead since weekend slots fill.",
     "url": "https://widowjane.com/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "curious",
-      "chill",
-      "romantic"
+      "foodie",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "60-75 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "Sat-Sun 14:00-22:00 (tours 13:00/15:00/17:00); Fri 17:00-22:00 (tour 16:00)",
-    "notes": "218 Conover St, Red Hook (widowjane.com/visit). Public tour $27 includes flight of 10yr Bourbon, Paradigm Rye, Apple Wood Rye; max 10 guests, reserve ahead (widowjane.com). Botanica bar opens after tours for cocktails in the rickhouse (widowjane.com). Pairs naturally with Strong Rope Red Hook for an NY-spirits double-header; street parking on Conover/Van Brunt is usually findable on weekends. No subway-walk required since the user drives — F/G is the official transit option (widowjane.com).",
+    "hoursWeekend": "11:00-19:00 (tours Sat/Sun 13:00, 15:00, 17:00)",
+    "notes": "Same Conover St brick building as the original Cacao Prieto bean-to-bar factory; chocolate side is permanently closed per Yelp Sept 2025 and Tripadvisor, distillery half operates as Widow Jane (widowjane.com/visit). $27/person, 10 guest cap (widowjane.com). Tour covers aging warehouse, distillation floor, tasting flight of 10 Yr Bourbon + Paradigm Rye + Apple Wood Rye (widowjane.com). Street parking on Conover/Reed is usually findable on weekends; Red Hook has no subway so driving is the natural mode. Pairs cleanly with Raaka Chocolate (5 min walk) and Hometown BBQ (3 min drive) for a Red Hook foodie+curious afternoon (redhookwaterstories.org).",
     "sources": [
       {
         "url": "https://widowjane.com/visit",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/attractions-tours/widow-jane/",
+        "url": "https://www.yelp.com/biz/cacao-prieto-brooklyn",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.bkreader.com/lifestyle-culture/brooklyn-distillery-toasts-13-years-with-a-spirited-red-hook-celebration-11311103",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60827-d4833180-Reviews-Cacao_Prieto-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/widow-jane-distillery-red-hook-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/widow-jane/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T07:54:07.257Z"
+    "lastResearchedAt": "2026-05-17T22:46:58.864Z"
   },
   {
     "id": "the-springs-brooklyn-closed",
@@ -34387,5 +34394,134 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T22:41:16.003Z"
+  },
+  {
+    "id": "brooklyn-stillhouse-red-hook",
+    "name": "Brooklyn Stillhouse (Brooklyn Gin)",
+    "desc": "Brooklyn Gin's working Red Hook distillery + tasting bar in the former Van Brunt Stillhouse space at 6 Bay St.",
+    "longDesc": "After Van Brunt Stillhouse closed in March 2025 ending a 13-year run, Brooklyn Gin moved its production and public tasting room into the same Red Hook space at 6 Bay Street, now branded 'Brooklyn Stillhouse.' Weekend afternoons bring a working-distillery tasting bar with cocktails built around their hand-prepped, small-batch gin, plus optional small-group Friday tours. Paired with Widow Jane a few blocks away, this gives Red Hook a legitimate two-stop distillery crawl within easy drive of Industry City.",
+    "url": "https://www.brooklyngin.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "curious",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat-Sun 14:00-late (tour Fri 18:00 by reservation)",
+    "notes": "Located at 6 Bay St, Brooklyn 11231 — same address as the now-closed Van Brunt Stillhouse (Van Brunt closed March 2025, Brooklyn Gin took over the lease and tasting room) (redhookwaterstories.org). Brooklyn Stillhouse publishes hours as Thu-Fri open at 4pm, Sat-Sun open at 2pm; small-group tours run Fri 6pm (instagram.com/brooklynstillhouse). Ample weekend street parking in Red Hook industrial blocks (yelp.com). ~12 min drive from Industry City via Van Brunt St. Pairs naturally with Widow Jane (8 min walk apart) for a 'distillery crawl' fallback when one is at capacity. Confirm hours by phone before sending users — successor venue is <1 year old at this address and signage/branding still in transition.",
+    "sources": [
+      {
+        "url": "https://www.redhookwaterstories.org/items/show/857",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/van-brunt-stillhouse-brooklyn-2",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.brooklyngin.com/about/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.instagram.com/brooklynstillhouse/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.lodgeredhook.com/blog/breweries-distilleries/",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T22:43:34.484Z"
+  },
+  {
+    "id": "defontes-sandwich-shop-red-hook",
+    "name": "Defonte's Sandwich Shop",
+    "desc": "Cash-only Red Hook hero counter slinging Nicky Specials and steak pizzaiola since 1922.",
+    "longDesc": "A Brooklyn institution founded by Sicilian immigrant Nick Defonte in 1922, this stand-up Red Hook counter at 379 Columbia St builds outrageously stacked Italian heroes — the Nicky Special (ham, provolone, salami, capicola, fried eggplant, hot salad, mushrooms) and the Steak Pizzaiola with fresh mozzarella are the classics. It's cash only with no real seating, so grab a hero ($10–20) and eat on a Valentino Pier bench. Saturday close is 4 PM sharp and it's shut Sundays, so plan it as a late lunch anchor on a Saturday cluster day.",
+    "url": "https://www.nyctourism.com/restaurants/defontes-sandwich-shop/",
+    "photoUrl": "https://cdn.placejoys.com/5278-oy-photo-1.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "Sat 06:00-16:00; Sun closed",
+    "notes": "Cash only — bring bills (Yelp/Tripadvisor). No seating beyond a stand-up counter; most folks walk the hero down to Louis Valentino Jr Pier for water views. Saturday-only for weekend itineraries since Sunday is closed (placejoys.com). Free street parking on Columbia St is usually findable midday. Order the Nicky Special or Steak Pizzaiola — house specialties since the 1922 opening.",
+    "sources": [
+      {
+        "url": "https://defontes-sandwich-shop.placejoys.com/",
+        "accessed": "2026-05-17T22:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/defontes-brooklyn",
+        "accessed": "2026-05-17T22:45:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/defontes-sandwich-shop/",
+        "accessed": "2026-05-17T22:45:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/neighborhood/red-hook/defontes-sandwich-club",
+        "accessed": "2026-05-17T22:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T22:51:04.485Z"
+  },
+  {
+    "id": "red-hook-lobster-pound",
+    "name": "Red Hook Lobster Pound",
+    "desc": "OG Brooklyn lobster shack on Van Brunt — Maine-style rolls, buttery or mayo, plus full clam-bake boils",
+    "longDesc": "Red Hook Lobster Pound at 284 Van Brunt has been the neighborhood's seafood anchor since 2009, serving Maine-sourced lobster rolls (Connecticut-style warm-butter or Maine-style cold-mayo) alongside whole steamed lobsters, clam chowder, and seafood boils with crab legs, mussels, and shrimp. The dining room is unfussy and casual — picture wooden tables, beer on draft, and the kind of plastic-bib boil setup that makes it a fun second-dinner option in the same Van Brunt strip as Hometown BBQ and Sunny's. Outdoor patio reopens April 2026; indoor seating is open year-round and reservations run through Resy.",
+    "url": "https://www.redhooklobster.com/location/red-hook/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 12:00-22:00 (last seating 21:30), Sun 12:00-21:00 (last seating 20:30)",
+    "notes": "Address: 284 Van Brunt St, Brooklyn, NY 11231 — same 10-min-walk cluster as Hometown BBQ (454 Van Brunt), Sunny's (253 Conover), and Botanica (220 Conover), so it pairs cleanly with bar-hopping after dinner (redhooklobster.com). Drive from Industry City via 3rd Ave → Van Brunt is ~10 min on a weekend; street parking in Red Hook is generally easy after 6pm given the lack of subway access. Reservations on Resy recommended for parties of 4+ on weekend nights. Lobster roll runs ~$36 market price; boils $50-80. Outdoor patio closed until April 2026 per their site (redhooklobster.com/location/red-hook).",
+    "sources": [
+      {
+        "url": "https://www.redhooklobster.com/location/red-hook/",
+        "accessed": "2026-05-17T22:45:00Z"
+      },
+      {
+        "url": "https://www.redhooklobster.com/menus/",
+        "accessed": "2026-05-17T22:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/red-hook-lobster-pound-brooklyn",
+        "accessed": "2026-05-17T22:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T22:52:56.470Z"
   }
 ]
