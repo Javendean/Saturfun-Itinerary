@@ -1,35 +1,5 @@
 [
   {
-    "topic": "The Gutter Lower East Side (77 Essex St) — Manhattan sibling location with pub + arcade",
-    "reason": "Same-brand sister venue useful if user ever expands beyond Brooklyn; lets the corpus compare LES nightlife vs Brooklyn drive-friendly version",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:52:13.606Z"
-  },
-  {
-    "topic": "Frost Pizzeria + Gutter combo — classic old-school Italian slice spot 4 blocks from The Gutter",
-    "reason": "Natural pre-bowling food pairing in same Greenpoint micro-cluster; fills the 'cheap eats before a late activity' slot in a Williamsburg track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:52:13.606Z"
-  },
-  {
-    "topic": "Skinny Dennis honky-tonk bar on Metropolitan Ave Williamsburg",
-    "reason": "Late-night zero-cover live country/blues bar 10 min from The Gutter — complements an 'active then chill' Williamsburg evening arc",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:52:13.606Z"
-  },
-  {
-    "topic": "Brooklyn Steel — 1,800-cap Bowery Presents venue in East Williamsburg",
-    "reason": "Bigger-room sibling for nights when the headliner outgrows MHOW; covers larger touring acts while staying car-friendly with on-site lot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:54:07.396Z"
-  },
-  {
-    "topic": "Warsaw — Polish National Home concert hall + pierogi in Greenpoint",
-    "reason": "Unique food+show combo 10 min north of Wmsbg; rare 'eat then watch in same room' angle that diversifies the night-cap track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T12:54:07.396Z"
-  },
-  {
     "topic": "Baby's All Right — 280-cap club + restaurant on Broadway, South Williamsburg",
     "reason": "Smaller, more discovery-driven booking; gives the corpus a tier-below option for emerging-artist nights and an adjacent late dinner",
     "requestedBy": "agent",
@@ -8836,5 +8806,83 @@
     "reason": "Same delivery radius as Other Half; lets engine build a no-kitchen-brewery + pizza pairing",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T08:22:23.929Z"
+  },
+  {
+    "topic": "The Gutter Williamsburg (200 N 14th St) — original location",
+    "reason": "The actual drive-friendly Brooklyn version that fits the IC radius; corpus needs the primary venue if it doesn't already have it",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:24:10.172Z"
+  },
+  {
+    "topic": "Brooklyn Bowl Williamsburg — bowling + live music venue",
+    "reason": "Bigger, music-forward bowling alternative in Williamsburg cluster; complements The Gutter as a louder option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:24:10.172Z"
+  },
+  {
+    "topic": "Frames Bowling Lounge (Port Authority area)",
+    "reason": "Another Manhattan bowling comp point for the chat corpus to contrast against Brooklyn options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:24:10.173Z"
+  },
+  {
+    "topic": "Paulie Gee's Slice Shop, 110 Franklin St, Greenpoint — old-school NY slice counterpart to the Neapolitan flagship next door",
+    "reason": "Second strong pre-bowling slice option in the Greenpoint cluster; gives the Williamsburg track a north-side alternative when Best Pizza has a line",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:27:40.363Z"
+  },
+  {
+    "topic": "The Gutter, 200 N 14th St, Williamsburg — 8-lane vintage bowling alley + bar; anchor activity for the cheap-eats-then-bowling pairing",
+    "reason": "Currently referenced but not its own corpus entry; needed so the food→activity pairing has a target venue with verified hours and parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:27:40.363Z"
+  },
+  {
+    "topic": "Williamsburg Pizza, 265 Union Ave — modern slice shop with grandma slice that competitors rank with Best Pizza",
+    "reason": "Third Williamsburg slice option to round out the cluster; useful when planning a slice-crawl micro-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:27:40.363Z"
+  },
+  {
+    "topic": "The Gutter Williamsburg bowling alley + bar (200 N 14th St)",
+    "reason": "Direct 'active' half of the active-then-chill arc with Skinny Dennis — 10 min walk apart, both late-night, both zero-pretension",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:29:38.476Z"
+  },
+  {
+    "topic": "Rocka Rolla late-night dive bar Williamsburg (N 6th St)",
+    "reason": "Adjacent honky-tonk-adjacent late-night zero-cover option for nights Skinny Dennis is at capacity; expands corpus of 'chill+curious' Williamsburg endings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:29:38.476Z"
+  },
+  {
+    "topic": "Sunny's Bar Red Hook live bluegrass jam",
+    "reason": "Geographic counterpart in Red Hook (closer to IC, ~10 min drive) with similar live-Americana DNA — strengthens the 'live roots music' tag across two driving-friendly zones",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:29:38.476Z"
+  },
+  {
+    "topic": "Warsaw (Polish National Home) — Greenpoint mid-size music venue with pierogi",
+    "reason": "Another car-friendly Brooklyn rock room of similar tier; lets the corpus offer a Greenpoint alternative when Steel is dark",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:31:36.117Z"
+  },
+  {
+    "topic": "Elsewhere Brooklyn — multi-room Bushwick venue with rooftop",
+    "reason": "Younger/electronic-leaning sibling for indie + DJ nights; fits the same 'outgrew MHOW' bracket but with very different vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:31:36.117Z"
+  },
+  {
+    "topic": "Pre-show dinner near Brooklyn Steel — best 30-min meal within 5 min drive of 319 Frost St",
+    "reason": "Concert nights need a paired food anchor; East Williamsburg / Greenpoint border is under-mapped in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:31:36.117Z"
+  },
+  {
+    "topic": "Karczma Greenpoint — traditional Polish tavern on Manhattan Ave",
+    "reason": "Pre-show pierogi alternative if no Warsaw concert that night; locks in the Greenpoint Polish cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T08:33:34.701Z"
   }
 ]
