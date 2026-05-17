@@ -2595,45 +2595,48 @@
   {
     "id": "hometown-bar-b-que-red-hook",
     "name": "Hometown Bar-B-Que",
-    "desc": "Oak-smoked Texas-style BBQ in a Red Hook warehouse — brisket, lamb-belly banh mi, weekend live music.",
-    "longDesc": "Billy Durney's 2013 Red Hook smokehouse runs traditional oak-fired pits and a counter-service line where briskets, pork ribs, and Korean sticky ribs often sell out by early evening. Two bars pour craft beer, American whiskey, and seasonal cocktails, and live music takes over weekend nights. Five minutes by car from Pioneer Works and a natural anchor for a curious+foodie Red Hook track.",
+    "desc": "Texas-style smoked brisket and ribs in a Red Hook warehouse with weekend live music.",
+    "longDesc": "Pitmaster Billy Durney's flagship Red Hook smokehouse turns out post-oak-smoked brisket, pork spare ribs, lamb belly banh mi, and jalapeño-cheddar sausage from a counter service line that runs until they sell out. The cavernous Van Brunt warehouse seats big groups, pours bourbon and frozen margaritas, and books live country, blues, and bluegrass bands on weekend nights — making it the strongest evening anchor inside the Red Hook cluster before a Sunny's jam.",
     "url": "https://hometownbbq.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
-      "curious",
       "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-21:00 (or until sold out)",
-    "notes": "454 Van Brunt St, Brooklyn NY 11231; counter service, first-come first-served — go before 6pm on weekends to avoid sell-outs of brisket and lamb belly (hometownbbq.com). Free street parking exists but the immediate block crowds up with Brooklyn Crab + Fairway traffic; expect a 2-3 block walk (tripadvisor brooklyn forum). Michelin-recognized; Yelp 4.0★ across ~1,800 reviews. ~2.2 mi / 10-12 min drive from Industry City via Hamilton Ave → Van Brunt.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "12:00-23:00",
+    "notes": "454 Van Brunt St, Brooklyn, NY 11231 (Yelp). Sat/Sun 12pm-11pm; Tue-Thu/Sun 12pm-10pm; closed Mon (WebSearch synthesis). Walk-up counter service, first-come first-served until sellout — arrive before 7pm on Saturdays or expect a wait (hometownbbq.com). Free street parking on Van Brunt/Reed plus the adjacent Fairway/Food Bazaar lot — the entrance is on Reed St overlooking that lot (search synthesis). Weekend live music in the back bar. ~6-8 min drive from Industry City via Van Brunt. Pairs naturally with a Sunny's Bar nightcap (Conover St, 3 min further down Van Brunt).",
     "sources": [
       {
         "url": "https://hometownbbq.com/",
-        "accessed": "2026-05-16T20:35:00Z"
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://hometownbbq.com/menu-rh",
+        "accessed": "2026-05-17"
       },
       {
         "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
-        "accessed": "2026-05-16T20:35:00Z"
+        "accessed": "2026-05-17"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
-        "accessed": "2026-05-16T20:35:00Z"
+        "accessed": "2026-05-17"
       },
       {
-        "url": "https://www.tripadvisor.com/ShowTopic-g60827-i617-k9574504-Parking_at_Hometown_Barbecue-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T20:35:00Z"
+        "url": "https://www.nyctourism.com/restaurants/hometown-bar-b-que-red-hook/",
+        "accessed": "2026-05-17"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:38:54.222Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T16:31:29.579Z"
   },
   {
     "id": "frankies-457-spuntino",
@@ -6790,46 +6793,50 @@
   {
     "id": "brooklyn-crab",
     "name": "Brooklyn Crab",
-    "desc": "Three-story Red Hook seafood shack with crab buckets, raw bar, and harbor views",
-    "longDesc": "Brooklyn Crab is a 2012-vintage Red Hook landmark housed in a three-story former boatyard building at 24 Reed St with sprawling deck seating and unobstructed views over NY Harbor toward the Statue of Liberty. The menu is built around crab buckets (Maine lobster, king, snow, and Dungeness), Maryland crab cakes, peel-and-eat shrimp, and an oyster raw bar. Mini-golf, bocce, and adirondack chairs out back make it a relaxed sunset-dinner anchor that pairs well with an earlier Red Hook walking loop.",
+    "desc": "Tri-level Red Hook seafood shack with crab buckets, raw bar, and harbor-view rooftop deck",
+    "longDesc": "A 2012-vintage three-story seafood shack on a quiet Red Hook side street, four minutes' walk from Steve's Authentic Key Lime Pie and the Valentino Pier waterfront. The top deck has unobstructed Statue of Liberty and harbor sightlines, while the kitchen runs honey/snow/Dungeness crab by the half-pound (~$56), a signature Brooklyn Crab Royale ($105 solo / $185 for two), oysters, and rotating frozen cocktails. Weekend crowds form fast — entire party must be present to be seated, but ground-floor waiting areas and the Below Deck Bar absorb the wait.",
     "url": "https://www.brooklyncrab.com/",
-    "photoUrl": "",
+    "photoUrl": "https://images.getbento.com/accounts/8339228cb324b3ad1f89285c3a2e5c9e/media/images/96457DSC_5906.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
-      "chill",
       "foodie",
+      "chill",
       "photo",
       "romantic"
     ],
     "dietary": [],
-    "priceBand": "$$",
+    "priceBand": "$$$",
     "duration": "90-120 min",
-    "driveFromIC": "8 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
-    "notes": "Address: 24 Reed St, Brooklyn, NY 11231 (brooklyncrab.com). Spring/Summer hours: Sun-Thu 12pm-10pm, Fri-Sat 12pm-11pm (brooklyncrab.com/location). Phone (718) 643-2722. Three-story building with rooftop and outdoor deck; backyard has mini-golf + bocce. Plentiful street parking in Red Hook on weekends; the IKEA and Fairway lots are short walks away. Sunset views over NY Harbor toward Lady Liberty (timeout.com restaurants-in-red-hook).",
+    "notes": "Located at 24 Reed St, Brooklyn, NY 11231 — no parking lot but street parking is generally easy on weekends in Red Hook (brooklyncrab.com/faq). Top-deck harbor views; raw bar and frozen cocktail list are signature draws (timeout.com). Pairs cleanly with the existing Red Hook quick-bite trio (Steve's Key Lime, Hometown BBQ walk-by) when an itinerary needs a real sit-down meal instead of a snack chain.",
     "sources": [
       {
-        "url": "https://www.brooklyncrab.com/location/brooklyn-crab/",
-        "accessed": "2026-05-16T07:15:00Z"
-      },
-      {
         "url": "https://www.brooklyncrab.com/",
-        "accessed": "2026-05-16T07:15:00Z"
+        "accessed": "2026-05-17T16:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/brooklyn-crab-brooklyn",
-        "accessed": "2026-05-16T07:15:00Z"
+        "url": "https://www.brooklyncrab.com/location/brooklyn-crab/",
+        "accessed": "2026-05-17T16:30:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/restaurants/restaurants-in-red-hook-where-to-eat-in-the-brooklyn-neighborhood",
-        "accessed": "2026-05-16T07:15:00Z"
+        "url": "https://www.brooklyncrab.com/faq/",
+        "accessed": "2026-05-17T16:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/brooklyn-crab",
+        "accessed": "2026-05-17T16:30:00Z"
+      },
+      {
+        "url": "https://www.business.nyctourism.com/places/brooklyn-crab-red-hook",
+        "accessed": "2026-05-17T16:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T07:18:08.779Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-17T16:25:12.247Z"
   },
   {
     "id": "rucola-boerum-hill",
@@ -8442,10 +8449,10 @@
   {
     "id": "pioneer-works",
     "name": "Pioneer Works",
-    "desc": "Free Red Hook art center with rotating exhibitions, science talks, and a sprawling sculpture garden.",
-    "longDesc": "Pioneer Works occupies a 25,000 sq ft former ironworks at 159 Pioneer St, hosting contemporary art exhibitions, music performances, and science residencies across cavernous double-height galleries plus an outdoor garden. Open Sat-Sun 12-6 with free admission (donation suggested); a great 45-min stop paired with Valentino Pier (~0.4 mi away) and the Red Hook waterfront. Programming rotates frequently — check the calendar for that weekend's open studios, talks, or live sets.",
+    "desc": "Free artist + scientist-led cultural center in a former Red Hook ironworks — galleries, garden, music",
+    "longDesc": "Nonprofit cultural center occupying a converted 19th-century ironworks at 159 Pioneer St, with three floors of free exhibitions, a sculpture garden, residencies, and a packed calendar of concerts, talks, and science programs. Open to the public Wednesday–Sunday 12–6pm with rotating contemporary art and an on-site cafe. Strong 'curious' anchor that balances Red Hook's food-heavy lineup and pairs cleanly with a Steve's Key Lime walk and a Brooklyn Crab dinner.",
     "url": "https://pioneerworks.org/visit",
-    "photoUrl": "",
+    "photoUrl": "https://images.ctfassets.net/1aemqu6a6t65/6Pdy0C2L43rsHYSBQvSilf/115d3f965fb1278f4e246387fa0ab572/pioneer-works_9_courtesy?w=1200&h=800&q=75",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
@@ -8455,28 +8462,28 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "9 min",
+    "duration": "60-90 min",
+    "driveFromIC": "6 min",
     "hoursWeekend": "12:00-18:00",
-    "notes": "159 Pioneer St, Red Hook — 5 min drive from Valentino Pier and walkable to Red Hook waterfront stops. Admission is free / suggested donation (pioneerworks.org/visit). Street parking is typically available on weekends in Red Hook (no metered zones on most surrounding blocks). Garden + cafe space inside the building. Programming changes weekly; check the live calendar (pioneerworks.org/calendar) before slotting.",
+    "notes": "Free admission; galleries + garden open Wed–Sun 12–6pm (pioneerworks.org/visit). Address 159 Pioneer St, Red Hook (nyctourism.com). Concerts and special events ticketed separately via calendar. Weekend street parking generally open on Conover/Van Dyke; ~8-min walk to Steve's Key Lime, ~5-min drive to Brooklyn Crab. Closed Mon/Tue — confirm calendar before slotting into a track.",
     "sources": [
       {
         "url": "https://pioneerworks.org/visit",
-        "accessed": "2026-05-16T20:45:00Z"
+        "accessed": "2026-05-17T16:30:00Z"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
-        "accessed": "2026-05-16T20:45:00Z"
+        "accessed": "2026-05-17T16:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/pioneer-works-red-hook",
-        "accessed": "2026-05-16T20:45:00Z"
+        "accessed": "2026-05-17T16:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T20:48:35.629Z"
+    "lastResearchedAt": "2026-05-17T16:27:30.478Z"
   },
   {
     "id": "louis-valentino-jr-park-pier",
@@ -16076,8 +16083,8 @@
   {
     "id": "red-hook-winery",
     "name": "The Red Hook Winery",
-    "desc": "Pier 41 urban winery with Long Island-sourced bottles, flights, and a barrel-room view onto NY Harbor.",
-    "longDesc": "Inside a converted Civil War-era warehouse on Pier 41, Red Hook Winery makes small-batch wines from Long Island and Finger Lakes grapes — winemaker-led house style ranging from oxidative orange wines to mineral chardonnays. Walk-in à la carte tastings run $20/guest (applied as credit toward flights, glasses, or bottles), or book a 60-min guided flight of six wines at $45/guest with light snacks. Indoor + outdoor seating right next to Strong Rope Brewery, with harbor views and a working barrel room visible through the tasting bar.",
+    "desc": "Pier 41 urban winery making single-vineyard NY wines; weekend flights right on the harbor.",
+    "longDesc": "Tucked into the same Pier 41 warehouse complex as Steve's Authentic Key Lime Pies, Red Hook Winery vinifies grapes from Long Island and the Finger Lakes inside a working Brooklyn waterfront facility. Walk-in à la carte flights ($20, 90 min) and guided six-wine private tastings ($45, ~60 min) run Friday–Sunday with views of barrels, tanks, and the harbor. A natural 'drinks' anchor that pairs with Steve's, Hometown BBQ, and Brooklyn Crab inside the Red Hook geographic cluster.",
     "url": "https://redhookwinery.com/tastingroom",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -16088,31 +16095,33 @@
       "romantic"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan",
+      "gluten-free"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Fri-Sat 12:00-20:00, Sun 12:00-18:00",
-    "notes": "Address 175 Van Dyke St, Pier 41 Suite 325A — directly next to Strong Rope Brewery, ~5 min walk to Sunny's and ~8 min walk to Botanica, completing the Red Hook drinks triangle (source: redhookwinery.com/tastingroom). À la carte $20/guest = bar credit; guided experience $45/guest covers six wines + snacks; 21+, dog-friendly, walk-ins welcome first-come first-served (source: redhookwinery.com/tastingroom). Barrel-room tours paused but returning Summer 2026 at $30/guest. Free street parking on Van Dyke and Conover is usually findable on weekends; Pier 41 has a small private lot adjacent to Hometown BBQ.",
+    "hoursWeekend": "Fri 12:00-20:00, Sat 12:00-20:00, Sun 12:00-18:00",
+    "notes": "Address: 175 Van Dyke St, Pier 41 Suite 325A, Brooklyn 11231 — same pier as Steve's Key Lime, walkable to Hometown BBQ and Brooklyn Crab (redhookwinery.com/tastingroom). À la carte flight $20 + tax / Private tasting $45 + tax for six wines. Reservations recommended for private, walk-ins fine for à la carte. Pier 41 has free street + lot parking on weekends. Cluster well with a Steve's pie stop and a Valentino Pier sunset walk.",
     "sources": [
       {
         "url": "https://redhookwinery.com/tastingroom",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T16:25:00Z"
       },
       {
         "url": "https://redhookwinery.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T16:25:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/the-red-hook-winery-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://visitbrooklyn.nyc/eatanddrink/red-hook-winery",
+        "accessed": "2026-05-17T16:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T17:57:59.365Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:23:08.582Z"
   },
   {
     "id": "fort-defiance",
@@ -29943,5 +29952,52 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-17T16:21:19.100Z"
+  },
+  {
+    "id": "louis-valentino-jr-pier",
+    "name": "Louis Valentino Jr. Park & Pier",
+    "desc": "Free Red Hook pier with the closest land-based front view of the Statue of Liberty — prime sunset spot.",
+    "longDesc": "A small, breezy waterfront park at Coffey & Ferris that juts into New York Harbor, offering an unobstructed, front-facing view of Lady Liberty along with Governors Island, Lower Manhattan, and Staten Island. Locals rate it among the best places in the city to watch the sun go down, with the golden hour lighting up the statue and skyline. Bring a beer or coffee, sit on the rocks, then walk 4 minutes over to Sunny's Bar for the jam.",
+    "url": "https://www.nycgovparks.org/parks/valentino-pier",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Closest land view of the Statue of Liberty in NYC (Atlas Obscura). Among the best sunset spots in the city (Time Out / NYC Tourism). Park is at Coffey St & Ferris St, Brooklyn 11231; built 1996, became city park 1999, named for FDNY firefighter Louis Valentino Jr. (NYC Parks). Weekend parking: street parking on Coffey/Ferris/Van Brunt is usually findable on Saturdays; paid lots nearby via Way.com if it's busy. Pair with Sunny's Bar (4-min walk) or grab a key lime pie from Steve's around the corner before walking out to the pier.",
+    "sources": [
+      {
+        "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
+        "accessed": "2026-05-17T16:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier",
+        "accessed": "2026-05-17T16:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
+        "accessed": "2026-05-17T16:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
+        "accessed": "2026-05-17T16:30:00Z"
+      },
+      {
+        "url": "https://nycaller.com/red-hook-waterfront-weekend-guide/",
+        "accessed": "2026-05-17T16:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-17T16:29:37.477Z"
   }
 ]
