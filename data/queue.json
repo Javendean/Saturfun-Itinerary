@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sunrise Mart inside Japan Village (Japanese grocery + onigiri counter)",
-    "reason": "Completes the Japan Village mini-track with a curious browse-and-snack beat after bakery",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:01:28.273Z"
-  },
-  {
-    "topic": "Hi Collar coffee/sake bar Brooklyn outpost or nearest analog in IC",
-    "reason": "Adjacent Japanese cafe candidate to deepen the Japan-leaning corpus for the IC anchor cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:01:28.273Z"
-  },
-  {
-    "topic": "Hatakeyama tempura counter at Japan Village Industry City",
-    "reason": "Another standalone Japan Village stall worth its own card so the planner can slot a tempura-focused lunch independent of the ramen anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:03:48.840Z"
-  },
-  {
-    "topic": "Yopparai NYC izakaya at Japan Village Industry City",
-    "reason": "Sit-down izakaya/sake bar inside the same hall — fills the evening/drinks slot adjacent to a Mt. Fuji ramen lunch",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:03:48.840Z"
-  },
-  {
-    "topic": "Ramen Setagaya Williamsburg flagship (280 Bedford Ave) niboshi-shio",
-    "reason": "True niboshi-leaning Setagaya bowl is at the Bedford flagship — a Williamsburg-zone card would let the planner offer the 'real' niboshi shio variant when itinerary already includes a Williamsburg cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T14:03:48.840Z"
-  },
-  {
     "topic": "Sunrise Mart at Japan Village (Japanese grocery anchor)",
     "reason": "Same Building 4 cluster — completes the Japan Village retail trio with Kuraichi + WakuWaku",
     "requestedBy": "agent",
@@ -9874,5 +9844,101 @@
     "reason": "Third pillar of the Brooklyn matcha trio (Nako/Matchaful/Kijitora) referenced by Matcha Spot's 2026 Brooklyn guide; worth a standalone entry to give the chat agent variety when users say 'best matcha in BK'",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T11:45:32.178Z"
+  },
+  {
+    "topic": "Obentoyasan onigiri counter inside Japan Village (Industry City)",
+    "reason": "Standalone bento/onigiri stall — could be its own micro-stop or alt to Sunrise Mart for foodie-leaning track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:47:42.241Z"
+  },
+  {
+    "topic": "Ramen Setagaya at Japan Village (Industry City)",
+    "reason": "Sit-down ramen option to close out the Japan Village mini-track if guests want a hot meal beat",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:47:42.241Z"
+  },
+  {
+    "topic": "Sake's Bar at Japan Village (Industry City)",
+    "reason": "Sake/Japanese drinks counter — completes the Japan Village track with an evening drinks beat",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:47:42.241Z"
+  },
+  {
+    "topic": "Brooklyn Kura taproom Industry City sake brewery",
+    "reason": "NYC's first sake brewery + taproom at IC Courtyard 5/6 — pairs natively with Oldies and seals the Japan-cluster anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:50:12.491Z"
+  },
+  {
+    "topic": "Japan Village food hall vendors Industry City — coffee/kissaten stalls",
+    "reason": "Covers the daytime kissaten/coffee half of the Hi-Collar split that Oldies omits, completing the analog",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:50:12.491Z"
+  },
+  {
+    "topic": "Kotobuki / Japanese kissaten-style cafes Park Slope or Carroll Gardens",
+    "reason": "Daytime siphon-coffee analog inside 15-min drive of IC if Japan Village's coffee depth is thin",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:50:12.491Z"
+  },
+  {
+    "topic": "Yamada stand at Japan Village (Japanese bites)",
+    "reason": "Separate small-bites counter inside Japan Village — gives the planner another standalone IC lunch card distinct from ramen and tempura",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:53:29.311Z"
+  },
+  {
+    "topic": "Hachi okonomiyaki/takoyaki stall at Japan Village",
+    "reason": "Standalone street-food card for okonomiyaki/takoyaki/yakisoba — fills a savory-snack slot the current corpus is missing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:53:29.311Z"
+  },
+  {
+    "topic": "Panya Bakery at Japan Village",
+    "reason": "Japanese bakery + cafe inside the food hall — could anchor a morning/coffee stop pre-IC walkabout",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:53:29.311Z"
+  },
+  {
+    "topic": "Oldies (Japanese drinks bar) at Japan Village Industry City",
+    "reason": "Sister venue to Waku Waku in the same hall — pure drinks/highballs/sake pivot when dinner slot is already filled by ramen at Mt. Fuji",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:56:13.532Z"
+  },
+  {
+    "topic": "Sake's Bar food-hall stall at Japan Village Industry City",
+    "reason": "Casual sake-by-the-glass counter inside the food hall — lower-commitment evening alternative to a full Waku Waku sit-down",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:56:13.532Z"
+  },
+  {
+    "topic": "Sushi Uesugi at Japan Village Industry City",
+    "reason": "Full-service sushi counter inside the same hall — fills the 'special-occasion Japanese dinner' slot if itinerary leans omakase instead of izakaya",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:56:13.532Z"
+  },
+  {
+    "topic": "Yopparai izakaya 49 Clinton St LES",
+    "reason": "Original (correct) Yopparai location — keep as a separate Manhattan candidate only if a future LES-anchored itinerary justifies the bridge",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:56:13.532Z"
+  },
+  {
+    "topic": "Okonomi/Yuji Ramen Williamsburg — niboshi/seafood ramen pop-style counter",
+    "reason": "Direct stylistic peer to Setagaya's niboshi-shio in the same Williamsburg cluster; useful as a same-zone alternative for the planner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:58:41.471Z"
+  },
+  {
+    "topic": "Ramen Lab Eatery vs. Chuko Crown Heights — driving-friendly Brooklyn ramen alternates",
+    "reason": "Expands the 'ramen in non-IC Brooklyn clusters' bench so the planner has 2+ options per zone instead of leaning only on Setagaya",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:58:41.471Z"
+  },
+  {
+    "topic": "Best weekend parking strategy near Bedford Ave (N.5th-N.10th)",
+    "reason": "Williamsburg-cluster venues all share the same parking pain; a single research card on garages/meters would unblock multiple Williamsburg entries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-17T11:58:41.472Z"
   }
 ]
