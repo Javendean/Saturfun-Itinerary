@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Karazishi Botan ramen Smith Street",
-    "reason": "Pan Head pork-miso ramen gives the Smith St track a counter-seat dinner option distinct from Cobble Hill's bistro/tapas defaults",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:33:56.608Z"
-  },
-  {
-    "topic": "Frankies 457 Spuntino, 457 Court St, Carroll Gardens",
-    "reason": "The surviving original — open daily 11a-11p, ~12-15 min drive from IC, weekend street parking on Court St. Strong romantic/foodie anchor for a Carroll Gardens track.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:36:12.482Z"
-  },
-  {
-    "topic": "F&F Pizzeria, 459 Court St, Carroll Gardens",
-    "reason": "Frank Falcinelli's New York-style slice shop next door to Frankies 457 — uses their house olive oil; Fri-Sat 12-10p; pairs naturally with a Carroll Gardens walk-around track.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:36:12.482Z"
-  },
-  {
-    "topic": "Franks Wine Bar, 457 Court St, Carroll Gardens",
-    "reason": "Evening wine bar at the same Frankies address — Fri-Sat 5-11p; rounds out a Carroll Gardens evening sequence (slice → wine → dinner) all within one block.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:36:12.482Z"
-  },
-  {
-    "topic": "Watty & Meg Cobble Hill farm-to-table brunch",
-    "reason": "Direct active replacement for the BC slot — farm-to-table ethos, ~10 min from IC, weekend brunch, Court St corridor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:39:54.834Z"
-  },
-  {
     "topic": "Big Tiny Carroll Gardens brunch (croque monsieur)",
     "reason": "Neighborhood-gem brunch comp in Carroll Gardens, smaller and more chill than BC was — fills the same Brooklyn-side brunch need",
     "requestedBy": "agent",
@@ -17230,5 +17200,95 @@
     "reason": "Bridges Cobble Hill dinner tier toward Red Hook on the IC drive home — another sub-15-min weekend dinner candidate",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T11:53:39.834Z"
+  },
+  {
+    "topic": "Hibino Cobble Hill sushi and obanzai",
+    "reason": "Smith/Henry corridor weekend dinner alt — kyoto-style small plates expand the Cobble Hill track beyond bistro/tapas",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:55:54.406Z"
+  },
+  {
+    "topic": "Popina Carroll Gardens pasta bar",
+    "reason": "Walkable counter-dining sibling to Karazishi for the same track; gives the cluster a pasta-bar contrast to ramen",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:55:54.407Z"
+  },
+  {
+    "topic": "Gersi Carroll Gardens neighborhood Italian",
+    "reason": "Backyard-dining Italian a few blocks from Karazishi — useful as a same-track alternate when ramen isn't the vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:55:54.407Z"
+  },
+  {
+    "topic": "Franks wine bar (Frankies' sister spot, 457 Court adjacent)",
+    "reason": "Natural pre- or post-dinner pairing on the same block — extends Carroll Gardens track without moving the car.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:57:47.829Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens flagship",
+    "reason": "Iconic sandwich counter walkable from Frankies; rounds out a Court St food micro-track for a daytime slot.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:57:47.829Z"
+  },
+  {
+    "topic": "Books Are Magic Smith St",
+    "reason": "Beloved indie bookstore 8-min walk from Frankies — strong romantic/curious pre-dinner stop within the Carroll Gardens cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:57:47.829Z"
+  },
+  {
+    "topic": "Court Street Grocers, 485 Court St, Carroll Gardens",
+    "reason": "Iconic sandwich shop one block south of F&F — fills the savory-lunch slot of the Carroll Gardens cluster and pairs with an after-slice walk.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:00:30.746Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods, 460 Court St, Carroll Gardens",
+    "reason": "Third-generation Italian deli directly across the street from F&F — fresh mozzarella, lard bread, and rice balls extend the Falcinelli-adjacent old-Brooklyn corpus.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:00:30.746Z"
+  },
+  {
+    "topic": "Brooklyn Farmacy & Soda Fountain, 513 Henry St, Carroll Gardens",
+    "reason": "Restored 1920s apothecary serving egg creams and sundaes — photogenic dessert anchor a 4-min walk from F&F, completes a pizza→deli→soda fountain track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:00:30.746Z"
+  },
+  {
+    "topic": "F&F Restaurant and Bar, 465 Court St, Carroll Gardens",
+    "reason": "Direct successor to Frank's Wine Bar in the same room — keeps the 400-bottle wine list, adds wood-fired pies; lets the Court-St evening sequence (F&F Pizzeria slice → F&F Restaurant wine+dinner) live within a single doorway.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:03:22.133Z"
+  },
+  {
+    "topic": "June Wine Bar, 231 Court St, Cobble Hill",
+    "reason": "Actual operating wine bar ~5 min south on Court St; natural fallback when the user wants a dedicated wine room rather than wine-with-dinner inside F&F.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:03:22.133Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino, 457 Court St, Carroll Gardens",
+    "reason": "The flagship trattoria of the same Frank/Falcinelli group, still open at 457 — worth its own entry so the corpus disambiguates 457 (Spuntino) vs 465 (former wine bar / now F&F Restaurant).",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:03:22.133Z"
+  },
+  {
+    "topic": "Local Roots Market and Cafe Court Street brunch",
+    "reason": "Explicit farm-fresh/locally-sourced Court St cafe with Chinese-American spin — orthogonal flavor profile to round out the Cobble Hill brunch corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:07:02.319Z"
+  },
+  {
+    "topic": "Buttermilk Channel Carroll Gardens farm-to-table brunch",
+    "reason": "Long-running Court St-adjacent farm-to-table benchmark; the canonical comp Watty & Meg used to share a tier with",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:07:02.319Z"
+  },
+  {
+    "topic": "French Louie Boerum Hill weekend brunch",
+    "reason": "Same operators' DNA as Buttermilk Channel, French-bistro brunch ~10 min from IC, expands Boerum Hill/Cobble Hill border coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:07:02.319Z"
   }
 ]
