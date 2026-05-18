@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Bubby's Tribeca (120 Hudson St) — American brunch, no-reservation weekend wait",
-    "reason": "Casual counterweight to Locanda Verde; document the 30-60min weekend wait so itinerary planner can route around it",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:22:54.871Z"
-  },
-  {
-    "topic": "Pacificana dim sum, Sunset Park Brooklyn",
-    "reason": "Second cart-service Cantonese option on 8th Ave/55th — useful backup if East Harbor lot is full or for variety in the same 5-min radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:25:01.390Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden, Sunset Park",
-    "reason": "Iconic Yunnanese rice noodle spot ~5 min from IC; expands the Sunset Park food cluster beyond Cantonese for foodie/curious tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:25:01.390Z"
-  },
-  {
-    "topic": "Ho Brah Taqueria, Sunset Park 5th Ave",
-    "reason": "Adds a casual Mexican counterpoint inside the IC cluster — useful when a track wants light/cheap lunch instead of a sit-down dim sum block",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:25:01.390Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace Sunset Park dim sum",
-    "reason": "Direct competitor on 8th Ave — completes the Sunset Park cart dim sum comparison set",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:27:02.741Z"
-  },
-  {
     "topic": "Ba Xuyen banh mi Sunset Park 8th Ave",
     "reason": "Vietnamese counterweight to the dim sum-heavy Sunset Park entries; pre/post dim sum quick bite",
     "requestedBy": "agent",
@@ -17080,5 +17050,77 @@
     "reason": "Higher-end ($$$) counterweight to Odeon in the same 3-block radius; useful for foodie tracks where users will pay for the McNally-lineage upgrade",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T11:21:59.857Z"
+  },
+  {
+    "topic": "Buttermilk Channel (Carroll Gardens) — brunch with fried chicken & cheddar waffles, reservations accepted",
+    "reason": "Brooklyn-side equivalent to Bubby's vibe but bookable; ~10 min from IC, fills the 'casual American brunch counterweight' role without the Manhattan tunnel + wait penalty",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:24:30.885Z"
+  },
+  {
+    "topic": "Clover Hill (Brooklyn Heights) — tasting-menu brunch, reservation-required",
+    "reason": "Upscale alternative if user wants a brunch that books cleanly; tests upper-end Brooklyn brunch corpus and is on the IC→Manhattan driving spine",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:24:30.885Z"
+  },
+  {
+    "topic": "Smith & Mills (Tribeca) — small no-reservation cocktail spot two blocks from Bubby's",
+    "reason": "If planner does accept the Tribeca trip for Bubby's, Smith & Mills is a natural same-block walking add-on; expands Tribeca corpus around the existing anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:24:30.886Z"
+  },
+  {
+    "topic": "World Tong Seafood dim sum 8th Ave Brooklyn",
+    "reason": "Third cart-service Cantonese option in same 8th Ave corridor — rounds out the dim sum cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:26:17.576Z"
+  },
+  {
+    "topic": "Kaiser Tea House Sunset Park bubble tea dessert stop",
+    "reason": "Natural post-dim-sum dessert/drinks walk on 8th Ave, keeps the trip in-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:26:17.576Z"
+  },
+  {
+    "topic": "Lan Zhou Hand Pull Noodle 8th Ave Sunset Park",
+    "reason": "Adjacent regional-Chinese counter (Lanzhou beef noodle soup) on the same 8th Ave Chinatown strip — extends the non-Cantonese foodie cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:28:27.675Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House Sunset Park 8th Ave",
+    "reason": "Dollar-dumpling icon a few blocks from Yun Nan; pairs as a two-stop 'cheap eats crawl' within walking distance, same parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:28:27.675Z"
+  },
+  {
+    "topic": "Ba Xuyen Vietnamese banh mi Sunset Park",
+    "reason": "James Beard-recognized banh mi shop in the same Sunset Park cluster — diversifies the 'curious eats near IC' corpus beyond Chinese",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:28:27.675Z"
+  },
+  {
+    "topic": "Chela y Garnachas Sunset Park",
+    "reason": "Birria + Mexico City street food on 4th Ave Sunset Park, ~6 min from IC — stronger flavors than Ho'Brah's SoCal lean, gives the corpus a regional contrast",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:30:46.802Z"
+  },
+  {
+    "topic": "Pacificana dim sum Sunset Park 55th St",
+    "reason": "Completes the 8th Ave cart dim sum trio alongside East Harbor and World Tong",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:32:50.888Z"
+  },
+  {
+    "topic": "World Tong Seafood dim sum Bensonhurst",
+    "reason": "Same cart-style format, slightly further south — useful as a backup when East Harbor wait is brutal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:32:50.888Z"
+  },
+  {
+    "topic": "Ho Mei Bakery Sunset Park 8th Ave",
+    "reason": "Cheap pre-dim-sum bakery stop within walking distance — completes the morning Sunset Park food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:32:50.888Z"
   }
 ]

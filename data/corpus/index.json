@@ -5429,9 +5429,9 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Hole-in-the-wall Sunset Park counter for guoqiao mixian — Yunnan crossing-bridge rice noodles rarely found in BK",
-    "longDesc": "Run by a couple from Kunming, this no-frills 8th Ave spot specializes in Yunnan-style mixian (rice noodle) bowls and dumplings in hot-and-sour sauce. The signature crossing-bridge noodles arrive as a tray of raw garnishes you drop into screaming-hot broth tableside — a regional Yunnan specialty rarely seen outside Manhattan's Chinatowns. Cash only, mostly takeout but a narrow counter accommodates a sit-down stop.",
-    "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
+    "desc": "Kunming-couple-run Yunnanese rice-noodle counter on 8th Ave — crossing-bridge mixian, cold peanut noodles, cash only.",
+    "longDesc": "A tiny, fluorescent-lit Sunset Park institution run by a husband-and-wife team from Kunming, serving rare-in-NYC Yunnan-province cooking. The signature is crossing-bridge noodles (guòqiáo mĭxiàn) — rice noodles in a fiery oil-slicked broth with raw vegetables and lightly-cooked meats finishing in the bowl — alongside cold mixian with sweet-salty ground pork and crushed peanuts. Cash only, fast turnover, almost no decor; you come for the noodles.",
+    "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5441,28 +5441,36 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "9:00-21:00",
-    "notes": "5121 8th Ave, Brooklyn NY 11220, ~1.5 mi south of IC down 3rd/4th Ave (nyctourism.com). Cash only — bring ~$15-25 pp (yelp.com). Order the guoqiao mixian (crossing-bridge noodles) and cold rice noodles with sweet-salty pork + peanuts; dumplings in hot-and-sour sauce are the secondary hit (notanotherbrooklynblog.com). Street parking on 8th Ave generally available on weekends; the strip is a low-density part of Sunset Park's Chinatown south of the busier 50s blocks. Tiny room — expect counter seating only, ~30 min turnover. Pairs well as the lunch anchor on a Sunset Park grazing track.",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "10:30-22:30",
+    "notes": "Cash only — no cards, no Apple Pay (yelp.com/biz/yun-nan-flavor-garden-brooklyn). 5121 8th Ave at ~52nd St, ~1.7 mi from IC up 3rd/4th Ave (nyctourism.com). Street parking on 8th Ave or side streets is usually easy on weekends. Order the crossing-bridge noodles and a cold mixian to share; portions are large and prices are sub-$15 (stuyspec.com). No alcohol, no reservations, narrow counter seating — best as a quick stop, not a sit-down meal. Anchors a Sunset Park food cluster that pairs well with bakeries on 8th Ave and Industry City for an afternoon foodie/curious track.",
     "sources": [
       {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-17T15:40:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-17T15:40:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://notanotherbrooklynblog.com/2015/03/10/eating-8th-avenue-yun-nan-flavour-garden/",
-        "accessed": "2026-05-17T15:40:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d5075334-Reviews-Yun_Nan_Flavor_Garden-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T15:41:19.016Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:28:27.647Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -5510,8 +5518,8 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Largest Sunset Park dim sum hall with rolling weekend carts — big-group anchor on the 8th Ave corridor",
-    "longDesc": "Cavernous gold-accented Cantonese banquet hall (迎賓大酒樓) at 65th & 7th, famous for old-school weekend cart dim sum — har gow, shu mai, chicken feet, crispy taro balls, egg tarts pulled straight from steaming carts that roll through the dining room. Seats hundreds, which makes it the go-to overflow anchor when Pacificana's lobby is packed, and the kitchen also fires whole-fish Cantonese banquet dishes at night. Cash-friendly, impossibly cheap, and loud in the best way.",
+    "desc": "Cavernous Sunset Park banquet hall with traditional push-cart dim sum and Cantonese seafood.",
+    "longDesc": "Michelin-recognized Cantonese palace on the Sunset Park / Dyker Heights border where steaming carts of har gow, siu mai, cheung fun and roast meats roll through a gold-accented dining room. Dim sum is served daily 9am-3pm; weekends draw long lines so arrive before 9:30am for a walk-in table. Also serves full seafood dinners — live tanks, salt-and-pepper crab, lobster noodles — making it a strong direct competitor to nearby Pacificana on 55th St.",
     "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5525,31 +5533,31 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "09:00-23:00",
-    "notes": "Weekend cart service is the draw — arrive before 11am Sat/Sun to avoid 45-60 min waits (theinfatuation.com). Large dining room with space between tables makes it good for 6-10 person groups when Pacificana's wait runs long (yelp.com). Cash preferred. Street parking around 65th/7th Ave is tight on weekend mornings; reviewers note parking can be tough though restaurant claims free lot availability (yelp.com, official site). Phone: (718) 765-0098. Same 8th Ave Sunset Park corridor as Pacificana — natural Plan B anchor for the dim sum track.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "714 65th St between 7th & 8th Ave, Brooklyn NY 11220 (Yelp). Cart-style service — flag down what looks good rather than ordering off a menu (Cinnamon Society). Weekends 'pack in' with an announcer shouting reservation numbers; arriving before 9:30am avoids the worst of the wait (search results). Street parking on 65th/7th Ave is tight on weekends — Industry City lot + 8-min drive is a reliable fallback. Michelin Guide listed (guide.michelin.com).",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-17T23:55:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/east-harbor-seafood-palace",
-        "accessed": "2026-05-17T23:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-17T23:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
-        "accessed": "2026-05-17T23:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/east-harbor-seafood-palace-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T23:56:44.371Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:32:50.848Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -16414,8 +16422,8 @@
   {
     "id": "pacificana-dim-sum",
     "name": "Pacificana",
-    "desc": "Cantonese cart-service dim sum palace in Sunset Park's 8th Ave Chinatown, weekend XLB highlight",
-    "longDesc": "Spacious banquet-hall-style dim sum room at 813 55th St where steamer carts circle the floor on weekends, ticking off har gow, siu mai, turnip cake and the standout xiao long bao with rich, refined soup (Eat This NY, The Chinese Quest). The 8th Ave Sunset Park location sits ~1.5 mi from Industry City — a 7-10 min drive — and the high arched ceiling keeps the room calmer than the Manhattan Chinatown crush, even when packed. Expect a wait at peak weekend brunch but the rotation moves quickly.",
+    "desc": "Sunset Park cart-service Cantonese dim sum with weekend basement parking 5 min from IC",
+    "longDesc": "Classic 8th Avenue dim sum hall in Brooklyn's largest Chinatown, with traditional cart service running 8am–3:30pm on weekends — har gow, shu mai, turnip cakes, chicken feet, and Hong Kong-style seafood. Cheap paid basement garage in the building itself ($4 spaces if you grab one) plus free Sunday street parking, making it the easiest dim sum lot near Industry City. Come before 11am or after 2:30pm to dodge the weekend rush.",
     "url": "http://pacificanabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -16424,19 +16432,17 @@
       "foodie",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "08:00-15:30 dim sum cart, dinner until 23:00",
-    "notes": "Cart service runs weekend mornings starting 8:00 — earlier arrival = more variety on the carts and shorter wait (Bklyner). Order XLB off the kitchen menu rather than the cart so they arrive hot; Eat This NY called the soup 'refined and rich' vs Manhattan competitors. Signage may read 'Pacific Palace' on Yelp listings — same address, same room, ongoing rebrand confusion. Street parking on 55th/8th Ave is doable on weekends; lot parking at 8th Ave/60th St if blocks are full. Pairs naturally with an IC afternoon — brunch dumplings, then drive back to Japan Village or a Sunset Park rooftop walk.",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "08:00-15:30 (dim sum), 09:00-23:00 (dinner)",
+    "notes": "813 55th St at 8th Ave, Sunset Park; cart service weekends 8am-3:30pm (pacificanabrooklyn.com). Paid basement garage inside the building — enter via 54th → 9th Ave → 55th St; tiny but $4 (bklyner.com). Free Sunday street parking blocks away (brokelyn.com). Good backup if East Harbor lot is full or you want variety on the same trip — different cart selection, more seafood-leaning Hong Kong style.",
     "sources": [
       {
         "url": "http://pacificanabrooklyn.com/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://eatthisny.com/2016/05/10/dumplings/dumpling-review-pacificana/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -16444,18 +16450,18 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/pacificana-sunset-park/",
+        "url": "https://brokelyn.com/sunset-park-dim-sum/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/pacific-palace-brooklyn-3",
+        "url": "https://www.nyctourism.com/restaurants/pacificana-sunset-park/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T10:49:07.948Z"
+    "lastResearchedAt": "2026-05-18T11:26:17.543Z"
   },
   {
     "id": "frankels-delicatessen-greenpoint",
@@ -22954,10 +22960,10 @@
   {
     "id": "ho-brah-taco-joint-bay-ridge",
     "name": "Ho'Brah: A Taco Joint (Bay Ridge)",
-    "desc": "Surf-shack SoCal taco joint with daily specials and a deep margarita list, ~12 min south of IC.",
-    "longDesc": "Ho'Brah is the closest Ho'Brah outpost to Industry City — a casual Southern California–style taqueria slinging crispy fish tacos, al pastor, and rotating daily specials alongside a serious cocktail and margarita program. It's a strong late-night back-half pick after a Sunset Park overlook: kitchen runs until 11pm Fri/Sat, with a chill surf-shop vibe and walk-ins welcome. Note this is the Bay Ridge location at 86th & 3rd — it's a quick drive from Sunset Park proper rather than walkable to the park itself.",
+    "desc": "Surfy Southern-California taco shop on 3rd Ave — quick, cheap, margarita-friendly counterpoint to a heavier IC sit-down.",
+    "longDesc": "Ho'Brah is a Bay Ridge taco joint with a Baja/SoCal lean — fish tacos, carne asada burritos, daily specials, and a long margarita list (hobrahtacos.com). The Mexicali Brunch on Saturdays 11:30am-3:30pm gives a casual late-morning anchor when the rest of the IC cluster wants something light and fast instead of a full dim sum block. Note: the venue is on 3rd Ave in Bay Ridge, not 5th Ave Sunset Park as originally requested — corrected against the official site (hobrahtacos.com/bay-ridge).",
     "url": "https://www.hobrahtacos.com/bay-ridge",
-    "photoUrl": "https://static.wixstatic.com/media/5f942a_2369ae1ef3254c67aaac8ba260c5679f~mv2.jpeg",
+    "photoUrl": "https://static.wixstatic.com/media/5f942a_9f6901255e64490aa9c1bd76ed787f94~mv2.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
@@ -22968,28 +22974,28 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-75 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 12:30-23:00, Sun 12:30-22:00",
-    "notes": "Address 8618 3rd Ave, Brooklyn NY 11209 — Bay Ridge, ~12 min drive south of Industry City along 3rd Ave (hobrahtacos.com). Kitchen until 11pm Fri-Sat, 10pm Sun (hobrahtacos.com/bay-ridge). Bottomless Mexicali brunch on weekend mornings if used as a front-half stop instead. Phone 718-680-8226. Street parking on 3rd Ave is workable on weekend evenings. Caveat: not literally walkable to Sunset Park (the park) — that sits ~2.5 mi north at 7th Ave & 41st St; treat this as the south-Brooklyn taco anchor rather than a post-park walk.",
+    "duration": "45-60 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 11:30-23:00, Sun 11:30-22:00",
+    "notes": "8618 3rd Ave, Brooklyn NY 11209 (Bay Ridge, ~50 blocks south of IC via 4th Ave / Gowanus Expy). Mexicali Bottomless Brunch Sat/Sun 11:30-15:30 (hobrahtacos.com/bay-ridge). Phone 718-680-8226. Street parking on 3rd Ave is workable on weekend afternoons. Pairs well as a lunch swap-in when an IC track wants tacos+margs instead of a heavier sit-down. Original task referenced 'Sunset Park 5th Ave' — that location doesn't exist; Bay Ridge 3rd Ave is the canonical Brooklyn outpost per official site.",
     "sources": [
       {
         "url": "https://www.hobrahtacos.com/bay-ridge",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.hobrahtacos.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T11:25:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/ho-brah-a-taco-joint-brooklyn-4",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T11:25:00Z"
+      },
+      {
+        "url": "https://www.hobrahtacos.com/mexicali-brunch",
+        "accessed": "2026-05-18T11:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T03:42:37.247Z"
+    "lastResearchedAt": "2026-05-18T11:30:46.760Z"
   },
   {
     "id": "american-veterans-memorial-pier",
@@ -41585,5 +41591,53 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T11:21:59.825Z"
+  },
+  {
+    "id": "bubbys-tribeca",
+    "name": "Bubby's Tribeca",
+    "desc": "Tribeca American brunch institution — pancakes, fried chicken biscuit, walk-in-only on weekends.",
+    "longDesc": "Bubby's has anchored the corner of Hudson and N Moore since 1990 and runs a sour-cream James Beard pancake stack, sourdough flapjacks (chocolate chip, fried chicken, nutella), huevos rancheros, and a fried-chicken biscuit as the signature lineup. Weekend brunch is walk-in only — no reservations, no call-ahead waitlist — and lines typically run 30-45 min, stretching to ~60 min at peak (10:30am-12:30pm). Going late (closer to 2pm Saturday) shortens the wait but the kitchen flips off brunch at 4pm.",
+    "url": "https://www.bubbys.com/location/tribeca/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "08:00-22:00 (brunch service 08:00-16:00)",
+    "notes": "Actually Manhattan/Tribeca at 120 Hudson St (between Franklin & N Moore) — zone tagged dumbo only for cross-river routing adjacency; planner should treat as Manhattan-side trip via Hugh L. Carey Tunnel or Brooklyn Bridge from IC (Sources: bubbys.com/location/tribeca; bubbys.com/reservations-plus-waitlist). Weekend brunch is walk-in only — 'they don't accept reservations during weekend brunch... about an hour wait on the weekends, though wait times vary greatly' (bubbys.com). Yelp/blog corroborate 30-45 min typical (newyorkertips.com; prettyinpistachio.com). Pancakes $24 traditional / $27 James Beard with caramelized banana & walnuts (bubbys.com/menu/daytime). Counterweight to Locanda Verde — if pairing the two in one itinerary, do Bubby's first (no reservation flex) then Locanda Verde for booked dinner. Driving in: street parking on Hudson/Greenwich is rough on weekends; closest paid garages are on Laight & Greenwich (~$25-40). Vegetarian-friendly menu; not strong on vegan/halal.",
+    "sources": [
+      {
+        "url": "https://www.bubbys.com/location/tribeca/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.bubbys.com/reservations-plus-waitlist/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.bubbys.com/menu/daytime/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bubbys-tribeca-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.newyorkertips.com/tribeca-brunch/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:24:30.841Z"
   }
 ]
