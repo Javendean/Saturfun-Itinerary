@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Mariscos El Submarino (Jackson Heights) — Michelin Bib Mexican seafood",
-    "reason": "Queens MG ethnic standout within the broader LIC/Astoria drive cluster; cross-pollinates with Casa Enrique's Mexican lane without duplicating it",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:56:23.621Z"
-  },
-  {
-    "topic": "Penthouse 808 rooftop at Ravel Hotel LIC",
-    "reason": "Actual rooftop ~1 mi (5-min drive / 15-min walk) from Casa Enrique with unobstructed Midtown skyline and East River views — the venue Sek'end Sun was mistakenly assumed to be",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:59:17.832Z"
-  },
-  {
-    "topic": "The Baroness Bar Hunters Point LIC",
-    "reason": "Walkable cocktail bar within ~5 min of Casa Enrique on Vernon Blvd, fits the 'post-dinner drinks near Casa Enrique' slot the original brief targeted",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:59:17.832Z"
-  },
-  {
-    "topic": "LIC Landing at Gantry Plaza State Park",
-    "reason": "Waterfront drinks with direct Manhattan-skyline view, 4-min walk from Casa Enrique — strongest pure-view option for the LIC dinner-track evening cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:59:17.832Z"
-  },
-  {
-    "topic": "Casa Enrique Long Island City",
-    "reason": "Michelin-starred Mexican 8 min from MoMA PS1 — completes the museum→dinner track explicitly named in the research brief",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:01:41.541Z"
-  },
-  {
     "topic": "The Noguchi Museum Long Island City",
     "reason": "Second LIC museum (Isamu Noguchi's sculpture garden) — pairs with PS1 to build a credible 'two-museum LIC day' justifying the cross-borough drive",
     "requestedBy": "agent",
@@ -14104,5 +14074,95 @@
     "reason": "Broader scan to identify Brooklyn Bib Gourmand venues that fit corpus's drive-radius constraint better than Jackson Heights",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T01:06:44.438Z"
+  },
+  {
+    "topic": "Birria-Landia Roosevelt Ave taco truck (Jackson Heights)",
+    "reason": "Pairs with Submarino as the second leg of a Queens Mexican mini-crawl; truck-style birria de res, completely different format from sit-down mariscos",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:09:19.290Z"
+  },
+  {
+    "topic": "Lhasa Fast Food (Jackson Heights Tibetan momos)",
+    "reason": "Same drive corridor, totally different cuisine — turns a one-stop Queens detour into a viable multi-stop track and broadens the corpus beyond Mexican",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:09:19.290Z"
+  },
+  {
+    "topic": "Tacos El Bronco (Sunset Park)",
+    "reason": "Brooklyn-side Mexican counterweight 5 min from IC — gives the planner a near-anchor Mexican option for tracks that can't justify the Queens drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:09:19.290Z"
+  },
+  {
+    "topic": "Sek'end Sun LIC — verify whether it has any rooftop/skyline-view component or is purely ground-floor",
+    "reason": "resolves the original misattribution so corpus has accurate entries for both venues",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:11:33.638Z"
+  },
+  {
+    "topic": "Casa Enrique LIC — Michelin-starred Mexican near Ravel, drivable from IC",
+    "reason": "natural dinner pairing 5 min from Penthouse 808; user already referenced it in this task",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:11:33.639Z"
+  },
+  {
+    "topic": "Westlight rooftop at The William Vale, Williamsburg — 22nd-floor skyline bar with valet",
+    "reason": "drivable comparison rooftop in Brooklyn proper if user wants a non-Queens alternative with similar Midtown view",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:11:33.639Z"
+  },
+  {
+    "topic": "Dutch Kills cocktail bar Long Island City speakeasy",
+    "reason": "Award-winning craft cocktail bar ~8 min drive from Casa Enrique; stronger 'destination cocktails' alternative if user wants serious mixology over wine/burgers vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:13:28.421Z"
+  },
+  {
+    "topic": "Domaine Wine Bar Vernon Blvd LIC",
+    "reason": "Same Vernon Blvd corridor as Baroness/Casa Enrique — natural-wine option for the post-dinner slot, expands LIC walkable-drinks cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:13:28.421Z"
+  },
+  {
+    "topic": "LIC Landing Anable Basin waterfront drinks",
+    "reason": "Outdoor East River waterfront bar with Manhattan skyline view — adds a photo/romantic alternative to the indoor Baroness pick for the same drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:13:28.421Z"
+  },
+  {
+    "topic": "Anable Basin Sailing Bar & Grill LIC",
+    "reason": "Closest actual waterfront drinks venue with bar service — sits two blocks north of Gantry on the same East River shoreline; backup if user wants a glass in hand",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:15:25.232Z"
+  },
+  {
+    "topic": "Sound on the Sound LIC waterfront cocktail bar",
+    "reason": "Newer LIC waterfront cocktail-and-oyster spot with skyline patio; upgrades the Gantry walk into a sit-down drink with the same view",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:15:25.232Z"
+  },
+  {
+    "topic": "Hunter's Point South Park LIC",
+    "reason": "Adjacent 11-acre waterfront park extending south from Gantry; longer pier walk and more open lawn, useful as an overflow option for the dinner-track evening cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:15:25.232Z"
+  },
+  {
+    "topic": "M. Wells Steakhouse Long Island City",
+    "reason": "Quebecois-meets-Queens steakhouse 5 min from Casa Enrique — alt dinner anchor for the MoMA PS1 track if Casa Enrique is booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:17:31.730Z"
+  },
+  {
+    "topic": "Adda Indian Canteen LIC",
+    "reason": "James Beard-recognized regional Indian in LIC — diversifies the LIC dinner cluster beyond Mexican",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:17:31.730Z"
+  },
+  {
+    "topic": "The Baroness Bar LIC mezcal",
+    "reason": "Late-night mezcal/cocktail bar walking distance from Casa Enrique — extends the museum→dinner track into a nightcap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:17:31.730Z"
   }
 ]
