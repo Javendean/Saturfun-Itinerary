@@ -1,35 +1,5 @@
 [
   {
-    "topic": "The Drawing Center 35 Wooster St SoHo",
-    "reason": "Same block as Hauser & Wirth — works-on-paper museum, perfect second stop on a Wooster St walk, and directly relevant to the manga-panel/drawing-challenge sub-feature",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:17:11.617Z"
-  },
-  {
-    "topic": "Manuela restaurant Hauser & Wirth Wooster Street",
-    "reason": "Hauser & Wirth's first NYC restaurant is co-located with the gallery — completes a single-stop art+meal anchor for SoHo itineraries",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:17:11.617Z"
-  },
-  {
-    "topic": "Dover Street Market New York Lexington Ave",
-    "reason": "Adjacent SoHo-adjacent retail-as-art destination; pairs with Wooster St gallery loop for a curious/photo afternoon",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:17:11.617Z"
-  },
-  {
-    "topic": "Frenchette Tribeca (241 W Broadway) — Riad Nasr + Lee Hanson Parisian bistro, James Beard winner",
-    "reason": "Strongest alternate Tribeca anchor; same drive-from-IC profile; covers French/wine-forward axis Locanda doesn't",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:22:54.871Z"
-  },
-  {
-    "topic": "The Odeon (145 W Broadway) — iconic 1980 Tribeca brasserie, all-day menu",
-    "reason": "Lower price band ($$) Tribeca classic for budget-conscious itineraries; Keith McNally history is a draw",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:22:54.871Z"
-  },
-  {
     "topic": "Bubby's Tribeca (120 Hudson St) — American brunch, no-reservation weekend wait",
     "reason": "Casual counterweight to Locanda Verde; document the 30-60min weekend wait so itinerary planner can route around it",
     "requestedBy": "agent",
@@ -17020,5 +16990,95 @@
     "reason": "Adds curated cultural depth to the Chinatown bundle; 8-min walk from Mahayana, free Thursdays",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T11:10:29.688Z"
+  },
+  {
+    "topic": "Hauser & Wirth 22nd Street vs Wooster Street locations",
+    "reason": "Confirms the Wooster St walking-pair anchor referenced in this entry's longDesc",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:12:40.292Z"
+  },
+  {
+    "topic": "Printed Matter 231 Eleventh Ave artist books store",
+    "reason": "Artist-book/zine destination that complements drawing-museum loop and feeds manga-panel reference corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:12:40.292Z"
+  },
+  {
+    "topic": "Center for Book Arts 28 W 27th St",
+    "reason": "Works-on-paper adjacent nonprofit — extends the SoHo/Chelsea drawing-and-paper itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:12:40.292Z"
+  },
+  {
+    "topic": "Hauser & Wirth Wooster Street gallery SoHo NYC current exhibition",
+    "reason": "Pairs directly with Manuela as the gallery half of the single-stop art+meal SoHo anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:15:19.398Z"
+  },
+  {
+    "topic": "Roman and Williams Guild SoHo cafe La Mercerie",
+    "reason": "Adjacent SoHo design+cafe stop for the same Manhattan-exception itinerary block — extends the art/design SoHo cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:15:19.398Z"
+  },
+  {
+    "topic": "McNally Jackson Books Prince Street SoHo",
+    "reason": "Walkable browsing anchor 2 blocks from Manuela; completes a low-key 3-hour SoHo loop without moving the car",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:15:19.398Z"
+  },
+  {
+    "topic": "Rose Bakery at Dover Street Market NYC",
+    "reason": "Vegetarian café tucked inside DSMNY's top floor — natural pairing for a longer curious-vibe afternoon and adds a $$ lunch option to the Manhattan loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:17:18.987Z"
+  },
+  {
+    "topic": "Wooster Street SoHo gallery walk (Deitch, Lehmann Maupin, The Drawing Center)",
+    "reason": "Direct thematic pairing referenced in the DSMNY task rationale — anchors a Manhattan curious/photo half-day for the same driving trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:17:18.987Z"
+  },
+  {
+    "topic": "KITH Soho flagship Lafayette St",
+    "reason": "Adjacent retail-as-experience destination in SoHo, similar curious/photo vibe, completes a 3-stop Manhattan crossing from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:17:18.987Z"
+  },
+  {
+    "topic": "Le Rock (Rockefeller Center) — Nasr/Hanson follow-up brasserie",
+    "reason": "Same chef duo, different neighborhood anchor; useful as a Midtown alternate if Frenchette is fully booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:19:25.453Z"
+  },
+  {
+    "topic": "Frenchette Bakery (Tribeca, Hudson St) — morning pastry counter",
+    "reason": "Sister concept; pairs as a pre-drive coffee/pastry stop before a Tribeca anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:19:25.453Z"
+  },
+  {
+    "topic": "King (Hudson Square) — French-Italian Mediterranean bistro by Jess Shadbolt & Clare de Boer",
+    "reason": "Closest Manhattan peer to Frenchette on the female-led, ingredient-driven, wine-forward axis",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:19:25.453Z"
+  },
+  {
+    "topic": "Bubby's Tribeca (120 Hudson St) — all-day American comfort, pies, brunch institution",
+    "reason": "Same Tribeca walkability as Odeon, $$ price band, weekend brunch anchor that pairs with a Dumbo-then-Manhattan track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:21:59.857Z"
+  },
+  {
+    "topic": "Walker's Restaurant (16 N Moore St) — 1890s Tribeca tavern, burgers and beer",
+    "reason": "Even cheaper ($–$$) historic Tribeca alternative; expands the budget-Manhattan-exception pool with a totally different vibe (pub, not brasserie)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:21:59.857Z"
+  },
+  {
+    "topic": "Frenchette (241 W Broadway) — modern Tribeca French bistro from Balthazar alumni",
+    "reason": "Higher-end ($$$) counterweight to Odeon in the same 3-block radius; useful for foodie tracks where users will pay for the McNally-lineage upgrade",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:21:59.857Z"
   }
 ]
