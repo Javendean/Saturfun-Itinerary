@@ -3021,9 +3021,9 @@
   {
     "id": "brooklyn-museum",
     "name": "Brooklyn Museum",
-    "desc": "Encyclopedic museum with Egyptian galleries, Judy Chicago's Dinner Party, and free First Saturdays programming.",
-    "longDesc": "NYC's second-largest art museum, anchoring Prospect Heights at the edge of Prospect Park. Permanent collection spans ancient Egyptian artifacts, American art, and the landmark Elizabeth A. Sackler Center for Feminist Art (home of Judy Chicago's The Dinner Party). First Saturdays (free 5-11pm on the first Saturday of each month) draw crowds for live music, talks, films, and pop-up art-making.",
-    "url": "https://www.brooklynmuseum.org/",
+    "desc": "Encyclopedic art museum on Eastern Parkway with Iris van Herpen couture retrospective opening May 16, 2026",
+    "longDesc": "Brooklyn's flagship art museum sits at the corner of Eastern Parkway and Washington Avenue, two blocks from BBG and the Lefferts/Crown Heights cluster. The headline show right now is 'Iris van Herpen: Sculpting the Senses' (opens May 16, 2026) — the Dutch designer's North American debut with 140+ couture pieces alongside fossils, sound installations, and immersive video. Also on view: 'Christian Marclay: Doors' (through April 12), 'Everyday Rebellions: Collection Conversations' (through July 5), and the permanent Brooklyn Books of the Dead Egyptian galleries.",
+    "url": "https://www.brooklynmuseum.org/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
@@ -3032,29 +3032,34 @@
       "chill",
       "photo"
     ],
-    "dietary": [
-      "vegetarian",
-      "vegan"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "2-3 hr",
-    "driveFromIC": "17 min",
-    "hoursWeekend": "Sat 11:00-18:00 (First Sat until 23:00)",
-    "notes": "Pay-what-you-wish for NY residents in person; suggested adult admission ~$20 (source: brooklynmuseum.org/visit). On-site parking lot at 200 Eastern Pkwy charges a flat weekend rate, refunded with museum admission. First Saturdays are the move - free 5-11pm with live DJ sets, gallery talks, and feature programming tied to current exhibitions (source: brooklynmuseum.org/programs/first_saturdays). Topic framed 'Manhattan' but Brooklyn Museum chosen because it satisfies the museum/viewpoint Saturday-day-trip brief while staying inside the IC drive cluster and the existing zone schema.",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "11:00-18:00",
+    "notes": "Pay-what-you-wish suggested admission; Iris van Herpen and other special exhibitions require timed tickets at full price (brooklynmuseum.org/visit/tickets). On-site parking lot in back via GGMC — $27 flat Thu-Sun and First Saturdays (ggmcparking.com). Two-block walk from Brooklyn Botanic Garden makes this the rainy-day swap or natural extension of the Lefferts/BBG track. First Saturday of each month is free 5-11pm with live music — sweet pivot for an evening anchor.",
     "sources": [
       {
-        "url": "https://www.brooklynmuseum.org/visit",
-        "accessed": "2026-05-16T05:05:00Z"
+        "url": "https://www.brooklynmuseum.org/visit/hours_admission/museum_hours/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.brooklynmuseum.org/programs/first_saturdays",
-        "accessed": "2026-05-16T05:05:00Z"
+        "url": "https://www.brooklynmuseum.org/exhibitions",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/brooklyn-museum-is-opening-a-wild-futuristic-fashion-exhibition-next-week-051226",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.ggmcparking.com/locations/the-brooklyn-museum-and-botanic-garden",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T05:02:45.258Z"
+    "lastResearchedAt": "2026-05-18T03:04:26.221Z"
   },
   {
     "id": "new-york-hall-of-science",
@@ -8056,7 +8061,7 @@
     "id": "met-cloisters",
     "name": "The Met Cloisters",
     "desc": "Reconstructed medieval monastery on a Hudson bluff — Met's medieval European art branch with free on-site lot.",
-    "longDesc": "The Cloisters is the Met's uptown outpost, a building stitched together from five French medieval cloisters and set inside Fort Tryon Park overlooking the Hudson and Palisades. Highlights are the Unicorn Tapestries, the Cuxa cloister with its herb garden, and Romanesque stonework — quiet, gorgeous, and the rare Manhattan museum with a real (free) parking lot. Plan ~2-3 hours plus a walk through the park.",
+    "longDesc": "The Cloisters is the Met's uptown outpost, a building stitched together from five French medieval cloisters and set on a rocky bluff in Fort Tryon Park overlooking the Hudson and the Palisades. Highlights are the seven Unicorn Tapestries (c. 1495-1505), the 12th-century Fuentidueña Apse, the Cuxa cloister, and three medieval gardens — Bonnefont herb garden, Trie, and Cuxa — that bloom in real time alongside the art. Plan 2-3 hours plus a walk through the park's Heather Garden.",
     "url": "https://www.metmuseum.org/plan-your-visit/met-cloisters",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8072,29 +8077,33 @@
     "duration": "2-3 hr",
     "driveFromIC": "35-40 min",
     "hoursWeekend": "10:00-17:00",
-    "notes": "Address: 99 Margaret Corbin Dr, NYC (forttryonparktrust.org/sites/parking-the-met-cloisters). Two free public lots at Margaret Corbin Circle entrance — small and fills early on weekends/sunny days, so arrive at 10am open (yelp.com/biz/the-met-cloisters-new-york). NY/NJ/CT residents + students pay-what-you-wish (min $0.01); non-residents pay full Met admission, ticket covers same-day entry at the main Met on 5th Ave (metmuseum.org/policies/directions-and-parking). Drive: Brooklyn-Battery Tunnel → West Side Hwy → Henry Hudson Pkwy, exit Fort Tryon Park & The Cloisters (northbound-only exit). Bring a jacket — stone interiors stay cool even in summer. Pair with a walk in the Heather Garden and lunch at New Leaf Restaurant inside the park.",
+    "notes": "Address: 99 Margaret Corbin Dr, NYC 10040 (metmuseum.org/plan-your-visit/met-cloisters). Weekend hours Sat-Sun 10:00-17:00. Two free public lots at the Margaret Corbin Circle entrance — small, fills early on sunny weekends, so target the 10:00 open (forttryonparktrust.org/sites/parking-the-met-cloisters). NY/NJ/CT residents + students pay-what-you-wish with ID (min $0.01); non-residents pay full Met admission ($30 adult, 2026) and the ticket is a 3-day pass valid at The Met Fifth Avenue too. Drive from IC: Hugh L. Carey Tunnel → West Side Hwy → Henry Hudson Pkwy north, exit Fort Tryon Park/The Cloisters (northbound-only exit; if you miss it, next U-turn is at 218th). Bring a jacket — stone interiors stay cool even in July. Pair with lunch at New Leaf inside the park and a Heather Garden walk for a clean 4-5 hour upper-Manhattan day.",
     "sources": [
       {
         "url": "https://www.metmuseum.org/plan-your-visit/met-cloisters",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.forttryonparktrust.org/sites/parking-the-met-cloisters/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.metmuseum.org/policies/directions-and-parking",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.metmuseum.org/primer/met-cloisters",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-met-cloisters-new-york",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:29:50.041Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T03:09:40.475Z"
   },
   {
     "id": "comedy-cellar-macdougal",
@@ -17100,42 +17109,41 @@
   {
     "id": "prospect-park-audubon-center",
     "name": "Prospect Park Audubon Center at the Boathouse",
-    "desc": "Lakeside Beaux-Arts boathouse and free nature center on the Lullwater — turtles, warblers, ranger-led walks.",
-    "longDesc": "The 1905 Beaux-Arts Boathouse sits on the Lullwater and houses the Audubon Center, the first urban nature center in the country. Weekends bring free animal encounters, naturalist-led nature walks, and birdwatching intros (Apr–Oct programming season). Pair it with a 20-minute loop walk to the Lullwater Bridge and Camperdown Elm — easy, low-cost third stop after BBG/Brooklyn Museum.",
+    "desc": "1905 Beaux-Arts boathouse on the Lullwater — free nature center, Tuscan-columned arcade, NYC landmark.",
+    "longDesc": "The Prospect Park Boathouse, built 1905-07 by Helmle & Huberty with a Tuscan-order arcade facing the Lullwater, houses the country's first urban Audubon Center. Weekends bring free animal encounters, naturalist-led nature walks, and birding intros (programming resumed April 11, 2026; events like the May 21 'Wonderful Warblers' walk are typical). It's the last surviving lakeside structure in the park, a NYC Landmark (1965) and on the National Register (1972) — strongest single photo stop on the BBG/Brooklyn Museum loop, especially the reflective Lullwater shot from the bridge.",
     "url": "https://www.prospectpark.org/visit-the-park/places-to-go/audubon-center/",
     "photoUrl": "https://www.prospectpark.org/wp-content/uploads/2021/04/cooter3-1024x922.jpg",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
     "vibe": [
-      "chill",
       "curious",
       "photo",
-      "active"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "15 min",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "10:00-13:00",
-    "notes": "Free admission and free public programming; closest entry is Lincoln Road / Ocean Ave (east side of park) — much closer than Grand Army Plaza if you're driving in from IC (Prospect Park Alliance). No on-site parking, but a ~30-car lot one block away and ample weekend street parking on Ocean Ave (SpotAngels). Programming resumed Apr 11, 2026; check the May 16 NYRR Brooklyn Half Marathon overlap which can affect park access on race morning. Building is the only lakeside structure left and a NYC Landmark — strong photo stop (Wikipedia).",
+    "notes": "Free admission and free public programming on Saturday + Sunday only, 10am-1pm — strictly a morning anchor, not an afternoon add-on (Prospect Park Alliance). Closest entry is Lincoln Road / Ocean Ave on the southeast side; from IC take Prospect Expy → Ocean Pkwy → Parkside Ave. Park Drive is car-free, so park on Ocean Ave or Parkside Ave (weekend street parking is usually open). Walk under Cleft Ridge Span to reach the Boathouse. Pair with a 10-minute loop to the Lullwater Bridge and the Camperdown Elm for a self-contained 30-45 min photo/curious stop. NYC Landmark 1965; National Register 1972; designed by Helmle & Huberty 1905-07 (Wikipedia).",
     "sources": [
       {
         "url": "https://www.prospectpark.org/visit-the-park/places-to-go/audubon-center/",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Prospect_Park_Boathouse",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.spotangels.com/nyc/prospect-park-boathouse-parking",
-        "accessed": "2026-05-16T19:30:00Z"
+        "url": "https://www.nyctourism.com/attractions-tours/prospect-park-audubon-center/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T19:31:56.700Z"
+    "lastResearchedAt": "2026-05-18T03:02:27.423Z"
   },
   {
     "id": "cheryls-global-soul",
@@ -36652,5 +36660,95 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T02:56:48.718Z"
+  },
+  {
+    "id": "brooklyn-museum-first-saturdays",
+    "name": "Brooklyn Museum First Saturdays",
+    "desc": "Free monthly art-and-music after-hours: live performances, DJs, films, talks, and pop-up market 5–11 PM.",
+    "longDesc": "On the first Saturday of February through August and October, the Brooklyn Museum opens its galleries and Beaux-Arts Court free of charge from 5 to 11 PM, with Brooklyn-based musicians, DJs, curator-led tours, film screenings, intergenerational art-making, and a local-business marketplace. Each edition has a theme — February 2026 honors Black History Month with Jayne Cortez's Firespitters; May 2026 ('Alter/Altar') celebrates AAPI Heritage Month (brooklynmuseum.org). Registration is required and includes general Museum admission.",
+    "url": "https://www.brooklynmuseum.org/event-series/first-saturdays",
+    "photoUrl": "https://images.ctfassets.net/1aemqu6a6t65/4nfwO3vsHU51oFkAAZizQl/f66c37adaf78c1df06f4ae6da8857bcc/brooklynmuseum-adam_husted__large?w=1200&h=800&q=75",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "2-3 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "17:00-23:00 (first Sat of select months)",
+    "notes": "Free with required advance registration; 200 Eastern Parkway, Prospect Heights. Runs first Saturday Feb–Aug + Oct (skips Sept/Nov/Dec/Jan) (brooklynpaper.com, amsterdamnews.com). Programming includes live music in Beaux-Arts Court, DJ sets in lobby, curator tours, film screenings, hands-on art-making, and a pop-up marketplace of Brooklyn vendors (nyctourism.com). Drive from Industry City via Prospect Expressway/Flatbush ~15–20 min; metered street parking around Eastern Parkway/Washington Ave plus Brooklyn Botanic Garden lot (paid).",
+    "sources": [
+      {
+        "url": "https://www.brooklynmuseum.org/press/first-saturdays-2026",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynmuseum.org/event-series/first-saturdays",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/events/brooklyn-first-saturdays/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/first-saturdays-brooklyn-museum-programming/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T02:59:18.035Z"
+  },
+  {
+    "id": "green-wood-cemetery-catacombs-tour",
+    "name": "Green-Wood Cemetery (Historic Tours + Catacombs)",
+    "desc": "478-acre 1838 National Historic Landmark with rare after-hours catacomb access and hilltop NY harbor views.",
+    "longDesc": "Brooklyn's grand Victorian-era cemetery — a designated National Historic Landmark covering 478 acres of rolling hills, glacial ponds, gothic gates, and the highest natural point in Brooklyn (Battle Hill). General entry is free during daylight hours, with self-guided maps highlighting graves of Basquiat, Bernstein, Boss Tweed, and Civil War generals. The flagship paid experiences are the seasonal After-Hours Catacombs Tour (~2 hrs, ~$30 / $25 members) opening 30 underground vaults built into a hillside in the 1850s, plus trolley tours and the 'Angel's Share' concert series staged inside the catacombs.",
+    "url": "https://www.green-wood.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "07:00-19:00 (main 25th St entrance)",
+    "notes": "Main entrance at 5th Ave & 25th St; free on-site parking inside the gates, keep right (source: green-wood.com/hours-directions-rules). Catacombs only accessible via ticketed tour — book ahead via Eventbrite, sells out fast in autumn (source: untappedcities.com). For GPS use '25th Street and Fifth Avenue, Brooklyn, NY' not the 500 25th St postal address. Pairs well with a post-tour stop at Greenwood Park beer garden or Krupa Grocery on 11th Ave. Strollers/photographers welcome; drone use prohibited.",
+    "sources": [
+      {
+        "url": "https://www.green-wood.com/hours-directions-rules/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.green-wood.com/calendar/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.untappedcities.com/catacombs-green-wood-cemetery-tour/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/green-wood-cemetery/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.deathofclassical.com/series/angelshare",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:06:38.735Z"
   }
 ]
