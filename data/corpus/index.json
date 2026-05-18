@@ -20223,51 +20223,47 @@
   {
     "id": "five-leaves-greenpoint",
     "name": "Five Leaves",
-    "desc": "Iconic Greenpoint corner bistro with sidewalk seating facing McCarren Park; ricotta hotcakes and Aussie-leaning brunch.",
-    "longDesc": "An Australian-influenced New American bistro at the gateway to Greenpoint, Five Leaves anchors the wedge at Bedford and Lorimer with wraparound sidewalk tables that catch sun and people-watching across McCarren Park. The all-day menu runs from ricotta hotcakes and the famed pineapple-topped burger to daily market oysters and a serious cocktail program. Walk-in only for weekend brunch — they hold tables back and waits run long but move steadily.",
+    "desc": "Iconic Aussie-style Greenpoint corner cafe famed for ricotta pancakes with honeycomb butter.",
+    "longDesc": "A Greenpoint institution at the McCarren Park triangle, Five Leaves slings an Australian-inflected New American brunch in a ship-cabin-meets-bistro corner space. The signature stack — three thick ricotta pancakes piled with banana, strawberries, blueberries, honeycomb butter, and real maple syrup — has been a NYC brunch benchmark for over a decade. Open 8am–11pm daily, so you can roll in early to dodge the famous wait or use it as a late-morning second stop.",
     "url": "https://fiveleavesny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
-      "chill",
       "foodie",
+      "chill",
       "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "75-90 min",
+    "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "08:00-23:00",
-    "notes": "Wraparound sidewalk seating faces McCarren Park; dogs welcome outside (Yelp). No weekend brunch reservations — walk-in only, plan for a wait (Resy/Yelp). Limited on-site parking; free + metered street parking around Bedford/Lorimer/Manhattan Ave, easier before 11am on Saturdays. Ricotta hotcakes, pineapple burger, market oysters are the signatures (Greenpointers, Yelp). Wheelchair accessible entry, restroom, and seating (Yelp).",
+    "notes": "18 Bedford Ave at the McCarren Park triangle; no reservations — weekend waits commonly 45-90 min by 11am, so target the 8-9:30am window or after 2pm (fiveleavesny.com). Ricotta pancakes are the signature dish: three pancakes, split banana, berries, honeycomb butter, maple (theinfatuation.com). Weekend street parking in Greenpoint generally workable on Lorimer/Manhattan Ave side streets; Bedford Ave itself is metered/limited. Pairs as an alternate or dessert second stop to Sunday in Brooklyn's pancake (also Williamsburg-adjacent, ~5 min drive south).",
     "sources": [
       {
         "url": "https://fiveleavesny.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/five-leaves",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/five-leaves-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/4966",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.opentable.com/r/five-leaves-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://greenpointers.com/2017/08/18/five-leaves-greenpoint/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T23:56:00.661Z"
+    "lastResearchedAt": "2026-05-18T12:15:13.133Z"
   },
   {
     "id": "hachi-japan-village",
@@ -41886,5 +41882,193 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T12:07:02.280Z"
+  },
+  {
+    "id": "big-tiny",
+    "name": "Big Tiny",
+    "desc": "Tiny Carroll Gardens French bistro for weekend croque monsieur and string-lit patio brunch",
+    "longDesc": "A pocket-sized Parisian-feeling wine bar and bistro on Smith Street, Big Tiny does weekend brunch 11am-4pm with a classic croque monsieur ($15) and croque madame add-egg, Parisian omelette, French Brooklyn crepe, and brioche French toast. Covered outdoor seating with string lights plus a compact indoor room; reservations by phone only, which keeps it chill even on weekends.",
+    "url": "https://bigtinybk.com/brunch",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "11:00-16:00 brunch, 17:00-22:00 dinner",
+    "notes": "244 Smith St, Brooklyn NY 11231 (Yelp). Croque monsieur $15, croque madame +$2 egg; brunch is Sat-Sun 11-4 only (bigtinybk.com/brunch). Reservations phone-only at (347) 689-4658. Street parking on Smith/Court is the move on weekends.",
+    "sources": [
+      {
+        "url": "https://bigtinybk.com/brunch",
+        "accessed": "2026-05-18T12:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/big-tiny-brooklyn-4",
+        "accessed": "2026-05-18T12:10:00Z"
+      },
+      {
+        "url": "https://yourbrooklynguide.com/brunch-in-carroll-gardens/",
+        "accessed": "2026-05-18T12:10:00Z"
+      },
+      {
+        "url": "https://frenchly.us/big-tiny-little-restaurant-big-heart/",
+        "accessed": "2026-05-18T12:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T12:08:57.962Z"
+  },
+  {
+    "id": "cafe-luluc",
+    "name": "Café Luluc",
+    "desc": "Iconic cash-only Cobble Hill bistro famous for fluffy buttermilk pancakes and Parisian sidewalk vibes.",
+    "longDesc": "Café Luluc has been Smith Street's pancake pilgrimage since 2002 — a no-reservations French bistro where the line forms early for stacks of impossibly fluffy buttermilk pancakes served with a slab of butter. Beyond brunch it pulls double duty as a low-lit neighborhood spot for steak frites and house wine. Cash only with an ATM inside; weekend waits of 30–60 min are normal, so plan to put your name down and walk Smith St.",
+    "url": "https://cafeluluc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "Pancakes are the must-order — fluffy, plate-sized, with butter and syrup (cafeluluc.com). Cash only, ATM on site; no reservations and weekend waits run 30–60 min, so arrive by 9:30am or after 2pm (yelp.com). Street parking on Smith/Court is manageable on weekend mornings; metered after 9am. Same trip can chain with Court Street Grocers or Books Are Magic a few blocks south.",
+    "sources": [
+      {
+        "url": "https://cafeluluc.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.cafeluluc.net/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/caf%C3%A9-luluc-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T12:10:53.601Z"
+  },
+  {
+    "id": "trudies-tavern-carroll-gardens",
+    "name": "Trudie's Tavern",
+    "desc": "Gertie team's new Carroll Gardens tavern in the old Buttermilk Channel space — raw bar, burgers, latkes, martinis.",
+    "longDesc": "The newest sibling to Gertie and Gertrude's from husband-wife duo Nate Adler and Rachel Jackson, opening Spring 2026 at the long-loved Buttermilk Channel address on Court St. Menu blends classic tavern (burger, rotisserie chicken, raw bar, sundaes) with the team's signature Jewish-NY touches — shmaltz, latkes, possibly veal Wiener schnitzel — alongside a serious martini program. Reportedly aiming for soft-open the third week of May 2026.",
+    "url": "https://www.trudies.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "17:00-23:00 (estimated, pre-opening)",
+    "notes": "Direct successor in the BC space — Buttermilk Channel closed Dec 2025 after ~18 years (cobblehillcollective.com). Same team behind Gertie (Williamsburg, being revived) and Gertrude's (Prospect Heights), so kitchen pedigree is well established (timeout.com). Infatuation slotted it into anticipated 2026 openings without a visit yet (theinfatuation.com). Confirm hours and any reservation system at re-research after May 18, 2026 opening (courtstreetjournal.com). Court St has limited weekend metered parking; lot at 360 Smith St or street parking on Luquer/Nelson are typical fallbacks.",
+    "sources": [
+      {
+        "url": "https://www.trudies.nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/a-shuttered-brooklyn-brunch-favorite-is-getting-resurrected-at-a-new-location-082225",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://whatnow.com/new-york/restaurants/gertie-team-bringing-new-concept-to-carroll-gardens/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/trudies-tavern",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.courtstreetjournal.com/p/vines-and-voices-034-trudies-tavern",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.cobblehillcollective.com/p/whats-replacing-buttermilk-channel",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T12:13:15.329Z"
+  },
+  {
+    "id": "caffe-lilia",
+    "name": "Caffè Lilia",
+    "desc": "Missy Robbins' morning caffè annex to Lilia — house-made bomboloni, focaccia, and proper espresso",
+    "longDesc": "The takeaway café attached to Missy Robbins' three-star Italian flagship Lilia, open mornings through afternoon with house-made Italian pastries (including Nutella-filled bomboloni), focaccia, sandwiches, and serious espresso. Midday it pivots to soft-serve gelato and torte. A low-key way to taste Robbins' kitchen without the impossible dinner reservation, and a strong opener for a Williamsburg foodie loop near Sunday in Brooklyn.",
+    "url": "https://www.lilianewyork.com/caffe/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "08:00-16:00",
+    "notes": "Located at 567 Union Ave at North 10th, the take-away annex to Lilia's main dining room (lilianewyork.com). Café opens 8am–4pm Wed–Sun per Visit Brooklyn (visitbrooklyn.nyc/eatanddrink/lilia). Mornings feature house-made pastries — Yelp reviewers specifically call out the Nutella bomboloni — plus focaccia, sandwiches, and espresso; midday adds soft-serve gelato. Street parking on Union/North 10th is workable on weekend mornings before the brunch crowd arrives; ~18 min drive from Industry City via BQE. Pairs naturally with a later Sunday in Brooklyn stop two blocks south.",
+    "sources": [
+      {
+        "url": "https://www.lilianewyork.com/caffe/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.lilianewyork.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/lilia",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/search?find_desc=Bomboloni&find_loc=Brooklyn,+NY",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/caffelilia/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T12:17:33.738Z"
   }
 ]
