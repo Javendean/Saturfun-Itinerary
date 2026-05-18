@@ -12932,25 +12932,26 @@
   {
     "id": "sey-coffee-bushwick",
     "name": "Sey Coffee",
-    "desc": "Airy East Williamsburg/Bushwick roastery with sun-flooded ceilings, plants, and award-winning single-origins.",
-    "longDesc": "Sey is a James Beard–nominated micro-roaster occupying a converted warehouse on the Bushwick/East Williamsburg border, with soaring skylights, white walls, hanging greenery, and a long wood pour-over bar that's a perennial favorite of NYC coffee photographers. The minimalist menu leans on bright Kenyan and Ethiopian lots brewed as filter or espresso, and the room is calm enough to linger — no laptops on weekends keeps the energy social rather than co-working. Street parking in this industrial pocket is far easier than Williamsburg proper, which makes it a realistic driving stop from Industry City.",
+    "desc": "Skylit Bushwick micro-roastery + tasting room from one of NYC's most exacting coffee curators.",
+    "longDesc": "Sey roasts on-site at 18 Grattan St in a meticulously designed, skylit warehouse café where the focus is single-origin pour-overs and ceramics. The roastery doubles as a tasting room — staff happily walk curious palates through current offerings — and laptops are explicitly banned on weekends, which keeps the room reverent and photo-ready. Pairs naturally with a Bushwick art-wall loop after a slow drink.",
     "url": "https://www.seycoffee.com/pages/cafe",
     "photoUrl": "https://www.seycoffee.com/cdn/shop/files/cafe2_5760x.jpg?v=1613535026",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
-      "photo",
-      "chill"
+      "chill",
+      "curious",
+      "photo"
     ],
     "dietary": [
       "vegetarian",
       "vegan"
     ],
-    "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "22 min",
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "15 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "18 Grattan Street, Brooklyn NY 11206 — sits in the warehouse zone where Bushwick meets East Williamsburg; weekend street parking is generally workable along Grattan/Morgan/Bogart, far calmer than Devoción's Williamsburg block (seycoffee.com). No-laptop policy on weekends keeps the room photogenic and conversational (yelp.com). James Beard-recognized roaster; pair with a Bogart Street gallery walk or a Roberta's slice run to make a full Bushwick mini-track.",
+    "notes": "18 Grattan St, Brooklyn NY 11206 (seycoffee.com/pages/cafe). Weekends 8a–5p, no laptops on Sat/Sun — explicitly a tasting/conversation room, not a co-working café. Street parking is usually findable on Grattan/Morgan; pair with the Bushwick Collective murals (~6 min drive) for a single Bushwick track stop. Service style is curator-grade: ask for whatever's just been roasted (Yelp; Atlanta Coffee Shops review).",
     "sources": [
       {
         "url": "https://www.seycoffee.com/pages/cafe",
@@ -12959,12 +12960,16 @@
       {
         "url": "https://www.yelp.com/biz/sey-coffee-brooklyn",
         "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlantacoffeeshops.com/sey-coffee-brooklyn-ny",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T09:34:40.558Z"
+    "lastResearchedAt": "2026-05-18T09:41:09.807Z"
   },
   {
     "id": "sunrise-mart-industry-city",
@@ -18881,52 +18886,48 @@
   },
   {
     "id": "fraunces-tavern",
-    "name": "Fraunces Tavern",
-    "desc": "1762 Revolutionary-era tavern + museum on Pearl St — NYC's oldest bar paired with a Sons of Liberty history collection upstairs",
-    "longDesc": "Operating since 1762 at 54 Pearl St, this is the spot where Washington gave his farewell address to the Continental Army officers in 1783 — the upstairs Long Room and four adjoining floors now house a small but dense museum of Revolutionary War artifacts, flags, and period interiors. Downstairs the Porterhouse-run tavern serves traditional American food with an Irish accent (oysters, shepherd's pie, burgers) plus a deep house and craft beer list. Weekend brunch runs 11:00-15:30 with a 3-or-5-item prix-fixe, making it a natural lunch anchor for a Stone Street / Battery Park walking loop.",
-    "url": "https://frauncestavern.com/",
+    "name": "Fraunces Tavern Restaurant & Museum",
+    "desc": "NYC's oldest tavern + Revolutionary-era museum where Washington bid farewell to his officers (1783).",
+    "longDesc": "A working colonial-era tavern and small but dense museum at 54 Pearl Street, two blocks from Ulysses Folk House — the spot where George Washington gave his farewell address to the Continental Army officers in 1783. Restaurant serves American/Irish-leaning pub fare and weekend brunch (11:00-15:30); upstairs museum has the Long Room recreation, Flag Gallery, and rotating Revolutionary War exhibits for a $10 ticket with free guided tours Sat 1pm / Sun 2pm. Pairs perfectly with Ulysses across the street for a FiDi food + history loop.",
+    "url": "https://frauncestavernmuseum.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "dumbo",
     "vibe": [
       "curious",
-      "foodie",
-      "chill"
+      "chill",
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "75-120 min",
+    "duration": "60-90 min",
     "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 11:00-01:00, Sun 11:00-00:00; museum daily 12:00-17:00",
-    "notes": "Manhattan exception justified: pairs directly with the Stone Street cobblestone block one minute away as a single FiDi food+history stop. Drive from IC via the Brooklyn-Battery Tunnel (~18 min weekend); street parking is limited but FiDi garages (Battery Pl, Pearl St) are plentiful on weekends. Tavern reservations via OpenTable recommended for brunch. Museum admission is separate (~$10 adult) and self-guided (frauncestavernmuseum.org). Brunch is 3-item or 5-item prix-fixe Sat-Sun 11:00-15:30. Vegetarian options on menu but limited.",
+    "hoursWeekend": "Restaurant Sat 11:00-01:00, Sun 11:00-24:00; Museum Sat-Sun 12:00-17:00",
+    "notes": "Manhattan exception justified: anchors the FiDi cultural pair with Ulysses (two-block walk). Museum admission $10, kids 5 and under free; brunch served weekends 11:00-15:30 (frauncestavern.com). Free guided museum tours Saturday 1pm and Sunday 2pm included with admission (frauncestavernmuseum.org). Closest weekend parking: Battery Garage at 70 Greenwich St or Pier A lots; street parking metered until 19:00 in FiDi.",
     "sources": [
       {
         "url": "https://frauncestavern.com/",
-        "accessed": "2026-05-16T23:20:00Z"
-      },
-      {
-        "url": "https://frauncestavern.getbento.com/location/fraunces-tavern/",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.frauncestavernmuseum.org/",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Fraunces_Tavern",
-        "accessed": "2026-05-16T23:20:00Z"
+        "url": "https://www.frauncestavernmuseum.org/admissions",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.opentable.com/fraunces-tavern-the-porterhouse-brewing-co",
-        "accessed": "2026-05-16T23:20:00Z"
+        "url": "https://www.yelp.com/biz/fraunces-tavern-new-york-6",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T23:18:13.423Z"
+    "lastResearchedAt": "2026-05-18T09:47:15.575Z"
   },
   {
     "id": "brooklyn-bridge-walk-fidi-to-dumbo",
@@ -19725,44 +19726,44 @@
   },
   {
     "id": "partners-coffee-williamsburg",
-    "name": "Partners Coffee — North 6th Roastery",
-    "desc": "Williamsburg flagship cafe + working roastery; clean, bright tasting room with single-origin pour-overs.",
-    "longDesc": "Partners Coffee's North 6th flagship (a block off Wythe Ave) has been Williamsburg's hub since 2012, with a Loring roaster visible from the cafe and a full bar of espresso, batch brew, and single-origin pour-overs. It's a direct peer to Devoción — slightly more minimal/industrial in feel and known for transparency on sourcing and roast date. Good second stop on a Williamsburg specialty-coffee crawl, with pastries from local bakers and an outdoor bench area in good weather.",
+    "name": "Partners Coffee — Williamsburg Flagship & Roastery",
+    "desc": "Williamsburg flagship cafe + on-site roastery pulling Bedford espresso on a Linea PB.",
+    "longDesc": "Open since 2012 at 125 N 6th St, Partners Coffee's Williamsburg flagship doubles as their roastery and education lab — you can smell beans roasting behind the bar. The photogenic counter pulls their signature Bedford espresso on a Linea PB, and it's an easy bail-out option if the Devoción line down the street is wrapped around the block. Good for a 30-minute espresso + pastry stop or to grab whole-bean bags to take home.",
     "url": "https://www.partnerscoffee.com/pages/retail-locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "chill",
-      "curious",
-      "foodie"
+      "photo",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "20 min",
-    "hoursWeekend": "07:00-18:00",
-    "notes": "Address is 125 N 6th St, Brooklyn NY 11249 — one block in from Wythe Ave, not on Wythe itself (partnerscoffee.com). Daily 7am-6pm (yelp.com). Roastery on-site since 2012; ask for pour-over flight if barista has time. Weekend metered parking on N 6th/Berry; Wythe Hotel garage is a paid fallback. Pairs naturally with Devoción (8 min walk) for an A/B tasting.",
+    "hoursWeekend": "07:00-18:30",
+    "notes": "Flagship cafe + roastery at 125 N 6th St, Williamsburg 11249, open since 2012 (sprudge.com, partnerscoffee.com). Hours Mon-Sun 7:00-18:30 (partnerscoffee.com retail locations). Pulls Bedford espresso on a Linea PB next to the education lab (sprudge.com). Phone (347) 586-0063 (yelp.com). Street parking in Williamsburg is hard on weekends — try side streets off Wythe or Berry, or paid lots near N 6th/Bedford. Adjacent to Devoción (69 Grand St) which is 5 min away — pair them or use Partners as overflow.",
     "sources": [
       {
         "url": "https://www.partnerscoffee.com/pages/retail-locations",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://sprudge.com/partners-coffee-opens-bedford-a-heritage-williamsburg-cafe-rooted-in-coffee-craft-conversation-758077.html",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/partners-coffee-brooklyn-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://joe.coffee/locations/ny/brooklyn/partners-coffee-cafe-roastery-brooklyn/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T00:28:42.167Z"
+    "lastResearchedAt": "2026-05-18T09:43:02.913Z"
   },
   {
     "id": "castle-clinton-battery-park",
@@ -32663,47 +32664,46 @@
   {
     "id": "variety-coffee-greenpoint",
     "name": "Variety Coffee Roasters (Greenpoint)",
-    "desc": "In-house-roasted third-wave café on Driggs with pour-overs, pastries, and weekend jazz light.",
-    "longDesc": "Variety roasts its own beans and rotates single-origin pour-overs alongside La Marzocco espresso, anchoring Greenpoint's daytime coffee scene at 142 Driggs Ave near McCarren Park. The big back room has generous table space and outdoor seating, with weekend mornings drawing a relaxed crowd to beautiful light and jazz on the speakers. A natural first-stop anchor before walking north on Manhattan Ave for lunch.",
+    "desc": "Chill Greenpoint coffee roaster with outdoor seating, pastries, and house-roasted single-origins near McGolrick Park.",
+    "longDesc": "Variety's Greenpoint outpost on Driggs Ave is a bright, lingering-friendly cafe a few blocks from McGolrick Park, pouring well-pulled lattes, cortados, and pourovers from their own roastery. Open 7am-9pm daily with free Wi-Fi, a solid pastry case, and a small outdoor seating strip that fills up on weekends — easy to plug in or to grab-and-walk to the park.",
     "url": "https://varietycoffeeroasters.com/pages/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "chill",
-      "curious"
+      "foodie"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
-    "priceBand": "$",
+    "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "07:00-21:00",
-    "notes": "Third-wave credentials are real: in-house roasting, rotating single-origin pour-overs, La Marzocco espresso (varietycoffeeroasters.com). Big back room with lots of table space + outdoor seating; weekend mornings have jazz and good light (tryperdiem.com guide). Ham-and-cheese croissant is the standout pastry. Greenpoint street parking on Driggs/Russell side streets is generally workable on weekends — better odds than Williamsburg. Sits near McCarren Park, so it pairs with a park stroll before heading north on Manhattan Ave. Pair with: Peter Pan Donuts (10 min walk N), Transmitter Park (15 min walk), or an evening drive over to Greenpoint Fish & Lobster Co.",
+    "notes": "142 Driggs Ave at the McGolrick Park edge of Greenpoint; street parking is usually findable on Driggs/Russell on weekend mornings (varietycoffeeroasters.com). Outdoor seating + early 7am open makes it a good first stop before driving north for a Greenpoint track. Roast-to-pour is in-house so single-origins rotate (yelp.com).",
     "sources": [
       {
         "url": "https://varietycoffeeroasters.com/pages/locations",
-        "accessed": "2026-05-17T19:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/variety-brooklyn",
-        "accessed": "2026-05-17T19:35:00Z"
-      },
-      {
-        "url": "https://www.tryperdiem.com/guide/best-coffee-spots-in-greenpoint",
-        "accessed": "2026-05-17T19:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://yourbrooklynguide.com/coffee-shops-in-greenpoint/",
-        "accessed": "2026-05-17T19:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tryperdiem.com/guide/best-coffee-spots-in-greenpoint",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T19:40:29.204Z"
+    "lastResearchedAt": "2026-05-18T09:45:14.142Z"
   },
   {
     "id": "librae-bakery",
@@ -40328,5 +40328,46 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T09:39:00.336Z"
+  },
+  {
+    "id": "adriennes-pizzabar-stone-street",
+    "name": "Adrienne's Pizzabar",
+    "desc": "Iconic Old-Fashioned Square pies on cobblestoned Stone Street, directly across from Ulysses.",
+    "longDesc": "Adrienne's Pizzabar at 54 Stone Street is the FiDi square-pie institution — thin, crispy, rectangular Sicilian-style pies with a sweet tomato stripe and basil. Outdoor tables sprawl across the cobblestones, putting you eye-level with Ulysses Folk House for an effortless Stone Street crawl. The kitchen also turns out classic round pies, oven-baked pasta, and big salads — solid for groups who don't all want pizza.",
+    "url": "https://www.adriennespizzabar.com/adriennes-pizzabar",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:30-24:00, Sun 11:30-22:00",
+    "notes": "Manhattan exception — justified as Stone Street crawl partner with Ulysses across the cobbles (stonestreetnyc.com). Old-Fashioned Square is the order; outdoor cobblestone seating is the photo moment. Weekend FiDi parking is famously easy vs midtown — try Water/Pearl/Broad metered spots after 19:00 Sat or all day Sun (free Sunday metering in NYC). 'brooklyn-heights' zone tag is the closest Brooklyn-side proxy since the schema has no FiDi/Manhattan zone; pair with BBP Pier 6 walk if extending the night. Closed-street pedestrian block — no curbside drop-off, park on Pearl or Water and walk in.",
+    "sources": [
+      {
+        "url": "https://www.adriennespizzabar.com/adriennes-pizzabar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.stonestreetnyc.com/adriennes",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/adriennes-pizzabar-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:49:06.342Z"
   }
 ]
