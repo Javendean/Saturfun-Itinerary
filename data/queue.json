@@ -1,35 +1,5 @@
 [
   {
-    "topic": "MILNA Market Industry City pop-up vendors",
-    "reason": "Recurring South Asian food/fashion market that pulls a different crowd to IC and pairs naturally with the 'foodie+curious' track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:10:27.086Z"
-  },
-  {
-    "topic": "Japan Village food hall Industry City",
-    "reason": "Indoor anchor adjacent to the courtyards — turns a rainy bandshell day into a backup plan within the same complex",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:10:27.086Z"
-  },
-  {
-    "topic": "Sahadi's Industry City Courtyard outpost",
-    "reason": "Anchor courtyard tenant that defines the food-and-sit experience between bandshell sets",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:10:27.087Z"
-  },
-  {
-    "topic": "Sake Bar Hagi at Japan Village (izakaya pairing for post-sushi drinks)",
-    "reason": "Completes the Japan Village trio with a casual drinks-and-snacks anchor for repeat visits",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:12:19.396Z"
-  },
-  {
-    "topic": "Osakana fishmonger counter at Japan Village (takeaway sashimi + knife shop)",
-    "reason": "Adds a daytime browse/retail beat inside the same hall for non-meal itinerary slots",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:12:19.396Z"
-  },
-  {
     "topic": "Best counter-only omakase under $80 within 15 min of Industry City",
     "reason": "Expands the higher-end sushi tier across Brooklyn neighborhoods for upgrade paths",
     "requestedBy": "agent",
@@ -18598,5 +18568,107 @@
     "reason": "Covers the original 8th Ave Asian-corridor hypothesis with a Chinese hand-pulled noodle option as a non-Japanese fallback",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T16:43:43.487Z"
+  },
+  {
+    "topic": "Tagmo Mithai NYC (MILNA vendor) — standalone South Asian sweets pop-up",
+    "reason": "Recurring MILNA food vendor with its own following; extends the curious+foodie corpus on non-MILNA weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:45:39.389Z"
+  },
+  {
+    "topic": "Smorgasburg World Trade Center Friday market",
+    "reason": "Adjacent rotating-vendor market concept; useful comparison for users who like MILNA's pop-up energy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:45:39.389Z"
+  },
+  {
+    "topic": "Japan Village inside Industry City — Sunrise Mart + food hall",
+    "reason": "Permanent IC anchor that pairs same-day with MILNA Market for a heritage-food double-header",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:45:39.390Z"
+  },
+  {
+    "topic": "Industry City Courtyard events calendar — recurring weekend programming",
+    "reason": "Captures the broader 'something always happening at IC' rotation that MILNA is one node of",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:45:39.390Z"
+  },
+  {
+    "topic": "Sunrise Mart Japanese supermarket Industry City",
+    "reason": "Same-roof grocery component; pairs with Japan Village entry as a separate browse-only stop for tea/snack souvenirs",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:47:34.858Z"
+  },
+  {
+    "topic": "Ramen Setagaya Industry City",
+    "reason": "Standalone ramen destination worth a dedicated card for foodie tracks even when Japan Village as a whole is the anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:47:34.859Z"
+  },
+  {
+    "topic": "JTunes Karaoke Japan Village",
+    "reason": "Private-room karaoke is a rare late-night option inside IC; expands the after-dark side of the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:47:34.859Z"
+  },
+  {
+    "topic": "Japan Village at Industry City — food hall + sake bar",
+    "reason": "Sibling Eat+Drink anchor in the same IC corridor; lets us cross-sell a Sahadi's mezze + Japan Village ramen split for a longer courtyard afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:49:46.331Z"
+  },
+  {
+    "topic": "Industry City Courtyard summer bandshell programming 2026",
+    "reason": "Need the live concert/movie schedule to slot Sahadi's as the between-sets food stop on specific Saturdays",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:49:46.331Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook (10 min drive)",
+    "reason": "Logical post-IC dinner pivot when Sahadi's bar closes; expands the Red Hook/IC food cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:49:46.331Z"
+  },
+  {
+    "topic": "Corpus dedupe: canonicalize WakuWaku Izakaya at Japan Village (5+ duplicate entries: wakuwaku, wakuwaku-ny, wakuwaku-japan-village, wakuwaku-industry-city, wakuwaku-izakaya-industry-city)",
+    "reason": "Cleanup pass — the actual Japan Village izakaya the queue was reaching for already exists multiple times and is fragmenting search/embeddings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:54:25.967Z"
+  },
+  {
+    "topic": "Davelle (Williamsburg) — small Japanese sake-and-snacks counter as a true 15-min-from-IC izakaya alternative",
+    "reason": "Fills the post-sushi-drinks slot honestly within the IC drive radius the user actually wants",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:54:25.967Z"
+  },
+  {
+    "topic": "Sunny's Bar (Red Hook) — historic dive bar 12 min from IC as a non-Japanese 'casual drinks anchor' for repeat IC visits",
+    "reason": "Diversifies the 'casual drinks after dinner' slot away from Japan Village monoculture, stays inside the geographic cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:54:25.967Z"
+  },
+  {
+    "topic": "Hibino (Cobble Hill) izakaya/obanzai — 15 min from IC, weekend parking on Henry St",
+    "reason": "Direct Brooklyn substitute for the Hagi slot — verified izakaya, IC-cluster compliant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:54:25.967Z"
+  },
+  {
+    "topic": "Kuraichi sake + shochu shop at Japan Village",
+    "reason": "Adjacent retail counter in same hall — pairs with the sashimi browse for a curated bottle pickup beat",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:57:36.376Z"
+  },
+  {
+    "topic": "Panya Bakery at Japan Village (matcha + Japanese breads grab-and-go)",
+    "reason": "Third anchor in the Japan Village retail loop — covers the sweet/coffee slot of a daytime browse",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:57:36.376Z"
+  },
+  {
+    "topic": "Osakana East Village sashimi counter (St. Marks Pl)",
+    "reason": "If the user ever crosses into Manhattan, this is the real Osakana — uniquely justified Manhattan venue for an artist's-grade sashimi pickup",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:57:36.376Z"
   }
 ]

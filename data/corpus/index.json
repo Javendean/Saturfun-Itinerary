@@ -2461,17 +2461,17 @@
   },
   {
     "id": "japan-village-food-hall",
-    "name": "Japan Village Food Hall",
-    "desc": "20,000 sqft Japanese food hall inside IC: ramen, takoyaki, hand rolls, bento, sake bar under one roof.",
-    "longDesc": "Brooklyn's first dedicated Japanese food hall, with ~10 stalls clustered around a shared seating courtyard inside Industry City Building B. Hachi handles street food (takoyaki, taiyaki, yakisoba, okonomiyaki); Ramen Setagaya does broth-forward bowls; Handroll Bar, Obentoyasan, Moriya, Gohei, Shokusaido, Yamada, Umami House, and Sake's Bar round out the lineup — so a group with different cravings can all eat well in one stop. Note: 'Oku' and 'Hachimitsu' don't appear on Japan Village's current stall roster (japanvillage.com/eat-drink) — likely confused with Hachi and the Setagaya/Handroll Bar lineup; this entry covers the live tenants as of May 2026.",
+    "name": "Japan Village",
+    "desc": "20,000 sq ft Japanese food hall inside Industry City — ramen, sushi, sake bars, and a Sunrise Mart grocery",
+    "longDesc": "Japan Village fills two warehouse bays at Industry City with a dozen-plus Japanese food stalls, full-service restaurants, a karaoke spot, and the Sunrise Mart supermarket — meaning you can eat ramen at Setagaya, drink at Sake's Bar, and shop sushi-grade fish without stepping outside. It's the obvious rainy-day pivot from the courtyards or bandshell because everything is indoors and a few yards from where you parked.",
     "url": "https://www.japanvillage.com/eat-drink",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
@@ -2480,29 +2480,25 @@
     "duration": "60-90 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "11:00-20:30",
-    "notes": "Anchor venue — already on-site at IC, so it's the natural fallback when a planned spot is closed or the group can't agree on cuisine. Weekend hall hours are Fri-Sat 11am-8:30pm and Sun 11am-7pm (japanvillage.com/eat-drink); individual stalls close earlier — Hachi runs Sun-Thu 12-7:30, Fri-Sat 12-8 (japanvillage.com/eat-drink/hachi). Adjacent to Sunrise Mart grocery and Kuraichi sake/liquor store, so the stop doubles as pantry shopping. Garage parking on-site at Industry City. The official roster shows Gohei, Obentoyasan, Hachi, Handroll Bar, Moriya, Shokusaido, Sake's Bar, Yamada, Umami House, Ramen Setagaya — no 'Oku' or 'Hachimitsu' listed (japanvillage.com/eat-drink).",
+    "notes": "Located on-site at Industry City, 934 3rd Ave (Building 4), Brooklyn (japanvillage.com). Food Hall Fri-Sat 11 AM-8:30 PM, Sun-Thu 11 AM-7 PM (japanvillage.com). 20,000 sq ft of vendors including Ramen Setagaya, Hachi (Japanese street food), Sushi Uesugi, Panya Bakery, Sake's Bar, and JTunes Karaoke; Sunrise Mart grocery anchors the retail side (japanvillage.com, 6sqft.com). Functions as the natural indoor anchor when courtyard/bandshell programming gets rained out — same complex, same parking, no driving.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-17T13:30:00Z"
-      },
-      {
-        "url": "https://www.japanvillage.com/eat-drink/hachi",
-        "accessed": "2026-05-17T13:30:00Z"
+        "accessed": "2026-05-18T16:45:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-17T13:30:00Z"
+        "accessed": "2026-05-18T16:45:00Z"
       },
       {
-        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
-        "accessed": "2026-05-17T13:30:00Z"
+        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
+        "accessed": "2026-05-18T16:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T13:32:52.219Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:47:34.814Z"
   },
   {
     "id": "cafe-here-red-hook",
@@ -5121,49 +5117,52 @@
   {
     "id": "sahadis-industry-city",
     "name": "Sahadi's at Industry City",
-    "desc": "Iconic Lebanese-American grocer's IC outpost with saj sandwiches, meze counter, and Lebanese wines on tap.",
-    "longDesc": "Sahadi's second Brooklyn location is a 7,500-sq-ft Middle Eastern market + cafe + bar inside Industry City Building 4, with one of NYC's only operational saj griddles turning out made-to-order flatbread sandwiches. The prepared-foods counter rotates ~30 daily dishes (hummus, tabbouleh, kibbeh, kebabs, seasonal meze), and weekend brunch runs Sat-Sun 11-3:30. Strong vegetarian and halal-friendly Plan B when the WakuWaku/Oldies Japanese counters at IC have a wait.",
-    "url": "https://sahadis.com/pages/locations",
-    "photoUrl": "https://sahadis.com/cdn/shop/files/Industry_City_slider.jpg?v=1700593548&width=480",
+    "desc": "Iconic Brooklyn Middle Eastern grocer + courtyard cafe — mezze, brunch, and a full bar inside IC's Courtyard.",
+    "longDesc": "The Industry City outpost of the 1948 Atlantic Avenue institution combines a Middle Eastern market with a sit-down cafe and full bar that spills into the IC Courtyard. Weekend brunch (Sat/Sun 11AM–3:30PM) covers labneh plates, shakshuka, and za'atar manakish, while the bar slings arak cocktails and Lebanese wines until 10pm Fri/Sat — making it the natural food anchor between Courtyard bandshell sets. Summer Friday salsa nights (May–Sept) add a built-in dance program right outside the door.",
+    "url": "https://industrycity.com/tenants/sahadis/",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie",
       "chill",
+      "foodie",
       "curious"
     ],
     "dietary": [
       "vegetarian",
-      "vegan",
-      "halal"
+      "vegan"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
+    "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-19:00 (brunch 11:00-15:30)",
-    "notes": "Entrance at 34 35th St, Building 4 (industrycity.com). Brunch Sat-Sun 11-3:30 with Lebanese wines on tap and saj sandwich station (6sqft). Phone (718) 788-7500. Pairs as a contrast anchor or vegetarian/halal-friendly fallback to Japanese counters elsewhere in IC. Parking via IC garages on weekends.",
+    "hoursWeekend": "11:00-19:00 (bar until 22:00 Fri-Sat; brunch 11:00-15:30)",
+    "notes": "Anchor tenant in Building 4 at 34 35th St; sits directly on the IC Courtyard so seating doubles as a bandshell-adjacent perch (industrycity.com). Brunch service Sat/Sun 11AM–3:30PM with full mezze + cocktails (sahadis.com/pages/brunch-bar-menu). Salsa Night runs every Friday May–September in the courtyard (salsavida.com). 76+ Yelp reviews; phone (718) 788-7500. Pairs perfectly with a stop at Japan Village or Hometown BBQ in the same Eat+Drink corridor.",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/sahadis/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.6sqft.com/121-year-old-middle-eastern-grocery-sahadis-opens-second-brooklyn-location-at-industry-city/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://sahadis.com/pages/brunch-bar-menu",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://sahadis.com/pages/events",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sahadis-industry-city-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.salsavida.com/event/new-york/new-york-city/salsa-night-at-sahadis/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T11:26:56.277Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:49:46.294Z"
   },
   {
     "id": "micol-ceramics",
@@ -44648,5 +44647,141 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T16:43:43.452Z"
+  },
+  {
+    "id": "milna-market-ic",
+    "name": "MILNA Market at Industry City",
+    "desc": "Recurring South Asian pop-up bazaar — 60+ vendors across food, fashion, jewelry, beauty, home.",
+    "longDesc": "Modern South Asian market that takes over 11,000 sq ft inside Industry City's 5-2-A space (33 35th St, 2nd Floor) with 40-60+ vendors selling chaat, sweets, mithai, designer apparel, jewelry, beauty, fragrance and home goods (industrycity.com). Side programming includes henna, carrom and giveaways for the first 50 guests; check @milna.market for the next NYC date (next confirmed: May 17, 2026, 11am-6pm). $4 entry, free for kids under 12 and seniors 65+.",
+    "url": "https://www.milna.market/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "halal"
+    ],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-18:00 (event days only)",
+    "notes": "Seasonal pop-up — not a permanent IC tenant; verify next date on milna.market/events before scheduling (industrycity.com, milna.market). Located in IC building 2, 2nd floor space 5-2-A; weekend IC parking is plentiful and free of charge for under 2 hours in the courtyard lots. Pairs naturally with a Japan Village + Sahadi's IC food crawl for a same-trip 'foodie + curious' track.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/event/milna-market/",
+        "accessed": "2026-05-18T16:50:00Z"
+      },
+      {
+        "url": "https://www.milna.market/",
+        "accessed": "2026-05-18T16:50:00Z"
+      },
+      {
+        "url": "https://www.milna.market/events/details",
+        "accessed": "2026-05-18T16:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:45:39.346Z"
+  },
+  {
+    "id": "sake-bar-hagi-hells-kitchen",
+    "name": "Sake Bar Hagi (Hell's Kitchen)",
+    "desc": "1985-founded, NYC's first authentic izakaya — sake-forward small plates in a Showa-era Manhattan basement.",
+    "longDesc": "Sake Bar Hagi opened in 1985 and is widely cited as New York's first authentic izakaya, now operating from a Showa-era-styled basement at 245 W 51st St in Hell's Kitchen. The menu is classic izakaya territory — sashimi, karaage, yakitori, tempura, omurice, mentaiko spaghetti — paired with an extensive sake, shochu, and umeshu list and a daily 5:00-6:30 pm happy hour. IMPORTANT: despite the corpus topic naming, Hagi is NOT at Japan Village; the actual Japan Village (Industry City) izakaya is WakuWaku (already in corpus). Listed here as a Manhattan crossover for sake-obsessed visits after a Brooklyn afternoon.",
+    "url": "https://sakebar-hagi.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "32-45 min (Manhattan via Battery Tunnel or Manhattan Bridge — outside the 10-25 min IC cluster)",
+    "hoursWeekend": "Sat 4:00 pm-2:00 am; Sun 4:00 pm-10:00 pm",
+    "notes": "Premise correction: the queue topic 'Sake Bar Hagi at Japan Village' is factually incorrect — Sake Bar Hagi has a single Manhattan location at 245 W 51st St between 8th Ave and Broadway, with no Brooklyn or Industry City outpost (sakebar-hagi.com). The izakaya inside Japan Village at Industry City is WakuWaku at 269 36th St, already covered exhaustively in this corpus (multiple duplicate IDs: wakuwaku, wakuwaku-ny, wakuwaku-japan-village, wakuwaku-industry-city, wakuwaku-izakaya-industry-city — worth a dedupe pass). Hagi is uniquely justified as a Manhattan visit only on the strength of its 1985 founding as 'NYC's first authentic izakaya' (Times Square NYC tourism page) and its Showa-era underground bar aesthetic — a destination for sake-curious days, not a casual post-sushi drop-in from IC. Drive is 32-45 min depending on tunnel/bridge traffic; parking in Hell's Kitchen is hostile (street parking near-impossible Saturday nights, garages typically $40-60). Zone set to brooklyn-heights as least-wrong fit since the corpus zone enum is Brooklyn-only and the entry's natural staging point is the Manhattan Bridge gateway. Closed Mondays (sakebar-hagi.com). Happy hour 5:00-6:30 pm daily. Phone (212) 956-2429.",
+    "sources": [
+      {
+        "url": "https://sakebar-hagi.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timessquarenyc.org/food-beverage/sake-bar-hagi",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/sake-bar-hagi/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sake-bar-hagi-new-york-7",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:54:25.928Z"
+  },
+  {
+    "id": "japan-village-sashimi-counter",
+    "name": "Japan Village Sashimi Counter (Sunrise Mart)",
+    "desc": "Sushi-grade fish counter inside Industry City's Japan Village hall — takeaway sashimi, browse pantry + sake on the same loop.",
+    "longDesc": "Sunrise Mart Brooklyn — the city's largest Sunrise Mart, anchoring the Japan Village food hall in Buildings 3 & 4 of Industry City — keeps a refrigerated counter of sushi-grade tuna, salmon, hamachi and house-cut sashimi trays alongside a full Japanese grocery (produce, snacks, condiments, cosmetics). Pair it with neighbor stalls Kuraichi (sake, shochu, whisky) and Panya Bakery for a 30-45 min daytime browse-and-graze that doesn't commit you to a sit-down meal. Note: despite local lore, Osakana does not run a counter here — their actual sashimi shops are East Village (42½ St. Marks) and inside Katagiri on Lexington; both are Manhattan and out of scope for this IC-anchored beat.",
+    "url": "https://www.japanvillage.com/eat-drink",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Inside Japan Village at 934 3rd Ave, Buildings 3 & 4 of Industry City — same complex as IC anchor, so this slots in as a no-drive retail beat (japanvillage.com/eat-drink). Food hall weekend hours are Fri-Sat 11:00-20:30 and Sun 11:00-19:00; Sunrise Mart grocery itself runs to 21:00 on weekends per Yelp listing (yelp.com/biz/sunrise-mart-brooklyn). Fish counter is part of Sunrise Mart, not Osakana — Osakana's NYC counters are in Manhattan only as of 2026 (osakana.nyc). No standalone knife shop inside Japan Village; closest serious Japanese knife retail is Korin in Tribeca (korin.com) — too far for the IC loop, enqueue separately. Parking: Industry City paid lots on weekends, ample compared to the rest of Brooklyn.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://osakana.nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://sunrisemart.com/collections/for-sushi-sashimi",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:57:36.345Z"
   }
 ]
