@@ -1,35 +1,5 @@
 [
   {
-    "topic": "The Shed at Hudson Yards",
-    "reason": "Telescoping cultural venue directly adjacent to Vessel; fills the rainy-day / arts slot in the Manhattan cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:10:14.736Z"
-  },
-  {
-    "topic": "Moynihan Train Hall",
-    "reason": "Soaring glass-roof landmark 6 blocks north; logical exit point after Hudson Yards and ties the Manhattan cluster to a transit/architecture beat",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:10:14.736Z"
-  },
-  {
-    "topic": "Sey Coffee Bushwick roastery cafe",
-    "reason": "Top-tier specialty roaster ~20 min from IC; airy bright space, frequent best-of-NYC lists — alt aesthetic coffee anchor for a Bushwick-leaning track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:12:15.367Z"
-  },
-  {
-    "topic": "Variety Coffee Roasters Williamsburg N 6th",
-    "reason": "Casual neighborhood roaster on a walkable N 6th block — useful for cheaper/quicker coffee stop variant in the same cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:12:15.367Z"
-  },
-  {
-    "topic": "Variety Coffee Roasters Bushwick flagship",
-    "reason": "Adjacent destination-coffee option in same zone, easier parking, longer hours — useful as Sey alternative when packed",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:14:02.739Z"
-  },
-  {
     "topic": "Devoción Williamsburg roastery cafe",
     "reason": "The other landmark Brooklyn roaster with a dramatic skylit interior — covers 'photo coffee' if user wants Williamsburg instead of Bushwick",
     "requestedBy": "agent",
@@ -17716,5 +17686,83 @@
     "reason": "Brooklyn counterpart raw bar in Greenpoint (~20 min from IC) — keeps the seafood vibe without the Manhattan detour",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T13:38:10.413Z"
+  },
+  {
+    "topic": "Vessel at Hudson Yards (current access status 2026)",
+    "reason": "Directly adjacent to The Shed; iconic photo stop but access has changed post-2021 — needs current-state research before slotting in Manhattan cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:41:28.640Z"
+  },
+  {
+    "topic": "Edge observation deck at 30 Hudson Yards",
+    "reason": "Same Hudson Yards plaza, glass-floor outdoor sky deck — completes a 3-stop Manhattan arts/photo loop with The Shed and the High Line",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:41:28.640Z"
+  },
+  {
+    "topic": "High Line northern spur at 30th Street + Hudson Yards entrance",
+    "reason": "Free elevated park that connects The Shed to Chelsea galleries; natural walk-extender after a Shed visit and parking-friendly via the same W 30th St garages",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:41:28.640Z"
+  },
+  {
+    "topic": "The Dead Rabbit Moynihan outpost",
+    "reason": "Top-tier cocktail bar's transit-hall branch — extends the architecture+drinks beat with a specific named venue rather than generic food-hall coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:43:52.807Z"
+  },
+  {
+    "topic": "Magnolia Bakery Moynihan kiosk",
+    "reason": "Anchors a sweet-stop pin inside the hall; pairs with the photo vibe for short visits where guests don't want a full meal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:43:52.807Z"
+  },
+  {
+    "topic": "Manhattan West plaza outdoor seating",
+    "reason": "Directly adjacent to Moynihan on 9th Ave/W 33rd — free public plaza with seasonal programming that extends the Hudson Yards → Moynihan corridor into a longer Manhattan track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:43:52.807Z"
+  },
+  {
+    "topic": "Devocion Williamsburg roastery cafe",
+    "reason": "Greenhouse-roof specialty roaster ~15 min from IC, complements a Williamsburg/Bushwick coffee comparison",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:45:47.323Z"
+  },
+  {
+    "topic": "Bushwick street art / Bushwick Collective self-drive loop",
+    "reason": "Natural pairing stop within a 10-min drive of Sey to round out a Bushwick track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:45:47.323Z"
+  },
+  {
+    "topic": "Partners Coffee 125 N 6th St Williamsburg",
+    "reason": "This is the actual N 6th Street Williamsburg roaster — likely what the original task meant; needs its own corpus entry as the canonical 'N 6th coffee' option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:48:04.214Z"
+  },
+  {
+    "topic": "Devoción 69 Grand St Williamsburg",
+    "reason": "Higher-end Colombian roaster two blocks from N 6th cluster — photogenic skylight room, complements Variety as a 'splurge' coffee variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:48:04.214Z"
+  },
+  {
+    "topic": "Sey Coffee 18 Meadow St Bushwick/East Williamsburg",
+    "reason": "Award-winning roaster ~10 min from Variety Graham Ave — expands the East Williamsburg coffee track with a destination-tier alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:48:04.214Z"
+  },
+  {
+    "topic": "Re-research existing venue: Sey Coffee Bushwick",
+    "reason": "Direct comparison anchor — confirm whether Variety is genuinely the easier-parking alternative on weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:50:09.619Z"
+  },
+  {
+    "topic": "Roberta's Bushwick weekend brunch",
+    "reason": "Same Bushwick cluster — pairs naturally with Variety as morning coffee + lunch/brunch combo",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:50:09.620Z"
   }
 ]
