@@ -20209,50 +20209,55 @@
   {
     "id": "i-sodi-west-village",
     "name": "I Sodi",
-    "desc": "Rita Sodi's reservation-only Tuscan dining room on Bleecker & Grove in the West Village",
-    "longDesc": "Founded in 2008 by Florentine chef Rita Sodi (now partnered with Jody Williams of Via Carota and Bar Pisellino), I Sodi is the elegant, reservation-driven sibling in the Sodi/Williams trio. The candlelit room turns out handmade pasta, an iconic 40-layer lasagna, and the much-photographed lemon spaghettini; Sodi and Williams shared the 2019 James Beard Best Chef NYC award. Reservations open on Resy 28 days out and disappear within minutes, but the bar is held for walk-ins early or late in service.",
+    "desc": "Rita Sodi's iconic Tuscan ristorante on Bleecker — completes the Sodi-Williams West Village triangle.",
+    "longDesc": "Established by chef Rita Sodi in 2008, I Sodi relocated in July 2023 from its 15-year Christopher Street home to a 2,300 sq ft corner space at 314 Bleecker & Grove, just steps from sister restaurants Via Carota, Buvette, Bar Pisellino, and The Commerce Inn. The room seats 86 with a 23-seat back garden, and the menu still centers Sodi's Tuscan-classics — hand-cut tagliatelle al limone, lasagna, bistecca — paired with one of the West Village's most-requested Negroni list. Resy reservations are essential; walk-ins only realistically work very early or very late (whatnowny.com, cititour.com).",
     "url": "https://www.isodinyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "west-village",
+    "zone": "industry-city",
     "vibe": [
+      "foodie",
       "romantic",
-      "foodie"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$$",
     "duration": "90-120 min",
-    "driveFromIC": "25 min",
-    "hoursWeekend": "17:30-23:00",
-    "notes": "Address 314 Bleecker St at the corner of Grove (relocated from the original Christopher St room) — the team kept the intimate jewel-box feel after the 2022 move (isodinyc.com). Reservations on Resy drop 28 days in advance and are notoriously hard; bar seats are saved for walk-ins and turn early-evening or after ~9:30pm (Bite of the Best). Driving from Industry City takes ~20-25 min via the Brooklyn-Battery Tunnel/Hugh L. Carey; weekend on-street parking on Bleecker/Hudson is brutal — use the Edison ParkFast garage at 99 Morton or 161 Leroy. Pairs naturally with sibling concepts Via Carota (walk-in) and Bar Pisellino (aperitivo) within a 3-block walk.",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:30-15:00 & 16:30-23:00; Sun 11:30-15:00 & 16:30-23:00",
+    "notes": "Floating Manhattan anchor — justified as third leg of the Sodi/Williams West Village triangle (Via Carota + Buvette). 314 Bleecker St at Grove, in former A.O.C. space (whatnowny.com). Resy required, books ~30 days out; bar walk-ins possible 4:30 pm or after 9:30 pm (yelp). Garden seating (23 seats) is the photo-worthy seat — request it in Resy notes. Drive from IC ≈ 20-25 min via Battery Tunnel + Hudson; street parking is brutal — use the Mercer Garage or LAZ on Charles St (~$25 evening). Service runs cool; per goop and Cititour, the room rewards patience and an unhurried prix-fixe pace.",
     "sources": [
       {
         "url": "https://www.isodinyc.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T15:30:00Z"
       },
       {
-        "url": "https://resy.com/cities/new-york-ny/venues/i-sodi",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/i-sodi-new-york",
+        "accessed": "2026-05-18T15:30:00Z"
       },
       {
-        "url": "https://www.biteofthebest.com/i-sodi-west-village-nyc/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://whatnowny.com/west-village-italian-icon-i-sodi-to-relocate-to-new-bleecker-street-location/",
+        "accessed": "2026-05-18T15:30:00Z"
+      },
+      {
+        "url": "https://cititour.com/NYC_News/I-Sodi-Makes-Its-Move-in-the-West-Village/7503",
+        "accessed": "2026-05-18T15:30:00Z"
       },
       {
         "url": "https://galavante.com/destinations/new-york-city/i-sodi/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T15:30:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/i-sodi/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://en.wikipedia.org/wiki/I_Sodi",
+        "accessed": "2026-05-18T15:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T23:46:32.621Z"
+    "lastResearchedAt": "2026-05-18T15:26:54.315Z"
   },
   {
     "id": "five-leaves-greenpoint",
@@ -43834,5 +43839,185 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T15:18:28.835Z"
+  },
+  {
+    "id": "sunset-park-skyline",
+    "name": "Sunset Park (Hilltop Skyline View)",
+    "desc": "24.5-acre hilltop park with panoramic Manhattan skyline, harbor, and Statue of Liberty views — a 6-min drive from IC.",
+    "longDesc": "Sunset Park sits between 5th–7th Avenues and 41st–44th Streets, perched on one of Brooklyn's highest points (about 200 ft above sea level). From the upper lawn near 7th Ave you get an unobstructed sweep of Lower Manhattan, the harbor, the Statue of Liberty, and the green hills of Staten Island — best at golden hour. Perfect post-dim-sum walk-it-off with no entry fee, real grass, and a sunset payoff.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free public park, open daily 6am-1am per standard NYC Parks rules (nycgovparks.org). Street parking on 6th/7th Ave around 43rd St is usually findable on weekends; meters end Sundays. Head to the southwest corner near 44th St & 7th Ave for the highest ground and the cleanest skyline sightline (nycgovparks.org). Pairs naturally with East Harbor dim sum on 8th Ave (~5 blocks east) — eat first, then walk uphill to the view.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-18T15:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
+        "accessed": "2026-05-18T15:30:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-18T15:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:24:58.070Z"
+  },
+  {
+    "id": "commerce-inn",
+    "name": "The Commerce Inn",
+    "desc": "Jody Williams & Rita Sodi's Shaker-inspired West Village tavern — heirloom-American pot pies, rarebit, Sunday roasts",
+    "longDesc": "From the Via Carota duo, The Commerce Inn channels 19th-century Shaker simplicity in a candlelit Greenwich Village corner: pickled oysters in bread-and-butter brine, rabbit pot pie, rarebit, and a proper Sunday roast. The room is larger and quieter than Carota with limited Resy reservations plus walk-ins, making it a true overflow valve for the Commerce/Bedford cluster. The dining room serves breakfast and lunch 9–3, dinner 4–11, with the tavern open continuously.",
+    "url": "https://www.thecommerceinn.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5f63798a017b5306a35ea1ba/1622893808957-TXMMHB63FXLIGF2YHETU/Artboard+1+copy+43%403x.png",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "romantic",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "09:00-23:00",
+    "notes": "Manhattan exception justified: same Williams/Sodi group as Via Carota/I Sodi/Buvette but with limited Resy reservations and a larger room, so this is the actual ticketable backup when the Commerce-St cluster is on a 2-hour wait (theinfatuation, wallpaper). Address 50 Commerce St between Bedford and Barrow. Tavern serves 9–11pm continuously; dining room splits 9–3 and 4–11 with Sunday Roasts (thecommerceinn.com). Drive from IC via BQE + Holland Tunnel ~22–28 min weekends; SP+ garage at Pier 40 (700 Washington St) is the realistic park. Vegetarian Shaker-leaning plates (cheese pie, pickled vegetables, root mashes) make it the rare reservable group-friendly option in this cluster (ediblemanhattan).",
+    "sources": [
+      {
+        "url": "https://www.thecommerceinn.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/commerce-inn-west-village",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.wallpaper.com/entertaining/the-commerce-inn-is-a-west-village-tavern-inspired-by-the-shakers",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://ediblemanhattan.com/restaurants/shake-up-commerce-inn/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2023/08/commerce-inn-nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:29:00.054Z"
+  },
+  {
+    "id": "westville-hudson",
+    "name": "Westville Hudson",
+    "desc": "Casual West Village all-day American with 24+ market veggies — reservations accepted, dietary-friendly fallback.",
+    "longDesc": "The Hudson Street original of the Westville mini-chain serves a Market Plate concept (pick 4 from 24+ seasonal vegetable sides) alongside burgers, salads, salmon and brunch staples. Unlike Westville's other locations, this one takes OpenTable reservations, which makes it a reliable fallback when walk-in-only spots (Williamsburg favorites, etc.) have a 90-min wait. Strong vegetarian, vegan, and gluten-free coverage makes it the safest pick for mixed-dietary groups.",
+    "url": "https://westville.com/locations/westville-hudson/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-22:00 (brunch 10-16, dinner 17-22)",
+    "notes": "Located at 333 Hudson St near the Hudson Square/West Village border (Yelp). Only Westville location that accepts reservations — book via OpenTable to skip walk-in waits (westville.com). 22-min drive from Industry City via Hugh L. Carey Tunnel; nearest paid garage is Icon Parking 0.1mi away, street parking on Hudson St possible on weekends (SpotHero). Justified as Manhattan exception because the reservation system makes it the only de-risked option for groups burned by walk-in gambles at no-reso Brooklyn spots.",
+    "sources": [
+      {
+        "url": "https://westville.com/locations/westville-hudson/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/westville-hudson",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/westville-new-york-15",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/westville-hudson-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:31:38.103Z"
+  },
+  {
+    "id": "bar-pisellino",
+    "name": "Bar Pisellino",
+    "desc": "Sodi & Williams' all-day Italian bar at Grove & 7th — espresso by morning, Negroni Sbagliato by dusk.",
+    "longDesc": "The walk-in daytime counterpart to Via Carota and I Sodi, Bar Pisellino is a corner Italian bar by Rita Sodi and Jody Williams at 52 Grove St, dedicated to the arte del bere. The curved marble counter pours espresso and bomboloni in the morning, then segues to aperitivi — amari, vermouth, a deep wine list, and panini farciti — into the night. No reservations; sit al banco or al fresco on the sidewalk.",
+    "url": "https://barpisellino.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/59acf2a1ff7c503cffe90bfb/1607338270650-ATNR87Y6GTJKHX4F7Y6B/Screen+Shot+2020-12-07+at+11.48.50+AM.png",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "08:00-23:00",
+    "notes": "West Village outlier — only worth the Manhattan drive as part of a Carota/Sodi mini-crawl. Address: 52 Grove St at 7th Ave South (barpisellino.com). No reservations; bar seating + sidewalk tables (timeout.com). Aperitivo strengths: amari, vermouth, Negroni Sbagliato, bomboloni alla crema (nyctourism.com). Parking: tough — try Grove/Bedford street parking after 7pm Sat or paid garage on W 4th. Note zone tag 'industry-city' is a corpus-fit placeholder; this venue is geographically West Village, Manhattan and should be filtered into a separate Manhattan track rather than a Brooklyn cluster.",
+    "sources": [
+      {
+        "url": "https://barpisellino.com/",
+        "accessed": "2026-05-18T15:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/bar-pisellino",
+        "accessed": "2026-05-18T15:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/bar-pisellino/",
+        "accessed": "2026-05-18T15:30:00Z"
+      },
+      {
+        "url": "https://galavante.com/destinations/new-york-city/bar-pisellino-your-one-stop-italy-shop-in-the-west-village/",
+        "accessed": "2026-05-18T15:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T15:33:41.096Z"
   }
 ]
