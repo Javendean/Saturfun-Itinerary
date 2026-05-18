@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Tutu's Greenpoint cocktail and DJ bar",
-    "reason": "Adjacent Greenpoint nightlife pairing — gives an alternate late-night option in the same drive cluster as Eavesdrop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:52:48.155Z"
-  },
-  {
-    "topic": "Public Records Gowanus listening room and restaurant",
-    "reason": "Closest peer to Eavesdrop with its own audiophile listening room, only ~10 min from IC — anchors the hi-fi-bar corpus near IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:52:48.155Z"
-  },
-  {
-    "topic": "Cervo's Lower East Side Iberian seafood dinner spot",
-    "reason": "Sister restaurant to Hart's from the same group; Manhattan but uniquely justified for same hospitality DNA",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:54:43.454Z"
-  },
-  {
-    "topic": "The Fly Bed-Stuy rotisserie chicken + natural wine bar",
-    "reason": "Adjacent Franklin Ave anchor; pairs well as pre/post-dinner drinks within walking distance of Hart's",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:54:43.454Z"
-  },
-  {
-    "topic": "Saint Julivert Fisherie Cobble Hill seafood dinner",
-    "reason": "Same intimate, ingredient-driven Mediterranean register; closer to IC (~12 min drive) as an alternative anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:54:43.455Z"
-  },
-  {
     "topic": "French Louie Boerum Hill French-American bistro",
     "reason": "10 min drive from IC, same operator-tier as Gage & Tollner's neighborhood, strong weekend brunch/dinner — fills a French-bistro gap in the corpus",
     "requestedBy": "agent",
@@ -15766,5 +15736,95 @@
     "reason": "Adjacent on the audiophile-rig-but-actually-a-club axis; lets the corpus distinguish 'listening' from 'dancing' rooms in the same zone",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T06:48:59.563Z"
+  },
+  {
+    "topic": "Good Room Greenpoint DJ club late-night cocktails",
+    "reason": "Actual operating Greenpoint DJ venue — multi-room dance club + cocktail bar, fits the Eavesdrop late-night pairing the original topic intended",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:51:18.156Z"
+  },
+  {
+    "topic": "Soft Bar Greenpoint cocktail bar with Soft Beats DJ series",
+    "reason": "Cocktail-forward Greenpoint bar with weekly guest-DJ programming; closer to Eavesdrop's listening-bar vibe than a club",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:51:18.156Z"
+  },
+  {
+    "topic": "The Springs Greenpoint multi-room bar with weekend DJs",
+    "reason": "Drive-cluster-adjacent Greenpoint option with rotating DJ nights; rounds out the late-night corpus alongside Eavesdrop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:51:18.156Z"
+  },
+  {
+    "topic": "Bar Bayeux Prospect Heights jazz listening bar",
+    "reason": "Intimate live-jazz cocktail bar ~15 min from IC — extends the hi-fi/listening corpus east toward Prospect Heights without overlapping Gowanus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:53:38.960Z"
+  },
+  {
+    "topic": "Tutu's Williamsburg natural wine and hi-fi",
+    "reason": "North Brooklyn listening-leaning wine bar with OJAS-adjacent audio culture — diversifies the corpus into Williamsburg drive cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:53:38.960Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom + DJ programming",
+    "reason": "Same Gowanus block radius as Public Records, complements with a beer-forward but music-curated alternative at $ instead of $$",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:53:38.960Z"
+  },
+  {
+    "topic": "Eel Bar — Cervo's-team natural wine + tinned fish bar next door on Canal St",
+    "reason": "Same group, walkable from Cervo's, same Iberian/Mediterranean ethos — perfect drink stop after dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:55:52.186Z"
+  },
+  {
+    "topic": "Hart's Bed-Stuy — the original Mediterranean restaurant from the Cervo's team",
+    "reason": "Anchors the group's Brooklyn presence; closer to IC than Cervo's and unlocks the bed-stuy zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:55:52.186Z"
+  },
+  {
+    "topic": "The Fly Bed-Stuy — Hart's-group rotisserie chicken and natural wine bar",
+    "reason": "Completes the group's three-restaurant Brooklyn footprint for a curated 'Hart's group' track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:55:52.186Z"
+  },
+  {
+    "topic": "Bar Hart Bed-Stuy (Hart's sibling cocktail bar on Franklin Ave)",
+    "reason": "Completes the Hart's/Fly/Bar Hart trifecta — same operator group, walkable cluster anchor for an evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:57:58.523Z"
+  },
+  {
+    "topic": "Cervo's Lower East Side Portuguese seafood (same operator group as The Fly)",
+    "reason": "Manhattan, but uniquely justified as the flagship of the Hart's/Fly group — useful as comparative context, not necessarily for itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:57:58.524Z"
+  },
+  {
+    "topic": "Saraghina Bed-Stuy wood-fired pizza",
+    "reason": "Adjacent Bed-Stuy dinner anchor within 8-min drive of The Fly; expands evening track options in the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T06:57:58.524Z"
+  },
+  {
+    "topic": "La Vara Cobble Hill Spanish tapas dinner",
+    "reason": "Same Raij/Montero team next door — a different-cuisine fallback anchor in the same block, useful when Julivert is fully booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:00:02.142Z"
+  },
+  {
+    "topic": "Popina Carroll Gardens Italian-Mediterranean dinner",
+    "reason": "Adjacent Cobble Hill/Carroll Gardens cluster, similar ingredient-driven small-plates register, slightly easier reservation",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:00:02.142Z"
+  },
+  {
+    "topic": "Long Island Bar Cobble Hill cocktail spot",
+    "reason": "Pre-dinner drinks anchor 4 blocks away — completes a walkable Cobble Hill evening pairing without re-parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:00:02.142Z"
   }
 ]

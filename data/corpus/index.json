@@ -849,10 +849,10 @@
   {
     "id": "public-records-gowanus",
     "name": "Public Records",
-    "desc": "Hi-fi listening bar + plant-based kitchen inside the old ASPCA building — pre-show anchor for a Littlefield night.",
-    "longDesc": "Multi-room hospitality and sound campus in a historic Gowanus building featuring The Sound Room (live + DJ venue), UPSTAIRS listening lounge, Cafe Public, an outdoor Nursery, and a fully plant-based, gluten-free kitchen (koji mole sopes, cauliflower gnocchi, charred broccoli with tahini). Founders pitch it as 'sound as a universal language' with a healthier-nightlife ethos — low-ABV cocktails, house-made sodas, and a custom audiophile system. Saturday hours run 10am–4am, making it a flexible dinner + drinks anchor before a short walk or 3-min drive to Littlefield.",
+    "desc": "Hi-fi listening bar, vegan restaurant and Sound Room across a five-space Gowanus campus",
+    "longDesc": "A multi-room cultural platform at 233 Butler St combining The Atrium (restaurant + music lounge), the Sound Room (custom OJAS/VOID hi-fi rig and Isonoe rotary mixers), an Upstairs cocktail listening lounge, Cafe Public and The Nursery garden. The menu is entirely plant-based and minimal-waste; programming spans ambient, jazz, club and experimental sets. Esquire named it one of the 27 best bars in America for the cohesion of its sound systems and rooms.",
     "url": "https://publicrecords.nyc/",
-    "photoUrl": "",
+    "photoUrl": "https://publicrecords.nyc/wp-content/uploads/2026/01/atrium-hazy-1536x1025.jpg",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
@@ -862,40 +862,47 @@
     ],
     "dietary": [
       "vegetarian",
-      "vegan",
-      "gluten-free"
+      "vegan"
     ],
     "priceBand": "$$",
-    "duration": "90-120 min",
-    "driveFromIC": "11 min",
-    "hoursWeekend": "Sat 10:00-04:00, Sun 10:00-21:00",
-    "notes": "233 Butler St, Gowanus — five distinct spaces (Atrium, Sound Room, Cafe Public, UPSTAIRS, The Nursery) inside the historic ASPCA HQ (publicrecords.nyc). Entirely vegan + GF menu with morning items (coconut yogurt, ginger pear pastry) shifting to evening small plates (turmeric curry popcorn, turnips with romesco) (ediblebrooklyn.com). Custom hi-fi system in The Sound Room with regularly programmed live + DJ acts; check publicrecords.nyc/calendar before booking the track. Weekend street parking on Butler/Nevins is feasible; municipal lot on 3rd Ave nearby. ~3 min walk / 1 min drive to Littlefield on Sackett St — ideal as a pre-show dinner anchor.",
+    "duration": "90-150 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 10:00-04:00 / Sun 10:00-21:00",
+    "notes": "233 Butler St at 3rd Ave — Gowanus/Park Slope border, street parking generally available on weekends but tighter Sat night. Sound systems were built in collaboration with Devon Turnbull of OJAS and Jason Ojeda of VOID, with custom Isonoe rotary mixers (factmag.com, wikipedia). Five distinct spaces: Atrium, Sound Room, Upstairs, Cafe Public, The Nursery (publicrecords.nyc). Closed Mon–Tue; Wed–Thu 6p–10p; Fri 6p–4a (publicrecords.nyc). Fully vegan kitchen — watermelon tostadas, chickpea frittata, oyster-mushroom enchilada tacos (timeout.com, ediblebrooklyn.com). Pairs naturally with Eavesdrop for an audiophile-bar double-feature.",
     "sources": [
       {
         "url": "https://publicrecords.nyc/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Public_Records_(venue)",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.factmag.com/2019/02/13/public-records-brooklyn/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/arts-entertainment/photos-inside-gowanuss-experimental-venue-public-records",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/public-records",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://ediblebrooklyn.com/2019/public-records-gowanus/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/public-records",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsPhoto": true,
-    "needsAiBackground": true,
+    "needsAiBackground": false,
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 5 — 3:30 PM Gaming/Active",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-18T03:45:45.638Z"
+    "lastResearchedAt": "2026-05-18T06:53:38.924Z"
   },
   {
     "id": "brooklyn-boulders-gowanus-gowanus",
@@ -30955,46 +30962,45 @@
   {
     "id": "cervos-les",
     "name": "Cervo's",
-    "desc": "Candlelit Iberian seafood on Canal St — Hart's-group sibling, coastal Portuguese/Spanish small plates and natural wine",
-    "longDesc": "A downtown ode to the seafood of the Iberian Peninsula from the Hart's/Frances Hospitality group (also The Fly, Eel Bar, Minnow). The narrow Canal Street room is dim and candlelit with a tile-and-wood bar; menu leans Manila clams in Vinho Verde, crispy shrimp heads, oyster platters, and a piri piri half chicken, with a deep coastal Spanish/Portuguese wine list. Outdoor sidewalk seating runs April–October (walk-in only).",
+    "desc": "Iberian seafood counter on Canal St from the Hart's team — tinned fish, sherry, fried shrimp heads.",
+    "longDesc": "Cervo's is the Lower East Side sister to Bed-Stuy's Hart's, opened by Nick Perkins, Nialls Fallon, and chef Aaron Crowder as a love letter to Iberian cervecerias — wood-paneled walls, tiled floors, and a counter built for seafood and beer. The menu leans on sustainable fish, house-cured tinned conservas, clams in white wine, Spanish mackerel crudo, and the now-legendary olive-oil-soaked fried shrimp heads, paired with an exclusively Iberian wine list of sherries, Madeiras, and coastal whites.",
     "url": "https://www.cervosnyc.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/65b9a8caa67cf220bc4d2ac0/2aaef0ae-b346-4e8f-bb67-17d305736732/Cervos+Interiors_230925_12_small.jpg",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/65b9a8caa67cf220bc4d2ac0/a2a4dfb6-73a0-4def-b0ae-435400852b2c/20221218_Cervos_40.jpg",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
+      "foodie",
       "romantic",
-      "foodie"
+      "curious"
     ],
-    "dietary": [
-      "gluten-free"
-    ],
+    "dietary": [],
     "priceBand": "$$$",
-    "duration": "90 min",
+    "duration": "90-120 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "17:30-23:00",
-    "notes": "Manhattan benchmark, not a Brooklyn anchor — logged under dumbo zone because the drive exits the Manhattan Bridge there before continuing ~5 min into LES (43 Canal St). Same hospitality group as Hart's in Bed-Stuy (frances-hospitality.com), so use this as the head-to-head when deciding whether the romantic-dinner slot should stay in Brooklyn or cross the bridge. Reservations on Resy; outdoor seating walk-in only (Apr–Oct). LES weekend street parking is competitive — plan for a paid lot near Allen/Canal. Michelin Guide listed (guide.michelin.com).",
+    "notes": "Located at 43 Canal St on the LES — Manhattan, not Brooklyn, but justified by the direct Hart's-group lineage and same hospitality DNA the user is tracking (cervosnyc.com). Drive from Industry City is ~10 miles via Brooklyn-Battery Tunnel or BQE + Manhattan Bridge; ~20-25 min in weekend traffic. Counter-style Iberian cerveceria format with sustainable seafood and house preserving (Gothamist). The Infatuation singles out the fried shrimp heads as the signature dish. Wine list is exclusively Iberian Peninsula — sherries and Madeiras by the glass. Dinner only (5:30-11pm nightly); no weekend brunch. Street parking on Canal/Ludlow is realistic on Saturday nights but tight; Essex Crossing garage one block north is the safe bet for drivers. Reservations strongly recommended via Resy.",
     "sources": [
       {
-        "url": "https://www.cervosnyc.com/about",
-        "accessed": "2026-05-17T17:45:00Z"
+        "url": "https://www.cervosnyc.com/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.cervosnyc.com/menu",
-        "accessed": "2026-05-17T17:45:00Z"
+        "url": "https://gothamist.com/food/dine-iberian-style-at-cervos-opening-this-week-on-the-lower-east-side",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cervo-s",
-        "accessed": "2026-05-17T17:45:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/cervos",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/cervos-new-york",
-        "accessed": "2026-05-17T17:45:00Z"
+        "url": "https://blog.resy.com/2024/07/eel-bar-nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T17:44:21.887Z"
+    "lastResearchedAt": "2026-05-18T06:55:52.154Z"
   },
   {
     "id": "the-fly",
@@ -38671,5 +38677,123 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T06:48:59.538Z"
+  },
+  {
+    "id": "tutus-bushwick-closed",
+    "name": "Tutu's (Permanently Closed)",
+    "desc": "Former Bushwick cocktail/DJ bar at 25 Bogart St; closed October 2020 and remains shuttered as of 2026.",
+    "longDesc": "Tutu's was a well-loved Morgan-Ave-area gastropub and late-night DJ bar known for burgers, cheap shots, and weekend dance floors, but it shut suddenly in October 2020 per Bushwick Daily and is still listed as CLOSED on Yelp in January 2026. The topic also mislabels it as Greenpoint — the venue was Bushwick / East Williamsburg border, near the Morgan L stop, not the Greenpoint cluster Eavesdrop sits in. Not eligible for itinerary promotion; recorded here to prevent re-surfacing as a candidate.",
+    "url": "https://www.yelp.com/biz/tutus-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "n/a",
+    "driveFromIC": "n/a (closed)",
+    "hoursWeekend": "permanently closed",
+    "notes": "DO NOT PROMOTE — permanently closed since 2020-10-08 (Bushwick Daily). Yelp listing still marked CLOSED as of January 2026. Also note the topic geographic error: Tutu's was 25 Bogart St in Bushwick, not Greenpoint. For an actual late-night Greenpoint pairing with Eavesdrop, see enqueued alternatives (Good Room, Soft Bar, The Springs).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/tutus-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/food-and-drink/5034-bushwick-bids-farewell-to-tutu-s-a-neighborhood-fave-for-burgers-booze/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": false,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T06:51:18.117Z"
+  },
+  {
+    "id": "the-fly-bed-stuy",
+    "name": "The Fly",
+    "desc": "Rotisserie chicken + natural wine bar from the Hart's team; spice-lacquered birds and small-producer pours.",
+    "longDesc": "A tightly focused chicken-and-wine bar at 549 Classon Ave from the Hart's/Cervo's group, where slow-roasted rotisserie chickens are lacquered in a smoky brick-red spice rub and paired with a three-page list of low-intervention bubbles, orange, pink and red wines. The room is warmly lit with a 22-seat wraparound bar, big front booths and a back dining room; walk-in only, never impossibly hard to get a seat. Bud on draft, sherry on tap, a sharp white Negroni — it works either as a destination dinner or as a pre/post-Hart's drink stop a short walk away.",
+    "url": "https://www.theflybrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "17:30-00:00",
+    "notes": "Dinner-only: Sun–Thu 5:30 PM–11 PM, Fri/Sat 5:30 PM–midnight (theflybrooklyn.com). Walk-in only; 22-seat wraparound bar plus booths and back dining room (theinfatuation.com). Menu is 1/10 food, 9/10 drinks — rotisserie bird, chicken sandwich, long-cooked greens, salad, fries; natural wines from small producers, white Negroni, Bud draft, sherry on tap (bkmag.com). Five-minute walk from Hart's (506 Franklin Ave) — strong pairing as drinks-before or nightcap. Seven years in as of 2026 (bkmag.com). On-street parking is the norm on Classon Ave; weekend evening parking is usually findable within 1–2 blocks.",
+    "sources": [
+      {
+        "url": "https://www.theflybrooklyn.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/the-fly",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2026/03/06/the-fly-7th-anniversary-hot-rotisserie-chicken/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/news/new-natural-wine-and-chicken-bar-the-fly-to-open-in-bed-stuy-6543395",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/bed-stuy/harts-team-open-natural-wine-chicken-bar-bed-stuy",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:57:58.493Z"
+  },
+  {
+    "id": "saint-julivert-fisherie",
+    "name": "Saint Julivert Fisherie",
+    "desc": "Intimate coastal seafood wine bar in Cobble Hill from the La Vara team — global small plates, esoteric wines.",
+    "longDesc": "Chefs Alex Raij and Eder Montero (La Vara, Txikito) run this French-inspired coastal wine bar where seafood is the star: whipped mackerel on grilled bread, fluke ceviche with fried saltines, tuna-bake casserole with turmeric and curry, and a fried-oyster-optional prego steak sandwich. The room is tight and backless-stool intimate, the wine list is organized by ocean nearest the vineyard, and the menu reads like a port-hopping itinerary through Portugal, Spain, and Mexico (The Infatuation). Dinner-only, seven nights a week.",
+    "url": "https://www.saintjulivertbk.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5b576fd4f79392c46532723d/5f40fe39-bbfd-4089-b7f9-e5da72d79365/St_Julivert_2767.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "17:00-21:30",
+    "notes": "264 Clinton St, Brooklyn, NY 11201. Open 7 days, 5:00pm-9:30pm — dinner only, so it slots as the late anchor of a Cobble Hill / Carroll Gardens evening track. Reservations via Resy strongly recommended; tight room with backless stools, better for a 2- or 3-top than a group. Same culinary-partners team as Michelin-recognized La Vara next door (saintjulivertbk.com). Wine list is categorized by 'the ocean closest to each vineyard' — a real conversation piece (theinfatuation.com). Weekend street parking on Clinton/Atlantic is workable but tight; check ParkMobile zones.",
+    "sources": [
+      {
+        "url": "https://www.saintjulivertbk.com/",
+        "accessed": "2026-05-18T07:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/saint-julivert-fisherie",
+        "accessed": "2026-05-18T07:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/saint-julivert-fisherie",
+        "accessed": "2026-05-18T07:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T07:00:02.109Z"
   }
 ]
