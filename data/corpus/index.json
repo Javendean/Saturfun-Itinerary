@@ -2596,48 +2596,45 @@
   {
     "id": "hometown-bar-b-que-red-hook",
     "name": "Hometown Bar-B-Que",
-    "desc": "Texas-style oak-smoked brisket and jalapeno-cheddar sausage in Red Hook with weekend live music.",
-    "longDesc": "Pitmaster Billy Durney's flagship smokehouse — counter-service, first-come-first-served, doors at noon until the meat sells out. Brisket, beef ribs, and house jalapeno-cheddar sausage are the headliners; sides include collards braised with smoked pork and a tangy potato salad. Bar pours local drafts and a strong bourbon list, and the back room hosts free live music most weekend nights, making it a natural pre-Sunny's stop.",
+    "desc": "Oak-smoked Texas-style BBQ in a Red Hook warehouse with live music on weekend nights.",
+    "longDesc": "Pitmaster Billy Durney's flagship at 454 Van Brunt — brisket, beef ribs, pulled pork and jalapeño-cheddar sausage smoked over post oak in a converted Red Hook warehouse. Order at the counter, grab a tray, sit at long communal tables under string lights with a band playing. A 10-minute drive from Industry City and 4 minutes from Sunny's, making it the natural Track C dinner before drinks on the waterfront.",
     "url": "https://hometownbbq.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
-    "notes": "Walk-up counter, no reservations; arrive before 7pm on weekends since prime cuts often sell out by 8-9pm (hometownbbq.com). Free live music in the back room most Fri/Sat nights (timeout.com). 4 blocks north of Sunny's Bar — pair as BBQ-then-music single-parking evening. Street parking on Van Brunt and Conover is generally available on weekends (yelp.com).",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-21:00 (or until sold out)",
+    "notes": "Counter-service; cash + card. Live music on weekend nights (hometownbbq.com). Recognized 'New York's Best Barbecue' by Eater's Ryan Sutton; Michelin Guide listed. Street parking on Van Brunt and side streets — easier than most of Brooklyn but expect to walk a block or two on Saturday nights (Tripadvisor forum). Sells out — arrive by 8pm if you want full menu access. Pairs with Sunny's Bar (4 min drive north on Conover St) for live folk/bluegrass nightcap.",
     "sources": [
       {
-        "url": "https://hometownbbq.com/locations",
-        "accessed": "2026-05-18T06:20:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
-        "accessed": "2026-05-18T06:20:00Z"
+        "url": "https://hometownbbq.com/",
+        "accessed": "2026-05-18T07:15:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
-        "accessed": "2026-05-18T06:20:00Z"
+        "accessed": "2026-05-18T07:15:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/restaurants/hometown-bar-b-que",
-        "accessed": "2026-05-18T06:20:00Z"
+        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
+        "accessed": "2026-05-18T07:15:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/hometown-bar-b-que-red-hook/",
-        "accessed": "2026-05-18T06:20:00Z"
+        "url": "https://www.tripadvisor.com/ShowTopic-g60827-i617-k9574504-Parking_at_Hometown_Barbecue-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T07:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T06:21:03.996Z"
+    "lastResearchedAt": "2026-05-18T07:21:49.568Z"
   },
   {
     "id": "frankies-457-spuntino",
@@ -2824,37 +2821,49 @@
   {
     "id": "maison-premiere",
     "name": "Maison Premiere",
-    "desc": "Belle Époque oyster + absinthe bar, JBF-winning cocktails, 15 min from IC",
-    "longDesc": "A New Orleans-meets-Paris cocktail lounge with the largest absinthe selection in the U.S. (centered on a replica Olde Absinthe House fountain) and 30+ oyster varieties sourced direct from farmers. Won the 2016 James Beard Foundation Award for Outstanding Bar Program; the garden patio and marble bar make it the most photogenic romantic drinks stop in Williamsburg.",
+    "desc": "Williamsburg oyster bar with America's largest absinthe list and a New Orleans-era garden",
+    "longDesc": "An immersive New Orleans gilded-age oyster and absinthe bar at 298 Bedford Ave, featuring 30+ oyster varieties sourced direct from farmers, the largest absinthe selection in the U.S. with grand traditional fountain service, and a seasonal (Apr-Nov) back garden that doubles as one of Brooklyn's most romantic late-night perches. Ranked on North America's 50 Best Bars and a perennial James Beard semifinalist for outstanding bar program — built for a slow, ceremonious 60-90 min nightcap.",
     "url": "https://maisonpremiere.com/",
-    "photoUrl": "https://maisonpremiere.com/wp-content/media-versions/2016/03/600w_x900h__q_90_c_Maison_Premiere_0626_web.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "romantic",
       "curious",
-      "photo"
+      "foodie"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "15 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "Sat 10:00-02:00, Sun 10:00-01:00",
-    "notes": "Weekend oyster happy hour Sat & Sun 11am-1pm — $1.50 oysters with cocktails (happy-hour.nyc). Resy takes reservations up to 6 guests one month out; bar + dining room hold walk-ins (maisonpremiere.com). Address 298 Bedford Ave; street parking in Williamsburg is tight on weekends — budget extra time or use the Bedford Ave garages. Oyster service runs Sat until 12:30am, Sun until 11:30pm (maisonpremiere.com).",
+    "notes": "Weekend happy hour 11am-1pm (oysters + bubbles) is a strong daytime alt to the late-night slot (maisonpremiere.com). Garden is seasonal April-November (visitbrooklyn.nyc); winter visits are indoor-only at the marble horseshoe bar. Street parking on Bedford/N. 1st is tight on weekend nights — plan for a 5-10 min walk-in or use a lot near McCarren Park. Replaces the 'Leyenda nightcap' slot with a different idiom: French-Creole oyster ceremony instead of Latin agave (theworlds50best.com). Reservations via Resy strongly recommended for the dining room; bar/garden walk-in possible if early.",
     "sources": [
       {
         "url": "https://maisonpremiere.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T07:15:00Z"
       },
       {
-        "url": "https://happy-hour.nyc/bars-restaurants/maison-premiere",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.theworlds50best.com/bars/northamerica/the-list/maison-premiere.html",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/maison-premiere",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/maison-premiere",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/maison-premiere",
+        "accessed": "2026-05-18T07:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T01:21:18.032Z",
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T07:19:49.839Z",
     "driveFromFlushing": "22 min"
   },
   {
@@ -38875,5 +38884,148 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T07:05:11.901Z"
+  },
+  {
+    "id": "brooklyn-inn",
+    "name": "The Brooklyn Inn",
+    "desc": "Landmark 1885 Boerum Hill tavern with hand-carved German oak bar from the 1870s — no-fuss neighborhood pub.",
+    "longDesc": "One of Brooklyn's oldest continuously operating bars, anchored by a carved-wood counter imported from Germany in the 1870s and a back room added by founder's widow Marie Zeiner in 1892 (brownstoner.com). It survived Prohibition by quietly bootlegging and reopened post-pandemic with light food and outdoor seating. Tin ceiling, stained glass, jukebox, no TVs — pure old-Brooklyn ambience at $$ pub prices, an easy nightcap counterpoint to nearby craft-cocktail rooms.",
+    "url": "https://www.timeout.com/newyork/bars/the-brooklyn-inn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "14:00-02:00",
+    "notes": "148 Hoyt St at Bergen St, Boerum Hill (technically Boerum Hill, mapped to cobble-hill zone). Opened 1885 by Anton Zeiner with backing from Otto Huber Brewery; widow Marie Zeiner added the back room and woodwork in 1892 (brownstoner.com). Operated through Prohibition (caught and shut for 8 months once). Cash-friendly, no TVs, strong jukebox, weekend opens 2 PM. Street parking only — Hoyt/Bergen has metered + free residential blocks within 2-3 min walk on weekends (brooklynpaper.com). Phone (718) 522-2525.",
+    "sources": [
+      {
+        "url": "https://www.brownstoner.com/history/bars-brooklyn-past-brooklyn-inn/",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://www.brownstoner.com/brooklyn-life/oldest-bar-brooklyn-inn-boerum-hill-reopens-148-hoyt-street-covid-food-outdoor/",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/the-brooklyn-inn",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://punchdrink.com/venues/brooklyn-inn/",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2020/01/14/ask-a-historian-whats-the-oldest-bar-in-brooklyn/",
+        "accessed": "2026-05-18T07:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T07:13:04.761Z"
+  },
+  {
+    "id": "whoopsie-daisy",
+    "name": "Whoopsie Daisy",
+    "desc": "Ivy Mix's 2024 Crown Heights wine bar — natural pours, cocktails, snacks next to Fiasco wine shop",
+    "longDesc": "Opened April 2024 by Leyenda's Ivy Mix with Fiasco wine shop owners Piper Kristensen and Conor McKee, Whoopsie Daisy is a neighborhood spot at 225 Rogers Ave pouring natural and biodynamic wines alongside a tight cocktail list and simple snacks. The patio and corner setting make it one of Crown Heights' strongest curious-nightcap picks for a group ending an Industry City day with something boozy but unfussy.",
+    "url": "https://www.whoopsiedaisybk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "crown-heights",
+    "vibe": [
+      "curious",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "14:00-23:00",
+    "notes": "225 Rogers Ave, Crown Heights — co-owned by Ivy Mix of Leyenda fame plus Piper Kristensen & Conor McKee of adjacent Fiasco wine shop (brooklynpaper.com, timeout.com). Weekend hours Sat-Sun 2pm-11pm; Mon, Wed-Fri 4pm-11pm; closed Tuesday per most sources. Direct Ivy-Mix-by-proximity successor to the dead Leyenda slot — same operator, current and open. Street parking on Rogers/Sterling is plausible on weekends; driving ~18-22 min from IC via Prospect Expwy + Empire Blvd. Curated natural/biodynamic wines plus cocktails and small bites (sevenfifty daily).",
+    "sources": [
+      {
+        "url": "https://www.brooklynpaper.com/new-whoopsie-daisy-wine-bar-crown-heights/",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://www.whoopsiedaisybk.com/about",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/whoopsie-daisy-opens-in-crown-heights-from-a-trio-of-local-wine-pros-042524",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/whoopsie-daisy",
+        "accessed": "2026-05-18T07:15:00Z"
+      },
+      {
+        "url": "https://daily.sevenfifty.com/whats-selling-at-brooklyns-newest-wine-bar/",
+        "accessed": "2026-05-18T07:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T07:14:59.792Z"
+  },
+  {
+    "id": "donna-cocktail-bar",
+    "name": "Donna",
+    "desc": "Worker-owned tropical cocktail bar (post-colonial Latin/Caribbean/SE Asian); original Williamsburg location closed 2020, reopened 2023 in West Village.",
+    "longDesc": "Founded in 2012 by Leif Young Huckman under the Williamsburg Bridge at 27 Broadway, the original Donna was a rum-forward Latin cocktail destination with beverage direction from Jeremy Oertel (Death & Co./Mayahuel) and Honduran-inspired design — it shuttered in 2020 after the landlord sold the building. Donna 2.0 reopened in May 2023 on Cornelia Street in the West Village as a worker-owned cooperative (five founding members), pouring 'post-colonial tropical' drinks like the Brancolada and the Tiny Sparrow Martini (Vietnamese gin, calamansi) sourced from woman-owned and sustainability-minded producers. Open 5pm–1am Fri/Sat — the Williamsburg venue is permanently closed.",
+    "url": "https://www.donnabklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "n/a — venue is now in West Village, Manhattan (~25 min from IC, no easy weekend parking)",
+    "hoursWeekend": "17:00-01:00 (Fri/Sat, West Village location)",
+    "notes": "IMPORTANT: original Donna Williamsburg closed 2020 after landlord sold the building (gothamist.com). Donna reopened 2023 at Cornelia St in West Village as a worker-owned co-op (resy.com/punchdrink.com). Does NOT fit the IC-anchored driveable Brooklyn radius — Manhattan venue, no street parking on weekends. Style is tropical/eclectic, not strictly tequila/mezcal-forward like Leyenda — leans rum + global tropics. Recommend skipping for Saturfun IC itineraries; see enqueue for Brooklyn-side substitutes that actually match the Leyenda-style mezcal/tequila niche.",
+    "sources": [
+      {
+        "url": "https://gothamist.com/food/heres-donna-williamsburgs-new-elegantly-dilapidated-late-night-bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2023/05/donna-nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://punchdrink.com/articles/donna-cocktail-club-did-tropical-differently-brooklyn-nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://therumlab.com/rum-connoisseur-interview-of-the-week-leif-huckman-donna-brooklyn-owner/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/donna-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T07:17:39.479Z"
   }
 ]
