@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Marsha at the Refinery (rooftop bar atop One Domino Square)",
-    "reason": "Adjacent skyline-view venue if user wants to extend the Williamsburg waterfront stop into evening drinks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:25:05.633Z"
-  },
-  {
-    "topic": "Wythe Hotel rooftop / Lemon's bar",
-    "reason": "Backup Williamsburg skyline photo+drinks option 5 min north when Domino Park is overcrowded",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:25:05.633Z"
-  },
-  {
-    "topic": "Shelsky's Brooklyn Appetizing Cobble Hill smoked fish board",
-    "reason": "Closer-to-IC appetizing analog (~10 min drive) for the same brunch slot; lets the track stay south Brooklyn if Greenpoint feels far",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:27:17.580Z"
-  },
-  {
-    "topic": "Baz Bagel Brooklyn supplier of Frankel's bagels",
-    "reason": "Frankel's uses Baz bagels — worth tracing whether Baz has a standalone Brooklyn counter that fits the IC radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:27:17.580Z"
-  },
-  {
-    "topic": "Greenpoint weekend street-parking reality for Manhattan Ave brunch",
-    "reason": "Driving-cluster premise hinges on parking; a parking-focused note would harden any Greenpoint stop in the itinerary",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:27:17.581Z"
-  },
-  {
     "topic": "Frankel's Delicatessen Greenpoint appetizing brunch",
     "reason": "Another sit-down appetizing counter inside the drive radius — fills the same Russ-shaped hole on a different morning",
     "requestedBy": "agent",
@@ -16234,5 +16204,89 @@
     "reason": "Alt Williamsburg taco option for users who want a more street-food vibe than USHG-polished Tacocina",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T08:28:09.794Z"
+  },
+  {
+    "topic": "Bar Susanne at Domino Park",
+    "reason": "Newly opened riverfront raw bar in the same Domino complex; covers food-forward end of the waterfront-with-view evening slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:32:42.182Z"
+  },
+  {
+    "topic": "Harriet's Rooftop & Lounge at 1 Hotel Brooklyn Bridge (Dumbo)",
+    "reason": "Direct Manhattan-skyline rooftop in adjacent zone, pairs as alternate evening-drinks anchor on the same drive corridor from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:32:42.182Z"
+  },
+  {
+    "topic": "Westlight rooftop at The William Vale Williamsburg",
+    "reason": "Direct competitor rooftop 4 blocks from Wythe with 22nd-floor 360° skyline views — stronger photo angle, useful tier-up option for the same skyline-drinks slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:34:43.691Z"
+  },
+  {
+    "topic": "The Ides rooftop at Wythe Hotel (private events / seasonal)",
+    "reason": "Same building as Bar Blondeau but separate seasonal/private rooftop — worth clarifying whether it overlaps or augments the Blondeau entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:34:43.691Z"
+  },
+  {
+    "topic": "Harriet's Rooftop at 1 Hotel Brooklyn Bridge",
+    "reason": "Dumbo skyline-rooftop alternative 15 min from IC for users who want the Manhattan Bridge framing instead of midtown — complements the Williamsburg-only options already in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:34:43.691Z"
+  },
+  {
+    "topic": "Sahadi's Atlantic Ave Middle Eastern grocery + cafe",
+    "reason": "Walkable second-stop after Shelsky's — extends Cobble Hill brunch cluster with mezze takeaway and seating, ~6 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:36:44.490Z"
+  },
+  {
+    "topic": "Books Are Magic Cobble Hill flagship browsing stop",
+    "reason": "Low-energy post-brunch anchor 4 blocks from Shelsky's, fills the gap between appetizing and an afternoon Red Hook leg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:36:44.490Z"
+  },
+  {
+    "topic": "Court Street Grocers sandwich counter Carroll Gardens",
+    "reason": "Alternate appetizing-adjacent slot if Shelsky's hits the 4pm close — same Court St corridor, later hours",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:36:44.490Z"
+  },
+  {
+    "topic": "Frankel's Delicatessen Greenpoint 631 Manhattan Ave bagel sandwich",
+    "reason": "Actual driveable way to eat Baz bagels in Brooklyn — direct supplier-to-counter handoff, ~22 min from IC, weekend brunch demand",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:39:12.594Z"
+  },
+  {
+    "topic": "Acme Smoked Fish Greenpoint Friday fish-fry retail counter",
+    "reason": "Other half of Frankel's supply chain — Greenpoint smoked-fish institution with a public Fri-only counter, adjacent stop on a Greenpoint food run",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:39:12.594Z"
+  },
+  {
+    "topic": "PopUp Bagels Williamsburg new location 2024-2025",
+    "reason": "Buzzy Manhattan-born hand-rolled bagel brand now in Williamsburg (~12 min from IC) — comparable to Baz in style, has a real Brooklyn storefront",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:39:12.594Z"
+  },
+  {
+    "topic": "Chez Ma Tante Greenpoint pancakes brunch",
+    "reason": "Canonical Manhattan Ave-adjacent brunch anchor (Calyer St); pairs directly with this parking note for a Sunday driving itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:42:12.606Z"
+  },
+  {
+    "topic": "Frankel's Delicatessen Greenpoint weekend brunch",
+    "reason": "Lorimer/Norman Ave deli that's a strong Saturday alternative when Manhattan Ave is parking-hostile; tests whether side-street Greenpoint also benefits from the same garage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:42:12.606Z"
+  },
+  {
+    "topic": "Sereneco Greenpoint reservations weekend",
+    "reason": "Manhattan Ave Italian-American with weekend brunch + outdoor seating; reservation-friendly so it can absorb a pre-booked garage slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:42:12.606Z"
   }
 ]

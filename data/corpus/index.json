@@ -18543,16 +18543,17 @@
   },
   {
     "id": "shelskys-of-brooklyn",
-    "name": "Shelsky's of Brooklyn",
-    "desc": "Family-run appetizing counter — hand-rolled bagels, lox boards, smoked fish, schmears.",
-    "longDesc": "Peter Shelsky's Court Street appetizing shop is Brooklyn's answer to Russ & Daughters: hand-rolled, kettle-boiled bagels, a deep smoked-fish case (gravlax, pastrami salmon, sable, whitefish), bialys, and herring. There's a small counter for sit-down bagel sandwiches and lox boards, plus catering platters — about a 12-minute drive from Industry City, with street parking on Court and the side streets on weekends.",
+    "name": "Shelsky's of Brooklyn Appetizing & Delicatessen",
+    "desc": "Cobble Hill appetizing counter — smoked fish boards, hand-sliced nova, sable, and chubs to dine in or take out.",
+    "longDesc": "Peter Shelsky's old-school appetizing shop on Court St builds smoked-fish boards with whitefish salad, nova, sable, and chopped liver, plus latkes and creative bagel sandwiches. The narrow dine-in counter does an easy weekend brunch, and platters travel well if you'd rather eat outside at Cobble Hill Park three blocks south. Closer to Industry City than any Greenpoint analog — ~10-12 min via Hamilton Ave / BQE with street parking workable before 11am.",
     "url": "https://shelskys.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "carroll-gardens",
+    "zone": "cobble-hill",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
@@ -18561,21 +18562,25 @@
     "duration": "45-60 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "08:00-16:00",
-    "notes": "Sit-down seats are limited — counter-forward, expect a short wait on weekend mornings (yelp.com). Lox boards and the smoked-fish bagel sandwiches are the signature order; ask about pastrami salmon and gravlax cuts. Street parking on Court St and on Atlantic-side blocks is workable on Saturdays. Sister bakery 'Shelsky's Brooklyn Bagels' at 453 4th Ave (South Slope) is a separate stop — different hours, more of a grab-and-go bagel counter (shelskys.com).",
+    "notes": "Open Mon-Sun 8am-4pm; closes at 4pm so this is brunch-only, not a late lunch fallback (yelp.com). Address 141 Court St on the Cobble Hill / Boerum Hill seam — counted as Cobble Hill for our zoning since the cluster centers on Court+Atlantic. Smoked-fish boards + sit-down menu both available (theinfatuation.com). For drive parking: try Warren / Baltic side streets, or Atlantic Ave municipal lots two blocks north.",
     "sources": [
       {
         "url": "https://shelskys.com/",
-        "accessed": "2026-05-16T21:25:00Z"
+        "accessed": "2026-05-18T08:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn",
-        "accessed": "2026-05-16T21:25:00Z"
+        "accessed": "2026-05-18T08:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/shelskys-of-brooklyn",
+        "accessed": "2026-05-18T08:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:29:13.194Z"
+    "lastResearchedAt": "2026-05-18T08:36:44.463Z"
   },
   {
     "id": "mile-end-delicatessen",
@@ -27301,50 +27306,46 @@
   },
   {
     "id": "bar-blondeau-wythe-rooftop",
-    "name": "Bar Blondeau (formerly Lemon's, Wythe Hotel rooftop)",
-    "desc": "6th-floor Wythe Hotel rooftop with Manhattan skyline views — 5-min walk from Brooklyn Bowl",
-    "longDesc": "Bar Blondeau is the rooftop bar on the 6th floor of the Wythe Hotel at 80 Wythe Ave — the same address that was Lemon's (coastal-Italian tiki-leaning concept) from 2019 until it rebranded in 2021. It now runs a seasonal New York cocktail program with East Coast oysters, spicy tuna toast, fried chicken, and steak au poivre, with full-frontal Manhattan skyline views. Weekend hours open early (Sat 2pm, Sun 1pm) making it a strong pre-Brooklyn-Bowl drinks stop just one block from the venue.",
+    "name": "Bar Blondeau (Wythe Hotel Rooftop)",
+    "desc": "6th-floor Williamsburg rooftop with floor-to-ceiling Manhattan skyline views; the former Lemon's, now French-leaning cocktails + oysters.",
+    "longDesc": "Bar Blondeau is the 6th-floor rooftop at the Wythe Hotel, occupying the same space that opened as Lemon's in 2019 before being rebranded in 2021 to a French-Mediterranean wine-bar concept. Indoor lounge with panoramic windows plus an outdoor terrace pointed straight at the East River and the midtown skyline — best at golden hour. Menu is seasonal signature cocktails, local-distilled spirits, oysters, duck hot dog, and steak au poivre; reservations up to 6 guests via Resy, walk-ins for the bar.",
     "url": "https://www.barblondeau.com/",
-    "photoUrl": "",
+    "photoUrl": "https://static.wixstatic.com/media/3e9cbe_d694c12c15a84b789f24d436d72bbeb2~mv2.jpg",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "chill",
+      "photo",
       "romantic",
-      "photo"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "18 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "Sat 14:00-00:00, Sun 13:00-00:00",
-    "notes": "NOTE: The task topic 'Lemon's rooftop at Hoxton Williamsburg' is factually incorrect on two counts. (1) Lemon's was at the Wythe Hotel, not the Hoxton (nyctourism.com, afar.com). (2) Lemon's closed and was rebranded as Bar Blondeau in 2021; Yelp lists Lemon's as permanently closed as of Dec 2025 (yelp.com). The Hoxton Williamsburg's actual rooftop is Laser Wolf (thehoxton.com). Bar Blondeau is the substantive, currently-operating successor at 80 Wythe Ave — 5-min walk to Brooklyn Bowl (61 Wythe Ave). Reservations via barblondeau.com or 718-460-8006. Weekend street parking in Williamsburg is tight on show nights; Hoxton/Wythe paid lots nearby.",
+    "notes": "Backup Williamsburg skyline option when Domino Park is overcrowded — 5 min north of Domino at 80 Wythe Ave (Wythe Ave btwn N 11th & N 12th). Originally opened as Lemon's; rebranded to Bar Blondeau in 2021 with the same view (Wythe Hotel dining page). Resy bookings open 28 days out; smart casual; for parties >6 contact 718-460-8006 (Bar Blondeau site). Weekend parking: metered street parking on Wythe/Berry runs in Williamsburg; Edison ParkFast lot at 11 N 12th St ~2 blocks away. Sunset on the terrace is the photo move; indoor lounge is the rain backup.",
     "sources": [
       {
         "url": "https://www.barblondeau.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T08:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/lemons-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.wythehotel.com/dining",
+        "accessed": "2026-05-18T08:30:00Z"
       },
       {
-        "url": "https://cititour.com/NYC_News/Midtowns-PHD-Terrace-is-Now-a-Dream-in-Lemons/8521",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.therooftopguide.com/rooftop-bars-in-new-york/bar-blondeau-at-wythe-hotel.html",
+        "accessed": "2026-05-18T08:30:00Z"
       },
       {
-        "url": "https://www.afar.com/places/lemons",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://thehoxton.com/williamsburg/laser-wolf-restaurant/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.nyctourism.com/restaurants/lemons/",
+        "accessed": "2026-05-18T08:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T11:22:44.767Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T08:34:43.661Z"
   },
   {
     "id": "the-keep-ridgewood",
@@ -39521,5 +39522,161 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T08:24:08.685Z"
+  },
+  {
+    "id": "marsha-at-the-refinery",
+    "name": "Marsha at the Refinery (One Domino Square)",
+    "desc": "Reported rooftop bar atop One Domino Square — unconfirmed in 2026 press; verify before routing guests.",
+    "longDesc": "Tipped as a rooftop drinks venue crowning the Selldorf-designed One Domino Square tower on the Williamsburg waterfront, directly adjacent to the landmarked Refinery at Domino. The location would deliver a near-unobstructed Midtown-to-Lower-Manhattan skyline panorama across the East River — but as of May 2026 it is not listed on Two Trees' Domino property pages, Domino Park's own rooftop roundup, or Resy/Time Out/Infatuation rooftop guides, so name and operator should be reconfirmed before promotion.",
+    "url": "https://www.onedominosquare.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "romantic",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "TBD — verify",
+    "notes": "Sited atop One Domino Square, the new Selldorf-designed condo at 8 South 4th St on the Williamsburg waterfront, between Domino Park and the landmarked Refinery at Domino (https://newyorkyimby.com/2025/04/one-domino-square-offers-grand-views-and-luxury-amenities-on-the-williamsburg-waterfront.html). One Domino Square's published amenity list cites a landscaped rooftop garden and outdoor terrace for residents, plus a private dining room — no public rooftop bar by the name 'Marsha' is named on the building's site (https://www.onedominosquare.com/). Domino Park's own May 2026 'Top 5 Rooftop Bars in Williamsburg' roundup (https://www.dominopark.com/news/top-5-rooftop-bars-in-williamsburg-where-to-drink-with-a-view) does not include it. Possible name confusion with The Refinery Penthouse event space inside 300 Kent Ave (https://www.therefineryatdomino.com/) or with the public-facing Domino Square plaza tenants (Stretch Pizza, Frita Batidos, Bar Susanne). Recommend reconfirming the venue name/operator/hours via Resy or a Williamsburg openings tracker before showing to guests; until then mark as needsAiBackground and treat as a placeholder for the broader 'evening drinks on the Williamsburg waterfront with Midtown skyline' slot.",
+    "sources": [
+      {
+        "url": "https://www.onedominosquare.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.onedominosquare.com/neighborhood",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://newyorkyimby.com/2025/04/one-domino-square-offers-grand-views-and-luxury-amenities-on-the-williamsburg-waterfront.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.dominopark.com/news/top-5-rooftop-bars-in-williamsburg-where-to-drink-with-a-view",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.therefineryatdomino.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://nyc.urbanize.city/post/one-domino-square-debuts-williamsburg-waterfront",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.brownstoner.com/development/domino-square-public-plaza-williamsburg-opens/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:32:42.155Z"
+  },
+  {
+    "id": "baz-bagel-wholesale",
+    "name": "Baz Bagel (Wholesale — No Public Counter)",
+    "desc": "Hand-rolled bagel brand that supplies Frankel's; original SoHo shop closed, no Brooklyn storefront.",
+    "longDesc": "Baz Bagel & Restaurant, founded 2014 by Bari Musacchio at 181 Grand St in Little Italy/SoHo, is one of NYC's most-cited hand-rolled bagel makers and is the wholesale supplier behind Frankel's Delicatessen in Greenpoint. As of March 2026 the Grand Street shop is listed CLOSED on Yelp, and the 'Baz Bagel — Brooklyn' DoorDash listing appears to be a delivery-only kitchen rather than a walk-in counter. To eat a Baz bagel in Brooklyn today, go to Frankel's in Greenpoint (~22 min drive from Industry City), which has used Baz bagels since opening in 2016.",
+    "url": "https://bazbagel.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "n/a — wholesale only",
+    "driveFromIC": "22 min (via Frankel's Greenpoint)",
+    "hoursWeekend": "n/a — no public counter",
+    "notes": "Research verdict: Baz has no standalone Brooklyn counter that fits the IC drive-radius brief. Original SoHo shop at 181 Grand St is marked CLOSED on Yelp (Mar 2026) (yelp.com/biz/baz-bagel-and-restaurant-new-york-2). DoorDash lists a 'Baz Bagel — Brooklyn' delivery node (doordash.com/store/baz-bagel---brooklyn-brooklyn-24998476) but no public-facing storefront has been confirmed in Brooklyn — likely a commissary/ghost kitchen. Frankel's Delicatessen sources their bagels from Baz and smoked fish from Acme (brooklynbagelblog.com/review/frankels-delicatessen-appetizing), so Frankel's Greenpoint (631 Manhattan Ave) is the practical way to taste Baz bagels driving from IC. Recommend promoting Frankel's, not Baz, to the active corpus.",
+    "sources": [
+      {
+        "url": "https://bazbagel.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/baz-bagel-and-restaurant-new-york-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbagelblog.com/review/frankels-delicatessen-appetizing/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://frankelsdelicatessen.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/frankels-delicatessen",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.doordash.com/store/baz-bagel---brooklyn-brooklyn-24998476/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:39:12.559Z"
+  },
+  {
+    "id": "greenpoint-weekend-parking",
+    "name": "Greenpoint Weekend Parking (Manhattan Ave Brunch)",
+    "desc": "Sunday brunch parking is realistic; Saturday needs the Clay St garage as backup.",
+    "longDesc": "On Manhattan Ave between Greenpoint Ave and Calyer, Sunday is the friendly day: ASP is suspended citywide and metered commercial spots are free, so a side-street spot off Java/Kent/Milton/Noble is usually findable within 1-2 loops. Saturday is the trap — meters on Manhattan Ave run roughly 9a-7p at $1/hr (Brooklyn flat rate) and side-street ASP is in force, so default to LAZ Greenpoint Central Garage at 32 Clay St (two blocks west of Manhattan Ave) or pre-book a SpotHero spot. Avoid the McGuinness/Greenpoint Ave commercial loading zones on Saturday morning entirely.",
+    "url": "https://www.spotangels.com/nyc/greenpoint-parking",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat meters 9a-7p; Sun free all day",
+    "notes": "Hard rules: ASP always suspended on Sundays NYC-wide (nyc.gov DOT ASP calendar). Brooklyn meter flat rate $1/hr; meters free on Sundays citywide (NYC DOT parking rates). Manhattan Ave + Greenpoint Ave are explicitly called out as ASP-heavy commercial corridors (Greenpointers, 2023). Backup garage: LAZ Parking Greenpoint Central at 32 Clay St — bookable via Parkmobile/SpotHero. Also reliable: 'The Greenpoint' tower garage (MPG) on Dupont/Eagle. From Industry City: BQE N to Exit 33 (Metropolitan) then McGuinness Blvd N, ~22 min off-peak, 30+ min Sat 11a-1p brunch wave. Route conclusion for itinerary: schedule Greenpoint stops on Sunday by default; if Saturday, book the Clay St garage in advance and budget 5 extra min for the walk.",
+    "sources": [
+      {
+        "url": "https://www.spotangels.com/nyc/greenpoint-parking",
+        "accessed": "2026-05-18T08:35:00Z"
+      },
+      {
+        "url": "https://www.nyc.gov/html/dot/html/motorist/alternate-side-parking.shtml",
+        "accessed": "2026-05-18T08:35:00Z"
+      },
+      {
+        "url": "https://www.nyc.gov/html/dot/html/motorist/parking-rates.shtml",
+        "accessed": "2026-05-18T08:35:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2023/07/27/car-owners-debate-efficacy-of-alternate-side-parking-in-greenpoint-and-williamsburg/",
+        "accessed": "2026-05-18T08:35:00Z"
+      },
+      {
+        "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/laz-parking-greenpoint-central-garage",
+        "accessed": "2026-05-18T08:35:00Z"
+      },
+      {
+        "url": "https://mpgparking.com/location/the-greenpoint-parking",
+        "accessed": "2026-05-18T08:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T08:42:12.581Z"
   }
 ]
