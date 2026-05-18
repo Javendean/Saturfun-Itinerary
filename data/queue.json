@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Louis Armstrong House Museum guided tour, Corona",
-    "reason": "10 min drive from Flushing Meadows; jazz-history anchor that completes a Queens-day itinerary alongside the Pavilion and Unisphere",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:58:10.273Z"
-  },
-  {
-    "topic": "Arthur Ashe Stadium / USTA Billie Jean King Center off-season public tours",
-    "reason": "Adjacent to the Pavilion inside the same park; expands the World's Fair-grounds cluster with a sports landmark",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:58:10.273Z"
-  },
-  {
-    "topic": "Leo's Latticini (Mama's of Corona) sandwiches",
-    "reason": "Two blocks from Lemon Ice King; legendary Italian deli that completes a Corona food crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:00:29.766Z"
-  },
-  {
-    "topic": "Queens Museum at Flushing Meadows-Corona Park",
-    "reason": "6-min drive from Lemon Ice King; Panorama of the City of NY makes a strong art anchor for a Queens cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:00:29.766Z"
-  },
-  {
-    "topic": "Tortilleria Nixtamal Corona",
-    "reason": "Heritage masa tacos a few blocks south on 104th St; rounds out a Corona driving-day with savory before/after ices",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:00:29.766Z"
-  },
-  {
     "topic": "Zone enum gap: add 'corona' or 'queens' to Saturfun zones",
     "reason": "Corpus is growing a Queens cluster (Lemon Ice King, likely Leo's, Queens Museum) but no zone tag fits — needed before promotion",
     "requestedBy": "agent",
@@ -14956,5 +14926,101 @@
     "reason": "5-min drive from Queens Museum; iconic Italian-ice stop turns a museum visit into a Queens food-and-history loop",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T04:09:34.961Z"
+  },
+  {
+    "topic": "Queens Museum (Unisphere panorama), Flushing Meadows-Corona Park",
+    "reason": "Sits 10 min from Armstrong House and houses the Panorama of the City of NY + Unisphere — natural Queens-day pair with parking on-site",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:12:21.587Z"
+  },
+  {
+    "topic": "New York State Pavilion guided tour (Tent of Tomorrow), Flushing Meadows",
+    "reason": "World's Fair relic with seasonal interior tours; high-photo anchor that stacks with Unisphere walk in the same drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:12:21.587Z"
+  },
+  {
+    "topic": "Lemon Ice King of Corona, 52-02 108th St",
+    "reason": "Walkable from Armstrong House; iconic 1944 Italian-ice stand that gives the Queens cluster a cheap food beat between museum visits",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:12:21.587Z"
+  },
+  {
+    "topic": "Arepa Lady, Roosevelt Ave Jackson Heights",
+    "reason": "Top-tier Colombian arepas ~12 min drive from Corona; finishes a Queens day with a foodie stop on the way back toward Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:12:21.587Z"
+  },
+  {
+    "topic": "Queens Museum (Panorama of the City of New York) — World's Fair grounds",
+    "reason": "Third anchor in the Flushing Meadows cluster; the Panorama 1:1200 NYC scale model is a uniquely Queens artifact and pairs with Pavilion + USTA for a full half-day track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:15:07.486Z"
+  },
+  {
+    "topic": "Unisphere & Fountain of the Planets — Flushing Meadows-Corona Park",
+    "reason": "Free outdoor World's Fair landmark right between the Pavilion and USTA; obvious photo stop that ties the cluster together without adding cost",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:15:07.486Z"
+  },
+  {
+    "topic": "Citi Field tour — Mets ballpark, Flushing",
+    "reason": "Second Queens sports-venue tour <1 mile from USTA; lets Saturfun offer a 'two-stadium' driving-track variant on US Open setup days when USTA tours pause",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:15:07.486Z"
+  },
+  {
+    "topic": "Park Side Restaurant Corona Queens — classic red-sauce Italian on Corona Ave",
+    "reason": "Sit-down anchor for a Corona food-crawl track when the deli is closed Sundays or when group wants a full meal vs. heroes-to-go",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:17:23.933Z"
+  },
+  {
+    "topic": "Tortilleria Nixtamal Corona — heritage-corn tortillas and tacos",
+    "reason": "Adds a Mexican dimension to the Corona cluster so the track isn't single-cuisine, and it's open Sundays to backfill Leo's closure",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:17:23.933Z"
+  },
+  {
+    "topic": "Louis Armstrong House Museum Corona Queens — tours and weekend hours",
+    "reason": "Cultural anchor in the same 5-block radius as Leo's and Lemon Ice King; turns a food crawl into a half-day Corona track with parking on 107th St",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:17:23.933Z"
+  },
+  {
+    "topic": "Louis Armstrong House Museum, Corona Queens",
+    "reason": "8-min drive from Queens Museum; intimate jazz history venue rounds out a Queens cluster with a music angle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:19:34.285Z"
+  },
+  {
+    "topic": "Unisphere & New York State Pavilion photo loop, Flushing Meadows-Corona Park",
+    "reason": "Free open-air photo stop adjacent to Queens Museum; iconic World's Fair architecture for the photo vibe track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:19:34.285Z"
+  },
+  {
+    "topic": "Add 'queens-corona' or 'flushing' zone to corpus zone enum",
+    "reason": "Queens venues are accumulating (Queens Museum, Lemon Ice King, Louis Armstrong House) but zone schema forces Brooklyn slugs — corpus needs a Queens zone for clean clustering",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:19:34.285Z"
+  },
+  {
+    "topic": "Tortilleria Nixtamal Corona open-status verification call",
+    "reason": "Closed-vs-open ambiguity needs human ground-truth before this lands on an itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:22:46.004Z"
+  },
+  {
+    "topic": "Casa Enrique Long Island City",
+    "reason": "Michelin-starred Mexican fallback on the Brooklyn→Queens corridor if Nixtamal is truly closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:22:46.004Z"
+  },
+  {
+    "topic": "Birria-Landia taco truck Roosevelt Ave Jackson Heights",
+    "reason": "Adjacent Queens heritage Mexican; consommé-dipped tacos extend the Corona driving-day with a second savory anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:22:46.004Z"
   }
 ]

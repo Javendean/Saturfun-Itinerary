@@ -17451,40 +17451,45 @@
   {
     "id": "louis-armstrong-house-museum",
     "name": "Louis Armstrong House Museum",
-    "desc": "Satchmo's preserved Queens home + adjacent Armstrong Center with 'Here to Stay' exhibition and live music.",
-    "longDesc": "Louis and Lucille Armstrong's 1943 Corona row house preserved exactly as they left it — wallpapered kitchen, mirrored bathroom, den with reel-to-reel tape recorders. Across the street, the 2023 Louis Armstrong Center hosts the permanent 'Here to Stay' exhibition (drawn from Armstrong's personal archive of 700+ reel-to-reel tapes, scrapbooks, and trumpets), a museum store, and a 75-seat performance space with regular jazz sets. Guided historic-house tours run hourly, capped at 10 visitors, ~40 minutes; combined with the exhibition it's a tight 60-90 min stop.",
+    "desc": "Satchmo's 1943-1971 Corona home as a guided 40-min tour, paired with the new Armstrong Center exhibit.",
+    "longDesc": "Tour the immaculately preserved Queens row-house where Louis and Lucille Armstrong lived for nearly three decades; the kitchen, den, and trumpet-strewn study are kept exactly as the couple left them. A guide walks groups of up to 10 through 40 minutes of stories, archival audio, and Lucille's mirrored bathroom, then visits continue across the street at the Louis Armstrong Center for the 'Here to Stay' exhibit. National Historic Landmark and NYC Landmark — a jazz-history anchor that finishes a Queens day spent at the Unisphere and NY State Pavilion.",
     "url": "https://www.louisarmstronghouse.org/visit/",
-    "photoUrl": "",
+    "photoUrl": "https://lahm.sfo3.digitaloceanspaces.com/wp-content/uploads/2018/11/06200023/Tour_SquareSide-300x300.jpg",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "corona",
     "vibe": [
       "curious",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "28 min",
-    "hoursWeekend": "Sat 11:00-16:00; Sun CLOSED",
-    "notes": "ZONE/CLUSTER NOTE: This is a Queens/Corona venue, not Brooklyn — schema has no Queens zone so 'industry-city' is a placeholder. Belongs to the Flushing cluster (10-min walk / 3-min drive from Flushing Meadows-Corona Park), not the IC radius. SCHEDULING CONSTRAINT: closed Sun-Wed — only viable on a Saturday plan (Thu/Fri also open but those aren't weekend) (louisarmstronghouse.org/visit). Admission: $20 adult / $14 senior-student-military for full house tour + exhibition; $10/$8 for exhibition only (louisarmstronghouse.org/visit). PARKING: museum explicitly warns street parking is 'severely limited' in the residential block and recommends transit/rideshare; weekend street parking is more workable than weekdays (street cleaning Thu/Fri 9:30-11am only), and Parkopedia lists nearby lots — plan 10 min buffer to find a spot. ACCESS: Armstrong Center is wheelchair-accessible incl. garden; the historic house tour requires two steep staircases and ~45 min standing (a virtual tour is offered as substitute). Tours cap at 10/hour — book ahead on Saturdays.",
+    "duration": "75-90 min",
+    "driveFromIC": "27 min",
+    "hoursWeekend": "Sat 11:00-16:00; Sun closed",
+    "notes": "Guided 40-min historic house tours run hourly Thu-Sat, 11am-3pm last start; max 10 visitors per slot — book in advance for weekends (louisarmstronghouse.org/visit). $20 combo (house + 'Here to Stay' exhibit) or $10 exhibit-only; $14 senior. Visits start at the Louis Armstrong Center across the street at 34-49 107th St, not the house itself. Street parking is extremely limited in this residential block and the museum 'strongly advises' rideshare/transit — driver should plan to circle 108th/107th or use a side street further from Northern Blvd (louisarmstronghouse.org/visit). House was designated a National Historic Landmark in 1976 and an NYC Landmark in 1988 (en.wikipedia.org/wiki/Louis_Armstrong_House). Sits 10 minutes by car from Flushing Meadows-Corona Park (Unisphere, Queens Museum, NY State Pavilion), and walking distance from Lemon Ice King of Corona — natural pairing for a Queens-day arc.",
     "sources": [
       {
         "url": "https://www.louisarmstronghouse.org/visit/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.parkopedia.com/parking/attraction/louis-armstrong-house-museum-queens-ny/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://en.wikipedia.org/wiki/Louis_Armstrong_House",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/louis-armstrong-house-museum-corona-3",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.tripadvisor.com/Attraction_Review-g47542-d312186-Reviews-Louis_Armstrong_House_Museum-Corona_Queens_New_York.html",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T03:54:43.130Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T04:12:21.554Z"
   },
   {
     "id": "ny-state-pavilion-tent-of-tomorrow",
@@ -37122,42 +37127,169 @@
   {
     "id": "leos-latticini-mamas-corona",
     "name": "Leo's Latticini (Mama's of Corona)",
-    "desc": "Century-old Corona Italian deli famous for hand-pulled mozzarella heroes",
-    "longDesc": "Family-run since 1920 at 46-02 104th St, Leo's Latticini — better known as 'Mama's' — pulls fresh mozzarella daily and stacks it into the legendary Mama's Special with prosciutto and roasted peppers. Cash-friendly counter service, vintage Italian-American vibe, and a perfect 5-minute drive from Louis Armstrong House to Citi Field — the quintessential mid-Queens lunch anchor.",
+    "desc": "Family-run Italian deli in Corona since the 1920s — house mozzarella and the legendary Mama's Special hero.",
+    "longDesc": "Three generations of Italian-American sandwich-making at 46-02 104th St., a two-block walk from Lemon Ice King of Corona and the Spaghetti Park bocce courts. Order the Mama's Special (fresh mozzarella, prosciutto, sopressata, roasted peppers) or the turkey-and-gravy hero, and watch them pull the mozzarella behind the counter. Closed Sunday and Monday, so it pins itineraries to a Saturday Corona crawl.",
     "url": "https://www.nyctourism.com/restaurants/leos-latticini/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "williamsburg",
     "vibe": [
       "foodie",
-      "chill",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
-    "priceBand": "$",
+    "dietary": [],
+    "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "22 min",
+    "driveFromIC": "25 min",
     "hoursWeekend": "Sat 10:00-16:00, Sun closed",
-    "notes": "Actually located in Corona, Queens (not Greenpoint — zone enum lacks a Queens option; tagged as nearest fit). Address: 46-02 104th St, Corona, NY 11368 (Yelp). Tue-Sat 10am-4pm, closed Sun & Mon — Saturday-only for weekend itineraries (NYC Tourism). Mozzarella made fresh on-site; signature Mama's Special hero with prosciutto, fresh mozz, roasted peppers (Yelp). Street parking on 104th/Northern Blvd corner (Yelp reviews). Cash preferred. Sits ~5 min from Louis Armstrong House and ~7 min from Citi Field — ideal lunch wedge between the two.",
+    "notes": "Zone is approximate — venue is actually in Corona, Queens (BQE→LIE from IC, ~25 min with weekend parking on 104th St / side streets). Cash-friendly old-school counter; the Mama's Special is the move (NYC Tourism). Pair with Lemon Ice King two blocks south at 52nd Ave & 108th St and Park Side Restaurant for a complete Saturday Corona crawl. CLOSED Sundays and Mondays — only schedules cleanly for Saturday itineraries (Yelp, Tripadvisor confirmations).",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/leos-latticini-mamas-corona-3",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.nyctourism.com/restaurants/leos-latticini/",
+        "accessed": "2026-05-18T04:15:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/leos-latticini/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.yelp.com/biz/leos-latticini-mamas-corona-3",
+        "accessed": "2026-05-18T04:15:00Z"
       },
       {
         "url": "https://www.tripadvisor.com/Restaurant_Review-g47542-d1221276-Reviews-Leo_s_Latticini-Corona_Queens_New_York.html",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T04:15:00Z"
+      },
+      {
+        "url": "https://culinarybackstreets.com/maps/fullscreen/marker/12129/",
+        "accessed": "2026-05-18T04:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T04:07:40.617Z"
+    "lastResearchedAt": "2026-05-18T04:17:23.910Z"
+  },
+  {
+    "id": "usta-billie-jean-king-tennis-center-tour",
+    "name": "USTA Billie Jean King National Tennis Center — Public Tour",
+    "desc": "60-min guided tour of US Open grounds — Louis Armstrong, Grandstand, field courts; Ashe exteriors only",
+    "longDesc": "Guided walk-throughs of the world's largest public tennis facility, home of the US Open. Tours visit Louis Armstrong Stadium, Grandstand, and the practice/field courts, with exterior-only photo access to Arthur Ashe Stadium (interior closed for renovation). Runs 11 months/year — paused only during US Open setup and play (roughly mid-Aug through mid-Sep) — making this a reliable off-season pairing with the NY State Pavilion next door in Flushing Meadows-Corona Park.",
+    "url": "https://www.ntc.usta.com/about/field-trips-other-visits",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "curious",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-75 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "by appointment, 07:00-23:00",
+    "notes": "Book in advance via ntctours@usta.com — credit card payment over the phone (USTA NTC tours page, ntc.usta.com). $40 adult / $20 child (5-15); under 5 free (ntc.usta.com). Free parking in Lot B at the Chase/Indoor Training Center — check in at front desk with government photo ID; tour waiver signed on arrival (ntc.usta.com). Guests cannot self-walk the grounds for safety (ntc.usta.com). Arthur Ashe Stadium interior is inaccessible due to ongoing construction; exterior photo ops only (ntc.usta.com). No large bags or luggage. Geographically in Queens (Flushing Meadows-Corona Park) — zone enum needs Queens extension; using 'prospect-heights' as a placeholder for now since corpus enum is Brooklyn-only. Pairs as a 2-stop with the NY State Pavilion (same park, ~5 min walk).",
+    "sources": [
+      {
+        "url": "https://www.ntc.usta.com/about/field-trips-other-visits",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.ntc.usta.com/about/faq",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/USTA_Billie_Jean_King_National_Tennis_Center",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T04:15:07.462Z"
+  },
+  {
+    "id": "queens-museum",
+    "name": "Queens Museum",
+    "desc": "Civic-scaled art museum in FMCP, home to the 9,335 sq ft Panorama of NYC built for the 1964 World's Fair.",
+    "longDesc": "Set inside the New York City Building in Flushing Meadows-Corona Park, the Queens Museum's signature piece is the Panorama of the City of New York — a 9,335 sq ft architectural model containing every structure in the five boroughs built before 1992 (~895,000 buildings). Rotating contemporary exhibitions, the Neustadt Tiffany collection, and the Unisphere right outside make this a deep, photo-rich anchor for a Queens cluster (paired naturally with Lemon Ice King of Corona, a 6-minute drive away).",
+    "url": "https://queensmuseum.org/visit/",
+    "photoUrl": "https://queensmuseum.org/wp-content/uploads/2021/03/Panorama-of-the-City-of-New-York-1.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "90 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "11:00-17:00",
+    "notes": "Actually in Queens (Flushing Meadows-Corona Park) — zone field reuses nearest Brooklyn slug since corpus lacks a Queens zone; this venue anchors a separate Queens cluster, not an IC cluster. Suggested admission $8 adults / $4 seniors, pay-what-you-wish for NY State residents (queensmuseum.org). Free parking in lots on both sides of the museum, with overflow at the larger southern lot; backup paid lot at New York Hall of Science ($12, 2-min walk) (parkingaccess.com). Drive from IC is ~30 min via Prospect Expy → BQE → Grand Central Pkwy; well over the 10-25 min target, so frame as a 'Queens day' itinerary rather than an IC-extension. Pair with Lemon Ice King of Corona (6 min), Louis Armstrong House Museum (~8 min), or the Unisphere/FMCP itself for outdoor photos right at the door.",
+    "sources": [
+      {
+        "url": "https://queensmuseum.org/visit/",
+        "accessed": "2026-05-18T04:15:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Queens_Museum",
+        "accessed": "2026-05-18T04:15:00Z"
+      },
+      {
+        "url": "https://parkingaccess.com/blog/queensmuseum",
+        "accessed": "2026-05-18T04:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/queens-museum-corona",
+        "accessed": "2026-05-18T04:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T04:19:34.257Z"
+  },
+  {
+    "id": "tortilleria-nixtamal-corona",
+    "name": "Nixtamal (Tortilleria Nixtamal)",
+    "desc": "Heritage Corona taqueria grinding its own masa from soaked corn — tacos, tamales, tortillas you can taste the difference in.",
+    "longDesc": "Founded in 2008 by Fernando and Ros Ruiz as a tortilla supplier with a single artisanal machine, Nixtamal grew into a cult-classic Corona taqueria and became the official tortilla vendor of the US Open in 2022. The kitchen sticks to traditional nixtamalization — corn soaked, ground, and pressed in-house with no preservatives — turning out tacos al pastor, birria, shrimp cocktails, and mole-bathed enchiladas on tortillas that smell of the comal.",
+    "url": "https://nixtamal.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "corona",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-21:00",
+    "notes": "Original Tortilleria Nixtamal sit-down listing is marked CLOSED on Yelp and 'Out of Business' on NYC Tourism (nyctourism.com), but the rebranded 'Nixtamal' taqueria at the same 104-05 47th Ave address has an active website with weekend hours posted and was named official US Open tortilla vendor in 2022 (nixtamal.nyc). Strongly recommend calling 646.851.0090 same-day to confirm before driving up. Pairs naturally with Lemon Ice King of Corona two blocks north on 108th — savory masa before, Italian ices after.",
+    "sources": [
+      {
+        "url": "https://nixtamal.nyc/",
+        "accessed": "2026-05-18T04:15:00Z"
+      },
+      {
+        "url": "https://tortillerianixtamal.com/",
+        "accessed": "2026-05-18T04:15:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/tortilleria-nixtamal/",
+        "accessed": "2026-05-18T04:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tortilleria-nixtamal-corona-4",
+        "accessed": "2026-05-18T04:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T04:22:45.978Z"
   }
 ]
