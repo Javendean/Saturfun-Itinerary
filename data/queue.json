@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Museum of the Moving Image — permanent collection + screenings",
-    "reason": "Anchor that justifies the >25-min IC drive; Kyclades' relevance depends on having MoMI in the same day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:25:32.571Z"
-  },
-  {
-    "topic": "Astoria Park waterfront + Hell Gate Bridge views",
-    "reason": "Free, parkable, 5 min from Bohemian Hall — natural pre-beer-garden stop to round out an NW Queens track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:27:42.674Z"
-  },
-  {
-    "topic": "Museum of the Moving Image Astoria",
-    "reason": "Strong 'curious' anchor in same cluster; rainy-day fallback that pairs with Bohemian Hall for an afternoon→evening combo",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:27:42.674Z"
-  },
-  {
-    "topic": "Socrates Sculpture Park Long Island City",
-    "reason": "Outdoor sculpture park on the East River with parking; completes the photo/active leg of the NW Queens cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:27:42.674Z"
-  },
-  {
-    "topic": "Mu Ramen or Casa Enrique LIC for post-museum dinner",
-    "reason": "Strong LIC dinner anchors to convert a Noguchi/MoMI day into a full foodie+curious track before driving back to IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:29:54.214Z"
-  },
-  {
     "topic": "LeFrak Center at Lakeside Prospect Park (roller skating + cafe)",
     "reason": "Same eastern-cluster anchor as Audubon Center, active option, weekend skating + Bluestone Lane coffee — strong 'active' pairing for the same drive.",
     "requestedBy": "agent",
@@ -14506,5 +14476,77 @@
     "reason": "Both venues now in corpus; itinerary builder needs a track-level concept linking them rather than treating them as competitors",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T02:34:08.888Z"
+  },
+  {
+    "topic": "Kyclades Astoria Greek seafood",
+    "reason": "Memory already flags it as MoMI's paired food stop; ~5 min drive completes a Queens-day track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:36:18.557Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park waterfront (Long Island City)",
+    "reason": "Another free, parkable Queens waterfront stop ~10 min south of Astoria Park — extends the NW Queens track with an outdoor-art beat and Manhattan-skyline framing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:38:49.896Z"
+  },
+  {
+    "topic": "Pye Boat Noodle Astoria — Thai boat noodles",
+    "reason": "Strong, distinctive food anchor walkable to Bohemian Hall; rounds out an NW Queens track with a non-beer-garden dinner option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:38:49.896Z"
+  },
+  {
+    "topic": "Astoria Bier & Cheese 36th Ave — cheese counter + draft list",
+    "reason": "Daytime food/drink pairing for the Astoria cluster that doesn't compete with the Bohemian Hall beer-garden slot — gives the track a midday option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:38:49.896Z"
+  },
+  {
+    "topic": "Bohemian Hall & Beer Garden Astoria",
+    "reason": "Already implied by this entry's pairing logic — confirms the Astoria afternoon→evening combo and starts to form a second geographic cluster outside Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:41:14.506Z"
+  },
+  {
+    "topic": "Astoria Park and Hell Gate Bridge views",
+    "reason": "Active+photo vibe within the same cluster; gives the emerging Queens track a third pillar so corpus may justify an 'astoria' zone enum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:41:14.506Z"
+  },
+  {
+    "topic": "The Noguchi Museum Long Island City",
+    "reason": "Directly adjacent to Socrates (one block south on Vernon Blvd); the obvious indoor pairing to complete the NW Queens art cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:43:16.913Z"
+  },
+  {
+    "topic": "Rainey Park Astoria waterfront",
+    "reason": "Where the recommended Socrates overflow parking lot sits — short waterfront stroll with skyline views that bridges Socrates and a nearby food stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:43:16.913Z"
+  },
+  {
+    "topic": "Bahari Estiatorio Astoria Greek taverna",
+    "reason": "Top-rated weekend Greek lunch within a 5-min drive of Socrates — fills the foodie slot in the NW Queens cluster with car-friendly street parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:43:16.913Z"
+  },
+  {
+    "topic": "Adda Indian Canteen LIC — Chintan Pandya regional Indian dinner anchor in Hunters Point",
+    "reason": "Second high-conviction LIC dinner option for the Noguchi/MoMI track; James Beard-winning chef, similar 20-min drive from IC, fills the non-Mexican slot Mu Ramen vacated",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:45:53.096Z"
+  },
+  {
+    "topic": "Sek'end Sun LIC — natural-wine bar dinner spot a block from Casa Enrique",
+    "reason": "Backup/overflow when Casa Enrique is booked; same Hunters Point cluster, walk-in friendly, expands the LIC cluster beyond one anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:45:53.096Z"
+  },
+  {
+    "topic": "Add 'long-island-city' to Saturfun zone enum — schema gap surfaced during this research",
+    "reason": "Casa Enrique, Adda, MoMI, Noguchi, and any future LIC venue all currently misfile under greenpoint; needed before the LIC track ships",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:45:53.096Z"
   }
 ]

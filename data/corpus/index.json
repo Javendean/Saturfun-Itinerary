@@ -7776,28 +7776,25 @@
   {
     "id": "socrates-sculpture-park",
     "name": "Socrates Sculpture Park",
-    "desc": "Free 4.5-acre waterfront sculpture park on the East River with rotating outdoor commissions",
-    "longDesc": "An artist-founded outdoor museum on a reclaimed landfill at the LIC waterfront, Socrates is the only NYC park dedicated solely to large-scale contemporary sculpture and multimedia installations. The 40th-anniversary season includes the Socrates Annual 2025: Up/Rooted (through June 8, 2026) and the newly unveiled The Point — a revitalized acre reimagining public space and ecological care. Admission is free, gates open 9am to sunset daily.",
+    "desc": "Free outdoor sculpture park on the East River with rotating large-scale installations and Manhattan skyline views",
+    "longDesc": "A 5-acre waterfront park at 32-01 Vernon Blvd where reclaimed riverside landfill was transformed into an open-air museum and artist production space. Three major rotating exhibitions per year (currently 'The Socrates Annual 2025: Up/Rooted' through Jun 8, 2026), plus the Broadway Billboard series and free weekend programs. Admission is always free and the park is open 365 days a year from 9am to sunset.",
     "url": "https://socratessculpturepark.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
-      "curious",
       "photo",
+      "curious",
+      "active",
       "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-75 min",
+    "duration": "45-60 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "09:00-20:00",
-    "notes": "Free admission, no on-site parking except one ADA space — free street parking on Vernon Blvd and surrounding LIC blocks on weekends (socratessculpturepark.org). Pairs naturally with the Noguchi Museum across the street and with a Vernon Blvd lunch stop. Background pages change color with NYC sky conditions — true to the park's site-specific ethos.",
+    "hoursWeekend": "09:00-sunset",
+    "notes": "Actually in Long Island City / Astoria border (Queens) — closest zone enum match is greenpoint, just across Newtown Creek. No on-site parking except one ADA spot at Vernon Blvd & Broadway gate; use the small public lot at 33rd Rd & Vernon Blvd next to Rainey Park, or grab street parking nearby (source: socratessculpturepark.org FAQ). Free admission, no tickets. Pair naturally with The Noguchi Museum (one block south) and a Vernon Blvd bite for a full NW Queens half-day. Drive from Industry City: BQE northbound across the Kosciuszko, exit at 11th St/21st St — ~22 min off-peak, longer on weekend afternoons.",
     "sources": [
-      {
-        "url": "https://socratessculpturepark.org/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
       {
         "url": "https://socratessculpturepark.org/visit/directions-and-hours/",
         "accessed": "2026-05-17T00:00:00Z"
@@ -7807,20 +7804,24 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/parks/socrates-sculpture-park",
+        "url": "https://socratessculpturepark.org/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Socrates_Sculpture_Park",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T00:41:31.302Z"
+    "lastResearchedAt": "2026-05-18T02:43:16.889Z"
   },
   {
     "id": "casa-enrique-lic",
     "name": "Casa Enrique",
-    "desc": "NYC's only Michelin-starred Mexican — Chiapas-inflected lunch four blocks from MoMA PS1.",
-    "longDesc": "Chef Cosme Aguilar's love letter to his mother's Chiapas kitchen, holding a Michelin star continuously since 2014. Order the chicken mole de Piaxtla (almond, plantain, chocolate), enchiladas Doña Blanca in salsa verde, and aguachile negro; weekend service opens at 11am so it doubles cleanly as lunch before or after MoMA PS1, which is a 4-block walk away.",
+    "desc": "Michelin-starred Chiapas-leaning Mexican in Hunters Point LIC — the Noguchi/MoMI day's natural dinner anchor.",
+    "longDesc": "Chef Cosme Aguilar's white-walled Hunters Point room has held a Michelin star year after year for regional Mexican cooking rooted in Chiapas, Puebla, and San Luis Potosí. Signatures include the enchiladas de mole de Piaxtla, tacos de chivo (slow-cooked goat), and camarones a la diabla — refined but unfussy, the kind of meal that converts a museum afternoon into a proper night. Walk-in bar seats turn over reliably; the dining room books out on Resy.",
     "url": "https://casaenriquelic.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7834,33 +7835,45 @@
       "vegetarian",
       "gluten-free"
     ],
-    "priceBand": "$$",
-    "duration": "75-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "11:00-22:30",
-    "notes": "Actually in Long Island City (Queens) at 5-48 49th Ave — tagged 'greenpoint' as the nearest in-schema zone since LIC sits directly across Newtown Creek. ~0.4 mi / 8-min walk to MoMA PS1 (Michelin Guide). Weekend service starts 11am Sat & Sun, full lunch menu available (casaenriquelic.com hours). Drive from Industry City via Gowanus Expy → BQE → Pulaski Bridge runs ~15-22 min off-peak. Street parking is the norm but tight on weekends; several paid lots within 2 blocks (Yelp). Signature: mole de Piaxtla, enchiladas Doña Blanca, fish tacos, tres leches (The Infatuation; I Just Want To Eat review).",
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-22:30, Sun 11:00-22:15",
+    "notes": "Actual zone is Long Island City / Hunters Point, Queens — schema lacks a Queens enum so tagged as greenpoint (nearest, across the Pulaski Bridge); add 'long-island-city' to zone enum when expanding LIC coverage. Address 5-48 49th Ave, LIC 11101. Drive: take Gowanus Expy → BQE north → exit Jackson Ave, ~22 min from Industry City on a weekend evening (Yelp/Tripadvisor confirm). Parking is the friction point — street is hunt-and-pray, but the 45-40 Court Square municipal garage is 24/7 self-park and a 6-min walk (Tripadvisor Queens Forum). Pairs cleanly with a Noguchi Museum (9-04 33rd Rd) + MoMI afternoon: both ~6 min drive from Casa Enrique. Mu Ramen — the other candidate in this research pair — is permanently CLOSED, replaced by Kuku Chicken (lictalk.com, Yelp marks CLOSED), so the original A/B collapses to Casa Enrique uncontested. Vegetarian options solid (rajas poblanas, queso fundido); naturally GF-friendly given corn-tortilla base. Michelin star held continuously since 2014 (Michelin Guide).",
     "sources": [
       {
         "url": "https://casaenriquelic.com/",
-        "accessed": "2026-05-16T22:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-enrique",
-        "accessed": "2026-05-16T22:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/casa-enrique",
-        "accessed": "2026-05-16T22:00:00Z"
+        "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/casa-enrique",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/casa-enrique-long-island-city",
-        "accessed": "2026-05-16T22:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/casa-enrique",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://lictalk.com/mu-ramen-in-lic-has-closed-kuku-chicken-opens-in-location/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mu-ramen-new-york-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/blog/the-ultimate-guide-to-long-island-city-parking/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:05:25.257Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T02:45:53.071Z"
   },
   {
     "id": "dutch-kills-lic",
@@ -7956,45 +7969,44 @@
   {
     "id": "museum-of-the-moving-image",
     "name": "Museum of the Moving Image",
-    "desc": "Interactive film/TV museum in Astoria with Jim Henson gallery, hands-on sound/edit booths, and weekend screenings",
-    "longDesc": "MoMI sits in a converted Astoria Studios building and is the only U.S. museum dedicated to the art, history, and technology of moving images. The core 'Behind the Screen' permanent exhibition lets visitors record their own ADR, animate, and play vintage arcade cabinets, while the standalone Jim Henson Exhibition houses 47 original puppets including Kermit and a Fraggle Rock set. General admission ($10–$20) includes a same-day ticket to a regularly scheduled film screening when one is on the calendar.",
+    "desc": "Interactive film/TV/digital-media museum in Astoria with the permanent Jim Henson exhibition",
+    "longDesc": "MoMI is the only US museum devoted to the art, history, technique, and technology of moving images, housed in a converted Astoria Studios building. The core experience is 'Behind the Screen' — hands-on stations where you dub dialogue, animate flipbooks, and play arcade-era games — plus the permanent Jim Henson Exhibition with original Muppets. A strong rainy-day curious anchor that pairs naturally with Bohemian Hall & Beer Garden 10 minutes away for an afternoon-into-evening combo.",
     "url": "https://movingimage.org/visit/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "curious",
-      "chill",
-      "foodie"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "22 min",
+    "duration": "2-3 hrs",
+    "driveFromIC": "25 min",
     "hoursWeekend": "11:00-18:00",
-    "notes": "Actually located in Astoria, Queens (36-01 35th Ave) — closest mapped zone is greenpoint, ~22 min drive from IC via BQE + Pulaski Bridge. Weekend street parking is plentiful around the museum and meters are free on Sundays (Yelp, Parkopedia). Pair with Astoria food crawl: Taverna Kyclades for Greek seafood or Sek'end Sun nearby. Current rotating shows include Jim Henson + Behind the Screen permanents; check site for temporary exhibits like 'Stories and Set Designs for The Sopranos' (source: movingimage.org). Tickets $10 general / $20 adult range — buy online to skip line.",
+    "notes": "Located at 36-01 35th Ave, Astoria, Queens — NOT Brooklyn; zone tagged 'greenpoint' as nearest enum value across Newtown Creek (corpus zone enum lacks an Astoria option). Adult admission $20, seniors/students $12, kids $10 (yelp.com, movingimage.org). Weekend hours Sat-Sun 11am-6pm. Parking: street meters free on Sundays, or 10% discount at PV Parking Corp, 34-11 Steinway St with stub validation at front desk. Drive from IC via BQE ~22-28 min depending on weekend traffic — call it 25. Pairs with Bohemian Hall (5-8 min drive) for the rainy-day afternoon→evening combo flagged in the queue reason.",
     "sources": [
       {
-        "url": "https://movingimage.org/visit/museum-admission-tickets/",
-        "accessed": "2026-05-16T08:30:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/museum-of-the-moving-image-astoria",
-        "accessed": "2026-05-16T08:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://en.parkopedia.com/parking/attraction/museum-of-the-moving-image-queens-ny/",
-        "accessed": "2026-05-16T08:30:00Z"
+        "url": "https://movingimage.org/visit/museum-admission-tickets/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Attraction_Review-g29837-d136165-Reviews-Museum_of_the_Moving_Image-Astoria_Queens_New_York.html",
-        "accessed": "2026-05-16T08:30:00Z"
+        "url": "http://www2.movingimage.us/visit/hours",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/museum-of-the-moving-image-parking",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:25:38.719Z"
+    "lastResearchedAt": "2026-05-18T02:41:14.479Z"
   },
   {
     "id": "brooklyn-botanic-garden",
@@ -36253,27 +36265,31 @@
   },
   {
     "id": "astoria-park-hell-gate",
-    "name": "Astoria Park & Hell Gate Bridge Waterfront",
-    "desc": "Free Queens waterfront park with sweeping Hell Gate + Triborough bridge views, great for photos and a walk",
-    "longDesc": "65-acre East River park bounded by the Hell Gate Bridge to the north and the RFK/Triborough to the south — the promenade along Shore Boulevard frames Manhattan, Randall's Island, and the steel-arch Hell Gate at golden hour. NYC's oldest and largest public pool sits inside the park, with a running track, tennis courts, playgrounds, and shaded lawns. Free, no admission, dog-friendly, and the waterfront walk is the photo anchor.",
+    "name": "Astoria Park & Hell Gate Bridge Views",
+    "desc": "East River park with promenade framed by the Hell Gate and RFK bridges — free parking, open till 11pm.",
+    "longDesc": "Astoria Park runs along Shore Boulevard on the Queens side of the East River, wedged between the 1916 Hell Gate steel-arch bridge and the Triborough/RFK Bridge. A 30-ft-wide road separates the lawn from the seawall promenade, giving you uninterrupted sightlines for golden-hour photos, bench-sitting, or a short waterfront walk. Two free parking lots (one under the RFK at the western end of Hoyt Ave N, another near the 19th St entrance) make it genuinely car-friendly, and it sits about 5 minutes from Bohemian Hall Beer Garden.",
     "url": "https://www.nycgovparks.org/parks/astoria-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
+      "chill",
       "photo",
-      "active",
-      "chill"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "60-90 min",
-    "driveFromIC": "22 min",
+    "duration": "30-45 min",
+    "driveFromIC": "27 min",
     "hoursWeekend": "06:00-23:00",
-    "notes": "Queens cluster anchor (zone field constrained to Brooklyn list — geographically Astoria, Queens, ~22 min from IC via BQE off-peak). Park is free; nearest parking is street + the lot at 23-69 19th St (NYC Parks). Hell Gate Bridge is best framed from Shore Blvd between Hoyt Ave N and Ditmars Blvd — late afternoon for warm light on the steel arch (Astoria Park Alliance). Pairs cleanly with Kyklades (10-min walk south) and Bohemian Hall (~10-min drive east) for a full Queens day.",
+    "notes": "Actual location is Astoria, Queens (zone enum lacks a Queens option — slotted under greenpoint as nearest Brooklyn neighbor across Newtown Creek). Free admission, open 6 AM–11 PM daily (nycgovparks.org). Two free, wheelchair-accessible parking lots: one north of the running track beneath the RFK Bridge at the western end of Hoyt Ave N, another near the 19th St entrance (nycgovparks.org). The Shore Boulevard promenade is the prime spot for Hell Gate Bridge photos — the 1916 steel arch was the world's longest at completion and served as the design prototype for the Sydney Harbour Bridge (en.wikipedia.org). ~5 min drive / 1.2 mi to Bohemian Hall & Beer Garden — natural pre-beer-garden golden-hour stop on an NW Queens track. Bring layers; the waterfront is consistently windier than inland Astoria.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/astoria-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/astoria-park/highlights",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -36281,18 +36297,14 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "http://www.astoriaparkalliance.org/explore-astoria-park",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.spotangels.com/nyc/astoria-park-parking",
+        "url": "https://en.wikipedia.org/wiki/Hell_Gate_Bridge",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T02:05:49.924Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T02:38:49.870Z"
   },
   {
     "id": "mars-astoria",
