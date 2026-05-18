@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Van Voorhees Park Brooklyn Heights (alternate sandwich picnic spot near BQE)",
-    "reason": "Driving-friendly alternative outdoor picnic spot for sandwich-from-deli pairings, expands picnic corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:28:47.062Z"
-  },
-  {
-    "topic": "Smith Street stretch Carroll Gardens (post-picnic stroll)",
-    "reason": "Logical 'what to do after the picnic' — shops + cafes within the same cluster as Carroll Park",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:28:47.062Z"
-  },
-  {
-    "topic": "G. Esposito & Sons Jersey Pork Store on Court St",
-    "reason": "Adjacent 100-year-old pork store half a block from Caputo's; essential second stop on a Court St food crawl track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:30:39.663Z"
-  },
-  {
-    "topic": "Frankie's 457 Spuntino Court Street",
-    "reason": "Sit-down Italian on the same Court St strip with a famous back garden; anchors the lunch slot of a Carroll Gardens food crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:30:39.663Z"
-  },
-  {
-    "topic": "Mazzola Bakery Court Street Brooklyn",
-    "reason": "Old-school Carroll Gardens bakery known for lard bread and prosciutto bread; rounds out the crawl with carbs and morning pastry",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:30:39.663Z"
-  },
-  {
     "topic": "Smack Mellon gallery DUMBO",
     "reason": "Free nonprofit gallery at 92 Plymouth St — literally next door to A.I.R., the obvious double-feature anchor for a DUMBO art track.",
     "requestedBy": "agent",
@@ -15436,5 +15406,95 @@
     "reason": "Closes the loop on the 'pickup heroes, drive to view' itinerary the user is assembling",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T05:45:22.357Z"
+  },
+  {
+    "topic": "Sahadi's Atlantic Ave Middle Eastern deli (sandwiches + mezze for picnic)",
+    "reason": "Natural sandwich/picnic pairing 3 min drive from Van Voorhees; expands deli corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:47:38.059Z"
+  },
+  {
+    "topic": "Cobble Hill Park (Clinton + Congress St) as alternate picnic spot",
+    "reason": "Quieter Cobble Hill green 4 min away; rounds out driving-friendly picnic options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:47:38.059Z"
+  },
+  {
+    "topic": "Lassen & Hennigs Montague St sandwich shop Brooklyn Heights",
+    "reason": "Classic Heights deli for grab-and-go picnic supplies; complements Van Voorhees Park entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:47:38.059Z"
+  },
+  {
+    "topic": "Books Are Magic (Smith Street, Carroll Gardens)",
+    "reason": "Marquee stop on the stroll — deserves its own venue entry with hours, events and a real photoUrl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:49:43.961Z"
+  },
+  {
+    "topic": "Esposito's Pork Store, Court Street",
+    "reason": "Iconic Carroll Gardens Italian specialty food shop one block off Smith — pairs naturally with the stroll cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:49:43.962Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino, Court Street",
+    "reason": "Classic dinner cap to a Smith/Court stroll; expands food-track depth in carroll-gardens zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:49:43.962Z"
+  },
+  {
+    "topic": "Court Street Grocers (Carroll Gardens) — Italian-American sandwich shop replacement",
+    "reason": "Live replacement for the Esposito's slot on a Court St food crawl — celebrated turkey/uncle muffolet sandwiches, walkable to Caputo's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:51:55.361Z"
+  },
+  {
+    "topic": "Esposito's Pork Shop at 357 5th Ave, Park Slope (different family, still open)",
+    "reason": "Last surviving traditional Italian pork store in the area; preserves the same food-crawl thesis with a still-operating venue ~10 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:51:55.361Z"
+  },
+  {
+    "topic": "Mazzola Bakery (192 Union St, Carroll Gardens) — lard bread",
+    "reason": "Old-school Italian bakery half a block off Court; lard bread + prosciutto bread fill the Esposito-shaped hole on a charcuterie crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:51:55.361Z"
+  },
+  {
+    "topic": "Frankie's 457 Spuntino (Court St, Carroll Gardens) — sit-down anchor",
+    "reason": "Strong sit-down Italian anchor on Court St if the crawl needs a meal venue, not just provisions stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:51:55.361Z"
+  },
+  {
+    "topic": "Prime Meats Court Street Carroll Gardens",
+    "reason": "Sister/era-mate of Frankies on the same Court St strip — solid backup if Frankies is booked; rounds out Carroll Gardens dining options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:53:50.955Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods Court Street",
+    "reason": "Iconic Carroll Gardens Italian deli (fresh mozz, prepared foods) — a post-lunch browsing stop that deepens the Court St food-crawl narrative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:53:50.955Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods Court Street Carroll Gardens fresh mozzarella",
+    "reason": "Sister-institution Italian deli one block from Mazzola — completes a Court Street old-school food walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:55:40.174Z"
+  },
+  {
+    "topic": "Court Pastry Shop Carroll Gardens sfogliatelle cannoli",
+    "reason": "Adjacent classic Italian pastry shop — gives chat agent a sweet counterpart to Mazzola's bread focus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:55:40.174Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino Carroll Gardens lunch backyard garden",
+    "reason": "Logical lunch stop within 5-min walk of Mazzola — extends a Carroll Gardens track beyond just bakeries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:55:40.175Z"
   }
 ]

@@ -2623,9 +2623,9 @@
   {
     "id": "frankies-457-spuntino",
     "name": "Frankies 457 Spuntino",
-    "desc": "Castronovo/Falcinelli's surviving Carroll Gardens flagship — 20+ years of garden-room Italian on Court St.",
-    "longDesc": "The original 2004 Frank Castronovo + Frank Falcinelli Italian-American — the sibling that outlasted Prime Meats (closed 2018) and Frankies 570 West Village (closed). Cavatelli with browned sage butter, meatballs in garlicky tomato, sliced ribeye, branzino, and house sausage anchor the menu; same card runs lunch through dinner seven days a week with seasonal specials. The ivy-and-brick back garden under a glass roof is the move on weekends, fogged-up windows out front in shoulder-season.",
-    "url": "https://www.frankiesspuntino.com/",
+    "desc": "Beloved 20-year-old Carroll Gardens Italian with a leafy back garden and carriage-house seating.",
+    "longDesc": "Frankies 457 anchors the Court Street strip with seasonal, ingredient-driven Italian-American cooking — cavatelli with meatballs, sliced ribeye, Caesar, and a constantly rotating specials board. The back garden plus the enclosed carriage-house shed roughly double the indoor footprint, making it the marquee Carroll Gardens lunch spot for a food crawl. Open 7 days 11am–10pm with the same full menu lunch and dinner, so a midday seating slots cleanly between Smith Street coffee and a Red Hook detour.",
+    "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
@@ -2638,32 +2638,36 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
-    "notes": "457 Court St, Brooklyn NY 11231; phone (718) 403-0033. Official site confirms Sun-Thu 11a-10p, Fri-Sat 11a-11p as of May 2026 (frankiesspuntino.com/location/frankies457-restaurant). Reservations via OpenTable; walk-ins workable at the bar. Same menu lunch + dinner. The garden room (glass-roofed, ivy on brick) is the signature seat — request when booking. Family lineage: Prime Meats (465 Court, closed Dec 2018) and Frankies 570 (West Village, closed) are both dormant archive entries; only 457 Court remains operational. Weekend parking is metered Court St + free side streets (Luquer/Nelson/4th Pl). Pairs naturally with Court Street Grocers daytime + a Public Records nightcap.",
+    "duration": "75-90 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "457 Court St, Carroll Gardens, between 4th Pl & Luquer (Frankies official site). Same full menu lunch + dinner 7 days, with seasonal specials (Frankies menus page). Back garden + heated shed roughly doubles indoor capacity; request outdoor at booking — it's the highlight (Yelp / Tripadvisor consensus). Street parking on Court/Luquer/4th Pl is workable on weekend midday but tightens after 1pm; reserve via OpenTable. ~13 min from Industry City via Hamilton Ave → Smith St → Court St.",
     "sources": [
       {
         "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
-        "accessed": "2026-05-17T16:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.frankiesspuntino.com/menus/",
-        "accessed": "2026-05-17T16:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/frankies-457-spuntino-brooklyn-3",
-        "accessed": "2026-05-17T16:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.opentable.com/r/frankies-spuntino-brooklyn",
-        "accessed": "2026-05-17T16:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d544913-Reviews-Frankies_457_Spuntino-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T16:08:24.100Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:53:50.924Z"
   },
   {
     "id": "win-son-bakery-williamsburg",
@@ -16463,15 +16467,15 @@
   {
     "id": "mazzola-bakery",
     "name": "Mazzola Bakery",
-    "desc": "1928 Italian-American bakery at Henry & Union — famed lard bread + sfogliatelle, two blocks from Court Street Grocers",
-    "longDesc": "Operating continuously since 1928 on the corner of Henry and Union, Mazzola is Carroll Gardens' living Italian-American institution. Order the lard bread — a tender, browned loaf studded with Genoa salami, sharp provolone, and cracked black pepper — alongside sfogliatelle and biscotti from the case. Two blocks from Court Street Grocers, so one parking spot anchors a single-block morning loop.",
+    "desc": "Carroll Gardens institution since 1928 — lard bread, prosciutto bread, and morning pastries (cash only)",
+    "longDesc": "Founded by Nicolo Mazzola in 1928, this Union Street old-school Italian bakery is famous for its lard bread — dough kneaded with Genoa salami, provolone, black pepper, and lard — selling close to 3,000 loaves around Christmas. Alongside ~20 artisan breads they now stock coffee, bagels, and pastries, making it a perfect morning carb anchor for a Carroll Gardens crawl. Cash only.",
     "url": "https://mazzolabakerycafe.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
       "foodie",
-      "curious"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
@@ -16480,33 +16484,29 @@
     "duration": "20-30 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "Sat 7:00-19:00, Sun 7:00-18:00",
-    "notes": "Pair with Court Street Grocers (485 Court St, ~2 blocks east) for a single-block morning loop — grab lard bread + pastries here, then sandwich provisions at CSG (Yelp, mazzolabakerycafe.com). Lard bread itself contains pork + dairy; sfogliatelle, biscotti, and most pastries are vegetarian. Street parking on Henry/Union typically findable early Saturday/Sunday before 10am (Bklyner). Cash-friendly, line moves fast.",
+    "notes": "Located at 192 Union Street, Carroll Gardens (NOT Court Street — topic note was approximate; Mazzola has been at the Union & Henry corner since 1928) (mazzolabakerycafe.com). Cash only — bring small bills (yelp.com). Lard bread is the signature; prosciutto bread and St. Joseph's zeppole are seasonal standouts (bklyner.com). Pair with espresso + sfogliatelle as a morning kickoff before a Red Hook or Cobble Hill afternoon. Street parking available on weekends along Union/Sackett.",
     "sources": [
       {
         "url": "https://mazzolabakerycafe.com/",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/mazzola-bakery-brooklyn",
-        "accessed": "2026-05-16"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/mazzola-bakery",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://bklyner.com/lard-bread-is-a-holiday-tradition-at-this-90-year-old-brooklyn-bakery/",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/mazzola-bakery-carroll-gardens/",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T18:35:32.984Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:55:40.139Z"
   },
   {
     "id": "hamilton-ave-lorraine-st-bqe-exit",
@@ -38096,5 +38096,141 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T05:40:50.885Z"
+  },
+  {
+    "id": "van-voorhees-park-brooklyn-heights",
+    "name": "Van Voorhees Park",
+    "desc": "Tree-shaded Brooklyn Heights pocket park over the BQE — lawn, benches, splash pad pavilion, easy deli-sandwich picnic stop",
+    "longDesc": "A leafy multi-block park straddling Brooklyn Heights and Cobble Hill, perched directly above the BQE trench. Mix of shaded benches, an open lawn across Hicks, a central pavilion that becomes a summer splash pad, plus tennis/handball courts — a low-key spot to spread out a sandwich pickup from Sahadi's or Lassen & Hennigs without the Brooklyn Bridge Park crowds.",
+    "url": "https://www.nycgovparks.org/parks/van-voorhees-park/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "Entrance on Congress St between Columbia and Hicks; address 81 Congress St, Brooklyn NY 11201 (nycgovparks.org). Named for Tracy S. Voorhees, WWII-era attorney; originally the Jeannie Scott Dike Playground one block north (nycgovparks history). Tennis season Apr 1 – Sunday before Thanksgiving, 8am–dusk on the 2 hard courts (breaksports.com). Pavilion converts to splash pad in summer; baby + big-kid playground wings, restrooms, handball, big field across the street (wanderboat.ai). Parking: free street parking on Columbia/Hicks/Congress is realistic on weekends — easier than Brooklyn Bridge Park. BQE roar is present but the tree canopy softens it; pair with sandwiches from Sahadi's (Atlantic Ave, 3 min drive) or Lassen & Hennigs on Montague.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/van-voorhees-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/van-voorhees-park/history",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/van-voorhees-park/facilities/tennis",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.breaksports.com/courts/ny/brooklyn/van-voorhees-park",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://wanderboat.ai/attractions/united-states/new-york/van-voorhees-playground/xc_VA15URPen-Xyh8D8ojw",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:47:38.028Z"
+  },
+  {
+    "id": "smith-street-carroll-gardens-stroll",
+    "name": "Smith Street Stroll (Carroll Gardens)",
+    "desc": "Tree-lined Brooklyn main drag of indie bookshops, boutiques, cafes and brownstone charm — perfect post-picnic walk.",
+    "longDesc": "Smith Street is the livelier of Carroll Gardens' two parallel arteries, packed with independent boutiques, vintage shops, specialty food stores and cafes between Atlantic Ave and 9th St. Highlights include Books Are Magic (the indie bookshop opened by author Emma Straub), Esposito's Pork Store for house-made sopressata, and a curated designer-goods shop at 331 Smith Street. Pair it with the parallel Court Street stretch for the highest concentration of cafes and brownstone side-street detours.",
+    "url": "https://www.jauntguide.com/guide/strolling-smith-street",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "10:00-22:00",
+    "notes": "Anchor the walk at Carroll Park then head north on Smith — most shops open by 11am Sat/Sun (Tripadvisor). Books Are Magic on Smith doubles as an event space for author signings (nycbookstores.org). Independent designer boutique sits at 331 Smith (theshopkeepers.com). Weekend metered parking on Smith fills fast; better luck on Bond or President St one block over. Pair this with the post-picnic Carroll Park cluster for a 2-3 hour afternoon block.",
+    "sources": [
+      {
+        "url": "https://www.jauntguide.com/guide/strolling-smith-street",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60827-d216225-Reviews-Smith_Street-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycbookstores.org/books-are-magic-smith-st/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://theshopkeepers.com/guides/cobble-hill/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://nycaller.com/carroll-gardens-local-spots-guide/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:49:43.932Z"
+  },
+  {
+    "id": "g-esposito-sons-pork-store",
+    "name": "G. Esposito & Sons Jersey Pork Store",
+    "desc": "PERMANENTLY CLOSED (April 2023): 100-year-old Carroll Gardens pork store at 357 Court St — sausage, soppressata, prosciutto bread.",
+    "longDesc": "G. Esposito & Sons opened in 1922 (originally on President St, moved to 357 Court St in 1977) and shuttered on April 10, 2023 after a century in business. Third-generation Italian butcher famous for handmade dried sausages, soppressata, pepperoni, prosciutto bread, and eggplant pickled in a 100-year-old cask; pork was still sourced from the same New Jersey supplier the family used two generations back. The closure leaves a hole on the Court St food crawl track and means any itinerary anchoring there needs a live replacement.",
+    "url": "https://www.yelp.com/biz/g-esposito-and-sons-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "15-30 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "CLOSED — business shuttered April 10, 2023",
+    "notes": "PERMANENTLY CLOSED — do not promote to itinerary. Adjacent to Caputo's Fine Foods (still open at 460 Court) but no longer a live stop. Building at 357 Court St may host a successor tenant; verify before scheduling. Original 1922 founding by Giovanni Esposito from Naples (Brooklyn Paper). Famous for handmade soppressata at $13-15/lb, prosciutto bread, eggplant in century-old cask (Brooklyn Eagle, South Brooklyn Post). Closed due to high rent + declining demand + no fourth-generation successor (Brooklyn Paper).",
+    "sources": [
+      {
+        "url": "https://www.brooklynpaper.com/100-carroll-gardens-pork-g-esposito-sons/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2023/04/11/after-100-years-brooklyn-pork-store-esposito-sons-closes-its-doors/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/g-esposito-and-sons-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "http://southbrooklynpost.com/2016/12/espositos-soppressat/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T05:51:55.333Z"
   }
 ]
