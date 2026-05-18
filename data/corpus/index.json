@@ -17965,45 +17965,45 @@
   {
     "id": "gantry-plaza-state-park",
     "name": "Gantry Plaza State Park",
-    "desc": "Restored gantry cranes, Pepsi-Cola sign, and the most cinematic Midtown skyline view in Queens.",
-    "longDesc": "A 12-acre LIC waterfront park built around the preserved Long Island Rail Road float-bridge gantries, with four piers that put you directly across the East River from the UN and Midtown. The restored neon Pepsi-Cola sign and the gantries themselves are a top-tier golden-hour photo backdrop, and the lawn + piers make it an easy chill stop before or after dinner in LIC. Free, open daily 8:00-22:00, with a small dedicated park parking lot at 46th Ave & Center Blvd plus several commercial garages within two blocks.",
-    "url": "https://parks.ny.gov/parks/149",
-    "photoUrl": "",
+    "desc": "12-acre LIC waterfront park with iconic Pepsi sign, restored gantries, and Midtown skyline views",
+    "longDesc": "A 12-acre East River park in Long Island City built on a former rail/barge yard, anchored by two restored 1925 transfer gantries and the landmarked 1936 Pepsi-Cola neon sign. Four piers extend over the water for direct skyline views of Midtown, the UN, and the Empire State Building, with a small on-site parking lot off 2nd Street making it one of the few drive-friendly waterfront stops in NYC.",
+    "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
+    "photoUrl": "https://parks.ny.gov/photos/parks/149/main/Gantry_Plaza_State_Park.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
       "photo",
+      "chill",
       "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "45-60 min",
-    "driveFromIC": "22 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "08:00-22:00",
-    "notes": "SCHEMA GAP: this venue is in Long Island City, Queens, not Industry City. Zoned to 'industry-city' as the closest legal enum value pending the `long-island-city` addition flagged in this crawl's reason. Route from IC: BQE N -> Pulaski Bridge -> 11th St (~22 min off-peak, 30+ min Sat afternoon). Park lot at 46th Ave/Center Blvd fills fast on weekends; SpotHero garages on Center Blvd and 5th St are reliable backups (source: spothero.com). Free entry, no reservation, dogs on leash, restrooms on site (source: parks.ny.gov, nyctourism.com).",
+    "notes": "Free admission. Small on-site parking lot — entrance 30 yards south of 54th Ave on 2nd Street; arrive before noon on summer weekends or fall back to street parking on 49th/50th Ave (NYS Parks PDF directions). Best photo windows: golden hour for the Pepsi sign lit against Manhattan, and from the north pier looking back at the gantries. Pair naturally with a coffee/pastry from Sweetleaf or LIC Market a few blocks east. Bathrooms on-site; benches and lawn for a chill pause after the drive.",
     "sources": [
       {
-        "url": "https://parks.ny.gov/parks/149",
-        "accessed": "2026-05-16T20:25:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/places/gantry-plaza-state-park/",
-        "accessed": "2026-05-16T20:25:00Z"
+        "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Gantry_Plaza_State_Park",
-        "accessed": "2026-05-16T20:25:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://spothero.com/destination/nyc/gantry-plaza-state-park-parking",
-        "accessed": "2026-05-16T20:25:00Z"
+        "url": "https://parks.ny.gov/documents/parks/GantryPlazaPublicTransitandDrivingDirectionsforGantryPlazaStatePark.pdf",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://secretnyc.co/gantry-plaza-state-park-lic/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T20:24:52.267Z"
+    "lastResearchedAt": "2026-05-18T00:46:10.040Z"
   },
   {
     "id": "carroll-park",
@@ -35486,5 +35486,193 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T00:35:17.875Z"
+  },
+  {
+    "id": "coffeed-brooklyn-grange-lic",
+    "name": "COFFEED at Brooklyn Grange LIC (Permanently Closed)",
+    "desc": "Former farm-to-cup cafe under Brooklyn Grange's LIC rooftop farm — both venues closed in 2022.",
+    "longDesc": "COFFEED's flagship at 37-18 Northern Blvd opened in 2012 on the ground floor of the Standard Motor Products Building, sourcing produce from the Brooklyn Grange rooftop farm directly upstairs and donating 5-10% of revenue to neighborhood charities. Brooklyn Grange ceased operating its LIC rooftop in 2022 and handed the lease to Sky Farm LIC (a Variety Boys & Girls Club of Queens project); COFFEED's LIC locations are marked permanently closed on Yelp as of March 2026. The cafe space is now occupied by Standard Cafe, a separate tenant operating Mon-Fri breakfast/lunch service.",
+    "url": "https://www.brooklyngrangefarm.com/blog/sky-farm-a-new-chapter-for-the-lic-roof",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "CLOSED — permanently",
+    "notes": "DO NOT PROMOTE — venue is permanently closed. COFFEED LIC flagship marked CLOSED on Yelp (yelp.com/biz/coffeed-lic-flagship-long-island-city, accessed 2026-05-17). Brooklyn Grange exited the Northern Blvd rooftop in 2022; successor is Sky Farm LIC under Variety Boys & Girls Club of Queens (brooklyngrangefarm.com/blog/sky-farm-a-new-chapter-for-the-lic-roof). Address 37-18 Northern Blvd is in the Standard Motor Products Building — note this is NOT on Vernon Blvd, so the original 'Vernon Blvd coffee stop' premise doesn't fit even when it was open. For an actual Vernon-Blvd-adjacent stop extending the Rainey Park / Socrates Sculpture Park drive, see enqueued Overflow Coffee (46-36 Vernon Blvd, open Sat/Sun 7a-6p, donates 5% to Renew Queens) and Sweetleaf Coffee Roasters. IC→37-18 Northern Blvd ≈ 20-25 min via BQE; street parking weekends near Brooklyn Grange building is generally easy.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/coffeed-lic-flagship-long-island-city",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.brooklyngrangefarm.com/blog/sky-farm-a-new-chapter-for-the-lic-roof",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.brownstoner.com/queens/long-island-city/new-coffee-shop-in-lic-partners-with-rooftop-neighbor-brooklyn-grange-farm/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/coffeed-lic/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://licpost.com/overflow-coffee-long-island-city",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T00:44:09.394Z"
+  },
+  {
+    "id": "astoria-seafood-lic",
+    "name": "Astoria Seafood",
+    "desc": "Pick-your-fish market + BYO-cooking hybrid in LIC — chaotic, cheap, iconic seafood lunch",
+    "longDesc": "A working fish market with a no-frills back-of-house kitchen: you walk to the ice display, choose your whole fish or shellfish by the pound, then hand it over to be grilled, fried, or steamed for a flat per-pound cook fee. Service is cash-friendly and brisk; the room is fluorescent-lit and loud, but the seafood is some of the freshest you can buy retail in NYC. It's the scrappy, half-the-price counterpart to Mar's polished Sunset Park seafood — same arc, opposite vibe. CRITICAL: closed Sunday, so it only fits a Saturday slot.",
+    "url": "https://www.astoriaseafoodny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-21:00; Sun CLOSED",
+    "notes": "Geographic outlier: actually in Long Island City, Queens (37-10 33rd St) — mapped to greenpoke as nearest Brooklyn zone; ~20-25 min drive from IC via BQE with weekend street parking on 33rd/35th Sts. Picking model: choose fish by the pound at the market counter, pay a flat cook fee (per their site/Yelp) — total stays moderate compared to sit-down seafood (Yelp). Phone (718) 392-2680. SUNDAY CLOSED is the binding constraint — schedule Saturday only (astoriaseafoodny.com hours; Yelp confirmed May 2026).",
+    "sources": [
+      {
+        "url": "https://www.astoriaseafoodny.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.astoriaseafoodny.com/fishmarket",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/astoria-seafood-long-island-city-3",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/astoria-seafood",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T00:48:14.243Z"
+  },
+  {
+    "id": "bahari-estiatorio-astoria",
+    "name": "Bahari Estiatorio",
+    "desc": "Astoria Greek estiatorio famous for charred octopus and cold mezze platter, casual and family-run.",
+    "longDesc": "A neighborhood Hellenic taverna on Broadway in Astoria with an open kitchen and a deep mezze bench: a cold-dip platter (taramosalata, melitzanosalata, skordalia, tyrokafteri, tzatziki) with grilled pita, baked feta in a ceramic crock, and homemade spanakopita with shatter-flaky phyllo. The signature Oktapodi Scharas — grilled marinated octopus finished with olive oil and red wine vinegar — is the order-anchor; lamb chops and saganaki round out a lunch easily built around shared small plates.",
+    "url": "https://www.bahariestiatorio.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Actually located in Astoria, Queens (31-14 Broadway, NY 11106) — closest enum value 'greenpoint' used as cross-river proxy since Astoria isn't in the Brooklyn-zone enum (Bahari official site). Drive from Industry City is BQE-northbound, ~25 min off-peak weekends; pairs naturally with the LIC/Socrates Sculpture Park day. Mezze-first ordering keeps lunch under $25/pp; octopus + a couple cold dips is the canonical move. Weekend hours 11am–9pm Sat/Sun confirmed via Yelp listing (Yelp, accessed 2026-05-17). Excellent vegetarian coverage via mezze (spinach pie, baked feta, the cold-dip platter).",
+    "sources": [
+      {
+        "url": "https://www.bahariestiatorio.com/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.bahariestiatorio.com/menu",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bahari-estiatorio-astoria",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.qgazette.com/articles/bahari-estiaorio-2/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.opentable.com/r/bahari-estiatorio-astoria",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T00:50:41.238Z"
+  },
+  {
+    "id": "coffeed-brooklyn-grange-lic-closed",
+    "name": "COFFEED at Brooklyn Grange LIC [PERMANENTLY CLOSED]",
+    "desc": "Closed (March 2026 per Yelp). Former rooftop-farm cafe under Brooklyn Grange at 37-18 Northern Blvd, LIC.",
+    "longDesc": "COFFEED's flagship was a charity-driven coffee shop on the ground floor of the Standard Motor Products building, directly below Brooklyn Grange's 1-acre rooftop farm, sourcing seasonal produce from upstairs (Brownstoner, 2012). It is now permanently closed (Yelp listing marked CLOSED, March 2026). Brooklyn Grange itself still operates the rooftop above (37-18 Northern Blvd, LIC) for tours, events, and farmers-market style produce sales.",
+    "url": "https://www.google.com/maps/place/37-18+Northern+Blvd,+Long+Island+City,+NY+11101",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "N/A (closed)",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Closed permanently (was Sat-Sun 9:00-16:00)",
+    "notes": "DO NOT BOOK — flagship at 37-18 Northern Blvd, LIC is permanently closed (Yelp, Mar 2026). Originally opened Sept 2012 as locally-sourced cafe paired with Brooklyn Grange rooftop farm above (Brownstoner). 10% of beverage / 5% of food sales went to local charities (Edible Queens). Brooklyn Grange itself is still active above the building and worth keeping in the corpus as a separate entry (rooftop farm tours, weekend events). For the Mar's + Noguchi LIC morning, route coffee through Sweetleaf Jackson Ave or Partners Coffee LIC instead.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/coffeed-lic-flagship-long-island-city",
+        "accessed": "2026-05-17T00:50:00Z"
+      },
+      {
+        "url": "https://www.brownstoner.com/queens/long-island-city/new-coffee-shop-in-lic-partners-with-rooftop-neighbor-brooklyn-grange-farm/",
+        "accessed": "2026-05-17T00:50:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/coffeed-lic/",
+        "accessed": "2026-05-17T00:50:00Z"
+      },
+      {
+        "url": "https://ediblequeens.ediblecommunities.com/drink/corporation-community",
+        "accessed": "2026-05-17T00:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-grange-farm-long-island-city",
+        "accessed": "2026-05-17T00:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T00:53:30.844Z"
   }
 ]
