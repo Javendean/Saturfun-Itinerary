@@ -15807,8 +15807,8 @@
   {
     "id": "the-long-island-bar",
     "name": "The Long Island Bar",
-    "desc": "Landmark 1951 corner bar with iconic neon, revived by Toby Cecchini for precise classic cocktails.",
-    "longDesc": "Atlantic + Henry corner spot opened in 1949/51 by Spanish immigrant Ramon Montero, reopened in 2013 by Cosmo-inventor Toby Cecchini and Joel Tompkins (vinepair.com). Original chrome diner interior, original red/green neon, and a tight menu of perfectly executed classics — Daiquiri, Gibson, Negroni — alongside a short food list. Walk-in only; arrive by 6pm on a Saturday or expect a wait.",
+    "desc": "Restored 1950s Cobble Hill bar with a top-tier martini, White Negroni, and a cult-favorite burger.",
+    "longDesc": "A neon-lit, leather-boothed Brooklyn institution at 110 Atlantic Ave, revived in 2013 by Toby Cecchini (often credited as co-inventor of the Cosmopolitan) and Joel Tompkins. The cocktail program is concise but flawless — perfectly filthy martinis, White Negronis, ice-cold pitchers of beer — and the short food menu punches above its weight with a celebrated burger and fried cheese curds. The vibe is dim, diner-nostalgic, and adult; ideal as a chill cocktail anchor when Williamsburg is too packed.",
     "url": "https://www.thelongislandbar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -15816,40 +15816,40 @@
     "vibe": [
       "chill",
       "romantic",
-      "curious"
+      "foodie"
     ],
     "dietary": [],
-    "priceBand": "$$",
+    "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "14 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "Sat-Sun 14:00-00:00",
-    "notes": "110 Atlantic Ave, Brooklyn NY 11201 (yelp.com). Walk-in only, no reservations. Closed Mondays; Tue-Fri 17:00-00:00, Sat-Sun 14:00-00:00 (thelongislandbar.com). Pairs cleanly with Grand Army (Boerum/Cobble corridor, ~8 min between) for a two-stop Late Night track. Street parking on Henry/Hicks tightens after 7pm; better to use the Atlantic Ave municipal lot or park near IC and rideshare back if going deep on cocktails. Co-owner Toby Cecchini is credited with inventing the modern Cosmopolitan (vinepair.com).",
+    "notes": "Walk-ins welcome; no reservations (Yelp, NYC Tourism). Closed Mondays; Tue-Fri 17:00-00:00. Street parking on Atlantic Ave / Henry St — usually findable on weekends but tight near dinner peak. The burger and cheese curds are the food order; cocktail list is longer than the food menu (Time Out, The Infatuation). Atlantic Ave puts it on the Cobble Hill / Brooklyn Heights line — sources consistently file it under Cobble Hill. Great alt-night swap for the Williamsburg cocktail slot — shorter drive from IC and more grown-up energy than a buzzy Wmsburg bar.",
     "sources": [
       {
         "url": "https://www.thelongislandbar.com/",
-        "accessed": "2026-05-17T22:25:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-long-island-bar-brooklyn",
-        "accessed": "2026-05-17T22:25:00Z"
-      },
-      {
-        "url": "https://vinepair.com/articles/long-island-bar-oral-history/",
-        "accessed": "2026-05-17T22:25:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/the-long-island-bar",
-        "accessed": "2026-05-17T22:25:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/the-long-island-bar",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/nightlife/the-long-island-bar/",
-        "accessed": "2026-05-17T22:25:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T22:22:50.620Z"
+    "lastResearchedAt": "2026-05-18T10:12:38.586Z"
   },
   {
     "id": "donna-williamsburg",
@@ -31038,41 +31038,49 @@
   {
     "id": "place-des-fetes",
     "name": "Place des Fêtes",
-    "desc": "Clinton Hill natural-wine bar with seafood-forward Catalan/SW-French small plates from the Oxalis team",
-    "longDesc": "An intimate corner wine bar at Greene & Cambridge from Redwood Hospitality (Oxalis, Cafe Mado, Laurel Bakery), pouring natural wines from Catalonia and southwest France against a rotating menu of seasonal small plates. Signature dishes lean seafood-forward — sardine toast with smoked butter, mussels en tinta with Szechuan peppercorns, flounder tartare — plated for a tweed-banquette date-night format rather than a full prix-fixe commitment. Opens at 5:30pm only, so this is a Saturday-evening closer, not a daytime stop.",
+    "desc": "Clinton Hill natural wine bar from Oxalis team; seafood-forward small plates, Catalan + SW France pours.",
+    "longDesc": "Place des Fêtes is a candlelit neighborhood wine bar in Clinton Hill from Redwood Hospitality (Oxalis, Cafe Mado, Laurel Bakery), focused on natural wines from Spain and France with a Catalan and southwest-France lean. The seasonal menu runs to small plates and sustainable seafood-forward dishes built around close farmer and fishery relationships. A back dining room and communal table host family-style chef's tastings with optional wine pairings.",
     "url": "https://www.pdfnyc.com/",
-    "photoUrl": "https://images.getbento.com/accounts/9dde1c96b0d142d502dec1e744f85d75/media/images/Place_des_Fetes_Natural_Wine_1.png?w=1000&fit=max&auto=compress,format&cs=origin&h=1000",
+    "photoUrl": "https://images.getbento.com/accounts/9dde1c96b0d142d502dec1e744f85d75/media/images/Place_des_Fetes_Natural_Wine_1.png",
     "aiBackgroundUrl": "",
     "zone": "bed-stuy",
     "vibe": [
       "romantic",
       "foodie",
-      "curious"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "75-90 min",
-    "driveFromIC": "17 min",
-    "hoursWeekend": "Sat 17:30-22:30, Sun 17:30-22:00",
-    "notes": "212 Greene Ave, Brooklyn NY 11238 — Clinton Hill/Bed-Stuy border (Google Maps). Owned by Redwood Hospitality, the Oxalis team — NOT Hart's/Cervo's as the research prompt suggested; that conflation should be corrected upstream. Wine glasses ~$15-20, small plates $15+, bottles $50-600 (Infatuation review). Tiny room, takes reservations on Resy. Dinner-only — does not work for any daytime slot.",
+    "duration": "90-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "17:30-22:30",
+    "notes": "212 Greene Ave on the Clinton Hill / Bed-Stuy border; weekend dinner only, opens 5:30pm Sat-Sun, closes 10:30pm Fri-Sat and 10:00pm Sun (pdfnyc.com). Resy reservations + walk-ins; cocktails $18-20, wines by the glass $15-25 (pdfnyc.com menu). Earned a 2024+ Michelin Guide listing (guide.michelin.com). Pair earlier in the day with an IC anchor + Williamsburg or Park Slope drinks, then drive northeast to Clinton Hill for the late seating. Street parking on Greene/Cambridge is usable on weekend evenings but tighten search radius after 7pm.",
     "sources": [
       {
         "url": "https://www.pdfnyc.com/",
-        "accessed": "2026-05-17T17:40:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2022/04/13/place-des-fetes-clinton-hill/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/place-des-fetes",
-        "accessed": "2026-05-17T17:40:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://guide.michelin.com/gb/en/new-york-state/brooklyn/restaurant/place-des-fetes",
-        "accessed": "2026-05-17T17:40:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/place-des-f%C3%AAtes-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T17:49:09.692Z"
+    "lastResearchedAt": "2026-05-18T10:16:59.074Z"
   },
   {
     "id": "modern-love-brooklyn-closed",
@@ -40682,5 +40690,126 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T10:10:37.501Z"
+  },
+  {
+    "id": "wildair",
+    "name": "Wildair",
+    "desc": "LES natural wine bar from the Contra team — pet-nats, snacks, and a beef tartare that built the scene.",
+    "longDesc": "Opened in 2015 by Jeremiah Stone and Fabian von Hauske two doors down from their tasting-menu spot Contra, Wildair has become the main event a decade in — a tight LES room packed with biodynamic bottles, pétillant naturels, and dishes like littleneck clams on toast with lardo, beef tartare with smoked Cheddar, and pork-shoulder Milanese (theinfatuation.com). It's Manhattan and a stretch from Industry City, but for a natural-wine crawl variant it remains one of NYC's defining destinations and a useful anchor when pairing with Contra next door.",
+    "url": "https://www.wildair.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "75-120 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "see wildair.nyc",
+    "notes": "Manhattan exception — included as a natural-wine crawl variant only; zone defaulted to williamsburg as nearest schema-valid Brooklyn anchor since the schema has no Manhattan zone. Address 142 Orchard St, LES (wildair.nyc). Sister to Contra two doors down; 10 years in the wine list remains pet-nat / biodynamic-heavy (theinfatuation.com). Weekend parking on Orchard/Rivington is tight — Essex Crossing garage is the safe call. Confirm current hours on site before promoting.",
+    "sources": [
+      {
+        "url": "https://www.wildair.nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/wildair",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/wildair-lower-east-side/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:14:49.917Z"
+  },
+  {
+    "id": "june-wine-bar",
+    "name": "June Wine Bar",
+    "desc": "Cobble Hill natural wine bar with 500+ bottles and a low-pressure, food-optional menu.",
+    "longDesc": "June is a longstanding Court Street natural wine bar with a 500+ bottle list curated toward small French and progressive American producers — no fining/filtering, no inoculated yeasts, sulfur under 40 ppm. The room is cozy and candlelit with a small sustainable food menu (oysters, charcuterie, seasonal plates) that you can opt into or skip. Weekend brunch runs from 10am with the same wine focus.",
+    "url": "https://www.junebk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "romantic",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Sat 10:00-01:00, Sun 10:00-23:00",
+    "notes": "231 Court St, Brooklyn — ~13 min drive from Industry City via 3rd Ave/Hamilton Ave, closer than Williamsburg wine bars (junebk.com). Natural-wine spec: small hectares, no fining/filtering, no inoculated yeasts, SO2 under 40ppm; list leans French and progressive American, with sparkling skin-contact from central Italy and aromatic whites from Germany/central Europe (tastingtable.com). Weekend street parking on Court St is metered/free after hours but tight — Kane St or Pacific St side streets usually open up. Phone 646-526-3167.",
+    "sources": [
+      {
+        "url": "https://www.junebk.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tastingtable.com/690172/what-to-order-at-june-wine-bar-natural-wine-bar-cobble-hill/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/june-wine-bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://sprudge.com/breaking-the-rules-at-brooklyns-june-wine-bar-5291.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:18:53.606Z"
+  },
+  {
+    "id": "propark-william-vale-valet",
+    "name": "Propark Valet Garage @ William Vale Hotel",
+    "desc": "Covered 24/7 valet at the William Vale; closest staffed option to Wythe Ave waterfront",
+    "longDesc": "Hotel-attached Propark valet at 111 N 12th St (entrance one block in from Wythe) is the most reliable staffed garage near the Williamsburg waterfront cluster — Wythe Hotel, Brooklyn Bowl, Music Hall, Bemelmans-adjacent stops. Valet-only, covered, mobile entry; 6'7\" height limit and no in/out, so plan a single drop-off rather than re-parking between stops.",
+    "url": "https://www.propark.com/facilities/william-vale-hotel/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "drop-off",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "24/7",
+    "notes": "Valet-only, covered, handicap accessible, touchless/mobile pass accepted (propark.com). Height limit 6'7\"; no in/out access — re-entry counts as a new session (propark.com). Hotel-guest rate ~$22 overnight; non-guest ~$5/hr or ~$12 for 12 hrs (spotangels.com listing, May 2026). Useful Kent Ave fallback when waterfront curb is full on weekends.",
+    "sources": [
+      {
+        "url": "https://www.propark.com/facilities/william-vale-hotel/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/113-n-12th-st.---william-vale-hotel-valet-garage-2164294",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/propark-william-vale-hotel",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:20:49.867Z"
   }
 ]

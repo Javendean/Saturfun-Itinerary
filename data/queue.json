@@ -1,35 +1,5 @@
 [
   {
-    "topic": "The Long Island Bar — Cobble Hill cocktail + burger institution",
-    "reason": "Alt-night cocktail swap in a different cluster (12 min from IC); covers the chill-cocktail slot when Williamsburg is overcrowded",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:56:54.456Z"
-  },
-  {
-    "topic": "Wildair East Village natural wine sister restaurant by Contra team",
-    "reason": "Adjacent natural-wine destination; Manhattan but worth surfacing for crawl variant",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:58:58.083Z"
-  },
-  {
-    "topic": "Place des Fetes Clinton Hill natural wine bistro",
-    "reason": "Brooklyn natural-wine sibling, drivable from IC, expands wine-forward cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:58:58.083Z"
-  },
-  {
-    "topic": "June Wine Bar Cobble Hill natural wine list",
-    "reason": "Closer to IC than Williamsburg; alternate wine-bar anchor for shorter-drive evening track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:58:58.083Z"
-  },
-  {
-    "topic": "William Vale Hotel Propark valet garage 113 N 12th St Williamsburg",
-    "reason": "Closest valet option to Wythe and the waterfront cluster; useful fallback when Kent Ave is full",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:01:06.660Z"
-  },
-  {
     "topic": "Valet Garage 34 N 7th St Williamsburg parking rates",
     "reason": "Cheapest North Williamsburg option for short stops near Bedford Ave subway and South Williamsburg restaurants",
     "requestedBy": "agent",
@@ -16726,5 +16696,95 @@
     "reason": "Lower-price-band Williamsburg dinner option that still anchors a foodie evening; widens the cluster's price coverage from $$$ down to $$",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T10:10:37.542Z"
+  },
+  {
+    "topic": "Re-research existing venue: Leyenda (Carroll Gardens / Cobble Hill mezcal + agave cocktails)",
+    "reason": "Pairs naturally with Long Island Bar as a Cobble Hill cluster cocktail option; Ivy Mix's program is a strong agave-forward alt to LIB's martini-and-burger angle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:12:38.618Z"
+  },
+  {
+    "topic": "Best cocktail bar within 10 min drive of Industry City excluding Williamsburg",
+    "reason": "Long Island Bar fills the Cobble Hill slot; need parallel options in Red Hook / Carroll Gardens / Park Slope to round out the alt-night cocktail corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:12:38.618Z"
+  },
+  {
+    "topic": "Re-research existing venue: Sunken Hundred (Carroll Gardens Welsh-influenced cocktail + small plates)",
+    "reason": "Walkable from Long Island Bar, fills a date-night-after-burger continuation slot within the same micro-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:12:38.618Z"
+  },
+  {
+    "topic": "Contra LES cocktail bar (Stone/von Hauske) as paired anchor with Wildair",
+    "reason": "Two doors down on Orchard; natural-wine crawl pairs them as a single stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:14:49.953Z"
+  },
+  {
+    "topic": "The Four Horsemen Williamsburg natural wine bar (James Murphy)",
+    "reason": "Brooklyn-side natural-wine equivalent — actually fits IC drive radius unlike Wildair",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:14:49.953Z"
+  },
+  {
+    "topic": "Rolo's Ridgewood wood-fire + natural wine",
+    "reason": "Driving-friendly natural-wine destination outside Manhattan; tests Queens-edge zone gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:14:49.953Z"
+  },
+  {
+    "topic": "Cafe Mado Prospect Heights all-day cafe (Redwood Hospitality sibling)",
+    "reason": "Same group as Place des Fêtes; daytime anchor in adjacent zone, fills a brunch/coffee slot drivable from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:16:59.105Z"
+  },
+  {
+    "topic": "Oxalis Crown Heights tasting menu (Michelin one-star, Redwood Hospitality)",
+    "reason": "Flagship of the same group; gives the corpus a destination tasting-menu option in Crown Heights cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:16:59.105Z"
+  },
+  {
+    "topic": "Laurel Bakery Clinton Hill viennoiserie",
+    "reason": "Sibling daytime pastry stop near Place des Fêtes; pairs naturally as a Clinton Hill morning anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:16:59.105Z"
+  },
+  {
+    "topic": "The Four Horsemen Williamsburg natural wine bar",
+    "reason": "Expands the wine-forward cluster with a Williamsburg counterpart, also Michelin-recognized, ~15 min drive from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:16:59.105Z"
+  },
+  {
+    "topic": "Long Island Bar Cobble Hill cocktail bar",
+    "reason": "Pairs as alternate Cobble Hill evening anchor for a non-wine drinker in the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:18:53.635Z"
+  },
+  {
+    "topic": "Popina Carroll Gardens Italian dinner",
+    "reason": "Dinner pairing within drive cluster — strengthens an evening itinerary that ends at June for wine",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:18:53.635Z"
+  },
+  {
+    "topic": "Wythe Hotel valet parking N 11th St Williamsburg weekend rates",
+    "reason": "Sister waterfront valet one block away — useful when William Vale is at capacity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:20:49.905Z"
+  },
+  {
+    "topic": "Brooklyn Bowl parking garage Wythe Ave nearest lot",
+    "reason": "Bowl is a frequent waterfront stop; need a clear nearest-lot mapping for the itinerary engine",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:20:49.906Z"
+  },
+  {
+    "topic": "Greenpoint Landing garage Box St weekend parking",
+    "reason": "Northern-Williamsburg / Greenpoint fallback when N 12th block is congested at hotel check-in hours",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:20:49.906Z"
   }
 ]
