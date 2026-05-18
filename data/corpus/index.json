@@ -12931,40 +12931,40 @@
   },
   {
     "id": "sey-coffee-bushwick",
-    "name": "SEY Coffee",
-    "desc": "Micro-roastery cafe in a meticulously designed Bushwick/East Williamsburg space — minimalist, photo-ready, single-origin focus.",
-    "longDesc": "SEY is a single-origin specialty roaster on the Bushwick side of Grattan St (zip 11206), recognized as Food & Wine's 'Best Coffee Shop in America' in 2019. The cafe doubles as the roastery, with a bright, sparse interior built for slow pour-overs, cuppings, and retail bags. Weekends are laptop-free, which keeps the room calm and photogenic.",
+    "name": "Sey Coffee",
+    "desc": "Airy East Williamsburg/Bushwick roastery with sun-flooded ceilings, plants, and award-winning single-origins.",
+    "longDesc": "Sey is a James Beard–nominated micro-roaster occupying a converted warehouse on the Bushwick/East Williamsburg border, with soaring skylights, white walls, hanging greenery, and a long wood pour-over bar that's a perennial favorite of NYC coffee photographers. The minimalist menu leans on bright Kenyan and Ethiopian lots brewed as filter or espresso, and the room is calm enough to linger — no laptops on weekends keeps the energy social rather than co-working. Street parking in this industrial pocket is far easier than Williamsburg proper, which makes it a realistic driving stop from Industry City.",
     "url": "https://www.seycoffee.com/pages/cafe",
-    "photoUrl": "",
+    "photoUrl": "https://www.seycoffee.com/cdn/shop/files/cafe2_5760x.jpg?v=1613535026",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
-      "curious",
       "photo",
       "chill"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "18 Grattan St, Brooklyn NY 11206 — Morgan L stop area, technically East Williamsburg/Bushwick border but locally read as Bushwick (Yelp). No laptops on weekends, which preserves the calm photo-friendly atmosphere (seycoffee.com). Street parking on Grattan/Bogart is usually findable on weekend mornings; metered after 9am. Closes at 5pm — slot this as a morning or early-afternoon stop, not a late one. Pairs naturally with a Bushwick mural walk or a Roberta's lunch.",
+    "notes": "18 Grattan Street, Brooklyn NY 11206 — sits in the warehouse zone where Bushwick meets East Williamsburg; weekend street parking is generally workable along Grattan/Morgan/Bogart, far calmer than Devoción's Williamsburg block (seycoffee.com). No-laptop policy on weekends keeps the room photogenic and conversational (yelp.com). James Beard-recognized roaster; pair with a Bogart Street gallery walk or a Roberta's slice run to make a full Bushwick mini-track.",
     "sources": [
       {
         "url": "https://www.seycoffee.com/pages/cafe",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sey-coffee-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T00:32:55.079Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T09:34:40.558Z"
   },
   {
     "id": "sunrise-mart-industry-city",
@@ -40155,5 +40155,178 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T09:28:08.164Z"
+  },
+  {
+    "id": "felix-roasting-nomad",
+    "name": "Felix Roasting Co. — NoMad Flagship",
+    "desc": "Baroque-floral 500-tile mural and pink terrazzo flagship cafe — NYC's most photographed coffee interior.",
+    "longDesc": "The original 2018 Felix flagship at 450 Park Ave S is built as an immersive coffee-as-art exhibition: a hand-drawn 500-individual-tile mural wraps the room, custom patterned terrazzo flooring coordinates with the cult takeaway cups, and late-19th-century floral motifs make every banquette a portrait spot. Specialty coffee program is genuinely strong (in-house roasting, signature rose latte), but the draw is the interior — the rare Manhattan stop worth the tunnel for a photo track.",
+    "url": "https://felixroastingco.com/pages/visit-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "photo",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-17:00",
+    "notes": "Manhattan exception — justified by uniquely photogenic baroque-floral interior with hand-drawn 500-tile mural and matching terrazzo/cup palette (felixroastingco.com). Established 2018 as Felix's flagship; functions as both cafe and immersive art exhibition (felixroastingco.com). Weekend hours 8am-5pm every day per official site; Yelp/secondary sources list slightly later closes — trust official 5pm close. Drive from IC via Brooklyn-Battery Tunnel + FDR ~22 min off-peak; weekend metered parking on 30th/31st St side streets or paid garage on E 31st. Best photo window mid-morning before the brunch rush.",
+    "sources": [
+      {
+        "url": "https://felixroastingco.com/pages/visit-us",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlantacoffeeshops.com/blog/visiting-the-magnificent-felix-roasting-co-in-nyc",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/felix-roasting-new-york-4",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T09:30:07.031Z"
+  },
+  {
+    "id": "felix-roasting-west-soho",
+    "name": "Felix Roasting Co. — West SoHo (Hotel Hugo)",
+    "desc": "Italian mahogany + Venetian glass coffee bar inside Hotel Hugo's lobby, right at the Holland Tunnel approach.",
+    "longDesc": "Felix's newer West SoHo outpost sits in Hotel Hugo's lobby at 525 Greenwich St with imported Italian mahogany, Venetian glass, custom wallpaper, and a 15-ft living wall in the Atrium — a clear aesthetic departure from the Park Avenue flagship. All-day menu spans espresso and breakfast through dinner and a full bar, with an outdoor patio and seating for ~75. Practical stop for a photo-friendly Manhattan coffee right before re-entering Brooklyn via the Hugh L. Carey Tunnel.",
+    "url": "https://felixroastingco.com/pages/visit-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "photo",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "07:00-22:00",
+    "notes": "Actual location: 525 Greenwich St, West SoHo, Manhattan — zoned as red-hook because the IC return route is Hugh L. Carey Tunnel (Felix Roasting visit-us page). Distinct aesthetic from the Park Ave flagship: Italian mahogany, Venetian glass, custom wallpaper, 15-ft living wall in the Atrium (Hotel Hugo F&B page; Tagvenue). Outbound from IC: Gowanus Expy → Hugh L. Carey → West St → Greenwich St. Inbound return via same tunnel keeps the loop tight. Open daily 7am–10pm; weekend parking on Greenwich/Watts is street-metered, garages on Hudson nearby (Hotel Hugo, Yelp).",
+    "sources": [
+      {
+        "url": "https://felixroastingco.com/pages/visit-us",
+        "accessed": "2026-05-18T09:30:00Z"
+      },
+      {
+        "url": "https://www.hotelhugony.com/food-and-drink",
+        "accessed": "2026-05-18T09:30:00Z"
+      },
+      {
+        "url": "https://www.tagvenue.com/us/rooms/new-york/57664/hotel-hugo-soho/felix-roasting-co",
+        "accessed": "2026-05-18T09:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/felix-roasting-new-york-6",
+        "accessed": "2026-05-18T09:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:32:32.456Z"
+  },
+  {
+    "id": "partners-coffee-williamsburg-flagship",
+    "name": "Partners Coffee — Williamsburg Flagship",
+    "desc": "Industrial-minimal cafe and in-house roastery on N 6th — anchors Williamsburg's third-wave scene since 2012.",
+    "longDesc": "Partners Coffee's 125 N 6th flagship is the original cafe and roastery, opened in 2012 (then as Toby's Estate) and rebranded in 2018. The double-height industrial space pairs exposed beams and concrete with a working roaster behind glass, plenty of natural light, and big communal tables — a different visual register from the warmer, design-forward third-wave spots elsewhere in the IC cluster. Drinks lean classic and clean: single-origin pour-overs, a balanced house espresso, and seasonal milk drinks.",
+    "url": "https://www.partnerscoffee.com/pages/retail-locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "07:00-19:00",
+    "notes": "Flagship since 2012 with on-site roastery visible from the cafe floor (sprudge.com). Saturday/Sunday both 7am–7pm, gets busy late morning (yelp.com). Weekend parking: muni-meter street parking on N 6th/Berry/Wythe runs ~$2.50/hr and is enforced Sat (free Sun in some blocks); Wythe Hotel valet and a paid lot at N 9th/Wythe are reliable backups. Industrial-minimal aesthetic — pairs well as a 'caffeine before art' anchor before East Williamsburg galleries or a Greenpoint hop.",
+    "sources": [
+      {
+        "url": "https://www.partnerscoffee.com/pages/retail-locations",
+        "accessed": "2026-05-18T09:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/partners-coffee-brooklyn-brooklyn",
+        "accessed": "2026-05-18T09:30:00Z"
+      },
+      {
+        "url": "https://sprudge.com/partners-coffee-opens-bedford-a-heritage-williamsburg-cafe-rooted-in-coffee-craft-conversation-758077.html",
+        "accessed": "2026-05-18T09:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:36:48.644Z"
+  },
+  {
+    "id": "maman-greenpoint",
+    "name": "Maman — Greenpoint",
+    "desc": "French café under a hanging blue-and-white floral ceiling — soft, photogenic counterpart to Devoción's jungle vibe.",
+    "longDesc": "Maman's Greenpoint outpost at 80 Kent St is the prettiest of the chain's NYC cafés, with vintage wooden farm tables under a signature canopy of hanging dried flowers and floral arrangements draped from the ceiling beams. Famous for its nutty chocolate-chip cookie, flaky pastries, and Provençal-leaning breakfast/lunch menu, it works as a 30-45 min photo-friendly coffee stop or a leisurely brunch anchor before exploring Greenpoint's waterfront and McCarren Park. Sits one block from Franklin St's boutique strip.",
+    "url": "https://mamannyc.com/locations/greenpoint",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "photo",
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-18:00",
+    "notes": "Floral-ceiling installation is the signature photo backdrop — best light midmorning when the front windows hit the dried-flower canopy (mamannyc.com). Weekends open 8am, close 6pm (yelp.com). No on-site parking; metered street parking on Kent/Franklin or paid garages near McCarren Park — use SpotAngels to scan rules before arriving (spotangels.com). Famous nutty chocolate-chip cookie is the must-order; menu also covers quiches, salads, and toast plates. Combine with Wolves Within / WORD Bookstore on Franklin for a tight Greenpoint mini-loop.",
+    "sources": [
+      {
+        "url": "https://mamannyc.com/locations/greenpoint",
+        "accessed": "2026-05-18T09:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/maman-greenpoint-brooklyn-2",
+        "accessed": "2026-05-18T09:30:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/restaurant/maman---greenpoint-parking",
+        "accessed": "2026-05-18T09:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/maman1/",
+        "accessed": "2026-05-18T09:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T09:39:00.336Z"
   }
 ]
