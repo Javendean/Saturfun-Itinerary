@@ -1,35 +1,5 @@
 [
   {
-    "topic": "WNYC Transmitter Park Greenpoint waterfront",
-    "reason": "Greenpoint-side skyline pier extends the same waterfront-views track if the user wants two zones in one drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:20:41.655Z"
-  },
-  {
-    "topic": "Brooklyn Army Terminal waterfront and ferry pier",
-    "reason": "Adjacent industrial-waterfront landmark with skyline views and weekend ferry access — extends the Sunset Park waterfront cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:22:46.160Z"
-  },
-  {
-    "topic": "Sunset Park (the park itself, 5th Ave & 41st St)",
-    "reason": "Highest natural skyline overlook in Brooklyn, 7 min from IC — covers the daytime/picnic counterpart to Bush Terminal's water-level sunset",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:22:46.160Z"
-  },
-  {
-    "topic": "Owl's Head Park Bay Ridge sunset overlook",
-    "reason": "Hilltop park 10 min south of IC with Verrazzano + harbor views — broadens the in-zone golden-hour options beyond Sunset Park",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:22:46.160Z"
-  },
-  {
-    "topic": "Tacocina at Domino Park (Danny Meyer taqueria, in-park food)",
-    "reason": "Pairs natively with Domino Park as the on-site food stop — covers the 'eat without moving the car' use case",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:25:05.632Z"
-  },
-  {
     "topic": "Marsha at the Refinery (rooftop bar atop One Domino Square)",
     "reason": "Adjacent skyline-view venue if user wants to extend the Williamsburg waterfront stop into evening drinks",
     "requestedBy": "agent",
@@ -16180,5 +16150,89 @@
     "reason": "Free public tours on select weekends explain the Digester Eggs the walk frames — deepens the curious-vibe payoff",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T08:17:44.132Z"
+  },
+  {
+    "topic": "Java Street Pier Greenpoint",
+    "reason": "Newer adjacent waterfront pier (opened 2024) one block south of Transmitter Park — extends the Greenpoint waterfront cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:20:00.972Z"
+  },
+  {
+    "topic": "Greenpoint Beer & Ale Project",
+    "reason": "Walkable Greenpoint brewery completing a waterfront + food + drinks micro-track within the same drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:20:00.972Z"
+  },
+  {
+    "topic": "Bush Terminal Park (Piers 1-4 at 43rd St, Brooklyn)",
+    "reason": "Another publicly accessible Sunset Park waterfront park between IC and BAT — tidal pools, ballfields, skyline views, weekend parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:22:10.582Z"
+  },
+  {
+    "topic": "Brooklyn Army Terminal summer free events 2026 lineup",
+    "reason": "Recurring free waterfront concerts/markets at BAT atrium and pier — high-value seasonal anchor for a Sunset Park track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:22:10.582Z"
+  },
+  {
+    "topic": "NYC Ferry South Brooklyn route weekend ride (BAT to Red Hook to Wall St)",
+    "reason": "Activity-as-venue: a $4 ferry hop ties BAT, Red Hook, and DUMBO clusters into one itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:22:10.582Z"
+  },
+  {
+    "topic": "Tacos El Bronco (5th Ave taco truck near Sunset Park)",
+    "reason": "Walkable picnic-fuel pickup right by the park's main entrance — pairs naturally with the hilltop view",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:24:08.711Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia (5th Ave Mexican bakery)",
+    "reason": "Tres leches and conchas under $5; sub-10 min from IC and feeds the Sunset Park picnic flow",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:24:08.711Z"
+  },
+  {
+    "topic": "Brooklyn Chinese Cemetery / Green-Wood Cemetery north gate viewpoint",
+    "reason": "Adjacent higher-elevation skyline alternative if Sunset Park lawn is overcrowded on weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:24:08.711Z"
+  },
+  {
+    "topic": "American Veterans Memorial Pier (69th St Pier) Bay Ridge sunset photo spot",
+    "reason": "Waterfront pier 5 min from Owl's Head with the same Verrazzano sightline at water level — natural pairing for a longer golden-hour stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:26:12.093Z"
+  },
+  {
+    "topic": "Shore Road Park promenade Bay Ridge waterfront walk",
+    "reason": "Continuous greenway connecting Owl's Head south toward the bridge; expands the 'walk + view' option in this micro-zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:26:12.093Z"
+  },
+  {
+    "topic": "Narrows Botanical Gardens Bay Ridge volunteer-run garden",
+    "reason": "Quirky in-zone afternoon stop on the same Shore Road corridor; broadens Bay Ridge beyond just overlooks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:26:12.093Z"
+  },
+  {
+    "topic": "Domino Park Taco Tuesday / sunset picnic logistics + parking lot on Kent Ave",
+    "reason": "Operational detail for the eat-without-moving-the-car combo — confirms the parking + walk-up loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:28:09.794Z"
+  },
+  {
+    "topic": "Other Hand Brooklyn (cocktail bar near Domino Park, Williamsburg)",
+    "reason": "Natural after-tacos drink within walking distance — extends the Williamsburg cluster without re-driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:28:09.794Z"
+  },
+  {
+    "topic": "Birria-Landia Williamsburg truck (consommé birria tacos)",
+    "reason": "Alt Williamsburg taco option for users who want a more street-food vibe than USHG-polished Tacocina",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:28:09.794Z"
   }
 ]

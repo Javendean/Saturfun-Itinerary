@@ -10427,8 +10427,8 @@
   {
     "id": "owls-head-park",
     "name": "Owl's Head Park",
-    "desc": "24-acre Bay Ridge hilltop park with skyline, harbor, and Verrazzano-Narrows views — free parking.",
-    "longDesc": "A breezy 24-acre rolling-hill park on the Bay Ridge bluff with wide-open sightlines of Lower Manhattan, New York Harbor, and the Verrazzano-Narrows Bridge. Free dawn-to-dusk access, two onsite parking lots with no time limit, plus a skate park, dog run, playground, and quiet meandering paths — a low-effort alternate to the busier waterfront promenades.",
+    "desc": "24-acre Bay Ridge hilltop with open lawns and golden-hour views of the Verrazzano Bridge and harbor.",
+    "longDesc": "Owl's Head Park sits on a terminal-moraine hill in Bay Ridge, sloping up toward the water with sightlines across New York Harbor to Manhattan, Staten Island, and the Verrazzano-Narrows Bridge (nycgovparks.org). Pick a bench or bring chairs on the upper lawn for sunset; the lower section has a skate park, dog run, and playground if you arrive early. Public park, free, dawn-to-dusk, with easy non-metered street parking on Colonial Rd / 68th St (prked.com).",
     "url": "https://www.nycgovparks.org/parks/owls-head-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10436,36 +10436,40 @@
     "vibe": [
       "chill",
       "photo",
-      "active"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Dawn-Dusk",
-    "notes": "Bay Ridge, at 68th St & Colonial Rd (zone forced to industry-city since bay-ridge isn't in the enum). Two free onsite lots, no meter, no time limit — best chance of weekend parking among the harbor-skyline parks (prked.com). Elevated bluff gives unobstructed Verrazzano + Lower Manhattan sightlines, especially at golden hour (nycgovparks). ~24 acres with rolling hills, skate park, dog run, and quiet paths — works as a post-meal walk or sunset stop after IC (visitbrooklyn).",
+    "duration": "45-75 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "06:00-21:00 (dawn-dusk, posted as 6am-9pm by NYC Parks)",
+    "notes": "Best timed ~30 min before sunset; upper hill faces SW toward the Verrazzano so the bridge is silhouetted as the sun drops behind Staten Island (visitbrooklyn.nyc). Parts of the park are under renovation in 2026 — main lawn and overlook remain open, but check signage near the 68th St entrance (nycgovparks.org). Pair with a 69th St Pier walk or grab dinner back up in Sunset Park / IC afterward. Bay Ridge isn't in the canonical zone list — tagged industry-city as the closest geographic anchor.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/owls-head-park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T08:25:00Z"
       },
       {
-        "url": "https://prked.com/blog/owl's-head-park-brooklyn-parking-guide",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.nycgo.com/venues/owls-head-park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.nycgovparks.org/parks/owls-head-park/history",
+        "accessed": "2026-05-18T08:25:00Z"
       },
       {
         "url": "https://visitbrooklyn.nyc/thingstodo/owls-head-park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T08:25:00Z"
+      },
+      {
+        "url": "https://prked.com/blog/owl's-head-park-brooklyn-parking-guide",
+        "accessed": "2026-05-18T08:25:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Owl's_Head_Park",
+        "accessed": "2026-05-18T08:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T12:45:39.528Z"
+    "lastResearchedAt": "2026-05-18T08:26:12.063Z"
   },
   {
     "id": "ba-xuyen-banh-mi",
@@ -23883,48 +23887,42 @@
   },
   {
     "id": "brooklyn-army-terminal",
-    "name": "Brooklyn Army Terminal Atrium & Pier 4",
-    "desc": "Cass Gilbert's 1919 cantilevered-balcony rail atrium plus a free ferry pier with Statue of Liberty views.",
-    "longDesc": "A monumental industrial cathedral in Sunset Park where freight trains once rolled into Building B to be loaded from stacked cantilevered balconies — now a free public atrium with tables, cafes (Momo Test Kitchen, Pete's Place), and a waterfront promenade. Pier 4 has free parking, NYC Ferry South Brooklyn service on weekends, and unobstructed sightlines to the Statue of Liberty and Bayonne. Free Turnstile-led atrium tours run Saturdays and Sundays at noon, 1, 2, 3, and 4pm from the Building B North Lobby.",
+    "name": "Brooklyn Army Terminal Waterfront & Pier 4",
+    "desc": "Historic WWI-era waterfront campus with public promenade, fishing pier, skyline views, and NYC Ferry stop.",
+    "longDesc": "A 95-acre former military supply depot turned working industrial campus, with publicly accessible waterfront grounds open sunrise to sunset year-round. Walk the promenade and Pier 4 for unobstructed views of the Manhattan skyline, Statue of Liberty, and Upper Bay — plus weekend NYC Ferry boarding on the South Brooklyn route. Free public parking on Pier 4 makes this one of the easiest skyline-view stops in Sunset Park.",
     "url": "https://brooklynarmyterminal.com/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
+      "chill",
       "photo",
-      "chill"
+      "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "45-75 min",
+    "duration": "30-60 min",
     "driveFromIC": "5 min",
-    "hoursWeekend": "sunrise-sunset (atrium tours Sat/Sun 12-5pm hourly)",
-    "notes": "140 58th St, Brooklyn. Public spaces (atrium, waterfront promenade, Pier 4) open 365 days sunrise to sunset (brooklynarmyterminal.com/visit). Free 45-min atrium tours by Turnstile Tours every weekend hourly noon-4pm from Building B North Lobby (turnstiletours.com). NYC Ferry South Brooklyn + Rockaway routes dock here; complimentary parking at Pier 4 for all visitors. Pair with Industry City lunch then drive south, or arrive by ferry from Wall St/Pier 11 (~20 min Rockaway route).",
+    "hoursWeekend": "sunrise-sunset",
+    "notes": "Address 140 58th St, Brooklyn — public grounds open 365 days, sunrise to sunset (brooklynarmyterminal.com/visit). Free public parking on Pier 4 for visitors and NYC Ferry riders (brooklynarmyterminal.com/visit). Pier 4 north edge is open for fishing and walking (brooklynarmyterminal.com/visit). NYC Ferry South Brooklyn route stops here on weekends, connecting to Pier 11 Wall St and Red Hook (ferry.nyc). Pairs well with an Industry City lunch — drive south on 2nd/3rd Ave, ~1.3 mi.",
     "sources": [
       {
         "url": "https://brooklynarmyterminal.com/visit",
-        "accessed": "2026-05-17T05:50:00Z"
+        "accessed": "2026-05-18T08:25:00Z"
       },
       {
-        "url": "https://turnstiletours.com/tour/brooklyn-army-terminal-tours/",
-        "accessed": "2026-05-17T05:50:00Z"
+        "url": "https://www.ferry.nyc/routes-and-schedules/south-brooklyn/",
+        "accessed": "2026-05-18T08:25:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Brooklyn_Army_Terminal",
-        "accessed": "2026-05-17T05:50:00Z"
-      },
-      {
-        "url": "https://www.atlasobscura.com/places/brooklyn-army-terminal-building-b",
-        "accessed": "2026-05-17T05:50:00Z"
+        "accessed": "2026-05-18T08:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:54:23.560Z"
+    "lastResearchedAt": "2026-05-18T08:22:10.545Z"
   },
   {
     "id": "erie-basin-park",
@@ -31892,15 +31890,15 @@
   {
     "id": "tacocina-domino-park",
     "name": "Tacocina at Domino Park",
-    "desc": "Danny Meyer's waterfront taco bar at Domino Park with margaritas and East River views",
-    "longDesc": "A laid-back outdoor taco stand from Union Square Hospitality Group tucked into Domino Park on the Williamsburg waterfront. Menu spans Pork Pibil, Carne Asada, Ensenada Shrimp, and a solid Mexican Mushroom taco with salsa verde for vegetarians, plus quesadillas, esquites, guac, and margaritas/Micheladas. Order at the counter and eat at picnic tables overlooking the East River and Manhattan skyline.",
+    "desc": "Danny Meyer's outdoor taco stand inside Domino Park with East River views — eat without moving the car.",
+    "longDesc": "Union Square Hospitality Group's open-air taqueria tucked into Domino Park, slinging pressed-tortilla tacos (pork, chicken adobo, beef-and-potato, shrimp-chayote), guacamole, cheese chicharrones, and a strong Mezcal Negroni / margarita / michelada list. Designed for waterfront grazing — order at the window, eat at the picnic tables under the sugar refinery silos with the Williamsburg Bridge in frame. Pairs natively with a Domino Park stop so you don't have to re-park.",
     "url": "https://www.heytacocina.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "chill",
       "foodie",
+      "chill",
       "photo"
     ],
     "dietary": [
@@ -31908,27 +31906,31 @@
     ],
     "priceBand": "$$",
     "duration": "45-60 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "11:30-21:00",
-    "notes": "Address: 25 River Street, Brooklyn NY 11249, inside Domino Park (heytacocina.com). Vegetarian-friendly: Mexican Mushroom taco w/ salsa verde + avocado, Oaxaca cheese quesadillas (~$4), esquites, chips & guac (heytacocina.com). Margaritas $9-14, Mexican beers (Tecate/Modelo); happy hour weekdays 11:30-6 only (heytacocina.com). Weekend afternoons get packed - the lawn and waterfront tables fill fast, arrive before 1pm or after 4pm for seats (Yelp). Street parking on Kent Ave/River St can be tight on weekends; consider the Williamsburg Hotel garage or muni lots near S 5th. Walk-up counter, no reservations, fast turnover.",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-23:00",
+    "notes": "Walk-up window inside Domino Park at 25 River St; no reservations, picnic-table seating shared with the park (heytacocina.com). Hours: Sun-Thu 11a-10p, Fri-Sat 11a-11p (afar.com). Park in the Domino lot on Kent Ave or along S 3rd/S 4th St — weekend metered parking is plentiful vs Manhattan. Margaritas and Mexican beers travel well to the East River railing for sunset shots (urbandaddy.com).",
     "sources": [
       {
         "url": "https://www.heytacocina.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T08:20:00Z"
+      },
+      {
+        "url": "https://www.afar.com/magazine/the-geniuses-behind-shake-shack-just-opened-a-taco-stand-in-brooklyn",
+        "accessed": "2026-05-18T08:20:00Z"
+      },
+      {
+        "url": "https://www.urbandaddy.com/articles/42558/new-york/tacocina-for-mezcal-negronis-and-pork-mango-tacos-in-domino-park",
+        "accessed": "2026-05-18T08:20:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/tacocina-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/restaurants/tacocina/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T08:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T00:24:14.559Z"
+    "lastResearchedAt": "2026-05-18T08:28:09.762Z"
   },
   {
     "id": "caffe-panna-greenpoint",
@@ -39436,5 +39438,88 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T08:17:44.100Z"
+  },
+  {
+    "id": "wnyc-transmitter-park",
+    "name": "WNYC Transmitter Park",
+    "desc": "Greenpoint waterfront park with a pier framing an unobstructed Midtown Manhattan skyline view across the East River.",
+    "longDesc": "A 1.6-acre waterfront park at the foot of Greenpoint Avenue, opened in 2012 on the former site of the WNYC radio transmission towers. A recreational pier extends into the East River with sweeping skyline views of Midtown Manhattan, paired with lawn, wetland gardens, and a nautical-themed playground. Gets crowded at sunset but the framing of the Empire State and Chrysler buildings across the water is the payoff.",
+    "url": "https://www.nycgovparks.org/parks/transmitter-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "photo",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "End-of-Greenpoint-Ave pier is the headline view; aim for ~1 hr before sunset for golden-hour skyline shots (nycgovparks.org). Playground area closes earlier at 21:00 (nycgovparks.org). At ~25 min from Industry City via BQE this is the outer edge of the IC drive radius — pair it with a Williamsburg or Greenpoint food/coffee stop rather than treating it as a solo trip. Street parking only and tight on weekends; allow 10 min to find a spot (multiple traveler reports).",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/transmitter-park",
+        "accessed": "2026-05-18T08:20:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/WNYC_Transmitter_Park",
+        "accessed": "2026-05-18T08:20:00Z"
+      },
+      {
+        "url": "https://transmitterpark.org/visit",
+        "accessed": "2026-05-18T08:20:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/transmitter-park/facilities/playgrounds",
+        "accessed": "2026-05-18T08:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:20:00.945Z"
+  },
+  {
+    "id": "sunset-park",
+    "name": "Sunset Park",
+    "desc": "Hilltop Brooklyn park with a panoramic Lower Manhattan + Statue of Liberty view, 7 min from IC.",
+    "longDesc": "A 24.5-acre public park spanning 41st-44th Streets between 5th and 7th Avenues, sitting on the second-highest natural point in Brooklyn. From the hilltop near 5th Ave & 43rd-44th St you get an unobstructed sweep of Lower Manhattan, the Statue of Liberty, New York Harbor, and the hills of Staten Island and New Jersey — a daytime/picnic counterpart to Bush Terminal Park's water-level sunset. Free parking lot on the north side (up to 3 hrs) plus surrounding street parking; the park also houses an Art Deco WPA-era pool, ballfields, a 9/11 memorial, and a sand volleyball court.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-90 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Drive up 4th Ave or 5th Ave from IC; aim for the hilltop near 5th Ave & 43rd St for the skyline shot. Free lot on the north side, 3-hr limit (nycgovparks.org). Park is sited on Brooklyn's second-highest natural point per NYC Parks (nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park). Pair with a Sunset Park bakery/taco run on 5th Ave before or after; ideal mid-afternoon picnic anchor before driving to Bush Terminal for the actual sunset.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-18T08:20:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
+        "accessed": "2026-05-18T08:20:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park,_Brooklyn",
+        "accessed": "2026-05-18T08:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:24:08.685Z"
   }
 ]
