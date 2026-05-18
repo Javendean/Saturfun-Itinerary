@@ -7804,8 +7804,8 @@
   {
     "id": "socrates-sculpture-park",
     "name": "Socrates Sculpture Park",
-    "desc": "Free outdoor sculpture park on the East River with rotating large-scale installations and Manhattan skyline views.",
-    "longDesc": "A 4.5-acre waterfront park at 32-01 Vernon Blvd in Long Island City/Astoria, founded in 1986 by Mark di Suvero on a former illegal dumpsite. It hosts rotating monumental outdoor sculpture (currently 'The Socrates Annual 2025: Up/Rooted' through Jun 8, 2026, with 'Artists Choose Artists' opening Jun 1, 2026), an open-air gallery, and a riverfront lawn facing the Manhattan skyline. Pairs perfectly with the Noguchi Museum one block south for a half-day LIC art loop.",
+    "desc": "Free 5-acre East River sculpture park with weekend yoga, kayaking, and rotating outdoor commissions",
+    "longDesc": "A former illegal dumpsite turned waterfront sculpture park at the foot of Broadway in Long Island City, with rotating large-scale commissions and a clear sightline across to Roosevelt Island and the Upper East Side. The 2026 season marks the park's 40th anniversary and packs weekends with free programming — outdoor yoga, kayaking on Hallets Cove, hands-on artist workshops, and collaborations with the Met Opera and Ballet Folklórico Mexicano. Pairs naturally with Bohemian Hall (~10 min north) for an Astoria/LIC daytime-into-evening track.",
     "url": "https://socratessculpturepark.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7817,32 +7817,32 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "25 min",
+    "duration": "45-75 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "09:00-sunset",
-    "notes": "Actually in Long Island City/Astoria, Queens — mapped to greenpoint zone as the closest cross-creek neighbor since the schema lacks an LIC/Astoria zone. Free admission 365 days/yr, 9am to sunset (socratessculpturepark.org). No on-site parking except one ADA spot; small public lot at 33rd Rd & Vernon Blvd next to Rainey Park, plus neighborhood street parking (socratessculpturepark.org/about-us/faqs). Pair with the Noguchi Museum one block south on Vernon Blvd for a natural LIC art double-feature. Riverfront lawn is photo-friendly at golden hour with Roosevelt Island and the UES skyline as backdrop.",
+    "notes": "Free admission daily 9am-sunset (socratessculpturepark.org). No on-site parking except one ADA spot at Vernon & Broadway; small public lot at 33rd Rd & Vernon Blvd next to Rainey Park, plus generally plentiful weekend street parking on Vernon (socratessculpturepark.org/visit/access-and-facilities). 2026 season includes Earth Month Convergence (April), Summer Solstice (June), and weekend yoga + kayaking on Hallets Cove (oana-ny.org). Best for golden-hour photos with the Roosevelt Island/UES skyline backdrop.",
     "sources": [
       {
         "url": "https://socratessculpturepark.org/visit/directions-and-hours/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T12:45:00Z"
       },
       {
-        "url": "https://socratessculpturepark.org/exhibitions/current/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://socratessculpturepark.org/visit/access-and-facilities/",
+        "accessed": "2026-05-18T12:45:00Z"
       },
       {
-        "url": "https://socratessculpturepark.org/about-us/faqs/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://oana-ny.org/socrates-sculpture-parks-40th-anniversary-2026-season/",
+        "accessed": "2026-05-18T12:45:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/parks/socrates-sculpture-park",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://en.wikipedia.org/wiki/Socrates_Sculpture_Park",
+        "accessed": "2026-05-18T12:45:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T10:28:35.404Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T12:49:16.600Z"
   },
   {
     "id": "casa-enrique-lic",
@@ -18757,42 +18757,45 @@
   {
     "id": "noguchi-museum-lic",
     "name": "The Noguchi Museum",
-    "desc": "Isamu Noguchi's serene indoor/garden sculpture museum in a converted Astoria photo-engraving plant.",
-    "longDesc": "Founded by Isamu Noguchi in 1985 inside a former photo-engraving factory, the museum houses the world's most comprehensive collection of his stone, metal, wood, and clay sculptures across two floors plus an open-air sculpture garden. The hushed concrete galleries and bamboo-fringed courtyard make it the meditative indoor counterpart to Socrates Sculpture Park four blocks south on Vernon Blvd, letting a single track pair free outdoor art with ticketed indoor minimalism.",
-    "url": "https://www.noguchi.org/",
+    "desc": "Isamu Noguchi's serene LIC sculpture museum in a converted photo-engraving plant; quiet stone garden anchor.",
+    "longDesc": "Founded by Isamu Noguchi in 1985, this two-story museum and outdoor sculpture garden in Long Island City/Astoria holds the world's most comprehensive collection of his work — basalt and granite sculptures, Akari paper lanterns, models, and drawings. The pace is meditative and the indoor/outdoor flow makes it a strong rainy-or-sunny pick. Pair with Bohemian Hall & Beer Garden ~10 min away for a Queens art→biergarten loop.",
+    "url": "https://www.noguchi.org/museum/visit/plan/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "industry-city",
     "vibe": [
-      "chill",
       "curious",
-      "photo",
-      "romantic"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "22 min",
+    "driveFromIC": "25 min",
     "hoursWeekend": "Sat-Sun 11:00-18:00",
-    "notes": "9-01 33rd Rd, Astoria — technically LIC/Astoria border, ~22 min from Industry City via BQE. $16 general admission; free on First Fridays of every month (extended to 8pm May-Sept) (noguchi.org). Street parking is metered but generally findable on weekends in this industrial pocket — easier than Manhattan museums. Pairs naturally with Socrates Sculpture Park (free, 4 blocks north) for an indoor+outdoor sculpture afternoon.",
+    "notes": "Address: 9-01 33rd Rd, Astoria/LIC, Queens (noguchi.org). General admission ~$16; free first Friday monthly. ~25 min drive from Industry City via BQE; ~10 min from Bohemian Hall (24th Ave) — pair as art→beer-garden combo. Street parking on 33rd Rd / Vernon Blvd side streets is workable on weekends but tight; arrive before noon. Closed Mon–Tue (Yelp, nyctourism.com).",
     "sources": [
       {
         "url": "https://www.noguchi.org/museum/visit/plan/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-noguchi-museum-astoria",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/the-noguchi-museum/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://tickets.noguchi.org/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://whichmuseum.com/museum/the-noguchi-museum-new-york-9341/opening-hours",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:40:19.067Z"
+    "lastResearchedAt": "2026-05-18T12:51:10.708Z"
   },
   {
     "id": "felix-roasting-astor-place",
@@ -35481,12 +35484,12 @@
   {
     "id": "coffeed-brooklyn-grange-lic",
     "name": "COFFEED at Brooklyn Grange LIC (Permanently Closed)",
-    "desc": "Former farm-to-cup cafe under Brooklyn Grange's LIC rooftop farm — both venues closed in 2022.",
-    "longDesc": "COFFEED's flagship at 37-18 Northern Blvd opened in 2012 on the ground floor of the Standard Motor Products Building, sourcing produce from the Brooklyn Grange rooftop farm directly upstairs and donating 5-10% of revenue to neighborhood charities. Brooklyn Grange ceased operating its LIC rooftop in 2022 and handed the lease to Sky Farm LIC (a Variety Boys & Girls Club of Queens project); COFFEED's LIC locations are marked permanently closed on Yelp as of March 2026. The cafe space is now occupied by Standard Cafe, a separate tenant operating Mon-Fri breakfast/lunch service.",
-    "url": "https://www.brooklyngrangefarm.com/blog/sky-farm-a-new-chapter-for-the-lic-roof",
+    "desc": "Former rooftop-farm-to-cup cafe at Brooklyn Grange's LIC flagship; closed as of 2026 — do not route guests here.",
+    "longDesc": "COFFEED's LIC Flagship at 37-18 Northern Blvd was the ground-floor cafe paired with Brooklyn Grange's 1-acre rooftop farm atop the Standard Motor Products building. It served seasonal produce from the roof and acted as a daytime anchor for farm tours. Both COFFEED LIC Flagship and COFFEED LIC Landing are now marked CLOSED on Yelp (verified May 2026); Brooklyn Grange's current site no longer lists any cafe operation.",
+    "url": "https://www.google.com/maps/place/37-18+Northern+Blvd,+Long+Island+City,+NY+11101",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "industry-city",
     "vibe": [
       "chill",
       "curious"
@@ -35496,35 +35499,31 @@
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "CLOSED — permanently",
-    "notes": "DO NOT PROMOTE — venue is permanently closed. COFFEED LIC flagship marked CLOSED on Yelp (yelp.com/biz/coffeed-lic-flagship-long-island-city, accessed 2026-05-17). Brooklyn Grange exited the Northern Blvd rooftop in 2022; successor is Sky Farm LIC under Variety Boys & Girls Club of Queens (brooklyngrangefarm.com/blog/sky-farm-a-new-chapter-for-the-lic-roof). Address 37-18 Northern Blvd is in the Standard Motor Products Building — note this is NOT on Vernon Blvd, so the original 'Vernon Blvd coffee stop' premise doesn't fit even when it was open. For an actual Vernon-Blvd-adjacent stop extending the Rainey Park / Socrates Sculpture Park drive, see enqueued Overflow Coffee (46-36 Vernon Blvd, open Sat/Sun 7a-6p, donates 5% to Renew Queens) and Sweetleaf Coffee Roasters. IC→37-18 Northern Blvd ≈ 20-25 min via BQE; street parking weekends near Brooklyn Grange building is generally easy.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "DO NOT ADD TO ITINERARY. Yelp confirms 'CLOSED' status for both COFFEED LIC Flagship (37-18 Northern Blvd) and COFFEED LIC Landing (52-10 Center Blvd) as of March 2026 (yelp.com). Brooklyn Grange's official site (brooklyngrangefarm.com) now lists only landscaping, events, and CSA — no cafe. The rooftop farm itself still runs seasonal open-house tours weekends May–Oct, which is the real LIC stop worth keeping. Recommend re-routing this slot to Brooklyn Grange Queens Farm Open House or a different LIC coffee anchor.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/coffeed-lic-flagship-long-island-city",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.brooklyngrangefarm.com/blog/sky-farm-a-new-chapter-for-the-lic-roof",
-        "accessed": "2026-05-17"
+        "url": "https://www.yelp.com/biz/coffeed-lic-landing-long-island-city",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.brownstoner.com/queens/long-island-city/new-coffee-shop-in-lic-partners-with-rooftop-neighbor-brooklyn-grange-farm/",
-        "accessed": "2026-05-17"
+        "url": "https://www.brooklyngrangefarm.com/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/coffeed-lic/",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://licpost.com/overflow-coffee-long-island-city",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T00:44:09.394Z"
+    "lastResearchedAt": "2026-05-18T12:47:25.956Z"
   },
   {
     "id": "astoria-seafood-lic",
@@ -42203,5 +42202,42 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T12:35:33.225Z"
+  },
+  {
+    "id": "costco-astoria-gas-pit-stop",
+    "name": "Costco Astoria Gas (Vernon Blvd / 35th Ave Pit Stop)",
+    "desc": "Members-only gas + warehouse bathrooms — cheapest fuel + clean restroom buffer en route from IC to LIC waterfront",
+    "longDesc": "Costco's Astoria warehouse sits at 32-50 Vernon Blvd on the LIC/Astoria border, with its fuel pumps and parking entrance off the 35th Ave side of the block. Gas runs $0.20-0.40 below Manhattan/Brooklyn street prices; the warehouse interior has the only reliably clean public-grade bathrooms within a 10-block radius — useful for drivers heading from Industry City up to Rainey Park or Socrates Sculpture Park. Membership card required for both the pump and bathroom access.",
+    "url": "https://www.costco.com/warehouse-locations/queens-long-island-city-ny-243.html",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "15-25 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Gas Sat 6:00-21:30, Sun 7:00-19:00 / Warehouse Sat 9:30-19:00, Sun 10:00-18:00",
+    "notes": "Membership required to pump or enter the warehouse for restrooms (source: costco.com/warehouse-locations/-243.html). Address 3250 Vernon Blvd; pump entrance is via 35th Ave side of the block. Weekend gas line peaks 11:00-14:00 — stop on the early or late edge of the drive to LIC. Closest zone enum is greenpoint; venue actually sits in Astoria/LIC just across Newtown Creek (source: yelp.com/biz/costco-wholesale-astoria).",
+    "sources": [
+      {
+        "url": "https://www.costco.com/warehouse-locations/-243.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/costco-wholesale-astoria-astoria",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.localmint.com/us/costco-queens-hours-143752",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T12:45:13.691Z"
   }
 ]

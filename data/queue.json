@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Socrates Sculpture Park weekend programming and parking reality check",
-    "reason": "Anchors the LIC waterfront pairing with Rainey Park; user already flagged the shared parking pocket",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:51:13.718Z"
-  },
-  {
-    "topic": "Costco Astoria gas + bathroom pit stop on 35th St",
-    "reason": "Practical buffer stop for drivers heading from IC to LIC waterfront before Rainey/Socrates",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:51:13.718Z"
-  },
-  {
-    "topic": "COFFEED at Brooklyn Grange LIC rooftop (seasonal)",
-    "reason": "Adds a non-park LIC stop within 5 min of Rainey for the same driving cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:51:13.718Z"
-  },
-  {
-    "topic": "Socrates Sculpture Park weekend programming + parking",
-    "reason": "Free waterfront sculpture park 10 min south of Bohemian Hall; natural daytime pair for an Astoria/LIC track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:53:05.616Z"
-  },
-  {
-    "topic": "Noguchi Museum Long Island City weekend hours",
-    "reason": "Indoor art anchor 10 min from Bohemian Hall; rounds out an art→beer garden Queens loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:53:05.616Z"
-  },
-  {
     "topic": "Astoria Bier & Cheese Ditmars location",
     "reason": "Walkable backup/overflow drinks stop if Bohemian Hall is at capacity on warm weekends",
     "requestedBy": "agent",
@@ -17440,5 +17410,95 @@
     "reason": "Brooklyn-side waterfront-lawn analog for groups who want the same vibe without crossing into Queens",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T12:39:47.328Z"
+  },
+  {
+    "topic": "Rainey Park weekend programming and the 33rd Road/Vernon Blvd public parking lot capacity",
+    "reason": "Directly shares the parking pocket with Socrates and completes the LIC waterfront pairing the user flagged",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:42:01.561Z"
+  },
+  {
+    "topic": "Noguchi Museum LIC weekend hours, parking, and current exhibitions",
+    "reason": "Five-min walk from Socrates; turns the LIC art stop into a half-day art track and uses the same Vernon Blvd parking strategy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:42:01.561Z"
+  },
+  {
+    "topic": "Best driving-friendly LIC waterfront lunch within 10 min of Socrates (Vernon Blvd corridor)",
+    "reason": "Closes the loop on a Socrates + Rainey art-and-park morning by adding a defensible food anchor before crossing back to Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:42:01.561Z"
+  },
+  {
+    "topic": "BP Astoria 21st St / Hoyt Ave gas station with restroom",
+    "reason": "Non-membership backup pit stop on the same IC→LIC corridor for drivers without a Costco card",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:45:13.720Z"
+  },
+  {
+    "topic": "Rainey Park parking + restroom access weekend",
+    "reason": "Destination after this pit stop; confirms whether bathrooms exist at the LIC endpoint so Costco stop is actually necessary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:45:13.721Z"
+  },
+  {
+    "topic": "Zone enum expansion: astoria + long-island-city",
+    "reason": "Multiple Queens-adjacent venues (Socrates, Rainey, Costco) currently forced into greenpoint — schema gap worth fixing before more entries pile up",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:45:13.721Z"
+  },
+  {
+    "topic": "Brooklyn Grange Queens Farm Open House (37-18 Northern Blvd rooftop, weekend tours May–Oct)",
+    "reason": "Replaces the dead COFFEED slot with the actually-open rooftop experience in the same LIC cluster, ~5 min from Rainey Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:47:25.987Z"
+  },
+  {
+    "topic": "Sweetleaf Coffee LIC (10-93 Jackson Ave) — independent third-wave cafe with weekend parking",
+    "reason": "Live LIC coffee anchor within 5 min of Rainey Park, fills the non-park LIC stop the original topic was meant to provide",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:47:25.987Z"
+  },
+  {
+    "topic": "Hibino Kitchen LIC (10-70 Jackson Ave) — Japanese obanzai brunch with seasonal small plates",
+    "reason": "Same micro-cluster as Rainey/Gantry; alternative non-park daytime stop with strong photo + foodie appeal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:47:25.987Z"
+  },
+  {
+    "topic": "Noguchi Museum Long Island City weekend hours + parking",
+    "reason": "Adjacent 4-min walk from Socrates; pairs as an indoor sculpture counterpart on the same Astoria track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:49:16.635Z"
+  },
+  {
+    "topic": "Rainey Park Astoria waterfront weekend",
+    "reason": "Directly next to Socrates with the actual public parking lot; useful as a low-key picnic add-on",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:49:16.636Z"
+  },
+  {
+    "topic": "Bohemian Hall and Beer Garden Astoria evening",
+    "reason": "User-cited natural evening pair 10 min north of Socrates; needs its own enriched entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:49:16.636Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park Long Island City weekend hours and parking",
+    "reason": "Free outdoor sculpture park 5 min walk from Noguchi — natural pairing to extend the LIC art stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:51:10.750Z"
+  },
+  {
+    "topic": "MoMA PS1 Long Island City weekend hours admission parking",
+    "reason": "Major contemporary art anchor in LIC; rounds out a Queens art track if user wants depth over biergarten",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:51:10.750Z"
+  },
+  {
+    "topic": "Bohemian Hall Beer Garden Astoria weekend hours food menu parking",
+    "reason": "Already named as the pairing venue — needs its own enriched entry to complete the loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:51:10.750Z"
   }
 ]
