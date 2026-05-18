@@ -5425,9 +5425,9 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Kunming-couple-run Yunnanese rice-noodle counter on 8th Ave — crossing-bridge mixian, cold peanut noodles, cash only.",
-    "longDesc": "A tiny, fluorescent-lit Sunset Park institution run by a husband-and-wife team from Kunming, serving rare-in-NYC Yunnan-province cooking. The signature is crossing-bridge noodles (guòqiáo mĭxiàn) — rice noodles in a fiery oil-slicked broth with raw vegetables and lightly-cooked meats finishing in the bowl — alongside cold mixian with sweet-salty ground pork and crushed peanuts. Cash only, fast turnover, almost no decor; you come for the noodles.",
-    "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+    "desc": "Tiny Sunset Park counter for Kunming-style rice noodles and crossing-the-bridge bowls.",
+    "longDesc": "Husband-and-wife counter from Kunming serving some of NYC's most legit Yunnanese cooking: crossing-the-bridge rice noodles, cold mixed noodles with chili oil, and herbal broths that lean aromatic rather than heavy. Cash-friendly, tiny dining room, mostly takeout — a perfect light, regional counterpoint to East Harbor dim sum a few blocks north on 8th Ave.",
+    "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5438,35 +5438,31 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "10:30-22:30",
-    "notes": "Cash only — no cards, no Apple Pay (yelp.com/biz/yun-nan-flavor-garden-brooklyn). 5121 8th Ave at ~52nd St, ~1.7 mi from IC up 3rd/4th Ave (nyctourism.com). Street parking on 8th Ave or side streets is usually easy on weekends. Order the crossing-bridge noodles and a cold mixian to share; portions are large and prices are sub-$15 (stuyspec.com). No alcohol, no reservations, narrow counter seating — best as a quick stop, not a sit-down meal. Anchors a Sunset Park food cluster that pairs well with bakeries on 8th Ave and Industry City for an afternoon foodie/curious track.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "09:00-21:00",
+    "notes": "5121 8th Ave, between 51st & 52nd in Sunset Park's Chinatown; ~1 mi inland from Industry City, easy street parking on 8th Ave side streets on weekends. Order the crossing-the-bridge noodles or the $8.75 quail-egg rice noodle bowl with thin-sliced meat, tofu, and bean sprouts (The Infatuation; Stuy Spec). Lighter and more herbal than the Cantonese/Fujianese spots nearby, so it pairs well as a second stop after dim sum or as the standalone food anchor of the 8th Ave crawl (NYC Tourism).",
     "sources": [
       {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T15:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/yun-nan-flavour-garden",
+        "accessed": "2026-05-18T15:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://notanotherbrooklynblog.com/2015/03/10/eating-8th-avenue-yun-nan-flavour-garden/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T15:15:00Z"
       },
       {
         "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d5075334-Reviews-Yun_Nan_Flavor_Garden-Brooklyn_New_York.html",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T15:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T11:28:27.647Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T15:22:52.980Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -5514,9 +5510,9 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Cart-pushed dim sum banquet hall in Sunset Park's 8th Ave Chinatown — the closest cart dim sum to Industry City.",
-    "longDesc": "A gold-accented Cantonese banquet hall where steamer carts roll between tables until 3 PM daily (Michelin Guide-listed). Weekend crowds pack in by 11 AM — arrive 10:30 for a 15-20 min wait; the siu mai, shrimp cheung fun in sweet soy, and black bean spare ribs are the consistent calls. Roughly $12-15/person with tax, making it the obvious cart dim sum default before driving 45+ min to Flushing.",
-    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+    "desc": "Sunset Park's gold-trimmed cart dim sum hall — har gow, shu mai, and tripe pushed table-to-table",
+    "longDesc": "A massive 8th Ave banquet hall where waiters wheel steaming carts past gold-accented dining rooms and call out dumplings in Cantonese — har gow, shu mai, char siu bao, turnip cake, and chicken feet land on the table before you can point. Cash-friendly, family-loud, and very much the real thing; weekends fill up fast so arrive before 10am or expect a wait. Five minutes south of IC with plentiful weekend street parking on 65th/66th once you're off 8th.",
+    "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5529,14 +5525,10 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-22:00 (carts until 15:00)",
-    "notes": "714 65th St (between 7th & 8th Ave), Brooklyn NY 11220; (718) 765-0098 (Yelp). Cart service is the draw — arrive 10:30-11:00 weekends to dodge the 30+ min wait (Cinnamon Society). Vegetarian dim sum exists (taro puffs, mushroom dumplings, veg buns) but selection is limited vs meat/seafood. Sunset Park street parking on weekends is doable on 65th/66th St; commercial lots on 8th Ave fill by noon. Pairs well with a post-meal Industry City return or a walk up 8th Ave to the bakeries.",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "09:00-23:00 (dim sum carts run until ~15:00)",
+    "notes": "714 65th St between 7th & 8th Ave, Sunset Park (Yelp). Open 7 days 9am–11pm; cart dim sum until 3pm but new carts slow ~2:45pm (Cinnamon Society). Get there before 9:30am weekends to skip the wait (Cinnamon Society). Michelin Guide listed (Michelin). Cash speeds things up but cards accepted. ~5 min drive from Industry City; weekend street parking is workable a block off 8th Ave.",
     "sources": [
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
       {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
         "accessed": "2026-05-18T00:00:00Z"
@@ -5544,12 +5536,16 @@
       {
         "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
         "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T15:11:18.511Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:13:15.329Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -9061,12 +9057,12 @@
   {
     "id": "asian-jewels-seafood-flushing",
     "name": "Asian Jewels Seafood Restaurant",
-    "desc": "Old-school Hong Kong dim sum hall with rolling carts and live-tank seafood in downtown Flushing.",
-    "longDesc": "Asian Jewels is one of the last true cart-service dim sum halls in NYC — a banquet-sized room at 133-30 39th Ave (a half-block off Northern Blvd) where servers wheel har gow, siu mai, and turnip cake past your table. Featured in the MICHELIN Guide and a fixture of the Flushing dim sum scene, it also runs a full Cantonese seafood menu from live tanks at dinner.",
-    "url": "http://www.asianjewelsny.com/",
+    "desc": "Cantonese cart-push dim sum palace in Flushing with on-site free parking and live seafood tanks",
+    "longDesc": "One of NYC's last true cart-pushing dim sum halls — servers wheel steaming carts of har gow, siu mai, char siu bao, chicken feet, and turnip cake past your table so you point at what you want (Yelp, Foursquare). The vast banquet-style dining room doubles as a Cantonese seafood house with live tanks, and the on-site free parking lot makes it the strongest Queens replacement now that Ping's Elmhurst has closed (Michelin Guide).",
+    "url": "https://www.google.com/maps/place/Asian+Jewels+Seafood+Restaurant/@40.7595,-73.8295,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "greenpoint",
     "vibe": [
       "foodie",
       "curious"
@@ -9075,32 +9071,36 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "75-90 min",
-    "driveFromIC": "40 min",
-    "hoursWeekend": "09:00-22:00 (dim sum carts 09:00-15:15)",
-    "notes": "Address is 133-30 39th Ave, Flushing, NY 11354 — half-block south of Northern Blvd, accessible via Main St or Prince St (yelp.com). Weekend dim sum starts 9am and carts run until ~3:15pm; full menu service continues to 10pm (asianjewelsny.com). Phone 718-359-8600. MICHELIN Guide listed (guide.michelin.com). FAR from Industry City — realistic drive is 35-45 min via BQE/LIE depending on traffic, exceeds the 25-min preferred radius; only justify as a destination dim sum trip, not a casual cluster stop. Street parking is tight on weekends; the Flushing municipal lot on 39th Ave and the Sheraton garage on Prince St are the practical options.",
+    "duration": "60-90 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "10:00-22:00 (dim sum carts 10:00-15:00)",
+    "notes": "Actually located in Flushing, Queens at 133-30 39th Ave (zone enum has no Queens option; mapped to greenpoint as closest Brooklyn proxy). Arrive 11:00-13:00 for peak cart variety and freshest items (Yelp). Free parking lot on-site fills after noon on weekends; valet and overflow lots are signposted (Tripadvisor). Cart service ends ~15:00 weekends, ~15:00 weekdays — earlier than printed close. ~30 min from Industry City via BQE/LIE — longer than the standard 15-min IC cluster, but uniquely justified as the Queens cart-dim-sum replacement for the shuttered Ping's Elmhurst.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/asian-jewels-seafood-restaurant-flushing-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T15:15:00Z"
       },
       {
-        "url": "http://www.asianjewelsny.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://foursquare.com/v/asian-jewels-seafood-restaurant-%E6%95%A6%E5%9F%8E%E6%B5%B7%E9%B2%9C%E9%85%92%E5%AE%B6/4a1845c8f964a52092791fe3",
+        "accessed": "2026-05-18T15:15:00Z"
       },
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/asian-jewels",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g47729-d1103186-Reviews-Asian_Jewels_Seafood_Restaurant-Flushing_Queens_New_York.html",
+        "accessed": "2026-05-18T15:15:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/asian-jewels",
+        "accessed": "2026-05-18T15:15:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/asian-jewels-seafood-restaurant/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T15:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:57:58.512Z"
+    "lastResearchedAt": "2026-05-18T15:15:36.977Z"
   },
   {
     "id": "west-village-lunch-walk",
@@ -16414,8 +16414,8 @@
   {
     "id": "pacificana-dim-sum",
     "name": "Pacificana",
-    "desc": "Sunset Park cart-service Cantonese dim sum with weekend basement parking 5 min from IC",
-    "longDesc": "Classic 8th Avenue dim sum hall in Brooklyn's largest Chinatown, with traditional cart service running 8am–3:30pm on weekends — har gow, shu mai, turnip cakes, chicken feet, and Hong Kong-style seafood. Cheap paid basement garage in the building itself ($4 spaces if you grab one) plus free Sunday street parking, making it the easiest dim sum lot near Industry City. Come before 11am or after 2:30pm to dodge the weekend rush.",
+    "desc": "Cavernous Sunset Park banquet hall with old-school push-cart dim sum and a basement parking garage.",
+    "longDesc": "Pacificana is one of the last large-format cart dim sum halls in Brooklyn's Chinatown — dozens of round tables, steaming carts circling with har gow, shrimp rice noodle rolls, chicken feet, and sesame balls. Reviewers who've eaten dim sum across U.S. Chinatowns repeatedly rank it among the best, and a small basement garage at $4/space takes some of the sting out of weekend parking. Arrive before 11am or after 2pm to dodge the long weekend queues.",
     "url": "http://pacificanabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -16429,31 +16429,31 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "5 min",
-    "hoursWeekend": "08:00-15:30 (dim sum), 09:00-23:00 (dinner)",
-    "notes": "813 55th St at 8th Ave, Sunset Park; cart service weekends 8am-3:30pm (pacificanabrooklyn.com). Paid basement garage inside the building — enter via 54th → 9th Ave → 55th St; tiny but $4 (bklyner.com). Free Sunday street parking blocks away (brokelyn.com). Good backup if East Harbor lot is full or you want variety on the same trip — different cart selection, more seafood-leaning Hong Kong style.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "09:00-23:00 (dim sum 08:00-15:30)",
+    "notes": "813 55th St at 8th Ave, Sunset Park 11220 (718-871-2880). Push-cart service is the draw — point at what looks good. Cheap basement garage on 55th St ($4 if you can grab a space) (Tripadvisor). Weekend waits get brutal after 11am; reservation not really a thing for dim sum, so go early (Bklyner). Direct cart-style comparable to East Harbor a few blocks north.",
     "sources": [
       {
         "url": "http://pacificanabrooklyn.com/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T15:15:00Z"
       },
       {
         "url": "https://bklyner.com/where-to-go-for-the-dim-sum-in-sunset-park-sunset-park/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T15:15:00Z"
       },
       {
-        "url": "https://brokelyn.com/sunset-park-dim-sum/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1006410-Reviews-Pacificana-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T15:15:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/pacificana-sunset-park/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T15:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T11:26:17.543Z"
+    "lastResearchedAt": "2026-05-18T15:20:47.208Z"
   },
   {
     "id": "frankels-delicatessen-greenpoint",
@@ -43790,5 +43790,49 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T15:08:35.446Z"
+  },
+  {
+    "id": "new-lake-pavilion-flushing",
+    "name": "New Lake Pavilion (Golden Lake Pavilion)",
+    "desc": "Old-school Cantonese push-cart dim sum palace at the Flushing / Kew Gardens Hills edge, with valet lot.",
+    "longDesc": "A massive banquet-hall dim sum room (raised stage, ~30+ tables) where servers wheel carts of har gow, siu mai, cheong fun, and chicken feet through the aisles in classic Hong Kong style. Lives at 60-15 Main St on the Flushing / Kew Gardens Hills border — technically Flushing, but enough south of downtown to dodge the worst Roosevelt Ave gridlock. Valet-operated rear lot is the make-or-break amenity; weekends fill by 11:00 so arrive early or accept a wait.",
+    "url": "https://www.yelp.com/biz/golden-lake-pavilion-flushing-2",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "35-45 min",
+    "hoursWeekend": "09:00-22:00 (dim sum carts run until ~15:00)",
+    "notes": "Topic was tagged 'Bayside' but the venue is at 60-15 Main St, Flushing/Kew Gardens Hills border — not Bayside (Yelp May 2026 listing as Golden Lake Pavilion). Cart service is the draw; à la carte menu also available. Valet/double-stacked rear lot is the parking story — recommended by reviewers, fills fast on weekends (Wanderlog, Restaurantji). Cantonese-style means lighter seasoning; come for textures and freshness, not bold flavor. Drive from IC (~17 mi via BQE/LIE) typically exceeds the 25-min IC radius — only worth the trip when the cart-dim-sum experience itself is the goal. For a closer or quieter option, see Canton Manor in Bayside or Pacificana in Sunset Park (enqueued).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/golden-lake-pavilion-flushing-2",
+        "accessed": "2026-05-18T15:20:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/queens/lake-pavilion-restaurant-/",
+        "accessed": "2026-05-18T15:20:00Z"
+      },
+      {
+        "url": "https://wanderlog.com/place/details/462983/golden-lake-pavilion",
+        "accessed": "2026-05-18T15:20:00Z"
+      },
+      {
+        "url": "https://newlakepavilion.site/",
+        "accessed": "2026-05-18T15:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:18:28.835Z"
   }
 ]
