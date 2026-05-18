@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Henry Public — 329 Henry St, Cobble Hill old-timey tavern (4 blocks from Lucali)",
-    "reason": "Cheaper $$ alternative for the same evening track; turkey-leg sandwich + Manhattan combo is a different vibe than Clover Club",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:14:18.899Z"
-  },
-  {
-    "topic": "Brooklyn Inn — 148 Hoyt St, historic 1870s neighborhood bar in Boerum Hill",
-    "reason": "Adds a no-frills dive-leaning option to the evening-track corpus when guests want pre-Lucali drinks without a cocktail-bar price tag",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:14:18.899Z"
-  },
-  {
-    "topic": "Grand Army South (Gowanus seafood/oysters residency at Threes Brewing)",
-    "reason": "The kitchen partner is a named project in its own right — worth a standalone entry so the itinerary can surface it as a food-led pick separate from the beer hall framing.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:16:27.927Z"
-  },
-  {
-    "topic": "Tiny Montgomery (Threes Brewing event venue, Gowanus)",
-    "reason": "Live music/comedy/sports-screening side space — distinct programming asset that should be itinerary-addressable independently of the taproom for evening/rainy-day branches.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:16:27.927Z"
-  },
-  {
-    "topic": "Strong Rope Brewery (Carroll Gardens, all-NY-grain microbrewery)",
-    "reason": "Smaller, hyper-local craft alternative ~10 min from IC in a different cluster (Carroll Gardens) — diversifies the beer-anchor options beyond Gowanus/Sunset Park.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:16:27.927Z"
-  },
-  {
     "topic": "Frankel's Delicatessen Greenpoint smoked-fish sandwiches",
     "reason": "Adjacent classic-Brooklyn deli archetype, fills a Greenpoint cluster food slot",
     "requestedBy": "agent",
@@ -16084,5 +16054,95 @@
     "reason": "Cheaper, food-forward sibling option on the same walking route to Lucali — burger + Manhattan classic",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T07:56:33.454Z"
+  },
+  {
+    "topic": "The Long Island Bar — 110 Atlantic Ave, Cobble Hill restored 1950s diner-bar with celebrated gimlets",
+    "reason": "Another old-school Cobble Hill drinks spot within 3 blocks of Henry Public; complements the same evening track with a different mid-century vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:58:35.806Z"
+  },
+  {
+    "topic": "Jack the Horse Tavern — 66 Hicks St, Brooklyn Heights wood-paneled neighborhood tavern",
+    "reason": "Adjacent Brooklyn Heights old-tavern alternative if Henry Public is full; rounds out the 'historic-tavern' corpus near the Cobble Hill cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:58:35.806Z"
+  },
+  {
+    "topic": "Brooklyn Inn — 148 Hoyt St, Boerum Hill 19th-century carved-wood bar with no kitchen",
+    "reason": "Drinks-only old-Brooklyn pub one neighborhood over; useful as a true dive-leaning counterpart to Henry Public's tavern-restaurant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:58:35.806Z"
+  },
+  {
+    "topic": "Long Island Bar — 110 Atlantic Ave, Cobble Hill classic cocktail bar in restored 1951 diner",
+    "reason": "Same Cobble Hill/Boerum Hill cluster, gives a polished cocktail counterpoint to Brooklyn Inn's dive end of the spectrum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:00:41.452Z"
+  },
+  {
+    "topic": "Brooklyn Farmacy & Soda Fountain — 513 Henry St, Carroll Gardens egg cream + sundae stop in a restored 1920s pharmacy",
+    "reason": "Non-alcoholic, historic-Brooklyn analog for the same pre-Lucali slot when the group skews family or sober",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:00:41.452Z"
+  },
+  {
+    "topic": "Henry Public — 329 Henry St, Cobble Hill tavern with Brooklyn Heights burger and house cocktails",
+    "reason": "Bridges the gap between Brooklyn Inn's bar-only model and a real pre-Lucali snack stop within the same 5-min drive radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:00:41.452Z"
+  },
+  {
+    "topic": "Grand Army Bar (Boerum Hill original oyster bar at 336 State St)",
+    "reason": "Parent restaurant of Grand Army South; full raw-bar + cocktail program worth its own entry for romantic/date-night Park Slope-adjacent slot.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:02:59.890Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom (beer-led framing, separate from Grand Army South kitchen)",
+    "reason": "Same physical venue but the beer-hall/event-space angle is a distinct experience and may slot differently in itinerary tracks.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:02:59.890Z"
+  },
+  {
+    "topic": "Other Brooklyn brewery + chef-residency pairings (e.g. Other Half, Strong Rope, Threes Greenpoint)",
+    "reason": "Expands the 'brewery with a real kitchen' corpus that pairs well with the Gowanus driving cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:02:59.890Z"
+  },
+  {
+    "topic": "Union Hall Park Slope (downstairs music + bocce)",
+    "reason": "Sibling small-venue in same 10-min radius — bocce courts + basement bands fills the same evening/rainy branch with a different vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:05:09.171Z"
+  },
+  {
+    "topic": "The Bell House Gowanus (live music + comedy)",
+    "reason": "Closest direct programming peer two blocks from Threes — useful for nights when Tiny Montgomery is private-booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:05:09.171Z"
+  },
+  {
+    "topic": "Littlefield Gowanus (concert + comedy venue)",
+    "reason": "Third Gowanus evening anchor — lets the corpus cluster a real 'Gowanus nightlife' track around Industry City",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:05:09.171Z"
+  },
+  {
+    "topic": "Other Half Brewing Carroll Gardens taproom (Centre St)",
+    "reason": "Fills the original 'Carroll Gardens beer anchor' slot the requester was aiming for — actually in CG, big NYC craft name, complements Strong Rope's Red Hook relocation.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:07:15.186Z"
+  },
+  {
+    "topic": "Folksbier Brauerei (Sunset Park lager-focused brewery)",
+    "reason": "Lager-specialist counterpart in a third cluster (Sunset Park) — diversifies away from hazy-IPA-dominant Gowanus options.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:07:15.186Z"
+  },
+  {
+    "topic": "Schooner Apollonia (sail-freight grain delivery on the Hudson)",
+    "reason": "Story hook tied to Strong Rope's supply chain — could power a 'how your beer got here' chat thread or harvester topic, and connects to Hudson Valley Malt as a separate corpus entry.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:07:15.186Z"
   }
 ]

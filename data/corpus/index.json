@@ -11494,46 +11494,44 @@
   {
     "id": "grand-army-south-gowanus",
     "name": "Grand Army South (Threes Brewing Gowanus)",
-    "desc": "Threes Brewing's in-house kitchen by the Grand Army Bar team — smash burgers, fried chicken, steak frites.",
-    "longDesc": "Grand Army South is the resident kitchen inside Threes Brewing's Gowanus brewery taproom, run by the team behind the cocktail bar Grand Army in Boerum Hill. The menu reads like elevated bar food with a Brooklyn-bistro spine: smash burger, falafel burger, fried chicken, chili crab fries, steak frites, plus a vegetarian-leaning Papa Dulce (roasted sweet potato, farro, salsa rosa, avocado, queso fresco) and snacks like corn ribs and popcorn. Pair it with whatever Threes pilsner is fresh on tap and it doubles as a real dinner stop, not just a beer-with-fries afterthought.",
+    "desc": "Boerum Hill oyster bar's kitchen residency inside Threes Brewing — smash burgers, crab fries, raw bar.",
+    "longDesc": "Grand Army — the iconic Boerum Hill cocktail-and-oyster bar — runs the indefinite kitchen residency at Threes Brewing's Gowanus taproom, replacing the prior Super Burrito stand. The compact menu anchors on a double smash burger and loaded crab fries late at night, with oysters and seafood from the parent restaurant's raw-bar program paired against Threes' tap list. The brewery setting keeps it casual, group-friendly, and built for hanging out longer than a typical dinner.",
     "url": "https://www.grandarmysouth.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/69dd25b10c080c447ce2023c/9322e3fc-24f4-4f75-98b3-9fba5bfad664/GrandArmy_Hero.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "foodie",
       "chill"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
-    "notes": "333 Douglass St, Brooklyn NY 11217, inside Threes Brewing Gowanus taproom (grandarmybar.com/threesbrewery). Sister outpost recently relaunched inside Threes Greenpoint with the same menu (greenpointers.com, 2026-03-06). ZipPicks rates the smash burger 8.3/10 and categorizes it under Park Slope dining (zippicks.com). Street parking on Douglass/Nevins is usually fine on weekends; the brewery itself doesn't validate. Good 'dinner-quality' flag for itineraries that previously listed Threes as a drinks-only stop.",
+    "notes": "Address 333 Douglass St, Brooklyn NY 11217, on the Gowanus/Park Slope border (threesbrewing.com). Kitchen residency by Grand Army Bar / Grand Army South; same operators also took over the Greenpoint Threes outpost in March 2026 (Greenpointers). Best dish call-outs: double burger + loaded crab fries (ZipPicks). Peak 9-11pm Fri/Sat with 15-30 min wait; weekday/early-afternoon weekend windows are easy walk-ins. Street parking around 4th Ave / Douglass / Nevins is generally available on weekends — Gowanus is car-friendlier than Park Slope proper. Limited vegetarian options per reviewer.",
     "sources": [
       {
-        "url": "https://www.grandarmybar.com/threesbrewery",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.grandarmysouth.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T08:00:00Z"
       },
       {
-        "url": "https://greenpointers.com/2026/03/06/threes-brewing-reopens-greenpoint-outpost-with-new-menu-from-grand-army-south/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://threesbrewing.com/pages/gowanus",
+        "accessed": "2026-05-18T08:00:00Z"
       },
       {
         "url": "https://zippicks.com/grand-army-south-threes-brewing-gowanus-brooklyn-11217/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T08:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2026/03/06/threes-brewing-reopens-greenpoint-outpost-with-new-menu-from-grand-army-south/",
+        "accessed": "2026-05-18T08:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T12:50:00.771Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:02:59.866Z"
   },
   {
     "id": "music-hall-of-williamsburg",
@@ -34292,10 +34290,10 @@
   {
     "id": "henry-public",
     "name": "Henry Public",
-    "desc": "Old-time Brooklyn saloon with a famous turkey-leg sandwich and zinc-and-walnut bar.",
-    "longDesc": "Self-styled 'Old Time Brooklyn Saloon, done up in Handsome Style' at the Cobble Hill / Brooklyn Heights border, with a zinc-and-walnut counter and pre-Prohibition ambience. The kitchen is best known for its hand-pulled Turkey Leg Sandwich on a homemade roll, alongside a grass-fed burger, East Coast oysters and marrow bones. Walk-in friendly weekend afternoons; pairs naturally with a Henry Street stroll past the Long Island Bar and Cobble Hill's preserved brownstones.",
+    "desc": "Old-time Brooklyn saloon with zinc-and-walnut bar; famed turkey-leg sandwich + classic Manhattans.",
+    "longDesc": "An 'Old Time Brooklyn Saloon, done up in Handsome Style' on the Cobble Hill/Brooklyn Heights border, four blocks from Lucali. The kitchen anchors on a grass-fed burger, East Coast oysters, marrow bones, and its signature turkey-leg sandwich, while the bar runs straight pre-Prohibition cocktails (Manhattans, Bloody Henrys). Sunday afternoons (4-7pm) bring live old-time jazz and blues from Milkman & Sons — a cheaper, woodier counterpart to Clover Club on the same evening track.",
     "url": "https://www.henrypublic.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/53af356fe4b0ac0875463883/1404438957536-MRK385QNJOPZLLJ4H0Y1/image-asset.jpeg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
@@ -34306,31 +34304,31 @@
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "13 min",
-    "hoursWeekend": "Sat 12:00-00:00; Sun 12:00-23:00",
-    "notes": "329 Henry St, Brooklyn — corner of Henry & Atlantic, walkable to Long Island Bar / Sahadi's / Brooklyn Bridge Park. Famous Turkey Leg Sandwich on a homemade roll (henrypublic.com/about). Zinc-and-walnut bar, pre-Prohibition feel, no-reservations gastropub (nyctourism.com). Weekend street parking on Henry/Pacific/Amity is realistic outside peak supper hours. Phone (718) 852-8630.",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 12:00-24:00, Sun 12:00-23:00 (kitchen closes earlier)",
+    "notes": "329 Henry St, on the Cobble Hill/Brooklyn Heights border, ~4 blocks from Lucali on Henry St (henrypublic.com/about). Signature turkey-leg sandwich and grass-fed burger anchor the menu; oysters, marrow bones, steaks & chops fill it out (henrypublic.com). Live old-time jazz/blues Sundays 4-7pm with Milkman & Sons — strong slot for a wind-down pour after a Cobble Hill dinner. Kitchen wraps ~11pm Fri/Sat; bar runs to midnight Sat / 11pm Sun. Weekend street parking in Cobble Hill is easier than Carroll Gardens proper — try Pacific/Amity blocks west of Court St. Cheaper $$ alternative to Clover Club for the same Cobble Hill track; trades cocktail-bar polish for tavern warmth.",
     "sources": [
       {
         "url": "https://www.henrypublic.com/about",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T08:00:00Z"
       },
       {
         "url": "https://www.henrypublic.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T08:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/henry-public-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T08:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/henry-public/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.timeout.com/newyork/bars/henry-public",
+        "accessed": "2026-05-18T08:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T01:32:32.959Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T07:58:35.765Z"
   },
   {
     "id": "el-pinguino-greenpoint",
@@ -38875,49 +38873,52 @@
   {
     "id": "brooklyn-inn",
     "name": "The Brooklyn Inn",
-    "desc": "Landmark 1885 Boerum Hill tavern with hand-carved German oak bar from the 1870s — no-fuss neighborhood pub.",
-    "longDesc": "One of Brooklyn's oldest continuously operating bars, anchored by a carved-wood counter imported from Germany in the 1870s and a back room added by founder's widow Marie Zeiner in 1892 (brownstoner.com). It survived Prohibition by quietly bootlegging and reopened post-pandemic with light food and outdoor seating. Tin ceiling, stained glass, jukebox, no TVs — pure old-Brooklyn ambience at $$ pub prices, an easy nightcap counterpoint to nearby craft-cocktail rooms.",
-    "url": "https://www.timeout.com/newyork/bars/the-brooklyn-inn",
+    "desc": "Historic 1885 corner bar with imported German carved-wood bar, stained glass, and a back pool room.",
+    "longDesc": "One of Brooklyn's oldest bars, opened by Anton Zeiner in 1885 inside an 1870s building at Hoyt and Bergen. The long dim front room is anchored by a hand-carved wood bar shipped from Germany and topped with backlit stained glass; a quieter pool room sits in the back. No-frills beer, shots, and basic cocktails — ideal for an unhurried pre-Lucali drink instead of a $20-cocktail bar.",
+    "url": "https://www.google.com/maps/place/The+Brooklyn+Inn/@40.6852,-73.9853,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
       "chill",
-      "curious",
-      "romantic"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "45-75 min",
+    "duration": "45-60 min",
     "driveFromIC": "13 min",
-    "hoursWeekend": "14:00-02:00",
-    "notes": "148 Hoyt St at Bergen St, Boerum Hill (technically Boerum Hill, mapped to cobble-hill zone). Opened 1885 by Anton Zeiner with backing from Otto Huber Brewery; widow Marie Zeiner added the back room and woodwork in 1892 (brownstoner.com). Operated through Prohibition (caught and shut for 8 months once). Cash-friendly, no TVs, strong jukebox, weekend opens 2 PM. Street parking only — Hoyt/Bergen has metered + free residential blocks within 2-3 min walk on weekends (brooklynpaper.com). Phone (718) 522-2525.",
+    "hoursWeekend": "15:00-02:00",
+    "notes": "Cash-and-card neighborhood bar at 148 Hoyt St, corner of Bergen — Boerum Hill border with Cobble Hill, ~5 min drive to Lucali in Carroll Gardens (Untapped Cities; Brownstoner). Building dates to the 1870s; bar opened 1885 and survived Prohibition as a speakeasy that was briefly shuttered for 8 months (Brooklyn Paper). Hand-carved German bar and stained-glass transoms are the visual draw (PUNCH; Tebeau). Back room has a pool table; no kitchen most nights — eat before or after. Street parking in Boerum Hill is doable on weekends but not guaranteed; municipal lot on Schermerhorn is the fallback.",
     "sources": [
       {
         "url": "https://www.brownstoner.com/history/bars-brooklyn-past-brooklyn-inn/",
-        "accessed": "2026-05-18T07:15:00Z"
-      },
-      {
-        "url": "https://www.brownstoner.com/brooklyn-life/oldest-bar-brooklyn-inn-boerum-hill-reopens-148-hoyt-street-covid-food-outdoor/",
-        "accessed": "2026-05-18T07:15:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/bars/the-brooklyn-inn",
-        "accessed": "2026-05-18T07:15:00Z"
+        "accessed": "2026-05-18T08:00:00Z"
       },
       {
         "url": "https://punchdrink.com/venues/brooklyn-inn/",
-        "accessed": "2026-05-18T07:15:00Z"
+        "accessed": "2026-05-18T08:00:00Z"
       },
       {
-        "url": "https://brooklyneagle.com/articles/2020/01/14/ask-a-historian-whats-the-oldest-bar-in-brooklyn/",
-        "accessed": "2026-05-18T07:15:00Z"
+        "url": "https://www.timeout.com/newyork/bars/the-brooklyn-inn",
+        "accessed": "2026-05-18T08:00:00Z"
+      },
+      {
+        "url": "https://www.untappedcities.com/oldest-bars-and-restaurants-brooklyn/",
+        "accessed": "2026-05-18T08:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/brooklyn-inn-boerum-hill-open-covid-19/",
+        "accessed": "2026-05-18T08:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-brooklyn-inn-brooklyn",
+        "accessed": "2026-05-18T08:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T07:13:04.761Z"
+    "lastResearchedAt": "2026-05-18T08:00:41.413Z"
   },
   {
     "id": "whoopsie-daisy",
@@ -39225,5 +39226,92 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T07:54:33.746Z"
+  },
+  {
+    "id": "tiny-montgomery",
+    "name": "Tiny Montgomery at Threes Brewing",
+    "desc": "1,000-sq-ft listening room inside Threes Gowanus — live bands, comedy, sports screenings, dance nights.",
+    "longDesc": "Tucked inside Threes Brewing's Gowanus brewpub at 333 Douglass St, Tiny Montgomery is an intimate ~1,000-sq-ft side room named after a Dylan lyric — capacity 50 standing / 30 seated, expandable to ~75 with the adjoining cafe-bar. Programming spans local bands, comedy showcases, big-game screenings, and DJ/dance nights, with Threes beer on tap and Grand Army catering on hand. It's the strongest evening or rainy-day pivot a 10-minute drive from Industry City.",
+    "url": "https://threesbrewing.com/pages/tiny-montgomery",
+    "photoUrl": "https://threesbrewing.com/cdn/shop/files/S7A4813_1500x1500.jpg?v=1644230075",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 12:00-00:00 / Sun 12:00-23:00 (event-dependent)",
+    "notes": "Programming is event-driven — check Threes calendar for the night you're going (live music, comedy, sports screenings, dance parties cited on official page). 1,000 sq ft, ~50 standing / 30 seated; 75 when combined with adjacent cafe + bar (threesbrewing.com). Grand Army is exclusive caterer. Street parking on Douglass/3rd Ave is realistic on weekends; sits on Gowanus/Park Slope border. Named after a song from Dylan's Basement Tapes (brooklynvegan.com).",
+    "sources": [
+      {
+        "url": "https://threesbrewing.com/pages/tiny-montgomery",
+        "accessed": "2026-05-18T08:00:00Z"
+      },
+      {
+        "url": "https://threesbrewing.com/pages/gowanus",
+        "accessed": "2026-05-18T08:00:00Z"
+      },
+      {
+        "url": "https://www.songkick.com/venues/2777598-tiny-montgomery-at-threes-brewing",
+        "accessed": "2026-05-18T08:00:00Z"
+      },
+      {
+        "url": "https://thevendry.com/venue/27476/threes-brewing-gowanus-brooklyn-ny/space/6432",
+        "accessed": "2026-05-18T08:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T08:05:09.141Z"
+  },
+  {
+    "id": "strong-rope-brewery",
+    "name": "Strong Rope Brewery",
+    "desc": "All-NY-state farm brewery in a Red Hook industrial bay; small-batch beers from Hudson Valley malt.",
+    "longDesc": "Strong Rope is a NY State licensed farm brewery using 100% New York-grown grain, hops, and yeast — Hudson Valley Malt arrives via the Schooner Apollonia. After their President St (Gowanus) taproom closed in March 2026, the operation consolidated at the Red Hook taproom on Van Dyke St, a 10-minute drive from IC through a different cluster than Gowanus/Sunset Park. Expect a small rotating list of clean lagers, English-style ales, and grain-forward saisons rather than the hazy-IPA template.",
+    "url": "https://www.strongropebrewery.com/taproom",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6406349731f96111d7d4c951/46d48d15-139f-4242-954c-124ef9b7788b/X7A6008_website.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri-Sat 12:00-23:00, Sun 12:00-21:00",
+    "notes": "Note: Carroll Gardens/Gowanus location at 574 President St CLOSED March 28, 2026 — current taproom is 185 Van Dyke St, Red Hook (strongropebrewery.com/taproom). 100% NY-state ingredients, farm brewery designation (strongropebrewery.com). No on-site parking; street parking on Van Dyke/Conover is usually available on weekends but AVOID the 175 Van Dyke lot — vehicles get towed (strongropebrewery.com/taproom). Pairs naturally with a Red Hook track (Pioneer Works, Hometown BBQ, Widow Jane, Red Hook Winery on the same pier strip).",
+    "sources": [
+      {
+        "url": "https://www.strongropebrewery.com/taproom",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/strong-rope-brewery-brooklyn-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/strong-rope-brewery-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://redhookwaterstories.org/items/show/1891",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T08:07:15.160Z"
   }
 ]
