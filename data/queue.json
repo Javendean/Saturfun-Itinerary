@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Best counter-only omakase under $80 within 15 min of Industry City",
-    "reason": "Expands the higher-end sushi tier across Brooklyn neighborhoods for upgrade paths",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:12:19.396Z"
-  },
-  {
-    "topic": "Ramen Setagaya at Japan Village",
-    "reason": "Actual ramen counter inside Japan Village — completes the handroll/sushi/ramen trio the task was reaching for and resolves the Hachi=ramen mislabel",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:14:35.485Z"
-  },
-  {
-    "topic": "Gohei at Japan Village (sushi counter)",
-    "reason": "Rounds out the Japan Village counter set so itineraries can rotate handroll vs. sushi vs. ramen vs. street-snacks within the same IC anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:14:35.485Z"
-  },
-  {
-    "topic": "Umami House at Japan Village",
-    "reason": "Another JV counter with distinct cuisine; expands within-anchor rotation depth without leaving Industry City",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:14:35.485Z"
-  },
-  {
-    "topic": "Re-research existing venue: Sushi Uesugi at Japan Village (weekend hours + omakase price)",
-    "reason": "Direct in-hall substitute for Handroll Sushi Bar when weekend itineraries land at Japan Village; need confirmed Sat/Sun hours to replace the gap",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:17:05.245Z"
-  },
-  {
     "topic": "Japan Village weekend vendor sweep — which of the ~12 stalls actually open Sat/Sun",
     "reason": "Multiple corpus entries point at Japan Village stalls; a single sweep would resolve weekend coverage for all of them at once",
     "requestedBy": "agent",
@@ -18670,5 +18640,89 @@
     "reason": "If the user ever crosses into Manhattan, this is the real Osakana — uniquely justified Manhattan venue for an artist's-grade sashimi pickup",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T16:57:36.376Z"
+  },
+  {
+    "topic": "Sushi Lin Park Slope omakase counter $70",
+    "reason": "Another sub-$80 Park Slope counter omakase — direct alternative in the same cluster, expands the same price tier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:59:38.651Z"
+  },
+  {
+    "topic": "Oita Sushi Park Slope $85 15-course omakase counter",
+    "reason": "Slightly above $80 ceiling but 15-course depth — fills the next tier up for upgrade paths",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:59:38.651Z"
+  },
+  {
+    "topic": "Ishi Omakase Brooklyn value-tier counter sushi",
+    "reason": "Frequently cited as 'best value' Brooklyn omakase — needs zone/price verification to slot into corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:59:38.651Z"
+  },
+  {
+    "topic": "Hachi Maki handrolls at Japan Village (re-research, correct prior ramen mislabel)",
+    "reason": "Sister stall in same food hall — fixes corpus mislabel and pairs naturally with Setagaya on a Japan Village crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:01:33.787Z"
+  },
+  {
+    "topic": "Mokbar Industry City — Korean ramen counter alternative",
+    "reason": "Cross-cultural noodle comparison stop within walking distance, expands the IC noodle corpus beyond Japanese-only",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:01:33.787Z"
+  },
+  {
+    "topic": "Setagaya at Japan Village (the actual sushi counter)",
+    "reason": "Fills the originally-intended sushi-counter slot in the IC anchor rotation; Setagaya is the omakase/nigiri counter at Japan Village, distinct from Gohei's noodles",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:03:39.217Z"
+  },
+  {
+    "topic": "Hibino Handroll at Japan Village",
+    "reason": "Completes handroll-vs-sushi-vs-noodles-vs-ramen IC anchor rotation if it exists in the current Japan Village vendor lineup; verify presence first",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:03:39.217Z"
+  },
+  {
+    "topic": "Mishima-Ya ramen at Japan Village",
+    "reason": "Adds the ramen leg of the same-anchor noodle/ramen/sushi rotation so itineraries can swap without leaving Industry City",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:03:39.218Z"
+  },
+  {
+    "topic": "Hinomaru Ramen at Japan Village",
+    "reason": "Adjacent JV counter — ramen specialist complements Umami House's cha-han/Hamburg lane within the same food hall",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:05:37.512Z"
+  },
+  {
+    "topic": "Mogu Mogu sake bar at Japan Village",
+    "reason": "Sit-down sake + small-plates partner inside JV; rounds out a full within-IC evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:05:37.512Z"
+  },
+  {
+    "topic": "Sunrise Mart Industry City",
+    "reason": "Japanese grocery inside JV — adds a non-food browse stop for itineraries already anchored at IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:05:37.513Z"
+  },
+  {
+    "topic": "Yopparai Tsumami at Japan Village — izakaya small plates + sake for evening Japan Village pivots",
+    "reason": "Pairs with Uesugi to anchor a full Japanese evening inside IC without leaving the hall",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:07:42.399Z"
+  },
+  {
+    "topic": "Hibino Sushi Cobble Hill — backup omakase 12 min from IC for nights Uesugi has a wait",
+    "reason": "Cobble Hill cluster needs a high-quality sushi anchor; Uesugi walk-in-only risk justifies a reservable backup",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:07:42.399Z"
+  },
+  {
+    "topic": "Osakana Brooklyn (Williamsburg) — fishmonger + omakase counter, 15 min drive from IC",
+    "reason": "Adds a Williamsburg-cluster sushi option for itineraries that don't route through Japan Village",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:07:42.399Z"
   }
 ]

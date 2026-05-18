@@ -20957,45 +20957,37 @@
   {
     "id": "sushi-uesugi-japan-village",
     "name": "Sushi Uesugi at Japan Village",
-    "desc": "Intimate omakase counter inside the Japan Village complex at Industry City — seasonal sushi, no leaving IC.",
-    "longDesc": "Sushi Uesugi is the dedicated sushi restaurant adjacent to the Japan Village food hall at Industry City, serving an omakase tasting experience built around seasonal catches with signature plates like Yukke Don and Garlic Truffle Rice. Chef-driven and reservation-friendly, it's the natural mid-loop meal anchor after a tea ceremony or pottery session on-site. Lunch service (12–3pm) makes it the cleanest way to close a Japanese-themed Industry City afternoon without driving anywhere.",
+    "desc": "Counter-only omakase tucked at the back of Japan Village inside Industry City; walk-in lunch sets from $40",
+    "longDesc": "An intimate sushi counter at the rear of the Japan Village food hall in Industry City, run by chef Uesugi with a seasonal omakase focus. Lunch is the sweet spot — Sushi Omakase A ($40, 7 nigiri + handroll + miso), Sushi Omakase B ($55, 10 nigiri + handroll + miso), and Sashimi Omakase ($60). Walk-in only, no reservations, so come right at noon for a Saturday seat.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
     "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "romantic",
-      "curious"
+      "curious",
+      "romantic"
     ],
     "dietary": [],
-    "priceBand": "$$$",
-    "duration": "60-90 min",
+    "priceBand": "$$",
+    "duration": "60-75 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Fri–Sat 12:00–15:00, 17:00–21:00; Sun 12:00–15:00, 17:00–20:00",
-    "notes": "Located at 267 36th St, directly inside the Industry City Japan Village complex — zero-drive anchor between a tea ceremony at Setsugekka (also IC) and pottery/manga browsing in the food hall (japanvillage.com). Omakase format; reservations strongly advised, especially weekends (yelp.com). Lunch chirashi kaisen don and a la carte nigiri are the lighter midday option vs. full omakase. Note: original brief mentioned Tomoe Sushi / Kotobuki — neither operates at Japan Village; Sushi Uesugi is the on-site sushi anchor.",
+    "hoursWeekend": "Sat 12:00-15:00, 17:00-21:00 | Sun 12:00-15:00, 17:00-20:00",
+    "notes": "Counter-only at the back of Japan Village food hall (267 36th St) — direct in-hall substitute for Handroll Sushi Bar. Walk-in only, no reservations; arrive at noon Saturday or expect a wait (japanvillage.com). Omakase lunch tiers: A $40 / B $55 / Sashimi $60; dinner omakase priced higher per server (Yelp reviews). Park in Industry City lots — already at the anchor.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-        "accessed": "2026-05-17T12:35:00Z"
+        "accessed": "2026-05-18T17:05:00Z"
       },
       {
-        "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-17T12:35:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/sushi-uesugi-brooklyn",
-        "accessed": "2026-05-17T12:35:00Z"
-      },
-      {
-        "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-17T12:35:00Z"
+        "url": "https://m.yelp.com/biz/sushi-uesugi-brooklyn",
+        "accessed": "2026-05-18T17:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:23:26.635Z"
+    "lastResearchedAt": "2026-05-18T17:07:42.352Z"
   },
   {
     "id": "kijitora-williamsburg",
@@ -21551,10 +21543,10 @@
   },
   {
     "id": "ramen-setagaya-japan-village",
-    "name": "Ramen Setagaya (Japan Village)",
-    "desc": "Tokyo-style black-garlic tonkotsu stall headlining Japan Village's food hall at Industry City",
-    "longDesc": "Ramen Setagaya is the marquee stall inside Japan Village's 20,000 sq ft Japanese food hall, channeling Tokyo's Setagaya district with handcrafted broths and a signature black-garlic tonkotsu. Each bowl layers creamy pork-bone broth with chashu, jammy egg, and bamboo shoots; black-garlic tsukemen and spicy miso round out the rotation. Order at the counter, grab a seat in the shared hall, and pair with a Sapporo from Sake's Bar or a melon-pan from Panya two stalls over.",
-    "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+    "name": "Ramen Setagaya at Japan Village",
+    "desc": "Authentic Tokyo-style ramen counter inside Japan Village's food hall at Industry City.",
+    "longDesc": "Ramen Setagaya's Industry City outpost sits inside the Japan Village food hall on 3rd Ave, slinging Tokyo-style bowls built on broths the founder spent years dialing in. Signature pours include Black Garlic DX, a delicate Shio, and vegan Tantanmen, plus the cult Mt Fuji ramen (tomato + Parmesan). Counter seating, fast service, and shared Japan Village seating make it an easy stop between Sunrise Mart shopping and a Wegmans/coffee detour.",
+    "url": "https://www.setagayany.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -21562,34 +21554,33 @@
       "foodie",
       "chill"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
     "priceBand": "$$",
-    "duration": "30-45 min",
-    "driveFromIC": "0 min (inside IC)",
-    "hoursWeekend": "11:30-20:30",
-    "notes": "Counter-service stall inside Japan Village, Industry City Bldg 5/6, 934 3rd Ave (japanvillage.com/eat-drink). Signature is black-garlic tonkotsu; spicy miso for heat-seekers; tsukemen for dipping-style fans (japanvillage.com/eat-drink/ramen-setagaya). Sat-Sun close 20:30 / 19:30 respectively per official site. 199 photos, 79 reviews on Yelp as of 2026 (yelp.com/biz/ramen-setagaya-brooklyn-2). Note: upstream queue listed Takumen/Hi-Collar/Boba Guys as Japan Village stalls — none are present; Takumen is in LIC, Hi-Collar is East Village Manhattan, Boba Guys NY locations are mostly closed.",
+    "duration": "45-60 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Fri-Sat 11:30-20:30, Sun 11:30-19:30",
+    "notes": "Located inside Japan Village at 934 3rd Ave, Brooklyn NY 11232 — same complex as Sunrise Mart and Hachi Maki, completing the handroll/sushi/ramen trio on-site (setagayany.com). Black Garlic DX and Mt Fuji ramen are the standout pulls; vegan Tantanmen and Spicy Miso cover non-meat diners (yelp.com). Counter-style — sit at the bar or grab a Japan Village hall seat. Walk-in only, can queue 15-30 min on peak weekend afternoons.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
-        "accessed": "2026-05-18T16:40:00Z"
-      },
-      {
-        "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-18T16:40:00Z"
+        "url": "https://www.setagayany.com/",
+        "accessed": "2026-05-18T17:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
-        "accessed": "2026-05-18T16:40:00Z"
+        "accessed": "2026-05-18T17:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-18T16:40:00Z"
+        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
+        "accessed": "2026-05-18T17:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T16:34:48.335Z"
+    "lastResearchedAt": "2026-05-18T17:01:33.755Z"
   },
   {
     "id": "wakuwaku-izakaya-industry-city",
@@ -44382,16 +44373,16 @@
   {
     "id": "umami-house-japan-village",
     "name": "Umami House (Japan Village)",
-    "desc": "Japan Village stall for cha-han fried rice, omurice, and build-your-own poke — quick, comforting, photogenic.",
-    "longDesc": "Tucked inside Japan Village's food hall on the ground floor of Industry City, Umami House specializes in Japanese cha-han (wok-fried rice), tableside omurice with a thin-fluffy omelette over ketchup rice, Japanese-style hamburg steak sets, and made-to-order poke bowls (japanvillage.com). The kitchen is open-counter so you can watch the omurice get folded — worth a short wait, per Yelp regulars. Pair it with Hachi's sushi and Ramen Setagaya in the same hall for a one-stop Japanese mini-crawl.",
+    "desc": "Cha-han, Japanese Hamburg, omurice and build-your-own poke counter inside Japan Village at Industry City.",
+    "longDesc": "Counter-service Japanese spot specializing in cha-han (Japanese fried rice) and customizable poke bowls, plus comfort-food sets like Japanese Hamburg rice, teriyaki chicken, and omurice. Sits inside the Japan Village food hall on the ground floor of Industry City, so it pairs naturally with a sake stop at Mogu Mogu or a Sunrise Mart grocery wander in the same visit.",
     "url": "https://www.japanvillage.com/eat-drink/umami-house",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/6862df811e7f890c7094d98d_DSC04545.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
       "chill",
-      "photo"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
@@ -44399,26 +44390,26 @@
     "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-20:00, Sun 11:00-19:30",
-    "notes": "Inside Japan Village food hall at 934 3rd Ave, IC Building 4 — same complex as Hachi sushi and Ramen Setagaya, so it slots cleanly into an in-complex Japanese crawl (japanvillage.com). Signature dishes: shrimp cha-han, Japanese hamburg rice, omurice, teriyaki chicken set, and customizable poke bowls (japanvillage.com). Food-hall seating is communal and casual; expect a short wait on weekends for omurice since it's made-to-order (Yelp). Veg options via tofu/veggie poke and vegetable cha-han. Parking: IC's paid lots and free 3rd Ave street parking on Sundays.",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Inside Japan Village food hall at 934 3rd Ave (Industry City). Signature plates: shrimp cha-han, Japanese Hamburg rice, omurice, teriyaki chicken set, and DIY poke bowls (japanvillage.com). Weekend hours track the broader Japan Village schedule: Fri–Sat 11:00–21:00, Sun 11:00–20:00 (japanvillage.com). Order at counter, eat at the shared Japan Village seating — easy to combine with Mogu Mogu sake or Sunrise Mart in one stop.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/umami-house",
-        "accessed": "2026-05-18T16:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/umami-house-brooklyn",
-        "accessed": "2026-05-18T16:15:00Z"
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-18T16:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T16:17:38.119Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:05:37.475Z"
   },
   {
     "id": "hi-collar-east-village",
@@ -44473,8 +44464,8 @@
   {
     "id": "sushi-katsuei-park-slope",
     "name": "Sushi Katsuei (Park Slope)",
-    "desc": "Park Slope sushi counter doing open-style omakase — 90% fish flown in from Japan.",
-    "longDesc": "Opened in 2014 on 7th Ave, Katsuei was NYC's first 'open omakase' concept — chef calls each course at the counter while à-la-carte diners eat alongside. Sushi omakase runs $57, sushi+sashimi $77, with most fish sourced from Toyosu/Tsukiji. A natural sushi-counter pair with a Sake's Bar nightcap two blocks over.",
+    "desc": "Counter-only omakase at $57 sushi / $77 sushi+sashimi — ~90% fish flown in from Japan, walk-ins welcome at the bar.",
+    "longDesc": "A Park Slope sushi-counter staple since 2014 with two tiers of omakase: $57 for the 10-piece sushi-only set and $77 for the sushi-plus-sashimi version, both well under $80. The sushi bar is reserved exclusively for omakase guests, so seating at the counter guarantees the chef-led experience; about 90% of the fish is imported from Japan, and the room stays small and quiet enough to actually watch the cuts.",
     "url": "https://www.sushikatsuei.com/parkslope-brooklyn-ny/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -44483,36 +44474,34 @@
       "foodie",
       "romantic"
     ],
-    "dietary": [
-      "gluten-free"
-    ],
-    "priceBand": "$$$",
+    "dietary": [],
+    "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "16:00-21:30",
-    "notes": "210 7th Ave at 3rd St; sushi-bar seats are reserved for the omakase experience, tables welcome walk-ins; closed Tuesdays (sushikatsuei.com). 90% of fish imported from Japan, much from Tsukiji (theinfatuation.com). Street parking only — Park Slope side streets are workable on a Saturday evening but plan 5-10 min buffer.",
+    "notes": "210 7th Ave, Park Slope — ~12 min drive up 4th Ave from Industry City; metered street parking on 7th Ave plus residential side streets after 7pm. Closed Tuesdays. Bar seats are omakase-only; book ahead on Resy/OpenTable or call (718) 788-5338. Two tiers: $57 sushi omakase, $77 sushi+sashimi omakase — both fit under the $80 ceiling (theinfatuation.com, sushikatsuei.com).",
     "sources": [
       {
         "url": "https://www.sushikatsuei.com/parkslope-brooklyn-ny/",
-        "accessed": "2026-05-18T16:25:00Z"
+        "accessed": "2026-05-18T17:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/sushi-katsuei",
-        "accessed": "2026-05-18T16:25:00Z"
+        "accessed": "2026-05-18T17:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sushi-katsuei-brooklyn",
-        "accessed": "2026-05-18T16:25:00Z"
+        "accessed": "2026-05-18T17:00:00Z"
       },
       {
-        "url": "https://www.opentable.com/r/sushi-katsuei-brooklyn",
-        "accessed": "2026-05-18T16:25:00Z"
+        "url": "https://thesushilegend.com/omakase-under-100-nyc/",
+        "accessed": "2026-05-18T17:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T16:26:14.289Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T16:59:38.620Z"
   },
   {
     "id": "gun-hill-brewing-industry-city",
@@ -44611,42 +44600,40 @@
   {
     "id": "gohei-japan-village",
     "name": "Gohei",
-    "desc": "Handmade soba and udon counter inside Japan Village food hall at Industry City.",
-    "longDesc": "A small kiosk-style noodle bar inside Japan Village's food hall, Gohei serves homemade udon and soba made fresh daily, with seats facing the chefs. The mentaiko cream udon, zaru udon with tempura, and zaru soba with tempura are the signature picks. Because it's inside IC, it works perfectly as a split-preference fallback — anyone wanting noodles-not-ramen can peel off without leaving the building.",
+    "desc": "Counter-style udon & soba kiosk inside Japan Village — handmade noodles, tempura, and mentaiko cream udon.",
+    "longDesc": "Gohei is a small noodle stall tucked into the Japan Village food hall at Industry City, turning out homemade udon and soba made fresh daily (japanvillage.com). The hits are Zaru Udon with tempura, Zaru Soba with tempura, and a Mentaiko Cream Udon that has become a quiet local favorite. Note: this is the noodle counter at Japan Village — Setagaya next door is the sushi counter, so the two pair well for a rotation.",
     "url": "https://www.japanvillage.com/eat-drink/gohei",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie",
-      "chill"
+      "chill",
+      "foodie"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "0 min (inside IC)",
+    "driveFromIC": "0 min",
     "hoursWeekend": "12:00-20:30",
-    "notes": "Located inside Japan Village at 934 3rd Ave, Industry City entrance — same lot/garage parking as the rest of IC, so zero added drive. Counter seating with chefs visible. Signature: mentaiko cream udon, zaru soba/udon w/ tempura. Friday–Saturday open till 8:30 PM, Sunday–Thursday till 7:30 PM (japanvillage.com). Tripadvisor and Yelp confirm it as the dedicated soba/udon counter inside Japan Village (tripadvisor.com, yelp.com).",
+    "notes": "Inside Japan Village food hall, Industry City Bldg 4 (934 3rd Ave / 220 36th St entrances). Kiosk-style — order at counter, eat in the food-hall seating area. Weekend hours run 12:00–20:30 Fri/Sat and 12:00–19:30 Sun (japanvillage.com). IMPORTANT CORRECTION: original research topic labeled Gohei a 'sushi counter' — it is actually the udon/soba stall. Setagaya is the sushi counter inside Japan Village (yelp.com). Gohei still rounds out the IC anchor rotation as the noodle option alongside handroll/sushi/ramen.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/gohei",
-        "accessed": "2026-05-18T16:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurants-g60827-zfd11721-Brooklyn_New_York-Udon_Soba_Wheat_Buckwheat_Noodle.html",
-        "accessed": "2026-05-18T16:45:00Z"
+        "url": "https://www.yelp.com/biz/gohei-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/search?cflt=japanese&find_loc=Sunset+Park%2C+Brooklyn%2C+NY",
-        "accessed": "2026-05-18T16:45:00Z"
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T16:43:43.452Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:03:39.178Z"
   },
   {
     "id": "milna-market-ic",
