@@ -837,8 +837,8 @@
   {
     "id": "public-records-gowanus",
     "name": "Public Records",
-    "desc": "Hi-fi listening bar with all-vegan dinner program and resident DJs Fri/Sat in a converted Gowanus ASPCA building.",
-    "longDesc": "Public Records is a five-space music-and-dining campus at 233 Butler St — The Atrium restaurant and music lounge, the club-scale Sound Room, an UPSTAIRS cocktail listening lounge, Cafe Public, and The Nursery indoor/outdoor garden. The kitchen is entirely plant-based and zero-waste, and Friday and Saturday nights run resident-DJ programming alongside the dinner service, making it the closest direct analog to a Williamsburg listening-bar evening within a short drive of Industry City (sources: publicrecords.nyc, Wikipedia, The Infatuation, Brooklyn Eagle).",
+    "desc": "Hi-fi listening bar + plant-based kitchen inside the old ASPCA building — pre-show anchor for a Littlefield night.",
+    "longDesc": "Multi-room hospitality and sound campus in a historic Gowanus building featuring The Sound Room (live + DJ venue), UPSTAIRS listening lounge, Cafe Public, an outdoor Nursery, and a fully plant-based, gluten-free kitchen (koji mole sopes, cauliflower gnocchi, charred broccoli with tahini). Founders pitch it as 'sound as a universal language' with a healthier-nightlife ethos — low-ABV cocktails, house-made sodas, and a custom audiophile system. Saturday hours run 10am–4am, making it a flexible dinner + drinks anchor before a short walk or 3-min drive to Littlefield.",
     "url": "https://publicrecords.nyc/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -846,42 +846,34 @@
     "vibe": [
       "chill",
       "curious",
-      "foodie",
-      "romantic"
+      "foodie"
     ],
     "dietary": [
       "vegetarian",
-      "vegan"
+      "vegan",
+      "gluten-free"
     ],
-    "priceBand": "$$$",
-    "duration": "2-3 hrs",
-    "driveFromIC": "12 min",
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "11 min",
     "hoursWeekend": "Sat 10:00-04:00, Sun 10:00-21:00",
-    "notes": "All-vegan, zero-waste kitchen across The Atrium (dinner + music lounge) and Cafe Public (daytime) (publicrecords.nyc). UPSTAIRS is the intimate hi-fi cocktail listening room; Sound Room is the larger club space; The Nursery occupies the former parking lot, so on-site parking is gone — use 4th Ave / Nevins St curbside or the 3rd Ave municipal lots (Wikipedia; Brooklyn Eagle 2019). DJ programming runs Fri/Sat with eclectic electronic focus (RA news; Brooklynvegan). Address 233 Butler St, ~12 min drive from Industry City via 3rd Ave / Hamilton Ave. Geographic zone is technically Gowanus — mapped to park-slope as nearest enum neighbor.",
+    "notes": "233 Butler St, Gowanus — five distinct spaces (Atrium, Sound Room, Cafe Public, UPSTAIRS, The Nursery) inside the historic ASPCA HQ (publicrecords.nyc). Entirely vegan + GF menu with morning items (coconut yogurt, ginger pear pastry) shifting to evening small plates (turmeric curry popcorn, turnips with romesco) (ediblebrooklyn.com). Custom hi-fi system in The Sound Room with regularly programmed live + DJ acts; check publicrecords.nyc/calendar before booking the track. Weekend street parking on Butler/Nevins is feasible; municipal lot on 3rd Ave nearby. ~3 min walk / 1 min drive to Littlefield on Sackett St — ideal as a pre-show dinner anchor.",
     "sources": [
       {
         "url": "https://publicrecords.nyc/",
-        "accessed": "2026-05-17T22:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Public_Records_(venue)",
-        "accessed": "2026-05-17T22:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://ediblebrooklyn.com/2019/public-records-gowanus/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/public-records",
-        "accessed": "2026-05-17T22:30:00Z"
-      },
-      {
-        "url": "https://brooklyneagle.com/articles/2019/03/18/public-records-gowanus/",
-        "accessed": "2026-05-17T22:30:00Z"
-      },
-      {
-        "url": "https://ra.co/news/43276",
-        "accessed": "2026-05-17T22:30:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/public-records-brooklyn",
-        "accessed": "2026-05-17T22:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
@@ -891,7 +883,7 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 5 — 3:30 PM Gaming/Active",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-17T22:31:12.985Z"
+    "lastResearchedAt": "2026-05-18T03:45:45.638Z"
   },
   {
     "id": "brooklyn-boulders-gowanus-gowanus",
@@ -2891,10 +2883,10 @@
   {
     "id": "littlefield-gowanus",
     "name": "Littlefield",
-    "desc": "Gowanus comedy + live-show venue in a converted 1920s printing-press warehouse on Sackett St.",
-    "longDesc": "Littlefield is a 250-cap Brooklyn performance space programming stand-up showcases, podcast tapings, indie music, drag, burlesque, and dance parties almost every night. It sits in a converted 1920s printing-press warehouse on Sackett between 3rd and 4th Aves in Gowanus, ~10-15 min north of Industry City up 3rd Ave. Tickets are typically $15-$35 and most shows are 21+; doors usually open 30 min before showtime, with the calendar driving operating hours.",
+    "desc": "Independent Gowanus performance space for stand-up, podcasts, indie music, and dance parties since 2009.",
+    "longDesc": "Housed in a converted 1920s printing-press warehouse on Sackett Street, Littlefield is one of NYC's most reliable mid-size rooms for stand-up showcases, live podcast tapings, indie bands, and late-night dance parties. It's two blocks from The Bell House and shares a wall with Parklife next door, making a comedy-then-cocktails pairing trivial. Most shows are 21+; ground-floor access is fully ADA-friendly.",
     "url": "https://littlefieldnyc.com/",
-    "photoUrl": "https://littlefieldnyc.com/wp-content/uploads/2021/02/Exterior_mural-scaled.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
@@ -2905,30 +2897,30 @@
     "priceBand": "$$",
     "duration": "90-120 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "event-based, doors typically 19:00-23:30",
-    "notes": "Gowanus address but tagged park-slope (no gowanus enum); 635 Sackett between 3rd & 4th Ave. Cutting-edge comedy/music/podcasts/storytelling per NYC Tourism (https://www.nyctourism.com/nightlife/littlefield/). Open only when events are scheduled — check calendar before routing. Street parking on 3rd Ave / Sackett / Union is usually findable on weekends; Thomas Greene Park lot is one block away. Straight shot up 3rd Ave from IC. Booking: booking@littlefieldnyc.com.",
+    "hoursWeekend": "Doors typically 7:00 PM; check schedule",
+    "notes": "635 Sackett St between 3rd & 4th Ave, Gowanus (officially Carroll Gardens border). Event-only venue — buy tickets in advance via littlefieldnyc.com or Eventbrite. Street parking generally available 1-2 blocks over but read signs carefully (they tow). Parklife next door for pre/post-show food and drinks (littlefieldnyc.com/info). Comedy lineups overlap heavily with Bell House two blocks away — easy to build a double-header night.",
     "sources": [
-      {
-        "url": "https://littlefieldnyc.com/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
       {
         "url": "https://littlefieldnyc.com/info/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/nightlife/littlefield/",
+        "url": "https://littlefieldnyc.com/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/littlefield-brooklyn-2",
+        "url": "https://www.timeout.com/newyork/music/littlefield",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/littlefield/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T03:36:49.447Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:47:45.099Z"
   },
   {
     "id": "noguchi-museum",
@@ -7552,59 +7544,57 @@
   {
     "id": "union-hall-park-slope",
     "name": "Union Hall",
-    "desc": "Park Slope bar with two free indoor bocce courts upstairs and a 7-nights-a-week basement comedy/music room.",
-    "longDesc": "A 5,000 sq ft converted-warehouse bar on Union St with a library-lounge feel, fireplaces, and two full indoor bocce courts that are free to play on a first-come, first-served basis (strictly 21+). One flight down, the basement venue runs stand-up, indie comedy showcases, and live music every night of the week, usually with a ~$10-15 cover. The combination makes it a one-stop 'active + chill + late' anchor for a Park Slope track segment without leaving the building.",
+    "desc": "Park Slope landmark: library bar with two indoor bocce courts upstairs, comedy + music venue downstairs.",
+    "longDesc": "A 5,000 sq ft Park Slope institution at 702 Union St combining a stately library-style bar, two free first-come/first-served indoor bocce courts, a back garden, and a downstairs performance room that hosts comedy, indie music, and dance parties nightly. The bocce + cocktails upstairs / comedy show downstairs combo makes it a one-stop evening that pairs perfectly with Littlefield as the casual-bar counterpart. Bocce courts are always free except during scheduled league hours (unionhallny.com).",
     "url": "https://unionhallny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
-      "active",
-      "curious"
+      "curious",
+      "active"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
-    "duration": "60-120 min",
+    "duration": "90-120 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "Sat 13:00-04:00, Sun 13:00-02:00",
-    "notes": "Bocce: 2 indoor courts, free, walk-up only, 21+ at all times; courts close during scheduled league hours so weekend afternoons are the safest window (unionhallny.com/info). Basement room: stairs from main bar, comedy/music 7 nights/week — ticketed via Eventbrite (eventbrite.com/o/union-hall). Address 702 Union St, Brooklyn 11215; some street parking on 5th Ave side, paid lots ~0.3 mi at 302 2nd St (brooklyn-theater.com parking). From Industry City: up 4th Ave to Union St, ~2.5 mi / 10-15 min weekend traffic. Best slot in a track: 5-8pm pre-dinner bocce + drinks, or late-night basement show after a Park Slope dinner.",
+    "notes": "Two indoor bocce courts upstairs, free + first-come (unionhallny.com/info). Downstairs hosts comedy and music every night — check the calendar before going since ticketed shows can claim the room (Time Out NY). Corner of 5th Ave + Union St; ~12-min drive from Industry City via 4th Ave, street parking in Park Slope is metered but generally findable on weekend evenings on side streets (Parkopedia). Phone (718) 638-4400.",
     "sources": [
       {
-        "url": "https://unionhallny.com/info",
-        "accessed": "2026-05-16T19:40:00Z"
-      },
-      {
         "url": "https://unionhallny.com/",
-        "accessed": "2026-05-16T19:40:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/union-hall-brooklyn",
-        "accessed": "2026-05-16T19:40:00Z"
+        "url": "https://unionhallny.com/info",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/union-hall",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/nightlife/union-hall1/",
-        "accessed": "2026-05-16T19:40:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.brooklyn-theater.com/venues/union-hall/parking",
-        "accessed": "2026-05-16T19:40:00Z"
-      },
-      {
-        "url": "https://www.eventbrite.com/o/union-hall-17899496497",
-        "accessed": "2026-05-16T19:40:00Z"
+        "url": "https://en.parkopedia.com/parking/bar/union-hall-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T19:44:28.380Z"
+    "lastResearchedAt": "2026-05-18T03:41:26.026Z"
   },
   {
     "id": "the-bell-house",
     "name": "The Bell House",
-    "desc": "Live Nation-operated Gowanus music + comedy venue; bigger sibling to Union Hall with major touring bills",
-    "longDesc": "A two-room Gowanus warehouse-turned-venue at 149 7th St run by the same team as Union Hall (now under Live Nation). Hosts stand-up specials, live podcast tapings, story slams, drinking-game nights, and indie touring acts in a ~400-cap main hall with a separate front bar. Roughly 8 minutes from Industry City and a natural Plan-B when Union Hall's basement is sold out.",
+    "desc": "1920s warehouse turned live-show hall in Gowanus — comedy tapings, Moth StorySLAMs, drinking-game shows.",
+    "longDesc": "Sister-venue energy to Littlefield: a converted 1920s warehouse on 7th Street with a Front Bar for pre-show food and a back room programmed with The Moth StorySLAM, comedy specials (Rory Scovel, Todd Barry), and interactive 'A Drinking Game NYC' nights. Live Nation-operated, 21+, cashless. Tickets typically $20-40; doors usually 7pm with shows 7:30-8pm.",
     "url": "https://www.thebellhouseny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7615,28 +7605,28 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "90-120 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "Sat-Sun 12:00-04:00 (event-dependent)",
-    "notes": "149 7th St on the Gowanus/Park Slope border; street parking is usually findable on weekend evenings on 2nd Ave or side streets, but check Smith-9th muni lot as backup (thebellhouseny.com). Programming skews comedy/podcast-taping/specialty events with frequent UCB and Brooklyn Comedy Collective bookings (Wikipedia). Front bar opens earlier than ticketed shows — fine for arriving 30-45 min ahead (Yelp).",
+    "duration": "2-3 hr",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "doors ~7pm; box office opens 1hr before show (show days only)",
+    "notes": "149 7th St, Brooklyn (Gowanus, on the Park Slope border) — ~2.5 mi up 3rd Ave from IC, weekend street parking generally workable on the industrial side streets around 3rd Ave (source: thebellhouseny.com/visit). Front Bar serves food + drinks pre-show; no outside food/water, cashless only (source: thebellhouseny.com/visit). Programming overlaps Littlefield's DNA — Moth StorySLAM, drinking-game shows, comedy tapings (source: thebellhouseny.com). 21+ unless accompanied by parent/guardian.",
     "sources": [
       {
         "url": "https://www.thebellhouseny.com/",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/The_Bell_House_(New_York_City)",
+        "url": "https://www.thebellhouseny.com/visit",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/the-bell-house-brooklyn",
+        "url": "https://www.ticketmaster.com/the-bell-house-tickets-brooklyn/venue/393383",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T03:34:52.396Z"
+    "lastResearchedAt": "2026-05-18T03:43:38.513Z"
   },
   {
     "id": "sultan-room",
@@ -37010,5 +37000,51 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T03:32:52.974Z"
+  },
+  {
+    "id": "floyd-ny-brooklyn-heights",
+    "name": "Floyd, NY",
+    "desc": "Cozy Iowa-themed beer bar with a free 40-ft indoor clay bocce court off Atlantic Ave.",
+    "longDesc": "Floyd is a chill, lightly divey neighborhood bar modeled on a tavern in Floyd, Iowa, anchored by a 40-foot indoor packed-clay bocce court at the back. Play is free, first-come-first-served when leagues aren't on — but Saturday and Sunday 12pm-5pm are blocked for league play, so weekend visits skew to mornings (10-11am open) or late afternoon/evening. No kitchen; the move is beer + house-made beer cheese and ordering in takeout (Sahadi's, Hibino, or the Atlantic Ave Yemen Cafe are all nearby).",
+    "url": "https://www.floydny.com/",
+    "photoUrl": "https://www.floydny.com/img/hdr_1_bocce-bourbon-beer.png",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 10:00-04:00, Sun 11:00-02:00",
+    "notes": "Bocce court is free first-come-first-served EXCEPT Sat/Sun 12pm-5pm when leagues take over (floydny.com). Co-hosts NYC's only year-round bocce tournament with Union Hall in Park Slope (timeout.com, brooklynpaper.com). No kitchen — they encourage bringing in takeout; Sahadi's and several Yemeni/Middle Eastern spots are on the same Atlantic Ave block. House-made beer cheese (cheddar/pimento with beer, plus jalapeño and smoky bacon variants) is the signature snack. Cash-friendly old-school divey vibe, weekend wait for the court reported around 30 min outside league hours.",
+    "sources": [
+      {
+        "url": "https://www.floydny.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/floyd-ny-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/floyd-ny/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/floyd-ny",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4618190-Reviews-Floyd_Ny-Brooklyn_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T03:39:03.451Z"
   }
 ]
