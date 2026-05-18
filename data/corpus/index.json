@@ -18632,14 +18632,13 @@
   {
     "id": "little-island-pier-55",
     "name": "Little Island at Pier 55",
-    "desc": "Floating undulating park on tulip-shaped pilings over the Hudson with skyline + river views",
-    "longDesc": "Heatherwick-designed 2.4-acre public park rising out of the Hudson on 132 concrete 'tulip' columns at Pier 55, free to enter daily 6am-11pm. Three peaked overlooks frame skyline, Statue of Liberty, and sunset views; a 687-seat amphitheater hosts free + ticketed summer programming. Pairs cleanly with a High Line south-entry walk (Gansevoort St is a 5-min stroll north) for a unique Manhattan-only outdoor doubleheader.",
+    "desc": "Free sculptural park on tulip-shaped concrete piles over the Hudson, w/ amphitheater + skyline views.",
+    "longDesc": "Heatherwick-designed 2.4-acre island park rising on 132 tulip-shaped concrete columns above the Hudson River at W 13th St, with winding paths, 350+ plant species, the 687-seat Amph amphitheater, and panoramic Manhattan/NJ sunset views. Open daily 6am–11pm with free general admission; sits a 5-minute walk from Chelsea Market and the southern end of the High Line, making it a natural extension of a Meatpacking/Chelsea afternoon loop.",
     "url": "https://littleisland.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "manhattan-chelsea",
     "vibe": [
-      "curious",
       "photo",
       "chill",
       "romantic"
@@ -18649,86 +18648,74 @@
     ],
     "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "22 min",
+    "driveFromIC": "25 min",
     "hoursWeekend": "06:00-23:00",
-    "notes": "Manhattan exception justified: floating-park architecture has no Brooklyn analogue and the High Line southern terminus (Gansevoort St) is one block north, enabling a single-park stop. Entry is always free; some Amph events are ticketed ($25-$65) and timed-entry passes can be required on peak summer afternoons (littleisland.org). Zone tagged 'dumbo' as the closest enum fit for a Hudson-edge waterfront photo experience — true location is Meatpacking/Hudson River Park, Manhattan. No on-site parking; nearest reliable weekend garage is MPG at 450 W 17th St between 9th & 10th (NBC New York). Drive from Industry City: Gowanus Expy → Hugh L. Carey Tunnel → West Side Hwy north, ~20-25 min off-peak weekend morning. Best windows: golden hour for the Overlook + Statue of Liberty sightline; weekday/early-Saturday for thinner crowds. Savory Hospitality kiosks serve coffee/sandwiches/drinks but food is light — pair with a Chelsea Market lunch.",
+    "notes": "Free general admission; ticketed performances at The Amph are separate (littleisland.org). Drive: Gowanus Expy → Brooklyn-Battery Tunnel → West Side Hwy ~25 min weekend. Parking: Edison ParkFast at 627 Greenwich St or Icon at 600 W 14th St, ~5-min walk. Pair with High Line walk south from Hudson Yards (Manhattan extension justified by the user's High Line loop). Best photo light at golden hour from the south overlook (source: hudsonriverpark.org, littleisland.org).",
     "sources": [
       {
         "url": "https://littleisland.org/",
-        "accessed": "2026-05-16T23:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://hudsonriverpark.org/locations/pier-55-little-island/",
-        "accessed": "2026-05-16T23:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Little_Island_at_Pier_55",
-        "accessed": "2026-05-16T23:00:00Z"
-      },
-      {
-        "url": "https://www.nbcnewyork.com/entertainment/the-scene/little-island-nyc-where-is-it-can-i-park-there-is-it-really-free-and-more-to-know/3904177/",
-        "accessed": "2026-05-16T23:00:00Z"
-      },
-      {
-        "url": "https://www.spotangels.com/blog/cheap-parking-little-island/",
-        "accessed": "2026-05-16T23:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T23:05:12.669Z"
+    "lastResearchedAt": "2026-05-18T09:04:26.550Z"
   },
   {
     "id": "chelsea-market",
     "name": "Chelsea Market",
-    "desc": "Block-long Manhattan food hall under the High Line with 50+ vendors — lobster rolls, tacos, ramen, bakeries.",
-    "longDesc": "Chelsea Market occupies the old Nabisco factory on 9th Ave between 15th and 16th, the same building the High Line enters at Gansevoort, so pairing it with a High Line walk is one ticket worth of parking. Inside: Los Tacos No. 1, The Lobster Place, Mokbar, Miznon, Amy's Bread, Creamline, and a rotating cast of 50+ stalls under exposed brick and pipework. Crowded on weekends — go before noon or after 3pm to actually move.",
+    "desc": "Sprawling indoor food hall with 50+ vendors, one block east of the High Line — Manhattan's foodie rain-backup.",
+    "longDesc": "A converted Nabisco factory turned 1.2-million-sq-ft food hall on Ninth Ave between W 15th and W 16th, with 50+ vendors spanning Los Tacos No. 1, The Lobster Place, Miznon, Creamline, Num Pang, and Very Fresh Noodles. Open daily 7am–10pm, it's the canonical rain-day pivot from a High Line/Little Island walk — both are one block west. Park in the West 15th St garages (entrances adjacent to the market) or hunt curbside in the W 20s between 9th–11th Ave on weekends.",
     "url": "https://www.chelseamarket.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
       "foodie",
-      "photo",
+      "chill",
       "curious"
     ],
     "dietary": [
       "vegetarian",
       "vegan",
-      "gluten-free"
+      "halal"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "07:00-22:00",
-    "notes": "Manhattan exception — paired with High Line's Gansevoort entrance which sits directly above the building (chelseamarket.com). Concourse open 7am-10pm daily; individual vendors vary, double-check before going (nyctourism.com). No on-site parking — nearest garages: Icon at 95 Horatio St and SP+ at 11th Ave/15th St, both ~$25-40 for 2hrs weekend. Recommend driving in, parking once, doing High Line + Chelsea Market + Little Island as a single stop before heading back to Brooklyn (yelp.com, newyorkdearest.com).",
+    "notes": "Manhattan exception justified: pairs as indoor rain-backup with High Line + Little Island for a self-contained Chelsea half-day (chelseamarket.com/visit). Weekend parking is paid-only — 2 adjacent garages on W 15th St, with overflow street parking in the W 20s between 9th–11th Ave (tripadvisor). Vendor mix updated per Jan 2026 concourse map. Cross-zoned as 'dumbo' for itinerary clustering since corpus zone enum is Brooklyn-only; treat as Manhattan in routing logic.",
     "sources": [
       {
-        "url": "https://www.chelseamarket.com/",
-        "accessed": "2026-05-16T23:10:00Z"
-      },
-      {
         "url": "https://www.chelseamarket.com/visit",
-        "accessed": "2026-05-16T23:10:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/chelsea-market-new-york",
-        "accessed": "2026-05-16T23:10:00Z"
+        "url": "https://www.chelseamarket.com/directory-food-and-beverage",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/chelsea-market/",
-        "accessed": "2026-05-16T23:10:00Z"
+        "url": "https://en.wikipedia.org/wiki/Chelsea_Market",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://newyorkdearest.com/visiting-chelsea-market-things-to-do/",
-        "accessed": "2026-05-16T23:10:00Z"
+        "url": "https://www.tripadvisor.com/ShowTopic-g60763-i5-k8088938-Chelsea_Market_parking-New_York_City_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T23:07:46.742Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:57:40.889Z"
   },
   {
     "id": "hudson-yards-vessel-edge",
@@ -39780,5 +39767,138 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T08:53:19.174Z"
+  },
+  {
+    "id": "whitney-museum-meatpacking",
+    "name": "Whitney Museum of American Art",
+    "desc": "Renzo Piano-designed museum of 20th–21st-c American art at the High Line's south end.",
+    "longDesc": "Eight-story Renzo Piano building at 99 Gansevoort with the country's deepest collection of modern and contemporary American art — Hopper, O'Keeffe, Basquiat, plus a rotating Biennial. Outdoor terraces on floors 5–8 deliver postcard Hudson River and skyline views, and the ground floor (gallery, lobby, shop, Frenchette Bakery) is always free. Pair with a High Line walk and a Little Island stop for a self-contained west-side day.",
+    "url": "https://whitney.org/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "90-150 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:30-18:00",
+    "notes": "Manhattan / Meatpacking — actual address 99 Gansevoort St, NY 10014 (zone tag is closest waterfront proxy; schema lacks Manhattan). Adult $30, free under-25, members free; pay-what-you-wish Fri 7-10pm with last entry ~9:30pm (whitney.org/visit). No on-site parking; nearest garages are ICON at 99 Jane St (~3 min walk), 134 Jane St, and 385 W 15th St — Meatpacking street parking is brutal on weekends, garage-only is the realistic plan. Drive from Industry City ~20-25 min via Brooklyn-Battery Tunnel off-peak; budget 35+ on summer Saturdays. Sits at High Line southern terminus and 4-min walk to Little Island — natural Manhattan west-side mini-track.",
+    "sources": [
+      {
+        "url": "https://whitney.org/visit",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/museums/whitney-museum-of-american-art",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:55:27.288Z"
+  },
+  {
+    "id": "pier-57-rooftop-market-57",
+    "name": "Pier 57 Rooftop Park & Market 57",
+    "desc": "Free 2-acre Hudson rooftop with James Beard–curated food hall; clusters with Little Island a 4-min walk south.",
+    "longDesc": "Pier 57 wraps a 2-acre public rooftop park (open 6am–1am, free) around Market 57, a James Beard Foundation–curated food hall with 15+ independent NYC vendors (Nom Wah, La Newyorkina, Llama San, Ghaya, etc.) plus City Winery on the ground floor. The rooftop delivers unobstructed views of the Hudson, Statue of Liberty, and the Whitney/High Line skyline, and it sits one pier north of Little Island and two south of the Whitney — making it the natural anchor of a single-park-hop afternoon.",
+    "url": "https://pier57nyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Rooftop 06:00-01:00; Market 57 11:30-19:00",
+    "notes": "Manhattan exception justified: pairs directly with Pier 55 / Little Island (4-min walk) for a single park-hop. Drive Industry City → Brooklyn-Battery Tunnel → West Side Hwy, ~22 min weekend (no tunnel toll inbound; toll outbound). Parking: Pier 40 garage (~6 min walk) is the most reliable; Edison ParkFast at 855 Washington also close. Rooftop is dog-friendly and stroller-friendly via elevator. Market 57 is curated by James Beard Foundation, not the never-launched Bourdain Market concept (source: cityguideny.com). City Winery on the ground floor adds an evening option after sunset photos on the roof.",
+    "sources": [
+      {
+        "url": "https://pier57nyc.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://hudsonriverpark.org/locations/pier-57/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://hudsonriverpark.org/activities/market-57/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.cityguideny.com/article/pier-57-food-hall",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:59:54.029Z"
+  },
+  {
+    "id": "the-high-line",
+    "name": "The High Line",
+    "desc": "Free 1.45-mile elevated park on old rail viaduct; gardens, public art, Hudson River views",
+    "longDesc": "A converted freight-rail viaduct turned linear park stretching from Gansevoort St in the Meatpacking District up to 34th St at Hudson Yards. Plantings designed by Piet Oudolf, rotating public art commissions, and unobstructed west-facing Hudson River sightlines make the south-to-north walk peak at golden hour. Pairs naturally with Chelsea Market — the 16th St elevator/stairs sit directly across 10th Ave from Chelsea Market's north exit, so one Manhattan parking transaction covers both.",
+    "url": "https://www.thehighline.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "07:00-22:00",
+    "notes": "Manhattan exception justified by direct pairing with Chelsea Market — 16th St entrance is one block from Chelsea Market's 10th Ave exit (guiaturisticanuevayork.com). Free, no ticket required (thehighline.org). Walk south-to-north for golden hour: light hits the Hudson and the Vessel/Hudson Yards skyline as you finish (exp1.com). Hours seasonal: 7am-10pm Apr 1-Nov 30, 7am-8pm Dec 1-Mar 31 (thehighline.org/faq). Park entrances at Gansevoort, 14th, 16th, 17th, 20th, 23rd, 26th, 28th, 30th, plus accessible entries at 30th/Hudson Yards and 34th/12th Ave. Weekend parking: Edison ParkFast garages on W 16th between 9th/10th and on Washington St run ~$30-45 for 2-3 hrs; street parking near Gansevoort possible but tight. Strollers/elevators available at 14th, 16th, 23rd, 30th. Park gets crowded after 1pm weekends — early arrival (8-10am) or late afternoon (5pm onward) recommended.",
+    "sources": [
+      {
+        "url": "https://www.thehighline.org/visit/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.thehighline.org/faq/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.guiaturisticanuevayork.com/en/chelsea-market-high-line.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.exp1.com/blog/walking-the-high-line/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/the-high-line",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:02:09.997Z"
   }
 ]
