@@ -2809,49 +2809,37 @@
   {
     "id": "maison-premiere",
     "name": "Maison Premiere",
-    "desc": "1920s New Orleans–style oyster + absinthe bar with a lush hidden garden, open till 2 AM on weekends",
-    "longDesc": "Williamsburg's iconic ode to oyster bars and absinthe cafés — 30+ oyster varieties sourced direct from farmers and the largest absinthe list in the U.S., served in a dim jazz-lit room or a secret-courtyard back garden. Late-night service (Sat to 2 AM, Sun to 1 AM) makes this the easiest time to slip in for a half-dozen, the famed shrimp cocktail, and a Manhattan. Weekend $1 oyster happy hour runs 11 AM–1 PM.",
+    "desc": "Belle Époque oyster + absinthe bar, JBF-winning cocktails, 15 min from IC",
+    "longDesc": "A New Orleans-meets-Paris cocktail lounge with the largest absinthe selection in the U.S. (centered on a replica Olde Absinthe House fountain) and 30+ oyster varieties sourced direct from farmers. Won the 2016 James Beard Foundation Award for Outstanding Bar Program; the garden patio and marble bar make it the most photogenic romantic drinks stop in Williamsburg.",
     "url": "https://maisonpremiere.com/",
-    "photoUrl": "",
+    "photoUrl": "https://maisonpremiere.com/wp-content/media-versions/2016/03/600w_x900h__q_90_c_Maison_Premiere_0626_web.jpg",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "romantic",
-      "foodie",
-      "chill"
+      "curious",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "18 min",
+    "driveFromIC": "15 min",
     "hoursWeekend": "Sat 10:00-02:00, Sun 10:00-01:00",
-    "notes": "Anchor for an east-side Late Night cluster. Park on Bedford or side streets (S 1st/S 2nd) — accessible spot near entrance (yelp.com). Garden seating seasonal April–November, peak June–Sept (timeout.com). Reservations recommended for dinner; late-night walk-ins are easiest at the bar (punchdrink.com). Pairs naturally with a pre-stop in Greenpoint or a nightcap deeper in Williamsburg.",
+    "notes": "Weekend oyster happy hour Sat & Sun 11am-1pm — $1.50 oysters with cocktails (happy-hour.nyc). Resy takes reservations up to 6 guests one month out; bar + dining room hold walk-ins (maisonpremiere.com). Address 298 Bedford Ave; street parking in Williamsburg is tight on weekends — budget extra time or use the Bedford Ave garages. Oyster service runs Sat until 12:30am, Sun until 11:30pm (maisonpremiere.com).",
     "sources": [
       {
         "url": "https://maisonpremiere.com/",
-        "accessed": "2026-05-17T22:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/maison-premiere-brooklyn",
-        "accessed": "2026-05-17T22:15:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/bars/maison-premiere",
-        "accessed": "2026-05-17T22:15:00Z"
-      },
-      {
-        "url": "https://punchdrink.com/venues/maison-premiere/",
-        "accessed": "2026-05-17T22:15:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/maison-premiere",
-        "accessed": "2026-05-17T22:15:00Z"
+        "url": "https://happy-hour.nyc/bars-restaurants/maison-premiere",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T22:20:50.627Z",
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T01:21:18.032Z",
     "driveFromFlushing": "22 min"
   },
   {
@@ -2934,45 +2922,41 @@
   {
     "id": "noguchi-museum",
     "name": "The Noguchi Museum",
-    "desc": "Isamu Noguchi's serene sculpture museum and stone garden in a converted LIC factory",
-    "longDesc": "Founded by Isamu Noguchi in 1985, this two-story museum and outdoor garden occupies a former photoengraving plant across from his Long Island City studio. Galleries display stone, bronze, wood, and Akari light sculptures alongside a contemplative open-air sculpture garden — a deliberately quiet counterpoint to MoMA PS1's edgier contemporary lineup. Best paired with a Socrates Sculpture Park stop two blocks north.",
-    "url": "https://www.noguchi.org/museum/visit/plan/",
+    "desc": "Isamu Noguchi's converted-factory museum with a stone-and-bamboo sculpture garden in LIC",
+    "longDesc": "Founded by sculptor Isamu Noguchi in a former photo-engraving plant, the museum spans 13 indoor galleries and an outdoor garden of basalt, granite, and bamboo. Pairs naturally with MoMA PS1 for a two-museum LIC afternoon, with a contemplative, low-crowd vibe distinct from Manhattan institutions. Wed–Sun only, last entry 5:30pm.",
+    "url": "https://www.noguchi.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "greenpoint",
     "vibe": [
-      "chill",
       "curious",
-      "romantic"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "11:00-18:00 (Sat-Sun)",
-    "notes": "Address 9-01 33rd Rd, Long Island City — technically Astoria edge but universally listed LIC (Yelp, Tripadvisor). Wed-Sun 11-18:00, closed Mon/Tue (Noguchi.org). Street parking is metered/limited on weekends; allow 10 min to find a spot or use the Costco/PS1 lots a few blocks south. Advance timed-entry reservations recommended (NYC Tourism). Pairs naturally with Socrates Sculpture Park (free, 2 blocks north) and MoMA PS1 (~8 min drive south).",
+    "duration": "75-90 min",
+    "driveFromIC": "24 min",
+    "hoursWeekend": "11:00-18:00",
+    "notes": "9-01 33rd Rd, Long Island City — technically Queens, not a Brooklyn zone; closest tag is greenpoint (across Pulaski Bridge). $16 general admission; free on first Fridays (extended to 8pm May–Sep). Street parking only — Vernon Blvd side streets can work weekends but allow time. Pairs cleanly with MoMA PS1 (~6 min drive) for a credible cross-borough museum day justifying the BQE haul from IC (Noguchi tickets — www.noguchi.org).",
     "sources": [
       {
         "url": "https://www.noguchi.org/museum/visit/plan/",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/the-noguchi-museum/",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/the-noguchi-museum-astoria",
-        "accessed": "2026-05-16"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Attraction_Review-g48080-d136119-Reviews-Noguchi_Museum-Long_Island_City_Queens_New_York.html",
-        "accessed": "2026-05-16"
+        "url": "https://whichmuseum.com/museum/the-noguchi-museum-new-york-9341/opening-hours",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:54:52.396Z"
+    "lastResearchedAt": "2026-05-18T01:19:21.604Z"
   },
   {
     "id": "bohemian-hall-beer-garden",
@@ -16932,53 +16916,49 @@
   {
     "id": "long-island-bar-cobble-hill",
     "name": "The Long Island Bar",
-    "desc": "Restored 1951 corner saloon turned modern-classic cocktail bar by Toby Cecchini, on Atlantic Ave.",
-    "longDesc": "A diner-era corner bar from 1951, reopened in 2013 by Cosmopolitan creator Toby Cecchini and Joel Tompkins, now a fixture on World's 50 Best lists (#64 on North America's Best Bars in 2025). Mid-century neon, terrazzo floors, and a tight menu of precise classics (gimlets, daiquiris) and seasonal originals; bar food leans burgers and patty melts. Walk-in only — go right at the 2pm Saturday open, or stack it as the second move after dinner.",
+    "desc": "Restored 1951 Cobble Hill cocktail room from Toby Cecchini — peak classic Americana with elite mixology.",
+    "longDesc": "Toby Cecchini (the modern Cosmopolitan's inventor at the Odeon) and Joel Tompkins took over this 1951 family-run Atlantic Ave bar in 2013, keeping the original neon, terrazzo, and lunch-counter bones while elevating the cocktails to among the most precise classic-American drinks in NYC. The list leans Negroni, Gimlet, Martini, and Daiquiri done to spec; the kitchen runs a tight burger/oysters/small-plates program. Ideal serious-cocktails counterpart to Dutch Kills, 8-10 min from IC via the Gowanus.",
     "url": "https://www.thelongislandbar.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
       "romantic",
-      "chill",
+      "photo",
       "curious"
     ],
     "dietary": [],
-    "priceBand": "$$$",
+    "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat-Sun 14:00-24:00",
-    "notes": "Walk-in only, no reservations — biggest operational risk vs. Sunken Harbor Club (thelongislandbar.com). Corner of Atlantic Ave & Henry St; metered street parking on Atlantic and side streets, generally findable on weekends before 6pm. Closed Mondays; Tue-Fri 17:00-24:00 (yelp.com). Same Cecchini ownership as Sunken Harbor Club in Brooklyn Heights, so cocktail bar is exceptional — good defensive backup if SHC's walk-in line is long. ~12 min drive from IC via Hicks St / BQE.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat-Sun 14:00-00:00",
+    "notes": "110 Atlantic Ave at Henry St; preserved 1951 neon-and-terrazzo room (freshnyc.com). Tue-Fri 5pm-12am, Sat-Sun 2pm-12am, closed Mon (thelongislandbar.com). Cecchini = modern Cosmo inventor; pairs as the classic-American counterpart to Dutch Kills' Japanese-precision dive (bevvy.co). Atlantic Ave + Henry has metered street parking that turns over reasonably on weekend afternoons; BQE Atlantic Ave exit is 8-10 min from Industry City. No reservations — go early for the 2pm Sat open.",
     "sources": [
       {
         "url": "https://www.thelongislandbar.com/",
-        "accessed": "2026-05-16T20:55:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-long-island-bar-brooklyn",
-        "accessed": "2026-05-16T20:55:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.thelongislandbar.com/about",
-        "accessed": "2026-05-16T20:55:00Z"
+        "url": "https://bevvy.co/who/toby-cecchini",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://punchdrink.com/venues/the-long-island-bar/",
-        "accessed": "2026-05-16T20:55:00Z"
+        "url": "https://freshnyc.com/bars-nightlife/classic-fifties-bar-cobble-hill",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/the-long-island-bar",
-        "accessed": "2026-05-16T20:55:00Z"
-      },
-      {
-        "url": "https://vinepair.com/articles/long-island-bar-oral-history/",
-        "accessed": "2026-05-16T20:55:00Z"
+        "url": "https://www.nyctourism.com/nightlife/the-long-island-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:58:49.010Z"
+    "lastResearchedAt": "2026-05-18T01:23:19.596Z"
   },
   {
     "id": "rainey-park",
@@ -28232,8 +28212,8 @@
   {
     "id": "diamond-reef",
     "name": "Diamond Reef (PERMANENTLY CLOSED)",
-    "desc": "Closed Bed-Stuy tropical cocktail bar — do not route; corpus marker to prevent re-research.",
-    "longDesc": "Diamond Reef was a tiki/tropical cocktail bar from the Attaboy team that operated at 1057 Atlantic Ave (Bed-Stuy/Crown Heights border) from 2017 until its lease was terminated after the building was sold; Yelp confirms permanently closed as of Dec 2025 (yelp.com). Owners floated reopening at a new site but no new location has materialized as of May 2026 (diamondreefnyc.com, eater.com). Also note: despite the research brief framing it as 'oyster + cocktail bar,' Diamond Reef's menu was island-leaning cocktails (Scorpion Kick, etc.) with limited food — it was never a primary oyster destination (dnainfo.com).",
+    "desc": "CLOSED: Bed-Stuy tropical cocktail bar from the Attaboy team; landlord terminated lease, no new location yet.",
+    "longDesc": "Diamond Reef ran for ~7 years at 1057 Atlantic Ave on the Bed-Stuy/Crown Heights border — a tropical, frozen-drink-forward sibling to Manhattan's Attaboy, famous for the frozen Penichillin and a backyard with swinging benches. The building was sold and the lease terminated before a planned 2024 reopening; owners said they'd find a new space but as of late 2025 no replacement venue has opened. Do not route guests here.",
     "url": "https://diamondreefnyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -28244,36 +28224,36 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "n/a — closed",
-    "driveFromIC": "17 min",
-    "hoursWeekend": "CLOSED — permanently",
-    "notes": "DO NOT ITINERARY. Permanently closed at 1057 Atlantic Ave after building sale (yelp.com/biz/diamond-reef-brooklyn-3). Original concept was tropical cocktails from the Attaboy team, not an oyster bar (theinfatuation.com, dnainfo.com). Entry exists solely to prevent re-research and to redirect the 'casual romantic $$ seafood alt to Maison Premiere' brief to the enqueue candidates below. If Diamond Reef ever reopens at a new address, refresh this entry.",
+    "duration": "60-90 min",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "Permanently closed; original address 1057 Atlantic Ave, Brooklyn. Confirmed closed on Yelp (Dec 2025) and Foursquare (https://www.yelp.com/biz/diamond-reef-brooklyn-3). Concept was Attaboy-quality cocktails with tropical menu and frozen Penichillin ($12) (Gothamist). Owners said they intend to relocate but no new venue announced. Keep record for corpus history; itinerary builder should filter on 'CLOSED' in desc.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/diamond-reef-brooklyn-3",
-        "accessed": "2026-05-17T13:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/diamond-reef/5871ac2c005a0f1e45b3fee7",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/let-the-penichillin-cure-you-at-new-bed-stuy-cocktail-bar-diamond-reef",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://diamondreefnyc.com/",
-        "accessed": "2026-05-17T13:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/diamond-reef",
-        "accessed": "2026-05-17T13:30:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/diamond-reef",
-        "accessed": "2026-05-17T13:30:00Z"
-      },
-      {
-        "url": "https://www.dnainfo.com/new-york/20170306/bed-stuy/diamond-reef-bars-bed-stuy-crown-heights-clinton-hill-cocktails-brooklyn/",
-        "accessed": "2026-05-17T13:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T13:28:26.870Z"
+    "lastResearchedAt": "2026-05-18T01:25:44.834Z"
   },
   {
     "id": "lilia",
@@ -29763,49 +29743,48 @@
   },
   {
     "id": "leyenda",
-    "name": "Leyenda (PERMANENTLY CLOSED)",
-    "desc": "Closed March 2025: Ivy Mix's landmark pan-Latin cocktail bar after a decade on Smith St.",
-    "longDesc": "Leyenda was a pioneering pan-Latin cocktail bar opened by Ivy Mix (Speed Rack co-founder) and Julie Reiner in 2015 at 221 Smith St, Cobble Hill/Carroll Gardens border. It closed at the end of March 2025 just shy of its 10th anniversary; Mix cited a changing neighborhood, building issues, and industry hardships, and the team noted they'd outgrown the space. The bar was widely regarded as one of NYC's best for agave and Latin spirits programming.",
+    "name": "Leyenda",
+    "desc": "Ivy Mix's award-winning Latin American cocktail bar on Smith Street — agave, mezcal, rum, pisco, cachaça.",
+    "longDesc": "Carroll Gardens cocktail destination from James Beard-recognized bartender Ivy Mix and Clover Club's Julie Reiner, with a menu that travels the Americas through tequila, mezcal, rum, cachaça and pisco. Snug, candle-lit room with serious technique behind every drink and Latin-leaning bar snacks, making it the agave/mezcal counterpart to nearby Long Island Bar. Weekend doors open early (1pm) so it works as a late-afternoon stop before dinner in the cluster.",
     "url": "https://leyendabk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "cobble-hill",
+    "zone": "carroll-gardens",
     "vibe": [
-      "romantic",
-      "curious"
+      "chill",
+      "curious",
+      "romantic"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "CLOSED PERMANENTLY",
-    "notes": "DO NOT ROUTE GUESTS HERE. Permanently closed end of March 2025 after a 10-year run on Smith St (The Spirits Business, Feb 2025; Time Out NY, Feb 2025; PUNCH closing dispatch). Ivy Mix's still-active Brooklyn projects: Whoopsie Daisy (wine bar, Crown Heights) and Fiasco (wine shop). For the intended Cobble Hill late-night cocktail cluster with Long Island Bar, substitute Clover Club (Julie Reiner's adjacent Smith St flagship, still open) or Sunken Harbor Club at Gage & Tollner (Downtown Bklyn, tiki, St. John Frizell + Sother Teague).",
+    "hoursWeekend": "Sat 13:00-01:00, Sun 13:00-00:00",
+    "notes": "Address: 221 Smith St, Brooklyn (Visit Brooklyn). Co-owned by Ivy Mix + Julie Reiner with chef Sue Torres on the food side (Chilled Magazine). Weekend hours confirmed from official site (leyendabk.com). Street parking on Smith/Court typically findable on weekends; ~12 min drive from Industry City via 3rd Ave. Pairs naturally with Long Island Bar (classic-cocktail anchor 0.4 mi away) to make a two-stop Cobble Hill/Carroll Gardens drinks track.",
     "sources": [
       {
-        "url": "https://www.thespiritsbusiness.com/2025/02/brooklyn-bar-leyenda-to-close/",
-        "accessed": "2026-05-17T22:15:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/news/one-brooklyns-best-cocktail-bars-is-closing-its-doors-020625",
-        "accessed": "2026-05-17T22:15:00Z"
-      },
-      {
-        "url": "https://punchdrink.com/articles/leyenda-bar-closing-ivy-mix-cocktails-margarita/",
-        "accessed": "2026-05-17T22:15:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/leyenda-brooklyn",
-        "accessed": "2026-05-17T22:15:00Z"
-      },
-      {
         "url": "https://leyendabk.com/",
-        "accessed": "2026-05-17T22:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/leyenda",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://chilledmagazine.com/julie-reiner-and-ivy-mix-open-leyenda-cocktail-bar/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/leyenda",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T22:15:04.299Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T01:27:46.091Z"
   },
   {
     "id": "long-island-bar",
