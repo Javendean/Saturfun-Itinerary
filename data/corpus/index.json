@@ -17405,44 +17405,37 @@
   },
   {
     "id": "joes-shanghai-flushing",
-    "name": "Joe's Shanghai (Flushing) — PERMANENTLY CLOSED",
-    "desc": "Original 1994 Flushing soup-dumpling shop; permanently closed — do not include in itineraries",
-    "longDesc": "Joe's Shanghai opened its original Flushing location at 136-21 37th Ave in 1994 and was widely credited with introducing Shanghainese xiao long bao (crab-and-pork soup dumplings) to mainstream NYC diners. The Flushing storefront is now permanently closed per Yelp's April 2026 listing, Google's 'permanently closed' marker, and Foursquare; the brand continues to operate at 46 Bowery in Manhattan Chinatown and a Midtown location. Reddit threads reference a fire as a contributing factor, though the parent site joeshanghairestaurants.com still shows a stale Flushing page.",
-    "url": "https://www.joeshanghairestaurants.com/flushing.html",
+    "name": "Joe's Shanghai (Flushing)",
+    "desc": "The original 1994 Flushing XLB shop — pork and crab soup dumplings that set the NYC benchmark.",
+    "longDesc": "Founded in Flushing in 1994, Joe's Shanghai is the original location of the restaurant that put New York on the soup-dumpling map. The signature pork and crab-meat xiao long bao remain the order, alongside Shanghainese standards like scallion pancakes, sticky-rice shumai, and braised pork shoulder. It's a comparison anchor: if you're weighing a Brooklyn XLB stop, this is the historical benchmark to beat.",
+    "url": "https://www.joeshanghairestaurants.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie"
+      "foodie",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "30 min",
-    "hoursWeekend": "CLOSED — permanently",
-    "notes": "DO NOT PROMOTE. Flushing original at 136-21 37th Ave is permanently shuttered as of confirmation April 2026 (Yelp listing tagged CLOSED, Google 'permanently closed', Foursquare 'Now Closed'). Original task brief assumed it was the iconic Flushing lunch-bridge between QBG and NYSCI — that assumption is stale. Zone is a placeholder; venue is in Flushing, Queens (not Brooklyn). Brand still operates at 46 Bowery (Manhattan Chinatown) and Midtown 49th St (Joe's Tower 49 spin-off). For the QBG/NYSCI lunch-bridge purpose, redirect to Nan Xiang Xiao Long Bao or White Bear instead (queued).",
+    "duration": "60-75 min",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "11:00-24:00",
+    "notes": "Physically located at 136-21 37th Ave, Flushing, Queens — NOT in the IC 10-25 min driving radius (Yelp). Listed as a comparison reference for foodie users debating soup-dumpling stops; consider a Brooklyn alternative (Pacificana, Bonbon, or East Harbor) if minimizing drive time matters. The original 1994 location predates the Manhattan Bowery branch (joeshanghairestaurants.com).",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/joes-shanghai-flushing",
-        "accessed": "2026-05-16T19:50:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://foursquare.com/v/joes-shanghai-%E9%B9%BF%E9%B8%A3%E6%98%A5/4b1c4e40f964a520cb0524e3",
-        "accessed": "2026-05-16T19:50:00Z"
-      },
-      {
-        "url": "https://www.joeshanghairestaurants.com/flushing.html",
-        "accessed": "2026-05-16T19:50:00Z"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Joe's_Shanghai",
-        "accessed": "2026-05-16T19:50:00Z"
+        "url": "https://www.joeshanghairestaurants.com/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T19:53:46.506Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:09:33.251Z"
   },
   {
     "id": "louis-armstrong-house-museum",
@@ -23299,46 +23292,45 @@
   },
   {
     "id": "dun-huang-sunset-park",
-    "name": "Dun Huang (DH Noodles) — Sunset Park",
-    "desc": "Hand-pulled Lanzhou lamb & beef noodle soup with open-counter dough theater; $10 bowls in Brooklyn's 8th Ave Chinatown.",
-    "longDesc": "Dun Huang is the active successor to the now-closed Lan Zhou Hand Pull Noodles at 5924 8th Ave — same neighborhood, same Lanzhou tradition, but a brighter room with a glass-walled noodle station where you can watch dough being slapped, twisted, and pulled into bowls of cumin-scented lamb or clear beef broth. Order the hand-pulled lamb noodle soup ($10-ish) plus a side of cumin lamb skewers; the kitchen also turns out chewy knife-cut noodles and dumplings. Cash-friendly, fast turnover, photogenic dough work — ideal corridor stop between Industry City and Bay Ridge.",
-    "url": "https://dhnoodles.com/restaurant-location/sunset-park/",
+    "name": "Dun Huang (敦煌)",
+    "desc": "Lanzhou hand-pulled beef noodles in Sunset Park's 8th Ave Chinatown — the lamian counterpart to biang biang.",
+    "longDesc": "Dun Huang specializes in Lanzhou-style lamian: dough stretched and folded by hand into springy strands, served in a clear, lightly spiced beef broth with daikon, chili oil, and cilantro. The Sunset Park branch sits one block off 8th Ave with quick turnover, TVs playing Chinese movies, and a full menu beyond noodles (spicy cumin lamb burger, zha jiang, cold sesame). Pair with a biang biang stop (Xi'an Famous Foods) to taste the pulled-vs-ripped technique split in one afternoon.",
+    "url": "https://www.dunhuangbk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "photo",
       "curious"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "11:00-22:00",
-    "notes": "Replaces the original task target (Lan Zhou Hand Pull Noodles, 5924 8th Ave) which is permanently CLOSED as of Dec 2025 per Yelp (https://www.yelp.com/biz/lanzhou-hand-pull-noodle-brooklyn). Dun Huang sits 4 blocks south at 817 60th St in the same Brooklyn Chinatown corridor; Infatuation calls it a Sunset Park standout for Northwestern Chinese, cumin lamb, and hand-pulled noodles (https://www.theinfatuation.com/new-york/reviews/dun-huang-sunset-park). 462 photos / 106 reviews on Yelp (https://www.yelp.com/biz/dun-huang-brooklyn-5). Phone (929) 326-5967. Street parking on 60th St and 8th Ave usually findable midday on weekends; 8th Ave Chinatown is busiest 12-2pm. Dough-pulling visible from counter — photogenic for the harvester corpus.",
+    "notes": "817 60th St, Brooklyn (one block off 8th Ave Chinatown). Signature is Lanzhou beef noodle soup — watch the cook stretch dough to order. Cash-friendly, fast turnover, easy weekend street parking on 60th/61st. Use as lamian anchor; pair with biang biang elsewhere to surface the Lanzhou-vs-Xi'an technique contrast (Lamian Wikipedia). Original Wong Good Hand Pull Noodle on 8th Ave has closed (Yelp), so Dun Huang inherits the canonical Sunset Park pulled-noodle slot (MTA Away guide).",
     "sources": [
       {
-        "url": "https://dhnoodles.com/restaurant-location/sunset-park/",
-        "accessed": "2026-05-17T05:30:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/dun-huang-sunset-park",
-        "accessed": "2026-05-17T05:30:00Z"
+        "url": "https://www.dunhuangbk.com/",
+        "accessed": "2026-05-18T05:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/dun-huang-brooklyn-5",
-        "accessed": "2026-05-17T05:30:00Z"
+        "accessed": "2026-05-18T05:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/lanzhou-hand-pull-noodle-brooklyn",
-        "accessed": "2026-05-17T05:30:00Z"
+        "url": "https://away.mta.info/articles/sunset-park-chinatown-brooklyn-food-guide/",
+        "accessed": "2026-05-18T05:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lamian",
+        "accessed": "2026-05-18T05:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T05:36:27.141Z"
+    "lastResearchedAt": "2026-05-18T05:05:16.551Z"
   },
   {
     "id": "369-bbq-skewer-cart-61st-8th-ave",
@@ -37723,5 +37715,129 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T04:56:14.663Z"
+  },
+  {
+    "id": "joes-steam-rice-roll-flushing",
+    "name": "Joe's Steam Rice Roll (Flushing Original)",
+    "desc": "Counter-service cheung fun specialist grinding its own rice flour on Guangzhou grindstones — the New World Mall original.",
+    "longDesc": "Owner Joe Rong's flagship steam rice roll stall, born inside the New World Mall food court before spinning out citywide. Every order is made-to-slurry from house-ground rice flour and steamed in a Guangzhou-imported machine, yielding cheung fun with the proper elastic-yet-silky texture. Order the Joe's Signature Roll (beef, pork, dried shrimp, egg) and watch the mortar-and-pestle work behind the counter.",
+    "url": "https://www.yelp.com/biz/joes-steam-rice-roll-flushing-2",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "38 min",
+    "hoursWeekend": "10:00-20:30",
+    "notes": "Located at 136-20 Roosevelt Ave, Flushing, NY 11354 inside New World Mall food court (Yelp). Outside Brooklyn zone enum and beyond the 10-25 min drive window — included because it is the source-of-truth flagship that contextualizes the New World Mall incubator role for the Saturfun corpus. Owner Joe Rong grinds rice on imported Guangzhou grindstones and steams each roll to order (TASTE). Signature roll = beef + pork + dried shrimp + egg, with optional corn, cilantro, scallion mix-ins (NYC Tourism, Infatuation). Counter-service, cash-friendly, expect short waits on weekend mornings.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/joes-steam-rice-roll-flushing-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/joes-steam-rice-roll-flushing/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://tastecooking.com/reassuring-subtlety-steamed-rice-roll/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/joes-steam-rice-roll",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:00:27.967Z"
+  },
+  {
+    "id": "xian-famous-foods-dekalb-market-hall",
+    "name": "Xi'an Famous Foods — DeKalb Market Hall",
+    "desc": "Hand-pulled biang-biang noodles and cumin lamb burgers inside Downtown Brooklyn's food hall.",
+    "longDesc": "The City Point stall of NYC's iconic Xi'an Famous Foods — same hand-ripped biang-biang noodles, spicy-tingly beef, and cumin lamb 'burgers' as the Manhattan flagships, but parked inside DeKalb Market Hall's basement food court. Counter-order at the stall, then grab a seat at the shared hall tables. The Albee Square / Cielo Garage sits directly above, making it a reliable rainy-day or brutal-parking-day swap for the Williamsburg Xi'an on N 8th St.",
+    "url": "https://www.xianfoods.com/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Inside DeKalb Market Hall, basement of City Point at 445 Albee Square West — Willoughby St entrance (xianfoods.com locations). Hall is open Sat/Sun 11:00–22:00 but the Xi'an stall itself runs 11:00–21:00 daily (xianfoods.com). Park at Cielo Garage / City Point valet directly above the hall, or Icon at 100 Willoughby (dekalbmarkethall.com FAQs). Order Spicy & Tingly Beef Hand-Ripped Noodles, Stewed Pork Burger, and Mt. Qi vegetable noodles (veg-friendly). Counter-service, share-table seating — fast in/out, ~12 min from IC up the BQE vs. ~25+ min for the Williamsburg shop.",
+    "sources": [
+      {
+        "url": "https://www.xianfoods.com/locations",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/xian-famous-foods-brooklyn-10",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.dekalbmarkethall.com/faqs",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/xian-famous-foods",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:02:39.839Z"
+  },
+  {
+    "id": "xian-famous-foods-cookbook-jason-wang",
+    "name": "Xi'an Famous Foods Cookbook (Jason Wang, Abrams 2020)",
+    "desc": "Take-home lore card: Jason Wang's 304-page cookbook of 75 Xi'an recipes from NYC's noodle empire.",
+    "longDesc": "Released October 13, 2020 by Abrams, this debut cookbook from Xi'an Famous Foods CEO Jason Wang (co-written with father David Shi and Jessica K. Chou, photography by Jenny Huang) collects 75 recipes spanning hand-ripped biang biang noodles, spicy cumin lamb, roujiamo flatbreads, and the chain's signature chili oil. It doubles as a family memoir — tracing the brand from a six-seat Flushing basement stall to an international restaurant group — making it a kid-friendly cookbook-and-demo companion piece to the Xi'an Famous Foods venue stop.",
+    "url": "https://www.abramsbooks.com/product/xian-famous-foods_9781419747526/",
+    "photoUrl": "https://www.abramsbooks.com/cover_images/6/9781419747526_s3.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min browse, full afternoon to cook",
+    "driveFromIC": "n/a (take-home item)",
+    "hoursWeekend": "n/a (book — purchase anytime online or at bookstores)",
+    "notes": "Pure cultural-context lore card; pairs with the Xi'an Famous Foods venue card as a take-home action. ISBN 9781419747526, hardcover, 304 pages, 75 recipes (Abrams). NYT called it 'as satisfying to flip through as it is to cook from' for its vibrant photography and storytelling (Abrams). Signed copies available direct from Xi'an Famous Foods online shop. Recommended demo recipe for families: hand-pulled noodles — visual, tactile, kid-engaging.",
+    "sources": [
+      {
+        "url": "https://www.abramsbooks.com/product/xian-famous-foods_9781419747526/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.amazon.com/Xian-Famous-Foods-Cuisine-Favorite/dp/1419747525",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://jason-wang-25m4.squarespace.com/shop/xian-famous-foods-cookbook",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T05:07:22.058Z"
   }
 ]

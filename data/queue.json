@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Joe's Steam Rice Roll — Flushing original location",
-    "reason": "Cantonese cheung fun specialist that started as a New World Mall stall and expanded citywide; the Flushing flagship is the source-of-truth version and contextualizes the food court's role as an incubator.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:12:20.201Z"
-  },
-  {
-    "topic": "Xi'an Famous Foods — DeKalb Market Hall / 54 Willoughby St (Downtown Brooklyn)",
-    "reason": "Closer alternative ~12 min drive from IC with garage parking — useful for a Downtown Brooklyn track or a rainy-day swap when Williamsburg parking is brutal",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:14:54.514Z"
-  },
-  {
-    "topic": "Tasty Hand-Pulled Noodles (Brooklyn Chinatown / Sunset Park hand-pulled alternatives)",
-    "reason": "Lamian (pulled) vs biang biang (ripped) contrast — a second noodle-technique lore card differentiates Sunset Park's own Chinatown stops within walking distance of IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:14:54.514Z"
-  },
-  {
-    "topic": "Jason Wang's 'Xi'an Famous Foods' cookbook (Abrams 2020) as itinerary lore card",
-    "reason": "Pure cultural-context reference object — pairs with the venue card, gives users a take-home action and supports the kid-friendly cookbook-and-demo angle separate from any physical visit",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:14:54.514Z"
-  },
-  {
-    "topic": "Joe's Shanghai Flushing",
-    "reason": "Original Flushing XLB competitor — useful comparison anchor for foodie users debating which soup-dumpling stop to pick",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:17:22.017Z"
-  },
-  {
     "topic": "Yaso Tangbao Downtown Brooklyn",
     "reason": "Brooklyn-side XLB option for users who want soup dumplings without the 35-min Queens drive — fits the 10-25 min IC band",
     "requestedBy": "agent",
@@ -15202,5 +15172,95 @@
     "reason": "Walkable dessert/coffee stop to close a Flushing track before the drive back to IC",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T04:58:14.644Z"
+  },
+  {
+    "topic": "Joe's Steam Rice Roll — Sunset Park / Industry City-adjacent branch on 8th Ave",
+    "reason": "Brings the cheung fun specialist into the actual IC drive radius and lets us compare flagship vs. spinoff execution",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:00:27.994Z"
+  },
+  {
+    "topic": "New World Mall Food Court — incubator overview entry",
+    "reason": "Captures the food court as a venue/system that has birthed multiple citywide concepts (Joe's, Yi Fang, etc.)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:00:27.994Z"
+  },
+  {
+    "topic": "Tong Sam Gyup Goo Yi or another Cantonese BBQ counter in Sunset Park 8th Ave corridor",
+    "reason": "Builds out the driving-friendly Cantonese cluster reachable from IC as a Flushing alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:00:27.994Z"
+  },
+  {
+    "topic": "Ample Hills Creamery — DeKalb Market Hall stall",
+    "reason": "Same food-hall, same garage — pairs naturally with Xi'an as a dessert stop on a Downtown Brooklyn track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:02:39.864Z"
+  },
+  {
+    "topic": "Alamo Drafthouse Cinema — City Point Brooklyn",
+    "reason": "Directly above DeKalb Market Hall; rainy-day combo (eat downstairs, movie upstairs) anchored to the same Cielo Garage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:02:39.864Z"
+  },
+  {
+    "topic": "Center for Fiction — 15 Lafayette Ave, Fort Greene",
+    "reason": "5-min drive from City Point; quiet curious-track stop to balance the high-stim food-hall lunch",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:02:39.864Z"
+  },
+  {
+    "topic": "Xi'an Famous Foods Sunset Park or nearest Brooklyn biang biang outlet",
+    "reason": "Direct ripped-noodle counterpart to Dun Huang's lamian — completes the technique-contrast lore card",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:05:16.577Z"
+  },
+  {
+    "topic": "DH Noodles (Lanzhou Hand Pulled Beef Noodles) Sunset Park",
+    "reason": "Second Lanzhou-school option on 8th Ave — useful as a backup pick or A/B comparison within the same noodle technique",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:05:16.577Z"
+  },
+  {
+    "topic": "Ji Bei Chuan Noodles 5216 8th Ave Brooklyn",
+    "reason": "Sichuan noodle option in the same 8th Ave Chinatown corridor — broadens the noodle cluster beyond Lanzhou/Xi'an",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:05:16.577Z"
+  },
+  {
+    "topic": "Kings County Imperial cookbook or Brooklyn-Chinese chef memoir",
+    "reason": "Parallel Brooklyn-based Chinese-cuisine lore card to expand the cookbook-and-demo category",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:07:22.085Z"
+  },
+  {
+    "topic": "The Mala Market online Sichuan pantry shop",
+    "reason": "Companion take-home action — sources the chili oil/spices needed to actually cook the Xi'an recipes at home",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:07:22.085Z"
+  },
+  {
+    "topic": "Fly By Jing chili crisp as itinerary lore card",
+    "reason": "Adjacent Chinese-pantry take-home reference; extends the cookbook-and-demo angle into a second product format",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:07:22.085Z"
+  },
+  {
+    "topic": "Pacificana dim sum Sunset Park",
+    "reason": "Brooklyn XLB/dim sum option ~5 min drive from IC — direct in-radius competitor that should anchor the Brooklyn soup-dumpling comparison",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:09:33.279Z"
+  },
+  {
+    "topic": "Bonbon Lobster & Shrimp Sunset Park 8th Ave",
+    "reason": "Sunset Park Chinatown XLB-adjacent dumpling specialist within 10 min of IC, fills the same foodie slot without the Queens drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:09:33.279Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace Sunset Park",
+    "reason": "Cantonese dim sum in 8th Ave Chinatown ~7 min from IC with cart service — strong weekend-brunch counter-pick to a Flushing detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:09:33.279Z"
   }
 ]
