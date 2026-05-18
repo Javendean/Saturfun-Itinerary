@@ -5872,9 +5872,9 @@
   },
   {
     "id": "threes-brewing-gowanus",
-    "name": "Threes Brewing — Gowanus Taproom",
-    "desc": "Cavernous brewpub + beer garden in Gowanus — walk-in friendly for 8-12 person groups, 6 min from IC.",
-    "longDesc": "Threes' flagship Gowanus location is a brewery, beer hall, and indoor/outdoor beer garden in one — multiple distinct rooms (Main Bar with high ceilings and skylight, music space Tiny Montgomery, and The Yard outdoor area year-round) make it one of the easiest large-group landings in Brooklyn. No reservations required for the taproom; Grand Army South runs the kitchen with burgers and bar food until 11pm Sat / 10pm Sun, so it scales as either a pre-dinner anchor or a full sit-down for 8-12.",
+    "name": "Threes Brewing (Gowanus)",
+    "desc": "Award-winning Brooklyn brewery + beer garden — clean lagers, mixed-culture ales, Meat Hook burgers",
+    "longDesc": "Threes' original Gowanus flagship at 333 Douglass St is brewery, coffee shop, beer shop by day and brewpub/beer garden/music venue by night, with indoor seating and a big outdoor yard. The taps lean fresh lagers, IPAs, and mixed-culture offerings, with wine, cider, and cocktails alongside; food comes from The Meat Hook Burger Shop. Named Best Brewery and Beer Bar in NYC by bon appétit — a natural decompress stop after a ceramics session at Slow Burn (~5 min drive north).",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5888,27 +5888,27 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
-    "notes": "333 Douglass St — Gowanus/Park Slope border. Kitchen by Grand Army South (Sat 12-11pm, Sun 12-10pm). Multiple rooms = Main Bar, Tiny Montgomery (music/private), The Yard outdoor (year-round) — call (718) 568-9673 for large-group accommodation. Street parking on Douglass/3rd Ave usually findable on weekends; Gowanus is car-friendly vs. the rest of Brooklyn (source: threesbrewing.com/pages/gowanus). Yelp 4-star average across 499+ reviews (source: yelp.com/biz/threes-brewing-brooklyn).",
+    "notes": "333 Douglass St between 3rd and 4th Ave, Gowanus 11217 (threesbrewing.com/pages/gowanus). Drive from Slow Burn Studio (247 36th St) ~5 min up 4th Ave. Beer garden + indoor; live music nights. Meat Hook Burger Shop on-site for food. Bon appétit Best Brewery & Beer Bar NYC (yelp.com/biz/threes-brewing-brooklyn). Street parking in Gowanus is doable on weekends; better than Manhattan, looser than Williamsburg.",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-17T17:05:00Z"
+        "accessed": "2026-05-18T19:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-17T17:05:00Z"
+        "accessed": "2026-05-18T19:15:00Z"
       },
       {
-        "url": "https://venues.tripleseat.com/venues/new-york/threes-brewing",
-        "accessed": "2026-05-17T17:05:00Z"
+        "url": "https://threesbrewing.com/pages/faq",
+        "accessed": "2026-05-18T19:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T17:13:07.541Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:25:27.652Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -9658,9 +9658,9 @@
   },
   {
     "id": "bklyn-clay-tryday-night",
-    "name": "BKLYN CLAY — TryDay Night (Wheel Intro)",
-    "desc": "2-hour Fri/Sat 7:30pm wheel-throwing intro, $85, beer & wine on site, ages 7+ welcome.",
-    "longDesc": "BKLYN CLAY's TryDay Night is a single-session, drop-in wheel-throwing class at their Prospect Heights studio (535 Carlton Ave) — every Friday and Saturday at 7:30pm, 2 hours, 12 students per instructor, $85 per person. Beer and wine are sold on site (no BYOB). It's a try-it-out experience: you won't take home a finished piece, but you'll get hands-on time at the wheel in a warm, low-pressure setting — ideal as a weekend itinerary stop after dinner.",
+    "name": "BKLYN CLAY — TryDay Night",
+    "desc": "Friday/Saturday 7:30pm wheel-throwing drop-in at the Prospect Heights studio — 2 hrs, beer & wine on site.",
+    "longDesc": "BKLYN CLAY's TryDay Night is a 2-hour instructor-led wheel-throwing intro that runs every Friday and Saturday at 7:30pm — capped at 12 students, $85/person, ages 7+ (under-16s need an enrolled adult). You won't take a finished piece home (drying/firing takes weeks) but beer and wine are sold on site, making it a low-commitment date or friends night. Studio is in Prospect Heights at 535 Carlton Ave, roughly a 15-min drive from Industry City via the Prospect Expressway.",
     "url": "https://bklynclay.com/tryday",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -9668,24 +9668,32 @@
     "vibe": [
       "curious",
       "chill",
-      "romantic"
+      "active"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "2 hr",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Fri & Sat 7:30pm session (2 hr)",
-    "notes": "Task specified Red Hook but BKLYN CLAY has no Red Hook studio — their Brooklyn location is 535 Carlton Ave in Prospect Heights, the other is Tribeca, Manhattan (https://bklynclay.com/tryday). $85/person, ages 7+, under-16 must have an enrolled adult. 48-hr cancellation policy. Beer & wine sold on site, no BYOB. Street parking in Prospect Heights is feasible on weekends but tight; ~15-20 min drive from Industry City via 4th Ave or Atlantic.",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Fri & Sat 7:30pm class (studio hours vary)",
+    "notes": "Premise check: there is NO BKLYN CLAY at Industry City — closest is 535 Carlton Ave, Prospect Heights, 11238 (bklynclay.com/tryday). Manhattan studio at 288 West St exists but violates IC-anchor rule. TryDay = $85, 12-student cap, instructor-led wheel intro, beer/wine on site, NO take-home piece, 48-hr cancellation policy (bklynclay.com/tryday). Street parking in Prospect Heights is tight on weekend evenings — budget +5 min. Closest IC-adjacent ceramics alternative: Brooklyn Clay Industries at Brooklyn Navy Yard (Sat/Sun 12-6:30pm, brooklynclayindustries.com) but no published drop-in.",
     "sources": [
       {
         "url": "https://bklynclay.com/tryday",
-        "accessed": "2026-05-16T10:25:00Z"
+        "accessed": "2026-05-18T19:15:00Z"
+      },
+      {
+        "url": "https://bklynclay.com/",
+        "accessed": "2026-05-18T19:15:00Z"
+      },
+      {
+        "url": "https://www.brooklynclayindustries.com/",
+        "accessed": "2026-05-18T19:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:26:29.176Z"
+    "lastResearchedAt": "2026-05-18T19:15:08.304Z"
   },
   {
     "id": "makers-guild-industry-city",
@@ -46385,5 +46393,135 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T19:12:32.276Z"
+  },
+  {
+    "id": "brooklyn-glass-one-day-workshop",
+    "name": "Brooklyn Glass — One Day Workshop",
+    "desc": "Sunday glassblowing intro in Gowanus: make a paperweight + tumbler with 2100°F molten glass, no experience needed.",
+    "longDesc": "Brooklyn Glass is Gowanus's flagship hot shop, a 9,000 sq ft studio at 142 13th St between 2nd & 3rd Aves. The 'One Day Workshop: Colorful Paperweights + Tumblers' runs Sundays 11am–4pm — five hours of hands-on gathering, shaping, and color application alongside resident gaffers. You leave with a finished colorful paperweight and drinking tumbler (cooled overnight in the annealer; pickup the following week).",
+    "url": "https://brooklynglass.com/index.php/class/one-day-glass-blowing-workshop/",
+    "photoUrl": "https://brooklynglass.com/wp-content/uploads/2019/05/PAPERWEIGHT-1024x914.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "5 hr",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sun 11:00-16:00 (Sat hot shop 10:00-18:00, no public class)",
+    "notes": "$285 + booking fee per person; ages 14+; no experience required, taught in teams. Hot shop runs Mon–Thu & Sat–Sun 10–6, closed Fridays (brooklynglass.com/index.php/education/classes/). Address 142 13th St between 2nd & 3rd Aves — Gowanus, technically off Park Slope's western edge; street parking on 2nd Ave / 13th St is workable on Sundays, and the studio is a 12-min straight shot up 3rd Ave from IC. Finished pieces are annealed and picked up the following week — plan a return trip or ask about shipping. Wear closed-toe shoes and natural fibers; the shop is hot (brooklynglass.com/index.php/class/one-day-glass-blowing-workshop/).",
+    "sources": [
+      {
+        "url": "https://brooklynglass.com/index.php/class/one-day-glass-blowing-workshop/",
+        "accessed": "2026-05-18T19:20:00Z"
+      },
+      {
+        "url": "https://brooklynglass.com/index.php/education/classes/",
+        "accessed": "2026-05-18T19:20:00Z"
+      },
+      {
+        "url": "https://coursehorse.com/nyc/classes/art/glass3/glass-blowing",
+        "accessed": "2026-05-18T19:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:17:37.169Z"
+  },
+  {
+    "id": "bklyn-clay",
+    "name": "BKLYN CLAY (Prospect Heights / Tribeca)",
+    "desc": "Members-only ceramics studio with 15-18 mo waitlist — NOT at Industry City",
+    "longDesc": "BKLYN CLAY operates two studios — Prospect Heights (535 Carlton Ave, Brooklyn) and Tribeca (288 West St, Manhattan) — neither inside Industry City; an earlier Sunset Park studio (referenced in Hanlin Design's project portfolio) is no longer active. Memberships are $300/mo for a private shelf or $600/mo for a semi-private workspace with 24/7 access, but Prospect Heights advertises a 15-18 month waitlist and Tribeca is prioritizing existing members. No weekend drop-in is offered; entry is limited to semester classes and 'TryDay Night' workshops.",
+    "url": "https://bklynclay.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "n/a",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "24/7 for members only — no drop-in",
+    "notes": "Premise of an 'IC on-campus alternative to Slow Burn' is incorrect — BKLYN CLAY has no Industry City location (bklynclay.com). Prospect Heights waitlist is 15-18 months; Tribeca waitlist exists but is prioritizing current members (bklynclay.com/membership). No single-session weekend drop-in is advertised; semester classes and TryDay Night workshops are the only entry points for non-members. Recommend ruling this out for the itinerary and pursuing studios that explicitly run weekend drop-in (Painting Lounge, Choplet, Mud Matters).",
+    "sources": [
+      {
+        "url": "https://bklynclay.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bklynclay.com/membership",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.hanlindesign.com/bklynclay",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bklyn-clay-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:20:24.031Z"
+  },
+  {
+    "id": "gowanus-souvenir-shop",
+    "name": "Gowanus Souvenir Shop",
+    "desc": "Tiny Gowanus-canal-themed gift shop hosting weekend craft workshops with Brooklyn Brainery",
+    "longDesc": "A 350-sq-ft storefront on Union St stocking only Gowanus-themed goods made by local artists (canal-water perfume, neighborhood maps, screen-printed totes). Doubles as a Brooklyn Brainery satellite classroom — weekends typically feature 2-3 hour hands-on workshops in embroidery, tapestry weaving, gouache, linocut and other small-batch crafts. A drop-in alternative to a full Slow Burn ceramics session: cheaper, shorter, and you leave with a tiny made object.",
+    "url": "https://gowanussouvenir.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "10:00-18:00",
+    "notes": "567 Union St between Nevins & 3rd Ave, technically east-Gowanus / north-Carroll-Gardens border (Yelp). Shop open Tue-Sun 10-6, closed Mondays (gowanussouvenir.com/pages/hours-and-directions). Workshops are scheduled by Brooklyn Brainery and held in-shop after-hours or on weekend afternoons; check brooklynbrainery.com/locations/gowanus-souvenir-shop for current calendar — classes rotate (embroidery, weaving, gouache painting, etc.) and typically run $35-65 with materials included. Street parking on Union/Nevins usually findable on weekends. NOTE: Gowanus Print Lab (33 35th St, inside Industry City Bldg 5) was also evaluated but its Yelp shows Sat/Sun closed and classes are weekday/private-lesson focused — Souvenir Shop is the stronger weekend-workshop pick.",
+    "sources": [
+      {
+        "url": "https://gowanussouvenir.com/pages/hours-and-directions",
+        "accessed": "2026-05-18T19:20:00Z"
+      },
+      {
+        "url": "https://brooklynbrainery.com/locations/gowanus-souvenir-shop",
+        "accessed": "2026-05-18T19:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gowanus-souvenir-shop-brooklyn",
+        "accessed": "2026-05-18T19:20:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2015/10/23/the-gowanus-canal-now-has-its-own-souvenir-shop/",
+        "accessed": "2026-05-18T19:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gowanus-print-lab-brooklyn",
+        "accessed": "2026-05-18T19:20:00Z"
+      },
+      {
+        "url": "https://www.gowanusprintlab.com/classes.html",
+        "accessed": "2026-05-18T19:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:23:38.124Z"
   }
 ]
