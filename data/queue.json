@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Avena Downstairs at Industry City",
-    "reason": "Pasta tasting menu in the same complex — converts an IC afternoon into a full date-night without moving the car",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:31:25.131Z"
-  },
-  {
-    "topic": "Mr. Bing Japan Village Industry City scallion pancake wraps",
-    "reason": "Adjacent Japan Village stall — pairs with Panya for a courtyard food crawl start",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:33:15.337Z"
-  },
-  {
-    "topic": "Hayato Coffee Sunset Park weekend hours parking",
-    "reason": "Alternative early-morning matcha/coffee anchor near IC if Panya's 11am weekend open is too late",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:33:15.337Z"
-  },
-  {
-    "topic": "Sushi Uesugi at Japan Village — omakase specifics, seating, price",
-    "reason": "Sister tenant inside same food hall; pairs the parking-validation flow and gives a higher-end IC dining anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:35:50.873Z"
-  },
-  {
-    "topic": "Sunrise Mart at Japan Village — browse-time, snack pickups, parking validation threshold",
-    "reason": "Natural pre/post-ramen 30-min browse stop and the cheaper of the two parking-validation paths",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:35:50.873Z"
-  },
-  {
     "topic": "Otafuku + Hinomaru sake bar inside Japan Village — takoyaki and drinks pairing",
     "reason": "Completes the Japan Village mini-cluster as a single IC track without leaving the building",
     "requestedBy": "agent",
@@ -19906,5 +19876,95 @@
     "reason": "Third active IC drinks tenant; cocktail-forward format extends the IC circuit beyond pure tasting rooms",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T20:47:13.295Z"
+  },
+  {
+    "topic": "Sahadi's wine bar at Industry City (34 35th St, Building 4)",
+    "reason": "Actually inside IC and Infatuation flags it 'Perfect For: First Dates' — the truest in-complex date-night anchor now that Confidant has left",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:51:09.808Z"
+  },
+  {
+    "topic": "Lou and Bev's bakery + pizza (127 Atlantic Ave, Brooklyn Heights)",
+    "reason": "Same Kelley/Grossman team, opening adjacent to Confidant — natural daytime pair or lighter alternative on the IC→Brooklyn Heights pivot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:51:09.808Z"
+  },
+  {
+    "topic": "Faun pasta tasting (Prospect Heights)",
+    "reason": "If the brief's true want is 'pasta tasting menu, 15-min drive from IC', Faun's hand-rolled pasta tasting on Vanderbilt is the strongest Brooklyn match",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:51:09.809Z"
+  },
+  {
+    "topic": "Hachi okonomiyaki stall at Japan Village Industry City",
+    "reason": "Real adjacent Japan Village stall that genuinely pairs with Panya for a courtyard food crawl — fills the savory-handheld slot the Mr. Bing premise was trying to fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:53:44.015Z"
+  },
+  {
+    "topic": "Gohei onigiri stall at Japan Village Industry City",
+    "reason": "Grab-and-go rice ball counter inside Japan Village — strong opener for a Panya-anchored crawl, handheld and walkable",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:53:44.015Z"
+  },
+  {
+    "topic": "Yamada Soba & Udon stall at Japan Village Industry City",
+    "reason": "Hand-made noodle stall inside Japan Village — heartier sit-down option to round out the courtyard food crawl after Panya pastries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:53:44.015Z"
+  },
+  {
+    "topic": "City League Coffee Sunset Park 36th St weekend hours roaster cafe",
+    "reason": "Specialty roaster physically in Sunset Park — likely opens earlier than Tadaima/Panya and fills the true 8–10am coffee anchor gap near IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:56:16.755Z"
+  },
+  {
+    "topic": "Yafa Café Sunset Park Yemeni pour-over weekend hours parking",
+    "reason": "Distinct Yemeni coffee house on 5th Ave — pairs cultural depth with early hours, adds a non-Japanese coffee option to the IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:56:16.756Z"
+  },
+  {
+    "topic": "Kijitora Williamsburg Japanese cat-themed cafe weekend hours driving",
+    "reason": "If we want a true Japanese matcha second-act after IC, Kijitora is the closest curated alternative within the 15-min-drive cluster and serves miso mocha + strawberry matcha",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:56:16.756Z"
+  },
+  {
+    "topic": "Japan Village food hall — full vendor lineup (Osakana, Mainichi, Hinomaru, Saiko Sake)",
+    "reason": "Anchors a multi-stop IC indoor crawl with Sushi Uesugi as the finale; pairs the same parking-validation flow",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:58:14.530Z"
+  },
+  {
+    "topic": "Industry City parking validation rules and weekend garage rates",
+    "reason": "Both Japan Village tenants depend on this; needs its own corpus entry so itineraries can reference it",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:58:14.530Z"
+  },
+  {
+    "topic": "Rule of Thirds — Greenpoint omakase alternative within 15-min drive of IC",
+    "reason": "Higher-end Japanese counter for nights when Uesugi is fully booked; expands the upscale-dining tier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:58:14.530Z"
+  },
+  {
+    "topic": "Setagaya ramen at Japan Village — wait times, weekend peaks, parking-stack with Sunrise Mart",
+    "reason": "Natural pair stop in same building; combined receipt may cross higher validation tier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:00:16.247Z"
+  },
+  {
+    "topic": "Café Japon at Japan Village — matcha/pastry stop, seating capacity for post-ramen wind-down",
+    "reason": "Completes the Industry City Japan Village track without leaving the lot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:00:16.247Z"
+  },
+  {
+    "topic": "Industry City parking lot — full validation matrix across tenants and max-hour stack",
+    "reason": "Central to all IC-anchored tracks; needs a single authoritative entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:00:16.247Z"
   }
 ]

@@ -6399,37 +6399,44 @@
   },
   {
     "id": "sushi-uesugi",
-    "name": "Sushi Uesugi",
-    "desc": "Intimate omakase counter tucked beside Japan Village's food hall — chef-driven, walk-in friendly at lunch.",
-    "longDesc": "A small, refined sushi counter adjacent to the Japan Village marketplace at Industry City, focused on seasonal nigiri omakase with creative add-ons like Yukke Don and Garlic Truffle Rice. The lunch omakase reportedly starts around $50 for a 10-piece set, making it one of the few accessible omakase rooms in south Brooklyn; dinner runs longer and pricier at the chef's counter. Counter seats only, intimate feel, and a strong fit when one person in the group wants something more elevated than the Japan Village food-hall stalls.",
+    "name": "Sushi Uesugi at Japan Village",
+    "desc": "Intimate counter omakase tucked beside Industry City's Japan Village — $50 lunch sets, dinner courses by Chef Kenji.",
+    "longDesc": "Chef Kenji runs an eight-ish-seat sushi counter tucked at the back of the Japan Village food hall, plating seasonal nigiri with the same precision as Manhattan sit-downs at a fraction of the cost. The 10-piece lunch omakase is $50 (one of the best-value omakase deals in Brooklyn) and dinner courses run roughly $30–50 per person. Walk-ins are accepted but the counter fills fast on weekends, so arriving at the noon or 5pm seating is the safest play.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
     "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "romantic"
+      "romantic",
+      "curious"
     ],
-    "dietary": [],
-    "priceBand": "$$$",
+    "dietary": [
+      "gluten-free"
+    ],
+    "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 12:00-15:00, 17:00-21:00; Sun 12:00-15:00, 17:00-20:00",
-    "notes": "Located at 267 36th St / 934 3rd Ave (Industry City Building B, beside Japan Village food hall). Counter-only seating; lunch omakase ~$50/10pc reported on Yelp (sushi-uesugi-brooklyn). Signature off-menu: Yukke Don, Garlic Truffle Rice (japanvillage.com). Walk-in friendly at lunch per multiple reviews; reservations advisable for dinner.",
+    "hoursWeekend": "12:00-15:00, 17:00-21:00",
+    "notes": "Located inside Japan Village at 934 3rd Ave / 267 36th St, Brooklyn — same building as Industry City so parking validation flow carries over (japanvillage.com). Counter-only seating with Chef Kenji; walk-in friendly but the room is tiny so plan for a wait on Saturday nights (yelp.com). Lunch 10-piece omakase is $50; dinner courses scale up but generally stay $30–50/pp range, far below most Manhattan omakase counters (japanvillage.com, restaurantji.com). Weekend hours: Fri/Sat 12–3pm lunch service, 5–9pm dinner; Sun 12–3pm and 5–8pm.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T20:48:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sushi-uesugi-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T20:48:00Z"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/sushi-uesugi-/",
+        "accessed": "2026-05-18T20:48:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T13:40:03.477Z"
+    "lastResearchedAt": "2026-05-18T20:58:14.489Z"
   },
   {
     "id": "panya-bakery-industry-city",
@@ -9244,48 +9251,55 @@
   {
     "id": "sunrise-mart-japan-village",
     "name": "Sunrise Mart at Japan Village",
-    "desc": "NYC's go-to Japanese grocery — fresh ingredients, imported snacks, bento meals inside Industry City's Japan Village.",
-    "longDesc": "The Brooklyn outpost of Sunrise Mart anchors Japan Village inside Industry City Building 3, stocking imported snacks, sake, fresh sashimi-grade fish, Japanese produce, and a hot deli with onigiri and bento (industrycity.com). It's a browse-and-graze stop that pairs naturally with the Japan Village food court next door, extending an IC visit without a drive. Weekend hours run 11am-9pm Sat and 11am-8pm Sun, and Industry City's free parking lots sit a 2-minute walk away.",
+    "desc": "Largest NYC Japanese grocery inside Industry City — snacks, sashimi-grade fish, and $50 parking validation",
+    "longDesc": "Sunrise Mart's Industry City flagship is the biggest of the family-run market's NYC locations, sharing the 20,000 sq ft Japan Village hall with ramen, donburi, and udon stalls. Aisles are stacked with Japan-only Kit Kat flavors (matcha, raspberry, rum raisin), Pocky, Tohato cookies, matcha powders, frozen gyoza, plus wagyu, homemade tofu, and sashimi-grade fish counters. A ~30–45 min browse pairs naturally with a Setagaya ramen stop next door, and spending $50+ unlocks 2-hour validated parking in IC's lot — the cheaper of the two on-site validation paths.",
     "url": "https://industrycity.com/tenants/sunrise-mart/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
       "foodie",
+      "curious",
       "chill"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan"
+      "vegetarian"
     ],
-    "priceBand": "$",
+    "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
-    "notes": "Located at 934 3rd Ave, Building 3 inside Industry City's Japan Village (industrycity.com). Description from IC tenant page: 'NYC's go-to market for fresh Japanese ingredients, imported snacks, and meals' (industrycity.com). Pairs with Japan Village food court for an extended stop. Free IC lot parking, no drive from other IC stops (yelp.com 343 reviews, 4-star average).",
+    "hoursWeekend": "11:00-21:00 Sat, 11:00-20:00 Sun",
+    "notes": "Parking validation: spend $50+ at Sunrise Mart, get ticket scanned at register before leaving — 2 hours validated in the Industry City lot, available every day (Yelp, Japan Village directions). Hours: Mon–Thu & Sun 11a–8p, Fri–Sat 11a–9p (sunrisemart.com). Located at 934 3rd Ave, Brooklyn — same building as the ramen/udon/donburi stalls, so pair the browse with food without re-parking. Sashimi-grade fish, wagyu/washugyu, and homemade tofu counters in back; snack wall up front is the photo-op (amNewYork, Brooklyn Based).",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/sunrise-mart/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.japanvillage.com/directions",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-18"
       },
       {
         "url": "https://www.yelp.com/biz/sunrise-mart-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
+        "accessed": "2026-05-18"
       },
       {
-        "url": "https://www.japanvillage.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
+        "accessed": "2026-05-18"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:16:18.818Z"
+    "lastResearchedAt": "2026-05-18T21:00:16.210Z"
   },
   {
     "id": "ramen-setagaya-industry-city",
@@ -32452,16 +32466,16 @@
   {
     "id": "tadaima-industry-city",
     "name": "Tadaima",
-    "desc": "Japanese bake shop inside Industry City — matcha + black sesame sables, hojicha cookies, Nagasaki matcha lattes",
-    "longDesc": "Ayaka Ando's Japanese dessert shop on the second floor of Industry City's Building 5, baked on-site behind a window framed by an andon lantern and traditional woodwork. The menu rotates around matcha (sourced from Nagasaki) and black sesame: lattes, sable cookies, madeleines, plus yuzu lemon pound cake and a kabocha maple muffin. It is the closest Brooklyn-side fill for the Taiyaki Williamsburg gap — sit-down sweets and tea without leaving the IC anchor.",
+    "desc": "Tiny Japanese-style bakery + matcha bar inside Industry City — ceremonial matcha, black sesame latte, only 3 seats at a time.",
+    "longDesc": "Tadaima (Japanese for 'I'm home') is a Japanese-style micro-cafe and bakery tucked into Industry City Building 5, Floor 2. Famous for a well-whisked, foamy matcha latte (often a 10/10 in reviews), a creamy black sesame latte, and a maple matcha latte with a floral garnish; the owner caps occupancy at 3 guests to keep the ambiance intimate. Best treated as a quick anchor stop on the way into other IC stalls, especially since weekend hours start at 10am — one hour earlier than Panya.",
     "url": "https://www.tadaimanyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "chill",
-      "foodie",
-      "photo"
+      "curious",
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
@@ -32470,33 +32484,33 @@
     "duration": "30-45 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "10:00-16:00",
-    "notes": "On-site at IC Building 5, Floor 2 (51 35th St, Brooklyn, NY 11232) — zero drive from the anchor, free IC weekend parking applies. Thu/Fri 9-3, Sat/Sun 10-4 (japanculture-nyc.com; yelp.com/biz/tadaima-brooklyn). Mochi ice cream is NOT on the menu — this is a bake shop. Note for itinerary: Mochidoki has no Brooklyn location as of May 2026; their Soho flagship (176 Spring St) and UES (1035 3rd Ave) are Manhattan-only and the prior 1000 S 8th Ave attempt is permanently closed (yelp.com/biz/mochidoki-new-york-2). Tadaima fills the Japanese-dessert gap; for actual mochi ice cream the next-best Brooklyn move is Sunrise Mart inside Japan Village (same IC complex) for grab-and-go pints.",
+    "notes": "Researched topic was 'Hayato Coffee Sunset Park' but no such cafe exists — only 'Hayato New York' which is a Manhattan hair salon (facebook.com/HayatoNY). Substituted Tadaima as the closest real-world match for the brief's intent (early-morning Japanese matcha anchor near IC). Located at 51 35th St, Building 5, Floor 2 inside Industry City itself, so 'drive from IC' is effectively walking. Closed Mon–Wed; Thu–Fri 9:00–15:00; Sat–Sun 10:00–16:00 (yelp.com/biz/tadaima-brooklyn). Capacity capped at 3 guests so expect a short wait on weekend mornings (industrycity.com/tenants/tadaima). Parking is the standard Industry City lots and free 35th/2nd Ave street parking on weekends. Opens 1 hour earlier than Panya (11am) so it satisfies the original 'too late' concern only partially — for a true 7–9am opener consider City League Coffee on 36th St or Yafa Café on 5th Ave (both Sunset Park, both serve specialty coffee, neither serves Japanese-style matcha).",
     "sources": [
       {
-        "url": "https://www.japanculture-nyc.com/blog/japanese-dessert-shop-reopens-in-new-home-at-industry-city",
-        "accessed": "2026-05-17T19:30:00Z"
-      },
-      {
-        "url": "https://industrycity.com/tenants/tadaima/",
-        "accessed": "2026-05-17T19:30:00Z"
+        "url": "https://www.tadaimanyc.com/",
+        "accessed": "2026-05-18T20:50:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/tadaima-brooklyn",
-        "accessed": "2026-05-17T19:30:00Z"
+        "accessed": "2026-05-18T20:50:00Z"
       },
       {
-        "url": "https://mochidoki.com/pages/store-locator",
-        "accessed": "2026-05-17T19:30:00Z"
+        "url": "https://industrycity.com/tenants/tadaima/",
+        "accessed": "2026-05-18T20:50:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/mochidoki-new-york-2",
-        "accessed": "2026-05-17T19:30:00Z"
+        "url": "https://www.facebook.com/HayatoNY/",
+        "accessed": "2026-05-18T20:50:00Z"
+      },
+      {
+        "url": "https://cityleaguecoffee.com/",
+        "accessed": "2026-05-18T20:50:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T19:27:01.415Z"
+    "lastResearchedAt": "2026-05-18T20:56:16.723Z"
   },
   {
     "id": "spot-dessert-bar-east-village",
@@ -47331,5 +47345,92 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T20:47:13.260Z"
+  },
+  {
+    "id": "confidant-brooklyn-heights",
+    "name": "Confidant",
+    "desc": "Seasonal tasting + pasta from IC's former fine-dining chefs, now in Brooklyn Heights — 12 min from IC.",
+    "longDesc": "Brendan Kelley (Per Se, Aska) and Dan Grossman (The Finch, Roberta's) ran Industry City's only fine-dining room from March 2025 until they relocated the whole operation to 127 Atlantic Ave in early 2026, adding house-made pasta that nods to their Roberta's roots. The new room keeps the open wood-fired kitchen and chef's counter, with a seasonally-rotating dinner tasting alongside an a la carte menu built on dry-aged fish and meats. It's the truest IC date-night handoff — you wrap an afternoon at IC, then drive 12 minutes to the same kitchen that used to be downstairs.",
+    "url": "https://www.confidantnyc.com",
+    "photoUrl": "https://images.getbento.com/accounts/c3b76a65c647dc33eb755a1c8cdf3bc1/media/images/58158012226_-_Confidant-100.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-150 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Dinner 17:30-22:00 (confirm via site)",
+    "notes": "NOTE ON TOPIC: 'Avena Downstairs at Industry City' does not exist — no Avena venue has ever operated at IC, and the Manhattan Avena locations are largely closed (yelp.com). Industry City's only fine-dining tenant was Confidant (andreastrong.substack.com), which relocated to 127 Atlantic Ave, Brooklyn Heights in early 2026 and now serves the pasta program implied by the brief (bkmag.com). Weekend street parking on Atlantic/Henry/Hicks is feasible; municipal garage on Cadman Plaza is the safe fallback. Adjacent bakery+pizza concept Lou and Bev's (same team) is opening next door — worth pairing.",
+    "sources": [
+      {
+        "url": "https://andreastrong.substack.com/p/confidant-brings-a-flagship-restaurant",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2026/02/16/confidant-opens-brooklyn-heights/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.confidantnyc.com",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/the-best-places-to-eat-in-industry-city",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T20:51:09.768Z"
+  },
+  {
+    "id": "mr-bing-not-at-industry-city",
+    "name": "Mr. Bing (not currently at Industry City)",
+    "desc": "Defunct NYC jianbing brand — no Industry City / Japan Village stall exists; brand is now packaged chili crisp.",
+    "longDesc": "Mr. Bing built its reputation on Beijing-style jianbing (scallion-pancake-wrapped street crepes) and won a Vendy Award in 2015, but all NYC brick-and-mortar locations (230 Park Ave, 8 W 46th St, East Village) closed during the 2020 pandemic and remain marked CLOSED on Yelp as of 2026. The brand survives only as a packaged-foods business selling chili crisp at mr-bing.com. Japan Village's official vendor list at Industry City (Gohei, Hachi, Yamada, Ramen Setagaya, Panya, etc.) contains no jianbing or Chinese scallion-pancake stall, so the 'adjacent to Panya' premise does not exist on the ground.",
+    "url": "https://mr-bing.com/pages/about-1",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "n/a",
+    "driveFromIC": "n/a",
+    "hoursWeekend": "closed (no physical location)",
+    "notes": "DO NOT PROMOTE. Research confirms Mr. Bing has no Industry City presence and no operating NYC storefront as of May 2026 (yelp.com — multiple CLOSED listings). Japan Village vendor list verified directly from japanvillage.com/eat-drink — Mr. Bing is not on it. Recording this entry so the queue does not re-surface the same false lead. If a scallion-pancake-wrap stop is wanted near IC, look outside Japan Village entirely (Manhattan Chinatown Jian Bing Man would require Manhattan-only justification).",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mr-bing-new-york-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mr-bing-new-york-7",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://mr-bing.com/pages/about-1",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T20:53:43.977Z"
   }
 ]
