@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sunrise Mart Brooklyn (inside Japan Village, Industry City)",
-    "reason": "Japanese grocery anchor of Japan Village — gives the itinerary a 'browse + snack' detour after Hachi without leaving the building",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:00:13.903Z"
-  },
-  {
-    "topic": "Hi-Collar (231 E 9th St, East Village Manhattan) kissaten-by-day / sake-bar-by-night",
-    "reason": "Iconic dual-mode Japanese cafe→sake bar concept; worth a dedicated entry for users explicitly willing to cross to Manhattan for a distinctive Japanese-drinks night out.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:02:36.550Z"
-  },
-  {
-    "topic": "Sushi Katsuei Park Slope omakase / sushi counter",
-    "reason": "Top-tier Brooklyn sushi ~10 min drive from IC; pairs naturally with Sake's Bar as a two-stop evening route.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:02:36.550Z"
-  },
-  {
-    "topic": "Hibino Cobble Hill kaiseki & obento",
-    "reason": "Refined Japanese small-plates spot ~12 min from IC; expands the Japanese-cuisine track around the IC anchor without leaving Brooklyn.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:02:36.550Z"
-  },
-  {
-    "topic": "Mikkeller Brooklyn at Industry City",
-    "reason": "Adjacent Danish craft brewery in same IC complex — natural drinks stop after Japan Village browse",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:04:32.673Z"
-  },
-  {
     "topic": "Japan Village food hall stalls roundup (Takumen, Hi-Collar, Boba Guys)",
     "reason": "Deeper breakdown of the food-hall vendors so the IC anchor cluster has individual stall options, not just the umbrella entry",
     "requestedBy": "agent",
@@ -18460,5 +18430,101 @@
     "reason": "Japanese grocery for take-home snacks/sake — natural post-meal browse, extends dwell time at IC",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T16:19:36.908Z"
+  },
+  {
+    "topic": "Tea Dora mochi & dorayaki stand inside Japan Village",
+    "reason": "Same-building dessert stop that extends the browse-and-snack arc after Sunrise Mart",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:21:23.273Z"
+  },
+  {
+    "topic": "Osakana fishmonger & sushi counter at Japan Village Industry City",
+    "reason": "Adjacent specialty vendor inside Japan Village; rounds out the Japanese-food-hall cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:21:23.273Z"
+  },
+  {
+    "topic": "Industry City courtyard weekend programming and outdoor seating",
+    "reason": "Connective tissue between Japan Village and the rest of IC; helps schedule the post-snack pause",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:21:23.273Z"
+  },
+  {
+    "topic": "Sake Bar Decibel (240 E 9th St, basement sake speakeasy 2 doors from Hi-Collar)",
+    "reason": "Same-block East Village pairing — pre-game at Hi-Collar cafe, sake crawl to Decibel; lets a single Manhattan trip cover two distinct sake experiences",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:24:23.730Z"
+  },
+  {
+    "topic": "Sunrise Mart (4 Stuyvesant St) Japanese grocery walking distance from Hi-Collar",
+    "reason": "Pairs with Hi-Collar daytime visit; adds a 'pick up Japanese pantry items before driving back to Brooklyn' beat that justifies the trip beyond a single sit-down",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:24:23.730Z"
+  },
+  {
+    "topic": "Tomoe Sushi or Raku (East Village handmade udon, ~5-min walk)",
+    "reason": "Anchors a full East Village Japanese-food micro-track around Hi-Collar so the Manhattan crossing yields a 3-stop cluster, matching Saturfun's track-as-geographic-cluster model",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:24:23.730Z"
+  },
+  {
+    "topic": "Sake's Bar Park Slope sake list and late-night hours",
+    "reason": "Already named as the natural Katsuei pairing — needs its own entry to complete the two-stop Park Slope evening route",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:26:14.325Z"
+  },
+  {
+    "topic": "Ichiran Ramen / Sakagura Park Slope alternative for ramen-style track",
+    "reason": "Lower-price Japanese counterweight in the same zone for diners who want the cluster without the omakase price band",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:26:14.325Z"
+  },
+  {
+    "topic": "Hugo & Sons or Convivium Osteria Park Slope date-night Italian",
+    "reason": "Cross-cuisine 7th Ave anchor for a non-Japanese version of the same Park Slope evening cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:26:14.325Z"
+  },
+  {
+    "topic": "Ki Sushi Cobble Hill — Smith Street omakase and rolls",
+    "reason": "Adjacent Japanese option in same Cobble Hill cluster for when Hibino is closed Wed/Sun",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:28:04.213Z"
+  },
+  {
+    "topic": "Chuko Ramen Prospect Heights — chef-driven ramen counter",
+    "reason": "Adds a casual ramen counterpart to the kaiseki/obanzai end of the Japanese track within 15-min drive of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:28:04.213Z"
+  },
+  {
+    "topic": "Bar Goto Niban Park Slope — izakaya and Japanese cocktails",
+    "reason": "Pairs an evening izakaya/drinks stop in the same driving radius to extend a Japanese-themed track past dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:28:04.213Z"
+  },
+  {
+    "topic": "Brooklyn Kura sake brewery at Industry City (68 34th St)",
+    "reason": "Adjacent IC drinks stop with a different beverage angle — premium craft sake brewed on-site, taproom with guided flights; fits Japan Village → sake → Gun Hill as a coherent IC drinks micro-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:32:09.060Z"
+  },
+  {
+    "topic": "Big aLICe Brewing Industry City tasting room and barrel room",
+    "reason": "Third on-site IC brewery — experimental small-batch program complements Gun Hill, useful as alternate or second stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:32:09.060Z"
+  },
+  {
+    "topic": "Strong Rope Brewery (Red Hook) — farmhouse-leaning Brooklyn brewery 8 min drive from IC",
+    "reason": "Closest off-campus brewery alternative for users who want to extend beyond IC into Red Hook cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:32:09.060Z"
+  },
+  {
+    "topic": "Remove/flag dead entry: Mikkeller Brooklyn — venue does not exist; closed 2020 at Citi Field location",
+    "reason": "Corpus hygiene: prevent re-enqueue of nonexistent venue from chat-suggested topics",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:32:09.060Z"
   }
 ]

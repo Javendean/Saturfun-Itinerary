@@ -12152,44 +12152,44 @@
   },
   {
     "id": "sunrise-mart-brooklyn",
-    "name": "Sunrise Mart Brooklyn (Japan Village)",
-    "desc": "Japanese grocery inside Japan Village — onigiri, bento, sushi-grade fish, sake; 30 seconds from JTunes Karaoke",
-    "longDesc": "Sunrise Mart Brooklyn anchors Japan Village's market half with ready-made onigiri, prepared bento, sushi-grade fish, snacks, and a deep Japanese pantry — the practical 'order into your JTunes room' shop because it sits in the same Industry City building as JTunes Karaoke. Grab a bento and onigiri set, a tray of sashimi from the fish counter, plus chu-hi or canned sake from the cooler, and carry it across the courtyard into your karaoke booking without the food cooling. Free NYC delivery on orders over $100, 7 days a week, makes it a viable pre-order anchor for larger JTunes parties.",
-    "url": "https://shop.japanvillage.com/",
+    "name": "Sunrise Mart Brooklyn",
+    "desc": "NYC's largest Japanese grocery — imported snacks, fresh sashimi, and prepared meals inside Japan Village.",
+    "longDesc": "The biggest Sunrise Mart in the city, anchoring the 20,000 sq ft Japan Village market-hall hybrid at Industry City. Aisles of imported snacks, Japanese pantry staples, fresh produce, sashimi-grade fish, sake, and ready-to-eat bento — perfect for a low-pressure browse-and-snack detour between Hachi and the next stop without leaving Building 3.",
+    "url": "https://industrycity.com/tenants/sunrise-mart/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie",
       "chill",
-      "curious"
+      "curious",
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "0 min (inside Industry City)",
-    "hoursWeekend": "Sat 11:00-21:00; Sun 11:00-20:00",
-    "notes": "Located at 934 3rd Ave, Brooklyn 11232, inside Industry City Buildings 3 & 4 — same complex as JTunes Karaoke and the Japan Village courtyard (japanvillage.com/eat-drink). Sells fresh produce, sushi-grade fish, ready-made meals, snacks, condiments, and cosmetics (japanvillage.com/eat-drink). Online store advertises 'NOW DELIVERING 7 DAYS A WEEK' with free NYC local delivery on orders over $100, item prices roughly $2.39–$16.99 with most pantry items $3–$8 (shop.japanvillage.com). For JTunes pairings: bento + onigiri + a tray of sashimi + canned sake/chu-hi assembles a $40–60 in-room dinner per couple without leaving the building. Hot food upgrades available next door at Obentoyasan and Ramen Setagaya inside the same hall.",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Located at 934 3rd Ave, Building 3, inside Japan Village; Fri-Sat 11am-9pm, Sun 11am-8pm (industrycity.com). Largest Sunrise Mart in NYC at 20,000 sq ft market-food hall hybrid (amny.com). Pairs naturally with Hachi ramen and Tea Dora mochi in the same complex; on-site weekend parking at IC.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://industrycity.com/tenants/sunrise-mart/",
+        "accessed": "2026-05-18T16:25:00Z"
       },
       {
-        "url": "https://shop.japanvillage.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-18T16:25:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
+        "accessed": "2026-05-18T16:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T14:48:05.428Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T16:21:23.234Z"
   },
   {
     "id": "mokbar-chelsea-market",
@@ -26142,42 +26142,48 @@
   {
     "id": "hibino-cobble-hill",
     "name": "Hibino",
-    "desc": "Kyoto-style obanzai, fresh house-made tofu, and sushi — a 10-min drive from IC and 5 min from Brooklyn Strategist.",
-    "longDesc": "Tiny Cobble Hill Japanese spot open since 2007, serving daily-changing obanzai small plates ($5 each, written on chalkboards), fresh tofu made in-house, and traditional plus new-style sushi. Perfect early dinner after an afternoon at Brooklyn Strategist — closed Sundays/Wednesdays, no reservations, so arrive at the 4:30 PM open or expect a short wait.",
+    "desc": "Cobble Hill Kyoto-style obanzai, daily fresh tofu, and crafted lunch obento boxes from $17.",
+    "longDesc": "Hibino is a refined Japanese small-plates spot at 333 Henry St in Cobble Hill, open since 2007 and known for making fresh homemade tofu daily and serving Kyoto-style o-ban-zai (Japanese tapas) alongside sushi in traditional and new styles. The lunch obento box pairs an entrée of the day with mini obanzai, miso soup, rice, and salad from $17; seasonal obanzai and premium sushi cuts often sell out early, so checking the daily specials board pays off.",
     "url": "https://hibino-brooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
       "foodie",
-      "chill"
+      "curious",
+      "romantic"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$$",
-    "duration": "75-90 min",
+    "duration": "60-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 12:00-14:30, 16:30-22:00; closed Sun",
-    "notes": "Corner of Henry & Pacific, ~5 min drive from Brooklyn Strategist on Court St. Cash-friendly small room, no reservations — arrive at 4:30 PM open for an early dinner slot. Daily obanzai chalkboard rotates; tonkatsu and house tofu are signatures (theinfatuation.com). Weekend street parking on Pacific or Clinton is usually available; metered on Henry. Pairs well with afternoon gaming since you can hold the table after a board-game session without rushing.",
+    "hoursWeekend": "Fri-Sat 12:00-14:30, 16:30-22:00; Sun closed",
+    "notes": "Daily fresh house-made tofu and Kyoto obanzai are the signature draw (hibino-brooklyn.com). Lunch obento from $17 with entrée + mini obanzai + miso + rice + salad (Yelp). Closed Wed and Sun — weekend window is Fri+Sat only, so route weekend itineraries to Sat lunch or dinner. Street parking on Henry/Atlantic side streets is realistic on weekends.",
     "sources": [
       {
         "url": "https://hibino-brooklyn.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T16:30:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/hibino-cobble-hill",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.yelp.com/biz/hibino-brooklyn",
+        "accessed": "2026-05-18T16:30:00Z"
+      },
+      {
+        "url": "https://hibino-brooklyn.com/pdf/hibino_menu_lunch.pdf",
+        "accessed": "2026-05-18T16:30:00Z"
       },
       {
         "url": "https://www.opentable.com/r/hibino-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T16:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T09:28:55.261Z"
+    "lastResearchedAt": "2026-05-18T16:28:04.176Z"
   },
   {
     "id": "littleman-parking-262-s-4th",
@@ -44414,5 +44420,149 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T16:17:38.119Z"
+  },
+  {
+    "id": "hi-collar-east-village",
+    "name": "Hi-Collar",
+    "desc": "East Village dual-mode: Western-Japanese kissaten by day, sake + Japanese-whisky bar with nightly jazz by night",
+    "longDesc": "T.I.C. Restaurant Group's tiny 231 E 9th St kissaten serves hand-brewed siphon/pour-over/AeroPress coffee with omurice and Japanese-style pancakes from 11:30am–4pm, then 'abandons its high collars' at 5:30pm and reopens as Hi-Collar Bar with a deep sake list, Japanese whisky, and live jazz nightly 7:30–10pm. It is one of the only authentic kissaten→sake-bar conversions in NYC, which is the specific reason it earns a Manhattan crossing on a Saturfun itinerary (hi-collar.com, timeout.com).",
+    "url": "https://www.hi-collar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "east-village",
+    "vibe": [
+      "curious",
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Cafe Sat-Sun 11:30-16:00 (LC 15:30); Bar Sat-Sun 17:30-23:00 (LC 22:30); 4:00-5:30pm transition gap",
+    "notes": "Pair the cafe leg (siphon coffee + omurice) with a daytime East Village walk, or arrive at 5:30pm for the sake-bar opening — the space transformation is the experience. Live jazz 7:30-10pm nightly is a real draw, not background music (hi-collar.com). Drive from Industry City is ~22-28 min via Battery Tunnel + FDR (toll) or Manhattan Bridge + Bowery (free, slower on weekends). Parking is the friction: no dedicated lot, metered street on E 9th and surrounding blocks; closest paid garages on E 11th and Cooper Square. Small footprint — walk-in only, can fill at peak; weekday lunch (Mon-Wed) is walk-in by policy. Reviews consistently flag 'small, quiet, stylish, not for rowdy drinkers' (theinfatuation.com, yelp).",
+    "sources": [
+      {
+        "url": "https://www.hi-collar.com/",
+        "accessed": "2026-05-18T16:30:00.000Z"
+      },
+      {
+        "url": "https://www.tic-nyc.com/hicollar",
+        "accessed": "2026-05-18T16:30:00.000Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/hi-collar",
+        "accessed": "2026-05-18T16:30:00.000Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/hi-collar",
+        "accessed": "2026-05-18T16:30:00.000Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hi-collar-new-york-2",
+        "accessed": "2026-05-18T16:30:00.000Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:24:23.691Z"
+  },
+  {
+    "id": "sushi-katsuei-park-slope",
+    "name": "Sushi Katsuei (Park Slope)",
+    "desc": "Park Slope sushi counter doing open-style omakase — 90% fish flown in from Japan.",
+    "longDesc": "Opened in 2014 on 7th Ave, Katsuei was NYC's first 'open omakase' concept — chef calls each course at the counter while à-la-carte diners eat alongside. Sushi omakase runs $57, sushi+sashimi $77, with most fish sourced from Toyosu/Tsukiji. A natural sushi-counter pair with a Sake's Bar nightcap two blocks over.",
+    "url": "https://www.sushikatsuei.com/parkslope-brooklyn-ny/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "gluten-free"
+    ],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "16:00-21:30",
+    "notes": "210 7th Ave at 3rd St; sushi-bar seats are reserved for the omakase experience, tables welcome walk-ins; closed Tuesdays (sushikatsuei.com). 90% of fish imported from Japan, much from Tsukiji (theinfatuation.com). Street parking only — Park Slope side streets are workable on a Saturday evening but plan 5-10 min buffer.",
+    "sources": [
+      {
+        "url": "https://www.sushikatsuei.com/parkslope-brooklyn-ny/",
+        "accessed": "2026-05-18T16:25:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/sushi-katsuei",
+        "accessed": "2026-05-18T16:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sushi-katsuei-brooklyn",
+        "accessed": "2026-05-18T16:25:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/sushi-katsuei-brooklyn",
+        "accessed": "2026-05-18T16:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:26:14.289Z"
+  },
+  {
+    "id": "gun-hill-brewing-industry-city",
+    "name": "Gun Hill Brewing (Industry City Taproom / Publick House)",
+    "desc": "On-site Bronx-born brewery at IC Building 6 — small-batch beers exclusive to this taproom, walkable from Japan Village.",
+    "longDesc": "Gun Hill Brewing Company, a Bronx-based microbrewery, opened its first Brooklyn outpost at Industry City in a 6,249 sq ft taproom inside Building 6, branded as the Gun Hill Publick House. The space features an on-site brewhouse producing small-batch beers available only at this location alongside Gun Hill flagships, with a publick-house food menu — making it a natural drinks pivot a 3-minute walk from Japan Village without ever leaving the IC complex.",
+    "url": "https://www.gunhillpublickhouse.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "12:00-22:00",
+    "notes": "IMPORTANT CORRECTION: the source topic 'Mikkeller Brooklyn at Industry City' is inaccurate — Mikkeller NYC closed permanently in October 2020 and its only NYC site was at Citi Field in Queens, never Industry City (Good Beer Hunting, Brewbound). Gun Hill Brewing's IC taproom (Building 6, 68 34th St) is the actual on-site brewery analog (Brewer Magazine; craftbrewingbusiness.com). Walkable in ~3 min from Japan Village (Building 4); shared IC parking lot at 37th & 2nd Ave with weekend availability. Tue-Fri 1pm-10pm, Sat-Sun 12pm-10pm. Food menu present (Publick House format).",
+    "sources": [
+      {
+        "url": "https://thebrewermagazine.com/gun-hill-joins-growing-roster-at-industry-city-complex/",
+        "accessed": "2026-05-18T16:25:00Z"
+      },
+      {
+        "url": "https://www.craftbrewingbusiness.com/business-marketing/bronxs-gun-hill-brewing-opens-taproom-in-brooklyns-industry-city/",
+        "accessed": "2026-05-18T16:25:00Z"
+      },
+      {
+        "url": "https://www.gunhillpublickhouse.com/",
+        "accessed": "2026-05-18T16:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gun-hill-publick-house-brooklyn",
+        "accessed": "2026-05-18T16:25:00Z"
+      },
+      {
+        "url": "https://www.brewbound.com/news/mikkeller-brewing-nyc-permanently-closes/",
+        "accessed": "2026-05-18T16:25:00Z"
+      },
+      {
+        "url": "https://www.goodbeerhunting.com/sightlines/2020/10/23/closure-of-mikkeller-nyc-spurred-by-confusion-over-ownership",
+        "accessed": "2026-05-18T16:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T16:32:09.017Z"
   }
 ]
