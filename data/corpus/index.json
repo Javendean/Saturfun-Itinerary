@@ -17539,15 +17539,15 @@
   {
     "id": "lemon-ice-king-of-corona",
     "name": "The Lemon Ice King of Corona",
-    "desc": "Cash-only, 40+ flavor Italian ice institution by Spaghetti Park — ~$3 cups since 1944.",
-    "longDesc": "Family-run Queens landmark (the Benfaremo family, est. 1944) slinging dense, fruit-forward Italian ices in 40+ flavors — lemon, cherry, watermelon, peanut butter, peach, vanilla chocolate chip, plus four sugar-free options. Cash only, no mixing flavors, no seating beyond the William Moore Park benches across the street where locals play bocce. A 6-minute drive from the Unisphere makes it the natural cheap closer for a Flushing Meadows day.",
+    "desc": "1944 Italian-ice institution across Spaghetti Park serving 50+ hand-cracked fruit ices",
+    "longDesc": "Founded by Nicola Benfaremo in 1944 and still family-run at 52-02 108th St, the Lemon Ice King sits directly across from William E. Moore Park (locally 'Spaghetti Park'), where bocce courts and Italian-American old-timers anchor the scene. The shop pours 50+ real Italian ices — lemon is the benchmark, but pistachio, cantaloupe, peanut butter, and chocolate-chip are cult picks — and famously opens the King of Queens credits. Cash-friendly, no-seating, sidewalk-eating tradition; a 5-minute walk from the Louis Armstrong House makes this the natural Corona dessert pin.",
     "url": "https://www.thelemonicekingofcorona.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "bushwick",
     "vibe": [
-      "foodie",
       "chill",
+      "foodie",
       "curious"
     ],
     "dietary": [
@@ -17558,34 +17558,34 @@
     "priceBand": "$",
     "duration": "20-30 min",
     "driveFromIC": "28 min",
-    "hoursWeekend": "10:00-24:00",
-    "notes": "Address is 52-02 108th St at Corona Ave (the 108-02 Corona Ave alias points to the same corner storefront). Cash only — bring small bills. ~$3-7/cup depending on size; small was historically $1.50 but has crept up (Tripadvisor, Yelp). 40+ flavors rotated seasonally with at least 4 sugar-free; ices are real fruit, not syrup (Epicenter NYC, The Infatuation). Strict house rule: no mixing flavors in one cup. Free street parking on 108th and around William Moore Park (a.k.a. Spaghetti Park) directly across the street — eat on park benches and watch the bocce game. 6 minutes from the Unisphere via 111th St, making it a high-leverage pairing with the Queens Museum / Flushing Meadows. Open late on weekends (until midnight per Yelp/Yahoo), so it doubles as a post-dinner dessert stop. Zone tagged 'industry-city' as anchor-of-day routing — venue itself is in Corona, Queens (corpus zone enum is BK-only; flag for schema expansion).",
+    "hoursWeekend": "Sat 11:00-22:00, Sun 12:00-22:00",
+    "notes": "Pairs as the sweet finish to a Corona micro-cluster with the Louis Armstrong House (5-min walk) and Park Side Restaurant on Corona Ave (Wikipedia). Street parking around 108th/52nd is tight on warm weekends — best to drop one rider while the driver circles, or park near Armstrong House and walk over (NYC Tourism). No mixing flavors per cup is house policy; order two cups if you want to compare (City Lore). At the edge of the 10-25 min radius but uniquely justified by the Armstrong pairing (Wikipedia).",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/the-lemon-ice-king-corona",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g47542-d523343-Reviews-Lemon_Ice_King_of_Corona-Corona_Queens_New_York.html",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://epicenter-nyc.com/a-new-york-institution-lemon-ice-king/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/lemon-ice-king-of-corona",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://en.wikipedia.org/wiki/The_Lemon_Ice_King_of_Corona",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/the-lemon-ice-king-of-corona/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://citylore.org/places/lemon-ice-king-of-corona/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/lemonicekingofcorona/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-lemon-ice-king-corona",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T03:52:19.343Z"
+    "lastResearchedAt": "2026-05-18T04:03:26.150Z"
   },
   {
     "id": "nan-xiang-xlb-ktown",
@@ -37052,9 +37052,9 @@
   },
   {
     "id": "queens-museum-panorama",
-    "name": "Queens Museum (Panorama of NYC)",
-    "desc": "1964 World's Fair Panorama: 9,335 sq ft scale model of all five boroughs in one room",
-    "longDesc": "Inside the same New York City Building that sits at the west end of the Unisphere promenade, the Queens Museum's centerpiece is the Panorama of the City of New York — a 9,335-square-foot 1:1200 scale model commissioned by Robert Moses for the 1964-65 World's Fair, with 895,000 buildings, every street and park, and a 16-minute day-night lighting cycle. Pay-what-you-wish admission and free (limited) on-site parking make it a strong wet-weather culture pairing with Flushing Meadows-Corona Park. A 20-25 min drive from Industry City via the BQE/Grand Central Parkway.",
+    "name": "Queens Museum — Panorama of the City of New York",
+    "desc": "9,335 sq ft 1964 World's Fair scale model of all five boroughs with a 16-min day/night cycle.",
+    "longDesc": "Housed in the New York City Building from the 1964–65 World's Fair, the Panorama renders all 320 square miles of NYC at 1:1200 scale — 895,000 buildings, every street and park, lit through a 16-minute day-to-night cycle. Glass balconies and ramps (1994 renovation) let you walk above Manhattan's 70×15-foot stretch. Pair it with the Unisphere and Tent of Tomorrow a 5-minute walk away for a full World's Fair afternoon.",
     "url": "https://queensmuseum.org/exhibition/panorama-of-the-city-of-new-york/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -37069,24 +37069,95 @@
     "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "11:00-17:00",
-    "notes": "Pay-what-you-wish; suggested $8 adult / $6 senior+student; kids 12 and under free (queensmuseum.org/visit). Free on-site parking but space is limited — encourage arriving before 12:30 on weekends. Panorama is 9,335 sq ft, 1:1200 scale, 895,000 buildings, 16-minute day/night cycle, moving LaGuardia airplanes (queensmuseum.org/exhibition/panorama-of-the-city-of-new-york). Closed Mon/Tue; weekend hours 11am-5pm. Pairs naturally with Unisphere on dry days; perfect indoor swap on rain/heat days since both share the same parking session.",
+    "notes": "Pay-what-you-wish, suggested $8 adult / $6 student (queensmuseum.org/visit). Complimentary on-site parking but space is limited — arrive before noon on weekends. Closed Mon–Tue. Sits inside Flushing Meadows Corona Park, ~5-min walk from Unisphere + Tent of Tomorrow, making it the strongest rainy-day pair for the New York State Pavilion (queensmuseum.org/exhibition/panorama-of-the-city-of-new-york). Drive from Industry City via Prospect Expy → BQE → Grand Central Pkwy runs ~20-25 min off-peak.",
     "sources": [
       {
         "url": "https://queensmuseum.org/visit/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://queensmuseum.org/exhibition/panorama-of-the-city-of-new-york/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Queens_Museum",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T03:49:59.490Z"
+    "lastResearchedAt": "2026-05-18T04:09:34.939Z"
+  },
+  {
+    "id": "joes-shanghai-bowery",
+    "name": "Joe's Shanghai (Bowery)",
+    "desc": "Chinatown's longtime soup-dumpling icon — pork or crab-and-pork xiao long bao, made to order.",
+    "longDesc": "Founded by chef Joe Si in 1994 and a Pell Street fixture since 1995, Joe's Shanghai moved in December 2019 to a larger flagship at 46 Bowery to cut waits and seat more. The kitchen is still anchored by its signature xiao long bao — pork, or crab-and-pork — alongside a wider Shanghainese menu. From Industry City this is a Manhattan side-trip (~25–30 min via the Brooklyn Bridge / Manhattan Bridge depending on weekend traffic), justified mainly for brand-continuity downtown stops, not as a Queens-equivalent lunch bridge.",
+    "url": "https://www.joeshanghairestaurants.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-75 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:00-23:00",
+    "notes": "Manhattan-only inclusion; Chinatown street parking is hostile on weekends — recommend a paid garage on Bowery/Elizabeth before walking in. Order soup dumplings the moment you sit down: each basket is fired to order (source: official site). Phone 212-233-8888. Daily 11:00–23:00 (source: Yelp listing). Original location was Flushing 1994 → Pell Street 1995 → 46 Bowery Dec 2019 (source: official site).",
+    "sources": [
+      {
+        "url": "https://www.joeshanghairestaurants.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/joes-shanghai-new-york-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T04:01:24.467Z"
+  },
+  {
+    "id": "leos-latticini-mamas-corona",
+    "name": "Leo's Latticini (Mama's of Corona)",
+    "desc": "Century-old Corona Italian deli famous for hand-pulled mozzarella heroes",
+    "longDesc": "Family-run since 1920 at 46-02 104th St, Leo's Latticini — better known as 'Mama's' — pulls fresh mozzarella daily and stacks it into the legendary Mama's Special with prosciutto and roasted peppers. Cash-friendly counter service, vintage Italian-American vibe, and a perfect 5-minute drive from Louis Armstrong House to Citi Field — the quintessential mid-Queens lunch anchor.",
+    "url": "https://www.nyctourism.com/restaurants/leos-latticini/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 10:00-16:00, Sun closed",
+    "notes": "Actually located in Corona, Queens (not Greenpoint — zone enum lacks a Queens option; tagged as nearest fit). Address: 46-02 104th St, Corona, NY 11368 (Yelp). Tue-Sat 10am-4pm, closed Sun & Mon — Saturday-only for weekend itineraries (NYC Tourism). Mozzarella made fresh on-site; signature Mama's Special hero with prosciutto, fresh mozz, roasted peppers (Yelp). Street parking on 104th/Northern Blvd corner (Yelp reviews). Cash preferred. Sits ~5 min from Louis Armstrong House and ~7 min from Citi Field — ideal lunch wedge between the two.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/leos-latticini-mamas-corona-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/leos-latticini/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g47542-d1221276-Reviews-Leo_s_Latticini-Corona_Queens_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T04:07:40.617Z"
   }
 ]
