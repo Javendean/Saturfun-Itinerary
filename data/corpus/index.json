@@ -9582,10 +9582,10 @@
   },
   {
     "id": "brooklyn-clay-industries",
-    "name": "Brooklyn Clay Industries — One-Time Class",
-    "desc": "Drop-in $85 pottery class (wheel or hand-build) at a Navy Yard studio, weekends 12–6:30pm.",
-    "longDesc": "Brooklyn Clay Industries runs single-session pottery classes for $85/person in Building 62 of the Brooklyn Navy Yard — choose wheel-throwing or hand-building, with some BYOB and complimentary-wine sessions. Slots run Saturday and Sunday between 12:00 and 6:30pm; the studio also offers 8/12-week courses and private lessons if you want to go deeper.",
-    "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
+    "name": "Brooklyn Clay Industries",
+    "desc": "BYOB one-time pottery wheel or hand-building class inside the Brooklyn Navy Yard.",
+    "longDesc": "A working ceramics studio in Building 62 of the historic Brooklyn Navy Yard offering $85 drop-in classes in either wheel-throwing or hand-building, plus 12-week courses and private master classes. Weekend sessions run all afternoon and are explicitly BYOB, so it doubles as a low-key social activity. Note: this is Navy Yard, not Red Hook — it complements rather than replaces a Red Hook-side ceramics stop.",
+    "url": "https://www.brooklynclayindustries.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
@@ -9595,24 +9595,24 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "22 min",
+    "duration": "2 hr",
+    "driveFromIC": "20 min",
     "hoursWeekend": "12:00-18:30",
-    "notes": "NOTE: Topic said Gowanus but the actual studio is at 63 Flushing Ave., Building 62, Suite 306, in the Brooklyn Navy Yard — not Gowanus (source: brooklynclayindustries.com). Drive from Industry City is ~22 min via Prospect Expy / BQE, longer in weekend traffic. One-time classes are $85 flat; bi-weekly new listings so check the calendar with blue dots (source). BYOB on most sessions, occasional complimentary wine. If user specifically wants a Gowanus studio, alternatives include The Pottery Studio (9th St) and Slow Burn Ceramics (65 15th St #2f) — both queued below.",
+    "notes": "Address: 63 Flushing Ave, Building 62, Suite 306 — inside the Brooklyn Navy Yard, accessed via the Cumberland Gate (source: brooklynclayindustries.com). One-time class $85, choose Intro to Pottery Wheel or Hand Building, BYOB (source: brooklynclayindustries.com/classes/one-time-class). Navy Yard has on-site weekend parking lots (Building 77 / Lot G). IMPORTANT: topic specified 'Red Hook' but the studio is in the Brooklyn Navy Yard — for a true Red Hook ceramics option, see Clayworks on Columbia in the enqueue.",
     "sources": [
       {
-        "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.brooklynclayindustries.com/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.brooklynclayindustries.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.brooklynclayindustries.com/classes/one-time-class",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T01:18:26.345Z"
+    "lastResearchedAt": "2026-05-18T19:59:06.637Z"
   },
   {
     "id": "choplet-greenpoint",
@@ -21976,50 +21976,41 @@
   },
   {
     "id": "the-pottery-studio-gowanus",
-    "name": "The Pottery Studio — Gowanus",
-    "desc": "10,000 sq ft cone-10 reduction studio on 9th St; one-off classes + monthly memberships, not walk-in drop-in.",
-    "longDesc": "The Pottery Studio's Brooklyn outpost occupies 10,000 sq ft on the Gowanus canal stretch of 9th Street and is one of the few NYC class studios that fires cone 10 reduction, the high-temperature firing that produces serious stoneware glazes. Access is by scheduled class (Intro/Returning/Intermediate Wheelthrowing, plus Sunday sessions) or by monthly membership ($155 pack-in/pack-out up to $235 top shelf with 24-hour access). It is not a casual walk-in drop-in — book a class slot in advance.",
+    "name": "The Pottery Studio (Gowanus 9th Street)",
+    "desc": "Cone-10 reduction wheel studio on 9th St; monthly 2-hr Saturday/Sunday classes, not true drop-in",
+    "longDesc": "The Pottery Studio's Brooklyn outpost at 43C 9th Street in Gowanus runs 2-hour Introduction to Wheelthrowing and Returning Wheelthrowing classes on Saturdays (11am-1pm, 3pm-5pm) and Sundays (3pm-5pm) at $235 for the monthly block, with clay and firing included. It fires cone 10 reduction and is one of the few NYC studios doing so. Note: this is a 4-week enrollment rather than a single-session drop-in — you commit to a recurring weekend slot, not a one-off taster.",
     "url": "https://thepotterystudio.com/pages/brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "curious",
-      "chill",
-      "active"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-3 hr",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "10:00-22:00",
-    "notes": "Address 43C 9th St, Brooklyn NY 11215, on the south bank of the Gowanus Canal between 2nd and 3rd Ave (thepotterystudio.com/pages/brooklyn). Cone 10 reduction firing — technically unusual for a class studio (Yelp listing, REQCE project page). Class registration via the Brooklyn Classes collection page. Membership tiers: No-Shelf $155, Locker $165, 3' Shelf $185, Regular Shelf $205, 3' Top $215, Top Shelf $235; firing $1.25/lb under 12\" and $2.25/lb above, 40 lb cap. Apple Maps lists daily 10:00–22:00 but verify with studio before routing a guest. Street parking on 9th/Hoyt/Bond is realistic on weekends; the Gowanus Whole Foods garage two blocks east is the reliable backup.",
+    "duration": "2 hr",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 11:00-17:00, Sun 15:00-17:00",
+    "notes": "Address: 43C 9th Street, Brooklyn NY 11215, on the Park Slope/Gowanus border (4th Ave side). Classes are $235/month for 4× 2-hr sessions, includes clay + firing (https://thepotterystudio.com/collections/the-pottery-studio-classes-brooklyn/class). Studio also offers shelf/locker memberships from $155/mo (https://thepotterystudio.com/pages/brooklyn). Firing fees $1.25/lb up to 12\", $2.25/lb above. Cone 10 reduction firing — distinctive for NYC. Caveat: no true drop-in/one-off — if a one-time wheel class is the goal, see enqueue alternatives. Weekend street parking on 9th St/2nd-3rd Ave is realistic.",
     "sources": [
       {
         "url": "https://thepotterystudio.com/pages/brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://thepotterystudio.com/collections/the-pottery-studio-classes-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://thepotterystudio.com/collections/the-pottery-studio-classes-brooklyn/class",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-pottery-studio-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.reqce.com/projects/the-pottery-studio-opens-its-doors-in-gowanus",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://maps.apple.com/place?place-id=I37CB331D9BB57043",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T02:03:56.451Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:56:57.590Z"
   },
   {
     "id": "urbanglass-downtown-brooklyn",
@@ -28153,9 +28144,9 @@
   },
   {
     "id": "variety-coffee-graham-ave",
-    "name": "Variety Coffee Roasters — Graham Ave",
-    "desc": "Flagship East Williamsburg roastery cafe — original 2008 location, calmer parking than Bedford Ave.",
-    "longDesc": "The original Variety Coffee Roasters, opened 2008 on Graham Ave between Conselyea and Skillman, anchors a quieter East Williamsburg stretch with significantly easier weekend street parking than the N 6th/Bedford corridor. Espresso-forward menu from their own roastery with light pastries; long opening hours make it a flexible Saturday anchor before driving deeper into Brooklyn. The flagship of nine NYC Variety locations.",
+    "name": "Variety Coffee Roasters (Graham Ave)",
+    "desc": "Williamsburg specialty roaster with roomy sit-down seating, sofas, and Ovenly pastries — pre-class friendly.",
+    "longDesc": "Variety's Graham Avenue flagship (open since 2008) is a clean, modern East Williamsburg cafe with a notably larger footprint than Grumpy: communal sofas, mixed high/low seating, a back room with wifi for working, and sidewalk seating that's dog-friendly. House-roasted espresso and drip plus pastries from Brooklyn's Ovenly. Open 7am–9pm daily, making it equally viable as an early pre-class anchor or a late wind-down stop.",
     "url": "https://varietycoffeeroasters.com/pages/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -28167,29 +28158,29 @@
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$",
+    "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "07:00-21:00",
-    "notes": "368 Graham Ave, Brooklyn NY 11211; phone 347-599-2326 (varietycoffeeroasters.com). Daily 7am–9pm per Yelp listing (yelp.com/biz/variety-brooklyn-3). Graham Ave between Conselyea/Skillman has metered + residential street parking that turns over faster on weekends than Bedford/N 6th. Drive from Industry City ~18 min via Prospect Expy → BQE.",
+    "notes": "368 Graham Ave is the Williamsburg location, NOT Greenpoint (the prompt title conflated the two — Variety's Greenpoint shop is at 142 Driggs Ave on McGolrick Park). Phone 347-599-2351. Larger seating footprint than Grumpy Greenpoint per reviews citing 'lots of space inside' with sofas and a back work area (tripadvisor). Weekend street parking on Graham/Withers/N1st is generally feasible — easier than Greenpoint's McGolrick Park location. Pastries from Ovenly (local Brooklyn bakery). Opened 2008 as Variety's original cafe (varietycoffeeroasters.com/pages/about).",
     "sources": [
       {
         "url": "https://varietycoffeeroasters.com/pages/locations",
-        "accessed": "2026-05-18T14:00:00Z"
+        "accessed": "2026-05-18T19:55:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d2329259-Reviews-Variety-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T19:55:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/variety-brooklyn-3",
-        "accessed": "2026-05-18T14:00:00Z"
-      },
-      {
-        "url": "https://www.bestcoffee.guide/pages/cafe-variety-graham-ave-us-2942",
-        "accessed": "2026-05-18T14:00:00Z"
+        "accessed": "2026-05-18T19:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T14:01:02.979Z"
+    "lastResearchedAt": "2026-05-18T19:52:18.175Z"
   },
   {
     "id": "sauvage-greenpoint",
@@ -46812,5 +46803,87 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T19:47:28.383Z"
+  },
+  {
+    "id": "choplet-ceramics-greenpoint",
+    "name": "Choplet Ceramic Studio (Greenpoint)",
+    "desc": "Sunday 10am One-Day Wheel Throwing workshop, 2 hrs, $90, one piece glazed and fired included",
+    "longDesc": "Choplet's Greenpoint studio (opened Nov 2025) at 121 Meserole Ave runs a beginner-friendly One-Day Wheel Throwing workshop on weekend mornings — a single 2-hour session with a skilled instructor, capped around 12-13 students, with a 15-minute cleanup window built in. The $90 price includes one piece that staff clean, glaze with a shiny white finish, and fire; pickup is roughly 4 weeks later. No prior experience required, clay and tools provided.",
+    "url": "https://choplet.com/custom_classes/one-day-wheel-throwing-2/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr (incl. 15 min cleanup)",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "10:00-22:00 (Sun)",
+    "notes": "Address: 121 Meserole Ave, Brooklyn, NY 11222, btwn Leonard St & Manhattan Ave (choplet.com/contact-directions). Phone: 347-289-1067. Sunday One-Day Wheel Throwing workshop runs ~10am-12pm window, $90, 1 piece included, picked up ~4 weeks later (choplet.com one-day-wheel-throwing-2). Member/open-studio hours posted as 10am-10pm daily. Greenpoint location opened Nov 1 2025. From Industry City, BQE north ~22-28 min Sun AM; metered/legal Sunday street parking generally available on Meserole/Manhattan Ave before noon. Note: this anchor sits ~25 min north of IC, so any 10am Greenpoint class breaks the IC cluster — itinerary should treat Choplet as a Greenpoint-anchored morning, then drive back south for IC/Red Hook lunch.",
+    "sources": [
+      {
+        "url": "https://choplet.com/contact-directions/",
+        "accessed": "2026-05-18T20:00:00Z"
+      },
+      {
+        "url": "https://choplet.com/ceramic-classes/classes-at-choplet-greenpoint/",
+        "accessed": "2026-05-18T20:00:00Z"
+      },
+      {
+        "url": "https://choplet.com/custom_classes/one-day-wheel-throwing-2/",
+        "accessed": "2026-05-18T20:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/choplet-brooklyn",
+        "accessed": "2026-05-18T20:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:54:36.137Z"
+  },
+  {
+    "id": "choplet-greenpoint-wheel-throwing",
+    "name": "Choplet Ceramic Studio (Greenpoint) — One-Day Wheel Throwing",
+    "desc": "2-hour beginner pottery wheel intro in a Greenpoint studio; one piece glazed and fired included.",
+    "longDesc": "Choplet's newer Greenpoint outpost (opened Nov 2025) at 121 Meserole Ave runs a 2-hour One-Day Wheel Throwing workshop ($90) where instructors walk 12-13 students through centering, opening, and pulling on the wheel — no experience required. The price covers clay, tools, glaze, and firing of one piece (mailed back roughly 4 weeks later), plus an optional 21+ Friday-night 'Sip & Spin' BYOB variant. Pairs well with a Greenpoint food stop or a walk along the East River afterward.",
+    "url": "https://choplet.com/custom_classes/one-day-wheel-throwing-2/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "curious",
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 16:00-18:00; Sun 10:00-12:00",
+    "notes": "Beginner-friendly, 15+ solo / 12+ with adult; one piece included, extras $15 each fired (cash for <$25) (choplet.com/custom_classes/one-day-wheel-throwing-2/). Greenpoint studio at 121 Meserole Ave opened Nov 2025 as a second location to the Williamsburg flagship (choplet.com). Drive from IC ~22 min via BQE; street parking on Meserole/Manhattan Ave is feasible on weekends but tight — budget 10 min to find a spot. Sip & Spin Fridays are 21+ BYOB and a stronger date-night variant (choplet.com/custom_classes/sip-spin-greenpoint/).",
+    "sources": [
+      {
+        "url": "https://choplet.com/custom_classes/one-day-wheel-throwing-2/",
+        "accessed": "2026-05-18T19:55:00Z"
+      },
+      {
+        "url": "https://choplet.com/ceramic-classes/classes-at-choplet-greenpoint/",
+        "accessed": "2026-05-18T19:55:00Z"
+      },
+      {
+        "url": "https://choplet.com/custom_classes/sip-spin-greenpoint/",
+        "accessed": "2026-05-18T19:55:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T20:01:06.060Z"
   }
 ]

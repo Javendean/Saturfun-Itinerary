@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Variety Coffee Roasters Greenpoint (368 Graham Ave)",
-    "reason": "Larger seating footprint than Grumpy if the user wants a sit-down pre-class stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:14:10.842Z"
-  },
-  {
-    "topic": "Choplet Ceramics Studio Greenpoint 10am Sunday session details",
-    "reason": "Confirm the actual class anchor address/duration so the surrounding micro-itinerary times line up",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:14:10.843Z"
-  },
-  {
-    "topic": "The Pottery Studio Brooklyn 9th St Gowanus one-time wheel class",
-    "reason": "Actual Gowanus address the original ask implied — direct alternative if user wants the 9th St/Gowanus geographic slot filled",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:16:26.352Z"
-  },
-  {
-    "topic": "Brooklyn Clay Industries Red Hook pottery class",
-    "reason": "Red Hook-side ceramics option to round out the IC-adjacent pottery cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:16:26.352Z"
-  },
-  {
-    "topic": "Choplet Greenpoint Williamsburg wheel throwing intro",
-    "reason": "Northern Brooklyn pottery counterpart for the Williamsburg/Greenpoint track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:16:26.352Z"
-  },
-  {
     "topic": "The Pottery Studio Gowanus — 9th Street drop-in classes",
     "reason": "Actually in Gowanus (much closer to IC than Navy Yard), offers single-session classes, fills the original Gowanus clay slot the user intended",
     "requestedBy": "agent",
@@ -19576,5 +19546,95 @@
     "reason": "Casual third-wave alt within 5 min of Devoción — useful as a 'less busy weekend' backup in the same neighborhood cluster",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T19:49:42.765Z"
+  },
+  {
+    "topic": "Devoción Williamsburg (69 Grand St) — direct-trade Colombian roaster with massive plant-filled seating",
+    "reason": "Strongest 'sit-down pre-class coffee' competitor in the same Williamsburg cluster; expands the larger-footprint category",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:52:18.224Z"
+  },
+  {
+    "topic": "Sey Coffee (18 Grattan St) — Bushwick light-roast specialist with airy gallery-like seating",
+    "reason": "Adjacent zone alternative for users willing to drive 5 extra min for a more design-forward sit-down room",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:52:18.224Z"
+  },
+  {
+    "topic": "Variety Coffee Roasters Greenpoint (142 Driggs Ave) — the actual Greenpoint location on McGolrick Park",
+    "reason": "Worth researching separately so the corpus distinguishes the two Variety shops by zone and parking difficulty",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:52:18.224Z"
+  },
+  {
+    "topic": "Greenpoint brunch within 5-min drive of 121 Meserole Ave for post-ceramics lunch",
+    "reason": "Closes the Greenpoint morning loop before driving back south; current corpus skews IC/Red Hook",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:54:36.176Z"
+  },
+  {
+    "topic": "Bellocq Tea Atelier Greenpoint Sunday hours",
+    "reason": "Calm aesthetic pairing with a ceramics session, walkable from Choplet",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:54:36.176Z"
+  },
+  {
+    "topic": "WantedDesign / Greenpoint design shops Sunday open",
+    "reason": "Adjacent maker-scene browse if itinerary keeps user in Greenpoint past class",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:54:36.176Z"
+  },
+  {
+    "topic": "BKLYN Clay Gowanus single-session wheel throwing class",
+    "reason": "Gowanus pottery studio that does offer true one-time intro wheel classes — directly fills the user's original ask better than the monthly-enrollment model",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:56:57.628Z"
+  },
+  {
+    "topic": "Choplet Williamsburg single wheel class drop-in",
+    "reason": "Established Brooklyn studio known for one-off wheel sessions; expands the 'pottery taster' bucket beyond Gowanus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:56:57.628Z"
+  },
+  {
+    "topic": "Mud Matters Gowanus 3rd Avenue ceramics single class",
+    "reason": "Adjacent Gowanus ceramics option to compare against The Pottery Studio for the same geographic slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:56:57.628Z"
+  },
+  {
+    "topic": "Clayworks on Columbia Red Hook pottery studio drop-in classes",
+    "reason": "The actual Red Hook-zone ceramics studio that fills the original IC-adjacent pottery gap the task was scoped to address",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:59:06.676Z"
+  },
+  {
+    "topic": "BKLYN CLAY TryDay night drop-in pottery class",
+    "reason": "Adjacent ceramics studio in Industry City / Sunset Park orbit — three-way comparison for the pottery cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:59:06.676Z"
+  },
+  {
+    "topic": "Brooklyn Navy Yard weekend parking and visitor access",
+    "reason": "Logistics anchor — multiple Navy Yard venues (Clay Industries, Russ & Daughters, etc.) share the same parking + gate access pattern",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:59:06.676Z"
+  },
+  {
+    "topic": "BKLYN CLAY Gowanus open studio + intro wheel class",
+    "reason": "Closer-in (Gowanus) ceramics counterpart to Choplet — completes the pottery options across northern and central Brooklyn tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:01:06.097Z"
+  },
+  {
+    "topic": "Painted Pot Park Slope walk-in pottery painting",
+    "reason": "Lower-commitment ceramics alternative for groups that want a finished piece same-day rather than a 4-week wait",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:01:06.097Z"
+  },
+  {
+    "topic": "Greenpoint food pairing: Karczma Polish or Oxomoco brunch",
+    "reason": "Natural before/after pairing within the Greenpoint cluster to round out a wheel-throwing afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:01:06.097Z"
   }
 ]
