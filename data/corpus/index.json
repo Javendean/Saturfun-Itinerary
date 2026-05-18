@@ -9391,12 +9391,12 @@
   {
     "id": "sunrise-mart-soho",
     "name": "Sunrise Mart Soho",
-    "desc": "Japanese grocery in Soho with an in-house kitchen — bento, onigiri, and pantry staples all under one roof.",
-    "longDesc": "Sister to the original East Village shop (open since 1995), the Soho branch on Broome St stocks a deep Japanese pantry — sauces, snacks, fresh produce, sake/shochu, dashi packs, kewpie, frozen gyoza — plus a working kitchen that fires bento, onigiri, curry, and katsu sandwiches midday. It's the natural pairing with a Kinokuniya trip: same J-culture thread, walkable through Soho, and a much calmer shopping experience than a Sunday Mitsuwa run.",
+    "desc": "Japanese grocery + in-house bento, sushi & donburi counter on Broome St — grab-and-go on the way back to IC.",
+    "longDesc": "The SoHo outpost of NYC's pioneering Japanese grocer (the original opened in the East Village in 1995). Fresh bento boxes are made in-house daily alongside sushi rolls, onigiri and hot donburi, plus a deep selection of pantry imports, snacks, frozen, sake and beauty goods. Tables up front and an upstairs eating area mean you can sit and eat what you grabbed downstairs.",
     "url": "https://sunrisemart.com/pages/visit-us",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "dumbo",
     "vibe": [
       "foodie",
       "curious"
@@ -9406,23 +9406,31 @@
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "11:00-20:00 (kitchen 12:00-17:30)",
-    "notes": "494 Broome St, NYC 10013 — Manhattan exception justified as the Kinokuniya pairing (J-culture corpus expansion). Store 11–8 weekends; kitchen window is 12–5:30 so time the visit accordingly for the hot bento case (sunrisemart.com/pages/visit-us). Drive ~22 min from Industry City via Brooklyn-Battery Tunnel; Soho weekend parking is paid-garage only — SP+ at 252 Lafayette or Icon at 199 Sullivan are the closest reliable options. Phone (212) 219-0033.",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "10:00-20:00",
+    "notes": "494 Broome St (10013), at Wooster — closest to the Manhattan Bridge return route via Canal St (sunrisemart.com). In-house bento ~$8 and sushi rolls reported fresh; donburi and hot food at the counter (Yelp). $10 credit-card minimum so bring cash; upstairs has lots of seating to eat in (Foursquare). Lunch rush 12–1pm — go a little after (Tripadvisor). SoHo street parking is tight on weekends; nearest commercial garages are on Lafayette/Broome.",
     "sources": [
       {
         "url": "https://sunrisemart.com/pages/visit-us",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sunrise-mart-new-york-2",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d1045704-Reviews-Sunrise_Mart-New_York_City_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/sunrise-mart/43dd08c1f964a520a52e1fe3",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T10:12:12.576Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:51:27.405Z"
   },
   {
     "id": "bryant-park-weekend",
@@ -45144,5 +45152,184 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T17:43:49.104Z"
+  },
+  {
+    "id": "onigiri-tanakaya",
+    "name": "Onigiri Tanakaya",
+    "desc": "Mono-product onigiri shop with century-old Fukuoka ryotei lineage, hand-shaped warm rice balls",
+    "longDesc": "A family-run single-item Japanese shop on 3rd Ave near Union Square dedicated entirely to handmade onigiri and norimaki — the Tanaka family ran a ryotei in Fukuoka for over a century before bringing this everyday craft to Manhattan. Premium rice, classic fillings (salmon, ikura, umeboshi, shiitake konbu, chashu, spicy tuna mayo) served warm in a tight nori-wrapped form. IG-native packaging, photogenic counter, and a sold-out-by-evening energy that sharpens the focused-craft axis against Sunrise Mart's generalist sprawl.",
+    "url": "https://www.onigiri-tanakaya.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-20:00",
+    "notes": "Actually located in Manhattan at 171 3rd Ave (between 16th & 17th, Gramercy/Union Square) — Manhattan is justified here because the mono-product focus has no Brooklyn analog (official site). Drive IC → Manhattan Bridge → up 3rd Ave is ~20-25 min off-peak; weekend metered + garages around Union Square. Items $4.59–$8.99, made-in-house with Japanese rice; veg-friendly via shiitake konbu, umeboshi (official site). Pairs with a Sunrise Mart visit on the same Manhattan run for the 'focused craft vs. generalist pantry' contrast. The Infatuation flagged it as a 'Union Square snack' staple; some reviewers note portions are tight for the price — best framed as a 1-2 piece tasting stop, not a meal.",
+    "sources": [
+      {
+        "url": "https://www.onigiri-tanakaya.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/onigiri-tanakaya",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/onigiri-tanakaya-new-york-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/onigiri.tanakaya.nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:46:49.749Z"
+  },
+  {
+    "id": "tokuyamatcha-onigirazu-bar",
+    "name": "Tokuyamatcha & Onigirazu Bar",
+    "desc": "Ceremonial-grade matcha bar + onigirazu sandwiches from the Tokuyama Salon team",
+    "longDesc": "Tokuyama Salon's cafe arm pairs single-origin Japanese matcha (whisked to order, including their signature Tokuyamatcha blend) with onigirazu — nori-wrapped rice sandwiches stuffed with tuna-avocado, salmon-miso-shiso, or seasonal fillings. The East Village flagship at 627 E 6th St is a tiny counter-and-stool room; a true sit-down counterpoint to a konbini grocery run, with hojicha and yuzu-honey matcha rounding out the drink program.",
+    "url": "https://tokuyamasalon.com/cafe/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-18:00",
+    "notes": "Manhattan exception — closest authentic onigirazu + ceremonial matcha pairing to IC; no Brooklyn equivalent. Three NYC locations (627 E 6th St / 115 E 27th St / 28 Grand St); the E Village original has the deepest menu history (Yelp: 527 photos, 229 reviews). Daily 10:00-18:00 — lunch/afternoon anchor only, closes before dinner. Order ahead via Grubhub/UberEats to skip the counter wait. Street parking in E Village is rough; Lafayette/Bowery garages are the realistic move. Signature pulls: yuzu-honey matcha, tuna-avo onigirazu, hojicha latte (tokuyamasalon.com/cafe).",
+    "sources": [
+      {
+        "url": "https://tokuyamasalon.com/cafe/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tokuyamatcha-and-onigirazu-bar-new-york-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/tokuyamatcha/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/tokuyamatcha--onigirazu-bar-627-e-6th-st-new-york/1282914",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:49:18.441Z"
+  },
+  {
+    "id": "cafe-zaiya-midtown",
+    "name": "Cafe Zaiya (Kinokuniya, Midtown)",
+    "desc": "Japanese bakery + onigiri counter on the 2nd floor of Kinokuniya, across from Bryant Park.",
+    "longDesc": "Tucked inside Kinokuniya's Midtown flagship at 1073 6th Ave, Cafe Zaiya is the in-store Japanese cafe-bakery best known for grab-and-go onigiri, melon pan and savory buns, plus matcha and black-sesame soft serve (Yelp, Time Out). The combo of bookstore browsing + onigiri makes it a natural pairing with a Bryant Park walk, but parking in Midtown is the friction point - this is a 'park once at a garage, do Kinokuniya + park' play, not a casual drive-up.",
+    "url": "https://zaiyany.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
+    "notes": "Inside Kinokuniya bookstore 2F, directly across from NYPL / Bryant Park (Yelp, novacircle). Soft serve in matcha / black sesame / swirl is the signature item (Time Out). Onigiri rotation overlaps Dainobu's but Zaiya leans more bakery (melon pan, curry pan, anpan) - good A/B for the post-Kinokuniya snack stop. Manhattan exception is justified because the venue is literally inside the bookstore that anchors that itinerary slot; nearest weekend parking is iPark/Icon garages on W 41st-43rd (~$25-40 for 2 hrs).",
+    "sources": [
+      {
+        "url": "https://zaiyany.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/cafe-zaiya-new-york-10",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/cafe-zaiya",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.novacircle.com/spots/north-america/united-states/new-york-state/new-york-city/new-york-ny/cafe-zaiya-ff0e4f",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:53:25.290Z"
+  },
+  {
+    "id": "dainobu-mine-greenwich-village",
+    "name": "Dainobu + Deli & Zakka MI-NE (Greenwich Village)",
+    "desc": "Adjacent Japanese grocery/deli pair on 6th Ave — bento, onigiri, sushi-grade fish, and zakka housewares in one block.",
+    "longDesc": "Dainobu at 498 6th Ave is the larger Japanese grocer with a hot deli case (bento, onigiri, karaage), sushi-grade fish, and a deep snack/beverage wall; right next door at 496 6th Ave, sibling spot MI-NE Deli runs as a sushi/onigiri counter with a small zakka (Japanese housewares & stationery) corner. Together they make a tight 30-45 min West Village stop — grab a packed lunch + a ceramic cup, then walk south into the Village or drive straight back over the Manhattan Bridge to IC. Best as a pre-Brooklyn pickup rather than a sit-down meal.",
+    "url": "https://dainobunyc.com/pages/store-location",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Dainobu 09:00-22:00 / MI-NE 10:00-21:00",
+    "notes": "Manhattan venue, justified by sibling-pair density: Dainobu (grocery+deli) + MI-NE (deli+zakka) sit next door at 498/496 6th Ave (Yelp, Dainobu site). Drive from IC via Hugh L. Carey Tunnel ≈ 20-25 min weekend; metered street parking on side streets (W 12th/W 13th) or paid garage at 12 W 12th St. Pair with a West Village walk (Washington Sq, Greenwich Ave shops) before returning to Brooklyn. Note: this is the smaller sibling of Dainobu Midtown — better for a quick grab-and-go than full grocery haul.",
+    "sources": [
+      {
+        "url": "https://dainobunyc.com/pages/store-location",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/dainobu-new-york-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mi-ne-deli-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/mine-deli-cafe/5c6b3e56c0f163002c4bd6b3",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:55:38.454Z"
   }
 ]

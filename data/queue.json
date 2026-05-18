@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Onigiri Tanakaya NYC",
-    "reason": "Single-item specialist shop dedicated to onigiri — sharpens the 'younger counterpoint to Sunrise Mart' axis with a fully focused, IG-native craft angle",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:29:16.340Z"
-  },
-  {
-    "topic": "Tokuyamatcha & Onigirazu Bar",
-    "reason": "Matcha + onigirazu (sandwich-onigiri) bar — bridges J-grocery snack run with cafe/drink program; rounds out the konbini cluster with a sit-down counterpoint",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:29:16.340Z"
-  },
-  {
-    "topic": "Sunrise Mart Soho (Japanese grocery with prepared bento, 494 Broome St)",
-    "reason": "Downtown Manhattan J-grocery alternative on the way back to IC via Manhattan Bridge — completes the J-konbini triangle with Kinokuniya/Dainobu",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:32:31.189Z"
-  },
-  {
-    "topic": "Cafe Zaiya Midtown (Japanese bakery + onigiri across from Bryant Park library)",
-    "reason": "Directly competes with Dainobu for the post-Kinokuniya onigiri slot; user comparisons would help rank them",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:32:31.189Z"
-  },
-  {
-    "topic": "Dainobu Greenwich Village (498 6th Ave) + sibling Deli & Zakka MI-NE",
-    "reason": "Sibling location with adjacent zakka shop — different cluster (West Village walking route), might pair better with Brooklyn-return drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:32:31.189Z"
-  },
-  {
     "topic": "Bryant Park weekend programming (winter village vs summer reading room)",
     "reason": "The other half of the Manhattan-day anchor pair — needs its own seasonal-aware entry so the itinerary planner can compose the combo correctly",
     "requestedBy": "agent",
@@ -18934,5 +18904,95 @@
     "reason": "Brooklyn-side equivalents would let trips stay IC-local instead of crossing the river; needed to balance the Manhattan-heavy konbini set",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T17:43:49.153Z"
+  },
+  {
+    "topic": "Tokuyamatcha & Onigirazu Bar (627 E 6th St, East Village)",
+    "reason": "Adjacent mono-product Japanese craft shop — matcha + onigirazu specialist; doubles down on the focused-IG-craft axis and pairs as a same-trip Manhattan combo with Tanakaya",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:46:49.802Z"
+  },
+  {
+    "topic": "Bonjia (Carroll Gardens hand-roll bar)",
+    "reason": "Brooklyn-side answer to the single-item Japanese craft thesis — keeps the axis alive without leaving the IC drive radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:46:49.802Z"
+  },
+  {
+    "topic": "Okonomi / YUJI Ramen (Williamsburg ichiju-sansai breakfast set)",
+    "reason": "Another mono-concept Japanese counter (single set menu, daily-changing) that extends the focused-craft cluster to weekend mornings within 15 min of IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:46:49.802Z"
+  },
+  {
+    "topic": "Kettl Tea Greenpoint flagship",
+    "reason": "Brooklyn-side ceremonial matcha + Japanese tea program — direct in-zone analog to Tokuyamatcha, fills the BK matcha gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:49:18.486Z"
+  },
+  {
+    "topic": "Onigiri Bongo NYC outpost or BK onigiri specialist",
+    "reason": "Onigiri-specific counterpart for konbini cluster; pairs with onigirazu without overlapping",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:49:18.486Z"
+  },
+  {
+    "topic": "Cha-An Teahouse East Village",
+    "reason": "Kissaten-style sit-down matcha experience — alternate Manhattan matcha anchor if Tokuyamatcha is closed/packed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:49:18.486Z"
+  },
+  {
+    "topic": "Taiyaki NYC (Mulberry St) — fish-shaped custard/matcha taiyaki & matcha soft serve",
+    "reason": "Same SoHo/Little Italy detour as Sunrise; sweet counterpart to a J-grocery stop, very photogenic for the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:51:27.443Z"
+  },
+  {
+    "topic": "Onigiri Miya (East Village) — handmade onigiri counter",
+    "reason": "Single-item Japanese specialist that pairs with Sunrise/Dainobu route; fills the 'snack-sized Japanese' slot the corpus is missing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:51:27.443Z"
+  },
+  {
+    "topic": "Cha-An Teahouse (East Village) — Japanese tea & dessert kissaten",
+    "reason": "Sit-down Japanese-cafe counterpart to konbini-style picks; extends J-cluster from groceries into experiences for longer Manhattan loops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:51:27.443Z"
+  },
+  {
+    "topic": "Onigiri Bongo (Upper West Side) - destination onigiri-ya",
+    "reason": "Completes the onigiri trinity (Dainobu vs Zaiya vs Bongo) so the ranker has a true specialist baseline to compare deli-style options against",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:53:25.394Z"
+  },
+  {
+    "topic": "Sunrise Mart Soho Japanese grocery + prepared foods",
+    "reason": "Brooklyn-adjacent Japanese snack stop with easier downtown parking - a real alternative when Midtown garages are too painful",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:53:25.395Z"
+  },
+  {
+    "topic": "Family Mart / Lawson NYC pop-up onigiri locations 2026",
+    "reason": "Konbini-style onigiri is rapidly entering NYC; worth tracking for the corpus before next refresh",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:53:25.395Z"
+  },
+  {
+    "topic": "Washington Square Park weekend scene — chess tables, fountain, street musicians",
+    "reason": "Natural 15-min walk from Dainobu/MI-NE; anchors a West Village mini-loop before Brooklyn return drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:55:38.491Z"
+  },
+  {
+    "topic": "Aire Ancient Baths Tribeca — candlelit Roman-style thermal baths",
+    "reason": "On the drive route between Greenwich Village and IC; high-value romantic/chill anchor for Manhattan-side track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:55:38.491Z"
+  },
+  {
+    "topic": "McNally Jackson Books Greenwich Village (52 Prince St adjacent area)",
+    "reason": "Independent bookstore pairs well with Japanese grocery stop for curious/foodie vibe cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:55:38.491Z"
   }
 ]
