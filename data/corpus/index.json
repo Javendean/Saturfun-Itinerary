@@ -9869,40 +9869,45 @@
   {
     "id": "bklyn-clay-prospect-heights",
     "name": "BKLYN CLAY (Prospect Heights)",
-    "desc": "Drop-in wheel-throwing class on Fri/Sat nights, BYO-vibes with beer + wine for sale at the studio.",
-    "longDesc": "BKLYN CLAY's flagship Prospect Heights studio at 535 Carlton Ave runs a 2-hour 'TryDay Night' wheel class every Friday and Saturday at 7:30pm — $85/person, 12 students max, beer and wine for purchase on-site. No finished piece to take home (it's an introductory throwing experience), so best treated as an evening activity stop, not a souvenir maker. Note: BKLYN CLAY does NOT operate inside Industry City — Prospect Heights is the closest of its two locations (the other is Tribeca).",
+    "desc": "Friday/Saturday TryDay wheel-throwing drop-in — 2hr guided session, $85, no commitment.",
+    "longDesc": "BKLYN CLAY's flagship Prospect Heights studio runs TryDay Night every Friday and Saturday at 7:30pm: a 2-hour wheel-throwing class for up to 12 students with a trained instructor, $85/person, ages 7+ (under-16s must be enrolled with an adult). Beer and wine are sold on site, the vibe is open and social, and no BYOB is allowed. Important caveat: you don't take a finished piece home — this is a pure 'try it once' format, which makes it ideal as a Saturfun anchor when you want a hands-on slot without the multi-week studio commitment.",
     "url": "https://bklynclay.com/tryday",
-    "photoUrl": "",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/62d9a67e01520e44e3167b68/4a8f9b41-ff0a-491a-8264-6032776db5ab/BKLYN_CLAY-F.OUDEMAN%C2%A9-09.small.jpg",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
     "vibe": [
+      "curious",
       "chill",
-      "curious"
+      "active"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "2 hr",
     "driveFromIC": "15 min",
-    "hoursWeekend": "TryDay class Fri/Sat 19:30-21:30",
-    "notes": "TryDay Night = 2 hr wheel-throwing class, $85/person, 12 students with an instructor, age 7+ (under 16 must have adult also enrolled), 48-hr cancellation window (https://bklynclay.com/tryday). Beer/wine sold on-site, no outside drinks. Drive from IC ~15 min via Prospect Expy. IMPORTANT: BKLYN CLAY has no Industry City location — locations are 535 Carlton Ave Prospect Heights and 288 West St Tribeca (https://bklynclay.com/). For a true in-IC ceramic option, Micòl Ceramics at 67 35th St Suite C239 is inside Industry City itself (https://www.micolceramics.com/info).",
+    "hoursWeekend": "Fri & Sat TryDay 19:30 start; studio members 24/7",
+    "notes": "Corpus correction: BKLYN CLAY does NOT operate inside Industry City — their two locations are Prospect Heights (535 Carlton Ave) and Tribeca/West St (https://bklynclay.com/contact-locations). Prospect Heights is the IC-adjacent flagship and is the right choice for the commercial-pottery contrast vs. Artshack. TryDay Fri/Sat 7:30pm, 2hr, $85/person, capped at 12 students, ages 7+ (https://bklynclay.com/tryday). Beer/wine sold on-site, no BYOB; 48-hr cancellation policy. Heads-up: TryDay pieces are NOT fired/taken home — surface this in itinerary copy so guests aren't surprised. Drive from IC ~15 min via 4th Ave → Atlantic; weekend street parking on Carlton/Vanderbilt is doable but tight after 7pm, plan +5 min to circle. Phone (845) 481-3842, info@bklynclay.com.",
     "sources": [
       {
         "url": "https://bklynclay.com/tryday",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T19:30:00Z"
       },
       {
         "url": "https://bklynclay.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T19:30:00Z"
       },
       {
-        "url": "https://www.micolceramics.com/info",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.hisawyer.com/providers/bklyn-clay/1099-bklyn-clay",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/things-to-do/bklyn-clay",
+        "accessed": "2026-05-18T19:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T01:11:59.435Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:30:30.947Z"
   },
   {
     "id": "brooklyn-glass",
@@ -21755,45 +21760,45 @@
   },
   {
     "id": "textile-arts-center-gowanus",
-    "name": "Textile Arts Center",
-    "desc": "Gowanus textile studio with weekend natural-dye, weaving, and sewing drop-in workshops.",
-    "longDesc": "Long-running fiber-arts school at 505 Carroll St on the Gowanus/Park Slope edge, with looms, dye baths, and screen-print tables open to the public. Weekend programming includes one-day intensives in natural dyeing (their Sewing Seeds program), tapestry weaving, and indigo, plus shorter Saturday/Sunday workshops bookable through their site or CourseHorse. Slower-paced and tactile — a good counterweight to flame/forge anchors at IC.",
+    "name": "Textile Arts Center (Gowanus)",
+    "desc": "Nonprofit textile studio with weekend weaving, natural-dye, and screen-printing intensives — 11 min from IC.",
+    "longDesc": "Brooklyn's flagship textile-craft nonprofit, tucked at 505 Carroll St on the Gowanus/Park Slope edge. Weekend offerings rotate through single-day and Sat–Sun intensives in weaving, natural dyeing, indigo, sashiko, screen printing, and hand tufting; sliding-scale scholarships ($300K+ awarded since 2016) keep it genuinely accessible. A true extension of the community-craft lane beyond ceramics — sit-down, hands-on, take-home result.",
     "url": "https://textileartscenter.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-3 hours",
+    "duration": "6 hr (weekend intensive)",
     "driveFromIC": "11 min",
-    "hoursWeekend": "Sat 11:00-18:00, Sun 11:00-17:00",
-    "notes": "505 Carroll St between 3rd & 4th Ave; ~30 blocks straight up 3rd Ave from Industry City (timeout.com, yelp.com). Friday closed — only Sat/Sun count for itinerary. Drop-in workshops typically $40-100; longer 6-hr weekend intensives also offered. Home of the Sewing Seeds natural-dye program (textileartscenter.com). Street parking on Carroll/President is usually findable on weekends. Phone: (718) 369-0222.",
+    "hoursWeekend": "Sat 11:00-17:00 office; class times vary",
+    "notes": "Workshop calendar rotates — recent examples include Screen Printing 101 weekend intensive May 30–31, Sashiko one-day Sun May 17, Indigo Dyeing evening sessions (textileartscenter.com). Closed Fridays. Curb parking on 3rd Ave / Carroll St is realistic on weekends; ~2 mi straight up 3rd Ave from Industry City. Sliding-scale scholarships available for adult and youth programs.",
     "sources": [
       {
         "url": "https://textileartscenter.com/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/textile-arts-center-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://coursehorse.com/nyc/schools/art/textile-arts-center",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T19:30:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/things-to-do/textile-arts-center-classes-park-slope",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/textile-arts-center-brooklyn",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://coursehorse.com/nyc/schools/art/textile-arts-center",
+        "accessed": "2026-05-18T19:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T01:50:27.447Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:27:51.299Z"
   },
   {
     "id": "brooklyn-kitchen-knife-skills",
@@ -46523,5 +46528,129 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T19:23:38.124Z"
+  },
+  {
+    "id": "gasworks-nyc",
+    "name": "Gasworks NYC",
+    "desc": "Community clay studio in South Slope with weekend TryNight one-off pottery classes",
+    "longDesc": "Gasworks NYC is a Brooklyn ceramics studio at 673 5th Ave (South Slope/Park Slope — not Bushwick as commonly mislabeled) offering memberships, semester classes, and one-off Saturday/Sunday TryNight sessions starting around $75. Open studio hours are gated to current students and members, so the Saturfun-friendly entry point is booking a single TryNight or Make-a-Mug class on the events calendar. Roughly a 7–10 min drive from Industry City via 4th Ave, with weekend street parking on residential side blocks.",
+    "url": "https://gasworksnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "12:00-20:00",
+    "notes": "Topic was logged as 'Bushwick' but the studio is actually in South Slope/Park Slope at 673 5th Ave 11215 (gasworksnyc.com). Weekend hours 12–8 Sat/Sun per Yelp listing (yelp.com). 'Open studio' is reserved for current students/members with 24/7 keycode access — public Saturfun-friendly access is via single-session TryNight or Make-a-Mug classes ($75, often sell out) listed under 'One Night Stands' (gasworksnyc.com/collections/one-night-stands). Pair with a Park Slope or South Slope food/drinks stop after class; not a Bushwick cluster anchor.",
+    "sources": [
+      {
+        "url": "https://gasworksnyc.com/",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://gasworksnyc.com/pages/about-the-studio",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://gasworksnyc.com/collections/one-night-stands",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gasworks-brooklyn",
+        "accessed": "2026-05-18T19:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:33:07.375Z"
+  },
+  {
+    "id": "paulie-gees-slice-shop",
+    "name": "Paulie Gee's Slice Shop",
+    "desc": "Greenpoint slice shop with NYC-style rounds, Sicilian squares, and a full vegan menu including pepperoni and sausage",
+    "longDesc": "Paulie Gee's casual slice spinoff a few blocks south of the flagship tavern, serving classic round slices and upside-down Sicilians. Roughly half the menu is vegan — Numu mozzarella, Be-Hive sausage, Follow Your Heart parm — so mixed-diet groups can share without a separate stop. Fast counter service, late hours Fri/Sat to 1am, takeout/delivery only via DoorDash or Caviar (no phone orders).",
+    "url": "https://pauliegee.com/restaurant/paulie-gees-slice-shop/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:30-01:00 Fri-Sat, 11:30-22:00 Sun",
+    "notes": "Counter-service slice shop at 110 Franklin St, Greenpoint (pauliegee.com). Sun–Thu 11:30am–10pm, Fri–Sat 11:30am–1am. Vegan Sicilian squares (Vidalia, Freddy Prinze) and vegan pepperoni rounds are the move; ~50% of menu is plant-based with mock meats/cheeses. No phone orders — DoorDash/Caviar only for off-premise. Phone (929) 337-6385. ~22 min drive from Industry City via BQE; weekend street parking on Franklin/Java is moderate. Pairs well as a cheap fast option vs. sit-down Paulie Gee's Tavern up the street.",
+    "sources": [
+      {
+        "url": "https://pauliegee.com/restaurant/paulie-gees-slice-shop/",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/paulie-gees-slice-shop-brooklyn",
+        "accessed": "2026-05-18T19:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:35:09.392Z"
+  },
+  {
+    "id": "adelinas-greenpoint",
+    "name": "Adelina's (CLOSED)",
+    "desc": "Former Roman-style plant-based pizza & natural wine bar in Greenpoint — permanently closed; owners relocated to the Finger Lakes",
+    "longDesc": "Adelina's operated at 159 Greenpoint Ave for about eight years as a Roman-leaning, plant-based & vegetarian pizza spot with a natural wine list, before permanently closing. The owners reopened under the same name in the Finger Lakes region of upstate NY, so the Brooklyn storefront is no longer an option for itineraries. This entry is retained as a corpus marker so the planner never re-proposes it — see enqueue for live non-pizza Italian dinner alternatives in the same Greenpoint cluster.",
+    "url": "https://www.opentable.com/r/adelinas-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "PERMANENTLY CLOSED. Yelp listing is flagged CLOSED as of May 2026 (yelp.com/biz/adelinas-brooklyn); OpenTable confirms 'Permanently Closed' (opentable.com/r/adelinas-brooklyn); HappyCow notes closure (happycow.net/reviews/adelinas-brooklyn-51190). Owners' current operation is in the Finger Lakes (adelinasflx.com/ourstory). Note also: even when open, Adelina's was a Roman-style pizza spot, NOT a non-pizza Italian anchor — the queue topic's premise was incorrect, so the better fix is to source a true pasta-led Greenpoint dinner (see enqueue: Le Fanfare, Bahari, Forma Pasta Factory).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/adelinas-brooklyn",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/adelinas-brooklyn",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://www.happycow.net/reviews/adelinas-brooklyn-51190",
+        "accessed": "2026-05-18T19:30:00Z"
+      },
+      {
+        "url": "https://adelinasflx.com/ourstory",
+        "accessed": "2026-05-18T19:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:37:41.974Z"
   }
 ]
