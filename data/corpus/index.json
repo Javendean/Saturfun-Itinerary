@@ -17615,40 +17615,44 @@
   {
     "id": "white-bear-flushing",
     "name": "White Bear",
-    "desc": "Cash-only Flushing counter famous for #6 wontons in chili oil — $10 for 12, no seats, takeout only",
-    "longDesc": "A legendary hole-in-the-wall on Roosevelt Ave whose #6 'wontons with hot sauce' (12 plump pork wontons swimming in red chili oil for ~$10) draw lines from across the city. There's no dine-in, no bathroom, cash only, and orders come up in a couple of minutes — perfect grab-and-go anchor between QBG/NYSCI stops on a Queens day. Pair the spicy wontons with a side of cold sesame noodles or vegetable dumplings; eat in the car or on a nearby bench in Flushing.",
+    "desc": "Cash-only Flushing takeout window famous for $10 #6 wontons in chili oil with preserved veg, ginger, garlic.",
+    "longDesc": "A counter-only Sichuan-leaning storefront in the Roosevelt-Prince mini-mall that has been a NYC pilgrimage spot for over a decade. Order is simple: #6 wontons in hot sauce — 12 pork-and-vegetable wontons under a glossy chili oil with pickled mustard greens, garlic, and ginger ($10, cash only). No seating, no cards, no frills; eat on a nearby bench or take a bag of frozen wontons home.",
     "url": "https://www.yelp.com/biz/white-bear-flushing",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "williamsburg",
+    "zone": "flushing",
     "vibe": [
       "foodie",
       "curious"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "15-30 min",
-    "driveFromIC": "~35 min",
-    "hoursWeekend": "10:00-19:00",
-    "notes": "Flushing, Queens venue (not Brooklyn) — zone tag is closest-Brooklyn-neighbor placeholder; this is a Queens-day pick anchored 7-10 min from Queens Botanical Garden / NYSCI. Cash only, takeout only, no seating or bathroom (Yelp, Infatuation). Order #6 'Wonton w/ Hot Sauce' — 12 wontons in chili oil ~$10 (Restaurantedroop). Service is quick and no-nonsense; food comes out piping hot in minutes. Hours 10am-7pm daily per Yelp May 2026 update. Street parking around Roosevelt Ave is tight on weekends — try Main St municipal lots a few blocks south.",
+    "duration": "20-30 min",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "Sat 10:00-19:00, Sun closed",
+    "notes": "Bring cash — strictly cash-only and takeout-only with no indoor seating (Yelp, Restaurantji). The signature is item #6: 12 wontons in chili oil for ~$10, made to order by a hand-wrapper at the window (My Inner Fatty, Restaurantji). Located in Suite 5 of the 135-02 Roosevelt Ave mini-mall, one block from Main St subway; weekend street parking in Flushing is brutal — use Queens Crossing Garage (136-17 39th Ave) or Municipal Lot 1 instead. Out-of-zone for the standard IC radius (~40 min via Verrazzano-Whitestone), but justified as anchor #2 of a tight 3-stop Flushing wonton crawl with Cult #6 next door.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/white-bear-flushing",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/white-bear",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.restaurantji.com/ny/flushing/white-bear-/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://restaurantedroop.com/restaurants-near-me/white-bear",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "http://www.myinnerfatty.com/2011/11/wontons-in-chili-oil-white-bear.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T03:59:28.963Z"
+    "lastResearchedAt": "2026-05-18T05:16:49.603Z"
   },
   {
     "id": "tianjin-dumpling-house-flushing",
@@ -17745,48 +17749,52 @@
   {
     "id": "new-world-mall-food-court",
     "name": "New World Mall Food Court",
-    "desc": "Basement food court with 30+ stalls — hand-pulled noodles, soup buns, Uyghur skewers, jianbing under one roof.",
-    "longDesc": "The largest pan-Asian food court in NYC, tucked in the basement of New World Mall on Roosevelt Ave. Around 30 stalls span Chinese regional, Uyghur, Malaysian, Thai, Vietnamese, Korean, and Japanese — must-orders include Lanzhou Handmade Noodles' knife-cut lamb soup, Pan Bao 66's pan-fried pork buns, and Xinjiang-style cumin lamb skewers. Cafeteria seating; cash and card both work; go hungry and split everything.",
+    "desc": "Sub-level Flushing food court with 30+ regional Chinese, Uyghur, Taiwanese & Korean stalls — indoor backup if Nan Xiang's queue is brutal.",
+    "longDesc": "A basement-level food hall under the Flushing mega-mall, 32 independent stalls cover Chongqing xiao mian, Lanzhou hand-pulled noodles, Uyghur lamb skewers (Tarim), Joe's Steam Rice Roll, jianbing, mini hot pot, bubble tea (Tiger Sugar, Gong Cha) and more. Cash-and-card kiosks, communal seating for ~400, weekend lunch rush is loud and elbows-out — exactly the high-density foodie scene Saturfun chats want. Anchor use case: if Nan Xiang Xiao Long Bao next door is mobbed (which it usually is), walk 60 seconds and graze stalls instead.",
     "url": "https://www.newworldmallnyc.com/food-court",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "greenpoint",
     "vibe": [
       "foodie",
       "curious",
       "photo"
     ],
     "dietary": [
-      "halal",
-      "vegetarian"
+      "vegetarian",
+      "halal"
     ],
     "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "30 min",
+    "driveFromIC": "35 min",
     "hoursWeekend": "10:00-22:00",
-    "notes": "QUEENS DETOUR — not a Brooklyn cluster; only worth the drive if stacked with other Flushing stops (Main St Chinatown, SkyView, Queens Botanical). Address 136-20 Roosevelt Ave, Flushing NY 11354 — mall hours 10a–10p daily, individual stalls roughly 10:30a–9:30p (newworldmallnyc.com). 350-spot underground garage; weekend parking fills up fast and is paid, but 2 hrs validated free with a JMart upstairs purchase (yelp). Halal at the Uyghur/Xinjiang stalls; vegetarian doable at the noodle and Buddhist-Chinese counters. Standouts per The Infatuation: Lanzhou hand-pulled, Pan Bao 66 soup buns, mala tang, jianbing.",
+    "notes": "Actually in Flushing, Queens (136-20 Roosevelt Ave) — outside the Brooklyn zone enum; 'greenpoint' is used as a directional proxy on the drive route via BQE → Grand Central Pkwy. 350-spot underground garage; no free parking unless you shop at J-Mart upstairs and get the receipt stamped for 2 hours validation (newworldmallnyc.com). Topic-named stalls have rotated: 'Tianjin Foods' (Ste 27, jianbing/savory pancakes) is CLOSED per Yelp, and 'J-Michelle Hot Pot' is not in the current 32-stall roster — likely renamed or replaced by Xiao Luo Luo / Lao Ma Ma La Tang for spicy/hot pot needs. Live anchor stalls worth name-dropping in chat: Tarim Uyghur, Lan Zhou Handmade Noodles, Joe's Steam Rice Roll, Chong Qing Zaier, Xi'an Noodles. Halal available via Tarim Uyghur; vegetarian via noodle and dumpling stalls. Halal+vegetarian dietary tags reflect roster coverage, not every stall (newworldmallnyc.com; gothamist; mommypoppins).",
     "sources": [
       {
         "url": "https://www.newworldmallnyc.com/food-court",
-        "accessed": "2026-05-16T22:30:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/new-world-mall-food-court",
-        "accessed": "2026-05-16T22:30:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/shopping/new-world-mall/",
-        "accessed": "2026-05-16T22:30:00Z"
+        "accessed": "2026-05-18T05:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/new-world-mall-food-court-flushing",
-        "accessed": "2026-05-16T22:30:00Z"
+        "accessed": "2026-05-18T05:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tianjin-foods-flushing",
+        "accessed": "2026-05-18T05:15:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/inside-the-food-court-madness-at-flushings-new-world-mall",
+        "accessed": "2026-05-18T05:15:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_World_Mall",
+        "accessed": "2026-05-18T05:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:29:20.583Z"
+    "lastResearchedAt": "2026-05-18T05:19:48.869Z"
   },
   {
     "id": "xian-famous-foods-williamsburg",
@@ -37839,5 +37847,127 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T05:07:22.058Z"
+  },
+  {
+    "id": "yaso-tangbao-downtown-brooklyn",
+    "name": "Yaso Tangbao Downtown Brooklyn (CLOSED)",
+    "desc": "Former Shanghainese soup-dumpling spot on Lawrence St — confirmed permanently closed as of 2026.",
+    "longDesc": "Yaso Tangbao's Downtown Brooklyn outpost at 148 Lawrence St served xiao long bao, pan-fried buns, and Shanghainese noodles, and was historically a 12-15 min drive from Industry City. Yelp listings for both the Lawrence St location and the Industry City sister at 253 36th St are marked CLOSED as of May 2026, alongside the Manhattan Mercer St and 42nd St locations — the brand appears to have exited NYC. Do not route users here; see enqueue for live Brooklyn-side XLB replacements.",
+    "url": "https://www.yelp.com/biz/yaso-tangbao-brooklyn-4",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "closed",
+    "driveFromIC": "13 min (when open)",
+    "hoursWeekend": "CLOSED (permanently)",
+    "notes": "Permanently closed per Yelp listings updated May 2026 for both 148 Lawrence St Downtown Brooklyn and 253 36th St Industry City locations (https://www.yelp.com/biz/yaso-tangbao-brooklyn-4, https://www.yelp.com/biz/yaso-tangbao-brooklyn-2). Manhattan locations at 220 E 42nd St and 289 Mercer St also marked CLOSED — the Yaso/Yaso Tangbao brand appears to have exited NYC entirely. Do NOT promote to itinerary. Kept in corpus as a 'do-not-recommend' record so chat layer doesn't resurrect from training data.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/yaso-tangbao-brooklyn-4",
+        "accessed": "2026-05-18T05:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yaso-tangbao-brooklyn-2",
+        "accessed": "2026-05-18T05:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yaso-tangbao-new-york-3",
+        "accessed": "2026-05-18T05:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yaso-new-york",
+        "accessed": "2026-05-18T05:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T05:11:48.808Z"
+  },
+  {
+    "id": "liu-liu-sheng-jian",
+    "name": "Liu Liu Sheng Jian",
+    "desc": "Stall #29 at New World Mall food court — Shanghai pan-fried pork buns with singed bottoms and pillowy tops.",
+    "longDesc": "A counter inside the bustling basement food court at New World Mall (corner spot directly across from the escalator) that specializes in sheng jian bao — Shanghai-style pan-fried pork buns topped with scallions and sesame seeds. The Infatuation calls the pork filling 'ridiculously juicy' and the buns 'pillowy with singed bottoms'; 6 for $9.99, 8 for $11.99. Order by ticket number; tables are tight but turn fast.",
+    "url": "https://www.theinfatuation.com/new-york/reviews/liu-liu-sheng-jian",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "10:30-21:00",
+    "notes": "Located inside New World Mall food court basement at 136-20 Roosevelt Ave, Flushing, Queens — not Brooklyn, so this is a Flushing-crawl anchor rather than a near-IC pick. Stall #29, corner position across from escalator (Infatuation). Cash + card accepted at counter; ticket-number pickup system. Pork-only filling, no veg option. Pairs as A/B bao tasting against another sheng jian vendor 'two doors down' inside the same food court (Infatuation crawl). Hours follow New World Mall food court hours; verify on-day. Address: 136-20 Roosevelt Ave, Flushing, NY 11354.",
+    "sources": [
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/liu-liu-sheng-jian",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/flushing-dumpling-crawl",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.yelp.com/biz/liu-liu-sheng-jian-flushing",
+        "accessed": "2026-05-18"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:14:27.326Z"
+  },
+  {
+    "id": "meet-fresh-flushing",
+    "name": "Meet Fresh (Flushing)",
+    "desc": "Taiwanese dessert chain in Tangram Mall — shaved ice, Q-mochi bingsu, taro balls, black sugar boba",
+    "longDesc": "Order-at-kiosk Taiwanese dessert hall on the Tangram Mall ground floor at 133-36 37th Ave, Unit F11 — a 4-min walk from the Sky View/New World garage cluster. Signature plates: taro-ball icy grass jelly, Q-mochi bingsu (chewy mochi over shaved milk ice), and brown sugar boba milk. Bowls are camera-ready and made to share, which lines up cleanly with a late-afternoon dessert payoff after a Flushing food-and-walk day.",
+    "url": "https://meetfresh.us/flushing-new-york/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-21:00",
+    "notes": "Address is 133-36 37th Ave, Unit F11 — physically in Tangram Mall, not New World Mall as the topic brief stated (correct in itinerary copy). Order at kiosk, pickup at counter, communal seating. Phone (929) 468-8682. Friday and Saturday close at 22:00; Sunday closes at 21:00. Indoor seating gets crowded after 19:00 on weekends — earlier slot pairs better with a dinner stop nearby. (yelp.com, meetfresh.us)",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/meet-fresh-flushing-3",
+        "accessed": "2026-05-18T05:15:00Z"
+      },
+      {
+        "url": "https://meetfresh.us/flushing-new-york/",
+        "accessed": "2026-05-18T05:15:00Z"
+      },
+      {
+        "url": "https://retail.tangramnyc.com/store/meet-fresh/",
+        "accessed": "2026-05-18T05:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:21:43.004Z"
   }
 ]
