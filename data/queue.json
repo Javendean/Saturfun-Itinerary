@@ -1,35 +1,5 @@
 [
   {
-    "topic": "MoMA PS1 (22-25 Jackson Ave, LIC) — contemporary art kunsthalle 8 min from Noguchi",
-    "reason": "Completes the NW Queens art triangle (Socrates + Noguchi + PS1), all reachable in one cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:10:23.979Z"
-  },
-  {
-    "topic": "SculptureCenter (44-19 Purves St, LIC) — small but heavyweight contemporary sculpture museum",
-    "reason": "Adjacent indoor sculpture venue to Noguchi, expands the LIC art corpus for rainy-day routing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:10:23.979Z"
-  },
-  {
-    "topic": "Astoria Bier & Cheese (34-14 Broadway, Astoria) — post-museum cheese-and-beer stop 6 min from Noguchi",
-    "reason": "Adds an Astoria food anchor to close the loop on a NW Queens track after museums",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:10:23.979Z"
-  },
-  {
-    "topic": "Hallets Cove waterfront (Astoria, 8th St & Astoria Blvd)",
-    "reason": "Northern endpoint of the Vernon Blvd skyline walk — completes the Rainey → Socrates → Hallets corridor and lets the itinerary stretch the single parking event to ~0.6 mi of continuous waterfront",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:12:42.431Z"
-  },
-  {
-    "topic": "Noguchi Museum (9-01 33rd Rd, Long Island City)",
-    "reason": "Directly across Vernon Blvd from Socrates parking lot — indoor sculpture pairing for the same parking anchor, rainy-day fallback for the waterfront strip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:12:42.431Z"
-  },
-  {
     "topic": "Bohemian Hall & Beer Garden (29-19 24th Ave, Astoria)",
     "reason": "Closest evening food/drink anchor to the Vernon Blvd waterfront cluster — Czech beer garden ~6 min drive from Rainey, weekend parking on 24th Ave; converts the waterfront walk into a full afternoon→evening track",
     "requestedBy": "agent",
@@ -14260,5 +14230,101 @@
     "reason": "5-min drive from Grand Army, same cocktail-bar caliber, could chain into the same multi-stop drinks track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T01:38:32.734Z"
+  },
+  {
+    "topic": "SculptureCenter (44-19 Purves St, LIC) — non-profit contemporary sculpture kunsthalle 4 min walk from PS1",
+    "reason": "Completes a walkable LIC art mini-cluster on PS1 day; smaller, deeper-cuts contemporary programming",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:40:39.944Z"
+  },
+  {
+    "topic": "Casa Enrique (5-48 49th Ave, LIC) — Michelin-starred Mexican, weekend brunch",
+    "reason": "Best food anchor inside the NW Queens art-triangle cluster; resolves the 'where to eat after PS1' gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:40:39.944Z"
+  },
+  {
+    "topic": "LIC Landing / Hunter's Point South Park waterfront — Manhattan skyline view, food kiosks",
+    "reason": "Free outdoor post-museum decompression stop 8 min drive from PS1, photo-friendly",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:40:39.944Z"
+  },
+  {
+    "topic": "MoMA PS1 (22-25 Jackson Ave, LIC) — contemporary art kunsthalle",
+    "reason": "5-min walk from SculptureCenter; completes the LIC contemporary-art triangle with Noguchi and is a heavyweight rainy-day anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:42:36.717Z"
+  },
+  {
+    "topic": "Court Square Diner (45-30 23rd St, LIC) — 24hr classic diner adjacent to SculptureCenter",
+    "reason": "Drivable food anchor inside the LIC art cluster so the route doesn't have to leave the zone for a meal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:42:36.717Z"
+  },
+  {
+    "topic": "LIC Landing / Anable Basin waterfront walk",
+    "reason": "Free outdoor East River vantage 10 min from SculptureCenter — pairs an indoor sculpture stop with a photo/chill exterior beat when weather allows",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:42:36.717Z"
+  },
+  {
+    "topic": "Milkflower (34-12 31st Ave, Astoria) — wood-fired pizza near Noguchi/MoMA PS1",
+    "reason": "Stronger sit-down dinner anchor for the NW Queens track if Bier & Cheese is the snack stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:45:35.946Z"
+  },
+  {
+    "topic": "Sac's Place (25-41 Broadway, Astoria) — coal-oven pizza walkable from Noguchi",
+    "reason": "Backup Astoria dinner anchor with weekend parking nearby",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:45:35.946Z"
+  },
+  {
+    "topic": "Mar's (34-21 34th Ave, Astoria) — Greek-Mediterranean seafood, 5 min from Noguchi",
+    "reason": "Higher-end romantic/foodie option to round out the Astoria food vertical",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:45:35.946Z"
+  },
+  {
+    "topic": "Add 'astoria' as a valid Saturfun zone enum to support the NW Queens museum track",
+    "reason": "Corpus-schema gap surfaced by this entry; greenpoint is a poor proxy for Astoria clustering and drive-time math",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:45:35.946Z"
+  },
+  {
+    "topic": "Rainey Park Astoria waterfront southern anchor",
+    "reason": "south end of the Vernon Blvd skyline walk — completes the Rainey → Socrates → Hallets corridor with one parking event",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:49:09.425Z"
+  },
+  {
+    "topic": "Halletts Point Play nautical playground Astoria",
+    "reason": "family-friendly sub-feature inside the new esplanade — separate entry for the kids/photo vibe slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:49:09.425Z"
+  },
+  {
+    "topic": "Goodwater coffee Vernon Blvd Astoria walk-up",
+    "reason": "weekend coffee anchor at the Astoria end of the corridor — fills the missing pre-walk caffeine stop before Halletts",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:49:09.425Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park (32-01 Vernon Blvd, LIC)",
+    "reason": "Free outdoor sculpture park directly across Vernon Blvd from Noguchi — the matching outdoor half of the same parking anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:51:13.878Z"
+  },
+  {
+    "topic": "Sculpture Center (44-19 Purves St, LIC)",
+    "reason": "Third LIC contemporary-sculpture venue, 7-min drive from Noguchi — completes a sculpture-focused LIC mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:51:13.878Z"
+  },
+  {
+    "topic": "Mu Ramen or Casa Enrique (LIC lunch within 10 min of Noguchi)",
+    "reason": "Sit-down lunch options to bookend the Noguchi+Socrates parking anchor without losing the LIC zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:51:13.878Z"
   }
 ]

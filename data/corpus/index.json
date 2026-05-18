@@ -2922,9 +2922,9 @@
   {
     "id": "noguchi-museum",
     "name": "The Noguchi Museum",
-    "desc": "Isamu Noguchi's converted-factory museum with a stone-and-bamboo sculpture garden in LIC",
-    "longDesc": "Founded by sculptor Isamu Noguchi in a former photo-engraving plant, the museum spans 13 indoor galleries and an outdoor garden of basalt, granite, and bamboo. Pairs naturally with MoMA PS1 for a two-museum LIC afternoon, with a contemplative, low-crowd vibe distinct from Manhattan institutions. Wed–Sun only, last entry 5:30pm.",
-    "url": "https://www.noguchi.org/",
+    "desc": "Isamu Noguchi's own museum in his former LIC studio — sculpture, stone, and a sunken garden.",
+    "longDesc": "Founded by Isamu Noguchi in 1985 inside his former Long Island City studio, the museum spans two floors and an outdoor sculpture garden built around his stone, basalt, and Akari light works. The galleries are quiet, naturally lit, and pair perfectly with a Socrates Sculpture Park walk directly across Vernon Blvd. Rainy-day fallback for the waterfront strip and a strong indoor counterpart to outdoor LIC art stops.",
+    "url": "https://www.noguchi.org/museum/visit/plan/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
@@ -2935,10 +2935,10 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "75-90 min",
-    "driveFromIC": "24 min",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "11:00-18:00",
-    "notes": "9-01 33rd Rd, Long Island City — technically Queens, not a Brooklyn zone; closest tag is greenpoint (across Pulaski Bridge). $16 general admission; free on first Fridays (extended to 8pm May–Sep). Street parking only — Vernon Blvd side streets can work weekends but allow time. Pairs cleanly with MoMA PS1 (~6 min drive) for a credible cross-borough museum day justifying the BQE haul from IC (Noguchi tickets — www.noguchi.org).",
+    "notes": "Address: 9-01 33rd Rd at Vernon Blvd, LIC (Queens, not Brooklyn — zone mapped to greenpoint as nearest enum value). Weekend hours 11am-6pm Sat/Sun; closed Mon-Tue (noguchi.org). General admission ~$16; free first Friday of the month; NYC residents can use Culture Pass (search results). Walk-up tickets only — no advance reservations. Free street parking on Vernon Blvd is realistic on weekends and shared with Socrates visitors directly across the street, making this a single-park-and-do-both anchor. Sunken sculpture garden is the photo highlight.",
     "sources": [
       {
         "url": "https://www.noguchi.org/museum/visit/plan/",
@@ -2955,8 +2955,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T01:19:21.604Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T01:51:13.843Z"
   },
   {
     "id": "bohemian-hall-beer-garden",
@@ -16819,12 +16819,12 @@
   {
     "id": "moma-ps1",
     "name": "MoMA PS1",
-    "desc": "Free contemporary art museum in a converted LIC public school — anchor of NYC's avant-garde scene",
-    "longDesc": "MoMA PS1 occupies a Romanesque Revival former public school in Long Island City and has been a contemporary art proving ground since 1976; its 50th-anniversary 'Greater New York 2026' survey spotlights 50+ NYC-area artists this spring. As of January 1, 2026 admission is permanently free for all visitors (gift from Sonya Yu, three-year program making it NYC's largest free museum). Weekend rhythm: doors open early Saturday at 10am, Sunday at noon, plus the legendary summer Warm Up outdoor music series in the courtyard.",
-    "url": "https://www.momaps1.org/en/visit",
-    "photoUrl": "https://d1tcycker2ppj.cloudfront.net/output=q:60/resize=width:1200,fit:max/KsO6RanSRkS2V4QCmNk7",
+    "desc": "Contemporary art kunsthalle in a converted LIC schoolhouse — free admission, ambitious shows",
+    "longDesc": "MoMA's experimental sibling, housed in a Romanesque Revival public school (1893) gutted into raw, multi-level galleries that suit large-scale installation art. Currently showing Greater New York 2026 (the museum's signature regional survey, through Aug 17) and Homeroom: Red Canary Song – Touch the Heart. Admission is free for everyone, and the building's stairwells, courtyard, and rooftop are part of the experience.",
+    "url": "https://www.momaps1.org/visit",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "greenpoint",
     "vibe": [
       "curious",
       "photo",
@@ -16834,30 +16834,22 @@
     "priceBand": "$",
     "duration": "90-120 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 10:00-18:00, Sun 12:00-18:00",
-    "notes": "Address: 22-25 Jackson Ave, LIC NY 11101. FREE admission for all starting Jan 1 2026, locked in for 3 years (press.moma.org). Closed Tue/Wed. No on-site parking — street parking is generally available on Saturdays in the warehouse blocks around Jackson/46th Ave; museum officially recommends 7/E/M to Court Sq or G to 21 St–Van Alst. Pairs naturally with SculptureCenter (8-min walk), Noguchi Museum (10-min drive north), and Socrates Sculpture Park for a full LIC art loop. Manhattan-skyline rooftop views from upper galleries; the courtyard hosts the YAP architectural commission each summer plus Warm Up Saturdays. Allow 90 min minimum — labyrinthine school-corridor layout rewards wandering.",
+    "hoursWeekend": "Sat 10:00-18:00, Sun 12:00-18:00 (closed Tue/Wed)",
+    "notes": "Free admission for everyone as of 2024 — no suggested donation gate at the door (momaps1.org/visit). Street parking on Jackson Ave is metered and limited; Court Square Municipal Garage at 45-40 Ct Square W is a 6-min walk and the reliable weekend option (momaps1.org/visit). Pairs naturally with Noguchi Museum (8 min drive north) and Socrates Sculpture Park (15 min) for a NW Queens art triangle. Warm Up summer DJ series typically runs Saturdays July-Sept in the courtyard — check programs page closer to date.",
     "sources": [
       {
-        "url": "https://www.momaps1.org/en/visit",
+        "url": "https://www.momaps1.org/visit",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://press.moma.org/wp-content/uploads/2025/12/Free-Admission-Press-Release_Final_.pdf",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.newyorkfamily.com/moma-ps1-offers-free-admission/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.momaps1.org/en/calendar",
+        "url": "https://www.nyctourism.com/museums-galleries/moma-ps1/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T00:55:36.314Z"
+    "lastResearchedAt": "2026-05-18T01:40:39.916Z"
   },
   {
     "id": "donna-nyc-west-village",
@@ -36032,5 +36024,144 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T01:30:29.173Z"
+  },
+  {
+    "id": "sculpturecenter",
+    "name": "SculptureCenter",
+    "desc": "Non-profit LIC museum for ambitious contemporary sculpture in a Maya Lin–renovated trolley repair shop.",
+    "longDesc": "Founded in 1928 and housed since 2002 in a former trolley repair shop renovated by Maya Lin, SculptureCenter is a small but heavyweight non-profit dedicated to experimental contemporary sculpture, with shows by emerging and mid-career international artists across a soaring ground-floor hall and raw cellar galleries. Admission is always free, and the LIC location pairs naturally with The Noguchi Museum and MoMA PS1 for an indoor sculpture-heavy rainy-day loop. (sculpture-center.org, nyctourism.com)",
+    "url": "https://www.sculpture-center.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat-Sun 12:00-18:00",
+    "notes": "Address 44-19 Purves St, Long Island City, NY 11101 — just off Jackson Ave near Court Sq/MoMA PS1 (yelp.com). Admission always free; hours Thu-Mon 12-6, closed Tue/Wed (sculpture-center.org). Note: temporarily closed for installation, reopening Thu May 28, 2026 — confirm exhibition status before routing. Building is a Maya Lin–renovated 1908 trolley repair shop, ~6,000 sq ft + cellar galleries. Drive from Industry City ~20 min via Gowanus/BQE; metered street parking on Purves/Jackson and several commercial lots within 2-3 blocks. Pairs as a 3-stop LIC sculpture loop: SculptureCenter → MoMA PS1 (5 min walk) → Noguchi Museum (~10 min drive). Best for the user's art-friend crowd given the experimental, artist-forward programming. NOT in Brooklyn but justified as adjacent indoor sculpture venue to Noguchi.",
+    "sources": [
+      {
+        "url": "https://www.sculpture-center.org/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.sculpture-center.org/visit/93/admission-and-accessibility",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/sculpturecenter/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sculpture-center-long-island-city-3",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T01:42:36.686Z"
+  },
+  {
+    "id": "bier-cheese-collective",
+    "name": "The Bier & Cheese Collective",
+    "desc": "Astoria cheesemonger + craft-beer bar; relocated successor to the closed Broadway shop, ~10 min from Noguchi",
+    "longDesc": "The continuation of the original Astoria Bier & Cheese concept after the Broadway location shuttered — now a Ditmars-corridor cheese counter, charcuterie bar, and craft-beer specialist with 100+ cheeses, mix-and-match six-packs ($2 corking fee to drink on site), and pressed melts. Walkable post-museum stop with curated bottles to take back to Brooklyn; weekend afternoons are calmest before the 5pm Astoria crowd.",
+    "url": "https://www.bierandcheese.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-19:00",
+    "notes": "ZONE NOTE: actual location is Astoria/Queens (35-11 Ditmars Blvd, 11105) — `greenpoint` chosen as the nearest Brooklyn enum value; corpus may need an `astoria` zone for the NW Queens track. LINEAGE: original 'Astoria Bier & Cheese' at 34-14 Broadway is permanently closed as of late 2025 (Yelp marked CLOSED Nov 2025; part of 50+ Astoria business closures reported by Queens Post). The Bier & Cheese Collective at Ditmars is the operative cheese-and-beer destination from the same lineage. From Noguchi Museum: ~10-12 min drive up Vernon Blvd → 21st St → Ditmars (slightly longer than the 6 min the task assumed for the dead Broadway site). Street parking available but tight on weekends in this residential stretch. Closed Mon-Tue — itinerary must place this on Wed-Sun only.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/the-bier-and-cheese-collective-astoria",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bierandcheese.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/the-bier-and-cheese-collective/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://destinationditmars.org/listing/the-bier-and-cheese-collective/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://queenspost.com/over-50-businesses-close-in-astoria-in-the-past-two-years-latest-being-selo-restaurant-on-broadway",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/astoria-bier-and-cheese-astoria",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T01:45:35.902Z"
+  },
+  {
+    "id": "halletts-point-esplanade",
+    "name": "Halletts Point Waterfront Esplanade",
+    "desc": "Brand-new 58,000 sq ft East River esplanade in Astoria with panoramic Manhattan skyline views",
+    "longDesc": "Opened August 2025 on a stretch of Astoria shoreline that was off-limits for generations, the Halletts Point Esplanade is a 58,000-square-foot Durst Organization public space designed by Starr Whitehouse Landscape Architects. A zig-zagging riverwalk threads past 200 boulders, 70 trees, and 83 native plant species, with 1,100+ linear feet of seating (benches, chaise lounges, picnic tables, movable chairs) and a nautically-themed playground — every turn reframes the midtown-to-UN skyline across the East River. It is the northern endpoint of the Vernon Blvd corridor that begins at Rainey Park and passes Socrates Sculpture Park.",
+    "url": "https://www.hallettspoint.com/neighborhood/",
+    "photoUrl": "https://qns.com/wp-content/uploads/2025/08/halletts-point-esplanade-astoria-east-river-waterfront01.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "photo",
+      "active",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "dawn-dusk",
+    "notes": "Entries at 27th Ave & 1st St and near 8th St / Astoria Blvd, Astoria, NY 11102. Free public access; no admission. Street parking on Vernon Blvd and 1st St is generally workable on weekends — same parking pattern as Socrates Sculpture Park 0.6 mi south, so one parking event can cover the full Socrates → Hallets walk (qns.com, durst.org). ~8,000 sq ft of ground-floor retail (cafes, shops) is rolling out at the water's edge, but counter on bringing your own coffee for now. Best light: late afternoon when the Manhattan skyline is lit from the west. Pairs natively with Rainey Park (south start) and Socrates Sculpture Park (midpoint) to make a continuous ~0.6 mi waterfront walk.",
+    "sources": [
+      {
+        "url": "https://qns.com/2025/08/halletts-point-esplanade-astoria-east-river-waterfront/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/a-58-000-square-foot-waterfront-esplanade-just-opened-in-astoria-081225",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.durst.org/news_items/6112",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.hallettspoint.com/neighborhood/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T01:49:09.398Z"
   }
 ]
