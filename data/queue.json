@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Alewife Brooklyn beer hall on Atlantic Ave",
-    "reason": "Closest serious craft-beer + food stop to UrbanGlass for post-class hangout, fills the drinks slot in a Downtown Brooklyn cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:08:16.158Z"
-  },
-  {
-    "topic": "Center for Fiction Brooklyn Heights",
-    "reason": "Bookstore/cafe/event space ~10 min walk from UrbanGlass; expands the 'curious indoor weekend' corpus in the Brooklyn Heights/Downtown zone",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:08:16.158Z"
-  },
-  {
-    "topic": "Brooklyn Metal Works Direct Casting intensive weekend class",
-    "reason": "Shorter weekend-friendly format at same respected studio — better fit for single-day itinerary than 8-week course",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:10:17.298Z"
-  },
-  {
-    "topic": "Brooklyn Metal Works Intro to Engraving Intensive",
-    "reason": "Intensive format means weekend-bookable; complements jewelry corpus with metal engraving variety",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:10:17.298Z"
-  },
-  {
-    "topic": "Liloveve Jewelry School Williamsburg one-day ring class",
-    "reason": "Direct competitor offering single-session beginner jewelry — fills the weekend-drop-in gap that BKMW's 8-week format leaves open",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:10:17.298Z"
-  },
-  {
     "topic": "Strong Rope Brewery Red Hook taproom weekend hours",
     "reason": "Another all-NY-grain brewery 8 min from IC — alternative anchor for a Red Hook track's drinks slot.",
     "requestedBy": "agent",
@@ -20464,5 +20434,107 @@
     "reason": "80 Hanson Pl in BAM Cultural District; adds a visual-art stop to round out a Fort Greene track without leaving the cluster",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T22:37:37.322Z"
+  },
+  {
+    "topic": "Fulton Hall beer hall at 250 Ashland Pl Downtown Brooklyn",
+    "reason": "Actual closest serious beer hall to UrbanGlass — 4-min walk, locally-produced beer + hand-crafted pub fare, fills the original reason behind the Alewife entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:41:00.169Z"
+  },
+  {
+    "topic": "Henry Street Ale House Brooklyn Heights craft beer",
+    "reason": "Strong Downtown Brooklyn craft-beer alternative, drivable from IC and tucked in the Heights for a quieter post-class vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:41:00.169Z"
+  },
+  {
+    "topic": "Craft+Carry at DeKalb Market Hall Downtown Brooklyn",
+    "reason": "Curated craft-beer counter inside DeKalb Market Hall — pairs drinks with a full food-hall menu, walkable from UrbanGlass and parks under the mall",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:41:00.169Z"
+  },
+  {
+    "topic": "61 Local Cobble Hill / Boerum Hill beer + food hall",
+    "reason": "Atlantic-Ave-corridor beer hall that might be what the source note was actually pointing at — verify whether the user meant this",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:41:00.169Z"
+  },
+  {
+    "topic": "Greenlight Bookstore Fort Greene",
+    "reason": "Beloved indie bookstore 5 min from Center for Fiction — deepens the curious/literary cluster in the Fort Greene/Brooklyn Heights zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:43:00.880Z"
+  },
+  {
+    "topic": "BAM Rose Cinemas weekend matinee",
+    "reason": "Across the street from Center for Fiction; indie/repertory film fits the same curious-indoor afternoon arc",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:43:00.880Z"
+  },
+  {
+    "topic": "Dekalb Market Hall food court Downtown Brooklyn",
+    "reason": "5-min walk; multi-cuisine food hall covers foodie+dietary needs after a quiet bookstore stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:43:00.881Z"
+  },
+  {
+    "topic": "Brooklyn Metal Works — Wax Working weekend class",
+    "reason": "Same studio, complementary jewelry-making skill (carve wax models for lost-wax casting); fits a recurring craft-track itinerary.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:44:52.329Z"
+  },
+  {
+    "topic": "Brooklyn Metal Works — Casting Chains workshop",
+    "reason": "Adjacent BKMW class focused on hand-fabricated silver chain — useful alternative for the same Prospect Heights stop.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:44:52.329Z"
+  },
+  {
+    "topic": "Bushwick Jewelry Casting — open studio / classes",
+    "reason": "Frequently named alongside BKMW as the other serious NYC casting studio; expands the corpus with a Bushwick option ~20 min from IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:44:52.329Z"
+  },
+  {
+    "topic": "Specific Gravity NYC — bench jewelry classes",
+    "reason": "BKMW collaborator (per specificgravitynyc.com/pages/about-brooklyn-metal-works); potential adjacent venue for fabrication-focused weekend learning.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:44:52.329Z"
+  },
+  {
+    "topic": "Brooklyn Metal Works Intro to Stone Setting weekend class",
+    "reason": "Same studio's other weekend-bookable intensive — pairs with engraving for a 'jewelry skills weekend' track in Prospect Heights",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:47:11.309Z"
+  },
+  {
+    "topic": "Liloveve Jewelry Studio Greenpoint beginner ring class",
+    "reason": "Adds a north-Brooklyn metalsmithing alternative outside the Gowanus/Prospect Heights cluster for variety in the jewelry corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:47:11.309Z"
+  },
+  {
+    "topic": "Brooklyn Craft Company hand-engraving or metal stamping workshop Williamsburg",
+    "reason": "Lower-commitment (2-3 hr) entry point that complements the 3-day intensive for users browsing the engraving theme",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:47:11.309Z"
+  },
+  {
+    "topic": "Brooklyn Metal Works (BKMW) Gowanus — drop-in or short jewelry workshops",
+    "reason": "Anchor competitor in the jewelry-making cluster; need to confirm any non-8-week offerings for comparison context",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:49:16.316Z"
+  },
+  {
+    "topic": "Brooklyn Craft Company Greenpoint — weekend ring or metal workshops",
+    "reason": "Another single-session craft school in driving range; rounds out the maker-class corpus for the harvester",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:49:16.316Z"
+  },
+  {
+    "topic": "59 Maiden — wax carving ring workshop Brooklyn",
+    "reason": "Alternative ring-making modality (lost-wax vs fabrication); pairs well with Liloveve for an upscale 'choose your technique' compare-page",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:49:16.316Z"
   }
 ]
