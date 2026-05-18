@@ -7729,10 +7729,10 @@
   },
   {
     "id": "court-street-grocers",
-    "name": "Court Street Grocers",
-    "desc": "Beloved Italian-American sandwich counter and grocery — Turkey Hero, Uncle Eddie, perfect picnic fuel for Carroll Park.",
-    "longDesc": "Court Street Grocers is the daytime answer to Frankies on the same Carroll Gardens stretch: a counter-service deli and small grocery turning out cult-status sandwiches like the Turkey Hero (Boar's Head turkey, herb mayo, pickled jalapeños), the Uncle Eddie (egg, ham, swiss), and the Tom Cat (broccoli rabe, mozzarella, sundried tomato). Order at the counter, walk three blocks down Court to Carroll Park, and you've got a picnic that beats most sit-down lunches in the neighborhood. Open 7 days, 8a–5p, which makes it the reliable midday counterpart to Frankies' dinner-leaning hours.",
-    "url": "https://www.courtstreetgrocers.com/",
+    "name": "Court Street Grocers (Carroll Gardens Flagship)",
+    "desc": "Cult-favorite Carroll Gardens sandwich shop — Balthazar/Caputo's bread, deep hero menu, painless grab-and-go.",
+    "longDesc": "The original Court Street Grocers at 485 Court St is the Brooklyn hero shop that built the modern NYC sandwich playbook — Balthazar baguettes, Caputo's seeded hoagie rolls, and slow-cooked proteins layered into heroes like the Ollie (roast turkey, broccoli rabe, hot honey), the Uncle Grandpa, and a textbook Cubano. Hot heroes run $16–$17.50 and orders move fast, which makes it the right pickup stop before a Red Hook or Brooklyn Bridge Park picnic (theinfatuation.com; courtstreetgrocers.com/menu-csg).",
+    "url": "https://www.courtstreetgrocers.com/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
@@ -7744,29 +7744,33 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
+    "duration": "15-25 min",
     "driveFromIC": "12 min",
     "driveFromFlushing": "30-35 min via Whitestone Expwy → GCP → BQE (I-278 W) → Hamilton Ave exit, then Court St north; weekend mornings before 10am closer to 28 min, midday Saturday can stretch to 40-45 min if BQE is backed up at the Kosciuszko or Williamsburg approach",
     "hoursWeekend": "08:00-17:00",
-    "notes": "485 Court St, Carroll Gardens. Order-at-counter — limited seating, designed for takeaway. Walk to Carroll Park (3 blocks, ~5 min) for the picnic move; or eat in the car with windows down. Cash + cards. Vegetarian options solid (Tom Cat, Pepper Steak nonwithstanding the meat eponyms — also egg sandwiches). Weekend parking on Court/Smith side streets is easier than weeknight but plan for 5-10 min of circling. (sources: courtstreetgrocers.com/contact-hours-csg, yelp.com/biz/court-street-grocers-brooklyn)",
+    "notes": "Flagship at 485 Court St, Carroll Gardens — daily 8am–5pm (courtstreetgrocers.com). Hot heroes $16–17.50, breakfast egg sandwich $9.95 (courtstreetgrocers.com/menu-csg). Signature picks: Ollie, Uncle Grandpa, Cubano, Ultimate Warrior; vegetarian Vegloaf Classic + Ollieflower at $16. Bread sourcing leans on Balthazar (French) and Caputo's down the street for seeded rolls (nycfoodguy.com). Order ahead via website/phone (833-533-3200) to avoid the lunch crush — pairs with a 5-min walk to Carroll Park or a 10-min drive to Valentino Pier in Red Hook. Note: there is no Smith Street CSG location; Smith St is one block west of Court St in the same neighborhood, so walking time from a Smith St meetup is ~5 min. Weekend street parking on Court/Clinton is workable but tight after 11am.",
     "sources": [
       {
-        "url": "https://www.courtstreetgrocers.com/contact-hours-csg",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.courtstreetgrocers.com/locations",
+        "accessed": "2026-05-18T05:35:00Z"
       },
       {
         "url": "https://www.courtstreetgrocers.com/menu-csg",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T05:35:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
+        "accessed": "2026-05-18T05:35:00Z"
+      },
+      {
+        "url": "https://nycfoodguy.com/2011/10/11/court-street-grocers/",
+        "accessed": "2026-05-18T05:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T15:22:41.260Z"
+    "lastResearchedAt": "2026-05-18T05:45:22.324Z"
   },
   {
     "id": "socrates-sculpture-park",
@@ -9476,8 +9480,8 @@
   {
     "id": "sahadis-atlantic-ave",
     "name": "Sahadi's",
-    "desc": "Iconic Middle Eastern grocer on Atlantic Ave — bulk nuts, olives, spices, prepared foods, edible souvenirs",
-    "longDesc": "A James Beard America's Classic and New York State Historic Business operating since 1948, Sahadi's is the Cobble Hill pantry stop: bulk bins of nuts, dried fruit, spices, and 24+ olive oils alongside 150 cheeses and a prepared-foods counter with fresh hummus, baba ghanoush, kibbeh, spinach pies, and mujadara. House-roasted nuts and halvah/baklava make it the strongest edible-souvenir stop in the cluster, and it pairs naturally with Books Are Magic, Damascus Bakery, and the rest of the Atlantic Ave Middle Eastern strip.",
+    "desc": "Century-old Middle Eastern grocer on Atlantic Ave — bulk spices, olives, halva, mezze counter",
+    "longDesc": "James Beard Award-winning family-run market that has anchored Brooklyn's Atlantic Avenue 'Little Syria' strip since 1948. Browse open barrels of dried fruit, nuts, and spices; grab labneh, fresh pita, and a half-pound of marinated olives or hummus from the cheese-and-prepared-foods counter for a picnic on the drive back.",
     "url": "https://sahadis.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -9485,7 +9489,7 @@
     "vibe": [
       "foodie",
       "curious",
-      "chill"
+      "photo"
     ],
     "dietary": [
       "vegetarian",
@@ -9496,37 +9500,25 @@
     "duration": "30-45 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "10:00-19:00",
-    "notes": "Closes 7pm daily — slot this BEFORE dinner, not after (sahadis.com). Bulk-bin counter is the signature experience; bring cash-friendly expectations for small weights. Hummus ~$3.95/lb made fresh multiple times daily (Tripadvisor). Halal/vegetarian/vegan-friendly by default — most of the prepared foods counter is plant-based. Atlantic Ave parking is metered street + paid lots near Court St; weekend turnover is tight but workable. Note: there is also a Sahadi's outpost INSIDE Industry City (34 35th St) — keep this entry pinned to the historic Atlantic Ave flagship since it's the Cobble Hill anchor (sahadis.com/locations).",
+    "notes": "187 Atlantic Ave between Court & Clinton; metered street parking on Atlantic plus side-street spots in Cobble Hill (sahadis.com/pages/locations). 10-min walk north from Frankies 457, so it pairs cleanly with a Carroll Gardens lunch. Take-home items like za'atar, rosewater, and dried apricots travel well; the prepared-foods counter has labeled vegan/vegetarian mezze and the dry-goods side is overwhelmingly halal-friendly (sahadis.com/pages/about).",
     "sources": [
       {
-        "url": "https://sahadis.com/",
-        "accessed": "2026-05-17T15:10:00Z"
+        "url": "https://sahadis.com/pages/locations",
+        "accessed": "2026-05-18T05:35:00Z"
       },
       {
-        "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-17T15:10:00Z"
+        "url": "https://sahadis.com/pages/about",
+        "accessed": "2026-05-18T05:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sahadis-brooklyn",
-        "accessed": "2026-05-17T15:10:00Z"
-      },
-      {
-        "url": "https://gothamist.com/food/inside-the-glorious-new-sahadis-in-industry-city",
-        "accessed": "2026-05-17T15:10:00Z"
-      },
-      {
-        "url": "https://citylore.org/places/sahadis/",
-        "accessed": "2026-05-17T15:10:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Attraction_Review-g60827-d7103791-Reviews-Sahadi_s-Brooklyn_New_York.html",
-        "accessed": "2026-05-17T15:10:00Z"
+        "accessed": "2026-05-18T05:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T15:08:39.679Z"
+    "lastResearchedAt": "2026-05-18T05:43:01.942Z"
   },
   {
     "id": "brooklyn-clay-industries",
@@ -16828,37 +16820,40 @@
   {
     "id": "moma-ps1",
     "name": "MoMA PS1",
-    "desc": "Contemporary art kunsthalle in a converted LIC schoolhouse — free admission, ambitious shows",
-    "longDesc": "MoMA's experimental sibling, housed in a Romanesque Revival public school (1893) gutted into raw, multi-level galleries that suit large-scale installation art. Currently showing Greater New York 2026 (the museum's signature regional survey, through Aug 17) and Homeroom: Red Canary Song – Touch the Heart. Admission is free for everyone, and the building's stairwells, courtyard, and rooftop are part of the experience.",
+    "desc": "Contemporary art museum in a converted LIC schoolhouse — free for all in 2026, weird, experimental, photogenic.",
+    "longDesc": "MoMA PS1 is the Museum of Modern Art's contemporary affiliate, housed in a Romanesque Revival former public school at 22-25 Jackson Ave in Long Island City. As of January 1, 2026 admission is free to all visitors (gift from Sonya Yu), making it NYC's largest free museum. Expect boundary-pushing installations, a James Turrell skyspace, and a sun-drenched courtyard that doubles as one of the best indoor/outdoor rainy-day art anchors near Brooklyn.",
     "url": "https://www.momaps1.org/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "curious",
-      "photo",
-      "chill"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "90-120 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 10:00-18:00, Sun 12:00-18:00 (closed Tue/Wed)",
-    "notes": "Free admission for everyone as of 2024 — no suggested donation gate at the door (momaps1.org/visit). Street parking on Jackson Ave is metered and limited; Court Square Municipal Garage at 45-40 Ct Square W is a 6-min walk and the reliable weekend option (momaps1.org/visit). Pairs naturally with Noguchi Museum (8 min drive north) and Socrates Sculpture Park (15 min) for a NW Queens art triangle. Warm Up summer DJ series typically runs Saturdays July-Sept in the courtyard — check programs page closer to date.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 10:00-18:00 · Sun 12:00-18:00",
+    "notes": "Free admission for all beginning Jan 1, 2026, made possible by Sonya Yu (press.moma.org). Closed Tue/Wed. Saturday opens at 10am — earliest cultural anchor in the area. Address: 22-25 Jackson Ave, LIC, Queens, NY 11101. Drive from Industry City via Gowanus/BQE/Pulaski Bridge ~15-22 min off-peak; metered street parking on Jackson/47th/21st and several commercial lots within 3 blocks on weekends. Pairs naturally with Gantry Plaza State Park (5-min drive north along the LIC waterfront) for a single LIC half-day. Free lockers and wheelchair-accessible (momaps1.org/visit).",
     "sources": [
       {
         "url": "https://www.momaps1.org/visit",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/museums-galleries/moma-ps1/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://press.moma.org/wp-content/uploads/2025/12/Free-Admission-Press-Release_Final_.pdf",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/articles/moma-ps1-guide/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T01:40:39.916Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:35:44.889Z"
   },
   {
     "id": "donna-nyc-west-village",
@@ -35922,8 +35917,8 @@
   {
     "id": "casa-enrique",
     "name": "Casa Enrique",
-    "desc": "Michelin-starred Chiapas-style Mexican in LIC — chef Cosme Aguilar's family recipes, 8 min from MoMA PS1.",
-    "longDesc": "Chef Cosme Aguilar's tiny LIC dining room earned its first Michelin star in 2014 and has held it every year since, the longest-running Michelin-starred Mexican in NYC. The rarely-changing menu leans on Chiapas family recipes — branzino al pastor in guajillo-achiote, slow-braised lamb shank in fruity-spicy broth, and mole in every form (chicken enchilada, chicken-and-rice). Locks in the MoMA PS1 → dinner cap of the LIC museum-and-mezcal track.",
+    "desc": "Michelin-starred Chiapas-rooted Mexican in LIC with mole de piaxtla, vegan tacos, and an under-radar mezcal list.",
+    "longDesc": "Chef Cosme Aguilar's Chiapas-inflected tasting menu has held a Michelin star continuously since 2014, the first Mexican restaurant in NYC to earn one. The room is small and bright-tiled — book ahead via Resy — and the kitchen handles vegetarian, vegan (seasonal vegan taco with onion + cilantro), and gluten-free requests well. Pair late-afternoon golden hour at Gantry Plaza State Park with a 7-8pm dinner here; sunsets sit directly across the East River.",
     "url": "https://casaenriquelic.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -35934,35 +35929,44 @@
     ],
     "dietary": [
       "vegetarian",
+      "vegan",
       "gluten-free"
     ],
-    "priceBand": "$$",
+    "priceBand": "$$$",
     "duration": "90-120 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 11:00-22:30, Sun 11:00-22:15",
-    "notes": "Actually located in Long Island City, Queens (5-48 49th Ave, 11101) — closest valid zone in schema is greenpoint, just across Newtown Creek. Reservations strongly recommended via Resy or OpenTable (Michelin Guide). Street parking only — paid lots nearby on weekends, allow 10 min buffer (Yelp). Phone (347) 448-6040. Pairs naturally with a pre-dinner MoMA PS1 visit (8 min drive) for the museum→dinner track in the brief.",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "11:00-22:30",
+    "notes": "Address: 5-48 49th Ave, LIC, NY 11101 (Michelin Guide). Sat 11:00-22:30, Sun 11:00-22:15; weekend brunch 11:00-15:30 ($30-50pp). Dinner entrees commonly $28-42, mole de piaxtla and Chiapas-style tamales are house signatures. Street parking on 49th Ave / Vernon Blvd is doable on weekends; paid garages on Jackson Ave as backup (Yelp). ~20 min drive from Industry City via Gowanus + BQE; pairs naturally with a Gantry Plaza sunset (1-block walk). Vegetarian/vegan/GF options confirmed on menu (Borough Vegetarian, restaurant menu). Note: this is the only Queens venue in the corpus — justified by Michelin pedigree + Gantry-track anchor; not a fit for IC-only days.",
     "sources": [
       {
         "url": "https://casaenriquelic.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/casa-enrique",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Casa_Enrique",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/casa-enrique-long-island-city",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://resy.com/cities/new-york-ny/venues/casa-enrique",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.boroughvegetarian.com/2015/02/exceeding-tasty-mexican-in-long-island-city-queens-casa-enrique.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T01:17:31.704Z"
+    "lastResearchedAt": "2026-05-18T05:38:05.578Z"
   },
   {
     "id": "june-bk-cobble-hill",
@@ -38047,5 +38051,50 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T05:29:30.565Z"
+  },
+  {
+    "id": "prime-meats-closed",
+    "name": "Prime Meats (Permanently Closed)",
+    "desc": "Closed Dec 2018; Castronovo-Falcinelli German-Italian spot — space is now F&F Restaurant and Bar.",
+    "longDesc": "Prime Meats was the Germanic sibling to Frankies 457 Spuntino at 465 Court St, opened by Frank Castronovo and Frank Falcinelli and known for steaks, sausages, and a great brunch. It closed permanently on Sunday, Dec 2, 2018 (Brooklyn Eagle). The Franks first converted the space into Franks Wine Bar, then in February 2025 reopened it as F&F Restaurant and Bar — a proper sit-down successor that now anchors the brunch slot on the Frankies block.",
+    "url": "https://www.yelp.com/biz/prime-meats-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "0 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Closed permanently",
+    "notes": "DO NOT promote to itinerary — venue closed since 2018-12-02 (Brooklyn Eagle). The Frankies team expanded into the space: first Franks Wine Bar (also now closed), then F&F Pizzeria in the converted garage between 457 and 465 (Gothamist, 2019), and most recently F&F Restaurant and Bar opened Feb 2025 in the old wine-bar/Prime Meats footprint (OpenTable blog). For the brunch slot on the Frankies block, use F&F Restaurant and Bar or Frankies 457 Spuntino brunch instead.",
+    "sources": [
+      {
+        "url": "https://brooklyneagle.com/articles/2018/11/28/prime-meats-in-carroll-gardens-is-closing-this-weekend/",
+        "accessed": "2026-05-18T05:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/prime-meats-brooklyn",
+        "accessed": "2026-05-18T05:40:00Z"
+      },
+      {
+        "url": "https://www.diffordsguide.com/bars/Wzblp9/prime-meats",
+        "accessed": "2026-05-18T05:40:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/blog/f-f-restaurant-bar/",
+        "accessed": "2026-05-18T05:40:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/franks-open-slice-joint-brooklyn-and-pizza-fiends-swarm",
+        "accessed": "2026-05-18T05:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T05:40:50.885Z"
   }
 ]
