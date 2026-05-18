@@ -28329,16 +28329,16 @@
   },
   {
     "id": "devocion-williamsburg-flagship",
-    "name": "Devoción Williamsburg Flagship",
-    "desc": "Pitched-skylight Colombian coffee flagship with sunlit courtyard and 35-species plant wall.",
-    "longDesc": "Devoción's Williamsburg flagship at 148 Grand St is built around a full-length pitched-glass skylight that floods a sunlit courtyard and a floor-to-ceiling living plant wall of 35+ Colombian species. Guests enter via an exposed-brick corridor that opens into the greenery, with a street-visible coffee laboratory used for public cuppings and classes — a far more dramatic photo backdrop than the Industry City branch. Bean-to-cup in roughly 10 days from Colombian farms.",
-    "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-    "photoUrl": "https://www.devocion.com/cdn/shop/files/Devocion_Wburg_1025_LizClayman_012_3.jpg?height=1600&v=1771773547",
+    "name": "Devoción Williamsburg (Flagship Roastery)",
+    "desc": "Colombian direct-trade flagship with two-story living plant wall, on-site roaster behind glass, and skylight-lit campo interior.",
+    "longDesc": "Devoción's Williamsburg flagship at 69 Grand St is the brand's roastery and original café — designed like a Colombian coffee farm with a pitched roof, sunlit courtyard, exposed brick, leather sofas, and a two-story vertical garden containing roughly 150 live Colombian coffee plants. Beans arrive farm-fresh from Bogotá and are roasted on-site within ~10 days of harvest, viewable through gallery windows. The cavernous 18-foot-window space gives it a high-ceiling photo moment that smaller Williamsburg cafés can't replicate, with reliable seating churn on weekend mornings before the 10am rush.",
+    "url": "https://www.devocion.com/pages/devocion-cafe-williamsburg-brooklyn-ny",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "photo",
       "chill",
+      "photo",
       "curious"
     ],
     "dietary": [
@@ -28346,27 +28346,31 @@
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "07:30-18:00",
-    "notes": "Pitched-roof skylight + courtyard + living plant wall make it the strongest 'photo-first coffee stop' in the Williamsburg track (devocion.com). Coffee lab visible from the street hosts public cuppings/classes (devocion.com). Pair as morning anchor before Smorgasburg or Wythe-corridor galleries. Street parking on Grand/Berry is doable weekend mornings; metered after 9am.",
+    "notes": "Flagship at 69 Grand St, Williamsburg (not the 148 Grand listing that shows up on legacy aggregators). Direct-trade Colombian model — only roaster in NYC serving beans ~10 days post-harvest (brooklynpaper.com). Vertical garden + skylight + roaster-behind-glass = strong photo + curious vibe. Street parking only on Grand/Berry/Wythe; arrive before 10am weekends or expect 10-15 min circling. Pastries to try: dulce de leche kouign amann, guava croissant. Coffee skews bright/clean — distinctly different from Greenpoint's Sey (filter-forward) and Partners (espresso-led), so the LIC return route can support both a Williamsburg AND Greenpoint coffee stop without redundancy. Drive from IC: BQE N to Metropolitan/Grand exit, ~6.5 mi, ~18-22 min weekend midday (devocion.com).",
     "sources": [
       {
-        "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.devocion.com/pages/devocion-cafe-williamsburg-brooklyn-ny",
+        "accessed": "2026-05-18T10:40:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
+        "accessed": "2026-05-18T10:40:00Z"
       },
       {
         "url": "https://www.brooklynpaper.com/devocion-freshest-colombian-coffee/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T10:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
+        "accessed": "2026-05-18T10:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T13:44:06.610Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:47:01.512Z"
   },
   {
     "id": "sing-sing-karaoke-ave-a",
@@ -32660,46 +32664,51 @@
   {
     "id": "variety-coffee-greenpoint",
     "name": "Variety Coffee Roasters (Greenpoint)",
-    "desc": "Chill Greenpoint coffee roaster with outdoor seating, pastries, and house-roasted single-origins near McGolrick Park.",
-    "longDesc": "Variety's Greenpoint outpost on Driggs Ave is a bright, lingering-friendly cafe a few blocks from McGolrick Park, pouring well-pulled lattes, cortados, and pourovers from their own roastery. Open 7am-9pm daily with free Wi-Fi, a solid pastry case, and a small outdoor seating strip that fills up on weekends — easy to plug in or to grab-and-walk to the park.",
+    "desc": "Original 2008 Variety roastery on Driggs — pour-overs, back patio, one block off Manhattan Ave",
+    "longDesc": "The original Variety Coffee, opened 2008, sits at the corner of Driggs Ave and Java St — not on Manhattan Ave itself but one residential block east. Single-origin pour-overs, in-house roasting, and a quiet back patio make it a destination for serious coffee folks; weekend hours run 7am–9pm. The Driggs address is the parking-friendly side of the venue's identity, not the commercial Manhattan Ave frontage.",
     "url": "https://varietycoffeeroasters.com/pages/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "chill",
-      "foodie"
+      "curious"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "22 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "07:00-21:00",
-    "notes": "142 Driggs Ave at the McGolrick Park edge of Greenpoint; street parking is usually findable on Driggs/Russell on weekend mornings (varietycoffeeroasters.com). Outdoor seating + early 7am open makes it a good first stop before driving north for a Greenpoint track. Roast-to-pour is in-house so single-origins rotate (yelp.com).",
+    "notes": "Address is 142 Driggs Ave at Java St — corner is residential, NOT on Manhattan Ave proper. Manhattan Ave between Huron and India is a known parking trap with deceptive metered/no-standing signs side-by-side (CBS New York). Driggs and the surrounding residential side streets (Java, India, Huron, Kent) are alternate-side metered but workable on weekends; Sundays in particular tend to free up by late morning. Drive from IC is BQE Exit 23 north → Humboldt/McGuinness exit, ~18–22 min off-peak. Backup garage: Little Man Parking at 626 Driggs Ave (~$11/hr, 24/7) for guaranteed spot. Verdict: Greenpoint is reachable, but Williamsburg coffee options (~12–15 min from IC) are closer for similar quality — Variety justifies the extra drive only for the roastery experience and patio.",
     "sources": [
       {
         "url": "https://varietycoffeeroasters.com/pages/locations",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/variety-brooklyn",
+        "url": "https://www.newyorkcoffeeguide.com/Venues/Profile/Variety-Coffee-Roasters-Greenpoint",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://yourbrooklynguide.com/coffee-shops-in-greenpoint/",
+        "url": "https://www.cbsnews.com/newyork/news/greenpoint-ticket-trap/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.tryperdiem.com/guide/best-coffee-spots-in-greenpoint",
+        "url": "https://littlemanparking.com/facilities/driggs-parking-garage/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/faq/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T09:45:14.142Z"
+    "lastResearchedAt": "2026-05-18T10:42:38.674Z"
   },
   {
     "id": "librae-bakery",
@@ -40963,5 +40972,140 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T10:35:46.893Z"
+  },
+  {
+    "id": "m-wells-steakhouse",
+    "name": "M. Wells Steakhouse",
+    "desc": "Refurbished auto-body garage turned scarlet-walled steakhouse; Sunday brunch is the weekend daytime window.",
+    "longDesc": "Hidden in a former Collision Inc. body shop on Crescent St in LIC, the Steakhouse keeps the rolling metal garage doors and skylights but cloaks the brick in boudoir-red paint, gold decoupage ceilings, and chandeliers — one of the most photogenic dining rooms in greater Brooklyn-Queens. Weekend lunch only lands on Sunday (11am-3pm brunch); Saturday is dinner-only from 5pm. It's the meat-forward, high-vibe alternative when Casa Enrique is full or the group wants a destination room.",
+    "url": "https://www.magasinwells.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 17:00-22:00 (dinner), Sun 11:00-15:00 (brunch); closed Mon-Tue",
+    "notes": "Actually located in LIC, Queens (43-15 Crescent St) — tagged greenpoint as closest zone since LIC isn't in the enum; ~22 min via BQE from Industry City on weekends. No street signage — entrance is through a small courtyard next to a body-shop facade (theinfatuation.com). Interior is the photo-op: red-painted brick, gold-papered ceiling, skylights with golden-fish decoupage (tastingtable.com, urbanologie.com). Saturday lunch is NOT available — group must commit to Sunday brunch or Saturday dinner. Reservations via the official site. Street parking in LIC is generally available on weekends.",
+    "sources": [
+      {
+        "url": "https://www.magasinwells.com/reserve/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/m-wells-steakhouse",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tastingtable.com/689031/m-wells-steakhouse-in-long-island-city-queens/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://urbanologie.com/article/957-m-wells-steakhouse",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/m-wells-steakhouse-long-island-city",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:38:10.346Z"
+  },
+  {
+    "id": "mu-ramen-lic",
+    "name": "Mu Ramen (CLOSED)",
+    "desc": "Former LIC tonkotsu destination on Jackson Ave — permanently closed as of 2026; do not route guests here.",
+    "longDesc": "Mu Ramen at 12-09 Jackson Ave in Long Island City was a destination ramen shop known for its 20-hour Tonkotsu 2.0 and an oxtail-and-bone-marrow 'Mu' bowl with brisket and half-sour pickle. Yelp and Foursquare both list it as permanently closed (Yelp 'CLOSED' tag updated April 2026; Foursquare 'Now Closed'). Use Ramen Spot or Takumen for the same Industry City→LIC ramen detour instead.",
+    "url": "https://www.yelp.com/biz/mu-ramen-new-york-2",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "CLOSED — permanently shuttered",
+    "notes": "Former address 12-09 Jackson Ave, LIC 11101 (Yelp). Pre-closure, weekend service was dinner-only (Sat/Sun 5:30pm+); no weekend lunch window even when open, which already disqualified it for a Sat/Sun Industry City detour. Signature bowls were Tonkotsu 2.0 ($15) and the namesake Mu oxtail-marrow ramen ($18) (allmenus). Street parking on Jackson Ave was reportedly available but limited. Closure confirmed by Yelp 'CLOSED' status (accessed April 2026) and Foursquare 'Now Closed' listing. RECOMMENDATION: hard-exclude from itinerary generation; redirect ramen-shaped Industry City detours to Ramen Spot (44-12 23rd St, LIC) — see enqueue.",
+    "sources": [
+      {
+        "url": "https://m.yelp.com/biz/mu-ramen-new-york-2",
+        "accessed": "2026-05-18T10:40:00Z"
+      },
+      {
+        "url": "https://foursquare.com/muramen1787718",
+        "accessed": "2026-05-18T10:40:00Z"
+      },
+      {
+        "url": "https://www.allmenus.com/ny/long-island-city/477057-mu-ramen/menu/",
+        "accessed": "2026-05-18T10:40:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/mu-ramen",
+        "accessed": "2026-05-18T10:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:40:07.731Z"
+  },
+  {
+    "id": "champion-coffee-greenpoint",
+    "name": "Champion Coffee Greenpoint (CLOSED)",
+    "desc": "Former Greenpoint neighborhood cafe — permanently closed since 2021; not bookable for return-leg coffee.",
+    "longDesc": "Champion Coffee operated as a Greenpoint fixture from 2006 with locations at 1107 Manhattan Ave and later 142 Nassau Ave, known for espresso, baguettes, and egg sandwiches. Greenpointers reported the Manhattan Ave shop's closure in December 2021, and Yelp listings for both addresses are flagged CLOSED as of May 2026 (greenpointers.com, yelp.com). The brand's official locations page (championcoffee.com/pages/locations) now returns HTTP 404, and no surviving West Street outpost was found — the closest cafe to the Pulaski Bridge landing slot needs to be filled by a different venue.",
+    "url": "https://greenpointers.com/2021/12/08/champion-coffee-closes-in-greenpoint/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "CLOSED (permanently, since Dec 2021)",
+    "notes": "DO NOT SCHEDULE — venue permanently closed. Greenpointers obituary confirms Dec 2021 closure of the 1107 Manhattan Ave shop (greenpointers.com/2021/12/08/champion-coffee-closes-in-greenpoint/). Yelp lists both 142 Nassau Ave and 1107 Manhattan Ave as CLOSED, updated May 2026 (yelp.com/biz/champion-coffee-new-york-4). Foursquare echoes 'Now Closed' (foursquare.com). No West St location is documented in any directory; the West St framing in the brief appears to be stale or speculative. Champion's official locations page 404s, indicating no surviving NYC outpost. Recommend replacing this slot with a live Greenpoint cafe — see enqueue entries.",
+    "sources": [
+      {
+        "url": "https://greenpointers.com/2021/12/08/champion-coffee-closes-in-greenpoint/",
+        "accessed": "2026-05-18T10:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/champion-coffee-brooklyn-2",
+        "accessed": "2026-05-18T10:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/champion-coffee-greenpoint",
+        "accessed": "2026-05-18T10:40:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/champion-coffee/5634f0c9498e207099fb2057",
+        "accessed": "2026-05-18T10:40:00Z"
+      },
+      {
+        "url": "https://www.championcoffee.com/pages/locations",
+        "accessed": "2026-05-18T10:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:44:57.652Z"
   }
 ]
