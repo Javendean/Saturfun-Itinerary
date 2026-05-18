@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Frankel's Delicatessen Greenpoint smoked-fish sandwiches",
-    "reason": "Adjacent classic-Brooklyn deli archetype, fills a Greenpoint cluster food slot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:18:34.243Z"
-  },
-  {
-    "topic": "Defonte's of Brooklyn Red Hook Italian heroes",
-    "reason": "Closer IC-radius alternative for a sandwich stop tied to Red Hook breweries",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:18:34.243Z"
-  },
-  {
-    "topic": "Other Half Brewing Centre St Manhattan taproom hours and food policy",
-    "reason": "Pairs directly with this entry — confirms whether outside food is welcome before/after the Court St stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:18:34.244Z"
-  },
-  {
-    "topic": "LIC Landing pavilion cafe at Hunters Point South",
-    "reason": "Seasonal waterfront concession inside HPSP — completes the food angle for the LIC skyline stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:20:41.655Z"
-  },
-  {
-    "topic": "Newtown Creek Nature Walk at North Henry St",
-    "reason": "Cross-creek companion to HPSP's salt marsh — pairs with a Greenpoint loop after the LIC stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:20:41.655Z"
-  },
-  {
     "topic": "WNYC Transmitter Park Greenpoint waterfront",
     "reason": "Greenpoint-side skyline pier extends the same waterfront-views track if the user wants two zones in one drive",
     "requestedBy": "agent",
@@ -16144,5 +16114,71 @@
     "reason": "Story hook tied to Strong Rope's supply chain — could power a 'how your beer got here' chat thread or harvester topic, and connects to Hudson Valley Malt as a separate corpus entry.",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T08:07:15.186Z"
+  },
+  {
+    "topic": "Baz Bagel Greenpoint outpost bagel and lox",
+    "reason": "Frankel's sources Baz bagels — the originator is a natural adjacent appetizing-deli candidate for the Greenpoint cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:09:30.945Z"
+  },
+  {
+    "topic": "Greenpoint Fish & Lobster Co. raw bar lunch",
+    "reason": "Different smoked/raw seafood archetype in the same neighborhood for a midday cluster contrast",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:09:30.945Z"
+  },
+  {
+    "topic": "Other Half Brewing Red Hook taproom",
+    "reason": "Natural brewery pairing 5 min from Defonte's — completes a Red Hook hero+beer micro-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:11:32.572Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens sandwich shop hours and standout sandwiches",
+    "reason": "Direct food pairing for Other Half BYO policy — already cited as a local rec by Other Half itself",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:13:26.203Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom — hours, kitchen, parking",
+    "reason": "Adjacent craft-brewery option ~5 min from IC with its own food, useful as a Carroll Gardens/Gowanus alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:13:26.203Z"
+  },
+  {
+    "topic": "Strong Rope Brewery Red Hook taproom — hours, food policy, parking",
+    "reason": "Red Hook small-batch brewery within the 15-min drive cluster from IC; tests another BYO-friendly node",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:13:26.203Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park neon LONG ISLAND sign waterfront walk",
+    "reason": "Directly adjacent to LIC Landing — combined waterfront loop is the canonical LIC skyline experience",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:15:16.921Z"
+  },
+  {
+    "topic": "Anable Basin Sailing Bar & Grill LIC seasonal waterfront",
+    "reason": "Other major LIC seasonal waterfront food concession — completes the LIC outdoor-dining set",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:15:16.921Z"
+  },
+  {
+    "topic": "Sweetleaf Coffee LIC Center Blvd location",
+    "reason": "Year-round indoor coffee fallback when LIC Landing is closed off-season",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:15:16.921Z"
+  },
+  {
+    "topic": "WNYC Transmitter Park Greenpoint waterfront pier",
+    "reason": "Greenpoint loop companion 8 min south — Manhattan skyline pier complements Nature Walk's industrial sublime",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:17:44.132Z"
+  },
+  {
+    "topic": "Newtown Creek Wastewater Treatment Plant Visitor Center tour",
+    "reason": "Free public tours on select weekends explain the Digester Eggs the walk frames — deepens the curious-vibe payoff",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T08:17:44.132Z"
   }
 ]
