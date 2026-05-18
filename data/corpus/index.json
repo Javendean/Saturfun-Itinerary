@@ -7800,10 +7800,10 @@
   {
     "id": "socrates-sculpture-park",
     "name": "Socrates Sculpture Park",
-    "desc": "Free 5-acre outdoor sculpture park on the East River with skyline views, four blocks from Noguchi.",
-    "longDesc": "Founded 1986 by Mark di Suvero on a former illegal dumpsite, Socrates is a working production studio + exhibition ground for large-scale public art, with the Manhattan skyline as backdrop across the East River. The current rotating commission is The Socrates Annual 2025: Up/Rooted, on view through June 8, 2026 (socratessculpturepark.org). Pairs naturally with The Noguchi Museum four blocks south on Vernon Blvd — indoor/outdoor sculpture in one walking loop.",
+    "desc": "Free outdoor sculpture park on the East River with rotating large-scale installations and Manhattan skyline views.",
+    "longDesc": "A 4.5-acre waterfront park at 32-01 Vernon Blvd in Long Island City/Astoria, founded in 1986 by Mark di Suvero on a former illegal dumpsite. It hosts rotating monumental outdoor sculpture (currently 'The Socrates Annual 2025: Up/Rooted' through Jun 8, 2026, with 'Artists Choose Artists' opening Jun 1, 2026), an open-air gallery, and a riverfront lawn facing the Manhattan skyline. Pairs perfectly with the Noguchi Museum one block south for a half-day LIC art loop.",
     "url": "https://socratessculpturepark.org/",
-    "photoUrl": "https://socratessculpturepark.org/wp-content/uploads/exhibition/broadway-billboard-river-whittle/annual-1-1024x683.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
@@ -7813,17 +7813,21 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "25 min",
     "hoursWeekend": "09:00-sunset",
-    "notes": "Actually in Long Island City, Queens (32-01 Vernon Blvd) — closest valid zone enum is greenpoint, just across the Pulaski Bridge. Admission free, every day 9am to sunset (socratessculpturepark.org/visit/directions-and-hours/). No on-site parking except one ADA spot at Vernon/Broadway; free street parking on Vernon Blvd and side streets is generally available on weekends, may need to walk a block (socratessculpturepark.org access-and-facilities). Seasonal portable restrooms May-October only; closed Nov-Apr. Best paired with The Noguchi Museum (4 blocks south) for an indoor+outdoor sculpture afternoon. East River waterfront access is the photo spot.",
+    "notes": "Actually in Long Island City/Astoria, Queens — mapped to greenpoint zone as the closest cross-creek neighbor since the schema lacks an LIC/Astoria zone. Free admission 365 days/yr, 9am to sunset (socratessculpturepark.org). No on-site parking except one ADA spot; small public lot at 33rd Rd & Vernon Blvd next to Rainey Park, plus neighborhood street parking (socratessculpturepark.org/about-us/faqs). Pair with the Noguchi Museum one block south on Vernon Blvd for a natural LIC art double-feature. Riverfront lawn is photo-friendly at golden hour with Roosevelt Island and the UES skyline as backdrop.",
     "sources": [
       {
-        "url": "https://socratessculpturepark.org/",
+        "url": "https://socratessculpturepark.org/visit/directions-and-hours/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://socratessculpturepark.org/visit/access-and-facilities/",
+        "url": "https://socratessculpturepark.org/exhibitions/current/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://socratessculpturepark.org/about-us/faqs/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -7833,8 +7837,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T09:18:20.380Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:28:35.404Z"
   },
   {
     "id": "casa-enrique-lic",
@@ -18495,47 +18499,44 @@
   {
     "id": "domino-park",
     "name": "Domino Park",
-    "desc": "6-acre waterfront park on the old Sugar Refinery site with elevated walkway and unobstructed Manhattan skyline views.",
-    "longDesc": "Built on the former Domino Sugar Refinery in South Williamsburg, this Two Trees-developed park stretches a quarter-mile along the East River with a 30-foot elevated walkway supported by 21 preserved refinery columns. The lawn, fog bridge, and bocce/volleyball courts sit directly across from a wide-open Manhattan skyline — best at golden hour. In-park food comes from Tacocina (Danny Meyer's taqueria), so you can shoot photos and eat without moving the car.",
-    "url": "https://www.dominopark.com/",
-    "photoUrl": "https://sanity-prod-domino-park.b-cdn.net/images/4shd8slw/production/1af413f097600090224f20b81d1dbe2afc6c36fb-4096x2916.jpg?w=1600&q=80&fit=clip&auto=format",
+    "desc": "East River waterfront park on the old Domino Sugar Refinery site — open lawns, fountain, taco bar, Manhattan skyline views.",
+    "longDesc": "Six-acre Two Trees-built park stretching five blocks along the Williamsburg waterfront, anchored by 21 salvaged syrup tanks and an elevated walkway through the refinery's old crane tracks. Includes a fog-jet plaza, dog run, bocce courts, beach-volleyball, and Tacocina (a Danny Meyer outdoor taqueria). Weekend driving access is easy thanks to the dedicated 325 Kent Ave parking garage with entrances on South 3rd or South 4th between Kent and Wythe.",
+    "url": "https://www.dominopark.com/visit",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "photo",
       "chill",
+      "photo",
+      "active",
       "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "45-75 min",
-    "driveFromIC": "14 min",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "06:00-23:00",
-    "notes": "Entrance at 15 River St (entries along Kent Ave at S5/S3/Grand). Free; park is open daily 6am-11pm (dominopark.com). Tacocina open Fri-Sat 11am-10pm, Sun 11am-9pm (dominopark.com). No on-site lot; nearest paid parking is 325 Kent Ave garage, otherwise street parking on Kent/Wythe (hellolittlehome.com, bklyndesigns.com). Elevated walkway above Tacocina is the prime skyline-photo spot — early morning or pre-sunset avoids weekend crowds. Strong swap for LIC Gantry when BQE northbound times spike.",
+    "notes": "Park entrances at Kent Ave & S 5th, S 3rd St, and Grand St (dominopark.com). Onsite parking at 325 Kent Ave with entrances on South 3rd or South 4th between Kent and Wythe (dominopark.com). Backup garages within a 3–8 min walk: 321 Wythe Ave (closest, valet ~$42 weekends), 416 Kent Ave (~$7 weekends, cheapest), 420 Kent Ave (~$7), 184 Kent Ave (~$9) per SpotHero. The Waterfront Promenade and Pier Reveal viewing steps put you right on the East River with Manhattan-skyline sightlines. Tacocina (vegetarian-friendly tacos) is on-site for a quick stop without leaving the park.",
     "sources": [
       {
-        "url": "https://www.dominopark.com/",
-        "accessed": "2026-05-16T21:30:00Z"
+        "url": "https://www.dominopark.com/visit",
+        "accessed": "2026-05-18T10:30:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Domino_Park",
-        "accessed": "2026-05-16T21:30:00Z"
+        "url": "https://www.dominopark.com/plan-your-visit",
+        "accessed": "2026-05-18T10:30:00Z"
       },
       {
-        "url": "https://hellolittlehome.com/domino-park-brooklyn/",
-        "accessed": "2026-05-16T21:30:00Z"
-      },
-      {
-        "url": "https://bklyndesigns.com/domino-park/",
-        "accessed": "2026-05-16T21:30:00Z"
+        "url": "https://spothero.com/destination/nyc/domino-park-parking",
+        "accessed": "2026-05-18T10:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:25:05.605Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:26:11.850Z"
   },
   {
     "id": "shelskys-of-brooklyn",
@@ -40811,5 +40812,156 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T10:20:49.867Z"
+  },
+  {
+    "id": "ipark-34-north-7th-valet",
+    "name": "iPark – 34 North 7th Valet Garage",
+    "desc": "Indoor valet garage under The Edge condo — short-stop North Williamsburg parking one block from Bedford Ave L.",
+    "longDesc": "Attended valet-only garage at 34 N 7th St in the basement of The Edge North Tower, capacity ~361 cars. Pre-paid bookings via SpotHero/ParkWhiz/ParkMobile typically start around $7+ for short stops and run $15-ish for 2 hours at nearby Williamsburg garages; drive-up rates aren't published, so book ahead. Max vehicle height 6'7\"; no Tesla, Rivian, Cybertruck, or exotic/luxury EVs accepted.",
+    "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/ipark-34-north-7th-parking-garage",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "06:00-23:59",
+    "notes": "Valet-only indoor garage under The Edge North Tower (ipark.com). Hours 6 AM–11:59 PM daily; overnight cars must drop/pickup within that window (parkmobile.io). Capacity 361 cars, max height 6'7\"; Tesla/Rivian/Cybertruck and most exotic EVs refused (parkwhiz.com). Drive-up rates not published — book online via SpotHero, ParkWhiz, or ParkMobile for guaranteed pricing; nearby benchmark $15 for 2hr in Williamsburg (spotangels.com). Phone 646-350-0629. One block from Bedford Ave L makes it a strategic park-once anchor for South Williamsburg/Bushwick restaurant crawls.",
+    "sources": [
+      {
+        "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/ipark-34-north-7th-parking-garage",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.parkwhiz.com/p/brooklyn-parking/34-n-7th-st/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://ipark.com/garage/34-north-7th-parking-corp/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/34-n-7th-st-garage-2152424",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/williamsburg-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:24:09.823Z"
+  },
+  {
+    "id": "lic-landing-hunters-point-south",
+    "name": "LIC Landing at Hunters Point South Park",
+    "desc": "Waterfront park + cafe pavilion staring straight at the Midtown skyline — picnic-grade breather between PS1 and SculptureCenter.",
+    "longDesc": "Hunters Point South Park's 11-acre extension on the East River pairs a cantilevered 30-foot viewing platform, picnic terraces, and a green oval with the LIC Landing cafe pavilion run by Frank Ottomanelli (post-Coffeed, since 2022). Grab an iced coffee, a Belgian-fries burger or poke bowl, walk it to a picnic terrace, and you are eye-level with the UN and Empire State across the water. It's the calmest mid-art-loop reset you can get without leaving the LIC museum cluster.",
+    "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "photo",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "06:00-22:00",
+    "notes": "Actually located in Long Island City, Queens (Center Blvd, 11101) — closest Brooklyn-zone neighbor is Greenpoint across the Pulaski Bridge. Cafe pavilion at 52-10 Center Blvd (Ottomanelli operator, daily 6a-10p per 2022 reopening terms) (qns.com). Park amenities include picnic terraces, waterside promenade, 30-ft cantilevered skyline viewing platform, basketball court, dog run, and a 13,000 sq ft pavilion with restrooms — verified via NYC Parks press release (nycgovparks.org). Weekend parking: iPark / Hunters Point South Parking Corp garage is on-site at Center Blvd; street parking limited and can fill by mid-day on warm weekends (ipark.com, parkwhiz.com). Drive from Industry City: BQE north → Pulaski Bridge → Center Blvd, ~8.5 mi, ~20-25 min weekend off-peak. Uniquely justified within the LIC art loop: 0.7 mi south of MoMA PS1 and 0.5 mi southwest of SculptureCenter, so it inserts cleanly as a non-museum breather without breaking the cluster — exact use case the user flagged. Skyline view is widely cited as the best in the five boroughs (weissmanfredi.com, 6sqft.com).",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/hunters-point-park-lic-landing/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://qns.com/lic-landing-at-hunters-point-south-park-goes-dark-will-not-fully-reopen-until-july/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/photos-phase-two-of-hunters-point-south-park-officially-opens-on-the-lic-waterfront/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.weissmanfredi.com/projects/15-hunter-s-point-south-waterfront-park",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://ipark.com/garage/hunters-point-south-parking-corp/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:31:33.361Z"
+  },
+  {
+    "id": "cardamom-sunnyside",
+    "name": "Cardamom Indian Cuisine",
+    "desc": "Michelin Bib Gourmand Indian gem in Sunnyside with Goan/Indo-Portuguese curries, 8-min drive from MoMA PS1",
+    "longDesc": "Chef-owned neighborhood Bib Gourmand on a quiet Sunnyside street, opened 2018, recognized by Michelin for clearly-defined curries and an Indo-Portuguese section reflecting the chef's Goan background. Weekend service starts at noon, making it one of the few Queens Indian Bibs that works as a real lunch anchor — and it sits a quick 8-minute drive east of MoMA PS1 on the way back to Industry City.",
+    "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/cardamom",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "long-island-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "12:00-22:00",
+    "notes": "SUBSTITUTION: Originally tasked as Adda Indian Canteen LIC, but Adda's LIC location at 31-31 Thomson Ave closed during COVID and the restaurant reopened May 2025 in the East Village at 107 1st Ave (Resy, EV Grieve, lictalk.com). Manhattan relocation breaks the LIC/PS1 anchor premise. Cardamom is the only currently-operating Michelin Bib Gourmand Indian restaurant in Queens (Michelin Guide), fills the same South Asian gap, and stays on the LIC/PS1 side of the river. Actual address: 43-45 43rd St, Sunnyside, NY 11104 (Yelp, cardamomny.com). Chef from Goa, 'Indo-Portuguese' section called out by Michelin inspectors. Closed Tuesdays. Weekend kitchen opens at noon — load-bearing for the lunch-anchor role since most Queens Indian Bibs are dinner-only. Sunnyside is adjacent to LIC (~8 min drive to MoMA PS1); zone tagged 'long-island-city' to keep it in the existing LIC driving-cluster grouping per the geographic-tracks convention.",
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/cardamom",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.cardamomny.com/",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.yelp.com/biz/cardamom-indian-cuisine-sunnyside-2",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://blog.resy.com/2025/04/adda-nyc/",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://lictalk.com/adda-in-lic-closes-culture-lab-live-music-begins-saturday/",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://patch.com/new-york/astoria-long-island-city/long-island-citys-acclaimed-adda-restaurant-moving-away-report",
+        "accessed": "2026-05-18"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:35:46.893Z"
   }
 ]

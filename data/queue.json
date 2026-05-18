@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Valet Garage 34 N 7th St Williamsburg parking rates",
-    "reason": "Cheapest North Williamsburg option for short stops near Bedford Ave subway and South Williamsburg restaurants",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:01:06.660Z"
-  },
-  {
-    "topic": "Domino Park weekend parking and waterfront access from Williamsburg garage cluster",
-    "reason": "Anchors the next stop on a Williamsburg track and reuses the same parking decision",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:01:06.660Z"
-  },
-  {
-    "topic": "Socrates Sculpture Park Astoria",
-    "reason": "Free outdoor sculpture park on the East River, pairs with Noguchi a block away — extends the LIC art loop into a half-day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:03:09.412Z"
-  },
-  {
-    "topic": "LIC Landing / Hunters Point South Park waterfront",
-    "reason": "Manhattan-skyline picnic + coffee stop between PS1 and SculptureCenter; gives the art loop a non-museum breather",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:03:09.412Z"
-  },
-  {
-    "topic": "Adda Indian Canteen LIC — Michelin Bib Gourmand lunch near MoMA PS1",
-    "reason": "Second high-credential LIC lunch anchor; covers the South Asian gap in the Queens corpus and pairs naturally with the same MoMA PS1 detour.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:05:25.273Z"
-  },
-  {
     "topic": "M. Wells Steakhouse LIC — weekend lunch + interior photo-op",
     "reason": "Iconic LIC garage-turned-steakhouse, gives the corpus a high-vibe alternative when Casa Enrique is full or the group wants meat-forward.",
     "requestedBy": "agent",
@@ -16786,5 +16756,89 @@
     "reason": "Northern-Williamsburg / Greenpoint fallback when N 12th block is congested at hotel check-in hours",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T10:20:49.906Z"
+  },
+  {
+    "topic": "Valet Garage 53 N 3rd St (175 Kent Ave) Williamsburg parking rates",
+    "reason": "SpotAngels flags it as the cheapest bookable Williamsburg garage at ~$6 for 2 hours, 3-min walk from 34 N 7th — primary backup if Edge garage is full",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:24:09.854Z"
+  },
+  {
+    "topic": "Hoxton Williamsburg hotel valet parking rates and public access",
+    "reason": "Hotel valet on Wythe Ave — alternative anchor for South Williamsburg dinners, sometimes accepts non-guests",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:24:09.854Z"
+  },
+  {
+    "topic": "Best driving-friendly Bedford Ave coffee shops for post-park first stop",
+    "reason": "Pair-up content: once parked at 34 N 7th, what's the natural opening stop on foot before scattering to South Williamsburg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:24:09.854Z"
+  },
+  {
+    "topic": "Tacocina at Domino Park — Danny Meyer outdoor taqueria, weekend wait + vegetarian options",
+    "reason": "Already onsite once you park at 325 Kent; locks in a low-friction food stop for the Williamsburg track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:26:11.882Z"
+  },
+  {
+    "topic": "Marsha (waterfront restaurant inside Domino Park refinery building)",
+    "reason": "Sit-down counterpart to Tacocina; same parking decision, different priceBand",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:26:11.882Z"
+  },
+  {
+    "topic": "Wythe Hotel rooftop (Lemon's) — 5 min walk from 325 Kent garage",
+    "reason": "Drinks/sunset stop that reuses the Domino Park parking choice",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:26:11.882Z"
+  },
+  {
+    "topic": "Noguchi Museum Long Island City",
+    "reason": "One block south of Socrates on Vernon Blvd — the canonical pairing that turns this into a half-day LIC art loop the topic reason explicitly anticipates",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:28:35.445Z"
+  },
+  {
+    "topic": "Astoria Park Hellgate Bridge views",
+    "reason": "10 min north of Socrates; extends the Queens waterfront cluster with a larger park, pool in summer, and the dramatic Hellgate Bridge backdrop for photos",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:28:35.445Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park (LIC waterfront, Pepsi-Cola sign)",
+    "reason": "Directly adjacent to Hunters Point South Park, iconic neon-sign photo op, completes the LIC waterfront walking spine for the art loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:31:33.402Z"
+  },
+  {
+    "topic": "Sweetleaf Coffee LIC (10-14 Jackson Ave)",
+    "reason": "Indoor coffee alternative if LIC Landing is mobbed or closed; well-loved by the LIC art-crowd and a 4-min drive from the park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:31:33.402Z"
+  },
+  {
+    "topic": "SculptureCenter (44-19 Purves St)",
+    "reason": "User already cites this as a loop anchor — corpus needs a full entry to round out the LIC art track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:31:33.402Z"
+  },
+  {
+    "topic": "Dera Restaurant Jackson Heights — Indian/Pakistani/Bengali multi-regional lunch, 72-02 37th Ave",
+    "reason": "Expands South Asian coverage into the Jackson Heights Indo-Pak corridor with a different regional spread than Cardamom's Goan focus; ~18 min drive from IC via BQE/LIE, still pairs with a PS1 detour on the return leg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:35:46.929Z"
+  },
+  {
+    "topic": "Adda East Village — Chintan Pandya / Unapologetic Foods current incarnation at 107 1st Ave",
+    "reason": "Closes the loop on the originally-requested venue so the corpus documents the LIC→EV relocation rather than leave a dead pointer; useful even if Manhattan zone disqualifies it from itinerary promotion",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:35:46.929Z"
+  },
+  {
+    "topic": "Re-research existing 'first LIC lunch anchor' in the corpus — verify still operating and confirm MoMA PS1 pairing details",
+    "reason": "The reason field implies a first LIC anchor already exists; the Adda closure shows LIC has high venue churn — worth re-confirming the existing anchor before promoting Cardamom as the second one",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T10:35:46.929Z"
   }
 ]
