@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Tangram Food Hall Flushing (whole hall, multi-stall option)",
-    "reason": "Same building — a full food-hall pass covers dumplings, hot pot, and dessert in one stop, extending the Flushing track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:09:28.976Z"
-  },
-  {
-    "topic": "Nan Xiang Xiao Long Bao Flushing (current location)",
-    "reason": "Michelin-recognized soup dumplings 5-min walk from Tangram; natural pairing on a Flushing food crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:09:28.976Z"
-  },
-  {
-    "topic": "Fang Gourmet Tea Flushing",
-    "reason": "Serious gongfu tea tasting room within walking distance of Tangram — slow counterpoint to a noodle-and-burger lunch",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:09:28.976Z"
-  },
-  {
-    "topic": "Tarim Uyghur Food (stall inside New World Mall) — lamb pilav, hand-pulled lagman",
-    "reason": "Single-stall deep dive: halal Uyghur is rare in NYC; deserves its own entry for dietary filtering and as a destination stall, not just a line item.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:12:20.201Z"
-  },
-  {
-    "topic": "Nan Xiang Xiao Long Bao — 39-16 Prince St, Flushing",
-    "reason": "Three blocks from New World Mall; widely considered NYC's best soup dumpling. Natural pairing for a Flushing food-pilgrimage track that already justifies the cross-borough drive.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:12:20.201Z"
-  },
-  {
     "topic": "Joe's Steam Rice Roll — Flushing original location",
     "reason": "Cantonese cheung fun specialist that started as a New World Mall stall and expanded citywide; the Flushing flagship is the source-of-truth version and contextualizes the food court's role as an incubator.",
     "requestedBy": "agent",
@@ -15142,5 +15112,95 @@
     "reason": "Logistics anchor — itinerary needs a documented weekend parking option so the 'park once, eat twice' pitch holds up; lot details (rate, weekend availability) belong in the corpus",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T04:47:09.179Z"
+  },
+  {
+    "topic": "Hoi Polloi beer garden at Tangram Flushing",
+    "reason": "Same building rooftop beer garden — natural after-meal extension of the Flushing track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:49:12.744Z"
+  },
+  {
+    "topic": "New World Mall Food Court Flushing",
+    "reason": "Competing multi-stall Flushing food hall — useful comparison anchor for the Flushing track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:49:12.744Z"
+  },
+  {
+    "topic": "Queens Botanical Garden",
+    "reason": "10 min from Tangram, weekend-friendly outdoor pairing to balance the indoor food-hall stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:49:12.744Z"
+  },
+  {
+    "topic": "Flushing Town Hall art programming",
+    "reason": "Cultural anchor within 5 min of Tangram to round out the Flushing track with art/music",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:49:12.745Z"
+  },
+  {
+    "topic": "Joe's Steam Rice Roll Flushing — original cheung fun stall in Skyview food court",
+    "reason": "Cheap, fast, Michelin Bib Gourmand cheung fun within a 3-min walk of Nan Xiang; rounds out a Flushing crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:51:15.877Z"
+  },
+  {
+    "topic": "Fang Gourmet Tea Flushing — gongfu tea tasting room on Main St",
+    "reason": "Quiet, curated tea ceremony to decompress after dumpling crawl; adds a 'curious' beat to a foodie-heavy Flushing track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:51:15.877Z"
+  },
+  {
+    "topic": "New World Mall Food Court Flushing — pan-Asian basement food hall",
+    "reason": "Single venue covering Xi'an, Sichuan, Taiwanese, and Korean stalls; high-density alternative for groups with mixed cravings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:51:15.877Z"
+  },
+  {
+    "topic": "Spa Castle Premier 57 vs College Point Queens spa pairing",
+    "reason": "Slow-day Queens counterpart that complements a tea-ceremony itinerary; lets the corpus carry a full Flushing track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:53:44.462Z"
+  },
+  {
+    "topic": "Tea Drunk East Village Manhattan",
+    "reason": "Manhattan gongfu alternative if user wants the same experience without the BQE drive to Flushing — useful for substitution logic.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:53:44.462Z"
+  },
+  {
+    "topic": "Cafe Kashkar (Brighton Beach) — Uyghur/Uzbek halal restaurant",
+    "reason": "Closer alternative (~25 min from IC) serving similar lamb pilav and lagman; fills the same halal Silk Road dietary niche without the Flushing drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:56:14.689Z"
+  },
+  {
+    "topic": "Nan Xiang Xiao Long Bao (Flushing, near New World Mall)",
+    "reason": "If a Flushing trip is already justified by Tarim, the canonical XLB stop is a natural pairing — makes the 35-min drive a multi-stop day rather than a single-venue commitment",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:56:14.689Z"
+  },
+  {
+    "topic": "New World Mall Food Court overview entry — Flushing",
+    "reason": "Beyond Tarim there are notable stalls (Lanzhou beef noodle, Xi'an-style, Taiwanese dessert) — an overview entry lets the corpus represent the whole food court as a destination without spawning a stall per sub-entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:56:14.689Z"
+  },
+  {
+    "topic": "White Bear — 135-02 Roosevelt Ave, Flushing (wontons in chili oil)",
+    "reason": "Iconic 5-min walk from Nan Xiang; pairs as a same-track second stop for a Flushing food-pilgrimage day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:58:14.644Z"
+  },
+  {
+    "topic": "Joe's Steam Rice Roll — 136-21 Roosevelt Ave, Flushing",
+    "reason": "Michelin-recommended cheung fun within Flushing food cluster; adds Cantonese counterpoint to Shanghainese XLB",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:58:14.644Z"
+  },
+  {
+    "topic": "Tai Pan Bakery — 37-25 Main St, Flushing (egg tarts, baked goods)",
+    "reason": "Walkable dessert/coffee stop to close a Flushing track before the drive back to IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:58:14.644Z"
   }
 ]

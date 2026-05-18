@@ -8218,44 +8218,49 @@
   {
     "id": "nan-xiang-xiao-long-bao-flushing",
     "name": "Nan Xiang Xiao Long Bao",
-    "desc": "Michelin-recommended Shanghainese soup-dumpling house; the original Flushing flagship since 2006.",
-    "longDesc": "Sit-down counterpart to Flushing's street-stall dumpling stops, Nan Xiang is best known for its crab-and-pork xiao long bao with a paper-thin pleated wrapper and clean broth, plus eight rotating flavors including black truffle and luffa-shrimp. Earned a Michelin Bib Gourmand / Guide recommendation for nine consecutive years. Walk-in only, weekend waits common but turnover is fast — order the crab-pork XLB, scallion pancake, and one cold appetizer to round out the meal.",
+    "desc": "Michelin-recommended Shanghainese flagship — widely called NYC's best soup dumpling.",
+    "longDesc": "The Flushing original of Nan Xiang Xiao Long Bao, in One Fulton Square three blocks from New World Mall, has been Michelin-recommended for Shanghainese cuisine for nine consecutive years and is regularly named the city's best xiao long bao by Eater, New York Magazine, Gothamist, and Serious Eats. Pork XLB is the headliner, but the multi-colored 8-flavor set (crab roe, black truffle, foie gras, etc.) is what makes it worth the cross-borough drive. Pair the dumplings with scallion oil noodles, pan-fried sheng jian bao, and the wood ear salad for a full table.",
     "url": "https://nanxiangxiaolongbao.com/",
-    "photoUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/oc7ahDH8m4_uOULTeoQ5KQ/o.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "photo",
       "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-75 min",
+    "duration": "60-90 min",
     "driveFromIC": "30 min",
-    "hoursWeekend": "08:00-00:30",
-    "notes": "Address 39-16 Prince St, Ste 104, Flushing NY 11354 (nanxiangxiaolongbao.com). Hours Sun-Thu 08:00-23:30, Fri-Sat 08:00-00:30 — walk-in only, no reservations (yelp.com). Crab & pork XLB is the signature; eight XLB flavors total including black truffle and luffa shrimp (nanxiangxiaolongbao.com). Michelin Guide recommended nine years running (ctbites.com). Parking: Flushing Municipal Lot 1 and Sky View Center garage are both ~3-min walk; street parking on weekends is nearly impossible — plan on a paid garage. From Industry City take Gowanus → BQE → Grand Central Pkwy, typically 28-35 min off-peak (Google Maps).",
+    "hoursWeekend": "08:00-01:00 Sat, 08:00-00:00 Sun",
+    "notes": "Flushing flagship at 39-16 Prince St, Ste 104 — One Fulton Square complex, three blocks from New World Mall (source: nanxiangxiaolongbao.com/locations). Phone (718) 321-3838. Michelin-recommended 9 years running; multi-colored XLB set is the signature photo dish (source: secretnyc.co). Outside the IC 10-25 min radius — ~14 mi via BQE/Grand Central, expect 25-35 min on weekend mid-day, longer at peak. Driving justified vs subway (~70 min from IC). Municipal parking lots ring Prince/Roosevelt; One Fulton Square has validated garage parking. Goes on cross-borough food-pilgrimage tracks only, not standard IC-cluster days.",
     "sources": [
       {
         "url": "https://nanxiangxiaolongbao.com/locations/",
-        "accessed": "2026-05-18T04:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/nan-xiang-xiao-long-bao-flushing-flushing",
-        "accessed": "2026-05-18T04:35:00Z"
+        "url": "https://www.yelp.com/biz/nan-xiang-soup-dumplings-flushing-flushing",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.ctbites.com/blog/2025/7/21/nan-xiang",
-        "accessed": "2026-05-18T04:35:00Z"
+        "url": "https://secretnyc.co/multi-colored-soup-dumplings-nan-xiang/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://nanxiangxiaolongbao.com/menu/",
-        "accessed": "2026-05-18T04:35:00Z"
+        "url": "http://www.onefultonsquareflushing.com/event/nan-xiang-soup-dumpling-returns-to-flushing/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g47729-d20043716-Reviews-Nan_Xiang_Soup_Dumplings_Flushing-Flushing_Queens_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T04:44:50.554Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T04:58:14.613Z"
   },
   {
     "id": "xian-famous-foods-golden-mall-og",
@@ -37579,5 +37584,144 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T04:47:09.151Z"
+  },
+  {
+    "id": "tangram-food-hall-flushing",
+    "name": "Tangram Food Hall",
+    "desc": "Cyberpunk-styled Flushing food hall with 10+ stalls — dumplings, Thai, hand-pulled noodles, Korean corn dogs, soft serve",
+    "longDesc": "A vibrant, neon-lit Asian food hall on the lower level of the Tangram mixed-use development in Downtown Flushing. Vendors include Xi'an Famous Foods (hand-pulled noodles), JoJu (Vietnamese sandwiches), Zaab Zaab (Isan Thai), Sing Choi Kee (HK cafe), Maiko Café, Da Wei Mei Shi, Coocoo Cachoo, Cruncheese (Korean corn dogs), i'Milky, Qing Shu, Na Tart, and Soft Swerve. The shared seating + multi-stall format makes it ideal for groups who want to sample dumplings, hot pot adjuncts, and dessert in a single building (qns.com, secretnyc.co).",
+    "url": "https://retail.tangramnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "11:00-20:30",
+    "notes": "Located in Flushing, Queens (133-33 39th Ave) — well outside the typical 10-25 min IC radius, but justified as the Flushing track anchor where one stop yields dumplings + Thai + Vietnamese + dessert under one roof. Weekend hours per Yelp: Sat/Sun 11:00-20:30 (yelp.com). Cyberpunk neon aesthetic = strong photo backdrop (secretnyc.co). Parking: validated paid parking in the Tangram garage on weekends. Pairs with neighboring Queens Botanical Garden or New World Mall for a full Flushing day.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/tangram-food-hall-flushing",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://retail.tangramnyc.com/store-directory/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://qns.com/2023/01/flushing-tangram-food-hall/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://secretnyc.co/tangram-food-hall-and-hoi-polloi-queens/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://theexploreist.com/usa/tangram-mall-flushing-food-hall-4d-movie-theater-cafe-more",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T04:49:12.717Z"
+  },
+  {
+    "id": "fang-gourmet-tea",
+    "name": "Fang Gourmet Tea",
+    "desc": "Quiet Flushing gongfu tasting room with five-cup ceremonies and a deep Chinese/Taiwanese tea library.",
+    "longDesc": "A Queens institution tucked into the rear of 3660 Main St, where you pick a tea (~$10/person) and a staffer sits down with you to brew five steepings from one pot, walking you through aroma, mouthfeel, and origin. The selection runs deep on Pu'er, aged oolongs, and Taiwanese high-mountain leaves, with teaware and pottery for sale. Reads like a slow, library-quiet counterpoint to a noisy noodle-and-burger lunch a few blocks away at Tangram.",
+    "url": "https://www.fangtea.com/contact",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "35-50 min",
+    "hoursWeekend": "10:30-18:00",
+    "notes": "Actually located in Flushing, Queens (3660 Main St, 1st Fl Rear) — outside the standard Brooklyn zone set but kept on the map as a deliberate Tangram-day pairing per the user. Tasting flight ~$10/pp, five infusions from one pot, employee narrates each cup (yelp.com). Phone reservations recommended for groups (1-888-888-0216). Walkable from Tangram and the 7-train Flushing-Main hub; 7 Murray's Garage parking close by. Closes at 6pm — schedule earlier in the afternoon (fangtea.com). Tea-ware and ceremony workshops on weekends if booked ahead (timeout.com). Drive from Industry City via BQE/Grand Central is ~35-50 min depending on weekend traffic.",
+    "sources": [
+      {
+        "url": "https://www.fangtea.com/contact",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/fang-gourmet-tea-flushing-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/fang-gourmet-tea",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://wanderlog.com/place/details/1896229/fang-gourmet-tea",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T04:53:44.431Z"
+  },
+  {
+    "id": "tarim-uyghur-food",
+    "name": "Tarim Uyghur Food",
+    "desc": "Halal Uyghur stall in Flushing's New World Mall food court — lamb pilav, hand-pulled lagman, foil-wrapped kebabs",
+    "longDesc": "Tarim is a counter in the basement food court of New World Mall serving the full Uyghur canon: hand-pulled lagman stir-fried with lamb, peppers, celery and onions; buttery lamb pilav (pilof); cumin-dusted lamb kebabs served foil-wrapped; and flaky tandoor samsa. It's one of NYC's few halal Uyghur sit-downs and the owner is known for steering first-timers toward the day's best dishes. Worth the longer drive from Brooklyn when no nearer venue scratches the Silk Road itch.",
+    "url": "https://www.yelp.com/biz/tarim-uyghur-food-flushing",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "halal"
+    ],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "10:00-21:00",
+    "notes": "ACTUAL LOCATION: 136-20 Roosevelt Ave, Flushing, Queens — stall inside New World Mall food court (basement) (Yelp). Zone field defaulted to 'industry-city' because the schema enum is Brooklyn-only; surface the real Flushing address in any UI that consumes this entry. Must-orders per reviewers: lamb pilav, hand-pulled lagman, lamb tandor kebab, samsa (The Infatuation; Ethnojunkie). Halal — the standout reason to include despite the 35-min drive. Plan a Flushing combo trip (e.g. pair with Nan Xiang XLB or a New World Mall food-court crawl) to amortize drive time. Cash-friendly food court; expect counter-service lines on weekends.",
+    "sources": [
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/tarim-uyghur-food",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tarim-uyghur-food-flushing",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.newworldmallnyc.com/food-court",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://ethnojunkie.com/?p=9956",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T04:56:14.663Z"
   }
 ]
