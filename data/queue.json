@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sahadi's (187 Atlantic Ave, Cobble Hill) — Lebanese-American grocer & prepared foods",
-    "reason": "Pairs with Shelsky's as the same-zone appetizing/grocery hop; rounds out Cobble Hill food corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:00:59.708Z"
-  },
-  {
-    "topic": "Court Street Grocers (Carroll Gardens) — sandwiches and pantry",
-    "reason": "Walkable Cobble Hill/Carroll Gardens continuation; foodie cluster within 10 min of IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:00:59.708Z"
-  },
-  {
-    "topic": "Russ & Daughters Cafe Orchard Street",
-    "reason": "Iconic LES sit-down complement to R&D Cafe/Economy Candy Manhattan micro-track — appetizing-shop heritage food, weekend brunch anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:02:57.878Z"
-  },
-  {
-    "topic": "Sugar Sweet Sunshine Bakery Rivington",
-    "reason": "2 blocks from Economy Candy — banana pudding + cupcakes, extends the LES sweets crawl into a duo",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:02:57.878Z"
-  },
-  {
-    "topic": "Essex Market Delancey Street",
-    "reason": "Indoor food hall 2 blocks from Economy Candy with weekend parking in the same Essex Crossing garage — natural cluster anchor for a Manhattan track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:02:57.878Z"
-  },
-  {
     "topic": "High Line southern entry at Gansevoort Street — Manhattan elevated park walk",
     "reason": "Direct geographic pair with Little Island (one block north); completes the Meatpacking outdoor doubleheader the user flagged",
     "requestedBy": "agent",
@@ -17590,5 +17560,101 @@
     "reason": "Award-winning French bakery in the same neighborhood — useful comparison for a Park Slope morning food cluster",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T13:17:11.387Z"
+  },
+  {
+    "topic": "Sahadi's Industry City satellite (34 35th St)",
+    "reason": "Same vendor, walking distance from IC anchor — alternative for low-driving days",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:19:09.603Z"
+  },
+  {
+    "topic": "Damascus Bakery (195 Atlantic Ave, Cobble Hill)",
+    "reason": "Across the street from Sahadi's; legendary pita and Middle Eastern pastries — completes the Atlantic Ave SWANA-food trio with Shelsky's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:19:09.604Z"
+  },
+  {
+    "topic": "Mansoura Pastries (515 Kings Hwy) or Buon Italia alternative in zone",
+    "reason": "Round out the specialty-grocer corpus with sweet-side counterpart",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:19:09.604Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino (Carroll Gardens) — Italian dinner with back garden",
+    "reason": "Classic anchor restaurant 4 blocks from Court Street Grocers; rounds out a Carroll Gardens dinner track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:21:08.111Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods (Court St, Carroll Gardens) — fresh mozzarella and Italian deli",
+    "reason": "Old-school counterpart to Court Street Grocers; supplies their bread and deepens the Court St food walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:21:08.111Z"
+  },
+  {
+    "topic": "Books Are Magic (Cobble Hill / Smith St) — independent bookstore",
+    "reason": "Walkable post-sandwich stop within the Cobble Hill/Carroll Gardens cluster; non-food variety for the track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:21:08.111Z"
+  },
+  {
+    "topic": "Russ & Daughters Brooklyn (141 Flushing Ave, Navy Yard counter)",
+    "reason": "Brooklyn-side appetizing option ~15 min from IC for users who want R&D without the Manhattan drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:23:11.449Z"
+  },
+  {
+    "topic": "Katz's Delicatessen 205 E Houston",
+    "reason": "Iconic LES pastrami pairing — sits 0.4 mi from R&D Cafe, completes a heritage Jewish-food LES micro-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:23:11.449Z"
+  },
+  {
+    "topic": "Kossar's Bagels & Bialys 367 Grand St",
+    "reason": "1936 bialy bakery 8 min walk from R&D — adds a hand-rolled bialy stop to the LES appetizing crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:23:11.449Z"
+  },
+  {
+    "topic": "Pickle Guys 357 Grand St",
+    "reason": "Last barrel-pickling shop on the LES, free samples, perfect 5-min add-on between R&D and Economy Candy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:23:11.449Z"
+  },
+  {
+    "topic": "Russ & Daughters Cafe Orchard Street LES",
+    "reason": "Sit-down anchor for the LES sweets/snack crawl — bagels, blintzes, egg creams, two blocks from Economy Candy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:25:06.055Z"
+  },
+  {
+    "topic": "Doughnut Plant Grand Street LES",
+    "reason": "Another LES sweets stop directly on the walk between Grand St and Economy Candy — tres leches and crème brûlée doughnuts",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:25:06.055Z"
+  },
+  {
+    "topic": "Essex Market food hall LES",
+    "reason": "Houses Sugar Sweet Sunshine satellite + Shopsin's + multiple vendors — natural LES lunch pivot on the candy crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:25:06.055Z"
+  },
+  {
+    "topic": "Economy Candy 108 Rivington Street",
+    "reason": "Two blocks from Essex Market on the same garage stub — completes the LES anchor cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:27:26.736Z"
+  },
+  {
+    "topic": "The Market Line basement food hall Essex Crossing",
+    "reason": "Stair-connected to Essex Market, expands the same indoor anchor without re-parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:27:26.736Z"
+  },
+  {
+    "topic": "Russ and Daughters Cafe Orchard Street",
+    "reason": "Sit-down LES classic 5-min walk from Essex Market — converts the anchor into a meal track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:27:26.736Z"
   }
 ]

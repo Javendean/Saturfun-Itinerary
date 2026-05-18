@@ -8391,9 +8391,9 @@
   },
   {
     "id": "court-street-grocers-carroll-gardens",
-    "name": "Court Street Grocers",
-    "desc": "Carroll Gardens deli-grocer beloved for inventive hot heroes and pristine pantry takeaway.",
-    "longDesc": "The flagship 485 Court Street shop blends an old-school neighborhood grocer with a sandwich counter that turns out the Turkey Hero (Thanksgiving-on-bread), the Cubano, and the Uncle Eddie hot pastrami. Order at the counter, browse Sicilian olive oil and fresh pasta while you wait, and take the wax-paper bundle two blocks south to Carroll Park or back to Industry City for a stoop lunch. A natural walking endpoint after browsing the Frankies 457 corridor on Court Street.",
+    "name": "Court Street Grocers (Carroll Gardens)",
+    "desc": "Beloved sandwich shop and pantry — gourmet heroes, turkey clubs, and curated grocery staples.",
+    "longDesc": "Court Street Grocers is the original Carroll Gardens flagship of the cult Brooklyn deli, famous for thick-stacked turkey sandwiches, the Uncle Eddie, and the Italian Combo on Caputo's bread. The front room doubles as a pantry stocked with small-batch olive oil, pasta, snacks, and prepared foods — easy grab-and-go for an IC-area drive day. Counter service with limited seating; line moves fast on weekends.",
     "url": "https://www.courtstreetgrocers.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8408,26 +8408,34 @@
     "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "08:00-17:00",
-    "notes": "485 Court St near the Carroll/Smith St border; counter open daily 8a-5p (Yelp, May 2026). Weekend metered street parking on Court St plus free side-street spots on Luquer/Nelson. Cash + cards; phone (718) 722-7229. Best heroes: Turkey Hero, Cubano, Uncle Eddie pastrami; vegetarian Italian Combo is solid. Pairs naturally with a Frankies 457 dinner anchor or a Carroll Park bench picnic (theinfatuation.com review).",
+    "hoursWeekend": "Sat 08:00-18:00, Sun 09:00-18:00",
+    "notes": "Address: 485 Court St, Brooklyn NY 11231 (Tripadvisor, Yelp). Best known for the Turkey Hero, Uncle Eddie, and Italian Combo. Weekend parking generally available on Court St and side streets south of Smith. Pairs naturally with a walk down Court St toward Frankies 457 or Smith St shops (The Infatuation review).",
     "sources": [
       {
+        "url": "https://www.courtstreetgrocers.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
         "url": "https://www.courtstreetgrocers.com/locations",
-        "accessed": "2026-05-16T22:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
-        "accessed": "2026-05-16T22:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d3158711-Reviews-Court_Street_Grocers-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
-        "accessed": "2026-05-16T22:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:31:24.272Z"
+    "lastResearchedAt": "2026-05-18T13:21:08.077Z"
   },
   {
     "id": "smack-mellon",
@@ -9516,9 +9524,9 @@
   {
     "id": "sahadis-atlantic-ave",
     "name": "Sahadi's",
-    "desc": "James Beard-winning Middle Eastern grocer on Atlantic Ave — bulk bins, olives, spices, prepared mezze.",
-    "longDesc": "The original 1948 Atlantic Avenue flagship of the Brooklyn institution: legendary bulk bins of nuts, dried fruit, grains, and spices alongside a counter of house-made hummus, mutabal, stuffed grape leaves, and dozens of olives. Five-minute walk from Shelsky's, making it the anchor of a Cobble Hill food-shopping run. Friendly counter service and an unmatched specialty selection cited by City Lore and the James Beard Foundation.",
-    "url": "https://sahadis.com/pages/locations",
+    "desc": "1948-era Lebanese-American grocer on Atlantic Ave — bulk spices, olives, housemade hummus & pita",
+    "longDesc": "A Cobble Hill institution since 1948, Sahadi's stocks 200+ bulk bins of freshly roasted nuts, dried fruits, olives, ancient grains and exquisite spices alongside a hot-and-cold prepared foods counter (hummus, baba ghanoush, mujadara, kibbeh, fresh pita). Pair it with Shelsky's three blocks east for a perfect Atlantic Avenue appetizing-and-grocery hop. James Beard America's Classics winner; the kind of place where you smell the roasted nuts before you see the door.",
+    "url": "https://sahadis.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
@@ -9533,31 +9541,31 @@
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "13 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "10:00-19:00",
-    "notes": "Original 1948 Atlantic Ave location at 187 Atlantic Ave; everyday 10am–7pm including Sat/Sun (sahadis.com/pages/locations). James Beard America's Classics 2017 honoree (citylore.org). Phone (718) 624-4550. Pairs naturally with Shelsky's appetizing 5 min away — build a Cobble Hill provisions micro-track. Street parking on Clinton/Henry typical on weekends; some metered Atlantic Ave spots.",
+    "notes": "Daily 10am-7pm including weekends (sahadis.com, Yelp). Bulk-bin browsing is the move — bring a tote. Hot prepared-foods counter for takeaway lunch. Metered street parking on Atlantic/Court/Clinton typically findable on weekends; Sahadi's also operates an Industry City outpost at 34 35th St if you want the closer satellite. Cash-friendly but accepts cards. James Beard 'America's Classics' 2017.",
     "sources": [
       {
-        "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://sahadis.com/",
+        "accessed": "2026-05-18T13:20:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sahadis-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T13:20:00Z"
       },
       {
-        "url": "https://citylore.org/places/sahadis/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.business.nyctourism.com/places/sahadis",
+        "accessed": "2026-05-18T13:20:00Z"
       },
       {
-        "url": "https://gothamist.com/food/inside-the-glorious-new-sahadis-in-industry-city",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://sahadis.com/pages/locations",
+        "accessed": "2026-05-18T13:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T08:46:16.792Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T13:19:09.573Z"
   },
   {
     "id": "brooklyn-clay-industries",
@@ -42473,5 +42481,135 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T13:17:11.353Z"
+  },
+  {
+    "id": "russ-and-daughters-cafe-orchard",
+    "name": "Russ & Daughters Cafe",
+    "desc": "Sit-down LES appetizing cafe — smoked fish, bagels, latkes, babka French toast; no reservations",
+    "longDesc": "The 2014 sit-down spin-off of the 1914 Russ & Daughters appetizing shop, occupying a white-tiled, soda-fountain-style room at 127 Orchard. The kitchen turns Eastern European Jewish appetizing classics — house-cured lox, herring flights, potato latkes with applesauce + sour cream, and a chocolate-babka French toast crowned with strawberries — into a proper sit-down meal, while staying true to the counter-shop heritage two blocks away on Houston. Walk-in only, white-jacketed servers, and one of the last true appetizing stores left in NYC.",
+    "url": "https://www.russanddaughterscafe.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "8:30-15:30 (last seating 15:30 Fri-Sun)",
+    "notes": "Manhattan exception justified: heritage LES appetizing-shop sit-down has no Brooklyn equivalent (the Brooklyn Navy Yard outpost at 141 Flushing is counter-only). Pairs with the R&D counter shop at 179 E Houston (2 blocks north) and Economy Candy at 108 Rivington for a tight LES micro-track. Walk-in only, no reservations — expect 30-60 min waits on weekends; arrive at 8:30 open or after 14:00 for shorter queues (yelp.com). Last seating is 15:30 Fri-Sun (russanddaughterscafe.com). Street parking is hard on weekends — nearest paid garages are on Ludlow/Rivington. Drive from IC: BQE → Manhattan Bridge → Bowery → Delancey, ~22 min off-peak.",
+    "sources": [
+      {
+        "url": "https://www.russanddaughterscafe.com/",
+        "accessed": "2026-05-18T13:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/russ-and-daughters-cafe-new-york-5",
+        "accessed": "2026-05-18T13:20:00Z"
+      },
+      {
+        "url": "https://shop.russanddaughters.com/locations",
+        "accessed": "2026-05-18T13:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T13:23:11.417Z"
+  },
+  {
+    "id": "sugar-sweet-sunshine-bakery",
+    "name": "Sugar Sweet Sunshine Bakery",
+    "desc": "LES banana-pudding institution — cupcakes, trifles, and pudding cups two blocks from Economy Candy.",
+    "longDesc": "After 21 years at 126 Rivington, Sugar Sweet Sunshine moved a few blocks south to 365 Grand Street, where the same shabby-chic thrift-store interior houses cult-favorite banana pudding, oversized buttercream cupcakes, and trifle cups in flavors like Sex In A Pan and Bailey's. There's a second satellite stall inside Essex Market (88 Essex St) if Grand Street has a line. Pairs perfectly with an Economy Candy run — both fit in a single LES sweets walk, no re-parking needed.",
+    "url": "https://sugarsweetsunshine.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 9:00-21:00, Sun 10:00-18:00",
+    "notes": "Manhattan exception justified: extends the LES sweets crawl with Economy Candy into a tight duo, both walkable from a single street-park on Grand or Norfolk. Bakery moved from 126 Rivington to 365 Grand Street in 2024 (yelp). Banana pudding is the signature; cupcakes Pumpkin, Ooey Gooey, and Bob (chocolate-chocolate) are the staples (sugarsweetsunshine.com). Essex Market satellite is a fallback if the line is brutal (timeout).",
+    "sources": [
+      {
+        "url": "https://sugarsweetsunshine.com/",
+        "accessed": "2026-05-18T13:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sugar-sweet-sunshine-bakery-new-york",
+        "accessed": "2026-05-18T13:20:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/sugar-sweet-sunshine",
+        "accessed": "2026-05-18T13:20:00Z"
+      },
+      {
+        "url": "https://sugarsweetsunshine.com/food-menu",
+        "accessed": "2026-05-18T13:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T13:25:06.027Z"
+  },
+  {
+    "id": "essex-market",
+    "name": "Essex Market",
+    "desc": "Historic Lower East Side food hall with 32 vendors — meat, fish, coffee, prepared food, beer — in Essex Crossing.",
+    "longDesc": "A NYC institution dating to 1940 and now housed in a glass-walled hall at 88 Essex St, the market gathers 32 independent operators across produce, butchers, fishmongers, cheese, bakeries, prepared food, and beer. The basement-connected Market Line adds more stalls and seating, and the Essex Crossing municipal garage one block north makes it the rare LES anchor that's friendly to drivers from Brooklyn. Pair it with Economy Candy two blocks east for a tight one-stub afternoon.",
+    "url": "https://www.essexmarket.nyc/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/65ef591f694ef03f2a3952af/00d05081-ef52-41d1-b6ac-0e434bef324a/230827-Niles-Facility-008+copy.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "lower-east-side",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "halal",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 8:00-21:00, Sun 10:00-18:00",
+    "notes": "Take BQE → Williamsburg Bridge → lands at Delancey/Essex, market is on the south side of Delancey (essexmarket.nyc). Park at the Essex Crossing municipal garage on Essex St just north of Delancey — $8 first hour, $3 each additional (search result). 32 vendors include Café d'Avignon (bakery/coffee), Puebla Mexican Food, Viva Fruits & Vegetables, plus meat/fish/cheese/beer stalls — broad dietary coverage is a near-certainty at a hall this size, but confirm gluten-free per vendor. Connected via stairs to The Market Line basement for more food + retail. Natural pairing: Economy Candy (2 blocks east) on the same parking stub.",
+    "sources": [
+      {
+        "url": "https://www.essexmarket.nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.essexmarket.nyc/visit",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Essex_Market",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T13:27:26.704Z"
   }
 ]
