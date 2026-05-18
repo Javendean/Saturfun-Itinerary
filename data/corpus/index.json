@@ -8474,8 +8474,8 @@
   {
     "id": "pioneer-works",
     "name": "Pioneer Works",
-    "desc": "Free 50K-sq-ft Red Hook arts center: galleries, garden, music, science talks; weekend open Wed-Sun 12-6.",
-    "longDesc": "Artist- and scientist-led nonprofit cultural center in a converted 1866 ironworks at 159 Pioneer St, founded by Dustin Yellin in 2012. Rotating exhibitions, residency studios, a sculpture garden, and free public programs across visual art, performance, music, technology, and science. The flagship 'Second Sundays' open house (monthly) opens all three floors plus the garden for live music, open studios, workshops, and food — free with RSVP.",
+    "desc": "Artist + scientist cultural center in a former Red Hook ironworks — free weekend galleries, gardens, and rotating workshops.",
+    "longDesc": "Pioneer Works is a nonprofit cultural center inside a converted 19th-century ironworks at 159 Pioneer St, with galleries, a sculpture garden, performance space, and resident artist studios spread across three floors. Free admission Wed–Sun, 12–6 pm, with rotating exhibitions plus monthly 'Second Sundays' open houses featuring open studios, live music, hands-on workshops, food, and garden programming. Pairs naturally with a Van Brunt St walk to Hometown BBQ or Brooklyn Crab.",
     "url": "https://pioneerworks.org/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8489,34 +8489,38 @@
     "priceBand": "$",
     "duration": "60-90 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "Sat-Sun 12:00-18:00 (closed Mon-Tue)",
-    "notes": "Free admission to galleries and garden (pioneerworks.org/visit). Second Sundays is the marquee weekend program — free monthly open house with music, performances, and open studios; RSVP required (pioneerworks.org/programs/second-sundays-may-2026). Address 159 Pioneer St, Red Hook; street parking is generally available on weekends in the surrounding industrial blocks. Perfect indoor counterweight to kayaking on the Red Hook track — pair with Sunny's Bar or Hometown BBQ within a 5-min drive.",
+    "hoursWeekend": "12:00-18:00",
+    "notes": "Free admission Wed–Sun 12–6 pm (pioneerworks.org/visit). Second Sundays = monthly free open house with open artist studios, workshops, music, food across all three floors + garden (brooklyneagle.com). Spring 2026 Second Sundays (Mar/Apr/May) feature Red Hook Regatta DIY boat-building workshops (pioneerworks.org). Street parking in Red Hook is usually easy on weekends — 10-min drive from Industry City up Van Brunt. Calendar at pioneerworks.org/calendar for one-off ticketed concerts, science talks, and ticketed Going In events.",
     "sources": [
       {
         "url": "https://pioneerworks.org/visit",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T20:15:00Z"
       },
       {
         "url": "https://pioneerworks.org/calendar",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T20:15:00Z"
       },
       {
-        "url": "https://pioneerworks.org/programs/second-sundays-may-2026",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://brooklyneagle.com/367671/second-sundays-event-offers-hands-on-look-at-pioneer-works/",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://pioneerworks.org/programs/second-sundays-march-2026",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://pioneerworks.org/programs/red-hook-regatta-2026",
+        "accessed": "2026-05-18T20:15:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Pioneer_Works",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T20:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T06:33:00.439Z"
+    "lastResearchedAt": "2026-05-18T20:18:53.646Z"
   },
   {
     "id": "louis-valentino-jr-park-pier",
@@ -45808,10 +45812,10 @@
   },
   {
     "id": "taros-origami-studio",
-    "name": "Taro's Origami Studio at The Loft",
-    "desc": "Hands-on origami studio inside Japan Village at IC — drop-in folding, classes, and NYC's biggest origami shop.",
-    "longDesc": "Tucked on the 2nd floor of Japan Village in Industry City Building 4 (\"The Loft\"), Taro's runs drop-in sessions, private and group lessons, and stocks what the studio calls the largest selection of origami goods in NYC. Perfect for an artist-friend session — quiet space, paper everywhere, and easy to combine with a Japan Village ramen/sake crawl downstairs. Group/private lessons should be booked ahead via studio@tarosorigami.com.",
-    "url": "https://www.tarosorigami.com/brooklyn-ny/",
+    "name": "Taro's Origami Studio",
+    "desc": "Drop-in origami workshop inside Japan Village at Industry City — $10 for 30 min, paper included",
+    "longDesc": "Tucked on the 2nd floor of Japan Village in Industry City Building 4, Taro Yaguchi's studio offers reservation-free drop-in folding sessions for $10/person for 30 minutes (paper included). Adults are welcome alongside kids 5+, with private lessons available for deeper instruction. The lobby gallery doubles as a quiet, photogenic craft moment between food stops at Japan Village or a coffee at one of IC's cafes.",
+    "url": "https://www.tarosorigami.com/brooklyn-new-york/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -45821,25 +45825,33 @@
       "photo"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "45-90 min",
+    "priceBand": "$",
+    "duration": "30-45 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "Sat 11:00-18:00, Sun 12:00-17:00",
-    "notes": "Located inside Japan Village, 2F 'The Loft', Industry City Building 4, 934 3rd Ave (tarosorigami.com/brooklyn-ny). Tue-Sat 11-6, Sun 12-5, closed Mon (yelp.com). Drop-in folding plus private/group classes; pricing not posted publicly — email studio@tarosorigami.com or call (718) 360-5435 to reserve. Pairs naturally with manga-panel-harvester drawing sessions — same audience of artist friends. IC weekend parking on-site.",
+    "notes": "Located at 934 3rd Ave, Floor 2 (Japan Village, Industry City Building 4) (tarosorigami.com). Drop-in is $10/person for 30 min with paper provided; no reservation needed during business hours, though Saturdays may be partly booked by birthday parties — call (718) 360-5435 ahead on Sat (tarosorigami.com/drop-ins). Closed Mondays. Pairs naturally with KAJIHA and Japan Village's food hall for a Japanese-craft mini-track entirely on foot inside IC.",
     "sources": [
       {
-        "url": "https://www.tarosorigami.com/brooklyn-ny/",
-        "accessed": "2026-05-18T18:30:00Z"
+        "url": "https://www.tarosorigami.com/brooklyn-new-york/",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://www.tarosorigami.com/drop-ins/",
+        "accessed": "2026-05-18T20:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/taros-origami-studio-brooklyn",
-        "accessed": "2026-05-18T18:30:00Z"
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://www.corner.inc/place/142939",
+        "accessed": "2026-05-18T20:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T18:24:51.976Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T20:23:31.543Z"
   },
   {
     "id": "hibino-brooklyn",
@@ -46965,5 +46977,123 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T20:12:19.689Z"
+  },
+  {
+    "id": "painted-pot-park-slope",
+    "name": "The Painted Pot",
+    "desc": "Walk-in paint-your-own pottery studio with low-skill, high-reward bisqueware — no wheel required.",
+    "longDesc": "Long-running Park Slope ceramics studio where you pick an unfinished piece (mugs, bowls, planters, figurines) starting at $18, paint with included non-toxic food-safe glazes, and they fire and glaze it for pickup ~10 days later. Projects finish in 1.5 hours or less, total price includes studio time, materials, and firing. Note: this is the Park Slope location — the user's brief said 'Greenpoint' but Painted Pot has only the 5th Ave shop; the real Greenpoint analog is The Pottery Studio on Norman Ave (enqueued below).",
+    "url": "https://www.paintedpot.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "1-1.5 hr",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "see site (Yelp lists Sat 10:00-21:00, Sun 10:00-19:00 for the studio)",
+    "notes": "Address 188 5th Ave, Brooklyn NY 11217 (per official site). Pieces $18 starting, avg $25-$35; glazes non-toxic, lead-free, food-safe; pickup ~10 days after painting (https://www.paintedpot.com/walk-in-pottery-painting/). Yelp listing shows a second address 200 7th Ave — official site is authoritative. Street parking on 5th Ave / side streets is typically findable on weekend mornings; no dedicated lot. Good lower-skill ceramic counterpart to a wheel-throwing class for an artist friend group who wants finished objects without the learning curve.",
+    "sources": [
+      {
+        "url": "https://www.paintedpot.com/",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://www.paintedpot.com/walk-in-pottery-painting/",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-painted-pot-brooklyn-4",
+        "accessed": "2026-05-18T20:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T20:14:41.103Z"
+  },
+  {
+    "id": "moss-boss-nyc-bowl-workshop",
+    "name": "MossBoss NYC — Moss Bowl Making Workshop",
+    "desc": "90-min beginner workshop arranging 6 preserved moss species into a take-home wood bowl on Van Brunt St.",
+    "longDesc": "At MossBoss NYC's Red Hook studio at 294 Van Brunt Street, you spend 90 minutes prepping, cleaning, adhering and arranging six different preserved moss species into either a 10.5\" natural wood or 11.5\" grey-wash wood bowl. The moss is real but preservation-treated — no watering, no maintenance, just a sculptural greenery centerpiece you walk out with the same day. Beginner-friendly, runs $75 per seat, fits 1–10 guests, and kids 10+ are welcome with an adult.",
+    "url": "https://classbento.com/moss-bowl-making-workshop-new-york-city",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "by booking (weekend sessions on ClassBento)",
+    "notes": "Hosted by MossBoss NYC at 294 Van Brunt St, Brooklyn 11231 — Red Hook's main strip with shops/cafes/waterfront within walking distance after class (mossbossnyc.com). $75/seat, capacity 1–10, 90-min format, take-home wood bowl with 6 moss species; no maintenance required (classbento.com). Booking phone 917-690-2593, Studio@mossbossnyc.com. Drive from Industry City via 3rd Ave → Hamilton Ave → Van Brunt is ~10 min; Red Hook has reliable weekend street parking on Van Brunt and side streets, plus Fairway/Valentino Pier lots nearby. Different-medium pairing for the Red Hook cluster — botanical counterpart to candle/scent workshops.",
+    "sources": [
+      {
+        "url": "https://classbento.com/moss-bowl-making-workshop-new-york-city",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://classbento.com/moss-boss-nyc",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://www.mossbossnyc.com/",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://www.mossbossnyc.com/contact",
+        "accessed": "2026-05-18T20:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T20:16:58.178Z"
+  },
+  {
+    "id": "brooklyn-craft-company-embroidery",
+    "name": "Brooklyn Craft Company — Beginner Embroidery",
+    "desc": "Single-session 2.5-hr embroidery class in Greenpoint; finish a hoop, all materials included for $50",
+    "longDesc": "Drop-in beginner embroidery workshop at a beloved Greenpoint craft school — you leave with a finished peace-sign hoop after learning fundamental stitches from working makers. All materials and the project are included in the $50 fee, so it works cleanly as a no-prep creative anchor before food or drinks on Manhattan Ave. If embroidery isn't the right fit, their Sewing 101 (3-hr skirt-make) is the same-format alternate.",
+    "url": "https://www.brooklyncraftcompany.com/products/beginner-embroidery-workshop",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2.5 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-17:00",
+    "notes": "Location correction: studio is at 165 Greenpoint Ave in Greenpoint, not Williamsburg as originally scoped (brooklyncraftcompany.com/pages/about-us). Workshop runs 2.5 hrs, $50 all-in including project + materials, total beginners welcome (brooklyncraftcompany.com/products/beginner-embroidery-workshop). Less than one block from the G-train Greenpoint Ave stop; weekend street parking on side streets is generally more forgiving than in Williamsburg but there is no dedicated lot. Calendar-based booking — verify a Saturday or Sunday session is on the schedule before promoting to a track. Pairs naturally with Greenpoint food/drink (Peter Pan Donuts, Frankel's, Oxomoco) for a half-day cluster.",
+    "sources": [
+      {
+        "url": "https://www.brooklyncraftcompany.com/products/beginner-embroidery-workshop",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://www.brooklyncraftcompany.com/pages/about-us",
+        "accessed": "2026-05-18T20:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-craft-company-brooklyn",
+        "accessed": "2026-05-18T20:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T20:21:19.771Z"
   }
 ]
