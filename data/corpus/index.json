@@ -24323,54 +24323,48 @@
   {
     "id": "empire-stores-dumbo",
     "name": "Empire Stores",
-    "desc": "1860s coffee warehouse turned waterfront complex with Time Out Market, West Elm flagship, and public rooftop garden.",
-    "longDesc": "A landmarked Civil War-era warehouse complex on the Brooklyn Bridge Park waterfront at 55 Water Street, Empire Stores stitches together restored 1860s brick architecture with a public rooftop garden offering uninterrupted views of the East River, Brooklyn Bridge, and lower Manhattan skyline. Inside you'll find Time Out Market New York (a curated food hall featuring rotating top NYC chefs that opened in 2019), the West Elm flagship and HQ, Gallery 55, and rotating pop-ups like FAD Market craft fairs on summer weekends. Enter through the central atrium and take the outdoor stairs to the free rooftop — it's a two-minute walk from Jane's Carousel.",
+    "desc": "1870s coffee warehouse turned waterfront retail + rooftop with twin-bridge views",
+    "longDesc": "Seven-building 1869 Arbuckle Bros. coffee warehouse on the Dumbo waterfront, restored by Studio V and S9 Architecture and reopened in 2017 with a Belgian-block courtyard cut through the brick. Inside are West Elm, Time Out Market food hall, boutiques, and Cecconi's Dumbo (Soho House group) whose terrace frames the Brooklyn and Manhattan Bridges. A free public rooftop on the 5th floor delivers the same skyline view without a reservation.",
     "url": "https://www.empirestoresdumbo.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
-      "foodie",
       "photo",
-      "chill",
-      "romantic"
+      "curious",
+      "romantic",
+      "foodie"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "1-2 hrs",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "08:00-23:00",
-    "notes": "Free public rooftop garden via center atrium → outdoor stairs (empirestoresdumbo.com). Time Out Market food hall has 20+ vendors and dietary options across stalls (timeoutmarket). Weekend hours run Fri-Sat 8am-11pm, Sun 8am-10pm; food hall/shop hours vary by tenant. 1,200+ off-street parking spaces within two blocks (empirestoresdumbo visit page) — much easier than street parking elsewhere in DUMBO. Pairs naturally with Jane's Carousel (2-min walk) and Brooklyn Bridge Park.",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "10:00-22:00",
+    "notes": "Free public rooftop accessed via two stroller-friendly elevators on the courtyard side (Brooklyn Bridge Parents). Cecconi's serves weekend brunch + cicchetti with bridge-framed terrace seating (cecconisrestaurants.com). Courtyard cut connects Water St to the Brooklyn Bridge Park greenway — natural transition to Jane's Carousel or Pebble Beach. Weekend street parking is hostile; Pearl St and 20 Old Fulton garages are the reliable options.",
     "sources": [
       {
-        "url": "https://www.empirestoresdumbo.com/visit-us",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.empirestoresdumbo.com/whos-here",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://brooklynbridgepark.org/places-to-see/empire-stores/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.empirestoresdumbo.com/about",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Empire_Stores",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/time-out-market-new-york/how-to-get-here",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.cecconisrestaurants.com/dumbo/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgeparents.com/empire-stores-rooftop-terrace-in-dumbo-now-open-to-the-public/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T06:22:21.861Z"
+    "lastResearchedAt": "2026-05-18T10:03:54.207Z"
   },
   {
     "id": "empire-fulton-ferry-lawn",
@@ -35439,8 +35433,8 @@
   {
     "id": "sauvage-greenpoint-closed",
     "name": "Sauvage (CLOSED)",
-    "desc": "Maison Premiere's former Greenpoint sister — permanently closed; do not route guests here.",
-    "longDesc": "Sauvage was the brasserie sibling to Maison Premiere from the same James Beard-winning Premiere Enterprises team, at 905 Lorimer St in Greenpoint (not Williamsburg/Graham Ave). It has been permanently closed since at least early 2026 per Yelp, Tripadvisor, and Foursquare listings, so it cannot serve as a Williamsburg brunch backup. Use Recette or Juliette as the second romantic-cluster anchor instead.",
+    "desc": "Closed 2020 — Maison Premiere's former Greenpoint sister bistro at 905 Lorimer; do not route guests here.",
+    "longDesc": "Sauvage was the French-accented bistro spinoff from Joshua Boissy, Krystof Zizka and chef Lisa Giffen of Maison Premiere, opened 2016 opposite McCarren Park with raw bar, classic cocktails and a crisp tile-and-marble dining room. Both venues filed Chapter 11 in 2019 with ~$5.2M in debt; Maison Premiere reopened in Williamsburg after the pandemic, but Sauvage shuttered for good in 2020. The 905 Lorimer space has since cycled through new tenants — verify current occupant before recommending.",
     "url": "https://premiere-enterprises.com/project/sauvage/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -35451,32 +35445,36 @@
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "30-45 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "CLOSED — permanently shuttered",
-    "notes": "Task brief incorrectly placed Sauvage on Graham Ave Williamsburg — actual address was 905 Lorimer St, Greenpoint, ~10 min drive from Maison Premiere (Yelp). Yelp listing marked CLOSED as of Feb 2026 (yelp.com/biz/sauvage-brooklyn). Tripadvisor and Foursquare independently confirm closure. Premiere Enterprises page still lists it as 'opened 2016' with no operational status. Do NOT promote to the active corpus as a brunch venue. Williamsburg romantic-cluster backup should pivot to Recette (10am-3:45pm weekends, French, art-nouveau room) or Juliette (French bistro w/ rooftop). Sauvage's former chef Lisa Giffen now runs Lord's in Manhattan, outside drive-cluster.",
+    "duration": "n/a",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "CLOSED PERMANENTLY",
+    "notes": "PERMANENTLY CLOSED — kept in corpus only as a historical reference / negative match. Sauvage shut in 2020 after the Maison Premiere group's 2019 Chapter 11 filing (Robb Report). The Greenpoint address 905 Lorimer St has churned through subsequent tenants per Greenpointers' tenant history. Route any 'Maison Premiere sister' or 'French Greenpoint bistro' intent to live alternatives in enqueue. Confirmed closed via Yelp 'CLOSED', Foursquare 'Now Closed', Gothamist/Robb Report bankruptcy coverage.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/sauvage-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://gothamist.com/food/maison-premiere-team-opens-sauvage-in-greenpoint",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d11903754-Reviews-Sauvage-Brooklyn_New_York.html",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://robbreport.com/food-drink/dining/maison-premiere-sauvage-bankruptcy-2854337/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sauvage-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2023/07/25/the-history-of-905-lorimer-can-the-next-tenant-succeed/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://premiere-enterprises.com/project/sauvage/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.gayot.com/restaurants/sauvage-brooklyn-ny-11222_1ny190710.html",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T00:35:17.875Z"
+    "lastResearchedAt": "2026-05-18T10:08:16.075Z"
   },
   {
     "id": "coffeed-brooklyn-grange-lic",
@@ -40540,5 +40538,149 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T09:57:50.676Z"
+  },
+  {
+    "id": "time-out-market-nyc",
+    "name": "Time Out Market New York",
+    "desc": "Rooftop food hall at Empire Stores with 19 restaurants, 3 bars, and a Brooklyn Bridge skyline view.",
+    "longDesc": "Time Out Market sits inside the historic Empire Stores at 55 Water Street in Dumbo, hosting a curated lineup of 19 New York restaurants and 3 bars under one roof (timeout.com). The fifth-floor rooftop terrace and indoor lounge frame a panoramic sweep of the Manhattan skyline and Brooklyn Bridge, with summer DJ programming and handcrafted cocktails (resident.com). Order across vendors — ramen, BBQ sliders, sushi, tacos, pastries — and bring it up to the roof; clean bathrooms and elevator access make it an easy final stop before the drive back.",
+    "url": "https://www.timeoutmarket.com/newyork/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 8:00-23:00, Sun 8:00-22:00",
+    "notes": "Address: 55 Water St, Brooklyn NY 11201 inside Empire Stores (empirestoresdumbo.com). 5th-floor + rooftop reachable via outside stairs or two elevators — accessible for tired legs (timeout.com). One block from the Brooklyn Bridge pedestrian exit, so it closes a bridge-walk loop neatly. Parking: Empire Stores has no dedicated garage; nearest weekend parking is iPark at 20 Old Fulton St or the Brooklyn Bridge Park lot under Pier 1 (typically $$$). Rooftop has live DJs in warm months (resident.com 2025-07-30). Vendors rotate — check current lineup before pinning a must-eat.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/time-out-market-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.empirestoresdumbo.com/tenants/time-out-market-8",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://resident.com/food-and-drink/2025/07/30/skyline-sips-summer-sets-inside-time-out-market-new-yorks-rooftop-revival",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/time-out-market-new-york/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:01:58.828Z"
+  },
+  {
+    "id": "pebble-beach-pier-1-bbp",
+    "name": "Pebble Beach + Pier 1 Viewpoint (Brooklyn Bridge Park)",
+    "desc": "Cobbled cove and granite-step overlook with the postcard Brooklyn Bridge + Manhattan skyline shot.",
+    "longDesc": "Pebble Beach is the tucked-away gravel cove in the Main Street section of Brooklyn Bridge Park, looking straight back at the Brooklyn Bridge with One World Trade and the Lower Manhattan skyline behind it — the exact frame you just walked across. Pair it with Pier 1's Granite Prospect (wide stone steps that double as bleacher seating) and the Outer Promenade for an unobstructed sunset skyline view, then drift north along the waterfront path to Pebble Beach itself for the close-in bridge cove shot. Best at golden hour; arrive 45 min before sunset to claim a step on the Granite Prospect.",
+    "url": "https://brooklynbridgepark.org/places-to-see/pebble-beach/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park is open 6 AM–1 AM daily, entry free (brooklynbridgepark.org). Weekend driving: LAZ garage at 90 Furman St (under Squibb Bridge) is the closest paid lot to Pier 1; metered Furman St spots near Pier 2 cap at 3 hrs. Pebble Beach sits at the Main Street end (DUMBO side) — under the Manhattan Bridge, looking south at the Brooklyn Bridge — so combine Pier 1 (Brooklyn Heights end) → Granite Prospect → Outer Promenade → walk north ~10 min to Pebble Beach for the cove shot. Sunrise has fewer crowds; golden hour is the money window per local photo guides (triptins.com).",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pebble-beach/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-1/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://triptins.com/pebble-beach/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:05:59.935Z"
+  },
+  {
+    "id": "le-crocodile-wythe",
+    "name": "Le Crocodile",
+    "desc": "All-day Williamsburg French brasserie inside Wythe Hotel from Chez Ma Tante's chef partners",
+    "longDesc": "Le Crocodile is the ground-floor brasserie at the Wythe Hotel from Aidan O'Neal and Jake Leiber (Chez Ma Tante), serving earnest French staples like steak frites au poivre, roasted chicken with herb jus, mushroom paté, and leeks vinaigrette with hazelnuts. The room is bright tile-and-banquette Parisian-meets-Brooklyn, the bar pours classic apéritifs, and weekend dinner runs late enough to dovetail with an oyster cap at Maison Premiere four blocks south. Reservations open 28 days out on Resy; Wythe's garage and SpotHero pre-booking solve the Williamsburg parking problem.",
+    "url": "https://www.lecrocodile.com/",
+    "photoUrl": "https://static.wixstatic.com/media/3e9cbe_f534f70871dd4014b3594cbf908419ab~mv2.jpeg",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "10:00-23:00",
+    "notes": "Inside Wythe Hotel, 80 Wythe Ave at N 11th (lecrocodile.com). Weekend brunch Sat-Sun 10:00-15:00, dinner Thu-Sat 17:00-23:00 / Sun-Wed 17:00-22:00 (lecrocodile.com, timeout.com). Three-star NYT review; chef partners are Aidan O'Neal & Jake Leiber of Chez Ma Tante in Greenpoint (nyctourism.com). Resy opens 28 days in advance, parties up to 12 (resy.com). Parking: Wythe Hotel valet/garage, pre-book via SpotHero for weekends (spothero.com). Pairs naturally with Maison Premiere (4-min walk south on Bedford) for a post-dinner oyster + absinthe cap, or with Bar Blondeau upstairs in the same building for a pre-dinner rooftop drink.",
+    "sources": [
+      {
+        "url": "https://www.lecrocodile.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.wythehotel.com/dining",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/le-crocodile/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/wythe-hotels-le-crocodile-opens-in-williamsburg-with-french-fare-120319",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/le-crocodile",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/wythe-hotel-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/le-crocodile-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:10:37.501Z"
   }
 ]
