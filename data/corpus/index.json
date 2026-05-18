@@ -43413,5 +43413,220 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T14:48:52.439Z"
+  },
+  {
+    "id": "kaffe-1668-tribeca",
+    "name": "Kaffe 1668",
+    "desc": "Scandinavian-style espresso bar in Tribeca; flagship South location anchors a SoHo/Tribeca gallery walk.",
+    "longDesc": "Kaffe 1668 South at 275 Greenwich St is the original Tribeca outpost — Scandinavian-roasted, hand-picked single-origin beans pulled to order on a serious espresso program, with a quirky bookshelf-and-white-sheep interior. Five minutes' walk to The Drawing Center (35 Wooster) and within easy range of Tribeca/SoHo gallery routes; a sibling location at 401 Greenwich (North) covers the same blocks if South is packed.",
+    "url": "https://www.kaffe1668.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "07:00-19:00",
+    "notes": "Manhattan venue (Tribeca) — included as a coffee anchor for a Drawing Center / SoHo gallery walk in the corpus; zone field set to brooklyn-heights as the closest geographic proxy since the schema lacks a Manhattan zone. Two locations: 275 Greenwich St (South, flagship) and 401 Greenwich St (North); the South site is the espresso-bar original (NYC Undergrounds). Weekend hours 7:00-19:00 reported, with some sources noting South closes earlier (~17:00) on Sundays — verify on day-of. Drive from Industry City via Brooklyn-Battery Tunnel runs ~18-22 min off-peak weekends; parking in Tribeca is tight — plan on a garage (e.g., Edison ParkFast at 22 Murray St or Icon at 200 Chambers) rather than street. Five-minute walk to The Drawing Center; also positioned for Apexart, Postmasters, and Tribeca-area satellite shows. Cash-and-card; no full kitchen — pastries and light bites only, so pair with a Tribeca lunch stop.",
+    "sources": [
+      {
+        "url": "https://www.kaffe1668.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://nycundergrounds.com/2017/05/23/kaffe-1668-tribeca/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kaffe-1668-south-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.glenwoodnyc.com/manhattan-living/best-coffee-nyc-kaffe-1668-hugh-jackmans-laughing-man/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:51:19.302Z"
+  },
+  {
+    "id": "david-zwirner-19th-street",
+    "name": "David Zwirner 19th Street",
+    "desc": "Free Chelsea mega-gallery row with rotating blue-chip shows across three spaces on W 19th St",
+    "longDesc": "David Zwirner's flagship New York footprint spans 519, 525, and 533 West 19th Street in Chelsea — three free, museum-scale galleries you can walk between in one visit. Currently on view: Lisa Yuskavage (May 14–June 26, 2026) and 'The Great Unseen Collection' at 525 W 19th (May 7–June 13, 2026). The block anchors a dense free-art walking loop with Dia Chelsea two blocks south on W 22nd and Gagosian, Pace, and Hauser & Wirth all within a 4-block radius.",
+    "url": "https://www.davidzwirner.com/galleries/new-york",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 10:00-18:00, Sun closed",
+    "notes": "Free admission, no reservations needed (davidzwirner.com). Saturday is the only weekend day open — Sunday/Monday closed. Three buildings on one block (519/525/533 W 19th) = one ticket-free loop. Pairs naturally with Dia Chelsea (W 22nd) and the broader Chelsea gallery district. Street parking is tough; reliable garages on W 18th and W 20th between 10th/11th Ave run ~$25-40 for 2-3 hrs. Best Saturday window: 11am-2pm before crowds, or 4-6pm golden-hour walk-up.",
+    "sources": [
+      {
+        "url": "https://www.davidzwirner.com/galleries/new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.davidzwirner.com/exhibitions",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/david-zwirner/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/david-zwirner-new-york-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:53:09.535Z"
+  },
+  {
+    "id": "hauser-wirth-22nd-street",
+    "name": "Hauser & Wirth 22nd Street",
+    "desc": "Selldorf-designed, 36,000 sq ft purpose-built Chelsea flagship; museum-scale free shows across from Dia.",
+    "longDesc": "Hauser & Wirth's first ground-up building (Selldorf Architects, 2021) at 542 W 22nd anchors the Chelsea Arts District with three floors of gallery space and a dedicated viewing room. Programming rotates blue-chip estates and living artists (Mark Bradford, Louise Bourgeois, Rashid Johnson, Philip Guston) at scale that rivals a small kunsthalle, and admission is always free. Sitting directly opposite Dia 22nd Street and a two-block walk from Gagosian and Pace, it lets one Manhattan park-and-walk cover three heavyweight venues.",
+    "url": "https://www.hauserwirth.com/locations/10073-hauser-wirth-new-york-22nd-street/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 10:00-18:00; closed Sun",
+    "notes": "Free admission — commercial gallery (Hauser & Wirth official). Building is the gallery's first purpose-built, ground-up NYC space, 36,000 sq ft by Selldorf Architects (AIA NY). Address 542 W 22nd per gallery site; Yelp lists 548 W 22nd for the same building. CRITICAL: closed Sundays and Mondays — only viable on Saturday for a weekend itinerary. Pairs natively with Dia 22nd Street (directly across) and walkable to Pace (540 W 25th) and Gagosian (555 W 24th). ZONE MISMATCH: corpus enum has no Manhattan/Chelsea value; tagged industry-city as anchor-fallback — orchestrator should add a 'chelsea' or 'manhattan-chelsea' zone or use a Chelsea-cluster tag. Parking: Edison ParkFast at 524 W 23rd and several lots on 11th Ave; budget $30-50 for 3 hrs on a Saturday.",
+    "sources": [
+      {
+        "url": "https://www.hauserwirth.com/locations/10073-hauser-wirth-new-york-22nd-street/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.aiany.org/architecture/featured-projects/view/hauser-wirth-22nd-street/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://artguide.artforum.com/artguide/hauser-wirth-542-west-22nd-street-14979",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.archpaper.com/2020/10/selldorf-architects-completes-hauser-wirth-multi-story-manhattan-gallery/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:55:35.681Z"
+  },
+  {
+    "id": "high-line-park",
+    "name": "The High Line",
+    "desc": "1.45-mile elevated park on a former rail line through Chelsea and Meatpacking; free, open daily.",
+    "longDesc": "An elevated linear park built on a former NY Central freight line, running 1.45 miles from Gansevoort Street up through Chelsea to 34th Street. Wildflower plantings, public art installations, viewpoints over the Hudson, and direct stair/elevator access at Gansevoort (south end, Meatpacking) and 23rd Street (mid-park, near the Chelsea galleries and Dia Chelsea). Free admission; spring/fall hours 7am-10pm daily.",
+    "url": "https://www.thehighline.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "active",
+      "photo",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-75 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "07:00-22:00",
+    "notes": "Manhattan exception: pairs with Dia Chelsea / Chelsea gallery row as a longer outdoor art leg (thehighline.org). Two access points worth knowing — Gansevoort St (south terminus, Meatpacking, elevator) or 23rd St (mid-park, near galleries, elevator + lawn/seating steps) (thehighline.org). Spring–fall hours 7am–10pm; winter 7am–8pm (thehighline.org). Free. Driving from IC: ~20–25 min via Brooklyn-Battery Tunnel on a weekend morning; street parking is brutal — pre-book a Chelsea garage via SpotHero/ParkMobile ($23–$85) (spothero.com, parkmobile.io). Walking the full Gansevoort→34th leg is ~45 min one-way; doing Gansevoort→23rd and exiting into the galleries is the natural pairing (~25–35 min walk).",
+    "sources": [
+      {
+        "url": "https://www.thehighline.org/visit/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.thehighline.org/faq/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/the-high-line",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/the-high-line-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/destination/high-line",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:57:50.745Z"
+  },
+  {
+    "id": "drawing-center-soho",
+    "name": "The Drawing Center",
+    "desc": "Free SoHo nonprofit dedicated to works on paper — the only U.S. museum focused on drawing as a discipline",
+    "longDesc": "Founded 1977, The Drawing Center at 35 Wooster St is the sole U.S. nonprofit museum devoted exclusively to works on paper, mounting rotating exhibitions of historical masters and emerging contemporary artists. Admission is free thanks to Cy Twombly Foundation support. Through June 7, 2026, the headline show is 'Ceija Stojka: Making Visible,' a survey of the Romani Holocaust-survivor artist — pair it with a short walk to Storefront for Art and Architecture two blocks south for a tight downtown art-and-design loop.",
+    "url": "https://drawingcenter.org/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "12:00-18:00",
+    "notes": "Manhattan exception justified: only U.S. museum dedicated to works on paper, free admission, and naturally pairs with Storefront for Art and Architecture (~2 blocks south on Kenmare/Wooster) for a downtown art-and-design walk (drawingcenter.org). Parking limited in SoHo — recommend a paid garage on Broome or Canal, or street parking on Sunday. Driving from IC: Gowanus Expy → Brooklyn Battery Tunnel → up West St → east on Canal, ~22 min off-peak (Google Maps). Closed Mon–Tue; Sat/Sun 12–6 PM gives flexible 45–60 min slot. Current show through Jun 7, 2026: Ceija Stojka: Making Visible.",
+    "sources": [
+      {
+        "url": "https://drawingcenter.org/visit",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/the-drawing-center-soho/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/art/the-drawing-center",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:59:42.290Z"
   }
 ]
