@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Otafuku + Hinomaru sake bar inside Japan Village — takoyaki and drinks pairing",
-    "reason": "Completes the Japan Village mini-cluster as a single IC track without leaving the building",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:35:50.873Z"
-  },
-  {
-    "topic": "Mister Paradise / Angel's Share East Village shochu-cocktail bar — Yoshida group sibling for late-night Manhattan extension",
-    "reason": "Same ownership lineage as WakuWaku (Tony Yoshida), unlocks a cocktail post-dinner option if a track ever crosses into Manhattan",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:38:18.534Z"
-  },
-  {
-    "topic": "Kura Sushi / sushi counter alternatives inside Japan Village food hall — cheaper, no-reservation backup for the same anchor",
-    "reason": "Gives the itinerary a fallback if WakuWaku is fully booked, without leaving Industry City",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:38:18.534Z"
-  },
-  {
-    "topic": "Mokbar Brooklyn or other Industry City Building 4 evening dining — non-Japanese 60+ seat dinner spot for tatami-style group bookings",
-    "reason": "Diversifies the IC evening corpus so not every dinner track funnels into the same izakaya",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:38:18.534Z"
-  },
-  {
-    "topic": "Patisserie Tomoko (Williamsburg)",
-    "reason": "Japanese-French dessert tasting menu — adds a sit-down evening counterpart to the morning-pastry IC anchors, ~20 min drive",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:40:33.794Z"
-  },
-  {
     "topic": "Norikoh / Japanese coffee + pastry options in Carroll Gardens or Cobble Hill",
     "reason": "Fills the mid-route gap between IC and Dumbo; corpus currently has no Japanese bakery in the brownstone-belt cluster",
     "requestedBy": "agent",
@@ -19966,5 +19936,95 @@
     "reason": "Central to all IC-anchored tracks; needs a single authoritative entry",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T21:00:16.247Z"
+  },
+  {
+    "topic": "Panya Bakery (Japan Village, Industry City) — Japanese pastries and coffee",
+    "reason": "Caps the Japan Village track with a sweet/coffee close-out without leaving the building",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:02:57.174Z"
+  },
+  {
+    "topic": "Kuraichi sake & whisky shop (Industry City, 88 35th St) — take-home bottle pairing",
+    "reason": "Natural extension after Sake's Bar: shoppers can grab a bottle of what they just tasted",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:02:57.174Z"
+  },
+  {
+    "topic": "Oldies cocktail bar (Industry City, off Japan Village food hall) — 12-seat Japanese cocktail spot",
+    "reason": "Upgrade path for the drinks half of the pairing when guests want sit-down cocktails instead of counter sake",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:02:57.174Z"
+  },
+  {
+    "topic": "Mister Paradise (105 1st Ave, East Village) shochu-forward cocktail bar",
+    "reason": "Not Yoshida lineage (Drexler's / Boulton & Watt team) but home of the Doctor Angel-Face shochu martini — strongest East Village shochu-cocktail option, worth its own corpus entry as a non-Yoshida sibling for the same late-night Manhattan slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:05:45.089Z"
+  },
+  {
+    "topic": "Katana Kitten (531 Hudson St, West Village) Japanese highball + cocktail bar",
+    "reason": "Three-block walk from Angel's Share; ranked Best Bar in North America 2020; gives Saturfun a second Japanese-cocktail anchor in the same micro-zone so a Manhattan extension can chain two venues",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:05:45.090Z"
+  },
+  {
+    "topic": "Bar Goto (245 Eldridge St, Lower East Side) Kenta Goto sakura-martini bar",
+    "reason": "Ex-Pegu Club master Kenta Goto's Japanese cocktail bar — fills the LES side of the Manhattan late-night map and pairs naturally with East Village dinner tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:05:45.090Z"
+  },
+  {
+    "topic": "Re-research existing venue: Handroll Sushi Bar at Japan Village (confirm Sat/Sun hours by phone)",
+    "reason": "If it actually opens weekends, it's a stronger direct sushi-counter backup than Obentoyasan — sushi made-to-order in front of you, still walk-in, still inside the food hall.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:09:07.915Z"
+  },
+  {
+    "topic": "Sushi Uesugi at Japan Village — lunch walk-in viability and exact omakase price tiers",
+    "reason": "Same building as WakuWaku but separate venue; if a small bar seat is available for walk-ins around lunch ($30–50), it's a mid-tier fallback between Obentoyasan and a full WakuWaku booking.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:09:07.915Z"
+  },
+  {
+    "topic": "Moriya donburi stall at Japan Village",
+    "reason": "Non-sushi alternative inside the same food hall (gyudon, oyakodon, Japanese curry) — useful if the group splits and one person doesn't want raw fish; expands the IC food-hall backup set.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:09:07.915Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Industry City — large-group BBQ dinner with big communal tables",
+    "reason": "Another non-Japanese 60+ capacity option on the IC campus that runs later into the evening than Sahadi's 7pm close",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:12:17.277Z"
+  },
+  {
+    "topic": "Industry City Distillery / Wheelhouse Bar — post-dinner drinks venue within IC after a 5pm Sahadi's seating",
+    "reason": "Pairs with the early Sahadi's dinner window so groups can stay on-campus past 7pm without driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:12:17.277Z"
+  },
+  {
+    "topic": "Ejan Korean comfort food at Industry City — group-friendly Korean alternative in Buildings 5/6",
+    "reason": "Adds a non-Japanese Asian dinner option to the IC corpus so the planner has variety beyond Middle Eastern when groups want Asian without going to Japan Village",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:12:17.278Z"
+  },
+  {
+    "topic": "Bonbon Lakay (Williamsburg) — Haitian-French pastries and bonbons",
+    "reason": "fills the Williamsburg dessert cluster with a non-Japanese counterpart so a 'sweet crawl' track works without redundancy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:14:18.200Z"
+  },
+  {
+    "topic": "Win Son Bakery (East Williamsburg) — Taiwanese-American milk bread, mochi muffins",
+    "reason": "morning/afternoon pastry stop a few blocks from Tomoko; lets a Williamsburg day chain bakery → dinner → Tomoko",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:14:18.200Z"
+  },
+  {
+    "topic": "L'Industrie Pizzeria (S 2nd St) — slice + square pies before a Tomoko reservation",
+    "reason": "the obvious 'savory before dessert tasting' pairing within 8-min walk; corpus needs the dinner half of this combo",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:14:18.200Z"
   }
 ]

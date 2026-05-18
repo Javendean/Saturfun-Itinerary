@@ -5128,53 +5128,48 @@
   {
     "id": "sahadis-industry-city",
     "name": "Sahadi's at Industry City",
-    "desc": "Legendary Middle Eastern grocer's IC outpost — bulk spices/olives, sit-down counter, made-to-order sajj sandwiches, weekend brunch.",
-    "longDesc": "The Industry City expansion of Brooklyn's 1948-vintage Sahadi's pairs a full Mediterranean retail market (bulk spices, olives, dried fruit, cheese, imported pantry goods) with an open-kitchen counter serving made-to-order sajj sandwiches, mezze platters, and rotating hot dishes. A bar/cafe area pours arak, Lebanese wine, and Levantine cocktails, with weekend brunch 11AM-3:30PM and live music nights stretching the bar to 10PM Fri-Sat. It functions as a direct cuisine-rotated mirror to Japan Village in the same complex: same 'wander-and-graze' rhythm, different pantry.",
-    "url": "https://sahadis.com/pages/locations",
+    "desc": "Middle Eastern grocery-cafe-bar in IC Building 4 with a 90-seat outdoor tent built for group bookings.",
+    "longDesc": "The Brooklyn Heights institution's Industry City offshoot pairs a full-service Middle Eastern cafe and natural-wine bar with a sprawling courtyard tent that seats up to 90 (200 standing) — the largest non-Japanese group footprint inside Building 4. Mezze platters, saj flatbreads, kebabs, and house wine on tap suit a shared-table group meal, and the events team books baby showers, micro-weddings, and corporate dinners regularly. Best treated as an early-evening (5–7pm) group dinner since posted hours close at 7pm, with the firepit nook available for a smaller wind-down before/after.",
+    "url": "https://industrycity.com/tenants/sahadis/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
+      "chill",
       "foodie",
-      "curious",
-      "chill"
+      "romantic"
     ],
     "dietary": [
       "vegetarian",
-      "vegan",
-      "halal"
+      "vegan"
     ],
     "priceBand": "$$",
-    "duration": "45-75 min",
-    "driveFromIC": "0 min (onsite)",
-    "hoursWeekend": "11:00-19:00 (bar/cafe until 22:00 Fri-Sat)",
-    "notes": "Located inside Industry City at 52 35th St, Brooklyn (Building 2 corridor; IC main address 34 35th St). Sajj sandwiches and the mezze counter are the on-site eat-now move; bulk retail aisle is the take-home move — pair both. Brunch Sat/Sun 11:00-15:30 (sahadis.com/pages/brunch-bar-menu). IC has weekend parking onsite, so this pairs perfectly with a Japan Village + Sahadi's same-trip 'two food halls' itinerary (gothamist.com).",
+    "duration": "90-120 min",
+    "driveFromIC": "0 min (on-site, Building 4)",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "On-site in IC Building 4, entrance 34 35th St (industrycity.com). Outdoor tent fits 90 seated / 200 standing; cafe 35 seated; firepit 16 seated (sahadis.com events). Group bookings via info.ic@sahadis.com / (718) 788-7500, usually confirmed in 24h. 7pm close means schedule a 5pm or 5:30pm seating for the 60+ tatami-style shared-table group format; after-dinner drinks can shift to Industry City Distillery or Wheelhouse on the same complex. Happy hour 4-6pm Mon-Fri ($3 off tap wine, $2 off tap beer) per locations page. Strong vegetarian/vegan coverage via mezze (hummus, mutabbal, falafel, fattoush) — useful for mixed-diet groups.",
     "sources": [
       {
-        "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
         "url": "https://industrycity.com/tenants/sahadis/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T21:05:00Z"
       },
       {
-        "url": "https://gothamist.com/food/inside-the-glorious-new-sahadis-in-industry-city",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://sahadis.com/pages/sahadis-events",
+        "accessed": "2026-05-18T21:05:00Z"
       },
       {
-        "url": "https://sahadis.com/pages/brunch-bar-menu",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://sahadis.com/pages/locations",
+        "accessed": "2026-05-18T21:05:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/sahadis-industry-city-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.yelp.com/biz/mokbar-brooklyn-brooklyn",
+        "accessed": "2026-05-18T21:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T18:46:04.179Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T21:12:17.244Z"
   },
   {
     "id": "micol-ceramics",
@@ -14868,10 +14863,10 @@
   {
     "id": "patisserie-tomoko",
     "name": "Patisserie Tomoko",
-    "desc": "Japanese-French dessert bar in Williamsburg with a three-course plated flight + sake pairings",
-    "longDesc": "A tiny Union Ave patisserie that splits into a takeout counter (mango macarons, pistachio biscuits, matcha-leaning pastries) and a 6-seat dessert bar where chef Tomoko Kato plates a three-course tasting flight you can pair with wine or sake. Weekend afternoons are the sweet spot — open until 8pm Fri/Sat — and street parking around McCarren Park is workable. Genuine Brooklyn-zone Asian-fusion dessert match that fills the gap Manhattan's Spot Dessert Bar can't.",
+    "desc": "Japanese-French dessert tasting bar with 8-seat counter, sake/wine pairings, intimate evening flight",
+    "longDesc": "Chef Tomoko Kato plates a three-course dessert prix fixe at a horseshoe counter in Williamsburg — amuse-bouche, a sweet course (black-sesame crème brûlée, green-tea cheesecake tart), and petits fours like namachoko. Optional sake or wine pairings make it a proper sit-down evening, not a grab-and-go pastry stop. Eight seats means reservations are essentially required; weekday-evening or early-weekend slots fill fastest.",
     "url": "https://patisserietomoko.com/",
-    "photoUrl": "https://patisserietomoko.com/wp-content/uploads/2013/09/homepage_31.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
@@ -14880,31 +14875,36 @@
       "curious"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$$",
-    "duration": "45-75 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 12:00-20:00; Sun 12:00-18:00",
-    "notes": "568 Union Ave, Williamsburg; closed Mondays (patisserietomoko.com). Dessert bar features a three-course flight with wine/sake pairing option (yelp.com). Signature: mango macarons, pistachio biscuits, custom cakes (patisserietomoko.com). Takeout counter is separate from the bar — walk-ins for the seated flight are limited, call ahead 718-388-7121.",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-18:00",
+    "notes": "568 Union Ave, Brooklyn NY 11211. Closed Mondays; Tue-Thu/Sun close at 18:00, Fri-Sat run until 20:00 — book the later seating for the full dessert-bar experience (Yelp, Time Out). Counter is 8 seats, so reserve ahead. Street parking on Union/Metropolitan is reasonable on weekend evenings vs lunch. Pairs naturally with a Williamsburg dinner stop earlier; not a substitute for the IC morning-pastry anchors but the evening counterpart the corpus was missing.",
     "sources": [
       {
-        "url": "https://patisserietomoko.com/",
-        "accessed": "2026-05-17T19:15:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/patisserie-tomoko-brooklyn-2",
-        "accessed": "2026-05-17T19:15:00Z"
+        "accessed": "2026-05-18T21:05:00Z"
       },
       {
-        "url": "https://www.nabimag.com/munchies/7vldaigea0ygrphkll0em4qn6aykoo",
-        "accessed": "2026-05-17T19:15:00Z"
+        "url": "https://www.timeout.com/newyork/restaurants/patisserie-tomoko",
+        "accessed": "2026-05-18T21:05:00Z"
+      },
+      {
+        "url": "https://www.findmeglutenfree.com/biz/patisserie-tomoko/6451005733076992",
+        "accessed": "2026-05-18T21:05:00Z"
+      },
+      {
+        "url": "https://thewanderingeater.com/2014/02/10/patisserie-tomoko-williamsburg-brooklyn/",
+        "accessed": "2026-05-18T21:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T19:17:12.310Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:14:18.168Z"
   },
   {
     "id": "fan-fan-doughnuts",
@@ -28590,47 +28590,53 @@
   },
   {
     "id": "obentoyasan-japan-village",
-    "name": "Obentoyasan at Japan Village",
-    "desc": "Handmade hot onigiri and ready-to-eat bento counter inside Japan Village food hall at IC",
-    "longDesc": "Stall inside the Japan Village food hall on IC's 3rd Ave side, specializing in large handcrafted onigiri (Spicy Salmon, Mentaiko Mayo, Okaka, Ume, Konbu, Shio, Tuna Mayo) plus ready-to-eat bento boxes, sushi, and miso soup. Reviewers consistently call out the hot onigiri as the best in the city, and the food hall's proximity to JTunes karaoke means a fresh bento can be in-hand and inside a karaoke room in under 60 seconds. Pairs with Sunrise Mart's cold prepared bento case to give the JTunes courtyard a full hot/cold dinner ladder.",
+    "name": "Obentoyasan (Japan Village Food Hall)",
+    "desc": "Walk-up bento, sushi sets, and giant handmade onigiri inside Japan Village — no reservation, cheap, same Industry City anchor.",
+    "longDesc": "Counter stall inside Japan Village's 20,000 sq ft food hall serving large hot onigiri (spicy salmon, tuna mayo, karaage, shrimp tempura, konbu), ready-to-grab nigiri/maki sushi sets, bento boxes, and miso soup. If WakuWaku is fully booked, you can walk straight from the parking deck, grab food in 5–10 minutes, and eat at the communal hall tables surrounded by the same Japan Village atmosphere. Cash for one person typically lands around $12–$20.",
     "url": "https://www.japanvillage.com/eat-drink/obentoyasan",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie",
-      "chill"
+      "chill",
+      "foodie"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "15-30 min",
+    "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Fri-Sat 11:00-20:30, Sun 11:00-19:30",
-    "notes": "Located inside Japan Village food hall at 934 3rd Ave, Brooklyn (industrycity.com/tenants/japan-village). Hot onigiri made to order plus grab-and-go bento case. Vegetarian onigiri flavors include Ume, Konbu, Shio, Okaka. Sake cups available on-site. Same building as JTunes karaoke, so the room-delivery walk is interior to the food hall — no street crossing, no weather risk. Hours from official Japan Village page (japanvillage.com/eat-drink/obentoyasan). Hot-food counterpart in the JTunes courtyard dinner ladder alongside Sunrise Mart's prepared cold bento case.",
+    "hoursWeekend": "Sat 11:00-20:00, Sun 11:00-19:30",
+    "notes": "Direct backup if WakuWaku is full — same building, no reservations, walk-up counter (Nichi Bei News notes the line moves quickly even at lunch). Sushi here is grab-and-go pre-made nigiri/maki rather than a sushi-counter omakase; for an actual itamae experience inside the hall, Sushi Uesugi next door does $30–50 lunch but reservations are advised (Restaurantji, Yelp). Handroll Sushi Bar in the same hall makes rolls to order but its official page only lists Mon–Thu 3–6pm and Fri 12–8pm — weekend availability unconfirmed, so don't promise it. Onigiri pricing 'affordable' per Obentoyasan's own site; bento boxes typically $10–15 at this format. Food hall weekend hours per Yelp (May 2026): Sat 11–21, Sun 11–20.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/obentoyasan",
-        "accessed": "2026-05-17T14:00:00Z"
+        "accessed": "2026-05-18T21:05:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-17T14:00:00Z"
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T21:05:00Z"
       },
       {
-        "url": "https://obentoyasan.menustic.com/",
-        "accessed": "2026-05-17T14:00:00Z"
+        "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
+        "accessed": "2026-05-18T21:05:00Z"
       },
       {
-        "url": "https://restaurantjun.com/japanese-restaurant-near-me/obentoyasan/",
-        "accessed": "2026-05-17T14:00:00Z"
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-18T21:05:00Z"
+      },
+      {
+        "url": "https://www.nichibei.org/2025/01/taking-bites-out-of-brooklyns-japanese-culture/",
+        "accessed": "2026-05-18T21:05:00Z"
+      },
+      {
+        "url": "https://restaurantedroop.com/restaurants-near-me/obentoyasan",
+        "accessed": "2026-05-18T21:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T14:03:34.095Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T21:09:07.877Z"
   },
   {
     "id": "city-league-coffee-whale-building",
@@ -47432,5 +47438,104 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T20:53:43.977Z"
+  },
+  {
+    "id": "hachi-sakes-bar-japan-village",
+    "name": "Hachi + Sake's Bar (Japan Village)",
+    "desc": "Takoyaki and okonomiyaki at Hachi, then sake/chu-hi flight next door at Sake's Bar — same food hall.",
+    "longDesc": "Inside Japan Village at Industry City, Hachi grills takoyaki, okonomiyaki, yakisoba and taiyaki from an open kiosk styled like a Japanese street market. Two steps over, Sake's Bar pours Junmai/Ginjo/Daiginjo flights, Japanese drafts and kiwi/orange/grapefruit chu-his with staff who guide pairings. The whole track happens without leaving the building — order food, walk it to the bar counter, drink, repeat.",
+    "url": "https://www.japanvillage.com/eat-drink",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min (on-site)",
+    "hoursWeekend": "Sat 12:00-20:30, Sun 12:00-19:30",
+    "notes": "Name correction: the brief said 'Otafuku + Hinomaru' but neither exists at Japan Village — Otafuku (East Village) is permanently closed and Hinomaru is a different brand (japanvillage.com/eat-drink). The actual takoyaki/sake pair inside the food hall is Hachi (japanvillage.com/eat-drink/hachi) and Sake's Bar (japanvillage.com/eat-drink/sakes-bar). Hachi confirmed serving takoyaki, okonomiyaki, omu-yakisoba, taiyaki; Sake's Bar pours premium sake categories, Japanese beer, original cocktails, chu-his, with Friday 4-7 PM happy hour (sakes-bar page). Both share the same weekend window so they can be sequenced as one stop. Vegetarian-friendly via okonomiyaki and yakiudon variants. No public photo CDN found on official pages.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink/hachi",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink/sakes-bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/japan-village-opens-at-industry-city-saturday-november-24/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:02:57.138Z"
+  },
+  {
+    "id": "angels-share-west-village",
+    "name": "Angel's Share (45 Grove St, West Village)",
+    "desc": "Yoshida-family Japanese cocktail bar reborn in a West Village basement — late-night Manhattan post-dinner option.",
+    "longDesc": "The legendary hidden cocktail bar originally opened in 1994 above Village Yokocho on Stuyvesant Street by Tadao 'Tony' Yoshida, now run by his daughter Erina Yoshida. After being forced out of the East Village in 2022, it reopened on June 14, 2023 at 45 Grove Street with the original angel mural, door, and antique chandelier transplanted from the old space. A 65-seat temple of precision Japanese cocktail-making with strict etiquette: no standing, no parties over four, no reservations.",
+    "url": "https://www.angelssharenyc.com/",
+    "photoUrl": "https://images.ctfassets.net/1aemqu6a6t65/kxgyl2EcMf3yZUVDefVyZ/b2a49f624dbc1b8b1048d6f3df8c3705/angelsshare-east-village-manhattan-nyc-courtesy-angels-share",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "romantic",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 17:00-00:00; Sun closed",
+    "notes": "MANHATTAN venue, not Brooklyn — actual address 45 Grove St, West Village (zone field set to 'dumbo' as Manhattan-gateway proxy since enum lacks Manhattan). Drive from IC via Brooklyn-Battery Tunnel typically 18-25 min off-hours, 25-35 min in traffic. Yoshida lineage confirmed: Tadao 'Tony' Yoshida developed the Stuyvesant Street Japanese-business cluster that originally housed the bar; daughter Erina Yoshida now owns/operates (Wikipedia, Time Out). Walk-ins only — no reservations, parties capped at 4, no standing at the bar (Time Out, NYC Tourism). Closed Sun-Mon, open Tue-Sat 17:00-00:00 (Yelp, Time Out). Listed on North America's 50 Best Bars 2026 (50bestbars.com). Street parking in West Village is brutal on weekends — plan on a paid garage (Minetta Garage, 122 W 3rd, ~6 min walk) or commit to a one-way drop. Justifies a Manhattan extension only on tracks that already have a dinner anchor in lower Manhattan; not worth a dedicated cross-river trip.",
+    "sources": [
+      {
+        "url": "https://www.angelssharenyc.com/",
+        "accessed": "2026-05-18T21:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Angel's_Share",
+        "accessed": "2026-05-18T21:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/angels-share",
+        "accessed": "2026-05-18T21:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/angels-share/",
+        "accessed": "2026-05-18T21:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/angels-share-new-york-4",
+        "accessed": "2026-05-18T21:00:00Z"
+      },
+      {
+        "url": "https://www.theworlds50best.com/bars/northamerica/the-list/Angels-share.html",
+        "accessed": "2026-05-18T21:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T21:05:45.054Z"
   }
 ]
