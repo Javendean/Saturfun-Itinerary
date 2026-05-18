@@ -16414,8 +16414,8 @@
   {
     "id": "pacificana-dim-sum",
     "name": "Pacificana",
-    "desc": "Cart-service Cantonese dim sum palace in Sunset Park's Brooklyn Chinatown corridor.",
-    "longDesc": "A large second-floor banquet hall at 813 55th St (8th Ave) where servers push steamer carts of har gow, siu mai, cheung fun, and chicken feet through the dining room — old-school dim sum theater you no longer get in most of Manhattan. Cantonese soups, stir-fries, and live seafood expand the menu beyond dim sum, but the cart parade weekend mornings is the draw. Direct cart-style competitor to East Harbor a few blocks south.",
+    "desc": "Cantonese cart-service dim sum palace in Sunset Park's 8th Ave Chinatown, weekend XLB highlight",
+    "longDesc": "Spacious banquet-hall-style dim sum room at 813 55th St where steamer carts circle the floor on weekends, ticking off har gow, siu mai, turnip cake and the standout xiao long bao with rich, refined soup (Eat This NY, The Chinese Quest). The 8th Ave Sunset Park location sits ~1.5 mi from Industry City — a 7-10 min drive — and the high arched ceiling keeps the room calmer than the Manhattan Chinatown crush, even when packed. Expect a wait at peak weekend brunch but the rotation moves quickly.",
     "url": "http://pacificanabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -16424,36 +16424,38 @@
       "foodie",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "08:00-23:30 (dim sum carts 08:00-15:30)",
-    "notes": "Cart-service dim sum (rare in 2026) — point at what you want as it rolls by; bill grows by stamp count on the table card (pacificanabrooklyn.com). Sat/Sun starts at 8am, carts until 3:30pm, kitchen runs until 11:30pm (timeout.com). Street parking on 55th/56th and 8th Ave is doable before 10am; gets tight by noon when the Cantonese brunch crowd peaks. Pairs naturally as the morning anchor for an Industry City afternoon — 8 min drive south to IC after dim sum.",
+    "hoursWeekend": "08:00-15:30 dim sum cart, dinner until 23:00",
+    "notes": "Cart service runs weekend mornings starting 8:00 — earlier arrival = more variety on the carts and shorter wait (Bklyner). Order XLB off the kitchen menu rather than the cart so they arrive hot; Eat This NY called the soup 'refined and rich' vs Manhattan competitors. Signage may read 'Pacific Palace' on Yelp listings — same address, same room, ongoing rebrand confusion. Street parking on 55th/8th Ave is doable on weekends; lot parking at 8th Ave/60th St if blocks are full. Pairs naturally with an IC afternoon — brunch dumplings, then drive back to Japan Village or a Sunset Park rooftop walk.",
     "sources": [
       {
         "url": "http://pacificanabrooklyn.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/restaurants/pacificana",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/restaurants/pacificana-sunset-park/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://eatthisny.com/2016/05/10/dumplings/dumpling-review-pacificana/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://bklyner.com/where-to-go-for-the-dim-sum-in-sunset-park-sunset-park/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/pacificana-sunset-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/pacific-palace-brooklyn-3",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:18:58.257Z"
+    "lastResearchedAt": "2026-05-18T10:49:07.948Z"
   },
   {
     "id": "frankels-delicatessen-greenpoint",
@@ -37121,9 +37123,9 @@
   },
   {
     "id": "joes-shanghai-bowery",
-    "name": "Joe's Shanghai (Bowery)",
-    "desc": "Chinatown's longtime soup-dumpling icon — pork or crab-and-pork xiao long bao, made to order.",
-    "longDesc": "Founded by chef Joe Si in 1994 and a Pell Street fixture since 1995, Joe's Shanghai moved in December 2019 to a larger flagship at 46 Bowery to cut waits and seat more. The kitchen is still anchored by its signature xiao long bao — pork, or crab-and-pork — alongside a wider Shanghainese menu. From Industry City this is a Manhattan side-trip (~25–30 min via the Brooklyn Bridge / Manhattan Bridge depending on weekend traffic), justified mainly for brand-continuity downtown stops, not as a Queens-equivalent lunch bridge.",
+    "name": "Joe's Shanghai (46 Bowery)",
+    "desc": "Chinatown soup dumpling institution — xiao long bao steamed to order, weekend waits 30-60 min",
+    "longDesc": "The flagship Chinatown branch (relocated from 9 Pell to 46 Bowery in Dec 2019) is the canonical NYC xiao long bao stop, with pork and crab-and-pork variants delivered in piping bamboo steamers. Reservations are accepted but weekends still hit 30-60 min on the sidewalk between 12:30-2:30 and 6:00-8:30; arrive at 11:15 open or after 9pm to walk in. From Industry City it's ~22 min via the Brooklyn-Battery Tunnel; parking is the real cost — street is hopeless, so plan on the Mott/Bowery garage ($25-35 for 2 hrs) or LAZ at 100 Centre St.",
     "url": "https://www.joeshanghairestaurants.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -37134,10 +37136,10 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-75 min",
-    "driveFromIC": "25 min",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "11:00-23:00",
-    "notes": "Manhattan-only inclusion; Chinatown street parking is hostile on weekends — recommend a paid garage on Bowery/Elizabeth before walking in. Order soup dumplings the moment you sit down: each basket is fired to order (source: official site). Phone 212-233-8888. Daily 11:00–23:00 (source: Yelp listing). Original location was Flushing 1994 → Pell Street 1995 → 46 Bowery Dec 2019 (source: official site).",
+    "notes": "Anchor venue justifying Manhattan detour from IC — no Brooklyn xiao long bao operation hits the same skin-to-soup ratio (joeshanghairestaurants.com). Call ahead (212) 233-8888 to put name on the waitlist en route. Order: 8-pc crab & pork XLB, scallion pancake, cold sesame noodles, and shredded turnip pancake. Cash-friendly but accepts cards. Weekend wait realities confirmed via Yelp 7,675-review thread (yelp.com/biz/joes-shanghai-new-york-2).",
     "sources": [
       {
         "url": "https://www.joeshanghairestaurants.com/",
@@ -37146,12 +37148,16 @@
       {
         "url": "https://www.yelp.com/biz/joes-shanghai-new-york-2",
         "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d478773-Reviews-Joe_s_Shanghai-New_York_City_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T04:01:24.467Z"
+    "lastResearchedAt": "2026-05-18T10:55:23.687Z"
   },
   {
     "id": "leos-latticini-mamas-corona",
@@ -41107,5 +41113,124 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T10:44:57.652Z"
+  },
+  {
+    "id": "mr-bun-bensonhurst",
+    "name": "Mr Bun",
+    "desc": "Anime-decor Shanghainese counter slinging thin-skin pork & crab xiao long bao in Bensonhurst.",
+    "longDesc": "Mr Bun is the consensus pick for Brooklyn's best xiao long bao — delicate hand-pleated wrappers around scalding pork-and-crab broth, plus pan-fried sheng jian bao and scallion pancakes. The Bensonhurst storefront leans casual with playful anime-themed decor, making it equally good for a fast solo lunch or a low-key group stop. Counter-service vibe, cash-friendly, and well-suited as a short detour from Industry City.",
+    "url": "https://www.yelp.com/biz/mr-bun-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "11:30-21:30",
+    "notes": "Order the pork XLB and the crab+pork XLB side-by-side; eat in-shop while wrappers are still taut. Anime decor is a real photo moment (Yelp). Street parking on 86th St is usually findable on weekends, but the strip is busy — circle once or grab a side street. Actually located in Bensonhurst (not core IC cluster) — justified by short drive + cult XLB reputation. Phone: (718) 676-2751.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/mr-bun-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/mr-bun",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://mr-bun.eggscellent.site/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:51:21.625Z"
+  },
+  {
+    "id": "lius-shanghai",
+    "name": "Liu's Shanghai",
+    "desc": "Bath Beach Shanghainese spot famous for pork + dried scallop xiao long bao",
+    "longDesc": "A small Bath Beach dumpling house that The Infatuation puts on its citywide dumpling map for its scallop xiao long bao — pork XLB juiced with dried scallop for an unmistakably sweet-briny finish. Round out the order with the deep-fried wontons in black vinegar and chili oil, plus their mock duck. Weekend lunch is the calmest window before the local line forms.",
+    "url": "https://www.theinfatuation.com/new-york/reviews/lius-shanghai",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "1869 Bath Ave, Brooklyn NY 11214; closed Tuesdays (Yelp). Order the scallop XLB specifically — they also do pork-only and pork+crab, but Infatuation singles out the scallop version as a citywide favorite (theinfatuation.com). Belt Pkwy from IC is the fastest route; street parking is generally open on Bath Ave weekend midday. Cash-friendly, small dining room — call ahead for groups >4.",
+    "sources": [
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/lius-shanghai",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/the-dumpling-map",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lius-shanghai-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T10:53:25.190Z"
+  },
+  {
+    "id": "quik-park-mia-garage-38-bowery",
+    "name": "Quik Park MIA Garage (38 Bowery)",
+    "desc": "24-hour Icon Parking garage on Bowery — Chrystie Garage backup for late Chinatown dinner pickups.",
+    "longDesc": "Indoor attended garage operated by Icon Parking directly on Bowery in the heart of Chinatown, listed as 24/7 access with EV charging, oversized vehicles, and monthly options (iconparking.com). Daily rate runs ~$28; phone (212) 349-2299. Drops you within a 1-3 minute walk of Bowery/Mott/Doyers dinner spots, making it the natural fallback when Chrystie Garage closes at 7pm on weekends.",
+    "url": "https://iconparking.com/facility/QP%20MIA/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr park",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "24/7 (verify rate window — Icon lists 24h; some aggregators show 6am-midnight)",
+    "notes": "Located at 38 Bowery, NY 10013, between Pell and Bayard — same block as Wo Hop, Great NY Noodle Town, and steps from Joe's Shanghai and Doyers Street (iconparking.com). Icon Parking facility page lists 24/7 access; SpotHero/Way listings have shown 6am-midnight in some windows, so confirm by phone (212) 349-2299 before relying on a midnight+ exit. Drive from IC: BQE → Manhattan Bridge → Bowery exit drops you nearly at the garage door, ~22 min in typical evening traffic. Reliable Chrystie Garage backup since Chrystie shutters at 7pm Sat/Sun and this stays open through dinner service.",
+    "sources": [
+      {
+        "url": "https://iconparking.com/facility/QP%20MIA/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/underground/38_bowery/10013/new_york_city/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/quik-park-mia-garage-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.trustpilot.com/review/iconparkingsystems.com/location/quik-park-mia-garage-llc",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T10:58:48.263Z"
   }
 ]
