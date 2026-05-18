@@ -2588,46 +2588,50 @@
   },
   {
     "id": "hometown-bar-b-que-red-hook",
-    "name": "Hometown Bar-B-Que",
-    "desc": "Oak-smoked Texas-style BBQ in a Red Hook warehouse with live music on weekend nights.",
-    "longDesc": "Pitmaster Billy Durney's flagship at 454 Van Brunt — brisket, beef ribs, pulled pork and jalapeño-cheddar sausage smoked over post oak in a converted Red Hook warehouse. Order at the counter, grab a tray, sit at long communal tables under string lights with a band playing. A 10-minute drive from Industry City and 4 minutes from Sunny's, making it the natural Track C dinner before drinks on the waterfront.",
+    "name": "Hometown Bar-B-Que (Red Hook Flagship)",
+    "desc": "Oak-smoked Texas-style BBQ counter on Van Brunt — brisket, beef ribs, Korean sticky ribs",
+    "longDesc": "Pitmaster Billy Durney's 2013 Red Hook flagship is widely considered NYC's benchmark for oak-smoked Texas-style BBQ, with a MICHELIN Guide listing and a meat-counter ordering ritual that's a photo magnet in itself. Order by the half-pound (brisket, pulled pork, spare ribs) plus genre-bending specials like Korean sticky ribs, Vietnamese hot wings, and Oaxacan chicken. Walk-up, first-come-first-served — they cook until sold out, and weekends bring bluegrass/country acts on the live-music stage.",
     "url": "https://hometownbbq.com/",
-    "photoUrl": "",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/55bfb06ce4b0df65afe0dcd8/1568570312653-446RDCN63J6XYSZGWDTO/HometownBBQ-034.jpg",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
-      "chill",
-      "photo"
+      "photo",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-21:00 (or until sold out)",
-    "notes": "Counter-service; cash + card. Live music on weekend nights (hometownbbq.com). Recognized 'New York's Best Barbecue' by Eater's Ryan Sutton; Michelin Guide listed. Street parking on Van Brunt and side streets — easier than most of Brooklyn but expect to walk a block or two on Saturday nights (Tripadvisor forum). Sells out — arrive by 8pm if you want full menu access. Pairs with Sunny's Bar (4 min drive north on Conover St) for live folk/bluegrass nightcap.",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "12:00-22:00 Sat, 12:00-21:00 Sun",
+    "notes": "Counter-service, no reservations; arrive before 1pm Sat to dodge brisket sell-outs (yelp). Tray service onto communal tables. Live music Fri/Sat nights — bluegrass, roots, country (tripadvisor). Street parking on Van Brunt/Reed is tight on weekends; the old Fairway lot is closed, plan to walk 1-3 blocks. MICHELIN Guide listed (michelin). Pairs naturally with a Pioneer Works/Waterfront walk in the same cluster.",
     "sources": [
       {
-        "url": "https://hometownbbq.com/",
-        "accessed": "2026-05-18T07:15:00Z"
-      },
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
-        "accessed": "2026-05-18T07:15:00Z"
+        "url": "https://hometownbbq.com/menu-rh",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
-        "accessed": "2026-05-18T07:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/ShowTopic-g60827-i617-k9574504-Parking_at_Hometown_Barbecue-Brooklyn_New_York.html",
-        "accessed": "2026-05-18T07:15:00Z"
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d5081197-Reviews-Hometown_Bar_B_Que-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/hometown-bar-b-que-red-hook/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T07:21:49.568Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T18:48:13.446Z"
   },
   {
     "id": "frankies-457-spuntino",
@@ -5117,29 +5121,38 @@
   {
     "id": "sahadis-industry-city",
     "name": "Sahadi's at Industry City",
-    "desc": "Iconic Brooklyn Middle Eastern grocer + courtyard cafe — mezze, brunch, and a full bar inside IC's Courtyard.",
-    "longDesc": "The Industry City outpost of the 1948 Atlantic Avenue institution combines a Middle Eastern market with a sit-down cafe and full bar that spills into the IC Courtyard. Weekend brunch (Sat/Sun 11AM–3:30PM) covers labneh plates, shakshuka, and za'atar manakish, while the bar slings arak cocktails and Lebanese wines until 10pm Fri/Sat — making it the natural food anchor between Courtyard bandshell sets. Summer Friday salsa nights (May–Sept) add a built-in dance program right outside the door.",
-    "url": "https://industrycity.com/tenants/sahadis/",
+    "desc": "Legendary Middle Eastern grocer's IC outpost — bulk spices/olives, sit-down counter, made-to-order sajj sandwiches, weekend brunch.",
+    "longDesc": "The Industry City expansion of Brooklyn's 1948-vintage Sahadi's pairs a full Mediterranean retail market (bulk spices, olives, dried fruit, cheese, imported pantry goods) with an open-kitchen counter serving made-to-order sajj sandwiches, mezze platters, and rotating hot dishes. A bar/cafe area pours arak, Lebanese wine, and Levantine cocktails, with weekend brunch 11AM-3:30PM and live music nights stretching the bar to 10PM Fri-Sat. It functions as a direct cuisine-rotated mirror to Japan Village in the same complex: same 'wander-and-graze' rhythm, different pantry.",
+    "url": "https://sahadis.com/pages/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
       "foodie",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
       "vegetarian",
-      "vegan"
+      "vegan",
+      "halal"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-19:00 (bar until 22:00 Fri-Sat; brunch 11:00-15:30)",
-    "notes": "Anchor tenant in Building 4 at 34 35th St; sits directly on the IC Courtyard so seating doubles as a bandshell-adjacent perch (industrycity.com). Brunch service Sat/Sun 11AM–3:30PM with full mezze + cocktails (sahadis.com/pages/brunch-bar-menu). Salsa Night runs every Friday May–September in the courtyard (salsavida.com). 76+ Yelp reviews; phone (718) 788-7500. Pairs perfectly with a stop at Japan Village or Hometown BBQ in the same Eat+Drink corridor.",
+    "duration": "45-75 min",
+    "driveFromIC": "0 min (onsite)",
+    "hoursWeekend": "11:00-19:00 (bar/cafe until 22:00 Fri-Sat)",
+    "notes": "Located inside Industry City at 52 35th St, Brooklyn (Building 2 corridor; IC main address 34 35th St). Sajj sandwiches and the mezze counter are the on-site eat-now move; bulk retail aisle is the take-home move — pair both. Brunch Sat/Sun 11:00-15:30 (sahadis.com/pages/brunch-bar-menu). IC has weekend parking onsite, so this pairs perfectly with a Japan Village + Sahadi's same-trip 'two food halls' itinerary (gothamist.com).",
     "sources": [
       {
+        "url": "https://sahadis.com/pages/locations",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
         "url": "https://industrycity.com/tenants/sahadis/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/inside-the-glorious-new-sahadis-in-industry-city",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -5147,22 +5160,14 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://sahadis.com/pages/events",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/sahadis-industry-city-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.salsavida.com/event/new-york/new-york-city/salsa-night-at-sahadis/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T16:49:46.294Z"
+    "lastResearchedAt": "2026-05-18T18:46:04.179Z"
   },
   {
     "id": "micol-ceramics",
@@ -45992,5 +45997,127 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T18:37:33.876Z"
+  },
+  {
+    "id": "avlee-greek-kitchen",
+    "name": "Avlee Greek Kitchen",
+    "desc": "Family-run Carroll Gardens Greek with shaved gyro, spanakopita, and a charcoal-grill backbone.",
+    "longDesc": "Andrew Poulos's 2013 Smith Street kitchen (Avlee = 'garden' in Greek) plates homemade staples like lamb-and-beef gyro, spanakopita, souvlaki, taramosalata, and tirokafteri inside a white-brick room with an open kitchen. Solid vegetarian, vegan, and gluten-free coverage rounds out a Mediterranean track without forcing a Manhattan run. Not located inside Industry City despite the assignment topic — it's a ~12 min drive north on Smith St.",
+    "url": "https://avleegreekkitchen.com/",
+    "photoUrl": "https://images.ctfassets.net/1aemqu6a6t65/76VRfnpMyxURy9YGm9Na83/5bee6410f0df756aa9f11fa89a103e1f/avleegreekkitchen_willsteacy_10",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "12:00-21:00",
+    "notes": "Topic said 'at Industry City' but Avlee is at 349 Smith St in Carroll Gardens — no IC outpost on the official site (avleegreekkitchen.com) or in NYC Tourism listing (nyctourism.com). Treated as a 12-min-drive Mediterranean anchor rather than an IC concourse stop. Street parking on Smith/Court is workable on weekends; signature plates per NYC Tourism: shaved lamb-beef gyro, spanakopita, souvlaki, tirokafteri, baklava. $$ price band, family-run since 2013 (nyctourism.com). Hours 12-9 daily per official site.",
+    "sources": [
+      {
+        "url": "https://avleegreekkitchen.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/avlee-greek-kitchen-carroll-gardens-brooklyn-nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/avlee-greek-kitchen-brooklyn-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T18:43:38.585Z"
+  },
+  {
+    "id": "japan-village-ic",
+    "name": "Japan Village @ Industry City",
+    "desc": "20,000 sq ft Japanese market + food hall in IC Building B — Sunrise Mart grocery, 10+ stalls, sake shop.",
+    "longDesc": "An on-site companion to Brooklyn Kura: the city's largest Sunrise Mart grocery anchors a food hall with Ramen Setagaya, Sushi Uesugi, Panya Bakery, hand-roll bar Hachi, bento counter Obentoyasan, and bottle shop Kuraichi (sake, shochu, whisky). Casual counter-seating, fluorescent-market lighting, no reservations — built for a 60-90 minute graze before or after a Kura tasting. The Kuraichi shelf lets you take home whatever you sampled across 3rd Ave.",
+    "url": "https://www.japanvillage.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min (on-site, IC Building B)",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:00",
+    "notes": "Located in IC Building B basement-level at 934 3rd Ave (industrycity.com). Food hall hours Mon-Thu 11-20, Fri-Sat 11-21, Sun 11-20 (japanvillage.com/eat-drink). Sunrise Mart is the largest in NYC; Kuraichi liquor shop runs noon-19:30 daily — pair with a Brooklyn Kura tasting flight across the street. Karaoke (JTunes) and the bar Oldies extend the evening (japanvillage.com). Parking: IC's surface lots and garage are steps away.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://sunrisemart.com/pages/visit-us",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:50:15.952Z"
+  },
+  {
+    "id": "turnstile-tours-brooklyn-army-terminal",
+    "name": "Turnstile Tours: Brooklyn Army Terminal",
+    "desc": "2-hr guided walking tour of WWI-era army supply base turned modern industrial campus, 5 min from IC.",
+    "longDesc": "Turnstile Tours is the sole authorized tour operator at the Brooklyn Army Terminal, a 97-acre Cass Gilbert-designed waterfront complex built in 1918 as the largest US Army supply base of WWI and WWII. The 2-hour walking tour covers about a mile, includes the cathedral-like atrium of Building B with its dramatic balconies and skylight, and explains how the campus now houses 100+ tenants in advanced manufacturing, food production, and climate-tech. Public tours run select weekend days at 11am; advance reservations required (no walk-ups). Free municipal parking on Pier 4 for participants.",
+    "url": "https://turnstiletours.com/tour/brooklyn-army-terminal-tours/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "Sat/Sun 11:00 select dates",
+    "notes": "Tickets $25 GA / $22.50 senior+student+veteran / $12.50 kids 5-12 / under-5 free; advance booking via FareHarbor required (turnstiletours.com). Meet in front of Building A at 140 58th St, junction of 1st Ave & 58th St. Free parking on Pier 4 — easiest drive option from IC. Building B atrium is the visual money shot for photos. Route is ~1 mile, mostly accessible but uneven in spots — call ahead for wheelchair needs. Pairs naturally with an IC food-hall lunch after the 11am tour (source: turnstiletours.com BAT tour page).",
+    "sources": [
+      {
+        "url": "https://turnstiletours.com/tour/brooklyn-army-terminal-tours/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://edc.nyc/press-release/nycedc-announces-cultural-community-driven-summer-events-bat",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:52:20.928Z"
   }
 ]
