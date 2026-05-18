@@ -1295,53 +1295,45 @@
   },
   {
     "id": "claro-gowanus",
-    "name": "Claro",
-    "desc": "TJ Steele's Oaxacan tasting destination on the Gowanus/Park Slope border — house tortillas, moles, mezcal patio.",
-    "longDesc": "Open since 2017 and Michelin-starred from 2019–2023, Claro centers a long, slow Oaxacan menu around nixtamalized house tortillas, seven moles rotated through the year, and a curated mezcal program. The backyard-and-bar setup makes it the kind of place a Saturfun group ends a track at, not passes through. Closure ambiguity is resolved: Yelp lists it CLOSED but Tripadvisor shows a January 30, 2026 review with active service and Wikipedia lists it as a current Brooklyn restaurant.",
+    "name": "Claro (Closed)",
+    "desc": "Former Michelin-starred Oaxacan room in Gowanus — closed; no successor confirmed in the space as of May 2026.",
+    "longDesc": "Chef T.J. Steele's Oaxacan restaurant Claro opened at 284 3rd Ave in 2017 and earned a Michelin star within a year, holding it until losing the distinction in the 2023 guide. As of May 2026, Yelp marks the location CLOSED (updated April 2026) and OpenTable/Tripadvisor listings show no active reservation calendar; the official clarobk.com domain remains up with stale dinner hours but no recent posts. No successor restaurant has been confirmed in the space, and Steele has not publicly announced a Brooklyn reopening — Saturfun should treat this slot as unavailable and route elevated-Oaxacan demand to El Atoradero (Park Slope) or Oxomoco (Greenpoint) instead.",
     "url": "https://www.clarobk.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
-      "foodie",
-      "romantic"
+      "foodie"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "Brunch Fri-Sun 11:30-15:30; Dinner Thu-Sun 17:30-21:00",
-    "notes": "Status as of 2026-05-16: OPERATING despite Yelp 'CLOSED' tag. Tripadvisor review dated 2026-01-30 confirms active service (https://www.tripadvisor.com/Restaurant_Review-g60827-d13174502). Wikipedia lists under 'Current' Brooklyn restaurants. Not present in Infatuation NYC closures index nor Eater closure announcements (the recent Eater 'striking Brooklyn restaurant closing' piece is about Ilis in Greenpoint, not Claro). Phone 347-721-3126 and IG @claro.bk should still be called/checked before promotion to a track — Yelp's CLOSED stamp suggests at least one community report of a service gap. Official site clarobk.com returned an expired TLS cert during fetch (2026-05-16), which is worth flagging though it's a webops issue, not a closure signal. Recommended placement: dinner cap on a Park Slope / Gowanus track, paired with a daytime IC anchor.",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Closed",
+    "notes": "Status: closed / dormant as of May 2026. Yelp listing explicitly tagged CLOSED with April 2026 update (yelp.com/biz/claro-brooklyn). Michelin star lost in the 2023 guide (brooklynpaper.com, grokipedia). Official site (clarobk.com) still resolves but appears stale; OpenTable shows no live availability. Do NOT promote to itinerary tracks until reopening is confirmed via fresh press or Instagram (@claro.bk). Address 284 3rd Ave is technically Gowanus, ~10 min drive from Industry City via 3rd Ave; closest supported zone tag is park-slope.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/claro-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d13174502-Reviews-Claro-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Claro_(restaurant)",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.instagram.com/claro.bk/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/claro",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.clarobk.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/features/nyc-restaurant-closings",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.brooklynpaper.com/dining-with-the-stars-gowanus-restaurant-claro-gets-michelin-recognition/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://eaterny.substack.com/p/one-of-brooklyns-most-striking-restaurants",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.opentable.com/r/claro-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
@@ -1351,7 +1343,7 @@
     "discoveryAngle": "content-research-import",
     "sourceCheckpoint": "Checkpoint 7 — 6:30 PM Dinner & Izakaya",
     "neighborhood": "Gowanus",
-    "lastResearchedAt": "2026-05-16T16:00:05.837Z"
+    "lastResearchedAt": "2026-05-18T23:16:15.227Z"
   },
   {
     "id": "lingo-greenpoint-greenpoint",
@@ -2336,44 +2328,44 @@
   {
     "id": "melody-lanes",
     "name": "Melody Lanes",
-    "desc": "Family-run 26-lane bowling alley in Sunset Park — all-ages, full bar, ~5 min from IC.",
-    "longDesc": "A no-frills, family-owned bowling alley on 37th St that's been a Sunset Park fixture for decades, with 26 lanes, arcade, snack counter and a full-service bar. Unlike The Gutter's 21+ policy, Melody Lanes welcomes kids and groups any time of day, making it the go-to daytime/family bowling option for an IC-anchored crew. Hourly rates: $65/hr weekend daytime (9am-5pm) and $70/hr weekend evenings.",
+    "desc": "Family-run 26-lane Sunset Park bowling alley with full bar and weekend glow bowling.",
+    "longDesc": "Old-school Brooklyn bowling at 461 37th St — 26 lanes, a real snack counter, full-service bar, and league-night character. Weekend evenings flip to glow bowling, and lane rates run $65–$70/hour rather than per-game, so a foursome lands around $17/person/hour. Walk-ups work midday; reservations required for groups of 10+ ($50/lane deposit).",
     "url": "https://melodylanesny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "active",
-      "chill"
+      "chill",
+      "active"
     ],
     "dietary": [],
-    "priceBand": "$$",
+    "priceBand": "$",
     "duration": "60-90 min",
     "driveFromIC": "5 min",
-    "hoursWeekend": "Sat 9:00-01:00, Sun 9:00-00:00",
-    "notes": "461 37th St, Brooklyn NY 11232 — just a few blocks west of Industry City (melodylanesny.com). Hourly pricing: $65/hr Sat-Sun 9am-5pm, $70/hr Fri-Sat 5pm-close (melodylanesny.com). 26 lanes, arcade, full bar, family-friendly all hours (yelp.com). Reservations recommended for groups of 10+ with $50/lane deposit. Street parking on 37th/4th Ave usually available on weekends; no dedicated lot — SpotHero lists nearby garages (spothero.com). Phone: (718) 832-2695.",
+    "hoursWeekend": "09:00-01:00",
+    "notes": "461 37th St, Brooklyn — literally around the corner from the El Bronco taco truck on 4th Ave, making it a frictionless post-taco activity inside the IC micro-cluster (melodylanesny.com). Weekend daytime $65/hr, Fri-Sat evening $70/hr per lane; weekday daytime drops to $60/hr (melodylanesny.com). Glow bowling Fri-Sat nights; 'all-you-can-bowl' deal Fri-Sat from midnight to close (yelp.com). Snack counter open 11am-1am weekends; full bar pours throughout (melodylanesny.com). Street parking on 37th St / 4th Ave is realistic on weekends — pair with IC garage if visiting both. Phone: (718) 832-2695.",
     "sources": [
       {
         "url": "https://melodylanesny.com/",
-        "accessed": "2026-05-17T08:05:00Z"
+        "accessed": "2026-05-18T23:15:00Z"
+      },
+      {
+        "url": "https://melodylanesny.com/bowling-1",
+        "accessed": "2026-05-18T23:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/melody-lanes-brooklyn-3",
-        "accessed": "2026-05-17T08:05:00Z"
+        "accessed": "2026-05-18T23:15:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/melody-lanes-sunset-park/",
-        "accessed": "2026-05-17T08:05:00Z"
-      },
-      {
-        "url": "https://spothero.com/destination/nyc/melody-lanes-parking",
-        "accessed": "2026-05-17T08:05:00Z"
+        "accessed": "2026-05-18T23:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T08:02:21.198Z"
+    "lastResearchedAt": "2026-05-18T23:22:48.507Z"
   },
   {
     "id": "wakuwaku",
@@ -5338,16 +5330,16 @@
   {
     "id": "don-paco-lopez-panaderia",
     "name": "Don Paco López Panadería",
-    "desc": "Third-gen Mexican bakery in Sunset Park — pan dulce, tres leches, conchas baked since 1991",
-    "longDesc": "Don Paco López opened this Sunset Park panadería in 1991 after immigrating from Mexico in 1976, and three generations of the López family still run it. The cases are stocked daily with conchas, cuernos, orejas, polvorones, and tres leches cakes — a deeper traditional pan dulce bench than the average bodega bakery and a strong photo-op for the itinerary card.",
+    "desc": "Family-run Mexican bakery since 1991 — conchas, orejas, tamales, tortas a few blocks from IC.",
+    "longDesc": "A Sunset Park institution opened by Francisco López in 1991, now run by his children, with rows of just-baked conchas, campechanas, orejas, and elephant ears alongside savory tamales, pambazos, and quesadillas. The case turns over fast in the morning and the smell of yeast and cinnamon hits before you cross the threshold. Cash-friendly, line-out-the-door on weekends, and a perfect $1-$3 cap to a 5th Ave taco-truck crawl.",
     "url": "https://donpacolopez.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
@@ -5355,26 +5347,30 @@
     "priceBand": "$",
     "duration": "20-30 min",
     "driveFromIC": "6 min",
-    "hoursWeekend": "Sat 05:30-19:00, Sun 05:30-13:00",
-    "notes": "Address is 4703 4th Ave, Brooklyn NY 11220 — the task brief said 5th Ave but the actual storefront is on 4th Ave at ~47th St in Sunset Park (donpacolopez.com). Weekend hours from Yelp listing (yelp.com/biz/don-paco-lopez-panaderia-brooklyn). Sunday closes early at 1pm, so route this as a morning/early-afternoon stop only. Street parking on 4th Ave is generally easier on weekends than 5th Ave's restaurant strip. Phone (718) 492-7443. No photoUrl pulled — official site does not expose product CDN images; flag for AI background generation.",
+    "hoursWeekend": "Sat 5:30-19:00, Sun 5:30-13:00",
+    "notes": "Address is 4703 4th Ave (not 5th Ave — one block west of the 5th Ave taco corridor) (yelp.com). Founded June 29, 1991 by Francisco and Leonila López; second-gen siblings run it now (donpacolopez.com). Sunday closes early at 1pm — schedule it as a morning stop on Sundays (yelp.com). Specialties: conchas, campechanas, orejas, tres leches; savory side has tamales, pambazos, quesadillas (theinfatuation.com). Street parking on 4th Ave is usually findable on weekends; the bakery itself is counter-service, grab-and-go.",
     "sources": [
       {
-        "url": "https://donpacolopez.com/",
-        "accessed": "2026-05-18T23:00:00Z"
-      },
-      {
         "url": "https://donpacolopez.com/pages/about-us",
-        "accessed": "2026-05-18T23:00:00Z"
+        "accessed": "2026-05-18T23:15:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/don-paco-lopez-panaderia-brooklyn",
-        "accessed": "2026-05-18T23:00:00Z"
+        "accessed": "2026-05-18T23:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/don-paco-lopez-panaderia",
+        "accessed": "2026-05-18T23:15:00Z"
+      },
+      {
+        "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
+        "accessed": "2026-05-18T23:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T23:03:54.828Z"
+    "lastResearchedAt": "2026-05-18T23:18:21.667Z"
   },
   {
     "id": "thanh-da-sandwich",
@@ -10019,51 +10015,56 @@
   {
     "id": "tortilleria-mexicana-los-hermanos",
     "name": "Tortilleria Mexicana Los Hermanos",
-    "desc": "Cash-only Bushwick taco counter inside a working tortilla factory — fresh-off-the-line tortillas, $2.25 tacos, BYOB.",
-    "longDesc": "Tucked into a wholesale tortilleria on Starr St, Los Hermanos lets you eat tacos, tostadas and quesadillas made from tortillas pressed minutes earlier on the factory line you can see from the dining room. The menu is bare-bones — chorizo, carnitas, chicken, beans, rice — and you write your order on scrap paper to slide across the counter. Cash only, BYOB, and you can grab bags of tortillas to take home at wholesale prices.",
-    "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
+    "desc": "Cult Bushwick tortilla factory + BYOB taqueria — tacos served seconds off the line",
+    "longDesc": "A working tortilla factory at 271 Starr St where you eat at folding tables inside the production room and watch fresh corn tortillas come off the line. Anthony Bourdain once called these the best tacos he had in New York; the steak, chorizo, and pork carnitas tacos run around $2.25 each, and it stays cash-only and BYOB. It is the no-frills Bushwick counterpart to a place like El Bronco — same authenticity ethos, different zone.",
+    "url": "https://www.google.com/maps/place/Tortilleria+Mexicana+Los+Hermanos/@40.7048,-73.9282,17z/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "curious",
+      "photo"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "20 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "11:00-23:30",
-    "notes": "271 Starr St, Brooklyn NY 11237; (718) 456-3422. Cash-only and BYOB (Atlas Obscura). Tacos $2.25, tostadas $2.50, quesadillas $3.25 — order written on scrap paper (Bushwick Daily). Open seven days; Sat/Sun 11:00 AM–11:30 PM (Yelp). Weekend street parking in industrial Bushwick is usually findable within a couple blocks. From IC (220 36th St) take the BQE north to the Morgan Ave exit — ~8 mi, ~20 min midday weekend.",
+    "notes": "Cash only + BYOB — bring small bills and your own beer/mezcal (Infatuation, Atlas Obscura). Tacos ~$2.25, tostadas ~$2.50, quesadillas ~$3.25 — full meal under $15 (Yelp, Tripadvisor). Tortillas are made-to-order and corn-only, so naturally gluten-free; vegetarian options via bean/cheese fillings. Dining is a few tables tucked inside the working factory at 271 Starr St near the Jefferson L — counter ambience, not date-night (Bushwick Daily, Village Voice). Weekend street parking on Starr/Wilson is generally findable; avoid double-parking near the loading bay.",
     "sources": [
       {
-        "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/tortilleria-mexicana-los-hermanos",
+        "accessed": "2026-05-18"
       },
       {
         "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18"
       },
       {
-        "url": "https://bushwickdaily.com/food-and-drink/6685-los-hermanos-tacos-tortilla-factory-bushwick/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
+        "accessed": "2026-05-18"
       },
       {
         "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tortilleria-mexicana-los-hermanos",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://bushwickdaily.com/food-and-drink/6685-los-hermanos-tacos-tortilla-factory-bushwick/",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.villagevoice.com/bushwick-tacos-redux-tortilleria-mexicana-los-hermanos/",
+        "accessed": "2026-05-18"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T23:06:05.600Z"
+    "lastResearchedAt": "2026-05-18T23:20:41.893Z"
   },
   {
     "id": "tulcingo-sunset-park",
@@ -48628,5 +48629,53 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T23:10:20.351Z"
+  },
+  {
+    "id": "la-loncheria-bushwick",
+    "name": "La Loncheria",
+    "desc": "Contemporary Mexican from Hecho en Dumbo's Danny Mena — mole de semilla enchiladas and an artisanal mezcal bar.",
+    "longDesc": "A 40-seat café on the Bushwick/Williamsburg border modeled on Mexico City's casual loncherias — tortas, tacos (Campechanos, the crispy-cheese Costra), and three enchiladas smothered in classic mole de semilla with queso fresco and crema. Mexico City native Danny Mena (Hecho en Dumbo) partnered with Oscar León Bernal; the kitchen has run through chef Luis Jimenez (ex-Michelin Parachute). The bar is the real flex — sotol, hard-to-find mezcals, rum, and a 4–7pm daily happy hour every day they're open.",
+    "url": "https://www.laloncheriabk.com",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "16:00-23:00",
+    "notes": "Address 41 Wilson Ave at the Bushwick/Williamsburg seam — site brands it Williamsburg, Infatuation and FSR call it Bushwick (theinfatuation.com, fsrmagazine.com). Cuisine is contemporary Mexican with Oaxacan touches (mole de semilla) rather than fully Oaxacan; pair on a Williamsburg-cluster track with a Bedford Ave anchor. Dinner-only Mon–Sat (closed Sun per site); Fri/Sat 4–11pm with happy hour 4–7pm. Vegetarian: potato version of the mole enchiladas; potato/yam tacos. 3% cash discount. Street parking on Wilson/Flushing usually findable on weekend evenings.",
+    "sources": [
+      {
+        "url": "https://www.laloncheriabk.com",
+        "accessed": "2026-05-18T23:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/la-loncheria",
+        "accessed": "2026-05-18T23:15:00Z"
+      },
+      {
+        "url": "https://www.fsrmagazine.com/content/mexican-restaurant-la-loncheria-opens-brooklyn",
+        "accessed": "2026-05-18T23:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/la-loncheria-brooklyn",
+        "accessed": "2026-05-18T23:15:00Z"
+      },
+      {
+        "url": "https://www.doordash.com/store/la-loncheria-bushwick-207675",
+        "accessed": "2026-05-18T23:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:12:37.017Z"
   }
 ]

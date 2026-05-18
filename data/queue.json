@@ -1,35 +1,5 @@
 [
   {
-    "topic": "La Loncheria Williamsburg Oaxacan",
-    "reason": "Expands Oaxacan coverage into the Williamsburg cluster already in corpus, giving north-Brooklyn parity to Casa Azul's Park Slope anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:19:29.184Z"
-  },
-  {
-    "topic": "Claro Gowanus (Michelin-starred Oaxacan, since closed — verify status or successor)",
-    "reason": "Verify whether Claro's Gowanus space reopened or spawned a successor; if active, it's the elevated Oaxacan option within 8 min of IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:19:29.184Z"
-  },
-  {
-    "topic": "Don Paco Lopez Panaderia (Sunset Park 5th Ave bakery)",
-    "reason": "Iconic Mexican bakery a few blocks south on the same 5th Ave corridor — pan dulce + tres leches rounds out a taco-truck stop into a mini food crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:21:30.088Z"
-  },
-  {
-    "topic": "Tortilleria Mexicana Los Hermanos (Bushwick)",
-    "reason": "Cult tortilla factory + taqueria; pairs thematically with El Bronco as another no-frills authentic taqueria but in a different zone for corpus breadth",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:21:30.088Z"
-  },
-  {
-    "topic": "Melody Lanes bowling (Sunset Park 37th St)",
-    "reason": "Literally around the corner from the El Bronco truck — classic dive bowling alley with cheap lanes, perfect post-taco activity within the same micro-cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:21:30.088Z"
-  },
-  {
     "topic": "La Flor Bakery (Sunset Park 5th Ave)",
     "reason": "Actual 5th Ave Mexican bakery — fills the 5th Ave corridor slot the brief originally implied",
     "requestedBy": "agent",
@@ -20656,5 +20626,83 @@
     "reason": "Tortilla-source story behind Chela's scratch program; potential curious/photo stop if Bushwick track materializes",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T23:10:20.398Z"
+  },
+  {
+    "topic": "Oxomoco Greenpoint Oaxacan wood-fired",
+    "reason": "Michelin-starred Oaxacan-leaning kitchen in Greenpoint completes the north-Brooklyn Oaxacan triangle with Casa Azul (Park Slope) and La Loncheria (Bushwick edge)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:12:37.050Z"
+  },
+  {
+    "topic": "Mesa Coyoacan Williamsburg Mexico City brunch",
+    "reason": "Long-running Bedford Ave Mexican that gives a true Williamsburg-zone Mexican pin and brunch coverage La Loncheria's dinner-only schedule doesn't fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:12:37.051Z"
+  },
+  {
+    "topic": "Chavela's Crown Heights Mexican weekend brunch",
+    "reason": "Extends Mexican coverage south into Crown Heights cluster where the corpus is thin, and anchors a Franklin Ave drinks-and-food evening",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:12:37.051Z"
+  },
+  {
+    "topic": "El Atoradero Park Slope — chef-driven Mexican with mole flight",
+    "reason": "Closest elevated-Mexican replacement within 8-10 min of IC; covers the Oaxacan/mole niche Claro filled, weekend dinner anchor in park-slope zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:16:15.265Z"
+  },
+  {
+    "topic": "Oxomoco Greenpoint — wood-fired Mexican, former Michelin Bib Gourmand",
+    "reason": "Higher-end Mexican option 20-25 min from IC; pairs with a Greenpoint/Williamsburg track if user wants the Claro-tier polish without the closure risk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:16:15.265Z"
+  },
+  {
+    "topic": "Chef T.J. Steele next venture or pop-up tracking (Instagram @claro.bk, @tjsteele)",
+    "reason": "If Steele launches a successor or residency in 2026, Saturfun should reintroduce him to the corpus immediately — flag for periodic re-research",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:16:15.265Z"
+  },
+  {
+    "topic": "Sunset Park (the actual park) sunset viewpoint Manhattan skyline",
+    "reason": "10-min walk from Don Paco, free postcard skyline view — natural after-pastry stop that turns the bakery into a mini itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:18:21.696Z"
+  },
+  {
+    "topic": "Roberta's (Bushwick) — pizza + garden bar pioneer",
+    "reason": "Anchors a Bushwick track alongside Los Hermanos; broadens corpus from taqueria-only Mexican into wood-fired pizza + outdoor drinking, and the Jefferson L cluster makes them a natural two-stop pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:20:41.932Z"
+  },
+  {
+    "topic": "Mood Ring (Bushwick) — astrology-themed cocktail bar",
+    "reason": "Adds a romantic/chill nightlife option to the Bushwick zone so a Los Hermanos dinner can extend into drinks without leaving the cluster; thematically distinct from any current corpus bar",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:20:41.932Z"
+  },
+  {
+    "topic": "House of Yes (Bushwick) — immersive nightlife venue",
+    "reason": "Brings a high-vibe `active`/`photo` evening anchor to Bushwick; rounds out the zone with food (Los Hermanos) + drinks (Mood Ring) + late-night experience, mirroring the multi-stop track pattern the user prefers",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:20:41.932Z"
+  },
+  {
+    "topic": "Lot 45 Sunset Park (industrial dive bar near Melody Lanes)",
+    "reason": "Natural drink stop after bowling, keeps the same Sunset Park micro-cluster alive past 10pm",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:22:48.538Z"
+  },
+  {
+    "topic": "Brooklyn Chop House Industry City location",
+    "reason": "Late-night dim-sum-meets-steakhouse if the bowling crew wants a sit-down finish without leaving IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:22:48.539Z"
+  },
+  {
+    "topic": "Tacos El Bronco brick-and-mortar (4324 4th Ave)",
+    "reason": "Sit-down sibling of the taco truck — fallback for cold/rainy nights when the truck pairing breaks down",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:22:48.539Z"
   }
 ]
