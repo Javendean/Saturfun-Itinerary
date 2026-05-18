@@ -19202,8 +19202,8 @@
   {
     "id": "nom-wah-tea-parlor",
     "name": "Nom Wah Tea Parlor",
-    "desc": "NYC's oldest dim sum parlor (since 1920) on bent little Doyers Street — a 4-min walk from Joe's Shanghai parking",
-    "longDesc": "Tucked into the elbow of Doyers Street, Nom Wah has been slinging dim sum since 1920 and is the canonical first stop for shrimp & snow pea leaf dumplings, OG egg rolls, and the house roast pork bun. Order off the paper menu rather than carts; service is brisk and the red-vinyl-booth interior is its own photo op. On weekends they don't take reservations for parties of 2, but turnover is fast and the line moves — pair it with parking already booked on Chrystie for Joe's Shanghai for a two-restaurant Chinatown loop.",
+    "desc": "NYC's oldest dim sum parlor (since 1920) — made-to-order on a Chinatown side street",
+    "longDesc": "Open since 1920 at 13 Doyers Street, Nom Wah is the oldest continuously running restaurant in Manhattan's Chinatown — a red-vinyl-booth tea parlor that ditched the rolling carts under owner Wilson Tang for made-to-order baskets. Order the house special pan-fried dumplings, 'The Original' egg roll, shrimp-stuffed eggplant, roast pork buns, and the almond cookie that survived from the bakery era. Pairs naturally with Mei Lai Wah three blocks north for a one-park Chinatown two-stop; weekend waits are real, so put your name in then walk to Columbus Park.",
     "url": "https://www.nomwah.com/chinatown",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -19217,17 +19217,13 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-75 min",
+    "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "11:00-21:00",
-    "notes": "Manhattan exception justified: stacks with Joe's Shanghai on Chrystie — 4-min walk to 13 Doyers St (Wikipedia, nomwah.com/chinatown). Open 11am-9pm daily incl. weekends (Yelp May 2026, nomwah.com). Reservations only Mon-Thu for parties of 3-5 via Resy; weekends are walk-in only, parties of 2 always walk-in (nomwah.com/chinatown). No dedicated lot — use the same Chrystie/Bowery garage as Joe's Shanghai; Doyers is pedestrianized between Pell and Bowery so you'll walk in either way (NYC DOT). Order the OG egg roll, har gow, scallion pancake, and the house roast pork buns; vegetarian options exist (mushroom roll, vegetable dumpling). Cash discouraged — card preferred.",
+    "notes": "Located on the curved 'bloody angle' of Doyers Street, a 200-ft pedestrianized lane that is itself one of Chinatown's most photographed blocks (Wikipedia). Open 1920 as a bakery/tea parlor at 13-15 Doyers; Wally Tang took over in the 1970s and his nephew Wilson modernized the menu in 2011 (Tenement Museum). Weekends do not take reservations for parties under 5 — walk-ins only, expect 30-60 min waits at peak (Resy/Nom Wah). Manhattan trip justified ONLY when paired with another Chinatown anchor (Mei Lai Wah, Apollo Bakery, or Columbus Park) — parking is metered street + a few Doyers/Pell garages; cheaper to park near Pike St or grab a spot south of Canal.",
     "sources": [
       {
         "url": "https://www.nomwah.com/chinatown",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/nom-wah-tea-parlor-new-york",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -19235,14 +19231,22 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
+        "url": "https://www.tenement.org/blog/tea-time-the-story-of-the-nom-wah-tea-parlor/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
         "url": "https://resy.com/cities/new-york-ny/venues/nom-wah-tea-parlor",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/nom-wah-tea-parlor-new-york",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T11:00:44.216Z"
+    "lastResearchedAt": "2026-05-18T14:32:30.366Z"
   },
   {
     "id": "hauser-wirth-wooster",
@@ -41303,50 +41307,50 @@
   },
   {
     "id": "columbus-park-chinatown",
-    "name": "Columbus Park (Chinatown)",
-    "desc": "Free morning tai chi, stone-table xiangqi, and erhu music in Chinatown's living-room — 4-min walk from Doyers St.",
-    "longDesc": "Built in 1897 on the old Five Points footprint, Columbus Park is the daily gathering spot for Chinatown's elders. Arrive 7-9 AM on a weekend to catch synchronized tai chi groups on the upper plaza, stone-table xiangqi (Chinese chess) matches that can get satisfyingly chippy, mahjong huddles, and the occasional erhu or pipa performance — all free, all candid, and all extremely photographable from a respectful distance. By late morning it shifts into a quieter park scene before tourist foot traffic from Mulberry/Mott picks up.",
+    "name": "Columbus Park",
+    "desc": "Chinatown's living room — weekend Cantonese opera buskers and stone xiangqi tables packed with seniors",
+    "longDesc": "A wedge of green at 67 Mulberry where, on any weekend, traditional Cantonese opera singers haul in their own amps and erhus to perform under the pavilion while crowds of seniors hunch over stone xiangqi (Chinese chess) tables, slapping pieces down with gambling-hall intensity. It's free, completely unstaged, and three minutes on foot from Mei Lai Wah — bring the pork buns over and eat them on a bench. The cultural texture here is hard to fake anywhere else in NYC.",
     "url": "https://www.nycgovparks.org/parks/columbus-park-m015",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "brooklyn-heights",
+    "zone": "industry-city",
     "vibe": [
       "curious",
-      "photo",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "06:00-22:00",
-    "notes": "Best 7-9 AM Sat/Sun for the tai chi groups; xiangqi tables fill in late morning and run through afternoon (amNewYork). Address 67 Mulberry St (NYC Parks). Drive IC -> Brooklyn-Battery Tunnel (~$7 toll) -> Park Row is fastest weekend route; free alt via Manhattan Bridge adds 5-8 min. Weekend parking is tough — meter on Baxter/Worth or use Mulberry St Garage (75 Mulberry) or Bowery garages near Canal. Be discreet with cameras: this is a community space, not a performance. Pairs naturally with Nom Wah / Mei Lai Wah breakfast 4 min south on Doyers.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Manhattan exception — uniquely justified as the cultural anchor of a tight Chinatown sub-cluster paired with Mei Lai Wah bun run (3 min walk). Opera performers gather under the pavilion on weekend afternoons; xiangqi tables fill from late morning (opencitymag.aaww.org; newyorkerlife.com). Park itself is open 06:00-01:00 (nycgovparks.org). Street parking in Chinatown is brutal — book a SpotHero garage on Mulberry/Bayard before driving over. Drive via Manhattan Bridge from IC.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/columbus-park-m015",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T14:30:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Columbus_Park_(Manhattan)",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T14:30:00Z"
+      },
+      {
+        "url": "https://opencitymag.aaww.org/the-street-musicians-of-columbus-park/",
+        "accessed": "2026-05-18T14:30:00Z"
       },
       {
         "url": "https://www.newyorkerlife.com/new-yorkers-photography-xiangqi-players-of-chinatowns-columbus-park/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.amny.com/news/the-chess-games-can-get-chippy-at-columbus-park/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T14:30:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/columbus-park-chinatown/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T14:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T11:08:22.490Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:34:32.469Z"
   },
   {
     "id": "mahayana-buddhist-temple",
@@ -43186,5 +43190,139 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T14:26:19.345Z"
+  },
+  {
+    "id": "joes-steam-rice-roll-sunset-park",
+    "name": "Joe's Steam Rice Roll (Sunset Park)",
+    "desc": "Cheong fun specialist on 8th Ave — silky rice rolls made-to-order, faster and closer than Chinatown",
+    "longDesc": "The original Canal St Chinatown shop closed, but Joe's opened a Sunset Park branch at 774 58th St inside Brooklyn's actual Chinatown — literally 5 minutes from Industry City. Stone-milled rice batter is steamed to order with fillings like shrimp, BBQ pork, beef, or vegetarian, then drizzled with sweet soy. A quick $7-10 bite that punches way above its weight and skips any line-management drama. (theinfatuation.com, yelp.com)",
+    "url": "https://www.yelp.com/biz/joe-s-steam-rice-roll-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "15-30 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "07:00-18:00",
+    "notes": "Cash-friendly, counter-service, tiny dining room — most people grab-and-go. Order the signature shrimp + crispy rice noodle roll or the BBQ pork. Phone (718) 210-1668. Street parking on 58th/8th Ave is easier on weekends than Manhattan Chinatown ever is. Replaces the original Canal St 'Joe's' which is permanently closed (yelp.com, infatuation.com). Pairs perfectly with a stop at Ba Xuyen banh mi or Yun Nan Flavour Garden next door on 8th Ave.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/joe-s-steam-rice-roll-brooklyn",
+        "accessed": "2026-05-18T14:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/joes-steam-rice-roll",
+        "accessed": "2026-05-18T14:30:00Z"
+      },
+      {
+        "url": "https://orderjoesteamriceroll.com/",
+        "accessed": "2026-05-18T14:30:00Z"
+      },
+      {
+        "url": "https://m.facebook.com/JoeSteamRiceRoll/photos/-joes-steam-rice-roll-is-coming-to-brooklynbig-news-our-brand-new-location-at-77/1366170668850453/",
+        "accessed": "2026-05-18T14:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:28:23.137Z"
+  },
+  {
+    "id": "golden-diner",
+    "name": "Golden Diner",
+    "desc": "Sam Yoo's Asian-American diner under the Manhattan Bridge — honey butter pancakes, milk-bun egg sandos.",
+    "longDesc": "Momofuku alum Samuel Yoo's tiny Two Bridges diner reads classic-Americana counter spot but cooks like a Chinatown love letter: green tea coffee cake, egg and cheese on sesame-scallion milk buns, and honey butter pancakes with soy-infused syrup. Walk-ins only on weekends, with reliable lines — best treated as a 60–90 min commitment, not a quick pit stop. A strong different-cuisine fallback when Nom Wah and Joe's Shanghai are slammed, while staying in the same Chinatown-bridge cluster.",
+    "url": "https://www.goldendinerny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-22:00",
+    "notes": "Address 123 Madison St, Two Bridges, Manhattan, directly under the Manhattan Bridge (Time Out, Yelp). Weekend brunch is walk-in only — put name on the door waitlist if there's a line (Golden Diner site). Street parking only; no dedicated lot, ABM has paid garages nearby on Madison/Henry St for ~$15-25 (ABM Parking). Drive from IC: BQE → Manhattan Bridge → Madison St, ~20–25 min off-peak weekend mornings. Signature dishes: honey-butter pancakes with soy syrup, sesame-scallion milk bun egg-and-cheese, green tea coffee cake, patty melt with American cheese on milk bun (Time Out, Infatuation). Phone (917) 472-7800. Best treated as a longer sit-down stop, not a grab-and-go.",
+    "sources": [
+      {
+        "url": "https://www.goldendinerny.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/golden-diner",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/golden-diner",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/golden-diner-new-york-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://abmparking.com/locations/new-york/golden-diner-parking/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T14:30:34.819Z"
+  },
+  {
+    "id": "mulberry-st-parking-chinatown",
+    "name": "iPark 62 Mulberry St Garage (Chinatown)",
+    "desc": "Valet garage at 62-64 Mulberry St — the de facto Chinatown weekend lot for Manhattan-anchored tracks",
+    "longDesc": "Privately operated iPark valet garage with 181 spaces, open every day 6 AM–11:59 PM. Weekend hourly rates in the area run $27–$35 with this garage starting around $37 same-day; cheaper neighbors (106 Mott, 44 Elizabeth) sit 4-5 min walk away starting ~$26.50. Books in advance through SpotHero / ParkMobile, which is critical on weekends when Chinatown fills early.",
+    "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/ipark-62-mulberry-parking-garage",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "drop & go",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "06:00-23:59",
+    "notes": "No NYC DOT 'Mulberry Street Municipal Garage' exists — the closest municipal facility is Delancey & Essex (107 Essex St, 261 spots, reservable via dotprs.nyc 5 days before month-start). For drop-in Chinatown weekend parking, iPark 62-64 Mulberry is the practical anchor (parkmobile.io). Height capped at 9'11''; no large SUVs/pickups, no Rivian, no Tesla Cybertruck — verify vehicle before routing friends here. Pre-book on SpotHero to lock $26-$37 vs walk-up $35+/hr. Manhattan-only justification: solves the Chinatown anchor problem when a Manhattan dim-sum or NoLita stop is the day's centerpiece; otherwise stay in Brooklyn (Saturfun's anchor at IC).",
+    "sources": [
+      {
+        "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/ipark-62-mulberry-parking-garage",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/62-mulberry-street-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://dotprs.nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/garage/62_mulberry_st/10013/new_york_city/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T14:37:48.328Z"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Joe's Steam Rice Roll (Chinatown) — cheong fun specialist",
-    "reason": "Quick (~15 min) Chinatown bite that pairs with a longer Nom Wah anchor or replaces it if line is impossible",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:24:55.718Z"
-  },
-  {
-    "topic": "Golden Diner (Two Bridges) — modern American Chinatown-adjacent brunch",
-    "reason": "Different cuisine fallback in the same drive-radius if both Nom Wah and Joe's Shanghai are slammed",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:24:55.718Z"
-  },
-  {
-    "topic": "Nom Wah Tea Parlor (13 Doyers St) — oldest dim sum parlor in NYC",
-    "reason": "Pairs with Mei Lai Wah as a Chinatown two-stop combo, justifies the Manhattan drive with a second iconic anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:27:02.577Z"
-  },
-  {
-    "topic": "Columbus Park (67 Mulberry St) — Cantonese opera + xiangqi tables on weekends",
-    "reason": "Free outdoor scene 3 min walk from Mei Lai Wah; turns a bun run into a 'curious' track stop with photo potential",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:27:02.577Z"
-  },
-  {
-    "topic": "Mulberry Street Municipal Garage parking rates and weekend availability",
-    "reason": "Solves the recurring 'where do we park in Chinatown' friction for any Manhattan-anchored track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:27:02.577Z"
-  },
-  {
     "topic": "Nom Wah Tea Parlor (13 Doyers St) — original 1920 dim sum parlor",
     "reason": "anchors the Chinatown mini-track with a sit-down meal between Joe's Shanghai and Kam Hing",
     "requestedBy": "agent",
@@ -17920,5 +17890,95 @@
     "reason": "Same 'casual Asian, no-reservations-needed, photogenic food' niche, but inside an existing BK zone (williamsburg) and ~15 min from IC",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T14:26:19.382Z"
+  },
+  {
+    "topic": "Ba Xuyen — legendary Vietnamese banh mi on 8th Ave Sunset Park, 4 min from IC",
+    "reason": "Pairs with Joe's as a two-stop 8th Ave Brooklyn Chinatown crawl; one of NYC's most-decorated banh mi shops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:28:23.177Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden — Yunnan rice noodle soup, Sunset Park 8th Ave",
+    "reason": "Alternate Brooklyn Chinatown anchor when user wants sit-down vs. Joe's grab-and-go",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:28:23.177Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House — Sunset Park boiled dumplings, $1 dumpling tier",
+    "reason": "Completes the Sunset Park Chinatown trio of legit, cheap, near-IC food stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:28:23.177Z"
+  },
+  {
+    "topic": "Dimes (Canal St / Two Bridges) — California-inflected all-day cafe with healthier brunch",
+    "reason": "Same Chinatown-edge drive cluster, different aesthetic (light/produce-forward vs diner-heavy); rounds out brunch options for groups split on heaviness",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:30:34.851Z"
+  },
+  {
+    "topic": "Kiki's (Lower East Side) — Greek tavern, walk-in only weekend brunch",
+    "reason": "Another no-reservation Manhattan walk-in just north of Two Bridges; provides a third-tier fallback when both Golden Diner and Chinatown options are lined out",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:30:34.851Z"
+  },
+  {
+    "topic": "Cheeky Sandwiches (Orchard St) — Cajun-style grab-and-go biscuit sandwiches",
+    "reason": "Counter-balance to Golden Diner's long waits: a 10-min in-and-out option in the same drive radius for when the group can't commit to a sit-down",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:30:34.851Z"
+  },
+  {
+    "topic": "Doyers Street pedestrian alley + Apotheke speakeasy at 9 Doyers",
+    "reason": "Same 200-ft block as Nom Wah — pre/post-dim-sum photo walk + cocktail option keeps Chinatown trip a single-park stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:32:30.402Z"
+  },
+  {
+    "topic": "Columbus Park Chinatown (Mulberry & Bayard)",
+    "reason": "Five-minute walk from Nom Wah; free public space for waiting out the dim-sum queue, watching elders play xiangqi and erhu performances on weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:32:30.402Z"
+  },
+  {
+    "topic": "Apollo Bakery / 9 Chatham Square egg tarts",
+    "reason": "Cheap third stop in a Chinatown chain — three-stop combo (Nom Wah + Mei Lai Wah + Apollo) maps a complete dim-sum-to-dessert arc on one park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:32:30.402Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor (13 Doyers St) — oldest dim sum house in NYC, 4 min walk from Columbus Park",
+    "reason": "Extends the Chinatown sub-cluster from bun run into a real sit-down dim sum option for the same track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:34:32.502Z"
+  },
+  {
+    "topic": "Mahayana Buddhist Temple (133 Canal St) — 16-ft golden Buddha, free entry",
+    "reason": "Adds a second curious/photo stop within 5-min walk, deepens the Chinatown loop beyond food",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:34:32.502Z"
+  },
+  {
+    "topic": "Apotheke (9 Doyers St) — speakeasy cocktail bar on the Doyers bend",
+    "reason": "Converts the Chinatown cluster into an evening continuation for romantic/curious tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:34:32.502Z"
+  },
+  {
+    "topic": "Delancey & Essex Municipal Parking Garage (107 Essex St) — actual NYC DOT facility nearest Chinatown",
+    "reason": "True municipal alternative with 261 spaces and reservable spots via dotprs.nyc; cheaper monthly/daily caps than private valet garages and directly relevant when a Manhattan track anchors at LES/Chinatown",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:37:48.367Z"
+  },
+  {
+    "topic": "BJ's Wholesale parking lot Sunset Park — IC-adjacent free large-vehicle option",
+    "reason": "Covers the height/vehicle-restriction gap left by iPark Mulberry (no Cybertruck/large SUV); useful when a friend with a big vehicle joins a Brooklyn-anchored day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:37:48.367Z"
+  },
+  {
+    "topic": "Industry City on-site parking rates and weekend overflow lots",
+    "reason": "Saturfun's primary anchor — knowing IC's own parking capacity and weekend pricing is more load-bearing than any Manhattan garage and currently missing from corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:37:48.367Z"
   }
 ]
