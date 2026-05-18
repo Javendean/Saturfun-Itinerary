@@ -5337,16 +5337,17 @@
   },
   {
     "id": "don-paco-lopez-panaderia",
-    "name": "Don Paco Lopez Panaderia",
-    "desc": "Third-generation Sunset Park Mexican bakery famed for conchas, orejas, and pan dulce since 1991.",
-    "longDesc": "Family-run Mexican panaderia opened by Francisco 'Don Paco' Lopez in 1991, drawing on recipes traced back to 1932 Chila de las Flores, Puebla. Rows of conchas, orejas (elephant ears), campechanas (caramelized puffs), plus savory tamales, pambazos, and quecas; the New York Times and Infatuation both call out the conchas as among Brooklyn's best. Cash-friendly, counter-service, grab-and-go — ideal final stop after El Bronco tacos to walk a bag of pan dulce back to the car.",
+    "name": "Don Paco López Panadería",
+    "desc": "Third-gen Mexican bakery in Sunset Park — pan dulce, tres leches, conchas baked since 1991",
+    "longDesc": "Don Paco López opened this Sunset Park panadería in 1991 after immigrating from Mexico in 1976, and three generations of the López family still run it. The cases are stocked daily with conchas, cuernos, orejas, polvorones, and tres leches cakes — a deeper traditional pan dulce bench than the average bodega bakery and a strong photo-op for the itinerary card.",
     "url": "https://donpacolopez.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
@@ -5354,38 +5355,26 @@
     "priceBand": "$",
     "duration": "20-30 min",
     "driveFromIC": "6 min",
-    "hoursWeekend": "Sat 05:30-19:30, Sun 06:00-13:00",
-    "notes": "Address is 4703 4th Ave, Brooklyn NY 11220 — task title says '5th Ave' but Yelp/Nooklyn/Grubhub all confirm 4th Ave (Yelp, Nooklyn). Sunday closes early at 1pm so this MUST anchor as a late-morning/early-afternoon dessert stop, not an evening one (Yelp hours). Conchas, tres leches, and pan dulce are the headline orders; Infatuation calls out the full traditional pan dulce selection plus pambazos and tamales for a savory option (The Infatuation). Featured in NYT and on Viewing NYC video for the conchas specifically (Bklyner, Viewing NYC).",
+    "hoursWeekend": "Sat 05:30-19:00, Sun 05:30-13:00",
+    "notes": "Address is 4703 4th Ave, Brooklyn NY 11220 — the task brief said 5th Ave but the actual storefront is on 4th Ave at ~47th St in Sunset Park (donpacolopez.com). Weekend hours from Yelp listing (yelp.com/biz/don-paco-lopez-panaderia-brooklyn). Sunday closes early at 1pm, so route this as a morning/early-afternoon stop only. Street parking on 4th Ave is generally easier on weekends than 5th Ave's restaurant strip. Phone (718) 492-7443. No photoUrl pulled — official site does not expose product CDN images; flag for AI background generation.",
     "sources": [
       {
+        "url": "https://donpacolopez.com/",
+        "accessed": "2026-05-18T23:00:00Z"
+      },
+      {
         "url": "https://donpacolopez.com/pages/about-us",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T23:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/don-paco-lopez-panaderia-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/don-paco-lopez-panaderia",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://bklyner.com/don-paco-lopez-panaderia-gets-much-deserved-love-new-york-times-sunset-park/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://nooklyn.com/locations/Mkb-O7tnLTpc4Tpycl_5",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T23:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T15:49:28.012Z"
+    "lastResearchedAt": "2026-05-18T23:03:54.828Z"
   },
   {
     "id": "thanh-da-sandwich",
@@ -10030,44 +10019,51 @@
   {
     "id": "tortilleria-mexicana-los-hermanos",
     "name": "Tortilleria Mexicana Los Hermanos",
-    "desc": "Working tortilla factory + taqueria in Bushwick; tacos made on the hot line, open late on weekends",
-    "longDesc": "A no-frills tortilleria where you eat tacos in the dining room while watching masa get rolled, pressed, and baked into tortillas on the production line behind you. Cash-friendly, $ prices, and the al pastor / lengua / suadero are the standard order. Friday-Sunday it stays open until 11:30pm, making it a legitimate post-midnight-adjacent 'where do we eat' option that isn't a 24hr diner.",
+    "desc": "Cash-only Bushwick taco counter inside a working tortilla factory — fresh-off-the-line tortillas, $2.25 tacos, BYOB.",
+    "longDesc": "Tucked into a wholesale tortilleria on Starr St, Los Hermanos lets you eat tacos, tostadas and quesadillas made from tortillas pressed minutes earlier on the factory line you can see from the dining room. The menu is bare-bones — chorizo, carnitas, chicken, beans, rice — and you write your order on scrap paper to slide across the counter. Cash only, BYOB, and you can grab bags of tortillas to take home at wholesale prices.",
     "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "20 min",
-    "hoursWeekend": "Fri-Sun 11:00-23:30",
-    "notes": "271 Starr St, Brooklyn — tortilla factory with attached taqueria where you can watch the line run while eating (Atlas Obscura). Weekday hours close at 22:10; Fri/Sat/Sun extend to 23:30 (Yelp). Pairs with diner cluster as the non-diner late-eat option; drive from IC ~20 min via Prospect Expy + Bushwick Ave with usually-findable street parking on Starr/Wyckoff after 10pm. Order tacos al pastor, suadero, lengua; tortillas-by-the-bag wholesale also sold seven days a week (NYC Tourism).",
+    "hoursWeekend": "11:00-23:30",
+    "notes": "271 Starr St, Brooklyn NY 11237; (718) 456-3422. Cash-only and BYOB (Atlas Obscura). Tacos $2.25, tostadas $2.50, quesadillas $3.25 — order written on scrap paper (Bushwick Daily). Open seven days; Sat/Sun 11:00 AM–11:30 PM (Yelp). Weekend street parking in industrial Bushwick is usually findable within a couple blocks. From IC (220 36th St) take the BQE north to the Morgan Ave exit — ~8 mi, ~20 min midday weekend.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/food-and-drink/6685-los-hermanos-tacos-tortilla-factory-bushwick/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/tortilleria-mexicana-los-hermanos",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T02:58:38.110Z"
+    "lastResearchedAt": "2026-05-18T23:06:05.600Z"
   },
   {
     "id": "tulcingo-sunset-park",
@@ -48538,5 +48534,99 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T22:59:39.356Z"
+  },
+  {
+    "id": "cafe-con-libros-crown-heights",
+    "name": "Café con Libros",
+    "desc": "Afro-Latine, woman-owned intersectional feminist bookstore + coffee shop in Crown Heights.",
+    "longDesc": "A tiny corner café at Prospect Pl & Rogers Ave that doubles as Brooklyn's flagship intersectional feminist bookstore, founded by Kalima DeSuze. Espresso, tea, pastries, and a tightly curated shelf of fiction, theory, and kids' books by women and non-binary authors of color — easy to spend 30-45 minutes nursing a latte and browsing. Hosts book clubs and author events on the regular.",
+    "url": "https://www.cafeconlibrosbk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "crown-heights",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 09:00-19:00, Sun 09:00-17:00",
+    "notes": "Located at 724 Prospect Pl, Brooklyn NY 11216, on the corner of Rogers Ave (Yelp). Pairs well as a 'coffee + browse' bookend after Industry City — about a 20-25 min drive via Prospect Expwy depending on traffic. Street parking only; expect to circle a few blocks on weekends (Conscious City Guide). Menu is espresso drinks, tea, and rotating pastries; no full kitchen. Owner Kalima DeSuze is an Afro-Latine social worker and Army vet — the shop is explicitly a community space for women, girls, and non-binary folx (Brownstoner, NYC Tourism). Closed Tuesdays.",
+    "sources": [
+      {
+        "url": "https://www.cafeconlibrosbk.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/cafe-con-libros-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/shopping/cafe-con-libros/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.brownstoner.com/brooklyn-life/crown-heights-bookstore-cafe-con-libros-724-prospect-place-feminist-bookclub-kalima-desuze/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://cafeconlibrosbooks.indielite.org/hours-and-directions",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:08:19.538Z"
+  },
+  {
+    "id": "chela-park-slope",
+    "name": "Chela",
+    "desc": "Modern Mexican on 5th Ave — scratch tortillas, aguachile, 50+ tequilas & mezcals in a mural-lined room.",
+    "longDesc": "Chef-owner Ronny Jaramillo's Latinx- and women-owned Park Slope sit-down where every sauce and tortilla is made in-house and aguachile is the signature plate. The bar runs deep on agave with 50+ tequilas and mezcals plus mezcal cocktails, and the colorful mural-lined dining room plus an outdoor walk-in patio make it an easy, lively dinner stop. Pairs naturally with Casa Azul as a second Mexican option closer to IC on a Park Slope track.",
+    "url": "https://www.chelaparkslope.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5f8e32543f041f722e56ea0d/1606613086483-MQUDZVGFTS458051QDI6/chela.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
+    "notes": "Reservations via Resy/OpenTable; outdoor seating is walk-in only (chelaparkslope.com). 778+ Yelp reviews with strong ranking among Park Slope Mexican spots (yelp.com). Scratch tortillas + sauces; aguachile is the signature plate (chelaparkslope.com). Bar lists 50+ tequilas/mezcals plus sangria and beer (nyctourism.com). Pairs with Casa Azul as a second modern-Mexican anchor in the park-slope cluster.",
+    "sources": [
+      {
+        "url": "https://www.chelaparkslope.com/",
+        "accessed": "2026-05-18T23:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/chela-park-slope-brooklyn-2",
+        "accessed": "2026-05-18T23:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/chela/",
+        "accessed": "2026-05-18T23:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/chela-modern-mexican-brooklyn",
+        "accessed": "2026-05-18T23:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T23:10:20.351Z"
   }
 ]

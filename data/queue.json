@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Don Paco Lopez Panadería (Sunset Park Mexican bakery)",
-    "reason": "Pan dulce anchor in the Sunset Park Mexican corridor — natural take-home stop chained with the IC-proximal 5th Ave crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:14:15.692Z"
-  },
-  {
-    "topic": "Don Paco Lopez Panaderia Sunset Park (5th Ave Mexican bakery)",
-    "reason": "Third pan dulce option on the same taco strip — gives users a triangulated dessert choice and lets us A/B which bakery photographs best for the itinerary card.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:16:39.381Z"
-  },
-  {
-    "topic": "Tortilleria Mexicana Los Hermanos Bushwick (fresh tortillas + tacos)",
-    "reason": "Adjacent Brooklyn Mexican anchor outside Sunset Park; useful as an alternate-day option when users want the same vibe but a different neighborhood drive from IC.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:16:39.381Z"
-  },
-  {
-    "topic": "Café con Libros Crown Heights (feminist bookstore café)",
-    "reason": "Non-Mexican but parallel 'coffee + browse' slot for the post-IC chill segment when users want a 20-25 min drive instead of the 5-min Sunset Park hop.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:16:39.382Z"
-  },
-  {
-    "topic": "Chela Park Slope (408 5th Ave) — modern Mexican sit-down",
-    "reason": "High-volume Park Slope Mexican alternative on 5th Ave with strong Yelp ranking; pairs with Casa Azul as a second Mexican option closer to IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:19:29.184Z"
-  },
-  {
     "topic": "La Loncheria Williamsburg Oaxacan",
     "reason": "Expands Oaxacan coverage into the Williamsburg cluster already in corpus, giving north-Brooklyn parity to Casa Azul's Park Slope anchor",
     "requestedBy": "agent",
@@ -20596,5 +20566,95 @@
     "reason": "Natural post-tacos night-cap within a 5-min drive of Chilo's",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T22:59:39.389Z"
+  },
+  {
+    "topic": "Tacos El Bronco (5th Ave Sunset Park taqueria)",
+    "reason": "Pairs naturally with Don Paco Lopez as the savory anchor of the Sunset Park Mexican corridor crawl — al pastor + horchata before pan dulce dessert",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:01:54.565Z"
+  },
+  {
+    "topic": "Tortillería Mexicana Los Hermanos (Bushwick fresh-tortilla counter)",
+    "reason": "If users want a deeper Mexican-bakery/taqueria thread, this is the canonical fresh-masa counterpart on the Brooklyn side",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:01:54.565Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself) — Manhattan skyline viewpoint",
+    "reason": "Free 10-min stop one block from Don Paco; pair pan dulce with the best skyline view in south Brooklyn for a photo+foodie combo",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:01:54.565Z"
+  },
+  {
+    "topic": "Tacos El Bronco 5th Ave Sunset Park (al pastor trompo)",
+    "reason": "Pairs with the bakery cluster — same Sunset Park taco strip, gives the itinerary a savory anchor before/after pan dulce",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:03:54.866Z"
+  },
+  {
+    "topic": "Panadería Mi México Pequeño 4513 5th Ave Sunset Park",
+    "reason": "Direct A/B counterpart on actual 5th Ave — completes the triangulated pan dulce comparison the brief intended",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:03:54.866Z"
+  },
+  {
+    "topic": "La Gran Vía Bakery 4516 5th Ave Sunset Park",
+    "reason": "Long-running Mexican bakery one block from Mi México Pequeño — rounds out a three-bakery walking taste-test within 2 blocks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:03:54.866Z"
+  },
+  {
+    "topic": "Birria-Landia Bushwick taqueria truck",
+    "reason": "Companion Bushwick Mexican stop — birria + consommé pairs naturally with a tortilleria visit for a two-stop taco crawl.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:06:05.640Z"
+  },
+  {
+    "topic": "Roberta's Bushwick pizza + garden",
+    "reason": "Anchors a Bushwick day cluster after tacos — outdoor garden, drives ~5 min from Starr St.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:06:05.640Z"
+  },
+  {
+    "topic": "Mood Ring Bushwick astrology bar",
+    "reason": "Quirky evening anchor in same cluster — completes a Bushwick alternate-day track to IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:06:05.640Z"
+  },
+  {
+    "topic": "Books Are Magic Cobble Hill (Emma Straub's bookstore + café-adjacent browsing)",
+    "reason": "Closer to IC (~12 min) and serves the same 'coffee + browse' need with a stronger photo angle for the pink mural exterior",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:08:19.576Z"
+  },
+  {
+    "topic": "Sey Coffee Bushwick (third-wave roastery, weekend pour-over flight)",
+    "reason": "Expands the 20-25 min drive-out coffee tier with a serious-coffee variant for the curious/foodie vibe, with parking lot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:08:19.576Z"
+  },
+  {
+    "topic": "Greenlight Bookstore Fort Greene + Greenlight Café next door",
+    "reason": "Another bookstore-coffee combo at the ~18 min drive radius, more general-audience than Café con Libros for users who want broader curation",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:08:19.576Z"
+  },
+  {
+    "topic": "Claro Gowanus — Oaxacan tasting menu, 284 3rd Ave Brooklyn",
+    "reason": "Michelin-starred Oaxacan adjacent to Park Slope/Gowanus; upscale-Mexican counterpoint to Chela/Casa Azul for a foodie track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:10:20.398Z"
+  },
+  {
+    "topic": "La Cabaña Salvadoreña Sunset Park — pupusas + Salvadoran, 4814 5th Ave Brooklyn",
+    "reason": "Closer to IC on 5th Ave corridor; broadens Latin-American coverage beyond Mexican-only entries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:10:20.398Z"
+  },
+  {
+    "topic": "Brooklyn Tortilleria / Tortilleria Mexicana Los Hermanos Bushwick",
+    "reason": "Tortilla-source story behind Chela's scratch program; potential curious/photo stop if Bushwick track materializes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:10:20.398Z"
   }
 ]
