@@ -8459,8 +8459,8 @@
   {
     "id": "pioneer-works",
     "name": "Pioneer Works",
-    "desc": "Free Red Hook art + science center with rotating exhibitions, residency studios, and a garden",
-    "longDesc": "Pioneer Works is a multidisciplinary nonprofit in a converted 1866 iron works featuring contemporary art exhibitions, a science studio, music programming, and visible artist-in-residence studios. Galleries and the garden are free and open Wed–Sun 12–6 pm. Slots in perfectly before a Valentino Pier sunset or a Red Hook Lobster Pound run.",
+    "desc": "Free 50K-sq-ft Red Hook arts center: galleries, garden, music, science talks; weekend open Wed-Sun 12-6.",
+    "longDesc": "Artist- and scientist-led nonprofit cultural center in a converted 1866 ironworks at 159 Pioneer St, founded by Dustin Yellin in 2012. Rotating exhibitions, residency studios, a sculpture garden, and free public programs across visual art, performance, music, technology, and science. The flagship 'Second Sundays' open house (monthly) opens all three floors plus the garden for live music, open studios, workshops, and food — free with RSVP.",
     "url": "https://pioneerworks.org/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8472,75 +8472,83 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "12:00-18:00",
-    "notes": "Free admission to galleries, garden, and artist studios (pioneerworks.org/visit). Closed Mon-Tue; open Wed-Sun 12-6pm — pair with Valentino Pier (0.4 mi / ~6 min walk) for sunset or Red Hook Lobster Pound for an early dinner. Street parking available; SpotHero lists nearby reservable lots (spothero.com). Check pioneerworks.org/calendar for opening receptions and Second Sundays which can extend hours.",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat-Sun 12:00-18:00 (closed Mon-Tue)",
+    "notes": "Free admission to galleries and garden (pioneerworks.org/visit). Second Sundays is the marquee weekend program — free monthly open house with music, performances, and open studios; RSVP required (pioneerworks.org/programs/second-sundays-may-2026). Address 159 Pioneer St, Red Hook; street parking is generally available on weekends in the surrounding industrial blocks. Perfect indoor counterweight to kayaking on the Red Hook track — pair with Sunny's Bar or Hometown BBQ within a 5-min drive.",
     "sources": [
       {
         "url": "https://pioneerworks.org/visit",
-        "accessed": "2026-05-17T17:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://pioneerworks.org/calendar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://pioneerworks.org/programs/second-sundays-may-2026",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pioneer_Works",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
-        "accessed": "2026-05-17T17:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/pioneer-works-red-hook",
-        "accessed": "2026-05-17T17:00:00Z"
-      },
-      {
-        "url": "https://spothero.com/destination/nyc/pioneer-works-parking",
-        "accessed": "2026-05-17T17:00:00Z"
-      }
-    ],
-    "promotedTo": null,
-    "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T17:01:54.706Z"
-  },
-  {
-    "id": "louis-valentino-jr-park-pier",
-    "name": "Louis Valentino Jr. Park & Pier",
-    "desc": "Red Hook waterfront pier with the closest front-facing land view of the Statue of Liberty in NYC.",
-    "longDesc": "A small but legendary Red Hook waterfront park at Coffey & Ferris with a wooden pier that juts into New York Harbor — locals and photographers say it offers the closest head-on land view of Lady Liberty anywhere in the five boroughs, with Governors Island, Lower Manhattan, and Staten Island all in frame. The pier has benches, a tiny pebble beach, and is dog-friendly; no restrooms on site, but Steve's Authentic Key Lime Pie is a one-block walk away. Free, open dawn to dusk, and a quick 8-minute drive from Industry City.",
-    "url": "https://www.nycgovparks.org/parks/valentino-pier",
-    "photoUrl": "",
-    "aiBackgroundUrl": "",
-    "zone": "red-hook",
-    "vibe": [
-      "photo",
-      "chill",
-      "romantic"
-    ],
-    "dietary": [],
-    "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "06:00-21:00",
-    "notes": "Closest front-facing land view of the Statue of Liberty in NYC (nyctourism.com, atlasobscura.com). Free; street parking on Coffey/Ferris is usually available on weekends. Pair with Steve's Key Lime Pie one block north and Pioneer Works ~5 min drive (nycgovparks.org). Named after FDNY firefighter and Parks lifeguard Louis J. Valentino Jr. (1958–1996).",
-    "sources": [
-      {
-        "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
-        "accessed": "2026-05-16T20:45:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
-        "accessed": "2026-05-16T20:45:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
-        "accessed": "2026-05-16T20:45:00Z"
-      },
-      {
-        "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
-        "accessed": "2026-05-16T20:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T20:42:59.612Z"
+    "lastResearchedAt": "2026-05-18T06:33:00.439Z"
+  },
+  {
+    "id": "louis-valentino-jr-park-pier",
+    "name": "Louis Valentino Jr. Park & Pier",
+    "desc": "Red Hook waterfront pier with the closest front-facing Statue of Liberty view on land in NYC.",
+    "longDesc": "A small grass field and concrete pier at the foot of Coffey Street where the Statue of Liberty stares back at you across the harbor — supposedly the closest face-on land view in the city. Fishermen, picnickers, and locals park here at golden hour for Manhattan skyline, Governors Island, and Staten Island views; the pier doubles as a kayak launch. It is the natural sunset stop after a Steve's Key Lime Swingle two blocks away.",
+    "url": "https://www.nycgovparks.org/parks/valentino-pier",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "romantic",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Coffey St & Ferris St, Red Hook. Closest front-facing land view of the Statue of Liberty in NYC (nycgovparks.org). Free street parking on Coffey/Ferris/Van Brunt on weekends — Red Hook is largely unmetered. Pair with Steve's Key Lime Pies (Swingle pickup window 200m away) and a Van Brunt St walk. Sunset is the moment; bring a layer because the harbor wind cuts. Kayak launch on north side; fishermen on the pier edge (nyctourism.com, atlasobscura.com).",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://nycaller.com/red-hook-waterfront-weekend-guide/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:28:59.168Z"
   },
   {
     "id": "public-records",
@@ -14088,46 +14096,46 @@
   },
   {
     "id": "valentino-pier",
-    "name": "Louis Valentino Jr. Park & Pier",
-    "desc": "Closest land-based front-facing view of the Statue of Liberty — Red Hook's signature sunset pier",
-    "longDesc": "A small Red Hook peninsula jutting into New York Harbor with the closest direct, front-facing view of the Statue of Liberty from anywhere on land in NYC (NYC Parks). The pier looks across to Governors Island, the Lower Manhattan skyline, and Staten Island, and is widely cited as one of the city's best sunset spots. Pair it with a Steve's Key Lime Pie stop two blocks away or dinner at Hometown Bar-B-Que for a complete Red Hook loop.",
+    "name": "Louis Valentino Jr. Park and Pier",
+    "desc": "Red Hook waterfront pier with the closest land-based front-facing view of the Statue of Liberty.",
+    "longDesc": "A small waterfront park and pier at the foot of Coffey Street offering panoramic harbor views of the Statue of Liberty, Governors Island, and the Lower Manhattan skyline. Widely cited as one of the best sunset spots in NYC and a natural 5-minute walk from Pioneer Works. Grass field plus a long pier with benches — ideal as a 30-minute photo stop on a Red Hook driving loop.",
     "url": "https://www.nycgovparks.org/parks/valentino-pier",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
-      "chill",
       "photo",
+      "chill",
       "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "06:00-01:00",
-    "notes": "Address: Ferris St between Coffey St and Van Dyke St (NYC Parks). Free street parking is generally available on weekends in surrounding Red Hook blocks — much easier than most of brownstone Brooklyn. NYC Parks default hours are 6 AM to 1 AM unless posted otherwise. Best arrival window is ~45 min before sunset; the pier faces directly west toward Lady Liberty. Bike parking on-site, kid-friendly (Yelp). Bonus: Steve's Authentic Key Lime Pie is a 3-min walk away on Pier 41 — classic Red Hook sunset combo.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "06:00-22:00",
+    "notes": "Address: Ferris St between Coffey St & Van Dyke St, Brooklyn NY 11231 (NYC Parks). Closest front-facing land view of the Statue of Liberty in NYC (Atlas Obscura). Free street parking on Coffey/Ferris is usually findable on weekends — Red Hook's grid is low-density and lacks subway access, which keeps it driver-friendly. NYC Parks standard hours are 6am-10pm (NYC Parks). Pair with Pioneer Works (5-min walk) and Steve's Authentic Key Lime Pies (1 block away) for a tight Red Hook cluster. Best timed for golden hour — face west across Buttermilk Channel.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/valentino-pier",
-        "accessed": "2026-05-17T21:20:00Z"
+        "accessed": "2026-05-18T06:30:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
-        "accessed": "2026-05-17T21:20:00Z"
+        "accessed": "2026-05-18T06:30:00Z"
       },
       {
         "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
-        "accessed": "2026-05-17T21:20:00Z"
+        "accessed": "2026-05-18T06:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
-        "accessed": "2026-05-17T21:20:00Z"
+        "accessed": "2026-05-18T06:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T21:25:27.529Z"
+    "lastResearchedAt": "2026-05-18T06:37:11.606Z"
   },
   {
     "id": "oxomoco-greenpoint",
@@ -38378,42 +38386,49 @@
   {
     "id": "brooklyn-crab-red-hook",
     "name": "Brooklyn Crab",
-    "desc": "Tri-level seafood shack with harbor views, lawn games, skee-ball and crab buckets",
-    "longDesc": "Open since 2012 at 24 Reed St, Brooklyn Crab is a three-story outdoor seafood shack a half-block from the Erie Basin waterfront. The menu centers on bucket-style snow, king, and Dungeness crab plus Maine lobster and raw oysters, while the yard adds skee-ball, mini golf, cornhole and bocce — turning a meal into an afternoon. Rooftop seats face the harbor and Statue of Liberty, and weekend street parking around Reed/Van Brunt is generally easy.",
+    "desc": "Tri-level Red Hook seafood shack with outdoor patio, buckets of crab, and harbor breeze 4 blocks from Valentino Pier.",
+    "longDesc": "A Red Hook institution since 2012, Brooklyn Crab serves Maine lobster, snow/king/Dungeness crab buckets, peel-n-eat shrimp, and raw oysters across three levels with sprawling outdoor decks and yard games (cornhole, mini-golf). Weekend bottomless brunch and an all-you-can-eat snow crab Friday give it a destination feel, but the real draw is the open-air patio four blocks from Valentino Pier — a natural post-kayak food anchor in the Red Hook waterfront cluster.",
     "url": "https://www.brooklyncrab.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
-      "foodie",
-      "active",
       "chill",
+      "foodie",
       "photo"
     ],
     "dietary": [],
-    "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "12:00-22:00",
-    "notes": "Tri-level outdoor seafood shack with skee-ball, mini golf, cornhole and harbor views; opened 2012 (yelp.com). Hours daily 12pm-10pm (brooklyncrab.com). No lot but easy weekend street parking on Reed/Van Brunt (brooklyncrab.com/faq). Pairs naturally with Hometown Bar-B-Que and Red Hook Winery on the same block for a daytime Red Hook track.",
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
+    "notes": "24 Reed St, Brooklyn NY 11231 — (718) 643-2722. Tri-level layout with two outdoor decks and bocce/cornhole yard (Yelp, 1220 reviews). 4-block walk from Valentino Pier and Red Hook kayak launch, making it the obvious sit-down anchor after waterfront activity (Resy Red Hook guide, Mar 2025). Weekend street parking on Reed/Van Brunt is usually findable; no dedicated lot. Friday all-you-can-eat snow crab and weekend bottomless brunch are reservation-heavy — use OpenTable for Sat 1-3pm windows.",
     "sources": [
       {
         "url": "https://www.brooklyncrab.com/location/brooklyn-crab/",
-        "accessed": "2026-05-18T06:20:00Z"
+        "accessed": "2026-05-18T06:30:00Z"
       },
       {
-        "url": "https://www.brooklyncrab.com/faq/",
-        "accessed": "2026-05-18T06:20:00Z"
+        "url": "https://www.brooklyncrab.com/menus/",
+        "accessed": "2026-05-18T06:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/brooklyn-crab-brooklyn",
-        "accessed": "2026-05-18T06:20:00Z"
+        "accessed": "2026-05-18T06:30:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2025/03/best-restaurants-red-hook-brooklyn/",
+        "accessed": "2026-05-18T06:30:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/brooklyn-crab-brooklyn",
+        "accessed": "2026-05-18T06:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T06:19:02.234Z"
+    "lastResearchedAt": "2026-05-18T06:31:03.880Z"
   },
   {
     "id": "valentino-pier-red-hook",
@@ -38512,5 +38527,52 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T06:27:05.231Z"
+  },
+  {
+    "id": "valentino-pier-sunset",
+    "name": "Louis Valentino Jr. Park & Pier",
+    "desc": "Red Hook waterfront pier with the closest front-facing land view of the Statue of Liberty — a free sunset spot.",
+    "longDesc": "A small grassy park and timber pier at the foot of Coffey Street with sightlines straight to the Statue of Liberty, Governors Island, and the Lower Manhattan skyline — widely cited as the closest front-facing view of Lady Liberty from any land in NYC. The pier doubles as the Red Hook Boaters' free kayak launch (Thursday evenings and Sunday afternoons in summer) and is a five-minute walk from Pioneer Works, Sunny's, and the Red Hook Winery. Bring a blanket and time your visit ~30 min before sunset for golden-hour photos.",
+    "url": "https://www.nycgovparks.org/parks/valentino-pier",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Free, NYC Parks property at Coffey St & Ferris St (NYC Parks). Closest land-based front view of the Statue of Liberty in NYC (Yelp, NYC Parks). Red Hook Boaters offer free walk-up kayaking Thu evenings + Sun afternoons in summer (Red Hook Boaters). Street parking is generally available on weekends — combine with Steve's Authentic Key Lime Pies (3 min walk) or Sunny's Bar after dark.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier",
+        "accessed": "2026-05-18T06:30:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier/facilities/kayak",
+        "accessed": "2026-05-18T06:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
+        "accessed": "2026-05-18T06:30:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
+        "accessed": "2026-05-18T06:30:00Z"
+      },
+      {
+        "url": "https://www.redhookboaters.org/directions",
+        "accessed": "2026-05-18T06:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:35:12.646Z"
   }
 ]
