@@ -10959,11 +10959,11 @@
   },
   {
     "id": "cecconis-dumbo",
-    "name": "Cecconi's Dumbo",
-    "desc": "Northern Italian inside Empire Stores — wood-fired pizza, handmade pasta, skyline views",
-    "longDesc": "Soho House group's Northern Italian set in the brick-vaulted Empire Stores warehouse with floor-to-ceiling windows onto the Manhattan skyline and Brooklyn Bridge. Wood-fired pizzas, handmade pasta, and signatures like whipped ricotta with truffle honey, lobster spaghetti, and the prosciutto-truffle pie; tiramisu is the standard close. Reservable via OpenTable or Tock — the calmer, sit-down counterweight to Time Out Market upstairs in the same building.",
+    "name": "Cecconi's DUMBO",
+    "desc": "Soho House group's Italian inside Empire Stores — patio aperitivo with Brooklyn + Manhattan Bridge views.",
+    "longDesc": "Northern Italian sister to the Mayfair original, set in the brick-arched ground floor of Empire Stores between the Brooklyn and Manhattan Bridges. Hand-made pasta, wood-fired pizza, and a terrace that catches the Manhattan skyline at golden hour. Date-night-grade plating and pacing — book a window or patio seat ahead.",
     "url": "https://www.cecconisrestaurants.com/dumbo/",
-    "photoUrl": "https://media.cecconis.com/hlrhmkyy/mariell-lindhansen-1538.jpg?width=2000&height=1500&v=1db605fbcdfba20",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "dumbo",
     "vibe": [
@@ -10972,39 +10972,44 @@
       "photo"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "priceBand": "$$$",
     "duration": "90-120 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "11:30-22:00",
-    "notes": "Located inside Empire Stores at 55 Water St (DUMBO); same building as Time Out Market Dumbo, so when the food hall is mobbed this is the sit-down fallback with the same Brooklyn Bridge / Manhattan skyline view (source: cecconisrestaurants.com/dumbo). Book a window or patio table for sunset — walk-ins accepted but weekend waits run long (source: tripadvisor, yelp). Reservations via OpenTable or Tock (exploretock.com/cecconisdumbo). Weekend brunch + dinner served Sat-Sun 11:30am-10pm (source: official site). Parking: metered street on Water/Plymouth or paid lots under the Manhattan Bridge.",
+    "notes": "Reservations strongly recommended via OpenTable or Tock — request window/terrace for the bridge view (cecconisrestaurants.com). Weekend brunch served Sat-Sun from 11:30 (cecconisrestaurants.com/dumbo/menus). Patio can get noisy from foot traffic and subway rumble overhead (tripadvisor.com). Street parking on Water/Plymouth fills fast on weekends; the lot at 55 Pearl or 7 Old Fulton garage is the reliable fallback. Slower-paced sibling to the casual Empire Stores Food Hall option — use this entry for the romantic/date-night variant of the same anchor.",
     "sources": [
       {
         "url": "https://www.cecconisrestaurants.com/dumbo/",
-        "accessed": "2026-05-17T20:55:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
         "url": "https://www.cecconisrestaurants.com/dumbo/menus/",
-        "accessed": "2026-05-17T20:55:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
         "url": "https://www.opentable.com/r/cecconis-dumbo-brooklyn",
-        "accessed": "2026-05-17T20:55:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
-        "url": "https://www.exploretock.com/cecconisdumbo/search/",
-        "accessed": "2026-05-17T20:55:00Z"
+        "url": "https://www.exploretock.com/cecconisdumbo/",
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/cecconis-dumbo-brooklyn",
-        "accessed": "2026-05-17T20:55:00Z"
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d12585219-Reviews-Cecconi_s-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T06:10:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/cecconis-dumbo/",
+        "accessed": "2026-05-18T06:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T20:59:35.448Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:13:13.723Z"
   },
   {
     "id": "bbp-pier-1-sunset",
@@ -15473,57 +15478,45 @@
   },
   {
     "id": "fornino-pier-6",
-    "name": "Fornino at Pier 6 (Rooftop)",
-    "desc": "Seasonal wood-fired pizza on a Brooklyn Bridge Park rooftop facing the Statue of Liberty — sunset anchor.",
-    "longDesc": "Fornino's Pier 6 outpost is a seasonal pizzeria perched at the south end of Brooklyn Bridge Park, with a small rooftop deck that looks straight at the Statue of Liberty and lower Manhattan. Wood-fired pizzas, artisanal sodas, beer, wine and cocktails, served casually — the draw is the unobstructed harbor sunset, not fine dining. Rooftop is weather-permitting and seasonally limited; arrive ~45 min before sunset to claim a railing seat, then chain north along the BBP piers (Pier 5 → Pier 2 → Pier 1) for a full waterfront walk.",
+    "name": "Fornino at Pier 6",
+    "desc": "Open-air rooftop pizza with wood-fired oven and lower Manhattan skyline views at Brooklyn Bridge Park.",
+    "longDesc": "Fornino's Pier 6 location is a seasonal rooftop pizzeria inside Brooklyn Bridge Park, with a custom-built wood-fired oven cooking Neapolitan-style pies right on the roof. The breezy upstairs deck looks straight across the harbor to lower Manhattan — a strong outdoor alternative when the Time Out Market rooftop in Dumbo is at capacity. Operates seasonally (typically March–October), so it's a warm-weather variant only.",
     "url": "https://www.fornino.com/brooklyn-bridge-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "romantic",
+      "chill",
       "foodie",
       "photo",
-      "chill"
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 12:00-21:00, Sun 12:00-20:00 (seasonal, ~Apr-Oct, weather permitting)",
-    "notes": "Seasonal location — only operates roughly spring through fall; confirm open status before going (an outdated 'TEMP. CLOSED' duplicate listing exists on Yelp under slug fornino-brooklyn-9, but the active listing fornino-brooklyn-5 shows current reviews and hours). Rooftop reservations exist for groups up to 16 but most seating is walk-up first-come; rooftop seating is strictly weather-permitting (source: fornino.com/brooklyn-bridge-park, faq). Happy hour Mon-Fri 4-6 PM at park-level cafe; rooftop late happy hour 9:30-11 PM weather permitting (source: brooklynslifestyle.com). Parking: metered along Atlantic Ave, Furman St, and Joralemon — busy on summer weekends but generally findable within 5 min walk; BQE exit to Atlantic Ave is the fastest car route from IC. Pier 6 is at the southern entrance to BBP, near the beach-volleyball courts and playgrounds, so daytime is family-heavy — go closer to sunset for the romantic/photo vibe (source: brooklynbridgepark.org/places-to-see/pier-6). Pairs naturally with a Pier 1 → Pier 6 (or reverse) sunset walk; for a car-based chain, park once at Pier 6 and walk the piers north.",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 12:00-21:00, Sun 12:00-20:00 (seasonal Mar-Oct)",
+    "notes": "Pier 6 entrance off Atlantic Ave / Furman St; closest weekend parking is the Pier 6 / Atlantic Ave municipal lots and street parking along Columbia Heights — arrive early on warm weekends, the rooftop fills first (Yelp, Brooklyn Bridge Park). Pies are made in a wood-fired oven on the roof (fornino.com). Rooftop is seasonal so this is summer-only; pair with a 5-min stroll to Pier 5 picnic peninsula or the Granite Prospect steps for skyline photos.",
     "sources": [
       {
         "url": "https://www.fornino.com/brooklyn-bridge-park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
         "url": "https://brooklynbridgepark.org/places-to-see/restaurants-cafes/fornino/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://brooklynbridgepark.org/places-to-see/pier-6/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/fornino-brooklyn-5",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://brooklynslifestyle.com/fornino-brooklyn-bridge-park-happy-hour/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/fornino-brooklyn-bridge-park-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T21:23:00.542Z"
+    "lastResearchedAt": "2026-05-18T06:15:11.872Z"
   },
   {
     "id": "pilot-oyster-schooner",
@@ -24556,8 +24549,8 @@
   {
     "id": "westville-dumbo",
     "name": "Westville DUMBO",
-    "desc": "Vegetable-forward neighborhood American with weekend brunch — pick-4 Market Plate is the move.",
-    "longDesc": "DUMBO outpost of the Westville mini-chain, beloved for its $18 Market Plate that lets you build a meal from 24+ rotating seasonal vegetable sides — a rare $$ sit-down where vegetarians, vegans, and GF guests get equal billing alongside burgers and pancakes. Weekend brunch starts at 10am with eggs, classics, and Spicy Watermelon Margaritas ($15), and the room stays calmer than the Time Out Market scrum a block away. Generous portions, reservations on OpenTable, indoor + outdoor seating.",
+    "desc": "Veg-forward neighborhood American with a 24+ daily vegetable Market Plate — real table alternative to Time Out Market.",
+    "longDesc": "Westville's DUMBO outpost (81 Washington St, not Front St as sometimes listed) is the original mini-chain's Brooklyn flagship, anchored by the signature Market Plate where guests pick four from 24+ vegetable sides prepped daily. Vegetarian, vegan and gluten-free callouts run across the whole menu — burgers, salmon, plant-based mains, salads — so mixed-diet groups can all sit at one table without negotiation. Weekend service splits brunch (10-4) and dinner (5-10) with a one-hour midday gap, and OpenTable reservations are strongly recommended over walking in.",
     "url": "https://westville.com/locations/westville-dumbo/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -24573,35 +24566,35 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "10:00-16:00, 17:00-22:00",
-    "notes": "Address is 81 Washington St (corner of Water St), not Water St proper (Yelp). Market Plate = pick 4 vegetable sides for $18, a standout value vs DUMBO norms — one reviewer flagged it as 'some of the best prices we have encountered in NY' vs the typical $23+ entrees (Tripadvisor). Weekend brunch service is reportedly fast (Tripadvisor). Reservations via OpenTable. Street parking in DUMBO is rough on weekends — use the lot at 55 Water St or the garage under Brooklyn Bridge Park Pier 1.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat-Sun 10:00-16:00 brunch, 17:00-22:00 dinner",
+    "notes": "Address is 81 Washington St (corrected from task's '81 Front St'). Market Plate is the move for vegetarians — 24+ rotating sides, pick 4 (Westville site). GF options exist menu-wide but no dedicated fryer and no separate GF menu, so flag dietary needs at order (findmeglutenfree). Weekend brunch books up; reserve via OpenTable. Parking: street on Washington plus Empire Stores garage one block away. Drive from Industry City ~15-20 min via Prospect Expwy → BQE depending on Sat traffic.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/westville-dumbo-brooklyn-3",
-        "accessed": "2026-05-17T06:40:00Z"
-      },
-      {
         "url": "https://westville.com/locations/westville-dumbo/",
-        "accessed": "2026-05-17T06:40:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
         "url": "https://www.opentable.com/r/westville-dumbo-brooklyn",
-        "accessed": "2026-05-17T06:40:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d12201736-Reviews-Westville_Dumbo-Brooklyn_New_York.html",
-        "accessed": "2026-05-17T06:40:00Z"
+        "url": "https://www.yelp.com/biz/westville-dumbo-brooklyn-3",
+        "accessed": "2026-05-18T06:10:00Z"
+      },
+      {
+        "url": "https://www.findmeglutenfree.com/biz/westville-dumbo/6452244333854720",
+        "accessed": "2026-05-18T06:10:00Z"
       },
       {
         "url": "https://westville.com/menu/brunch/",
-        "accessed": "2026-05-17T06:40:00Z"
+        "accessed": "2026-05-18T06:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T06:40:25.733Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T06:11:14.900Z"
   },
   {
     "id": "the-river-cafe",
@@ -34442,10 +34435,10 @@
   {
     "id": "red-hook-lobster-pound",
     "name": "Red Hook Lobster Pound",
-    "desc": "OG Brooklyn lobster shack on Van Brunt — Maine-style rolls, buttery or mayo, plus full clam-bake boils",
-    "longDesc": "Red Hook Lobster Pound at 284 Van Brunt has been the neighborhood's seafood anchor since 2009, serving Maine-sourced lobster rolls (Connecticut-style warm-butter or Maine-style cold-mayo) alongside whole steamed lobsters, clam chowder, and seafood boils with crab legs, mussels, and shrimp. The dining room is unfussy and casual — picture wooden tables, beer on draft, and the kind of plastic-bib boil setup that makes it a fun second-dinner option in the same Van Brunt strip as Hometown BBQ and Sunny's. Outdoor patio reopens April 2026; indoor seating is open year-round and reservations run through Resy.",
+    "desc": "Brooklyn's New England-style lobster roll counter on Van Brunt — the alt-foodie seafood anchor.",
+    "longDesc": "A 15-year Red Hook institution on Van Brunt Street serving Maine and Connecticut-style lobster rolls on buttery toasted buns, plus the cult Cobbster salad and a tight raw-bar/clam-chowder lineup. Indoor dining and takeout 7 days; outdoor dining reopens May 2026. Reservations on Resy, but the counter handles walk-ins faster than Hometown BBQ's line.",
     "url": "https://www.redhooklobster.com/location/red-hook/",
-    "photoUrl": "",
+    "photoUrl": "https://images.getbento.com/accounts/20d35eb81f5b363e6b819aeb48944268/media/images/SummerHH.jpg",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
@@ -34456,28 +34449,24 @@
       "gluten-free"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-22:00 (last seating 21:30), Sun 12:00-21:00 (last seating 20:30)",
-    "notes": "Address: 284 Van Brunt St, Brooklyn, NY 11231 — same 10-min-walk cluster as Hometown BBQ (454 Van Brunt), Sunny's (253 Conover), and Botanica (220 Conover), so it pairs cleanly with bar-hopping after dinner (redhooklobster.com). Drive from Industry City via 3rd Ave → Van Brunt is ~10 min on a weekend; street parking in Red Hook is generally easy after 6pm given the lack of subway access. Reservations on Resy recommended for parties of 4+ on weekend nights. Lobster roll runs ~$36 market price; boils $50-80. Outdoor patio closed until April 2026 per their site (redhooklobster.com/location/red-hook).",
+    "duration": "45-60 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-21:00",
+    "notes": "284 Van Brunt St, Brooklyn NY 11231 — same Van Brunt strip as Hometown BBQ and Fort Defiance, so it slots into a Red Hook cluster cleanly. Last seating Sat 21:30 / Sun 20:30. Resy reservations + walk-in counter; street parking on Van Brunt and side streets (Pioneer, Verona) is generally available weekends since the neighborhood is off the subway grid. Outdoor patio reopens May 2026 (source: redhooklobster.com). Strong photo backdrop with the harbor 3 blocks west toward Valentino Pier.",
     "sources": [
       {
         "url": "https://www.redhooklobster.com/location/red-hook/",
-        "accessed": "2026-05-17T22:45:00Z"
-      },
-      {
-        "url": "https://www.redhooklobster.com/menus/",
-        "accessed": "2026-05-17T22:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/red-hook-lobster-pound-brooklyn",
-        "accessed": "2026-05-17T22:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T22:52:56.470Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T06:17:10.146Z"
   },
   {
     "id": "tavern-next-door",
@@ -38343,5 +38332,44 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T06:02:52.925Z"
+  },
+  {
+    "id": "washington-street-dumbo-photo-spot",
+    "name": "Washington Street DUMBO (Manhattan Bridge View)",
+    "desc": "Cobblestone street between Front & Water that perfectly frames the Manhattan Bridge with the Empire State peeking through.",
+    "longDesc": "Stand on Washington Street between Front and Water and the Manhattan Bridge's blue-steel arch lines up dead-center between the old red-brick warehouses, with a sliver of the Empire State Building stacked behind it. It's the single most photographed corner in Brooklyn — wedding shoots, film crews and tourists all queue here. Go at sunrise (6:30-7:30 AM) for empty cobblestones and warm light, or right at golden hour; weekend midday is a circus.",
+    "url": "https://www.nyctourism.com/attractions-tours/washington-street-between-front-and-water-streets-dumbo/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "24/7 (public street)",
+    "notes": "Best framing is from the middle of Washington St looking north toward the bridge; the Empire State Building lines up in the arch (nyctourism.com). Cobblestones are uneven — flat shoes for shoots. Pairs naturally with Jane's Carousel (3 min walk) and Time Out Market for a DUMBO photo-vibe mini-track. Street parking is brutal on weekends; use the Brooklyn Bridge Park lot on Plymouth/Adams or the garage at 81 Prospect St (~$25 flat weekend rate).",
+    "sources": [
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/washington-street-between-front-and-water-streets-dumbo/",
+        "accessed": "2026-05-18T06:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/dumbo-manhattan-bridge-view-brooklyn",
+        "accessed": "2026-05-18T06:10:00Z"
+      },
+      {
+        "url": "https://thewanderlover.com/dumbo-manhattan-bridge-view/",
+        "accessed": "2026-05-18T06:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:09:17.306Z"
   }
 ]
