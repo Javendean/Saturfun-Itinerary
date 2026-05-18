@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Commerce Inn West Village — Sodi/Williams Shaker-inspired American tavern",
-    "reason": "Fourth sibling in the family; expands the same operator's footprint into a different cuisine for variety on a multi-stop track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:46:32.640Z"
-  },
-  {
-    "topic": "Buvette West Village — Jody Williams' original gastrothèque on Grove St",
-    "reason": "Williams' solo project and the seed of the whole family; rounds out a 'Williams/Sodi pilgrimage' track for foodie users",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:46:32.640Z"
-  },
-  {
-    "topic": "Baby Luc's slice shop Carroll Gardens — Lucali walk-in spinoff",
-    "reason": "Same kitchen lineage, no-wait slice format; perfect fallback if Lucali waitlist is closed",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:48:37.368Z"
-  },
-  {
-    "topic": "Frankies 457 Court Street Carroll Gardens — Italian garden dining",
-    "reason": "Walkable from Lucali, strong back-garden vibe; pairs as a Carroll Gardens dinner alt",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:48:37.369Z"
-  },
-  {
-    "topic": "Court Street Grocers Carroll Gardens — sandwich shop",
-    "reason": "Daytime food anchor in the same cluster, expands the Carroll Gardens track beyond dinner",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:48:37.369Z"
-  },
-  {
     "topic": "Frankies 457 Spuntino Carroll Gardens weekend brunch garden",
     "reason": "Iconic Court St farm-to-table Italian with back garden — direct Carroll Gardens brunch replacement for the Buttermilk Channel slot and a true peer in the same block radius.",
     "requestedBy": "agent",
@@ -18244,5 +18214,71 @@
     "reason": "User's hard constraint is driving from IC; need a Brooklyn proxy for the Pisellino vibe so the corpus has a non-Manhattan default",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T15:33:41.127Z"
+  },
+  {
+    "topic": "Bar Pisellino West Village — Sodi/Williams aperitivo cafe sibling",
+    "reason": "Rounds out the Sodi/Williams family corpus as a daytime/aperitivo option that pairs with Commerce Inn dinner on the same West Village mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:35:52.726Z"
+  },
+  {
+    "topic": "Shaker Museum at Mount Lebanon (Hudson Valley) — design pilgrimage reference",
+    "reason": "Commerce Inn's design source; useful as a 'curious' enrichment link in longDesc tooltips even if not a venue in the radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:35:52.726Z"
+  },
+  {
+    "topic": "August Laura Carroll Gardens — Brooklyn candlelit cocktail tavern alternative",
+    "reason": "If user wants the Commerce Inn mood (intimate, low-light, craft cocktails) but inside the 15-min IC radius, August Laura is the strongest Brooklyn analogue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:35:52.726Z"
+  },
+  {
+    "topic": "Bar Pisellino West Village — Williams/Sodi Italian aperitivo bar across from Via Carota",
+    "reason": "Completes the Williams/Sodi pilgrimage track; tiny standing-room cicchetti spot, perfect aperitivo stop before/after Buvette",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:37:43.889Z"
+  },
+  {
+    "topic": "I Sodi West Village — Rita Sodi's Tuscan original on Christopher St (relocated 2023)",
+    "reason": "Other half of the Williams/Sodi origin story; lasagna by reservation, anchors the pilgrimage track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:37:43.889Z"
+  },
+  {
+    "topic": "Commerce Inn West Village — Williams & Sodi's American Shaker-inspired tavern",
+    "reason": "Newest Williams/Sodi venture (2022), extends the pilgrimage beyond the Italian/French pair into their American chapter",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:37:43.889Z"
+  },
+  {
+    "topic": "F&F Pizzeria Carroll Gardens — Frank Pinello slice shop on Bergen St",
+    "reason": "Adjacent walk-in slice option in same zone, complements Baby Luc's as a secondary pizza pin",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:40:01.446Z"
+  },
+  {
+    "topic": "Buttermilk Channel 524 Court Street Carroll Gardens — American comfort + brunch",
+    "reason": "Two blocks south of Frankies; rounds out a Carroll Gardens cluster with a brunch-side anchor for daytime tracks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:42:16.119Z"
+  },
+  {
+    "topic": "Sam's Restaurant 238 Court Street Cobble Hill — old-school red-sauce Italian since 1930",
+    "reason": "Walkable north on Court; gives the corpus a vintage-Italian counterpart to Frankies' more contemporary menu",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:42:16.119Z"
+  },
+  {
+    "topic": "Court Street Grocers 485 Court Street Carroll Gardens — sandwich counter",
+    "reason": "Quick-grab lunch directly across from Frankies; fills the casual/under-30-min slot in the same micro-zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:42:16.119Z"
+  },
+  {
+    "topic": "Mazzola Bakery Carroll Gardens lard bread",
+    "reason": "Old-school Henry St bakery for a 10-min morning bread stop in the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:44:30.757Z"
   }
 ]
