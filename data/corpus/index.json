@@ -9830,44 +9830,40 @@
   {
     "id": "brooklyn-creative-reuse",
     "name": "Brooklyn Creative Reuse",
-    "desc": "Nonprofit reused-materials shop + weekend craft workshops (zines, weaving, collage) inside Industry City.",
-    "longDesc": "Brooklyn Creative Reuse is a nonprofit that rescues art supplies from the landfill and resells them cheaply, while teaching artists run rotating weekend workshops — scrap-fabric weaving, wand-making, hand quilting, zines, collage, upcycled jewelry — using those reclaimed materials. The brick-and-mortar shop opened at Industry City Space C244 in April 2026 and runs Wed–Sun. It's an affordable, hands-on counterweight to a forge or pottery stop on the same IC track, with kid-friendly slots most weekends.",
+    "desc": "Nonprofit creative-reuse art-supply shop and workshop space inside Industry City Building 2.",
+    "longDesc": "Brooklyn Creative Reuse (BCR) is a nonprofit that diverts donated art supplies — fabric, yarn, paint, markers, sewing machines, office supplies — from landfills and resells them at thrift-shop prices, then layers in workshops (collage, zine-making, hand quilting, still life). It opened its first brick-and-mortar at Industry City Building 2, Space C244 in April 2026 and is a stated workshop partner of Acorn Craft Shop. Weekend studio hours are Fri–Sun 11:00–18:00 (Wed–Thu 14:00–19:00).",
     "url": "https://brooklyncreativereuse.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "1.5-3 hr",
+    "duration": "45-60 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Fri-Sun 11:00-18:00 (workshops scheduled Sat 10:00-12:00 and Sun 13:00-16:00 windows)",
-    "notes": "Located at 254 36th Street, Space C244, inside Industry City — same complex as Japan Village, Sahadi's, ICFM (brooklyncreativereuse.org). Workshops booked via Zeffy; sample upcoming weekends include Scrap Fabric Weaving (Sun 1-4pm), Wand-Making with Carousel (Sat 10am-12pm), T-Shirt Yarn (Sat 6-8pm), Upcycled Plastic Earrings (Fri 7-9pm) (brooklyncreativereuse.org/events). Mission focuses on LGBTQIA+, BIPOC, and low-income makers; supplies are donation-priced (brooklynpaper.com). Zine Club is a recurring drop-in for DIY bookmaking. No parking on-site but IC has a paid lot at 32nd-39th Street entrances.",
+    "hoursWeekend": "11:00-18:00",
+    "notes": "Located at 254 36th St, Building 2, Space C244, Sunset Park (inside Industry City itself — same complex as the anchor, not Prospect Heights as the topic prompt assumed). Workshops booked on their Events page; collage and zine sessions are recurring. IC has on-site paid parking lots. Founder: Stephanie O'Brien. Workshop partnership with Acorn Craft Shop makes this the natural starting point of a crafts mini-track that can extend up to Park Slope/Prospect Heights via short drive (source: brownstoner.com, brooklyncreativereuse.org).",
     "sources": [
       {
-        "url": "https://brooklyncreativereuse.org/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://brooklyncreativereuse.org/events",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.brooklynpaper.com/brooklyn-creative-reuse-opens-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
         "url": "https://www.brownstoner.com/brooklyn-life/brooklyn-creative-reuse-open-industry-city/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://brooklyncreativereuse.org/",
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://brooklyncreativereuse.org/contact",
+        "accessed": "2026-05-18T22:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:37:15.354Z"
+    "lastResearchedAt": "2026-05-18T21:58:29.267Z"
   },
   {
     "id": "bklyn-clay-prospect-heights",
@@ -47989,5 +47985,176 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T21:50:23.231Z"
+  },
+  {
+    "id": "brooklyn-brainery-knife-skills",
+    "name": "Brooklyn Brainery — Knife Skills Workshop",
+    "desc": "Affordable, casual knife-skills class in a community classroom — chop, dice, mince + sharpening basics.",
+    "longDesc": "Brooklyn Brainery is the borough's beloved cheap-and-cheerful continuing-ed spot, running short hands-on workshops out of a tiny Prospect Heights storefront at 190 Underhill Ave. Their knife-skills sessions cover proper grip, safety, sharpening on a stone, and the standard cuts (chop / dice / mince, plus paysanne, brunoise, and chiffonade) — historically around 2 hours with vegetables provided. A lower-commitment, lower-price alternative to The Brooklyn Kitchen or ICE for someone curious rather than career-bound.",
+    "url": "https://brooklynbrainery.com/courses/knife-skills-workshop",
+    "photoUrl": "https://s3.amazonaws.com/bkbrains/images/courses/000/000/955/Knife_Sharpened_on_Steel_(1)_bio.jpg?1412777874",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "2-2.5 hr",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "varies by session (check calendar)",
+    "notes": "Cheapest knife-skills option in the corpus — Brainery classes historically sit ~$30-80 vs. $125+ at The Brooklyn Kitchen (ediblebrooklyn.com). Multiple knife sessions in their catalog (Workshop / Slicing Through the Basics / 2.0 / Sharpening Online) but several are currently archived — confirm next session by email info@brooklynbrainery.com or 201-500-8628 before booking (brooklynbrainery.com). Vegetarian meal/snacks typically included. Tiny classroom, ~12 seats, books up fast. Closest trains B/Q 7th Ave or 2/3 Grand Army Plaza but driving from IC is cleaner — Underhill is a residential block with usually-findable weekend street parking, alternate-side suspended Sundays. Pair with Olmsted, Faun, or Ample Hills/Brooklyn Bagel within 5-block walking radius post-class.",
+    "sources": [
+      {
+        "url": "https://brooklynbrainery.com/courses/knife-skills-workshop",
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://brooklynbrainery.com/courses/knife-skills-slicing-through-the-basics",
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://brooklynbrainery.com/courses/knife-skills-2-0",
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://brooklynbrainery.com/locations/prospect-heights",
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://www.ediblebrooklyn.com/2020/new-york-city-brooklyn-cooking-class/",
+        "accessed": "2026-05-18T22:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T21:53:03.057Z"
+  },
+  {
+    "id": "brooklyn-kitchen-industry-city",
+    "name": "The Brooklyn Kitchen (Industry City) — CURRENTLY CLOSED FOR CLASSES",
+    "desc": "Former culinary school at Industry City; no longer running classes per their own FAQ (real-estate issues)",
+    "longDesc": "The Brooklyn Kitchen moved its cooking-class hub to Industry City (220 36th St) in 2017, teaching pasta-making (Pasta 101/201) and a hands-on whole-hog butchery class with Fleishers. As of late 2025/early 2026 their own Experience/FAQ page states they are no longer offering classes in Brooklyn due to real-estate complications. The corporate brand (knives, retail) survives, but the class arm is dormant.",
+    "url": "https://www.thebrooklynkitchen.com/experience/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2-3 hr",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Closed for classes",
+    "notes": "DO NOT SCHEDULE — venue confirms class operations are paused (thebrooklynkitchen.com FAQ, 'no longer offering classes in Brooklyn'). Historical context retained because the venue may resume; Gothamist documented the original IC build-out (gothamist.com 2017). If users specifically search 'Brooklyn Kitchen pasta class', surface a live alternative from enqueue instead. Re-check status every ~90 days via info@thebrooklynkitchen.com or their FareHarbor page.",
+    "sources": [
+      {
+        "url": "https://www.thebrooklynkitchen.com/experience/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.thebrooklynkitchen.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/inside-brooklyn-kitchens-temple-to-home-economics-in-industry-city",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/sunset-park/brooklyn-kitchen-moving-industry-city",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": false,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T21:56:16.714Z"
+  },
+  {
+    "id": "little-skips-east",
+    "name": "Little Skips East (PERMANENTLY CLOSED)",
+    "desc": "Former neighborhood coffee bar at Broadway/Covert — closed, do not route guests here",
+    "longDesc": "Little Skips East was a vegan-friendly indie cafe at 1643 Broadway on the Bushwick/Bed-Stuy border, sibling to the original Little Skips on Willoughby Ave. Both locations are now permanently closed per Yelp and Foursquare (verified May 2026). Foursquare lists the East location as 'Now Closed' and Yelp's April 2026 update confirms both shuttered; the official littleskips.nyc site has an expired SSL certificate, another signal the business is no longer maintained.",
+    "url": "https://www.yelp.com/biz/little-skips-east-brooklyn-2",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "DO NOT SCHEDULE — permanently closed. Originally pitched as 8-min drive from Acorn workshop, but address (1643 Broadway) is in Bushwick proper, not Bed-Stuy/Crown Heights as the task description implied. Yelp marks 'CLOSED' on both Little Skips locations as of April 2026 (yelp.com/biz/little-skips-east-brooklyn-2). Foursquare confirms 'Now Closed' (foursquare.com/v/little-skips-east). Official site littleskips.nyc returns expired-certificate error, suggesting domain abandoned. Keep this record so the corpus knows to skip; route to a viable Crown Heights/Bed-Stuy cafe instead via enqueue alternatives.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/little-skips-east-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/little-skips-east/59518aed9b04731d54ac3740",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/little-skips-brooklyn-5",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T22:00:33.570Z"
+  },
+  {
+    "id": "olmsted-closed",
+    "name": "Olmsted (Permanently Closed)",
+    "desc": "Greg Baxtrom's farm-to-table Prospect Heights gem; closed Aug 17, 2025 after nearly a decade.",
+    "longDesc": "Olmsted was Chef Greg Baxtrom's 50-seat New American restaurant at 659 Vanderbilt Ave, with a working backyard garden tended by co-owner Ian Rothman. Known for seasonal tasting menus and a Frederick Law Olmsted homage, it served its last service on August 17, 2025 — Baxtrom cited prioritizing his mental health over the restaurants. Do not route guests here; use as a historical marker for the Prospect Heights cluster and prefer Faun or James as the foodie anchor instead.",
+    "url": "https://www.google.com/maps/place/659+Vanderbilt+Ave,+Brooklyn,+NY+11238",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "permanently closed",
+    "driveFromIC": "16 min",
+    "hoursWeekend": "permanently closed (last service 2025-08-17)",
+    "notes": "PERMANENTLY CLOSED 2025-08-17 per Time Out NY and Patch (https://www.timeout.com/newyork/news/this-iconic-brooklyn-restaurant-is-closing-after-nearly-a-decade-080525). Baxtrom indicated the restaurants 'no longer have the capacity to meet the standards' he requires. Yelp listing also shows CLOSED. Storefront at 659 Vanderbilt Ave may be reused — re-research before promoting any successor. Substitutes for the Prospect Heights weekend-lunch anchor role: Faun (606 Vanderbilt), James Restaurant (605 Carlton), Cafe Mado (367 Park Pl).",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/news/this-iconic-brooklyn-restaurant-is-closing-after-nearly-a-decade-080525",
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://patch.com/new-york/prospectheights/popular-eatery-set-close-after-nearly-decade-brooklyn",
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/olmsted-brooklyn",
+        "accessed": "2026-05-18T22:00:00Z"
+      },
+      {
+        "url": "https://whatnow.com/new-york/restaurants/beloved-brooklyn-restaurant-from-chef-baxtrom-closes-august-17/",
+        "accessed": "2026-05-18T22:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T22:02:58.949Z"
   }
 ]

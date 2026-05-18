@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Brooklyn Brainery Knife Skills Workshop (Prospect Heights)",
-    "reason": "Cheaper, shorter knife-skills option ~20 min drive from IC; expands corpus with a casual/curious price tier",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:52:36.089Z"
-  },
-  {
-    "topic": "The Brooklyn Kitchen — Pasta Making or Butchery class (Industry City)",
-    "reason": "Same venue, adjacent skill — lets the itinerary engine offer a 'cooking class' track in IC even when knife skills isn't scheduled that weekend",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:52:36.089Z"
-  },
-  {
-    "topic": "Brooklyn Creative Reuse (BCR) main location and weekend studio hours",
-    "reason": "Acorn's collage workshop partner — anchor of a Prospect Heights crafts mini-track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:54:57.899Z"
-  },
-  {
-    "topic": "Little Skips East cafe Bed-Stuy/Crown Heights for pre-workshop coffee",
-    "reason": "Pairs with Acorn 11am opening; 8-min drive, fills the food slot on a crafts day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:54:57.899Z"
-  },
-  {
-    "topic": "Olmsted restaurant 659 Vanderbilt Ave Prospect Heights weekend lunch",
-    "reason": "Walkable from Acorn; rounds out a Prospect Heights cluster with foodie anchor 15-18 min from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:54:57.899Z"
-  },
-  {
     "topic": "Textile Arts Center Gowanus weekend natural-dye and weaving workshops",
     "reason": "Adds a soft-craft maker venue to balance Powerhouse's heavy fabrication; ~8 min drive from IC, walkable to Powerhouse for a combo track",
     "requestedBy": "agent",
@@ -20218,5 +20188,107 @@
     "reason": "Lower-intensity foodie-skills alternative inside IC itself for users who want learning without a 2.5-hour commitment",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T21:50:23.274Z"
+  },
+  {
+    "topic": "Olmsted (Prospect Heights) — tasting-menu dinner pairing",
+    "reason": "Greg Baxtrom's garden-to-table flagship sits 4 blocks from Brainery; natural post-class dinner upgrade in same zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:53:03.098Z"
+  },
+  {
+    "topic": "Faun (Prospect Heights) — wood-fired Italian dinner pairing",
+    "reason": "Another walkable post-Brainery dinner anchor; expands Prospect Heights food density beyond Olmsted alone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:53:03.098Z"
+  },
+  {
+    "topic": "Brooklyn Brainery — Fermentation 101 or pasta-making workshop",
+    "reason": "Same-venue alternative for users who want a curious/foodie class but already know knife basics; broadens the cheap-workshop tier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:53:03.098Z"
+  },
+  {
+    "topic": "Cork & Slice Brooklyn — Classic Pasta Making Class (BYOB, weekend slots)",
+    "reason": "Active replacement for the cooking-class track slot; BYOB pasta class is a strong group-of-artists fit and currently bookable, unlike Brooklyn Kitchen",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:56:16.753Z"
+  },
+  {
+    "topic": "Eataly Cucina — pasta and pizza classes (Flatiron / Downtown, ~25-30 min from IC)",
+    "reason": "Reliable, well-staffed pasta class with weekend availability; only candidate to justify a Manhattan-side cooking-class option for the engine",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:56:16.753Z"
+  },
+  {
+    "topic": "Cozymeal pasta-making host kitchens in Park Slope / Carroll Gardens",
+    "reason": "Small-group private-chef pasta classes inside 10-15 min of IC; fills the 'cooking class' track without leaving the driving cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:56:16.753Z"
+  },
+  {
+    "topic": "Fleishers Craft Butchery (Park Slope) — whole-animal butchery workshops",
+    "reason": "Original Brooklyn Kitchen butchery partner; runs its own classes independently and is ~12 min from IC, directly replacing the butchery half of the original query",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:56:16.753Z"
+  },
+  {
+    "topic": "Acorn Craft Shop — Prospect Heights craft store and BCR workshop partner: address, weekend hours, drive time from IC",
+    "reason": "Named partner of BCR; completes the crafts mini-track and is the actual Prospect Heights anchor the original topic was reaching for",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:58:29.300Z"
+  },
+  {
+    "topic": "Big Reuse Gowanus (1 12th St, Brooklyn) — building-materials and craft reuse warehouse near IC",
+    "reason": "Sister creative-reuse concept ~5 min drive from IC; pairs naturally with BCR for a sustainability/maker-themed track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:58:29.301Z"
+  },
+  {
+    "topic": "Materials for the Arts (MFTA) Long Island City — NYC's flagship creative-reuse warehouse",
+    "reason": "Worth confirming public-access policy; if open to non-DOE/teaching-artists, it's a one-of-a-kind extension; otherwise filter out",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:58:29.301Z"
+  },
+  {
+    "topic": "Saraghina Caffe Bed-Stuy coffee + pastry pre-workshop pairing",
+    "reason": "Replaces closed Little Skips East — strong wood-fired pastry program in Bed-Stuy, walkable Italian-cafe vibe, parking on Halsey St; natural pre-Acorn anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:00:33.607Z"
+  },
+  {
+    "topic": "The Crown Inn cafe Crown Heights Franklin Ave morning coffee",
+    "reason": "Crown Heights neighborhood cafe steps from Acorn-area workshops; cleaner geographic fit than Bushwick",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:00:33.607Z"
+  },
+  {
+    "topic": "Hungry Ghost Coffee Bar Bed-Stuy Fulton St weekend hours",
+    "reason": "Mini-chain with reliable weekend hours, espresso quality, sidewalk seating — fills the 'before workshop' coffee slot the closed Little Skips was meant to fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:00:33.608Z"
+  },
+  {
+    "topic": "Faun restaurant 606 Vanderbilt Ave Prospect Heights weekend brunch wood-fired pasta",
+    "reason": "Two doors from Olmsted's old space; preserves the foodie anchor on Vanderbilt with confirmed weekend brunch and a garden-patio vibe — strongest direct replacement",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:02:58.983Z"
+  },
+  {
+    "topic": "James Restaurant 605 Carlton Ave Prospect Heights weekend brunch New American",
+    "reason": "Neighborhood mainstay with seasonal New American menu and weekend brunch service, walkable to Acorn — fills the chef-driven lunch slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:02:58.983Z"
+  },
+  {
+    "topic": "Cafe Mado 367 Park Pl Prospect Heights vegetarian-friendly brunch coffee",
+    "reason": "Veg-leaning, photogenic, weekend brunch — adds dietary diversity and a chiller pace to the Prospect Heights cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:02:58.983Z"
+  },
+  {
+    "topic": "Patti Ann's 570 Vanderbilt Ave Prospect Heights Greg Baxtrom Midwestern weekend lunch status check",
+    "reason": "Baxtrom's other Vanderbilt Ave concept — verify whether it survived the 2025 closure wave before recommending or replacing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:02:58.983Z"
   }
 ]
