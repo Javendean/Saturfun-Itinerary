@@ -13592,49 +13592,46 @@
   },
   {
     "id": "books-are-magic-cobble-hill",
-    "name": "Books Are Magic (Cobble Hill)",
-    "desc": "Emma Straub's flagship indie bookstore on Smith Street — perfect Lucali-wait browse spot.",
-    "longDesc": "Founded in 2017 by novelist Emma Straub and her husband Michael Fusco-Straub to fill the void left by BookCourt, Books Are Magic has become Cobble Hill's literary anchor — bright, modern, with a sunken back room full of kids' books and a tightly curated frontlist. Walk-in friendly, knowledgeable staff, frequent author events (booksaremagic.net), and a famously photogenic 'Books Are Magic' mural on the corner of Butler St. Three blocks south of Lucali — the natural place to park your 90-minute pizza wait.",
+    "name": "Books Are Magic",
+    "desc": "Emma Straub's flagship indie bookshop — sunlit Smith St browsing with a famous painted mural outside",
+    "longDesc": "Novelist Emma Straub and Michael Fusco-Straub's beloved indie, opened in 2017 at the corner of Smith and Butler. The shop is known for curated new fiction, a sunken kid-lit back room, and frequent author events; the side-wall mural ('A Lot Like Falling in Love') is a near-mandatory Cobble Hill photo stop. Pairs perfectly with a Court Street coffee + Smith Street stroll.",
     "url": "https://www.booksaremagic.net/",
-    "photoUrl": "https://images.ctfassets.net/1aemqu6a6t65/2gRMeSFmML6cQcaODUyNjd/ed8379fb11cd0172e7773f41b692978d/All-In-NYC_Books_Are_Magic?w=1200&h=800&q=75",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
+      "curious",
       "chill",
-      "curious"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "10:00-18:00",
-    "notes": "225 Smith St, Brooklyn NY 11231; (718) 246-2665. Open daily 10am-6pm (Yelp, nyctourism.com). Pairs naturally with a Lucali walk-in wait — Lucali is at 575 Henry St, ~5-min walk south. Street parking on Smith/Court can be tight on Saturday afternoons; metered spots turn over. Mural at Butler St corner is a photo magnet (Time Out, 2017). Don't confuse with the smaller 122 Montague St Brooklyn Heights branch — Cobble Hill is the original and larger of the two (Crain's, amNewYork).",
+    "notes": "Original Smith St flagship (Brooklyn Heights/Montague branch is separate). Weekend hours Sat–Sun 10am–6pm (yelp.com, nyctourism.com). Street parking on Butler/Bergen is realistic on weekends; the Trader Joe's lot on Court is a paid fallback. Phone (718) 246-2665. Iconic painted mural on the exterior wall makes for a strong photo-vibe stop even if you don't browse long.",
     "sources": [
       {
         "url": "https://www.booksaremagic.net/",
-        "accessed": "2026-05-16T21:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/books-are-magic-brooklyn",
-        "accessed": "2026-05-16T21:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/shopping/books-are-magic/",
-        "accessed": "2026-05-16T21:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nycbookstores.org/books-are-magic-smith-st/",
-        "accessed": "2026-05-16T21:05:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/blog/a-cute-new-indie-book-store-just-opened-in-cobble-hill-050217",
-        "accessed": "2026-05-16T21:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T21:11:37.174Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:51:32.129Z"
   },
   {
     "id": "court-street-grocers-cobble-hill",
@@ -16506,47 +16503,44 @@
   {
     "id": "mazzola-bakery",
     "name": "Mazzola Bakery",
-    "desc": "1928 Carroll Gardens Italian bakery famous for lard bread studded with salami and provolone",
-    "longDesc": "Founded by Nicolo Mazzola in 1928, this Union Street institution still bakes lard bread the original way — dough kneaded with Genoa salami, provolone, black pepper and lard, with close to 3,000 loaves moving during the Christmas rush. Pair the lard bread with a sfogliatella or lobster tail and eat it on a Carroll Gardens stoop while the Lucali wait ticks down four blocks away.",
+    "desc": "1928 Carroll Gardens corner bakery famous for lard bread studded with prosciutto and provolone.",
+    "longDesc": "Mazzola Bakery has held down the corner of Union and Henry since 1928, and its signature lard bread — a soft, golden loaf shot through with cured pork and provolone — is the reason regulars line up early on weekends. Pair a warm half-loaf with a black-and-white cookie or a lemon-iced lard bread for the road, then walk Court Street for the rest of the food crawl. They reportedly move close to 3,000 lard loaves around the holidays, so weekend mornings are the smart window before the bins empty (bklyner).",
     "url": "https://mazzolabakerycafe.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
       "foodie",
-      "chill",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "10 min",
+    "duration": "15-30 min",
+    "driveFromIC": "12 min",
     "hoursWeekend": "07:00-19:00 Sat, 07:00-18:00 Sun",
-    "notes": "Cash-friendly old-school counter; lard bread is the must-grab (Bklyner: ~3,000 holiday loaves). Operationally great as a Lucali wait-bridge — 4 blocks from 575 Henry St. Weekend street parking on Union/Columbia is reasonable; avoid double-parking near the corner. (yelp.com, mazzolabakerycafe.com, bklyner.com)",
+    "notes": "192 Union St at Henry, Carroll Gardens — one block from Court St food spine, perfect first stop on a mini food-crawl track (nyctourism). Lard bread is the headliner; black-and-whites, sfogliatelle, and prosciutto bread are also originals (bklyner). Cash-friendly old-school counter; expect a line Saturday mornings. Street parking on Union/Henry usually viable before 10am.",
     "sources": [
       {
         "url": "https://mazzolabakerycafe.com/",
-        "accessed": "2026-05-18T07:35:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/mazzola-bakery-brooklyn",
-        "accessed": "2026-05-18T07:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://bklyner.com/lard-bread-is-a-holiday-tradition-at-this-90-year-old-brooklyn-bakery/",
-        "accessed": "2026-05-18T07:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/mazzola-bakery-carroll-gardens/",
-        "accessed": "2026-05-18T07:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mazzola-bakery-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T07:44:12.442Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:45:51.339Z"
   },
   {
     "id": "hamilton-ave-lorraine-st-bqe-exit",
@@ -29235,8 +29229,8 @@
   {
     "id": "bien-cuit",
     "name": "Bien Cuit",
-    "desc": "Chef Zachary Golper's dark-baked French breads and croissants on Smith Street.",
-    "longDesc": "Bien Cuit (\"well done\" in French) is Chef Zachary Golper's flagship bakery in Cobble Hill/Boerum Hill, known for deeply caramelized crusts on baguettes and miches plus a rotating cast of croissants — pain au chocolat, almond, almond-chocolate, ham-and-brie, and seasonal artichoke-and-goat-cheese. Exposed brick interior with a small hidden garden patio out back; coffee, quiche, and sandwiches available to-stay or to-go. Almond croissants regularly sell out by 10am on weekends, so this is a morning-anchor stop.",
+    "desc": "Boerum Hill bakery on Smith St famous for dark, long-fermented sourdough and laminated pastries.",
+    "longDesc": "Chef Zachary Golper's Smith Street flagship turns out deeply caramelized 'well-baked' miche, baguettes, and a marquee kouign-amann that's been on best-of lists for years. Walk-up counter with a small cafe sit-down; perfect morning bookend with Bar Tabac three blocks south. Espresso and seasonal pastries rotate weekly.",
     "url": "https://www.biencuit.com/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -29244,38 +29238,30 @@
     "vibe": [
       "foodie",
       "chill",
-      "photo"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "13 min",
     "hoursWeekend": "07:00-19:00",
-    "notes": "Open 7am-7pm every day including Sat/Sun (Yelp Apr 2026). Get there before 10am on weekends — almond croissants and pain au chocolat regularly sell out (Infatuation, NYC.com). No dedicated lot; metered street parking on Smith St / side streets (Bergen, Pacific, Dean) — generally easier before 10am, tight by brunch. Small interior seating + hidden back garden patio. Pairs naturally with a Smith St / Court St walk to a Cobble Hill lunch or coffee follow-up.",
+    "notes": "120 Smith St, Boerum Hill border with Cobble Hill — pairs as the morning anchor of the Smith St food spine with Bar Tabac (biencuit.com). Order the kouign-amann + miche slice; whole sourdoughs sell out by midafternoon on weekends. Street parking on Smith/Pacific, free Sundays. Transit: Bergen St (F,G) if not driving (biencuit.com). 448+ Yelp reviews, longstanding 4-star reputation (yelp.com).",
     "sources": [
       {
         "url": "https://www.biencuit.com/locations",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/bien-cuit-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/bien-cuit",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyc.com/restaurants/bien_cuit__cobble_hill.1132669/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T15:14:27.597Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:49:40.217Z"
   },
   {
     "id": "bing-li-pork-chop-house",
@@ -41627,5 +41613,100 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T11:24:30.841Z"
+  },
+  {
+    "id": "carroll-park-bocce-picnic",
+    "name": "Carroll Park",
+    "desc": "Brooklyn's third-oldest park — free bocce courts, shaded benches, hero-friendly picnic block.",
+    "longDesc": "A one-block neighborhood park bounded by Smith, Court, Carroll and President — Brooklyn's third-oldest public park, on city land since 1852. Two free first-come, first-served bocce courts have hosted Italian-American pickup play since the early 1900s; bring a 4-ball set and a hero from Defonte's or Mazzola two blocks away. Playground, benches, and a small lawn make it the natural non-food stop in the Court Street corridor.",
+    "url": "https://www.nycgovparks.org/parks/carroll-park/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "chill",
+      "active",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "06:00-22:00 (NYC Parks standard)",
+    "notes": "Bocce courts are walk-on, no permit needed — Saturday late morning is the busiest social window for pickup games with regulars (NYC Parks). Pair with a hero pickup from Defonte's (379 Court) or fresh mozzarella from Mazzola Bakery and picnic on the benches. Weekend street parking on Smith/Court is tight — patience required, or pre-book a SpotHero garage. Park entrance at 375 Court St.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/carroll-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/carroll-park/facilities/bocce",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://buybocceballs.com/blogs/all-things-bocce/best-bocce-courts-new-york-city-2026",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "http://www.friendsofcarrollpark.com/history",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/carroll-park-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:47:46.647Z"
+  },
+  {
+    "id": "la-vara",
+    "name": "La Vara",
+    "desc": "Michelin-listed Spanish tapas with Moorish & Sephardic-Jewish accents on Clinton St in Cobble Hill",
+    "longDesc": "Chef Alex Raij and Eder Montero's elegant Cobble Hill tapas room threads Spanish home cooking with Moorish and Sephardic Jewish traditions — huevos rellenos, judías a la plancha in bright romesco, and slow-roasted cochinillo with chimichurri (Michelin Guide). The space is small, low-lit, and reservation-only on weekends; treat it as the corridor's dinner ceiling above the Smith Street bistro tier.",
+    "url": "https://www.lavarany.com/",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5811527103596e29c7dbf760/cac49b7e-c05b-4bfa-b0cd-730bde96d9b4/Pic+003.jpeg",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "Sat-Sun 17:00-21:30",
+    "notes": "268 Clinton St, one block off Smith. Reservations essential — small dining room gets loud and books out (Yelp, Infatuation). Cuisine fuses Spanish + Moorish + Sephardic (Michelin Guide). Co-owners Alex Raij & Eder Montero also run Txikito and El Quinto Pino. Dinner-only on weekends per official site (lavarany.com); ignore older brunch listings on Yelp/OpenTable. Street parking in Cobble Hill is tight Saturday night — budget 10 min to circle or use Bergen St lots.",
+    "sources": [
+      {
+        "url": "https://www.lavarany.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/la-vara",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/la-vara",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/la-vara-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/La_Vara_(restaurant)",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T11:53:39.803Z"
   }
 ]
