@@ -7703,8 +7703,8 @@
   {
     "id": "japan-village",
     "name": "Japan Village",
-    "desc": "20,000 sq ft Japanese food hall + market inside Industry City — eat-and-go before catacombs",
-    "longDesc": "Japan Village is a 20,000-square-foot Japanese food-hall-and-market hybrid built into Industry City's Building 4, with ~10 stalls covering ramen, sushi, okonomiyaki, curry, taiyaki and Sunrise Mart groceries. Open until 9pm Friday/Saturday, it's the no-decision pre-tour dinner: park once at IC, eat fast at counter seating, walk back to the same lot for the 7pm catacombs check-in 5 minutes north.",
+    "desc": "20,000 sq ft Japanese food hall + Sunrise Mart grocery inside Industry City",
+    "longDesc": "A market/food-hall hybrid on IC's ground floor with the city's largest Sunrise Mart and a clutch of Japanese stalls (Hachi yakitori, ramen, curry, taiyaki, sake bar) wrapped around communal tables. Ideal as the warmup or wind-down for any IC-anchored track — grab a beer and karaage flight before a Brooklyn Kura tasting, or end the night with matcha soft-serve from the grocery side.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7712,38 +7712,43 @@
     "vibe": [
       "foodie",
       "chill",
-      "curious"
+      "curious",
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
+    "duration": "45-75 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-21:00",
-    "notes": "Located in Industry City Building 4 at 934 3rd Ave, Brooklyn (same parking lot as the IC anchor) — zero drive time, just walk over (industrycity.com). Food hall open Fri/Sat 11am-9pm, Sun 11am-8pm (yelp.com). Counter-service stalls make this the right move for an eat-and-go before a 7pm catacombs slot ~5 min north. Hachi (street food) closes earlier — 8pm Fri/Sat — so anchor on a stall like Sunrise Mart's prepared foods, the ramen counter, or okonomiyaki if arriving close to 8pm (japanvillage.com).",
+    "hoursWeekend": "Sat 11:00-21:00 (food hall to 20:30), Sun 11:00-20:00",
+    "notes": "Located inside Industry City Building 4 at 934 3rd Ave — zero drive time, walk from any IC anchor stop (Brooklyn Kura, Li-Lac, Frying Pan, etc.) (japanvillage.com, industrycity.com). Vendor hours vary; Hachi yakitori closes 20:00 Fri-Sat (japanvillage.com/eat-drink/hachi). Sunrise Mart side stays open later than the food court — useful for a late grocery-snack stop. Pair naturally with romantic/foodie tracks anchored at IC; communal seating means it works for groups but the sake counter at Hachi seats two well.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-17T12:45:00Z"
+        "url": "https://www.japanvillage.com/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-17T12:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink/hachi",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-17T12:45:00Z"
-      },
-      {
-        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
-        "accessed": "2026-05-17T12:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:52:00.846Z"
+    "lastResearchedAt": "2026-05-18T16:11:10.325Z"
   },
   {
     "id": "court-street-grocers",
@@ -9308,45 +9313,36 @@
   {
     "id": "handroll-bar-japan-village",
     "name": "Handroll Bar at Japan Village",
-    "desc": "Counter-service Japanese handrolls made-to-order inside Industry City's Japan Village food hall.",
-    "longDesc": "A small counter inside the Japan Village food hall at Industry City where chefs roll scallop, negi toro, and yellowtail temaki to order in front of you. Order individual rolls a la carte or a combo set, paired with a chilled sake cup. It's a fast, low-commitment alternative to the sit-down sushi spots elsewhere in the hall, and works well as a 30-minute stop before or after browsing the Japan Village marketplace.",
+    "desc": "Counter-side hand rolls — scallop, negi toro, yellowtail — made to order inside the Japan Village food hall.",
+    "longDesc": "A small sushi counter tucked inside Japan Village's 20,000 sq ft Industry City food hall, where nori is toasted and rolled in front of you. The short menu sticks to single hand rolls (scallop, negi toro, yellowtail) plus combo sets and sake cups, making it an easy hot/cold counter-pair with Hachi's grills two stalls over.",
     "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
     "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7d6d9c4042717138a0358_JV-%20handroll.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "see notes — official site lists Mon–Thu 3–6pm, Fri 12–8pm; weekend hours unconfirmed",
-    "notes": "Located inside Japan Village food hall at 934 3rd Ave, Industry City — same building anchor. Made-to-order temaki (scallop, negi toro, yellowtail) plus combos and sake cups (japanvillage.com). The stall's own page only publishes Mon–Thu 3–6pm and Fri 12–8pm; Japan Village as a whole is open weekends but this counter's Sat/Sun service should be confirmed by phone before slotting into a weekend track. Distinct from the sit-down Sushi Uesugi at the back of the hall (yelp.com).",
+    "hoursWeekend": "11:00-20:00 (food hall hours; stall opens with hall)",
+    "notes": "Inside Japan Village at 934 3rd Ave, Brooklyn (Industry City Building 5). Posted stall hours on official site are Mon–Thu 3–6pm, Fri 12–8pm; weekend coverage follows the food hall, so verify the stall window before arrival (source: japanvillage.com). Pairs naturally with Hachi grills for a cold/raw + hot/savory counter run. Free Industry City weekend parking lots are <2 min walk.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
-        "accessed": "2026-05-16T10:05:00Z"
+        "accessed": "2026-05-18T16:15:00Z"
       },
       {
-        "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-16T10:05:00Z"
-      },
-      {
-        "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-16T10:05:00Z"
-      },
-      {
-        "url": "https://m.yelp.com/biz/sushi-uesugi-brooklyn",
-        "accessed": "2026-05-16T10:05:00Z"
+        "url": "https://theexploreist.com/usa/japan-village-industry-city-culture-cuisine-experiences",
+        "accessed": "2026-05-18T16:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T10:08:23.350Z"
+    "lastResearchedAt": "2026-05-18T16:19:36.871Z"
   },
   {
     "id": "desert-island-comics",
@@ -11946,16 +11942,16 @@
   {
     "id": "brooklyn-kura",
     "name": "Brooklyn Kura",
-    "desc": "First sake brewery in NYC — tap room pours draft junmai and rare tap-only varieties inside Industry City.",
-    "longDesc": "Brooklyn Kura is America's first kura-style sake brewery, located inside Industry City Building 7. The tap room rotates draft junmai alongside tasting-room exclusives like shiboritate, nigori, and orizake, served with light snacks (cheese, charcuterie, nori). Brewery tours via Turnstile run weekends and explain the rice-to-bottle process — pairs well with a tea-ceremony or ramen stop in the same complex.",
+    "desc": "First NYC sake brewery — taproom inside Industry City, ideal omakase chaser.",
+    "longDesc": "Brooklyn Kura is the first sake brewery in New York State, brewing American craft sake on-site at Industry City since 2018 using rice, water, koji, and yeast (brooklynkura.com). The taproom pours flights, single pours, and bottles paired with rotating cocktail-style bites — a natural romantic second stop steps from a Sunset Park omakase counter with no drive between courses.",
     "url": "https://www.brooklynkura.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
-      "curious",
-      "foodie"
+      "romantic",
+      "foodie",
+      "curious"
     ],
     "dietary": [
       "vegetarian",
@@ -11963,31 +11959,23 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "0 min (inside IC)",
+    "driveFromIC": "0 min",
     "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
-    "notes": "Located at 68 34th St, Building 7 inside Industry City (industrycity.com tenant page). Tasting room closed Mon-Wed; Thu-Fri 16:00-21:00 (brooklynkura.com). Tap-only varieties (shiboritate, moromi, orizake) are the move — not available in retail bottles. Turnstile Tours runs guided brewery walkthroughs on select weekends (turnstiletours.com). Weekend parking is the IC garage on 32nd/33rd. Phone (347) 766-1601.",
+    "notes": "On-site at IC, 34 34th St, Brooklyn NY 11232 — same complex as most IC anchors so the romantic-track 'after omakase' transition is a short walk, not a drive (brooklynkura.com). They host seated family-style dinners as well as walk-in flights (brooklynkura.com). Sake is naturally gluten-free; vegetarian-friendly bites typical. Phone (347) 766-1601 for reservations if booking the dinner format.",
     "sources": [
       {
         "url": "https://www.brooklynkura.com/",
-        "accessed": "2026-05-17T12:25:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/brooklyn-kura/",
-        "accessed": "2026-05-17T12:25:00Z"
-      },
-      {
-        "url": "https://turnstiletours.com/brooklyn-kura-sake-brewery-industry-city/",
-        "accessed": "2026-05-17T12:25:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/brooklyn-kura-brooklyn",
-        "accessed": "2026-05-17T12:25:00Z"
+        "url": "https://thesushilegend.com/reviews/brooklyn-kura/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T12:25:15.356Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T16:15:36.859Z"
   },
   {
     "id": "bamboo-garden-sunset-park",
@@ -44337,5 +44325,94 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T16:09:15.518Z"
+  },
+  {
+    "id": "ishi-omakase-park-slope",
+    "name": "Ishi Omakase & Premium Sake",
+    "desc": "Traditional Park Slope omakase counter with chef's tasting from $85-$125; intimate ~1h45m experience",
+    "longDesc": "Ishi is a small Park Slope omakase-only sushiya at 70 5th Ave near Bergen, serving three tiers: Chef's Counter at $125 (12 Gokujo nigiri), and Regular Table at $105 or $85 (10 Ginmi nigiri). Reservations open ~3 weeks ahead on Resy; full meal runs about 1h45m, so it works as a real anchor stop when Uesugi is booked. Solid premium-sake program and seasonal nigiri rotation, all within a 10-12 min drive of Industry City via 4th Ave.",
+    "url": "https://www.ishinyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "gluten-free"
+    ],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "16:00-22:00",
+    "notes": "Address 70 5th Ave, Brooklyn, NY 11217 near Bergen St; books up — Resy 3 weeks out, or call 917-909-1935 / text 929-969-0902 (ishinyc.com). Omakase-only menu, no vegan/vegetarian but accommodates gluten-free on request (ishinyc.com/menu). Counter seats let guests watch the chef build each course; arrive on time or risk being rushed. Street parking on 5th Ave / Bergen is realistic on weekend evenings; ~12 min drive up 4th Ave from IC. Higher-end backup when Uesugi (Carroll Gardens) is fully booked. Alternate price tier at $85 makes it more flexible than most peer omakases.",
+    "sources": [
+      {
+        "url": "https://www.ishinyc.com/menu",
+        "accessed": "2026-05-18T16:15:00Z"
+      },
+      {
+        "url": "https://www.ishinyc.com/",
+        "accessed": "2026-05-18T16:15:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/ishi",
+        "accessed": "2026-05-18T16:15:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/ishi-omakase-and-premium-sake",
+        "accessed": "2026-05-18T16:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/best-sushi-park-slope-prospect-heights",
+        "accessed": "2026-05-18T16:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:13:27.189Z"
+  },
+  {
+    "id": "umami-house-japan-village",
+    "name": "Umami House (Japan Village)",
+    "desc": "Japan Village stall for cha-han fried rice, omurice, and build-your-own poke — quick, comforting, photogenic.",
+    "longDesc": "Tucked inside Japan Village's food hall on the ground floor of Industry City, Umami House specializes in Japanese cha-han (wok-fried rice), tableside omurice with a thin-fluffy omelette over ketchup rice, Japanese-style hamburg steak sets, and made-to-order poke bowls (japanvillage.com). The kitchen is open-counter so you can watch the omurice get folded — worth a short wait, per Yelp regulars. Pair it with Hachi's sushi and Ramen Setagaya in the same hall for a one-stop Japanese mini-crawl.",
+    "url": "https://www.japanvillage.com/eat-drink/umami-house",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/6862df811e7f890c7094d98d_DSC04545.avif",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:00-20:00, Sun 11:00-19:30",
+    "notes": "Inside Japan Village food hall at 934 3rd Ave, IC Building 4 — same complex as Hachi sushi and Ramen Setagaya, so it slots cleanly into an in-complex Japanese crawl (japanvillage.com). Signature dishes: shrimp cha-han, Japanese hamburg rice, omurice, teriyaki chicken set, and customizable poke bowls (japanvillage.com). Food-hall seating is communal and casual; expect a short wait on weekends for omurice since it's made-to-order (Yelp). Veg options via tofu/veggie poke and vegetable cha-han. Parking: IC's paid lots and free 3rd Ave street parking on Sundays.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/umami-house",
+        "accessed": "2026-05-18T16:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/umami-house-brooklyn",
+        "accessed": "2026-05-18T16:15:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-18T16:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T16:17:38.119Z"
   }
 ]
