@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Bamboo Garden (6409 8th Ave) — roast meats + dim sum carts",
-    "reason": "third Sunset Park dim sum option to round out the corpus; specializes in roast duck/pork for non-cart cravings",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:31:19.907Z"
-  },
-  {
-    "topic": "Peter Pan Donut & Pastry Shop (Greenpoint) — classic post-Frankel's sugar stop",
-    "reason": "Anchors a Greenpoint breakfast pairing two blocks away on Manhattan Ave; expands a Greenpoint-track corpus the router can chain after Frankel's",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:33:26.964Z"
-  },
-  {
-    "topic": "Karczma (Greenpoint Polish lunch) — for tracks that start at Frankel's and need a savory midday anchor",
-    "reason": "Greenpoint zone currently thin on non-breakfast picks; Polish pierogi/kielbasa diversifies vibe within the same cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:33:26.964Z"
-  },
-  {
-    "topic": "WORD Bookstore (Greenpoint browse, 126 Franklin St) — walkable cool-down after sandwich line",
-    "reason": "Adds a 'curious/chill' indoor option inside the same 10-min walk radius so Greenpoint tracks aren't food-only",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:33:26.964Z"
-  },
-  {
-    "topic": "Caputo's Fine Foods (460 Court St, Carroll Gardens) — fresh mozzarella + house pasta on same Court St block as CSG",
-    "reason": "Third anchor for the Carroll Gardens single-block loop; lets the morning expand into a full Italian-American provisions crawl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:35:32.998Z"
-  },
-  {
     "topic": "Court Pastry Shop (298 Court St, Carroll Gardens) — Sicilian cannoli + lobster tails, walkable from Mazzola",
     "reason": "Direct comp/complement to Mazzola's pastry case; user can compare two heritage Italian bakeries on one trip",
     "requestedBy": "agent",
@@ -13768,5 +13738,89 @@
     "reason": "$1 boiled-dumpling counter spot for a 'cheap stop after dim sum splurge' contrast pairing in the same neighborhood",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-17T23:59:09.696Z"
+  },
+  {
+    "topic": "Lucky Eight Restaurant (5204 8th Ave, Sunset Park)",
+    "reason": "Cantonese seafood + roast meats on the same 8th Ave corridor; rounds out a non-dim-sum Chinatown dinner option ~7 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:01:22.463Z"
+  },
+  {
+    "topic": "Eagle Trading Co (Greenpoint specialty coffee, Java St)",
+    "reason": "Third-wave coffee anchor to pair with Peter Pan donuts and round out a Greenpoint breakfast chain after Frankel's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:03:25.122Z"
+  },
+  {
+    "topic": "WORD Bookstore Greenpoint (Franklin St indie bookshop)",
+    "reason": "Walkable post-donut browse stop; adds a non-food beat to a Greenpoint morning track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:03:25.122Z"
+  },
+  {
+    "topic": "Transmitter Park (Greenpoint Ave waterfront pier)",
+    "reason": "10-min walk from Peter Pan with Manhattan skyline view — natural post-donut stroll and photo beat to close the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:03:25.122Z"
+  },
+  {
+    "topic": "Brooklyn Standard Deli (Manhattan Ave alternative)",
+    "reason": "Backup breakfast/lunch sandwich anchor on same Greenpoint spine if Frankel's line is too long; keeps router options when chaining",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:03:25.122Z"
+  },
+  {
+    "topic": "Peter Pan Donut & Pastry Shop (Greenpoint)",
+    "reason": "Iconic cash-only donut counter ~5 min walk from Karczma — completes a Greenpoint food trio with Frankel's + Karczma",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:05:14.856Z"
+  },
+  {
+    "topic": "Pencil Factory Bar (Greenpoint)",
+    "reason": "Cozy neighborhood bar nearby for a post-lunch drink that keeps the cluster geographically tight",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:05:14.856Z"
+  },
+  {
+    "topic": "WORD Bookstore (Greenpoint)",
+    "reason": "Indie bookstore on Franklin St — low-key browse activity to slot between Karczma lunch and an evening stop, fits the 'curious' vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:05:14.856Z"
+  },
+  {
+    "topic": "Archestratus Books + Foods (Greenpoint cookbook shop + cafe, 160 Huron St)",
+    "reason": "Another curious/chill indoor anchor in Greenpoint with a food angle — pairs with WORD for a books+pastry mini-loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:07:09.989Z"
+  },
+  {
+    "topic": "Permanent Records Roadhouse adjacent: Co-op 87 Records Greenpoint",
+    "reason": "Adds a record-store browse option in the same walk radius to diversify Greenpoint tracks beyond food",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:07:09.989Z"
+  },
+  {
+    "topic": "Homecoming (florist + cafe, 107 Franklin St Greenpoint)",
+    "reason": "Photo-friendly chill stop literally across the street from WORD — bundles cleanly into a Franklin St walking cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:07:09.989Z"
+  },
+  {
+    "topic": "G. Esposito & Sons Jersey Pork Store (357 Court St, Carroll Gardens)",
+    "reason": "Fourth Italian-American anchor on the same Court St corridor — house-made sausage and sopressata complete the provisions crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:09:01.919Z"
+  },
+  {
+    "topic": "Mazzola Bakery (192 Union St at Henry, Carroll Gardens)",
+    "reason": "Lard bread + prosciutto bread one block off Court — natural carb pairing for a Caputo's mozzarella ball",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:09:01.919Z"
+  },
+  {
+    "topic": "Court Pastry Shop (298 Court St, Carroll Gardens)",
+    "reason": "Lobster tails and sfogliatelle finish the Italian morning crawl with a dessert stop on the same block",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:09:01.919Z"
   }
 ]

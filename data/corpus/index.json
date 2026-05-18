@@ -18055,10 +18055,10 @@
   {
     "id": "caputos-fine-foods",
     "name": "Caputo's Fine Foods",
-    "desc": "Family-run Italian deli on Court St since 1973 — fresh mozzarella, cured meats, and house pasta",
-    "longDesc": "A boutique Italian grocer in Carroll Gardens, family-owned and operated since 1973 when Giuseppe and Flora Caputo opened it after emigrating from Southern Italy. The Court St shop is beloved for its fresh-pulled mozzarella, house-made pastas and ravioli, imported cured meats, and a deep selection of olive oils, sauces, and Italian pantry staples. It's the older-school counterpart to nearby G. Esposito and Frankie's, a quintessential stop on a Court St food crawl.",
+    "desc": "Hand-pulled mozzarella every hour + handmade pastas at the original 1973 Court St Italian deli",
+    "longDesc": "Family-run Carroll Gardens institution since 1973, where Frank Caputo and his sons pull fresh mozzarella by hand in small batches every hour alongside homemade ricotta, buffalo mozzarella, hand-cured meats, and freshly baked ciabatta rolls. The case rotates a daily roster of handmade pastas and raviolis with seasonal fillings — buy a ball of mozz still warm, a tub of pasta, and walk it back to your car for the drive home.",
     "url": "https://www.caputosfinefoods.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/6226425079693c1bbe9e8bfe/71629a34-de9b-42bd-bfdc-169b55676f52/caputo+bag+store+tall.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "carroll-gardens",
     "vibe": [
@@ -18070,27 +18070,35 @@
     ],
     "priceBand": "$$",
     "duration": "20-30 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 9:00-17:00, Sun 9:00-14:30",
-    "notes": "460 Court St between 3rd and 4th Place; closed Mondays (caputosfinefoods.com). Closes early Sunday (2:30 PM) — best as a Saturday late-morning/midday stop. Pairs naturally with G. Esposito (pork store, half a block away) and Frankie's 457 (Court Street Spuntino) for a 'Court St food crawl' track. Weekend metered street parking on Court St; side streets (3rd/4th Place, Luquer) usually have spots on weekends.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 9:00-18:30, Sun 9:00-14:30",
+    "notes": "Closed Mondays. Cash-friendly, line moves quickly. Mozzarella is pulled hourly — best between 10am-noon when fresh batches hit the case (nyctourism.com). Same Court St block as Court Street Grocers; pairs naturally as a single-block Italian-American provisions crawl. Note: 'Caputo' appears on multiple unrelated shops on Court St (Caputo Bakery at 329 Court is a different family) (dnainfo.com). Street parking on Court/Luquer is feasible weekend mornings.",
     "sources": [
       {
         "url": "https://www.caputosfinefoods.com/",
-        "accessed": "2026-05-16T20:25:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/caputos-fine-foods-brooklyn",
-        "accessed": "2026-05-16T20:25:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/shopping/caputos-fine-foods/",
-        "accessed": "2026-05-16T20:25:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/caputos-fine-foods-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.courtstreetjournal.com/p/caputos-fine-foods",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.dnainfo.com/new-york/20140425/carroll-gardens/italian-shops-on-court-street-share-caputo-name-but-no-relation/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T20:30:39.645Z"
+    "lastResearchedAt": "2026-05-18T00:09:01.881Z"
   },
   {
     "id": "air-gallery-dumbo",
@@ -34910,5 +34918,181 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-17T23:54:38.502Z"
+  },
+  {
+    "id": "bamboo-garden",
+    "name": "Bamboo Garden",
+    "desc": "Brooklyn Chinatown dim sum carts plus a hanging roast-meat counter — duck, pork, soy chicken.",
+    "longDesc": "A Sunset Park / 8th Ave dim sum stalwart since 2007, Bamboo Garden runs traditional push-cart service every day until 2 PM, with siu mai and har gow as the cart staples. What sets it apart from neighboring rooms is the front-of-house roast-meat market: lacquered ducks, char siu, and crispy-skin pork are carved to order, and whole roast ducks go for around $20 to take home.",
+    "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "9:00-22:30",
+    "notes": "Address: 6409 8th Ave, Brooklyn NY 11220 — straight shot south on 8th Ave from Industry City, ~10 min by car with metered/street parking on weekends (source: yelp.com). Dim sum carts run from open until 2 PM only — after that it's menu ordering, so anchor this as a late-morning or noon stop (source: theinfatuation.com). Roast meats (duck, char siu, soy chicken) are carved at a front counter near the entrance; The Infatuation calls them 'why we keep coming back' (source: theinfatuation.com). Whole roast ducks ~$20 to-go for non-cart cravings (source: brokelyn.com). Weekend brunch is loud and crowded — fast turnover keeps food hot but expect a short wait; Fri-Sat open until 10:30 PM, Sun until 9:30 PM (source: yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/bamboo-garden-brooklyn-5",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/bamboo-garden",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brokelyn.com/sunset-park-dim-sum/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbased.com/2020/09/15/outdoor-dim-sum-bamboo-garden-dyker-heights/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T00:01:22.427Z"
+  },
+  {
+    "id": "peter-pan-donut",
+    "name": "Peter Pan Donut & Pastry Shop",
+    "desc": "60+ year Greenpoint donut counter on Manhattan Ave — handmade yeast rings, vinyl booths, cash-only old-school vibe.",
+    "longDesc": "Family-owned since 1952 at 727 Manhattan Ave, Peter Pan still makes its donuts in-house each morning — signatures include red velvet, apple crumb, Boston cream, blueberry buttermilk, sour cream glazed and chocolate cake. Pink-uniformed staff, mint booths, and a tight pastry case make it a postcard of pre-hipster Greenpoint, and the bakery doubles as a breakfast counter with egg sandwiches on a fresh donut bun.",
+    "url": "https://www.peterpandonuts.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 5:00-19:00, Sun 5:30-18:00",
+    "notes": "Cash-only — bring small bills (Yelp, Greenpointers). #1 of 19 Greenpoint bakeries on Tripadvisor, 4.5★ on Yelp across ~1,795 reviews. Sits ~0.3 mi (a 6-min walk) north of Frankel's Delicatessen on the same Manhattan Ave spine, so the natural Greenpoint breakfast chain is bagels-then-donuts (or vice versa) before drifting toward McCarren Park or the waterfront. Street parking on Manhattan Ave is metered and tight on weekends; side streets (Norman, Meserole, Nassau) are easier. Six signature donuts called out on the official site: red velvet, apple crumb, Boston cream, blueberry buttermilk, sour cream glazed, chocolate cake.",
+    "sources": [
+      {
+        "url": "https://www.peterpandonuts.com/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/peter-pan-donut-and-pastry-shop-brooklyn-2",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://greenpointers.com/2017/03/31/peter-pan-donuts/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1458238-Reviews-Peter_Pan_Bakery-Brooklyn_New_York.html",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/peter-pan-donut-pastry-shop",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T00:03:25.099Z"
+  },
+  {
+    "id": "karczma-greenpoint",
+    "name": "Karczma",
+    "desc": "Rustic Polish farmhouse-style spot in Greenpoint for pierogi, kielbasa, and hunter stew lunches.",
+    "longDesc": "Karczma is a long-running Greenpoint institution decorated like a Polish countryside tavern — wood beams, folk-dressed servers, generous portions. The menu leans country-traditional: boiled Ruskie pierogi with sautéed onions, kielbasa, schabowy (breaded pork cutlet), bigos hunter stew, pickle soup, and potato placki. It's a strong savory midday anchor for tracks that begin with Frankel's breakfast or pastries, and the price band stays friendly even for the grilled-meat-for-two plate.",
+    "url": "https://karczmabrooklyn.com/en/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-23:30, Sun 12:00-22:00",
+    "notes": "136 Greenpoint Ave, Brooklyn NY 11222 (yelp.com). Weekend kitchen runs noon through late night, so it works for either an early lunch slot or a hearty pre-evening meal. Pierogi Ruskie (potato-cheese) and the platter-for-two are the signature orders (freshnyc.com). Parking is street-only in residential Greenpoint — metered Saturdays, free Sundays; allow 5-10 min to find a spot. Vegetarians can get by on pierogi + placki + soups; no dedicated vegan/gluten-free menu. Pairs naturally with Frankel's (breakfast) and Peter Pan Donuts (dessert walk) inside a Greenpoint cluster.",
+    "sources": [
+      {
+        "url": "https://karczmabrooklyn.com/en/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://karczmabrooklyn.com/en/menu-2/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/karczma-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://freshnyc.com/central-european/traditional-polish-restaurant-greenpoint-nyc-karczma",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T00:05:14.828Z"
+  },
+  {
+    "id": "word-bookstore-greenpoint",
+    "name": "WORD Bookstore",
+    "desc": "Beloved Greenpoint indie bookshop with deep staff picks and a tiny event basement — perfect post-meal browse.",
+    "longDesc": "WORD is Greenpoint's independent neighborhood bookstore on Franklin Street, tightly curated with staff picks, strong fiction/poetry/kids sections, and a basement that hosts readings and book clubs. It's a chill 30-45 minute browse that resets a foodie track without leaving the 10-minute walk radius. Easy add after the sandwich-line stretch on Manhattan Ave / Franklin.",
+    "url": "https://wordbookstores.com/word-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-19:00",
+    "notes": "126 Franklin St, Brooklyn NY 11222 (source: wordbookstores.com). Open daily 10am-7pm per official site; Yelp/Foursquare confirm same address and phone 718-383-0096 (source: yelp.com/biz/word-brooklyn-2). Park on Franklin or side streets (Java, India, Kent) — weekend metered parking is generally findable in Greenpoint north of Greenpoint Ave. Pair with Greenpoint sandwich/bakery crawl: sits walkable to Peter Pan Donuts, Frankel's, and Achilles Heel.",
+    "sources": [
+      {
+        "url": "https://wordbookstores.com/word-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/word-brooklyn-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/shopping/word",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T00:07:09.965Z"
   }
 ]
