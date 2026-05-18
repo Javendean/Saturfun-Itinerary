@@ -16615,43 +16615,48 @@
   {
     "id": "devocion-williamsburg",
     "name": "Devoción Williamsburg",
-    "desc": "Colombia-direct specialty roastery flagship with skylit courtyard and exposed-brick photo backdrop.",
-    "longDesc": "Devoción's Williamsburg flagship roasts beans sourced direct from Colombian farms inside a pitched-roof, skylit space with a lush green wall and exposed-brick corridor — built for photos and lingering. The bar runs two espresso machines plus a public coffee lab for tastings, making it a strong alternative anchor to Partners just a few blocks east on Grand St. Order a Colombian single-origin pour-over and grab the bench under the skylight for the cleanest shot.",
+    "desc": "Colombian farm-direct flagship with two-story vertical garden of 150 live coffee plants — Brooklyn's most photogenic café.",
+    "longDesc": "Devoción's Williamsburg flagship pairs Brooklyn's first farm-to-cup Colombian roastery with a soaring brick-and-skylight space wrapped in a two-story living wall of coffee plants and tropical foliage. Beans are dry-milled in Bogotá and FedExed to the on-site roastery within 10 days of harvest — a wildly fresh pour-over or cortado, plus a sunlit courtyard, leather sofas, and 18-foot windows that turn a coffee break into a photo set. Strong as a Greenpoint-border anchor: walkable to McCarren Park, North Williamsburg shops, and the East River ferry.",
     "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
-    "photoUrl": "https://www.devocion.com/cdn/shop/files/Devocion_Wburg_1025_LizClayman_012_3.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "photo",
       "chill",
+      "photo",
       "curious"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "20 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "07:30-18:00",
-    "notes": "148 Grand St, Brooklyn NY 11249 — flagship roastery & cafe. Colombia-direct sourcing, in-house roasting, on-site coffee lab open for tastings (devocion.com). Pitched-roof skylight + Colombian plant wall + exposed brick = standout interior photo backdrop. Weekend street parking on Grand/Berry/Wythe is feasible but tight; lot parking available a few blocks south on Wythe Ave. ~6 mi from Industry City via Brooklyn-Queens Expy, typically 18-22 min on Saturday late-morning.",
+    "notes": "Official site lists Williamsburg cafe at 148 Grand St, Brooklyn NY 11249 (devocion.com/pages/cafes); Apple Maps and older listings still cite the original 69 Grand St flagship — confirm pin before driving. The vertical garden / 150 Colombian coffee plants and skylit courtyard are the signature visual draw (best-brooklyn.com). Weekend hours 7:30am–6pm; weekday from 7am. Street parking on Grand/Berry is realistic on weekend mornings; metered lots near N. 6th if busy. Pairs naturally with a Greenpoint or McCarren Park morning before driving south toward IC.",
     "sources": [
+      {
+        "url": "https://www.devocion.com/pages/cafes",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
       {
         "url": "https://www.devocion.com/pages/new-york-coffee-shop-williamsburg-brooklyn",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
+        "url": "https://www.best-brooklyn.com/cafes/devocion/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.brooklynpaper.com/devocion-freshest-colombian-coffee/",
+        "url": "https://www.yelp.com/biz/devocion-brooklyn-12",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T13:57:07.848Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:49:42.727Z"
   },
   {
     "id": "rainey-park-lic",
@@ -46652,5 +46657,160 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T19:37:41.974Z"
+  },
+  {
+    "id": "lucky-dog-williamsburg",
+    "name": "Lucky Dog",
+    "desc": "Dive bar with brick-tiled backyard where dogs roam off-leash; 20 taps, shuffleboard, jukebox.",
+    "longDesc": "A no-frills Williamsburg dive at 303 Bedford Ave (S 1st/2nd) run by the Skinny Dennis / Rocka Rolla / Me and Paul's ownership team (Sal Fristensky and Bill Mack). The genuine pull is the brick-tiled backyard — dogs welcome off-leash, a covered nook for weather, mostly uncovered for sun. Inside: jukebox spinning classics, a long shuffleboard table, pinball, ~20 rotating taps including Allagash and Ommegang, full bar, ~$6 a drink. No kitchen, but carry-in food from nearby spots is encouraged.",
+    "url": "https://www.luckydogbrooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "12:00-04:00",
+    "notes": "Despite the task title saying 'Greenpoint,' Lucky Dog is at 303 Bedford Ave in S Williamsburg (timeout.com, yelp.com). The Greenpoint-cluster pairing logic still holds: same ownership group as Me and Paul's, Skinny Dennis, and Rocka Rolla (gothamist.com, greenpointers.com). Natural post-dinner drinks move after pizza at Me and Paul's — ~7 min drive south on Bedford. Weekend street parking on S 1st/Bedford is gettable before 8pm, tighter late. Dogs welcome inside and in the backyard.",
+    "sources": [
+      {
+        "url": "https://www.timeout.com/newyork/bars/lucky-dog",
+        "accessed": "2026-05-18T19:45:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/williamsburgs-brooklyn-ale-house-closing-lucky-dogskinny-dennis-team-takes-over",
+        "accessed": "2026-05-18T19:45:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2026/04/30/paulie-gees-original-restaurant-reopens-today-as-me-and-pauls/",
+        "accessed": "2026-05-18T19:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/luckydog-brooklyn",
+        "accessed": "2026-05-18T19:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:40:32.718Z"
+  },
+  {
+    "id": "micol-ceramics-ic",
+    "name": "Micòl Ceramics",
+    "desc": "Mediterranean-inspired ceramic studio inside Industry City — currently closed indefinitely as of 2026-05",
+    "longDesc": "Founded by Spanish artist Micòl Hernandez, this porcelain-forward studio in IC Building 5 (Suite C239) historically offered private pottery wheel lessons and group sessions for up to 8 — one of the very few studios in NYC teaching on porcelain rather than stoneware. As of May 2026 the studio's own info page reads 'We are closed indefinitely' and third-party listings mark it 'Permanently Closed,' so it cannot be promoted to an active itinerary stop until reopening is confirmed via email (micol@micolceramics.com).",
+    "url": "https://www.micolceramics.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min (in IC, Bldg 5)",
+    "hoursWeekend": "Closed indefinitely (verified 2026-05-18)",
+    "notes": "Inside Industry City Building 5, 2nd floor, Suite C239 — same campus the user already anchors on. Historically distinctive for teaching wheel throwing with porcelain (rare in NYC) and offering birthday-party groups up to 8 (micolceramics.com/lessons). Booking required 50% non-refundable deposit. Status conflict: studio info page says 'closed indefinitely' (micolceramics.com/info) and Wanderlog lists 'Permanently Closed' (wanderlog.com), while Industry City Studios directory still hosts the studio page (industrycitystudios.org/studios/micol-ceramics). Transit fallback noted on site: D/N/R to 36th St. Until reopening is confirmed, the true in-IC ceramic slot the engine wants is unfilled — engine should treat this entry as 'aspirational/dormant' and pull from the enqueued nearby alternatives.",
+    "sources": [
+      {
+        "url": "https://www.micolceramics.com/lessons",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.micolceramics.com/info",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://industrycitystudios.org/studios/micol-ceramics/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://wanderlog.com/place/details/1773589/mic%C3%B2l-ceramics",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:43:15.404Z"
+  },
+  {
+    "id": "bat-clay-studio",
+    "name": "BAT Clay Studio (Showroom)",
+    "desc": "Members-only ceramics studio at Brooklyn Army Terminal — no public classes, but a member-curated showroom one block south of IC.",
+    "longDesc": "BAT Clay Studio occupies Suite 403 of the Brooklyn Army Terminal Annex (80 58th St, corner of 58th & 1st Ave), housing a collective of experienced ceramicists working autonomously rather than teaching. They explicitly do not offer classes and redirect newcomers to Clay Space, Gasworks, or Ovington Pottery; what they do operate is a retail showroom featuring members' work on consignment, which makes it a worthwhile 15-minute browse-and-buy stop for handmade ceramics when you're already in the IC neighborhood. Treat it as a small art detour, not an activity venue.",
+    "url": "https://www.batclaystudio.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "15-30 min",
+    "driveFromIC": "3 min",
+    "hoursWeekend": "by appointment / showroom hours not publicly listed",
+    "notes": "Members-only working studio + consignment showroom (source: batclaystudio.com FAQ). Located in Brooklyn Army Terminal Annex Bldg, Suite 403, 4th floor (source: Yelp listing 80 58th St). Does NOT offer drop-in classes despite some directory listings categorizing it under 'Art Classes' — confirm showroom hours before visiting. For hands-on pottery near IC, redirect to studios BAT itself recommends.",
+    "sources": [
+      {
+        "url": "https://www.batclaystudio.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.batclaystudio.com/contact",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bat-clay-studio-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:45:32.347Z"
+  },
+  {
+    "id": "clayhouse-brooklyn",
+    "name": "Clayhouse Brooklyn",
+    "desc": "Drop-in Try Wheel ($85) and Try Handbuilding ($70) 2-hr classes on Saturdays in Carroll Gardens.",
+    "longDesc": "Clayhouse Brooklyn at 229 Smith St runs one-time 'Try' classes — Try Wheel (Sat 7-9pm, $85), Try Handbuilding (Sat 6-8pm, $70), and Family Try Wheel for adult-child pairs (Sat 9:30-11:30am, $85). All classes are 2 hours, BYOB-friendly, and include staff glazing and firing of finished pieces, with no prior experience required.",
+    "url": "https://www.clayhousebrooklyn.com/try-classes/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "carroll-gardens",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat sessions 9:30-11:30am, 6-8pm, 7-9pm",
+    "notes": "Smith St location in Carroll Gardens, ~12 min drive from Industry City via 3rd Ave / Hamilton Ave. Try Wheel $85, Try Handbuilding $70, Family Try Wheel $85 (adult-child pair). 2-hour sessions, BYOB permitted, staff handles glazing+firing of kept pieces (source: clayhousebrooklyn.com/try-classes). Compares well to BKLYN CLAY's longer multi-week format — Clayhouse is the better single-Saturday drop-in option.",
+    "sources": [
+      {
+        "url": "https://www.clayhousebrooklyn.com/try-classes/",
+        "accessed": "2026-05-18T19:45:00Z"
+      },
+      {
+        "url": "https://www.clayhousebrooklyn.com/adult-in-person-classes/adult-try-wheel-night/",
+        "accessed": "2026-05-18T19:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:47:28.383Z"
   }
 ]
