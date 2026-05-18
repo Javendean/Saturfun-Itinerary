@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Hunters Point South Park sunset skyline LIC",
-    "reason": "Adjacent park immediately south of Gantry Plaza — better wide-angle of the Pepsi sign + Midtown skyline at golden hour; expands the LIC waterfront cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:46:05.329Z"
-  },
-  {
-    "topic": "Transmitter Park Greenpoint pier sunset Manhattan view",
-    "reason": "Mirror-image waterfront across the Pulaski Bridge — looks back at the Pepsi sign and Midtown from the Brooklyn side; fills the Greenpoint zone",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:46:05.329Z"
-  },
-  {
-    "topic": "Sweetleaf Coffee LIC Jackson Ave flagship",
-    "reason": "Backup coffee anchor if the waterfront kiosk is closed — well-known LIC indie roaster within walking distance of Gantry",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:48:59.367Z"
-  },
-  {
-    "topic": "Gantry Plaza State Park photo pier sunset spot",
-    "reason": "Pairs directly with this café entry — the photo stop itself needs its own corpus entry for itinerary linking",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:48:59.367Z"
-  },
-  {
-    "topic": "Hunters Point South Park playground + lawn picnic spot",
-    "reason": "Adjacent park amenity for groups who want longer waterfront downtime around the café stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:48:59.367Z"
-  },
-  {
     "topic": "Socrates Sculpture Park weekend programming and parking reality check",
     "reason": "Anchors the LIC waterfront pairing with Rainey Park; user already flagged the shared parking pocket",
     "requestedBy": "agent",
@@ -17398,5 +17368,77 @@
     "reason": "Walkable food/coffee anchor at the north edge of Gantry Plaza for a 'park + snack' pairing without moving the car",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T12:29:01.978Z"
+  },
+  {
+    "topic": "The Baroness Bar Long Island City sunset rooftop",
+    "reason": "Indoor backup if weather kills the park plan; expands LIC cluster with a covered Midtown-view venue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:31:20.995Z"
+  },
+  {
+    "topic": "Bar Blondeau rooftop Wythe Hotel sunset cocktails Williamsburg",
+    "reason": "Pairs with Transmitter Park sunset as the indoor follow-up; same East River sightline from a roof",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:33:28.527Z"
+  },
+  {
+    "topic": "Greenpoint Heights waterfront esplanade walk India Street ferry pier",
+    "reason": "Adjacent Greenpoint walkable extension that connects Transmitter Park to the ferry — fills the zone's stroll-and-photo niche",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:33:28.527Z"
+  },
+  {
+    "topic": "Peter Pan Donut & Pastry Shop Greenpoint classic",
+    "reason": "Iconic Greenpoint pre-sunset stop, 5 min drive from Transmitter Park, weekend parking on Manhattan Ave",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:33:28.527Z"
+  },
+  {
+    "topic": "Sweetleaf Coffee Center Blvd waterfront kiosk LIC",
+    "reason": "Primary coffee anchor near Gantry Plaza — this Jackson Ave entry is explicitly its backup, so the corpus needs the primary too",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:35:33.259Z"
+  },
+  {
+    "topic": "Café Grumpy Greenpoint flagship",
+    "reason": "Closer-to-IC indie roaster alternative in an actual in-corpus zone if a Queens detour isn't warranted",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:35:33.259Z"
+  },
+  {
+    "topic": "Hunter's Point South Park overlook (LIC) — adjacent waterfront with newer Manhattan views and lawn",
+    "reason": "Directly south of Gantry; gives an alternate sunset angle and overflow option when Gantry pier is crowded",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:37:16.854Z"
+  },
+  {
+    "topic": "Sweetleaf Coffee Long Island City flagship",
+    "reason": "Walkable from Gantry for a pre-sunset espresso; rounds out a LIC mini-track if itinerary detours from Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:37:16.854Z"
+  },
+  {
+    "topic": "Transmitter Park pier, Greenpoint — Brooklyn-side sunset alternative",
+    "reason": "Keeps the photo-sunset slot inside Brooklyn for itineraries that want to stay south of Newtown Creek",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:37:16.854Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park LIC",
+    "reason": "Directly north of HPSP, contains the iconic Pepsi-Cola sign and gantry cranes — completes the LIC waterfront stitch for the same drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:39:47.328Z"
+  },
+  {
+    "topic": "LIC Landing by COFFEED (café at Hunter's Point South)",
+    "reason": "The on-site café that anchors the 'café stop' this park was scoped to support — pairs 1:1 with this entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:39:47.328Z"
+  },
+  {
+    "topic": "WNYC Transmitter Park Greenpoint",
+    "reason": "Brooklyn-side waterfront-lawn analog for groups who want the same vibe without crossing into Queens",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T12:39:47.328Z"
   }
 ]

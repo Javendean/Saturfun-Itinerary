@@ -17962,41 +17962,37 @@
   {
     "id": "gantry-plaza-state-park",
     "name": "Gantry Plaza State Park",
-    "desc": "12-acre LIC waterfront park anchored by restored 1925 rail-float gantries and four East River piers.",
-    "longDesc": "Gantry Plaza State Park sits on the Hunters Point waterfront at the foot of 47th Rd, framed by two restored Pennsylvania Railroad transfer bridges built in 1925 — towering steel gantries that once lowered freight rail cars onto barges crossing the East River. The 12-acre park stretches across four piers with manicured gardens, a mist fountain, a fishing pier with a cleaning table, and unobstructed Midtown skyline views (the Pepsi-Cola sign sits a few steps south inside the same waterfront strip). It pairs well as a 30-45 minute photo + promenade walk before or after dinner in LIC.",
+    "desc": "LIC waterfront park with iconic gantries, Pepsi sign, and unbeatable Midtown sunset views",
+    "longDesc": "A 12-acre East River park in Long Island City built on a former industrial pier site, anchored by two restored 1920s rail gantries and the landmark Pepsi-Cola sign. The piers point straight at Midtown Manhattan, making it the city's premier free sunset-photo spot — golden hour lights up the UN, Chrysler, and Empire State head-on across the water. Benches, fishing piers, and wide promenades give every angle its own composition.",
     "url": "https://parks.ny.gov/parks/gantryplaza",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "greenpoint",
     "vibe": [
       "photo",
-      "chill",
-      "romantic"
+      "romantic",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Dawn-Dusk",
-    "notes": "Address 4-44 47th Rd, Long Island City NY 11101 (parks.ny.gov). Park is open daily dawn to dusk; leashed-dog paths open 8:00-22:00 daily (parks.ny.gov). The southern gantries are restored 'contained apron' transfer bridges of the James B. French patent, built 1925 for the LIRR North Shore Freight Branch rail-car float operation (Wikipedia). Four piers, mist fountain, fishing pier with cleaning table, two dog runs; dogs prohibited on grass/piers/playgrounds (parks.ny.gov). Free street parking is generally available on 47th Rd / 47th Ave / Center Blvd on weekends; arrive before sunset for golden-hour skyline shots between the gantry legs. Zone tagged 'dumbo' as nearest waterfront cluster since LIC isn't in the enum — flag for zone enum expansion.",
+    "hoursWeekend": "08:00-22:00",
+    "notes": "Free entry; park officially open 8am–10pm year-round (parks.ny.gov). Drive via BQE → Pulaski Bridge or Kosciuszko, then onto Center Blvd. Metered street parking on 48th/49th Ave and Center Blvd; weekend turnover is decent but arrive ~45 min before sunset for the best pier spot. The southernmost gantry and the floating pier at 49th Ave deliver the cleanest skyline framing; the Pepsi-Cola sign (NYC landmark, relit 2024) sits between Gantry Plaza and Hunter's Point South. Pairs naturally with a Long Island City coffee or ice-cream stop before crossing back to Brooklyn.",
     "sources": [
       {
-        "url": "https://parks.ny.gov/parks/gantryplaza/details.aspx",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://parks.ny.gov/parks/gantryplaza",
+        "accessed": "2026-05-18T12:35:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Gantry_Plaza_State_Park",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
+        "accessed": "2026-05-18T12:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T12:29:01.924Z"
+    "lastResearchedAt": "2026-05-18T12:37:16.826Z"
   },
   {
     "id": "carroll-park",
@@ -18444,51 +18440,50 @@
   },
   {
     "id": "hunters-point-south-park",
-    "name": "Hunters Point South Park",
-    "desc": "11-acre LIC waterfront park with lawn, playgrounds, and a cantilevered Manhattan-skyline overlook",
-    "longDesc": "Award-winning waterfront park on the southern end of LIC, designed by SWA/Balsley and Weiss/Manfredi across two phases (Phase I 2013, Phase II summer 2018). Newer than Gantry Plaza next door, it offers a generous central green, three modern playgrounds, sand volleyball, basketball, a dog run, picnic terraces, and a 30-foot cantilevered viewing platform that frames the Midtown and One World Trade skyline across the East River.",
+    "name": "Hunter's Point South Park",
+    "desc": "Waterfront park in LIC with destination playground, central lawn, and Manhattan skyline picnic terraces.",
+    "longDesc": "Hunter's Point South Park stretches along the East River at the foot of LIC with a 13,000 sq ft pavilion, picnic terraces, an oval running track, a wide central lawn, and a destination playground next to a grass-inset playing field. A 30-foot cantilevered overlook frames a near-uninterrupted Midtown skyline view — strongest at golden hour. Pairs naturally with the café/concession plaza on-site for long, low-effort group downtime.",
     "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "chill",
-      "active",
       "photo",
-      "romantic"
+      "active"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "60-90 min",
-    "driveFromIC": "25 min",
+    "duration": "60-120 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "ZONE NOTE: park is in LIC (Queens), not Brooklyn — current enum lacks an LIC value; tagged 'greenpoint' as the geographically nearest zone (across Newtown Creek). Address 4-10 Center Blvd at 50 Ave; closest paid parking at Hunters Point South Parking Corp, 1-20 56th Ave; weekend street parking tight after noon (Yelp/SpotAngels). ~11 acres total spanning Phase I (2013) + Phase II (2018, 5.5 acres of restored industrial waterfront). Pavilion concession/cafe near the basketball court. Designed by SWA/Balsley + Weiss/Manfredi; 2018 ASLA + GOV Design Gold winner (ASLA 2019).",
+    "notes": "Address 4-10 Center Blvd, Long Island City, NY 11109 (NYC Parks). Technically Queens, but the closest waterfront corollary to Brooklyn's IC/Red Hook axis — 22 min via BQE on a typical Saturday. Weekend street parking on Center Blvd/2nd St fills by ~noon; iPark's Hunters Point South Parking garage is the reliable fallback (iPark). Park features per NYC Parks: central green, playgrounds, picnic terraces, basketball, dog run, waterside promenade, pavilion with concessions and elevated café plaza (NYC Parks). Mommy Poppins flags the playground + adjacent grass field as one of the borough's strongest combined kid-plus-lawn setups (mommypoppins.com). Skyline view from the cantilevered overlook is the photo payoff.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
-        "accessed": "2026-05-18T05:30:00Z"
+        "accessed": "2026-05-18T12:35:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/hunters-point-south-park/facilities/playgrounds",
+        "accessed": "2026-05-18T12:35:00Z"
+      },
+      {
+        "url": "https://mommypoppins.com/content/hunters-point-south-park-in-long-island-city-queens-brand-new-destination-playground",
+        "accessed": "2026-05-18T12:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/hunters-point-south-park-long-island-city",
-        "accessed": "2026-05-18T05:30:00Z"
+        "accessed": "2026-05-18T12:35:00Z"
       },
       {
-        "url": "https://swabalsley.com/hunters_point_south_phase_2/",
-        "accessed": "2026-05-18T05:30:00Z"
-      },
-      {
-        "url": "https://www.asla.org/2019awards/639982-Hunters_Point_South_Waterfront_Park.html",
-        "accessed": "2026-05-18T05:30:00Z"
-      },
-      {
-        "url": "https://www.hunterspointparks.org/",
-        "accessed": "2026-05-18T05:30:00Z"
+        "url": "https://ipark.com/garage/hunters-point-south-parking-corp/",
+        "accessed": "2026-05-18T12:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T05:33:43.569Z"
+    "lastResearchedAt": "2026-05-18T12:39:47.293Z"
   },
   {
     "id": "domino-park",
@@ -39427,45 +39422,41 @@
   {
     "id": "wnyc-transmitter-park",
     "name": "WNYC Transmitter Park",
-    "desc": "Greenpoint waterfront park with a pier framing an unobstructed Midtown Manhattan skyline view across the East River.",
-    "longDesc": "A 1.6-acre waterfront park at the foot of Greenpoint Avenue, opened in 2012 on the former site of the WNYC radio transmission towers. A recreational pier extends into the East River with sweeping skyline views of Midtown Manhattan, paired with lawn, wetland gardens, and a nautical-themed playground. Gets crowded at sunset but the framing of the Empire State and Chrysler buildings across the water is the payoff.",
+    "desc": "Greenpoint waterfront park with a pier looking straight across the East River at the Midtown skyline.",
+    "longDesc": "A 1.6-acre former WNYC AM-radio tower site at the foot of Greenpoint Avenue, opened 2012, with a recreational pier that delivers an unobstructed sunset view of the Midtown Manhattan skyline and East River. Mirror-image to LIC's Gantry Plaza across the water — arrive ~30 min before golden hour to grab a bench or pier railing spot. Pollinator gardens, a nautical-themed playground, and a pedestrian bridge round out the space.",
     "url": "https://www.nycgovparks.org/parks/transmitter-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
-      "photo",
       "chill",
+      "photo",
       "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "25 min",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "End-of-Greenpoint-Ave pier is the headline view; aim for ~1 hr before sunset for golden-hour skyline shots (nycgovparks.org). Playground area closes earlier at 21:00 (nycgovparks.org). At ~25 min from Industry City via BQE this is the outer edge of the IC drive radius — pair it with a Williamsburg or Greenpoint food/coffee stop rather than treating it as a solo trip. Street parking only and tight on weekends; allow 10 min to find a spot (multiple traveler reports).",
+    "notes": "Free public park; standard NYC Parks hours (6am–1am) apply unless posted otherwise (nycgovparks.org). Street parking on West St / Kent St is the realistic option on weekends — usually findable but tight near sunset. Pier is the prime sunset spot looking west toward Midtown; the Pepsi-Cola sign itself sits a bit south at Gantry Plaza in LIC, not directly framed from this pier (Wikipedia, transmitterpark.org).",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/transmitter-park",
-        "accessed": "2026-05-18T08:20:00Z"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/WNYC_Transmitter_Park",
-        "accessed": "2026-05-18T08:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://transmitterpark.org/visit",
-        "accessed": "2026-05-18T08:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/parks/transmitter-park/facilities/playgrounds",
-        "accessed": "2026-05-18T08:20:00Z"
+        "url": "https://en.wikipedia.org/wiki/WNYC_Transmitter_Park",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T08:20:00.945Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T12:33:28.495Z"
   },
   {
     "id": "sunset-park",
@@ -42176,5 +42167,41 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T12:26:49.125Z"
+  },
+  {
+    "id": "sweetleaf-coffee-lic-jackson",
+    "name": "Sweetleaf Coffee Roasters (Jackson Ave Flagship)",
+    "desc": "LIC's original third-wave coffee bar — serious espresso, bar-like room, two blocks from Vernon-Jackson 7 train.",
+    "longDesc": "Sweetleaf's 2008 flagship on Jackson Ave is the founding location of one of NYC's most respected indie roasters, lauded by the NYT for 'serious coffee prepared according to precise techniques.' Compact bar-style room with pour-overs, espresso, and house pastries; about a 10-minute walk from Gantry Plaza waterfront, making it the natural backup if the Center Blvd kiosk is closed or mobbed.",
+    "url": "https://www.sweetleafcoffee.com/pages/jackson-avenue",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-19:00",
+    "notes": "Address: 10-93 Jackson Ave, Long Island City, NY 11101; phone (917) 832-6726 (source: sweetleafcoffee.com). Technically in Queens, not Brooklyn — closest zone in corpus is greenpoint (across Newtown Creek). Drive from Industry City is ~22 min via BQE on weekend traffic, putting it at the outer edge of the user's 10-25 min radius. Use ONLY as backup when the Sweetleaf Center Blvd waterfront kiosk near Gantry Plaza is closed. Metered street parking around Jackson Ave is generally available on weekends; nearby paid lots on 11th St. NYT-praised serious espresso program (source: nytimes via sweetleafcoffee.com).",
+    "sources": [
+      {
+        "url": "https://www.sweetleafcoffee.com/pages/jackson-avenue",
+        "accessed": "2026-05-18T12:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sweetleaf-long-island-city-3",
+        "accessed": "2026-05-18T12:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T12:35:33.225Z"
   }
 ]
