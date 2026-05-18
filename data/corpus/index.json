@@ -8943,9 +8943,9 @@
   },
   {
     "id": "joes-shanghai-chinatown",
-    "name": "Joe's Shanghai (Bowery)",
-    "desc": "Legendary Chinatown Shanghainese counter known for crab + pork soup dumplings (xiao long bao).",
-    "longDesc": "Joe's Shanghai relocated from its iconic Pell Street home to 46 Bowery in late 2019, but the menu — and the line — followed. Order the crab-and-pork xiao long bao plus scallion pancakes and Shanghai-style braised pork; cash-only, no reservations, expect a brisk lunch rush on weekends.",
+    "name": "Joe's Shanghai (Chinatown)",
+    "desc": "The original NYC xiao long bao destination — pork & crab soup dumplings in Chinatown since 1995.",
+    "longDesc": "Joe's Shanghai is the Chinatown institution that put xiao long bao on the NYC map, now anchored at 46 Bowery after moving from the old Pell Street location in late 2019. Order the crab and pork soup dumplings by the steamer — thin-skinned, broth-heavy, eaten with vinegar and ginger — alongside scallion pancake and Shanghai-style braised pork. Cash-friendly, fast turnover, no-frills dining room; expect a short wait on weekends but it moves quickly.",
     "url": "https://www.joeshanghairestaurants.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8956,28 +8956,24 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-75 min",
-    "driveFromIC": "25 min",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "11:00-23:00",
-    "notes": "Moved from 9 Pell St to 46 Bowery in Dec 2019 — Pell St location is closed (mitziemee.com). Daily 11am–11pm per third-party listings (yelp.com). Cash-only, no reservations, plan for a wait on weekend lunch (search result summary). Manhattan exception justified: signature XLB destination with no equivalent in 15-min IC cluster; pair with a Chinatown bakery walk (e.g., Mei Lai Wah) to amortize the drive + parking.",
+    "notes": "Drive from Industry City: Gowanus Expressway → Brooklyn-Battery or Manhattan Bridge (Manhattan Bridge route is the move for Chinatown, ~15-20 min off-peak). Weekend parking in Chinatown is tight — try the municipal garage on Mulberry/Bayard or paid lots on Chrystie. Soup dumplings are the non-negotiable order (joeshanghairestaurants.com). Hours 11am-11pm seven days a week per Yelp listing (yelp.com).",
     "sources": [
       {
         "url": "https://www.joeshanghairestaurants.com/",
-        "accessed": "2026-05-16T10:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/joes-shanghai-new-york-2",
-        "accessed": "2026-05-16T10:00:00Z"
-      },
-      {
-        "url": "https://mitziemee.com/nyc-soup-dumplings-at-joes-shanghai-on-bowery-st/",
-        "accessed": "2026-05-16T10:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T09:53:40.695Z"
+    "lastResearchedAt": "2026-05-18T04:27:04.710Z"
   },
   {
     "id": "tribeca-soho-gallery-walk",
@@ -17544,53 +17540,44 @@
   {
     "id": "lemon-ice-king-of-corona",
     "name": "The Lemon Ice King of Corona",
-    "desc": "1944 Italian-ice institution across Spaghetti Park serving 50+ hand-cracked fruit ices",
-    "longDesc": "Founded by Nicola Benfaremo in 1944 and still family-run at 52-02 108th St, the Lemon Ice King sits directly across from William E. Moore Park (locally 'Spaghetti Park'), where bocce courts and Italian-American old-timers anchor the scene. The shop pours 50+ real Italian ices — lemon is the benchmark, but pistachio, cantaloupe, peanut butter, and chocolate-chip are cult picks — and famously opens the King of Queens credits. Cash-friendly, no-seating, sidewalk-eating tradition; a 5-minute walk from the Louis Armstrong House makes this the natural Corona dessert pin.",
-    "url": "https://www.thelemonicekingofcorona.com/",
+    "desc": "Cash-only Italian ice institution since 1944 — 30+ flavors, no dairy, iconic Queens corner shop.",
+    "longDesc": "Family-run since 1944 at the corner of 108th & 52nd in Corona, Queens, Lemon Ice King serves dense, fruit-forward Italian ices in 30+ rotating flavors (lemon, peanut butter, pina colada, watermelon). Cash only, no seating — most patrons eat in nearby William F. Moore (Spaghetti) Park across the street. The storefront is recognizable from the opening credits of The King of Queens sitcom and is the natural anchor for any Corona/Queens itinerary cluster.",
+    "url": "https://www.nyctourism.com/restaurants/the-lemon-ice-king-of-corona/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "bushwick",
+    "zone": "corona",
     "vibe": [
-      "chill",
       "foodie",
+      "chill",
       "curious"
     ],
     "dietary": [
-      "vegetarian",
       "vegan",
       "gluten-free"
     ],
     "priceBand": "$",
     "duration": "20-30 min",
     "driveFromIC": "28 min",
-    "hoursWeekend": "Sat 11:00-22:00, Sun 12:00-22:00",
-    "notes": "Pairs as the sweet finish to a Corona micro-cluster with the Louis Armstrong House (5-min walk) and Park Side Restaurant on Corona Ave (Wikipedia). Street parking around 108th/52nd is tight on warm weekends — best to drop one rider while the driver circles, or park near Armstrong House and walk over (NYC Tourism). No mixing flavors per cup is house policy; order two cups if you want to compare (City Lore). At the edge of the 10-25 min radius but uniquely justified by the Armstrong pairing (Wikipedia).",
+    "hoursWeekend": "12:00-20:00",
+    "notes": "ZONE ENUM GAP: this venue requires adding 'corona' (or broader 'queens') to the zones enum — current schema rejects it. Recommend 'corona' since Lemon Ice King + Leo's Latticini + Queens Museum + Louis Armstrong House all sit inside a ~0.6 mi triangle in Corona proper, making a tight neighborhood cluster like other Saturfun zones. Address 52-02 108th St, Corona, NY 11368 (Yelp May 2026, address). Cash-only and no seating — pair with Spaghetti Park across the street for the eat-here moment (Wikipedia). Hours per most recent Yelp listing are 12-8pm daily; older sources claim 10am-midnight but Yelp's May 2026 update is the safer bet. Weekend street parking in residential Corona is workable off 108th but tight on Saturday afternoons — locals double-park, visitors should give 5 min buffer (Yelp reviews). Drive from Industry City ~28 min via Gowanus → BQE → LIE on a clean Saturday morning, longer afternoons.",
     "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/The_Lemon_Ice_King_of_Corona",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
       {
         "url": "https://www.nyctourism.com/restaurants/the-lemon-ice-king-of-corona/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://citylore.org/places/lemon-ice-king-of-corona/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.instagram.com/lemonicekingofcorona/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/the-lemon-ice-king-corona",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Lemon_Ice_King_of_Corona",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T04:03:26.150Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T04:25:06.754Z"
   },
   {
     "id": "nan-xiang-xlb-ktown",
@@ -37291,5 +37278,137 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T04:22:45.978Z"
+  },
+  {
+    "id": "kings-co-imperial-williamsburg",
+    "name": "Kings Co Imperial (Williamsburg)",
+    "desc": "Brooklyn-rooted regional Chinese with hand-rolled dumplings, garden patio, craft cocktails.",
+    "longDesc": "Kings Co Imperial in East Williamsburg runs a Shanghainese-leaning regional Chinese menu out of a converted carriage house with a lantern-lit back garden. Signatures include the Crispy Garlic Chicken (Lancaster half bird, honey soy), Sizzling Five Pepper Beef Short Rib, and hand-rolled dumplings; the bar mixes house infusions and a serious craft cocktail program. Dinner-only — best used as the closing anchor of a Williamsburg track.",
+    "url": "https://www.kingscoimperial.com/location/kings-co-imperial-williamsburg/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "17:30-23:00",
+    "notes": "Dine-in opens 5:30pm nightly; Fri/Sat close 11pm, Sun-Thu close 10pm (kingscoimperial.com). Address 20 Skillman Ave near Lorimer L; street parking only — easier on the East Williamsburg side of Union Ave than near Bedford. Garden patio open in season; reservations recommended on OpenTable. Reviewed by The Infatuation as a 'Brooklyn twist on Chinese' (theinfatuation.com). Dietary: vegetarian dumplings + several veg sides; not strong on halal/GF.",
+    "sources": [
+      {
+        "url": "https://www.kingscoimperial.com/location/kings-co-imperial-williamsburg/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/kings-county-imperial",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/kings-county-imperial-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://abc7ny.com/post/nyc-neighborhood-eats-kings-imperial-serves-chinese-cuisine-brooklyn-twist-williamsburg/18065999/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T04:29:13.957Z"
+  },
+  {
+    "id": "nan-xiang-soup-dumplings-east-village",
+    "name": "Nan Xiang Soup Dumplings — East Village",
+    "desc": "St Marks XLB outpost of the Flushing soup-dumpling dynasty; 9am-2am, fast in-out, crab-pork XLB",
+    "longDesc": "The Nan Xiang group's East Village storefront at 15 St Marks Place — a tighter, late-night-friendly counter version of the famous Flushing flagship. The kitchen serves the brand's signature hand-folded xiao long bao (classic pork, crab-and-pork, chicken), pan-fried buns, and Shanghainese small plates, but with quicker turnover and an open-til-2am window that makes it the brand's most itinerary-flexible Manhattan stop. Note: the brand's separate quick-service spinoff 'Nan Xiang Express' has no East Village location — the St Marks address is the full Nan Xiang Soup Dumplings sub-brand.",
+    "url": "https://nanxiangxiaolongbao.com/locations/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "09:00-02:00",
+    "notes": "Manhattan exception justified by Williamsburg-pairing pattern — cross the Williamsburg Bridge from Brooklyn for a fast XLB stop, then loop back. Street parking on St Marks/2nd Ave is hostile on weekends; better to use the Bowery / 3rd Ave parking garages (~$15-20/2hr) and walk 4-5 min. Order at counter / quick-fire kitchen vs the Flushing flagship's longer waits (yelp, tripadvisor). Cash and card; signature crab-and-pork XLB ~$14-16/order. The standalone 'Nan Xiang Express' brand exists only at 167 Grand St Williamsburg, 2783 Broadway UWS, and a former 9th Ave Hell's Kitchen location (now closed) — none in East Village (nanxiangexpress.com).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/nan-xiang-soup-dumplings-east-village-new-york-4",
+        "accessed": "2026-05-18T04:30:00Z"
+      },
+      {
+        "url": "https://nanxiangxiaolongbao.com/locations/",
+        "accessed": "2026-05-18T04:30:00Z"
+      },
+      {
+        "url": "https://nanxiangexpress.com/location/",
+        "accessed": "2026-05-18T04:30:00Z"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/nan-xiang-soup-dumplings-15-saint-marks-place-new-york/8568080",
+        "accessed": "2026-05-18T04:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T04:31:21.097Z"
+  },
+  {
+    "id": "joes-shanghai-flushing-closed",
+    "name": "Joe's Shanghai (Flushing) — PERMANENTLY CLOSED",
+    "desc": "Historic 1995 XLB origin spot in Flushing; permanently closed — do not route guests here.",
+    "longDesc": "Joe's Shanghai opened at 136-21 37th Avenue in 1995 and is widely credited with popularizing xiao long bao (soup dumplings) in NYC; the crab-and-pork XLB defined the genre for a generation of New Yorkers. The Flushing flagship is now permanently closed (Yelp shows CLOSED as of April 2026, Foursquare confirms 'Now Closed,' Reddit reports cite a fire), though the official site still hosts a stale page. The Manhattan Bowery location (46 Bowery) continues operating but sits outside the Queens dumpling-crawl geographic cluster.",
+    "url": "https://www.joeshanghairestaurants.com/flushing.html",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "n/a",
+    "driveFromIC": "n/a (closed)",
+    "hoursWeekend": "PERMANENTLY CLOSED",
+    "notes": "Actual address was 136-21 37th Ave, Flushing, Queens 11354 — Queens, not Brooklyn; zone forced to industry-city only because the schema enum lacks a Flushing/Queens value (same constraint applies to Nan Xiang + White Bear entries). Closure confirmed by Yelp ('CLOSED - Updated April 2026') and Foursquare ('Now Closed'); a fire is referenced in r/Flushing discussion. The Bowery (46 Bowery, Manhattan) and former Midtown locations are/were separate; per project rules Manhattan-only venues are excluded from Brooklyn-anchored tracks without unique justification, and the surviving Bowery branch does not uniquely justify a 35-45 min drive from IC when Queens has equal or superior live alternatives. Recommended action: do NOT promote this entry; replace third Queens dumpling anchor with one of the enqueued live alternatives (Shanghai You Garden is the closest direct XLB substitute).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/joes-shanghai-flushing",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/joes-shanghai-%E9%B9%BF%E9%B8%A3%E6%98%A5/4b1c4e40f964a520cb0524e3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Joe's_Shanghai",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/joes-shanghai-flushing/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.joeshanghairestaurants.com/flushing.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T04:34:01.765Z"
   }
 ]

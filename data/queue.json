@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Zone enum gap: add 'corona' or 'queens' to Saturfun zones",
-    "reason": "Corpus is growing a Queens cluster (Lemon Ice King, likely Leo's, Queens Museum) but no zone tag fits — needed before promotion",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:00:29.766Z"
-  },
-  {
-    "topic": "Joe's Shanghai Chinatown 46 Bowery soup dumplings location",
-    "reason": "Classic XLB benchmark in Chinatown — 15-20 min from IC via Manhattan Bridge, even closer than K-Town and historically the original NYC XLB destination",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:03:03.244Z"
-  },
-  {
-    "topic": "Kings County Imperial Williamsburg or LES Chinese restaurant",
-    "reason": "Brooklyn-anchored Shanghainese-leaning option that keeps the corpus in-zone vs. forcing Manhattan trips for dumplings",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:03:03.244Z"
-  },
-  {
-    "topic": "Nan Xiang Express East Village St Marks 15 location",
-    "reason": "Same brand's casual EV counter — Manhattan but quicker in/out, viable for a Williamsburg-paired itinerary stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:03:03.244Z"
-  },
-  {
-    "topic": "Joe's Shanghai Flushing — original soup dumpling location",
-    "reason": "Third anchor for a Queens dumpling-crawl track; historic XLB origin spot, complements Nan Xiang + White Bear",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:05:14.801Z"
-  },
-  {
     "topic": "Tian Jin Dumpling House — Golden Mall basement food court",
     "reason": "Adjacent Flushing single-dish legend (lamb-stuffed dumplings) in the underground food court scene; deepens Queens crawl options",
     "requestedBy": "agent",
@@ -15022,5 +14992,95 @@
     "reason": "Adjacent Queens heritage Mexican; consommé-dipped tacos extend the Corona driving-day with a second savory anchor",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T04:22:46.004Z"
+  },
+  {
+    "topic": "Leo's Latticini (Mama's of Corona) — Italian deli, fresh mozzarella, hero sandwiches at 46-02 104th St",
+    "reason": "Three-block walk from Lemon Ice King; cements the Corona food-cluster case and gives the zone a savory anchor to complement the dessert anchor.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:25:06.782Z"
+  },
+  {
+    "topic": "Louis Armstrong House Museum at 34-56 107th St, Corona",
+    "reason": "Adds a culture/curious stop inside the same Corona triangle; pairs naturally with Queens Museum to make the zone an art+food day, not just a single-stop detour.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:25:06.782Z"
+  },
+  {
+    "topic": "Park Side Restaurant — old-school red-sauce Italian on Corona Ave at 51st Ave",
+    "reason": "Sit-down dinner anchor 4 blocks from Lemon Ice King; fills the evening slot the Corona cluster currently lacks and validates 'corona' as a full-itinerary zone rather than a single-stop tag.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:25:06.782Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor 13 Doyers Street dim sum Chinatown",
+    "reason": "Oldest dim sum parlor in NYC, two blocks from Joe's — natural Chinatown food-crawl pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:27:04.744Z"
+  },
+  {
+    "topic": "Great NY Noodletown 28 Bowery Cantonese roast meats late night",
+    "reason": "Across the street from Joe's, salt-baked seafood and roast duck — completes a Bowery food cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:27:04.744Z"
+  },
+  {
+    "topic": "Apotheke 9 Doyers Street speakeasy cocktail bar",
+    "reason": "Hidden Chinatown cocktail destination one block from Joe's — turns the XLB run into a date-night route",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:27:04.744Z"
+  },
+  {
+    "topic": "Win Son East Williamsburg Taiwanese restaurant",
+    "reason": "Same East Williamsburg cluster as KCI; pairs as a daytime/early-eve counterpart since KCI is dinner-only — expands Asian-cuisine coverage in the Williamsburg track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:29:13.987Z"
+  },
+  {
+    "topic": "Misi Williamsburg pasta restaurant Wythe Ave",
+    "reason": "Adds a non-Asian top-tier dinner anchor in waterfront Williamsburg, giving the Williamsburg track a second viable food finale within 15 min of IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:29:13.987Z"
+  },
+  {
+    "topic": "Maison Premiere oyster bar Williamsburg",
+    "reason": "Cocktail/oyster pre-dinner option that slots before KCI on a Williamsburg track; corpus currently light on classic Williamsburg cocktail venues with garden seating.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:29:13.987Z"
+  },
+  {
+    "topic": "Nan Xiang Express Grand St Williamsburg 167",
+    "reason": "True 'Express' counter format in Williamsburg — better fit for the IC-paired driving radius than the Manhattan St Marks location",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:31:21.123Z"
+  },
+  {
+    "topic": "Best late-night XLB / dumpling stop within 20 min drive of Industry City open past midnight",
+    "reason": "Fills the after-9pm Brooklyn dumpling gap that the EV St Marks venue otherwise covers",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:31:21.123Z"
+  },
+  {
+    "topic": "St Marks Place evening walking corridor — bars + arcade adjacent to Nan Xiang for a Manhattan mini-track",
+    "reason": "If user accepts Manhattan exception, builds a cluster (Nan Xiang + St Marks micro-stops) instead of a one-venue side-quest",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:31:21.123Z"
+  },
+  {
+    "topic": "Shanghai You Garden Flushing — XLB and sheng jian bao alternative",
+    "reason": "Strongest direct replacement for Joe's as the third Queens XLB anchor; well-regarded soup dumplings + pan-fried buns, 22-28 min drive from IC, weekend parking in Flushing garages, complements Nan Xiang (modern XLB) and White Bear (wonton specialist)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:34:01.790Z"
+  },
+  {
+    "topic": "Tianjin Dumpling House (New World Mall food court, Flushing)",
+    "reason": "Famous lamb-and-squash boiled dumplings inside the New World Mall basement food court; different dumpling style from XLB so it broadens the crawl rather than duplicating, and shares parking with the larger Flushing food destination",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:34:01.790Z"
+  },
+  {
+    "topic": "Kung Fu Xiao Long Bao (Flushing)",
+    "reason": "Specialist XLB shop frequently cited in best-of-NYC dumpling lists post-Joe's-closure; would let the Queens dumpling-crawl track explicitly name a Joe's-replacement story for the user",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T04:34:01.790Z"
   }
 ]
