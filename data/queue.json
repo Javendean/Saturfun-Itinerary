@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Socrates Sculpture Park Vernon Blvd",
-    "reason": "Free open-air sculpture park 4 blocks from Noguchi — completes the indoor+outdoor pairing in one walking radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:40:19.083Z"
-  },
-  {
-    "topic": "MoMA PS1 Long Island City",
-    "reason": "Contemporary art counterweight to Noguchi's minimalism, ~10 min drive south in LIC, strong weekend programming",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:40:19.083Z"
-  },
-  {
-    "topic": "Bellwether Coffee or Sweetleaf LIC",
-    "reason": "Caffeine stop between Noguchi and the next track anchor — fills the gap between sculpture viewing and dinner",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:40:19.083Z"
-  },
-  {
-    "topic": "Court Square Diner LIC late-night",
-    "reason": "24-hr classic diner two blocks from SculptureCenter — needed as a casual food anchor for the LIC art track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:42:20.063Z"
-  },
-  {
-    "topic": "Felix Roasting Co. SoHo (145 Greene St)",
-    "reason": "Still-open Felix sister location in SoHo with the ornate signature interior — strongest photo-coffee replacement for the closed Astor Place outpost, closest viable Felix to Manhattan/Williamsburg Bridge crossings from IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:45:05.939Z"
-  },
-  {
     "topic": "Felix Roasting Co. NoMad flagship (450 Park Ave S)",
     "reason": "Original 2018 Felix flagship with the famous baroque-floral interior — the most photographed of the Felix locations, justifying a Manhattan detour for the photo vibe track",
     "requestedBy": "agent",
@@ -16438,5 +16408,89 @@
     "reason": "Sits at the southern terminus of the High Line, two blocks from Chelsea Market — closes the Vessel→Edge→High Line→Chelsea→Whitney corridor as a full-day Manhattan track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T09:15:53.727Z"
+  },
+  {
+    "topic": "SculptureCenter LIC (44-19 Purves St)",
+    "reason": "Third leg of an LIC contemporary-sculpture triangle with Noguchi + Socrates; indoor experimental art in a Maya Lin-renovated trolley repair shop, ~8 min drive from Socrates",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:18:20.411Z"
+  },
+  {
+    "topic": "Hunters Point South Park waterfront (LIC)",
+    "reason": "Free riverside walk with the most-photographed Manhattan skyline view in NYC; pairs as a sunset stop after Socrates without leaving the Vernon Blvd corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:18:20.411Z"
+  },
+  {
+    "topic": "Sweetleaf Coffee Long Island City (10-93 Jackson Ave)",
+    "reason": "Anchor LIC coffee stop for a Noguchi+Socrates morning; needed to round out an LIC track with food/drinks per the geographic-tracks model",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:18:20.411Z"
+  },
+  {
+    "topic": "Court Square Diner LIC",
+    "reason": "24-hour classic diner one block from PS1 — easy weekend brunch/lunch anchor for a LIC art day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:21:05.202Z"
+  },
+  {
+    "topic": "Adda Indian Canteen Long Island City",
+    "reason": "Acclaimed regional Indian by Roni Mazumdar (Semma team), ~10 min walk from PS1 — strong dinner pairing after the museum",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:21:05.202Z"
+  },
+  {
+    "topic": "Sweetleaf Center Blvd waterfront LIC",
+    "reason": "Alternate Sweetleaf with East River views and easier weekend parking — different visual payoff for the same coffee brand",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:23:26.413Z"
+  },
+  {
+    "topic": "Coffeed at MoMA PS1 / LIC Flea area",
+    "reason": "Backup LIC caffeine option closer to Jackson Ave gallery row if Sweetleaf is packed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:23:26.414Z"
+  },
+  {
+    "topic": "Sey Coffee Bushwick",
+    "reason": "If the next-track anchor pulls south, Sey is the third-wave benchmark on the IC return route via the BQE",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:23:26.414Z"
+  },
+  {
+    "topic": "SculptureCenter LIC current exhibitions and hours",
+    "reason": "Primary art anchor for the LIC track this diner pairs with — need the gallery itself in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:25:38.226Z"
+  },
+  {
+    "topic": "MoMA PS1 LIC weekend programming and Warm Up",
+    "reason": "Six-min walk from Court Square Diner; completes a two-gallery + diner LIC loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:25:38.226Z"
+  },
+  {
+    "topic": "Dutch Kills cocktail bar LIC late-night",
+    "reason": "Iconic LIC craft cocktail spot 8 min from SculptureCenter — natural after-dinner pairing on the LIC art track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:25:38.226Z"
+  },
+  {
+    "topic": "Devoción Williamsburg (69 Grand St) coffee",
+    "reason": "Skylit Brooklyn photo-coffee much closer to IC (~15 min) — primary in-zone alternative to a Manhattan Felix trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:28:08.191Z"
+  },
+  {
+    "topic": "Felix Roasting Co. Greenwich St (525 Greenwich)",
+    "reason": "Second still-open Felix sister with the signature aesthetic; bridge-adjacent fallback if SoHo is closed/booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:28:08.191Z"
+  },
+  {
+    "topic": "Sey Coffee Bushwick (18 Grattan St)",
+    "reason": "Minimalist white-and-wood Brooklyn roaster with strong photo aesthetic, drivable from IC — diversifies corpus beyond Felix",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:28:08.191Z"
   }
 ]

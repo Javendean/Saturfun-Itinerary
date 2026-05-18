@@ -7800,46 +7800,41 @@
   {
     "id": "socrates-sculpture-park",
     "name": "Socrates Sculpture Park",
-    "desc": "Free outdoor sculpture park on the East River with rotating large-scale installations and Manhattan skyline views",
-    "longDesc": "A 5-acre waterfront park at 32-01 Vernon Blvd where reclaimed riverside landfill was transformed into an open-air museum and artist production space. Three major rotating exhibitions per year (currently 'The Socrates Annual 2025: Up/Rooted' through Jun 8, 2026), plus the Broadway Billboard series and free weekend programs. Admission is always free and the park is open 365 days a year from 9am to sunset.",
+    "desc": "Free 5-acre outdoor sculpture park on the East River with skyline views, four blocks from Noguchi.",
+    "longDesc": "Founded 1986 by Mark di Suvero on a former illegal dumpsite, Socrates is a working production studio + exhibition ground for large-scale public art, with the Manhattan skyline as backdrop across the East River. The current rotating commission is The Socrates Annual 2025: Up/Rooted, on view through June 8, 2026 (socratessculpturepark.org). Pairs naturally with The Noguchi Museum four blocks south on Vernon Blvd — indoor/outdoor sculpture in one walking loop.",
     "url": "https://socratessculpturepark.org/",
-    "photoUrl": "",
+    "photoUrl": "https://socratessculpturepark.org/wp-content/uploads/exhibition/broadway-billboard-river-whittle/annual-1-1024x683.jpg",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
-      "photo",
+      "chill",
       "curious",
-      "active",
-      "chill"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "22 min",
+    "duration": "30-45 min",
+    "driveFromIC": "25 min",
     "hoursWeekend": "09:00-sunset",
-    "notes": "Actually in Long Island City / Astoria border (Queens) — closest zone enum match is greenpoint, just across Newtown Creek. No on-site parking except one ADA spot at Vernon Blvd & Broadway gate; use the small public lot at 33rd Rd & Vernon Blvd next to Rainey Park, or grab street parking nearby (source: socratessculpturepark.org FAQ). Free admission, no tickets. Pair naturally with The Noguchi Museum (one block south) and a Vernon Blvd bite for a full NW Queens half-day. Drive from Industry City: BQE northbound across the Kosciuszko, exit at 11th St/21st St — ~22 min off-peak, longer on weekend afternoons.",
+    "notes": "Actually in Long Island City, Queens (32-01 Vernon Blvd) — closest valid zone enum is greenpoint, just across the Pulaski Bridge. Admission free, every day 9am to sunset (socratessculpturepark.org/visit/directions-and-hours/). No on-site parking except one ADA spot at Vernon/Broadway; free street parking on Vernon Blvd and side streets is generally available on weekends, may need to walk a block (socratessculpturepark.org access-and-facilities). Seasonal portable restrooms May-October only; closed Nov-Apr. Best paired with The Noguchi Museum (4 blocks south) for an indoor+outdoor sculpture afternoon. East River waterfront access is the photo spot.",
     "sources": [
       {
-        "url": "https://socratessculpturepark.org/visit/directions-and-hours/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://socratessculpturepark.org/about-us/faqs/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://socratessculpturepark.org/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Socrates_Sculpture_Park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://socratessculpturepark.org/visit/access-and-facilities/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/socrates-sculpture-park",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T02:43:16.889Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T09:18:20.380Z"
   },
   {
     "id": "casa-enrique-lic",
@@ -16862,40 +16857,41 @@
   {
     "id": "moma-ps1",
     "name": "MoMA PS1",
-    "desc": "Contemporary art museum in a converted LIC schoolhouse — free for all in 2026, weird, experimental, photogenic.",
-    "longDesc": "MoMA PS1 is the Museum of Modern Art's contemporary affiliate, housed in a Romanesque Revival former public school at 22-25 Jackson Ave in Long Island City. As of January 1, 2026 admission is free to all visitors (gift from Sonya Yu), making it NYC's largest free museum. Expect boundary-pushing installations, a James Turrell skyspace, and a sun-drenched courtyard that doubles as one of the best indoor/outdoor rainy-day art anchors near Brooklyn.",
-    "url": "https://www.momaps1.org/visit",
-    "photoUrl": "",
+    "desc": "Contemporary-art museum in a converted 1890s LIC schoolhouse — free admission, weekend programming, James Turrell skyspace.",
+    "longDesc": "MoMA PS1 inhabits a Romanesque Revival public school at 22-25 Jackson Ave in Long Island City and is one of the largest US institutions devoted exclusively to contemporary art. As of January 2026 admission is free for everyone (gift from Sonya Yu), and the headline show this spring is the 6th edition of Greater New York, 50+ NYC-area artists timed to PS1's 50th anniversary (through Aug 17, 2026). Permanent in-situ work by James Turrell and a Lady Pink plaza mural make it a strong photo + curious counterweight to Noguchi's minimalism just south.",
+    "url": "https://www.momaps1.org/en/visit",
+    "photoUrl": "https://d1tcycker2ppj.cloudfront.net/output=q:60/resize=width:1200,fit:max/KsO6RanSRkS2V4QCmNk7",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "curious",
-      "photo"
+      "photo",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "90-120 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 10:00-18:00 · Sun 12:00-18:00",
-    "notes": "Free admission for all beginning Jan 1, 2026, made possible by Sonya Yu (press.moma.org). Closed Tue/Wed. Saturday opens at 10am — earliest cultural anchor in the area. Address: 22-25 Jackson Ave, LIC, Queens, NY 11101. Drive from Industry City via Gowanus/BQE/Pulaski Bridge ~15-22 min off-peak; metered street parking on Jackson/47th/21st and several commercial lots within 3 blocks on weekends. Pairs naturally with Gantry Plaza State Park (5-min drive north along the LIC waterfront) for a single LIC half-day. Free lockers and wheelchair-accessible (momaps1.org/visit).",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 10:00-18:00; Sun 12:00-18:00",
+    "notes": "Geographically in Long Island City / Queens, not Brooklyn — closest zone in schema is Greenpoint, directly across Newtown Creek (verify zoning if added to a Brooklyn-only track). Drive Industry City -> LIC via Gowanus Expy + BQE typically ~20-25 min weekend, longer if Battery/BQE backup. Park at Court Square Municipal Garage (45-40 Court Sq W, ~6 min walk) — street + metered Jackson Ave parking is limited. Free admission applies to all visitors for three years from Jan 2026 (source: momaps1.org/visit). Greater New York 2026 runs through Aug 17, 2026; also on view Homeroom: Red Canary Song through Aug 17 and ongoing Turrell + Lady Pink mural (source: momaps1.org programs).",
     "sources": [
       {
-        "url": "https://www.momaps1.org/visit",
+        "url": "https://www.momaps1.org/en/visit",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://press.moma.org/wp-content/uploads/2025/12/Free-Admission-Press-Release_Final_.pdf",
+        "url": "https://www.momaps1.org/en/programs/category/1-exhibitions",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/articles/moma-ps1-guide/",
+        "url": "https://en.wikipedia.org/wiki/MoMA_PS1",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T05:35:44.889Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T09:21:05.176Z"
   },
   {
     "id": "donna-nyc-west-village",
@@ -35681,51 +35677,47 @@
   {
     "id": "court-square-diner",
     "name": "Court Square Diner",
-    "desc": "24/7 LIC diner since 1946 — booth brunch, omelettes, pancakes, 4 min from SculptureCenter",
-    "longDesc": "Family-run since 1946 (current owners Steve and Nick since 1991), Court Square Diner is a chrome-and-booth Long Island City institution open 24 hours a day. The weekend brunch hits the classics — fluffy omelettes, blueberry French toast, pancakes, burgers and wraps — with vegan and vegetarian options on the menu and a full booze list. Parking is plentiful in the surrounding lots and street, making it an easy after-Noguchi / pre-MoMA PS1 stop.",
+    "desc": "Retro 24/7 LIC diner since 1946 — gooey French onion, golden waffles, curly fries two blocks from SculptureCenter.",
+    "longDesc": "A shiny, yellow-booth chrome diner just off Jackson Avenue, open 24 hours every day since 1946 — one of the few true round-the-clock NYC spots left. The Infatuation famously camped here for 24 straight hours and called it 'a public good'; the crowd cycles from construction workers and subway conductors to gallery-goers and post-afterparty kids. Hits: Belgian waffle, French onion soup, curly fries, full breakfast all day.",
     "url": "https://www.courtsquarediner.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "greenpoint",
     "vibe": [
       "chill",
-      "foodie"
+      "foodie",
+      "photo"
     ],
     "dietary": [
-      "vegetarian",
-      "vegan"
+      "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Open 24 hours",
-    "notes": "Address: 45-30 23rd St, Long Island City, NY 11101; phone (718) 392-1222. Open 24/7 every day including weekends — no wait windows for brunch (Court Square Diner site). Saturday mornings get full but turnover is fast (The Infatuation). Plentiful parking nearby (Yelp / Tripadvisor). Pairs naturally with the LIC art cluster: ~4 min drive to SculptureCenter, ~6 min to Noguchi Museum, ~5 min to MoMA PS1. Note: drive from Industry City is longer (~22 min via BQE) — best used as a LIC-day anchor rather than IC-day, but uniquely justified as the food gap-filler in the LIC art track.",
+    "hoursWeekend": "Open 24 hrs",
+    "notes": "45-30 23rd St, LIC — two blocks from SculptureCenter and a 6-min walk to MoMA PS1, making it the ideal casual food anchor for an LIC art track. Same location since 1946 (theinfatuation.com). Weekend street parking around Jackson Ave is reportedly easy; MPG Jackson Avenue Garage is 0.2 mi away (bestparking.com). Drive from Industry City is ~22 min via the BQE. Late-night reliability is the real selling point — works as a track opener (brunch before galleries) OR closer (post-show fries at 1am).",
     "sources": [
       {
         "url": "https://www.courtsquarediner.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/court-square-diner",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/court-square-diner-long-island-city",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/court-square-diner/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g48080-d2241250-Reviews-Court_Square_Diner-Long_Island_City_Queens_New_York.html",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.bestparking.com/long-island-city-ny-parking/destinations/court-square-parking/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T00:57:25.533Z"
+    "lastResearchedAt": "2026-05-18T09:25:38.195Z"
   },
   {
     "id": "lic-landing",
@@ -40077,5 +40069,91 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T09:14:04.906Z"
+  },
+  {
+    "id": "sweetleaf-lic-jackson",
+    "name": "Sweetleaf Coffee Roasters (Jackson Ave)",
+    "desc": "Hunters Point LIC roaster known for serious espresso and signature Rocket Fuel cold brew",
+    "longDesc": "Sweetleaf's original Long Island City location at 10-93 Jackson Ave pours espresso 'according to precise techniques and methodology' in what the NYT called a 'bar-like atmosphere.' Their house Rocket Fuel cold brew is a local benchmark, and the room is compact enough to grab a drink and roll on — ideal for a between-stops caffeine reset after Noguchi before pivoting to dinner.",
+    "url": "https://www.sweetleafcoffee.com/pages/jackson-avenue",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:00-19:00",
+    "notes": "10-93 Jackson Ave, LIC (Hunters Point), ~5-7 min drive from Noguchi Museum via 11th St (source: sweetleafcoffee.com). Weekend hours 8a-7p (source: sweetleafcoffee.com, Yelp Apr 2026). Street parking on Jackson/11th is metered but typically findable on weekends; the Center Blvd waterfront location has easier parking if Jackson is full. Sister shops at 4615 Center Blvd and 2810 Jackson Ave (Queens Plaza) extend the window if hours don't line up. Phone 917-832-6726.",
+    "sources": [
+      {
+        "url": "https://www.sweetleafcoffee.com/pages/jackson-avenue",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sweetleaf-long-island-city-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.ordersweetleafcoffee.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:23:26.385Z"
+  },
+  {
+    "id": "felix-roasting-co-soho",
+    "name": "Felix Roasting Co. SoHo",
+    "desc": "Light-filled corner cafe with whitewashed oak and Felix custom art — the still-open SoHo sister.",
+    "longDesc": "Felix Roasting Co.'s SoHo outpost at the corner of Greene and Houston is the closest still-operating Felix to a bridge crossing from IC after the Astor Place location closed. The split-level space pairs a custom whitewashed-oak ground floor with an upstairs communal/co-working loft, all dressed in Felix-branded artwork — strong photo backdrop. House specialties include the Hickory-Smoked Latte and house-made nut milks.",
+    "url": "https://felixroastingco.com/pages/visit-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 8:00-19:00, Sun 9:00-17:00",
+    "notes": "Manhattan venue (145 Greene St, SoHo) — included as the strongest photo-coffee replacement for closed Astor Place Felix. Access via Manhattan Bridge through Dumbo; weekend street parking on Greene/Mercer is metered and tight — paid lot at Hotel Hugo a few blocks away is the reliable backup (yelp). Light-filled corner location described as 'the perfect resting stop for shopping, strolling, and the perfect SoHo day' (felixroastingco.com). Pet-friendly; housemade nut milk available (yelp).",
+    "sources": [
+      {
+        "url": "https://felixroastingco.com/pages/visit-us",
+        "accessed": "2026-05-18T09:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/felix-roasting-new-york-9",
+        "accessed": "2026-05-18T09:20:00Z"
+      },
+      {
+        "url": "https://www.atlantacoffeeshops.com/felix-roasting-co-soho-nyc",
+        "accessed": "2026-05-18T09:20:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d23469352-Reviews-Felix_Roasting_Co-New_York_City_New_York.html",
+        "accessed": "2026-05-18T09:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:28:08.164Z"
   }
 ]
