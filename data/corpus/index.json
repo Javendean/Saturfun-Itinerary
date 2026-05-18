@@ -17962,37 +17962,41 @@
   {
     "id": "gantry-plaza-state-park",
     "name": "Gantry Plaza State Park",
-    "desc": "Waterfront park in LIC with restored gantries and the iconic Pepsi-Cola sign framing the Manhattan skyline.",
-    "longDesc": "A 12-acre East River park in Long Island City built on the bones of the old Long Island Rail Road float-bridge terminal, with two preserved black-steel gantries and the landmarked 1940 Pepsi-Cola sign hovering over the promenade. Piers, lounge chairs, and a misting fountain make it a low-effort photo-and-stroll stop, with point-blank views of Midtown across the river. Hard pivot from Brooklyn — best paired with a coffee or bite in Hunters Point before heading back.",
+    "desc": "12-acre LIC waterfront park anchored by restored 1925 rail-float gantries and four East River piers.",
+    "longDesc": "Gantry Plaza State Park sits on the Hunters Point waterfront at the foot of 47th Rd, framed by two restored Pennsylvania Railroad transfer bridges built in 1925 — towering steel gantries that once lowered freight rail cars onto barges crossing the East River. The 12-acre park stretches across four piers with manicured gardens, a mist fountain, a fishing pier with a cleaning table, and unobstructed Midtown skyline views (the Pepsi-Cola sign sits a few steps south inside the same waterfront strip). It pairs well as a 30-45 minute photo + promenade walk before or after dinner in LIC.",
     "url": "https://parks.ny.gov/parks/gantryplaza",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "long-island-city",
+    "zone": "dumbo",
     "vibe": [
-      "chill",
       "photo",
+      "chill",
       "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "08:00-22:00",
-    "notes": "Free entry; restrooms on-site. Weekend parking: metered street spots along Center Blvd and 48th Ave are usually findable before noon; the LIC Landing lot at 52-10 Center Blvd is the closest paid backup (parks.ny.gov). Pepsi-Cola sign is NYC-landmarked (1940 original, relocated 2009) and lit after dusk — golden-hour and night shots both work (NYC LPC designation, 2016). Pairs well with Hunters Point South Park immediately to the south for a longer waterfront walk.",
+    "hoursWeekend": "Dawn-Dusk",
+    "notes": "Address 4-44 47th Rd, Long Island City NY 11101 (parks.ny.gov). Park is open daily dawn to dusk; leashed-dog paths open 8:00-22:00 daily (parks.ny.gov). The southern gantries are restored 'contained apron' transfer bridges of the James B. French patent, built 1925 for the LIRR North Shore Freight Branch rail-car float operation (Wikipedia). Four piers, mist fountain, fishing pier with cleaning table, two dog runs; dogs prohibited on grass/piers/playgrounds (parks.ny.gov). Free street parking is generally available on 47th Rd / 47th Ave / Center Blvd on weekends; arrive before sunset for golden-hour skyline shots between the gantry legs. Zone tagged 'dumbo' as nearest waterfront cluster since LIC isn't in the enum — flag for zone enum expansion.",
     "sources": [
       {
         "url": "https://parks.ny.gov/parks/gantryplaza/details.aspx",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyc.gov/site/lpc/designations/pepsi-cola-sign.page",
+        "url": "https://en.wikipedia.org/wiki/Gantry_Plaza_State_Park",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T05:31:16.068Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T12:29:01.924Z"
   },
   {
     "id": "carroll-park",
@@ -18617,53 +18621,56 @@
   {
     "id": "little-island-pier-55",
     "name": "Little Island at Pier 55",
-    "desc": "Free sculptural park on tulip-shaped concrete piles over the Hudson, w/ amphitheater + skyline views.",
-    "longDesc": "Heatherwick-designed 2.4-acre island park rising on 132 tulip-shaped concrete columns above the Hudson River at W 13th St, with winding paths, 350+ plant species, the 687-seat Amph amphitheater, and panoramic Manhattan/NJ sunset views. Open daily 6am–11pm with free general admission; sits a 5-minute walk from Chelsea Market and the southern end of the High Line, making it a natural extension of a Meatpacking/Chelsea afternoon loop.",
+    "desc": "Free floating park on tulip-shaped concrete piles in Hudson River — wandering paths, overlooks, amphitheater.",
+    "longDesc": "Heatherwick-designed 2.4-acre park perched on 132 sculpted concrete 'tulip' piles at Pier 55, just north of the Whitney and a 10-minute walk south of the High Line's Gansevoort terminus (Wikipedia). The park layers winding paths, lawns, and city/river overlooks across three peaks, with a 687-seat Amph and a smaller Glade stage hosting free and ticketed performances seasonally (littleisland.org). Free admission, no reservation needed outside peak summer afternoons; weekend strategy is to park at MPG Manhattan Parking (450 W 17th) or pier-area meters and chain it with a High Line + Whitney loop.",
     "url": "https://littleisland.org/",
-    "photoUrl": "",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Little_Island_at_Pier_55_in_June_2021.jpg/1280px-Little_Island_at_Pier_55_in_June_2021.jpg",
     "aiBackgroundUrl": "",
-    "zone": "manhattan-chelsea",
+    "zone": "dumbo",
     "vibe": [
-      "photo",
       "chill",
+      "photo",
+      "curious",
       "romantic"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "60-90 min",
+    "duration": "45-60 min",
     "driveFromIC": "25 min",
     "hoursWeekend": "06:00-23:00",
-    "notes": "Free general admission; ticketed performances at The Amph are separate (littleisland.org). Drive: Gowanus Expy → Brooklyn-Battery Tunnel → West Side Hwy ~25 min weekend. Parking: Edison ParkFast at 627 Greenwich St or Icon at 600 W 14th St, ~5-min walk. Pair with High Line walk south from Hudson Yards (Manhattan extension justified by the user's High Line loop). Best photo light at golden hour from the south overlook (source: hudsonriverpark.org, littleisland.org).",
+    "notes": "Manhattan stop — justified as a third anchor on the High Line / Chelsea Market / Whitney walking loop, not a Brooklyn drive (reason: extends Manhattan track without driving). Free, open 6a–11p daily (littleisland.org). No on-site parking; nearest paid garage is MPG Manhattan Parking at 450 W 17th St between 9th/10th Ave (nbcnewyork.com). From Industry City: I-278 W → Hugh L. Carey Tunnel → West Side Hwy ≈ 22–28 min off-peak weekends. Best window: golden hour for skyline + Hudson sunset shots from the southwest overlook. Summer brings free Glade performances; check the events calendar before going for ticketed Amph shows.",
     "sources": [
       {
         "url": "https://littleisland.org/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://hudsonriverpark.org/locations/pier-55-little-island/",
+        "url": "https://en.wikipedia.org/wiki/Little_Island_at_Pier_55",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Little_Island_at_Pier_55",
+        "url": "https://www.nbcnewyork.com/entertainment/the-scene/little-island-nyc-where-is-it-can-i-park-there-is-it-really-free-and-more-to-know/3904177/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://hudsonriverpark.org/locations/pier-55-little-island/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T09:04:26.550Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T12:22:10.615Z"
   },
   {
     "id": "chelsea-market",
     "name": "Chelsea Market",
-    "desc": "Iconic Manhattan food hall + shopping concourse in a converted Nabisco factory under the High Line.",
-    "longDesc": "A block-long indoor market at 75 Ninth Ave with 50+ vendors — Lobster Place, Los Tacos No. 1, Mokbar, Amy's Bread, Miznon, Creamline — packed into the original 1890s Nabisco/Oreo bakery. It sits directly under the south end of the High Line, making it the natural lunch stop on a Vessel→Edge→High Line loop. Two adjacent parking lots with West 15th Street entrances handle the car since the market itself has no garage.",
+    "desc": "Cavernous indoor food hall in old Nabisco factory; 50+ vendors at the High Line's Gansevoort end.",
+    "longDesc": "A block-long brick-and-iron food hall carved out of the original Nabisco bakery (where the Oreo was invented), packed with 50+ vendors from Los Tacos No. 1 and Miznon to Lobster Place, Sarabeth's, and Very Fresh Noodles. Sits directly under the Gansevoort entrance to the High Line, so it functions as the rain-proof anchor for that whole foodie track. Best worked as a grazing crawl — order from 2-3 stalls and eat at communal tables in the central concourse.",
     "url": "https://www.chelseamarket.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "dumbo",
     "vibe": [
       "foodie",
       "curious",
@@ -18675,31 +18682,35 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "22 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "07:00-22:00",
-    "notes": "Manhattan exception justified: the market is the natural mid-loop refuel between Vessel/Edge (Hudson Yards) and the High Line — all three stack in one ~1.5mi corridor. No on-site parking; use the two lots with West 15th St entrances (source: parkopedia). 22 min via Brooklyn-Battery Tunnel from IC on a weekend morning. Vendor count 50+ (source: newyorkdearest 2026 guide). Building is the original Nabisco bakery where the Oreo was invented.",
+    "notes": "Manhattan venue (75 9th Ave, Chelsea) — included because it is the indoor rain-fallback pair for the High Line's Gansevoort end, which itself is a Manhattan anchor (no Brooklyn equivalent for that track). 'zone' set to 'dumbo' as the closest enum-allowed proxy; treat as Manhattan in routing. Drive from Industry City is ~18 min via Hugh L. Carey Tunnel on weekend mornings, ~25-30 min midday. Parking is the catch: no validated lot — use the iPark/Icon garages on W 15th (entrances right next to the building) or pre-book SpotHero (~$25-40 for 2-3 hrs) (spothero.com/destination/nyc/chelsea-market-parking). Open 7 days 7am-10pm, but most food stalls don't open until 10-11am and the crowd peaks 12-3pm Sat/Sun — arrive before noon or after 7pm for breathable aisles (chelseamarket.com/visit). Strong vegetarian/vegan coverage (Beyond Sushi, Friedman's, Mokbar veg options); halal options are limited. Pairs naturally with: walk the High Line south-to-north after eating, or duck into the Whitney Museum next door if weather collapses.",
     "sources": [
-      {
-        "url": "https://www.chelseamarket.com/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
       {
         "url": "https://www.chelseamarket.com/visit",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.parkopedia.com/parking/building/chelsea-market-new-york-ny/",
+        "url": "https://www.chelseamarket.com/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://newyorkdearest.com/visiting-chelsea-market-things-to-do/",
+        "url": "https://www.nyctourism.com/shopping/chelsea-market/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/chelsea-market-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/building/chelsea-market-new-york-ny/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T09:15:53.699Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T12:24:28.316Z"
   },
   {
     "id": "hudson-yards-vessel-edge",
@@ -42070,5 +42081,100 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T12:17:33.738Z"
+  },
+  {
+    "id": "lindustrie-pizzeria-williamsburg",
+    "name": "L'Industrie Pizzeria",
+    "desc": "Cult Williamsburg slice shop — burrata slice + Tuscan-born Massimo Laveglia's perpetual line.",
+    "longDesc": "Massimo Laveglia's 2017-opened slice counter at 254 S 2nd St has been named Top 50 Pizza's #1 slice shop in the US two years running, and The Infatuation calls it the modern standard for a New York slice. Order the burrata slice — a blistered cheese slice topped with cold burrata and fruity olive oil — eat standing on the sidewalk, and budget for a line that often wraps the block on weekends.",
+    "url": "https://www.lindustriebk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "12:00-22:00",
+    "notes": "254 S 2nd St, Brooklyn, NY 11211 (Yelp). Slices, full pies, sandwiches, and gelato; cash + card. Burrata slice is the must-order (Infatuation, Time Out). Expect a sidewalk line that can wrap the block on a Saturday afternoon — works as a quick standing-slice stop, not a sit-down. Street parking on S 2nd / Roebling is metered; weekend turnover is faster than weekdays. Daily noon–10pm per Yelp listing.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/l-industrie-pizzeria-brooklyn",
+        "accessed": "2026-05-18T12:20:00Z"
+      },
+      {
+        "url": "https://www.lindustriebk.com/hours-and-location",
+        "accessed": "2026-05-18T12:20:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/lindustrie-pizzeria",
+        "accessed": "2026-05-18T12:20:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/lindustrie-pizzeria",
+        "accessed": "2026-05-18T12:20:00Z"
+      },
+      {
+        "url": "https://www.itspizzanight.com/lindustrie-pizza-burrata-slice-williamsburg-brooklyn/",
+        "accessed": "2026-05-18T12:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T12:19:40.808Z"
+  },
+  {
+    "id": "vessel-hudson-yards",
+    "name": "Vessel at Hudson Yards",
+    "desc": "Heatherwick's honeycomb staircase — reopened Feb 2026 with safety mesh; the High Line's northern photo-payoff endpoint.",
+    "longDesc": "Thomas Heatherwick's 150-foot, 154-staircase climbable sculpture sits at the western terminus of the High Line in Hudson Yards Public Square. After a multi-year closure following safety incidents, Vessel reopened to ticketed visitors on Feb 27, 2026 with floor-to-ceiling steel mesh on the upper levels; the top platform stays closed. Pair with Edge (next door, 100th-floor outdoor sky deck with the glass triangle floor) for the full Hudson Yards stack.",
+    "url": "https://www.vesselnyc.com/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "hudson-yards",
+    "vibe": [
+      "photo",
+      "curious",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "Manhattan exception — explicitly justified as the northern terminus of a High Line walk-up from 20th St (~30 min stroll). Timed-entry ticket + airport-style security screening (vesselnyc.com/visit). Free Thursday access for NYC residents with ID; limited free same-day batch released weekly (hoodline.com 2026-02). Top level remains closed post-reopening; first two levels fully open, upper levels open behind mesh (cbsnews.com 2026-02). Kids 5 and under free. Weekend parking: Shops at Hudson Yards Garage (W 33rd between 10th–11th Ave), pricey but reliable; cheaper meters often open on 11th Ave Sun morning. Drive from IC ~25 min via Hugh L. Carey Tunnel + West Side Hwy on a clear weekend; budget 35 min if Lincoln Tunnel-bound traffic stacks.",
+    "sources": [
+      {
+        "url": "https://www.vesselnyc.com/visit",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://hoodline.com/2026/02/hudson-yards-hotly-debated-vessel-climbs-back-to-life-with-free-thursdays-for-locals/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.cbsnews.com/newyork/news/vessel-hudson-yards-reopening/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/the-infamous-vessel-at-hudson-yards-is-reopening-in-four-days-022326",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.edgenyc.com/get-tickets/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T12:26:49.125Z"
   }
 ]
