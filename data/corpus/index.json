@@ -19739,44 +19739,44 @@
   },
   {
     "id": "partners-coffee-williamsburg",
-    "name": "Partners Coffee — Williamsburg Flagship",
-    "desc": "Brooklyn-rooted specialty roaster's original cafe + roastery on N 6th, pulling Bedford espresso on a Linea PB.",
-    "longDesc": "Partners Coffee's 2012 flagship cafe and roastery on a once-quiet stretch of North 6th Street in Williamsburg, founded by Adam Boyd and Amber Jacobsen. The house Bedford blend — ripe stone fruit, citrus brightness, syrupy body — is pulled on a spectacular La Marzocco Linea PB, with seasonal espresso tonics and standout pour-overs rounding out the menu (sprudge.com, yelp.com). Relaxed Williamsburg interior with wifi and a small breakfast selection — works as a curious/romantic anchor before a Williamsburg neighborhood walk.",
+    "name": "Partners Coffee — North 6th Roastery",
+    "desc": "Williamsburg flagship cafe + working roastery; clean, bright tasting room with single-origin pour-overs.",
+    "longDesc": "Partners Coffee's North 6th flagship (a block off Wythe Ave) has been Williamsburg's hub since 2012, with a Loring roaster visible from the cafe and a full bar of espresso, batch brew, and single-origin pour-overs. It's a direct peer to Devoción — slightly more minimal/industrial in feel and known for transparency on sourcing and roast date. Good second stop on a Williamsburg specialty-coffee crawl, with pastries from local bakers and an outdoor bench area in good weather.",
     "url": "https://www.partnerscoffee.com/pages/retail-locations",
-    "photoUrl": "https://www.partnerscoffee.com/cdn/shop/files/Untitled_design_20.jpg?v=1694707686&width=1050",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "chill",
       "curious",
-      "romantic"
+      "foodie"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$",
+    "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "16 min",
-    "hoursWeekend": "07:00-18:30",
-    "notes": "Address is 125 N 6th St, Brooklyn 11249 — the original Williamsburg flagship/roastery (the user's brief said 'N 7th' but verified street is N 6th). Hours 7am-6:30pm all seven days (yelp.com). Daily-driver espresso program with Bedford blend pulled on Linea PB; pour-over and seasonal espresso tonic praised in reviews (sprudge.com). Note Partners also runs a separate 'Bedford' heritage Williamsburg cafe a few blocks south — distinct venue (sprudge.com). Weekend street parking on N 6th/N 7th is realistic but tight; Wythe Ave side streets are easier. ~16 min from Industry City via Gowanus Expy / BQE.",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "07:00-18:00",
+    "notes": "Address is 125 N 6th St, Brooklyn NY 11249 — one block in from Wythe Ave, not on Wythe itself (partnerscoffee.com). Daily 7am-6pm (yelp.com). Roastery on-site since 2012; ask for pour-over flight if barista has time. Weekend metered parking on N 6th/Berry; Wythe Hotel garage is a paid fallback. Pairs naturally with Devoción (8 min walk) for an A/B tasting.",
     "sources": [
       {
         "url": "https://www.partnerscoffee.com/pages/retail-locations",
-        "accessed": "2026-05-17T13:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/partners-coffee-brooklyn-brooklyn",
-        "accessed": "2026-05-17T13:20:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://sprudge.com/partners-coffee-opens-bedford-a-heritage-williamsburg-cafe-rooted-in-coffee-craft-conversation-758077.html",
-        "accessed": "2026-05-17T13:20:00Z"
+        "url": "https://joe.coffee/locations/ny/brooklyn/partners-coffee-cafe-roastery-brooklyn/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T13:21:28.757Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T00:28:42.167Z"
   },
   {
     "id": "castle-clinton-battery-park",
@@ -31886,8 +31886,8 @@
   {
     "id": "tacocina-domino-park",
     "name": "Tacocina at Domino Park",
-    "desc": "Danny Meyer taco stand on the East River with skyline views, margaritas, and a sunset waterfront stroll.",
-    "longDesc": "Tacocina is a Union Square Hospitality Group (Shake Shack team) taco kiosk tucked into Williamsburg's Domino Park, serving pork, chicken adobo, beef-and-potato, and shrimp tacos alongside margaritas, mezcal negronis, and Mexican shrimp cocktail. Pair an evening order with the park's elevated waterfront walkway for direct Manhattan-skyline sunset views over the East River. No reservations and weekend evenings get loud and lively, so grab tacos to-go and post up on the benches near the syrup tanks.",
+    "desc": "Danny Meyer's waterfront taco bar at Domino Park with margaritas and East River views",
+    "longDesc": "A laid-back outdoor taco stand from Union Square Hospitality Group tucked into Domino Park on the Williamsburg waterfront. Menu spans Pork Pibil, Carne Asada, Ensenada Shrimp, and a solid Mexican Mushroom taco with salsa verde for vegetarians, plus quesadillas, esquites, guac, and margaritas/Micheladas. Order at the counter and eat at picnic tables overlooking the East River and Manhattan skyline.",
     "url": "https://www.heytacocina.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -31895,17 +31895,16 @@
     "vibe": [
       "chill",
       "foodie",
-      "photo",
-      "romantic"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "45-60 min",
     "driveFromIC": "18 min",
     "hoursWeekend": "11:30-21:00",
-    "notes": "Address: 25 River St, Brooklyn NY 11249, inside Domino Park (Yelp). Open daily 11:30am-9pm including Sat/Sun (heytacocina.com, Yelp). No reservations — counter order, outdoor benches (NYC Tourism). Pairs with the elevated waterfront walkway for sunset/Manhattan skyline shots (dominopark.com). Park itself open 6am-1am, so post-dinner stroll is easy. Street parking on Kent Ave / River St; three park entrances at Kent & S 5th, S 3rd, and Grand. Drive from Industry City via BQE ~18 min off-peak. Naturally chains with OddFellows Ice Cream on Kent Ave (same Domino Park stop).",
+    "notes": "Address: 25 River Street, Brooklyn NY 11249, inside Domino Park (heytacocina.com). Vegetarian-friendly: Mexican Mushroom taco w/ salsa verde + avocado, Oaxaca cheese quesadillas (~$4), esquites, chips & guac (heytacocina.com). Margaritas $9-14, Mexican beers (Tecate/Modelo); happy hour weekdays 11:30-6 only (heytacocina.com). Weekend afternoons get packed - the lawn and waterfront tables fill fast, arrive before 1pm or after 4pm for seats (Yelp). Street parking on Kent Ave/River St can be tight on weekends; consider the Williamsburg Hotel garage or muni lots near S 5th. Walk-up counter, no reservations, fast turnover.",
     "sources": [
       {
         "url": "https://www.heytacocina.com/",
@@ -31918,24 +31917,12 @@
       {
         "url": "https://www.nyctourism.com/restaurants/tacocina/",
         "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.dominopark.com/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.dominopark.com/plan-your-visit",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.afar.com/magazine/the-geniuses-behind-shake-shack-just-opened-a-taco-stand-in-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T18:42:40.654Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T00:24:14.559Z"
   },
   {
     "id": "caffe-panna-greenpoint",
@@ -35327,5 +35314,136 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T00:20:15.437Z"
+  },
+  {
+    "id": "marsha-p-johnson-state-park",
+    "name": "Marsha P. Johnson State Park",
+    "desc": "Seven-acre East River waterfront park with Manhattan skyline views and historic rail-yard remnants.",
+    "longDesc": "Formerly East River State Park, this 7-acre Williamsburg waterfront strip sits directly between Smorgasburg's home turf and Domino Park, offering wide Manhattan skyline panoramas, an event lawn that hosts summer concerts, and embedded cobblestones and rail tracks from the old Brooklyn Eastern District Terminal. Renamed in 2020 to honor LGBTQ pioneer Marsha P. Johnson, it's free, opens at 10am, and closes at dusk — ideal as a short photo + chill stop between food halls and the river walk.",
+    "url": "https://parks.ny.gov/parks/155/",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/East_River_State_Park.jpg/1024px-East_River_State_Park.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "photo",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "10:00-dusk",
+    "notes": "Free admission, no dogs and no bicycles inside per state-park rules (Wikipedia). No on-site parking — use street parking on Kent Ave or adjacent blocks; weekends fill fast around Smorgasburg (parks.ny.gov). Pairs naturally with Domino Park to the south and Smorgasburg in season for a single Williamsburg waterfront loop (nyctourism.com). Historic rail-yard cobblestones + tracks are the signature photo subject (iloveny.com).",
+    "sources": [
+      {
+        "url": "https://parks.ny.gov/visit/state-parks/marsha-p-johnson-state-park-east-river-state-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Marsha_P._Johnson_State_Park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/marsha-p-johnson-state-park/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.iloveny.com/listing/marsha-p-johnson-state-park-(east-river-state-park)/131906/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T00:22:15.060Z"
+  },
+  {
+    "id": "325-kent-ave-garage-williamsburg",
+    "name": "325 Kent Ave Garage (Domino Park Official Parking)",
+    "desc": "Valet+self-park garage officially recommended by Domino Park; ~$11 first hour, $27 full day.",
+    "longDesc": "The only garage Domino Park lists on its visit page, with entrances on S 3rd or S 4th Street between Kent and Wythe. Posted rates run $10.87 for the first hour, $13.59 up to 2 hours, $19.93 up to 10 hours, and $27.18 for 24 hours, with an Early Bird at $10.87 (enter 5–10 AM, exit by 7 PM). Drop the car here for a Williamsburg waterfront cluster (Domino Park → Wythe Hotel → S 4th food row) without circling for street parking.",
+    "url": "https://parkkwik.com/325-kent-ave/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "park 2-4 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "verify on arrival",
+    "notes": "Officially recommended by Domino Park (dominopark.com/visit). Valet garage with some self-park (parkkwik.com/325-kent-ave). Backup options nearby: 416 Kent Ave valet (SpotHero reservation from ~$7.24) and 420 Kent Ave garage (from ~$9.99) — both ~0.3-0.4 mi from the park (spothero.com/destination/nyc/domino-park-parking). iPark Kent Garage at 444 Kent Ave runs $11-$19 depending on day/length and opens 7 AM weekends (parkmobile.io).",
+    "sources": [
+      {
+        "url": "https://www.dominopark.com/visit",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://parkkwik.com/325-kent-ave/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/domino-park-parking",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://parkmobile.io/parking/locations/ny/new-york-city-parking/parking-lot/ipark-kent-garage",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T00:26:28.427Z"
+  },
+  {
+    "id": "smorgasburg-williamsburg",
+    "name": "Smorgasburg Williamsburg (Marsha P. Johnson State Park)",
+    "desc": "Saturday open-air food market on the East River waterfront with 70+ vendors and skyline views.",
+    "longDesc": "Smorgasburg's flagship Williamsburg edition takes over Marsha P. Johnson State Park (the former East River State Park) every Saturday April through October, 11am-6pm. 70+ vendors rotate weekly — 22 new in 2026 — anchored by returnees like Red Hook Lobster Pound, Mao's Bao, and Yakitori Tatsu, alongside new arrivals such as Brazilian Purple Cup tapioca crepes, The Aborrajao's cheese-stuffed fried plantains, and Jimmy's Jimchi spicy tteokbokki. Eat on the lawn with a full Manhattan-skyline view across the river.",
+    "url": "https://www.smorgasburg.com/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-18:00 (Apr-Oct only)",
+    "notes": "Pairs perfectly 5-min drive from Devoción Williamsburg. Seasonal — confirm date is within Apr-Oct window before routing. No parking inside the park; expect street parking in surrounding Williamsburg blocks or paid lots on Kent/Wythe (parks.ny.gov). 70+ rotating vendors, 22 new for 2026 with strong immigrant-founded representation (bkmag.com). No pets allowed on-site (smorgasburg.com). Cash + card; most stalls $8-$18/item.",
+    "sources": [
+      {
+        "url": "https://www.smorgasburg.com/locations",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2026/03/16/new-smorgasburg-food-vendors-2026/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://parks.ny.gov/parks/155/getting-there.aspx",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/now-in-bklyn/smorgasburg-2026",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T00:30:54.991Z"
   }
 ]
