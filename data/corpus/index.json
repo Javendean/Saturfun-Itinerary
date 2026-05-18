@@ -5328,15 +5328,15 @@
   {
     "id": "don-paco-lopez-panaderia",
     "name": "Don Paco López Panadería",
-    "desc": "Third-gen Mexican bakery famous for conchas; pan dulce hot from the oven 5:30 AM daily",
-    "longDesc": "Family-run since 1991 by Francisco and Leonila López (now in their 90s, still overseeing daily bakes), with recipes traced back to 1932 Puebla. The seashell-shaped conchas earned New York Times, Today Show, and ABC Localish features. Cheap, photogenic, and a perfect grab-and-go before climbing Sunset Park's hill for the Manhattan skyline view.",
+    "desc": "Three-generation Sunset Park Mexican bakery famous for shell-shaped conchas and rainbow trays of pan dulce.",
+    "longDesc": "Opened by Francisco 'Don Paco' López in 1991 at 4703 4th Ave, this family panadería is one of Brooklyn's most-cited spots for authentic Mexican sweet breads — conchas, orejas, campechanas, polvorones — recognized by The New York Times, Today Show, and Localish. Self-serve tongs and trays, cash-friendly, sugary cultural anchor of Sunset Park's Mexican corridor just a few blocks south of Industry City.",
     "url": "https://donpacolopez.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "photo",
+      "curious",
       "chill"
     ],
     "dietary": [
@@ -5344,27 +5344,35 @@
     ],
     "priceBand": "$",
     "duration": "20-30 min",
-    "driveFromIC": "6 min",
+    "driveFromIC": "5 min",
     "hoursWeekend": "Sat 5:30-19:00, Sun 5:30-13:00",
-    "notes": "Address is 4703 4th Ave (47th St), not 5th Ave — about 3 blocks south of Sunset Park proper, but still the obvious bakery anchor for any 5th Ave food crawl (donpacolopez.com). Sunday closes early at 1 PM — schedule before lunch on Sundays. Park on 4th Ave or side streets; meters end Sunday. Conchas are the hero item (NYT, Today Show coverage, donpacolopez.com/pages/press-don-paco-lopez-bakery). Cash-friendly counter, limited seating — designed for grab-and-go.",
+    "notes": "Sunset Park flagship at 4703 4th Ave — second location is Spanish Harlem, third opened in Westbury LI in 2024 (donpacolopez.com/about). Sunday closes at 1pm so it's a morning-only stop on Sundays (Yelp). Pair with Tacos El Bronco or Industry City Food Hall — street parking on 4th Ave is doable on weekend mornings (Yelp/Tripadvisor). Conchas are the signature; campechanas and orejas are the locals' favorites (Infatuation/Viewing NYC).",
     "sources": [
       {
+        "url": "https://donpacolopez.com/",
+        "accessed": "2026-05-18"
+      },
+      {
         "url": "https://donpacolopez.com/pages/about-us",
-        "accessed": "2026-05-18T23:30:00Z"
+        "accessed": "2026-05-18"
       },
       {
         "url": "https://www.yelp.com/biz/don-paco-lopez-panaderia-brooklyn",
-        "accessed": "2026-05-18T23:30:00Z"
+        "accessed": "2026-05-18"
       },
       {
-        "url": "https://donpacolopez.com/pages/press-don-paco-lopez-bakery",
-        "accessed": "2026-05-18T23:30:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/don-paco-lopez-panaderia",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
+        "accessed": "2026-05-18"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T23:31:38.561Z"
+    "lastResearchedAt": "2026-05-18T23:48:54.856Z"
   },
   {
     "id": "thanh-da-sandwich",
@@ -48814,5 +48822,188 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T23:44:09.378Z"
+  },
+  {
+    "id": "pan-pizza-ridgewood",
+    "name": "Pàn (formerly Houdini Kitchen Laboratory)",
+    "desc": "Wood-fired Neapolitan pizza in a former Ridgewood brewery courtyard — the Houdini successor",
+    "longDesc": "Pàn took over the legendary Houdini Kitchen Laboratory space at 1563 Decatur St — a converted brewery loading dock with an open courtyard tucked behind a yard gate. Wood-fired Neapolitan pizzas, Italian pastas, and weekend brunch, plus occasional live jazz and salsa nights. Same hidden-courtyard magic that made Houdini a Ridgewood landmark, now with a refreshed Italian-forward menu.",
+    "url": "https://pan-nyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "Houdini Kitchen Laboratory closed during the pandemic and was replaced by Pàn at the same address (Bushwick Daily). Pàn keeps the wood-fired oven and the courtyard intact in the former brewery building (pan-nyc.com). Weekend brunch 11:00-15:30, dinner daily 15:00-22:00, Friday until 22:30 (pan-nyc.com). Halsey L stop one block away; street parking on Decatur is usually findable on weekend evenings. About a 5-min drive from Los Hermanos Bushwick — keeps the Bushwick/Ridgewood cluster alive into dinner exactly as the original Houdini pitch intended.",
+    "sources": [
+      {
+        "url": "https://pan-nyc.com/",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/food-and-drink/houdini-kitchen-pan-ridgewood-drunken-crab-nite-nite/",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/pan-ridgewood",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.business.nyctourism.com/places/houdini-kitchen-laboratory-ridgewood",
+        "accessed": "2026-05-18T23:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:46:45.446Z"
+  },
+  {
+    "id": "sunset-park-skyline-hill",
+    "name": "Sunset Park (the Park) — Skyline Hilltop",
+    "desc": "Hilltop park with panoramic Manhattan skyline, Statue of Liberty & New York Harbor views — best at sunset.",
+    "longDesc": "Sunset Park is a 24.5-acre hilltop park between 41st–44th Streets and 5th–7th Avenues in Brooklyn. Climb to the high point near 7th Avenue and you get an unobstructed panorama of the Manhattan skyline, New York Harbor, the Statue of Liberty, and on clear days the green hills of Staten Island and New Jersey. It's a low-key, locals-mostly spot with benches, open lawn, and a 9/11 memorial — pairs perfectly with La Malinche directly across the street as a single sunset food-walk track.",
+    "url": "https://www.nycgovparks.org/parks/sunset-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "06:00-21:00 (dawn to 1 hr after sunset)",
+    "notes": "Best vantage is the hilltop near 7th Ave & 43rd St — walk up from the 5th Ave side for the reveal effect (nycgovparks.org). Free street parking on weekends along 41st–44th Sts is usually findable; arrive ~45 min before sunset for the prime bench seats. Bring a light jacket, the hill catches wind off the harbor. Park itself stays open until ~1 hr past sunset; the recreation center is currently closed for reconstruction but doesn't affect the view (nycgovparks.org).",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/sunset-park",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-18T23:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T23:50:56.541Z"
+  },
+  {
+    "id": "mayas-snack-bar-sunset-park",
+    "name": "Maya's Snack Bar (Sunset Park)",
+    "desc": "Family-run paleteria on 5th Ave with authentic Mexican paletas, aguas frescas, and snacks.",
+    "longDesc": "Brooklyn's go-to Sunset Park paleteria for the La Michoacana style — fruit-forward paletas (mango con chile, fresa, tamarindo), creamy options (arroz con leche, queso, pistache), and aguas frescas (horchata, jamaica) made daily. Family-owned and a few blocks south of the Industry City corridor, it doubles as a churro and esquite stop on hot afternoons. Independent, cash-friendly, and squarely a 'closer' pin after a corridor walk.",
+    "url": "https://www.mayassunset.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "Sat 13:00-00:00; Sun 13:00-22:00",
+    "notes": "5311 5th Ave, Brooklyn NY 11220 (Yelp). Weekend hours per Yelp listing: Sat 1pm–12am, Sun 1pm–10pm. Topic 'Paleteria La Michoacana' is a category descriptor — Brooklyn's actual 'La Michoacana NYC' is in Bushwick (54 Irving Ave, 11237), not Sunset Park; Maya's is the authentic Sunset Park equivalent on the 5th Ave Mexican corridor. Cash-friendly, family-run; pairs well as a dessert closer after Industry City food halls or Sunset Park walk. Weekend street parking on 5th Ave / 53rd-54th St is workable outside peak Sunday afternoons.",
+    "sources": [
+      {
+        "url": "https://www.mayassnackbar.com/",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.mayassunset.com/",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mayas-snack-bar-sunset-park-brooklyn",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/search?find_desc=Paleteria&find_loc=Sunset+Park,+Brooklyn,+NY",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/la-michoacananyc-brooklyn",
+        "accessed": "2026-05-18T23:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:54:08.875Z"
+  },
+  {
+    "id": "bunna-cafe-bushwick",
+    "name": "Bunna Cafe",
+    "desc": "100% plant-based Ethiopian with shared injera platters and a traditional coffee ceremony.",
+    "longDesc": "A Bushwick staple since the early 2010s, Bunna serves entirely vegan Ethiopian food — lentil and split-pea wats, gomen, tikil gomen, and beet salads scooped with injera. The Feast for 2 sampler is the move for groups; the full coffee ceremony (roasted, ground, and brewed tableside with frankincense) is a low-key showstopper for a curious dinner stop after Industry City.",
+    "url": "https://www.bunnaethiopia.net/",
+    "photoUrl": "https://static.wixstatic.com/media/704eb9_f33aacb5c76c4aa8b63028f01bcc2a6d~mv2.png",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 12:00-16:30, 17:00-23:00; Sun 12:00-16:00, 17:00-22:00",
+    "notes": "Verified address is 1084 Flushing Ave, Brooklyn NY 11237 — original brief listed an outdated 1097 Bergen location (bunnaethiopia.net). Walk-in only for parties up to 7; reservations required for larger groups (timeout.com). Free street parking around Flushing/Knickerbocker is usually findable on weekend evenings. The tableside coffee ceremony is a signature experience and pairs well as a post-IC dinner before a Bushwick gallery or bar stop.",
+    "sources": [
+      {
+        "url": "https://www.bunnaethiopia.net/",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/bunna-cafe",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bunna-cafe-brooklyn",
+        "accessed": "2026-05-18T23:50:00Z"
+      },
+      {
+        "url": "https://bushwickdaily.com/food-and-drink/5447-bushwick-flushing-order-at-bunna-ethiopian-cafe/",
+        "accessed": "2026-05-18T23:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T23:56:20.079Z"
   }
 ]
