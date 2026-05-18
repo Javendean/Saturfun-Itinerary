@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Bohemian Hall & Beer Garden (29-19 24th Ave, Astoria)",
-    "reason": "Closest evening food/drink anchor to the Vernon Blvd waterfront cluster — Czech beer garden ~6 min drive from Rainey, weekend parking on 24th Ave; converts the waterfront walk into a full afternoon→evening track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:12:42.431Z"
-  },
-  {
-    "topic": "Pye Boat Noodle (35-13 Broadway, Astoria) — Thai boat-noodle anchor 8 min drive from Astoria Park",
-    "reason": "Adds a post-swim dinner stop inside the NW Queens cluster; foodie tag the cluster currently lacks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:15:39.924Z"
-  },
-  {
-    "topic": "Rainey Park waterfront (Vernon Blvd, LIC/Astoria border) — quieter Manhattan-skyline promenade",
-    "reason": "Lower-traffic alternative to Socrates with the same Roosevelt Island/Manhattan view; fills a chill/photo slot between Socrates and Astoria Park",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:15:39.924Z"
-  },
-  {
-    "topic": "Sanford's Restaurant (30-13 Broadway, Astoria) — 24hr diner with full bar",
-    "reason": "Late-night anchor for any Queens itinerary; covers the 'after everything else closes' slot the corpus is thin on",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:15:39.924Z"
-  },
-  {
-    "topic": "Sek'end Sun (Astoria cocktail bar, ~10 min walk from Bohemian Hall)",
-    "reason": "Late-night cocktail nightcap closes the Queens-day track without leaving the neighborhood",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:17:58.537Z"
-  },
-  {
     "topic": "Astoria Park & Hell Gate Bridge waterfront (free, photogenic)",
     "reason": "Daytime photo/active anchor that pairs with Kyclades + Bohemian Hall on a Queens cluster",
     "requestedBy": "agent",
@@ -14326,5 +14296,95 @@
     "reason": "Sit-down lunch options to bookend the Noguchi+Socrates parking anchor without losing the LIC zone",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T01:51:13.878Z"
+  },
+  {
+    "topic": "Astoria Park waterfront + Hell Gate Bridge sunset spot",
+    "reason": "free pre-dinner walk 8 min north of Bohemian Hall — extends the LIC waterfront track with a second viewpoint cluster before beer garden landing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:53:36.039Z"
+  },
+  {
+    "topic": "Taverna Kyclades (Astoria Greek seafood classic)",
+    "reason": "alternative evening anchor in same zone if user wants non-beer, non-Czech — covers the dietary-flexible / romantic vibe Bohemian Hall doesn't",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:53:36.039Z"
+  },
+  {
+    "topic": "Sunswick 35/35 craft beer bar Astoria",
+    "reason": "rainy-day indoor fallback for the same waterfront-track endpoint; 200+ bottle list, smaller scale than Bohemian Hall",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:53:36.039Z"
+  },
+  {
+    "topic": "Mu Ramen, Long Island City — destination tonkotsu/ramen anchor 6 min from Astoria Park",
+    "reason": "Second foodie option for the NW Queens cluster on nights Pye is slammed; gives the cluster a ramen counterpart to the boat-noodle slot.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:55:56.396Z"
+  },
+  {
+    "topic": "Taverna Kyclades, 33-07 Ditmars Blvd Astoria — old-school Greek seafood within the Astoria cluster",
+    "reason": "Astoria's defining cuisine is Greek; cluster needs at least one Greek anchor to feel authentic to the neighborhood.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:55:56.396Z"
+  },
+  {
+    "topic": "Bohemian Hall & Beer Garden, 29-19 24th Ave Astoria — Czech beer garden 10 min from Astoria Park",
+    "reason": "Outdoor group-friendly drinks venue that pairs with a Pye dinner; fills the cluster's missing 'drinks' beat.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:55:56.396Z"
+  },
+  {
+    "topic": "Whitey Ford Field / Astoria Park Pool waterfront under Hell Gate Bridge",
+    "reason": "Northern bookend of the Vernon Blvd waterfront chain — dramatic bridge view balances Rainey's open skyline view",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:58:00.914Z"
+  },
+  {
+    "topic": "Bridge & Tunnel Bakery, Astoria (Vernon Blvd area cafe)",
+    "reason": "Coffee/pastry pairing for a Rainey → Socrates → Astoria Park walking loop, currently no LIC/Astoria cafe in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:58:00.914Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park, Long Island City Pepsi-Cola sign promenade",
+    "reason": "Southern bookend of the same Queens waterfront chain — iconic photo spot with Midtown skyline; complements Rainey's UES view",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:58:00.914Z"
+  },
+  {
+    "topic": "Taverna Kyclades Astoria — Greek seafood institution on Ditmars",
+    "reason": "Higher-end Queens dinner anchor; pairs naturally with a Sanfords nightcap and tests whether the corpus can support a Queens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:01:15.605Z"
+  },
+  {
+    "topic": "Bohemian Hall & Beer Garden Astoria — historic Czech beer garden",
+    "reason": "Outdoor-leaning Queens nightlife with parking; covers a vibe (large beer garden) the Brooklyn corpus doesn't have",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:01:15.605Z"
+  },
+  {
+    "topic": "King Souvlaki of Astoria — late-night Greek street food",
+    "reason": "Actually open late (until ~3-4AM weekends per most listings) — better candidate than Sanfords for the 'after everything closes' slot the original brief was trying to fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:01:15.605Z"
+  },
+  {
+    "topic": "The Bonnie (Astoria cocktail bar, 29-12 23rd Ave) — late-night nightcap replacement for Sek'end Sun, ~3 min walk from Bohemian Hall",
+    "reason": "Active Astoria cocktail/gastropub with weekend late-night hours; nearly adjacent to the Bohemian Hall anchor and serves the same Queens-day-track closing slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:03:51.661Z"
+  },
+  {
+    "topic": "Diamond Dogs (Astoria, 34-04 31st Ave) — vinyl cocktail bar nightcap, ~10 min walk from Bohemian Hall",
+    "reason": "Verified open Astoria cocktail listening bar with strong late-night identity; covers the 'curious/romantic' nightcap vibe Sek'end Sun used to fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:03:51.661Z"
+  },
+  {
+    "topic": "Kabin Astoria (cocktail lounge, 31-71 21st St) — late-night cocktail option within walking distance of Bohemian Hall",
+    "reason": "Modern Astoria cocktail room with extended weekend hours; expands the Queens-day-track closing-stop corpus beyond a single fallback",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:03:51.661Z"
   }
 ]

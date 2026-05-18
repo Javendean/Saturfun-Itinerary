@@ -2961,12 +2961,12 @@
   {
     "id": "bohemian-hall-beer-garden",
     "name": "Bohemian Hall & Beer Garden",
-    "desc": "Century-old Czech beer garden in Astoria — pilsners, kielbasa, and the largest outdoor biergarten in NYC.",
-    "longDesc": "Operated by the Bohemian Citizens' Benevolent Society since 1910, this Astoria institution pairs Czech and Slovak staples (giant pretzel with beer cheese, goulash, schnitzel, kielbasa platters) with imported Pilsner Urquell and Czechvar on tap. The tree-shaded courtyard seats hundreds at picnic tables and is the natural finish to any Queens-leaning track — loud, lively, and built for groups arriving after a Socrates Sculpture Park or Noguchi stop.",
-    "url": "https://www.bohemianhall.com/",
+    "desc": "Czech beer garden since 1910 — 800-seat outdoor courtyard, pilsners, kielbasa, no-reservations weekend energy",
+    "longDesc": "NYC's oldest continuously operating beer garden, run by the Bohemian Citizens' Benevolent Society of Astoria since 1910. The half-acre outdoor courtyard seats ~800 at communal picnic tables under shade trees; menu is Czech/Slovak (goulash, schnitzel, pierogi, kielbasa) with a deep draft list (Pilsner Urquell, Krušovice, Staropramen). Cash-friendly, no reservations on the patio — works as a roll-up evening anchor after a Vernon Blvd / Rainey Park waterfront walk.",
+    "url": "https://bohemianhall.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "greenpoint",
     "vibe": [
       "chill",
       "foodie"
@@ -2976,39 +2976,35 @@
     ],
     "priceBand": "$$",
     "duration": "90-120 min",
-    "driveFromIC": "25 min",
+    "driveFromIC": "27 min",
     "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
-    "notes": "29-19 24th Ave, Astoria, NY 11102. Two municipal lots on 33rd St between Ditmars & 23rd Ave; Sunday street parking is generally easy (Parkopedia, bohemianhall.com/directions). Weekend menu adds brunch-leaning items; vegetarian pierogi and fried cheese available. Pairs well as the late-afternoon/evening cap to a Long Island City track (Socrates ~10 min, Noguchi ~10 min, MoMA PS1 ~12 min). Cash-friendly biergarten section — credit accepted inside the hall.",
+    "notes": "Actually in Astoria, Queens — tagged greenpoint as nearest in-enum zone (Newtown Creek away). Closest evening anchor to the Vernon Blvd / Rainey Park waterfront cluster (~6 min drive, 1.5 mi). Weekend parking: street parking on 24th Ave + two municipal lots on 33rd St between Ditmars & 23rd Ave (Sundays especially easy) (parkopedia). Sat opens noon, runs till 1am; Sun closes 10pm — pace the waterfront walk to land here by 18:00 for sunset table turn (bohemianhall.com). Vegetarian options exist (pierogi, fried cheese, salads) but menu skews heavy meat — flag for non-meat eaters. No reservations on the patio; large groups use indoor hall. Czech/Slovak cuisine plus Mediterranean and American fare (opentable). Cash and card accepted at bar.",
     "sources": [
       {
-        "url": "https://www.bohemianhall.com/",
-        "accessed": "2026-05-16T22:50:00Z"
+        "url": "https://bohemianhall.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.bohemianhall.com/directions",
-        "accessed": "2026-05-16T22:50:00Z"
-      },
-      {
-        "url": "https://bohemianhall.com/weekend-menu/",
-        "accessed": "2026-05-16T22:50:00Z"
+        "url": "https://bohemianhall.com/direction-hours/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.opentable.com/r/bohemian-hall-and-beer-garden-astoria",
-        "accessed": "2026-05-16T22:50:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://en.parkopedia.com/parking/bar/bohemian-hall-and-park-astoria/",
-        "accessed": "2026-05-16T22:50:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/nightlife/bohemian-hall-beer-garden/",
-        "accessed": "2026-05-16T22:50:00Z"
+        "url": "https://www.timeout.com/newyork/bars/bohemian-hall-and-beer-garden",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:53:05.598Z"
+    "lastResearchedAt": "2026-05-18T01:53:36.010Z"
   },
   {
     "id": "brooklyn-museum",
@@ -16772,49 +16768,40 @@
   {
     "id": "sekend-sun-astoria",
     "name": "Sek'end Sun",
-    "desc": "Former Astoria cocktail bar — reportedly closed Aug 2025; not a rooftop and not near Casa Enrique.",
-    "longDesc": "Sek'end Sun was an unpretentious, laid-back cocktail bar at 32-11 Broadway in Astoria with a cozy interior, a backyard patio with a neon 'Queens' sign, late-night happy hours and events like mix-tape bingo. Multiple 2025 review sources and the current Yelp listing indicate the venue has closed; it is also ~2 miles north of Casa Enrique (LIC/Hunters Point), not the 5-min walk the research brief assumed, and was never a rooftop with Manhattan-skyline views. Do not include in active itineraries until status is re-verified.",
+    "desc": "Closed (2026) — formerly a laid-back Astoria cocktail bar with neon-lit backyard, ~10 min walk from Bohemian Hall",
+    "longDesc": "Sek'end Sun was a versatile, dimly-lit cocktail bar at 32-11 Broadway in Astoria, known for its spacious backyard with a neon 'Queens' sign, weekly trivia, and a 5-8pm happy hour. Yelp marks the business CLOSED as of April 2026, though the official site (sekendsun.com) and several aggregator listings still appear active — typical lag after a permanent close. Not currently bookable for a Saturfun nightcap; needs a live replacement.",
     "url": "https://www.sekendsun.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
-      "chill"
+      "chill",
+      "romantic"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 11:00-04:00, Sun 11:00-02:00 (when open — status unverified)",
-    "notes": "STATUS WARNING: Yelp listing labeled CLOSED as of 2026 fetch; Restaurantji review (Aug 2025) reads 'it will be missed as it closes its doors this weekend' (https://www.restaurantji.com/ny/queens/sekend-sun-/). LOCATION CORRECTION: 32-11 Broadway, Astoria NY 11106 — ~2 miles from Casa Enrique (5-48 49th Ave, LIC), not a 5-min walk. FORMAT CORRECTION: ground-floor cocktail bar with backyard patio, not rooftop; no direct Manhattan-skyline view. Pre-closure vibe was chill/unpretentious with inventive cocktails and small plates (https://www.theinfatuation.com/new-york/reviews/sekend-sun). Re-verify before promoting; better candidates for the post-Casa-Enrique drinks slot are enqueued.",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "Historical: Sat 11:00-04:00, Sun 11:00-02:00 (venue closed)",
+    "notes": "CLOSED per Yelp listing updated April 2026 (https://www.yelp.com/biz/sekend-sun-astoria-2). Official site sekendsun.com still loads with historic hours and 'versatile, laid-back cocktail bar in astoria, queens' tagline but has not been updated. Address was 32-11 Broadway, Astoria NY 11106, ~0.5 mi (10 min walk) from Bohemian Hall Beer Garden at 29-19 24th Ave. Actual neighborhood is Astoria, Queens — zone field set to 'greenpoint' as closest enum option since schema lacks Queens zones. Drive from Industry City is ~30 min via Brooklyn-Queens Expy (outside the 10-25 min preferred radius — only justifiable inside a dedicated Queens-day track anchored at Bohemian Hall). Do NOT promote to live site; surface a live Astoria nightcap instead. The Infatuation review (2019) tagged it $$$$ and a date/trivia spot (https://www.theinfatuation.com/new-york/reviews/sekend-sun).",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/sekend-sun-astoria-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.restaurantji.com/ny/queens/sekend-sun-/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.sekendsun.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/sekend-sun",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g29837-d12176730-Reviews-Sek_end_Sun-Astoria_Queens_New_York.html",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://hedonistshedonist.com/blog/sekend-sun-review/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T18:59:17.816Z"
+    "lastResearchedAt": "2026-05-18T02:03:51.632Z"
   },
   {
     "id": "moma-ps1",
@@ -16946,46 +16933,45 @@
   },
   {
     "id": "rainey-park",
-    "name": "Rainey Park (Astoria Waterfront)",
-    "desc": "Free East River promenade on Vernon Blvd — direct skyline views, contiguous with Socrates Sculpture Park",
-    "longDesc": "Reopened July 2025 after an $8.5M reconstruction, Rainey Park is a 7.6-acre waterfront strip in Astoria/LIC running along the East River with unobstructed views of Roosevelt Island and the Midtown Manhattan skyline. The new layout adds expanded greenways, a spray plaza, two-section playground, soccer field, basketball courts, picnic areas, and bike racks. Walk the promenade north and you flow straight into Socrates Sculpture Park, then Hallets Cove — a single Vernon Blvd parking session unlocks ~0.6 mi of continuous skyline walking.",
+    "name": "Rainey Park",
+    "desc": "Quiet Astoria waterfront strip on Vernon Blvd with open Roosevelt Island + UES skyline views",
+    "longDesc": "A linear East River park between 33rd Rd and 34th Ave on the LIC/Astoria border, reopened in 2025 after an $8.5M reconstruction that added a widened greenway, new lawns, fitness area, playground, and spray showers (qns.com, nycdotprojects.info). The shoreline faces Roosevelt Island and the Upper East Side directly, so the skyline stays in view the entire walk — it works as a calmer, less-trafficked stand-in for Socrates Sculpture Park five blocks south.",
     "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "greenpoint",
     "vibe": [
       "chill",
-      "photo",
-      "active"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "25 min",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "06:00-21:00",
-    "notes": "ACTUAL LOCATION: Vernon Blvd between 33rd Rd & 34th Ave, Astoria, Queens 11106 — not Brooklyn (zone enum forced to closest waterfront analog `dumbo`). Drive from Industry City via Gowanus/BQE ~25 min weekend, longer weekdays. Free street parking on Vernon Blvd; Socrates Sculpture Park's free lot (32-01 Vernon Blvd, ~2 min walk south) is the standard anchor — park once, walk the whole strip. Reopened 2025-07-09 after $8.5M NYC Parks reconstruction; pre-2025 photos show the old layout (source: qns.com 2025-07; nycdotprojects.info). Skyline views face west across the East River toward Roosevelt Island + Midtown — best light is late afternoon / golden hour. Sunset views especially strong June-September. Park officially closes 21:00; promenade walkway technically accessible later but unlit sections exist.",
+    "notes": "Queens venue (LIC/Astoria border) — zone tagged greenpoint as nearest Brooklyn neighbor; physically across Newtown Creek. No on-site lot; closest free curb parking at 33-01 Vernon Blvd (nycgovparks.org). Sits ~5 blocks south of Socrates Sculpture Park and ~12 blocks south of Astoria Park, so all three chain naturally along Vernon Blvd. Post-2025 reno added expanded waterfront greenway, lawns, playground, fitness zone, spray showers, ADA upgrades (qns.com). Best photo light is late afternoon / golden hour onto Manhattan-facing shoreline.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
-        "accessed": "2026-05-16T19:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://qns.com/2025/07/rainey-park-in-astoria-reopens-after-8-5-million-transformation/",
-        "accessed": "2026-05-16T19:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://nycdotprojects.info/project-updates/astorias-rainey-park-reopens",
-        "accessed": "2026-05-16T19:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://mommypoppins.com/new-york-city-kids/parks-playgrounds/rainey-park-reopens-astoria-queens-kids",
-        "accessed": "2026-05-16T19:15:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T19:12:42.417Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T01:58:00.885Z"
   },
   {
     "id": "astoria-park-pool-hellgate",
@@ -36163,5 +36149,93 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T01:49:09.398Z"
+  },
+  {
+    "id": "pye-boat-noodle",
+    "name": "Pye Boat Noodle",
+    "desc": "Astoria Thai boat-noodle den with pork-blood broth, chive pancakes, and a backyard patio.",
+    "longDesc": "Pye serves Bangkok-style boat noodles — small bowls of dark, anise-spiked broth thickened with pig blood, layered with sliced meat, meatballs and pork rind, customized table-side from caddies of vinegar chili, sugar and garlic. Beyond the signature bowls (beef, pork, or vegetable broth) the kitchen turns out cube-cut chive pancakes, crispy pad see ew, and tropical cocktails. The leafy backyard makes it a long-table dinner stop, ideal as the eating beat in a NW Queens evening.",
+    "url": "http://www.pyeboatnoodle.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-75 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:30-22:30",
+    "notes": "Geographically in Astoria, NW Queens — outside the standard Brooklyn zone set; tagged 'greenpoint' as the closest northern zone, but it actually sits across the East River in the Astoria cluster (8 min drive from Astoria Park, per task). Signature bowls $15.50–$16.50, generally $$ (sources: yelp.com/biz/pye-boat-noodle-astoria, theinfatuation.com/new-york/reviews/pye-boat-noodle). Boat-noodle broth contains pig blood — flag for guests avoiding it; a vegetable-broth option exists for vegetarians (eater coverage via search). Backyard patio works in warm weather; condiments on every table for self-seasoning. Weekend hours: Sat 11:30–22:30, Sun 11:30–22:15. Cash-friendly small spot; expect a wait on Saturday nights. Pairs naturally with Astoria Park swim/walk earlier in the afternoon.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/pye-boat-noodle-astoria",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/pye-boat-noodle",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "http://www.pyeboatnoodle.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://pye-boat-noodle.pops-cafe.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T01:55:56.364Z"
+  },
+  {
+    "id": "sanfords-astoria",
+    "name": "Sanfords",
+    "desc": "Century-old Astoria diner-turned-bistro with Queens' largest whisky bar — 300+ single malts.",
+    "longDesc": "Astoria landmark since 1922 that evolved from classic Greek-American diner into a comfort-food bistro with serious cocktails and a whisky program (300+ single malts and bourbons, billed as Queens' largest). Menu spans pecan-crusted chicken salad, prime chuck burgers, truffle mac, gouda-stuffed duck, plus vegetarian options like zucchini falafel. The 24-hour era is over — current hours are Sun-Thu 10AM-10PM, Fri-Sat 10AM-11PM per the official site, so it covers late-evening rather than overnight.",
+    "url": "https://www.sanfordsnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "astoria",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "Sat 10:00-23:00",
+    "notes": "ZONE NOTE: Astoria (Queens) isn't in the current zone enum — corpus needs a Queens cluster added for this entry to be useful. HOURS CORRECTION: task brief described this as '24hr diner with full bar' but the official site (sanfordsnyc.com/contact) now shows Sun-Thu 10AM-10PM, Fri-Sat 10AM-11PM. Several third-party sources (NYC Tourism, older Yelp listings) still propagate the legacy 24-hour claim — verify by phone (718-932-9569) before relying on it as a late-night anchor. Operating since 1922, billed as Queens' largest whisky bar with 300+ single malts and bourbons (per Yelp Q&A). Parking: private lot around the corner on 31st Street + municipal lot next to McDonald's on 31st Street, so weekend parking is workable. Drive from Industry City is ~28 min via BQE → Pulaski/Queensboro Bridge off-peak; longer in traffic. Given current hours, this is a solid late-evening dinner+cocktails anchor for a Queens-leaning itinerary, but no longer fits the 'after everything closes' slot the brief described.",
+    "sources": [
+      {
+        "url": "https://www.sanfordsnyc.com/contact/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/sanfords-restaurant/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sanfords-astoria-astoria",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/questions/sanfords-astoria-do-they-have-parking/xX3SmjrkJ3X_nC8Oq1zmsA",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T02:01:15.574Z"
   }
 ]
