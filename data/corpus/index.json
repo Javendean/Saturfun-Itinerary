@@ -7394,41 +7394,41 @@
   {
     "id": "sunken-harbor-club",
     "name": "Sunken Harbor Club",
-    "desc": "Tropical cocktail bar tucked above Gage & Tollner, fine-dining tiki by Garret Richard.",
-    "longDesc": "A second-floor hideaway above the landmarked Gage & Tollner dining room on Fulton Street, Sunken Harbor Club is Chief Cocktail Officer Garret Richard's tropical lab — rum-forward Mai Tais, swizzles, and obscure tiki revivals served in a wood-paneled, nautical-kitsch room (sunkenharbor.club). It's walk-in only and 21+ after 7pm, so arrive at 5pm on a Saturday to actually sit at the bar (yelp.com). For the South Brooklyn cocktail trio it slots perfectly as the tropical counterpoint to Long Island Bar's stiff classics — same Cecchini/Frizell orbit, ~8 min drive from Industry City.",
+    "desc": "Theatrical tiki bar above historic Gage & Tollner — fog machines, Hawaiian shirts, $20 craft tropicals.",
+    "longDesc": "Tucked on the second floor above the gilded-age Gage & Tollner on Fulton Street, Sunken Harbor Club is a 35-seat tiki temple from Chief Cocktail Officer Garret Richard, themed around a sunken ship complete with fog effects, phosphorescent fixtures, and a 'sultry mermaid' painting. The list of tropical cocktails (around $20 each, arranged by potency) is paced by a short bar menu of sliders, shrimp toast, and oysters. Walk-in only, first-come first-served, 21+ after 7pm — arrive close to the 5pm open or expect a wait on weekends.",
     "url": "https://www.sunkenharbor.club/location/new-york/",
-    "photoUrl": "",
+    "photoUrl": "https://images.getbento.com/accounts/0d731b78b985c0b254905dfc5ed63d08/media/images/92124sunken-cream.png",
     "aiBackgroundUrl": "",
     "zone": "brooklyn-heights",
     "vibe": [
-      "chill",
-      "curious",
-      "romantic"
+      "romantic",
+      "photo",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "17:00-00:00",
-    "notes": "372 Fulton St, 2nd Floor — entrance via Gage & Tollner. Walk-in only, no reservations; arrive at open (5pm) for bar seats (sunkenharbor.club). 21+ after 7pm. Street parking on Fulton/Smith is tight on weekend nights — Schermerhorn or Hoyt municipal garages are the reliable bet. Cocktail program by Garret Richard, co-author of 'Tropical Standard'; rum-heavy menu with Mai Tais, swizzles, and dealer's-choice. Pairs as 3rd stop after Long Island Bar (Cobble Hill) and a Red Hook dinner; or as a single destination night with Gage & Tollner downstairs.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Fri-Sat 17:00-00:00, Sun 17:00-23:00",
+    "notes": "Walk-in only, no reservations — capacity ~35 with no standing room, so wait times can stretch on weekends; arrive at 5pm open or after 10pm for best odds (timeout.com). 21+ after 7pm enforced strictly (sunkenharbor.club). Drinks ~$20; happy hour Fri-Sun 3-5pm before the door fills (sunkenharbor.club). Garret Richard's tiki program is widely cited as one of NYC's best — strong photogenic capper for a Brooklyn-anchored evening that doesn't require crossing back to Manhattan (timeout.com). Street parking on Fulton/Smith/Jay is metered but freer after 7pm; nearest garages are Fulton St and Schermerhorn.",
     "sources": [
       {
         "url": "https://www.sunkenharbor.club/location/new-york/",
-        "accessed": "2026-05-17T22:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/sunken-harbor-club-brooklyn",
-        "accessed": "2026-05-17T22:00:00Z"
+        "accessed": "2026-05-18T18:15:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/sunken-harbor-club",
-        "accessed": "2026-05-17T22:00:00Z"
+        "accessed": "2026-05-18T18:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunken-harbor-club-brooklyn",
+        "accessed": "2026-05-18T18:15:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T21:46:43.043Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T18:11:30.245Z"
   },
   {
     "id": "midnights-williamsburg",
@@ -45563,5 +45563,186 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T18:09:15.445Z"
+  },
+  {
+    "id": "baekjeong-nyc-32nd-st",
+    "name": "Kang Ho Dong Baekjeong (32nd St)",
+    "desc": "Celebrity-chef Korean BBQ flagship in K-Town; prime brisket + egg-moat tabletop grills.",
+    "longDesc": "Founded by Korean wrestler-turned-TV-host Kang Ho Dong, this 1 E 32nd St flagship is the NYC bar for tableside KBBQ — signature live grills ringed by a steamed-egg moat and corn cheese, prime brisket, marinated short rib, and pork belly cooked by staff at the table. Lively, loud, packed late; the heavier-protein counterweight to a Han/Cho Dang Gol tofu-and-anju night when the group wants meat-forward. Weekend service runs to 2am Fri-Sat, making it a viable post-Brooklyn second-act if the group wants to cross over after sunset.",
+    "url": "https://www.baekjeongny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:30-02:00",
+    "notes": "Manhattan venue, not Brooklyn — zone set to 'dumbo' as the closest BK staging cluster since the enum is BK-only; actual address is 1 E 32nd St, NYC 10016 (K-Town) (baekjeongny.com). Reservations via Tock (exploretock.com/baekjeong). No on-site parking — nearest garage at 16 E 32nd St; SpotAngels lists weekend rates from ~$33/2hr (spotangels.com). Yelp page shows 'CLOSED' as of May 2026 but official site + Tock are both live with current Fri-Sat 11:30am-2am, Sun 11:30am-11pm hours — likely a Yelp data error, recommend confirming via phone (212) 966-9839 before booking. Drive from IC (220 36th St, Brooklyn) via Hugh Carey Tunnel ~22 min weekend off-peak, longer Fri/Sat 7-9pm. Pair with Han Joo Chik Naeng Myun or Cho Dang Gol only if the group wants a tofu+noodle/anju lighter night instead — Baekjeong is the meat-forward swap, not the addition.",
+    "sources": [
+      {
+        "url": "https://www.baekjeongny.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.business.nyctourism.com/places/kang-ho-dong-baekjeong-midtown-east",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/kang-ho-dong-baekjeong-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.exploretock.com/baekjeong",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koreatown,_Manhattan",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:14:18.791Z"
+  },
+  {
+    "id": "nowon-east-village",
+    "name": "Nowon East Village",
+    "desc": "Korean-American pocha with one of NYC's best smash burgers, soju cocktails, and late-night energy.",
+    "longDesc": "Born from the HIM pop-up at Black Emperor Bar, Nowon serves a buttery, double-stack smash burger (kimchi-pickle option, gochujang-spiked sauce) alongside Korean comfort plates like spicy rice cakes and bulgogi cheesesteak rolls. The drinks lineup leans into soju highballs, makgeolli, natural wine, and Korean-spirit cocktails, with a loud, music-forward dining room that gets crowded after 8pm on weekends — pairs naturally with an LES/EV manga-shop crawl.",
+    "url": "https://www.nowonusa.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-24:00, Sun 11:00-23:00",
+    "notes": "Located at 507 E 6th St, NYC 10009 (Manhattan exception — uniquely justified as the LES/EV manga-crawl food anchor). Burger has been on NYC 'best of' lists since 2019. Weekend street parking is tough; SpotHero/ParkWhiz garages near Cooper Sq or E Houston are the realistic play. Reservations via Resy strongly recommended for Saturday dinner. (sources: nowonusa.com, yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.nowonusa.com/eastvillageinfo",
+        "accessed": "2026-05-18T18:15:00Z"
+      },
+      {
+        "url": "https://www.nowonusa.com/eastvillage-menu",
+        "accessed": "2026-05-18T18:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/nowon-east-village-new-york-3",
+        "accessed": "2026-05-18T18:15:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/nowon-east-village",
+        "accessed": "2026-05-18T18:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:16:09.674Z"
+  },
+  {
+    "id": "les-appetizing-crawl-kossars-russ-economy",
+    "name": "LES Appetizing Crawl: Kossar's → Russ & Daughters → Economy Candy",
+    "desc": "Walkable LES food triangle: 1936 bialys, 1914 smoked fish, 1937 candy — three pre-war shops, ~6 blocks apart.",
+    "longDesc": "Anchor weekend brunch crawl in the Lower East Side that mirrors Saturfun's three-stop walkable food-triangle pattern. Pick up bialys and bagels at Kossar's (367 Grand St, the oldest bialys bakery in the US, est. 1936), walk ~6 blocks north to Russ & Daughters (179 E Houston St, the original 1914 appetizing counter — sliced-to-order Gaspé Nova, sable, whitefish salad), then loop south to Economy Candy (108 Rivington St, est. 1937) for nostalgia candy to take home. All three are pre-war family businesses within an 8-minute walk of each other.",
+    "url": "https://maps.google.com/?q=Kossar's+Bagels+367+Grand+St+New+York",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "lower-east-side",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat-Sun overlap 11:00-16:00 (R&D closes 16:00, Economy Candy opens 11:00)",
+    "notes": "Manhattan exception justified per task brief — mirrors the existing 'three-stop walkable Manhattan food triangle' pattern. From IC: BQE → Williamsburg Bridge ≈ 18-22 min weekend. Park at Delancey & Essex Municipal Garage, 107 Essex St (last city-owned garage in Manhattan: 2 hrs $24, up to 10 hrs $40) (yelp.com/biz/delancey-and-essex-municipal-parking-garage-manhattan). Kossar's Sat-Sun 06:00-17:00 (kossars.com). Russ & Daughters Houston St counter daily 08:00-16:00 — note it's a takeaway appetizing counter, not table service; for sit-down brunch use Russ & Daughters Cafe on Orchard St (russanddaughters.com). Economy Candy Sat-Sun 11:00-18:00 (economycandy.com). Order: hit Kossar's first (early = no line, hot bialys), Russ & Daughters second before the 16:00 close, Economy Candy last as it stays open latest. Pairs naturally with comic shops (Forbidden Planet at 832 Broadway is the nearest viable comic stop, ~12-min walk or 5-min drive northwest).",
+    "sources": [
+      {
+        "url": "https://kossars.com/",
+        "accessed": "2026-05-18T18:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kossars-new-york",
+        "accessed": "2026-05-18T18:30:00Z"
+      },
+      {
+        "url": "https://www.russanddaughters.com/",
+        "accessed": "2026-05-18T18:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/russ-and-daughters-new-york",
+        "accessed": "2026-05-18T18:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/economy-candy-new-york",
+        "accessed": "2026-05-18T18:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/delancey-and-essex-municipal-parking-garage-manhattan",
+        "accessed": "2026-05-18T18:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:18:56.301Z"
+  },
+  {
+    "id": "chashitsu-japan-village",
+    "name": "Chashitsu at The Loft, Japan Village",
+    "desc": "Authentic 45-min Japanese tea ceremony inside Industry City's Japan Village — waitlist only.",
+    "longDesc": "Chashitsu is a traditional tea room on the 2nd-floor Loft of Japan Village at Industry City, hosting 45-minute ceremonies that include ceremonial-grade matcha and seasonal wagashi for $50 per person. Sessions are intimate (limited seats) and run on a waitlist model — invitations to book are sent directly, walk-ins are not accepted. Class-format Chanoyu sessions also run Wednesdays at 10am/2pm/5pm at adjacent venues; for a Saturday plan, you must already hold a confirmed waitlist invite.",
+    "url": "https://www.theloftatjapanvillage.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-19:00 (Loft hours; ceremony slots vary by invite)",
+    "notes": "$50/person, 45-min session, includes Uji matcha + wagashi. RESERVATION CRITICAL: waitlist-only — no walk-ins, full payment at booking, non-refundable within 2 weeks. Located 2nd floor at 934 3rd Ave, inside the same Industry City complex as the IC anchor (source: theloftatjapanvillage.com, industrycity.com). Treat as a 'must-confirm-in-advance' card; if no invite, swap for a Japan Village food/shopping slot.",
+    "sources": [
+      {
+        "url": "https://www.theloftatjapanvillage.com/",
+        "accessed": "2026-05-18T18:15:00Z"
+      },
+      {
+        "url": "https://industrycity.com/the-loft-at-japan-village-has-taken-over-a-full-second-floor-at-industry-city/",
+        "accessed": "2026-05-18T18:15:00Z"
+      },
+      {
+        "url": "https://gothamtogo.com/japan-village-unveils-massive-second-floor-expansion-the-loft-at-industry-city/",
+        "accessed": "2026-05-18T18:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:21:00.546Z"
   }
 ]

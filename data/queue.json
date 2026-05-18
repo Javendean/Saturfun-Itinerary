@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sunken Harbor Club Brooklyn Heights — tiki bar above Gage & Tollner",
-    "reason": "Brooklyn-side alternative photogenic historic-bar capper, lets the corpus offer a non-Manhattan capper for evenings that end in Brooklyn",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:37:01.570Z"
-  },
-  {
-    "topic": "Kang Ho Dong Baekjeong 32nd St NYC — Korean BBQ flagship",
-    "reason": "Heavier-protein alternative to the Han/Cho Dang Gol pairing for nights when the group wants tableside grill instead of tofu+anju",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:39:31.919Z"
-  },
-  {
-    "topic": "Nowon NYC East Village smash-burger + Korean cocktails",
-    "reason": "Younger/louder K-American crossover spot that pairs naturally with an LES/EV manga-shop crawl rather than the Midtown anchor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:39:31.919Z"
-  },
-  {
-    "topic": "Kossar's Bagels + Russ & Daughters LES weekend brunch crawl",
-    "reason": "Mirrors the 'three-stop walkable Manhattan food triangle' pattern for a Lower East Side variation that pairs with Economy Candy + comic shops",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:39:31.919Z"
-  },
-  {
-    "topic": "Chashitsu tea ceremony booking specifics and pricing",
-    "reason": "If reservations are required this becomes a planning constraint for itinerary cards",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:41:46.856Z"
-  },
-  {
     "topic": "Setomonoya pottery shop at The Loft — handmade ceramics",
     "reason": "Standalone retail/souvenir stop with strong photo + gift appeal for foodie/curious vibes",
     "requestedBy": "agent",
@@ -19060,5 +19030,95 @@
     "reason": "Photogenic, no-reservation-needed alternative when the Midtown townhouse bars are all booked; tile + zinc bar aesthetic photographs as well as Pebble",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T18:09:15.475Z"
+  },
+  {
+    "topic": "Gage & Tollner Brooklyn Heights — landmarked downstairs restaurant",
+    "reason": "Pairs directly as the dinner half of a SHC capper; landmarked 1879 gas-lit dining room is a rare photo-grade historic NYC interior and a logical pre-tiki anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:11:30.279Z"
+  },
+  {
+    "topic": "Long Island Bar Cobble Hill — Toby Cecchini cocktail bar",
+    "reason": "Adjacent Brooklyn-side historic-bar capper 5 min from SHC; offers a quieter, no-tiki alternative in the same corpus slot for evenings ending in Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:11:30.279Z"
+  },
+  {
+    "topic": "Leyenda Carroll Gardens — Ivy Mix agave-forward cocktail bar",
+    "reason": "Third Brooklyn-side capper option, also ~15 min from IC; rounds out the corpus with a Latin/agave angle so the engine can vary recommendations across return visits",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:11:30.279Z"
+  },
+  {
+    "topic": "Insa Gowanus Korean BBQ + karaoke",
+    "reason": "Brooklyn-side KBBQ within 10 min of IC — closer alternative when the group doesn't want to cross into Manhattan; adds noraebang as a built-in late-night chaser",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:14:18.823Z"
+  },
+  {
+    "topic": "Cote Korean Steakhouse Flatiron Michelin KBBQ",
+    "reason": "Higher-end Michelin-starred KBBQ comparator in Manhattan; useful as the splurge tier when Baekjeong is too rowdy or fully booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:14:18.823Z"
+  },
+  {
+    "topic": "Mapo Korean BBQ Williamsburg",
+    "reason": "Williamsburg KBBQ closer to IC (~15 min drive) for a Brooklyn-native meat-forward night without the Manhattan crossing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:14:18.823Z"
+  },
+  {
+    "topic": "Forbidden Planet NYC (Broadway) manga + comics flagship",
+    "reason": "Largest comics/manga shop walkable to Nowon — anchors the EV/LES manga-crawl narrative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:16:09.706Z"
+  },
+  {
+    "topic": "Kinokuniya Bryant Park manga floor",
+    "reason": "Major manga retailer to compare against EV indie shops; helps decide whether the crawl belongs in EV or Midtown",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:16:09.706Z"
+  },
+  {
+    "topic": "Tokyo7 East Village Japanese consignment",
+    "reason": "Adjacent EV stop that pairs with Nowon for the same younger/louder track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:16:09.706Z"
+  },
+  {
+    "topic": "Russ & Daughters Cafe Orchard Street sit-down brunch",
+    "reason": "Full table-service variant of the appetizing counter — completes the crawl when guests want a sit-down meal instead of takeaway",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:18:56.336Z"
+  },
+  {
+    "topic": "Forbidden Planet NYC 832 Broadway comic shop",
+    "reason": "Closest serious comic shop to LES, 12-min walk from Economy Candy — pairs the food crawl with the comic-shop angle in the brief",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:18:56.336Z"
+  },
+  {
+    "topic": "Doughnut Plant Lower East Side 379 Grand Street",
+    "reason": "Two doors from Kossar's; adds a sweet anchor to balance the savory-heavy appetizing crawl and lets the triangle become a quadrant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:18:56.336Z"
+  },
+  {
+    "topic": "Japan Village food hall + Sunrise Mart at Industry City — vendor lineup and weekend hours",
+    "reason": "Natural pre/post pairing for Chashitsu in the same building; needed as the fallback if waitlist invite doesn't land",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:21:00.578Z"
+  },
+  {
+    "topic": "Setsugekka East Village tea ceremony — booking + price comparison",
+    "reason": "Manhattan backup for ceremonial matcha experience if Chashitsu waitlist is full; helps user weigh drive vs. availability",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:21:00.578Z"
+  },
+  {
+    "topic": "Globus Washitsu tea ceremony NYC — schedule + cost",
+    "reason": "Third option for confirmed tea-ceremony seating so itinerary has redundancy when waitlist-only venues fall through",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:21:00.578Z"
   }
 ]
