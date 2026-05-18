@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Strong Rope Brewery Red Hook taproom weekend hours",
-    "reason": "Another all-NY-grain brewery 8 min from IC — alternative anchor for a Red Hook track's drinks slot.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:12:14.036Z"
-  },
-  {
-    "topic": "Other Half Brewing Carroll Gardens taproom hours and food trucks",
-    "reason": "Hazy-IPA mecca ~10 min from IC; pairs with Court St food crawl, fills the drinks node of a Carroll Gardens cluster.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:12:14.037Z"
-  },
-  {
-    "topic": "Grand Army South kitchen menu at Threes Gowanus",
-    "reason": "Dedicated food entry would let the itinerary slot Threes as a true dinner stop, not just drinks.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:12:14.037Z"
-  },
-  {
-    "topic": "Mesa Coyoacán (Williamsburg modern Mexican)",
-    "reason": "Mid-tier Mexican sit-down counterpart in Williamsburg — completes the masa→counter→sit-down arc within a single driving cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:14:15.692Z"
-  },
-  {
-    "topic": "Chilo's (Bedford-Stuyvesant patio tacos + margaritas)",
-    "reason": "Outdoor-patio Mexican option close to Bushwick, useful for warm-weather routing when Los Hermanos garage seating feels cramped",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:14:15.692Z"
-  },
-  {
     "topic": "Don Paco Lopez Panadería (Sunset Park Mexican bakery)",
     "reason": "Pan dulce anchor in the Sunset Park Mexican corridor — natural take-home stop chained with the IC-proximal 5th Ave crawl",
     "requestedBy": "agent",
@@ -20536,5 +20506,95 @@
     "reason": "Alternative ring-making modality (lost-wax vs fabrication); pairs well with Liloveve for an upscale 'choose your technique' compare-page",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T22:49:16.316Z"
+  },
+  {
+    "topic": "Other Half Brewing Red Hook taproom — weekend hours, parking, food situation",
+    "reason": "Major Red Hook brewery with hazy IPA reputation; useful comparison anchor for drinks slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:51:04.868Z"
+  },
+  {
+    "topic": "Defonte's of Brooklyn (Red Hook) — Italian hero sandwich shop hours + driving access",
+    "reason": "Iconic pre-brewery hero stop to pair with Strong Rope since taproom has no kitchen",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:51:04.868Z"
+  },
+  {
+    "topic": "Red Hook street parking reality on weekends — best free/low-fee zones near Van Dyke St",
+    "reason": "Strong Rope explicitly has no parking; need driving-friendly logistics intel for the whole Red Hook track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:51:04.868Z"
+  },
+  {
+    "topic": "Court Street Grocers Carroll Gardens — hours, signature sandwiches, weekend wait",
+    "reason": "Brewery explicitly recommends them as the BYO-food partner; fills the food node of a Carroll Gardens cluster paired with Other Half drinks.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:53:21.286Z"
+  },
+  {
+    "topic": "F&F Pizzeria Carroll Gardens — slice menu, weekend hours, takeout vs sit-down",
+    "reason": "Second brewery-recommended food spot; round-out option for a quick pre-brewery slice on the same Court St cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:53:21.286Z"
+  },
+  {
+    "topic": "Threes Brewing Gowanus taproom — hours, food (Ursula kitchen?), parking",
+    "reason": "Adjacent craft-beer destination ~8 min drive from IC; lets users build a two-brewery Carroll Gardens/Gowanus crawl if Other Half is packed.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:53:21.286Z"
+  },
+  {
+    "topic": "Threes Brewing Greenpoint reopened outpost — Grand Army South menu + space",
+    "reason": "Same operator, different zone (Greenpoint) — gives the Greenpoint cluster a strong dinner+beer anchor parallel to the Gowanus entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:55:44.264Z"
+  },
+  {
+    "topic": "Grand Army (original Cobble Hill cocktail bar) raw bar menu + oysters",
+    "reason": "Parent venue of Grand Army South; Cobble Hill is 10 min from IC and would round out the Cobble Hill/Carroll Gardens cluster with a serious oyster-and-cocktail option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:55:44.264Z"
+  },
+  {
+    "topic": "Other Half Brewing Industry City taproom food trucks weekend rotation",
+    "reason": "Direct IC-zone competitor to Threes for the 'craft beer + real food' slot; needed for same-day swap if Threes is at capacity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:55:44.264Z"
+  },
+  {
+    "topic": "Xixa Williamsburg modern Mexican tasting",
+    "reason": "Sibling-tier modern Mexican on S. 4th — gives the corpus a tasting-menu counterpart to Mesa Coyoacán's à la carte room",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:57:45.028Z"
+  },
+  {
+    "topic": "La Superior Williamsburg taqueria",
+    "reason": "Old-guard casual Mexican on Berry St — completes the Williamsburg Mexican spectrum from street-style to plated",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:57:45.028Z"
+  },
+  {
+    "topic": "Ensenada Williamsburg Baja seafood",
+    "reason": "Baja-leaning ceviche/aguachile bar — pairs with Mesa Coyoacán's inland Oaxaca/Veracruz focus inside the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:57:45.028Z"
+  },
+  {
+    "topic": "Casa Ora (Bed-Stuy Venezuelan tasting/à la carte)",
+    "reason": "Another patio-friendly Bed-Stuy dinner option that pairs with a Chilo's drinks stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:59:39.388Z"
+  },
+  {
+    "topic": "Saraghina (Bed-Stuy wood-fired pizza + backyard garden)",
+    "reason": "Adjacent warm-weather patio anchor in same zone, expands Bed-Stuy track options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:59:39.388Z"
+  },
+  {
+    "topic": "Bar LunÀtico (Bed-Stuy live-music wine bar)",
+    "reason": "Natural post-tacos night-cap within a 5-min drive of Chilo's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T22:59:39.389Z"
   }
 ]

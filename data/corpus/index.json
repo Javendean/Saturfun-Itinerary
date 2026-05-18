@@ -11359,8 +11359,8 @@
   {
     "id": "grand-army-south-threes-gowanus",
     "name": "Grand Army South @ Threes Brewing Gowanus",
-    "desc": "Smash double burgers and crab-loaded fries from the Grand Army team, served inside Threes' Gowanus taproom.",
-    "longDesc": "Grand Army (the celebrated Boerum Hill cocktail-and-oyster bar) runs the in-house kitchen at Threes Brewing Gowanus, turning the brewpub into a legit dinner stop. The double smash burger and loaded crab fries are the anchor orders; the rest of the menu covers fried chicken, steak frites, a Papa Dulce sweet-potato-and-farro bowl, and a falafel/shrimp burger lineup for non-beef eaters. Kitchen runs to 11pm Fri–Sat, perfectly timed to a Threes flight (sources: zippicks.com, threesbrewing.com, grandarmysouth.com).",
+    "desc": "Smash-burger + crab-fries kitchen inside Threes' Gowanus brewery — real dinner with the tap list.",
+    "longDesc": "Grand Army South is the in-house kitchen residency at Threes Brewing Gowanus, turning Threes from a drinks-only stop into a legitimate dinner anchor. The compact menu centers on a double smash burger and loaded crab fries, with bar snacks (popcorn, corn ribs, fried shrimp), a Caesar, shaved vegetables, the Papa Dulce (roasted sweet potato, farro, salsa rosa, avocado, queso fresco), Karaage cauliflower for vegetarians, and a mushroom sandwich. Pair with Threes' rotating draft list in the cavernous Douglass St. taproom or back patio.",
     "url": "https://www.grandarmysouth.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -11373,38 +11373,38 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "11 min",
-    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
-    "notes": "Address: 333 Douglass St, Brooklyn NY 11217 — Gowanus/Park Slope border, ~11 min drive from Industry City via 3rd Ave (threesbrewing.com). Anchor order: double smash burger + loaded crab fries (zippicks 8.3/10, 'late-night bar-food anchors'). Vegetarian-friendly via Papa Dulce bowl + falafel burger. Peak wait 15-30 min on Fri/Sat 9-11pm; arrive by 8 for a clean seat. Pair with Threes' tap list — kitchen and brewery share the room so one stop covers dinner + drinks. Sister kitchen reopened in Greenpoint March 2026 (greenpointers.com) — same menu, useful overflow option if Gowanus is slammed. Street parking generally available on Douglass/Nevins on weekends.",
+    "duration": "75-105 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 12:00-23:00 kitchen (bar to midnight); Sun 12:00-22:00 kitchen (bar to 23:00)",
+    "notes": "Located inside Threes Brewing at 333 Douglass St (Gowanus/Park Slope border, ~12 min drive from Industry City via 3rd Ave). Kitchen closes 1 hour before bar — schedule food before 22:30 on Sat. Signature: double smash burger + loaded crab fries (zippicks.com). Vegetarian options exist (Papa Dulce, karaage cauliflower, mushroom sandwich) but vegan is very thin — sides + beer only. Pairs naturally with the Threes tap list; good fit as a 'dinner + drinks' combined stop replacing two separate venues. Weekend street parking is generally findable on Douglass/Nevins; metered 3rd Ave lots also nearby.",
     "sources": [
       {
         "url": "https://www.grandarmysouth.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
         "url": "https://zippicks.com/grand-army-south-threes-brewing-gowanus-brooklyn-11217/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
         "url": "https://greenpointers.com/2026/03/06/threes-brewing-reopens-greenpoint-outpost-with-new-menu-from-grand-army-south/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T12:34:38.651Z"
+    "lastResearchedAt": "2026-05-18T22:55:44.233Z"
   },
   {
     "id": "other-half-brewing-carroll-gardens",
-    "name": "Other Half Brewing — Centre Street Taproom",
-    "desc": "Original 2014 NEIPA-pioneer taproom with 20 rotating drafts at the Carroll Gardens/Red Hook/Gowanus seam.",
-    "longDesc": "Other Half's flagship Centre Street taproom is where Brooklyn's hazy IPA boom started in 2014, and the bar still pours 20 rotating drafts skewed toward Double Dry Hopped NEIPAs alongside lagers, stouts, and seasonal collabs. The room is utilitarian-industrial — high-tops, garage doors, dogs on leashes, kids tolerated — with cans and merch to-go and light snacks; food usually arrives via a rotating truck or you bring your own. It's a sharp hop-forward counter to Strong Rope's NY-grain malt focus, only ~12 min from Industry City.",
+    "name": "Other Half Brewing — Centre Street",
+    "desc": "Original Carroll Gardens taproom of NYC's hazy-IPA mecca; 20 drafts, cans-to-go, BYO food.",
+    "longDesc": "Other Half's flagship taproom at 195 Centre St sits at the Carroll Gardens/Red Hook/Gowanus seam and built its reputation on New England-style hazy and double IPAs (Green Diamonds, All Green Everything, Forever Ever). The space is intentionally sparse — concrete-and-stainless, no kitchen — so the focus stays on the ~20-tap rotating list, cans-and-bottles to-go, and merch. Guests bring their own food or order delivery from nearby Court Street Grocers, F&F Pizzeria, or Via Roma; light snacks are sold at the bar.",
     "url": "https://otherhalfbrewing.com/location/centre-street/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -11414,37 +11414,42 @@
       "curious"
     ],
     "dietary": [
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "12 min",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "Sat 10:00-00:00, Sun 11:00-21:00",
-    "notes": "20 rotating drafts — order flights to taste the DDH NEIPA range (source: otherhalfbrewing.com). Street parking only in surrounding blocks; brewery explicitly warns against the nearby McDonald's lot due to towing (source: otherhalfbrewing.com). Two blocks from Smith-9th St F/G if driving falls through. Dogs welcome leashed, kids permitted with supervision, wheelchair accessible, first-come seating, no bottle shares allowed. Cans + merch to-go. Pair with Strong Rope for a NY-grain vs. NEIPA contrast loop, or chain into a Carroll Gardens dinner.",
+    "notes": "Hazy/DDH-IPA specialists — pours run ~$9-12 for 12oz of the high-ABV stuff; flights and lower-ABV cream ales/lagers also on tap (otherhalfbrewing.com). No on-site kitchen and no formally scheduled food-truck rotation as of May 2026; brewery explicitly welcomes BYO and delivery (otherhalfbrewing.com). Street parking in the surrounding industrial blocks is usually findable on weekends — DO NOT park in the adjacent McDonald's lot, the brewery warns it gets ticketed/towed (otherhalfbrewing.com). Dog- and kid-friendly, wheelchair accessible, first-come seating. Pairs naturally with a Court St food crawl: grab sandwiches from Court Street Grocers or a slice from F&F and bring them in (theinfatuation.com). Weekend afternoons get crowded — expect a line for new can releases.",
     "sources": [
       {
         "url": "https://otherhalfbrewing.com/location/centre-street/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/other-half-brewing-centre-street",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/other-half-brewing-brooklyn",
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/bars/other-half-brewing",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T07:56:14.612Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T22:53:21.241Z"
   },
   {
     "id": "strong-rope-brewery-red-hook",
     "name": "Strong Rope Brewery (Red Hook)",
-    "desc": "100% New York State hops + malt brewery in a Pier 41 warehouse — beer crawl partner for Red Hook Winery.",
-    "longDesc": "Founded 2015 to make 'truly regional' beer using 100% New York hops and malt — a genuinely uncommon constraint that shapes the lineup (look for River Dragon Saison, brewed with Hudson Valley Malt that arrives via the Schooner Apollonia down the Hudson). Taproom is a casual industrial space on the Red Hook waterfront with rotating drafts plus NY state wine, cider, spirits and canned cocktails; no kitchen but food trucks pop up and they actively encourage delivery from Hometown BBQ, Hoek Pizza, or Court Street Grocers. Pairs naturally with Red Hook Winery next door at Pier 41 for a two-stop beer-then-wine crawl.",
+    "desc": "NY-grain brewery on Red Hook's waterfront with harbor-view taproom, dog/family-friendly.",
+    "longDesc": "Strong Rope Brewery's Red Hook taproom at 185 Van Dyke St brews with locally-sourced grains (Hudson Valley Malt for River Dragon Saison, shipped via the Schooner Apollonia) and pours in a spacious harbor-adjacent space. Dog-friendly, family-friendly, fully ADA-accessible with outdoor seating; no on-site food but rotating food trucks and delivery are welcome. To-go four-packs available — a strong all-NY-grain alternative anchor for a Red Hook track's drinks slot, ~8 min drive from IC.",
     "url": "https://www.strongropebrewery.com/taproom",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -11455,28 +11460,24 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "10 min",
+    "duration": "45-75 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-21:00",
-    "notes": "Address 185 Van Dyke St, Brooklyn NY 11231; same Pier 41 complex as Red Hook Winery and Brooklyn Crab so park once, crawl both (strongropebrewery.com/taproom). No on-site parking — street only; explicitly warns DO NOT park at the adjacent 175 Van Dyke St lot (towed). No kitchen — bring food, order delivery, or grab from nearby Hometown BBQ. 100% NY grain story is the hook for the 'curious' track — ask staff about the schooner-shipped Hudson Valley malt (strongropebrewery.com).",
+    "notes": "Address 185 Van Dyke St, Brooklyn NY 11231. NO on-site parking — street parking only; the lot at 175 Van Dyke is NOT theirs and tows (Strong Rope taproom page). All-NY-grain brewing ethos (Hudson Valley Malt, Schooner Apollonia delivery). ADA-accessible with two ADA bathrooms; dogs on leash welcome; outdoor seating first-come-first-serve. No kitchen but food trucks/delivery encouraged. (https://www.strongropebrewery.com/taproom)",
     "sources": [
       {
         "url": "https://www.strongropebrewery.com/taproom",
-        "accessed": "2026-05-17T22:55:00Z"
-      },
-      {
-        "url": "https://www.strongropebrewery.com/",
-        "accessed": "2026-05-17T22:55:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
         "url": "https://www.business.nyctourism.com/places/strong-rope-brewery-red-hook",
-        "accessed": "2026-05-17T22:55:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T22:59:13.191Z"
+    "lastResearchedAt": "2026-05-18T22:51:04.822Z"
   },
   {
     "id": "lavender-lake",
@@ -34163,56 +34164,48 @@
   },
   {
     "id": "mesa-coyoacan",
-    "name": "Mesa Coyoacan",
-    "desc": "Rustic Williamsburg Mexican with a Michelin-listed mezcal/tequila bar and weekend brunch on Graham Ave.",
-    "longDesc": "Chef Ivan Garcia's warm, candle-lit room at 372 Graham Ave has been Williamsburg's go-to for traditional Mexican since 2009 — overstuffed tacos, chiles en nogada, green enchiladas with Oaxaca cheese, and a huge house-infused tequila and mezcal list that's earned Michelin Guide recognition as a top agave bar. Weekend brunch (Sat-Sun from noon) adds huevos rancheros and tortas alongside the regular dinner menu. Sits on the East Williamsburg side of Graham, where weekend street parking is realistic — unlike the Bedford/N6 corridor.",
+    "name": "Mesa Coyoacán",
+    "desc": "Williamsburg modern Mexican from Oaxaca-born chef Ivan García — handmade tortillas, mole poblano, candlelit communal tables.",
+    "longDesc": "Chef-owner Ivan García's love letter to his Mexico City neighborhood, plating Oaxaca- and Veracruz-leaning classics like chiles en nogada, pollo con mole poblano, and enchiladas verdes with Oaxacan cheese. Tortillas are pressed in-house and the bar pours house-infused premium tequila margaritas that Time Out NYC ranks among the city's best. The aqua-tiled Graham Ave room runs loud and candlelit on weekends — communal tables, dance music, and a Michelin Guide nod for 'spirited cooking.'",
     "url": "https://www.mesacoyoacan.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "foodie",
-      "chill",
-      "romantic"
+      "romantic",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "75-90 min",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "12:00-22:00",
-    "notes": "Saturday hours actually run 12:00-23:00; Sunday closes at 22:00 (mesacoyoacan.com). Weekend brunch 12:00-17:00 with full dinner menu picking up after (mesacoyoacan.com/brunchmenu). Address 372 Graham Ave, Brooklyn NY 11211 — eastern Williamsburg/Italian Williamsburg side; metered + residential parking generally available on weekends, much easier than Bedford corridor. Direct replacement for the closed Donna slot: same Williamsburg agave/cocktail anchor function at a $$ band instead of $$$, with food strong enough to be the closing dinner stop. Yelp 850+ reviews, 4-star (yelp.com/biz/mesa-coyoacan-brooklyn). Listed in Michelin Guide as tequila/mezcal bar (finedininglovers.com). Reservations via OpenTable recommended for Sat night (opentable.com/r/mesa-coyoacan-brooklyn).",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "12:00-16:00, 17:00-23:00",
+    "notes": "372 Graham Ave, East Williamsburg — BQE → Metropolitan exit from IC, ~20 min on weekends (mesacoyoacan.com). Handmade tortillas, mole poblano, chiles en nogada are the signatures; margaritas with house-infused tequila called out by Time Out NYC. Michelin Guide: 'spirited cooking is simply a joy.' Communal tables + candlelight = party-leaning energy after 8pm — pair with an earlier counter/masa stop in S. Williamsburg or Bushwick. Weekend metered parking on Graham north of Metropolitan, plus unrestricted side streets (Devoe, Ainslie).",
     "sources": [
       {
         "url": "https://www.mesacoyoacan.com/",
-        "accessed": "2026-05-17T22:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
-        "url": "https://www.mesacoyoacan.com/menu",
-        "accessed": "2026-05-17T22:00:00Z"
+        "url": "https://www.nyctourism.com/restaurants/mesa-coyoacan/",
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
-        "url": "https://www.mesacoyoacan.com/brunchmenu",
-        "accessed": "2026-05-17T22:00:00Z"
+        "url": "https://www.timeout.com/newyork/restaurants/mesa-coyoacan",
+        "accessed": "2026-05-18T22:55:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/mesa-coyoacan-brooklyn",
-        "accessed": "2026-05-17T22:00:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/mesa-coyoacan-brooklyn",
-        "accessed": "2026-05-17T22:00:00Z"
-      },
-      {
-        "url": "https://www.finedininglovers.com/restaurants/mesa-coyoacan",
-        "accessed": "2026-05-17T22:00:00Z"
+        "accessed": "2026-05-18T22:55:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T22:03:56.130Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T22:57:44.997Z"
   },
   {
     "id": "casa-publica-williamsburg",
@@ -48507,5 +48500,43 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T22:49:16.280Z"
+  },
+  {
+    "id": "chilos-bed-stuy",
+    "name": "Chilo's",
+    "desc": "Mexican-inspired dive bar with a year-round back patio and a permanent taco truck slinging carnitas and cochinita pibil.",
+    "longDesc": "Chilo's is a Clinton Hill/Bed-Stuy neighborhood bar built around an all-weather backyard with a parked taco truck serving smoked beef, carnitas, cochinita pibil, fried fish, tortas, and tostadas. The bar inside leans industrial art-deco with strong margaritas, micheladas, and one of Brooklyn's deeper mezcal lists. Cash-friendly (no card minimum), patio-first, and best in warm weather.",
+    "url": "https://www.chilosbk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-75 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-23:00",
+    "notes": "Taco truck lives on the back patio year-round; margaritas + micheladas are the move (Infatuation). 323 Franklin Ave, on the Clinton Hill/Bed-Stuy line — street parking is realistic on weekends but tighter than in IC. Good warm-weather swap for Los Hermanos when garage seating feels cramped. Cash-friendly, no card minimum (Yelp/Foursquare).",
+    "sources": [
+      {
+        "url": "https://www.chilosbk.com/",
+        "accessed": "2026-05-18T22:55:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/chilos",
+        "accessed": "2026-05-18T22:55:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/chilos-brooklyn",
+        "accessed": "2026-05-18T22:55:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T22:59:39.356Z"
   }
 ]
