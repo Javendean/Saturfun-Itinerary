@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Patisserie Tomoko (Williamsburg) — chef Tomoko Kato's Japanese-French dessert counter with yuzu mousse, black sesame dacquoise, matcha crepe cake",
-    "reason": "Direct French-Japanese pastry peer to Kitsuné/Burrow; widens the category with a chef-driven, sit-down dessert option in a different zone (Williamsburg, ~20 min from IC)",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:46:24.289Z"
-  },
-  {
-    "topic": "Je T'aime Pâtisserie (Bed-Stuy) — stuffed/topped croissants in matcha-lavender-lemon-blueberry and other hybrid flavors",
-    "reason": "Adds a modern French viennoiserie with Japanese-leaning flavor crossover; extends the corpus into Bed-Stuy where coverage is thin",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:46:24.289Z"
-  },
-  {
-    "topic": "Lysée by Eunji Lee (Flatiron, Manhattan) — Korean-French patisserie with sculptural desserts; only if a Manhattan exception is warranted",
-    "reason": "Stretches the East-Asian-meets-French pastry axis with a James Beard-recognized chef; flag as Manhattan-only candidate for user judgment on whether to relax the IC radius",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:46:24.289Z"
-  },
-  {
-    "topic": "UrbanGlass Brooklyn (Fort Greene) — public glassblowing demos and gallery",
-    "reason": "Larger nonprofit glass center with regular public tours; expands the makers-track glass corpus beyond a single shop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:48:37.327Z"
-  },
-  {
-    "topic": "Brooklyn Metal Works (Gowanus) — jewelry and metalsmithing open studio",
-    "reason": "Adjacent maker craft within ~10 min of IC; pairs naturally with bladesmithing + glassblowing on a makers day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:48:37.327Z"
-  },
-  {
     "topic": "Textile Arts Center (Gowanus) — weaving and natural-dye drop-in classes",
     "reason": "Rounds out a Gowanus/Park Slope maker cluster with a softer, hands-on craft option for mixed groups",
     "requestedBy": "agent",
@@ -20086,5 +20056,101 @@
     "reason": "Backup for when Kettl's tasting counter is booked; keeps the 'curious + tea' slot fillable on weekend itineraries",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T21:27:49.111Z"
+  },
+  {
+    "topic": "Cha-An Teahouse (East Village) — chef Kato's original tea room with warabi mochi and matcha desserts",
+    "reason": "Manhattan sibling of Tomoko; useful as a 'if going Manhattan' alt and to map the Japanese-French dessert lineage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:29:50.382Z"
+  },
+  {
+    "topic": "Lysée by chef Eunji Lee (Flatiron) — Korean-French patisserie with corn mousse and viennoiseries",
+    "reason": "Expands the chef-driven Asian-French pastry category beyond Japanese; James Beard winner peer to Tomoko",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:29:50.382Z"
+  },
+  {
+    "topic": "Bonbite (Greenpoint) — Japanese-Italian pastry counter with miso caramel and yuzu citron tarts",
+    "reason": "Closer to IC than Tomoko (~15 min) and fills a Greenpoint zone gap in the dessert corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:29:50.382Z"
+  },
+  {
+    "topic": "Saraghina Bakery & Pizzeria (Bed-Stuy) — wood-fired Neapolitan and morning pastries",
+    "reason": "Pairs with Je T'aime for a Bed-Stuy food cluster; extends thin Bed-Stuy coverage with a savory anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:31:42.838Z"
+  },
+  {
+    "topic": "L'Antagoniste (Bed-Stuy) — classic French bistro on Halsey",
+    "reason": "Completes a French-leaning Bed-Stuy track (patisserie → bistro dinner) within walking distance",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:31:42.838Z"
+  },
+  {
+    "topic": "Peaches HotHouse (Bed-Stuy) — Nashville hot chicken",
+    "reason": "Different cuisine in same drive cluster; gives Bed-Stuy a non-French dinner option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:31:42.838Z"
+  },
+  {
+    "topic": "Bibble & Sip (Manhattan Midtown) — Asian-French hybrid cream puffs",
+    "reason": "Adjacent flavor-crossover candidate if user accepts a Manhattan exception for Japanese-French viennoiserie depth",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:31:42.838Z"
+  },
+  {
+    "topic": "L'Appartement 4F (Brooklyn Heights) — French viennoiserie within IC radius",
+    "reason": "Brooklyn-side alternative if the user rejects the Manhattan exception; same Franco-axis, validated drive-friendly zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:34:09.067Z"
+  },
+  {
+    "topic": "Librae Bakery (East Village) — Middle Eastern + French viennoiserie, also Manhattan-only",
+    "reason": "Parallel Manhattan exception candidate to surface together so the user can make one batched call on relaxing the IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:34:09.067Z"
+  },
+  {
+    "topic": "She Wolf Bakery / Radio Bakery (Greenpoint) — best-in-Brooklyn pastry on the Franco side",
+    "reason": "Establishes the IC-radius ceiling for pastry quality so the Lysée exception has a measured comparator",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:34:09.067Z"
+  },
+  {
+    "topic": "BRIC House Fort Greene — free contemporary art gallery and TV studio tours",
+    "reason": "Same Cultural District block; pairs with UrbanGlass for a curious/photo makers-track stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:36:17.522Z"
+  },
+  {
+    "topic": "Museum of Contemporary African Diasporan Arts (MoCADA) Fort Greene",
+    "reason": "Adjacent cultural anchor extending the Downtown Brooklyn art-track corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:36:17.522Z"
+  },
+  {
+    "topic": "BKLYN Clay Gowanus — open-studio ceramics demos and shop",
+    "reason": "Parallels UrbanGlass for the makers-track (different medium, closer to IC at ~10 min drive)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:36:17.523Z"
+  },
+  {
+    "topic": "Brooklyn Glass (Park Slope/Gowanus) — glassblowing intro and open studio",
+    "reason": "Direct sibling craft to metalsmithing within 5 min drive; completes a 'makers day' triangle with BKMW + a bladesmithing or ceramics stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:38:20.150Z"
+  },
+  {
+    "topic": "Gowanus Souvenir Shop / Gowanus Open Studios participating artists",
+    "reason": "Adjacent maker corridor 8 min from IC; lets the corpus build a 'Gowanus makers walk' track combining BKMW with neighboring studios",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:38:20.150Z"
+  },
+  {
+    "topic": "BKLYN CLAY (Industry City) — ceramics open studio and one-day wheel classes",
+    "reason": "Same-day-bookable hands-on craft inside IC itself; natural opener before driving 14 min to BKMW",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:38:20.151Z"
   }
 ]

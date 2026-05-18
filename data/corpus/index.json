@@ -14863,10 +14863,10 @@
   {
     "id": "patisserie-tomoko",
     "name": "Patisserie Tomoko",
-    "desc": "Japanese-French dessert tasting bar with 8-seat counter, sake/wine pairings, intimate evening flight",
-    "longDesc": "Chef Tomoko Kato plates a three-course dessert prix fixe at a horseshoe counter in Williamsburg — amuse-bouche, a sweet course (black-sesame crème brûlée, green-tea cheesecake tart), and petits fours like namachoko. Optional sake or wine pairings make it a proper sit-down evening, not a grab-and-go pastry stop. Eight seats means reservations are essentially required; weekday-evening or early-weekend slots fill fastest.",
+    "desc": "Chef Tomoko Kato's Japanese-French dessert bar — yuzu mousse, black sesame mochi, matcha crepe cake.",
+    "longDesc": "Williamsburg pastry shop split into a takeout counter and a sit-down dessert bar where chef Tomoko Kato (ex-Le Bernardin, Bouley, Cha-An) serves a three-course dessert flight with optional wine or sake pairing. Rotating cases feature yuzu mousse, chestnut tart, black sesame and Earl Grey chocolate mochi, and Japanese-inflected French classics. A chef-driven, plated alternative to grab-and-go Kitsuné/Burrow pastry stops.",
     "url": "https://patisserietomoko.com/",
-    "photoUrl": "",
+    "photoUrl": "https://patisserietomoko.com/wp-content/uploads/2013/09/homepage_31.jpg",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
@@ -14875,36 +14875,35 @@
       "curious"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "45-60 min",
     "driveFromIC": "20 min",
     "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-18:00",
-    "notes": "568 Union Ave, Brooklyn NY 11211. Closed Mondays; Tue-Thu/Sun close at 18:00, Fri-Sat run until 20:00 — book the later seating for the full dessert-bar experience (Yelp, Time Out). Counter is 8 seats, so reserve ahead. Street parking on Union/Metropolitan is reasonable on weekend evenings vs lunch. Pairs naturally with a Williamsburg dinner stop earlier; not a substitute for the IC morning-pastry anchors but the evening counterpart the corpus was missing.",
+    "notes": "568 Union Ave, Brooklyn NY 11211; phone 718-388-7121. Dessert Bar tasting flight historically ~$28 with wine/sake pairing add-on (The Wandering Eater, Tripadvisor). Counter sells whole cakes, macarons, mochi, and seasonal tarts to-go (patisserietomoko.com). Goldbelly ships nationwide, indicating production capacity beyond the storefront (goldbelly.com). Street parking in Williamsburg is tight on weekends — plan 10 extra min or use Metropolitan Ave garages.",
     "sources": [
       {
+        "url": "https://patisserietomoko.com/",
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
         "url": "https://www.yelp.com/biz/patisserie-tomoko-brooklyn-2",
-        "accessed": "2026-05-18T21:05:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/patisserie-tomoko",
-        "accessed": "2026-05-18T21:05:00Z"
-      },
-      {
-        "url": "https://www.findmeglutenfree.com/biz/patisserie-tomoko/6451005733076992",
-        "accessed": "2026-05-18T21:05:00Z"
+        "accessed": "2026-05-18T21:30:00Z"
       },
       {
         "url": "https://thewanderingeater.com/2014/02/10/patisserie-tomoko-williamsburg-brooklyn/",
-        "accessed": "2026-05-18T21:05:00Z"
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
+        "url": "https://www.goldbelly.com/restaurants/patisserie-tomoko",
+        "accessed": "2026-05-18T21:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T21:14:18.168Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T21:29:50.339Z"
   },
   {
     "id": "fan-fan-doughnuts",
@@ -47174,9 +47173,9 @@
   {
     "id": "brooklyn-metal-works",
     "name": "Brooklyn Metal Works",
-    "desc": "Pro metalsmithing studio with one-day and weekend jewelry workshops on the Gowanus/Prospect Heights border.",
-    "longDesc": "Brooklyn Metal Works is a fully equipped jewelry and metalsmithing studio at 640 Dean Street offering one-day workshops (Flush Setting, Crash Course Cloisonné, Intro to Stone Carving) and short weekend courses (Cup Bezels, Powder Coated Talismans, Signet Ring) taught by professional artists. The 2026 Spring Session runs March–May with workshops priced $200–$600 and 8-week classes around $580 (early-bird until 2026-03-16). Adults 18+, open weekends 11am–7pm — a strong metalsmithing alternative if SASKIA is unbookable.",
-    "url": "https://www.bkmetalworks.com/classes",
+    "desc": "Fully equipped metalsmithing studio with open studio access, jewelry classes, and weekend workshops",
+    "longDesc": "A long-running Brooklyn metalsmithing and jewelry-making studio offering 8-week classes and shorter weekend workshops at every skill level — from basic fabrication and stone-setting to enameling and forging. Open studio hours (with current membership) run 11am-7pm Saturday and Sunday, giving makers bench time, torch stations, and rolling-mill access. 8-week courses run $580 and one-off workshops are $200-$600 depending on length (bkmetalworks.com/classes).",
+    "url": "https://www.bkmetalworks.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
@@ -47186,28 +47185,36 @@
     ],
     "dietary": [],
     "priceBand": "$$$",
-    "duration": "1-day or 6-8 hr workshop",
-    "driveFromIC": "13 min",
+    "duration": "3-4 hr",
+    "driveFromIC": "14 min",
     "hoursWeekend": "11:00-19:00",
-    "notes": "Address 640 Dean St, Brooklyn NY 11238 — technically Prospect Heights but adjacent to Gowanus/4th Ave; ~3 mi from Industry City via 4th Ave or Prospect Expwy. Phone (347) 762-4757, info@bkmetalworks.com. Workshops require advance registration; some Spring 2026 sessions already closed (One-Day Gemcutting, Mountmaking) so book early. Weekend street parking on Dean/Carlton is generally available. (https://www.bkmetalworks.com/studio) (https://www.bkmetalworks.com/classes) (https://www.bkmetalworks.com/updates/spring-2026-classes)",
+    "notes": "Located at 640 Dean St on the Prospect Heights / Park Slope edge (closer than 'Gowanus' suggests — straight shot up 4th Ave from IC). Weekend open-studio hours start/end 30 min around scheduled classes, so checking the calendar before driving over is required (bkmetalworks.com/contact, bkmetalworks.com/faq). Pairs well with a Gowanus or Park Slope food stop afterward; street parking on Dean/Carlton is usually findable on weekends. Most weekend offerings are pre-registration classes rather than walk-in — call ahead for drop-in bench time.",
     "sources": [
       {
-        "url": "https://www.bkmetalworks.com/studio",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.bkmetalworks.com/contact",
+        "accessed": "2026-05-18T21:30:00Z"
       },
       {
         "url": "https://www.bkmetalworks.com/classes",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T21:30:00Z"
       },
       {
-        "url": "https://www.bkmetalworks.com/updates/spring-2026-classes",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.bkmetalworks.com/faq",
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
+        "url": "https://www.bkmetalworks.com/studio",
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-metal-works-brooklyn",
+        "accessed": "2026-05-18T21:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T20:34:59.819Z"
+    "lastResearchedAt": "2026-05-18T21:38:20.104Z"
   },
   {
     "id": "tensuke-market-cafe-industry-city",
@@ -47708,5 +47715,145 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T21:25:36.111Z"
+  },
+  {
+    "id": "je-taime-patisserie",
+    "name": "Je T'aime Pâtisserie",
+    "desc": "Black-owned Bed-Stuy patisserie famous for stuffed & topped croissants in hybrid flavors",
+    "longDesc": "Chef Jatee Kearsley's self-taught French patisserie puts a 'Black girl spin' on viennoiserie, with a rotating lineup of stuffed/topped croissants — matcha-lavender-lemon-blueberry, piña colada, lemon meringue pie, red velvet chocolate chip cookie — alongside macarons, sandwiches, and soups. Menu rotates weekly; arrive earlier on weekends as the marquee croissants sell out by mid-afternoon. Counter-service storefront on Marcus Garvey Blvd between Decatur and Fulton.",
+    "url": "https://www.jetaimebk.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat-Sun 08:00-17:00",
+    "notes": "Stuffed/topped croissants are the signature — matcha-lavender-lemon-blueberry is the cross-cultural flagship (BKMag, Infatuation). Closed Mon-Tue; weekend lineup shifts weekly so the matcha-lavender combo is not guaranteed every visit (Cititour). Street parking on Marcus Garvey/Decatur is usually findable on weekend mornings. Pairs naturally with a Bed-Stuy mini-loop (Saraghina pizza, Peaches HotHouse, L'Antagoniste).",
+    "sources": [
+      {
+        "url": "https://www.jetaimebk.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkmag.com/2023/10/25/je-taime-patisserie-puts-a-black-girl-spin-on-french-pastries-in-bed-stuy/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/je-taime-patisserie",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://cititour.com/NYC_News/Brooklyns-Je-Taime-Patisserie-in-Bed-Stuy-Bakes-with-Heart/9368",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/je-t-aime-patisserie-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:31:42.808Z"
+  },
+  {
+    "id": "lysee-flatiron",
+    "name": "Lysée",
+    "desc": "Sculptural Korean-French patisserie by James Beard semi-finalist Eunji Lee — Manhattan exception.",
+    "longDesc": "Lysée is Chef Eunji Lee's two-floor 'dessert gallery' in Flatiron, fusing her classic French training (Jean-Georges Paris, Jungsik NYC) with Korean ingredients like toasted brown rice, jagae (mother-of-pearl) interiors, and reclaimed Korean wood beams. Signature plates include the logo-molded brown rice / pecan praline / brown rice caramel cake and a hyperreal 'Corn' dessert built from corn sablé, cremeux, mousse and grilled corn cream. Lee was a 2024 James Beard Outstanding Pastry Chef semi-finalist; pastries sell out and a counter line is normal on weekends.",
+    "url": "https://www.lyseenyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-20:00 Sat, 11:00-19:00 Sun",
+    "notes": "MANHATTAN EXCEPTION — flag for user judgment on relaxing the IC radius. 44 E 21st St, Flatiron, Manhattan (not Brooklyn). Uniquely justified by: (1) Eunji Lee = 2024 James Beard Outstanding Pastry Chef semi-finalist (https://www.lyseenyc.com/-press-2); (2) only NYC venue on the East-Asian-meets-French sculptural-pastry axis; (3) artist-grade visual standards matching the user's panel-harvester sensibility. Friction: weekend parking in Flatiron is street-meter only — expect 10-15 min to find a spot or budget $30-40 for a Quik Park / Icon lot on E 21st or Park Ave South. Drive is BQE → Manhattan Bridge → up Park Ave South, ~22 min off-peak, 30+ Sat midday. Counter format only — no reservations needed for retail pastry, though Resy holds afternoon dessert-experience seatings.",
+    "sources": [
+      {
+        "url": "https://www.lyseenyc.com/about",
+        "accessed": "2026-05-18T21:35:00Z"
+      },
+      {
+        "url": "https://www.lyseenyc.com/",
+        "accessed": "2026-05-18T21:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lysee-new-york-5",
+        "accessed": "2026-05-18T21:35:00Z"
+      },
+      {
+        "url": "https://robbreport.com/food-drink/dining/eunji-lee-lysee-1234695792/",
+        "accessed": "2026-05-18T21:35:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/a-french-korean-dessert-gallery-just-opened-in-flatiron-063022",
+        "accessed": "2026-05-18T21:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:34:09.031Z"
+  },
+  {
+    "id": "urbanglass-fort-greene",
+    "name": "UrbanGlass",
+    "desc": "Nonprofit glass center in Fort Greene with public glassblowing demos, gallery, and shop",
+    "longDesc": "UrbanGlass is the largest public-access glass studio in the US, housed in the Brooklyn Cultural District at 647 Fulton St. Visitors can watch artists manipulate 2,200°F molten glass during seated demonstrations and Open Studios events (glassblowing, flameworking, and neon bending), then browse the Robert Lehman Gallery and the UrbanGlass|ware shop. Free demos with beer and snacks happen on a published calendar; weekend gallery access is walk-in.",
+    "url": "https://urbanglass.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-17:00",
+    "notes": "Gallery and UrbanGlass|ware shop are free; ticketed seated demos and Open Studios run on a published schedule (urbanglass.org/events). Closed Mondays. Located in the Brooklyn Cultural District above the Theatre for a New Audience (Fort Greene/Downtown Brooklyn border); street parking on Fulton/Rockwell Pl is metered on weekends, with the Fulton St garage and BAM lots nearby. From Industry City take the Gowanus to Flatbush Ave (~18 min off-peak). Pair with BAM, Mark Morris, or Theatre for a New Audience on the same block (source: urbanglass.org/visit/while-youre-here).",
+    "sources": [
+      {
+        "url": "https://urbanglass.org/visit/overview",
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
+        "url": "https://urbanglass.org/visit/tours-and-demonstrations-at-urbanglass",
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
+        "url": "https://urbanglass.org/visit/while-youre-here",
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/museums-galleries/urban-glass-fort-greene/",
+        "accessed": "2026-05-18T21:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:36:17.489Z"
   }
 ]
