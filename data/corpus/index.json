@@ -9426,13 +9426,13 @@
   },
   {
     "id": "bryant-park-weekend",
-    "name": "Bryant Park",
-    "desc": "Free Midtown lawn with open-air Reading Room, lawn games, and a packed weekend programming calendar",
-    "longDesc": "A 9.6-acre Midtown green space directly across 6th Ave from Kinokuniya, Bryant Park offers a fully programmed free day out: the open-air Reading Room (yellow-umbrella seating with rotating books, magazines, and newspapers, April–October) sits steps from the Le Carrousel, ping-pong, chess/backgammon, putting green, and a 6,000 sq ft lawn used for picnic blankets and bistro-chair lounging. Weekend mornings layer in juggling, Art Cart, board games, and storytelling; summer 2026 brings the free Picnic Performances series (opens May 28) with 24 music/dance/opera/circus nights on the lawn (Variety, 2026). Parking is the catch — the park itself has none; nearby Icon and ProPark garages on W 41st–43rd run $35–60 for a weekend afternoon, so this only pencils on a Manhattan-anchored day already paired with Kinokuniya.",
-    "url": "https://bryantpark.org/calendar",
+    "name": "Bryant Park (Reading Room + Lawn)",
+    "desc": "Manhattan's free open-air living room: yellow-umbrella Reading Room, lawn games, weekend markets next to Kinokuniya.",
+    "longDesc": "Bryant Park is the natural linger-anchor for the Zaiya+Kinokuniya stop one block away. The outdoor Reading Room (April-September, 11am-7pm, signature yellow umbrellas) lends books, magazines, and newspapers on the spot, and the lawn hosts free chess, ping pong, petanque, and weekly events including quiet-reading sessions, poetry readings, and writing workshops. In winter the lawn becomes the Bank of America Winter Village with a free skating rink and 125+ holiday market stalls. Weekend daytime is the chill window — the marquee Picnic Performances are Thu/Fri at 7pm, so Saturday/Sunday is for unhurried reading, snacks from the kiosks, and people-watching.",
+    "url": "https://bryantpark.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "brooklyn-heights",
     "vibe": [
       "chill",
       "curious",
@@ -9441,35 +9441,39 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "30-45 min (Manhattan exception — pair with Kinokuniya)",
-    "hoursWeekend": "07:00-22:00 (park); Reading Room 11:00-19:00 Apr-Oct",
-    "notes": "Manhattan exception, justified only as the natural across-the-street pairing with Kinokuniya (1073 6th Ave) — both share the W 40th–42nd block. Free entry, free chairs/blankets first-come first-served, no registration for any Picnic Performance (bryantpark.org). Weekend rotating roster includes Juggling 10am, Art Cart 11am, Games 11:30am, plus author talks and kids' storytelling (bryantpark.org/calendar). Reading Room is on the 42nd St side under signature yellow umbrellas (Time Out). Drive is honest 30–45 min via Battery Tunnel + congestion zone toll ($9 peak); recommend NOT driving — Kinokuniya day should be subway/Uber. Photo-friendly: carousel, lawn, umbrellas, Empire State sightline from SE corner.",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "park 07:00-22:00; Reading Room 11:00-19:00 (Apr-Sep)",
+    "notes": "Manhattan exception is justified: this is the linger-engine for the Zaiya+Kinokuniya pair across 6th Ave — without it, that stop is grab-and-go. Reading Room is seasonal Apr-Sep (bryantpark.org/activities/reading-room). Lawn games (chess, ping pong, petanque) are free and equipment is loaned on site. Weekend programming is calmer than weeknights — the headline Picnic Performances run Thu/Fri 7pm May 28-Sep 11 2026 so don't plan weekends around them (bryantpark.org/activities/picnic-performances). Winter Village (skating + market) runs late Oct through early March. Driving note: street parking near 42nd/6th is brutal; cheapest option is icon/ProPark garages on 41st-43rd (~$25-40 for 2hr) or park in Bryant Park Garage. Lawn closes seasonally for re-sodding — check calendar (bryantpark.org/calendar) day-of before promising the lawn experience.",
     "sources": [
       {
         "url": "https://bryantpark.org/calendar",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://bryantpark.org/activities/reading-room",
+        "accessed": "2026-05-18T18:00:00Z"
       },
       {
         "url": "https://bryantpark.org/activities/picnic-performances",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-18T18:00:00Z"
       },
       {
-        "url": "https://variety.com/2026/music/news/bryant-park-2026-free-summer-concert-schedule-1236722897/",
-        "accessed": "2026-05-16T10:15:00Z"
+        "url": "https://bryantpark.org/calendar/event/read-on-the-lawn-day",
+        "accessed": "2026-05-18T18:00:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/news/bryant-park-is-hosting-a-giant-free-reading-party-on-its-lawn-this-summer-051326",
-        "accessed": "2026-05-16T10:15:00Z"
+        "accessed": "2026-05-18T18:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/parks/bryant-park/events",
-        "accessed": "2026-05-16T10:15:00Z"
+        "url": "https://www.storyhunt.io/en/articles/bryant-park",
+        "accessed": "2026-05-18T18:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:14:12.868Z"
+    "lastResearchedAt": "2026-05-18T17:38:45.156Z"
   },
   {
     "id": "li-lac-chocolates-industry-city",
@@ -12158,44 +12162,43 @@
   },
   {
     "id": "sunrise-mart-brooklyn",
-    "name": "Sunrise Mart Brooklyn",
-    "desc": "NYC's largest Japanese grocery — imported snacks, fresh sashimi, and prepared meals inside Japan Village.",
-    "longDesc": "The biggest Sunrise Mart in the city, anchoring the 20,000 sq ft Japan Village market-hall hybrid at Industry City. Aisles of imported snacks, Japanese pantry staples, fresh produce, sashimi-grade fish, sake, and ready-to-eat bento — perfect for a low-pressure browse-and-snack detour between Hachi and the next stop without leaving Building 3.",
-    "url": "https://industrycity.com/tenants/sunrise-mart/",
+    "name": "Sunrise Mart (Industry City)",
+    "desc": "Japanese grocery + daily bentos basically next door to IC — pantry, sake, onigiri, donburi.",
+    "longDesc": "Brooklyn outpost of NYC's iconic Sunrise Mart, at 934 3rd Ave in Sunset Park — a one-minute drive (or walk) from Industry City. Stocks the full Japanese pantry (imported sauces, sake, fresh produce, snacks) plus in-house bentos, onigiri, and hot donburi made daily. The pragmatic IC-side stop for the J-grocery itch without crossing the bridge.",
+    "url": "https://sunrisemart.com/pages/visit-us",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
-      "curious",
-      "foodie"
+      "foodie",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$",
+    "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-21:00",
-    "notes": "Located at 934 3rd Ave, Building 3, inside Japan Village; Fri-Sat 11am-9pm, Sun 11am-8pm (industrycity.com). Largest Sunrise Mart in NYC at 20,000 sq ft market-food hall hybrid (amny.com). Pairs naturally with Hachi ramen and Tea Dora mochi in the same complex; on-site weekend parking at IC.",
+    "driveFromIC": "2 min",
+    "hoursWeekend": "11:00-20:00",
+    "notes": "Address 934 3rd Ave, Brooklyn NY 11232; phone (347) 584-4579 (sunrisemart.com). Saturday + Sunday 11AM-8PM per official site. Fresh bentos, onigiri, hot donburi made in-house daily plus full Japanese pantry, sake, and Japanese snack imports (sunrisemart.com, yelp.com). Sunset Park street parking is real on weekends; IC's paid garage is the safer bet if you're combining with an IC visit. Manhattan flagships (Soho 494 Broome St, Midtown 12 E 41st, East Village 4 Stuyvesant St) are bigger but Manhattan-side — Yelp currently flags the East Village Stuyvesant location as CLOSED while the official site still lists it open, so reconfirm before routing there (yelp.com, sunrisemart.com).",
     "sources": [
       {
-        "url": "https://industrycity.com/tenants/sunrise-mart/",
-        "accessed": "2026-05-18T16:25:00Z"
-      },
-      {
         "url": "https://sunrisemart.com/pages/visit-us",
-        "accessed": "2026-05-18T16:25:00Z"
+        "accessed": "2026-05-18T17:35:00Z"
       },
       {
-        "url": "https://www.amny.com/lifestyle/eat-and-drink/japan-village-industry-city-1-24536424/",
-        "accessed": "2026-05-18T16:25:00Z"
+        "url": "https://www.yelp.com/biz/sunrise-mart-new-york-2",
+        "accessed": "2026-05-18T17:35:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/sunrise-mart-new-york",
+        "accessed": "2026-05-18T17:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T16:21:23.234Z"
+    "lastResearchedAt": "2026-05-18T17:36:09.935Z"
   },
   {
     "id": "mokbar-chelsea-market",
@@ -44853,10 +44856,10 @@
   },
   {
     "id": "human-relations-bookstore",
-    "name": "Human Relations Bookstore",
-    "desc": "Bushwick used-book haven for fiction, philosophy, radical politics, and graphic novels — cash preferred.",
-    "longDesc": "Founded in 2012 at 1067 Flushing Ave on the Bushwick/East Williamsburg edge, Human Relations stuffs floor-to-ceiling shelves with carefully curated used (and some new) literary fiction, poetry, philosophy, radical politics, foreign-language books, and graphic novels. Cash is preferred (there is a $10 card minimum), the staff trade in books, and the tightly packed aisles reward a slow afternoon graze. Open every day 12-7, it pairs naturally with a Williamsburg or Bushwick eating route.",
-    "url": "https://www.instagram.com/humanrelationsnyc/",
+    "name": "Human Relations",
+    "desc": "Beloved Bushwick used bookstore: $1 shelves outside, philosophy + lit fiction inside, cash preferred.",
+    "longDesc": "Established 2012, Human Relations is a tightly curated community bookstore specializing in literary fiction, poetry, philosophy, radical politics, graphic novels, and Spanish-language titles. Outside $1 carts pull you in; inside the shelves are clean, organized, and staff-recommended. Cash is preferred (cards accepted) — bring small bills for the dollar bins (nycbookstores.org, instagram.com/humanrelationsnyc).",
+    "url": "https://www.google.com/maps/place/Human+Relations/@40.7034,-73.9243,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
@@ -44866,32 +44869,32 @@
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-60 min",
-    "driveFromIC": "18 min",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "12:00-19:00",
-    "notes": "1067 Flushing Ave, Brooklyn NY 11237, between Vandervoort Pl and Knickerbocker Ave (TikTok @ericafenstermacher_). Specializes in used fiction + philosophy with strong poetry, radical politics, foreign-language and graphic-novel sections (nycbookstores.org). Cash preferred, $10 card minimum (search result). Street parking on Flushing/Vandervoort is realistic on weekends. Pairs well with Roberta's, Mama's Too Bushwick, or a Bogart St gallery walk for a reading-day route within ~10 min drive of Williamsburg.",
+    "notes": "Open every day 12-7pm (yelp.com/biz/human-relations-brooklyn). Located on Flushing Ave between Vandervoort Pl and Knickerbocker Ave; street parking is generally findable on weekends. Cash preferred but cards accepted. Stronger as a track-extension stop than a standalone destination — pair with Roberta's, Mood Ring, or a Bushwick coffee stop within a 5-min drive (nycbookstores.org, tiktok.com/@ericafenstermacher_).",
     "sources": [
       {
         "url": "https://www.nycbookstores.org/human-relations-books/",
-        "accessed": "2026-05-18T17:10:00Z"
+        "accessed": "2026-05-18T17:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/human-relations-brooklyn",
-        "accessed": "2026-05-18T17:10:00Z"
+        "accessed": "2026-05-18T17:35:00Z"
       },
       {
         "url": "https://www.instagram.com/humanrelationsnyc/",
-        "accessed": "2026-05-18T17:10:00Z"
+        "accessed": "2026-05-18T17:35:00Z"
       },
       {
         "url": "https://www.tiktok.com/@ericafenstermacher_/video/7359176542750166318",
-        "accessed": "2026-05-18T17:10:00Z"
+        "accessed": "2026-05-18T17:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T17:19:49.431Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:33:23.981Z"
   },
   {
     "id": "chavelas",
@@ -45059,5 +45062,87 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T17:30:46.743Z"
+  },
+  {
+    "id": "mitsuwa-edgewater",
+    "name": "Mitsuwa Marketplace (Edgewater NJ)",
+    "desc": "Japanese supermarket + food court across the Hudson — Santouka ramen, Hannosuke tempura, full grocery under one roof.",
+    "longDesc": "The closest thing to a Tokyo depachika in the NYC metro: a full Japanese supermarket (produce, fresh fish, sake wall, Japan-imported snacks and homewares) attached to a food court anchored by Santouka Ramen, Tendon Hannosuke, and Wateishoku Kaneda. Park free on-site, eat a real tonkotsu lunch, then load the car with groceries — one stop replaces a Zaiya + Kinokuniya Manhattan run.",
+    "url": "https://mitsuwa.com/nj/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "09:30-21:00 (food court 11:00-20:00)",
+    "notes": "Located at 595 River Rd, Edgewater NJ — across the Hudson from Upper Manhattan. From Industry City, the practical route is BQE → Holland Tunnel → Route 495/1&9 → River Rd north, ~25 min off-peak (longer on Saturday afternoons; expect 35-40 min). Ample free on-site parking — a real differentiator vs Kinokuniya/Zaiya in Midtown (mitsuwa.com/nj). Food court hours are tighter than the store: 11:00-20:00 weekends; Santouka and Hannosuke both have their own queue lines, arrive before noon or after 14:00 for short waits (yelp.com/biz/mitsuwa-marketplace-edgewater-3). Vegetarians: tamago/inari sushi, agedashi tofu at Kaneda, and the bakery section are reliable. Pairs well with a Hudson waterfront walk along the Edgewater promenade after lunch.",
+    "sources": [
+      {
+        "url": "https://mitsuwa.com/nj/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.mitsuwamarketplacenj.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mitsuwa-marketplace-edgewater-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://thelocalgirl.com/bergen/mitsuwa-edgewater-new-jersey/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:41:30.405Z"
+  },
+  {
+    "id": "mini-konbini-chelsea-market",
+    "name": "Mini Konbini at Maki a Mano",
+    "desc": "Self-service Japanese konbini counter inside Maki a Mano — onigiri to order, chicken sandos, kakigori.",
+    "longDesc": "Mini Konbini is the tighter, snack-format sister concept from the Maki a Mano / LenLen team, tucked inside their Chelsea Market space. Expect $5 onigiri (salmon, tuna, curry) wrapped to order, Japanese fried chicken sandos, kakigori shaved ice, and a curated wall of Japanese drinks/snacks — all self-service. Useful as a 20–30 min Chelsea/Meatpacking anchor when you want konbini-style ready-to-eat without committing to the handroll bar next door.",
+    "url": "https://www.chelseamarket.com/directory-all/makiamano",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "12:00-19:00",
+    "notes": "Manhattan exception justified: anchors the J-grocery/konbini sub-corpus for Chelsea/Meatpacking side trips. Drive IC → Chelsea Market is ~25 min weekends via Hugh L. Carey Tunnel + West Side Hwy. Weekend parking: Chelsea Market garage (entrance on W 16th) plus multiple Icon/SP+ lots on 10th Ave — book SpotHero ahead. Mini Konbini hours (12–7pm) are tighter than full Chelsea Market hours, so slot for lunch/early-afternoon only (chelseamarket.com directory). $5 onigiri in salmon/tuna/curry plus fried chicken sandos confirmed (theinfatuation.com). Self-service kakigori stand format means quick in-out — pairs well with a longer Chelsea Market walk-around or High Line stroll. Sister to Maki a Mano (sit-down handrolls) and LenLen.",
+    "sources": [
+      {
+        "url": "https://www.chelseamarket.com/directory-all/makiamano",
+        "accessed": "2026-05-18T17:35:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/mini-konbini",
+        "accessed": "2026-05-18T17:35:00Z"
+      },
+      {
+        "url": "https://www.makiamano.nyc/",
+        "accessed": "2026-05-18T17:35:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:43:49.104Z"
   }
 ]
