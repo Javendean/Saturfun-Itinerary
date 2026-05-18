@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Mama's Too! pizza Bushwick or other Bushwick dinner anchor within 10 min of Sobre Masa",
-    "reason": "Builds a Bushwick cluster so Sobre Masa isn't a solo 24-min drive — needs a second nearby stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:27:25.862Z"
-  },
-  {
-    "topic": "Hart Bar / Birdy's / Erica's natural-wine bar Bushwick",
-    "reason": "Post-dinner drinks within 5-min walk of Sobre Masa to extend the Bushwick anchor into a full evening",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:27:25.862Z"
-  },
-  {
-    "topic": "Syndicated Bar Theater Kitchen Bushwick (food + film)",
-    "reason": "Same Harrison Pl / Jefferson L corridor; supports a Bushwick 'art + food' Saturday-evening track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:27:25.862Z"
-  },
-  {
-    "topic": "The Bushwick Collective murals walking loop (Troutman St & St. Nicholas Ave)",
-    "reason": "Direct pairing with Los Hermanos — 5 min walk, anchors a 'press-shop + mural crawl' Bushwick track and gives a photo-heavy companion stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:29:24.333Z"
-  },
-  {
-    "topic": "Mama's Empanadas or Tortilleria Nixtamal-style adjacent Bushwick Mexican spot (e.g., Birria-Landia truck Bushwick stop)",
-    "reason": "Expands the Mexican press-shop trio across the borough and gives a backup if Los Hermanos has a wait",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:29:24.333Z"
-  },
-  {
     "topic": "Houdini Kitchen + Bar (Ridgewood, ~10 min drive from Los Hermanos)",
     "reason": "Wood-fired pizza in a hidden brewery courtyard — natural evening anchor after a Bushwick afternoon, keeps the same Bushwick/Ridgewood cluster alive into dinner",
     "requestedBy": "agent",
@@ -20758,5 +20728,101 @@
     "reason": "Need an anchor meal to turn the Bay Ridge skyline cluster into a full track, currently sparse in corpus",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T23:33:35.807Z"
+  },
+  {
+    "topic": "Ops Pizza Bushwick — sourdough crust + natural wine",
+    "reason": "Second Bushwick dinner option 0.7 mi from Sobre Masa; lower-key candlelit alternative to Roberta's for the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:35:38.905Z"
+  },
+  {
+    "topic": "Lucky Charlie Bushwick — coal-oven pizza in NYC's oldest operational coal oven (1890)",
+    "reason": "Historical/curious vibe pick for Bushwick cluster, NY/New Haven hybrid style",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:35:38.905Z"
+  },
+  {
+    "topic": "Mama's Too UWS Manhattan — square slice pizza",
+    "reason": "Original prompt mentioned this but it's UWS not Bushwick; flag as Manhattan-only candidate if a square-slice anchor is wanted elsewhere",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:35:38.905Z"
+  },
+  {
+    "topic": "Honey's mead bar 52 Bogart St Bushwick",
+    "reason": "Actual 1-block walk from Sobre Masa — the literal 5-min-walk post-dinner option the user was reaching for",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:38:17.952Z"
+  },
+  {
+    "topic": "Bossa Nova Civic Club Bushwick late-night",
+    "reason": "Iconic Morgan-corridor club for extending Bushwick anchor evenings, ~5-min walk from Sobre Masa",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:38:17.952Z"
+  },
+  {
+    "topic": "Birdy's punk dive bar 1215 Myrtle Ave Bushwick",
+    "reason": "The second candidate from the user's grouping — pair with Hart Bar for the Myrtle JMZ cluster of evening stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:38:17.952Z"
+  },
+  {
+    "topic": "Ops natural wine and wood-fired pizza Bushwick",
+    "reason": "Closest true natural-wine bar in Bushwick if user wants the natural-wine angle they originally asked about",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:38:17.952Z"
+  },
+  {
+    "topic": "Roberta's Pizza Bushwick (Moore St)",
+    "reason": "Same Jefferson L corridor 4 blocks from Syndicated — completes a food anchor for the Bushwick art+food track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:40:07.589Z"
+  },
+  {
+    "topic": "Harrison Place gallery row (Bogart/Harrison cluster: 56 Bogart, Microscope, Studio 10)",
+    "reason": "Walkable pre-film art stop directly adjacent to Syndicated; defines the 'art' half of the track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:40:07.589Z"
+  },
+  {
+    "topic": "Mood Ring Bushwick (astrology-themed cocktail bar)",
+    "reason": "Late-night post-film drinks option within 8-min walk; reinforces curious/romantic vibe cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:40:07.589Z"
+  },
+  {
+    "topic": "Roberta's Pizza (Moore St, Bushwick) — wood-fired pies + backyard",
+    "reason": "Anchors a food stop on the Bushwick mural-crawl track; 7 min drive from the Collective, weekend parking realistic",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:41:59.358Z"
+  },
+  {
+    "topic": "House of Yes (Wyckoff Ave, Bushwick) — daytime exterior + nightlife reference",
+    "reason": "Adds a nighttime cap option to the Bushwick track for late itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:41:59.359Z"
+  },
+  {
+    "topic": "Mood Ring / Syndicated (Bushwick bar+theater combo)",
+    "reason": "Pairs with mural crawl for a chill evening capstone within 5-10 min walk of Troutman/St. Nicholas",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:41:59.359Z"
+  },
+  {
+    "topic": "Carnitas Ramirez (Bushwick / Lower East Side carnitas counter)",
+    "reason": "Genuine Bushwick-adjacent Mexican press-shop fit — fills the actual Bushwick gap the brief was reaching for",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:44:09.419Z"
+  },
+  {
+    "topic": "Chilo's (Bedford-Stuyvesant taqueria with backyard)",
+    "reason": "Adds a Bed-Stuy Mexican anchor with seated patio time, contrasts truck-only Birria-Landia in the same drive radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:44:09.419Z"
+  },
+  {
+    "topic": "Taqueria Ramirez (Greenpoint carnitas standing-counter)",
+    "reason": "Completes a Brooklyn Mexican trio with Tortilleria Nixtamal + Birria-Landia; high-bar press-shop benchmark for Greenpoint zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:44:09.419Z"
   }
 ]

@@ -22335,41 +22335,48 @@
   {
     "id": "syndicated-bar-theater-kitchen",
     "name": "Syndicated Bar Theater Kitchen",
-    "desc": "Dine-in cinema + cocktail bar + American kitchen under one Bushwick roof",
-    "longDesc": "A 60-seat full-service movie house tucked behind a craft cocktail bar and seasonal American restaurant at 40 Bogart St — order burgers, snacks and film-themed drinks (think 'Redrum') from your theater seat. Programming swings between cult repertory and new indies; tickets are a flat $10. The bar and dining room stay open late, so it doubles as a pre/post-dinner activity for a Bushwick driving track.",
+    "desc": "Bushwick dine-in cinema + gastropub — $9 movies served at your seat with full bar.",
+    "longDesc": "Syndicated at 40 Bogart St pairs a 60-seat full-service dine-in theater with a proper kitchen and bar, programming a mix of repertory cult classics, indies, and new releases for $9 tickets. Order seasonal American comfort food and craft cocktails table-side during the film, or eat in the front bar/restaurant before a screening. Anchors a Bushwick 'art + food' Saturday-evening track alongside the nearby Harrison Pl gallery cluster and Jefferson L corridor.",
     "url": "https://syndicatedbk.com/",
-    "photoUrl": "https://syndicatedbk.com/wp-content/uploads/2018/10/IMG_9306.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "chill",
+      "foodie",
       "curious",
       "romantic"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
     "duration": "2-3 hr",
-    "driveFromIC": "20 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "Sat 15:00-02:00, Sun 15:00-00:00",
-    "notes": "60-seat dine-in cinema with in-seat food/drink service; $10 tickets via Veezi (syndicatedbk.com). Cocktails ~$12-13, film-named (e.g. 'Redrum'). Corner of Bogart & Thames, one block from Morgan Ave L — street parking is doable on weekends in the surrounding industrial blocks. 4 min drive from Los Hermanos taqueria, ~20 min from Industry City via the BQE.",
+    "notes": "40 Bogart St, Brooklyn NY 11206 — half-block from Jefferson L and Harrison Pl gallery row (syndicatedbk.com). Doors at 5pm weekdays, 3pm Sat/Sun; kitchen runs late (yelp.com). $9 tickets bookable via Veezi (ticketing.useast.veezi.com). Street parking on Bogart/Harrison/Boerum is workable on weekend evenings; pairs naturally with a pre-film stop at the Harrison Pl galleries or Roberta's a few blocks south.",
     "sources": [
       {
         "url": "https://syndicatedbk.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T23:40:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/syndicated-bar-theater-kitchen-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T23:40:00Z"
       },
       {
-        "url": "https://bushwickdaily.com/arts-culture/3598-syndicated-bar-restaurant-theater-can-be-whatever-you-want-it-to-be/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://ticketing.useast.veezi.com/sessions/?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c",
+        "accessed": "2026-05-18T23:40:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/syndicated-bar-theater-kitchen",
+        "accessed": "2026-05-18T23:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T02:37:33.613Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:40:07.541Z"
   },
   {
     "id": "tortilleria-los-hermanos-bushwick",
@@ -28521,15 +28528,15 @@
   {
     "id": "robertas-bushwick",
     "name": "Roberta's",
-    "desc": "Iconic Bushwick wood-fired Neapolitan pizza in a graffiti-clad warehouse with a tiki garden",
-    "longDesc": "Roberta's has been the gravitational center of Bushwick dining since 2008 — wood-fired Neapolitan pizzas (start ~$24), house-cured salumi, handmade pasta, and seasonal vegetables served inside a tin-shed warehouse on Moore Street, with a back garden and tiki bar in warmer months. The Bee Sting (soppressata, chili, honey) and the Speckenwolf are the canonical orders; weekend nights run loud and crowded, so book on Resy for a pre-karaoke dinner that can comfortably wrap by 9-9:30pm. Five minutes from 233 Starr St, making it the obvious anchor for a Bushwick food + karaoke evening track.",
+    "desc": "Iconic Bushwick wood-fired Neapolitan pizza in a graffiti-covered cinder-block hangout — 3 blocks from Sobre Masa.",
+    "longDesc": "Roberta's has been Bushwick's flagship destination pizzeria since 2008, slinging wood-fired Neapolitan pies (the Bee Sting with soppressata, chili, and honey is the canonical order) inside a graffiti-tagged warehouse complex with a back garden and tiki bar. Michelin-listed and consistently ranked among Brooklyn's best, the kitchen also turns out seasonal pastas and small plates. It sits 0.3 miles (a 2-minute drive or 5-minute walk) from Sobre Masa at 47 Bogart St, making it the natural Bushwick second-stop or pre-dinner anchor (source: robertaspizza.com, Michelin Guide).",
     "url": "https://www.robertaspizza.com/bushwick",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "foodie",
-      "photo",
+      "chill",
       "curious"
     ],
     "dietary": [
@@ -28537,31 +28544,31 @@
     ],
     "priceBand": "$$",
     "duration": "75-90 min",
-    "driveFromIC": "25 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
-    "notes": "261 Moore St, Brooklyn NY 11206 (Yelp, Resy). Wood-fired Neapolitan pizzas from ~$24; full menu includes pastas, salumi, charcoal-grilled heritage meats (robertaspizza.com/bushwick). Reservations via Resy strongly recommended on weekends; walk-ins possible at the bar. Street parking in the surrounding industrial blocks is decent on weekends compared to most of NYC. ~5 min drive to 233 Starr St (House of Yes) — natural pre-karaoke dinner stop (google maps). Michelin Guide listed (guide.michelin.com).",
+    "notes": "261 Moore St, Bushwick — 0.3 mi / ~2 min drive from Sobre Masa, perfect cluster anchor (source: Yelp). Walk-ins always accepted, no reservations needed for the pizza room (source: robertaspizza.com). Wood-fired Neapolitan pies, Bee Sting is the signature; back garden + tiki bar open in warmer months (source: Michelin Guide). Street parking on Moore/Bogart is generally findable on weekend evenings — this is a warehouse zone, not residential.",
     "sources": [
       {
         "url": "https://www.robertaspizza.com/bushwick",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/robertas-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://resy.com/cities/new-york-ny/venues/robertas-restaurant",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T23:40:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/roberta-s",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T23:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/robertas-brooklyn-2",
+        "accessed": "2026-05-18T23:40:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/a-guide-to-the-best-brooklyn-pizza",
+        "accessed": "2026-05-18T23:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T13:59:32.500Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:35:38.867Z"
   },
   {
     "id": "obentoyasan-japan-village",
@@ -48676,5 +48683,136 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T23:12:37.017Z"
+  },
+  {
+    "id": "hart-bar",
+    "name": "Hart Bar",
+    "desc": "Saloon-style Bushwick bar with cocktails, wine, late kitchen, and a basement live-music room",
+    "longDesc": "Hart Bar at 538 Hart St is a gothic-saloon-meets-house-party spot near the Myrtle JMZ — enclosed fern-filled patio, upstairs DJ corner, and a basement that hosts garage bands and DJs until 4am on weekends. The kitchen runs late (Hart Burger, gochujang chicken sandwich, fried pickles) and the wine list is small but well-curated alongside strong cocktails, so it works as a true post-dinner second stop rather than just a nightcap.",
+    "url": "https://www.hartbarnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Fri-Sat 17:00-04:00, Sun 17:00-02:00",
+    "notes": "Reality-check on the premise: Hart Bar is ~1 mi (≈18-min walk / 5-min drive) from Sobre Masa at 124 Bogart St, NOT a 5-min walk — both are in Bushwick but Hart Bar sits closer to the Myrtle JMZ corridor while Sobre Masa is in the Morgan L cluster. Good extender if you're willing to move the car after dinner, otherwise pick a Morgan-area spot. Strong wine selection noted in reviews but it is not strictly a natural-wine bar (Infatuation review). Happy hour daily 17:00-20:00. Phone (646) 264-8426.",
+    "sources": [
+      {
+        "url": "https://www.hartbarnyc.com/visitus",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/hart-bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hart-bar-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T23:38:17.915Z"
+  },
+  {
+    "id": "bushwick-collective-murals",
+    "name": "The Bushwick Collective Murals",
+    "desc": "Open-air street-art gallery centered at Troutman St & St. Nicholas Ave — rotating mural crawl, always free.",
+    "longDesc": "Founded in 2012 by Joseph Ficalora, The Bushwick Collective is an ~8-block outdoor mural district anchored at the corner of Troutman Street and St. Nicholas Avenue. Murals rotate roughly every 6–12 months and are repainted by invited international artists, so the loop looks different each visit. A 30–45 min walking circuit (north on Troutman past Wyckoff, loop back via Jefferson and St. Nicholas) is photo-dense and pairs naturally with Los Hermanos a few blocks away.",
+    "url": "https://www.thebushwickcollective.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "photo",
+      "curious",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "24/7 (outdoor, best in daylight 10:00-17:00)",
+    "notes": "Free, always open — it's public streets (Yelp / Tripadvisor). Murals refresh every ~6-12 months; annual block party in June brings new pieces (Mad Hatters NYC, Free Tours by Foot). Weekend street parking is usually doable a block or two off the core intersection — the Troutman/St. Nicholas corner itself can be tight; try side streets near Bushwick Market or along Starr/Jefferson (Brooklyn Unplugged Tours). Best paired with Los Hermanos tortilla factory (5 min walk) for a press-shop + mural-crawl Bushwick track.",
+    "sources": [
+      {
+        "url": "https://brooklynunpluggedtours.com/bushwick-collective-guide-map/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bushwick-collective-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://madhattersnyc.com/blog/best-bushwick-collective-street-art",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://freetoursbyfoot.com/bushwick-graffiti-bushwick-collective/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60827-d8377608-Reviews-Bushwick_Collective_Street_Art-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:41:59.316Z"
+  },
+  {
+    "id": "birria-landia-brooklyn",
+    "name": "Birria-Landia (Brooklyn Truck)",
+    "desc": "Cult Tijuana-style birria taco truck parked off Metropolitan Ave — consommé-dipped quesabirria with a constant L-train line.",
+    "longDesc": "The Brooklyn outpost of Jackson Heights' famed Birria-Landia, this red-and-white truck has been parked beside Macri Triangle Park at 491 Metropolitan Ave since 2020, slinging Tijuana-style quesabirria tacos, mulitas, and consommé to a permanent sidewalk crowd. Order the three-taco combo with a side of broth, grab a bench in the park, and watch the L-train Williamsburg evening crowd churn past. Cash-light, no seating inside the truck — it's a pure curbside ritual, best between lunch and the late-night rush.",
+    "url": "https://birrialandia.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "gluten-free"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "13:00-01:00",
+    "notes": "Truck is actually at the Williamsburg/East Williamsburg edge by the Metropolitan-Lorimer L stop, not Bushwick proper — the task brief conflated them; corpus zone corrected to williamsburg (Yelp). Weekend window is Sat-Sun 1pm-1am, so it covers both late lunch and post-dinner detours (Yelp). Park alongside Macri Triangle has benches for eating; street parking on Metropolitan is metered weekends but turnover is high (Indagare). Corn tortillas = naturally gluten-free for the birria taco itself, but consommé and any flour mulitas are not — verify at the window. Backup for Los Hermanos in Sunset Park if there's a wait; pairs well with a Williamsburg track that already includes coffee or a gallery stop.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/birria-landia-brooklyn",
+        "accessed": "2026-05-18T23:40:00Z"
+      },
+      {
+        "url": "https://birrialandia.com/",
+        "accessed": "2026-05-18T23:40:00Z"
+      },
+      {
+        "url": "https://indagare.com/restaurant/birria-landia",
+        "accessed": "2026-05-18T23:40:00Z"
+      },
+      {
+        "url": "https://www.findmeglutenfree.com/biz/birria-landia/5678865639407616",
+        "accessed": "2026-05-18T23:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:44:09.378Z"
   }
 ]
