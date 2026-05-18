@@ -18631,24 +18631,27 @@
   {
     "id": "little-island-pier-55",
     "name": "Little Island at Pier 55",
-    "desc": "Free floating park on tulip-shaped concrete piles in Hudson River — wandering paths, overlooks, amphitheater.",
-    "longDesc": "Heatherwick-designed 2.4-acre park perched on 132 sculpted concrete 'tulip' piles at Pier 55, just north of the Whitney and a 10-minute walk south of the High Line's Gansevoort terminus (Wikipedia). The park layers winding paths, lawns, and city/river overlooks across three peaks, with a 687-seat Amph and a smaller Glade stage hosting free and ticketed performances seasonally (littleisland.org). Free admission, no reservation needed outside peak summer afternoons; weekend strategy is to park at MPG Manhattan Parking (450 W 17th) or pier-area meters and chain it with a High Line + Whitney loop.",
+    "desc": "Free floating park on tulip-shaped pylons over the Hudson with amphitheater, lawns, and skyline views",
+    "longDesc": "Heatherwick Studio's 2.4-acre artificial island floats on 132 concrete 'tulip' pylons over the Hudson at West 13th St, with rolling lawns, overlooks, a 687-seat amphitheater (The Amph), and a smaller stage called The Glade. It's free to walk on; timed reservations are required after 12pm during peak season and easily booked on littleisland.org. Pair with the High Line (3-block walk) and Chelsea Market on one parking session — the whole Meatpacking triangle works as a single Manhattan stop from IC.",
     "url": "https://littleisland.org/",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Little_Island_at_Pier_55_in_June_2021.jpg/1280px-Little_Island_at_Pier_55_in_June_2021.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "industry-city",
     "vibe": [
       "chill",
       "photo",
       "curious",
       "romantic"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "25 min",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "06:00-23:00",
-    "notes": "Manhattan stop — justified as a third anchor on the High Line / Chelsea Market / Whitney walking loop, not a Brooklyn drive (reason: extends Manhattan track without driving). Free, open 6a–11p daily (littleisland.org). No on-site parking; nearest paid garage is MPG Manhattan Parking at 450 W 17th St between 9th/10th Ave (nbcnewyork.com). From Industry City: I-278 W → Hugh L. Carey Tunnel → West Side Hwy ≈ 22–28 min off-peak weekends. Best window: golden hour for skyline + Hudson sunset shots from the southwest overlook. Summer brings free Glade performances; check the events calendar before going for ticketed Amph shows.",
+    "notes": "Manhattan exception justified: completes High Line + Chelsea Market triangle on one parking session in Meatpacking (memory: project_driving_radius allows car-radius extension when stops cluster). Entry is free; free timed reservation required after 12pm via littleisland.org (littleisland.org). No on-site parking — nearest paid garage is MPG Manhattan Parking, 450 W 17th St between 9th/10th Aves; street parking nearby (nbcnewyork.com). Drop-off on 10th Ave; taxi pick-up at Pier 57 just north. On-site food/beverage kiosks plus The Amph for ticketed summer performances. Hudson sunset from the southwest overlook is the photo (hudsonriverpark.org, freetoursbyfoot.com).",
     "sources": [
       {
         "url": "https://littleisland.org/",
@@ -18659,18 +18662,22 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
+        "url": "https://hudsonriverpark.org/locations/pier-55-little-island/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
         "url": "https://www.nbcnewyork.com/entertainment/the-scene/little-island-nyc-where-is-it-can-i-park-there-is-it-really-free-and-more-to-know/3904177/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://hudsonriverpark.org/locations/pier-55-little-island/",
+        "url": "https://freetoursbyfoot.com/little-island-nyc/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T12:22:10.615Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T13:36:16.188Z"
   },
   {
     "id": "chelsea-market",
@@ -42611,5 +42618,177 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T13:27:26.704Z"
+  },
+  {
+    "id": "high-line-gansevoort",
+    "name": "The High Line — Gansevoort Street Entry",
+    "desc": "Elevated park walk on a former freight rail through Meatpacking and Chelsea (~1.45 mi north).",
+    "longDesc": "Start at the southernmost stair/elevator at Gansevoort & Washington and head north along the 1.45-mile linear park built on a 1930s elevated rail line. The first half mile through the Meatpacking District delivers the densest stretch: native plantings around the Tiehack, the Standard Hotel straddling the path, the 10th Ave amphitheater overlooking traffic, and rotating public art commissions from High Line Art. Pair it with Little Island one block north for a perfect outdoor doubleheader.",
+    "url": "https://www.thehighline.org/visit/",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/High_Line_20th_Street_looking_downtown.jpg/1280px-High_Line_20th_Street_looking_downtown.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "photo",
+      "active",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "07:00-22:00",
+    "notes": "Manhattan exception, justified as the geographic pair to Little Island one block south on Hudson River Park (user flagged the Meatpacking doubleheader). Hours vary seasonally: 7am-10pm Apr/May/Oct/Nov, 7am-11pm Jun-Sep, 7am-7pm Dec-Mar (source: thehighline.org/faq). Free entry, no tickets needed at Gansevoort. Drive ~25 min from Industry City via Battery Tunnel + West Side Hwy on weekends; expect 30+ in summer traffic. Weekend parking: Edison ParkFast at 11 Little W 12th St and Icon at 60 Gansevoort St run ~$30-45 for 2-3 hrs; metered street parking on Washington/Greenwich is free Sundays but scarce. Gansevoort elevator is at the NW corner of Gansevoort & Washington for stroller/accessibility access (source: thehighline.org/visit). Best photo stops in the first half-mile: Standard Hotel underpass, 10th Ave overlook, and the Diller-von Furstenberg sundeck.",
+    "sources": [
+      {
+        "url": "https://www.thehighline.org/visit/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.thehighline.org/faq/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/High_Line",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/the-high-line",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T13:29:39.292Z"
+  },
+  {
+    "id": "whitney-museum-american-art",
+    "name": "Whitney Museum of American Art",
+    "desc": "Renzo Piano-designed contemporary art museum capping the High Line south end with stacked outdoor terraces over the Hudson",
+    "longDesc": "Anchored at Gansevoort & Washington where the High Line meets the river, the Whitney's eight-story Piano building gives you light-filled galleries plus five outdoor terraces with downtown skyline + Hudson views — ideal photo + curious indoor pairing after Little Island. The Whitney Biennial 2026 (56 artists, the longest-running contemporary survey in the US) is on view, so the visit doubles as a real cultural beat rather than just a stop.",
+    "url": "https://whitney.org/visit",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:30-18:00",
+    "notes": "99 Gansevoort St, NYC 10014 — Manhattan exception justified: caps the Little Island + High Line south arc at the literal terminus of the High Line, so it's already on-route rather than a detour. Adults $30, 25-and-under free (whitney.org/visit). Weekend: Sat & Sun 10:30am–6pm. No museum lot; three ICON garages within a block (99 & 134–36 Jane St, 385 W 15th St) — pre-book via SpotHero/ParkWhiz to lock in a weekend rate since Meatpacking street parking is metered and brutal. Currently showing Whitney Biennial 2026 (whitney.org). Terraces are free-with-admission and the best photo asset.",
+    "sources": [
+      {
+        "url": "https://whitney.org/visit",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/whitney-museum-of-american-art-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.wonderfulmuseums.com/museum/parking-near-whitney-museum/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T13:31:46.763Z"
+  },
+  {
+    "id": "los-tacos-no-1-chelsea-market",
+    "name": "Los Tacos No. 1 (Chelsea Market)",
+    "desc": "Cult Tijuana-style taqueria stall inside Chelsea Market — adobada, asada, nopal on hand-pressed tortillas",
+    "longDesc": "The original 2013 stall from three friends out of Tijuana and Brawley, CA, slinging asada, pollo, adobada, and nopal tacos in hand-pressed tortillas grilled to order, plus quesadillas and aguas frescas (horchata, jamaica, tamarindo). Pure street-style: no seating, fast-moving line, eaten standing at a counter. Frequently cited as the single best taco in NYC and routinely the entire reason people drive into Chelsea Market.",
+    "url": "https://www.lostacos1.com/location/los-tacos-chelsea-market/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "chelsea",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-22:00 Sat, 11:00-21:00 Sun",
+    "notes": "Manhattan venue — only justified for foodie-priority tracks where the taco is the anchor, not a side stop (Los Tacos No. 1 official site). Inside Chelsea Market at 75 9th Ave; line looks long but moves fast, eat standing at counters (NYC Tourism). Adobada (marinated pork al pastor off the trompo) is the signature; carne asada and nopal (cactus) round out the must-orders (Time Out NY). Weekend drive from IC ~22 min via Hugh Carey Tunnel; nearest paid parking is Chelsea Market garage on W 16th or street parking near the Highline — budget for lot fees.",
+    "sources": [
+      {
+        "url": "https://www.lostacos1.com/location/los-tacos-chelsea-market/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.chelseamarket.com/directory-all/los-tacos-no-1",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/los-tacos-no-1",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/los-tacos-no.-1-chelsea/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T13:34:07.749Z"
+  },
+  {
+    "id": "the-lobster-place-chelsea-market",
+    "name": "The Lobster Place",
+    "desc": "Chelsea Market seafood hall with raw bar, sushi counter and a lobster roll routinely ranked NYC's best.",
+    "longDesc": "Inside Chelsea Market by the fountain, The Lobster Place runs a full fish-market, raw bar, sushi bar and a hot counter known for steamed lobsters and a butter-poached Connecticut-style lobster roll on a toasted split-top bun. Counter seating only, first-come-first-served — grab a tray and eat in the market or take it to the High Line two blocks away. Daily 11:00–21:00.",
+    "url": "https://www.lobsterplace.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Manhattan detour, justified by single-source lobster-roll reputation; pairs naturally with a High Line walk (entrance at 16th/10th, ~2 min walk) (lobsterplace.com). No reservations, no in-house parking — closest paid garages: iPark 100 W 18th St and Icon Parking 200 W 16th St, both ~5 min walk. Address: 75 9th Ave, NY 10011, entrances on 9th & 10th Ave between 15th–16th St (chelseamarket.com).",
+    "sources": [
+      {
+        "url": "https://www.lobsterplace.com/location/lobster-place/",
+        "accessed": "2026-05-18T13:30:00Z"
+      },
+      {
+        "url": "https://www.chelseamarket.com/directory-all/the-lobster-place",
+        "accessed": "2026-05-18T13:30:00Z"
+      },
+      {
+        "url": "https://www.lobsterplace.com/menus/",
+        "accessed": "2026-05-18T13:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/lobster-place-new-york-4",
+        "accessed": "2026-05-18T13:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T13:38:10.365Z"
   }
 ]

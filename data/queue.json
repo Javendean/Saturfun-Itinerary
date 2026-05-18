@@ -1,35 +1,5 @@
 [
   {
-    "topic": "High Line southern entry at Gansevoort Street — Manhattan elevated park walk",
-    "reason": "Direct geographic pair with Little Island (one block north); completes the Meatpacking outdoor doubleheader the user flagged",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:05:12.686Z"
-  },
-  {
-    "topic": "Whitney Museum of American Art (Gansevoort & Washington)",
-    "reason": "Caps the Little Island + High Line south arc with a curious/photo indoor option at the same intersection",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:05:12.686Z"
-  },
-  {
-    "topic": "Los Tacos No. 1 Chelsea Market stall",
-    "reason": "Cult-favorite single vendor inside Chelsea Market — frequently the entire reason people drive in; deserves its own anchor entry for foodie tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:07:46.756Z"
-  },
-  {
-    "topic": "Little Island at Pier 55",
-    "reason": "Free elevated park on tulip-pylons one block south of Chelsea Market — completes the High Line + Chelsea Market Manhattan triangle on one parking session",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:07:46.756Z"
-  },
-  {
-    "topic": "The Lobster Place inside Chelsea Market",
-    "reason": "Raw bar + lobster roll counter routinely cited as best-in-NYC; worth a standalone entry for romantic/foodie tracks that can absorb a Manhattan detour",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:07:46.756Z"
-  },
-  {
     "topic": "The Shed at Hudson Yards",
     "reason": "Telescoping cultural venue directly adjacent to Vessel; fills the rainy-day / arts slot in the Manhattan cluster",
     "requestedBy": "agent",
@@ -17656,5 +17626,95 @@
     "reason": "Sit-down LES classic 5-min walk from Essex Market — converts the anchor into a meal track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T13:27:26.736Z"
+  },
+  {
+    "topic": "Chelsea Market food hall (9th Ave & 15th St) — adjacent to High Line mid-point",
+    "reason": "Natural lunch/snack pivot off the High Line at the 14th St exit; covers foodie + indoor backup if weather turns",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:29:39.330Z"
+  },
+  {
+    "topic": "Whitney Museum of American Art at Gansevoort & Washington",
+    "reason": "Sits literally at the Gansevoort entry stair; turns the Meatpacking doubleheader into a tripleheader on rainy days",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:29:39.331Z"
+  },
+  {
+    "topic": "Pier 57 Rooftop Park + City Winery (Hudson River Park, W 15th St)",
+    "reason": "Free rooftop with Hudson views one block west of High Line midpoint; expands the West Side outdoor cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:29:39.331Z"
+  },
+  {
+    "topic": "Whitney Biennial 2026 specific must-see installations",
+    "reason": "Lets the itinerary card surface concrete artworks to anticipate, raising signal vs. a generic museum blurb",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:31:46.806Z"
+  },
+  {
+    "topic": "Studio in a School / Hudson River Park Pier 51 playground (kid-photo alt)",
+    "reason": "Adjacent free outdoor option at the same Gansevoort terminus for groups skipping museum admission",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:31:46.806Z"
+  },
+  {
+    "topic": "Frenchette Bakery Whitney (cafe inside Whitney lobby)",
+    "reason": "Walk-in coffee/pastry beat that pairs with a Whitney stop without adding a separate drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:31:46.806Z"
+  },
+  {
+    "topic": "Miznon Chelsea Market stall",
+    "reason": "Eyal Shani's pita/cauliflower spot inside the same market — pairs naturally with Los Tacos for a Chelsea Market food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:34:07.780Z"
+  },
+  {
+    "topic": "Very Fresh Noodles Chelsea Market stall",
+    "reason": "Hand-pulled biang biang noodles, another single-vendor draw inside Chelsea Market worth its own anchor entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:34:07.780Z"
+  },
+  {
+    "topic": "Los Tacos No. 1 Times Square vs Chelsea — which is the foodie destination",
+    "reason": "Disambiguates the four NYC locations so the corpus doesn't accidentally route drivers to the wrong stall",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:34:07.780Z"
+  },
+  {
+    "topic": "Pier 57 rooftop park and City Winery food hall",
+    "reason": "Adjacent to Little Island — natural same-walk add-on that extends the Meatpacking triangle into a quad without moving the car",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:36:16.228Z"
+  },
+  {
+    "topic": "The Whitney Museum of American Art (Gansevoort St)",
+    "reason": "Two blocks from Little Island at the High Line's south terminus; locks in a full Meatpacking afternoon on one parking session",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:36:16.228Z"
+  },
+  {
+    "topic": "Little Island Amph summer 2026 performance lineup",
+    "reason": "Ticketed evening shows turn the park from a 60-min stop into a destination night out — needs its own corpus entry if user wants romantic/active itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:36:16.228Z"
+  },
+  {
+    "topic": "Los Tacos No. 1 inside Chelsea Market",
+    "reason": "Adjacent stall, the other anchor Chelsea Market food destination — natural pairing or alternative on the same Manhattan detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:38:10.413Z"
+  },
+  {
+    "topic": "High Line southern entrance at Gansevoort St",
+    "reason": "Two-block walk from Lobster Place; turns a meal stop into a romantic walking track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:38:10.413Z"
+  },
+  {
+    "topic": "Greenpoint Fish & Lobster Co.",
+    "reason": "Brooklyn counterpart raw bar in Greenpoint (~20 min from IC) — keeps the seafood vibe without the Manhattan detour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T13:38:10.413Z"
   }
 ]
