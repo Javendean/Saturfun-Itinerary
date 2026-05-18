@@ -2845,41 +2845,48 @@
   {
     "id": "sunnys-bar-red-hook",
     "name": "Sunny's Bar",
-    "desc": "Legendary 1890s Red Hook saloon famous for its Saturday-night bluegrass jam in a back room.",
-    "longDesc": "A salty, knickknack-cluttered waterfront bar that's operated under various Balzano-family guises since the 1890s, Sunny's is the living room of Red Hook. Saturday programming centers on a roving bluegrass/old-time jam that draws acoustic players from across the city — show up early before the back room fills. Live music nightly except Mondays, typically 8–10pm; the bar itself opens at noon on Saturdays, so you can grab a stool, a beer, and a porch view before the strings kick in.",
+    "desc": "1890 waterfront dive with bluegrass jams, cheap beer, and free street parking ~10 min from IC.",
+    "longDesc": "An 1890 longshoremen's saloon turned beloved Red Hook institution, Sunny's runs live music almost nightly (8–10pm) anchored by a long-running bluegrass jam, with rotating folk, country, and jazz. Weekend afternoons are mellow — sun through the back room, $8-ish drafts, and conversational volume — escalating to a livelier crowd after dark. Free street parking on Conover/Beard makes it a frictionless third stop after IC food + a Red Hook walk.",
     "url": "https://www.sunnysredhook.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "curious",
-      "romantic"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "60-120 min",
+    "duration": "60-90 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-01:00",
-    "notes": "253 Conover St, deep Red Hook waterfront — street parking is usually plentiful on Conover/Reed/Van Brunt on weekends (sunnysredhook.com). Live music nightly except Mondays, 8–10pm; Saturday bluegrass jam is the legacy slot, often packed by 9pm so arrive 7:30 to claim a seat in the back room (sunnysredhook.com/location). Cash-friendly, beer/wine/cocktails, no kitchen — pair with a Fort Defiance or Hometown BBQ dinner first.",
+    "hoursWeekend": "Sat 12:00-02:00; Sun 12:00-00:00",
+    "notes": "Cash-friendly classic dive at 253 Conover St between Reed & Beard (Wikipedia). Survived a 2012 Sandy flood + 2013 reopen — interior still has the patina (Atlas Obscura). Live music 8–10pm nightly except Mondays; Saturday-night bluegrass jam is the signature (p2bars.com). Free street parking around the venue (p2bars.com). Direct ~3.0 mi / ~10 min drive from Industry City via Van Brunt/Beard.",
     "sources": [
       {
         "url": "https://www.sunnysredhook.com/location/sunnys-bar/",
-        "accessed": "2026-05-17T23:10:00Z"
-      },
-      {
-        "url": "https://www.sunnysredhook.com/",
-        "accessed": "2026-05-17T23:10:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Sunny's_Bar",
-        "accessed": "2026-05-17T23:10:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://p2bars.com/bars-near-me/sunny-s/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/sunny-s-bar",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/sunnys",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T23:10:22.613Z"
+    "lastResearchedAt": "2026-05-18T02:21:58.954Z"
   },
   {
     "id": "littlefield-gowanus",
@@ -2961,24 +2968,25 @@
   {
     "id": "bohemian-hall-beer-garden",
     "name": "Bohemian Hall & Beer Garden",
-    "desc": "Czech beer garden since 1910 — 800-seat outdoor courtyard, pilsners, kielbasa, no-reservations weekend energy",
-    "longDesc": "NYC's oldest continuously operating beer garden, run by the Bohemian Citizens' Benevolent Society of Astoria since 1910. The half-acre outdoor courtyard seats ~800 at communal picnic tables under shade trees; menu is Czech/Slovak (goulash, schnitzel, pierogi, kielbasa) with a deep draft list (Pilsner Urquell, Krušovice, Staropramen). Cash-friendly, no reservations on the patio — works as a roll-up evening anchor after a Vernon Blvd / Rainey Park waterfront walk.",
+    "desc": "Czech beer garden in Astoria since 1910 — huge leafy outdoor courtyard and pours.",
+    "longDesc": "Operating since 1910, Bohemian Hall is one of the last surviving Old World beer gardens in NYC — a tree-shaded 800+ seat courtyard tucked behind a Czech-Slovak social hall. Expect hearty goulash, pierogi, schnitzel, palačinky crepes, and a deep bench of imported Czech and German drafts. Functions as a heavier, more communal alternative to a cheese flight: long picnic tables, kid-friendly daytime, live brass/polka events on summer weekends.",
     "url": "https://bohemianhall.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "chill",
-      "foodie"
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "90-120 min",
-    "driveFromIC": "27 min",
+    "duration": "60-90 min",
+    "driveFromIC": "28 min",
     "hoursWeekend": "Sat 12:00-01:00, Sun 12:00-22:00",
-    "notes": "Actually in Astoria, Queens — tagged greenpoint as nearest in-enum zone (Newtown Creek away). Closest evening anchor to the Vernon Blvd / Rainey Park waterfront cluster (~6 min drive, 1.5 mi). Weekend parking: street parking on 24th Ave + two municipal lots on 33rd St between Ditmars & 23rd Ave (Sundays especially easy) (parkopedia). Sat opens noon, runs till 1am; Sun closes 10pm — pace the waterfront walk to land here by 18:00 for sunset table turn (bohemianhall.com). Vegetarian options exist (pierogi, fried cheese, salads) but menu skews heavy meat — flag for non-meat eaters. No reservations on the patio; large groups use indoor hall. Czech/Slovak cuisine plus Mediterranean and American fare (opentable). Cash and card accepted at bar.",
+    "notes": "Address 29-19 24th Ave, Astoria, Queens 11102 — outside the Brooklyn zone enum, tagged 'greenpoint' as the closest geographic neighbor; this is the only Queens venue justified in the corpus because the user's task explicitly requested an Astoria N/W-corridor beer stop (Saturfun task). Drive from Industry City via BQE typically 25-32 min; weekend parking is the easiest in the area — street parking on Sundays is described as 'pretty easy,' plus two municipal lots on 33rd St between Ditmars and 23rd Ave (bohemianhall.com/direction-hours). Outdoor garden is one of the largest in the Northeast — leafy, picnic-table seating, photo-friendly especially golden hour (nyctourism.com). Menu skews Czech-Slovak: goulash, palačinky, schnitzel, pierogi, plus American fare (bohemianhall.com/menu). Beer list includes Czech imports on draft and a rotating Untappd-tracked tap list (untappd.com). Vegetarian options exist (pierogi, palačinky, fried cheese) but vegan/GF are limited — not flagged. Best as a heavier substitute when a lighter Astoria cheese-board stop feels insufficient; allow 60-90 min if eating, 30-45 if drinks only.",
     "sources": [
       {
         "url": "https://bohemianhall.com/",
@@ -2989,22 +2997,26 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
+        "url": "https://bohemianhall.com/menu/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/bohemian-hall-beer-garden/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
         "url": "https://www.opentable.com/r/bohemian-hall-and-beer-garden-astoria",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://en.parkopedia.com/parking/bar/bohemian-hall-and-park-astoria/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/bars/bohemian-hall-and-beer-garden",
+        "url": "https://untappd.com/v/bohemian-hall-and-beer-garden/23330",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T01:53:36.010Z"
+    "lastResearchedAt": "2026-05-18T02:20:02.783Z"
   },
   {
     "id": "brooklyn-museum",
@@ -7896,10 +7908,10 @@
   {
     "id": "taverna-kyclades-astoria",
     "name": "Taverna Kyclades",
-    "desc": "Iconic Greek seafood taverna on Ditmars — grilled whole fish, octopus, lemon-potatoes; the Astoria seafood benchmark.",
-    "longDesc": "Family-run since 1996 and a permanent fixture of Greek Astoria, Taverna Kyclades centers around a fresh-catch seafood bar with whole branzino, dorade, lavraki, octopus and grilled calamari served simply with ladolemono and oregano. Lunch lands fast: order the grilled octopus and a whole fish, split horta and lemon potatoes, and you've eaten the dish that made Ditmars famous. No reservations on weekends — write your name on the list and stroll Ditmars for 20 minutes.",
+    "desc": "Iconic Greek seafood taverna on Ditmars — grilled octopus, whole fish, lemon potatoes; Astoria's seafood benchmark.",
+    "longDesc": "Family-run since 1996 and a permanent fixture of Greek Astoria, Taverna Kyclades centers on a fresh-catch seafood bar: whole branzino, dorade and lavraki grilled with ladolemono, charred octopus, Garides Santorini (shrimp with feta, ouzo, tomato), and the Kyclades Special platter of stuffed clams, stuffed shrimp, lobster tail, sole and scallops. No reservations — write your name on the list and pace it as the Greek anchor of an Astoria third stop: dinner here, then five-minute walk south to Bier & Cheese Collective on 30th Ave for the grazing-board second half.",
     "url": "https://www.tavernakyclades.com/",
-    "photoUrl": "",
+    "photoUrl": "https://www.tavernakyclades.com/images/Astoria-Gallery/taverna-kyclades-astoria-traditional-greek-octopus-1.jpg",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
@@ -7912,30 +7924,34 @@
     "priceBand": "$$",
     "duration": "75-90 min",
     "driveFromIC": "25 min",
-    "hoursWeekend": "12:00-23:30",
-    "notes": "Actually in Astoria, Queens (zone marked 'greenpoint' as nearest BK neighbor — Astoria isn't in the zone enum). Address 36-01 Ditmars Blvd, NY 11105 (older 33-07 listings are pre-move). Cash + card; walk-ins only, weekend wait commonly 30-45 min at peak. Street parking on Ditmars/23rd Ave usually findable on weekend afternoons; valet not standard. ~5-min walk or 1-min drive from Museum of the Moving Image — ideal MoMI lunch anchor (tavernakyclades.com). Vegetarian options exist (horta, gigantes, Greek salad) but the kitchen's identity is seafood. Phone 718-545-8666 (yelp.com, michelin.com).",
+    "hoursWeekend": "11:30-22:00",
+    "notes": "Address 36-01 Ditmars Blvd, Astoria NY 11105 — zone tagged 'greenpoint' as nearest BK neighbor since Astoria isn't in the enum (tavernakyclades.com). Weekend hours Sat & Sun 11:30am-10:00pm; reservations not accepted, walk-in waitlist only, 30-45 min waits at peak weekend dinner (yelp.com). Phone 718-545-8666. Cash and card. Street meter parking on Ditmars/23rd Ave is enforced until 7pm and usually findable on Saturday afternoon; free after 7pm on Sunday. Pairs as 'Greek-then-grazing' arc: ~0.5 mi / 8-min walk south on 33rd St to Bier & Cheese Collective at 30th Ave for cheese flights and Belgian beer — keeps both stops walking-distance from one Ditmars park (singleplatform, michelin.com). Signature plates per official menu: grilled octopus (OKTAPODI), Garides Santorini, Mussels Santorini, Kyclades Special (tavernakyclades.com/astoria/menu). Vegetarian options exist (horta, gigantes, Greek salad) but the kitchen's identity is seafood — flag for non-fish eaters.",
     "sources": [
       {
-        "url": "https://www.tavernakyclades.com/",
-        "accessed": "2026-05-16T19:30:00Z"
+        "url": "https://www.tavernakyclades.com/astoria/menu",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/taverna-kyclades-astoria-2",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/astoria/restaurant/taverna-kyclades",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/taverna-kyclades/",
-        "accessed": "2026-05-16T19:30:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "http://places.singleplatform.com/taverna-kyclades/menu",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T19:25:32.552Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T02:17:40.301Z"
   },
   {
     "id": "museum-of-the-moving-image",
@@ -36237,5 +36253,90 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T02:01:15.574Z"
+  },
+  {
+    "id": "astoria-park-hell-gate",
+    "name": "Astoria Park & Hell Gate Bridge Waterfront",
+    "desc": "Free Queens waterfront park with sweeping Hell Gate + Triborough bridge views, great for photos and a walk",
+    "longDesc": "65-acre East River park bounded by the Hell Gate Bridge to the north and the RFK/Triborough to the south — the promenade along Shore Boulevard frames Manhattan, Randall's Island, and the steel-arch Hell Gate at golden hour. NYC's oldest and largest public pool sits inside the park, with a running track, tennis courts, playgrounds, and shaded lawns. Free, no admission, dog-friendly, and the waterfront walk is the photo anchor.",
+    "url": "https://www.nycgovparks.org/parks/astoria-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "photo",
+      "active",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "06:00-23:00",
+    "notes": "Queens cluster anchor (zone field constrained to Brooklyn list — geographically Astoria, Queens, ~22 min from IC via BQE off-peak). Park is free; nearest parking is street + the lot at 23-69 19th St (NYC Parks). Hell Gate Bridge is best framed from Shore Blvd between Hoyt Ave N and Ditmars Blvd — late afternoon for warm light on the steel arch (Astoria Park Alliance). Pairs cleanly with Kyklades (10-min walk south) and Bohemian Hall (~10-min drive east) for a full Queens day.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/astoria-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Astoria_Park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "http://www.astoriaparkalliance.org/explore-astoria-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/astoria-park-parking",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T02:05:49.924Z"
+  },
+  {
+    "id": "mars-astoria",
+    "name": "Mar's",
+    "desc": "Cozy Astoria brasserie with a serious oyster program and Mediterranean small plates.",
+    "longDesc": "Mar's is a wood-paneled New York brasserie in the Kaufman Astoria Arts District, open since 2013 and consistently called one of the city's best raw bars. The menu pairs East Coast oysters and clams with moules frites, handmade pasta, duck confit, and steak — good for a longer, slower stop than a counter raw bar. Bar opens 4:30pm and runs to midnight, kitchen 5–10pm.",
+    "url": "https://lifeatmars.com/",
+    "photoUrl": "https://lifeatmars.com/wp-content/uploads/2026/03/diningroom.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "16:30-00:00 (kitchen 17:00-22:00)",
+    "notes": "Actually located at 34-21 34th Ave in Astoria, Queens — not 31st Ave (lifeatmars.com). Closest allowed zone in enum is greenpoint; real drive from IC is ~22-28 min via BQE/Kosciuszko Bridge. Oyster program: Crowned Oysters trio $19, East Coast half dozen $29; clams $18, shrimp cocktail $19; mains $26-49 (most $28-34) (lifeatmars.com/dinner-menu). Praised by Give Me Astoria and QNS as a top NYC raw bar with patio + bar seating; happy hour 5-7pm M-F has oyster + drink specials (givemeastoria.com). Better as an evening cluster anchor than a daytime stop — kitchen doesn't open until 5pm.",
+    "sources": [
+      {
+        "url": "https://lifeatmars.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://lifeatmars.com/dinner-menu/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://givemeastoria.com/2023/02/01/pick-of-the-month-mars/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mars-astoria",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T02:14:08.906Z"
   }
 ]

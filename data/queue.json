@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Astoria Park & Hell Gate Bridge waterfront (free, photogenic)",
-    "reason": "Daytime photo/active anchor that pairs with Kyclades + Bohemian Hall on a Queens cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:17:58.537Z"
-  },
-  {
-    "topic": "Mar's Astoria (oysters + seafood, 31st Ave)",
-    "reason": "Alt food anchor for the Astoria cluster if the user wants raw bar instead of Greek seafood",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:17:58.537Z"
-  },
-  {
-    "topic": "Taverna Kyclades (Ditmars, Astoria) — Greek anchor for an Astoria third-stop arc",
-    "reason": "Pairs naturally with the cheese-flight as the 'Greek-then-grazing' meal anchor the user described, walking distance from Bier & Cheese Collective",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:21:05.844Z"
-  },
-  {
-    "topic": "Bohemian Hall & Beer Garden (24th Ave, Astoria) — alternative beer-forward Astoria stop with outdoor seating",
-    "reason": "If the cheese-flight is too light, the historic beer garden is a heavier-vibe substitute within the same N/W corridor cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:21:05.844Z"
-  },
-  {
-    "topic": "Sunny's Bar (Red Hook) — chill bar alternative within the 10-25 min IC radius",
-    "reason": "If Astoria's drive time disqualifies the cheese-flight option, Sunny's gives a comparable 'chill third stop' inside the preferred drive band",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:21:05.844Z"
-  },
-  {
     "topic": "Noguchi Museum (9-01 33rd Rd, LIC)",
     "reason": "Literally next door to Socrates — natural sculpture-park + indoor-gallery pairing for a more 'curious' Queens-track variant; paid admission, weekend hours 11-6",
     "requestedBy": "agent",
@@ -14386,5 +14356,95 @@
     "reason": "Modern Astoria cocktail room with extended weekend hours; expands the Queens-day-track closing-stop corpus beyond a single fallback",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T02:03:51.661Z"
+  },
+  {
+    "topic": "Socrates Sculpture Park Long Island City — free waterfront art",
+    "reason": "Adjacent Queens free outdoor art/photo anchor 10 min south, pairs with Astoria Park for a longer waterfront morning",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:05:49.947Z"
+  },
+  {
+    "topic": "Astoria Park Pool weekend hours and season",
+    "reason": "Summer-specific upgrade for the same anchor; needs dated open/close info before promoting",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:05:49.947Z"
+  },
+  {
+    "topic": "Shore Boulevard sunset photo walk — Astoria to Hallets Point",
+    "reason": "Specific photo-route variant that extends the Hell Gate anchor into a longer dusk loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:05:49.947Z"
+  },
+  {
+    "topic": "Astoria Seafood (BYOB seafood-market-meets-restaurant on 33rd St)",
+    "reason": "Cheaper, more casual Astoria raw-fish alternative to Mar's — pick-your-fish counter, BYOB, complements Mar's at a different price band",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:14:08.936Z"
+  },
+  {
+    "topic": "Taverna Kyclades Astoria (Ditmars Greek seafood institution)",
+    "reason": "Direct Greek-seafood comparator the user mentioned as the default — needed in corpus to justify when Mar's wins the raw-bar slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:14:08.936Z"
+  },
+  {
+    "topic": "Lobster Joint Greenpoint (raw bar + lobster rolls, Manhattan Ave)",
+    "reason": "If Astoria's 25-min drive feels too far, this is the same raw-bar vibe inside the existing 15-min IC radius via greenpoint",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:14:08.936Z"
+  },
+  {
+    "topic": "Omonia Cafe Astoria — Greek dessert + coffee late-night close",
+    "reason": "extends the Greek thread after Taverna Kyclades dinner; galaktoboureko / loukoumades on 30th Ave continues the Ditmars→30th Ave walking arc through Bier & Cheese Collective",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:17:40.332Z"
+  },
+  {
+    "topic": "Astoria Park + Hell Gate Bridge waterfront walk",
+    "reason": "walk-off-the-meal anchor 10 min north of Taverna Kyclades; golden-hour photo stop with Hell Gate steel arch and Triborough Bridge — fills the post-dinner pre-dessert gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:17:40.333Z"
+  },
+  {
+    "topic": "Mar's Astoria — Greek wine bar 30th Ave",
+    "reason": "Greek natural-wine alternative or follow-on to Taverna; lighter mezze format if guests want a second Greek room instead of jumping to Belgian cheese",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:17:40.333Z"
+  },
+  {
+    "topic": "Astoria Bier & Cheese (31st St, Astoria) — craft beer bottle shop + cheese counter as a lighter N/W-corridor pairing",
+    "reason": "Direct lighter-weight counterpoint to Bohemian Hall on the same Astoria trip; completes the heavy/light beer-stop pair the user is comparing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:20:02.832Z"
+  },
+  {
+    "topic": "Studio Square NYC (Long Island City) — modern beer-garden alternative closer to IC",
+    "reason": "If Astoria is too far from IC, LIC sits ~18 min from Industry City and offers a similar outdoor-beer-hall format; useful fallback in the same corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:20:02.832Z"
+  },
+  {
+    "topic": "Hellgate Social (Astoria) — small cocktail bar adjacent to Bohemian Hall walking distance",
+    "reason": "Natural after-Bohemian nightcap stop; lets the itinerary stitch a chill→curious progression within one Astoria stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:20:02.832Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook — smoked brisket lunch within IC 10-min radius",
+    "reason": "Pairs naturally with Sunny's as the food half of a Red Hook track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:21:58.985Z"
+  },
+  {
+    "topic": "Red Hook Winery at Pier 41 — waterfront tasting room with weekend hours",
+    "reason": "Alternative chill stop in the same cluster if Sunny's is too late/loud for the slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:21:58.985Z"
+  },
+  {
+    "topic": "Valentino Pier sunset walk — free 15-min waterfront view of Statue of Liberty",
+    "reason": "Free transition stop between Hometown and Sunny's that doubles as a photo moment",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T02:21:58.985Z"
   }
 ]
