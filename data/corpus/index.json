@@ -16843,12 +16843,12 @@
   {
     "id": "moma-ps1",
     "name": "MoMA PS1",
-    "desc": "Contemporary art in a converted Romanesque schoolhouse — free admission, 8 min from Casa Enrique",
-    "longDesc": "MoMA PS1 occupies a 1890s Long Island City public school turned into one of the country's most adventurous contemporary art institutions, celebrating its 50th anniversary in 2026 with the sprawling 'Greater New York 2026' survey (Apr 16–Aug 17). Admission is free to all visitors for three years starting January 2026, and the courtyard, multi-floor galleries, and historic stairwells reward an unhurried 90+ minute visit. Pair the museum with dinner at Casa Enrique (Michelin-starred Mexican, 8 min away) for a credible LIC museum→dinner track that justifies the drive from IC.",
+    "desc": "Free contemporary art museum in a converted LIC public school — anchor of NYC's avant-garde scene",
+    "longDesc": "MoMA PS1 occupies a Romanesque Revival former public school in Long Island City and has been a contemporary art proving ground since 1976; its 50th-anniversary 'Greater New York 2026' survey spotlights 50+ NYC-area artists this spring. As of January 1, 2026 admission is permanently free for all visitors (gift from Sonya Yu, three-year program making it NYC's largest free museum). Weekend rhythm: doors open early Saturday at 10am, Sunday at noon, plus the legendary summer Warm Up outdoor music series in the courtyard.",
     "url": "https://www.momaps1.org/en/visit",
-    "photoUrl": "https://d1tcycker2ppj.cloudfront.net/output=f:jpg,q:60/resize=width:1200,fit:max/Mv10nkOQcWqcRvsoDYMA",
+    "photoUrl": "https://d1tcycker2ppj.cloudfront.net/output=q:60/resize=width:1200,fit:max/KsO6RanSRkS2V4QCmNk7",
     "aiBackgroundUrl": "",
-    "zone": "williamsburg",
+    "zone": "industry-city",
     "vibe": [
       "curious",
       "photo",
@@ -16859,25 +16859,29 @@
     "duration": "90-120 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "Sat 10:00-18:00, Sun 12:00-18:00",
-    "notes": "Actually in Long Island City, Queens (not Williamsburg) — zone enum has no Queens option; tagged williamsburg as the closest Brooklyn proxy across Newtown Creek. Free admission for all visitors Jan 2026 through 2028 per institutional announcement (momaps1.org/visit). Weekend parking: Court Square Municipal Garage at 45-40 Ct Square W, ~6 min walk to the Jackson Ave entrance (nyctourism.com). Metered street parking on Jackson Ave is available but unreliable on Saturdays. Drive from Industry City via Hugh L. Carey Tunnel + FDR or BQE runs ~20-25 min on weekends. Headline 2026 show: 'Greater New York 2026' (Apr 16–Aug 17, 50th-anniversary survey of 50+ NYC-area artists) plus Red Canary Song's 'Touch the Heart' (Mar 19–Aug 17). Warm Up music series returns summer 2026 — schedule TBA on momaps1.org/calendar. Closed Tue/Wed; open Thu-Mon.",
+    "notes": "Address: 22-25 Jackson Ave, LIC NY 11101. FREE admission for all starting Jan 1 2026, locked in for 3 years (press.moma.org). Closed Tue/Wed. No on-site parking — street parking is generally available on Saturdays in the warehouse blocks around Jackson/46th Ave; museum officially recommends 7/E/M to Court Sq or G to 21 St–Van Alst. Pairs naturally with SculptureCenter (8-min walk), Noguchi Museum (10-min drive north), and Socrates Sculpture Park for a full LIC art loop. Manhattan-skyline rooftop views from upper galleries; the courtyard hosts the YAP architectural commission each summer plus Warm Up Saturdays. Allow 90 min minimum — labyrinthine school-corridor layout rewards wandering.",
     "sources": [
       {
         "url": "https://www.momaps1.org/en/visit",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/articles/moma-ps1-guide/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://press.moma.org/wp-content/uploads/2025/12/Free-Admission-Press-Release_Final_.pdf",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.newyorkfamily.com/moma-ps1-offers-free-admission/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.momaps1.org/en/calendar",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T19:01:41.526Z"
+    "lastResearchedAt": "2026-05-18T00:55:36.314Z"
   },
   {
     "id": "donna-nyc-west-village",
@@ -35583,8 +35587,8 @@
   {
     "id": "bahari-estiatorio-astoria",
     "name": "Bahari Estiatorio",
-    "desc": "Astoria Greek estiatorio famous for charred octopus and cold mezze platter, casual and family-run.",
-    "longDesc": "A neighborhood Hellenic taverna on Broadway in Astoria with an open kitchen and a deep mezze bench: a cold-dip platter (taramosalata, melitzanosalata, skordalia, tyrokafteri, tzatziki) with grilled pita, baked feta in a ceramic crock, and homemade spanakopita with shatter-flaky phyllo. The signature Oktapodi Scharas — grilled marinated octopus finished with olive oil and red wine vinegar — is the order-anchor; lamb chops and saganaki round out a lunch easily built around shared small plates.",
+    "desc": "Michelin-recommended Astoria Greek taverna famed for mezze, grilled octopus, and lamb chops",
+    "longDesc": "Bahari (\"sea breeze\" in Greek) is a Michelin Guide-recommended Astoria mainstay run by the former Stamatis team, with an open-pass kitchen turning out classic Hellenic mezze, char-grilled oktapodi, and pastitsio. The room is bright and unfussy — full of Greek-speaking regulars — and the menu rewards table-style ordering of spreads, salads, and a shared protein. From Industry City it's ~25-30 min over the BQE; pair it with a Casa Enrique nightcap to anchor a Queens dinner cluster.",
     "url": "https://www.bahariestiatorio.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -35597,36 +35601,36 @@
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "25 min",
-    "hoursWeekend": "11:00-21:00",
-    "notes": "Actually located in Astoria, Queens (31-14 Broadway, NY 11106) — closest enum value 'greenpoint' used as cross-river proxy since Astoria isn't in the Brooklyn-zone enum (Bahari official site). Drive from Industry City is BQE-northbound, ~25 min off-peak weekends; pairs naturally with the LIC/Socrates Sculpture Park day. Mezze-first ordering keeps lunch under $25/pp; octopus + a couple cold dips is the canonical move. Weekend hours 11am–9pm Sat/Sun confirmed via Yelp listing (Yelp, accessed 2026-05-17). Excellent vegetarian coverage via mezze (spinach pie, baked feta, the cold-dip platter).",
+    "duration": "75-90 min",
+    "driveFromIC": "27 min",
+    "hoursWeekend": "12:00-00:00",
+    "notes": "Address 31-14 Broadway, Astoria NY 11106 (Yelp/Apple Maps); Michelin Guide recommended sticker (Bahari site/Michelin Guide). Signature plates: oktapodi scharas (grilled octopus), paidakia (lamb chops), htipiti, gigantes. Reservations via OpenTable; weekend service runs noon-midnight (NetWaiter/Yelp). Drive from IC is realistically 25-30 min via BQE — outside the strict 25-min target but the closest legitimate Michelin-Guide Greek option to LIC, justifying inclusion as a Queens-cluster dinner pivot when paired with Casa Enrique. Street parking in Astoria is generally available on weekend evenings.",
     "sources": [
       {
         "url": "https://www.bahariestiatorio.com/",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://www.bahariestiatorio.com/menu",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/bahari-estiatorio-astoria",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://www.qgazette.com/articles/bahari-estiaorio-2/",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.opentable.com/r/bahari-estiatorio-astoria",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://maps.apple.com/place?address=31-14+BroadwayAstoria%2C+NY++11105United+States&name=Bahari+Estiatorio",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://bahariestiatorio.netwaiter.com/astoria/about/",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T00:50:41.238Z"
+    "lastResearchedAt": "2026-05-18T01:03:02.692Z"
   },
   {
     "id": "coffeed-brooklyn-grange-lic-closed",
@@ -35674,5 +35678,149 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T00:53:30.844Z"
+  },
+  {
+    "id": "court-square-diner",
+    "name": "Court Square Diner",
+    "desc": "24/7 LIC diner since 1946 — booth brunch, omelettes, pancakes, 4 min from SculptureCenter",
+    "longDesc": "Family-run since 1946 (current owners Steve and Nick since 1991), Court Square Diner is a chrome-and-booth Long Island City institution open 24 hours a day. The weekend brunch hits the classics — fluffy omelettes, blueberry French toast, pancakes, burgers and wraps — with vegan and vegetarian options on the menu and a full booze list. Parking is plentiful in the surrounding lots and street, making it an easy after-Noguchi / pre-MoMA PS1 stop.",
+    "url": "https://www.courtsquarediner.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Open 24 hours",
+    "notes": "Address: 45-30 23rd St, Long Island City, NY 11101; phone (718) 392-1222. Open 24/7 every day including weekends — no wait windows for brunch (Court Square Diner site). Saturday mornings get full but turnover is fast (The Infatuation). Plentiful parking nearby (Yelp / Tripadvisor). Pairs naturally with the LIC art cluster: ~4 min drive to SculptureCenter, ~6 min to Noguchi Museum, ~5 min to MoMA PS1. Note: drive from Industry City is longer (~22 min via BQE) — best used as a LIC-day anchor rather than IC-day, but uniquely justified as the food gap-filler in the LIC art track.",
+    "sources": [
+      {
+        "url": "https://www.courtsquarediner.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/court-square-diner",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/court-square-diner-long-island-city",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/court-square-diner/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g48080-d2241250-Reviews-Court_Square_Diner-Long_Island_City_Queens_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T00:57:25.533Z"
+  },
+  {
+    "id": "lic-landing",
+    "name": "LIC Landing (Frank Ottomanelli's by the Water)",
+    "desc": "Waterfront cafe pavilion at Hunters Point South Park with point-blank Midtown skyline views across the East River.",
+    "longDesc": "The original COFFEED kiosk closed in 2022; the LIC Landing pavilion has since been run by Frank Ottomanelli's by the Water, serving coffee, burgers, poke bowls and bubble tea out of the same 2,000-sq-ft glass-walled cabana. The location is still the headline: outdoor tables and benches sit right on the East River with an unobstructed sightline to Midtown, the UN, and the Empire State Building. Easy post-Socrates / post-IC decompression stop — a ferry terminal docks one path over.",
+    "url": "https://www.frankottomanellislic.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "Address: 52-10 Center Blvd, Long Island City NY 11101 (Queens — zoned 'greenpoint' as the closest enum match; LIC borders Greenpoint across Newtown Creek). Operator change from COFFEED → Frank Ottomanelli's by the Water finalized 2022 after a Parks Dept RFP; locals still call the spot 'LIC Landing' (source: licpost.com / qns.com). Restaurant hours 11am–10pm daily (source: tagvenue listing). Weekend metered street parking on Center Blvd / 51st Ave plus paid lots near the ferry terminal; the park promenade itself is open dawn–1am. Drive from Industry City via the BQE / Pulaski Bridge typically 25–30 min on weekends. Real draw is the promenade and benches facing Manhattan — order at the window and walk out to the water for the photo. Pairs naturally with Socrates Sculpture Park or Gantry Plaza State Park on the same LIC loop.",
+    "sources": [
+      {
+        "url": "https://www.nyctourism.com/places/hunters-point-park-lic-landing/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.frankottomanellislic.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://licpost.com/lic-landing-at-hunters-point-south-park-goes-dark-will-not-fully-reopen-until-july",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://licpost.com/ottomanellis-by-the-water-unveils-second-phase-of-community-mural-project",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tagvenue.com/us/venues/new-york/25008/frank-ottomanellis-by-the-water",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://hunterspointsouth.com/default-2-11/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T01:00:59.450Z"
+  },
+  {
+    "id": "sushi-on-me-jackson-heights",
+    "name": "Sushi On Me",
+    "desc": "Speakeasy basement omakase in Jackson Heights — 15 courses, unlimited sake, eight seats, party vibe.",
+    "longDesc": "An eight-seat basement omakase behind an unmarked door on Roosevelt Ave, run since 2020 with a sake-fueled, music-cranked party energy that The Infatuation calls one of NYC's most fun omakases. The 15-course menu blends Japanese technique with Thai-leaning accents, served at a single cozy bar where the chefs hand pieces over directly. Unlimited sake is included in the omakase price, which is why bookings vanish weeks in advance.",
+    "url": "https://sushionmejackson.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "17:00-23:00",
+    "notes": "LOCATION CORRECTION: Venue is at 71-26 Roosevelt Ave, Jackson Heights, NY 11372 — not Astoria as the research topic suggested (https://sushionmejackson.com/location/). PRICE CORRECTION: Omakase is $99/person before tax and tip as of Jan 2024, not $50 — Infatuation review confirms the price jump (https://www.theinfatuation.com/new-york/reviews/sushi-on-me). MICHELIN STATUS UNCONFIRMED: Could not surface Sushi On Me on Michelin's current NY Bib Gourmand list during research — task brief asserts Bib Gourmand but verify against guide.michelin.com before promoting. ZONE NOTE: corpus zone enum has no Queens entries; tagged 'greenpoint' as geographically nearest Brooklyn cluster (Newtown Creek border), but actual neighborhood is Jackson Heights, Queens — drive from IC is ~25 min via BQE, outside the standard 15-min radius. PARKING: street parking only per official site, can be tight on weekend evenings on Roosevelt Ave. Reservations via OpenTable open ~30 days out and fill same day.",
+    "sources": [
+      {
+        "url": "https://sushionmejackson.com/location/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/sushi-on-me",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/sushi-on-me-jackson-heights-jackson-heights",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/sushi-on-me",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T01:06:44.411Z"
   }
 ]

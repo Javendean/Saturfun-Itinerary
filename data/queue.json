@@ -1,35 +1,5 @@
 [
   {
-    "topic": "MoMA PS1 LIC contemporary art museum",
-    "reason": "Anchor LIC art venue — completes a 4-stop curious-vibe LIC art loop with SculptureCenter + Noguchi + Socrates",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:52:58.297Z"
-  },
-  {
-    "topic": "Court Square Diner LIC weekend brunch",
-    "reason": "Classic 24-hr diner 4 min from SculptureCenter — fills the foodie gap in the LIC art-day cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:52:58.297Z"
-  },
-  {
-    "topic": "LIC Landing weekend coffee + East River views",
-    "reason": "Outdoor waterfront coffee/photo stop to round out an LIC sculpture-park day with a chill/photo break",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:52:58.297Z"
-  },
-  {
-    "topic": "Bahari Estiatorio (Astoria) — Michelin-Guide Greek mezze",
-    "reason": "Genuine Queens MG ethnic standout ~15 min from IC; legitimately pairs with Casa Enrique as a same-cluster dinner alternative now that Adda LIC is gone",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:56:23.621Z"
-  },
-  {
-    "topic": "Sushi On Me (Astoria) — Michelin Bib Gourmand omakase",
-    "reason": "Affordable $50 omakase, Queens MG listing, drive-friendly from IC; fills the LIC-cluster dinner slot Adda used to occupy",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:56:23.621Z"
-  },
-  {
     "topic": "Mariscos El Submarino (Jackson Heights) — Michelin Bib Mexican seafood",
     "reason": "Queens MG ethnic standout within the broader LIC/Astoria drive cluster; cross-pollinates with Casa Enrique's Mexican lane without duplicating it",
     "requestedBy": "agent",
@@ -14038,5 +14008,101 @@
     "reason": "The farm itself is still operating even though the ground-floor cafe closed; worth its own entry as a Saturday rooftop activity that pairs with Noguchi for a full art-and-farm LIC morning",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T00:53:30.866Z"
+  },
+  {
+    "topic": "Greater New York 2026 exhibition — featured artists worth flagging in the venue desc",
+    "reason": "Lets the LIC art-loop card surface a current must-see show rather than a generic museum blurb",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:55:36.342Z"
+  },
+  {
+    "topic": "M. Wells Steakhouse LIC — closest serious lunch within walking distance of PS1",
+    "reason": "Completes the LIC art-loop day with a food anchor inside the same neighborhood cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:55:36.342Z"
+  },
+  {
+    "topic": "Court Square / Jackson Ave Saturday street-parking reality check",
+    "reason": "Driving-radius corpus needs verified weekend parking notes for the LIC art venues, not just transit advice",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:55:36.342Z"
+  },
+  {
+    "topic": "SculptureCenter LIC weekend hours and current exhibition",
+    "reason": "Primary art anchor 4 min from Court Square Diner — completes the LIC art-day cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:57:25.559Z"
+  },
+  {
+    "topic": "Noguchi Museum LIC weekend visit and on-site cafe",
+    "reason": "Second LIC art anchor with garden + sculpture; pairs with diner brunch for a full LIC day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:57:25.559Z"
+  },
+  {
+    "topic": "MoMA PS1 LIC weekend admission and Warm Up status",
+    "reason": "Major contemporary art venue 5 min from diner; fills out a three-stop LIC art track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:57:25.559Z"
+  },
+  {
+    "topic": "Sweetleaf Coffee Roasters LIC (Jackson Ave flagship)",
+    "reason": "Actual specialty-coffee anchor in LIC — fills the coffee-purist gap that LIC Landing's restaurant pivot leaves; ~5 min from the waterfront and offers an indoor backup if weather kills the promenade plan.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:00:59.481Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park (Pepsi-Cola sign overlook)",
+    "reason": "Adjacent waterfront immediately south of LIC Landing with the iconic Pepsi sign and gantry photo set — natural same-trip pairing for the photo/chill vibe.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:00:59.481Z"
+  },
+  {
+    "topic": "Devoción Williamsburg (Roebling St roastery cafe)",
+    "reason": "Closer-to-IC alternative (~15 min drive) for a serious-coffee + Brooklyn-waterfront swap when LIC's drive time is too steep; skylight roastery is its own photo set.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:00:59.481Z"
+  },
+  {
+    "topic": "Taverna Kyclades Astoria — Greek seafood institution",
+    "reason": "Direct neighborhood peer to Bahari; gives the corpus a second Astoria Greek option focused on whole fish vs. mezze",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:03:02.714Z"
+  },
+  {
+    "topic": "Mar's Astoria — neighborhood seafood + natural wine",
+    "reason": "Modern Queens counterpoint to Bahari for the same LIC/Astoria cluster dinner pivot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:03:02.714Z"
+  },
+  {
+    "topic": "Adel's Famous Halal Food Astoria — Egyptian street food",
+    "reason": "Adds a halal, sub-$$ ethnic standout to the Queens cluster the user is rebuilding after Adda LIC closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:03:02.714Z"
+  },
+  {
+    "topic": "Sushi Noz omakase or Sushi Ichimura Bib Gourmand Brooklyn alternatives",
+    "reason": "Bib-Gourmand-tier omakase actually inside the 15-min IC drive radius would be a stronger LIC-slot fill than a 25-min Queens trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:06:44.438Z"
+  },
+  {
+    "topic": "Adda Indian Canteen Long Island City re-research",
+    "reason": "Original LIC dinner slot the user mentioned Adda used to occupy — worth confirming current status and Bib Gourmand standing before replacing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:06:44.438Z"
+  },
+  {
+    "topic": "Yoshino or Shion 69 Leonard Street as upscale-omakase comparison",
+    "reason": "If user wants Michelin omakase experience and is willing to drive, Manhattan stars within 20-min IC drive may beat a Queens Bib Gourmand",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:06:44.438Z"
+  },
+  {
+    "topic": "Best Bib Gourmand within 15-min drive of Industry City",
+    "reason": "Broader scan to identify Brooklyn Bib Gourmand venues that fit corpus's drive-radius constraint better than Jackson Heights",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:06:44.438Z"
   }
 ]
