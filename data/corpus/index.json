@@ -5862,15 +5862,16 @@
   {
     "id": "threes-brewing-gowanus",
     "name": "Threes Brewing (Gowanus)",
-    "desc": "Award-winning Brooklyn brewery + beer garden — clean lagers, mixed-culture ales, Meat Hook burgers",
-    "longDesc": "Threes' original Gowanus flagship at 333 Douglass St is brewery, coffee shop, beer shop by day and brewpub/beer garden/music venue by night, with indoor seating and a big outdoor yard. The taps lean fresh lagers, IPAs, and mixed-culture offerings, with wine, cider, and cocktails alongside; food comes from The Meat Hook Burger Shop. Named Best Brewery and Beer Bar in NYC by bon appétit — a natural decompress stop after a ceramics session at Slow Burn (~5 min drive north).",
+    "desc": "Flagship Gowanus brewpub with skylit bar, year-round beer garden, kitchen, and live music",
+    "longDesc": "Threes' original Gowanus taproom at 333 Douglass St is a fully-functioning brewery, coffee shop, beer shop, and music venue under one roof — high ceilings, a long bar, warm wood, and a skylit main room flowing out to The Yard, a year-round outdoor space. Saturday is open noon to midnight with the kitchen running until 11pm, and Sunday until 11pm with kitchen to 10pm, so it slots in cleanly after a Gowanus ceramics or studio stop on the same block. Ninth Street Espresso operates a coffee bar inside (8am–3pm) if you arrive earlier in the day.",
     "url": "https://threesbrewing.com/pages/gowanus",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
       "chill",
-      "foodie"
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
@@ -5879,25 +5880,21 @@
     "duration": "60-90 min",
     "driveFromIC": "10 min",
     "hoursWeekend": "Sat 12:00-00:00, Sun 12:00-23:00",
-    "notes": "333 Douglass St between 3rd and 4th Ave, Gowanus 11217 (threesbrewing.com/pages/gowanus). Drive from Slow Burn Studio (247 36th St) ~5 min up 4th Ave. Beer garden + indoor; live music nights. Meat Hook Burger Shop on-site for food. Bon appétit Best Brewery & Beer Bar NYC (yelp.com/biz/threes-brewing-brooklyn). Street parking in Gowanus is doable on weekends; better than Manhattan, looser than Williamsburg.",
+    "notes": "333 Douglass St, Brooklyn — one block north of 9th St, so walkable from Gowanus pottery/ceramics studios for a back-to-back track (threesbrewing.com). Kitchen closes earlier than bar: Sat 11pm, Sun 10pm. Yard is the photo spot — skylight + warm wood in main bar (threesbrewing.com/pages/gowanus). Street parking in Gowanus is generally findable on weekends along 3rd/4th Ave side streets; no dedicated lot.",
     "sources": [
       {
         "url": "https://threesbrewing.com/pages/gowanus",
-        "accessed": "2026-05-18T19:15:00Z"
+        "accessed": "2026-05-18T22:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/threes-brewing-brooklyn",
-        "accessed": "2026-05-18T19:15:00Z"
-      },
-      {
-        "url": "https://threesbrewing.com/pages/faq",
-        "accessed": "2026-05-18T19:15:00Z"
+        "accessed": "2026-05-18T22:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T19:25:27.652Z"
+    "lastResearchedAt": "2026-05-18T22:31:01.947Z"
   },
   {
     "id": "royal-palms-shuffleboard",
@@ -9619,9 +9616,9 @@
   },
   {
     "id": "choplet-greenpoint",
-    "name": "Choplet Ceramic Studio – Greenpoint",
-    "desc": "$90 two-hour weekend wheel-throwing workshop in a new Greenpoint studio; clay, glaze, and one firing included.",
-    "longDesc": "Choplet's Greenpoint location opened November 2025 at 121 Meserole Ave and runs a One Day Wheel Throwing workshop on Saturdays and Sundays for $90 per person. The 2-hour session teaches the basics of centering and pulling on the wheel; cost covers instruction, clay, tools, glaze, and firing of one finished piece (extra pieces are $15 each). A separate 21+ Sip & Spin night runs Fridays for a more social variant.",
+    "name": "Choplet Ceramic Studio (Greenpoint)",
+    "desc": "True single-session pottery wheel drop-in — $90, 2 hrs, Sat/Sun weekend workshops or Fri Sip & Spin (BYOB, 21+)",
+    "longDesc": "Choplet's newer Greenpoint studio (opened Nov 2025) at 121 Meserole Ave runs a genuine one-and-done wheel-throwing workshop on Saturdays and Sundays for $90 — instruction, clay, tools, glaze, and firing of one finished piece all included, pickup ~4 weeks later (source: choplet.com/custom_classes/one-day-wheel-throwing-2/). Fridays 7–9 PM they run Sip & Spin, a 21+ BYOB version of the same class for $90, also drop-in (source: choplet.com/custom_classes/sip-spin-greenpoint/). Fills the gap where The Painted Pot and most NYC studios force you into 6-week commitments — this is the rare 'just come once' wheel option.",
     "url": "https://choplet.com/ceramic-classes/classes-at-choplet-greenpoint/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -9632,32 +9629,32 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2 hr",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 4:00-6:00pm workshop, Sun 10:00am-12:00pm workshop",
-    "notes": "Greenpoint studio opened Nov 1, 2025 (choplet.com/ceramic-classes/classes-at-choplet-greenpoint/). One Day Wheel Throwing is $90 / 2hr, Sat & Sun (choplet.com/custom_classes/one-day-wheel-throwing-2/). Booking via choplet.com or CourseHorse; phone 347-289-1067. Monthly unlimited access tier starts $170 if a guest wants to repeat. Metered street parking on Meserole/Manhattan Ave is generally available on weekends — easier than the Williamsburg sister studio. Bring clothes you don't mind getting dirty; pickup of fired pieces happens 2-3 weeks later.",
+    "duration": "2 hrs",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat/Sun One Day workshops; Fri 19:00-21:00 Sip & Spin",
+    "notes": "121 Meserole Ave, Brooklyn 11222. $90/person includes clay, tools, glaze, firing of one piece; extra pieces $15 each cash (source: choplet.com Sip & Spin page). Pickup ~4 weeks post-class. Sip & Spin is 21+ BYOB (wine/beer welcome). Booking via ZenPlanner: chopletceramicgreenpoint.sites.zenplanner.com. Street parking on Meserole/Manhattan Ave is realistic on weekends — Greenpoint isn't permit-restricted like brownstone zones. Choplet also runs the same $90 One Day workshop at the original Williamsburg location (238 Grand St) if Greenpoint is booked. Yelp 4+ stars across 98+ reviews (source: yelp.com/biz/choplet-brooklyn).",
     "sources": [
       {
         "url": "https://choplet.com/ceramic-classes/classes-at-choplet-greenpoint/",
-        "accessed": "2026-05-16T10:30:00Z"
+        "accessed": "2026-05-18T22:30:00Z"
+      },
+      {
+        "url": "https://choplet.com/custom_classes/sip-spin-greenpoint/",
+        "accessed": "2026-05-18T22:30:00Z"
       },
       {
         "url": "https://choplet.com/custom_classes/one-day-wheel-throwing-2/",
-        "accessed": "2026-05-16T10:30:00Z"
-      },
-      {
-        "url": "https://choplet.com/contact-directions/",
-        "accessed": "2026-05-16T10:30:00Z"
+        "accessed": "2026-05-18T22:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/choplet-brooklyn",
-        "accessed": "2026-05-16T10:30:00Z"
+        "accessed": "2026-05-18T22:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T10:24:32.540Z"
+    "lastResearchedAt": "2026-05-18T22:29:04.656Z"
   },
   {
     "id": "bklyn-clay-tryday-night",
@@ -9863,38 +9860,45 @@
   },
   {
     "id": "bklyn-clay-prospect-heights",
-    "name": "BKLYN CLAY (Prospect Heights)",
-    "desc": "Drop-in TryDay Night wheel class, Fri/Sat 7:30pm — beer & wine on site, no take-home.",
-    "longDesc": "BKLYN CLAY's flagship Brooklyn studio at 535 Carlton Ave (Prospect Heights, NOT Bushwick — often confused with Brooklyn Clay Industries in Industry City). Their TryDay Night class is the easiest one-time wheel intro in the borough: $85/person, two hours, 12-student cap, every Friday and Saturday at 7:30pm. Beer and wine are sold on site so it doubles as a date-night activity, but pieces are not fired or taken home — pure throwing practice.",
+    "name": "BKLYN CLAY (Prospect Heights) — TryDay Wheel-Throwing",
+    "desc": "2-hr drop-in wheel-throwing class Fri/Sat 7:30pm at 535 Carlton Ave, ~13 min drive from IC.",
+    "longDesc": "BKLYN CLAY runs 'TryDay Night' — a single-session, no-experience-needed wheel-throwing class for up to 12 people. $85 for 2 hours, every Friday and Saturday at 7:30pm at the Prospect Heights studio (535 Carlton Ave). Note: you do NOT take home a finished piece — it is a try-it experience, not a keepsake workshop. Open studio access otherwise is gated to enrolled students/members, so TryDay is the actual drop-in path.",
     "url": "https://bklynclay.com/tryday",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
     "vibe": [
       "curious",
-      "chill",
-      "romantic"
+      "chill"
     ],
     "dietary": [],
-    "priceBand": "$$",
+    "priceBand": "$$$",
     "duration": "2 hr",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Fri & Sat 7:30pm class (arrive 5 min early)",
-    "notes": "TryDay Night = $85/person, 2 hr, 12 students max, ages 7+ (under 16 must be with an enrolled adult) (bklynclay.com/tryday). Beer/wine sold on site, no BYOB. Pieces stay at studio — no take-home. 48-hr cancellation window. Distinct from BCI in Industry City; BKLYN CLAY's other location is in Tribeca at 288 West St. Prospect Heights weekend street parking is workable along Carlton/Vanderbilt but tight after 7pm.",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Fri-Sun 9:30am-7pm (TryDay Fri & Sat 7:30pm)",
+    "notes": "IMPORTANT CORRECTION: BKLYN CLAY does not have a Gowanus location — only Prospect Heights (535 Carlton Ave) and Tribeca, Manhattan (288 West St) (bklynclay.com). The Prospect Heights location is the closer-to-IC alternative the task asked for. True 'drop-in' = TryDay only ($85, Fri/Sat 7:30pm, 2 hr, no finished piece) (bklynclay.com/tryday). Open studio hours (Fri-Sun 9:30am-7pm) are restricted to currently enrolled students/members (bklynclay.com/rules). The Pottery Studio on 9th Street is the actual Gowanus pottery option — enqueued below.",
     "sources": [
       {
-        "url": "https://bklynclay.com/tryday",
-        "accessed": "2026-05-18T22:30:00Z"
+        "url": "https://bklynclay.com/",
+        "accessed": "2026-05-18"
       },
       {
-        "url": "https://bklynclay.com/",
-        "accessed": "2026-05-18T22:30:00Z"
+        "url": "https://bklynclay.com/rules",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://bklynclay.com/tryday",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://bklynclay.com/schedule",
+        "accessed": "2026-05-18"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T22:23:33.296Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T22:33:23.751Z"
   },
   {
     "id": "brooklyn-glass",
@@ -46357,45 +46361,42 @@
   },
   {
     "id": "choplet-ceramics-williamsburg",
-    "name": "Choplet Ceramic Studio",
-    "desc": "Williamsburg drop-in pottery studio — 23 wheels, garden wheels, $50/2hr open studio (experience required)",
-    "longDesc": "Long-running Williamsburg ceramic studio at 238 Grand St with 23 electric wheels, a kick wheel, hand-building tables, 5 kilns, plus 8 outdoor garden wheels. Saturday open-studio bench time runs 10:00am-7:15pm and drop-in passes are $50 for a 2-hour wheel/hand-building/glazing session, with firing at 4¢/cubic inch. Important caveat: no instruction is provided during drop-in — Choplet explicitly says it's only for people with prior clay experience or those coming with an experienced friend who can teach them; total beginners should book a class instead.",
-    "url": "https://choplet.com/studio-rental/drop-in/",
+    "name": "Choplet Ceramic Studio (Williamsburg)",
+    "desc": "One-day handbuilding workshop ($90, BYOB 21+) on Grand St — pinching, coiling, slabs in a single sitting.",
+    "longDesc": "Choplet's Williamsburg studio at 238 Grand St runs $90 one-off 'Handbuilding Exploration' workshops where each session covers a different ceramic project (pinching, coiling, extruding, slab-rolling) and sends you home with a finished piece. Established 2005, BYOB for 21+, and well-suited to a relaxed afternoon stop on a Williamsburg-cluster itinerary. Friday-night 'Sip & Spin' wheel sessions are also $90 if guests prefer throwing to handbuilding.",
+    "url": "https://choplet.com/ceramic-classes/classes-at-choplet-williamsburg/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
+      "chill",
       "curious",
-      "chill"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2 hr",
+    "duration": "2-3 hr",
     "driveFromIC": "20 min",
-    "hoursWeekend": "Sat bench 10:00-19:15 / front desk 13:00-19:00",
-    "notes": "238 Grand St, Williamsburg (choplet.com). $50 per 2-hr drop-in; firing 4¢/cu in; glaze service $15-$25/piece; optional cleanup $20 (choplet.com/studio-rental/drop-in). Saturday open-studio bench time 10:00am-7:15pm; front-desk hours 1-7pm (choplet.com). 23 wheels + kick wheel + 5 kilns indoor; garden adds 8 wheels (timeout.com, ceramicsnow.org). Critical: no instruction — bring an experienced friend or book a class. Phone 917-547-8316. Street parking only; Williamsburg weekend parking is tight — budget extra time.",
+    "hoursWeekend": "varies by class (call 917-547-8316)",
+    "notes": "Address 238 Grand St, Brooklyn NY 11211 (choplet.com). One-Day Handbuilding Exploration $90, BYOB 21+ (choplet.com/ceramic-classes/classes-at-choplet-williamsburg/). Williamsburg has metered street parking; the BQE drive from Industry City is ~20 min off-peak. Pairs naturally with Lilia/Maison Premiere/Anella for dinner after class.",
     "sources": [
       {
-        "url": "https://choplet.com/studio-rental/drop-in/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://choplet.com/ceramic-classes/classes-at-choplet-williamsburg/",
+        "accessed": "2026-05-18T22:30:00Z"
       },
       {
-        "url": "https://choplet.com/contact-directions/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://choplet.com/ceramic-classes/",
+        "accessed": "2026-05-18T22:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/choplet-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/things-to-do/choplet-ceramics-studio",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://coursehorse.com/nyc/schools/art/choplet-ceramic-studio",
+        "accessed": "2026-05-18T22:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T19:12:32.276Z"
+    "lastResearchedAt": "2026-05-18T22:35:29.086Z"
   },
   {
     "id": "brooklyn-glass-one-day-workshop",
@@ -48260,5 +48261,48 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T22:26:35.299Z"
+  },
+  {
+    "id": "bam-rose-cinemas",
+    "name": "BAM Rose Cinemas",
+    "desc": "Four-screen art-house cinema with Brooklyn's only daily repertory film program (BAMcinématek).",
+    "longDesc": "Tucked into BAM's landmarked Peter Jay Sharp Building on Lafayette Ave, BAM Rose Cinemas runs first-run indie + foreign features alongside BAMcinématek — director retrospectives, restorations, festivals, and frequent Q&As you won't find at a regular multiplex. Four theaters (104-268 seats) keep weekend slates eclectic; a typical Saturday pairs a new A24-style release with a 35mm rep screening, making it a natural second stop after an UrbanGlass class one block over.",
+    "url": "https://www.bam.org/film",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "prospect-heights",
+    "vibe": [
+      "curious",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "12:30-23:30",
+    "notes": "30 Lafayette Ave, Brooklyn NY 11217 — BAM Cultural District, same block-spine as UrbanGlass (647 Fulton St) so an UrbanGlass→BAM pair is a 5-min walk between stops. Parking: GGMC Atlantic Center garage at 174 Ft. Greene Place is the standard recommendation; street meters fill fast on weekend evenings (bam.org/visit). BAMcinématek is the only daily repertory program in Brooklyn (bam.org). Tickets ~$17 standard, $14 BAM members. Check bam.org/film for the exact weekend slate before slotting.",
+    "sources": [
+      {
+        "url": "https://www.bam.org/rentals/peter-jay-sharp-building/bam-rose-cinemas",
+        "accessed": "2026-05-18T22:30:00Z"
+      },
+      {
+        "url": "https://www.bam.org/visit",
+        "accessed": "2026-05-18T22:30:00Z"
+      },
+      {
+        "url": "https://www.downtownbrooklyn.com/listing/bam-rose-cinemas/",
+        "accessed": "2026-05-18T22:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bam-rose-cinemas-brooklyn-2",
+        "accessed": "2026-05-18T22:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T22:37:37.280Z"
   }
 ]
