@@ -2588,50 +2588,45 @@
   },
   {
     "id": "hometown-bar-b-que-red-hook",
-    "name": "Hometown Bar-B-Que (Red Hook Flagship)",
-    "desc": "Oak-smoked Texas-style BBQ counter on Van Brunt — brisket, beef ribs, Korean sticky ribs",
-    "longDesc": "Pitmaster Billy Durney's 2013 Red Hook flagship is widely considered NYC's benchmark for oak-smoked Texas-style BBQ, with a MICHELIN Guide listing and a meat-counter ordering ritual that's a photo magnet in itself. Order by the half-pound (brisket, pulled pork, spare ribs) plus genre-bending specials like Korean sticky ribs, Vietnamese hot wings, and Oaxacan chicken. Walk-up, first-come-first-served — they cook until sold out, and weekends bring bluegrass/country acts on the live-music stage.",
+    "name": "Hometown Bar-B-Que",
+    "desc": "Counter-service Texas-style smokehouse — Billy Durney's flagship in a Red Hook warehouse.",
+    "longDesc": "Opened in 2013, Hometown is the Red Hook BBQ landmark: oak-smoked brisket, jalapeño-cheddar sausage, and weekend-only beef ribs served on butcher paper in a cavernous warehouse with live music. Walk-up, first-come, first-served until they sell out — show up before the prime cuts disappear. Bar pours frosé and local drafts, and weekend nights skew loud, communal, and meaty.",
     "url": "https://hometownbbq.com/",
-    "photoUrl": "https://images.squarespace-cdn.com/content/v1/55bfb06ce4b0df65afe0dcd8/1568570312653-446RDCN63J6XYSZGWDTO/HometownBBQ-034.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "foodie",
-      "photo",
       "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "12:00-22:00 Sat, 12:00-21:00 Sun",
-    "notes": "Counter-service, no reservations; arrive before 1pm Sat to dodge brisket sell-outs (yelp). Tray service onto communal tables. Live music Fri/Sat nights — bluegrass, roots, country (tripadvisor). Street parking on Van Brunt/Reed is tight on weekends; the old Fairway lot is closed, plan to walk 1-3 blocks. MICHELIN Guide listed (michelin). Pairs naturally with a Pioneer Works/Waterfront walk in the same cluster.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "12:00-23:00",
+    "notes": "454 Van Brunt St, Red Hook — Tue-Thu 12-22, Fri-Sun 12-23 (theinfatuation.com, hometownbbq.com). Beef ribs Fri/Sat/Sun only; expect weekend queues but bar service shortens the wait. Plentiful free + paid street parking on Van Brunt and Reed/Beard side streets — pairs cleanly as the meat-evening pivot after a sake/oyster afternoon at IC or Brooklyn Crab. Michelin Guide listed. Bring cash-friendly appetite; family-style ordering recommended.",
     "sources": [
       {
-        "url": "https://hometownbbq.com/menu-rh",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://hometownbbq.com/",
+        "accessed": "2026-05-18T20:40:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/hometown-bar-b-que",
+        "accessed": "2026-05-18T20:40:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T20:40:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d5081197-Reviews-Hometown_Bar_B_Que-Brooklyn_New_York.html",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/restaurants/hometown-bar-b-que-red-hook/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
+        "accessed": "2026-05-18T20:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T18:48:13.446Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T20:44:44.903Z"
   },
   {
     "id": "frankies-457-spuntino",
@@ -11986,40 +11981,45 @@
   {
     "id": "brooklyn-kura",
     "name": "Brooklyn Kura",
-    "desc": "First NYC sake brewery — taproom inside Industry City, ideal omakase chaser.",
-    "longDesc": "Brooklyn Kura is the first sake brewery in New York State, brewing American craft sake on-site at Industry City since 2018 using rice, water, koji, and yeast (brooklynkura.com). The taproom pours flights, single pours, and bottles paired with rotating cocktail-style bites — a natural romantic second stop steps from a Sunset Park omakase counter with no drive between courses.",
+    "desc": "America's first craft sake brewery — tasting room with flights and brewery-only pours inside Industry City.",
+    "longDesc": "Brooklyn Kura is the first US-based sake kura, brewing junmai and ginjo styles on-site at Industry City's Courtyard 5/6. The weekend tasting room pours flights of their signature #14 and Blue Door alongside experimental, brewery-only releases — bottle sales, glass pours, and rotating special editions are all available. The 34 34th Street entrance puts you steps from Japan Village's food hall, making it a natural drinks anchor before or after sushi/ramen.",
     "url": "https://www.brooklynkura.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "romantic",
-      "foodie",
-      "curious"
+      "curious",
+      "chill",
+      "foodie"
     ],
     "dietary": [
       "vegetarian",
+      "vegan",
       "gluten-free"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "60-75 min",
     "driveFromIC": "0 min",
     "hoursWeekend": "Sat 12:00-21:00, Sun 13:00-20:00",
-    "notes": "On-site at IC, 34 34th St, Brooklyn NY 11232 — same complex as most IC anchors so the romantic-track 'after omakase' transition is a short walk, not a drive (brooklynkura.com). They host seated family-style dinners as well as walk-in flights (brooklynkura.com). Sake is naturally gluten-free; vegetarian-friendly bites typical. Phone (347) 766-1601 for reservations if booking the dinner format.",
+    "notes": "Tasting room is inside Industry City Courtyard 5/6 at 68 34th St / 34 34th St entrance (brooklynkura.com). Friday 16:00-21:00, Sat 12:00-21:00, Sun 13:00-20:00 (brooklynkura.com). Pairs naturally with Japan Village food hall lunch one building over — full Japanese-themed loop without moving the car. IC garage parking on weekends; 36th St N/R also nearby. Private reservations available for groups of 10+ (brooklynkura.com). Phone (347) 766-1601 for flight pricing.",
     "sources": [
       {
         "url": "https://www.brooklynkura.com/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T20:40:00Z"
       },
       {
-        "url": "https://thesushilegend.com/reviews/brooklyn-kura/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://industrycity.com/tenants/brooklyn-kura/",
+        "accessed": "2026-05-18T20:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-kura-brooklyn",
+        "accessed": "2026-05-18T20:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T16:15:36.859Z"
+    "lastResearchedAt": "2026-05-18T20:42:49.823Z"
   },
   {
     "id": "bamboo-garden-sunset-park",
@@ -47201,5 +47201,135 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T20:34:59.819Z"
+  },
+  {
+    "id": "tensuke-market-cafe-industry-city",
+    "name": "Tensuke Market & Cafe (Industry City) — NOT FOUND",
+    "desc": "Research could not verify a Tensuke Market location at Industry City; chain operates only in IL and OH.",
+    "longDesc": "Tensuke Market & Food Court has two confirmed US locations — Elk Grove Village, IL and Columbus, OH (Japan Marketplace) — per tensuke.com and Japan Marketplace's own site. No press release, Industry City tenant listing, Yelp page, Instagram post, or Brooklyn news source surfaced an Industry City, Sunset Park, or NYC outpost as of 2026-05-18. Japan Village (with Sunrise Mart inside) remains the sole Japanese grocery+food hall at IC.",
+    "url": "",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "unknown",
+    "notes": "DO NOT PROMOTE. Verified non-existence: tensuke.com lists only Elk Grove Village IL and Columbus OH (https://www.tensuke.com/, https://tensukemarket.japanmarketplace.com/our-story). No Brooklyn/NYC press, Yelp, Instagram, or Industry City tenant listing references a Tensuke at IC. The task's stated niche ('smaller Japanese alternative to Japan Village inside IC') is currently filled by Cafe Japon and individual stalls inside Japan Village itself. See enqueue for real candidates that match the original intent.",
+    "sources": [
+      {
+        "url": "https://www.tensuke.com/",
+        "accessed": "2026-05-18T20:40:00Z"
+      },
+      {
+        "url": "https://tensukemarket.japanmarketplace.com/our-story",
+        "accessed": "2026-05-18T20:40:00Z"
+      },
+      {
+        "url": "https://industrycity.com/tenants/japan-village/",
+        "accessed": "2026-05-18T20:40:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/",
+        "accessed": "2026-05-18T20:40:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": false,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T20:37:40.900Z"
+  },
+  {
+    "id": "ppl-williamsburg",
+    "name": "PPL",
+    "desc": "Plant-filled Japanese kissaten in Williamsburg with Kagoshima matcha, Shizuoka teas, and a slow vintage hush.",
+    "longDesc": "Owner Tomo Takasugi (raised in Japan) runs PPL as a true sit-down kissaten — siphon-grade specialty coffee from 95 RPM, organic Kagoshima matcha, Shizuoka barley & black teas, and standout hojicha lattes, served in a tin-ceiling room overgrown with houseplants, vintage rugs, and antique crates. The pastry case is tiny but considered (vegan banana bread, blueberry cake on rotating days), which is the move — you're here to sit, not graze.",
+    "url": "https://pplnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat-Sun 9:00-16:00",
+    "notes": "189 Roebling St, Williamsburg — north of the BQE Metropolitan Ave exit, ~22 min drive from IC via Gowanus/BQE. Weekend street parking on Roebling/Metropolitan is metered Saturday and free Sunday; the surrounding residential blocks east of Roebling typically have open spots before 11am. Limited counter + a few small tables, so this is a true linger-with-matcha stop, not a grab-and-go (theinfatuation.com). Pair it with a Williamsburg-cluster afternoon rather than the Sunset Park track — the food hall already covers the Japan Village kissaten counter side (japanvillage.com).",
+    "sources": [
+      {
+        "url": "https://pplnyc.com/",
+        "accessed": "2026-05-18T20:50:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/nyc-asian-owned-coffee-tea-shops-cafes",
+        "accessed": "2026-05-18T20:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/ppl-brooklyn",
+        "accessed": "2026-05-18T20:50:00Z"
+      },
+      {
+        "url": "https://joe.coffee/locations/ny/brooklyn/ppl-brooklyn/",
+        "accessed": "2026-05-18T20:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T20:40:57.412Z"
+  },
+  {
+    "id": "industry-city-distillery",
+    "name": "Industry City Distillery",
+    "desc": "Closed Sunset Park craft distillery once known for beet-based Industry Standard Vodka at IC.",
+    "longDesc": "Industry City Distillery operated a top-floor tasting room at 33 35th St producing Industry Standard Vodka distilled from beets on hand-built equipment, with city-view Friday/Saturday tastings. As of early 2026 it appears closed: Yelp marks the listing CLOSED (updated March 2026) and Industry City's own current distillery directory lists only Fort Hamilton, Standard Wormwood, and Barrow's Intense — ICD is no longer a listed tenant. Kept as a tombstone entry; do not promote.",
+    "url": "http://www.industrycitydistillery.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "closed (permanently, per Yelp Mar 2026)",
+    "notes": "Status: appears permanently closed. Yelp listing flagged CLOSED with March 2026 update (yelp.com/biz/industry-city-distillery-new-york). Industry City's official distillery directory no longer lists ICD, naming only Fort Hamilton, Standard Wormwood, and Barrow's Intense (industrycity.com/drink/distilleries/). Their own domain industrycitydistillery.com currently returns an expired TLS certificate, suggesting site abandonment. Historic offering: Industry Standard Vodka, beet-distilled, tasting room Fri 4–10 / Sat 3–10. Do not route guests here — substitute with Standard Wormwood (absinthe/aquavit) or Fort Hamilton (rye/gin) for the IC spirits leg of the drinks circuit.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/industry-city-distillery-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/drink/distilleries/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.barscrawl.net/industry-city-distillery/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "http://www.industrycitydistillery.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T20:47:13.260Z"
   }
 ]

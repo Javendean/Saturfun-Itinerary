@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Tensuke Market & Cafe (Industry City) — Japanese tempura counter + small grocery",
-    "reason": "Second Japanese grocery+food micro-anchor inside IC; gives users a smaller, faster alternative to Japan Village's food hall on busy weekend afternoons",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:29:24.618Z"
-  },
-  {
-    "topic": "Hi-Collar / Cha-An style Japanese cafe nearest IC with weekend parking",
-    "reason": "Rounds out the Japanese-craft cluster with a sit-down kissaten experience the food hall doesn't cover",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:29:24.618Z"
-  },
-  {
-    "topic": "Brooklyn Kura sake brewery (Industry City) — weekend tasting hours",
-    "reason": "Adjacent drinks anchor inside IC; pairs naturally with a Japan Village food-hall lunch for a full Japanese-themed loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:29:24.618Z"
-  },
-  {
-    "topic": "Hometown Bar-B-Que (Red Hook flagship, not IC outpost)",
-    "reason": "Classic Brooklyn BBQ anchor 8 min from IC — pairs with a sake-afternoon-to-meat-evening pivot the corpus currently lacks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:31:25.131Z"
-  },
-  {
-    "topic": "Industry City Distillery (in-complex craft spirits)",
-    "reason": "Same-complex spirits counterpart to Brooklyn Kura — extends the IC drinks circuit beyond sake",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:31:25.131Z"
-  },
-  {
     "topic": "Avena Downstairs at Industry City",
     "reason": "Pasta tasting menu in the same complex — converts an IC afternoon into a full date-night without moving the car",
     "requestedBy": "agent",
@@ -19840,5 +19810,101 @@
     "reason": "Catbird's Williamsburg classroom offers short ring-making sessions — broadens jewelry coverage with a foodie-adjacent neighborhood",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T20:34:59.850Z"
+  },
+  {
+    "topic": "Ten Ichi Mart (118 Smith St, Cobble Hill) — small Japanese grocery + deli ~12 min from IC",
+    "reason": "Real driving-radius alternative that actually fills the 'smaller, faster Japanese grocery' niche the task wanted",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:37:40.936Z"
+  },
+  {
+    "topic": "Cafe Japon inside Japan Village — Japanese bakery + matcha counter as the quick-stop micro-anchor inside IC",
+    "reason": "Already on-site at IC and serves the 'small fast Japanese alternative to the food hall queue' use case without leaving the building",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:37:40.936Z"
+  },
+  {
+    "topic": "Shokusaido tempura/agedashi stall inside Japan Village food hall",
+    "reason": "Directly serves the 'Japanese tempura counter at IC' niche the Tensuke task was attempting to fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:37:40.936Z"
+  },
+  {
+    "topic": "Re-research existing venue: Japan Village — verify current 2026 stall lineup and weekend hours",
+    "reason": "If Tensuke ghost-entry was triggered by stale IC data, refreshing the Japan Village entry resolves the underlying gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:37:40.936Z"
+  },
+  {
+    "topic": "Okonomi / Yuji Ramen Williamsburg — daytime ichiju-sansai Japanese breakfast set",
+    "reason": "Sister kissaten-shokudo experience on Ainslie St; pairs with PPL for a Williamsburg Japanese-craft micro-track and gives the corpus a savory traditional-breakfast counterpart to the matcha/pastry sit-down",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:40:57.467Z"
+  },
+  {
+    "topic": "Bonsai Kakigori Williamsburg — kakigori specialist on N 7th St",
+    "reason": "Adds a Japanese dessert-craft node distinct from the kissaten and food-hall stalls; same Williamsburg drive cluster so it slots cleanly after PPL",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:40:57.467Z"
+  },
+  {
+    "topic": "Norikoya Carroll Gardens — Japanese deli/onigiri counter on Court St",
+    "reason": "Closer to IC (10-12 min) than the Williamsburg cluster; would give the Carroll Gardens track its own Japanese anchor without duplicating Industry City's Japan Village",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:40:57.467Z"
+  },
+  {
+    "topic": "Japan Village food hall (Industry City) — weekend stalls and best lunch picks",
+    "reason": "Adjacent Japanese food anchor; completes the Japan-in-IC loop with Brooklyn Kura",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:42:49.865Z"
+  },
+  {
+    "topic": "Industry City weekend parking options and garage rates",
+    "reason": "Driving-focused itineraries need a reliable parking answer for the IC cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:42:49.865Z"
+  },
+  {
+    "topic": "Other Industry City drinks anchors (Big Alice Brewing, Industry City Distillery) for non-sake variants",
+    "reason": "Gives alternative drinks pairings inside the same building if Kura is full or closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:42:49.865Z"
+  },
+  {
+    "topic": "Brooklyn Crab Red Hook (multi-level seafood shack with rooftop)",
+    "reason": "Pairs with Hometown as the seafood-counterpoint anchor in Red Hook; corpus is light on casual outdoor seafood near IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:44:44.957Z"
+  },
+  {
+    "topic": "Sunny's Bar Red Hook (longshoreman's bar with bluegrass jams)",
+    "reason": "Post-BBQ nightcap option within 5 min walk of Hometown; expands Red Hook evening coverage beyond food",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:44:44.957Z"
+  },
+  {
+    "topic": "Defonte's of Brooklyn (Red Hook Italian hero sandwich legend)",
+    "reason": "Daytime Red Hook lunch counterweight to Hometown; closes early so it forces an earlier itinerary slot the corpus doesn't model yet",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:44:44.957Z"
+  },
+  {
+    "topic": "Standard Wormwood Distillery (Industry City) — absinthe and aquavit tasting room",
+    "reason": "Active in-complex spirits venue; direct replacement for the Brooklyn Kura counterpart slot ICD was meant to fill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:47:13.295Z"
+  },
+  {
+    "topic": "Fort Hamilton Distillery (Industry City) — Brooklyn rye and gin tasting room",
+    "reason": "Second active IC distillery; pairs well with Brooklyn Kura on a same-building drinks crawl, weekend tastings",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:47:13.295Z"
+  },
+  {
+    "topic": "Barrow's Intense NY Tasting Room (Industry City) — ginger liqueur and cocktails",
+    "reason": "Third active IC drinks tenant; cocktail-forward format extends the IC circuit beyond pure tasting rooms",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T20:47:13.295Z"
   }
 ]
