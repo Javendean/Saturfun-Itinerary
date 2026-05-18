@@ -2929,23 +2929,23 @@
   {
     "id": "noguchi-museum",
     "name": "The Noguchi Museum",
-    "desc": "Isamu Noguchi's own museum in his former LIC studio — sculpture, stone, and a sunken garden.",
-    "longDesc": "Founded by Isamu Noguchi in 1985 inside his former Long Island City studio, the museum spans two floors and an outdoor sculpture garden built around his stone, basalt, and Akari light works. The galleries are quiet, naturally lit, and pair perfectly with a Socrates Sculpture Park walk directly across Vernon Blvd. Rainy-day fallback for the waterfront strip and a strong indoor counterpart to outdoor LIC art stops.",
+    "desc": "Isamu Noguchi's sculpture museum in a converted LIC factory — quiet courtyard + 10 indoor galleries.",
+    "longDesc": "Founded by Isamu Noguchi in 1985 inside a former photoengraving plant, the museum holds the largest collection of his stone, metal, wood, and paper works across 10 galleries and a serene outdoor sculpture garden. It's a 2-minute walk from Socrates Sculpture Park, making it the natural indoor counterpart for a curious-vibe Queens stop. Weekend hours are 11–6 with $16 general admission; the first Friday of each month is free.",
     "url": "https://www.noguchi.org/museum/visit/plan/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "curious",
-      "chill",
-      "photo"
+      "photo",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "22 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "11:00-18:00",
-    "notes": "Address: 9-01 33rd Rd at Vernon Blvd, LIC (Queens, not Brooklyn — zone mapped to greenpoint as nearest enum value). Weekend hours 11am-6pm Sat/Sun; closed Mon-Tue (noguchi.org). General admission ~$16; free first Friday of the month; NYC residents can use Culture Pass (search results). Walk-up tickets only — no advance reservations. Free street parking on Vernon Blvd is realistic on weekends and shared with Socrates visitors directly across the street, making this a single-park-and-do-both anchor. Sunken sculpture garden is the photo highlight.",
+    "notes": "Actually located at 9-01 33rd Rd, Long Island City (Astoria), Queens — outside the Brooklyn zone enum; tagged greenpoint as nearest. $16 general / discounted student & senior; free first Friday of every month with extended 8pm hours May–Sept (noguchi.org). No dedicated lot — free street parking is generally findable on weekends in this industrial pocket along Vernon Blvd; arrive before 12:30 for best odds. Pairs naturally with Socrates Sculpture Park next door (free, outdoor) for a 2.5-hour sculpture double-feature. Closed Mondays and Tuesdays.",
     "sources": [
       {
         "url": "https://www.noguchi.org/museum/visit/plan/",
@@ -2962,8 +2962,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T01:51:13.843Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T02:24:06.839Z"
   },
   {
     "id": "bohemian-hall-beer-garden",
@@ -17935,26 +17935,26 @@
   {
     "id": "gantry-plaza-state-park",
     "name": "Gantry Plaza State Park",
-    "desc": "12-acre LIC waterfront park with the cleanest postcard view of midtown Manhattan across the East River",
-    "longDesc": "Four piers jut into the East River directly opposite the Empire State Building and UN, framed by the landmarked 60-ft Pepsi-Cola sign and the restored 1925 black gantries. After dinner at Casa Enrique (4-min walk), grab a bench or pier rail at golden hour — the skyline reflection across the water is the strongest pure-view moment in the borough. Open until 10pm so the lit Manhattan skyline is the actual payoff.",
-    "url": "https://parks.ny.gov/parks/149/",
+    "desc": "LIC waterfront park with the iconic Pepsi-Cola sign and unobstructed Midtown skyline views, free entry",
+    "longDesc": "A 12-acre Hunters Point riverside park along Center Boulevard, anchored by two restored 1925 transfer-bridge gantries and the 120-ft × 60-ft neon Pepsi-Cola sign relocated here in 2009 (parks.ny.gov). Piers and a recreational dock deliver arguably the best public vantage of the Empire State Building, Chrysler, and UN — magic hour and the 30 minutes after sunset are the payoff. Pairs neatly with Kyclades a few blocks inland for a Queens photo-then-dinner combo.",
+    "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "greenpoint",
     "vibe": [
-      "romantic",
       "photo",
-      "chill"
+      "chill",
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "18 min",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "08:00-22:00",
-    "notes": "12-acre riverside park with four piers, mist fountain, and a fishing pier (parks.ny.gov). Direct sightline to Empire State Building and United Nations across the East River; sunset and blue hour are peak (Secret NYC). Landmarked Pepsi-Cola sign at the north end was designated NYC landmark April 12, 2016 (QNS). 4-min walk from Casa Enrique on 49th Ave — pair as the after-dinner skyline coda for the LIC dinner-track evening. No bar inside the park, so plan it as a walking stop, not a drink-purchase stop; nearby Anable Basin Sailing Bar & Grill and Sound on the Sound are alternates if you want a glass in hand. Parking: metered street spots on 48th/49th Ave fill quickly on weekends; several garages within 2 blocks (On The Grid). Drive from IC via BQE → Pulaski Bridge ≈ 18 min on weekends.",
+    "notes": "Free state park, open 8am-10pm daily (parks.ny.gov). Iconic 120-ft cursive ruby neon Pepsi-Cola sign reassembled in park in 2009; original 1940 (Wikipedia). Best shot: walk the Recreational Dock off Center Blvd toward the water for the Empire State / UN composition (explorest.com). Sunset + 20 min twilight is peak; full darkness lights up the skyline (techpulse.com). Weekend parking: small lot at 46th Ave & Center Blvd plus metered street parking — LIC streets tight on weekends, arrive before sundown. ~5 min walk to Kyclades Seafood. Note: park sits in LIC/Queens, not a Brooklyn zone — tagged 'greenpoint' as nearest geographic cluster.",
     "sources": [
       {
-        "url": "https://parks.ny.gov/parks/149/",
+        "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -17962,22 +17962,18 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://secretnyc.co/gantry-plaza-state-park-lic/",
+        "url": "https://www.explorest.com/places/new-york/long-island-city/gantry-plaza-state-park-recreational-dock-view-of-manhattan",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://qns.com/2016/04/lics-iconic-pepsi-cola-sign-is-named-a-landmark/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://onthegrid.city/queens/long-island-city/gantry-plaza-state-park",
+        "url": "https://licpost.com/new-seating-area-added-at-gantry-plaza-state-park-with-views-of-manhattan-skyline",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T01:15:25.206Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T02:26:10.792Z"
   },
   {
     "id": "carroll-park",
@@ -35556,27 +35552,32 @@
   {
     "id": "bahari-estiatorio-astoria",
     "name": "Bahari Estiatorio",
-    "desc": "Michelin-recommended Astoria Greek taverna famed for mezze, grilled octopus, and lamb chops",
-    "longDesc": "Bahari (\"sea breeze\" in Greek) is a Michelin Guide-recommended Astoria mainstay run by the former Stamatis team, with an open-pass kitchen turning out classic Hellenic mezze, char-grilled oktapodi, and pastitsio. The room is bright and unfussy — full of Greek-speaking regulars — and the menu rewards table-style ordering of spreads, salads, and a shared protein. From Industry City it's ~25-30 min over the BQE; pair it with a Casa Enrique nightcap to anchor a Queens dinner cluster.",
+    "desc": "Astoria's mayirefta temple — slow-braised Greek home cooking pulled tray-by-tray from the steam line.",
+    "longDesc": "Sister kitchen to the legendary Stamatis, Bahari specializes in mayirefta — the oven-baked, slow-cooked stews and casseroles that anchor a real Greek home table: pastitsio, moussaka, gigantes plaki, fasolakia, lemon-y artichoke avgolemono, lamb fricassee. The open-kitchen pass lets you point at the trays before sitting down, and prices stay friendly even for a full taverna spread. A deliberate counterpoint to Kyclades' grilled-seafood lane on the same Astoria block.",
     "url": "https://www.bahariestiatorio.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "75-90 min",
-    "driveFromIC": "27 min",
-    "hoursWeekend": "12:00-00:00",
-    "notes": "Address 31-14 Broadway, Astoria NY 11106 (Yelp/Apple Maps); Michelin Guide recommended sticker (Bahari site/Michelin Guide). Signature plates: oktapodi scharas (grilled octopus), paidakia (lamb chops), htipiti, gigantes. Reservations via OpenTable; weekend service runs noon-midnight (NetWaiter/Yelp). Drive from IC is realistically 25-30 min via BQE — outside the strict 25-min target but the closest legitimate Michelin-Guide Greek option to LIC, justifying inclusion as a Queens-cluster dinner pivot when paired with Casa Enrique. Street parking in Astoria is generally available on weekend evenings.",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "12:00-24:00",
+    "notes": "Actually in Astoria, Queens at 31-14 Broadway — mapped to 'greenpoint' as the nearest in-schema zone (Pulaski Bridge crossing). Drive from Industry City is ~22-28 min via BQE on weekends, ~35 min in heavy traffic. Street parking on Broadway/31st St is metered but generally findable on weekend afternoons; the Museum of the Moving Image lot (~6 min walk) is a paid fallback. Pair with Kyclades only if doing a tasting-tour day — Bahari covers braises/casseroles, Kyclades covers grill/seafood (Queens Gazette). Many mayirefta dishes are naturally vegetarian (gigantes, briam, fasolakia, spanakorizo) which is rare for Astoria Greek. Cash-friendly, no-frills room, family-run since reopening from Stamatis lineage (Yelp 4.5★ across 730+ reviews as of 2026-04).",
     "sources": [
       {
         "url": "https://www.bahariestiatorio.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.bahariestiatorio.com/menu",
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
@@ -35588,18 +35589,14 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://maps.apple.com/place?address=31-14+BroadwayAstoria%2C+NY++11105United+States&name=Bahari+Estiatorio",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://bahariestiatorio.netwaiter.com/astoria/about/",
+        "url": "https://www.qgazette.com/articles/bahari-estiatorio-8/",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T01:03:02.692Z"
+    "lastResearchedAt": "2026-05-18T02:34:08.859Z"
   },
   {
     "id": "coffeed-brooklyn-grange-lic-closed",
@@ -36338,5 +36335,94 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T02:14:08.906Z"
+  },
+  {
+    "id": "rainey-park-astoria",
+    "name": "Rainey Park",
+    "desc": "Quiet East River park next to Socrates with the free lot Socrates visitors actually use; cherry blossoms, picnic lawns.",
+    "longDesc": "Rainey Park is an 11-acre NYC Parks waterfront strip on Vernon Blvd just south of Socrates Sculpture Park, with cherry-blossom paths, baseball fields, a playground, and uninterrupted East River views toward Roosevelt Island and the Upper East Side skyline. It reopened in July 2024 after a multi-year reconstruction and now functions as the low-key picnic alternative when Socrates is hosting events. The free parking lot at 33-01 Vernon Blvd (the de facto Socrates Sculpture Park lot) sits right at the park's northern edge, making this the rare NYC green space where you can actually pull up, park, and unfold a blanket.",
+    "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "32 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "Located in Astoria, Queens (Vernon Blvd between 33rd Rd and 34th Ave) — zone field set to greenpoint as closest Brooklyn waterfront in schema enum; actual neighborhood is Astoria/LIC border (NYC Parks). No on-site lot, but the free public lot at 33-01 Vernon Blvd serves both Rainey and Socrates Sculpture Park immediately to the north (NYC Parks). Park hours 6am-9pm daily; reopened July 2024 after renovations with new cherry blossom plantings, fitness area, spray showers, and picnic space (Mommy Poppins, QNS). Best pairing: Socrates next door for free sculpture, then picnic here for water/skyline views without the event crowds. Drive from Industry City is the long end of the corpus range (~30-35 min via BQE weekend) — only justified because of the genuinely rare driveable-+-park-able waterfront combo.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/rainey-park-q048",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://mommypoppins.com/new-york-city-kids/parks-playgrounds/rainey-park-reopens-astoria-queens-kids",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://qns.com/2026/02/where-to-see-cherry-blossoms-in-western-queens-this-spring/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/socrates-sculpture-park",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T02:28:33.029Z"
+  },
+  {
+    "id": "mr-tonn-astoria-unverified",
+    "name": "Mr. Tonn (unverified)",
+    "desc": "Could not verify a Greek-Japanese omakase tuna bar by this name near MoMI in Astoria.",
+    "longDesc": "Multiple searches (Yelp, Tripadvisor, QNS openings roundups, Google web search, name variants Tonno/Tonnos/Tuna/Toro/Ton) returned no matching venue in Astoria, Queens. The concept (Greek-Japanese omakase tuna bar near MoMI / Kaufman Astoria Studios) does not match any indexed restaurant as of 2026-05-17. Likely a hallucinated name or a mis-transcribed venue; possible source confusion with Anemi Modern Greek (raw bar with tuna tartare) or with the LIC sushi scene (Warabi, Sake Kawa, Koyo). Do NOT promote to corpus until verified by a primary source (storefront photo, Resy/OpenTable listing, NYC DOH permit).",
+    "url": "",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "unknown",
+    "hoursWeekend": "unknown",
+    "notes": "VERIFICATION FAILED. Searches performed 2026-05-17: Yelp omakase-Astoria, Tripadvisor fusion/Japanese-Astoria, QNS new-openings (March + April 2026 roundups), Google for \"Mr Tonn\"/\"Mr Tonno\"/\"Mister Tonn\"/\"Mr Tonnos\"/\"Mr Tuna Astoria\"/\"Mr Toro Astoria\". Closest real anchors near MoMI/Kaufman Astoria: Koyo (omakase, Astoria), Sake Kawa (32-05 36th Ave, counter omakase — note Yelp marks CLOSED as of May 2026, needs reverify), That Place Omakase (Chef Osan, Astoria), Anemi Modern Greek (30-17 31st St, raw bar w/ tuna tartare — Greek angle but not Japanese fusion).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/search?find_desc=Omakase&find_loc=Astoria,+Queens,+NY",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://qns.com/2026/03/guide-new-restaurants-astoria-long-island-city/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://qns.com/2026/04/latest-openings-western-queens/",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g29837-d26714268-Reviews-That_Place_Omakase-Astoria_Queens_New_York.html",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://qns.com/2025/10/anemi-modern-greek-traditional-modern-greek-queens/",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": false,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T02:31:41.869Z"
   }
 ]
