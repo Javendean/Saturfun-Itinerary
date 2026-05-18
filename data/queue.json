@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Nom Wah Tea Parlor Doyers Street weekend dim sum",
-    "reason": "If user is already parking on Chrystie for Joe's Shanghai, Nom Wah is 4 min walk and stacks the trip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:12:59.562Z"
-  },
-  {
-    "topic": "Apotheke cocktail bar 9 Doyers Street Chinatown",
-    "reason": "Two-doors-down speakeasy on the same Doyers bend — converts Nom Wah lunch into a day-into-evening Chinatown pairing that justifies the Manhattan leg",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:15:10.503Z"
-  },
-  {
-    "topic": "Museum of Chinese in America (MOCA) 215 Centre Street",
-    "reason": "5-min walk from Nom Wah; cultural anchor that turns a meal into a full Chinatown half-day track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:15:10.503Z"
-  },
-  {
-    "topic": "Columbus Park Chinatown morning tai chi and xiangqi",
-    "reason": "Free, photogenic, 4-min walk from Doyers — gives the Chinatown cluster a no-cost 'curious/photo' beat alongside the food stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:15:10.503Z"
-  },
-  {
-    "topic": "Mahayana Buddhist Temple 133 Canal Street",
-    "reason": "Largest Buddhist temple in NYC, 16-ft golden Buddha, 6-min walk — same garage doubles as Nom Wah parking, perfect bundled stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T22:15:10.504Z"
-  },
-  {
     "topic": "The Drawing Center 35 Wooster St SoHo",
     "reason": "Same block as Hauser & Wirth — works-on-paper museum, perfect second stop on a Wooster St walk, and directly relevant to the manga-panel/drawing-challenge sub-feature",
     "requestedBy": "agent",
@@ -16960,5 +16930,95 @@
     "reason": "Third independent Chinatown-core option to diversify the corpus beyond Icon-branded garages",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T10:58:48.297Z"
+  },
+  {
+    "topic": "Apotheke cocktail bar 9 Doyers Street speakeasy",
+    "reason": "Same pedestrianized Doyers block as Nom Wah — converts the Chinatown stack into a dim-sum-then-drinks evening route",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:00:44.265Z"
+  },
+  {
+    "topic": "Nom Wah Nolita 10 Kenmare Street alternate location",
+    "reason": "Sister location with reservations available all week — backup if Doyers has a 90-min wait",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:00:44.265Z"
+  },
+  {
+    "topic": "Doyers Street pedestrian plaza murals and photo spots",
+    "reason": "Free 15-min photo stop literally outside Nom Wah's door; rounds out the Chinatown micro-cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:00:44.265Z"
+  },
+  {
+    "topic": "Pulqueria mezcal bar 11 Doyers Street Chinatown basement",
+    "reason": "Third Doyers Street anchor — completes a one-block Manhattan crawl (Nom Wah → Apotheke → Pulqueria) so the Manhattan leg pays off as a self-contained mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:03:39.091Z"
+  },
+  {
+    "topic": "Double Chicken Please cocktail bar Lower East Side",
+    "reason": "World's 50 Best #2 in 2023, 8-min drive from Doyers — an evening pivot if Apotheke's no-reservation line is too long on a Saturday",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:03:39.091Z"
+  },
+  {
+    "topic": "Chinatown Mott Street municipal parking garage weekend rates",
+    "reason": "Logistics gap — the Manhattan leg only works if there's a known cheap garage to anchor the car for the full Nom Wah + Apotheke window",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:03:39.091Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor 13 Doyers St dim sum Chinatown",
+    "reason": "Direct anchor pair with MOCA — completes the Chinatown half-day track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:05:44.255Z"
+  },
+  {
+    "topic": "Mahayana Buddhist Temple 133 Canal St largest Buddha statue NYC",
+    "reason": "Free cultural stop 7-min walk from MOCA, photogenic, extends Chinatown track without adding a meal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:05:44.255Z"
+  },
+  {
+    "topic": "Mott Street Chinatown vintage shops and Nom Wah Tea Parlor sister bakeries",
+    "reason": "Shopping/snack layer to fill gap between MOCA and dim sum reservation window",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:05:44.255Z"
+  },
+  {
+    "topic": "Mahayana Buddhist Temple (133 Canal St) — free 16ft golden Buddha",
+    "reason": "Extends the Chinatown 'curious/photo' beat with a second no-cost interior moment between Columbus Park and a Doyers food stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:08:22.519Z"
+  },
+  {
+    "topic": "Mei Lai Wah Bakery (64 Bayard St) — old-school cash-only roast pork buns",
+    "reason": "Morning food anchor inside the same Chinatown cluster, 2-min walk from Columbus Park, fills a $ foodie slot that pairs with tai chi visit",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:08:22.519Z"
+  },
+  {
+    "topic": "Doyers Street mural + Apotheke alley photo walk",
+    "reason": "Densifies the Chinatown photo cluster with a 10-min visual beat directly between Columbus Park and any Doyers anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:08:22.519Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor 13 Doyers Street dim sum",
+    "reason": "Anchor of the bundled Chinatown stop — same garage, 6-min walk to Mahayana, oldest dim sum parlor in NYC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:10:29.688Z"
+  },
+  {
+    "topic": "Apothéke speakeasy 9 Doyers Street",
+    "reason": "Same Doyers Street block as Nom Wah — extends the Chinatown cluster into a romantic/curious evening stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:10:29.688Z"
+  },
+  {
+    "topic": "Museum of Chinese in America (MOCA) 215 Centre Street",
+    "reason": "Adds curated cultural depth to the Chinatown bundle; 8-min walk from Mahayana, free Thursdays",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T11:10:29.688Z"
   }
 ]

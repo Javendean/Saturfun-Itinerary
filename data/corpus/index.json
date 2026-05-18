@@ -19185,46 +19185,47 @@
   {
     "id": "nom-wah-tea-parlor",
     "name": "Nom Wah Tea Parlor",
-    "desc": "Oldest continuously-running dim sum parlor in NYC Chinatown (since 1920), all-day cart-free dim sum on demand.",
-    "longDesc": "Tucked on the bend of Doyers Street, Nom Wah has served Hong Kong–style dim sum since 1920 and is the oldest continuously operating restaurant in Manhattan's Chinatown. Unlike traditional cart service, dim sum is ordered à la carte from a checklist and prepared to order, so dumplings, rice rolls, and the signature OG egg roll arrive hot. Walk-ins only on weekends (no reservations), so expect a 30–60 min wait at peak Saturday brunch hours.",
+    "desc": "NYC's oldest dim sum parlor (since 1920) on bent little Doyers Street — a 4-min walk from Joe's Shanghai parking",
+    "longDesc": "Tucked into the elbow of Doyers Street, Nom Wah has been slinging dim sum since 1920 and is the canonical first stop for shrimp & snow pea leaf dumplings, OG egg rolls, and the house roast pork bun. Order off the paper menu rather than carts; service is brisk and the red-vinyl-booth interior is its own photo op. On weekends they don't take reservations for parties of 2, but turnover is fast and the line moves — pair it with parking already booked on Chrystie for Joe's Shanghai for a two-restaurant Chinatown loop.",
     "url": "https://www.nomwah.com/chinatown",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "curious",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "45-75 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "11:00-21:00",
-    "notes": "Manhattan Chinatown venue — uniquely justified as the closer dim sum fallback to Joe's Shanghai when XLB lines exceed 45 min; drive from IC ~22 min via Gowanus + Manhattan Bridge off-peak (longer 30+ min midday Saturday). No weekend reservations at Doyers location — walk-in only (nomwah.com). Street parking in Chinatown is brutal; nearest reliable paid lot is Mott/Hester garage (~3 min walk). Zone field tagged 'dumbo' as nearest Brooklyn-bridge-adjacent proxy since schema lacks a Manhattan option — not geographically accurate. Vegetarian-friendly (turnip cake, scallion pancake, veg dumplings) but not vegan or gluten-free. Open daily 11:00–21:00 (yelp.com, nomwah.com).",
+    "notes": "Manhattan exception justified: stacks with Joe's Shanghai on Chrystie — 4-min walk to 13 Doyers St (Wikipedia, nomwah.com/chinatown). Open 11am-9pm daily incl. weekends (Yelp May 2026, nomwah.com). Reservations only Mon-Thu for parties of 3-5 via Resy; weekends are walk-in only, parties of 2 always walk-in (nomwah.com/chinatown). No dedicated lot — use the same Chrystie/Bowery garage as Joe's Shanghai; Doyers is pedestrianized between Pell and Bowery so you'll walk in either way (NYC DOT). Order the OG egg roll, har gow, scallion pancake, and the house roast pork buns; vegetarian options exist (mushroom roll, vegetable dumpling). Cash discouraged — card preferred.",
     "sources": [
       {
         "url": "https://www.nomwah.com/chinatown",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/nom-wah-tea-parlor-new-york",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Nom_Wah_Tea_Parlor",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://resy.com/cities/new-york-ny/venues/nom-wah-tea-parlor",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T23:24:55.701Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:00:44.216Z"
   },
   {
     "id": "hauser-wirth-wooster",
@@ -41232,5 +41233,168 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T10:58:48.263Z"
+  },
+  {
+    "id": "apotheke-chinatown",
+    "name": "Apotheke",
+    "desc": "Apothecary-themed speakeasy two doors from Nom Wah on the Doyers Street bend, prescription cocktails after dark",
+    "longDesc": "Hidden behind an unmarked door at 9 Doyers, Apotheke styles itself as a turn-of-the-century apothecary — bartenders in white coats serve menu sections labeled 'Aphrodisiacs,' 'Stimulants,' 'Pain Killers' built from fresh herbs and botanicals (Architectural Digest 'Best Speakeasies in the US'). It opens at 6:30 PM seven nights a week, walk-in only, sophisticated dress encouraged; live jazz, brass, or burlesque Sun-Thu. Converts a Nom Wah dim-sum lunch into a same-block evening capstone without moving the car.",
+    "url": "https://www.apothekemixology.com/location/nyc-apotheke/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "manhattan-chinatown",
+    "vibe": [
+      "romantic",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat-Sun 18:30-late",
+    "notes": "Same Doyers Street bend as Nom Wah Tea Parlor (literally two doors down) — the pairing is the point: dim sum at #13, walk 30 seconds to #9 for cocktails (apothekemixology.com). Walk-in only, no reservations for regular service; sophisticated attire encouraged, entry at host discretion (apothekemixology.com). Live music Sun-Thu varies from New Orleans brass to classic jazz and burlesque (yelp.com). From Industry City: ~25 min via Manhattan Bridge; park in a Chinatown garage (Mott/Bowery lots) and stay parked across both stops. Justifies the Manhattan leg by stacking two best-in-class anchors on a single 200-foot stretch.",
+    "sources": [
+      {
+        "url": "https://www.apothekemixology.com/location/nyc-apotheke/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/apotheke-new-york-4",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/bars/apotheke",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.apothekemixology.com/menus-nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:03:39.059Z"
+  },
+  {
+    "id": "moca-museum-of-chinese-in-america",
+    "name": "Museum of Chinese in America (MOCA)",
+    "desc": "Smithsonian-affiliated museum on the Chinese American experience, 5 min walk from Nom Wah Tea Parlor.",
+    "longDesc": "MOCA's 215 Centre Street home, designed by Maya Lin, anchors a Chinatown cultural half-day. The core exhibition 'With a Single Step: Stories in the Making of America' traces 160+ years of Chinese American history, complemented by rotating shows on art, food, and identity. Pair with dim sum at Nom Wah (5-min walk) for a self-contained Manhattan track that justifies the bridge crossing from Industry City.",
+    "url": "https://www.mocanyc.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 11:00-18:00, Sun 11:00-16:00",
+    "notes": "Maya Lin-designed space (mocanyc.org). Closed Mon/Tue; Sunday closes 4PM — schedule MOCA before lunch on Sundays. 5-min walk to Nom Wah Tea Parlor on Doyers St. Weekend street parking is brutal on Centre/Lafayette; nearest paid garages are on Mulberry and Lafayette near Canal. Reason for Manhattan inclusion: Nom Wah anchor pairing turns this into a unified Chinatown track, not a standalone Manhattan detour.",
+    "sources": [
+      {
+        "url": "https://www.mocanyc.org/visit/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:05:44.212Z"
+  },
+  {
+    "id": "columbus-park-chinatown",
+    "name": "Columbus Park (Chinatown)",
+    "desc": "Free morning tai chi, stone-table xiangqi, and erhu music in Chinatown's living-room — 4-min walk from Doyers St.",
+    "longDesc": "Built in 1897 on the old Five Points footprint, Columbus Park is the daily gathering spot for Chinatown's elders. Arrive 7-9 AM on a weekend to catch synchronized tai chi groups on the upper plaza, stone-table xiangqi (Chinese chess) matches that can get satisfyingly chippy, mahjong huddles, and the occasional erhu or pipa performance — all free, all candid, and all extremely photographable from a respectful distance. By late morning it shifts into a quieter park scene before tourist foot traffic from Mulberry/Mott picks up.",
+    "url": "https://www.nycgovparks.org/parks/columbus-park-m015",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "06:00-22:00",
+    "notes": "Best 7-9 AM Sat/Sun for the tai chi groups; xiangqi tables fill in late morning and run through afternoon (amNewYork). Address 67 Mulberry St (NYC Parks). Drive IC -> Brooklyn-Battery Tunnel (~$7 toll) -> Park Row is fastest weekend route; free alt via Manhattan Bridge adds 5-8 min. Weekend parking is tough — meter on Baxter/Worth or use Mulberry St Garage (75 Mulberry) or Bowery garages near Canal. Be discreet with cameras: this is a community space, not a performance. Pairs naturally with Nom Wah / Mei Lai Wah breakfast 4 min south on Doyers.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/columbus-park-m015",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Columbus_Park_(Manhattan)",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.newyorkerlife.com/new-yorkers-photography-xiangqi-players-of-chinatowns-columbus-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.amny.com/news/the-chess-games-can-get-chippy-at-columbus-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/columbus-park-chinatown/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T11:08:22.490Z"
+  },
+  {
+    "id": "mahayana-buddhist-temple",
+    "name": "Mahayana Buddhist Temple",
+    "desc": "NYC's largest Buddhist temple — a 16-ft golden Buddha at the foot of the Manhattan Bridge.",
+    "longDesc": "Tucked behind an old movie-theater facade at 133 Canal Street, Mahayana is the largest Buddhist temple in NYC, with a 16-foot gilded Buddha seated on a lotus and walls lined with red prayer lanterns. Entry is free and quiet (donations encouraged); fortune slips run $1 and visitors are asked to keep shoulders and knees covered. It's a perfect contemplative bookend to a Chinatown food crawl — six minutes on foot from Nom Wah Tea Parlor and sharing the same Bowery-side parking footprint.",
+    "url": "https://en.mahayana.us/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "08:30-18:00",
+    "notes": "Manhattan exception: bundles tightly with Nom Wah Tea Parlor (6-min walk, ~0.3 mi) and uses the same Bowery/Chinatown garage cluster — one parking transaction covers both stops (en.mahayana.us). Open daily 8:30am–6:00pm; last entry 5:45pm (nyctourism.com). Free admission, photography allowed except of the memorial photos along the side walls (yelp.com). Dress modestly (shoulders + knees covered). Closest Brooklyn-side zone for itinerary grouping is DUMBO via Manhattan Bridge — drive from IC is roughly 18–22 min on a weekend morning before Holland Tunnel traffic builds.",
+    "sources": [
+      {
+        "url": "https://en.mahayana.us/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/attractions-tours/mahayana-buddhist-temple/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mahayana-temple-buddhist-association-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_York_Mahayana_Temples",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T11:10:29.657Z"
   }
 ]
