@@ -19202,25 +19202,25 @@
   {
     "id": "nom-wah-tea-parlor",
     "name": "Nom Wah Tea Parlor",
-    "desc": "NYC's oldest dim sum parlor (since 1920) — made-to-order on a Chinatown side street",
-    "longDesc": "Open since 1920 at 13 Doyers Street, Nom Wah is the oldest continuously running restaurant in Manhattan's Chinatown — a red-vinyl-booth tea parlor that ditched the rolling carts under owner Wilson Tang for made-to-order baskets. Order the house special pan-fried dumplings, 'The Original' egg roll, shrimp-stuffed eggplant, roast pork buns, and the almond cookie that survived from the bakery era. Pairs naturally with Mei Lai Wah three blocks north for a one-park Chinatown two-stop; weekend waits are real, so put your name in then walk to Columbus Park.",
+    "desc": "NYC's oldest dim sum parlor (1920) on Chinatown's curved Doyers St — order-to-table classics in a red-booth time capsule",
+    "longDesc": "Opened in 1920 at 13 Doyers Street, Nom Wah is the oldest continuously operating dim sum parlor in Manhattan's Chinatown, now run by Wilson Tang since 2010. Unlike cart-style halls, every basket of har gow, shrimp & snow pea leaf dumplings, and the signature OG egg roll is cooked to order. The 1968 red vinyl booths, neon sign, and pressed-tin ceiling on a bent Tong-era street make it the most photogenic mid-walk sit-down between Joe's Shanghai and Kam Hing.",
     "url": "https://www.nomwah.com/chinatown",
-    "photoUrl": "",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/5a9e6b3b9f8dce8a6c8b4567/1530000000000-NOMWAH/nom-wah-storefront.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "photo"
+      "photo",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
+    "duration": "60-75 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "11:00-21:00",
-    "notes": "Located on the curved 'bloody angle' of Doyers Street, a 200-ft pedestrianized lane that is itself one of Chinatown's most photographed blocks (Wikipedia). Open 1920 as a bakery/tea parlor at 13-15 Doyers; Wally Tang took over in the 1970s and his nephew Wilson modernized the menu in 2011 (Tenement Museum). Weekends do not take reservations for parties under 5 — walk-ins only, expect 30-60 min waits at peak (Resy/Nom Wah). Manhattan trip justified ONLY when paired with another Chinatown anchor (Mei Lai Wah, Apollo Bakery, or Columbus Park) — parking is metered street + a few Doyers/Pell garages; cheaper to park near Pike St or grab a spot south of Canal.",
+    "notes": "Manhattan Chinatown anchor — exception to IC 25-min rule because it slots into the existing Joe's Shanghai → Nom Wah → Kam Hing mini-track (all within a 3-block walk on Doyers/Pell/Mott). Cooked-to-order dim sum since Wilson Tang's 2010 takeover (Wikipedia, Tenement Museum). Walk-ins accepted but Resy strongly recommended for weekends — line can hit 45+ min after 12:30pm (Yelp, Resy). Park at Mulberry/Baxter garages; street parking on Doyers is effectively impossible. Veg-friendly: scallion pancake, turnip cake, several mushroom-based dumplings. Cash + cards. Phone (212) 962-6047.",
     "sources": [
       {
         "url": "https://www.nomwah.com/chinatown",
@@ -19245,8 +19245,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T14:32:30.366Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T14:39:54.241Z"
   },
   {
     "id": "hauser-wirth-wooster",
@@ -19879,44 +19879,49 @@
   {
     "id": "mei-lai-wah-bakery",
     "name": "Mei Lai Wah Bakery",
-    "desc": "1968 Chinatown institution — legendary $2 roast pork buns + Hong Kong cafe classics, cash-friendly.",
-    "longDesc": "Open since 1968, Mei Lai Wah relocated from 64 Bayard to a larger space at 41 Mott Street, but the playbook hasn't changed: char siu (roast pork) buns and the char siu bo lo bao (pineapple-topped, no actual pineapple) handmade daily, plus wonton noodles, pan-fried noodles, and milk tea. A roast pork bun + coffee or milk tea lands comfortably under $10, making it one of the strongest sub-$10 justifications to drive into Manhattan. Cash is preferred; the buns sell out by mid-afternoon so weekend mornings are ideal.",
+    "desc": "Since-1968 Chinatown HK-style bakery for char siu bao, pineapple pork buns, and cash-only coffee.",
+    "longDesc": "Chinatown institution at 64 Bayard St handmaking baked roast pork buns since 1968 — egg-washed, slightly crispy shell over a pillow-soft sweet dough, stuffed with meltingly tender char siu. The pineapple-topped pork bun is the sleeper hit, and Hong Kong–style coffee rounds out a sub-$3 grab-and-go that consistently draws a Bayard Street line. Cash only; expect up to 30 min on weekends but turnover is fast.",
     "url": "https://meilaiwahnyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "dumbo",
     "vibe": [
       "foodie",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "08:30-19:30",
-    "notes": "Note: relocated from 64 Bayard St to 41 Mott St, NY 10013 (meilaiwahnyc.com). Signature char siu bun + char siu bo lo bao handmade daily since 1968 (mottstreetgirls.com). Cash preferred; arrive before noon on weekends as roast pork buns sell out (yelp). Manhattan justification: a roast pork bun + coffee under $10 is a defensible cross-bridge anchor — pair with Columbus Park people-watching or Nom Wah dim sum to amortize the drive. Parking: street parking on Mott/Mulberry is scarce on weekends; the Mulberry St Municipal Garage (~5 min walk) is the safer bet.",
+    "notes": "Manhattan exception justified by iconic HK-bakery status; pair as a Manhattan Bridge crossing into a Dumbo/Vinegar Hill morning loop. Cash only — bring small bills (meilaiwahnyc.com). Char siu bao + pineapple pork bun are the signature pulls (dinertheory.substack.com). Weekend line down Bayard St but moves fast; almost all items under $3 (atlasobscura.com). Parking is brutal in Chinatown — better to park at a Dumbo lot/garage and walk/cab over, or kerb-pickup with one person in the car.",
     "sources": [
       {
         "url": "https://meilaiwahnyc.com/",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/mei-lai-wah-bakery-new-york",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://dinertheory.substack.com/p/diner-theory-nyc-mei-lai-wah-review",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/mei-lai-wah-bakery",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.mottstreetgirls.com/chinatown/mei-lai-wah-bakery",
-        "accessed": "2026-05-16T23:20:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/restaurants/mei-lai-wah/",
-        "accessed": "2026-05-16T23:20:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T23:27:02.559Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:44:33.275Z"
   },
   {
     "id": "kam-hing-coffee-shop",
@@ -41308,49 +41313,49 @@
   {
     "id": "columbus-park-chinatown",
     "name": "Columbus Park",
-    "desc": "Chinatown's living room — weekend Cantonese opera buskers and stone xiangqi tables packed with seniors",
-    "longDesc": "A wedge of green at 67 Mulberry where, on any weekend, traditional Cantonese opera singers haul in their own amps and erhus to perform under the pavilion while crowds of seniors hunch over stone xiangqi (Chinese chess) tables, slapping pieces down with gambling-hall intensity. It's free, completely unstaged, and three minutes on foot from Mei Lai Wah — bring the pork buns over and eat them on a bench. The cultural texture here is hard to fake anywhere else in NYC.",
+    "desc": "Chinatown's open-air living room — mahjong tables, erhu players, and dawn tai chi at 67 Mulberry St.",
+    "longDesc": "Built in 1897 on the site of the old Five Points slum, Columbus Park is Manhattan Chinatown's daily public stage: clusters of elders play mahjong and Chinese chess on permanent stone tables, erhu and yangqin musicians busk along the pavilion, and tai chi groups claim the lawn at sunrise. The 2019 Sun Yat-sen statue at the north plaza and the surrounding bakeries (Kam Hing on Bayard, Mei Lai Wah on Bayard) make it a near-perfect 30-minute photo-and-snack loop — the rare NYC park where the choreography of daily life is the attraction itself.",
     "url": "https://www.nycgovparks.org/parks/columbus-park-m015",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "dumbo",
     "vibe": [
+      "photo",
       "curious",
-      "chill",
-      "photo"
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "18 min",
+    "driveFromIC": "22 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Manhattan exception — uniquely justified as the cultural anchor of a tight Chinatown sub-cluster paired with Mei Lai Wah bun run (3 min walk). Opera performers gather under the pavilion on weekend afternoons; xiangqi tables fill from late morning (opencitymag.aaww.org; newyorkerlife.com). Park itself is open 06:00-01:00 (nycgovparks.org). Street parking in Chinatown is brutal — book a SpotHero garage on Mulberry/Bayard before driving over. Drive via Manhattan Bridge from IC.",
+    "notes": "Manhattan exception justified: the mahjong/erhu/tai chi scene is unique to NYC Chinatown and cannot be replicated in Brooklyn (nycgovparks.org). Drive from IC ~22 min via Manhattan Bridge or Brooklyn-Battery Tunnel; weekend street parking is brutal — pre-book a SpotHero garage on Mulberry/Mott (spothero.com/destination/nyc/chinatown-parking). Best photo windows: 8-10am for tai chi, 1-4pm for mahjong/erhu density (citylore.org). Pair with a 90-second walk to Kam Hing for sponge cakes at 119 Baxter and Mei Lai Wah for bo lo bao. Zone tagged 'dumbo' as the nearest schema-supported proxy since itineraries typically cross the Manhattan Bridge from Brooklyn (en.wikipedia.org/wiki/Columbus_Park_(Manhattan)).",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/columbus-park-m015",
-        "accessed": "2026-05-18T14:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Columbus_Park_(Manhattan)",
-        "accessed": "2026-05-18T14:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://opencitymag.aaww.org/the-street-musicians-of-columbus-park/",
-        "accessed": "2026-05-18T14:30:00Z"
-      },
-      {
-        "url": "https://www.newyorkerlife.com/new-yorkers-photography-xiangqi-players-of-chinatowns-columbus-park/",
-        "accessed": "2026-05-18T14:30:00Z"
+        "url": "https://citylore.org/places/columbus-park/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/places/columbus-park-chinatown/",
-        "accessed": "2026-05-18T14:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/chinatown-parking",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T14:34:32.469Z"
+    "lastResearchedAt": "2026-05-18T14:42:06.411Z"
   },
   {
     "id": "mahayana-buddhist-temple",
@@ -43324,5 +43329,89 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T14:37:48.328Z"
+  },
+  {
+    "id": "artists-space-tribeca",
+    "name": "Artists Space",
+    "desc": "Long-running Tribeca non-profit for experimental contemporary art; free admission, gallery-loop anchor.",
+    "longDesc": "Founded in 1972, Artists Space is one of NYC's oldest artist-run non-profits, now housed in an 8,000 sq ft space at 11 Cortlandt Alley (just off White St). Free admission, intentionally rough-edged exhibitions and performances (e.g. Ei Arakawa's 'Social Muscle Rehab'). Pairs cleanly with The Drawing Center and 56 Henry for a 3-stop Tribeca walk.",
+    "url": "https://artistsspace.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 12:00-18:00 (closed Sun)",
+    "notes": "Address is 11 Cortlandt Alley between Walker & White, walkable from Drawing Center and 56 Henry (artistsspace.org). Free admission, no Sunday hours so plan Saturday gallery loops. Tribeca Gallery Night participant — over 80 spaces open late on those nights (theartnewspaper.com 2026-05-14). Park in a Tribeca garage; street parking near Canal is scarce weekends.",
+    "sources": [
+      {
+        "url": "https://artistsspace.org/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://artistsspace.org/about",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://news.artnet.com/art-world/artists-space-reopens-tribeca-1726539",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theartnewspaper.com/2026/05/14/tribeca-gallery-night-brings-together-more-than-80-spaces",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:46:45.489Z"
+  },
+  {
+    "id": "56-henry-gallery",
+    "name": "56 Henry",
+    "desc": "Tiny street-level Chinatown gallery focused on drawings and works on paper",
+    "longDesc": "Eleanor Rines's single-room storefront on Henry Street has built a reputation as one of NYC's most tightly curated spaces for drawing and works on paper, with shows like Richard Tinkler's 30-drawing survey and the Covers: Drawings 2023–2024 series. Its picture window is visible 24/7 from the sidewalk, so even off-hours you get a peek; inside, the small scale means you can study every line at nose distance. A perfect 20-minute companion stop for a drawing-focused day — pair it with a walk to nearby 105 Henry, the gallery's second space.",
+    "url": "https://56henry.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "12:00-18:00",
+    "notes": "Located in Manhattan Chinatown / Two Bridges at 56 Henry St, not Brooklyn — uniquely justified for the drawing itinerary because no Brooklyn gallery matches its drawings/works-on-paper specialization (Wikipedia, 56henry.nyc). Open Wed–Sun 12–6pm (56henry.nyc). Free admission. Second location at 105 Henry St is a 2-min walk away — see both in one stop. Drive ~22 min from IC via Gowanus Expy + Manhattan Bridge; weekend street parking is possible but tight, garages on Madison/Allen ~$15-25/hr. Window-display ethos means the current show is visible 24/7 if you arrive outside hours.",
+    "sources": [
+      {
+        "url": "https://56henry.nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://56henry.nyc/exhibitions/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/56_Henry_(art_gallery)",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://56henry.nyc/exhibitions/richard-tinkler-drawings/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:48:52.439Z"
   }
 ]
