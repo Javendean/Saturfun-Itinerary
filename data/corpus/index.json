@@ -7702,8 +7702,8 @@
   {
     "id": "japan-village",
     "name": "Japan Village",
-    "desc": "20,000 sq ft Japanese food hall inside Industry City — ~10 stalls plus market, sake shop, karaoke; full lineup runs Sat & Sun.",
-    "longDesc": "Japan Village is a one-stop weekend anchor on the IC campus: ~10 food stalls (Ramen Setagaya, Hachi Handroll Bar, Gohei, Obentoyasan, Moriya, Shokusaido, Yamada, Umami House, Sake's Bar, Panya Bakery) all operating under the food hall's umbrella hours, plus standalone Sushi Uesugi, Gyuya yakiniku, Waku Waku izakaya, Oldies bar, J-Tunes karaoke, Sunrise Mart grocery and Kuraichi sake/whisky shop. Food hall is open Saturday 11:00–21:00 and Sunday 11:00–20:30, so every stall is reliably open both weekend days — sit-down restaurants stay a touch later and the shops keep their own slightly shorter weekend windows (Sunrise Mart and Kuraichi ~11–19). Free Industry City lot parking and zero drive time make it the best weather-proof fallback on the IC track.",
+    "desc": "20,000 sq ft Japanese food hall + Sunrise Mart grocery inside Industry City — 11 stalls, izakaya, sake shop",
+    "longDesc": "Brooklyn's flagship Japanese marketplace, tucked into Industry City's Building 6, with 11 food stalls (Setagaya ramen, Gohei soba/udon, Hachi okonomiyaki/yakisoba, Shokusaido tempura/katsu, more) plus the 60-seat Wakuwaku izakaya with private tatami rooms. The attached Sunrise Mart is NYC's largest Japanese grocery — homemade tofu, wagyu butcher counter, fresh sushi-grade seafood, and a full Japanese liquor/sake shop. Massive curious-browse footprint that pairs naturally with Sahadi's and Li-Lac elsewhere in the complex.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7711,7 +7711,7 @@
     "vibe": [
       "foodie",
       "curious",
-      "chill"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
@@ -7719,30 +7719,34 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:30",
-    "notes": "All ~10 food-hall stalls inherit hall hours, so the weekend sweep resolves cleanly: nothing in the stall lineup is dark on Sat or Sun (japanvillage.com/eat-drink). Sushi Uesugi (omakase counter) and Waku Waku izakaya post their own slightly later closes; verify same-day if planning a 9pm+ stop. Sunrise Mart and Kuraichi (grocery/sake) close ~7pm both weekend days — don't park here for late-night bottle runs. Address 934 3rd Ave, Bldg B2, Industry City (yelp.com/biz/japan-village-brooklyn). Family-friendly until early evening; karaoke and Oldies bar pull the late crowd.",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "Located in Industry City Building 6, 934 3rd Ave (industrycity.com/tenants/japan-village). Sat 11-9pm, Sun 11-8pm (japanvillage.com). 20,000 sq ft with 11 food stalls + Sunrise Mart grocery + Wakuwaku izakaya — Gothamist called it NYC's most ambitious Japanese food destination on opening (gothamist.com). Pairs as the third stop in the IC indoor browse loop with Sahadi's (Mediterranean) and Li-Lac Chocolates. Free IC weekend parking on-site. Vegetarian options at Shokusaido tempura and Gohei udon; sake/shochu shop on-premises.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-18T17:10:00Z"
-      },
-      {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-18T17:10:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-18T17:10:00Z"
+        "url": "https://www.japanvillage.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
-        "accessed": "2026-05-18T17:10:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/20000-square-foot-japanese-food-hall-opens-in-industry-city-on-saturday/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T17:10:09.624Z"
+    "lastResearchedAt": "2026-05-18T18:39:32.993Z"
   },
   {
     "id": "court-street-grocers",
@@ -9526,10 +9530,10 @@
   },
   {
     "id": "sahadis-atlantic-ave",
-    "name": "Sahadi's",
-    "desc": "1948-era Lebanese-American grocer on Atlantic Ave — bulk spices, olives, housemade hummus & pita",
-    "longDesc": "A Cobble Hill institution since 1948, Sahadi's stocks 200+ bulk bins of freshly roasted nuts, dried fruits, olives, ancient grains and exquisite spices alongside a hot-and-cold prepared foods counter (hummus, baba ghanoush, mujadara, kibbeh, fresh pita). Pair it with Shelsky's three blocks east for a perfect Atlantic Avenue appetizing-and-grocery hop. James Beard America's Classics winner; the kind of place where you smell the roasted nuts before you see the door.",
-    "url": "https://sahadis.com/",
+    "name": "Sahadi's (Atlantic Ave Flagship)",
+    "desc": "Since-1948 Middle Eastern pantry temple — bulk bins, olives, spices, halva, the OG.",
+    "longDesc": "The original Sahadi's, opened on Atlantic Avenue in 1948 and a James Beard America's Classic winner. Dense bulk-bin aisles of nuts, dried fruit, grains and spices, plus a deli counter for olives, cheeses, hummus, baba ghanoush, and stuffed grape leaves. A denser, more old-world pantry experience than the Industry City spinoff — worth the 10-minute drive for a serious stock-up run.",
+    "url": "https://sahadis.com/pages/locations",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
@@ -9539,36 +9543,27 @@
     ],
     "dietary": [
       "vegetarian",
-      "vegan",
-      "halal"
+      "vegan"
     ],
     "priceBand": "$$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "12 min",
     "hoursWeekend": "10:00-19:00",
-    "notes": "Daily 10am-7pm including weekends (sahadis.com, Yelp). Bulk-bin browsing is the move — bring a tote. Hot prepared-foods counter for takeaway lunch. Metered street parking on Atlantic/Court/Clinton typically findable on weekends; Sahadi's also operates an Industry City outpost at 34 35th St if you want the closer satellite. Cash-friendly but accepts cards. James Beard 'America's Classics' 2017.",
+    "notes": "187 Atlantic Ave, Brooklyn NY 11201 (sahadis.com). Original 1948 location; bulk bins + friendly counter service noted on official locations page (sahadis.com). Closes 19:00 Sat & Sun — earlier than IC outpost. Street parking is metered on Atlantic; side streets (Clinton/Henry) easier on weekend mornings. Pair with Atlantic Ave stroll: Damascus Bakery a few doors down, plus antique shops.",
     "sources": [
       {
-        "url": "https://sahadis.com/",
-        "accessed": "2026-05-18T13:20:00Z"
+        "url": "https://sahadis.com/pages/locations",
+        "accessed": "2026-05-18T18:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sahadis-brooklyn",
-        "accessed": "2026-05-18T13:20:00Z"
-      },
-      {
-        "url": "https://www.business.nyctourism.com/places/sahadis",
-        "accessed": "2026-05-18T13:20:00Z"
-      },
-      {
-        "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-18T13:20:00Z"
+        "accessed": "2026-05-18T18:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T13:19:09.573Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:41:26.343Z"
   },
   {
     "id": "brooklyn-clay-industries",
@@ -13762,11 +13757,11 @@
   },
   {
     "id": "casita-of-brooklyn-park-slope",
-    "name": "Casita of Brooklyn",
-    "desc": "Latin-Greek corner cafe in Park Slope pulling one of the borough's most reliable cafés con leche.",
-    "longDesc": "Casita is a family-run Park Slope coffee shop on a quiet residential block where the espresso program leans Cuban/Latin — the café con leche is the house signature, paired with empanadas, guava-and-cheese pastries, spanakopita and other Latin-Greek crossover bites. Calmer and less precious than Park Slope's specialty roasters, it's a strong morning anchor 10-12 minutes north of Industry City before driving back south for the day.",
+    "name": "Casita of Brooklyn (Park Slope)",
+    "desc": "Latin/Greek-inspired neighborhood cafe with one of Park Slope's most respected matcha lattes",
+    "longDesc": "Casita's flagship Park Slope shop at 318 11th St is a warm, dog-friendly corner cafe known for matcha that isn't 'milked down' — ceremonial-grade lattes, a summer matcha lemonade, and a matcha loaf that locals pair with morning service. Latin and Greek influences run through the rest of the menu (poké bowls, comfort plates), and the room reads cozy-living-room more than coffee-counter, which suits a 30-45 min recharge between Park Slope stops.",
     "url": "https://www.casitaofbk.com/",
-    "photoUrl": "https://lirp.cdn-website.com/2186a715/dms3rep/multi/opt/IMG_9765-1-1920w.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
@@ -13778,31 +13773,31 @@
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "10 min",
     "hoursWeekend": "07:00-18:00",
-    "notes": "Address 318 11th St, Brooklyn NY 11215 — between 5th and 6th Ave, residential side-street parking usually findable on weekend mornings (avoid 5th Ave meters). Café con leche is a reviewer-favorite signature (The Infatuation, Yelp). Pair with empanadas + guava-cheese pastry for a sit-down breakfast, or grab to-go before heading back down 4th Ave to Industry City. Latin-Greek menu means non-Mexican Latin coffee coverage that complements La Flor's Mexican focus already in the corpus.",
+    "notes": "4.8★ on aggregate review sources with matcha specifically called out as 'one of the best in Park Slope' (mylocalmatcha, Yelp). Reviewed by The Infatuation. ~1.5 mi from Industry City via 4th Ave — fastest Park Slope cafe option when Williamsburg drive times spike. Weekend street parking in the 11th St/7th Ave area is realistic vs. Williamsburg gridlock. Latin/Greek menu beyond matcha (poké bowls, pastries) gives it crossover appeal as a mid-morning anchor before walking Prospect Park or 5th Ave shopping.",
     "sources": [
       {
         "url": "https://www.casitaofbk.com/",
-        "accessed": "2026-05-16T15:30:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/casita-of-brooklyn",
-        "accessed": "2026-05-16T15:30:00Z"
+        "accessed": "2026-05-18T18:35:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/casita-brooklyn-2",
-        "accessed": "2026-05-16T15:30:00Z"
+        "accessed": "2026-05-18T18:35:00Z"
       },
       {
-        "url": "https://joe.coffee/locations/ny/brooklyn/casita-of-brooklyn-brooklyn/",
-        "accessed": "2026-05-16T15:30:00Z"
+        "url": "https://mylocalmatcha.com/cafe/casita-of-brooklyn-brooklyn-park-slope/",
+        "accessed": "2026-05-18T18:35:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/casita-of-brooklyn",
+        "accessed": "2026-05-18T18:35:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T15:29:36.004Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:35:34.571Z"
   },
   {
     "id": "prime-meats-carroll-gardens",
@@ -45907,5 +45902,95 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T18:30:54.869Z"
+  },
+  {
+    "id": "und-japanese-matcha-bakery",
+    "name": "UnD",
+    "desc": "Greenpoint Japanese café for ceremonial Uji matcha, almond-milk shokupan, melon pan and wagashi.",
+    "longDesc": "Tokyo/NY brand UnD opened at 141 India Street in front of Greenpoint Station in late 2024, importing ceremonial-grade Uji matcha whisked the traditional way with chagama and chasen. The signature almond-milk shokupan anchors the bread program (sandwiches, toast, curry bread), alongside melon pan, nama donuts and seasonal wagashi. A small ceramics shelf rotates work from local Japanese artists, sold only at the Greenpoint store.",
+    "url": "https://und-ny.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "09:00-15:00 (soft-open hours per Greenpointers Oct 2024; verify before visiting)",
+    "notes": "141 India St, directly in front of Greenpoint G-train station; weekend street parking on India/Java/Huron is realistic but tight (Greenpointers, und-ny.com). Order the almond-milk shokupan and a ceremonial-grade Uji matcha prepared with chasen — house specialty (und-ny.com/journal/authentic-matcha-brooklyn). Pairs naturally with a Greenpoint food crawl: Polish bakeries on Manhattan Ave, izakaya on Franklin, or a Transmitter Park walk.",
+    "sources": [
+      {
+        "url": "https://und-ny.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://und-ny.com/journal/authentic-matcha-brooklyn/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://und-ny.com/journal/shokupan-coffee-greenpoint/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2024/10/18/und-soft-opens-in-greenpoint-with-japanese-sandwiches-coffee-and-more/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:33:20.437Z"
+  },
+  {
+    "id": "as-you-like",
+    "name": "As You Like",
+    "desc": "Japanese cafe + ceramics + dried-floral shop in Williamsburg; espresso, matcha, sake hour weekends",
+    "longDesc": "A cozy Japanese-run coffee shop at 428 Humboldt St that doubles as a curated ceramics gallery (Jordan Colon, Kazu Oba, Brad Lail) and stocks dried botanical arrangements from Hana Botanical. Specialty espresso, matcha and chai lattes, plus weekend Bagel Bunny bagels, bear-shaped cookies, and a Happy Sake & Beer hour Fri/Sat 4–6 PM. Workshops include traditional onigiri-making.",
+    "url": "https://www.asyoulike.nyc",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 07:30-18:00, Sun 08:00-17:00",
+    "notes": "428 Humboldt St, East Williamsburg edge — easy weekend street parking on Humboldt and side streets (Greenpointers, 2022). Ceramics wall is the photo moment; pairs naturally with Kijitora for a back-to-back sweets + ceramics Williamsburg loop. Sake/beer happy hour Fri-Sat 4-6 PM if itinerary tilts later (asyoulike.nyc).",
+    "sources": [
+      {
+        "url": "https://greenpointers.com/2022/08/31/a-new-japanese-coffee-shop-as-you-like-doubles-as-a-ceramics-store/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.asyoulike.nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/asyoulikenyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/as-you-like-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:37:33.876Z"
   }
 ]
