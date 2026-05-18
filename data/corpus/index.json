@@ -2636,8 +2636,8 @@
   {
     "id": "frankies-457-spuntino",
     "name": "Frankies 457 Spuntino",
-    "desc": "Carroll Gardens Italian institution with a vine-shaded brick back garden for weekend brunch",
-    "longDesc": "Frankies 457 has anchored Court Street since 2004 with rustic Italian small plates (cavatelli, meatballs, crostini) and a famously romantic back garden strung with lights under a wisteria-covered pergola. Weekend brunch is served from 11am with seasonal frittatas, ricotta toast, and house-made cured meats, paired with Negronis or natural wine. The patio is the draw — grab a corner table by the brick wall for the full secret-garden effect.",
+    "desc": "Tuscan-inspired Carroll Gardens trattoria with a heated grape-vine back garden — neighborhood essential since 2004",
+    "longDesc": "Owned by chefs Frank Castronovo and Frank Falcinelli, Frankies 457 has been a Court Street institution for over 20 years, serving Tuscan-inspired Italian: cavatelli with sausage and brown butter, fresh pastas, hand-pulled mozzarella, and meatballs. The back garden — grape vines climbing the walls, covered and heated in colder months — is the table you want, and reservations on Resy book out fast for weekends. Full menu runs lunch-through-dinner seven days, with seasonal specials rotating.",
     "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2653,26 +2653,38 @@
     "priceBand": "$$",
     "duration": "75-90 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "11:00-23:00",
-    "notes": "Located at 457 Court St near the Carroll Gardens/Red Hook border (frankiesspuntino.com). Back garden is roughly the size of both indoor rooms combined, with heating elements for shoulder seasons (Yelp). Weekend hours run 11am-11pm Fri-Sat, with brunch dishes available from open (official site). Street parking on Court St is usually findable on weekend mornings before 12; metered after 1pm.",
+    "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
+    "notes": "457 Court St, Carroll Gardens — ~12 min drive from Industry City via 3rd Ave / Hamilton Ave; street parking on Court/Luquer/4th Place, generally findable on weekends but circle a few blocks (parkslopeparents). Reservations via Resy strongly recommended for Fri/Sat dinner; OpenTable also lists them (opentable). Back garden is the move — covered + heated year-round (frankiesspuntino.com). Pairs naturally with Farmacy as a dessert lead-in: Frankies for primi/secondi, walk-or-short-drive to Henry St for ice cream sundaes. Owners also run nearby Prime Meats and Café Pedlar (tastebudtravelguide).",
     "sources": [
       {
         "url": "https://www.frankiesspuntino.com/location/frankies457-restaurant/",
-        "accessed": "2026-05-18T15:55:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/frankies-457-spuntino-brooklyn-3",
-        "accessed": "2026-05-18T15:55:00Z"
+        "accessed": "2026-05-18T19:05:00Z"
       },
       {
         "url": "https://www.frankiesspuntino.com/menus/",
-        "accessed": "2026-05-18T15:55:00Z"
+        "accessed": "2026-05-18T19:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/frankies-457-spuntino-brooklyn-3",
+        "accessed": "2026-05-18T19:05:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d544913-Reviews-Frankies_457_Spuntino-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T19:05:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/frankies-spuntino-brooklyn",
+        "accessed": "2026-05-18T19:05:00Z"
+      },
+      {
+        "url": "https://www.parkslopeparents.com/reviews/frankies-spuntino",
+        "accessed": "2026-05-18T19:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T15:57:00.267Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:04:13.515Z"
   },
   {
     "id": "win-son-bakery-williamsburg",
@@ -10868,8 +10880,8 @@
   {
     "id": "janes-carousel-dumbo",
     "name": "Jane's Carousel",
-    "desc": "1922 carousel in a Jean Nouvel glass pavilion under the Brooklyn Bridge — rides by day, magic-lantern glow at night",
-    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Company carousel housed inside a Jean Nouvel-designed glass pavilion in Brooklyn Bridge Park's Empire Fulton Ferry section, framed directly beneath the Brooklyn and Manhattan Bridges. Rides are $4 and the carousel runs Wed-Sun, summer hours 10:00-18:50 (closes earlier in fall/winter) — meaning you ride before blue hour, then stay outside as the pavilion lights up and the horses' shadows project onto surrounding facades. Pair it with the cobblestone Pebble Beach photo spot 30 seconds away for the iconic Manhattan Bridge framing shot.",
+    "desc": "1922 carousel inside a Jean Nouvel glass pavilion under the Brooklyn Bridge — iconic blue-hour shot.",
+    "longDesc": "A meticulously restored 1922 Philadelphia Toboggan Co. carousel (48 hand-carved horses, 2 chariots) housed in a transparent glass cube designed by Jean Nouvel on the Empire Fulton Ferry lawn. Rides are $2 and the pavilion closes at 18:45 on weekends, so the move is to ride first, then photograph the glowing glass box from the lawn or pier as twilight hits and the Brooklyn Bridge lights up. The view stack — carousel + East River + Lower Manhattan skyline + bridge — is one of the densest visual frames in NYC.",
     "url": "https://janescarousel.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10882,27 +10894,31 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "17 min",
-    "hoursWeekend": "10:00-18:50 (summer, closed Tue)",
-    "notes": "Ride is $4/person, cash or card on-site (janescarousel.com). One adult + one child under 42\" can share a ticket; SNAP/EBT discount available. Summer schedule May 11-Sept 13 keeps it open to 6:50 PM; fall/winter closes 5:50 PM, Mon+Tue closed. The pavilion was designed by Jean Nouvel and is engineered to glow as a 'magic lantern' after dark, with horse shadows projected on the building's facade every hour (jeannouvel.com) — so even after the ride ends, the venue stays photo-worthy through blue hour. Weekend parking: street parking in DUMBO is metered/limited; the Brooklyn Bridge Park lot at Pier 1 and several private garages on Plymouth/Front St are the reliable options. ~17 min drive from Industry City via the BQE (exit Old Fulton/Cadman Plaza West).",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Sat 10:00-18:45, Sun 11:00-18:45",
+    "notes": "Located at Dock St & Water St in Brooklyn Bridge Park's Empire Fulton Ferry section (brooklynbridgepark.org). $2/ride; under 42\" free with paying adult (janescarousel.com). Closed Tuesdays. Weekend parking: Dumbo Valet Garage 17 York St (~$20), Front & York Garage 135 York St (~$18) (SpotHero). Time the visit for the last ride before close (~18:30), then walk out to the pier/lawn for the exterior glass-box shot as blue hour kicks in — the pavilion stays lit after closing. Pairs with a stroll under the Brooklyn Bridge to the Pebble Beach overlook for the classic Manhattan Bridge-through-the-arch frame.",
     "sources": [
       {
         "url": "https://janescarousel.com/hours/",
-        "accessed": "2026-05-17T07:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://brooklynbridgepark.org/places-to-see/janes-carousel/",
-        "accessed": "2026-05-17T07:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.jeannouvel.com/en/projects/janes-carousel/",
-        "accessed": "2026-05-17T07:00:00Z"
+        "url": "https://spothero.com/destination/nyc/janes-carousel-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/janes-carousel-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T07:03:25.375Z"
+    "lastResearchedAt": "2026-05-18T19:08:20.310Z"
   },
   {
     "id": "pebble-beach-dumbo",
@@ -46238,5 +46254,136 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T18:58:20.239Z"
+  },
+  {
+    "id": "squibb-bridge-pier-1-sunset",
+    "name": "Squibb Park Bridge → Pier 1 Harbor View Lawn",
+    "desc": "Zigzag bridge from Brooklyn Heights down to BBP Pier 1's sunset lawn — water-level Manhattan skyline finale.",
+    "longDesc": "Walk the engineered zigzag Squibb Park Bridge from Squibb Park in Brooklyn Heights down to the Greenway at Pier 1, dropping you onto the largest of Brooklyn Bridge Park's piers with three open lawns and an unobstructed Lower Manhattan + Statue of Liberty sunset view. Stake out the Harbor View Lawn on the south edge or wander the salt marsh path for ducks-at-dusk shots. Higher-energy alternative to the Promenade — you actually get down to the water and can keep walking the waterfront after the sun drops.",
+    "url": "https://brooklynbridgepark.org/places-to-see/squibb-park-bridge/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "photo",
+      "romantic",
+      "chill",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "06:00-01:00 (park); Squibb Bridge 08:00-22:00",
+    "notes": "Squibb Bridge is the dramatic descent — reopened May 4, 2020 after reconstruction and zigzags down to Pier 1's Greenway (brooklynbridgepark.org). Pier 1 has three lawns; Harbor View Lawn faces directly at Lower Manhattan for sunset. New 2025 Pier 1 Pavilion at the entrance has restrooms, water fountains, year-round concession (brooklynbridgepark.org). Parking: LAZ garage at 90 Furman St, directly under Squibb Bridge — easiest weekend option; metered Furman St spots near Pier 2 cap at 3 hrs. Arrive ~45 min before sunset to claim lawn space; salt marsh on south side is the photographer's pick for golden hour.",
+    "sources": [
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/squibb-park-bridge/",
+        "accessed": "2026-05-18T19:10:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/pier-1/",
+        "accessed": "2026-05-18T19:10:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/lawns/harbor-view-lawn/",
+        "accessed": "2026-05-18T19:10:00Z"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/plan-your-visit/maps-and-directions/",
+        "accessed": "2026-05-18T19:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:06:14.249Z"
+  },
+  {
+    "id": "iris-cafe",
+    "name": "Iris Cafe",
+    "desc": "Tiny Brooklyn Heights cafe with Stumptown espresso + house sticky buns, two blocks from the Promenade",
+    "longDesc": "Opened 2009 by two Brooklyn brothers, Iris Cafe is a hidden-gem corner spot at 20 Columbia Pl serving Stumptown coffee, house-made granola, biscuits & jam, and famous sticky buns. The 'Nouveau American' brunch menu runs 8am-4pm Sat/Sun, but for a pre-sunset warm-in-hand stop, the counter pours espresso and pastries to-go that pair perfectly with the two-block walk to the Brooklyn Heights Promenade.",
+    "url": "https://www.iriscafenyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "08:00-16:00 brunch, 17:00-23:00 dinner",
+    "notes": "Tucked on quiet Columbia Pl one block off Joralemon — easy curbside / Willow St parking on weekends (source: brownstoner). Order an espresso + sticky bun at the counter, then walk two blocks west to the Promenade for the harbor view before sunset. Stumptown coffee program (source: nyctourism.com). Gluten-free options available (source: opentable).",
+    "sources": [
+      {
+        "url": "https://www.nyctourism.com/restaurants/iris-cafe/",
+        "accessed": "2026-05-18T19:05:00Z"
+      },
+      {
+        "url": "https://www.brownstoner.com/services/business/d53605a3f44b66/iris-cafe-20-columbia-pl-brooklyn-ny-11201/",
+        "accessed": "2026-05-18T19:05:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/iris-cafe-store-no-9",
+        "accessed": "2026-05-18T19:05:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/iriscafenyc/",
+        "accessed": "2026-05-18T19:05:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:10:27.754Z"
+  },
+  {
+    "id": "choplet-ceramics-williamsburg",
+    "name": "Choplet Ceramic Studio",
+    "desc": "Williamsburg drop-in pottery studio — 23 wheels, garden wheels, $50/2hr open studio (experience required)",
+    "longDesc": "Long-running Williamsburg ceramic studio at 238 Grand St with 23 electric wheels, a kick wheel, hand-building tables, 5 kilns, plus 8 outdoor garden wheels. Saturday open-studio bench time runs 10:00am-7:15pm and drop-in passes are $50 for a 2-hour wheel/hand-building/glazing session, with firing at 4¢/cubic inch. Important caveat: no instruction is provided during drop-in — Choplet explicitly says it's only for people with prior clay experience or those coming with an experienced friend who can teach them; total beginners should book a class instead.",
+    "url": "https://choplet.com/studio-rental/drop-in/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "2 hr",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat bench 10:00-19:15 / front desk 13:00-19:00",
+    "notes": "238 Grand St, Williamsburg (choplet.com). $50 per 2-hr drop-in; firing 4¢/cu in; glaze service $15-$25/piece; optional cleanup $20 (choplet.com/studio-rental/drop-in). Saturday open-studio bench time 10:00am-7:15pm; front-desk hours 1-7pm (choplet.com). 23 wheels + kick wheel + 5 kilns indoor; garden adds 8 wheels (timeout.com, ceramicsnow.org). Critical: no instruction — bring an experienced friend or book a class. Phone 917-547-8316. Street parking only; Williamsburg weekend parking is tight — budget extra time.",
+    "sources": [
+      {
+        "url": "https://choplet.com/studio-rental/drop-in/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://choplet.com/contact-directions/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/choplet-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/things-to-do/choplet-ceramics-studio",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:12:32.276Z"
   }
 ]

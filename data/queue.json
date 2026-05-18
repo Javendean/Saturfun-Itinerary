@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Frankies 457 Spuntino — Court Street trattoria",
-    "reason": "Same cluster dinner option if Farmacy is the dessert lead-in instead of a meal substitute",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:58:02.880Z"
-  },
-  {
-    "topic": "Squibb Park Bridge + Brooklyn Bridge Park Pier 1 lawn sunset",
-    "reason": "Adjacent waterfront capstone alternative — get *down* to the water from the Promenade via the Squibb Park stairs/bridge; same cluster, different elevation, gives the planner a 'higher-energy' alternative for the same time slot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:00:10.162Z"
-  },
-  {
-    "topic": "Jane's Carousel at Dumbo (sunset / blue-hour glass-box shot)",
-    "reason": "10-min walk further north from the Promenade into Dumbo; iconic photo capstone with the Brooklyn Bridge frame — extends the Cobble Hill/Brooklyn Heights track into a Dumbo finisher",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:00:10.163Z"
-  },
-  {
-    "topic": "Iris Cafe Brooklyn Heights (pre-sunset espresso / pastry)",
-    "reason": "Tiny Columbia Pl cafe two blocks from the Promenade — fills the 'something warm in hand before the walk' slot on the Cobble Hill track without adding drive time",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:00:10.163Z"
-  },
-  {
-    "topic": "Choplet Ceramics Williamsburg open studio Saturday drop-in wheel",
-    "reason": "Williamsburg counterpart to Gowanus pottery — single-session drop-in alternative for friends who don't want a multi-week commitment",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:02:20.494Z"
-  },
-  {
     "topic": "BKLYN CLAY Industry City Sunset Park ceramics drop-in classes",
     "reason": "Pottery option literally inside Industry City — drive time = 0, direct geographic anchor coverage",
     "requestedBy": "agent",
@@ -19348,5 +19318,89 @@
     "reason": "Same Smith St corridor, complementary foodie sub-stop within the Carroll Gardens/Cobble Hill walkable arc",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T19:02:15.674Z"
+  },
+  {
+    "topic": "Prime Meats Carroll Gardens — Frankies sibling restaurant on Court St",
+    "reason": "Same ownership group, same cluster, German-Austrian counterpoint to Italian — useful if Frankies is booked",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:04:13.553Z"
+  },
+  {
+    "topic": "Café Pedlar Court Street — espresso bar from Frankies team",
+    "reason": "Pre-dinner coffee or post-Farmacy caffeine fix in the same Carroll Gardens cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:04:13.553Z"
+  },
+  {
+    "topic": "Lucali Henry Street pizza Carroll Gardens — cash-only legend",
+    "reason": "Different price/vibe slot but same neighborhood; alternative dinner anchor if pizza is the goal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:04:13.553Z"
+  },
+  {
+    "topic": "Pier 1 Salt Marsh sunset photo spot (BBP)",
+    "reason": "Sub-location within same cluster that's specifically called out for duck/golden-hour shots — could anchor a separate 'photographer's sunset' variant",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:06:14.276Z"
+  },
+  {
+    "topic": "Fornino at Pier 6 rooftop pizza + sunset",
+    "reason": "Adjacent BBP capstone (south end of park) — wood-fired pizza with same skyline view, gives a 'with dinner' alternative to the lawn picnic",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:06:14.276Z"
+  },
+  {
+    "topic": "Jane's Carousel DUMBO at blue hour",
+    "reason": "Northern end of BBP, walkable from Pier 1 — natural extension for groups that want a second waterfront beat after sunset",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:06:14.276Z"
+  },
+  {
+    "topic": "Pebble Beach / Brooklyn Bridge Park Pier 1 — Manhattan Bridge archway photo spot",
+    "reason": "Adjacent 5-min walk from Jane's Carousel; completes the Dumbo photo trifecta (carousel → arch → skyline) and slots into the same blue-hour window",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:08:20.347Z"
+  },
+  {
+    "topic": "Time Out Market New York at Empire Stores (Dumbo) — post-carousel dinner with rooftop river view",
+    "reason": "Empire Stores is literally across the lawn from the carousel; gives the Dumbo finisher a food anchor without leaving the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:08:20.348Z"
+  },
+  {
+    "topic": "Cecconi's Dumbo — sunset cocktails on the Empire Stores rooftop facing the carousel and bridge",
+    "reason": "Higher-end alternative to Time Out Market for a romantic-track capstone; same building, opposite vibe; weekend reservations needed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:08:20.348Z"
+  },
+  {
+    "topic": "Brooklyn Heights Promenade sunset viewpoint (Pierrepont St entrance)",
+    "reason": "Natural pair-stop two blocks from Iris Cafe — completes the 'warm drink + harbor view' arc on the Cobble Hill/Heights track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:10:27.806Z"
+  },
+  {
+    "topic": "Books Are Magic Cobble Hill (Smith St)",
+    "reason": "Independent bookstore 8 min drive from Iris — bridges Brooklyn Heights to Carroll Gardens for a chill/curious mid-afternoon beat before dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:10:27.806Z"
+  },
+  {
+    "topic": "BKLYN CLAY Gowanus single-session intro pottery wheel class",
+    "reason": "True beginner-friendly counterpart — instruction included, fills the gap Choplet drop-in leaves for inexperienced friends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:12:32.316Z"
+  },
+  {
+    "topic": "Mud Matters Brooklyn one-day wheel workshop Bushwick",
+    "reason": "Alternative intro-friendly single-session pottery in a different cluster, expands neighborhood coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:12:32.316Z"
+  },
+  {
+    "topic": "Painted Pot Williamsburg paint-your-own pottery walk-in",
+    "reason": "Zero-skill ceramic experience for groups with mixed comfort levels — same Williamsburg zone as Choplet",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T19:12:32.316Z"
   }
 ]
