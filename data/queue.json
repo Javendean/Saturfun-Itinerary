@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Japan Village food hall stalls roundup (Takumen, Hi-Collar, Boba Guys)",
-    "reason": "Deeper breakdown of the food-hall vendors so the IC anchor cluster has individual stall options, not just the umbrella entry",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:04:32.673Z"
-  },
-  {
-    "topic": "Industry City Saturday weekend parking and access guide",
-    "reason": "Practical anchor info that supports every IC-cluster itinerary — confirms free lot availability and best entrance for Building 3",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:04:32.673Z"
-  },
-  {
-    "topic": "Japan Village Industry City ramen vendors (Hibino, Yuji Ramen)",
-    "reason": "Directly serves the original intent — a second noodle option inside Industry City's food hall for groups with split preferences; verified IC-resident vendors, zero drive time.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:08:23.217Z"
-  },
-  {
-    "topic": "Insa Korean BBQ Gowanus",
-    "reason": "Closest open Korean cuisine destination to IC (~10 min drive), karaoke + KBBQ + Korean comfort food covers the 'Korean alternative' angle Mokbar was meant to fill.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:08:23.217Z"
-  },
-  {
-    "topic": "Soba-ya or udon spot near Industry City Sunset Park",
-    "reason": "If the group wants noodles-not-ramen as the split-preference fallback, a soba/udon spot in Sunset Park's Asian corridor (8th Ave) is 5-8 min from IC and parking-friendly.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:08:23.217Z"
-  },
-  {
     "topic": "MILNA Market Industry City pop-up vendors",
     "reason": "Recurring South Asian food/fashion market that pulls a different crowd to IC and pairs naturally with the 'foodie+curious' track",
     "requestedBy": "agent",
@@ -18526,5 +18496,107 @@
     "reason": "Corpus hygiene: prevent re-enqueue of nonexistent venue from chat-suggested topics",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T16:32:09.060Z"
+  },
+  {
+    "topic": "Panya Bakery at Japan Village Industry City - melon pan and curry pan stall",
+    "reason": "Companion bakery slot inside Japan Village; pairs naturally with Setagaya for a sweet finish in the same building",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:34:48.368Z"
+  },
+  {
+    "topic": "Sushi Uesugi at Japan Village Industry City - omakase counter",
+    "reason": "Higher-priced sit-down inside Japan Village for foodie/romantic vibe upgrade; differentiates from stall-level entries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:34:48.368Z"
+  },
+  {
+    "topic": "Handroll Bar at Japan Village Industry City - temaki counter",
+    "reason": "Quick-bite sushi stall that lets the IC cluster offer a Setagaya + Handroll tasting flight",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:34:48.368Z"
+  },
+  {
+    "topic": "Umami House at Japan Village Industry City - what they actually serve",
+    "reason": "Underdocumented stall on the official roster; verify cuisine to fill out the food-hall coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:34:48.369Z"
+  },
+  {
+    "topic": "Queue cleanup: remove Takumen, Hi-Collar, Boba Guys as Japan Village stalls",
+    "reason": "Verified upstream error — none are at Japan Village; prevent future enrichment passes from fabricating entries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:34:48.369Z"
+  },
+  {
+    "topic": "Japan Village inside Industry City Building 3 — Saturday food hall guide",
+    "reason": "Anchor tenant at the recommended Building 3 entrance; pairs directly with the parking validation path",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:36:54.948Z"
+  },
+  {
+    "topic": "Industry City Courtyards Saturday programming (markets, music, pop-ups)",
+    "reason": "Free outdoor anchor activity that makes IC parking worth using even before food/drink stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:36:54.948Z"
+  },
+  {
+    "topic": "Industry City Distillery tasting room Saturday hours",
+    "reason": "Walkable from Building 3 entrance, fits the IC cluster's drinks slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:36:54.948Z"
+  },
+  {
+    "topic": "BQE Exit 23 driving access patterns + Saturday traffic to Sunset Park waterfront",
+    "reason": "Generalizes the access intel beyond IC to support any south-Brooklyn itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:36:54.948Z"
+  },
+  {
+    "topic": "Okonomi / Yuji Ramen (150 Ainslie St, Williamsburg) — seafood-rich evening ramen and mazemen",
+    "reason": "User specifically asked about Yuji Ramen; it actually lives in Williamsburg (~15 min drive from IC) and fits the Williamsburg-cluster track as a destination ramen pick rather than an IC walk-up.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:39:04.622Z"
+  },
+  {
+    "topic": "Hachi at Japan Village — sushi/handroll counter inside the same food hall",
+    "reason": "Same zero-drive food-hall context as Setagaya; covers split groups where one person wants raw fish over ramen, keeping the whole party at IC.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:39:04.622Z"
+  },
+  {
+    "topic": "Chuko Ramen (Prospect Heights) — independent ramen-ya with strong veg + tantan options",
+    "reason": "Adds dietary range (vegetarian/spicy) the Setagaya menu doesn't cover, ~20 min drive from IC, fits the Prospect Heights cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:39:04.622Z"
+  },
+  {
+    "topic": "Her Name Is Han Gowanus or Brooklyn outpost — Korean comfort food alternative",
+    "reason": "Backfills a lower-priced Korean option if Insa's $$$/karaoke commitment is too heavy for a given track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:41:00.176Z"
+  },
+  {
+    "topic": "Four & Twenty Blackbirds Gowanus pie shop",
+    "reason": "Walkable dessert anchor 6 min from Insa to extend a Gowanus evening track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:41:00.176Z"
+  },
+  {
+    "topic": "WakuWaku izakaya counter at Industry City — drinks + small plates pairing",
+    "reason": "Same building as Gohei; gives the group a sit-down izakaya option if soba alone is too light, and rounds out the Japan Village cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:43:43.487Z"
+  },
+  {
+    "topic": "SOBOKU on Smith St (Carroll Gardens) — handmade soba alternative ~10 min drive",
+    "reason": "Higher-end sit-down soba alternative if the group wants to leave IC entirely; same noodle category, different vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:43:43.487Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden or hand-pulled noodle spot on 8th Ave Sunset Park",
+    "reason": "Covers the original 8th Ave Asian-corridor hypothesis with a Chinese hand-pulled noodle option as a non-Japanese fallback",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T16:43:43.487Z"
   }
 ]

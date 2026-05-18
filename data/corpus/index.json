@@ -9278,11 +9278,11 @@
   },
   {
     "id": "ramen-setagaya-industry-city",
-    "name": "Ramen Setagaya (Industry City)",
-    "desc": "Tokyo-trained tsukemen and shio ramen counter tucked inside Japan Village at IC.",
-    "longDesc": "Ramen Setagaya's Industry City outpost lives inside the Japan Village food hall, serving the same Tsukasa Maejima broth program as the original Bedford Ave shop — clean shio ramen and a dippable tsukemen with thicker noodles in a concentrated dashi. Counter-style, fast turnover, easy to grab a stool between a Japan Village grocery loop and the IC courtyards. Walk-in friendly; weekend lunch is the calm window before the 1pm crush.",
-    "url": "https://www.setagayany.com/",
-    "photoUrl": "",
+    "name": "Ramen Setagaya at Japan Village",
+    "desc": "Tokyo-style tonkotsu and black-garlic ramen inside Japan Village's food hall at Industry City.",
+    "longDesc": "Setagaya is the resident ramen counter inside Japan Village, Industry City's Japanese food hall — verified as the only ramen vendor on-site (japanvillage.com). The kitchen specializes in rich tonkotsu (creamy pork-bone broth with chashu, bamboo, egg), Black Garlic Tonkotsu, Black Garlic Tsukemen, and Spicy Miso, so a split group can stay inside one food hall and still pick across heat/heaviness. Zero drive time from the IC courtyards, weekend hours run to 8:30 PM, and seating is shared food-hall style.",
+    "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f6eb0a5957e114ea6d9073_JV-%20ramen%20setagaya.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
@@ -9291,24 +9291,36 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:30-20:30, Sun 11:30-19:30",
-    "notes": "Located inside Japan Village at Industry City, 934 3rd Ave (setagayany.com). Tsukemen is the signature dip-ramen format — order it instead of the standard bowl if it's your first visit. Weekend hours per the official site: Fri-Sat 11:30-20:30, Sun 11:30-19:30 (setagayany.com). IC has paid weekend lots/street parking on 2nd & 3rd Ave; arrive before 12:30 for a fast seat.",
+    "hoursWeekend": "11:30-20:30",
+    "notes": "Inside Japan Village food hall, 934 3rd Ave, Industry City (japanvillage.com/eat-drink/ramen-setagaya). Hours: Sun-Thu 11:30-19:30, Fri-Sat 11:30-20:30. Signature bowls: Black Garlic Tonkotsu, Black Garlic Tsukemen, Classic Tonkotsu, Spicy Miso (setagayany.com menu PDF). Note: user originally asked about 'Hibino' and 'Yuji Ramen' at IC — Hibino is not a Japan Village vendor, and Yuji Ramen actually operates inside Okonomi at 150 Ainslie St, Williamsburg (yelp.com/biz/yuji-ramen-brooklyn-3). Setagaya is the only verified IC-resident ramen counter and satisfies the 'second noodle option, zero drive time' intent.",
     "sources": [
       {
-        "url": "https://www.setagayany.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.setagayany.com/s/INDUSTRY-MENU-FOR-WEBSITE_061019-6b73.pdf",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yuji-ramen-brooklyn-3",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T13:15:18.120Z"
+    "lastResearchedAt": "2026-05-18T16:39:04.591Z"
   },
   {
     "id": "handroll-bar-japan-village",
@@ -14184,8 +14196,8 @@
   {
     "id": "insa-korean-bbq-gowanus",
     "name": "Insa",
-    "desc": "Tabletop Korean BBQ + private karaoke rooms in a cavernous Gowanus dinner anchor with a strong bar program",
-    "longDesc": "Insa is a 7,500 sq ft Gowanus institution combining proper smoke-vented tabletop Korean BBQ (galbi, pork belly, banchan) with a serious cocktail bar and 13 private karaoke rooms upstairs. Sister restaurant to The Good Fork, it's been a go-to large-group dinner since 2015, three blocks from Claro on the 3rd Ave corridor and a 9-min drive from Industry City. Weekend dinner seating is 5:30–10pm Sat / 4:30–9pm Sun, with karaoke running until 2am Friday and Saturday — ideal for groups who want dinner and a late-night second act in one stop.",
+    "desc": "Gowanus Korean BBQ with five themed karaoke rooms — dinner-plus-singing under one roof.",
+    "longDesc": "Insa pairs full-service Korean BBQ (dry-aged beef, banchan, rice cakes, sweet potato noodles) with five private karaoke rooms outfitted with state-of-the-art sound and colorful lighting. Open mic karaoke runs every Thursday at 8:30pm in the bar; private rooms book in 2-hour slots from $200-$500/hr depending on size, with a 20% gratuity auto-added to karaoke and parties of 6+. A roughly 10-12 min drive from Industry City up 3rd Ave with weekend street parking around Douglass/Nevins.",
     "url": "https://insabrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -14196,36 +14208,31 @@
       "curious"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$$$",
-    "duration": "90-120 min",
-    "driveFromIC": "9 min",
-    "hoursWeekend": "Sat 5:30pm-10pm dining / karaoke til 2am; Sun 4:30pm-9pm dining / karaoke til 10pm",
-    "notes": "Address: 328 Douglass St, Brooklyn NY 11217, phone 718-855-2620 (insabrooklyn.com). 3-block walk from Claro at 284 3rd Ave — same Gowanus cluster, completely different cuisine, so the two work as a paired dinner zone on the 3rd Ave corridor. Tabletop grills are smoke-vented and there are 13 private karaoke rooms upstairs (insabrooklyn.com/karaoke). Street parking in Gowanus is easier than Park Slope proper on weekends; no dedicated lot. Reservations strongly recommended via OpenTable — large parties (6+) should book the karaoke-room dining packages. Vegetarian + GF banchan and bibimbap options confirmed on menu. Wed/Thu 5:30pm-12am, Fri 5:30pm-2am — Friday is the latest dining slot.",
+    "duration": "2-3 hours",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "Sat 5:30pm-10pm dining / karaoke until 2am; Sun 4:30pm-9pm dining / karaoke 4pm-10pm",
+    "notes": "Address: 328 Douglass St, Brooklyn NY 11217 (Gowanus edge of Park Slope) (insabrooklyn.com). Karaoke rooms have a strict 2-hour limit and 20% gratuity is added to all karaoke reservations and dinner parties of 6+ (yelp.com). Reservations: reservations@insabrooklyn.com / (718) 855-2620. Vegetarian banchan and tofu/vegetable hot pots available; menu is not gluten-free friendly due to soy/marinades. Pairs well as the dinner-into-nightcap anchor for a Park Slope/Gowanus track.",
     "sources": [
       {
         "url": "https://insabrooklyn.com/hours-and-location",
-        "accessed": "2026-05-16T15:50:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://insabrooklyn.com/karaoke",
-        "accessed": "2026-05-16T15:50:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/insa-brooklyn",
-        "accessed": "2026-05-16T15:50:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/insa-karaoke-room-brooklyn",
-        "accessed": "2026-05-16T15:50:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T15:54:28.581Z"
+    "lastResearchedAt": "2026-05-18T16:41:00.135Z"
   },
   {
     "id": "convivium-osteria",
@@ -21545,9 +21552,9 @@
   },
   {
     "id": "ramen-setagaya-japan-village",
-    "name": "Ramen Setagaya at Japan Village",
-    "desc": "Tokyo-bred tonkotsu and light shio ramen inside Industry City's Japan Village food hall — the cheap-and-fast counterpoint.",
-    "longDesc": "Setagaya is a Tokyo import (NYC since 2007) tucked inside the Japan Village food hall at 934 3rd Ave. The signature is a clean, light shio/shoyu broth alongside heavier black garlic tonkotsu, with bowls $16–19 and vegan options available. Order at the stall, grab a seat in the communal food-hall, and pair with onigiri from Obentoyasan or takoyaki from Hachi for a $ tour of the same building.",
+    "name": "Ramen Setagaya (Japan Village)",
+    "desc": "Tokyo-style black-garlic tonkotsu stall headlining Japan Village's food hall at Industry City",
+    "longDesc": "Ramen Setagaya is the marquee stall inside Japan Village's 20,000 sq ft Japanese food hall, channeling Tokyo's Setagaya district with handcrafted broths and a signature black-garlic tonkotsu. Each bowl layers creamy pork-bone broth with chashu, jammy egg, and bamboo shoots; black-garlic tsukemen and spicy miso round out the rotation. Order at the counter, grab a seat in the shared hall, and pair with a Sapporo from Sake's Bar or a melon-pan from Panya two stalls over.",
     "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -21556,41 +21563,34 @@
       "foodie",
       "chill"
     ],
-    "dietary": [
-      "vegetarian",
-      "vegan"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "0 min",
-    "hoursWeekend": "11:30-20:30 Sat / 11:30-19:30 Sun",
-    "notes": "Inside Japan Village food hall (no separate parking needed — use Industry City lots). Classic Tonkotsu $16, Black Garlic Tonkotsu $17, DX upgrades +$2 (ramen-nyc.com). Tokyo-based brand known for restrained, lighter broths in a city dominated by heavy tonkotsu (japanvillage.com). Counter seating lets you watch the noodle pull (timeout.com). Mr. Taka Ramen's Brooklyn outpost at 55 Water St is closed per Yelp (May 2026), so Setagaya is the in-building ramen pick.",
+    "driveFromIC": "0 min (inside IC)",
+    "hoursWeekend": "11:30-20:30",
+    "notes": "Counter-service stall inside Japan Village, Industry City Bldg 5/6, 934 3rd Ave (japanvillage.com/eat-drink). Signature is black-garlic tonkotsu; spicy miso for heat-seekers; tsukemen for dipping-style fans (japanvillage.com/eat-drink/ramen-setagaya). Sat-Sun close 20:30 / 19:30 respectively per official site. 199 photos, 79 reviews on Yelp as of 2026 (yelp.com/biz/ramen-setagaya-brooklyn-2). Note: upstream queue listed Takumen/Hi-Collar/Boba Guys as Japan Village stalls — none are present; Takumen is in LIC, Hi-Collar is East Village Manhattan, Boba Guys NY locations are mostly closed.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.ramen-nyc.com/restaurants/ramen-setagaya-industry-city",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T16:40:00Z"
       },
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T16:40:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/mr-taka-ramen-brooklyn",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
+        "accessed": "2026-05-18T16:40:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-18T16:40:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:08:00.830Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T16:34:48.335Z"
   },
   {
     "id": "wakuwaku-izakaya-industry-city",
@@ -44564,5 +44564,89 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T16:32:09.017Z"
+  },
+  {
+    "id": "industry-city-saturday-parking",
+    "name": "Industry City — Saturday Parking & Access Guide",
+    "desc": "Brooklyn's 6M sq ft creative campus on the Sunset Park waterfront; easy weekend driving with $5 lot or free 3rd Ave parking.",
+    "longDesc": "Industry City spans 16 buildings between 32nd and 39th Streets along 2nd and 3rd Avenues in Sunset Park. On Saturdays, the secure 2nd Avenue lot is $5/day flat, free street parking is plentiful on 3rd Avenue, and the Building 3 lot behind Japan Village is validated (2 hours) with a $50+ Sunrise Mart or $100+ Sushi Uesugi purchase. Enter at 934 3rd Avenue (Building 3 & 4, between 35th–36th St) for the most direct access to the Food Hall, courtyards, Japan Village, and the central programming.",
+    "url": "https://industrycity.com/faq/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "anchor (all day)",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "campus open daily; tenant hours typically 10:00–22:00",
+    "notes": "Drive route: BQE (I-278) Exit 23, under 5 min to campus (japanvillage.com/directions). Saturday parking options ranked by ease: (1) Free street parking along 3rd Ave — usually open Saturdays, no meters in industrial blocks (industrycity.com/faq). (2) Industry City paid lot on 2nd Ave, $5 flat weekend day (industrycity.com/faq). (3) Building 3 validated lot behind Japan Village, 2-hour validation with $50+ Sunrise Mart or $100+ Sushi Uesugi spend (japanvillage.com/directions). Best entrance for any IC itinerary: 934 3rd Avenue between 35th–36th St — drops you steps from Japan Village (Building 3), the Food Hall, Industry City Distillery, and the central courtyard programming. Security Command Center: 718-788-0060 for live lot status.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/faq/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.japanvillage.com/directions",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/wp-content/uploads/2020/08/parking-map-v1.pdf",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/industry-city-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T16:36:54.913Z"
+  },
+  {
+    "id": "gohei-japan-village",
+    "name": "Gohei",
+    "desc": "Handmade soba and udon counter inside Japan Village food hall at Industry City.",
+    "longDesc": "A small kiosk-style noodle bar inside Japan Village's food hall, Gohei serves homemade udon and soba made fresh daily, with seats facing the chefs. The mentaiko cream udon, zaru udon with tempura, and zaru soba with tempura are the signature picks. Because it's inside IC, it works perfectly as a split-preference fallback — anyone wanting noodles-not-ramen can peel off without leaving the building.",
+    "url": "https://www.japanvillage.com/eat-drink/gohei",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min (inside IC)",
+    "hoursWeekend": "12:00-20:30",
+    "notes": "Located inside Japan Village at 934 3rd Ave, Industry City entrance — same lot/garage parking as the rest of IC, so zero added drive. Counter seating with chefs visible. Signature: mentaiko cream udon, zaru soba/udon w/ tempura. Friday–Saturday open till 8:30 PM, Sunday–Thursday till 7:30 PM (japanvillage.com). Tripadvisor and Yelp confirm it as the dedicated soba/udon counter inside Japan Village (tripadvisor.com, yelp.com).",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/gohei",
+        "accessed": "2026-05-18T16:45:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurants-g60827-zfd11721-Brooklyn_New_York-Udon_Soba_Wheat_Buckwheat_Noodle.html",
+        "accessed": "2026-05-18T16:45:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/search?cflt=japanese&find_loc=Sunset+Park%2C+Brooklyn%2C+NY",
+        "accessed": "2026-05-18T16:45:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T16:43:43.452Z"
   }
 ]
