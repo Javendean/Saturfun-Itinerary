@@ -2589,48 +2589,48 @@
   {
     "id": "hometown-bar-b-que-red-hook",
     "name": "Hometown Bar-B-Que",
-    "desc": "Pit-smoked Texas brisket in a Red Hook warehouse with live bluegrass on weekends.",
-    "longDesc": "Billy Durney's Red Hook smokehouse cooks salt-and-pepper brisket and spare ribs over oak in classic central-Texas style, served counter-style on butcher paper at long communal tables in a converted warehouse. Weekend-only beef ribs and a deep whiskey list make it a perfect casual pivot when a refined Oaxacan dinner feels too formal, and bluegrass/country acts play the saloon room Friday and Saturday nights (theinfatuation.com; hometownbbq.com).",
+    "desc": "Texas-style oak-smoked brisket and jalapeno-cheddar sausage in Red Hook with weekend live music.",
+    "longDesc": "Pitmaster Billy Durney's flagship smokehouse — counter-service, first-come-first-served, doors at noon until the meat sells out. Brisket, beef ribs, and house jalapeno-cheddar sausage are the headliners; sides include collards braised with smoked pork and a tangy potato salad. Bar pours local drafts and a strong bourbon list, and the back room hosts free live music most weekend nights, making it a natural pre-Sunny's stop.",
     "url": "https://hometownbbq.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
-      "chill",
-      "foodie"
+      "foodie",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "Fri-Sat 12:00-22:00, Sun 12:00-21:00 (or until sold out)",
-    "notes": "454 Van Brunt St, Brooklyn, NY 11231; phone 347-294-4644 (hometownbbq.com). Walk-up counter, first-come first-served — brisket and ribs can sell out before close, so anchor an early-evening stop (hometownbbq.com). Beef ribs Fri/Sat/Sun only (timeout.com). Red Hook has generous free street parking on Van Brunt and the surrounding industrial blocks on weekends, which makes this an easy car-friendly counterweight to the Industry City zone. Closed Mondays.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
+    "notes": "Walk-up counter, no reservations; arrive before 7pm on weekends since prime cuts often sell out by 8-9pm (hometownbbq.com). Free live music in the back room most Fri/Sat nights (timeout.com). 4 blocks north of Sunny's Bar — pair as BBQ-then-music single-parking evening. Street parking on Van Brunt and Conover is generally available on weekends (yelp.com).",
     "sources": [
       {
-        "url": "https://hometownbbq.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://hometownbbq.com/locations",
+        "accessed": "2026-05-18T06:20:00Z"
       },
       {
-        "url": "https://hometownbbq.com/menu-rh",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/hometown-bar-b-que",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/hometown-bar-b-que-debuts-in-red-hook",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3",
+        "accessed": "2026-05-18T06:20:00Z"
       },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/hometown-bar-b-que",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/hometown-bar-b-que",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/hometown-bar-b-que-red-hook/",
+        "accessed": "2026-05-18T06:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T17:28:16.324Z"
+    "lastResearchedAt": "2026-05-18T06:21:03.996Z"
   },
   {
     "id": "frankies-457-spuntino",
@@ -16081,43 +16081,46 @@
   {
     "id": "red-hook-winery",
     "name": "The Red Hook Winery",
-    "desc": "Pier 41 urban winery making single-vineyard Long Island wines with Statue of Liberty views from the tasting room",
-    "longDesc": "Tucked into the Liberty Warehouse complex on Pier 41, The Red Hook Winery sources fruit from small Long Island vineyards and ferments each lot separately under three different winemakers — yielding an unusually diverse flight for a single label. Choose the 90-minute À la Carte ($20/person, redeemable toward bottles) or the guided 60-minute Private Tasting of six pours ($45/person, +10% off retail), and add the 30-minute Barrel Room tour returning Summer 2026. Walk-outs lead to a working pier deck with direct Statue of Liberty sightlines.",
+    "desc": "Waterfront urban winery on Pier 41 pouring NY-grown wines with harbor views and weekend tastings.",
+    "longDesc": "Tucked into a working warehouse on Pier 41 at 175 Van Dyke Street, The Red Hook Winery makes small-lot wines from New York State grapes and runs an unfussy waterfront tasting room overlooking the harbor. Weekend visitors can drop in for flights, by-the-glass pours, and bottles, or book a private tasting plus barrel-room tour. Complimentary parking sits at the top of the pedestrian pier entrance, with an additional lot nearby — easy to pair with a stroll on Valentino Pier four minutes away.",
     "url": "https://redhookwinery.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
       "chill",
-      "curious",
-      "romantic"
+      "romantic",
+      "photo",
+      "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "12 min",
-    "hoursWeekend": "Sat 12:00-20:00, Sun 12:00-18:00",
-    "notes": "Reservations recommended for Private Tasting and Barrel Tour; À la Carte takes walk-ins on first-come basis (source: redhookwinery.com/tastingroom). Tasting room at Pier 41 Suite 325A; main winery at 185 Van Dyke next to Strong Rope Brewery (source: redhookwinery.com). Closed Tue/Wed. Pier-side seating with Statue of Liberty views. Walkable to Widow Jane Distillery and Botanica Floral within ~5 min — natural Red Hook 'makers' triangle.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "Fri-Sat 12:00-21:00, Sun 12:00-19:00",
+    "notes": "175 Van Dyke St, Pier 41, Suite 325A, Brooklyn 11231 (redhookwinery.com). Weekend hours Fri-Sat 12-9pm, Sun 12-7pm; Mon/Thu also 12-7pm (redhookwinery.com/faqs). Complimentary parking lot at top of pedestrian pier entrance plus another lot walking distance (yelp Q&A). Walk-ins welcome; Private Tasting and Barrel Room & Winery Tour require reservation (redhookwinery.com/tastingroom). 4-min walk to Valentino Pier — pairs naturally with a sunset waterfront loop.",
     "sources": [
       {
-        "url": "https://redhookwinery.com/tastingroom",
-        "accessed": "2026-05-17T22:45:00Z"
+        "url": "https://redhookwinery.com/",
+        "accessed": "2026-05-18T06:20:00Z"
       },
       {
-        "url": "https://redhookwinery.com/",
-        "accessed": "2026-05-17T22:45:00Z"
+        "url": "https://redhookwinery.com/faqs",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://redhookwinery.com/tastingroom",
+        "accessed": "2026-05-18T06:20:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/the-red-hook-winery-brooklyn",
-        "accessed": "2026-05-17T22:45:00Z"
+        "accessed": "2026-05-18T06:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T22:48:52.016Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:24:58.538Z"
   },
   {
     "id": "fort-defiance",
@@ -38371,5 +38374,143 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T06:09:17.306Z"
+  },
+  {
+    "id": "brooklyn-crab-red-hook",
+    "name": "Brooklyn Crab",
+    "desc": "Tri-level seafood shack with harbor views, lawn games, skee-ball and crab buckets",
+    "longDesc": "Open since 2012 at 24 Reed St, Brooklyn Crab is a three-story outdoor seafood shack a half-block from the Erie Basin waterfront. The menu centers on bucket-style snow, king, and Dungeness crab plus Maine lobster and raw oysters, while the yard adds skee-ball, mini golf, cornhole and bocce — turning a meal into an afternoon. Rooftop seats face the harbor and Statue of Liberty, and weekend street parking around Reed/Van Brunt is generally easy.",
+    "url": "https://www.brooklyncrab.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "foodie",
+      "active",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "12:00-22:00",
+    "notes": "Tri-level outdoor seafood shack with skee-ball, mini golf, cornhole and harbor views; opened 2012 (yelp.com). Hours daily 12pm-10pm (brooklyncrab.com). No lot but easy weekend street parking on Reed/Van Brunt (brooklyncrab.com/faq). Pairs naturally with Hometown Bar-B-Que and Red Hook Winery on the same block for a daytime Red Hook track.",
+    "sources": [
+      {
+        "url": "https://www.brooklyncrab.com/location/brooklyn-crab/",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://www.brooklyncrab.com/faq/",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/brooklyn-crab-brooklyn",
+        "accessed": "2026-05-18T06:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:19:02.234Z"
+  },
+  {
+    "id": "valentino-pier-red-hook",
+    "name": "Louis Valentino Jr. Park & Pier",
+    "desc": "Free Red Hook pier with the closest front-on Statue of Liberty view in NYC — prime sunset spot.",
+    "longDesc": "A small waterfront park on the Red Hook peninsula at the foot of Coffey & Ferris Streets, the pier juts into New York Harbor with an unobstructed, head-on view of the Statue of Liberty (most other spots only see her in profile). Governors Island, Lower Manhattan, and Staten Island fan out around the horizon, and the west-facing orientation makes it one of the city's best golden-hour spots. Two blocks from Sunny's Bar, so it's an ideal warm-up before a drinks-and-music set.",
+    "url": "https://www.nycgovparks.org/parks/valentino-pier",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "photo",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Address Coffey St & Ferris St, Brooklyn. Free entry — operated by NYC Parks (NYC Parks). Offers the closest front-facing land view of the Statue of Liberty in NYC; rare straight-on angle vs. side profile seen elsewhere (Atlas Obscura). Cited as one of the city's best sunset spots — last light illuminates Lower Manhattan skyline behind you (Atlas Obscura). Street parking in Red Hook is unusually easy for NYC, including weekends. ~2-block walk to Sunny's Bar on Conover St for a seamless sunset → bar segue. Bring a jacket; harbor wind is real even in summer. No restrooms or food vendors on-site — pair with Hometown BBQ or a Steve's Key Lime stop nearby.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/louis-valentino-jr-park-and-pier",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/louis-valentino-jr.-park-and-pier-red-hook/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:23:09.823Z"
+  },
+  {
+    "id": "conover-street-waterfront-walk",
+    "name": "Conover Street Waterfront Walk (Valentino Pier → Pier 41)",
+    "desc": "Short scenic stroll linking Red Hook's best Statue of Liberty views, a barge museum, and the Pier 41 warehouses.",
+    "longDesc": "A 10–15 minute walk threading three of Red Hook's photo-iconic stops: Louis Valentino Jr. Park & Pier (the only full-frontal Statue of Liberty view from any NYC neighborhood on land), Pier 44 Waterfront Garden with the historic LEHIGH VALLEY 79 barge (Waterfront Museum), and Pier 41 / Liberty Warehouse — the last remaining warehouse piers in NYC. The pedestrian walkway at Pioneer & Conover is bikes-and-pedestrians-only and stays open year-round, giving uninterrupted harbor frontage between the two anchors.",
+    "url": "https://www.nycgovparks.org/parks/valentino-pier",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "red-hook",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Park at Valentino Pier (Ferris St between Coffey & Van Dyke) — Red Hook is one of the rare NYC neighborhoods where weekend street parking is usually findable (yelp). Walk south on Ferris, cut down Conover/Pioneer to the bike-ped walkway, pass Pier 44 Waterfront Garden (LEHIGH VALLEY 79 barge / Waterfront Museum), then continue to Pier 41 and Liberty Warehouse. Pairs naturally with a Fairway rear-patio Liberty view (480 Van Brunt) and a Red Hook Winery / Hometown BBQ stop after (brooklyneagle, redhookwaterstories). Best golden-hour shot of Lady Liberty is from the very end of Valentino Pier.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/valentino-pier/history",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://redhookwaterstories.org/waterfront-access-points",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://www.publicgardendesign.com/pier-44-waterfront-garden-red-hook.html",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://www.bridgeandtunnelclub.com/bigmap/brooklyn/redhook/pier41/index.htm",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://brooklyneagle.com/articles/2018/10/10/take-an-early-autumn-stroll-around-red-hooks-historic-waterfront/",
+        "accessed": "2026-05-18T06:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn",
+        "accessed": "2026-05-18T06:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T06:27:05.231Z"
   }
 ]
