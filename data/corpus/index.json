@@ -40427,17 +40427,17 @@
   {
     "id": "stone-street-historic-district",
     "name": "Stone Street Historic District",
-    "desc": "NYC's first paved street — pedestrian cobblestone block packed with weekend outdoor dining in FiDi",
-    "longDesc": "A single pedestrian-only block of cobblestone tucked behind the towers of the Financial District, lined end-to-end with patio tables from a dozen bars and restaurants (Stone Street Tavern, Adrienne's brick-oven pizza, Ulysses' Irish pub, Harry's steakhouse in India House, Mad Dog & Beans cantina, Route 66, Brandy's, Beckett's). Weekends feel like a European piazza — long communal tables, day-drinking crowds spilling out, no cars. Pairs naturally with Fraunces Tavern two blocks south for the curious/history mini-cluster.",
+    "desc": "Pedestrian cobblestone alley in FiDi packed with outdoor picnic-table dining, one block from Fraunces Tavern",
+    "longDesc": "A two-block Dutch-era cobblestone passage that NYC's first stone-paved street, now closed to cars and lined end-to-end with taverns, pizza, oysters, tapas and Cuban food spilling out onto communal picnic tables. Anchors include Ulysses' (the first pub here, opened 2003, raw bar + cocktails), Adrienne's Pizzabar, and Stone Street Tavern, all with weekend brunch and lively outdoor seating. Sits a 2-minute walk from Fraunces Tavern, making it the natural second stop on a FiDi walking loop.",
     "url": "https://www.stonestreetnyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "curious",
-      "foodie",
       "chill",
-      "photo"
+      "foodie",
+      "photo",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
@@ -40445,30 +40445,34 @@
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "18 min",
-    "hoursWeekend": "11:00-02:00 (varies by venue; most kitchens 11:00-23:00)",
-    "notes": "Drive: Industry City -> Hugh L. Carey Tunnel -> Broad St, ~18 min off-peak. Weekend parking: free street parking on Sundays in FiDi (FiDi has Sunday parking exemption); Saturday metered. Garages on Pearl & Water St $20-35 for 2hr. The block itself runs between Coenties Alley and Hanover Square. Pedestrian-only since reconstruction in 2000; cobblestones + gas-lamp-style fixtures. Best photo light is late afternoon when sun rakes down the canyon. Adrienne's pizza and Ulysses' brunch are the weekend anchors; Harry's is the splurge inside the landmarked India House (1854) (stonestreetnyc.com). Two blocks from Fraunces Tavern (Pearl & Broad) — easy walking pair.",
+    "hoursWeekend": "Sat 11:00-01:00, Sun 11:00-00:00 (varies by venue)",
+    "notes": "Pedestrian-only cobblestone alley, NYC's oldest paved street, dating to 17th-century New Amsterdam (stonestreetnyc.com). Whole street becomes one big outdoor terrace with picnic tables in warm months (cityroverwalks.com). 2-min walk to Fraunces Tavern — pairs cleanly as a FiDi loop stop (yelp/stonestreetnyc.com). Mix includes Ulysses', Adrienne's Pizzabar, Stone Street Tavern, plus Mexican, Cuban, Spanish tapas, steakhouse, oyster bar (stonestreetnyc.com). Manhattan-justified: completes FiDi walking loop anchored at Fraunces Tavern with Dutch-era streetscape unique in NYC. Drive from IC: Hugh L. Carey Tunnel ~15-20 min weekends; street parking very limited — use Pearl St / Broad St garages.",
     "sources": [
       {
         "url": "https://www.stonestreetnyc.com/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T14:05:00Z"
       },
       {
-        "url": "https://www.stonestreetnyc.com/restaurants",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.stonestreetnyc.com/visit",
+        "accessed": "2026-05-18T14:05:00Z"
       },
       {
         "url": "https://cityroverwalks.com/stone-street-nyc/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T14:05:00Z"
       },
       {
-        "url": "https://www.thewallstreetexperience.com/blog/a-trip-down-stone-street-food-architecture-history-in-nyc/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://frauncestavern.com/",
+        "accessed": "2026-05-18T14:05:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/stone-street-historic-district-new-york",
+        "accessed": "2026-05-18T14:05:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T09:53:30.468Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:02:57.358Z"
   },
   {
     "id": "federal-hall-national-memorial",
@@ -42922,5 +42926,134 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T13:55:09.687Z"
+  },
+  {
+    "id": "pier-a-harbor-house",
+    "name": "Pier A Harbor House (CLOSED)",
+    "desc": "Historic 1886 fireboat pier at Battery Park; restaurant shuttered since March 2020 and still vacant.",
+    "longDesc": "Pier A Harbor House operated 2014-2020 inside the landmarked 1886 City Pier A on the harbor edge of Battery Park, pairing a beer hall, oyster bar, and rooftop with Statue of Liberty views. The dining operation closed during the March 2020 pandemic shutdown and never reopened; as of April 2026 the BPCA is still soliciting new tenants and the building sits dark. Do not promote to an itinerary — pivot to an open Brooklyn waterfront pairing instead.",
+    "url": "https://bpca.ny.gov/venue/pier-a-harbor-house/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "17 min",
+    "hoursWeekend": "CLOSED — permanently closed since March 2020",
+    "notes": "CLOSED venue — kept in corpus to suppress re-research. The Battery Park City Authority confirms the Harbor House lease was not renewed and the space remains vacant as of April 2026 (https://bpca.ny.gov/venue/pier-a-harbor-house/). Yelp page is marked CLOSED with 666 archived reviews (https://www.yelp.com/biz/pier-a-harbor-house-new-york-2). Also: Manhattan, not Brooklyn — fails the IC-anchor zone constraint even if it reopened. For the same 'waterfront food + harbor view' pairing the user wanted, route to Pilot at Brooklyn Bridge Park, Brooklyn Crab in Red Hook, or Sunny's Bar — all Brooklyn-side, all 8-15 min from IC.",
+    "sources": [
+      {
+        "url": "https://bpca.ny.gov/venue/pier-a-harbor-house/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/pier-a-harbor-house-new-york-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://longislandadvocate.com/when-a-dining-megavenue-goes-under/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://tribecacitizen.com/2020/10/13/pier-a-seems-is-still-closed-and-in-flux/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T14:12:35.459Z"
+  },
+  {
+    "id": "the-battery-castle-clinton",
+    "name": "The Battery & Castle Clinton National Monument",
+    "desc": "Free 25-acre harbor-front park with an 1811 sandstone fort at Manhattan's southern tip.",
+    "longDesc": "The Battery wraps the southern tip of Manhattan with perennial gardens, the SeaGlass Carousel, the Battery Playscape, and waterfront promenades looking out to Lady Liberty. Inside sits Castle Clinton, a circular 1811 sandstone fort that once served as immigrant landing depot, aquarium, and concert hall before becoming an NPS monument — admission is free and rangers staff the interior daily (nps.gov/cacl). Pairs naturally with Fraunces Tavern's Revolutionary thread three blocks north for a green-space leg of the FiDi loop.",
+    "url": "https://www.nps.gov/cacl/index.htm",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "06:00-01:00 park / 07:45-17:00 Castle Clinton",
+    "notes": "Free admission to both the park and the fort interior; Castle Clinton runs 7:45a–5p every day except Thanksgiving and Christmas (nps.gov). The Battery itself stays open Sat–Sun 6a–1a (yelp). Drive ~15 min from Industry City via the Gowanus Expy and Hugh L. Carey (Brooklyn-Battery) Tunnel — street parking is brutal, so plan for the 1 New York Plaza garage or a SpotHero pre-book (spothero). Stack with Fraunces Tavern (Revolutionary-era theme) and Pier A for a tidy FiDi loop; doubles as a sunset/photo stop on the harbor.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/cacl/planyourvisit/hours.htm",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.thebattery.org/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-battery-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/battery-park-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:09:44.663Z"
+  },
+  {
+    "id": "bowling-green-charging-bull",
+    "name": "Bowling Green & Charging Bull",
+    "desc": "NYC's oldest public park (1733) anchored by Arturo Di Modica's iconic 7,100-lb bronze bull statue.",
+    "longDesc": "Two-block stroll north of Castle Clinton, Bowling Green is the city's oldest public park, fronted by the leafy oval lawn and the bronze Charging Bull (Arturo Di Modica, 1989) — one of the most photographed sculptures on the planet. Queue forms quickly after 9am for the classic horns-and-rear good-luck rub; the bull stands at Broadway between Morris and Beaver Streets, with the original 1733 park gate (still bearing crown-removal scars from 1776) just south. Free, open 24/7, and a tidy capstone to a Battery–Castle Clinton–Wall Street walking loop.",
+    "url": "https://www.nycgovparks.org/parks/bowling-green/monuments/1750",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "photo",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "24/7",
+    "notes": "Free public art; drive Hugh L. Carey Tunnel from IC (~18 min, $11 toll) and park in Battery Garage or street meters on State St (free Sundays). Justified as Manhattan stop because it completes a tight Lower Manhattan walking loop with Castle Clinton (2-block walk) — no Brooklyn equivalent for this specific icon. Arrive before 9am weekends to photograph without crowds (NYC Parks). Bull is bronze, 11 ft tall, 16 ft long, originally guerrilla-dropped under the NYSE Christmas tree in Dec 1989 (Downtown Alliance). Park gate fence dates to 1771 (NYC Parks).",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/bowling-green/monuments/1750",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://downtownny.com/organization/charging-bull-by-arturo-di-modica/bowling-green-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Charging_Bull",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://nycmoments.nyc/nyc-landmarks/how-to-visit-the-wall-street-charging-bull-in-nyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:14:38.696Z"
   }
 ]
