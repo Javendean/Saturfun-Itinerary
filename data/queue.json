@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Sunken Hundred Cobble Hill natural wine bar",
-    "reason": "Cobble Hill wine-bar counterweight to LIB's cocktails on the same Court St corridor — adds a wine option to the cluster for split-vibe groups",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:06:31.713Z"
-  },
-  {
-    "topic": "Henry Public Cobble Hill turkey-leg sandwich and old-NY bar",
-    "reason": "Walkable from LIB (Henry St), pre-Prohibition styling, complements the preserved-diner aesthetic — strong food + drink combo for a Cobble Hill track stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:06:31.713Z"
-  },
-  {
-    "topic": "Gage & Tollner Brooklyn Heights chophouse dinner",
-    "reason": "Same building, landmark Victorian dining room — natural pre-tiki pairing within one address",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:08:27.666Z"
-  },
-  {
-    "topic": "Long Island Bar Cobble Hill cocktails",
-    "reason": "Toby Cecchini's gimlets — non-tiki cocktail counterpoint 8-min drive from SHC, fills out Brooklyn drinks corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:08:27.666Z"
-  },
-  {
-    "topic": "Grand Army Bar Boerum Hill oysters cocktails",
-    "reason": "Oyster + cocktail pre-game 5-min drive from SHC; same Downtown-Brooklyn cluster for a multi-stop drinks track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T19:08:27.666Z"
-  },
-  {
     "topic": "MoMA PS1 (22-25 Jackson Ave, LIC) — contemporary art kunsthalle 8 min from Noguchi",
     "reason": "Completes the NW Queens art triangle (Socrates + Noguchi + PS1), all reachable in one cluster",
     "requestedBy": "agent",
@@ -14200,5 +14170,95 @@
     "reason": "10 min from IC and from Carroll Gardens — strong daytime anchor before a Smith Street cocktail crawl",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T01:27:46.118Z"
+  },
+  {
+    "topic": "DO NOT RE-RESEARCH: Sunken Hundred (276 Smith St) — permanently closed March 2018, Welsh pub not a wine bar; replaced in corpus by June BK",
+    "reason": "Prevents the autonomous loop from re-queuing a dead venue; documents the substitution rationale",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:30:29.216Z"
+  },
+  {
+    "topic": "Leyenda Cobble Hill agave cocktail bar (Court St)",
+    "reason": "Another Court St corridor option — Julie Reiner's spot pairs naturally with June + LIB for a 3-stop walkable Cobble Hill nightcap track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:30:29.216Z"
+  },
+  {
+    "topic": "Popina Carroll Gardens wine + pasta restaurant",
+    "reason": "Adjacent zone, doubles as natural-wine-leaning dinner anchor before a June nightcap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:30:29.216Z"
+  },
+  {
+    "topic": "Lalou Prospect Heights natural wine bar",
+    "reason": "Expands natural-wine coverage into a different cluster (Prospect Heights) for groups not anchoring in Cobble Hill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:30:29.216Z"
+  },
+  {
+    "topic": "Long Island Bar Cobble Hill preserved diner cocktail spot",
+    "reason": "Anchors the Cobble Hill old-NY-bar pair already in the user's mental map; one block from Henry Public on Henry St",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:32:32.986Z"
+  },
+  {
+    "topic": "Brooklyn Farmacy & Soda Fountain Carroll Gardens egg cream",
+    "reason": "Restored 1920s apothecary nearby in Carroll Gardens — continues the preserved-old-NY aesthetic theme",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:32:32.986Z"
+  },
+  {
+    "topic": "Sunken Harbor Club tiki bar upstairs at 372 Fulton St",
+    "reason": "Direct same-address pairing — finishes the Gage & Tollner dinner with award-winning tiki in the building's third-floor bar",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:34:34.126Z"
+  },
+  {
+    "topic": "Pierrepont Plaza Garage parking Brooklyn Heights weekend rates",
+    "reason": "Driving anchor needs vetted weekend parking near Gage & Tollner for the track to work",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:34:34.126Z"
+  },
+  {
+    "topic": "Long Island Bar Cobble Hill cocktails post-dinner",
+    "reason": "10-min drive south extends a Gage & Tollner evening into a curated drinks crawl through Cobble Hill",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:34:34.126Z"
+  },
+  {
+    "topic": "Leyenda Cobble Hill pan-Latin cocktails Ivy Mix",
+    "reason": "Female-led James Beard-nominated cocktail bar 4 blocks from Long Island Bar — extends Cobble Hill drinks cluster with a mezcal/agave counterpoint",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:36:40.937Z"
+  },
+  {
+    "topic": "Clover Club Cobble Hill Smith Street classic cocktails Julie Reiner",
+    "reason": "Julie Reiner's punch-and-fizz parlor on Smith St — completes the Cobble Hill/Carroll Gardens cocktail trifecta with Long Island Bar and Leyenda",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:36:40.938Z"
+  },
+  {
+    "topic": "Sunken Harbor Club Brooklyn Heights tiki cocktails St. George Tavern",
+    "reason": "Upstairs tiki bar inside St. George Tavern in Brooklyn Heights — 10 min from IC and pairs as the tiki bookend to Long Island Bar's non-tiki gimlet",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:36:40.938Z"
+  },
+  {
+    "topic": "Leyenda Cobble Hill latin cocktails Ivy Mix",
+    "reason": "Two blocks from Grand Army on Smith St — extends the Downtown-Brooklyn drinks track with a James Beard-recognized cocktail program",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:38:32.733Z"
+  },
+  {
+    "topic": "Maison Premiere Williamsburg oysters absinthe",
+    "reason": "The other reference NYC oyster+cocktail bar — useful comparison venue in Williamsburg cluster for a different track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:38:32.734Z"
+  },
+  {
+    "topic": "Long Island Bar Cobble Hill cocktails burgers",
+    "reason": "5-min drive from Grand Army, same cocktail-bar caliber, could chain into the same multi-stop drinks track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T01:38:32.734Z"
   }
 ]
