@@ -8389,8 +8389,8 @@
   {
     "id": "court-street-grocers-carroll-gardens",
     "name": "Court Street Grocers",
-    "desc": "Cult-favorite sandwich counter and pantry on Court St — turkey heroes, breakfast bagels, daytime only.",
-    "longDesc": "A neighborhood institution since 2010, Court Street Grocers does fat, layered sandwiches (the Uncle Grandpa turkey with pickled fennel and ajvar, the Ollie with hot honey, the vegetarian Uncle Chucky) plus a tight grocery wall of pantry goods. The 485 Court Street flagship runs 8am–5pm seven days, making it the daytime food anchor a Carroll Gardens cluster needs — order at the counter, grab a stool, or take it to Carroll Park three blocks away.",
+    "desc": "Old-school Brooklyn corner deli with a cult-favorite Italian Combo on a seeded hero.",
+    "longDesc": "Family-run grocery and sandwich counter on Court Street since 2010, stocking specialty pantry goods up front and slinging hero-style sandwiches in back. The Italian Combo layers mortadella, soppressata, swiss, mozzarella, pecorino, CSG hoagie spread, arugula, white onion, and mayo on a seeded hero ($17.50). Order at the counter, grab a stoop or walk it down Court Street to Carroll Park.",
     "url": "https://www.courtstreetgrocers.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8399,36 +8399,34 @@
       "foodie",
       "chill"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "13 min",
     "hoursWeekend": "08:00-17:00",
-    "notes": "485 Court St, Brooklyn, NY 11231; open 7 days 8am–5pm (courtstreetgrocers.com/contact-hours-csg). Sandwich menu confirmed includes Ollie, Uncle Grandpa, Clean Turkey, Delight, and vegetarian Uncle Chucky (courtstreetgrocers.com/menu-csg). The Infatuation calls it a Carroll Gardens essential (theinfatuation.com). Drive from Industry City: ~10–12 min via 3rd Ave → Hamilton Ave → Court St. Weekend parking: metered on Court St; free on side streets like Luquer/Nelson on Sundays; alternate-side rules apply Sat AM. Closes at 5pm — schedule as late-morning brunch or 2–3pm pre-dinner stop, NOT as dinner.",
+    "notes": "Open 7 days 8a-5p (courtstreetgrocers.com/contact-hours-csg). Italian Combo on seeded hero is the signature; menu also runs the Turkey Hero, Uncle Lou's chicken cutlet, and a vegetarian roasted-eggplant option. Counter service, limited seating — designed for grab-and-go. Pairs cleanly with a Sahadi's pickle-and-olive stop and a Brooklyn Farmacy egg cream finish on a single Henry/Court corridor track (theinfatuation.com).",
     "sources": [
       {
         "url": "https://www.courtstreetgrocers.com/contact-hours-csg",
-        "accessed": "2026-05-18T15:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.courtstreetgrocers.com/menu-csg",
-        "accessed": "2026-05-18T15:35:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
-        "accessed": "2026-05-18T15:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/court-street-grocers-brooklyn",
-        "accessed": "2026-05-18T15:35:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/court-street-grocers",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T15:44:30.721Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T19:00:25.749Z"
   },
   {
     "id": "smack-mellon",
@@ -13593,23 +13591,22 @@
   {
     "id": "books-are-magic-cobble-hill",
     "name": "Books Are Magic",
-    "desc": "Emma Straub's flagship indie bookshop — sunlit Smith St browsing with a famous painted mural outside",
-    "longDesc": "Novelist Emma Straub and Michael Fusco-Straub's beloved indie, opened in 2017 at the corner of Smith and Butler. The shop is known for curated new fiction, a sunken kid-lit back room, and frequent author events; the side-wall mural ('A Lot Like Falling in Love') is a near-mandatory Cobble Hill photo stop. Pairs perfectly with a Court Street coffee + Smith Street stroll.",
+    "desc": "Emma Straub's beloved indie bookstore on Smith St — quiet, curated browse stop in Cobble Hill.",
+    "longDesc": "Founded in 2017 by novelist Emma Straub and Michael Fusco-Straub, Books Are Magic is Cobble Hill's flagship independent bookstore at 225 Smith St — a deeply curated fiction/non-fiction/kids selection in a bright, photogenic space. The events calendar runs hot (readings, signings, kids' storytime) and the staff picks shelf is a reliable hit. A natural quiet-down stop after the Brooklyn Farmacy soda fountain across the neighborhood.",
     "url": "https://www.booksaremagic.net/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
-      "curious",
       "chill",
-      "photo"
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "11 min",
     "hoursWeekend": "10:00-18:00",
-    "notes": "Original Smith St flagship (Brooklyn Heights/Montague branch is separate). Weekend hours Sat–Sun 10am–6pm (yelp.com, nyctourism.com). Street parking on Butler/Bergen is realistic on weekends; the Trader Joe's lot on Court is a paid fallback. Phone (718) 246-2665. Iconic painted mural on the exterior wall makes for a strong photo-vibe stop even if you don't browse long.",
+    "notes": "225 Smith St, Brooklyn NY 11231 (booksaremagic.net). Sat & Sun 10:00-18:00 (yelp.com). Owned by NYT-bestselling author Emma Straub; opened May 2017 (nycbookstores.org). Walkable from Brooklyn Farmacy (~6 min on foot via Sackett/Smith); street parking on Smith is metered weekends — easier on side streets (Butler, Baltic).",
     "sources": [
       {
         "url": "https://www.booksaremagic.net/",
@@ -13620,18 +13617,18 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/shopping/books-are-magic/",
+        "url": "https://www.nycbookstores.org/books-are-magic-smith-st/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nycbookstores.org/books-are-magic-smith-st/",
+        "url": "https://www.nyctourism.com/shopping/books-are-magic/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T11:51:32.129Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T19:02:15.624Z"
   },
   {
     "id": "court-street-grocers-cobble-hill",
@@ -46119,5 +46116,127 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T18:52:20.928Z"
+  },
+  {
+    "id": "oriental-pastry-grocery",
+    "name": "Oriental Pastry & Grocery",
+    "desc": "60-year-old Damascene grocer on Atlantic Ave — house-made baklava, spices, olives, halloumi.",
+    "longDesc": "Family-run since 1967 by the late Khaled Moustapha, this Cobble Hill institution stocks Middle Eastern pantry staples — bulk spices, dried fruit, nuts, olives, feta, halloumi — alongside trays of honey-soaked baklava and other sweets baked on-site. Reviewers single out the generous nut ratio in the baklava and the owner's warm hospitality; samples often appear at the counter. Pairs perfectly with Sahadi's and Damascus Bread & Pastry next door for a one-block Atlantic Ave Levantine crawl.",
+    "url": "https://www.orientalpastryandgrocery.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "10:00-20:00",
+    "notes": "Third pillar of the Atlantic Ave Levantine trio with Sahadi's (187) and Damascus Bread & Pastry (195) — all walkable within one block. Founded 1967 after the Moustapha family moved from Damascus (orientalpastryandgrocery.com). Baklava with heavy nut content praised in reviews; bulk spices and olives are core draws (yelp.com). Same hours Mon–Sun, 10am–8pm. Street parking on Atlantic is metered and tight on Saturdays — Clinton St side streets are usually easier; the Brooklyn Heights municipal lot at Cadman Plaza is a 6-min walk fallback.",
+    "sources": [
+      {
+        "url": "https://www.orientalpastryandgrocery.com/",
+        "accessed": "2026-05-18T19:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/oriental-pastry-and-grocery-brooklyn",
+        "accessed": "2026-05-18T19:00:00Z"
+      },
+      {
+        "url": "https://www.thecitycook.com/merchants/oriental-pastry-and-grocery",
+        "accessed": "2026-05-18T19:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:54:17.880Z"
+  },
+  {
+    "id": "yemen-cafe-atlantic",
+    "name": "Yemen Cafe",
+    "desc": "1986 Atlantic Ave institution: 5-hour slow-roasted lamb haneeth that falls off the bone, served with tandoor flatbread",
+    "longDesc": "One of the first Yemeni restaurants in the U.S., open since 1986 on the Cobble Hill/Brooklyn Heights stretch of Atlantic Ave. The signature Lamb Haneeth is roasted ~5 hours until the meat peels clean off the shank, plated over a mound of basmati; every meal opens with complimentary tandoor whole-wheat flatbread, an iceberg-herb salad, and a hot bowl of marag (lamb broth). Generous, cheap-by-NYC-standards portions — one haneeth easily feeds two.",
+    "url": "https://yemencafe.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "60-75 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "10:00-23:00",
+    "notes": "Pairs naturally with the Sahadi's / Damascus Bread food-shopping run — same block on Atlantic Ave between Court & Clinton (theinfatuation.com). Cash-friendly, no alcohol, no reservations. Lamb haneeth is the must-order; marag broth + tandoor bread arrive free (yemencafe.com). Sat/Sun 10am-11pm, Fri opens 2pm (yemencafe.com).",
+    "sources": [
+      {
+        "url": "https://yemencafe.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/yemen-cafe",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/yemen-cafe-and-restaurant-brooklyn-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:56:17.409Z"
+  },
+  {
+    "id": "montero-bar-grill",
+    "name": "Montero Bar & Grill",
+    "desc": "Last surviving longshoremen's dive on Atlantic Ave — 1939 nautical relics, karaoke, $7 beers.",
+    "longDesc": "Founded in 1939 by Joseph and Pilar Montero as a hangout for sailors and dockworkers, Montero's is the last longshoremen's bar standing on Atlantic Ave, with ship models, life preservers, and donated maritime mementos still lining the walls. Cash-only, $7 beers, and live karaoke Thu–Sat make it the no-frills antidote to the polished Cobble Hill cocktail crawl. Recently sold to Crew hospitality (Alex & Miles Pincus) with a stated promise to preserve the dive's character.",
+    "url": "https://www.themonterobar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "14:00-04:00",
+    "notes": "Cash only ($7 beers) (yelp). Karaoke Thu/Fri/Sat is the main draw (nyctourism). 73 Atlantic Ave near Hicks St — technically Brooklyn Heights but a 4-min walk to Damascus Bread & Pastry, making it the natural drinks slot for the Cobble Hill cluster (brooklyneagle). Street parking on Atlantic is metered until 7pm Sat, free Sun; nearby Pier 6 / Brooklyn Bridge Park garages as backup. Recently acquired by Crew hospitality but ownership has pledged to keep it unchanged (manhattandaily).",
+    "sources": [
+      {
+        "url": "https://brooklyneagle.com/361448/beloved-brooklyn-heights-dive-bar-montero-bar-grill-sold-to-crew/",
+        "accessed": "2026-05-18T18:55:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/monteros/",
+        "accessed": "2026-05-18T18:55:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/monteros-bar-and-grill-brooklyn",
+        "accessed": "2026-05-18T18:55:00Z"
+      },
+      {
+        "url": "https://manhattandaily.com/montero-bar-grill-to-get-new-life-as-it-marks-90-years-on-brooklyn-waterfront/",
+        "accessed": "2026-05-18T18:55:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:58:20.239Z"
   }
 ]
