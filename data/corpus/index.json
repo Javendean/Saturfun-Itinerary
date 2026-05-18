@@ -27696,56 +27696,43 @@
   },
   {
     "id": "kettl-tea-greenpoint",
-    "name": "Kettl Tea — Greenpoint Flagship",
-    "desc": "Japanese tea importer's Greenpoint flagship — tasting counter, in-house stone-milled matcha, seasonal wagashi.",
-    "longDesc": "Kettl's Greenpoint flagship is a serious single-origin Japanese teahouse with a dedicated tasting counter, an in-house Japanese stone mill for fresh matcha, and a seasonal $90 Guided Omakase pairing four loose-leaf teas plus a premium matcha with wagashi handmade daily by Phoebe Ogawa. Walk-ins get matcha, sencha, hojicha, and pastry by-the-pot service in the cafe gallery; the tasting counter is bookable for a more guided flight. About an 18-minute drive up the BQE from Industry City, with weekend street parking around Manhattan Ave / Greenpoint Ave.",
+    "name": "Kettl",
+    "desc": "Japanese tea bar with a reservation-only back-bar tasting counter pairing rare teas with kaiseki-style sweets.",
+    "longDesc": "Kettl's Greenpoint flagship is a stylish Japanese tea café whose back-bar tasting counter is the draw — an expert guides you through curated flights of single-origin matcha, gyokuro, sencha, and emerging black/oolong teas, many rarely seen outside Japan. Walk-in seating at the front bar offers single pots and à la carte wagashi-style sweets, while the reservable counter turns it into a 45-60 min sit-down. The room is small, quiet, and ceramics-forward, which is what makes the 'curious' vibe land here rather than at a typical café.",
     "url": "https://kettl.co/pages/visit-us",
-    "photoUrl": "https://kettl.co/cdn/shop/files/Kettl_Greenpoint_7c889cb1-7bbd-4fd5-9881-fa12942b483d.jpg?v=1762271649&width=1600",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "curious",
-      "chill",
-      "foodie"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 9:00-20:00, Sun 9:00-19:00",
-    "notes": "Flagship at 70 Greenpoint Ave, Brooklyn NY 11222 (Yelp, Greenpointers). Tasting counter offers curated flights of prized teas plus by-the-pot service of the full catalog (kettl.co/products/tasting-flight). The Class | A Seasonal Guided Omakase Tasting is $90 and includes four loose-leaf teas + one premium stone-milled matcha with seasonal wagashi by Phoebe Ogawa (kettl.co/products/class-a-seasonal-guided-omakase-tasting). Kettl grinds matcha in-house — rare in the US (Tea For Me Please). Crowded on weekends; reservations recommended for the tasting counter and required for the omakase class.",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 09:00-20:00, Sun 09:00-19:00",
+    "notes": "70 Greenpoint Ave, Brooklyn — front bar is walk-in for a pot + sweet; the 'Back Bar' tasting counter requires advance reservation via kettl.co and is the format that earns the 'curious' tag (source: kettl.co/pages/visit-us, yelp.com/biz/kettl-brooklyn-3). Drive from IC is BQE-northbound, ~22 min off-peak; pair with a second Greenpoint/Williamsburg stop rather than stranding it. Weekend parking on side streets (Greenpoint Ave / Franklin) is workable but not guaranteed — Sat afternoons are tight. Vegetarian by default; gluten-free guests should ask, as wagashi vary.",
     "sources": [
       {
         "url": "https://kettl.co/pages/visit-us",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://kettl.co/products/tasting-flight",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://kettl.co/products/class-a-seasonal-guided-omakase-tasting",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://greenpointers.com/2022/01/07/kettls-greenpoint-flagship-store-is-a-tea-drinkers-paradise/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T21:20:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/kettl-brooklyn-3",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T21:20:00Z"
       },
       {
         "url": "https://www.teaformeplease.com/tea-places-kettl-flagship-cafe-brooklyn/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T21:20:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:27:24.973Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:27:49.081Z"
   },
   {
     "id": "cha-an-teahouse",
@@ -47537,5 +47524,189 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T21:05:45.054Z"
+  },
+  {
+    "id": "shokku-bakery-atlantic-ave",
+    "name": "Shokku Bakery",
+    "desc": "Hokkaido-style Japanese bakery on Atlantic Ave — matcha lava croissants, charcoal croissants, mont blanc, crystal mochi",
+    "longDesc": "New Brooklyn outpost of the Hokkaido-style Japanese bakery known for its matcha lava croissant, golden salted egg yolk croissant, mont blanc, crystal mochi and cloud toast — cakes and breads baked daily with Hokkaido milk and flour. Sits on the Atlantic Avenue corridor at the Boerum Hill / Cobble Hill seam, next door to Hashi Market (Japanese grocery), making it a natural Japanese mini-cluster mid-route between Industry City and Dumbo. Note: announced Nov 2025 as 'opening soon' by the Atlantic Avenue LDC; verify open status by phone or IG @shokkubakery before routing a group here.",
+    "url": "https://www.instagram.com/shokkubakery/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "verify on opening; Duluth flagship runs 10:00-20:00 daily",
+    "notes": "295 Atlantic Ave is on the north side of Atlantic between Smith and Hoyt — technically Boerum Hill but functionally a Cobble Hill / Brooklyn Heights border stop. Drive from IC via 3rd Ave → Atlantic ~12-15 min on weekends. Metered parking on Atlantic Ave and on side streets (Hoyt, Smith, Pacific); arrive before 11am for easiest spot. Pair with Hashi Market two doors down (299 Atlantic) for onigiri, matcha, sashimi-grade fish. Atlantic Avenue LDC: 'Shokku Bakery is warming up the ovens... opening soon at 295 Atlantic Avenue. Get ready for the smell of freshly baked bread and cakes.' (Atlantic Ave LDC, Nov 2025). Signature items at the Duluth flagship: matcha lava croissant ($6.99), golden salted egg yolk croissant ($6.99), cloud toast ($12.99), crystal mochi (source: Beyond Menu / Yelp Duluth listing).",
+    "sources": [
+      {
+        "url": "https://www.facebook.com/AtlanticAvenueLDC/posts/-shokku-bakery-is-warming-up-the-ovenstheyre-opening-soon-at-295-atlantic-avenue/1248381894002669/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgeparents.com/new-restaurants-bars-bakeries-cafes-and-supermarkets-that-opened-in-our-neighborhoods-in-november-25/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://x.com/AtlanticAveLDC/status/1990170450723258710",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/shokkubakery/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/shokku-bakery-duluth",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.beyondmenu.com/63782/duluth/shokku-bakery-duluth-30096/info.aspx",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:18:30.408Z"
+  },
+  {
+    "id": "takahachi-sa-bushwick",
+    "name": "Takahachi S.A.",
+    "desc": "Japanese bakery + light izakaya: onigiri, sakura bread, matcha soft serve on the Bushwick/Ridgewood edge.",
+    "longDesc": "Brooklyn outpost of Manhattan's Takahachi Bakery, doubling as a tiny Japanese cafe with fresh-baked sakura bread, red-bean and corn pastries, onigirazu, karaage, and rotating soft-serve (matcha, soy-sauce). Counter-service, cozy and photogenic, with a thoughtful Tokaido-road aesthetic. Sunday-open (closed Mondays), making it a rare weekend Japanese-bakery stop on the L/M-train side of Brooklyn.",
+    "url": "https://www.takahachi.net/takahachi-sa",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat-Sun 11:00-21:00",
+    "notes": "Address clarification: 29 Wyckoff Ave is officially branded 'Takahachi S.A.' (the Brooklyn sister of Takahachi Bakery in FiDi); some aggregators list a Takahachi Bakery entry at 27 Wyckoff for the same operation (Yelp). The original Manhattan Takahachi Bakery is closed Sundays — only the Bushwick S.A. location works for a Sunday itinerary (official site). Menu mixes sushi/onigiri, savory karaage, and Japanese-French pastry plus soft-serve in unusual flavors like soy-sauce (Wanderlog, Yelp). Street parking on Wyckoff/Jefferson is generally available weekends; M-train Jefferson St stop is one block away if a guest joins by transit. Best fit as a coffee+pastry anchor for a northern track that continues into Ridgewood (Topos, Nowadays garden) or Bushwick galleries.",
+    "sources": [
+      {
+        "url": "https://www.takahachi.net/takahachi-sa",
+        "accessed": "2026-05-18T21:20:00Z"
+      },
+      {
+        "url": "https://www.takahachi.net/takahachi-bakery",
+        "accessed": "2026-05-18T21:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/takahachi-sa-brooklyn",
+        "accessed": "2026-05-18T21:20:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/takahachi-bakery-brooklyn",
+        "accessed": "2026-05-18T21:20:00Z"
+      },
+      {
+        "url": "https://wanderlog.com/place/details/8936014/takahachi-sa",
+        "accessed": "2026-05-18T21:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:21:14.045Z"
+  },
+  {
+    "id": "path-of-cha",
+    "name": "Path of Cha",
+    "desc": "Gongfu-style tea shop and tasting room with Chinese loose-leaf teas — weekends by appointment only.",
+    "longDesc": "Family-run Chinese tea shop at 2202 Ave X in Sheepshead Bay specializing in gongfu brewing of rotating oolongs, pu-erh, and white teas with full teaware selection (pathofcha.com). The cozy tea room hosts biweekly laid-back tastings and private gongfu sessions ($50/person, $150 minimum, up to 6 guests) by appointment. Walk-in service is weekdays 12-7 only; Saturday/Sunday access requires advance booking via their contact form.",
+    "url": "https://pathofcha.com/pages/visit-us",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "By appointment only",
+    "notes": "TASK BRIEF DISCREPANCY: venue is in Sheepshead Bay (2202 Ave X), NOT Williamsburg as the queue topic stated — it is not part of the Williamsburg cluster and does not pair with Nippon Cha geographically (pathofcha.com/pages/visit-us). WEEKEND CONSTRAINT: shop is closed Sat-Sun for walk-ins; tastings are by appointment only, so this cannot be a drop-in stop on a Saturfun itinerary without advance scheduling. Zone set to park-slope as the nearest valid enum value but actual neighborhood (Sheepshead Bay) is not in the cluster set — ~22 min via Belt Parkway from Industry City. Private gongfu session is $50pp with a $150 minimum (pathofcha.com). Recommend either requeueing as a scheduled-tasting feature or skipping in favor of a Williamsburg gongfu alternative.",
+    "sources": [
+      {
+        "url": "https://pathofcha.com/pages/visit-us",
+        "accessed": "2026-05-18T21:20:00Z"
+      },
+      {
+        "url": "https://pathofcha.com/",
+        "accessed": "2026-05-18T21:20:00Z"
+      },
+      {
+        "url": "https://sprudge.com/6-remarkable-destinations-for-tea-in-new-york-city-139650.html",
+        "accessed": "2026-05-18T21:20:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T21:23:35.888Z"
+  },
+  {
+    "id": "cha-cha-matcha-dumbo",
+    "name": "Cha Cha Matcha (DUMBO)",
+    "desc": "Photogenic neon-pink matcha café inside Empire Stores with iced lattes, pastries, and waterfront walk-ability.",
+    "longDesc": "Cha Cha Matcha's DUMBO outpost lives inside Empire Stores at 55 Water St, steps from Brooklyn Bridge Park and Jane's Carousel. The shop is known for its hot-pink interior and ceremonial-grade matcha drinks — iced matcha latte, strawberry matcha, lavender matcha, matcha chai — plus light pastries (Yelp). The compact footprint and bold palette make it a quick photo + caffeine stop that pairs naturally with a stroll on the waterfront.",
+    "url": "https://chachamatcha.com/pages/locations",
+    "photoUrl": "https://chachamatcha.com/cdn/shop/files/08_-_Dumbo.jpg?v=1744839708&width=1200",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "photo",
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "08:00-19:00",
+    "notes": "Inside Empire Stores in DUMBO — paid parking nearby at 99 Plymouth Garage or Brooklyn Bridge Park lots, but street parking on Water/Plymouth is doable off-peak. Signature neon-pink walls = strong photo backdrop (Empire Stores tenant page). Menu emphasizes matcha drinks + pastries; pair with a 10-min waterfront walk to Jane's Carousel for a 'photo' track stop without a long dwell time (Yelp, chachamatcha.com).",
+    "sources": [
+      {
+        "url": "https://chachamatcha.com/pages/locations",
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/cha-cha-matcha-brooklyn",
+        "accessed": "2026-05-18T21:30:00Z"
+      },
+      {
+        "url": "https://www.empirestoresdumbo.com/tenants/cha-cha-matcha",
+        "accessed": "2026-05-18T21:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T21:25:36.111Z"
   }
 ]

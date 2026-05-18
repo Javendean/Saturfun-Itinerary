@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Norikoh / Japanese coffee + pastry options in Carroll Gardens or Cobble Hill",
-    "reason": "Fills the mid-route gap between IC and Dumbo; corpus currently has no Japanese bakery in the brownstone-belt cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:40:33.794Z"
-  },
-  {
-    "topic": "Takahachi Bakery (Bushwick, 29 Wyckoff Ave)",
-    "reason": "Sunday-open Japanese bakery on the Bushwick edge — useful if a track pivots north toward Bushwick/Ridgewood art stops",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:40:33.794Z"
-  },
-  {
-    "topic": "Path of Cha (Williamsburg) — Chinese gongfu tea house with rotating oolongs and pastries",
-    "reason": "Complements Nippon Cha on the matcha/tea track; same Williamsburg cluster, different tea tradition for variety within the zone",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:44:07.436Z"
-  },
-  {
-    "topic": "Cha Cha Matcha DUMBO (55 Water St) — matcha soft serve, photogenic neon-pink interior",
-    "reason": "Closer drive (~12 min) and adds a 'photo' vibe option to the matcha track; same niche with shorter dwell time for a multi-stop day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:44:07.436Z"
-  },
-  {
-    "topic": "Kettl Tea Greenpoint — Japanese tea bar with kaiseki-style sweets pairings",
-    "reason": "Greenpoint expansion of the matcha-forward cluster; sit-down tea-tasting format unlocks 'curious' vibe currently underrepresented in the corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T01:44:07.436Z"
-  },
-  {
     "topic": "Patisserie Tomoko (Williamsburg) — chef Tomoko Kato's Japanese-French dessert counter with yuzu mousse, black sesame dacquoise, matcha crepe cake",
     "reason": "Direct French-Japanese pastry peer to Kitsuné/Burrow; widens the category with a chef-driven, sit-down dessert option in a different zone (Williamsburg, ~20 min from IC)",
     "requestedBy": "agent",
@@ -20026,5 +19996,95 @@
     "reason": "the obvious 'savory before dessert tasting' pairing within 8-min walk; corpus needs the dinner half of this combo",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T21:14:18.200Z"
+  },
+  {
+    "topic": "Hashi Market 299 Atlantic Avenue Brooklyn Japanese grocery onigiri sashimi",
+    "reason": "Sister stop two doors from Shokku — onigiri, bentos, matcha, sashimi-grade fish; turns Shokku visit into a 45-60 min Japanese mini-cluster on the IC→Dumbo mid-route",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:18:30.440Z"
+  },
+  {
+    "topic": "Hibino 333 Henry Street Cobble Hill Kyoto obanzai homemade tofu",
+    "reason": "Existing Japanese anchor in Cobble Hill proper — Kyoto-style obanzai, homemade tofu, green tea ice cream sandwich, soy pudding; sit-down dessert+lunch option six blocks south of Shokku",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:18:30.440Z"
+  },
+  {
+    "topic": "Kotobuki 192 Columbia Street Carroll Gardens Japanese restaurant",
+    "reason": "Only Japanese venue currently in Carroll Gardens proper (Columbia Waterfront edge) — fills the CG slot the corpus is missing, sit-down sushi/izakaya with Red Hook adjacency",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:18:30.440Z"
+  },
+  {
+    "topic": "Topos Bookstore Cafe (Ridgewood) — Sunday-open indie bookshop/cafe",
+    "reason": "Natural pair with Takahachi S.A. for a Bushwick/Ridgewood northern track; covers the 'chill/curious' slot after a pastry stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:21:14.089Z"
+  },
+  {
+    "topic": "Nowadays (Ridgewood) — outdoor beer garden + DJ space",
+    "reason": "Weekend-anchor venue 8 min from Takahachi S.A.; expands corpus into Ridgewood for evening drink stops",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:21:14.089Z"
+  },
+  {
+    "topic": "The Bushwick Collective street-art walls (Troutman/St Nicholas Ave)",
+    "reason": "Free photo-vibe outdoor stop 6 min from Takahachi; pairs with a pastry-fueled walking loop and adds a 'photo' option to the northern track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:21:14.089Z"
+  },
+  {
+    "topic": "Té Company (West Village) — Taiwanese gongfu oolong tea house with pineapple linzer cookies",
+    "reason": "Strong Chinese/Taiwanese gongfu tea alternative with weekend walk-in hours; Manhattan but uniquely justified as a true gongfu pairing that Path of Cha cannot fill on weekends",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:23:35.925Z"
+  },
+  {
+    "topic": "Kettl Tea (Williamsburg) — Japanese tea house with gyokuro flights and matcha service",
+    "reason": "Actual Williamsburg-cluster tea venue that would pair with Nippon Cha as the brief originally intended; weekend walk-in",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:23:35.925Z"
+  },
+  {
+    "topic": "Tea Dealers (Cobble Hill) — Chinese gongfu loose-leaf tea bar with tasting flights",
+    "reason": "Brooklyn gongfu alternative with weekend hours, ~10 min from IC — direct replacement for Path of Cha's gongfu niche within drivable cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:23:35.926Z"
+  },
+  {
+    "topic": "Time Out Market New York (DUMBO food hall, 55 Water St)",
+    "reason": "Same Empire Stores building — multi-vendor food hall lets one parking spot anchor a 90-min food stop after a Cha Cha photo grab",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:25:36.150Z"
+  },
+  {
+    "topic": "Jane's Carousel (Brooklyn Bridge Park, DUMBO)",
+    "reason": "Two-minute walk from Cha Cha Matcha; iconic photo op completes a DUMBO 'photo' micro-cluster on the matcha track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:25:36.150Z"
+  },
+  {
+    "topic": "Brooklyn Roasting Company (DUMBO, 25 Jay St)",
+    "reason": "Coffee counterpart to Cha Cha — gives non-matcha drinkers in the group a same-zone option within 5-min walk",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:25:36.151Z"
+  },
+  {
+    "topic": "Setsugekka East Village matcha tasting room",
+    "reason": "Manhattan-only matcha-tasting analog — useful as a 'curious vibe' comparator even if not promoted; informs how Kettl's positioning is unique in Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:27:49.111Z"
+  },
+  {
+    "topic": "MeMe's Diner-adjacent Greenpoint cluster: best 15-min-drive food pairing for a Kettl tasting",
+    "reason": "Pairs Kettl into a north-Brooklyn track instead of leaving it as an isolated jump from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:27:49.111Z"
+  },
+  {
+    "topic": "Cha-An Teahouse Williamsburg or Bushwick Japanese tea alternative",
+    "reason": "Backup for when Kettl's tasting counter is booked; keeps the 'curious + tea' slot fillable on weekend itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T21:27:49.111Z"
   }
 ]
