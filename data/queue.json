@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Stone Street historic district lunch",
-    "reason": "Pedestrianized cobblestone block 5 min walk from Battery — solves the 'where to eat after' problem for a Lower Manhattan track day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:20:33.957Z"
-  },
-  {
-    "topic": "Stone Street Historic District (FiDi)",
-    "reason": "Cobblestone pedestrian alley with outdoor seating, natural lunch/drinks stop after the bull loop, ~6-min walk from Fearless Girl",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:22:53.287Z"
-  },
-  {
-    "topic": "Battery Park esplanade + SeaGlass Carousel",
-    "reason": "Free harbor views and Statue of Liberty sightline 2 blocks south of Charging Bull, completes the FiDi mini-loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:22:53.287Z"
-  },
-  {
-    "topic": "Brooklyn Bridge pedestrian walkway (Manhattan-side entry at City Hall)",
-    "reason": "Natural connector to walk the loop back to BK on foot for the iconic skyline shot, ~15-min walk from the bull",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:22:53.287Z"
-  },
-  {
-    "topic": "Nom Wah Nolita (10 Kenmare St) — sister location with reservations",
-    "reason": "Same kitchen DNA, takes Resy reservations, removes the no-reservation wait problem at Doyers",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:24:55.717Z"
-  },
-  {
     "topic": "Joe's Steam Rice Roll (Chinatown) — cheong fun specialist",
     "reason": "Quick (~15 min) Chinatown bite that pairs with a longer Nom Wah anchor or replaces it if line is impossible",
     "requestedBy": "agent",
@@ -17860,5 +17830,95 @@
     "reason": "Cobblestone outdoor restaurant row 4 blocks east — converts the photo loop into a lunch destination",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T14:14:38.742Z"
+  },
+  {
+    "topic": "Stone Street Tavern FiDi pub lunch",
+    "reason": "Same cobblestone block, different vibe — craft beer + Hangover Burger anchor; rounds out the corpus with a casual-pub option vs. Adrienne's pizza",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:17:04.499Z"
+  },
+  {
+    "topic": "The Dead Rabbit Water Street historic cocktail bar",
+    "reason": "Two-min walk from Stone Street, world-famous Irish cocktail bar — natural after-lunch stop to extend a FiDi track into late afternoon",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:17:04.499Z"
+  },
+  {
+    "topic": "Fraunces Tavern Museum & Restaurant",
+    "reason": "Same FiDi cluster (Pearl St, 4-min walk), George Washington-era historic site doubles as lunch + culture stop; expands Lower Manhattan track with an indoor weather-safe alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:17:04.499Z"
+  },
+  {
+    "topic": "Adrienne's Pizzabar (54 Stone St) — square Sicilian pizza specialist",
+    "reason": "Anchor lunch venue on Stone Street; deserves its own entry for itinerary slotting",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:19:27.094Z"
+  },
+  {
+    "topic": "Fraunces Tavern (54 Pearl St, FiDi) — 1762 tavern + museum 2 blocks from Stone St",
+    "reason": "Pairs naturally with Stone Street as historical FiDi loop; expands bull-loop corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:19:27.094Z"
+  },
+  {
+    "topic": "Elevated Acre (55 Water St) — hidden public rooftop park 4-min walk away",
+    "reason": "Free overlook of East River + Brooklyn Bridge, photo stop adjacent to Stone Street loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:19:27.094Z"
+  },
+  {
+    "topic": "Stone Street historic pedestrian alley lunch crawl (Financial District)",
+    "reason": "Cobblestone block 3 blocks from Battery with outdoor tables — completes the FiDi mini-loop with a food anchor after the carousel",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:21:54.138Z"
+  },
+  {
+    "topic": "Pier A Harbor House rooftop (Battery Park waterfront)",
+    "reason": "Adjacent waterfront drink/oyster stop with the same Liberty sightline; extends the FiDi loop into golden hour",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:21:54.138Z"
+  },
+  {
+    "topic": "Elevated Acre hidden FiDi park at 55 Water Street",
+    "reason": "Tucked-away rooftop park 5 min walk north — adds a 'curious/hidden' counterpoint to the touristy Battery anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:21:54.138Z"
+  },
+  {
+    "topic": "Brooklyn Bridge Park Pier 1 lawn (DUMBO landing point)",
+    "reason": "Natural endpoint of the walk with skyline-facing lawn, ties the loop back to IC drive-home; pairs with the bridge entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:23:53.243Z"
+  },
+  {
+    "topic": "Jane's Carousel DUMBO (Brooklyn-side bridge landing)",
+    "reason": "30-min add-on right where pedestrians exit the bridge; photogenic and family-friendly anchor for the BK end of the loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:23:53.243Z"
+  },
+  {
+    "topic": "Time Out Market DUMBO rooftop",
+    "reason": "Skyline-view food hall a 4-min walk from the bridge exit — solves the 'where to eat after the walk' question without driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:23:53.243Z"
+  },
+  {
+    "topic": "East Wind Snack Shop (Park Slope) — dumplings + scallion pancakes, BK-side",
+    "reason": "Solves the same craving (Nom Wah-style dumplings) without the Manhattan crossing; sits in an existing valid zone (park-slope) ~10 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:26:19.382Z"
+  },
+  {
+    "topic": "Cha Kee / Yun Nan Flavour Garden cluster in Sunset Park Chinatown (8th Ave)",
+    "reason": "Authentic Cantonese/Yunnan dim sum walking distance from IC; expands the corpus with a true near-IC Chinese option the current set is missing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:26:19.382Z"
+  },
+  {
+    "topic": "Win Son Bakery (Williamsburg) — Taiwanese breakfast & buns",
+    "reason": "Same 'casual Asian, no-reservations-needed, photogenic food' niche, but inside an existing BK zone (williamsburg) and ~15 min from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T14:26:19.382Z"
   }
 ]

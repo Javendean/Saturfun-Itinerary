@@ -40339,12 +40339,12 @@
   {
     "id": "adriennes-pizzabar-stone-street",
     "name": "Adrienne's Pizzabar",
-    "desc": "Iconic Old-Fashioned Square pies on cobblestoned Stone Street, directly across from Ulysses.",
-    "longDesc": "Adrienne's Pizzabar at 54 Stone Street is the FiDi square-pie institution — thin, crispy, rectangular Sicilian-style pies with a sweet tomato stripe and basil. Outdoor tables sprawl across the cobblestones, putting you eye-level with Ulysses Folk House for an effortless Stone Street crawl. The kitchen also turns out classic round pies, oven-baked pasta, and big salads — solid for groups who don't all want pizza.",
+    "desc": "Square-pie pizza on Stone Street's cobblestones — picnic-bench lunch 5 min from Battery.",
+    "longDesc": "Adrienne's has anchored the pedestrian-only Stone Street historic district since 2004, slinging their signature thin, crispy Old-Fashioned square pizza alongside baked pastas and antipasti. Indoor seating sits inside a 19th-century Dutch-style building; outdoor seating spills onto the cobblestones with umbrella'd picnic benches shared across the whole block. Opens 11:30am daily, making it a clean Lower-Manhattan lunch stop after a Battery Park or Fraunces Tavern Museum stroll.",
     "url": "https://www.adriennespizzabar.com/adriennes-pizzabar",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "brooklyn-heights",
+    "zone": "dumbo",
     "vibe": [
       "foodie",
       "chill",
@@ -40355,27 +40355,31 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 11:30-24:00, Sun 11:30-22:00",
-    "notes": "Manhattan exception — justified as Stone Street crawl partner with Ulysses across the cobbles (stonestreetnyc.com). Old-Fashioned Square is the order; outdoor cobblestone seating is the photo moment. Weekend FiDi parking is famously easy vs midtown — try Water/Pearl/Broad metered spots after 19:00 Sat or all day Sun (free Sunday metering in NYC). 'brooklyn-heights' zone tag is the closest Brooklyn-side proxy since the schema has no FiDi/Manhattan zone; pair with BBP Pier 6 walk if extending the night. Closed-street pedestrian block — no curbside drop-off, park on Pearl or Water and walk in.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:30-24:00",
+    "notes": "Address: 54 Stone St, New York, NY 10004. Drive from Industry City via Hugh L. Carey (Battery) Tunnel ~18 min weekend; tunnel toll applies. Weekend parking: Battery Parking Garage (70 Greenwich) or Icon at 25 Broad, ~5-7 min walk. Same restaurant family as Ulysses' Folkhouse and Harry's NYC, so quality bar is consistent across the block (source: adriennespizzabar.com). The pedestrian cobblestone block itself is the photo draw — Dutch-style 19th-century facades, umbrella sea of picnic benches (source: stonestreetnyc.com). Best paired with Stone Street Tavern, The Dead Rabbit (around the corner on Water St), or Fraunces Tavern as a multi-stop FiDi track. Uniquely justifies a Manhattan stop on a Lower-Manhattan-focused day.",
     "sources": [
       {
         "url": "https://www.adriennespizzabar.com/adriennes-pizzabar",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.stonestreetnyc.com/adriennes",
+        "url": "https://www.stonestreetnyc.com/restaurants",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/adriennes-pizzabar-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://cityroverwalks.com/stone-street-nyc/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T09:49:06.342Z"
+    "lastResearchedAt": "2026-05-18T14:17:04.470Z"
   },
   {
     "id": "rooftop-pier-17",
@@ -40427,52 +40431,47 @@
   {
     "id": "stone-street-historic-district",
     "name": "Stone Street Historic District",
-    "desc": "Pedestrian cobblestone alley in FiDi packed with outdoor picnic-table dining, one block from Fraunces Tavern",
-    "longDesc": "A two-block Dutch-era cobblestone passage that NYC's first stone-paved street, now closed to cars and lined end-to-end with taverns, pizza, oysters, tapas and Cuban food spilling out onto communal picnic tables. Anchors include Ulysses' (the first pub here, opened 2003, raw bar + cocktails), Adrienne's Pizzabar, and Stone Street Tavern, all with weekend brunch and lively outdoor seating. Sits a 2-minute walk from Fraunces Tavern, making it the natural second stop on a FiDi walking loop.",
+    "desc": "Pedestrian cobblestone alley packed with outdoor picnic tables, taverns, oysters and brick-front bars in FiDi.",
+    "longDesc": "NYC's oldest paved street (1658) now functions as a car-free dining terrace lined with Adrienne's Pizzabar, Ulysses', Stone Street Tavern, The Bedford and more, with shared umbrella-shaded picnic seating spilling across the cobblestones April-November. A natural lunch-and-pint break ~6 minutes on foot from the Charging Bull / Fearless Girl, and the only spot in Manhattan where you can sit mid-street under 17th-century Dutch facades without traffic. Block hosts trivia nights, happy hours and seasonal street festivals on weekends.",
     "url": "https://www.stonestreetnyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "brooklyn-heights",
     "vibe": [
       "chill",
       "foodie",
-      "photo",
-      "curious"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 11:00-01:00, Sun 11:00-00:00 (varies by venue)",
-    "notes": "Pedestrian-only cobblestone alley, NYC's oldest paved street, dating to 17th-century New Amsterdam (stonestreetnyc.com). Whole street becomes one big outdoor terrace with picnic tables in warm months (cityroverwalks.com). 2-min walk to Fraunces Tavern — pairs cleanly as a FiDi loop stop (yelp/stonestreetnyc.com). Mix includes Ulysses', Adrienne's Pizzabar, Stone Street Tavern, plus Mexican, Cuban, Spanish tapas, steakhouse, oyster bar (stonestreetnyc.com). Manhattan-justified: completes FiDi walking loop anchored at Fraunces Tavern with Dutch-era streetscape unique in NYC. Drive from IC: Hugh L. Carey Tunnel ~15-20 min weekends; street parking very limited — use Pearl St / Broad St garages.",
+    "driveFromIC": "18 min via Brooklyn-Battery Tunnel",
+    "hoursWeekend": "Street open 24/7; most venues 11:30-late (Stone Street Tavern Fri/Sat 11:30am-2am, Sun 11:30am-12am)",
+    "notes": "Manhattan exception justified — anchor stop on the Charging Bull / Fearless Girl walking loop, not a standalone IC trip. Pedestrian-only cobblestones; outdoor picnic-table season runs April-Nov, indoors otherwise (stonestreetnyc.com). Weekend FiDi street parking is light on Sat/Sun vs weekdays but garages on Pearl/Water Sts are the safer bet. Solid range: Adrienne's Pizzabar (square Sicilian), Ulysses' (oysters/Irish), Stone Street Tavern (brunch + pub), The Bedford (cocktails), Mexican/Spanish/Cuban also on-block (cityroverwalks.com).",
     "sources": [
       {
         "url": "https://www.stonestreetnyc.com/",
-        "accessed": "2026-05-18T14:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.stonestreetnyc.com/visit",
-        "accessed": "2026-05-18T14:05:00Z"
+        "url": "https://www.stonestreetnyc.com/restaurants",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://cityroverwalks.com/stone-street-nyc/",
-        "accessed": "2026-05-18T14:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://frauncestavern.com/",
-        "accessed": "2026-05-18T14:05:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/stone-street-historic-district-new-york",
-        "accessed": "2026-05-18T14:05:00Z"
+        "url": "https://stonestreettavernnyc.com/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T14:02:57.358Z"
+    "lastResearchedAt": "2026-05-18T14:19:27.060Z"
   },
   {
     "id": "federal-hall-national-memorial",
@@ -43055,5 +43054,137 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T14:14:38.696Z"
+  },
+  {
+    "id": "seaglass-carousel-battery-park",
+    "name": "SeaGlass Carousel + Battery Park Esplanade",
+    "desc": "Nautilus-shaped fiber-optic carousel + harbor esplanade with direct Statue of Liberty sightline.",
+    "longDesc": "A short stroll south of Charging Bull, the SeaGlass Carousel spins 30 translucent fiberglass fish through a glass pavilion with shifting LED light and an underwater score — closer to a mini-immersive show than a kiddie ride. Pair it with a 10-minute walk along the Battery Bosque and esplanade for unobstructed Statue of Liberty / Ellis Island views and Castle Clinton, completing a Charging Bull → Stone Street → Battery FiDi mini-loop. Manhattan exception justified: the harbor sightline isn't replicable from Brooklyn at this proximity.",
+    "url": "https://www.seaglasscarousel.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "Carousel: $6/ride or $55 for 10 rides, cash or card at the booth (seaglasscarousel.nyc). Fri-Sun hours 11:00-19:00; weekday close is 18:00. Esplanade is free, open 24/7. Drive via Hugh L. Carey Tunnel (toll) from IC, ~18 min off-peak weekend; park at Battery Place / Ocean Parking garages — street parking is essentially nonexistent in FiDi on weekends (statueoflibertytour.com, spothero.com). Best Liberty photo light is late afternoon (sun behind the camera). Pairs naturally with Charging Bull (2 blocks N) and Stone Street lunch.",
+    "sources": [
+      {
+        "url": "https://www.seaglasscarousel.nyc/plan-your-visit/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.thebattery.org/destinations/seaglass/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bpca.ny.gov/place/the-esplanade/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.statueoflibertytour.com/blog/battery-park-nycs-gateway-to-the-statue-of-liberty/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/battery-park-parking",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:21:54.110Z"
+  },
+  {
+    "id": "brooklyn-bridge-walkway-manhattan",
+    "name": "Brooklyn Bridge Pedestrian Walkway (Manhattan Entry)",
+    "desc": "Iconic 1.1-mi walk back to BK with skyline framing; Manhattan entry at City Hall/Centre St.",
+    "longDesc": "Enter the wood-planked promenade at Centre Street near City Hall Park and stroll the 1.1-mile span back toward DUMBO for the postcard skyline shot through the Gothic arches. As of spring 2026, NYC DOT has fully separated pedestrians from cyclists at the Manhattan approach and doubled the southern City Hall crosswalk ahead of the FIFA World Cup, making the entry far less chaotic than the pre-redesign squeeze (nyc.gov, 2026-03). Free, 24/7, and roughly a 30-40 minute walk one way at a photo-friendly pace.",
+    "url": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "photo",
+      "active",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "24/7",
+    "notes": "Manhattan-side pedestrian entry sits at Centre St & Park Row on the east edge of City Hall Park, ~15-min walk north from the Charging Bull, making it the natural connector from a FiDi mini-loop back to Brooklyn (nylikeanative.com). 2026 redesign physically separates the bike lane from the walkway at the Manhattan approach for the first time (newyorkyimby.com, 2026-03). Park near IC and either rideshare/subway to FiDi or stash the car DUMBO-side at one of the Brooklyn Bridge Park lots — the iconic skyline+arch shots happen in the last third walking westbound, so going Manhattan→Brooklyn is the photographer's direction.",
+    "sources": [
+      {
+        "url": "https://www.nyc.gov/mayors-office/news/2026/03/mayor-mamdani-announces-redesigned-bike-and-pedestrian-connectio",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://newyorkyimby.com/2026/03/redesign-revealed-for-pedestrian-and-bike-path-to-brooklyn-bridge.html",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.nylikeanative.com/brooklynbridgewalk.html",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://brooklynbridgepark.org/places-to-see/brooklyn-bridge/",
+        "accessed": "2026-05-18"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T14:23:53.210Z"
+  },
+  {
+    "id": "nom-wah-nolita",
+    "name": "Nom Wah Nolita (Test Kitchen)",
+    "desc": "Nom Wah's fast-casual NoLiTa offshoot — same dim sum DNA, more seats, walk-in only.",
+    "longDesc": "Opened in 2016 as Nom Wah's 'test kitchen' incubator at 10 Kenmare St, this is the fast-casual sibling to the Doyers Tea Parlor. Self-service ordering, an expanded dumpling lineup (shrimp & snow pea, pork siu mai, soup dumplings), scallion pancakes, and rotating monthly collaborations. Much higher capacity than Doyers, so the wait is usually shorter — but it is NOT a reservations escape valve; the official site states 'walk-in only.'",
+    "url": "https://www.nomwah.com/nolita",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/685f0b9455de2873870167ed/68ad9890-ee79-4c90-a682-078179b19a5c/dumplings-assorted-barbara-leung.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "11:30-21:45",
+    "notes": "ACTUALLY MANHATTAN, NOT BROOKLYN — 10 Kenmare St, NoLiTa (zone field set to 'dumbo' as the closest valid enum value, since the corpus has no Manhattan zone). Drive from IC is ~18-22 min via Manhattan Bridge weekends. Walk-in only per official site (https://www.nomwah.com/nolita) — corrects the task brief premise that Nolita takes Resy; only Doyers Tea Parlor is on Resy. Wait is typically shorter than Doyers because of higher capacity and fast-casual format. Weekend street parking in NoLiTa is brutal; expect to use a garage (SP+ at 50 Bowery or Champion Parking at 18 Spring St, ~$25-40 for 2hrs). Open daily 11:30 AM – 9:45 PM, including both weekend days (source: nomwah.com/nolita).",
+    "sources": [
+      {
+        "url": "https://www.nomwah.com/nolita",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/nom-wah-nolita-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/nom-wah-tea-parlor",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T14:26:19.345Z"
   }
 ]
