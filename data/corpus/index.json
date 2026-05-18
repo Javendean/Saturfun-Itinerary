@@ -17749,12 +17749,12 @@
   {
     "id": "new-world-mall-food-court",
     "name": "New World Mall Food Court",
-    "desc": "Sub-level Flushing food court with 30+ regional Chinese, Uyghur, Taiwanese & Korean stalls — indoor backup if Nan Xiang's queue is brutal.",
-    "longDesc": "A basement-level food hall under the Flushing mega-mall, 32 independent stalls cover Chongqing xiao mian, Lanzhou hand-pulled noodles, Uyghur lamb skewers (Tarim), Joe's Steam Rice Roll, jianbing, mini hot pot, bubble tea (Tiger Sugar, Gong Cha) and more. Cash-and-card kiosks, communal seating for ~400, weekend lunch rush is loud and elbows-out — exactly the high-density foodie scene Saturfun chats want. Anchor use case: if Nan Xiang Xiao Long Bao next door is mobbed (which it usually is), walk 60 seconds and graze stalls instead.",
+    "desc": "Basement pan-Asian food hall with 32 stalls — hand-pulled noodles, steam rice rolls, soup dumplings, bubble tea",
+    "longDesc": "Located in the basement of New World Mall in downtown Flushing, this is one of NYC's largest authentic Asian food courts with 32 vendors spanning Sichuan, Taiwanese, Uyghur, Korean, Shanghainese, and Cantonese cuisines. Standouts include Joe's Steam Rice Roll, Lan Zhou Handmade Noodles, Tarim Uyghur Food, and Xi'an noodles, plus Tiger Sugar and Gong Cha for dessert drinks. Sits directly across Roosevelt Ave from Sky View Center, making it a natural savory-before-dessert pairing on a Queens crawl.",
     "url": "https://www.newworldmallnyc.com/food-court",
-    "photoUrl": "",
+    "photoUrl": "https://static.wixstatic.com/media/11062b_57c51fd473f14ccbb6bae7bd98d1d65d~mv2.jpg",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
       "curious",
@@ -17766,35 +17766,31 @@
     ],
     "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "35 min",
+    "driveFromIC": "32 min",
     "hoursWeekend": "10:00-22:00",
-    "notes": "Actually in Flushing, Queens (136-20 Roosevelt Ave) — outside the Brooklyn zone enum; 'greenpoint' is used as a directional proxy on the drive route via BQE → Grand Central Pkwy. 350-spot underground garage; no free parking unless you shop at J-Mart upstairs and get the receipt stamped for 2 hours validation (newworldmallnyc.com). Topic-named stalls have rotated: 'Tianjin Foods' (Ste 27, jianbing/savory pancakes) is CLOSED per Yelp, and 'J-Michelle Hot Pot' is not in the current 32-stall roster — likely renamed or replaced by Xiao Luo Luo / Lao Ma Ma La Tang for spicy/hot pot needs. Live anchor stalls worth name-dropping in chat: Tarim Uyghur, Lan Zhou Handmade Noodles, Joe's Steam Rice Roll, Chong Qing Zaier, Xi'an Noodles. Halal available via Tarim Uyghur; vegetarian via noodle and dumpling stalls. Halal+vegetarian dietary tags reflect roster coverage, not every stall (newworldmallnyc.com; gothamist; mommypoppins).",
+    "notes": "Flushing/Queens venue — ~32 min drive from Industry City via BQE/LIE, longer than the standard 10-25 min IC radius but justified as a Sky View Center pair (literally across Roosevelt Ave). Parking garage at 40-21 Main St; no food-court validation, but a JMart upstairs receipt unlocks 2 hrs free (newworldmallnyc.com). Tarim Uyghur Food covers halal lamb skewers and hand-pulled noodles. Vegetarian-friendly via scallion pancakes, vegetable dumplings, and bubble tea stalls. Cash preferred at many counters; bring small bills. Peak crowds 12-2pm weekends — arrive at 11am or after 3pm for shorter lines (yelp.com). Pairs perfectly with Sky View dessert run + Flushing Mall browsing.",
     "sources": [
       {
         "url": "https://www.newworldmallnyc.com/food-court",
-        "accessed": "2026-05-18T05:15:00Z"
+        "accessed": "2026-05-18T05:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/new-world-mall-food-court-flushing",
-        "accessed": "2026-05-18T05:15:00Z"
+        "accessed": "2026-05-18T05:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/tianjin-foods-flushing",
-        "accessed": "2026-05-18T05:15:00Z"
+        "url": "https://www.newworldmallnyc.com/services-7",
+        "accessed": "2026-05-18T05:30:00Z"
       },
       {
-        "url": "https://gothamist.com/food/inside-the-food-court-madness-at-flushings-new-world-mall",
-        "accessed": "2026-05-18T05:15:00Z"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/New_World_Mall",
-        "accessed": "2026-05-18T05:15:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/new-world-mall-food-court",
+        "accessed": "2026-05-18T05:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T05:19:48.869Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T05:24:17.957Z"
   },
   {
     "id": "xian-famous-foods-williamsburg",
@@ -17937,15 +17933,15 @@
   {
     "id": "gantry-plaza-state-park",
     "name": "Gantry Plaza State Park",
-    "desc": "LIC waterfront park with the iconic Pepsi-Cola sign and unobstructed Midtown skyline views, free entry",
-    "longDesc": "A 12-acre Hunters Point riverside park along Center Boulevard, anchored by two restored 1925 transfer-bridge gantries and the 120-ft × 60-ft neon Pepsi-Cola sign relocated here in 2009 (parks.ny.gov). Piers and a recreational dock deliver arguably the best public vantage of the Empire State Building, Chrysler, and UN — magic hour and the 30 minutes after sunset are the payoff. Pairs neatly with Kyclades a few blocks inland for a Queens photo-then-dinner combo.",
-    "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
+    "desc": "Waterfront park in LIC with restored gantries and the iconic Pepsi-Cola sign framing the Manhattan skyline.",
+    "longDesc": "A 12-acre East River park in Long Island City built on the bones of the old Long Island Rail Road float-bridge terminal, with two preserved black-steel gantries and the landmarked 1940 Pepsi-Cola sign hovering over the promenade. Piers, lounge chairs, and a misting fountain make it a low-effort photo-and-stroll stop, with point-blank views of Midtown across the river. Hard pivot from Brooklyn — best paired with a coffee or bite in Hunters Point before heading back.",
+    "url": "https://parks.ny.gov/parks/gantryplaza",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "greenpoint",
+    "zone": "long-island-city",
     "vibe": [
-      "photo",
       "chill",
+      "photo",
       "romantic"
     ],
     "dietary": [],
@@ -17953,29 +17949,21 @@
     "duration": "45-60 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "08:00-22:00",
-    "notes": "Free state park, open 8am-10pm daily (parks.ny.gov). Iconic 120-ft cursive ruby neon Pepsi-Cola sign reassembled in park in 2009; original 1940 (Wikipedia). Best shot: walk the Recreational Dock off Center Blvd toward the water for the Empire State / UN composition (explorest.com). Sunset + 20 min twilight is peak; full darkness lights up the skyline (techpulse.com). Weekend parking: small lot at 46th Ave & Center Blvd plus metered street parking — LIC streets tight on weekends, arrive before sundown. ~5 min walk to Kyclades Seafood. Note: park sits in LIC/Queens, not a Brooklyn zone — tagged 'greenpoint' as nearest geographic cluster.",
+    "notes": "Free entry; restrooms on-site. Weekend parking: metered street spots along Center Blvd and 48th Ave are usually findable before noon; the LIC Landing lot at 52-10 Center Blvd is the closest paid backup (parks.ny.gov). Pepsi-Cola sign is NYC-landmarked (1940 original, relocated 2009) and lit after dusk — golden-hour and night shots both work (NYC LPC designation, 2016). Pairs well with Hunters Point South Park immediately to the south for a longer waterfront walk.",
     "sources": [
       {
-        "url": "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://parks.ny.gov/parks/gantryplaza/details.aspx",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Gantry_Plaza_State_Park",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.explorest.com/places/new-york/long-island-city/gantry-plaza-state-park-recreational-dock-view-of-manhattan",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://licpost.com/new-seating-area-added-at-gantry-plaza-state-park-with-views-of-manhattan-skyline",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.nyc.gov/site/lpc/designations/pepsi-cola-sign.page",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T02:26:10.792Z"
+    "lastResearchedAt": "2026-05-18T05:31:16.068Z"
   },
   {
     "id": "carroll-park",
@@ -18428,50 +18416,50 @@
   {
     "id": "hunters-point-south-park",
     "name": "Hunters Point South Park",
-    "desc": "LIC waterfront park with cantilevered skyline overlook, tidal salt marsh, and kayak launch.",
-    "longDesc": "Sprawling 11-acre waterfront park directly south of Gantry Plaza, with a 30-foot cantilevered platform jutting over the East River for sweeping Manhattan skyline views. Phase 2 added 1.5 acres of newly-established tidal salt marsh wetlands, a kayak launch on Newtown Creek, and Nobuho Nagasawa's 'Luminescence' moon-phase sculpture installation that glows at night. Pair it with Gantry Plaza as one extended LIC waterfront stop — same drive, same parking pool.",
+    "desc": "11-acre LIC waterfront park with lawn, playgrounds, and a cantilevered Manhattan-skyline overlook",
+    "longDesc": "Award-winning waterfront park on the southern end of LIC, designed by SWA/Balsley and Weiss/Manfredi across two phases (Phase I 2013, Phase II summer 2018). Newer than Gantry Plaza next door, it offers a generous central green, three modern playgrounds, sand volleyball, basketball, a dog run, picnic terraces, and a 30-foot cantilevered viewing platform that frames the Midtown and One World Trade skyline across the East River.",
     "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "chill",
+      "active",
       "photo",
-      "curious",
-      "active"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "45-75 min",
-    "driveFromIC": "20 min",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Park is technically in Long Island City (Queens) — closest zone in the corpus enum is Greenpoint, just across Newtown Creek. Drive from Industry City via Gowanus/BQE is ~18-22 min on weekend mornings; same parking pool as Gantry Plaza (street parking on Center Blvd / 2nd St is usually findable on Sat/Sun mornings, with the paid Hunters Point South Parking Corp garage at 5-49 Borden Ave as backup). Phase 2 (opened 2018) added the cantilevered overlook + salt marsh wetlands (NYC Parks press release 21586). The southern kayak launch on Newtown Creek supports free seasonal community paddles run by HPP Conservancy. 'Luminescence' moon-dome installation is especially photogenic at dusk (Untapped New York). Pavilion has restrooms + seasonal concessions.",
+    "notes": "ZONE NOTE: park is in LIC (Queens), not Brooklyn — current enum lacks an LIC value; tagged 'greenpoint' as the geographically nearest zone (across Newtown Creek). Address 4-10 Center Blvd at 50 Ave; closest paid parking at Hunters Point South Parking Corp, 1-20 56th Ave; weekend street parking tight after noon (Yelp/SpotAngels). ~11 acres total spanning Phase I (2013) + Phase II (2018, 5.5 acres of restored industrial waterfront). Pavilion concession/cafe near the basketball court. Designed by SWA/Balsley + Weiss/Manfredi; 2018 ASLA + GOV Design Gold winner (ASLA 2019).",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/hunters-point-south-park",
-        "accessed": "2026-05-16"
+        "accessed": "2026-05-18T05:30:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/parks/hunters-point-south-park/pressrelease/21586",
-        "accessed": "2026-05-16"
+        "url": "https://www.yelp.com/biz/hunters-point-south-park-long-island-city",
+        "accessed": "2026-05-18T05:30:00Z"
       },
       {
-        "url": "https://www.hunterspointparks.org/aboutparks",
-        "accessed": "2026-05-16"
+        "url": "https://swabalsley.com/hunters_point_south_phase_2/",
+        "accessed": "2026-05-18T05:30:00Z"
       },
       {
-        "url": "https://www.untappedcities.com/10-fun-facts-about-the-new-hunters-point-south-park-in-long-island-city/",
-        "accessed": "2026-05-16"
+        "url": "https://www.asla.org/2019awards/639982-Hunters_Point_South_Waterfront_Park.html",
+        "accessed": "2026-05-18T05:30:00Z"
       },
       {
-        "url": "https://www.6sqft.com/photos-phase-two-of-hunters-point-south-park-officially-opens-on-the-lic-waterfront/",
-        "accessed": "2026-05-16"
+        "url": "https://www.hunterspointparks.org/",
+        "accessed": "2026-05-18T05:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T21:20:41.639Z"
+    "lastResearchedAt": "2026-05-18T05:33:43.569Z"
   },
   {
     "id": "domino-park",
@@ -37969,5 +37957,95 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T05:21:43.004Z"
+  },
+  {
+    "id": "tiger-sugar-flushing",
+    "name": "Tiger Sugar Flushing",
+    "desc": "Taiwanese brown-sugar boba with hand-poured tiger-stripe syrup — quick photo grab steps from Sky View",
+    "longDesc": "The original Taiwan-imported brown sugar boba chain, parked on Main St about one block from Sky View Center. Order the signature Brown Sugar Boba Milk with Cream Mousse: warm pearls hand-stripe the cup against cold milk for the iconic 'tiger' pattern that holds for ~30 seconds — built for a photo, then a sip. Useful as the fallback when Meet Fresh inside Sky View has a 20+ minute queue.",
+    "url": "https://www.yelp.com/biz/tiger-sugar-flushing-2",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "flushing",
+    "vibe": [
+      "photo",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "15-25 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "11:00-21:30",
+    "notes": "40-10 #A Main St, Flushing NY 11354, ~3-min walk from Sky View Center at 40-24 College Point Blvd (allmenus). Signature Brown Sugar Boba Milk w/ Cream Mousse ~$5.51; basic brown sugar boba teas $4.60-$5.51 (allmenus). Sibling location at 136-20 Roosevelt Ave in New World Mall runs 10:30-21:00 — Main St hours typically track within ~30 min but call (347) 732-4001 to confirm (yelp). Drink the stripes within 30 seconds before they blur. Cash + card; tiny storefront, mostly to-go.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/tiger-sugar-flushing-2",
+        "accessed": "2026-05-18T05:25:00Z"
+      },
+      {
+        "url": "https://www.allmenus.com/ny/flushing/839255-tiger-sugar/menu/",
+        "accessed": "2026-05-18T05:25:00Z"
+      },
+      {
+        "url": "https://www.seamless.com/menu/tiger-sugar-40-10-a-main-st-flushing/2034876",
+        "accessed": "2026-05-18T05:25:00Z"
+      },
+      {
+        "url": "https://qns.com/2019/05/popular-taiwanese-brand-tiger-sugar-to-celebrate-grand-opening-in-flushing-on-may-11/",
+        "accessed": "2026-05-18T05:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:27:14.647Z"
+  },
+  {
+    "id": "spot-dessert-bar-flushing",
+    "name": "SPOT Dessert Bar (Flushing)",
+    "desc": "Iron Chef Ian Kittichai's Asian-fusion dessert bar — matcha lava cake, edible-soil bonsai pots, golden toast.",
+    "longDesc": "SPOT Dessert Bar's Flushing outpost serves Asian-inspired plated desserts designed by Iron Chef Thailand Ian Kittichai. Signatures include the Matcha Lava (dark chocolate lava cake with matcha ganache center, served over green tea ice cream), Golden Toast (honey-buttered brick toast with strawberries and condensed-milk ice cream), and the photogenic 'Harvest' bonsai pot of chocolate soil and a chocolate-stem plant. Late hours, Illy coffee, bubble teas and floats round out a polished sit-down dessert experience.",
+    "url": "https://www.spotdessertbar.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "flushing",
+    "vibe": [
+      "foodie",
+      "photo",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "11:30-01:00 Fri/Sat, 11:30-00:00 Sun",
+    "notes": "Address: 39-16 Prince St, Flushing, NY 11354. Best for foodie+photo tracks — Matcha Lava and Harvest bonsai plate are highly Instagrammable (spotdessertbar.com). Late close makes it a strong nightcap stop on a Flushing dessert crawl. Drive from IC is ~30 min via BQE/Grand Central — slightly past the 10-25 min window but justified as part of the existing Flushing dessert axis. Street parking on Prince/37th Ave is tight on weekends; the Flushing Municipal Lot (Union St) is the reliable option (tripadvisor.com).",
+    "sources": [
+      {
+        "url": "https://www.spotdessertbar.com/",
+        "accessed": "2026-05-18T05:30:00Z"
+      },
+      {
+        "url": "https://www.spotdessertbar.com/menu",
+        "accessed": "2026-05-18T05:30:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g47729-d11956829-Reviews-Spot_Dessert_Bar_Flushing-Flushing_Queens_New_York.html",
+        "accessed": "2026-05-18T05:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/spot-dessert-bar-flushing",
+        "accessed": "2026-05-18T05:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T05:29:30.565Z"
   }
 ]

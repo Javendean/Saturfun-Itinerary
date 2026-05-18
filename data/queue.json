@@ -1,35 +1,5 @@
 [
   {
-    "topic": "New World Mall Food Court Flushing (basement food hall)",
-    "reason": "37-stall pan-Asian food court directly across from Sky View — natural savory-crawl complement to the dessert stop, same parking validation play",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:22:43.353Z"
-  },
-  {
-    "topic": "Tiger Sugar Flushing (brown sugar boba) — Main St",
-    "reason": "Alternate post-crawl boba within 5-min walk of Sky View if Meet Fresh has a line; visually distinct tiger-stripe drink for photo vibe",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:22:43.353Z"
-  },
-  {
-    "topic": "SPOT Dessert Bar Flushing — Korean-Japanese fusion desserts",
-    "reason": "Higher-end photogenic dessert option (matcha lava cake, bonsai pots) to extend the Flushing dessert axis for foodie+photo tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:22:43.353Z"
-  },
-  {
-    "topic": "SCHEMA PATCH: extend zone enum with 'long-island-city' and 'flushing'",
-    "reason": "This Gantry Plaza entry and every future LIC/Flushing venue is currently mis-zoned to industry-city; corpus integrity and downstream zone filters depend on the patch landing before more Queens crawls",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:24:52.283Z"
-  },
-  {
-    "topic": "Hunters Point South Park (LIC waterfront, southern extension of Gantry Plaza)",
-    "reason": "Adjacent waterfront with newer playgrounds + lawn, expands LIC cluster and stress-tests the new zone enum",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T20:24:52.284Z"
-  },
-  {
     "topic": "MoMA PS1, Long Island City",
     "reason": "Indoor LIC anchor for rainy-day swap; pairs with Gantry Plaza on the same drive and broadens vibe coverage to 'curious'",
     "requestedBy": "agent",
@@ -15316,5 +15286,95 @@
     "reason": "Manhattan comparison point for the 'photogenic Asian dessert' slot when the group can't drive to Flushing",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T05:21:43.035Z"
+  },
+  {
+    "topic": "Joe's Steam Rice Roll Flushing original location",
+    "reason": "Standout New World Mall stall that has expanded to standalone shops — Michelin Bib Gourmand alum, anchors any Flushing crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:24:17.981Z"
+  },
+  {
+    "topic": "Tai Pan Bakery Flushing Main Street",
+    "reason": "Classic Cantonese bakery a 4-min walk from New World Mall — egg tarts and cocktail buns extend the Flushing food walk before driving back to IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:24:17.981Z"
+  },
+  {
+    "topic": "Flushing Meadows-Corona Park Unisphere",
+    "reason": "Iconic photo + walk anchor 10 min from New World Mall — turns a Flushing food run into a half-day Queens loop with photo vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:24:17.981Z"
+  },
+  {
+    "topic": "Möge Tee Flushing (Main St) — fruit tea + cheese foam",
+    "reason": "Different boba aesthetic (layered fruit teas vs brown sugar) within the same Sky View walking radius; covers the 'no dairy / lighter drink' guest",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:27:14.671Z"
+  },
+  {
+    "topic": "Xing Fu Tang Flushing — hand-stirred brown sugar boba",
+    "reason": "Direct rival to Tiger Sugar on the same street; flame-caramelized pearls give a smokier flavor and a different photo (the wok stir, not the stripes)",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:27:14.671Z"
+  },
+  {
+    "topic": "Joe's Steam Rice Roll — 40-09 Main St",
+    "reason": "Across-the-street cheap-eats pairing for the boba stop; Cantonese cheung fun is a 5-min savory counterweight before/after the sweet drink",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:27:14.671Z"
+  },
+  {
+    "topic": "Meet Fresh Flushing — Taiwanese taro/grass-jelly dessert bowls",
+    "reason": "Pairs as the savory-leaning, lower-price counterpoint to SPOT on a Flushing dessert crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:29:30.598Z"
+  },
+  {
+    "topic": "Tiger Sugar Flushing — brown sugar boba flagship",
+    "reason": "Walkable from SPOT; extends the photo/foodie axis with a takeaway drink stop between sit-down desserts",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:29:30.598Z"
+  },
+  {
+    "topic": "Tous Les Jours Flushing — Korean-French bakery cafe",
+    "reason": "Daytime/early-evening complement to SPOT's late-night dessert positioning in the same neighborhood cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:29:30.598Z"
+  },
+  {
+    "topic": "Hunters Point South Park (LIC waterfront)",
+    "reason": "Contiguous waterfront south of Gantry; expands LIC zone with a second free park stop and locks in the new long-island-city zone usage.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:31:16.093Z"
+  },
+  {
+    "topic": "MoMA PS1 (LIC)",
+    "reason": "Anchor cultural venue for the LIC zone; contemporary art with weekend Warm Up programming and on-street parking — backbone for an LIC track.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:31:16.093Z"
+  },
+  {
+    "topic": "Flushing Meadows–Corona Park / Unisphere (Flushing)",
+    "reason": "Seeds the new flushing zone with a marquee photo+walk anchor; justifies the enum extension on the Queens side and is reachable from IC via Grand Central Pkwy in ~28 min.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:31:16.093Z"
+  },
+  {
+    "topic": "Gantry Plaza State Park (iconic Pepsi-Cola sign + gantries)",
+    "reason": "Directly adjacent to the north — completes the LIC waterfront walk and is the photo anchor of the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:33:43.596Z"
+  },
+  {
+    "topic": "LIC Landing café at Hunters Point pavilion",
+    "reason": "On-site coffee/snack stop tied to this park; fills a casual-food slot in the LIC track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:33:43.596Z"
+  },
+  {
+    "topic": "Add 'long-island-city' to zone enum",
+    "reason": "Schema gap surfaced by this entry — LIC has 3+ candidate venues but no native zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T05:33:43.596Z"
   }
 ]
