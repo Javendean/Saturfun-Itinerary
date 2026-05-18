@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Court Pastry Shop (298 Court St, Carroll Gardens) — Sicilian cannoli + lobster tails, walkable from Mazzola",
-    "reason": "Direct comp/complement to Mazzola's pastry case; user can compare two heritage Italian bakeries on one trip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:35:32.998Z"
-  },
-  {
-    "topic": "F. Monteleone Bakery & Cafe (355 Court St) — third heritage Italian bakery in Carroll Gardens",
-    "reason": "Rounds out the Carroll Gardens Italian-bakery corpus so the itinerary engine can pick the best fit by hours/vibe",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:35:32.998Z"
-  },
-  {
-    "topic": "Hamilton Avenue Footbridge at Luquer St — pedestrian shortcut Red Hook↔Carroll Gardens",
-    "reason": "Lets the driver park once and let passengers walk the seam — material for multi-zone tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:37:49.774Z"
-  },
-  {
-    "topic": "Court St / Smith St curbside parking reality on Saturday afternoons",
-    "reason": "Validates the second half of the Flushing→Carroll Gardens drop; pairs with this exit intel",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:37:49.774Z"
-  },
-  {
-    "topic": "Van Brunt St (Red Hook) weekend parking reality near Fairway/Pioneer Works",
-    "reason": "The straight-down-Hamilton alternative; needed if Carroll Gardens curb is saturated",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T18:37:49.774Z"
-  },
-  {
     "topic": "Marsha P. Johnson State Park Williamsburg waterfront",
     "reason": "Sits between Smorgasburg and Domino Park — natural extension of the Flushing-day waterfront walk loop, candidate as its own photo+chill stop",
     "requestedBy": "agent",
@@ -13822,5 +13792,101 @@
     "reason": "Lobster tails and sfogliatelle finish the Italian morning crawl with a dessert stop on the same block",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T00:09:01.919Z"
+  },
+  {
+    "topic": "Pasticceria Monteleone (355 Court St, Carroll Gardens) — third heritage Italian pastry case on the same Court St strip",
+    "reason": "Completes a 3-bakery Court St cannoli crawl alongside Mazzola + Court Pastry, all within 4 blocks",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:11:00.492Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods (460 Court St, Carroll Gardens) — fresh mozzarella, house-made pastas, salumi counter",
+    "reason": "Savory heritage Italian counter to round out the Carroll Gardens pastry crawl into a real lunch-stop trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:11:00.492Z"
+  },
+  {
+    "topic": "Ferdinando's Focacceria (151 Union St, Carroll Gardens) — 1904 Sicilian sandwich shop, panelle and vastedda",
+    "reason": "Same Sicilian-immigrant lineage as Court Pastry; gives a savory anchor in the same 3-block radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:11:00.492Z"
+  },
+  {
+    "topic": "Carroll Gardens Italian-bakery comparison matrix: Court Pastry vs Mazzola vs Monteleone (hours, seating, signature item, parking)",
+    "reason": "Lets the itinerary engine pick the right one per track instead of treating them as interchangeable",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:13:16.726Z"
+  },
+  {
+    "topic": "Caputo's Fine Foods (460 Court St) — Carroll Gardens Italian deli + fresh mozzarella",
+    "reason": "Pairs naturally with a bakery stop to build a Court St 'Italian food walk' mini-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:13:16.726Z"
+  },
+  {
+    "topic": "G. Esposito & Sons Jersey Pork Store (357 Court St) — heritage Italian butcher next door to Monteleone",
+    "reason": "Same-block pairing strengthens the Carroll Gardens cluster and is a photo/foodie anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:13:16.727Z"
+  },
+  {
+    "topic": "Coles Street footbridge egress — Carroll Gardens block between Hicks and Henry",
+    "reason": "Captures the Carroll Gardens-side mouth of the same seam so itinerary planner can route walks in either direction",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:15:30.958Z"
+  },
+  {
+    "topic": "Columbia Street Waterfront District walking stretch (Kane to Degraw)",
+    "reason": "Natural continuation once passengers exit the footbridge on the Red Hook side — adds bakery/bar nodes for the seam track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:15:30.958Z"
+  },
+  {
+    "topic": "Carroll Street Bridge (1889 wooden retractile bridge over Gowanus Canal)",
+    "reason": "Sister pedestrian-friendly bridge a few blocks east; pairs well with Hamilton footbridge for a 'Brooklyn historic crossings' curio track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:15:30.958Z"
+  },
+  {
+    "topic": "SpotHero garage options near Court/Smith St (360 Bond, 22 Bond, BQE-adjacent lots) — pricing and Saturday availability",
+    "reason": "Concrete fallback when curbside fails; needed to make the Carroll Gardens drop bulletproof",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:17:34.127Z"
+  },
+  {
+    "topic": "Carroll Gardens side-street parking sweet spots (President / Carroll / 1st–4th Place between Hicks and Smith)",
+    "reason": "Where locals actually park on Saturdays; pairs with the corridor difficulty intel",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:17:34.127Z"
+  },
+  {
+    "topic": "Carroll Park (Carroll St + Smith St) as a meet-up / kid-friendly anchor for a Carroll Gardens track",
+    "reason": "Anchors a track in the zone the parking intel describes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:17:34.127Z"
+  },
+  {
+    "topic": "Red Hook Grain Terminal free lot (Van Brunt + Beard) — backup parking anchor",
+    "reason": "Second free-lot option when Food Bazaar is full; closes the Red Hook parking story so itinerary can confidently route via Hamilton without curb anxiety",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:20:15.459Z"
+  },
+  {
+    "topic": "Pioneer Works (159 Pioneer St) — current weekend programming + free admission status",
+    "reason": "Anchor cultural stop within 5-min walk of the parking lot; needs verified Wed-Sun 12-6pm hours and current exhibition to justify the Red Hook drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:20:15.460Z"
+  },
+  {
+    "topic": "Sunny's Bar (253 Conover St) weekend hours + bluegrass schedule",
+    "reason": "Iconic Red Hook waterfront dive within walking distance of the lot; completes a 'park once at Food Bazaar, walk Van Brunt + Conover' track without re-driving",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:20:15.460Z"
+  },
+  {
+    "topic": "Steve's Authentic Key Lime Pies (Pier 41) weekend hours",
+    "reason": "Photo-worthy waterfront stop on the same walk; tightens the Red Hook track into a coherent foot-loop from one parking anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T00:20:15.460Z"
   }
 ]
