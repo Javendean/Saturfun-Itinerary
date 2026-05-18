@@ -6796,50 +6796,45 @@
   {
     "id": "brooklyn-crab",
     "name": "Brooklyn Crab",
-    "desc": "Tri-level Red Hook seafood shack with Statue of Liberty views, crab buckets, mini-golf, and harbor breeze",
-    "longDesc": "Open-air three-story crab shack on Reed Street with picnic-table dining, a rooftop bar overlooking Red Hook Channel and the Statue of Liberty, and free mini-golf out back. Operating since 2012 and confirmed open as of May 2026 (1,220+ Yelp reviews, active Resy/OpenTable). Romantic-leaning at sunset, easy street parking, and the rare Brooklyn date spot that lets you eat oysters in a sea breeze without leaving the borough.",
+    "desc": "Tri-level seafood shack on the Red Hook waterfront with beer garden, mini-golf, and Statue of Liberty views.",
+    "longDesc": "A 24 Reed Street institution since 2012, Brooklyn Crab serves buckets of crab and raw oysters across three decks, the upper two looking out over the Red Hook Channel toward Lady Liberty (timeout.com). The ground floor backyard - Reed Park - has free putt-putt, cornhole, arcade games, and a beer garden, making it more like a waterfront block party than a sit-down dinner. Kitchen runs noon to 10pm daily, so it's the early-evening seafood half of a Red Hook night before drifting four blocks east to Sunny's for the late-night closer.",
     "url": "https://www.brooklyncrab.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
     "vibe": [
-      "romantic",
+      "chill",
       "foodie",
-      "photo",
-      "chill"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "75-90 min",
+    "duration": "75-120 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00",
-    "notes": "Address 24 Reed St, Brooklyn NY 11231; phone (718) 643-2722. Rooftop has Lady Liberty sightline (Time Out, NYCTourism). No private lot — street parking is unusually easy for NYC per Loving New York. Free NYC Ferry on weekends if car is parked at IC. Reservations on Resy/OpenTable; walk-ins fine off-peak. Outdoor-heavy — best Apr-Oct evenings.",
+    "hoursWeekend": "12:00-22:00",
+    "notes": "Kitchen closes 10pm Sat/Sun - pair with Sunny's Bar (4 min away on Conover) for a true late-night Red Hook close (brooklyncrab.com/location). No dedicated lot but street parking on Reed/Van Brunt is generally easy on weekends (yelp.com). Ask for the second or third deck for harbor views; ground-floor beer garden 'Reed Park' is the photo backdrop with putt-putt and cornhole (timeout.com). Happy hour is the value play on the bucket menu.",
     "sources": [
       {
         "url": "https://www.brooklyncrab.com/location/brooklyn-crab/",
-        "accessed": "2026-05-17T18:20:00Z"
+        "accessed": "2026-05-18T07:25:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/brooklyn-crab-brooklyn",
-        "accessed": "2026-05-17T18:20:00Z"
-      },
-      {
-        "url": "https://www.opentable.com/r/brooklyn-crab-brooklyn",
-        "accessed": "2026-05-17T18:20:00Z"
+        "url": "https://www.brooklyncrab.com/faq/",
+        "accessed": "2026-05-18T07:25:00Z"
       },
       {
         "url": "https://www.timeout.com/newyork/restaurants/brooklyn-crab",
-        "accessed": "2026-05-17T18:20:00Z"
+        "accessed": "2026-05-18T07:25:00Z"
       },
       {
-        "url": "https://loving-newyork.com/brooklyn-crab-restaurant-nyc/",
-        "accessed": "2026-05-17T18:20:00Z"
+        "url": "https://www.yelp.com/biz/brooklyn-crab-brooklyn",
+        "accessed": "2026-05-18T07:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T18:26:16.278Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T07:23:44.524Z"
   },
   {
     "id": "rucola-boerum-hill",
@@ -7536,9 +7531,9 @@
   {
     "id": "brooklyn-ice-house",
     "name": "Brooklyn Ice House",
-    "desc": "Cash-only Red Hook dive with pulled-pork sliders, deep beer list, and a huge backyard until 4am",
-    "longDesc": "A scruffy, no-frills Red Hook institution at 318 Van Brunt where pulled-pork sliders, Frito pie, bacon-wrapped 'dirty dogs', and tots come cheap, and a massive backyard with wooden picnic tables stays open into the small hours. The beer list runs from Belgian abbey ales to NY craft IPAs, the kitchen and bar both run 12pm–4am seven days a week, and it's cash-only — making it the canonical 'food after Sunny's' stop on a Red Hook night track.",
-    "url": "https://www.brooklynicehouse.com/",
+    "desc": "Cash-only Red Hook dive with backyard, $6 beer-and-shot combos, and proper BBQ till 11pm.",
+    "longDesc": "Quintessential Red Hook neighborhood dive at 318 Van Brunt St — a few blocks up from Sunny's — known for pulled pork, the Ice House Burger, Buffalo wings, and Frito pie alongside a deep beer list. Spacious backyard, pool tables, and open 12pm–4am daily with the kitchen running until 11pm, making it the strongest Sunny's-cluster fallback when a bluegrass night is at capacity. Strictly cash-only.",
+    "url": "https://www.nyctourism.com/nightlife/brooklyn-ice-house/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "red-hook",
@@ -7546,36 +7541,34 @@
       "chill",
       "foodie"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "12:00-04:00",
-    "notes": "Cash-only — hit an ATM before arriving (Yelp, NYC Tourism). Backyard with picnic tables is the draw in warm months; sliders + tots + a cheap pour is the canonical order. Black-bean burger covers the vegetarian case. Curbside parking on Van Brunt/Wolcott is usually easy on weekend evenings. Pairs naturally with Sunny's Bar (live music, kitchen-light) one block south.",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "12:00-04:00 (kitchen until 23:00)",
+    "notes": "Cash only — ATM inside but charges a fee (theinfatuation.com). Backyard is the move on warm nights; pool tables and jukebox indoors (p2bars.com). Frito pie and beer-and-shot combos at $6 each are the signature cheap eats (nyctourism.com). Street parking on Van Brunt / Pioneer is usually findable on weekends — same block radius as Sunny's so swap-in is trivial.",
     "sources": [
       {
         "url": "https://www.nyctourism.com/nightlife/brooklyn-ice-house/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T07:30:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/brooklyn-ice-house-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/brooklyn-ice-house",
+        "accessed": "2026-05-18T07:30:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/bars/brooklyn-ice-house-1",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.star-revue.com/the-ice-house-an-unchanging-neighborhood-icon-by-katherine-rivard/",
+        "accessed": "2026-05-18T07:30:00Z"
       },
       {
         "url": "https://p2bars.com/bars-near-me/brooklyn-ice-house/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T07:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T07:57:47.552Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T07:25:35.485Z"
   },
   {
     "id": "union-hall-park-slope",
@@ -19425,8 +19418,8 @@
   {
     "id": "sunday-in-brooklyn",
     "name": "Sunday in Brooklyn",
-    "desc": "Williamsburg all-day spot famous for skillet pancakes with hazelnut maple praline and brown butter.",
-    "longDesc": "An internationally-known New American restaurant a block from Domino Park, Sunday in Brooklyn built its reputation on the Sunday Pancakes™ — fluffy stacks doused in housemade hazelnut maple praline and brown butter. Weekend brunch is mostly walk-in with very limited reservations on Resy, so arrive early or expect a wait. The rest of the menu leans seasonal-veg-forward with a strong cocktail and pastry program.",
+    "desc": "All-day Williamsburg New American famous for skillet Sunday pancakes with hazelnut-maple praline",
+    "longDesc": "Internationally recognized neighborhood restaurant at 348 Wythe Ave serving breakfast, brunch, lunch, and dinner seven days a week. The signature dish is a single skillet-style pancake topped with hazelnut-maple praline; the broader menu leans seasonal New American with a strong vegetarian-friendly bench. Reservations via Resy strongly recommended for weekend brunch.",
     "url": "https://www.sundayinbrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -19434,38 +19427,38 @@
     "vibe": [
       "foodie",
       "chill",
-      "photo"
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "75-90 min",
+    "duration": "60-90 min",
     "driveFromIC": "18 min",
-    "hoursWeekend": "Sat 10:00-23:00, Sun 10:00-22:00",
-    "notes": "Signature dish is the Sunday Pancakes™ in single/double/triple ($18/$23/$26) topped with hazelnut maple praline and brown butter (sundayinbrooklyn.com/menus). Weekend brunch is largely walk-in; limited Resy slots. Street parking on Wythe/N 8th-9th is feasible Sunday morning before ~10:30am; otherwise paid lots near Domino Park. Hayan Choi pastry credit could not be independently confirmed via official sources as of 2026-05-16 — flag for double-check before publishing.",
+    "hoursWeekend": "08:00-22:00",
+    "notes": "Weekend service splits as Breakfast 8:00-9:30, Brunch 9:30-16:30, Midday 16:30-17:00, Dinner 17:00-22:00 (sundayinbrooklyn.com). Signature hazelnut-praline Sunday pancake is the must-order; menu is otherwise seasonal New American with solid vegetarian options. Resy reservations essential for brunch; walk-in dinner is more forgiving. Street parking on Wythe and surrounding S. 2nd / S. 3rd St can be found on weekends, plus a metered lot one block east; no dedicated venue parking. ~6.5 mi / 15-20 min from Industry City via Gowanus + BQE + Williamsburg Bridge approach.",
     "sources": [
       {
-        "url": "https://www.sundayinbrooklyn.com/menus/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.sundayinbrooklyn.com/about/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.sundayinbrooklyn.com/",
+        "accessed": "2026-05-18T07:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sunday-in-brooklyn-brooklyn-7",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T07:30:00Z"
       },
       {
-        "url": "https://www.purewow.com/food/sunday-in-brooklyn-pancake-recipe",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://guide.michelin.com/gb/en/new-york-state/brooklyn/restaurant/sunday-in-brooklyn",
+        "accessed": "2026-05-18T07:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/sunday-in-brooklyn-williamsburg/",
+        "accessed": "2026-05-18T07:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T22:42:04.978Z"
+    "lastResearchedAt": "2026-05-18T07:32:04.065Z"
   },
   {
     "id": "high-line-20th-st",
@@ -26419,46 +26412,47 @@
   {
     "id": "le-crocodile-williamsburg",
     "name": "Le Crocodile",
-    "desc": "All-day French brasserie inside the Wythe Hotel with a kitchen that runs to 11pm on weekends.",
-    "longDesc": "Le Crocodile is the Williamsburg brasserie from Chez Ma Tante chefs Aidan O'Neal and Jake Leiber, tucked into the lobby of the Wythe Hotel at 80 Wythe Ave. It serves earnest French fare — steak frites, escargot, roast chicken — in a Parisian-meets-NY room, and the kitchen stays open until 11pm Thursday through Saturday, making it a reliable late-dinner fallback when Greenpoint spots like Midnights wind down early.",
+    "desc": "All-day French brasserie at Wythe Hotel — steak au poivre, roast chicken, and late-night Parisian energy.",
+    "longDesc": "Chef partners Jake Leiber and Aidan O'Neal run this earnest neighborhood brasserie tucked inside the Wythe Hotel, serving classic French fare from breakfast through late dinner. Standouts include steak au poivre, roasted chicken with herb jus, and a strong wine list; the room glows golden after dark and pulls a stylish, design-forward Williamsburg crowd. A different-mood late-evening anchor than Four Horsemen — more bistro polish, less natty-wine grit, same cluster.",
     "url": "https://www.lecrocodile.com/",
     "photoUrl": "https://static.wixstatic.com/media/3e9cbe_f534f70871dd4014b3594cbf908419ab~mv2.jpeg",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
       "foodie",
-      "romantic"
+      "romantic",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$$",
     "duration": "90-120 min",
-    "driveFromIC": "20 min",
-    "hoursWeekend": "Sat 7:00-23:00, Sun 7:00-22:00",
-    "notes": "Located in Wythe Hotel lobby, 80 Wythe Ave, Williamsburg (lecrocodile.com). Hours: Mon-Wed & Sun 7am-10pm, Thu-Sat 7am-11pm — one of the later kitchens in north Brooklyn (yelp.com, nyctourism.com). Reservations via Resy strongly recommended for weekend dinner; walk-ins more feasible at the bar. Hotel valet plus paid street parking on Wythe/N 11th; weekend curbside is tight but doable past 9pm. Strong fallback when Greenpoint late-night spots close early; pairs well with a Bar Blondeau rooftop nightcap upstairs at the Wythe.",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "07:00-23:00 (Fri-Sat), 07:00-22:00 (Sun)",
+    "notes": "Inside Wythe Hotel at 80 Wythe Ave; Resy reservations strongly recommended for weekend dinner (lecrocodile.com). All-day service window means it works as a late anchor after a Williamsburg evening — kitchen runs until 23:00 Thu-Sat (yelp.com). Street parking on Wythe/Berry can be tight on Saturdays; Wythe Hotel valet is the reliable fallback. Steak au poivre and roast chicken are the menu signatures (nyctourism.com). Pairs with Four Horsemen as a different-mood Williamsburg foodie anchor in the same cluster.",
     "sources": [
       {
         "url": "https://www.lecrocodile.com/",
-        "accessed": "2026-05-17T22:35:00Z"
+        "accessed": "2026-05-18T07:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/le-crocodile-brooklyn",
-        "accessed": "2026-05-17T22:35:00Z"
+        "accessed": "2026-05-18T07:30:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/le-crocodile/",
-        "accessed": "2026-05-17T22:35:00Z"
+        "accessed": "2026-05-18T07:30:00Z"
       },
       {
         "url": "https://www.wythehotel.com/dining",
-        "accessed": "2026-05-17T22:35:00Z"
+        "accessed": "2026-05-18T07:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T22:39:10.751Z"
+    "lastResearchedAt": "2026-05-18T07:29:37.938Z"
   },
   {
     "id": "chez-moi",
@@ -39027,5 +39021,48 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T07:17:39.479Z"
+  },
+  {
+    "id": "wildair-les",
+    "name": "Wildair",
+    "desc": "Contra team's decade-old natural wine bar on Orchard St; peer-tier LES destination.",
+    "longDesc": "Opened 2015 by Jeremiah Stone and Fabian von Hauske as the walk-in counterpart to their tasting-menu spot Contra, Wildair is one of NYC's defining natural wine bars — a small plates menu (beef tartare is the non-negotiable, most plates top out around $35) paired with Jorge Riera's list of biodynamic, low-intervention bottles from France and Italy, heavy on pet-nat and outside-appellation producers. The Infatuation calls it a 'modern classic' that still outdoes the pack a decade in.",
+    "url": "https://www.wildair.nyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "90-120 min",
+    "driveFromIC": "22 min via Williamsburg Bridge",
+    "hoursWeekend": "Fri-Sat 17:30-22:30, Sun 17:30-22:00",
+    "notes": "Manhattan exception — flagged in corpus. Justification: peer-tier to Four Horsemen and from the Contra team, with Jorge Riera's wine program as a known draw for natural-wine pilgrims (wineandspiritsmagazine.com, theinfatuation.com). Drawbacks for the driving-anchored format: zero parking on Orchard St on weekends, ~22 min drive + bridge crossing each way, and the venue is tiny (walk-ins or reservation). 'zone' field is forced to williamsburg as the closest bridge-zone — real address is 142 Orchard St, Manhattan LES. Best use: a track that explicitly leans into a Manhattan natural wine pilgrimage; otherwise default to Four Horsemen in Williamsburg.",
+    "sources": [
+      {
+        "url": "https://www.wildair.nyc/",
+        "accessed": "2026-05-18T07:30:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/wildair",
+        "accessed": "2026-05-18T07:30:00Z"
+      },
+      {
+        "url": "https://www.wineandspiritsmagazine.com/reviews/restaurant/wildair",
+        "accessed": "2026-05-18T07:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/wildair-new-york",
+        "accessed": "2026-05-18T07:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T07:27:44.485Z"
   }
 ]

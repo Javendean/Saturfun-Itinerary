@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Brooklyn Crab Red Hook waterfront late-night",
-    "reason": "Another Red Hook waterfront option that complements a Sunny's closer for a fully-Red-Hook track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:03:15.648Z"
-  },
-  {
-    "topic": "The Ice House Red Hook divey bar with food",
-    "reason": "Backup dive-bar option in the same cluster if Sunny's is at capacity for a bluegrass night",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:03:15.648Z"
-  },
-  {
-    "topic": "Wildair natural wine bar Lower East Side (Manhattan exception)",
-    "reason": "Peer-tier natural wine destination from the Contra team; only justify if a Manhattan detour fits a track, otherwise skip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:05:19.912Z"
-  },
-  {
-    "topic": "Le Crocodile Williamsburg French brasserie at Wythe Hotel",
-    "reason": "Adjacent Williamsburg late-evening foodie anchor; pairs with Four Horsemen as a different-mood alternative within same cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:05:19.912Z"
-  },
-  {
-    "topic": "Sunday in Brooklyn restaurant Williamsburg",
-    "reason": "Williamsburg foodie staple with weekend brunch + dinner hours; broadens the Williamsburg cluster beyond wine-only stops",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:05:19.912Z"
-  },
-  {
     "topic": "Elsewhere Bushwick rooftop + multi-room music venue",
     "reason": "Pairs with House of Yes as a second Bushwick late-night anchor with a different vibe (indie/electronic over circus)",
     "requestedBy": "agent",
@@ -15934,5 +15904,89 @@
     "reason": "Outdoor multi-deck seafood spot 5 min from Hometown — fills the Track C 'photo + waterfront' slot if Hometown is sold out",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T07:21:49.597Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook waterfront brisket",
+    "reason": "Anchor lunch/early-dinner on Van Brunt that pairs with Sunny's nightcap when Brooklyn Crab is full",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:23:44.552Z"
+  },
+  {
+    "topic": "Valentino Pier Red Hook sunset view",
+    "reason": "Free 10-min Statue of Liberty photo stop between Brooklyn Crab and Sunny's to bridge the early-evening to late-night transition",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:23:44.552Z"
+  },
+  {
+    "topic": "Fort Defiance Red Hook cocktail bar with brunch food",
+    "reason": "Adjacent Van Brunt St option — fills the 'cocktails + real food' niche if both Sunny's and Ice House are over capacity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:25:35.517Z"
+  },
+  {
+    "topic": "Hometown Bar-B-Que Red Hook Texas-style BBQ",
+    "reason": "Heavier-meal pivot in same Red Hook cluster; pairs with Sunny's later in the evening since Sunny's kitchen is minimal",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:25:35.517Z"
+  },
+  {
+    "topic": "Red Hook Bait and Tackle Van Brunt dive bar",
+    "reason": "Third dive-bar fallback on the same corridor — keeps the cluster resilient if both Sunny's and Ice House are full",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:25:35.517Z"
+  },
+  {
+    "topic": "Four Horsemen natural wine bar Williamsburg (LCD Soundsystem's James Murphy)",
+    "reason": "Direct Brooklyn-side peer to Wildair; Michelin-starred natural wine destination at a fraction of the drive time from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:27:44.513Z"
+  },
+  {
+    "topic": "The Ten Bells natural wine bar LES Manhattan",
+    "reason": "If a Manhattan natural-wine track is justified, Ten Bells is the obvious second stop within 4 blocks of Wildair",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:27:44.513Z"
+  },
+  {
+    "topic": "Rolo's natural wine and wood-fire restaurant Ridgewood Queens",
+    "reason": "Adjacent outer-borough natural wine destination from former Roberta's/Frenchette team; tests whether Queens belongs in the driving corpus alongside Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:27:44.513Z"
+  },
+  {
+    "topic": "Bar Blondeau rooftop at Wythe Hotel — sunset cocktails with Manhattan skyline view",
+    "reason": "Same building as Le Crocodile, natural pre-dinner pairing, extends Williamsburg cluster with a high-photo rooftop drink stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:29:37.965Z"
+  },
+  {
+    "topic": "Lilia Williamsburg Missy Robbins handmade pasta",
+    "reason": "Another foodie-anchor alternative in the Williamsburg cluster, fills the high-end Italian slot opposite Le Crocodile's French",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:29:37.965Z"
+  },
+  {
+    "topic": "Wythe Hotel lobby and Lemon's rooftop weekend brunch",
+    "reason": "Daytime counterpart to Le Crocodile in the same building, useful for morning-track Williamsburg itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:29:37.965Z"
+  },
+  {
+    "topic": "Lilia restaurant Williamsburg pasta Missy Robbins",
+    "reason": "Anchor dinner option in the same Williamsburg cluster; Michelin-recognized handmade pasta, very different vibe (refined dinner) from Sunday in Brooklyn's all-day brunch energy",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:32:04.102Z"
+  },
+  {
+    "topic": "Marlow & Sons South Williamsburg seasonal restaurant",
+    "reason": "S. Williamsburg counterpart with rotating daily menu — complements Sunday in Brooklyn by extending the cluster southward toward the Williamsburg Bridge and the IC drive-in approach",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:32:04.102Z"
+  },
+  {
+    "topic": "Diner Williamsburg Broadway breakfast lunch",
+    "reason": "Iconic chalkboard-menu Williamsburg breakfast institution; rounds out a morning-first Williamsburg track with a non-pancake alternative for variety in itinerary generation",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T07:32:04.102Z"
   }
 ]
