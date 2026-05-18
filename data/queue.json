@@ -1,35 +1,5 @@
 [
   {
-    "topic": "La Flor Bakery (Sunset Park 5th Ave)",
-    "reason": "Actual 5th Ave Mexican bakery — fills the 5th Ave corridor slot the brief originally implied",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:23:22.709Z"
-  },
-  {
-    "topic": "Tacos El Bronco (5th Ave Sunset Park)",
-    "reason": "Adjacent savory anchor for a Sunset Park Mexican food crawl ending at Don Paco for dessert",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:23:22.709Z"
-  },
-  {
-    "topic": "Bush Terminal Piers Park waterfront skyline",
-    "reason": "Another free, drive-up Brooklyn waterfront photo beat 5 min from IC — different angle (water-level vs hilltop), complements Sunset Park overlook",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:25:25.640Z"
-  },
-  {
-    "topic": "Don Paco Lopez Panaderia 5th Ave Sunset Park",
-    "reason": "Iconic Mexican bakery directly across from the park — natural pre-overlook stop to close the 5th Ave food+photo cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:25:25.640Z"
-  },
-  {
-    "topic": "Owl's Head Park Bay Ridge waterfront overlook",
-    "reason": "Adjacent hilltop park with Verrazzano views, ~12 min from IC — expands 'free skyline beat' options for the corpus",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:25:25.640Z"
-  },
-  {
     "topic": "Mama's Too! pizza Bushwick or other Bushwick dinner anchor within 10 min of Sobre Masa",
     "reason": "Builds a Bushwick cluster so Sobre Masa isn't a solo 24-min drive — needs a second nearby stop",
     "requestedBy": "agent",
@@ -20704,5 +20674,89 @@
     "reason": "Sit-down sibling of the taco truck — fallback for cold/rainy nights when the truck pairing breaks down",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T23:22:48.539Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia (Sunset Park 5th Ave Mexican bakery)",
+    "reason": "Direct counterpart on the same 5th Ave corridor — pairing two bakeries lets the chat A/B by vibe (Don Paco = wholesale workhorse, La Flor = sit-down café) for the same itinerary slot.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:25:29.586Z"
+  },
+  {
+    "topic": "Tacos El Bronco (Sunset Park 5th Ave taqueria)",
+    "reason": "Adds a savory anchor to the 5th Ave corridor so a Sunset Park track can chain bakery → tacos within walking distance, expanding the cluster beyond IC proper.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:25:29.587Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos (Bushwick masa factory)",
+    "reason": "Cross-zone Mexican cultural anchor with a totally different format (working tortilla factory + back-room taqueria); useful for a 'Mexican Brooklyn' multi-zone variant.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:25:29.587Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos (Bushwick) — taqueria inside a working tortilla factory",
+    "reason": "Comparable savory anchor for a separate Mexican-food track outside Sunset Park",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:27:19.332Z"
+  },
+  {
+    "topic": "La Gran Via Bakery 4516 5th Ave Sunset Park — Mexican panaderia + tres leches",
+    "reason": "Alternative dessert pairing on the same 5th Ave crawl in case Don Paco is closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:27:19.333Z"
+  },
+  {
+    "topic": "Tacos Matamoros 4508 5th Ave Sunset Park — sit-down al pastor and cabeza tacos",
+    "reason": "Adjacent comparator for the Sunset Park Mexican crawl with table seating option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:27:19.333Z"
+  },
+  {
+    "topic": "Valentino Pier Red Hook sunset Statue of Liberty view",
+    "reason": "Another free, drive-up Brooklyn waterfront sunset spot with a different angle on the harbor — 12 min from IC, pairs with a Red Hook food/drinks stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:29:21.137Z"
+  },
+  {
+    "topic": "American Veterans Memorial Pier 69th Street Bay Ridge skyline",
+    "reason": "Underrated water-level skyline pier 10 min south of IC; expands corpus toward Bay Ridge zone for future neighborhood track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:29:21.137Z"
+  },
+  {
+    "topic": "Louis Valentino Jr Park & Pier vs Pier 44 Waterfront Garden Red Hook",
+    "reason": "Compare Red Hook waterfront options head-to-head so itinerary picks the right one based on time of day / crowd",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:29:21.137Z"
+  },
+  {
+    "topic": "Tacos El Bronco 4324 5th Ave Sunset Park",
+    "reason": "Legit 5th Ave taqueria one block from the park — completes the savory half of the Sunset Park food cluster paired with Don Paco's sweet anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:31:38.601Z"
+  },
+  {
+    "topic": "Sunset Park overlook 41st-44th St 5th-7th Ave Brooklyn skyline view",
+    "reason": "The actual park giving the neighborhood its name — best free Manhattan/Statue of Liberty skyline view in south Brooklyn, natural photo stop after the bakery",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:31:38.601Z"
+  },
+  {
+    "topic": "Maria's Bistro Mexicano 886 5th Ave Sunset Park sit-down",
+    "reason": "Sit-down counterpart if the user wants a full Mexican meal rather than bakery+taqueria grazing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:31:38.601Z"
+  },
+  {
+    "topic": "Shore Road Promenade Verrazzano walk Bay Ridge",
+    "reason": "Continuous waterfront path connecting Owl's Head south to the bridge — pairs with the overlook for a longer free skyline beat",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:33:35.807Z"
+  },
+  {
+    "topic": "Bay Ridge weekend brunch with parking near Owl's Head",
+    "reason": "Need an anchor meal to turn the Bay Ridge skyline cluster into a full track, currently sparse in corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:33:35.807Z"
   }
 ]

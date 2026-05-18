@@ -1960,46 +1960,44 @@
   {
     "id": "tacos-el-bronco",
     "name": "Tacos El Bronco",
-    "desc": "Sunset Park taqueria slinging $3 al pastor and campechano tacos until 1-2am",
-    "longDesc": "A no-frills Sunset Park institution at 43rd & 4th Ave, where Mariano Tapia's 2008 food cart grew into a brick-and-mortar restaurant. Order the al pastor and campechano (beef, pork sausage, crispy chicharron) on doubled tortillas, plus a bowl of birria. Cash only, fluorescent-lit, and open absurdly late — exactly the right pre-cemetery fuel.",
-    "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
+    "desc": "Sunset Park institution slinging al pastor, lengua, and birria into the early hours.",
+    "longDesc": "A neighborhood staple on 5th Ave (with a sibling truck and 4th Ave dining room nearby) known for its trompo-carved al pastor, mole poblano, tortas, and weekend birria. Cash-friendly counter ordering, Spanish-first menu energy, and a steady late-night line of regulars make it the savory bookend before a Don Paco panaderia dessert stop. Park on 5th or the side streets in the 40s; spots open up between dinner waves.",
+    "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "chill"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "Sat 11:00-02:00 / Sun 11:00-01:00",
-    "notes": "Cash only — bring $20-30/person and you'll leave stuffed. Tacos $3 each, doubled corn tortillas with onion + cilantro; al pastor and campechano are the moves, birria is the cold-weather call (The Infatuation). 4324 4th Ave between 43rd-44th — ~1 mile / 5-8 min drive south of Green-Wood's main gate at 25th & 5th, ~6 min from IC (Yelp, OnTheGrid). Street parking on 4th Ave is usually fine on weekend evenings. Two food trucks also operate at 37th/5th and 38th/5th if the dining room is slammed (Yelp).",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "13:00-02:00",
+    "notes": "Two nearby footprints on/near 5th Ave plus a sit-down at 4324 4th Ave; al pastor, lengua, tripe, mole, and birria are the move (Yelp). Weekend hours run until 2am, ideal as a pre-Don Paco savory anchor (Yelp, Grubhub). Street parking is plentiful in the 40s on weekend afternoons.",
     "sources": [
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tacos-el-bronco",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.grubhub.com/restaurant/tacos-el-bronco-5001-5th-avenue-brooklyn/8403144",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://onthegrid.city/brooklyn/sunset-park/tacos-el-bronco",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:50:18.553Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T23:27:19.297Z"
   },
   {
     "id": "ba-xuyen",
@@ -5330,16 +5328,16 @@
   {
     "id": "don-paco-lopez-panaderia",
     "name": "Don Paco López Panadería",
-    "desc": "Family-run Mexican bakery since 1991 — conchas, orejas, tamales, tortas a few blocks from IC.",
-    "longDesc": "A Sunset Park institution opened by Francisco López in 1991, now run by his children, with rows of just-baked conchas, campechanas, orejas, and elephant ears alongside savory tamales, pambazos, and quesadillas. The case turns over fast in the morning and the smell of yeast and cinnamon hits before you cross the threshold. Cash-friendly, line-out-the-door on weekends, and a perfect $1-$3 cap to a 5th Ave taco-truck crawl.",
+    "desc": "Third-gen Mexican bakery famous for conchas; pan dulce hot from the oven 5:30 AM daily",
+    "longDesc": "Family-run since 1991 by Francisco and Leonila López (now in their 90s, still overseeing daily bakes), with recipes traced back to 1932 Puebla. The seashell-shaped conchas earned New York Times, Today Show, and ABC Localish features. Cheap, photogenic, and a perfect grab-and-go before climbing Sunset Park's hill for the Manhattan skyline view.",
     "url": "https://donpacolopez.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
-      "photo"
+      "photo",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
@@ -5348,29 +5346,25 @@
     "duration": "20-30 min",
     "driveFromIC": "6 min",
     "hoursWeekend": "Sat 5:30-19:00, Sun 5:30-13:00",
-    "notes": "Address is 4703 4th Ave (not 5th Ave — one block west of the 5th Ave taco corridor) (yelp.com). Founded June 29, 1991 by Francisco and Leonila López; second-gen siblings run it now (donpacolopez.com). Sunday closes early at 1pm — schedule it as a morning stop on Sundays (yelp.com). Specialties: conchas, campechanas, orejas, tres leches; savory side has tamales, pambazos, quesadillas (theinfatuation.com). Street parking on 4th Ave is usually findable on weekends; the bakery itself is counter-service, grab-and-go.",
+    "notes": "Address is 4703 4th Ave (47th St), not 5th Ave — about 3 blocks south of Sunset Park proper, but still the obvious bakery anchor for any 5th Ave food crawl (donpacolopez.com). Sunday closes early at 1 PM — schedule before lunch on Sundays. Park on 4th Ave or side streets; meters end Sunday. Conchas are the hero item (NYT, Today Show coverage, donpacolopez.com/pages/press-don-paco-lopez-bakery). Cash-friendly counter, limited seating — designed for grab-and-go.",
     "sources": [
       {
         "url": "https://donpacolopez.com/pages/about-us",
-        "accessed": "2026-05-18T23:15:00Z"
+        "accessed": "2026-05-18T23:30:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/don-paco-lopez-panaderia-brooklyn",
-        "accessed": "2026-05-18T23:15:00Z"
+        "accessed": "2026-05-18T23:30:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/don-paco-lopez-panaderia",
-        "accessed": "2026-05-18T23:15:00Z"
-      },
-      {
-        "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
-        "accessed": "2026-05-18T23:15:00Z"
+        "url": "https://donpacolopez.com/pages/press-don-paco-lopez-bakery",
+        "accessed": "2026-05-18T23:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T23:18:21.667Z"
+    "lastResearchedAt": "2026-05-18T23:31:38.561Z"
   },
   {
     "id": "thanh-da-sandwich",
@@ -10408,9 +10402,56 @@
   {
     "id": "bush-terminal-piers-park",
     "name": "Bush Terminal Piers Park",
-    "desc": "Free 50-space lot + waterfront walk 8 min south of Industry City — IC overflow parking with a Statue of Liberty view.",
-    "longDesc": "Reclaimed industrial waterfront on Sunset Park's edge, run by NYC Parks, with two piers jutting into the harbor, a tidal nature preserve, ball fields, and direct sightlines to Lady Liberty and Lower Manhattan. The 43rd St entrance has a free ~50-space lot (8am–8pm) that doubles as the easiest overflow when IC's garages fill on weekends. Best used as a 30-minute photo/scenic stroll bolted onto an IC track — park here, walk the piers, then continue to Industry City on foot or move the car.",
+    "desc": "Water-level Sunset Park waterfront with unobstructed Statue of Liberty + Manhattan skyline views; free parking, 5 min from IC.",
+    "longDesc": "A 27-acre former port complex reopened in 2014 as a public park, with a waterfront esplanade, tidal ponds, restored wetlands, and fortified piers extending into the harbor. Pier 4 is the standout: a windswept dead-end walk where the Statue of Liberty appears unobstructed without the Battery Park tourist crowds, and the swings facing the Manhattan skyline are the signature photo. Best in late afternoon — arrive 15-20 min before sunset for golden hour on the towers and water.",
     "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "photo",
+      "chill",
+      "romantic"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "07:00-19:00",
+    "notes": "Entrance at 43rd St & Marginal St, Sunset Park (NYC Parks). Free on-site parking lot on the south side of the park, open 24h (NYC Parks via multiple guides). Park closes at 7pm so this is a daytime / pre-sunset stop, not evening — golden hour works in summer when 7pm aligns with the light. Pier 4 has the cleanest Statue of Liberty sightline; the swings are the signature Manhattan-skyline shot (Wanderlog, NYC Tourism). Complements the Sunset Park hilltop overlook by offering a low-angle, water-level skyline frame instead.",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
+        "accessed": "2026-05-18T23:30:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
+        "accessed": "2026-05-18T23:30:00Z"
+      },
+      {
+        "url": "https://wanderlog.com/place/details/28481/bush-terminal-piers-park",
+        "accessed": "2026-05-18T23:30:00Z"
+      },
+      {
+        "url": "https://hiddenwatersblog.wordpress.com/2018/12/04/bushpark/",
+        "accessed": "2026-05-18T23:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bush-terminal-park-sunset-park",
+        "accessed": "2026-05-18T23:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T23:29:21.105Z"
+  },
+  {
+    "id": "owls-head-park",
+    "name": "Owl's Head Park",
+    "desc": "24-acre Bay Ridge hilltop park with Verrazzano Bridge and NY Harbor sunset views — free skyline beat.",
+    "longDesc": "Owl's Head Park sits on a glacial hill in Bay Ridge with open lawns, winding trails, and direct sightlines to the Verrazzano-Narrows Bridge and New York Harbor. The summit lawn is a go-to sunset spot, and the park also hosts NYC's first concrete skatepark plus basketball courts and ball fields. Quiet at night but busy with families on weekend days; parts are currently under renovation so some walkways may be detoured.",
+    "url": "https://www.nycgovparks.org/parks/owls-head-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -10422,74 +10463,27 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "3 min",
-    "hoursWeekend": "07:00-19:00",
-    "notes": "Free lot accessed via 43rd St between 1st Ave and the water; ~50 spaces, gate hours 8am–8pm (prked.com). Park itself open 7am–7pm year-round (NYC Parks). Walk to Industry City Building 1 is ~8 min via 1st Ave. Pier 4 has the cleanest Statue of Liberty sightline — best at golden hour, but plan exit before 7pm lot lock-up risk. No restrooms beyond seasonal portable units; pair with IC for facilities. Surface is industrial fill — flat, stroller-OK, but exposed and windy on the piers.",
-    "sources": [
-      {
-        "url": "https://www.nycgovparks.org/parks/bush-terminal-park",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://prked.com/blog/bush-terminal-piers-park-brooklyn-parking-guide",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://www.nyctourism.com/places/bush-terminal-piers-park-sunset-park/",
-        "accessed": "2026-05-17"
-      }
-    ],
-    "promotedTo": null,
-    "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T23:50:02.231Z"
-  },
-  {
-    "id": "owls-head-park",
-    "name": "Owl's Head Park",
-    "desc": "24-acre Bay Ridge hilltop with open lawns and golden-hour views of the Verrazzano Bridge and harbor.",
-    "longDesc": "Owl's Head Park sits on a terminal-moraine hill in Bay Ridge, sloping up toward the water with sightlines across New York Harbor to Manhattan, Staten Island, and the Verrazzano-Narrows Bridge (nycgovparks.org). Pick a bench or bring chairs on the upper lawn for sunset; the lower section has a skate park, dog run, and playground if you arrive early. Public park, free, dawn-to-dusk, with easy non-metered street parking on Colonial Rd / 68th St (prked.com).",
-    "url": "https://www.nycgovparks.org/parks/owls-head-park",
-    "photoUrl": "",
-    "aiBackgroundUrl": "",
-    "zone": "industry-city",
-    "vibe": [
-      "chill",
-      "photo",
-      "romantic"
-    ],
-    "dietary": [],
-    "priceBand": "$",
-    "duration": "45-75 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "06:00-21:00 (dawn-dusk, posted as 6am-9pm by NYC Parks)",
-    "notes": "Best timed ~30 min before sunset; upper hill faces SW toward the Verrazzano so the bridge is silhouetted as the sun drops behind Staten Island (visitbrooklyn.nyc). Parts of the park are under renovation in 2026 — main lawn and overlook remain open, but check signage near the 68th St entrance (nycgovparks.org). Pair with a 69th St Pier walk or grab dinner back up in Sunset Park / IC afterward. Bay Ridge isn't in the canonical zone list — tagged industry-city as the closest geographic anchor.",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "Free entry, public park (dawn-to-dusk-style hours, NYC Parks standard 6am-9pm). Sunset hill faces west over the harbor — strong golden-hour photo spot. Metered-free street parking on Colonial Rd / Shore Rd is usually findable on weekends (Visit Brooklyn). Active renovations may close sections — confirm before bringing skaters (NYC Parks). Pairs naturally with a Shore Road Promenade walk or 69th St Pier just south.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/owls-head-park",
-        "accessed": "2026-05-18T08:25:00Z"
-      },
-      {
-        "url": "https://www.nycgovparks.org/parks/owls-head-park/history",
-        "accessed": "2026-05-18T08:25:00Z"
+        "accessed": "2026-05-18T23:30:00Z"
       },
       {
         "url": "https://visitbrooklyn.nyc/thingstodo/owls-head-park",
-        "accessed": "2026-05-18T08:25:00Z"
-      },
-      {
-        "url": "https://prked.com/blog/owl's-head-park-brooklyn-parking-guide",
-        "accessed": "2026-05-18T08:25:00Z"
+        "accessed": "2026-05-18T23:30:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Owl's_Head_Park",
-        "accessed": "2026-05-18T08:25:00Z"
+        "accessed": "2026-05-18T23:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T08:26:12.063Z"
+    "lastResearchedAt": "2026-05-18T23:33:35.769Z"
   },
   {
     "id": "ba-xuyen-banh-mi",
@@ -22094,47 +22088,52 @@
   },
   {
     "id": "la-flor-de-izucar-cafe",
-    "name": "La Flor de Izúcar Café (La Flor Bakery)",
-    "desc": "Family-run Mexican bakery on Sunset Park's 5th Ave taco strip — fresh conchas, tres leches, café de olla since 1990.",
-    "longDesc": "Long-running Sunset Park panadería at 4021 5th Ave, two blocks from the Tacos El Bronco / Tacos Matamoros stretch, so it slots in cleanly as a dessert add-on after the taco crawl. They bake conchas and other pan dulce in-house daily, do a proper café de olla, and the kitchen also runs tortas, birria quesadillas on weekends, and tres leches cake. Open round-the-clock on weekends per local listings, so it works as either an early-morning coffee stop or a late-night sweets pick-up.",
+    "name": "La Flor de Izúcar Café",
+    "desc": "Family-run Mexican panadería on Sunset Park's 5th Ave — conchas, tres leches, café de olla since 1990.",
+    "longDesc": "Operating on Sunset Park's 5th Ave corridor since 1990 and run by the Torres family (Alfredo took the reins from his mother in 2019), La Flor de Izúcar is one of Brooklyn's most authentic Mexican bakeries. Cases of fresh conchas, orejas, and tres leches sit next to a full café menu — café de olla brewed with cinnamon and piloncillo, tortas, and weekend birria quesadillas and tacos. A near-perfect 4-block detour off Industry City for a $4 sugar-and-coffee reset.",
     "url": "https://flordeizucar.com/",
-    "photoUrl": "",
+    "photoUrl": "https://cdn01.s4shops.com/skytabweb/uploads/601eab62-5f20-f011-8b3d-6045bd84ccf3/e62931c7-2025-f011-8b3d-6045bd84ccf3.jpg",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "Open 24 hours (Sat-Sun)",
-    "notes": "4021 5th Ave, Brooklyn 11232 (flordeizucar.com). Family bakery since 1990; specialties are fresh-baked conchas and tres leches, plus café de olla (flordeizucar.com). Per Google/Yelp aggregators, weekend hours are 24h, Mon 1am-10pm — confirm by phone (718-633-1254) before late-night stops. Free street parking typically available on 5th Ave side streets on weekends. Sits 2 blocks south of Tacos El Bronco — natural dessert/coffee handoff after the 5th Ave taco strip.",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "Sat-Sun 09:00-22:00 (some listings indicate 24h; call to confirm)",
+    "notes": "Address 4021 5th Ave, Brooklyn NY 11232; phone 718-633-1254 (flordeizucar.com). Family-owned since 1990, refreshed under Alfredo Torres in 2019 (flordeizucar.com/about-us). Signature items: conchas, tres leches, café de olla, weekend birria quesadillas/tacos (visitbrooklyn.nyc; tripadvisor). Street parking on 5th Ave/41st St is generally available weekend mornings. Also listed on aggregators as 'La Flor Bakery' — same venue.",
     "sources": [
       {
         "url": "https://flordeizucar.com/",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/la-flor-de-izucar-cafe-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1145557-Reviews-La_Flor_De_Izucar-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T23:30:00Z"
       },
       {
         "url": "https://flordeizucar.com/about-us",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T23:30:00Z"
+      },
+      {
+        "url": "https://visitbrooklyn.nyc/eatanddrink/la-flor-de-izucar-cafe",
+        "accessed": "2026-05-18T23:30:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1145557-Reviews-La_Flor_De_Izucar-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T23:30:00Z"
+      },
+      {
+        "url": "https://laflordeizucarcafe.toast.site/",
+        "accessed": "2026-05-18T23:30:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T02:16:39.358Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T23:25:29.547Z"
   },
   {
     "id": "casa-azul-park-slope-oaxacan",
