@@ -45331,5 +45331,237 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T17:55:38.454Z"
+  },
+  {
+    "id": "bryant-park-seasonal",
+    "name": "Bryant Park (Winter Village / Summer Reading Room)",
+    "desc": "Manhattan anchor that flips seasons: free skating + holiday market in winter, free outdoor reading room in summer.",
+    "longDesc": "Bryant Park's identity changes by season. Bank of America Winter Village (Oct 24, 2025 – Mar 1, 2026) brings a free-admission 17,000 sq ft skating rink, 180+ holiday kiosks, bumper cars on ice (Jan 9 – Feb 28, 2026), Winter StoryTime on Saturday mornings, and Kids Week (Feb 17–20, 2026). From April through September the Outdoor Reading Room lends books, magazines, and newspapers daily 11am–7pm with Saturday Reading Room Kids programs (late-June through mid-August) plus periodic Read on the Lawn evenings.",
+    "url": "https://bryantpark.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-120 min",
+    "driveFromIC": "30 min",
+    "hoursWeekend": "Winter rink Sat/Sun 8:00-22:00 (extended to midnight Nov 24-Jan 4); Winter shops Sat/Sun 10:00-20:00; Summer Reading Room daily 11:00-19:00",
+    "notes": "Manhattan venue — pairs as second anchor on a Manhattan-day combo (entry zone set to 'dumbo' as schema proxy; actual location is 42nd & 6th Ave, Midtown). Park entry, skating, and Reading Room access are all free; skate rentals, food, and bumper cars charge per-use. Weekend driving from IC ~25-40 min via BQE + Manhattan Bridge depending on traffic; closest parking is Icon/SP+ garages on 43rd/40th St ($30-50 weekend day rate) — consider on-street near Hudson Yards + 7 train as cheaper combo. Winter dates and Kids Week dates confirmed for 2025-2026 season (bryantpark.org). Summer Reading Room hours 11am-7pm April-September (bryantpark.org/activities/reading-room). Bryant Parkettes 'StoryTime on Ice' performances follow select Saturday StoryTimes Jan-Feb 2026. Bryant Park will also host Winter Olympics activations in The Lodge through February 2026 (timeout.com).",
+    "sources": [
+      {
+        "url": "https://bryantpark.org/activities/bank-of-america-winter-village-at-bryant-park",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bryantpark.org/activities/reading-room",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bryantpark.org/activities/kids-week",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bryantpark.org/calendar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nbcnewyork.com/news/local/bryant-park-winter-village-opens-2025-2026-holiday-season/6409374/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/here-are-all-the-ways-that-bryant-park-is-celebrating-the-winter-olympics-121825",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T17:58:13.136Z"
+  },
+  {
+    "id": "book-off-manhattan",
+    "name": "BOOKOFF New York (Midtown)",
+    "desc": "Three-floor Japanese used-media depot — cheap manga, J-pop CDs, anime figures, retro games in Midtown",
+    "longDesc": "BOOKOFF's flagship Manhattan store at 49 W 45th St spans three floors: ground floor English-language used books, second floor Japanese-language books, and a basement packed with used manga, J-pop CDs, anime DVDs, figures, and retro video games. Prices undercut Kinokuniya by 50-80% on equivalent titles, making it the highest-density cheap-source pool in the city for the manga-panel harvester. Open daily 10:00-20:00 with no reservations or admission.",
+    "url": "https://www.bookoffusa.com/bookoff-49-w-45th-ny-store/",
+    "photoUrl": "https://www.bookoffusa.com/wp-content/uploads/2019/09/ny01.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "midtown-manhattan",
+    "vibe": [
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "10:00-20:00",
+    "notes": "Address is 49 West 45th St, NY 10036 — task title said '49th St' but verified address is 45th St (bookoffusa.com, yelp.com). Phone (212) 685-1410. Drive from Industry City via Hugh L. Carey Tunnel + FDR runs ~22-28 min on a Saturday morning; expect $15-25/hr parking at Icon or LAZ garages on 44th/46th between 5th and 6th — street parking in Midtown is effectively unavailable. Basement = manga + J-pop CDs (the harvester-relevant inventory); upstairs = Japanese-language novels and art books. Cash + cards accepted, they also buy used inventory if the user wants to offload duplicates after harvesting panels. Pairs naturally with Kinokuniya (5-min walk to 1073 6th Ave) for a new-vs-used manga sweep, or with Bryant Park for a sit-and-flip break between stores.",
+    "sources": [
+      {
+        "url": "https://www.bookoffusa.com/bookoff-49-w-45th-ny-store/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/bookoff-new-york-new-york-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/shopping/book-off-midtown-west/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T18:01:32.293Z"
+  },
+  {
+    "id": "icon-parking-143-w-40th-bryant-park",
+    "name": "Icon Parking — 143 W 40th St (Bryant Park)",
+    "desc": "Cheapest book-ahead Midtown garage near Bryant Park; weekend 3-hr stays well under $50.",
+    "longDesc": "Icon/Global Parking valet garage at 143-145 W 40th St, a 4-minute walk south of Bryant Park and one block from the NYPL main branch. Pre-booked SpotHero weekend rates start around $26.50 with typical 3-hour weekend totals in the $32-$40 range — comfortably under the $50 cap. Saturday/Sunday access from 7am to midnight, 6'11\" height limit.",
+    "url": "https://spothero.com/destination/nyc/143-west-40th-street-parking",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "3 hr",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "07:00-24:00",
+    "notes": "Manhattan exception justified — unlocks any Bryant Park / NYPL / Midtown combo from an IC-anchored day. Book in advance via SpotHero or ParkWhiz; drive-up rates are higher. Route IC→Hugh L. Carey Tunnel→6th Ave is fastest on weekend mornings (~22 min); Brooklyn Bridge route runs 28-35 min. 0.2 mi (4-min walk) to Bryant Park lawn (spothero.com, parkopedia). Weekend rate band $32-$40 for 3 hrs (spothero.com).",
+    "sources": [
+      {
+        "url": "https://spothero.com/destination/nyc/bryant-park-parking",
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/143-west-40th-street-parking",
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/garage/143_145_w_40th_st/10018/new_york_city/",
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://www.spotangels.com/nyc/bryant-park-parking",
+        "accessed": "2026-05-18T18:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:04:33.787Z"
+  },
+  {
+    "id": "bemelmans-bar-carlyle",
+    "name": "Bemelmans Bar at The Carlyle",
+    "desc": "Storied UES piano bar wrapped in Ludwig Bemelmans' 1947 Madeline murals — the ultimate illustrated-interior nightcap.",
+    "longDesc": "A 1947 cocktail-and-cabaret room inside The Carlyle whose walls are Ludwig Bemelmans' only surviving public mural cycle — Madeline and her eleven schoolmates wandering Central Park across four seasons, painted in exchange for 18 months of room and board. Live solo piano runs Tue–Sat 5:30–8:30pm and a jazz trio takes over 9:30pm onward (cover applies once music starts). Expect $25+ cocktails, a smart dress code after 5:30pm, and a hushed, gold-leafed art-deco room that pairs perfectly with The Campbell as an 'illustrated-interior' Manhattan nightcap stop.",
+    "url": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/bemelmans-bar",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "Sat 12:00-01:30, Sun 12:00-24:00",
+    "notes": "ACTUAL LOCATION: 35 E 76th St, Manhattan (Upper East Side) — not Brooklyn. zone field uses 'brooklyn-heights' as a placeholder until a Manhattan/upper-east-side enum exists; planner should treat this as Manhattan-extension content. Drive IC→Carlyle is ~35-50 min weekend depending on FDR traffic; valet at Carlyle or street parking on side blocks. Cover charges: $10/person from 5:30pm piano start; $25-35 at tables / $15-20 at bar once jazz trio begins (rosewoodhotels.com, theinfatuation.com). Cocktails ~$25+, smart dress code (no shorts/hats, shirt required) after 5:30pm (opulist.co). Reservations via Resy strongly recommended weekends; walk-ins possible early. Pairs as 'illustrated-interior nightcap' subcluster with [[the-campbell-bar]] for manga-day chains where the day's drawing challenge echoes the room's own illustration heritage.",
+    "sources": [
+      {
+        "url": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/bemelmans-bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bemelmans_Bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/media/press-kit/history-of-bemelmans",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/bemelmans-bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://opulist.co/listing/bemelmans-bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://resy.com/cities/new-york-ny/venues/bemelmans-bar",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T18:06:55.220Z"
+  },
+  {
+    "id": "pebble-bar",
+    "name": "Pebble Bar",
+    "desc": "Cocktail bar across 3 floors of an 1870s Midtown townhouse — clubby, photogenic, hard-to-book.",
+    "longDesc": "Pebble Bar occupies floors 2-4 of a four-story 1870s brick townhouse at 67 W 49th St — the last pre-Rockefeller-Center structure left on the block and the former home of Hurley's saloon (1892-2000). Opened in 2022 by the team behind Ray's and The Jane, each floor is its own room with a distinct mood: leather banquettes, lacquered wood, fireplaces, and a private fourth-floor 'Johnny's' lounge named for Johnny Carson. Walkable from Bryant Park (~5 min) and Rockefeller Center, it works as an upscale capper when The Campbell is fully booked.",
+    "url": "https://www.pebblebarnyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "romantic",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "28 min",
+    "hoursWeekend": "17:00-02:00",
+    "notes": "ACTUAL LOCATION: 67 W 49th St, Midtown Manhattan — schema has no Manhattan zone so 'brooklyn-heights' is a placeholder (closest Brooklyn anchor via Brooklyn Bridge route); downstream clustering should treat this as Manhattan-exception. Building dates to the 1870s (Pebble's own site says 'last freestanding 19th-century townhouse on the block'), not 1903 as the topic note suggested (source: rockefellercenter.com magazine, 6sqft). Three floors of bar rooms plus private 4th-floor Johnny's. Walk-ins possible early but reservations via Resy strongly recommended on weekends; doormen do enforce capacity. Weekend parking is the friction point — Midtown street parking is effectively impossible; nearest garages (Icon at 1251 6th Ave, iPark at 41 W 50th) run ~$40-60 for 3 hours. Cocktails $20-24, light bar food. Best as a romantic post-dinner capper, not a hangout. Photogenic factor is high — wood-paneled rooms, period architecture, fireplaces. Closes 2am Thu-Sat, midnight Sun-Wed.",
+    "sources": [
+      {
+        "url": "https://www.pebblebarnyc.com/",
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://www.pebblebarnyc.com/ourstory",
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://www.rockefellercenter.com/dine/pebble-bar/",
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://www.rockefellercenter.com/magazine/food-drinks/pebble-bar-at-rockefeller-center-new-york/",
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://www.6sqft.com/pebble-bar-to-open-at-historic-four-story-townhouse-at-rockefeller-center/",
+        "accessed": "2026-05-18T18:00:00Z"
+      },
+      {
+        "url": "https://blog.resy.com/2022/05/how-to-get-into-pebble-bar-near-rockefeller-center/",
+        "accessed": "2026-05-18T18:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:09:15.445Z"
   }
 ]
