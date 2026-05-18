@@ -20469,42 +20469,42 @@
   },
   {
     "id": "handroll-sushi-bar-japan-village",
-    "name": "Handroll Sushi Bar at Japan Village",
-    "desc": "Made-to-order temaki (scallop, negi toro, yellowtail) inside Japan Village's Industry City food hall — built for to-go.",
-    "longDesc": "A counter-style hand-roll stall inside the Japan Village food hall at Industry City where each temaki is rolled in front of you with warm rice and crisp nori — scallop, negi toro, yellowtail, salmon, ikura, plus combo sets and small sake pours. Because rolls are assembled per order, they survive the elevator ride upstairs better than pre-packaged sashimi: nori stays crisp for ~15 min, making it the strongest 'date-night-in-a-room' upgrade over Sunrise Mart. Order a combo set with two cold sakes and walk it back to JTunes in under 5 minutes.",
+    "name": "Handroll Sushi Bar (Japan Village)",
+    "desc": "Casual temaki counter inside Japan Village food hall — scallop, negi toro, yellowtail rolled to order.",
+    "longDesc": "A walk-up handroll counter tucked inside Japan Village, the Industry City Japanese food hall, where rolls are assembled in front of you with nori still crisp. It's the budget/quick complement to Sushi Uesugi at the same address — order a couple of temaki and a sake cup, then graze the rest of the hall. Best for solo eaters or as a fast first stop before a Sunset Park drive loop.",
     "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7d6d9c4042717138a0358_JV-%20handroll.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "romantic",
+      "chill",
       "curious"
     ],
     "dietary": [],
-    "priceBand": "$$$",
-    "duration": "30-45 min",
+    "priceBand": "$",
+    "duration": "20-40 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "11:00-20:30 (food hall umbrella; stall-specific weekend hours unposted — call ahead)",
-    "notes": "On-site at Industry City inside Japan Village food hall — walk from JTunes, no drive needed. Stall lists Mon-Thu 15:00-18:00 and Fri 12:00-20:00; Sat/Sun not explicitly listed on the stall page but the food hall itself runs Sun-Thu 11:00-19:00 and Fri-Sat 11:00-20:30 (japanvillage.com). Rolls are made-to-order so timing matters: pick up 5-10 min before heading to the room. Pair with sake pours from the same counter. Premium-tier vs the Sunrise Mart pre-pack route (a clear $$$ upgrade for a JTunes party). Best to confirm weekend stall hours by phone (347-584-4578) before locking the night.",
+    "hoursWeekend": "Weekend hours not published on official site — call Japan Village (718-573-7320) to confirm; food hall itself runs into the weekend",
+    "notes": "Inside Japan Village food hall at 934 3rd Ave (Industry City). Official site lists Mon–Thu 3pm–6pm and Fri 12pm–8pm and does not publish Sat/Sun hours (japanvillage.com). Pairs naturally with Sushi Uesugi (same address) for a sushi A/B; cheap by design — handrolls a la carte. Free weekend parking is plentiful at IC. Made-to-order at the counter, so nori stays crisp — eat immediately. (japanvillage.com/eat-drink/handroll-sushi-bar)",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/handroll-sushi-bar",
-        "accessed": "2026-05-17T14:05:00Z"
+        "accessed": "2026-05-18T18:25:00Z"
       },
       {
         "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-17T14:05:00Z"
+        "accessed": "2026-05-18T18:25:00Z"
       },
       {
-        "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-17T14:05:00Z"
+        "url": "https://www.yelp.com/biz/japan-village-brooklyn",
+        "accessed": "2026-05-18T18:25:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T14:08:17.236Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:26:53.434Z"
   },
   {
     "id": "quimbys-bookstore-nyc",
@@ -45744,5 +45744,168 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T18:21:00.546Z"
+  },
+  {
+    "id": "setomonoya-japan-village",
+    "name": "Setomonoya",
+    "desc": "Handmade Japanese pottery shop on The Loft's 2nd floor at Japan Village inside Industry City.",
+    "longDesc": "Setomonoya is a specialty ceramics retailer within The Loft at Japan Village, stocking handcrafted Japanese teapots, teacups, sake sets, and bowls — many one-of-one pieces sourced directly from Japanese kilns. The shop is part of The Loft's full-floor Japanese retail arcade on the 2nd floor of Industry City's Building 4, alongside Daiso, Book-Off, and a food hall, so it doubles as a low-stakes browse and a strong gift/souvenir stop after lunch at Japan Village.",
+    "url": "https://www.theloftatjapanvillage.com/setomonoya",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "20-30 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "11:00-19:00",
+    "notes": "Located inside The Loft at Japan Village, 2nd floor of Industry City Building 4, 934 3rd Ave (theloftatjapanvillage.com). Open daily 11am-7pm (timeout.com). Each piece is described as 'uniquely handmade with passion and care' — strong photo backdrops of wood shelves stacked with hand-thrown ceramics. Pairs perfectly with a Japan Village food-hall stop, so this is best slotted as a 20-30 min retail break inside an IC half-day, not a standalone destination. Pricing varies widely — small teacups affordable, larger handmade teapots/sake sets push into $$ range.",
+    "sources": [
+      {
+        "url": "https://www.theloftatjapanvillage.com/setomonoya",
+        "accessed": "2026-05-18T18:25:00Z"
+      },
+      {
+        "url": "https://industrycity.com/the-loft-at-japan-village-has-taken-over-a-full-second-floor-at-industry-city/",
+        "accessed": "2026-05-18T18:25:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/five-reasons-to-visit-brooklyns-new-hub-for-japanese-culture-022422",
+        "accessed": "2026-05-18T18:25:00Z"
+      },
+      {
+        "url": "https://cititour.com/NYC_News/Japan-Village-Expands-at-Industry-City-with-a-Massive-Expansion-called-The-Loft/6151",
+        "accessed": "2026-05-18T18:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:22:59.399Z"
+  },
+  {
+    "id": "taros-origami-studio",
+    "name": "Taro's Origami Studio at The Loft",
+    "desc": "Hands-on origami studio inside Japan Village at IC — drop-in folding, classes, and NYC's biggest origami shop.",
+    "longDesc": "Tucked on the 2nd floor of Japan Village in Industry City Building 4 (\"The Loft\"), Taro's runs drop-in sessions, private and group lessons, and stocks what the studio calls the largest selection of origami goods in NYC. Perfect for an artist-friend session — quiet space, paper everywhere, and easy to combine with a Japan Village ramen/sake crawl downstairs. Group/private lessons should be booked ahead via studio@tarosorigami.com.",
+    "url": "https://www.tarosorigami.com/brooklyn-ny/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "45-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 11:00-18:00, Sun 12:00-17:00",
+    "notes": "Located inside Japan Village, 2F 'The Loft', Industry City Building 4, 934 3rd Ave (tarosorigami.com/brooklyn-ny). Tue-Sat 11-6, Sun 12-5, closed Mon (yelp.com). Drop-in folding plus private/group classes; pricing not posted publicly — email studio@tarosorigami.com or call (718) 360-5435 to reserve. Pairs naturally with manga-panel-harvester drawing sessions — same audience of artist friends. IC weekend parking on-site.",
+    "sources": [
+      {
+        "url": "https://www.tarosorigami.com/brooklyn-ny/",
+        "accessed": "2026-05-18T18:30:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/taros-origami-studio-brooklyn",
+        "accessed": "2026-05-18T18:30:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:24:51.976Z"
+  },
+  {
+    "id": "hibino-brooklyn",
+    "name": "Hibino Brooklyn",
+    "desc": "Intimate Kyoto-style obanzai bar with house-made tofu and traditional + new-style sushi in Cobble Hill.",
+    "longDesc": "Hibino is a small, quiet Cobble Hill spot built around two specialties most NYC Japanese restaurants don't touch: a rotating daily lineup of Kyoto-style obanzai (small vegetable, fish, and tempura plates) and tofu made fresh in-house every day. The sushi menu runs both traditional Edomae and 'new-style' rolls, with wine, beer, and sake. It's a sit-down date or small-group dinner — not a quick stop — and reservations on OpenTable are recommended for Saturday nights.",
+    "url": "https://hibino-brooklyn.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "cobble-hill",
+    "vibe": [
+      "foodie",
+      "romantic"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$$",
+    "duration": "75-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 12:00-14:30 & 16:30-22:00; Sun CLOSED",
+    "notes": "Real Hibino — not affiliated with Japan Village's Hibino tofu counter in Industry City; this is the original Cobble Hill restaurant at 333 Henry St (yelp.com, hibino-brooklyn.com). Closed Sunday and Wednesday — Saturday is the only weekend service day, so itineraries that fall on Sunday must swap. House-made tofu and daily obanzai chalkboard are the signature draws (nyctourism.com). Street parking on Henry St / Pacific St is generally findable on weekend evenings; ~15 min drive from IC via 3rd Ave → Atlantic Ave or BQE.",
+    "sources": [
+      {
+        "url": "https://hibino-brooklyn.com/",
+        "accessed": "2026-05-18T18:25:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/hibino-brooklyn",
+        "accessed": "2026-05-18T18:25:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/hibino-brooklyn",
+        "accessed": "2026-05-18T18:25:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/hibino1/",
+        "accessed": "2026-05-18T18:25:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T18:28:49.409Z"
+  },
+  {
+    "id": "gohei",
+    "name": "Gohei",
+    "desc": "Hand-cut udon and soba stall inside Japan Village — non-raw counterpoint to the sushi axis.",
+    "longDesc": "Gohei is a small noodle counter tucked inside Japan Village's food hall at Industry City, hand-making udon and soba in-house for service. The compact menu leans on signatures like mentaiko cream udon and zaru soba/udon with tempura, which makes it the natural cooked-food fallback when a group splits between raw fish at Hachi/Osakana and warm bowls. Seating runs counter-style so you can watch the noodles get plated, and pairing it with a market lap inside Japan Village turns a single parking stop at IC into a multi-stall meal (japanvillage.com).",
+    "url": "https://www.japanvillage.com/eat-drink/gohei",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 12:00-20:30, Sun 12:00-19:30",
+    "notes": "Despite the task framing as 'kaiseki/donburi,' the actual Gohei stall is a hand-made udon/soba specialist — Moriya is the donburi stall inside Japan Village, and Kyo Ya (East Village) is owner Tony Yoshida's kaiseki room (amny.com, japanvillage.com). Treat Gohei in the corpus as the cooked-noodle alternative within a single IC parking trip — pairs naturally with Hachi (street food) or Osakana (raw fish) for a multi-stall lunch. Menu hits include mentaiko cream udon, zaru udon w/ tempura, zaru soba w/ tempura (japanvillage.com). Address: 934 3rd Ave, Brooklyn NY 11232 inside Japan Village food hall.",
+    "sources": [
+      {
+        "url": "https://www.japanvillage.com/eat-drink/gohei",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.amny.com/eat-and-drink/japan-village-industry-city-1-24536424/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/gohei-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T18:30:54.869Z"
   }
 ]

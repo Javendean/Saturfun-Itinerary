@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Setomonoya pottery shop at The Loft — handmade ceramics",
-    "reason": "Standalone retail/souvenir stop with strong photo + gift appeal for foodie/curious vibes",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:41:46.856Z"
-  },
-  {
-    "topic": "Taro's Origami Studio at The Loft",
-    "reason": "Hands-on activity option fits the manga panel harvester audience of artist-friends",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:41:46.856Z"
-  },
-  {
-    "topic": "Handroll Sushi Bar inside Japan Village food hall",
-    "reason": "Casual temaki counter (scallop, negi toro, yellowtail) — the budget/quick complement to Sushi Uesugi at the same address; rounds out food-hall sushi options",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:44:48.404Z"
-  },
-  {
-    "topic": "Re-research existing venue: Hibino Brooklyn (333 Henry St, Cobble Hill)",
-    "reason": "The real Hibino — Kyoto-style obanzai + house-made tofu + sushi — sits in Cobble Hill, ~15 min drive from IC; belongs in the corpus as its own entry, not conflated with Japan Village",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:44:48.404Z"
-  },
-  {
-    "topic": "Gohei (kaiseki/donburi stall inside Japan Village)",
-    "reason": "Adjacent stall-level pick from the same food hall; expands per-stall granularity beyond the sushi axis so the corpus can recommend a non-raw alternative within the same parking trip",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:44:48.404Z"
-  },
-  {
     "topic": "UnD Japanese matcha & bakery (Greenpoint) — ceremonial Uji matcha, melon pan, shokupan, wagashi",
     "reason": "Adds a Greenpoint anchor to the Japanese-Brooklyn cluster; pairs with Greenpoint grocers/izakaya for a longer drive day",
     "requestedBy": "agent",
@@ -19120,5 +19090,95 @@
     "reason": "Third option for confirmed tea-ceremony seating so itinerary has redundancy when waitlist-only venues fall through",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T18:21:00.578Z"
+  },
+  {
+    "topic": "Book-Off Industry City — used Japanese books, manga, and vinyl at The Loft",
+    "reason": "Adjacent Loft tenant; reinforces an IC 'Japan Village half-day' cluster with strong curious/photo appeal for manga-loving users",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:22:59.431Z"
+  },
+  {
+    "topic": "Sara Japanese Pottery (Upper East Side) — gallery-style Japanese ceramics shop",
+    "reason": "Manhattan comparison anchor for the pottery vertical; useful if user ever wants a higher-end ceramics destination beyond Brooklyn",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:22:59.431Z"
+  },
+  {
+    "topic": "Wilcoxson Brooklyn Ceramics studio — local Brooklyn potter's workshop/retail",
+    "reason": "Brooklyn-made ceramics counterpart to Setomonoya's Japanese imports; expands the corpus with a 'support a local maker' angle and possible studio-visit photo content",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:22:59.431Z"
+  },
+  {
+    "topic": "Japan Village marketplace at Industry City (Sunrise Mart + food hall)",
+    "reason": "Same building as Taro's — natural pre/post-fold meal stop, expands IC anchor coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:24:52.017Z"
+  },
+  {
+    "topic": "Brooklyn Kura sake brewery tasting room at Industry City",
+    "reason": "Adjacent on-site venue, fits artist-friend crawl after a hands-on session",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:24:52.018Z"
+  },
+  {
+    "topic": "Powerhouse Arts print shop tours in Gowanus",
+    "reason": "Another hands-on artist-friendly venue ~8 min drive from IC, expands creative-activity track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:24:52.018Z"
+  },
+  {
+    "topic": "Daigo Handroll Bar (445 Albee Sq, Downtown Brooklyn)",
+    "reason": "Well-reviewed dedicated hand-roll counter ~15 min drive from IC — adds a downtown Brooklyn handroll option to compare against Japan Village's version",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:26:53.482Z"
+  },
+  {
+    "topic": "Temakase Hand Roll Bar Williamsburg",
+    "reason": "Williamsburg temaki counter that fits the 15-min-drive cluster and rounds out the casual-sushi category alongside Industry City options",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:26:53.482Z"
+  },
+  {
+    "topic": "Other Japan Village food-hall stalls (Hinomaru Ramen, Tonkatsu by Tonchin)",
+    "reason": "Same-address adjacencies — single-drive itineraries benefit from a roster of inside-Japan-Village stalls beyond sushi",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:26:53.482Z"
+  },
+  {
+    "topic": "Frankies 457 Spuntino (Carroll Gardens)",
+    "reason": "Walkable from Hibino, beloved Italian with garden — strong Cobble Hill/Carroll Gardens dinner alt when Hibino is closed Sun/Wed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:28:49.447Z"
+  },
+  {
+    "topic": "Court Street Grocers (Cobble Hill)",
+    "reason": "Iconic sandwich shop on Court St, daytime counterpart to Hibino's dinner-only schedule within the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:28:49.447Z"
+  },
+  {
+    "topic": "Books Are Magic (Cobble Hill flagship, Smith St)",
+    "reason": "Photo-friendly indie bookstore 4-min walk from Hibino — natural pre-dinner pairing in the Cobble Hill track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:28:49.447Z"
+  },
+  {
+    "topic": "Moriya (donburi stall inside Japan Village, Industry City)",
+    "reason": "The actual donburi stall at Japan Village — fills the rice-bowl slot the original task description misattributed to Gohei, completing the IC food-hall trio of noodles/donburi/raw",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:30:54.908Z"
+  },
+  {
+    "topic": "Hachi (Japanese street food stall, Japan Village, Industry City)",
+    "reason": "Third Japan Village stall — small bites/yakitori-style cooked food that pairs as an add-on to Gohei or Osakana within the same parking trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:30:54.908Z"
+  },
+  {
+    "topic": "Setagaya Ramen (Japan Village, Industry City)",
+    "reason": "Ramen counterweight to Gohei's udon/soba inside the same hall — lets the corpus disambiguate 'I want noodles' between the two stalls",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T18:30:54.908Z"
   }
 ]
