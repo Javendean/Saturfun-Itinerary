@@ -5514,9 +5514,9 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Cavernous Sunset Park banquet hall with traditional push-cart dim sum and Cantonese seafood.",
-    "longDesc": "Michelin-recognized Cantonese palace on the Sunset Park / Dyker Heights border where steaming carts of har gow, siu mai, cheung fun and roast meats roll through a gold-accented dining room. Dim sum is served daily 9am-3pm; weekends draw long lines so arrive before 9:30am for a walk-in table. Also serves full seafood dinners — live tanks, salt-and-pepper crab, lobster noodles — making it a strong direct competitor to nearby Pacificana on 55th St.",
-    "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+    "desc": "Cart-pushed dim sum banquet hall in Sunset Park's 8th Ave Chinatown — the closest cart dim sum to Industry City.",
+    "longDesc": "A gold-accented Cantonese banquet hall where steamer carts roll between tables until 3 PM daily (Michelin Guide-listed). Weekend crowds pack in by 11 AM — arrive 10:30 for a 15-20 min wait; the siu mai, shrimp cheung fun in sweet soy, and black bean spare ribs are the consistent calls. Roughly $12-15/person with tax, making it the obvious cart dim sum default before driving 45+ min to Flushing.",
+    "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5529,31 +5529,27 @@
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "09:00-22:00",
-    "notes": "714 65th St between 7th & 8th Ave, Brooklyn NY 11220 (Yelp). Cart-style service — flag down what looks good rather than ordering off a menu (Cinnamon Society). Weekends 'pack in' with an announcer shouting reservation numbers; arriving before 9:30am avoids the worst of the wait (search results). Street parking on 65th/7th Ave is tight on weekends — Industry City lot + 8-min drive is a reliable fallback. Michelin Guide listed (guide.michelin.com).",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "09:00-22:00 (carts until 15:00)",
+    "notes": "714 65th St (between 7th & 8th Ave), Brooklyn NY 11220; (718) 765-0098 (Yelp). Cart service is the draw — arrive 10:30-11:00 weekends to dodge the 30+ min wait (Cinnamon Society). Vegetarian dim sum exists (taro puffs, mushroom dumplings, veg buns) but selection is limited vs meat/seafood. Sunset Park street parking on weekends is doable on 65th/66th St; commercial lots on 8th Ave fill by noon. Pairs well with a post-meal Industry City return or a walk up 8th Ave to the bakeries.",
     "sources": [
-      {
-        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
       {
         "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
+        "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.opentable.com/r/east-harbor-seafood-palace-brooklyn",
+        "url": "https://cinnamonsociety.com/recipes/new-york/brooklyn/restaurants/dim-sum-sunset-park-east-harbor-seafood-palace",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T11:32:50.848Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T15:11:18.511Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -43628,5 +43624,171 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T14:59:42.290Z"
+  },
+  {
+    "id": "mmuseumm-cortlandt-alley",
+    "name": "Mmuseumm",
+    "desc": "World's tiniest museum in a Tribeca freight-elevator shaft — 'object journalism' you peer at through a door",
+    "longDesc": "Founded by Alex Kalman in 2012, Mmuseumm occupies a ~36 sq-ft former freight-elevator shaft on Cortlandt Alley and practices what it calls 'object journalism' — vitrine displays of everyday objects (toothpaste tubes, fake vomit, ISIS currency, COVID artifacts) used to tell stories about culture, politics, and history. Peepholes in the steel door make the exhibits visible 24/7 even when the door is locked, and a sister space, Mmuseumm 2, sits a few doors down the same alley. Plan ~15-20 minutes; pair with a Nolita/Tribeca walk or dinner.",
+    "url": "https://www.mmuseumm.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "15-25 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat-Sun 11:00-18:00 (peepholes visible 24/7)",
+    "notes": "Address is 4 Cortlandt Alley (Mmuseumm 1) between Franklin & White; Mmuseumm 2 is a few doors down (Yelp lists 6) (yelp.com). Door-window peepholes mean the exhibit is technically always 'on' — great post-dinner detour. Manhattan exception justified by uniqueness (no Brooklyn analog) and easy combo with Tribeca/Chinatown food stops. Drive from IC ~20-25 min via Brooklyn-Battery Tunnel; weekend street parking on Cortlandt Alley itself is rare — try lots on Lafayette or Centre St.",
+    "sources": [
+      {
+        "url": "https://www.mmuseumm.com/",
+        "accessed": "2026-05-18T15:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mmuseumm",
+        "accessed": "2026-05-18T15:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/mmuseumm-new-york-2",
+        "accessed": "2026-05-18T15:00:00Z"
+      },
+      {
+        "url": "https://designobserver.com/object-journalism-at-mmuseumm/",
+        "accessed": "2026-05-18T15:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/museums/mmuseumm",
+        "accessed": "2026-05-18T15:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:01:47.257Z"
+  },
+  {
+    "id": "center-for-architecture-greenwich-village",
+    "name": "Center for Architecture",
+    "desc": "AIANY's free Greenwich Village gallery — rotating architecture exhibits and Saturday family programs at 536 LaGuardia Pl.",
+    "longDesc": "The Center for Architecture is the AIA New York chapter's public exhibition space at 536 LaGuardia Place, a few blocks south of Washington Square. Six gallery levels host rotating shows on NYC urbanism, housing, and design (free admission), and the Saturday calendar regularly includes family workshops for ages 5–13 (~$20/person, pre-registration required). A clean 45–60 min stop that pairs naturally with a Greenwich Village/SoHo architecture loop.",
+    "url": "https://www.centerforarchitecture.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "chill",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "Sat 11:00-17:00, Sun closed",
+    "notes": "Manhattan venue (Greenwich Village) — justified as anchor for an architecture-themed Manhattan loop; zone tagged 'dumbo' as the closest Brooklyn gateway since the corpus enum is Brooklyn-only. Drive ~25 min from Industry City via Battery Tunnel or Manhattan Bridge; weekend street parking unreliable, use Washington Square Village Parking or Thompson Parking on Thompson St (source: centerforarchitecture.org/visit). Galleries free; lectures and family workshops ticketed (~$20/person, ages 5–13 w/ adult) — pre-registration required (source: centerforarchitecture.org/learning/youth-family-and-community/family-programs). Closed Sundays — Saturday-only for weekend itineraries.",
+    "sources": [
+      {
+        "url": "https://www.centerforarchitecture.org/visit/",
+        "accessed": "2026-05-18T15:00:00Z"
+      },
+      {
+        "url": "https://www.centerforarchitecture.org/learning/youth-family-and-community/family-programs/",
+        "accessed": "2026-05-18T15:00:00Z"
+      },
+      {
+        "url": "https://calendar.aiany.org/",
+        "accessed": "2026-05-18T15:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:03:40.703Z"
+  },
+  {
+    "id": "jade-asian-bistro-douglaston",
+    "name": "Jade Asian Bistro 明都",
+    "desc": "Old-school cart-service Cantonese dim sum in Douglaston — surviving sibling of the closed Flushing Jade Asian.",
+    "longDesc": "Tucked into a strip-mall corner off the LIE service road in Douglaston (far eastern Queens), Jade Asian Bistro keeps the increasingly rare push-cart dim sum tradition alive (cart-pull ladies wheel out har gow, siu mai, cheung fun, and chicken feet through the dining room). Reviews consistently flag it as 'old school dim sum, standard and fresh,' with peak cart action on weekends roughly 11am–1pm; expect Sunday queues and a sizable back lot plus front-street parking that's actually viable. Worth the long haul from Industry City when the goal is the cart ritual itself rather than fine-tuned modernist dim sum.",
+    "url": "https://www.yelp.com/biz/jade-asian-bistro-%E6%98%8E%E9%83%BD-douglaston",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "09:30-21:30",
+    "notes": "Address: 249-32 Horace Harding Expy, Douglaston NY 11362 (Yelp). Mon–Fri 10:30–21:00; Sat–Sun 09:30–21:30; cart dim sum peak Sat/Sun ~11:00–13:00 (Yelp review consensus). Large back parking lot + front street parking near LIE service road (Yelp/Wanderlog). Cart service is the differentiator — rare in NYC post-Flushing-Jade-Asian closure; surviving sibling operation per topic brief. Note: this is Queens, not Brooklyn — 'industry-city' zone used as anchor since corpus enum lacks Queens; drive is ~30–40 min via BQE→LIE depending on traffic, longer than typical 10–25 min IC radius — justified by uniqueness of cart tradition.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/jade-asian-bistro-%E6%98%8E%E9%83%BD-douglaston",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://jade-asian-bistro.restaurants-world.net/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://wanderlog.com/place/details/3576514/jade-asian-bistro",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g48064-d15756480-Reviews-Jade_Asian_Bistro-Little_Neck_Queens_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:05:51.217Z"
+  },
+  {
+    "id": "benson-eating-station",
+    "name": "Benson Eating Station",
+    "desc": "Bustling Bensonhurst cart dim sum hall — old-school ladies wheeling steamers around a packed Cantonese banquet room",
+    "longDesc": "Active cart service Cantonese dim sum hall on 86th Street in Bensonhurst, one of the last Brooklyn rooms where dim sum still arrives on rolling carts pushed by aunties. Classic 90s banquet-hall ambiance — loud, vibrant, family-packed on weekends — with a strong seafood program after the dim sum window closes. Steamed-fresh dim sum continues until 3pm if you miss the early cart rush.",
+    "url": "https://www.yelp.com/biz/benson-eating-station-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "09:00-21:00",
+    "notes": "Substitute for originally-queued World Tong Seafood (6202 18th Ave), which Time Out lists as permanently CLOSED (timeout.com). Benson Eating Station fills the same Brooklyn-cart-dim-sum gap left by Jade Asian's closure in Flushing — and at ~15 min from IC via Bay Pkwy, beats any Flushing venue on driveFromIC. Carts roll heaviest 9am-noon on weekends; arrive before 11am for full cart rotation or call ahead for big parties (yelp.com). Street parking on 86th St / Bay Pkwy is tight on weekends — plan for ~10 min hunt or use the municipal lots near 25th Ave.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/benson-eating-station-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/world-tong-seafood-restaurant-closed",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d12542841-Reviews-Benson_Eating_Station-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T15:08:35.446Z"
   }
 ]

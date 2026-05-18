@@ -1,35 +1,5 @@
 [
   {
-    "topic": "MMuseumm Cortlandt Alley",
-    "reason": "Three-elevator-shaft 'object journalism' micro-museum a few blocks south — quirky 10-min stop that compounds the Nolita/Tribeca walk and is visually unique",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:35:12.431Z"
-  },
-  {
-    "topic": "Center for Architecture Greenwich Village",
-    "reason": "AIANY's exhibition space on LaGuardia Pl — architecture-focused public programming and family-friendly Saturdays, rounds out an architecture-themed Manhattan loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:35:12.431Z"
-  },
-  {
-    "topic": "Jade Asian Bistro Douglaston 249-32 Horace Harding Expy dim sum",
-    "reason": "Surviving sibling operation of closed Flushing Jade Asian — confirms whether the cart-service tradition continues at the Douglaston bistro, useful as a still-open Cantonese cart alternative",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:38:20.812Z"
-  },
-  {
-    "topic": "World Tong Seafood Restaurant Bensonhurst dim sum carts",
-    "reason": "Brooklyn-side cart dim sum hall ~15 min from Industry City — much stronger driveFromIC fit than any Flushing venue, fills the cart-dim-sum gap left by Jade Asian's closure",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:38:20.812Z"
-  },
-  {
-    "topic": "East Harbor Seafood Palace Sunset Park dim sum carts",
-    "reason": "8th Ave Brooklyn Chinatown cart dim sum, ~5 min from Industry City — should be the default cart dim sum anchor for IC-based itineraries before reaching to Flushing",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T23:38:20.812Z"
-  },
-  {
     "topic": "East Harbor Seafood Palace Sunset Park 8th Ave dim sum",
     "reason": "Massive cart-service dim sum hall ~5 min drive from IC with weekend street parking — fills the dim sum slot without leaving Brooklyn",
     "requestedBy": "agent",
@@ -18106,5 +18076,83 @@
     "reason": "Easy 10-min drive east from SoHo for a foodie cap to the art walk before heading back to IC via Williamsburg Bridge",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T14:59:42.323Z"
+  },
+  {
+    "topic": "Cortlandt Alley street-art / graffiti walk Tribeca",
+    "reason": "Same alley is one of NYC's most-filmed graffiti corridors — natural photo extension to a Mmuseumm visit",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:01:47.293Z"
+  },
+  {
+    "topic": "Pearl River Mart Tribeca flagship",
+    "reason": "5-min walk from Cortlandt Alley; iconic Asian-American department store pairs with the micro-museum browse vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:01:47.293Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor Doyers Street",
+    "reason": "Oldest dim sum in Chinatown, 6-min walk from Mmuseumm — anchors a half-day Manhattan exception trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:01:47.293Z"
+  },
+  {
+    "topic": "Skyscraper Museum Battery Park City",
+    "reason": "Architecture-focused Manhattan museum that pairs with Center for Architecture on a southern-Manhattan loop; small, free-ish, weekend hours",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:03:40.736Z"
+  },
+  {
+    "topic": "Storefront for Art and Architecture Nolita",
+    "reason": "Experimental architecture gallery on Kenmare St; tiny footprint, sharp rotating shows — adjacent in spirit and ~10 min walk from Center for Architecture",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:03:40.736Z"
+  },
+  {
+    "topic": "MAS Urban Center Madison Avenue",
+    "reason": "Municipal Art Society programs and tours focused on NYC built environment; complements AIANY content for a deeper architecture itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:03:40.736Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 8th Ave Sunset Park weekend cart dim sum",
+    "reason": "Closer cart-service dim sum option (~5 min from IC) — direct comparison anchor for the Jade Asian drive-out justification",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:05:51.258Z"
+  },
+  {
+    "topic": "Pacificana Sunset Park cart dim sum Sunday",
+    "reason": "Another walking-distance-from-IC Brooklyn cart house — corpus needs the close substitutes alongside the Queens outlier",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:05:51.258Z"
+  },
+  {
+    "topic": "Asian Jewels Seafood Flushing dim sum cart status 2026",
+    "reason": "Verify whether other Flushing cart houses still run carts post-Jade-Asian-Flushing closure — clarifies how unique Jade Douglaston really is",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:05:51.258Z"
+  },
+  {
+    "topic": "HoWong Seafood Restaurant 6720 Bay Pkwy Brooklyn dim sum carts",
+    "reason": "Second active Bensonhurst cart dim sum hall ~15 min from IC; backup if Benson Eating Station is too packed or for a different weekend rotation",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:08:35.477Z"
+  },
+  {
+    "topic": "Pacificana Sunset Park 8th Ave dim sum",
+    "reason": "The other major cart dim sum hall on 8th Ave — needed as a backup/alternative when East Harbor's weekend wait blows past 30 min",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:11:18.552Z"
+  },
+  {
+    "topic": "Bamboo Garden 8th Ave Brooklyn dim sum carts",
+    "reason": "Third 8th Ave cart dim sum option; rounds out the Sunset Park Chinatown cluster so the corpus has redundancy for the same IC-anchored slot",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:11:18.552Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park crossing-the-bridge noodles",
+    "reason": "Adjacent destination in same 8th Ave cluster for a non-dim-sum lunch alternative or as a second-stop pairing with an IC track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T15:11:18.553Z"
   }
 ]
