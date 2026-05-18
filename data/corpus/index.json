@@ -9517,16 +9517,15 @@
   {
     "id": "sahadis-atlantic-ave",
     "name": "Sahadi's",
-    "desc": "James Beard–winning Middle Eastern grocer with legendary olive bar, bulk spices, nuts, and prepared mezze",
-    "longDesc": "Anchor of Atlantic Avenue's Middle Eastern stretch since 1948, Sahadi's is a beloved Brooklyn institution with bulk bins of olives, nuts, dried fruit, and spices, plus a deli turning out hummus, kibbeh, tabbouleh, and warm pita with za'atar. A perfect walkable wait-killer for Lucali or post–Books Are Magic browse — grab takeaway snacks for the next stop or a picnic in nearby Cobble Hill Park.",
-    "url": "https://sahadis.com/",
-    "photoUrl": "https://sahadis.com/cdn/shop/files/Atlantic_Ave_slider.jpg?v=1700593451&width=1200",
+    "desc": "James Beard-winning Middle Eastern grocer on Atlantic Ave — bulk bins, olives, spices, prepared mezze.",
+    "longDesc": "The original 1948 Atlantic Avenue flagship of the Brooklyn institution: legendary bulk bins of nuts, dried fruit, grains, and spices alongside a counter of house-made hummus, mutabal, stuffed grape leaves, and dozens of olives. Five-minute walk from Shelsky's, making it the anchor of a Cobble Hill food-shopping run. Friendly counter service and an unmatched specialty selection cited by City Lore and the James Beard Foundation.",
+    "url": "https://sahadis.com/pages/locations",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "brooklyn-heights",
+    "zone": "cobble-hill",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "curious"
     ],
     "dietary": [
       "vegetarian",
@@ -9535,31 +9534,31 @@
     ],
     "priceBand": "$$",
     "duration": "30-45 min",
-    "driveFromIC": "12 min",
+    "driveFromIC": "13 min",
     "hoursWeekend": "10:00-19:00",
-    "notes": "Open daily 10am–7pm including Sat/Sun (sahadis.com locations page). Olive bar + 30 rotating prepared dishes daily (Yelp, NYC Tourism). Weekend prime time is busy but in a friendly neighborly way — line moves fast. Cash/cards. Metered street parking on Atlantic and side streets; a couple of small public lots near Court St. Walkable to Lucali (Henry St), Books Are Magic (Smith St), and Cobble Hill Park for picnicking. Closed major holidays.",
+    "notes": "Original 1948 Atlantic Ave location at 187 Atlantic Ave; everyday 10am–7pm including Sat/Sun (sahadis.com/pages/locations). James Beard America's Classics 2017 honoree (citylore.org). Phone (718) 624-4550. Pairs naturally with Shelsky's appetizing 5 min away — build a Cobble Hill provisions micro-track. Street parking on Clinton/Henry typical on weekends; some metered Atlantic Ave spots.",
     "sources": [
       {
         "url": "https://sahadis.com/pages/locations",
-        "accessed": "2026-05-18T07:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/sahadis-brooklyn",
-        "accessed": "2026-05-18T07:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/shopping/sahadis/",
-        "accessed": "2026-05-18T07:55:00Z"
+        "url": "https://citylore.org/places/sahadis/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://gothamist.com/food/inside-the-glorious-new-sahadis-in-industry-city",
-        "accessed": "2026-05-18T07:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T07:49:56.742Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:46:16.792Z"
   },
   {
     "id": "brooklyn-clay-industries",
@@ -16461,47 +16460,50 @@
   },
   {
     "id": "frankels-delicatessen-greenpoint",
-    "name": "Frankel's Delicatessen",
-    "desc": "Bright Greenpoint counter deli slinging pastrami-cured salmon and Baz bagels until sold out",
-    "longDesc": "A modern, nostalgic appetizing-style deli on the Greenpoint/Williamsburg border serving smoked-fish-forward bagel sandwiches, classic egg breakfasts, and pastrami plates. The signature Specialty #1 layers house pastrami salmon with dill cucumber and scallion cream cheese on a fresh Baz bagel. Counter service with ~15 seats, fast lines, open 8:30am-3pm daily (or until they run out).",
+    "name": "Frankel's Delicatessen & Appetizing",
+    "desc": "Modern Greenpoint Jewish deli with hand-sliced, house-cured pastrami in a coriander-pepper rub.",
+    "longDesc": "Opened in 2016 by brothers Zach Frankel and Taylor McEwan, this fifteen-seat counter on the Greenpoint/Williamsburg border house-cures its pastrami with a minimalist black-pepper-and-coriander rub and hand-slices it to order — a noticeably different register from the heavier garlic/paprika Katz's-school cures. The pastrami sandwich runs ~$18 and shares the menu with hand-rolled bagels, smoked salmon, latkes, matzo ball soup, and a brisket egg-and-cheese. Daily 8:30am–3:00pm makes it a brunch/lunch anchor, not a dinner stop.",
     "url": "https://frankelsdelicatessen.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "greenpoint",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
-    "duration": "30-45 min",
+    "duration": "45-60 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "08:30-15:00",
-    "notes": "Order Specialty #1 — pastrami salmon, dill cucumber, scallion cream cheese on a Baz bagel — called 'an absolutely perfect salmon on bagel' (theinfatuation.com). Cash-friendly counter, ~15 seats, fast-moving line, frequently sells out before 3pm posted close (yelp.com, instagram @frankelsdeli). Weekend street parking on Manhattan Ave/Nassau is workable but tight; arrive before 11am to avoid both the line and the meter scramble.",
+    "notes": "House-cured pastrami uses only black pepper + coriander rub, hand-sliced (eatthisny.com). Sandwich ~$18, fifteen-seat counter on Greenpoint/Williamsburg border at 631 Manhattan Ave (theinfatuation.com). Closes 3pm daily — brunch/lunch slot only, not dinner. Weekend street parking on Manhattan Ave / side streets is generally findable but tight; arrive before noon for both seat + parking. Pairs well with a McGolrick Park or Greenpoint Avenue waterfront walk before/after.",
     "sources": [
       {
         "url": "https://frankelsdelicatessen.com/",
-        "accessed": "2026-05-18T08:10:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/frankels-delicatessen",
-        "accessed": "2026-05-18T08:10:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://eatthisny.com/2025/01/09/corned-beef-pastrami/pastrami-in-new-york-frankels-delicatessen-appetizing/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/frankels-delicatessen-brooklyn",
-        "accessed": "2026-05-18T08:10:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.instagram.com/frankelsdeli/",
-        "accessed": "2026-05-18T08:10:00Z"
+        "url": "https://www.nyctourism.com/restaurants/frankels-delicatessen-appetizing/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T08:09:30.899Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T08:48:45.952Z"
   },
   {
     "id": "mazzola-bakery",
@@ -18543,44 +18545,47 @@
   },
   {
     "id": "shelskys-of-brooklyn",
-    "name": "Shelsky's of Brooklyn Appetizing & Delicatessen",
-    "desc": "Cobble Hill appetizing counter — smoked fish boards, hand-sliced nova, sable, and chubs to dine in or take out.",
-    "longDesc": "Peter Shelsky's old-school appetizing shop on Court St builds smoked-fish boards with whitefish salad, nova, sable, and chopped liver, plus latkes and creative bagel sandwiches. The narrow dine-in counter does an easy weekend brunch, and platters travel well if you'd rather eat outside at Cobble Hill Park three blocks south. Closer to Industry City than any Greenpoint analog — ~10-12 min via Hamilton Ave / BQE with street parking workable before 11am.",
+    "name": "Shelsky's of Brooklyn",
+    "desc": "Cobble Hill appetizing shop for hand-sliced smoked fish, hand-rolled bagels, and classic shmears.",
+    "longDesc": "Shelsky's is the first Jewish appetizing shop to open in Brooklyn in 60 years, slicing nova, sable, and whitefish to order alongside hand-rolled, kettle-boiled sourdough bagels (3-day fermented). Sits two blocks from Mile End Delicatessen on Court St, making it the smoked-fish half of a perfect Cobble Hill smoked-meat/smoked-fish loop. Grab a bagel-and-lox or a build-your-own appetizing board and walk it to Cobble Hill Park.",
     "url": "https://shelskys.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "cobble-hill",
     "vibe": [
       "foodie",
-      "chill",
       "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-60 min",
-    "driveFromIC": "12 min",
+    "duration": "30-45 min",
+    "driveFromIC": "14 min",
     "hoursWeekend": "08:00-16:00",
-    "notes": "Open Mon-Sun 8am-4pm; closes at 4pm so this is brunch-only, not a late lunch fallback (yelp.com). Address 141 Court St on the Cobble Hill / Boerum Hill seam — counted as Cobble Hill for our zoning since the cluster centers on Court+Atlantic. Smoked-fish boards + sit-down menu both available (theinfatuation.com). For drive parking: try Warren / Baltic side streets, or Atlantic Ave municipal lots two blocks north.",
+    "notes": "Appetizing (smoked fish + dairy) is a distinct NYC-Jewish category from deli (cured meat) — Shelsky's covers the fish side, Mile End two blocks south on Court covers the meat side, so a single Cobble Hill stroll can hit both halves of the tradition (theinfatuation.com). Daily 8-4 means it's a strong track-opener but closes mid-afternoon — schedule it before the afternoon stops, not after (yelp.com). Court St has metered street parking and side-street free spots; arrive before 11 to skip the bagel line.",
     "sources": [
       {
         "url": "https://shelskys.com/",
-        "accessed": "2026-05-18T08:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn",
-        "accessed": "2026-05-18T08:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/shelskys-of-brooklyn",
-        "accessed": "2026-05-18T08:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/shelskys-brooklyn-bagels-is-an-instant-nyc-classic",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T08:36:44.463Z"
+    "lastResearchedAt": "2026-05-18T08:51:19.805Z"
   },
   {
     "id": "mile-end-delicatessen",
@@ -39678,5 +39683,102 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T08:42:12.581Z"
+  },
+  {
+    "id": "frankels-delicatessen",
+    "name": "Frankel's Delicatessen & Appetizing",
+    "desc": "Contemporary Greenpoint Jewish deli with bagels, smoked fish, latkes, and a no-frills 15-seat counter",
+    "longDesc": "Run by brothers Zach and Alex Frankel, this Greenpoint deli channels Upper West Side appetizing icons like Zabar's and Barney Greengrass into a small Manhattan Avenue counter. The smoked salmon tartare on open-faced bagels, twice-fried potato latkes, hot pastrami on rye, and brisket on challah are the hits; weekends draw long lines but kitchen runs 8:30am–3pm or until sold out.",
+    "url": "https://frankelsdelicatessen.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "greenpoint",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "08:30-15:00 (closed Monday; or sold out)",
+    "notes": "631 Manhattan Ave near McGolrick Park; ~15 seats, mostly grab-and-go (Yelp). Weekend lines are real — arrive by 10:30 or accept 30+ min wait (NYC Tourism). Street parking on Manhattan Ave/side streets is feasible on weekend mornings before noon. Brothers Zach & Alex Frankel modeled it on Zabar's/Barney Greengrass (NYC Tourism).",
+    "sources": [
+      {
+        "url": "https://www.nyctourism.com/restaurants/frankels-delicatessen-appetizing/",
+        "accessed": "2026-05-18T08:50:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/frankels-delicatessen-brooklyn",
+        "accessed": "2026-05-18T08:50:00Z"
+      },
+      {
+        "url": "https://frankelsdelicatessen.com/menu/",
+        "accessed": "2026-05-18T08:50:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/frankels-delicatessen",
+        "accessed": "2026-05-18T08:50:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T08:44:20.484Z"
+  },
+  {
+    "id": "davids-brisket-house",
+    "name": "David's Brisket House",
+    "desc": "Yemeni-run kosher-style deli slinging legendary halal pastrami on rye since the 1950s",
+    "longDesc": "A Bed-Stuy/Crown Heights border institution at 533 Nostrand Ave where Yemeni Muslim owners have guarded the original Eastern-European recipes since taking over from the founding Russian-Jewish family in the 1980s. The thin-sliced, peppery pastrami on rye with spicy brown mustard and a Dr. Brown's Cel-Ray is the move — Village Voice's Best Beef Brisket in Brooklyn, and roughly a third the price of Katz's. Halal-certified, counter-service, working-class pricing.",
+    "url": "https://davidsbriskethouse.com/",
+    "photoUrl": "https://davidsbriskethouse.com/wp-content/uploads/2025/01/2ndpart1.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "bed-stuy",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [
+      "halal"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 9:00-22:00, Sun 10:00-20:00",
+    "notes": "533 Nostrand Ave on the Bed-Stuy/Crown Heights border (atlasobscura.com). Yemeni Muslim family inherited the shop from the founding Jewish owners in the 1980s and preserved the kosher-style recipes; today it's halal-certified (forward.com, myjewishlearning.com). Order pastrami on rye, spicy brown mustard, Cel-Ray — Village Voice awarded them Best Beef Brisket in Brooklyn (atlasobscura.com). Pastrami/brisket runs roughly a third of Katz's pricing (bklyner.com). Weekend street parking on Nostrand and side streets is generally workable midday. Counter-heavy with a few tables — best as a quick stop or pickup before a Prospect Park / Crown Heights wander.",
+    "sources": [
+      {
+        "url": "https://davidsbriskethouse.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/davids-brisket-house",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.myjewishlearning.com/the-nosher/the-muslim-owned-brisket-house-serving-jewish-deli-food-in-brooklyn/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://forward.com/food/561817/davids-brisket-house-halal-jewish-deli-brisket-pastrami/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/pastrami-masters/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/davids-brisket-house-and-deli-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T08:53:19.174Z"
   }
 ]
