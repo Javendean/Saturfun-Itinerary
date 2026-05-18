@@ -7702,52 +7702,47 @@
   {
     "id": "japan-village",
     "name": "Japan Village",
-    "desc": "20,000 sq ft Japanese food hall + Sunrise Mart grocery inside Industry City",
-    "longDesc": "A market/food-hall hybrid on IC's ground floor with the city's largest Sunrise Mart and a clutch of Japanese stalls (Hachi yakitori, ramen, curry, taiyaki, sake bar) wrapped around communal tables. Ideal as the warmup or wind-down for any IC-anchored track — grab a beer and karaage flight before a Brooklyn Kura tasting, or end the night with matcha soft-serve from the grocery side.",
+    "desc": "20,000 sq ft Japanese food hall inside Industry City — ~10 stalls plus market, sake shop, karaoke; full lineup runs Sat & Sun.",
+    "longDesc": "Japan Village is a one-stop weekend anchor on the IC campus: ~10 food stalls (Ramen Setagaya, Hachi Handroll Bar, Gohei, Obentoyasan, Moriya, Shokusaido, Yamada, Umami House, Sake's Bar, Panya Bakery) all operating under the food hall's umbrella hours, plus standalone Sushi Uesugi, Gyuya yakiniku, Waku Waku izakaya, Oldies bar, J-Tunes karaoke, Sunrise Mart grocery and Kuraichi sake/whisky shop. Food hall is open Saturday 11:00–21:00 and Sunday 11:00–20:30, so every stall is reliably open both weekend days — sit-down restaurants stay a touch later and the shops keep their own slightly shorter weekend windows (Sunrise Mart and Kuraichi ~11–19). Free Industry City lot parking and zero drive time make it the best weather-proof fallback on the IC track.",
     "url": "https://www.japanvillage.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
       "curious",
-      "romantic"
+      "chill"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "45-75 min",
+    "duration": "60-90 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-21:00 (food hall to 20:30), Sun 11:00-20:00",
-    "notes": "Located inside Industry City Building 4 at 934 3rd Ave — zero drive time, walk from any IC anchor stop (Brooklyn Kura, Li-Lac, Frying Pan, etc.) (japanvillage.com, industrycity.com). Vendor hours vary; Hachi yakitori closes 20:00 Fri-Sat (japanvillage.com/eat-drink/hachi). Sunrise Mart side stays open later than the food court — useful for a late grocery-snack stop. Pair naturally with romantic/foodie tracks anchored at IC; communal seating means it works for groups but the sake counter at Hachi seats two well.",
+    "hoursWeekend": "Sat 11:00-21:00, Sun 11:00-20:30",
+    "notes": "All ~10 food-hall stalls inherit hall hours, so the weekend sweep resolves cleanly: nothing in the stall lineup is dark on Sat or Sun (japanvillage.com/eat-drink). Sushi Uesugi (omakase counter) and Waku Waku izakaya post their own slightly later closes; verify same-day if planning a 9pm+ stop. Sunrise Mart and Kuraichi (grocery/sake) close ~7pm both weekend days — don't park here for late-night bottle runs. Address 934 3rd Ave, Bldg B2, Industry City (yelp.com/biz/japan-village-brooklyn). Family-friendly until early evening; karaoke and Oldies bar pull the late crowd.",
     "sources": [
       {
-        "url": "https://www.japanvillage.com/",
-        "accessed": "2026-05-18T00:00:00Z"
+        "url": "https://www.japanvillage.com/eat-drink",
+        "accessed": "2026-05-18T17:10:00Z"
       },
       {
         "url": "https://industrycity.com/tenants/japan-village/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.japanvillage.com/eat-drink",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.japanvillage.com/eat-drink/hachi",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T17:10:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/japan-village-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
+        "accessed": "2026-05-18T17:10:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/a-look-at-all-the-offerings-inside-industry-citys-new-japan-village",
+        "accessed": "2026-05-18T17:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T16:11:10.325Z"
+    "lastResearchedAt": "2026-05-18T17:10:09.624Z"
   },
   {
     "id": "court-street-grocers",
@@ -20594,9 +20589,9 @@
   },
   {
     "id": "spoonbill-sugartown-booksellers",
-    "name": "Spoonbill & Sugartown Booksellers",
-    "desc": "Williamsburg indie since 1999 with deep art, design, architecture, and rare-book stacks.",
-    "longDesc": "A Bedford Ave institution founded in 1999, Spoonbill mixes new releases, used copies, and rare/signed editions with a strong tilt toward art, design, photography, and architecture monographs (Wikipedia). Exhibition catalogs, artist books, and small-press titles sit next to remainders, which makes it a natural pair-stop with Desert Island Comics four minutes away on Metropolitan Ave.",
+    "name": "Spoonbill & Sugartown, Booksellers",
+    "desc": "Williamsburg indie since 1999 with deep art, design, architecture, and rare-monograph selection",
+    "longDesc": "Bedford Ave institution founded in 1999, stocking new, used, and rare titles with an emphasis on contemporary art, photography, architecture, and design — plus imported and hard-to-find monographs, exhibition catalogs, signed editions, and a dedicated tarot section. Curated alongside Desert Island and Quimby's, it closes the Williamsburg indie-print triangle for artists scouting reference material.",
     "url": "https://spoonbillbooks.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -20607,32 +20602,32 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "30-60 min",
-    "driveFromIC": "20 min",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "11:00-21:00",
-    "notes": "218 Bedford Ave, Brooklyn NY 11211; phone (718) 387-7322 (Yelp). Official site lists 11am-9pm daily; some third-party listings show 10am-10pm so confirm before late visits. Weekend parking on Bedford is metered and competitive — better to park on Berry/Wythe or use the N. 6th St garage. Pairs naturally with Desert Island Comics (540 Metropolitan Ave, ~4 min walk/drive) for a Williamsburg browse track.",
+    "notes": "218 Bedford Ave at N. 5th, ground floor — open daily 11a-9p (spoonbillbooks.com/pages/contact). Strong on artist monographs (David Shrigley, Ryan McGinley), exhibition catalogs, architecture, and rare/imported design books (Wikipedia). Weekend street parking on Bedford is tight; Berry/N. 6th and the metered lots near N. 7th are more reliable. Pairs naturally with Desert Island (3.5 blocks east on Metropolitan) and Quimby's (Williamsburg) for an art-book crawl.",
     "sources": [
       {
-        "url": "https://spoonbillbooks.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://spoonbillbooks.com/pages/contact",
+        "accessed": "2026-05-18T17:10:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Spoonbill_&_Sugartown_Books",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://en.wikipedia.org/wiki/Spoonbill_%26_Sugartown_Books",
+        "accessed": "2026-05-18T17:10:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/spoonbill-and-sugartown-booksellers-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T17:10:00Z"
       },
       {
-        "url": "https://www.nycbookstores.org/spoonbill-and-sugartown-booksellers/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.artbook.com/spoonsugbook.html",
+        "accessed": "2026-05-18T17:10:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T00:23:19.909Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T17:15:02.136Z"
   },
   {
     "id": "cafe-zaiya-bryant-park",
@@ -44770,5 +44765,132 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T16:57:36.345Z"
+  },
+  {
+    "id": "daigo-hand-roll-bar-dekalb",
+    "name": "Daigo Hand Roll Bar (DeKalb Market Hall)",
+    "desc": "Tokyo-style standing temaki counter inside DeKalb Market Hall; open both weekend days.",
+    "longDesc": "Daigo's original Brooklyn outpost is a stand-up handroll bar tucked into DeKalb Market Hall, run by Hokkaido-trained chefs who crisp the nori to order and stuff each cone with generous, balanced fillings. The menu skews under $10 per roll, with toro, scallop, salmon, and uni temaki ordered a la carte from a single counter—ideal for a fast, photogenic midday stop. The full Market Hall around it doubles as a backup plan for non-sushi eaters in the group.",
+    "url": "https://daigobrooklyn.com/daigo-hand-roll-bar/",
+    "photoUrl": "https://daigobrooklyn.com/wp-content/uploads/2025/03/Dekalb.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "curious",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 11:00-22:00; Sun 11:00-22:00",
+    "notes": "Standing counter only — fast turnover, no reservations. Park in the Albee Square / City Point garage one block away. The Carroll St sibling (527 Carroll St, Gowanus) is a closer full-service room (~10 min from IC) BUT closed Sunday, so DeKalb is the only Daigo open both weekend days. Most temaki $7–$11; combos to $25 (theinfatuation.com/new-york/reviews/daigo-hand-roll-bar).",
+    "sources": [
+      {
+        "url": "https://daigobrooklyn.com/daigo-hand-roll-bar/",
+        "accessed": "2026-05-18T17:15:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/daigo-handroll-bar-brooklyn",
+        "accessed": "2026-05-18T17:15:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/daigo-hand-roll-bar",
+        "accessed": "2026-05-18T17:15:00Z"
+      },
+      {
+        "url": "https://www.downtownbrooklyn.com/listing/daigo-hand-roll-bar/",
+        "accessed": "2026-05-18T17:15:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T17:12:52.289Z"
+  },
+  {
+    "id": "codex-books",
+    "name": "Codex Books",
+    "desc": "NoHo indie shop pairing new + gently-used literary fiction, art, poetry, philosophy.",
+    "longDesc": "Codex opened in January 2018 at 1 Bleecker Street on the NoHo/Bowery edge of Manhattan, run by booksellers with deep ties to the downtown small-press scene. The shop curates new releases beside carefully chosen used copies of literary fiction, art, cinema, and philosophy; in-store readings and launches anchor a quiet community of poets and translators. Hours are noon to 7 p.m., seven days a week.",
+    "url": "https://codexbooks.info/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "12:00-19:00",
+    "notes": "GEOGRAPHIC MISMATCH: queue topic labels this as 'Bushwick' but the actual store is at 1 Bleecker St, NoHo/Manhattan (codexbooks.info/visit). Drive from IC is ~18 min via Manhattan Bridge off-peak weekend; metered street parking in NoHo is tight, prefer the Cooper Square or Mulberry St garages. Curatorial focus is 'literary fiction and art books' per their about page (codexbooks.info/about) — small-press/translated-fiction reputation is community-attributed via Poets & Writers and NYC Bookstores listings, not officially stated. Zone set to 'williamsburg' only because the enum has no Manhattan option and the WB Bridge route lands you here; recommend dropping this entry and using the Bushwick alternatives in enqueue.",
+    "sources": [
+      {
+        "url": "https://codexbooks.info/visit/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://codexbooks.info/about/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycbookstores.org/codex-books/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.pw.org/literary_places/codex",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T17:17:49.887Z"
+  },
+  {
+    "id": "human-relations-bookstore",
+    "name": "Human Relations Bookstore",
+    "desc": "Bushwick used-book haven for fiction, philosophy, radical politics, and graphic novels — cash preferred.",
+    "longDesc": "Founded in 2012 at 1067 Flushing Ave on the Bushwick/East Williamsburg edge, Human Relations stuffs floor-to-ceiling shelves with carefully curated used (and some new) literary fiction, poetry, philosophy, radical politics, foreign-language books, and graphic novels. Cash is preferred (there is a $10 card minimum), the staff trade in books, and the tightly packed aisles reward a slow afternoon graze. Open every day 12-7, it pairs naturally with a Williamsburg or Bushwick eating route.",
+    "url": "https://www.instagram.com/humanrelationsnyc/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-60 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "12:00-19:00",
+    "notes": "1067 Flushing Ave, Brooklyn NY 11237, between Vandervoort Pl and Knickerbocker Ave (TikTok @ericafenstermacher_). Specializes in used fiction + philosophy with strong poetry, radical politics, foreign-language and graphic-novel sections (nycbookstores.org). Cash preferred, $10 card minimum (search result). Street parking on Flushing/Vandervoort is realistic on weekends. Pairs well with Roberta's, Mama's Too Bushwick, or a Bogart St gallery walk for a reading-day route within ~10 min drive of Williamsburg.",
+    "sources": [
+      {
+        "url": "https://www.nycbookstores.org/human-relations-books/",
+        "accessed": "2026-05-18T17:10:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/human-relations-brooklyn",
+        "accessed": "2026-05-18T17:10:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/humanrelationsnyc/",
+        "accessed": "2026-05-18T17:10:00Z"
+      },
+      {
+        "url": "https://www.tiktok.com/@ericafenstermacher_/video/7359176542750166318",
+        "accessed": "2026-05-18T17:10:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T17:19:49.431Z"
   }
 ]

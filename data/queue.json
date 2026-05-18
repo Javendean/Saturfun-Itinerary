@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Japan Village weekend vendor sweep — which of the ~12 stalls actually open Sat/Sun",
-    "reason": "Multiple corpus entries point at Japan Village stalls; a single sweep would resolve weekend coverage for all of them at once",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:17:05.245Z"
-  },
-  {
-    "topic": "Best driving-friendly handroll/temaki counter within 15 min of Industry City open on weekends",
-    "reason": "If Handroll Sushi Bar stays weekday-only, weekend itineraries need a comparable temaki option in the IC drive radius (Carroll Gardens / Park Slope candidates likely)",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:17:05.246Z"
-  },
-  {
-    "topic": "Spoonbill & Sugartown Booksellers (Williamsburg art books)",
-    "reason": "Completes the Williamsburg indie-print triangle with Quimby's + Desert Island — strong art/design/architecture monograph selection a few blocks away",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:19:13.914Z"
-  },
-  {
-    "topic": "Codex Books (Bushwick small-press/poetry)",
-    "reason": "Newer (2022) Bushwick small-press shop with curated poetry and translated fiction — expands the indie-print cluster into the next neighborhood east",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:19:13.914Z"
-  },
-  {
-    "topic": "Human Relations Bookstore (Bushwick used)",
-    "reason": "Cash-only used-bookstore counterweight to Quimby's new-zine focus; broadens the reading-day route within 10-min drive of Williamsburg",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T00:19:13.914Z"
-  },
-  {
     "topic": "Chavela's Crown Heights Mexican restaurant on Franklin Ave",
     "reason": "Pairs with Anyone Comics for a Crown Heights food+culture track; tile-lined room, weekend brunch, ~5 min drive away",
     "requestedBy": "agent",
@@ -18724,5 +18694,113 @@
     "reason": "Adds a Williamsburg-cluster sushi option for itineraries that don't route through Japan Village",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T17:07:42.399Z"
+  },
+  {
+    "topic": "Re-research existing venue: Sushi Uesugi (omakase counter inside Japan Village)",
+    "reason": "Standalone reservation-only spot with its own pricing tier and hours — deserves its own entry instead of being buried in the Japan Village roll-up.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:10:09.790Z"
+  },
+  {
+    "topic": "Re-research existing venue: Gyuya yakiniku at Japan Village",
+    "reason": "Grill-your-own A5 wagyu is a distinct experience type (active/foodie) vs. food-court stalls; warrants its own card for romantic/date-night routing.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:10:09.790Z"
+  },
+  {
+    "topic": "Re-research existing venue: Panya Bakery (curry pan + matcha) at Japan Village",
+    "reason": "Morning/coffee slot candidate — current corpus is light on Japanese bakery openings before 11am; needs explicit hours check for Sat AM track starts.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:10:09.790Z"
+  },
+  {
+    "topic": "Daigo Sushi Roll Bar Carroll St (527 Carroll St, Gowanus) weekend Saturday-only handroll option",
+    "reason": "Closer to IC (~10 min) and full-service seated, but Sunday closed — worth a Saturday-only variant entry for itineraries that don't need Sunday coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:12:52.334Z"
+  },
+  {
+    "topic": "Daigo 4th Ave (315 4th Ave, Park Slope) weekend hours and menu differences",
+    "reason": "Third Daigo location even closer to IC in Park Slope cluster — needs hours verification to see if it fills the Sunday gap",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:12:52.334Z"
+  },
+  {
+    "topic": "Oita Sushi Park Slope weekend handroll and omakase availability",
+    "reason": "Established Park Slope sushi bar with temaki on menu — could anchor a Park Slope cluster track if Daigo gets oversaturated",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:12:52.334Z"
+  },
+  {
+    "topic": "Temakase Hand Roll Bar Brooklyn or closest location to Industry City",
+    "reason": "Frequently cited NYC top-handroll spot — verify if any Brooklyn location exists within drive radius or if Manhattan trip is uniquely justified",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:12:52.334Z"
+  },
+  {
+    "topic": "Mast Books Williamsburg outpost (66 Avenue A relocation / Brooklyn pop-ups)",
+    "reason": "Sister-tier curated art and theory bookshop; would deepen the rare-print cluster if a Brooklyn presence is confirmed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:15:02.167Z"
+  },
+  {
+    "topic": "Printed Matter @ St. Marks (artist books HQ)",
+    "reason": "Manhattan but uniquely the canonical artist-book non-profit; useful as an aspirational 'when in Manhattan' pin for the manga-panel harvester/art-reference use case",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:15:02.167Z"
+  },
+  {
+    "topic": "Picture Room (Williamsburg print + ephemera shop)",
+    "reason": "Small editions, prints, zines a few blocks from Spoonbill — slots into the same walking loop and adds an affordable take-home for the art-track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:15:02.167Z"
+  },
+  {
+    "topic": "Human Relations Books (Bushwick used bookstore)",
+    "reason": "20-min drive from IC, complements Williamsburg art-book stops with a more general literary/used inventory at lower price band",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:15:02.167Z"
+  },
+  {
+    "topic": "Mil Mundos Books (Bushwick bilingual community bookstore)",
+    "reason": "Actual Bushwick small-press/poetry shop at 1813 Bushwick Ave — bilingual English/Spanish, regular readings, fills the original queue intent",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:17:49.921Z"
+  },
+  {
+    "topic": "Molasses Books (Bushwick used books + coffee + wine)",
+    "reason": "Long-running Hart St indie with poetry section and evening readings; pairs with cafe stop, doubles the use case",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:17:49.921Z"
+  },
+  {
+    "topic": "Better Read Than Dead (Bushwick used + indie)",
+    "reason": "Broadway-side Bushwick shop with strong small-press/zine selection; fits the indie-print cluster expansion east",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:17:49.921Z"
+  },
+  {
+    "topic": "Topos Bookstore Cafe (Ridgewood/Bushwick border)",
+    "reason": "Woodward Ave used books + cafe with translated-lit focus; extends the indie cluster one more stop east while still drivable from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:17:49.921Z"
+  },
+  {
+    "topic": "Better Read Than Dead (Williamsburg used bookstore on Graham Ave)",
+    "reason": "Another cash-friendly used-book stop that completes a Williamsburg-Bushwick reading triangle",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:19:49.461Z"
+  },
+  {
+    "topic": "Molasses Books (Bushwick used books + coffee + beer on Hart St)",
+    "reason": "Natural cafe-pairing for a Human Relations browse; reading-day anchor with seating",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:19:49.461Z"
+  },
+  {
+    "topic": "Mil Mundos Books (Bushwick bilingual English/Spanish bookstore)",
+    "reason": "Expands Bushwick literary corpus with a distinct cultural angle and weekend events",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T17:19:49.461Z"
   }
 ]
