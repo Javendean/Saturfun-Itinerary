@@ -17284,40 +17284,45 @@
   {
     "id": "dyckman-farmhouse-museum",
     "name": "Dyckman Farmhouse Museum",
-    "desc": "1784 Dutch Colonial farmhouse — last of its kind in Manhattan; $1 admission, Saturday only",
-    "longDesc": "Built c. 1784 by William Dyckman, this is the only remaining Dutch Colonial farmhouse in Manhattan, sitting on a small green lot at Broadway and 204th in Inwood (dyckmanfarmhouse.org). The interior is furnished as a working-family farmhouse with hearth kitchen, parlor, bedrooms, and a reconstructed Hessian hut and smokehouse out back. At $1 admission and ~45 minutes to tour, it pairs naturally with The Cloisters as a short uptown-Manhattan history chain.",
+    "desc": "Manhattan's only surviving 18th-century Dutch Colonial farmhouse (1784), with free garden grounds.",
+    "longDesc": "Built circa 1784 by the Dyckman family on what was once their 250-acre farm, this is the last remaining Dutch Colonial farmhouse in Manhattan — a low, white clapboard house with a gambrel roof, smokehouse, and reconstructed Revolutionary War hut camp out back. Interior tours run on weekends and cover Dyckman family life, the British military occupation, and the enslaved people who lived and worked here. The garden and exterior are free and open whenever the museum is, making it a quick, contemplative 30–45 min stop on the drive back from The Cloisters or Inwood Hill Park.",
     "url": "https://dyckmanfarmhouse.org/",
-    "photoUrl": "https://dyckmanfarmhouse.org/wp-content/uploads/2024/03/DFM-1-April-2021-1-scaled.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "curious",
-      "chill"
+      "chill",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "35 min",
-    "hoursWeekend": "Sat 10:00-16:00, Sun closed",
-    "notes": "Actually located in Inwood, Manhattan (4881 Broadway at 204th St) — chained stop, only justifies the drive when paired with The Cloisters ~10 min north in Fort Tryon Park. Admission $1 adults, free under 10; advance tickets recommended (dyckmanfarmhouse.org/tickets). No on-site parking — use street parking on Payson/Riverside Dr or the Fort Tryon Park lots and walk down (dyckmanfarmhouse.org). Closed Sun/Mon/Tue; only Saturday works for a weekend itinerary. Closed Juneteenth, July 4, Veterans Day, Thanksgiving, Christmas Eve/Day.",
+    "driveFromIC": "50 min",
+    "hoursWeekend": "Sat 10:00-16:00; Sun closed",
+    "notes": "NOTE: This is in Inwood (4881 Broadway, Manhattan), not Brooklyn — corpus zone enum has no Upper Manhattan option, so anchored to industry-city as a fallback. Drive from IC is ~22 mi via Gowanus/FDR/Harlem River Dr/Henry Hudson Pkwy, ~50 min on a normal Saturday. Justified for inclusion as a chained uptown stop, not a standalone IC outing — pair with The Cloisters (15-min north on Broadway) or Inwood Hill Park (10-min walk) (https://dyckmanfarmhouse.org/). Admission is donation-based / $3 suggested; grounds and garden always free (https://www.tripadvisor.com/Attraction_Review-g60763-d108018-Reviews-Dyckman_Farmhouse_Museum-New_York_City_New_York.html). No on-site parking lot; street parking in Inwood is generally findable on weekends but not guaranteed — try Payson Ave or side streets off Broadway (https://historichousetrust.org/houses/dyckman-farmhouse-museum/). Winter hours collapse to Fri-Sat only (Dec-Mar); rest of year Thu-Sat. Closed Sun-Wed year-round, so this only fits a Saturday itinerary, not a Sunday one.",
     "sources": [
       {
         "url": "https://dyckmanfarmhouse.org/",
-        "accessed": "2026-05-16T19:45:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://historichousetrust.org/houses/dyckman-farmhouse-museum/",
-        "accessed": "2026-05-16T19:45:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/parks/dyckman-house-museum/",
-        "accessed": "2026-05-16T19:45:00Z"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d108018-Reviews-Dyckman_Farmhouse_Museum-New_York_City_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/M026/facilities/historichouses",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T19:40:22.578Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:14:40.313Z"
   },
   {
     "id": "hispanic-society-museum",
@@ -36750,5 +36755,189 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T03:06:38.735Z"
+  },
+  {
+    "id": "heather-garden-fort-tryon",
+    "name": "Heather Garden at Fort Tryon Park",
+    "desc": "3-acre heath & heather garden above the Hudson — free, dawn-to-dusk, peak bloom spring + early summer.",
+    "longDesc": "The largest unrestricted public garden in NYC: a 3-acre Olmsted-designed garden with one of the East Coast's biggest heath & heather collections, a 600-foot perennial border, and 650+ plant varieties (forttryonparktrust.org). Curves around a Hudson-cliff promenade with George Washington Bridge and Palisades views, sitting between New Leaf Restaurant and The Cloisters so the whole afternoon — coffee, garden walk, medieval art — runs on a single park-and-walk.",
+    "url": "https://www.nycgovparks.org/parks/fort-tryon-park/highlights/12337",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "chill",
+      "photo",
+      "romantic",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-75 min",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "MANHATTAN exception — Hudson Heights, not Brooklyn (zone tag 'dumbo' is a schema placeholder; do not cluster with Brooklyn tracks). Justified as part of a fixed three-stop park loop: park once at Margaret Corbin Drive lot near the Cloisters, walk to New Leaf for brunch/coffee, stroll the Heather Garden promenade, finish at The Cloisters — no second drive. Free, unticketed. Peak bloom windows: heaths (Erica) mid-winter→early spring; perennial border + heathers (Calluna) late spring through summer (forttryonparktrust.org). Best light early AM or late afternoon; weekends can crowd on bloom-peak Sundays. Drive from IC ~35-45 min via Belt/Brooklyn Bridge + FDR + Henry Hudson, longer in summer traffic — leave by 10am to claim Cloisters lot parking.",
+    "sources": [
+      {
+        "url": "https://www.forttryonparktrust.org/sites/heather-garden/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/fort-tryon-park/highlights/12337",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.forttryonparktrust.org/the-gardens-heather-and-alpine/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d284007-Reviews-Heather_Garden-New_York_City_New_York.html",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:12:17.615Z"
+  },
+  {
+    "id": "inwood-hill-park",
+    "name": "Inwood Hill Park",
+    "desc": "Manhattan's last natural forest — 196 acres of old-growth tulip trees, Lenape caves, and Hudson cliffs.",
+    "longDesc": "Inwood Hill Park is the only remaining natural forest on Manhattan island, centered on the 38-acre Shorakapok Preserve — a member of the Old-Growth Forest Network with mature red oak and some of the largest tulip trees in NYC. The terrain still shows the glacial valleys, ridges, and rock-shelter 'Indian Caves' used as seasonal camps by the Lenape (the Munsee word shorakapok means 'the sitting place'). Three marked trails — Orange (1.7 mi moderate off-paved Forever Wild loop), Blue (1.7 mi paved, Overlook Meadow + Palisades views), and White (1.5 mi easy paved) — branch from the eastern Dyckman/Payson entrance and chain naturally with Dyckman Farmhouse 10 min away on foot.",
+    "url": "https://www.nycgovparks.org/parks/inwood-hill-park",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "active",
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "50 min",
+    "hoursWeekend": "06:00-01:00",
+    "notes": "Manhattan exception — anchored to industry-city zone since the corpus enum has no Upper Manhattan option (same fallback used for [[dyckman-farmhouse-museum]] and [[met-cloisters]]). Free, always open (NYC parks rule: 6am-1am). Address: Dyckman St & Payson Ave, NYC 10034 (nycgovparks.org/parks/inwood-hill-park). Shorakapok Preserve is the central old-growth core — designated 1992, listed by the Old-Growth Forest Network as 'the only remaining natural forest on the island' (oldgrowthforest.net/ny-shorakapok-preserve-inwood-hill-park). Heads-up: the Dyckman Street park entrance and its small parking lot are closed for reconstruction through 2028 — use street parking on Payson Ave / Seaman Ave or the Edison ParkFast garage at 270 Dyckman St; entry on foot from Payson Ave is unaffected (yelp.com/biz/inwood-hill-park-new-york). Drive from IC ~22 mi via Gowanus/Battery Tunnel/West Side Hwy/Henry Hudson Pkwy, ~45-55 min off-peak — only worth the trip as part of an uptown chain with [[dyckman-farmhouse-museum]] (10-min walk) and [[met-cloisters]] (8-min drive north on Henry Hudson Pkwy). Trail picks: Orange Trail for the actual forest experience and Shorakkopoch Rock (legendary site of the 1626 Manhattan 'purchase' from the Lenape); Blue Trail for Palisades views at the Overlook Meadow (nycgovparks.org/parks/inwood-hill-park/facilities/hikingtrails). Bring water — no concessions inside; nearest food is on Broadway in Inwood. The historic Nature Center on the Hudson side was demolished in 2022; a replacement is in long-term planning (nycgovparks.org/parks/inwood-hill-park/highlights).",
+    "sources": [
+      {
+        "url": "https://www.nycgovparks.org/parks/inwood-hill-park",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.nycgovparks.org/parks/inwood-hill-park/facilities/hikingtrails",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.oldgrowthforest.net/ny-shorakapok-preserve-inwood-hill-park",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Inwood_Hill_Park",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://www.yelp.com/biz/inwood-hill-park-new-york",
+        "accessed": "2026-05-17"
+      },
+      {
+        "url": "https://myinwood.net/the-indian-caves-of-inwood-hill-park/",
+        "accessed": "2026-05-17"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:17:35.519Z"
+  },
+  {
+    "id": "indian-road-cafe-inwood",
+    "name": "Indian Road Cafe",
+    "desc": "Park-side Hudson Valley farm-to-table brunch at Manhattan's northern tip, against Inwood Hill Park.",
+    "longDesc": "Indian Road Cafe sits at 600 W 218th St, pressed against Inwood Hill Park — Manhattan's last primeval forest — with Hudson views and a casual, all-day Hudson Valley farm-to-market menu. Weekend brunch (Sat-Sun) covers French toast, eggs benedict, biscuits-and-gravy, plus solid vegan/vegetarian options, anchored by a coffee bar and well-reviewed cocktail list. It's the natural lunch stop for a Cloisters + Inwood Hill + Dyckman day; reservations strongly recommended on weekends.",
+    "url": "https://www.indianroadcafe.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "75-90 min",
+    "driveFromIC": "42 min",
+    "hoursWeekend": "Sat 7:00-23:00, Sun 8:00-21:00 (brunch menu 8:00-15:00)",
+    "notes": "GEOGRAPHY FLAG: Manhattan/Inwood, not Brooklyn — outside the 10-25 min IC cluster. Justified as the anchor of a north-Manhattan destination day with Cloisters (Met medieval), Inwood Hill Park trails, and Dyckman waterfront, none of which have Brooklyn analogues (myinwood.net). Park-side patio looks onto Inwood Hill (indianroadcafe.com). Hudson Valley sourcing, in-house dry aging, full coffee/cocktail bar (theinfatuation.com). Weekend brunch is busy — reservations via OpenTable or 212-942-7451 strongly recommended; walk-ins frequently turned away on Sunday (yelp). Street parking only and notoriously tight on weekends; budget 10-15 extra min or use the Dyckman St garages as fallback. zone field set to 'industry-city' only because the schema enum is Brooklyn-only — itinerary builder should treat as destination-day, not cluster member.",
+    "sources": [
+      {
+        "url": "https://www.indianroadcafe.com/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.indianroadcafe.com/menus/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/indian-road-cafe-new-york",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/indian-road-cafe",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://myinwood.net/restaurants/nov-3-2008-034/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:19:36.542Z"
+  },
+  {
+    "id": "morris-jumel-mansion",
+    "name": "Morris-Jumel Mansion",
+    "desc": "Manhattan's oldest house — 1765 colonial mansion, Washington's 1776 HQ, perched on a Sugar Hill bluff",
+    "longDesc": "Built in 1765 by British officer Roger Morris, this Palladian-style country house is the oldest extant building in Manhattan and served as George Washington's headquarters for five weeks in autumn 1776. Later home to socialite Eliza Jumel, it sits on a Sugar Hill bluff with sweeping views and a quiet cobblestoned terrace lined with wooden rowhouses — a pocket of 18th-century New York hidden in Washington Heights. Interior currently closed for restoration; Saturday guided walking tours of the grounds + neighborhood run $25, and the surrounding Roger Morris Park is open daily 10–5.",
+    "url": "https://morrisjumel.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "curious",
+      "photo",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "45 min",
+    "hoursWeekend": "Park 10:00-17:00; Sat walking tours; 2nd-Sun free family day",
+    "notes": "Manhattan-only inclusion justified as the third stop in an uptown colonial-history chain (Cloisters medieval → Dyckman 1784 farm → Morris-Jumel 1765 mansion). Mansion interior temporarily closed for restoration as of 2026 (morrisjumel.org/visit/) — book the Saturday guided walking tour ($25, focuses on grounds + Jumel Terrace cobblestone block) or visit on a 2nd Sunday Free Family Day. Park itself is free and open daily 10–5. No on-site lot; street parking on 160th/162nd, Jumel Terrace, and Edgecombe Ave, or paid garage on 161st between Broadway and Amsterdam. From IC: BQE → Manhattan Bridge → FDR → Harlem River Dr, exit 158th — ~45 min off-peak. Pair with Dyckman Farmhouse (10 min north) and the Cloisters (15 min north) for a full uptown colonial day. National Historic Landmark; NYC has owned the house since 1903 (Wikipedia).",
+    "sources": [
+      {
+        "url": "https://morrisjumel.org/visit/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Morris%E2%80%93Jumel_Mansion",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://historichousetrust.org/houses/morris-jumel-mansion-museum/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:24:31.246Z"
   }
 ]
