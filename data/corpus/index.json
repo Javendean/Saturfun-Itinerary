@@ -2891,10 +2891,10 @@
   {
     "id": "littlefield-gowanus",
     "name": "Littlefield",
-    "desc": "Converted-warehouse comedy + live music room in Gowanus; nightly stand-up, podcasts, indie shows",
-    "longDesc": "Littlefield is a 6,000 sq ft independent performance venue at 635 Sackett St in Gowanus, housed in a former textile warehouse with exposed brick, a full bar, and a state-of-the-art sound system. Programming leans heavily on stand-up comedy showcases, live podcast tapings, and indie music — a polished, industrial-cool counterpoint to the bar-back comedy scene. Doors typically open ~30 min before each show; the venue is only open for ticketed events.",
+    "desc": "Gowanus comedy + live-show venue in a converted 1920s printing-press warehouse on Sackett St.",
+    "longDesc": "Littlefield is a 250-cap Brooklyn performance space programming stand-up showcases, podcast tapings, indie music, drag, burlesque, and dance parties almost every night. It sits in a converted 1920s printing-press warehouse on Sackett between 3rd and 4th Aves in Gowanus, ~10-15 min north of Industry City up 3rd Ave. Tickets are typically $15-$35 and most shows are 21+; doors usually open 30 min before showtime, with the calendar driving operating hours.",
     "url": "https://littlefieldnyc.com/",
-    "photoUrl": "https://littlefieldnyc.com/wp-content/uploads/2021/02/Littlefield_Google_Maps-1024x470.png",
+    "photoUrl": "https://littlefieldnyc.com/wp-content/uploads/2021/02/Exterior_mural-scaled.jpg",
     "aiBackgroundUrl": "",
     "zone": "park-slope",
     "vibe": [
@@ -2905,26 +2905,30 @@
     "priceBand": "$$",
     "duration": "90-120 min",
     "driveFromIC": "12 min",
-    "hoursWeekend": "event-dependent (typically 19:00-23:30)",
-    "notes": "635 Sackett St between 3rd/4th Aves, Gowanus — technically Gowanus but bordering Park Slope/Carroll Gardens. Street parking available; read signs carefully, NYC tows aggressively in this corridor (source: littlefieldnyc.com/info). Ticket prices inclusive of fees; $1 processing surcharge at door for card/phone (source: littlefieldnyc.com/info). Venue only opens for scheduled events — check calendar before driving over.",
+    "hoursWeekend": "event-based, doors typically 19:00-23:30",
+    "notes": "Gowanus address but tagged park-slope (no gowanus enum); 635 Sackett between 3rd & 4th Ave. Cutting-edge comedy/music/podcasts/storytelling per NYC Tourism (https://www.nyctourism.com/nightlife/littlefield/). Open only when events are scheduled — check calendar before routing. Street parking on 3rd Ave / Sackett / Union is usually findable on weekends; Thomas Greene Park lot is one block away. Straight shot up 3rd Ave from IC. Booking: booking@littlefieldnyc.com.",
     "sources": [
       {
-        "url": "https://littlefieldnyc.com/info/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://littlefieldnyc.com/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://littlefieldnyc.com/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://littlefieldnyc.com/info/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/nightlife/littlefield/",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/littlefield-brooklyn-2",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T19:46:26.000Z"
+    "lastResearchedAt": "2026-05-18T03:36:49.447Z"
   },
   {
     "id": "noguchi-museum",
@@ -7599,8 +7603,8 @@
   {
     "id": "the-bell-house",
     "name": "The Bell House",
-    "desc": "Gowanus podcast tapings, headlining standup, and indie shows in a former warehouse with rare on-street parking.",
-    "longDesc": "Two-room music and events venue at 149 7th Street in Gowanus, famous for live podcast recordings (NPR, Maximum Fun, Headgum), national standup headliners, and weird-Brooklyn variety nights. The large back hall hosts ticketed shows while the Front Bar runs as a casual pre-show pub. 21+ for most shows, strict anti-heckling policy, and — unusually for NYC — actual weekend street parking thanks to the industrial Gowanus blocks.",
+    "desc": "Live Nation-operated Gowanus music + comedy venue; bigger sibling to Union Hall with major touring bills",
+    "longDesc": "A two-room Gowanus warehouse-turned-venue at 149 7th St run by the same team as Union Hall (now under Live Nation). Hosts stand-up specials, live podcast tapings, story slams, drinking-game nights, and indie touring acts in a ~400-cap main hall with a separate front bar. Roughly 8 minutes from Industry City and a natural Plan-B when Union Hall's basement is sold out.",
     "url": "https://www.thebellhouseny.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -7611,32 +7615,28 @@
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "2-3 hr",
+    "duration": "90-120 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "Doors typically 7:00pm; box office opens day-of-show 1 hr before doors",
-    "notes": "149 7th Street, Gowanus, Brooklyn 11215 — short 3rd Ave shot from IC (thebellhouseny.com/visit). Street parking explicitly recommended over transit by the venue itself, which is rare; industrial blocks west of 4th Ave have weekend space. Subway backup: F/G/R Smith-9th. Programming skews comedy/podcast — Wait Wait Don't Tell Me, Sleep With Me, Maximum Fun tapings, plus national standup headliners (livenation.com). Front Bar serves food and drinks pre-show so you can roll straight from an IC dinner.",
+    "hoursWeekend": "Sat-Sun 12:00-04:00 (event-dependent)",
+    "notes": "149 7th St on the Gowanus/Park Slope border; street parking is usually findable on weekend evenings on 2nd Ave or side streets, but check Smith-9th muni lot as backup (thebellhouseny.com). Programming skews comedy/podcast-taping/specialty events with frequent UCB and Brooklyn Comedy Collective bookings (Wikipedia). Front bar opens earlier than ticketed shows — fine for arriving 30-45 min ahead (Yelp).",
     "sources": [
       {
-        "url": "https://www.thebellhouseny.com/visit",
-        "accessed": "2026-05-16T20:00:00Z"
-      },
-      {
         "url": "https://www.thebellhouseny.com/",
-        "accessed": "2026-05-16T20:00:00Z"
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.livenation.com/venue/KovZ917ARvk/the-bell-house-events",
-        "accessed": "2026-05-16T20:00:00Z"
+        "url": "https://en.wikipedia.org/wiki/The_Bell_House_(New_York_City)",
+        "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/music/the-bell-house",
-        "accessed": "2026-05-16T20:00:00Z"
+        "url": "https://www.yelp.com/biz/the-bell-house-brooklyn",
+        "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T19:48:26.890Z"
+    "lastResearchedAt": "2026-05-18T03:34:52.396Z"
   },
   {
     "id": "sultan-room",
@@ -8060,24 +8060,23 @@
   {
     "id": "met-cloisters",
     "name": "The Met Cloisters",
-    "desc": "Reconstructed medieval monastery on a Hudson bluff — Met's medieval European art branch with free on-site lot.",
-    "longDesc": "The Cloisters is the Met's uptown outpost, a building stitched together from five French medieval cloisters and set on a rocky bluff in Fort Tryon Park overlooking the Hudson and the Palisades. Highlights are the seven Unicorn Tapestries (c. 1495-1505), the 12th-century Fuentidueña Apse, the Cuxa cloister, and three medieval gardens — Bonnefont herb garden, Trie, and Cuxa — that bloom in real time alongside the art. Plan 2-3 hours plus a walk through the park's Heather Garden.",
-    "url": "https://www.metmuseum.org/plan-your-visit/met-cloisters",
+    "desc": "Medieval art museum built from reassembled European monasteries, perched above the Hudson in Fort Tryon Park",
+    "longDesc": "The Met's medieval branch in Upper Manhattan, stitched together from genuine 12th-15th century French and Spanish cloister fragments and home to the Unicorn Tapestries, Romanesque chapels, and terraced herb gardens overlooking the Hudson and Palisades. The setting itself — Olmsted-designed Fort Tryon Park, with views down to the GWB — is half the visit; pair with the Hispanic Society on a single northbound Manhattan run.",
+    "url": "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "curious",
-      "chill",
-      "photo",
-      "romantic"
+      "romantic",
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "2-3 hr",
-    "driveFromIC": "35-40 min",
+    "driveFromIC": "40 min",
     "hoursWeekend": "10:00-17:00",
-    "notes": "Address: 99 Margaret Corbin Dr, NYC 10040 (metmuseum.org/plan-your-visit/met-cloisters). Weekend hours Sat-Sun 10:00-17:00. Two free public lots at the Margaret Corbin Circle entrance — small, fills early on sunny weekends, so target the 10:00 open (forttryonparktrust.org/sites/parking-the-met-cloisters). NY/NJ/CT residents + students pay-what-you-wish with ID (min $0.01); non-residents pay full Met admission ($30 adult, 2026) and the ticket is a 3-day pass valid at The Met Fifth Avenue too. Drive from IC: Hugh L. Carey Tunnel → West Side Hwy → Henry Hudson Pkwy north, exit Fort Tryon Park/The Cloisters (northbound-only exit; if you miss it, next U-turn is at 218th). Bring a jacket — stone interiors stay cool even in July. Pair with lunch at New Leaf inside the park and a Heather Garden walk for a clean 4-5 hour upper-Manhattan day.",
+    "notes": "Far outside the standard IC 10-25 min radius — justified as the second stop on a rare Manhattan double-museum trip, sitting ~6 min north of the Hispanic Society on the same northbound drive up the Henry Hudson. Two free timed public parking lots inside the park, fills early on weekends and sunny days; arrive before 11am or plan to circle (Fort Tryon Park Trust). Suggested admission ~$30 adult, free under 12; pay-what-you-wish for NY/NJ/CT residents with ID. Address: 99 Margaret Corbin Dr, NY 10040. Park is open 6am–1am so post-museum sunset walk on Linden Terrace is the move.",
     "sources": [
       {
         "url": "https://www.metmuseum.org/plan-your-visit/met-cloisters",
@@ -8088,22 +8087,14 @@
         "accessed": "2026-05-17T00:00:00Z"
       },
       {
-        "url": "https://www.metmuseum.org/policies/directions-and-parking",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.metmuseum.org/primer/met-cloisters",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/the-met-cloisters-new-york",
         "accessed": "2026-05-17T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T03:09:40.475Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:26:40.752Z"
   },
   {
     "id": "comedy-cellar-macdougal",
@@ -36939,5 +36930,85 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T03:24:31.246Z"
+  },
+  {
+    "id": "malecon-restaurant-175th",
+    "name": "Malecon Restaurant (175th St)",
+    "desc": "Washington Heights Dominican institution since 1987; rotisserie chicken, mofongo, and Los Tres Golpes brunch.",
+    "longDesc": "Family-run Dominican cornerstone on the corner of Broadway and 175th, slinging blistered-skin pollo al carbon out of a glass rotisserie window since 1987 alongside mofongo, roasted pork, and weekend Los Tres Golpes (eggs, mangu, salami, longaniza). The dining room is bright, loud, and unpretentious — quarter-chicken combos with rice/beans/tostones land under $15 and arrive fast, making it the natural lunch anchor between the Hispanic Society at 155th and the Cloisters at Fort Tryon on a same-day uptown chain.",
+    "url": "https://maleconnyc.com/maleconrestaurant175thstreet",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "45-60 min",
+    "driveFromIC": "40 min",
+    "hoursWeekend": "Sat 9:00-24:00, Sun 9:00-23:00",
+    "notes": "Manhattan exception — anchored to industry-city zone per the corpus convention used for [[hispanic-society-museum]], [[met-cloisters]], and [[dyckman-farmhouse-museum]] (the enum has no Upper Manhattan slot). Address 4141 Broadway at W 175th St, NY 10033; phone (212) 927-3812 (maleconnyc.com). Operating since 1987 and widely called one of the best rotisserie chickens in NYC (theinfatuation.com/new-york/reviews/el-malecon). Drive from IC ~22 mi via Gowanus/Battery Tunnel/West Side Hwy/Henry Hudson Pkwy, ~40-50 min off-peak — only worth the haul as the lunch leg of an Upper Manhattan chain with [[hispanic-society-museum]] (6 min south at 155th) and [[met-cloisters]] (5 min north in Fort Tryon Park). No private lot; street parking on side blocks of 175th/176th west of Broadway is the move on weekends — Audubon Ave has more turnover than Broadway itself (yelp.com/biz/malecon-restaurant-new-york-2). Weekend brunch (Los Tres Golpes, mangu) is the locals' tell; signature combos: 1/4 chicken w/ rice + beans + tostones, mofongo con camarones, fried grouper. Cash-friendly, fast turnover, dining room + counter takeout both available.",
+    "sources": [
+      {
+        "url": "https://maleconnyc.com/maleconrestaurant175thstreet",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/el-malecon",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/malecon-restaurant-new-york-2",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/el-malecon/4a2eb22df964a52035981fe3",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T03:29:55.168Z"
+  },
+  {
+    "id": "audubon-terrace",
+    "name": "Audubon Terrace",
+    "desc": "Hidden 1907 Beaux-Arts plaza with Anna Hyatt Huntington bronzes — free, anchored by the El Cid statue",
+    "longDesc": "A monumental Beaux-Arts / neo-Italian Renaissance courtyard commissioned in 1907 by philanthropist Archer Huntington, with eight matching limestone buildings facing each other across a red-brick plaza ringed in stone balustrades. The square holds Anna Hyatt Huntington's bronze sculptures installed 1927-1944, centered on her 1927 equestrian El Cid in front of the Hispanic Society. Now sharing the block with Boricua College and the American Numismatic Society, the publicly accessible plaza is a 5-minute architectural detour ideal for photo-walkers chasing symmetry, balustrades, and forgotten Gilded Age ambition.",
+    "url": "https://en.wikipedia.org/wiki/Audubon_Terrace",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/WTM_NewYorkDolls_010.jpg/800px-WTM_NewYorkDolls_010.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "washington-heights",
+    "vibe": [
+      "curious",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "35 min",
+    "hoursWeekend": "daylight (open plaza)",
+    "notes": "Open-air courtyard accessible from Broadway between W 155th and W 156th Streets in Washington Heights (Wikipedia). Eight buildings in matched neo-Italian Renaissance style around a red-brick plaza enclosed by stone balustrades (Wikipedia). Sculpture program by Anna Hyatt Huntington, 1927-1944, anchored by the equestrian El Cid in front of the Hispanic Society Library (Wikipedia). Boricua College replaced the former American Geographical Society building and continues to occupy two of the original Beaux-Arts structures (Wikipedia). Pair with a Hispanic Society visit; weekend street parking on W 156th and Riverside Dr is generally workable. Manhattan justification: same plaza as the already-routed Hispanic Society stop — adds a free architectural + sculpture beat with zero extra drive time (Historic Districts Council).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Audubon_Terrace",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://6tocelebrate.org/site/audubon-terrace/",
+        "accessed": "2026-05-17T00:00:00Z"
+      },
+      {
+        "url": "https://www.harlemworldmagazine.com/the-legendary-audubon-terrace-a-cultural-arts-complex-uptown-in-washington-heights-1904/",
+        "accessed": "2026-05-17T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-18T03:32:52.974Z"
   }
 ]
