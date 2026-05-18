@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Pier 57 Market 57 food hall James Beard",
-    "reason": "Adjacent alternative food hall on the Hudson (Jose Andres etc.) — useful comparison if Chelsea Market is mobbed or a return-trip swap is needed",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:35:42.585Z"
-  },
-  {
-    "topic": "The High Line northern entrance at W 34th St + Hudson Yards",
-    "reason": "Direct walking connector that justifies the single-parking Chelsea-to-HY day",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:38:17.069Z"
-  },
-  {
-    "topic": "Mercado Little Spain (Hudson Yards food hall by José Andrés)",
-    "reason": "On-site lunch/dinner anchor that keeps the HY stop self-contained without re-parking",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:38:17.069Z"
-  },
-  {
-    "topic": "The Shed Hudson Yards rotating exhibitions and performances",
-    "reason": "Third HY cultural anchor — completes a half-day Manhattan track if Edge tickets are sold out",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:38:17.069Z"
-  },
-  {
-    "topic": "Chelsea Market food + shopping hall",
-    "reason": "South-end bookend of the High Line; pairs with Vessel/Edge on a single Manhattan loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-16T21:38:17.069Z"
-  },
-  {
     "topic": "Socrates Sculpture Park Vernon Blvd",
     "reason": "Free open-air sculpture park 4 blocks from Noguchi — completes the indoor+outdoor pairing in one walking radius",
     "requestedBy": "agent",
@@ -16384,5 +16354,89 @@
     "reason": "Two blocks north of Little Island with free public rooftop + Hudson views; another no-cover Manhattan extension if the user already drove in",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T09:04:26.582Z"
+  },
+  {
+    "topic": "Nom Wah Tea Parlor Chinatown original (parent of Market 57 dim sum kiosk)",
+    "reason": "Iconic 100-yr-old Chinatown dim sum — natural pairing if doing a Manhattan return-trip food crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:06:26.824Z"
+  },
+  {
+    "topic": "Little Island Pier 55 free park next to Pier 57",
+    "reason": "Walkable from Market 57; pairs as a single Hudson waterfront stop for foodie + photo vibes",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:06:26.824Z"
+  },
+  {
+    "topic": "Time Out Market Dumbo food hall comparison",
+    "reason": "Closer Brooklyn analog to Market 57 — useful as the IC-adjacent food-hall option vs Manhattan trek",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:06:26.824Z"
+  },
+  {
+    "topic": "Moynihan Train Hall Connector pedestrian bridge (opened June 2023)",
+    "reason": "Second leg of the same connector — lets the Chelsea-to-HY walking day extend east to Penn District without re-parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:08:49.758Z"
+  },
+  {
+    "topic": "Little Island at Pier 55 (Hudson River Park)",
+    "reason": "Free elevated park at the *southern* end of the same High Line walk — closes the loop for a single-parking Manhattan west-side day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:08:49.758Z"
+  },
+  {
+    "topic": "Hudson Yards public parking — best weekend garage rate near W 34th & 11th Ave",
+    "reason": "Logistics anchor: the single-parking premise depends on knowing the cheapest/closest garage for the Chelsea-HY day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:08:49.758Z"
+  },
+  {
+    "topic": "Edge at Hudson Yards observation deck (timed-entry, same building complex)",
+    "reason": "Pairs with Mercado as the second HY anchor — same parking, no re-park, justifies the Manhattan exception",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:11:48.917Z"
+  },
+  {
+    "topic": "The High Line northern entrance at 34th St / Hudson Yards",
+    "reason": "Free outdoor walk that extends the HY stop without moving the car; connects to Chelsea Market for a future enqueue",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:11:48.917Z"
+  },
+  {
+    "topic": "Chelsea Market food hall (alternative Manhattan food-hall anchor 15 min south of HY)",
+    "reason": "Comparable indoor-market option for the corpus' Manhattan-exception slot; lets users pick HY vs Chelsea by mood",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:11:48.917Z"
+  },
+  {
+    "topic": "Vessel at Hudson Yards reopening status 2026",
+    "reason": "Third anchor candidate for the Manhattan/HY half-day track alongside Edge and The Shed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:14:04.934Z"
+  },
+  {
+    "topic": "Cedric's at The Shed weekend menu and reservations",
+    "reason": "In-building food stop lets the HY track include lunch without re-parking",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:14:04.934Z"
+  },
+  {
+    "topic": "Schema: add 'manhattan-hudson-yards' to zone enum",
+    "reason": "Three HY anchors (Edge/Vessel/Shed) all force misleading Brooklyn zones; corpus needs a Manhattan zone or zone:'manhattan-*' family",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:14:04.934Z"
+  },
+  {
+    "topic": "Los Tacos No. 1 (Chelsea Market stall)",
+    "reason": "Single highest-signal vendor inside Chelsea Market — frequently cited as best tacos in NYC; worth its own entry for itinerary granularity",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:15:53.727Z"
+  },
+  {
+    "topic": "Whitney Museum of American Art",
+    "reason": "Sits at the southern terminus of the High Line, two blocks from Chelsea Market — closes the Vessel→Edge→High Line→Chelsea→Whitney corridor as a full-day Manhattan track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T09:15:53.727Z"
   }
 ]

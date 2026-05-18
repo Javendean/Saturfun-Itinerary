@@ -18673,49 +18673,48 @@
   {
     "id": "chelsea-market",
     "name": "Chelsea Market",
-    "desc": "Sprawling indoor food hall with 50+ vendors, one block east of the High Line — Manhattan's foodie rain-backup.",
-    "longDesc": "A converted Nabisco factory turned 1.2-million-sq-ft food hall on Ninth Ave between W 15th and W 16th, with 50+ vendors spanning Los Tacos No. 1, The Lobster Place, Miznon, Creamline, Num Pang, and Very Fresh Noodles. Open daily 7am–10pm, it's the canonical rain-day pivot from a High Line/Little Island walk — both are one block west. Park in the West 15th St garages (entrances adjacent to the market) or hunt curbside in the W 20s between 9th–11th Ave on weekends.",
+    "desc": "Iconic Manhattan food hall + shopping concourse in a converted Nabisco factory under the High Line.",
+    "longDesc": "A block-long indoor market at 75 Ninth Ave with 50+ vendors — Lobster Place, Los Tacos No. 1, Mokbar, Amy's Bread, Miznon, Creamline — packed into the original 1890s Nabisco/Oreo bakery. It sits directly under the south end of the High Line, making it the natural lunch stop on a Vessel→Edge→High Line loop. Two adjacent parking lots with West 15th Street entrances handle the car since the market itself has no garage.",
     "url": "https://www.chelseamarket.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "dumbo",
+    "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "curious",
+      "photo"
     ],
     "dietary": [
       "vegetarian",
-      "vegan",
-      "halal"
+      "vegan"
     ],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "07:00-22:00",
-    "notes": "Manhattan exception justified: pairs as indoor rain-backup with High Line + Little Island for a self-contained Chelsea half-day (chelseamarket.com/visit). Weekend parking is paid-only — 2 adjacent garages on W 15th St, with overflow street parking in the W 20s between 9th–11th Ave (tripadvisor). Vendor mix updated per Jan 2026 concourse map. Cross-zoned as 'dumbo' for itinerary clustering since corpus zone enum is Brooklyn-only; treat as Manhattan in routing logic.",
+    "notes": "Manhattan exception justified: the market is the natural mid-loop refuel between Vessel/Edge (Hudson Yards) and the High Line — all three stack in one ~1.5mi corridor. No on-site parking; use the two lots with West 15th St entrances (source: parkopedia). 22 min via Brooklyn-Battery Tunnel from IC on a weekend morning. Vendor count 50+ (source: newyorkdearest 2026 guide). Building is the original Nabisco bakery where the Oreo was invented.",
     "sources": [
+      {
+        "url": "https://www.chelseamarket.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
       {
         "url": "https://www.chelseamarket.com/visit",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.chelseamarket.com/directory-food-and-beverage",
+        "url": "https://en.parkopedia.com/parking/building/chelsea-market-new-york-ny/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Chelsea_Market",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/ShowTopic-g60763-i5-k8088938-Chelsea_Market_parking-New_York_City_New_York.html",
+        "url": "https://newyorkdearest.com/visiting-chelsea-market-things-to-do/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T08:57:40.889Z"
+    "lastResearchedAt": "2026-05-18T09:15:53.699Z"
   },
   {
     "id": "hudson-yards-vessel-edge",
@@ -39900,5 +39899,183 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-18T09:02:09.997Z"
+  },
+  {
+    "id": "market-57-pier-57",
+    "name": "Market 57 at Pier 57",
+    "desc": "James Beard Foundation–curated Hudson River food hall with 12 NYC indie kiosks and a free rooftop park.",
+    "longDesc": "A waterfront food hall on Pier 57 in Hudson River Park, curated by the James Beard Foundation to spotlight minority- and women-owned NYC operators — Nom Wah dim sum, Bessou (Japanese), Zaab Zaab (Northern Thai), Little Banchan Shop, Sahadi's, Lolo's, Ammi, Al Volo, Glizzy, Essex Pearl, Harlem Hops, and Bird & Branch. The 2-acre rooftop park (open 6am–1am) offers free Hudson + skyline views and is a strong photo stop on the way in or out. Best Chelsea Market backup or return-trip Manhattan swap when Industry City's food scene is too familiar.",
+    "url": "https://pier57nyc.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "photo",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "25 min",
+    "hoursWeekend": "11:00-20:00 (rooftop 06:00-01:00)",
+    "notes": "Manhattan exception justified: uniquely curated James Beard Foundation food hall (no Brooklyn equivalent) + free rooftop park with Hudson views (pier57nyc.com). Vendor hours vary by kiosk. Weekend parking is street/garage only on West Side Hwy — Pier 57 itself has no dedicated public lot, plan for a paid garage on W 15th–17th. Strong Chelsea Market fallback if that's mobbed (both within 5 min walk).",
+    "sources": [
+      {
+        "url": "https://pier57nyc.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://hudsonriverpark.org/activities/market-57/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.untappedcities.com/market-57-pier-57/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:06:26.801Z"
+  },
+  {
+    "id": "high-line-34th-street-entrance",
+    "name": "The High Line — 34th Street Entrance",
+    "desc": "Street-level, ramped northern terminus of the High Line — drops you straight into Hudson Yards.",
+    "longDesc": "The 34th Street & 12th Avenue entrance is the only place where the High Line's gardens meet the city at grade, with a wide ramp making it the most stroller- and wheelchair-friendly access point on the park. From here it's a 3-minute level walk to the Vessel/Hudson Yards plaza, or a ~25-minute southbound stroll on the elevated greenway down to Gansevoort St in Chelsea — making it the cleanest pedestrian spine for a single-parking Chelsea-to-Hudson Yards day. The 34th Street Entry Plaza beds are intentionally planted with descendants of the self-seeded species that grew on the abandoned rail line.",
+    "url": "https://www.thehighline.org/visit/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "photo",
+      "active"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "07:00-22:00",
+    "notes": "Free entry, no ticket required. Hours are seasonal: 7am–10pm April 1–Nov 30, 7am–8pm Dec 1–Mar 31 (thehighline.org/faq). At-grade ramped entrance — easiest access point on the whole park (freetoursbyfoot.com). Use this as the *connector* anchor: park once at a Hudson Yards garage, walk the High Line south to the Chelsea Market / Gansevoort end (~1.45 mi, ~25–30 min walk), then return on foot or take a Citi Bike back up. Pairs naturally with the Vessel plaza, Edge observation deck, and the Moynihan Connector (opened June 2023, splits at 10th Ave & 30th St) (en.wikipedia.org/wiki/High_Line).",
+    "sources": [
+      {
+        "url": "https://www.thehighline.org/visit/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.thehighline.org/faq/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://freetoursbyfoot.com/high-line-entrances/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/High_Line",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.hudsonyardsnewyork.com/discover/high-line",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:08:49.731Z"
+  },
+  {
+    "id": "mercado-little-spain",
+    "name": "Mercado Little Spain",
+    "desc": "José Andrés' 35,000-sq-ft Spanish food hall inside Hudson Yards — tapas, paella, jamón, cava, all under one roof.",
+    "longDesc": "A José Andrés / ThinkFoodGroup project on the ground floor of 10 Hudson Yards, with three sit-down restaurants (Mar, Leña, Spanish Diner / La Barra), a jamón counter, churros & helado bars, and a dozen tapas kiosks. Designed as a single-stop anchor for a Hudson Yards day — you can park once at the HY garage, eat across multiple counters, and walk to The Shed / Edge / High Line without moving the car.",
+    "url": "https://www.littlespain.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "MANHATTAN EXCEPTION — located at 10 Hudson Yards, Manhattan, not Brooklyn. Justified as the on-site lunch/dinner anchor for an HY day trip so the car only parks once (HY garage on W 33rd between 10th/11th Ave). Sat & Sun hall hours 11:00-22:00; individual stalls (Spanish Diner, La Barra) keep similar hours but full-service restaurants Mar and Leña open later. La Barra and Spanish Diner take reservations; most kiosks are walk-up only. Strong vegetarian options (tortilla española, pan con tomate, patatas bravas, pimientos de Padrón). Drive from IC: Hugh L. Carey Tunnel → West Side Highway, ~20-25 min weekend midday (source: hudsonyardsnewyork.com). Tag zone as industry-city for now since the corpus enum lacks a Manhattan value — re-tag when a hudson-yards zone is introduced.",
+    "sources": [
+      {
+        "url": "https://www.littlespain.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.hudsonyardsnewyork.com/food-drink/mercado-little-spain",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/mercado-little-spain/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:11:48.889Z"
+  },
+  {
+    "id": "the-shed-hudson-yards",
+    "name": "The Shed at Hudson Yards",
+    "desc": "Manhattan cultural center with rotating exhibitions, theater, dance, and music in a movable Bjarke Ingels hall.",
+    "longDesc": "The Shed is a non-profit arts center at the base of Hudson Yards built around the McCourt — a telescoping hall whose 'shell' rolls on rails to double the building's footprint for large-scale commissions. Programming rotates across visual art, theater, music, and dance; May 2026 hosts Frieze New York (May 13–17, ~70 galleries), with the John Legend / Lynn Nottage musical 'Imitation of Life' opening Fall 2026. A solid backup if Edge tickets sell out, since the two anchors sit one block apart at Hudson Yards.",
+    "url": "https://www.theshed.org/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "dumbo",
+    "vibe": [
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "1.5-2 hr",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "Sat 11:00-20:00; closed Sun",
+    "notes": "Manhattan venue at 545 W 30th St — not Brooklyn; zone field forced to 'dumbo' as closest enum value (schema gap, see enqueue). CLOSED SUNDAYS — Saturday-only for weekend itineraries (theshed.org/visit/faq). Two garages within a block: under Hudson Yards and 552 W 30th St across from the entrance (theshed.org/visit). Free coat + luggage check inside. Cedric's at The Shed (Doctoroff Lobby) handles a casual food/cocktail stop without leaving the building. Frieze NY runs May 13–17, 2026, 11:00–19:00 daily, ticketed separately via frieze.com (newyorkloan.com Frieze guide). Pairs naturally with Edge or Vessel within a 5-min walk for a half-day Hudson Yards loop.",
+    "sources": [
+      {
+        "url": "https://www.theshed.org/program",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theshed.org/visit/faq",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theshed.org/visit?popup=directions",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.hudsonyardsnewyork.com/events/frieze-new-york-2026-shed",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.nyctourism.com/places/the-shed/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-18T09:14:04.906Z"
   }
 ]
