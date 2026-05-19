@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Mood Ring bar Bushwick (1260 Myrtle Ave, astrology-themed cocktails)",
-    "reason": "Late-night photo/chill capper for the Bushwick track within 5 min of Roberta's",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:33:34.140Z"
-  },
-  {
-    "topic": "House of Yes Bushwick (2 Wyckoff Ave, immersive nightlife venue)",
-    "reason": "Iconic Bushwick nightlife anchor with weekend daytime events; extends the track past dinner",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:33:34.140Z"
-  },
-  {
-    "topic": "House of Yes Bushwick (2 Wyckoff Ave) — circus-cabaret nightclub",
-    "reason": "Higher-energy Bushwick nightlife alternative within 5 min of Mood Ring; photo-rich for the same loop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:35:31.136Z"
-  },
-  {
-    "topic": "The Johnson's Bushwick dive bar (369 Troutman St)",
-    "reason": "Cheaper companion stop before Mood Ring; balances priceBand variety in the Bushwick cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:35:31.136Z"
-  },
-  {
-    "topic": "Birdy's cocktail bar (474 Lorimer St, East Williamsburg)",
-    "reason": "Adjacent zone extension — bridges Bushwick loop to Williamsburg cluster with strong cocktail program",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:35:31.136Z"
-  },
-  {
     "topic": "House of Yes Bushwick — immersive nightclub & circus theater",
     "reason": "Adds a high-energy late-night option to the Bushwick cluster after Syndicated",
     "requestedBy": "agent",
@@ -20878,5 +20848,95 @@
     "reason": "Anchor evening activity for a Bushwick track after a Bunna dinner, fills the 'photo + active' vibe gap",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-18T23:56:20.218Z"
+  },
+  {
+    "topic": "Birdy's bar Bushwick (1130 Bushwick Ave, sister bar to Mood Ring)",
+    "reason": "Same owners, expands late-night Bushwick photo-bar options within Roberta's cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:58:18.564Z"
+  },
+  {
+    "topic": "The Johnson's Bushwick (dive bar near Roberta's)",
+    "reason": "Cheaper Bushwick capper alternative for budget-conscious nights",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:58:18.564Z"
+  },
+  {
+    "topic": "House of Yes Bushwick (2 Wyckoff Ave performance venue)",
+    "reason": "Bigger-energy Bushwick night option for groups wanting dancing + show vs. chill cocktails",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-18T23:58:18.564Z"
+  },
+  {
+    "topic": "Mood Ring Bushwick (astrology-themed cocktail bar 1233 Myrtle Ave)",
+    "reason": "Lower-key Bushwick nightlife alternative for crews who want a bar instead of a club — pairs with House of Yes track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:00:13.383Z"
+  },
+  {
+    "topic": "Elsewhere Bushwick (599 Johnson Ave multi-room music venue)",
+    "reason": "Adjacent late-night anchor in Bushwick with rooftop + multiple stages; expands nightlife options past dinner",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:00:13.383Z"
+  },
+  {
+    "topic": "Roberta's Bushwick (261 Moore St wood-fired pizza)",
+    "reason": "Strongest pre-House-of-Yes dinner anchor in the same cluster; closes the food→nightlife loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:00:13.383Z"
+  },
+  {
+    "topic": "Elsewhere Bushwick (599 Johnson Ave) — multi-room music venue with rooftop",
+    "reason": "Another photo-rich Bushwick nightlife anchor 6 min from House of Yes, complements the loop with live music vs cabaret",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:02:10.611Z"
+  },
+  {
+    "topic": "Mood Ring Bushwick astrology bar (1260 Myrtle Ave) re-research with paired-itinerary notes",
+    "reason": "Already in corpus per task framing; needs cross-link with House of Yes for the 5-min pairing",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:02:10.611Z"
+  },
+  {
+    "topic": "Paid parking lots near Wyckoff/Jefferson Bushwick weekend nightlife",
+    "reason": "User drives from IC; parking intel is the recurring weak spot for Bushwick venues",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:02:10.611Z"
+  },
+  {
+    "topic": "Birdy's Bushwick cocktail bar 474 Knickerbocker",
+    "reason": "Adds a $$ cocktail-forward Bushwick anchor with patio — complements the Johnson's/Mood Ring corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:04:13.360Z"
+  },
+  {
+    "topic": "Pearl's Social & Billy Club Bushwick",
+    "reason": "Another cheap, vinyl-soundtracked Bushwick dive within walking distance; expands price-band variety",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:04:13.360Z"
+  },
+  {
+    "topic": "Bohemian Grove Bushwick beer garden",
+    "reason": "Outdoor weekend-friendly drinks stop near the same Troutman/Jefferson cluster for warm-weather itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:04:13.361Z"
+  },
+  {
+    "topic": "Rose Marie (524 Lorimer St, East Williamsburg) — Southern food + $17 cocktails from Yellow Rose owners",
+    "reason": "Likely the venue the queue meant by '474 Lorimer' — actual upscale cocktail/dinner bridge between Williamsburg and Bushwick clusters",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:07:10.781Z"
+  },
+  {
+    "topic": "Bossa Nova Civic Club (1271 Myrtle Ave, Bushwick) — tropical cocktail + dance bar two blocks from Birdy's",
+    "reason": "Pairs as a 'second stop' in a Bushwick late-night loop, same M-train cluster as Birdy's",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:07:10.781Z"
+  },
+  {
+    "topic": "Sally Roots / Sally's at the Sultan Room (Bushwick) — Caribbean cocktail program with rooftop",
+    "reason": "Stronger craft-cocktail anchor in same zone; complements Birdy's dive vibe with an elevated counterpoint",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:07:10.781Z"
   }
 ]

@@ -16205,45 +16205,49 @@
   {
     "id": "house-of-yes",
     "name": "House of Yes",
-    "desc": "Iconic Bushwick performance-fueled nightclub with aerial circus, theatrical variety shows, and late-night dance parties.",
-    "longDesc": "Housed in a converted warehouse at 2 Wyckoff Ave, House of Yes is Brooklyn's most celebrated immersive nightlife venue — known for aerialists, costumed dancers, and themed parties that blur cabaret, circus, and club. Most weekends feature an early-evening theatrical variety show (around 8pm) followed by a late-night DJ dance party until 4am, with explicit consent culture and a 'dress with intention' policy. Pairs perfectly with a Turk's Inn dinner one block away before doors open.",
+    "desc": "Themed circus-cabaret nightclub: variety shows, costumes, late-night dance parties in Bushwick",
+    "longDesc": "House of Yes is a multi-room performance-fueled nightclub at 2 Wyckoff Ave (Jefferson St L stop) that pairs early-evening cabaret/circus variety shows with late-night themed DJ dance parties most Fridays and Saturdays. Creative costumes are strongly encouraged (a pop-up Costume Box sells extras at the door), and the venue runs a strict Safer Spaces policy — zero tolerance for harassment and a 'ask before you touch' rule. Photo-rich, neon-saturated rooms with aerialists and immersive sets make it a natural high-energy counterpart to Mood Ring just up the block.",
     "url": "https://www.houseofyes.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
-      "curious",
       "photo",
+      "curious",
       "active"
     ],
     "dietary": [],
-    "priceBand": "$$$",
-    "duration": "2-4 hours",
+    "priceBand": "$$",
+    "duration": "2-4 hr",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Fri-Sat 19:00-04:00; Thu 22:00-04:00; closed Sun-Wed",
-    "notes": "Address 2 Wyckoff Ave (entrance at 408 Jefferson St); one block from Jefferson St L stop (houseofyes.org). Weekend street parking in Bushwick is workable but tight — paid parking passes can be purchased per-show via Vivid Seats (vividseats.com). Strict consent culture and dress-up encouraged. Most shows ticketed in advance — check calendar (donyc.com).",
+    "hoursWeekend": "Fri-Sat 19:00-04:00",
+    "notes": "Entrance at 408 Jefferson St; tickets via houseofyes.org or Ticket Fairy and many weekend parties sell out in advance (houseofyes.org/faq). Themed costume dress code on Fri/Sat — Costume Box on site for guests who arrive plain (houseofyes.org). Street parking in Bushwick is tight on weekends; allow buffer time or use a paid lot near Wyckoff/Flushing (yelp.com). ~5 min walk / <2 min drive to Mood Ring at 1260 Myrtle Ave for a paired Bushwick nightlife loop.",
     "sources": [
       {
         "url": "https://www.houseofyes.org/",
-        "accessed": "2026-05-17T23:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/House_of_Yes_(Brooklyn)",
-        "accessed": "2026-05-17T23:30:00Z"
+        "url": "https://www.houseofyes.org/faq",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/house-of-yes-brooklyn",
-        "accessed": "2026-05-17T23:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://discotech.me/brooklyn/house-of-yes/",
-        "accessed": "2026-05-17T23:30:00Z"
+        "url": "https://en.wikipedia.org/wiki/House_of_Yes_(Brooklyn)",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/nightlife/house-of-yes",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T23:33:04.575Z"
+    "lastResearchedAt": "2026-05-19T00:02:10.571Z"
   },
   {
     "id": "turks-inn-bushwick",
@@ -34709,38 +34713,36 @@
   {
     "id": "mood-ring",
     "name": "Mood Ring",
-    "desc": "Astrology-themed Bushwick cocktail bar with zodiac drinks, DJs, and a photo booth — pre-House-of-Yes ritual.",
-    "longDesc": "Co-owners Bowen Goh and Vanessa Li run an astrology-inspired cocktail bar on Myrtle Ave with teal LED-lit cosmic '70s decor, a photo booth, and a rotating drinks menu timed to the zodiac calendar (bushwickdaily.com). It's an explicitly LGBTQ+/BIPOC-welcoming spot known for DJs, dancing, karaoke and well-made sign-based cocktails (nyctourism.com). Roughly a 15-20 min walk to House of Yes, making it a strong curious/photo warm-up before the show.",
-    "url": "https://www.moodringnyc.club/",
+    "desc": "Astrology-themed cocktail bar with cosmic '70s vibes and zodiac-rotating drink specials in Bushwick.",
+    "longDesc": "Co-owned by Bowen Goh and Vanessa Li, Mood Ring pairs Wong Kar-wai-inspired moody lighting and a tarot-card mural with a galaxy-marble bar top backlit by teal LEDs. The rotating $15 Astrology Special changes with each zodiac sign (e.g., the Scorpio 'Sting' with mezcal, ancho chili, Campari), backed by a tight cocktail list and a limited Chinese menu. Late hours (until 4am Thu-Sun) make it a perfect photogenic capper after a Roberta's pizza dinner.",
+    "url": "https://www.moodringnyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
-      "curious",
+      "chill",
       "photo",
-      "chill"
+      "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "25 min",
-    "hoursWeekend": "Fri-Sat 18:00-04:00, Sun 18:00-02:00",
-    "notes": "1260 Myrtle Ave, Bushwick. ~0.8 mi / 15-20 min walk to House of Yes — park once near venue, walk to the show (street parking workable late Sat on Myrtle/Hart). Order off the current zodiac season menu for the photo moment; backlit teal bar + photo booth are the signature shot (bushwickdaily.com, p2bars.com). Cash-friendly, gets loud after 22:00.",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "16:00-04:00",
+    "notes": "Astrology-themed cocktails rotate by sign; signature 'Sting' (mezcal/ancho/Campari) is a Scorpio season favorite (nyctourism.com, bushwickdaily.com). Hong Kong cinema inspires the wallpaper and a Tony Leung-named bourbon drink (theinfatuation.com). Open 4pm-4am Thu-Sun — drops you 4 min drive (1.2 mi) from Roberta's at 261 Moore St for a seamless Bushwick capper. Street parking on Myrtle/Bushwick Ave is generally findable late-night on weekends. Teal LED bar and tarot mural make it a strong photo stop.",
     "sources": [
-      {
-        "url": "https://www.moodringnyc.club/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://bushwickdaily.com/bars/4863-mood-ring-bushwick/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
       {
         "url": "https://www.nyctourism.com/nightlife/mood-ring/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://p2bars.com/bars-near-me/mood-ring/",
+        "url": "https://bushwickdaily.com/bars/4957-mood-ring-astrology-bar-bushwick/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/mood-ring",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -34751,53 +34753,49 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T07:39:51.485Z"
+    "lastResearchedAt": "2026-05-18T23:58:18.528Z"
   },
   {
     "id": "the-johnsons-bushwick",
     "name": "The Johnson's",
-    "desc": "Spacious 70s-basement dive on Troutman with jukebox, pool, pinball, and $3-$5 happy-hour drinks",
-    "longDesc": "The Johnson's transplanted its Lower East Side dive DNA to a sprawling Troutman Street space that looks like somebody's parents' basement circa 1978 — wood paneling, jukebox, pool table, pinball, and a back room that occasionally hosts live bands or burlesque (Bushwick Daily). Drinks are dirt-cheap by NYC standards with a $5 cocktail / $3 beer happy hour running daily 5-9pm, and the unpretentious mix of regulars and Bushwick newcomers makes it a perfect grimy counterweight to slicker bars in the corridor. It's a 7-minute walk from Mood Ring, making it the natural late-night second stop after a craft-cocktail opener.",
-    "url": "http://www.thejohnsonsbushwick.com/",
+    "desc": "Retro-divey Bushwick cocktail bar with $2 PBRs, free pool, and a neon-lit garage-door front",
+    "longDesc": "The Bushwick offshoot of LES dive institution Welcome to the Johnson's, sharing the same low prices and free pool table inside a brighter, 70s-styled room. Happy hour runs cocktails at $5 and Lion Heads at $2 until 9pm, and the front roll-up garage door opens onto a patio when the weather cooperates. Dead on weekdays, packed after Bushwick shows on weekends — a cheap, easygoing counterweight to Mood Ring two blocks away.",
+    "url": "https://www.instagram.com/thejohnsonsbushwick/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "chill",
-      "curious"
+      "photo"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "60-90 min",
+    "duration": "45-60 min",
     "driveFromIC": "18 min",
-    "hoursWeekend": "15:00-04:00",
-    "notes": "369 Troutman St, Brooklyn NY 11237 (Yelp). Opens daily at 3pm; weekend close commonly cited as 4am (AllBars, Yelp). Happy hour daily 5-9pm: $5 cocktails, $3 beers (Best-Brooklyn). Jukebox + pool table + pinball, back-room live music / burlesque on select nights (Bushwick Daily). 7-min walk from Mood Ring (1260 Myrtle Ave) — pair as late-night dive contrast. Weekend street parking on Troutman/Jefferson is generally findable after 10pm; metered until 7pm.",
+    "hoursWeekend": "Sat 14:00-04:00, Sun 14:00-02:00",
+    "notes": "Cans of PBR $2, cocktails $9-10 regular / $5 happy hour until 9pm (Bushwick Daily, The Infatuation). Free pool table reported by most sources, one review mentions pay-to-play — verify on arrival. Garage-door front opens to a small patio; interior has a neon 'Welcome' sign that photographs well. Street parking on Troutman is realistic on weekend afternoons before the post-show rush. Pairs naturally with Mood Ring (0.2 mi) for a $→$$ Bushwick hop.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/the-johnsons-brooklyn",
-        "accessed": "2026-05-17T23:30:00Z"
-      },
-      {
         "url": "https://bushwickdaily.com/restaurants/1958-the-johnsons-collective-review-kinda-of-a-new-bushwick-bar/",
-        "accessed": "2026-05-17T23:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://allbarsapp.com/bar/brooklyn-ny/the-johnson-s/4eb6f731-6208-40ae-82d5-54e2c6686e2f",
-        "accessed": "2026-05-17T23:30:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/the-johnsons",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.best-brooklyn.com/bars/the-johnsons/",
-        "accessed": "2026-05-17T23:30:00Z"
+        "url": "https://www.yelp.com/biz/the-johnsons-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "http://www.thejohnsonsbushwick.com/",
-        "accessed": "2026-05-17T23:30:00Z"
+        "url": "https://www.instagram.com/thejohnsonsbushwick/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T23:35:07.309Z"
+    "lastResearchedAt": "2026-05-19T00:04:13.322Z"
   },
   {
     "id": "bossa-nova-civic-club",
@@ -49005,5 +49003,47 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-18T23:56:20.079Z"
+  },
+  {
+    "id": "birdys-bushwick",
+    "name": "Birdy's",
+    "desc": "Punk-leaning Bushwick dive with $7 classic cocktails pulled from a 1972 Mr. Boston bartender guide.",
+    "longDesc": "Tucked under the M tracks at the Bushwick / East Williamsburg seam, Birdy's pairs goth-rock owners (Weeknight's Holly MacGibbon and Andy Simmons) with vintage decor, pinball, foosball, a photo booth, and a back patio. Cocktails are deliberately budget — $7 classics from a 1972 Mr. Boston guide plus frozen whiskey sours — alongside local drafts (Bronx, Brooklyn, Sixpoint) and $2 happy-hour Bud Light.",
+    "url": "https://www.instagram.com/birdysbushwick/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "bushwick",
+    "vibe": [
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 14:00-04:00, Sun 14:00-00:00",
+    "notes": "ADDRESS CORRECTION: queue topic listed 474 Lorimer St, but Birdy's is actually at 1215 Myrtle Ave, Brooklyn NY 11221 — confirmed via Yelp listing and Gothamist profile (sources). Sits at the Bushwick / East Williamsburg border under the M-train tracks, so it does bridge a Bushwick loop to Williamsburg as the reason field intended. Cocktail program is retro/budget ($7 classics, frozen whiskey sours), not a craft-cocktail destination — slot as a late-night dive cap, not a flagship cocktail stop. Owners are the goth-rock duo Weeknight (Gothamist). Weekend street parking on Myrtle is usually findable after 19:00. Cash-friendly. Open until 4am Fri/Sat — strong nightcap option after a Bushwick or Williamsburg dinner.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/birdys-bushwick",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://gothamist.com/food/birdys-is-your-new-go-to-punk-bar-in-bushwick",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://onthegrid.city/brooklyn/29places/birdys",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/birdysbushwick/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T00:07:10.740Z"
   }
 ]
