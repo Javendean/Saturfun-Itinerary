@@ -2084,45 +2084,48 @@
   },
   {
     "id": "kai-feng-fu-dumpling-house",
-    "name": "Kai Feng Fu Dumpling House",
-    "desc": "Cash-only Sunset Park dumpling counter: $2.50 fried pork-chive plus rotating lamb fillings on 8th Ave.",
-    "longDesc": "A no-frills 8th Avenue dumpling shop where hand-formed fried pork-and-chive dumplings come six-to-an-order for $2.50, crisped on the bottom with thick glossy skin (The Infatuation). The counter rotates regional Northern Chinese fillings including lamb-based varieties — call ahead the day-of to confirm the lamb-and-green-squash is on, since it's not on the standard takeout menu. Cash-only with a few tables; best as a fast cheap stop paired with another sit-down meal on the same corridor.",
-    "url": "https://kaifengfubrooklyn.com/",
+    "name": "Kai Feng Fu Dumpling House (開封府鍋貼)",
+    "desc": "Counter-service Sunset Park legend — $2.50 for six crispy-bottomed pork & chive fried dumplings, cash only.",
+    "longDesc": "Tiny Brooklyn Chinatown dumpling counter on 8th Ave at 48th St (not 6th — the strip's Chinese commercial spine runs along 8th). Six pan-fried pork & chive dumplings are $2.50 (~$0.42 each); steamed dumplings, meaty pork buns, and sesame pancake triangles round out a $5–10 full meal. Cash only, limited seating — best as a grab-and-graze stop on a Sunset Park track.",
+    "url": "https://www.google.com/maps/place/Kai+Feng+Fu+Dumpling+House/@40.6438,-74.0042,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
+      "chill",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "8 min",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
     "hoursWeekend": "07:30-20:00",
-    "notes": "Address 4801 8th Ave, Brooklyn NY 11220 (Yelp). Cash-only and limited seating — plan to eat standing or take to go (The Infatuation). Standard menu is heavy on pork/chive, vegetable, and shrimp; lamb-and-green-squash is a sometimes-special, call (929) 999-7088 to verify before routing the itinerary around it. Pairs naturally with Yun Nan Flavour Garden a few blocks south on the same 8th Ave corridor.",
+    "notes": "Address is 4801 8th Ave, Brooklyn NY 11220 — task slug said '6th Ave' but the canonical location is 8th Ave & 48th St in the Brooklyn Chinatown core (Yelp, Infatuation). Cash only; ~1 mile southeast of Industry City, free street parking is plausible on side streets but tight on weekends (Visit Brooklyn). Pair well with a walk down 8th Ave for Cantonese bakeries and bubble tea before driving back to IC.",
     "sources": [
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/kai-feng-fu-dumpling-house",
-        "accessed": "2026-05-17T15:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/kai-feng-fu-%E9%96%8B%E5%B0%81%E5%BA%9C%E9%8D%8B%E8%B2%BC-brooklyn",
-        "accessed": "2026-05-17T15:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://kaifengfubrooklyn.com/",
-        "accessed": "2026-05-17T15:30:00Z"
+        "url": "https://visitbrooklyn.nyc/eatanddrink/kai-feng-fu-dumpling-house",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://ediblebrooklyn.com/2014/dumpling-tour-sunset-park/",
-        "accessed": "2026-05-17T15:30:00Z"
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4967220-Reviews-Kai_Feng_Fu_Dumpling_House-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T15:30:57.251Z"
+    "lastResearchedAt": "2026-05-19T02:36:06.804Z"
   },
   {
     "id": "beat-the-bomb",
@@ -5409,8 +5412,8 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Cash-only Yunnanese noodle counter on 8th Ave — crossing-bridge rice noodles run by a Kunming couple.",
-    "longDesc": "A husband-and-wife operation from Kunming serving the rice-noodle traditions of southwestern China's Yunnan province, plus a few Southeast Asian crossovers. The headline dish is Crossing-Bridge Rice Noodles — a bowl of near-boiling broth that you build at the table with raw proteins, vegetables, and chewy mi xian noodles — alongside grilled fish, cold tofu, and stir-fried er kuai rice cakes. Tight room, no frills, cash only.",
+    "desc": "Cash-only Sunset Park Yunnan noodle shop famous for crossing-the-bridge rice noodles (mixian)",
+    "longDesc": "Run by a Kunming-born couple, this tiny 8th Ave storefront in Brooklyn's Chinatown serves the most legit guoqiao mixian (crossing-the-bridge noodles) in the city — a bowl of screaming-hot chicken broth capped with chili oil arrives with raw beef or lamb, rice noodles, and vegetables that you drop in tableside to cook. Atypical Yunnan ingredients like banana flowers and goat cheese show up on a deep menu of sub-$10 noodle bowls. Cash only, no frills, fast turnover.",
     "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5419,32 +5422,34 @@
       "foodie",
       "curious"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "09:00-21:00",
-    "notes": "Cash only — closest ATM is the Cathay Bank at 50th/8th. Crossing-Bridge Rice Noodles is the signature; also strong on grilled tilapia and rubing cheese (rare Yunnan goat cheese). About 1.4 mi south of Industry City down 3rd Ave → 8th Ave; weekend street parking on 51st/52nd between 8th and 9th is usually findable but turns over fast at lunch (NYC Tourism Board). Located in the heart of Sunset Park's 8th Ave Chinatown, two blocks south of Xinfa Bakery (Yelp).",
+    "hoursWeekend": "11:00-21:30",
+    "notes": "Address is 5121 8th Ave, Brooklyn (not 5th Ave — Sunset Park's Chinatown sits on 8th Ave) (foursquare.com). Cash only; signature dish is crossing-the-bridge noodles served disassembled with raw beef/lamb that cooks in piping-hot chicken broth (wanderlog.com, nyctourism.com). Most noodle dishes under $10 (stuyspec.com). Drive from Industry City is ~8 min via 3rd Ave; weekend street parking on 50th/51st St is workable but tight. Pairs with the 8th Ave Sunset Park food crawl (East Harbor Seafood Palace dim sum, Lucky Eight, Ba Xuyên banh mi) — completes the over-the-bridge crossing-noodles slot in the neighborhood food map.",
     "sources": [
       {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+        "url": "https://foursquare.com/v/yun-nan-flavour-garden/51d868ac498ef583276dcf4b",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.business.nyctourism.com/places/yun-nan-flavour-garden-sunset-park",
+        "url": "https://wanderlog.com/place/details/367659/yun-nan-flavour-garden",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-19T02:26:03.102Z"
+    "lastResearchedAt": "2026-05-19T02:32:51.815Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -50176,5 +50181,129 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-19T02:18:02.280Z"
+  },
+  {
+    "id": "little-thanh-da-8th-ave",
+    "name": "Little Thanh Đa",
+    "desc": "Cash-only Vietnamese sandwich counter on 8th Ave with crusty-baguette banh mi and strong iced coffee.",
+    "longDesc": "Tiny takeout-first banh mi shop on Sunset Park's 8th Ave Chinatown spine, an offshoot of the well-known Thanh Da on 7th Ave. The bread is the star — crusty outside, pillowy inside — stuffed with generously portioned BBQ pork (heo nướng), bì (shredded pork), or the house special combination, plus pickled daikon-carrot and cilantro. Cash only, no real seating, and the Vietnamese iced coffee (cà phê sữa đá) is a strong, sweet pairing — built for a 5-minute grab from the car.",
+    "url": "https://www.google.com/maps/place/Little+Thanh+Da+Inc/@40.6420,-74.0073,17z",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "07:30-18:45",
+    "notes": "Cash only — bring small bills (restaurantji). Daily 7:30 AM–6:45 PM, takeout focused with a tiny interior and friendly service (restaurantji). Sister shop to the larger Thanh Đa at 6008 7th Ave, which is the destination for bún bò huế if you want a sit-down soup nearby (The Infatuation). 8th Ave parking on weekends is tight midday but workable before 11 AM or after 3 PM; the Sunset Park Chinatown corridor between 50th–60th has steady turnover. Pair as a banh-mi pit stop on a Sunset Park food crawl with Yun Nan Flavour Garden, Ba Xuyên, or a walk up to Sunset Park itself.",
+    "sources": [
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/little-thanh-da-/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/little-thanh-da-inc-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/thanh-da",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://thanhda.netwaiter.com/brooklyn/about/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:31:01.333Z"
+  },
+  {
+    "id": "pho-bk-sunset-park",
+    "name": "Pho BK",
+    "desc": "Sunset Park Vietnamese spot known for 12-hour-simmered pho broth, banh mi, and grilled-pork summer rolls.",
+    "longDesc": "Pho BK is a tight, family-run Vietnamese kitchen on 8th Ave in Sunset Park, about 20 blocks south of Industry City. The pho broth simmers over 12 hours and the Phở Đặc Biệt (special beef) is the move; the banh mi, marinated pork chop over rice, and crispy egg rolls with the orange dipping sauce round out a cheap, generous menu. Tofu substitutions are available on request, so vegetarians aren't stuck with the menu's default meat-forward bias.",
+    "url": "https://www.yelp.com/biz/pho-bk-brooklyn-2",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "7 min",
+    "hoursWeekend": "10:30-21:30",
+    "notes": "5604 8th Ave, Brooklyn NY 11220, (917) 933-8895. Broth simmers 12+ hours (bkmag, 2025). Standard bowl ~$10, generous portions (Yelp, 2026). Tofu can replace meat in soups on request (Wheree, 2026). Parking is street-only and can be tight on weekends — sometimes a block away (Yelp, 2026). Pickup/delivery via Grubhub, Seamless, DoorDash if dine-in is packed. Best for a 30-45 min lunch stop before or after Industry City browsing.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/pho-bk-brooklyn-2",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.bkmag.com/2025/02/25/best-pho-brooklyn-guide/",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://pho-bk.wheree.com/",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/pho-bk-5604-8th-ave-brooklyn/3257022",
+        "accessed": "2026-05-18"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:38:37.417Z"
+  },
+  {
+    "id": "wong-wong-noodle-shop",
+    "name": "Wong Wong Noodle Shop",
+    "desc": "Cash-only Sunset Park shop hand-pulling Fujianese noodles + rare peel noodles a few feet from your table.",
+    "longDesc": "A spotless, no-frills storefront on 8th Ave where a cook works dough on a floured glass-walled station, stretching Lanzhou-style hand-pulled noodles and tearing Fujianese peel noodles (面片) — the latter so uncommon Wong Wong is only the second spot in NYC to serve them after Sheng Wang. Beef, oxtail, and lamb noodle soups are the anchors; freshly folded dumplings run roughly 10 for $3. Cash only, walk-in only, English menus on hand.",
+    "url": "https://www.yelp.com/biz/wong-wong-noodle-shop-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "10:00-20:45",
+    "notes": "5410 8th Ave, Brooklyn, NY 11220, (718) 633-5633. Cash only — there is no card terminal and no online ordering at the venue itself (Yelp). Order peel noodles (the elastic torn sheets) and the beef noodle soup — clear, light, beefy broth (Bao & Butter). Weekend street parking on 8th Ave is tight; side streets in the 50s east of 8th are usually open. ~1 mile south of Industry City, straight shot down 3rd or 4th Ave then over.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/wong-wong-noodle-shop-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.baoandbutter.com/cuisine/chinese/fujian/wong-wong-noodle-soup-%E6%97%BA%E6%97%BA%E7%BD%B1%E5%B7%9E%E6%89%8B%E6%8B%89%E9%BA%B5-sunset-park-brooklyn/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.beyondmenu.com/28168/brooklyn/wong-wong-noodle-shop-brooklyn-11220/info.aspx",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:40:45.621Z"
   }
 ]

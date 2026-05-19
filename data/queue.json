@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Thanh Da Sunset Park Vietnamese 8th Ave",
-    "reason": "Adjacent 8th Ave Vietnamese — broader pho/banh mi corridor coverage south of IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:24:05.279Z"
-  },
-  {
-    "topic": "Yun Nan Flavour Garden 5th Ave Sunset Park rice noodles",
-    "reason": "Other half of the Sunset Park food corridor — over-the-bridge crossing-noodles spot completes the neighborhood food map",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:24:05.279Z"
-  },
-  {
-    "topic": "Kai Feng Fu dumplings Sunset Park 6th Ave",
-    "reason": "$1 dumplings legend within walking distance — rounds out a Sunset Park grazing track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:24:05.279Z"
-  },
-  {
-    "topic": "Pho BK 5604 8th Ave Brooklyn Vietnamese pho noodle soup",
-    "reason": "Actual Vietnamese pho option on the same 8th Ave strip — fills the Vietnamese-noodle slot the original Bo Ky seed was reaching for",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:26:44.316Z"
-  },
-  {
-    "topic": "Wong Wong Noodle Soup Sunset Park Fujianese hand-pulled noodles",
-    "reason": "Fujianese hand-pulled noodle alternative on the 8th Ave bakery strip; rounds out the regional Chinese noodle coverage in the IC-adjacent cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:26:44.317Z"
-  },
-  {
     "topic": "Xin Fa Bakery 5617 8th Ave Brooklyn — Sunset Park OG Chinese bakery",
     "reason": "Highest-rated Chinese bakery on the same 8th Ave strip (616 photos, 338 Yelp reviews); rounds out a Sunset Park bakery crawl alongside Dragon Bay and Bakery 1988",
     "requestedBy": "agent",
@@ -21622,5 +21592,77 @@
     "reason": "Free waterfront green space 5 min from Ba Xuyen — natural eat-your-banh-mi destination with Manhattan/Statue views",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-19T02:28:11.007Z"
+  },
+  {
+    "topic": "Ba Xuyên banh mi 4222 8th Ave Sunset Park",
+    "reason": "Often cited as the best banh mi in NYC; same 8th Ave corridor, ~5 min drive from IC — must-have for Vietnamese coverage",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:31:01.396Z"
+  },
+  {
+    "topic": "Thanh Da original 6008 7th Ave bún bò huế Sunset Park",
+    "reason": "Parent shop with sit-down soup focus (bún bò huế, pho) — completes the Thanh Da pair and adds a 7th Ave Vietnamese pin",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:31:01.397Z"
+  },
+  {
+    "topic": "Cong Ly Vietnamese 5703 7th Ave Sunset Park pho",
+    "reason": "Adjacent Sunset Park Vietnamese pho counter — broadens the pho corridor with a second option beyond Thanh Da",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:31:01.397Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace dim sum Sunset Park",
+    "reason": "Weekend-cart dim sum giant on 8th Ave; pairs with Yun Nan for a Sunset Park lunch arc",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:32:51.865Z"
+  },
+  {
+    "topic": "Ba Xuyen Sunset Park banh mi 8th Ave",
+    "reason": "Iconic Vietnamese sandwich shop a few blocks from Kai Feng Fu — adds dietary range (banh mi options incl. veggie) to the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:36:06.840Z"
+  },
+  {
+    "topic": "Sunset Park (the actual park) sunset skyline views Brooklyn",
+    "reason": "Anchors the cluster with a free outdoor 'photo + chill' stop facing the Manhattan skyline — completes a food-walk-view loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:36:06.840Z"
+  },
+  {
+    "topic": "Ba Xuyen banh mi 8th Ave Sunset Park Brooklyn Vietnamese sandwich",
+    "reason": "Legendary banh mi specialist on the same 8th Ave Sunset Park strip — pairs naturally with Pho BK to round out a Vietnamese mini-cluster near IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:38:37.459Z"
+  },
+  {
+    "topic": "Thanh Da Vietnamese restaurant 8th Ave Brooklyn pho bun bo hue",
+    "reason": "Adjacent 8th Ave pho/bun-bo-hue option that gives the corpus a second Vietnamese broth choice if Pho BK is full or closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:38:37.459Z"
+  },
+  {
+    "topic": "Nha Trang One Manhattan Chinatown pho beef noodle soup",
+    "reason": "If we ever need a Manhattan-side Vietnamese fallback for itineraries that already crossed the bridge, this is the canonical comparison point",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:38:37.459Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park crossing-the-bridge rice noodles",
+    "reason": "Adds a Yunnan rice-noodle counterpoint to the wheat-noodle coverage in the same 8th Ave cluster, ~5 min drive from Wong Wong",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:40:45.660Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House Sunset Park lamb dumplings cash-only",
+    "reason": "Pairs naturally with Wong Wong as a dumpling-forward cash-only stop on the same strip; expands the IC-adjacent regional Chinese map",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:40:45.660Z"
+  },
+  {
+    "topic": "Sheng Wang Manhattan Chinatown original peel noodles benchmark",
+    "reason": "Manhattan-justified only as the peel-noodle origin point — useful as a cross-borough comparison venue if user ever does a Manhattan side trip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:40:45.660Z"
   }
 ]
