@@ -5287,9 +5287,9 @@
   {
     "id": "tacos-matamoros",
     "name": "Tacos Matamoros",
-    "desc": "Sunset Park institution for al pastor, cabeza and tortas on 5th Ave's Mexican corridor",
-    "longDesc": "A cash-only Sunset Park cornerstone where a sprawling menu of small soft-corn-tortilla tacos, tamales, tortas and mole plates anchors one of the neighborhood's busiest dining rooms. The al pastor — juicy slow-roasted pork with crisp seared edges — is regularly called among NYC's best, and the cabeza taco has landed on the Infatuation's 26-best-tacos list. Open late nightly, six blocks south of Industry City on 5th Ave's Mexican strip.",
-    "url": "https://www.tacosmatamoros.shop/",
+    "desc": "Sunset Park institution for carne asada tacos, cemitas, and $5 margaritas, 5 min south of Industry City.",
+    "longDesc": "A spacious, family-run Sunset Park taqueria on 5th Ave's Mexican restaurant row, open 11am-11pm daily with a deep menu spanning tacos al pastor and carne asada, cemitas, huaraches, chilaquiles, and made-to-order guacamole. Pitcher margaritas and horchata keep the table going, and the kitchen welcomes both Spanish speakers and newcomers. Pairs naturally with a Don Paco pan dulce stop and the Brooklyn Chinatown blocks on the same drive.",
+    "url": "https://www.nyctourism.com/restaurants/tacos-matamoros-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5297,34 +5297,32 @@
       "foodie",
       "chill"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
     "duration": "45-60 min",
-    "driveFromIC": "6 min",
+    "driveFromIC": "5 min",
     "hoursWeekend": "11:00-23:00",
-    "notes": "Cash-only — bring bills (Yelp, Infatuation). 4508 5th Ave between 45th & 46th St; street parking on 5th Ave or side streets, generally easier than Williamsburg. Al pastor and cabeza tacos are the signatures; tortas and pasteles with guava noted as late-night picks (Yelp). Closing time varies 11pm–1am by source — call 718-871-7627 if arriving after 10:30pm. Same-zone alternate to other late-night Mexican stops in the cluster (Infatuation).",
+    "notes": "4508 5th Ave, Brooklyn NY 11220 — 9 blocks south of Industry City on the 5th Ave Mexican corridor (NYC Tourism). Signature: carne asada and chorizo tacos, cemitas poblanas, fat burritos, guac made to order (Yelp/NYC Tourism). $5 margaritas daily; pitchers of margaritas and horchata noted. Family-friendly with kids menu. Pairs with [[don-paco-lopez-panaderia]] (panaderia 4 min away) and the IC anchor (5 min drive). Cash-friendly, low-key dining room — not a date-night room, but a workhorse foodie stop.",
     "sources": [
       {
+        "url": "https://www.nyctourism.com/restaurants/tacos-matamoros-sunset-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
         "url": "https://www.yelp.com/biz/tacos-matamoros-brooklyn",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tacos-matamoros",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1145556-Reviews-Tacos_Matamoros-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://brokelyn.com/a-12-taco-tour-of-sunset-park/",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://tacosmatamoros.shop/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T10:56:30.350Z"
+    "lastResearchedAt": "2026-05-19T00:56:22.779Z"
   },
   {
     "id": "don-paco-lopez-panaderia",
@@ -5452,46 +5450,46 @@
   },
   {
     "id": "sunset-park-skyline-viewpoint",
-    "name": "Sunset Park (Skyline Viewpoint)",
-    "desc": "Brooklyn's second-highest point — free panoramic sunset over the Manhattan skyline, harbor, and Statue of Liberty.",
-    "longDesc": "A 24.5-acre hilltop park between 5th–7th Aves and 41st–44th Sts, sitting 164 ft above sea level on the Harbor Hill Moraine. From the upper lawn near 7th Ave, the western edge opens onto an unobstructed view of Lower Manhattan, the harbor, the Statue of Liberty, and the green hills of Staten Island — golden at sunset. Walk-up free with a recreation center, pool (seasonal), and playgrounds; pair it with banh mi from 8th Ave six blocks east.",
+    "name": "Sunset Park Skyline Viewpoint",
+    "desc": "Free hilltop overlook with panoramic Lower Manhattan, Statue of Liberty, and NY Bay views — 5 min from IC.",
+    "longDesc": "Brooklyn's second-highest hilltop (5th Ave & 44th St) opens onto an unobstructed sweep from Jersey's shipyard cranes through Midtown and Downtown Manhattan to the Statue of Liberty and New York Bay. The 25-acre park is paved with broad walkways and benches at the crest, making it an easy 10–15 minute photo stop after Don Paco (4 blocks south) or a golden-hour sunset detour. Free, dawn-to-1am, with a small 3-hour-free park lot on the north side.",
     "url": "https://www.nycgovparks.org/parks/sunset-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "chill",
       "photo",
+      "chill",
       "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "6 min",
+    "duration": "20-40 min",
+    "driveFromIC": "5 min",
     "hoursWeekend": "06:00-01:00",
-    "notes": "Free entry, no ticket required. Highest skyline-view point is along the upper path near 7th Ave & 43rd St — face west at golden hour. Free parking lot on the north side (3-hour limit) plus street parking on surrounding blocks; weekend street parking is easier than weekdays but fills near sunset (nycgovparks.org). Bench seating and a low retaining wall along the ridge make it a popular photo and date spot (Wikipedia). Six blocks east of 8th Ave Chinatown and ~6 min drive from Industry City — natural cap to a Sunset Park afternoon.",
+    "notes": "Crest is at 5th Ave & 44th St — walk uphill from the 5th Ave entrance for the iconic frame (NYC Parks). Park lot on north side is free up to 3 hours, 24/7, but fills on clear-weather weekends; street parking on 6th/7th Aves is usually open (Parkopedia, NYC Parks). Best light is the hour before sunset; the name is literal. No restrooms once the rec center reconstruction is underway — plan accordingly (NYC Parks). Pairs naturally with Don Paco bakery (4 blocks south) — zero added drive time.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/sunset-park",
-        "accessed": "2026-05-16T00:00:00Z"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.nycgovparks.org/parks/sunset-park/highlights/166",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/neighborhood/Sunset-Park-New-York-City-Brooklyn-NY/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T05:49:19.237Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T00:44:37.668Z"
   },
   {
     "id": "east-harbor-seafood-palace",
@@ -10014,8 +10012,8 @@
   {
     "id": "tortilleria-mexicana-los-hermanos",
     "name": "Tortilleria Mexicana Los Hermanos",
-    "desc": "Tacos eaten in the dining room of a working tortilla factory — masa pressed steps from your plate.",
-    "longDesc": "A 2006-era survivor of Bushwick's old 'Tortilla Triangle' at 271 Starr St, this is the only NYC tortilleria where you watch the production line spit out fresh tortillas while you eat tacos made from them. Cash-only, BYOB, and pleasingly cheap — tacos around $2.25, tostadas $2.50, quesadillas $3.25 — with chorizo, carnitas, chicken, beans-and-rice fillings on tortillas with a corn flavor you cannot get at a normal taqueria. Atlas Obscura-tier archetype: a taqueria literally attached to its supplier.",
+    "desc": "Bushwick tortilla factory + cantina where tacos arrive on tortillas still warm from the line.",
+    "longDesc": "A working tortilla factory by day that sells fresh corn tortillas by the bag and runs a counter-service taqueria from the same garage-style dining room — you watch the press while you eat. Anthony Bourdain called the tacos here some of the best in NYC; expect $2.25 tacos, $3.25 quesadillas, laminated tables, soccer on the TV. Cash only and BYOB, so plan accordingly.",
     "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10023,23 +10021,23 @@
     "vibe": [
       "foodie",
       "curious",
-      "chill"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "45-60 min",
-    "driveFromIC": "22 min",
-    "hoursWeekend": "09:00-21:00",
-    "notes": "271 Starr St, Brooklyn NY 11237 — (718) 456-3422. Cash only, BYOB. Last of the Bushwick 'Tortilla Triangle' factories that still runs a dining room (Atlas Obscura). Park on Starr St or surrounding industrial blocks — weekend street parking is generally available. Tortillas pressed in-house and sold by the bag wholesale 7 days a week (NYC Tourism). Pair with a Bushwick mural walk before/after to justify the detour from Industry City.",
+    "duration": "30-45 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "11:00-23:30",
+    "notes": "271 Starr St, Brooklyn NY 11237 (Bushwick). Cash only and BYOB — bring an ATM stop and a six-pack into the plan (theinfatuation, atlasobscura). Tortillas pressed fresh off the line in view of the dining room; corn only, no flour. Ordering is a paper slip slid across the counter, very low-key (johnnyprime). Weekend hours run 11:00-23:30 Fri-Sun (yelp). Street parking in Bushwick is generally findable on weekends but tighter near Jefferson L stop — budget 5 min hunt.",
     "sources": [
       {
-        "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
+        "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
+        "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -10047,14 +10045,14 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
+        "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-19T00:33:55.909Z"
+    "lastResearchedAt": "2026-05-19T00:54:11.956Z"
   },
   {
     "id": "tulcingo-sunset-park",
@@ -49262,5 +49260,49 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-19T00:40:09.689Z"
+  },
+  {
+    "id": "birria-hands-sunset-park",
+    "name": "Birria Hands (Sunset Park)",
+    "desc": "Late-night Sunset Park birria counter — quesabirria, birria fries, and consomé on 5th Ave a few blocks south of IC.",
+    "longDesc": "Birria Hands is a no-frills 5th Avenue counter dedicated to Tijuana-style birria — corn tortillas dipped in beef drippings then stuffed with stewed beef, quesabirria with melted cheese, plus a side of consomé for dipping. The menu also runs birria-loaded fries, chorizo and carnitas tacos, and a birria rice bowl, with a vegetarian avocado-and-black-bean taco for non-meat-eaters. Weekend hours stretch close to midnight on Fri/Sat, making it a late-night counterweight to the dinner-window Tacos El Bronco a few blocks north.",
+    "url": "https://www.google.com/maps/search/?api=1&query=Birria+Hands+4021+5th+Avenue+Brooklyn+NY+11232",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "11:00-23:59",
+    "notes": "Brief topic was 'Don Paisano — 5th Ave Sunset Park birria specialist' but no venue named Don Paisano exists on this corridor; Birria Hands at 4021 5th Ave is the actual 5th Ave Sunset Park birria specialist that fits the brief — different signature dish (quesabirria + consomé combo) from the existing Tacos El Bronco anchor at 37th/5th (theinfatuation.com). Counter-service only, no dine-in atmosphere; built around pickup and delivery (doordash.com, ubereats.com). Delivery platforms show Fri-Sat 5:00am-midnight, Sun 6:00am-10:00pm — represent here as a late-window weekend slot; in-person hours may be tighter, confirm before scheduling. ~2 blocks south of Industry City's 39th St edge — among the shortest drive-times in the corpus. Nearest comparable: El Bronco (4th Ave brick-and-mortar) for classic dipped tacos with tomato-forward consomé.",
+    "sources": [
+      {
+        "url": "https://www.ubereats.com/store/birria-hands-4021-5th-ave/xKfdcZzFWtSTIbHapLqoDw",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.doordash.com/store/birria-hands-brooklyn-23095937/",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/great-birria-tacos-nyc",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://postmates.com/store/birria-hands-4021-5th-ave/xKfdcZzFWtSTIbHapLqoDw",
+        "accessed": "2026-05-18"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T00:51:57.309Z"
   }
 ]
