@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Yun Nan Flavour Garden Sunset Park rice noodles",
-    "reason": "Across the street rice-noodle counter — completes the noodles/dumplings/dim sum trio cited in the reason",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:33:07.690Z"
-  },
-  {
-    "topic": "Lucky Eight Restaurant 8th Ave Brooklyn Cantonese",
-    "reason": "Highly-rated sit-down Cantonese a few blocks away for groups wanting a proper meal vs a snack stop",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:33:07.690Z"
-  },
-  {
-    "topic": "Tangy Noodle Halal (98 8th Ave, Chelsea)",
-    "reason": "Second active halal Lanzhou option in Manhattan; useful cross-reference for halal-noodle reliability and a fallback if 1915 is closed Tue",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:36:24.167Z"
-  },
-  {
-    "topic": "No Pork Halal Kitchen (50 4th Ave, Park Slope edge)",
-    "reason": "Closest Brooklyn halal Chinese to IC (~10 min drive); fills the 'halal Chinese, not necessarily Lanzhou' slot the corpus still lacks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:36:24.167Z"
-  },
-  {
-    "topic": "DH Noodles Sunset Park (Lanzhou, non-halal)",
-    "reason": "Strongest in-zone Lanzhou hand-pulled spot for non-dietary-restricted users; would pair with 1915 as the 'in-cluster vs dietary' contrast pair",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:36:24.167Z"
-  },
-  {
     "topic": "Brooklyn Army Terminal pier waterfront access",
     "reason": "Adjacent waterfront just south of Bush Terminal — another pier-level harbor vantage with different access pattern; rounds out the IC-area free-view trio",
     "requestedBy": "agent",
@@ -21706,5 +21676,89 @@
     "reason": "Walking-distance post-dim-sum dessert stop, rounds out an 8th Ave Chinatown crawl",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-19T02:51:44.816Z"
+  },
+  {
+    "topic": "Kai Feng Fu Dumpling House Sunset Park lamb dumplings",
+    "reason": "Completes the dumpling leg of the 8th Ave noodles/dumplings/dim sum trio cited as the anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:53:38.234Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace Sunset Park weekend dim sum carts",
+    "reason": "Cart-style weekend dim sum on the same 8th Ave strip — closes the trio with a sit-down option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:53:38.234Z"
+  },
+  {
+    "topic": "Lan Zhou Handmade Noodle Sunset Park hand-pulled beef noodles",
+    "reason": "Adjacent regional Chinese noodle counter on 8th Ave; broadens the noodles cluster beyond Yunnan",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:53:38.235Z"
+  },
+  {
+    "topic": "Lucky 8 Restaurant 5216 8th Ave Brooklyn Cantonese",
+    "reason": "Same-block fallback if Lucky Eight at 5204 is in fact closed; need an active 8th Ave Chinatown sit-down option.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:55:40.132Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace 8th Ave Brooklyn dim sum",
+    "reason": "Group-scale weekend dim sum cart palace on same 8th Ave corridor; complements a savory sit-down option for foodie tracks.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:55:40.132Z"
+  },
+  {
+    "topic": "Pacificana dim sum 813 55th St Brooklyn",
+    "reason": "Upper-floor Cantonese banquet hall a few blocks from Lucky Eight; weekend dim sum draws long lines and pairs with IC anchor.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:55:40.132Z"
+  },
+  {
+    "topic": "Yemen Cafe Bay Ridge halal lamb haneeth",
+    "reason": "Closer halal anchor (~10 min from IC) — stronger Brooklyn-side fallback than driving to Chelsea",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:57:27.878Z"
+  },
+  {
+    "topic": "Kashkaval Garden vs other Sunset Park halal noodle shops",
+    "reason": "Need a Brooklyn halal-noodle option within 10-min drive radius to reduce Manhattan dependency",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:57:27.878Z"
+  },
+  {
+    "topic": "1915 Lanzhou Beef Noodle Manhattan re-research Tuesday hours",
+    "reason": "Confirm the primary halal Lanzhou option's Tue schedule so we know when the Tangy fallback actually matters",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:57:27.878Z"
+  },
+  {
+    "topic": "Yemen Cafe (Atlantic Ave, Brooklyn Heights/Boerum) — halal Yemeni lamb haneeth",
+    "reason": "Anchors a halal non-Chinese option in the same 10-min drive corridor; pairs well as a 'go further if line is too long' fallback",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:59:15.041Z"
+  },
+  {
+    "topic": "King of Tandoor (5th Ave Park Slope) — halal Indian/Bangladeshi",
+    "reason": "Expands halal options inside the Park Slope cluster beyond Chinese",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:59:15.041Z"
+  },
+  {
+    "topic": "Bayan Halal Restaurant (Bay Ridge) — halal Pakistani/Afghan",
+    "reason": "Bay Ridge has the densest halal cluster within 15 min of IC; corpus currently underweights it",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:59:15.041Z"
+  },
+  {
+    "topic": "Yun Nan Flavour Garden Sunset Park",
+    "reason": "Yunnan rice-noodle counterpoint to Lanzhou wheat-noodle DH; expands the regional-Chinese cluster in-zone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T03:01:35.020Z"
+  },
+  {
+    "topic": "East Harbor Seafood Palace Sunset Park dim sum",
+    "reason": "Weekend dim sum cart anchor in same 8th Ave Chinatown cluster — different vibe, same zone, longer duration",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T03:01:35.020Z"
   }
 ]

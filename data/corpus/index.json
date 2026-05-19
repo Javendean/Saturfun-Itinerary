@@ -5418,8 +5418,8 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Hole-in-the-wall Yunnan rice noodle shop on 8th Ave — savory anchor for the Sunset Park bakery crawl.",
-    "longDesc": "Tiny Sunset Park counter specializing in Yunnan crossing-the-bridge rice noodles and spicy lamb bowls in a rich house broth, with most dishes in the $5–$10 range. Sits inside the 8th Ave Chinatown strip, four blocks from the bakeries and ~10 minutes from Industry City — ideal as a quick savory lunch before sweet stops. Cash-friendly, fast, and famously generous portions per Yelp regulars.",
+    "desc": "Kunming couple's hand-cut rice noodles and chili-oil cold noodles on 8th Ave's Chinatown strip.",
+    "longDesc": "A cash-only Sunset Park noodle counter run by a husband-and-wife team from Kunming, serving the spicy, sour, herb-driven cooking of Yunnan province. Order the cold rice noodles with ground pork, roasted peanuts, and a chili-oil/vinegar/soy dressing, or the hot-and-sour pork dumpling soup. Skinny house-made rice noodles are the signature, and the room is tiny enough that takeout to the IC waterfront is the move.",
     "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5431,9 +5431,9 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "10 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "09:00-21:00",
-    "notes": "5121 8th Ave, Brooklyn NY 11220, (718) 633-3090. Star dish: Crossing the Bridge Rice Noodles with beef or lamb (Yelp, NYC Tourism). Spicy lamb rice noodle and Yunnan-style dry noodles also recommended (Stuyvesant Spectator review). Tiny counter — order to-go and eat in IC courtyard if it's packed. Street parking on 8th Ave is tight on weekends; the 51st/52nd St side streets are easier. Pairs naturally with Lucky Bakery, Kam Hing-style sponge cake stops, and the 8th Ave bubble tea cluster within a 4-block walk.",
+    "notes": "5121 8th Ave, Brooklyn 11220 — cash only (Yelp). Husband-and-wife team from Kunming, Yunnan's capital; menu leans Yunnan + Southeast Asian crossover (NYC Tourism). Best-sellers: hot-and-sour pork dumpling soup and cold skinny rice noodles with ground pork, peanuts, chili-oil/vinegar/soy dressing (Time Out). On-street parking on 8th Ave or side streets; 8-10 min drive from Industry City via 3rd Ave or 4th Ave. Pairs naturally with Kai Feng Fu Dumpling House and East Harbor Seafood Palace on the same strip for a noodles/dumplings/dim sum mini-crawl.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
@@ -5444,14 +5444,14 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
+        "url": "https://www.timeout.com/newyork/restaurants/yun-nan-flavour-garden",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-19T02:46:59.051Z"
+    "lastResearchedAt": "2026-05-19T02:53:38.199Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -50320,5 +50320,161 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-19T02:40:45.621Z"
+  },
+  {
+    "id": "lucky-eight-cantonese",
+    "name": "Lucky Eight Restaurant",
+    "desc": "Sunset Park Cantonese mainstay on 8th Ave — seafood, salt-and-pepper classics, group-friendly tables.",
+    "longDesc": "Long-running Cantonese sit-down on Brooklyn's 8th Ave Chinatown, about 10 minutes north of Industry City. Known for live-tank seafood, salt-and-pepper squid, clay-pot dishes and lazy-susan tables that make it work well for a 4-6 person group. Cash-only — bring an ATM card, and note the Yelp listing shows 'CLOSED' as of May 2026 while NetWaiter still lists hours, so call (718) 851-8862 to confirm before driving over.",
+    "url": "https://luckyeight.netwaiter.com/brooklyn/about/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "10:00-23:00 (Sun-Mon, Wed-Sat); confirm by phone",
+    "notes": "5204 8th Ave, Sunset Park — ~10 min drive from Industry City via 3rd Ave or 4th Ave; ample meter + side-street parking on weekends. CASH ONLY (Yelp/NetWaiter). Conflicting status: Yelp listing flagged 'CLOSED — Updated May 2026' (https://www.yelp.com/biz/lucky-eight-brooklyn-2) while NetWaiter still publishes hours (https://luckyeight.netwaiter.com/brooklyn/about/). Recommend phone-verify (718) 851-8862 before promoting. If closed, fallback to Lucky 8 Restaurant at 5216 8th Ave (separate business, same block).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/lucky-eight-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://luckyeight.netwaiter.com/brooklyn/about/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://foursquare.com/v/lucky-eight-%E5%90%8C%E6%A8%82%E5%B0%8F%E7%82%92%E7%9A%87/4b6c63e0f964a5201f362ce3",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:55:40.091Z"
+  },
+  {
+    "id": "tangy-noodle-halal",
+    "name": "Tangy Noodle Halal",
+    "desc": "Lanzhou hand-pulled beef noodle soup from Uncle Hui Hui — Chelsea's halal Northwestern Chinese counterpart to 1915.",
+    "longDesc": "Tangy Noodle (by Uncle Hui Hui) on 8th Ave in Chelsea went fully halal in November 2024 and specializes in Lanzhou-style hand-pulled beef noodle soup, with knife-shaved and thick wheat options plus lamb skewers and cold appetizers. A useful Manhattan fallback if 1915 Lanzhou is closed Tuesday, but only worth the drive from IC when the route already routes through lower Manhattan — most Brooklyn halal-noodle cravings are better served by closer options.",
+    "url": "https://www.yelp.com/biz/tangy-noodle-new-york-3",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "45-60 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "11:30-22:00 Sat, 11:30-21:00 Sun",
+    "notes": "Chelsea location at 98 8th Ave, (917) 261-4931 (Yelp). Became halal Nov 2024 under 'Tangy Noodle by Uncle Hui Hui' branding (Instagram @tangynoodlenyc). Not in Brooklyn — included only as a halal-noodle fallback / cross-reference for 1915 Lanzhou reliability per task brief. Drive from IC routes via Hugh L. Carey Tunnel (~22 min off-peak, longer weekend afternoon). Street parking in Chelsea is hostile on weekends; nearest garage is at W 14th/8th.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/tangy-noodle-new-york-3",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.zabihah.com/restaurants/08dd1885-46e2-4fdb-830b-a236b430d261/tangy-noodle-halal-new-york-ny",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/tangynoodlenyc/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://tangy-noodle.hey-restaurants.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:57:27.845Z"
+  },
+  {
+    "id": "no-pork-halal-kitchen",
+    "name": "No Pork Halal Kitchen",
+    "desc": "Cash-only halal Chinese takeout counter with massive portions of sesame chicken, lo mein, and garlic wings.",
+    "longDesc": "A no-frills halal Chinese kitchen on the Boerum Hill / Park Slope edge that has been quietly feeding locals for years. The menu is classic Chinese-American — sesame chicken, lo mein, fried rice, hot buffalo and garlic wings — all certified pork-free. No seating, no delivery, cash only, expect a 10-15 minute wait, and walk out with enough food for two meals.",
+    "url": "https://www.yelp.com/biz/no-pork-halal-kitchen-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "halal"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "11 min",
+    "hoursWeekend": "11:00-21:00",
+    "notes": "50 4th Ave at Bergen St — technically Boerum Hill / Park Slope border, easy street parking on weekends along 4th Ave or Bergen. Cash only, no seating, no delivery, ~10-15 min wait at the counter (Yelp). Phone (718) 875-9888. Strong slot-filler for halal Chinese (non-Lanzhou) in the IC drive cluster.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/no-pork-halal-kitchen-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d3530370-Reviews-No_Pork_Halal_Kitchen-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.grubhub.com/restaurant/no-pork-halal-kitchen-50-4th-avenue-brooklyn/2476396",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:59:15.003Z"
+  },
+  {
+    "id": "dh-noodles-sunset-park",
+    "name": "DH Noodles (Sunset Park)",
+    "desc": "Lanzhou hand-pulled beef noodles + broader Chinese menu; watch the noodle-puller through the glass",
+    "longDesc": "The Sunset Park flagship of the Dun Huang/DH Noodles group serves classic Lanzhou-style hand-pulled beef noodle soup with clear, anise-scented broth and chili oil, plus a non-halal menu spanning lamb skewers, pork dumplings, and big-plate chicken. Noodles are pulled fresh in an open window — width on request from thin 'capellini' to thick 'belt' style. Casual, fast, and just 25 blocks south of Industry City.",
+    "url": "https://dhnoodles.com/restaurant-location/sunset-park/",
+    "photoUrl": "https://dhnoodles.com/wp-content/uploads/2025/05/Chinese-Restaurant-Sunset-Park.webp",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "11:00-22:00",
+    "notes": "817 60th St, Brooklyn NY 11220, (929) 326-5967 (dhnoodles.com). Same address as legacy 'Dun Huang' Yelp listing — DH Noodles is the rebrand/expansion (yelp.com). Order the hand-pulled beef noodle soup ('capellini' or 'leek leaf' width) plus lamb skewers as a contrast pair. NOT halal — pork dumplings and pork-rib dishes on menu, making this the omnivore counterpart to 1915 Lanzhou Beef Noodle. Street parking on 60th/61st is usually findable on weekends.",
+    "sources": [
+      {
+        "url": "https://dhnoodles.com/restaurant-location/sunset-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/dun-huang-brooklyn-5",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T03:01:34.982Z"
   }
 ]
