@@ -2417,8 +2417,8 @@
   {
     "id": "xin-fa-bakery",
     "name": "Xin Fa Bakery",
-    "desc": "Sunset Park institution turning out NYC's best Portuguese egg tarts and pillowy sponge cake.",
-    "longDesc": "A no-frills 8th Ave Chinatown bakery widely cited as having the best Portuguese egg tarts in the five boroughs — flaky shells, silky custard, blackened-caramelized tops, $1.75 each or $10.50 for a 6-pack. Lines move fast and fresh trays come out constantly through the day; sponge cake, pineapple buns, taro buns, and meat pies round out the case.",
+    "desc": "Sunset Park OG Chinese bakery slinging $1.75 Portuguese egg tarts and bubble tea since the 8th Ave heyday",
+    "longDesc": "A no-frills Cantonese bakery on Brooklyn's 8th Ave Chinatown that locals defend fiercely — best known for caramelized-top Portuguese egg tarts at $1.75 and a deep bench of buns, pineapple buns with butter, and fruit smoothies. Cash-friendly, in-and-out counter service, and a natural third stop on a Sunset Park bakery crawl with Dragon Bay and Bakery 1988. Open daily 7:30am–5:30pm.",
     "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -2428,30 +2428,36 @@
       "curious",
       "chill"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
-    "duration": "20-30 min",
-    "driveFromIC": "8 min",
+    "duration": "15-30 min",
+    "driveFromIC": "7 min",
     "hoursWeekend": "07:30-17:30",
-    "notes": "Cash-friendly, counter-only — order, grab a box, eat on the curb or in the car (The Infatuation calls these the best egg tarts in the five boroughs). Pairs naturally with a Bensonhurst cluster or as a sweet stop before/after Industry City. Park on 8th Ave side streets in the 50s — easier on weekends than Manhattan Chinatown. Sponge cake and pineapple buns are the deep-cut second orders (Yelp, Infatuation).",
+    "notes": "Anchor of any Sunset Park bakery crawl — pair with Dragon Bay and Bakery 1988 on the same 8th Ave strip (Yelp). Portuguese egg tarts are the signature ($1.75 each, blackened caramelized custard) with pineapple buns and bubble tea rounding it out (Wanderlog, NYC Tourism). Cash-friendly counter; weekend street parking on the side blocks of 8th Ave is doable but tight — better to grab a spot mid-crawl and walk between stops.",
     "sources": [
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/xin-fa-bakery",
-        "accessed": "2026-05-17T20:15:00Z"
+        "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/xin-fa-bakery-brooklyn",
-        "accessed": "2026-05-17T20:15:00Z"
+        "url": "https://wanderlog.com/place/details/883611/xin-fa-bakery",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/xin-fa-bakery/",
-        "accessed": "2026-05-17T20:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://xinfabakery.shop/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T20:10:55.129Z"
+    "lastResearchedAt": "2026-05-19T02:42:41.049Z"
   },
   {
     "id": "japan-village-food-hall",
@@ -5412,9 +5418,9 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Cash-only Sunset Park Yunnan noodle shop famous for crossing-the-bridge rice noodles (mixian)",
-    "longDesc": "Run by a Kunming-born couple, this tiny 8th Ave storefront in Brooklyn's Chinatown serves the most legit guoqiao mixian (crossing-the-bridge noodles) in the city — a bowl of screaming-hot chicken broth capped with chili oil arrives with raw beef or lamb, rice noodles, and vegetables that you drop in tableside to cook. Atypical Yunnan ingredients like banana flowers and goat cheese show up on a deep menu of sub-$10 noodle bowls. Cash only, no frills, fast turnover.",
-    "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
+    "desc": "Hole-in-the-wall Yunnan rice noodle shop on 8th Ave — savory anchor for the Sunset Park bakery crawl.",
+    "longDesc": "Tiny Sunset Park counter specializing in Yunnan crossing-the-bridge rice noodles and spicy lamb bowls in a rich house broth, with most dishes in the $5–$10 range. Sits inside the 8th Ave Chinatown strip, four blocks from the bakeries and ~10 minutes from Industry City — ideal as a quick savory lunch before sweet stops. Cash-friendly, fast, and famously generous portions per Yelp regulars.",
+    "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
@@ -5425,20 +5431,16 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "11:00-21:30",
-    "notes": "Address is 5121 8th Ave, Brooklyn (not 5th Ave — Sunset Park's Chinatown sits on 8th Ave) (foursquare.com). Cash only; signature dish is crossing-the-bridge noodles served disassembled with raw beef/lamb that cooks in piping-hot chicken broth (wanderlog.com, nyctourism.com). Most noodle dishes under $10 (stuyspec.com). Drive from Industry City is ~8 min via 3rd Ave; weekend street parking on 50th/51st St is workable but tight. Pairs with the 8th Ave Sunset Park food crawl (East Harbor Seafood Palace dim sum, Lucky Eight, Ba Xuyên banh mi) — completes the over-the-bridge crossing-noodles slot in the neighborhood food map.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "09:00-21:00",
+    "notes": "5121 8th Ave, Brooklyn NY 11220, (718) 633-3090. Star dish: Crossing the Bridge Rice Noodles with beef or lamb (Yelp, NYC Tourism). Spicy lamb rice noodle and Yunnan-style dry noodles also recommended (Stuyvesant Spectator review). Tiny counter — order to-go and eat in IC courtyard if it's packed. Street parking on 8th Ave is tight on weekends; the 51st/52nd St side streets are easier. Pairs naturally with Lucky Bakery, Kam Hing-style sponge cake stops, and the 8th Ave bubble tea cluster within a 4-block walk.",
     "sources": [
       {
+        "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://foursquare.com/v/yun-nan-flavour-garden/51d868ac498ef583276dcf4b",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://wanderlog.com/place/details/367659/yun-nan-flavour-garden",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -5448,8 +5450,8 @@
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-19T02:32:51.815Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T02:46:59.051Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -5497,27 +5499,33 @@
   {
     "id": "east-harbor-seafood-palace",
     "name": "East Harbor Seafood Palace",
-    "desc": "Sunset Park's gold-trimmed cart dim sum hall — har gow, shu mai, and tripe pushed table-to-table",
-    "longDesc": "A massive 8th Ave banquet hall where waiters wheel steaming carts past gold-accented dining rooms and call out dumplings in Cantonese — har gow, shu mai, char siu bao, turnip cake, and chicken feet land on the table before you can point. Cash-friendly, family-loud, and very much the real thing; weekends fill up fast so arrive before 10am or expect a wait. Five minutes south of IC with plentiful weekend street parking on 65th/66th once you're off 8th.",
-    "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+    "desc": "Hong Kong-style dim sum hall on 8th Ave Chinatown — steaming carts, har gow, crispy taro balls",
+    "longDesc": "A Sunset Park / 8th Ave Chinatown banquet hall modeled after the huge dim sum palaces of Hong Kong: high ceilings, gold-accented dining room, rolling steam carts, and a mostly Chinese clientele packing the room on weekends. Signatures include har gow with chewy wrappers and juicy shrimp, chicken feet, crispy taro balls, pork knuckles, bacon-wrapped shrimp balls, and black sesame balls. Weekend lines run 30-90 min at peak — go right at open or after 1:30 PM to skip the worst of it.",
+    "url": "https://www.google.com/maps/place/East+Harbor+Seafood+Palace/@40.6347,-74.0102,17z",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious"
+      "photo"
     ],
-    "dietary": [
-      "vegetarian"
-    ],
+    "dietary": [],
     "priceBand": "$$",
     "duration": "60-90 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "09:00-23:00 (dim sum carts run until ~15:00)",
-    "notes": "714 65th St between 7th & 8th Ave, Sunset Park (Yelp). Open 7 days 9am–11pm; cart dim sum until 3pm but new carts slow ~2:45pm (Cinnamon Society). Get there before 9:30am weekends to skip the wait (Cinnamon Society). Michelin Guide listed (Michelin). Cash speeds things up but cards accepted. ~5 min drive from Industry City; weekend street parking is workable a block off 8th Ave.",
+    "driveFromIC": "10 min",
+    "hoursWeekend": "09:00-22:00",
+    "notes": "Address is 714 65th St at the corner of 8th Ave — heart of Brooklyn's 8th Ave Chinatown, one block from Kai Feng Fu Dumpling House for a natural dim-sum-plus-dumplings crawl (yelp). Cart-style service with numbered ticket calls; weekend wait 30 min to 1.5 hr (cinnamonsociety). Open daily 9:00-22:00 (east-harbor-seafood-palace.com). Street parking on 8th Ave or side streets is usually findable on Saturday morning but tight by 11; consider arriving by 10. Cash-friendly, large group tables make it ideal for 4-8 person crews.",
     "sources": [
       {
         "url": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://east-harbor-seafood-palace.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -5525,14 +5533,14 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/east-harbor-seafood-palace",
+        "url": "http://hungrygerald.com/2011/10/east-harbor-seafood-palace-dim-sum-for-pros/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T15:13:15.329Z"
+    "lastResearchedAt": "2026-05-19T02:51:44.777Z"
   },
   {
     "id": "fei-long-supermarket-44th",
@@ -10481,9 +10489,9 @@
   },
   {
     "id": "ba-xuyen-banh-mi",
-    "name": "Ba Xuyen",
-    "desc": "Cash-only Vietnamese counter widely cited as NYC's OG banh mi shop",
-    "longDesc": "Sunset Park institution at 8th Ave & 42nd St turning out crackly-baguette banh mi to a steady weekend line. The #1 combo (pâté, headcheese, cha lua, roast pork, pickled daikon-carrot, cilantro, jalapeño) is the order; pho and bun also on the board. No frills, paper-wrapped, cash only.",
+    "name": "Ba Xuyên",
+    "desc": "Cult-favorite Vietnamese banh mi counter in Sunset Park's 8th Ave Chinatown — order, grab, go.",
+    "longDesc": "Tiny no-frills banh mi shop on 8th Ave that locals and food writers consistently rank among NYC's best — the #1 Dac Biet stacks pork pate, head cheese, jambon, and pickled daikon-carrot on a crackly toasted baguette for around $6. Cash-friendly, line moves fast, and the window-counter format makes it an ideal late-morning extension to the 8th Ave Chinatown track without committing to a sit-down meal. They also do a vegetarian banh mi chay and Vietnamese iced coffee strong enough to reset your afternoon.",
     "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -10492,34 +10500,36 @@
       "foodie",
       "chill"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
     "duration": "20-30 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "07:00-18:30",
-    "notes": "Cash only — bring small bills (yelp). Combo #1 banh mi around $8 in 2025; everything under $10 (mango girl's playground 2025). 7-min drive straight up 3rd Ave → 42nd St; street parking on 8th Ave is doable on weekend mornings but tightens after 11am. Pairs naturally with an Industry City anchor — grab sandwiches to-go and eat at Bush Terminal Park (5 min back south).",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "Sat-Sun 7:00-18:30",
+    "notes": "4222 8th Ave, Brooklyn NY 11232; ~6 blocks east of East Harbor and ~1.2 mi from Industry City — easy street parking on 43rd/44th on weekends (Yelp, NYC Tourism). Cash strongly preferred. Order #1 Dac Biet, #6 grilled pork, or banh mi chay for vegetarians. Pairs naturally with a Sunset Park 8th Ave Chinatown morning loop (East Harbor dim sum → Ba Xuyên grab-and-go → Sunset Park bluff for skyline view) before driving back toward IC (Bklyner).",
     "sources": [
-      {
-        "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
       {
         "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://ywong.com/2025/03/08/ba-xuyen-the-og-and-best-banh-mi-spot-in-nyc-still-to-this-day-in-2025/",
+        "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://bklyner.com/ba-xuyen-8th-avenue-serves-delicious-banh-mi-sunset-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d598579-Reviews-Ba_Xuyen-Brooklyn_New_York.html",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-19T02:28:10.966Z"
+    "lastResearchedAt": "2026-05-19T02:49:17.547Z"
   },
   {
     "id": "bamboo-garden-dim-sum",
@@ -19941,16 +19951,17 @@
   },
   {
     "id": "kam-hing-coffee-shop",
-    "name": "New Kam Hing Coffee Shop",
-    "desc": "Third-gen Chinatown bakery with the famous $1 steamed sponge cakes at the corner of Canal & Baxter",
-    "longDesc": "A 40-year Manhattan Chinatown institution at 118 Baxter St run by third-generation owner Liz Yee, beloved for impossibly light steamed sponge cakes sold at $1 each (original, chocolate chip) and $1.25 for rotating specialty flavors like green tea, ube, black sesame, coconut, pandan, butterscotch, pumpkin spice, and strawberry. Counter-only, cash-friendly, fast turnover; cakes are made in-house all day and travel well in their classic box of 12 or 20. Hong Kong-style milk tea and coffee round out the menu, but the sponges are the whole point and they pair naturally with a Lower East Side bakery flight before crossing back to Brooklyn.",
+    "name": "Kam Hing Coffee Shop",
+    "desc": "Iconic 35-year-old Chinatown bakery for cloud-light Cantonese sponge cake in 8+ flavors.",
+    "longDesc": "Kam Hing has been pulling pillow-soft sponge cakes out of small tin molds at the corner of Canal and Baxter for over three decades, and the lineup now spans original, pandan, matcha, ube, black sesame, coconut, taro, and seasonal flavors. The original Sunset Park / 6303 8th Ave outpost is permanently closed, so the Manhattan Chinatown flagship is the only way to taste the real thing — quick counter service, cash-friendly, and a 5-minute walk to the rest of Mott/Mulberry. A foundational sponge-cake reference point that recalibrates what 'fluffy' should mean.",
     "url": "https://www.newkamhing.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "dumbo",
     "vibe": [
       "foodie",
-      "curious"
+      "curious",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
@@ -19959,18 +19970,18 @@
     "duration": "30-45 min",
     "driveFromIC": "20 min",
     "hoursWeekend": "07:00-19:30",
-    "notes": "Topic correction: Kam Hing has no Sunset Park branch — the only location is 118 Baxter St in Manhattan Chinatown (newkamhing.com). Justified as a Manhattan exception because the $1 steamed sponge cake at a third-generation family bakery is genuinely unique in the five boroughs (greatperformances.com profile of owner Liz Yee). Drive from IC: Gowanus Expy → Manhattan Bridge → Canal/Baxter, ~18-22 min off-peak weekend, same approach as the Joe's Shanghai Chinatown entry. Weekend parking is the catch — Chinatown street is essentially impossible Sat afternoon; use the Mulberry/Bayard municipal garage or paid lots on Chrystie/Forsyth (same playbook as the existing Joe's Shanghai notes). Hours 7:00am-7:30pm daily per official site, confirmed via Yelp May 2026. Bakery flight: the 'Xinfa' in our corpus is Sunset Park's Brooklyn Xinfa (8th Ave Chinatown) which closes ~5:30-7pm, so pairing them in one outing only works if Kam Hing is hit before crossing back. A purer Manhattan-Chinatown bakery flight: Kam Hing for sponge cake + Mei Lai Wah for steamed pork buns + a Hong Kong egg-tart stop (Tai Pan Bakery) — all within a 4-block radius (theinfatuation.com asian-owned bakeries guide). Cash and small bills make the $1-$1.25 transactions go faster.",
+    "notes": "Pivoted from the original Sunset Park brief: 6303 8th Ave Brooklyn is permanently closed per Yelp listing (newkamhing.com lists only the Manhattan Chinatown address). Flagship is 118 Baxter St, Manhattan (newkamhing.com). Drive from Industry City is ~20 min off-peak via Brooklyn-Battery Tunnel or BQE→Manhattan Bridge; weekend street parking near Chinatown is brutal, use Mulberry/Baxter garages ($15-25). Famous for sponge cake described as 'light, fluffy, and moist' and signage reads 'Best sponge cake in town' (foodmanchan.com, theinfatuation.com). Owner Liz Yee and family; sister rice-noodle shop Tonii's at 83 Bayard. Note: a former 30-year Kam Hing baker now runs Spongies Cafe next door — worth queueing as a comparison candidate. Pairs naturally with Nom Wah, Mei Lai Wah, or a Mulberry St walk.",
     "sources": [
       {
         "url": "https://www.newkamhing.com/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/kam-hing-bakery-new-york",
+        "url": "https://www.yelp.com/biz/kam-hing-brooklyn",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://greatperformances.com/blog/new-kam-hing/",
+        "url": "https://www.foodmanchan.com/blog/kam-hing-coffee-shop-sponge-cakes",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -19978,14 +19989,18 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.foodmanchan.com/blog/kam-hing-coffee-shop-sponge-cakes",
+        "url": "https://www.mottstreetgirls.com/chinatown/spongies-cafe",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://greatperformances.com/blog/new-kam-hing/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-19T02:24:02.982Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:45:01.021Z"
   },
   {
     "id": "the-drawing-center",
