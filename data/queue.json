@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Roberta's Bushwick",
-    "reason": "Adjacent Bushwick destination — once a guest has driven 22 min to Starr St, Roberta's wood-fired pizza is a 6-min hop and unlocks a full Bushwick track instead of a one-stop detour",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:43:54.157Z"
-  },
-  {
-    "topic": "Tortilleria Mexicana Los Hermanos Bushwick",
-    "reason": "Anchor of the wider NYC Mexican food map; if user is open to a 25-min Bushwick detour, completes the 'taqueria attached to a working tortilla factory' archetype the 5th Ave corridor lacks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:46:11.573Z"
-  },
-  {
-    "topic": "Melt Bakery or other ice-cream/dessert stop near 5th Ave Sunset Park",
-    "reason": "Dessert third act after panaderia + taqueria; closes the loop on a 5th Ave food-crawl track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:46:11.573Z"
-  },
-  {
-    "topic": "Costa Verde Restaurant 5th Ave Sunset Park",
-    "reason": "Adds Ecuadorian/Latin breadth to the 5th Ave corridor beyond the Mexican axis — gives tracks a non-taco alternative for repeat visitors",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:46:11.573Z"
-  },
-  {
-    "topic": "Tacos El Bronco Sunset Park 5th Ave",
-    "reason": "Iconic Sunset Park taco truck/storefront — completes a Mexican food crawl pairing with Don Paco for a single-track itinerary",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:48:17.637Z"
-  },
-  {
     "topic": "Sunset Park (the actual park) skyline viewpoint",
     "reason": "Free, photogenic Manhattan-skyline overlook 4 blocks from Don Paco — natural after-bakery stop with zero added drive time",
     "requestedBy": "agent",
@@ -21046,5 +21016,89 @@
     "reason": "Anchors the cheap-and-authentic end of the Williamsburg Mexican cluster — pairs with Mesa Coyoacan to give the corpus a $-vs-$$ choice inside the same zone.",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-19T00:28:25.605Z"
+  },
+  {
+    "topic": "Mood Ring Bushwick (cocktail bar)",
+    "reason": "Neon-lit dive 4 min from Roberta's — completes a Bushwick evening track with the food→art→drinks arc the itinerary engine wants",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:30:50.352Z"
+  },
+  {
+    "topic": "Bushwick Collective street art walking loop",
+    "reason": "Free outdoor curated mural district 5 min from Roberta's — high-photo, daylight-only stop that pairs naturally with a Roberta's lunch",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:30:50.352Z"
+  },
+  {
+    "topic": "Syndicated Bar + Theater Bushwick",
+    "reason": "Cheap second-run movies + full food/bar menu 7 min away — gives the Bushwick cluster a rainy-day indoor anchor distinct from House of Yes nightlife",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:30:50.352Z"
+  },
+  {
+    "topic": "Bushwick Collective mural walk (Troutman St / St Nicholas Ave open-air gallery)",
+    "reason": "Free, photo-heavy 30-min walk one block from Los Hermanos — turns the Bushwick detour into a real track instead of a one-stop drive",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:33:55.955Z"
+  },
+  {
+    "topic": "Roberta's Bushwick (wood-fired pizza + garden)",
+    "reason": "Bushwick anchor 8 min from Los Hermanos; gives the cluster a contrasting evening option if the taqueria becomes a lunch stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:33:55.955Z"
+  },
+  {
+    "topic": "J-Petal Sunset Park (4801 5th Ave) — Thai rolled ice cream + crepes",
+    "reason": "Mid-strip dessert alternative on the same 5th Ave crawl, photogenic format, fills the duration:30-45 slot if Sweet Dynasty has a cake-out day",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:36:44.341Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia, 5th Ave Sunset Park — Mexican bakery first-act",
+    "reason": "Anchors the panaderia opener of the 5th Ave food crawl that this dessert closes; corpus needs the matching first stop to make the track sequence usable",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:36:44.342Z"
+  },
+  {
+    "topic": "Tacos El Bronco, 5th Ave Sunset Park — taqueria second-act",
+    "reason": "Completes the panaderia → taqueria → ice cream crawl referenced in the topic intent; without it the track is incomplete in the corpus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:36:44.342Z"
+  },
+  {
+    "topic": "El Tesoro Ecuatoriano 4015 5th Ave Sunset Park",
+    "reason": "Actually Ecuadorian — fills the gap the original Costa Verde topic was aiming for; coastal Ecuadorian seafood + ceviche on the same 5th Ave corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:40:09.970Z"
+  },
+  {
+    "topic": "Lima Peruvian Restaurant Sunset Park Brooklyn",
+    "reason": "Second Peruvian option on 5th Ave for ceviche + empanada-leaning menu vs La Brasa's rotisserie focus — gives tracks a sit-down Peruvian alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:40:09.970Z"
+  },
+  {
+    "topic": "Castillo Restaurant Sunset Park Ecuadorian",
+    "reason": "Sit-down Ecuadorian on 5th Ave with OpenTable presence — adds reservable Latin option for tracks that need an anchor dinner stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:40:09.970Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos Sunset Park",
+    "reason": "Working tortilla factory with taqueria counter — extends the Mexican crawl with a back-of-house experience",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:42:16.811Z"
+  },
+  {
+    "topic": "La Flor de Izúcar bakery Sunset Park 5th Ave",
+    "reason": "Authentic Mexican pan dulce stop to bookend the taco crawl with dessert/coffee",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:42:16.811Z"
+  },
+  {
+    "topic": "Sunset Park itself (the park) sunset view skyline",
+    "reason": "Free golden-hour Manhattan skyline view 5 min walk from the truck — natural closer for the cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:42:16.811Z"
   }
 ]
