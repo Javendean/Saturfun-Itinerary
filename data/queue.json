@@ -1,35 +1,5 @@
 [
   {
-    "topic": "La Flor Bakery & Cafe — alternative Sunset Park pan dulce + sit-down brunch option",
-    "reason": "Gives the corpus a daytime sit-down Mexican-leaning bakery for variety against Don Paco's grab-and-go.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:52:48.987Z"
-  },
-  {
-    "topic": "Cafe Grumpy Industry City — coffee pairing for pan dulce hauls back to IC",
-    "reason": "Closes the loop on a pan-dulce-to-coffee mini-loop inside the IC anchor radius.",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:52:48.987Z"
-  },
-  {
-    "topic": "Pioneer Works late-night gallery hours Red Hook",
-    "reason": "Another non-food anchor within 10-min drive of IC; balances the cluster with art instead of bowling",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:54:44.979Z"
-  },
-  {
-    "topic": "Sunset Park Hong Kong-style karaoke 8th Ave",
-    "reason": "Late-night active venue same zone as Melody Lanes; gives a second after-dinner option in the IC cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:54:44.979Z"
-  },
-  {
-    "topic": "Industry City courtyard outdoor games weekend programming",
-    "reason": "Free/cheap activity literally inside IC; pairs with Melody Lanes as a daylight precursor",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:54:44.979Z"
-  },
-  {
     "topic": "Peter Pan Donut & Pastry Shop (Greenpoint) — classic 24/7-adjacent early-morning donut counter",
     "reason": "Pairs with Kellogg's as a Greenpoint/Williamsburg cluster sweet-stop for late-night/early-morning loops",
     "requestedBy": "agent",
@@ -21142,5 +21112,83 @@
     "reason": "Backup Sunset Park Mexican anchor if Matamoros is closed/packed; expands the corridor's redundancy",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-19T00:56:22.819Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos — Bushwick tortilla factory + taco counter",
+    "reason": "Mexican depth beyond Sunset Park; adds a Bushwick-zone food anchor with strong photo value",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:58:36.372Z"
+  },
+  {
+    "topic": "Tacos El Bronco Sunset Park 5th Ave taco truck/storefront",
+    "reason": "Pairs naturally as a savory follow-up to a La Flor pan-dulce stop within the same 5th Ave corridor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:58:36.372Z"
+  },
+  {
+    "topic": "Brooklyn Kura Industry City sake brewery tours",
+    "reason": "Sit-down daytime experience inside IC itself to balance the food-heavy Sunset Park cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:58:36.372Z"
+  },
+  {
+    "topic": "Devoción Williamsburg flagship — Colombian single-origin espresso",
+    "reason": "Adds a heavier-hitter specialty coffee anchor within ~15 min drive of IC for the coffee subgraph",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:01:32.230Z"
+  },
+  {
+    "topic": "Konditori Park Slope — Swedish espresso bar on 5th Ave",
+    "reason": "Alternative same-zone coffee stop with pastries built in, useful as a single-stop substitute for the pan-dulce-plus-coffee loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:01:32.230Z"
+  },
+  {
+    "topic": "Parlor Coffee Crown Heights — barbershop-roastery hybrid",
+    "reason": "Expands the IC-radius specialty coffee set with a distinctive vibe at the outer edge of the drive cone",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:01:32.230Z"
+  },
+  {
+    "topic": "Red Hook Winery Pier 41 tastings weekend",
+    "reason": "Waterfront tasting room near Pioneer Works; rounds out a Red Hook art+drink itinerary inside the 15-min-drive radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:03:57.023Z"
+  },
+  {
+    "topic": "39 KTV at 820 39th St Brooklyn — backup karaoke a block away",
+    "reason": "Direct alternative if SOHO is fully booked; same 5-min-from-IC cluster, similar HK-style format with late hours per Yelp.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:06:38.507Z"
+  },
+  {
+    "topic": "Pacificana dim sum 813 55th St Sunset Park — pre-karaoke Cantonese banquet",
+    "reason": "Natural pairing for the 8th Ave Chinatown track: dim sum dinner then KTV stays in one geographic cluster.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:06:38.507Z"
+  },
+  {
+    "topic": "Bedouin Tent or Tanoreen on Bay Ridge — late-night Middle Eastern after IC drinks",
+    "reason": "Expands the southwest-Brooklyn driving cluster with a different cuisine pole for itineraries that skip karaoke.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:06:38.507Z"
+  },
+  {
+    "topic": "Carreau Club pétanque reservations and weekend bar program",
+    "reason": "Dedicated deep-dive on the IC pétanque venue — pricing, lane booking, bar food — to support a 'grown-up courtyard' track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:08:28.549Z"
+  },
+  {
+    "topic": "Japan Village food hall weekend lunch picks",
+    "reason": "Natural pairing inside IC after courtyard games; needs its own foodie entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:08:28.549Z"
+  },
+  {
+    "topic": "Industry City summer concert series 2026 lineup",
+    "reason": "Ticketed evening programming at IC Courtyard 1/2 — distinct from free daytime games but same anchor location",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:08:28.549Z"
   }
 ]

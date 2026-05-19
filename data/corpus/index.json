@@ -8449,8 +8449,8 @@
   {
     "id": "pioneer-works",
     "name": "Pioneer Works",
-    "desc": "Artist + scientist cultural center in a former Red Hook ironworks — free weekend galleries, gardens, and rotating workshops.",
-    "longDesc": "Pioneer Works is a nonprofit cultural center inside a converted 19th-century ironworks at 159 Pioneer St, with galleries, a sculpture garden, performance space, and resident artist studios spread across three floors. Free admission Wed–Sun, 12–6 pm, with rotating exhibitions plus monthly 'Second Sundays' open houses featuring open studios, live music, hands-on workshops, food, and garden programming. Pairs naturally with a Van Brunt St walk to Hometown BBQ or Brooklyn Crab.",
+    "desc": "Free artist- and scientist-led cultural center in a converted Red Hook ironworks; rotating exhibitions plus evening concerts and talks.",
+    "longDesc": "Founded by artist Dustin Yellin in 2012, Pioneer Works occupies a three-story former ironworks at 159 Pioneer St with a sculpture garden, residency studios, performance hall, and press. Galleries are free and open Wed-Sun 12-6pm; the venue extends into the evening via ticketed concerts, science talks, and the free monthly Second Sundays open house that runs into the night with live music and open studios. A strong non-food anchor for Red Hook — pair with a Defonte's sub run or Sunny's drink afterward.",
     "url": "https://pioneerworks.org/visit",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -8463,39 +8463,35 @@
     "dietary": [],
     "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "10 min",
-    "hoursWeekend": "12:00-18:00",
-    "notes": "Free admission Wed–Sun 12–6 pm (pioneerworks.org/visit). Second Sundays = monthly free open house with open artist studios, workshops, music, food across all three floors + garden (brooklyneagle.com). Spring 2026 Second Sundays (Mar/Apr/May) feature Red Hook Regatta DIY boat-building workshops (pioneerworks.org). Street parking in Red Hook is usually easy on weekends — 10-min drive from Industry City up Van Brunt. Calendar at pioneerworks.org/calendar for one-off ticketed concerts, science talks, and ticketed Going In events.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "12:00-18:00 (galleries); evening events vary",
+    "notes": "Galleries free, Wed-Sun 12-6pm (pioneerworks.org/visit). Evening programming is event-driven — check the calendar for concerts, talks, and the free Second Sundays open house which runs into the night with live music, food, and open studios (pioneerworks.org/series/second-sundays). 3-story converted ironworks with a sculpture garden; tickets on Eventbrite/RA for music. Street parking around the industrial blocks on weekends; SpotHero lists nearby garages. ~8-10 min drive from Industry City via 3rd Ave / Van Brunt.",
     "sources": [
       {
         "url": "https://pioneerworks.org/visit",
-        "accessed": "2026-05-18T20:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://pioneerworks.org/calendar",
-        "accessed": "2026-05-18T20:15:00Z"
-      },
-      {
-        "url": "https://brooklyneagle.com/367671/second-sundays-event-offers-hands-on-look-at-pioneer-works/",
-        "accessed": "2026-05-18T20:15:00Z"
-      },
-      {
-        "url": "https://pioneerworks.org/programs/second-sundays-march-2026",
-        "accessed": "2026-05-18T20:15:00Z"
-      },
-      {
-        "url": "https://pioneerworks.org/programs/red-hook-regatta-2026",
-        "accessed": "2026-05-18T20:15:00Z"
+        "url": "https://www.nyctourism.com/museums-galleries/pioneer-works/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Pioneer_Works",
-        "accessed": "2026-05-18T20:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://pioneerworks.org/series/second-sundays",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://spothero.com/destination/nyc/pioneer-works-parking",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T20:18:53.646Z"
+    "lastResearchedAt": "2026-05-19T01:03:56.988Z"
   },
   {
     "id": "louis-valentino-jr-park-pier",
@@ -22092,51 +22088,47 @@
   {
     "id": "la-flor-de-izucar-cafe",
     "name": "La Flor de Izúcar Café",
-    "desc": "Family-run Mexican panadería on Sunset Park's 5th Ave — conchas, tres leches, café de olla since 1990.",
-    "longDesc": "Operating on Sunset Park's 5th Ave corridor since 1990 and run by the Torres family (Alfredo took the reins from his mother in 2019), La Flor de Izúcar is one of Brooklyn's most authentic Mexican bakeries. Cases of fresh conchas, orejas, and tres leches sit next to a full café menu — café de olla brewed with cinnamon and piloncillo, tortas, and weekend birria quesadillas and tacos. A near-perfect 4-block detour off Industry City for a $4 sugar-and-coffee reset.",
+    "desc": "Family-run Sunset Park Mexican bakery and 24-hr café with fresh conchas, café de olla, and weekend birria",
+    "longDesc": "Open since 1990 on Sunset Park's 5th Ave, this family-owned panadería/café bakes pan dulce daily — conchas, tres leches, chocolate rosca — alongside hot Mexican tortas, weekend birria quesadillas, and café de olla simmered with cinnamon and piloncillo. Counter seating and a small dining room make it a proper sit-down brunch alternative to grab-and-go panaderías like Don Paco's, and it runs 24 hours Friday through Sunday.",
     "url": "https://flordeizucar.com/",
-    "photoUrl": "https://cdn01.s4shops.com/skytabweb/uploads/601eab62-5f20-f011-8b3d-6045bd84ccf3/e62931c7-2025-f011-8b3d-6045bd84ccf3.jpg",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie",
       "chill",
+      "foodie",
       "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "7 min",
-    "hoursWeekend": "Sat-Sun 09:00-22:00 (some listings indicate 24h; call to confirm)",
-    "notes": "Address 4021 5th Ave, Brooklyn NY 11232; phone 718-633-1254 (flordeizucar.com). Family-owned since 1990, refreshed under Alfredo Torres in 2019 (flordeizucar.com/about-us). Signature items: conchas, tres leches, café de olla, weekend birria quesadillas/tacos (visitbrooklyn.nyc; tripadvisor). Street parking on 5th Ave/41st St is generally available weekend mornings. Also listed on aggregators as 'La Flor Bakery' — same venue.",
+    "duration": "45-60 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "Open 24 hours Fri-Sun",
+    "notes": "4021 5th Ave, Brooklyn NY 11232 — ~0.7 mi south of Industry City, easy 5-min drive with on-street parking on 5th Ave/40th-41st St on weekends (flordeizucar.com). Family-run since 1990; specialties are fresh-baked conchas, tres leches, café de olla, and weekend birria quesadillas/tacos (yelp.com, flordeizucar.com/about-us). Counter + table seating, dine-in friendly, Yelp 4-star with 64 reviews and 224 photos (yelp.com). Operates ~24 hours Tue-Sun per Yelp listing — strong daytime sit-down brunch option to balance grab-and-go pan dulce stops.",
     "sources": [
       {
         "url": "https://flordeizucar.com/",
-        "accessed": "2026-05-18T23:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://flordeizucar.com/about-us",
-        "accessed": "2026-05-18T23:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/la-flor-de-izucar-cafe",
-        "accessed": "2026-05-18T23:30:00Z"
+        "url": "https://www.yelp.com/biz/la-flor-de-izucar-cafe-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d1145557-Reviews-La_Flor_De_Izucar-Brooklyn_New_York.html",
-        "accessed": "2026-05-18T23:30:00Z"
-      },
-      {
-        "url": "https://laflordeizucarcafe.toast.site/",
-        "accessed": "2026-05-18T23:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T23:25:29.547Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T00:58:36.331Z"
   },
   {
     "id": "casa-azul-park-slope-oaxacan",
@@ -29620,8 +29612,8 @@
   {
     "id": "cafe-grumpy-park-slope",
     "name": "Café Grumpy (Park Slope)",
-    "desc": "Third-wave Brooklyn roaster; house-roasted espresso in a small dog-friendly 7th Ave shop.",
-    "longDesc": "Café Grumpy's Park Slope shop (open since 2009) is the no-laptop, no-Wi-Fi outpost of the cult Brooklyn roaster — espresso, Americanos, cappuccinos, and the popular honey oat latte pulled from beans roasted at their Greenpoint facility. Compact, dog-friendly, and built around the bar; ideal as the first stop of a Park Slope / South Slope morning. SpotHero has bookable garages within a few blocks for weekend drivers from Industry City.",
+    "desc": "House-roasted specialty espresso bar — the closest Café Grumpy to Industry City for a post-pan-dulce coffee.",
+    "longDesc": "Café Grumpy's 2009 Park Slope outpost is a no-frills, coffee-first bar pouring beans roasted at their Greenpoint roastery — rich espresso, flat whites, and full-bodied drip. Limited seating and no Wi-Fi keep it focused; quick in-and-out works perfectly when you're closing a pan-dulce loop from Sunset Park bakeries back to IC. There is no Café Grumpy inside Industry City itself; this Park Slope location is the nearest at roughly a 10-minute drive.",
     "url": "https://cafegrumpy.com/locations/park-slope/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -29633,33 +29625,33 @@
     "dietary": [
       "vegetarian"
     ],
-    "priceBand": "$",
-    "duration": "30-45 min",
+    "priceBand": "$$",
+    "duration": "20-30 min",
     "driveFromIC": "10 min",
-    "hoursWeekend": "07:30-19:30",
-    "notes": "House-roasted specialty beans; espresso bar focus, no Wi-Fi, no restroom — quick in-and-out by design (Yelp, cafegrumpy.com). Dog-friendly, opened 2009 (Brooklyn Paper). SpotHero lists garages keyed to '383 7th Ave' for weekend reservations.",
+    "hoursWeekend": "07:00-19:00",
+    "notes": "Address: 383 7th Ave (between 11th & 12th St), Brooklyn, NY 11215, (718) 499-4404 (cafegrumpy.com). 7am-7pm daily including weekends (cafegrumpy.com). Espresso-bar format with limited seating, no Wi-Fi — emphasis is on the cup, not lingering (cafegrumpy.com). Street parking on 7th Ave / side streets is typically available on weekends but watch Saturday alternate-side rules. Pairs naturally with a Sunset Park pan dulce haul from Don Paco Lopez or La Gran Vía: pick up the bakery box, drive 10 min northeast to grab espresso to-go, then loop back down 4th Ave to IC. Café Grumpy roasts daily in Greenpoint and is one of NYC's longest-running third-wave specialty roasters (sprudge.com).",
     "sources": [
       {
         "url": "https://cafegrumpy.com/locations/park-slope/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://cafegrumpy.com/locations/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/caf%C3%A9-grumpy-brooklyn-4",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://spothero.com/destination/nyc/cafe-grumpy-7th-ave-brooklyn-parking",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.brooklynpaper.com/cafe-grumpy-opens-in-park-slope/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://sprudge.com/cafe-grumpy-caroline-bell-grand-central-56203.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T16:00:49.365Z"
+    "lastResearchedAt": "2026-05-19T01:01:32.194Z"
   },
   {
     "id": "ff-restaurant-and-bar",
@@ -49304,5 +49296,94 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-19T00:51:57.309Z"
+  },
+  {
+    "id": "soho-ktv-brooklyn",
+    "name": "SOHO KTV Brooklyn",
+    "desc": "Hong Kong-style private-room KTV in Sunset Park Chinatown with deep Cantonese/Mandarin catalog and 4am close.",
+    "longDesc": "Multi-room KTV palace on the 8th Ave Chinatown edge: neon hallways, large private suites with dual TVs, decent sound systems, and in-room bathrooms so your group never has to break the song queue. Catalog skews heavy Cantonese/Mandarin/K-pop with a thinner English shelf — go in with a Hong Kong-pop mindset. Happy hour from 2pm, but the real move is rolling in after dinner near Industry City and singing until 4am.",
+    "url": "https://www.instagram.com/bksohoktv/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "active",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$$",
+    "duration": "90-120 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "20:30-04:00",
+    "notes": "775 39th St, Brooklyn NY 11232, between 7th/8th Ave in Sunset Park Chinatown — 5 min drive from IC (yelp). Phone (718) 307-1115. Private rooms come in sizes; book ahead on weekends (wheree). Catalog is Asian-heavy, so it complements rather than duplicates Melody Lanes' American open-mic karaoke (bippermedia). Street parking on 39th/40th plus the IC garages are reachable; arrive before 10pm to avoid 8th Ave traffic crawl. Reviews are mixed on snack quality — recommend dinner first, drinks/snacks only at the venue.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/soho-ktv-brooklyn-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://soho-ktv-brooklyn.wheree.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bippermedia.com/restaurants/soho-ktv-brooklyn-reviews-soho-ktv-brooklyn-at-775-39th-st-brooklyn-ny-11232/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.instagram.com/bksohoktv/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T01:06:38.467Z"
+  },
+  {
+    "id": "industry-city-courtyards",
+    "name": "Industry City Courtyards",
+    "desc": "Free outdoor games (ping pong, mini golf, pétanque) across IC's landscaped courtyards with weekend live music.",
+    "longDesc": "Industry City's six interconnected courtyards run free, drop-in programming all weekend: ping pong tables, a seasonal nine-hole mini golf course in Courtyard 1-2 (gear loaner at the Burger Joint), pétanque lanes at Carreau Club, sand pits, fire pits, and rotating sculpture. Friday evenings and weekend afternoons typically add live music, DJs, and pop-up markets, with food-hall takeout from Japan Village or Lifted Coffee a few steps away. Zero cover, kid-friendly, and the obvious daylight precursor to a Melody Lanes bowling run.",
+    "url": "https://industrycity.com/events/",
+    "photoUrl": "https://industrycity.com/wp-content/uploads/2021/06/IC-Courtyard-Hero.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "60-90 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Courtyards 24/7; programmed activities ~11:00-19:00 Sat/Sun (seasonal)",
+    "notes": "Free mini golf is warm-months only — borrow clubs/balls at Burger Joint counter in Courtyard 1-2 (Mommy Poppins, brooklynbridgeparents.com). Carreau Club pétanque is free walk-up on uncrowded days but reservable; under-10s not allowed on courts, 10+ need 1:1 adult (kidonthetown.com). Weekend events calendar lives at industrycity.com/events. Pairs perfectly with Melody Lanes (~6 min drive) for an afternoon-into-night arc.",
+    "sources": [
+      {
+        "url": "https://industrycity.com/events/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://brooklynbridgeparents.com/a-family-day-at-industry-city-in-sunset-park/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.kidonthetown.com/locations/industry-city/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://mommypoppins.com/new-york-city-kids/best-of-lists/17-things-to-do-with-kids-in-industry-city-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://away.mta.info/articles/exploring-brooklyns-fun-festive-family-friendly-industry-city/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T01:08:28.515Z"
   }
 ]
