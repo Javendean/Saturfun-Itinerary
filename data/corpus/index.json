@@ -16205,23 +16205,23 @@
   {
     "id": "house-of-yes",
     "name": "House of Yes",
-    "desc": "Themed circus-cabaret nightclub: variety shows, costumes, late-night dance parties in Bushwick",
-    "longDesc": "House of Yes is a multi-room performance-fueled nightclub at 2 Wyckoff Ave (Jefferson St L stop) that pairs early-evening cabaret/circus variety shows with late-night themed DJ dance parties most Fridays and Saturdays. Creative costumes are strongly encouraged (a pop-up Costume Box sells extras at the door), and the venue runs a strict Safer Spaces policy — zero tolerance for harassment and a 'ask before you touch' rule. Photo-rich, neon-saturated rooms with aerialists and immersive sets make it a natural high-energy counterpart to Mood Ring just up the block.",
+    "desc": "Immersive nightclub & circus theater in Bushwick — costumed dance parties, aerialists, late-night bacchanal",
+    "longDesc": "Brooklyn's most theatrical nightlife destination: a converted Bushwick warehouse that blends DJ-driven dance floors with aerial silks, fire performers, drag, and themed costume parties. Fri/Sat run 7pm–4am with a strict creative dress code on weekends; covers swing $0–$40+ depending on the event, and Dirty Thursdays are free at the door. Closes out a Bushwick track perfectly after dinner at Syndicated — energy stays high until last call.",
     "url": "https://www.houseofyes.org/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
-      "photo",
       "curious",
+      "photo",
       "active"
     ],
     "dietary": [],
     "priceBand": "$$",
     "duration": "2-4 hr",
-    "driveFromIC": "22 min",
+    "driveFromIC": "20 min",
     "hoursWeekend": "Fri-Sat 19:00-04:00",
-    "notes": "Entrance at 408 Jefferson St; tickets via houseofyes.org or Ticket Fairy and many weekend parties sell out in advance (houseofyes.org/faq). Themed costume dress code on Fri/Sat — Costume Box on site for guests who arrive plain (houseofyes.org). Street parking in Bushwick is tight on weekends; allow buffer time or use a paid lot near Wyckoff/Flushing (yelp.com). ~5 min walk / <2 min drive to Mood Ring at 1260 Myrtle Ave for a paired Bushwick nightlife loop.",
+    "notes": "2 Wyckoff Ave (entrance 408 Jefferson St), Bushwick; 1-min walk from L-train Jefferson but user drives — street parking in Bushwick is tight, plan for a 5-10 min hunt or use a paid lot near Jefferson/Wyckoff (source: houseofyes.org/faq). Weekends require costume/creative attire — bring a look or get turned away at the door (source: discotech.me). Cover varies $0–$40+ by event; buy tickets in advance via houseofyes.org to skip line and lock entry. Dirty Thursdays = no cover (source: discotech.me). 21+ for most events. Closed Mon–Wed and Sun. Pairs naturally with an earlier Syndicated dinner+film in the same Bushwick cluster.",
     "sources": [
       {
         "url": "https://www.houseofyes.org/",
@@ -16232,22 +16232,22 @@
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/house-of-yes-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
         "url": "https://en.wikipedia.org/wiki/House_of_Yes_(Brooklyn)",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.timeout.com/newyork/nightlife/house-of-yes",
+        "url": "https://discotech.me/brooklyn/house-of-yes/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/house-of-yes-brooklyn",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-19T00:02:10.571Z"
+    "lastResearchedAt": "2026-05-19T00:09:03.213Z"
   },
   {
     "id": "turks-inn-bushwick",
@@ -16300,46 +16300,51 @@
   {
     "id": "mood-ring-bushwick",
     "name": "Mood Ring",
-    "desc": "Astrology-themed Bushwick cocktail bar with rotating zodiac specials and back-room dance floor.",
-    "longDesc": "Women-owned Bushwick cocktail bar with a Wong Kar-wai dim, retro-chic aesthetic and a rotating Astrology Special cocktail ($15) that changes with the zodiac calendar. Front lounge for drinks, back room flips into a DJ/dance space on weekends, plus karaoke, live music, and photo-booth nights. Walkable pre-game for House of Yes / Sultan Room nights deeper in Bushwick.",
-    "url": "https://www.moodringnyc.club/",
+    "desc": "Astrology-themed Bushwick cocktail bar with zodiac-rotating drinks and a sultry, cinematic backroom.",
+    "longDesc": "Mood Ring is a tarot-and-zodiac-coded cocktail bar on Myrtle Ave whose specialty menu features a monthly cocktail tied to the current astrological sign, plus a small Chinese-leaning food menu. The space splits into a candle-lit front lounge and a back room that turns into a dance floor late, and it's an established LGBTQ+ favorite. Walkable from Syndicated (about 8 min on foot) and well-suited as a post-film nightcap.",
+    "url": "https://www.moodringnyc.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "chill",
       "curious",
-      "photo",
       "romantic"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$$",
     "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "Fri-Sat 18:00-04:00, Sun 18:00-02:00",
-    "notes": "1260 Myrtle Ave, Brooklyn NY 11221 (Yelp). Signature rotating Astrology Special cocktail $15, changes with zodiac sign (p2bars). Back room becomes dance floor on weekends; karaoke + DJ nights frequent (Yelp/p2bars). Solid walking-distance warm-up before House of Yes (2 Wyckoff Ave, ~12 min walk) or Sultan Room (234 Starr St, ~15 min walk). Street parking available on Myrtle/Hart side streets on weekends but plan to circle; alt: paid lot at Myrtle-Broadway.",
+    "notes": "1260 Myrtle Ave, Bushwick. Specialty cocktail menu rotates monthly with the zodiac sign (Bushwick Daily, Time Out). Sultry/cinematic interior, dance-friendly back room, queer-welcoming crowd (Travel Gay, NYC Tourism). Pairs natively with a Syndicated film slot at 40 Bogart-area — same Myrtle/Bushwick walkshed. Street parking is realistic on weekend nights along Myrtle east of the JMZ tracks. Cash-friendly but cards accepted.",
     "sources": [
       {
-        "url": "https://www.moodringnyc.club/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://bushwickdaily.com/bars/4863-mood-ring-bushwick/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/mood-ring-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://p2bars.com/bars-near-me/mood-ring/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.timeout.com/newyork/blog/an-astrology-themed-bar-is-coming-to-bushwick-080717",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://bushwickdaily.com/bars/4957-mood-ring-astrology-bar-bushwick/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.nyctourism.com/nightlife/mood-ring/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.travelgay.com/venue/mood-ring",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T23:23:42.887Z"
+    "lastResearchedAt": "2026-05-19T00:11:16.226Z"
   },
   {
     "id": "bagel-pub-sunset-park",
@@ -28540,47 +28545,47 @@
   {
     "id": "robertas-bushwick",
     "name": "Roberta's",
-    "desc": "Iconic Bushwick wood-fired Neapolitan pizza in a graffiti-covered cinder-block hangout — 3 blocks from Sobre Masa.",
-    "longDesc": "Roberta's has been Bushwick's flagship destination pizzeria since 2008, slinging wood-fired Neapolitan pies (the Bee Sting with soppressata, chili, and honey is the canonical order) inside a graffiti-tagged warehouse complex with a back garden and tiki bar. Michelin-listed and consistently ranked among Brooklyn's best, the kitchen also turns out seasonal pastas and small plates. It sits 0.3 miles (a 2-minute drive or 5-minute walk) from Sobre Masa at 47 Bogart St, making it the natural Bushwick second-stop or pre-dinner anchor (source: robertaspizza.com, Michelin Guide).",
+    "desc": "Wood-fired Neapolitan pizza in a sprawling Bushwick compound with a garden, bar, and radio station",
+    "longDesc": "Roberta's is the Michelin Bib Gourmand pizzeria that helped put Bushwick on the food map — black-charred Neapolitan pies (Margherita, Bee Sting, white pizzas) from a wood-burning oven housed in a shipping-container warren with a rooftop garden, outdoor bar, and on-site radio station. Group-friendly with massive seating, a few-minute walk from Syndicated for a dinner-then-movie combo, and one of the best photo-op restaurant spaces in the borough.",
     "url": "https://www.robertaspizza.com/bushwick",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.prod.website-files.com/696159b904660542e3efba81/6966a224e1ce382816a7aaea_header-image-desktop.avif",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "foodie",
       "chill",
-      "curious"
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "75-90 min",
+    "duration": "60-90 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "Sat 11:00-23:00, Sun 11:00-22:00",
-    "notes": "261 Moore St, Bushwick — 0.3 mi / ~2 min drive from Sobre Masa, perfect cluster anchor (source: Yelp). Walk-ins always accepted, no reservations needed for the pizza room (source: robertaspizza.com). Wood-fired Neapolitan pies, Bee Sting is the signature; back garden + tiki bar open in warmer months (source: Michelin Guide). Street parking on Moore/Bogart is generally findable on weekend evenings — this is a warehouse zone, not residential.",
+    "notes": "261 Moore St, Brooklyn NY 11206 — street parking on Moore/Bogart, usually findable on weekends; no reservations for the main pizzeria so expect a wait at peak (Yelp, Infatuation). 5-min walk to Syndicated Bar Theater Kitchen makes this a natural Bushwick dinner anchor. Tasting-menu sibling Blanca is on the same compound (separate reservation). Michelin Bib Gourmand (guide.michelin.com).",
     "sources": [
       {
         "url": "https://www.robertaspizza.com/bushwick",
-        "accessed": "2026-05-18T23:40:00Z"
-      },
-      {
-        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/roberta-s",
-        "accessed": "2026-05-18T23:40:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/robertas-brooklyn-2",
-        "accessed": "2026-05-18T23:40:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/guides/a-guide-to-the-best-brooklyn-pizza",
-        "accessed": "2026-05-18T23:40:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/robertas",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/brooklyn/restaurant/roberta-s",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T23:35:38.867Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T00:13:28.685Z"
   },
   {
     "id": "obentoyasan-japan-village",
@@ -49045,5 +49050,93 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-19T00:07:10.740Z"
+  },
+  {
+    "id": "tacos-el-bronco-truck",
+    "name": "Tacos El Bronco (Truck)",
+    "desc": "Cash-only sidewalk truck slinging birria, lengua and al pastor tacos under a heated streetside tent",
+    "longDesc": "The truck arm of the El Bronco family — parked at 37th St & 5th Ave in Sunset Park, about five minutes east of Industry City — focuses tightly on tacos and birria rather than the full Mexican menu its 4th Ave sit-down sibling runs. In cold months an attached structure with eating ledges goes up curbside, so it functions as a near-permanent stand. Cash only, $2-4 a taco, late-night hours that stretch to 2am make it the corpus's late-stop counterpoint to the seated Bronco and to nearby Tulcingo.",
+    "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "13:00-02:00",
+    "notes": "Truck operation distinct from the El Bronco sit-down restaurant at 4324 4th Ave (Yelp). Cash only — bring small bills (Eat the World NYC). Specializes in tacos + birria; lengua, al pastor, suadero are house standouts (Johnny Prime). Weekend hours Sat/Sun 13:00-02:00; Wed opens late at 18:00. Heated curbside structure with ledges goes up in cold months — eat-on-foot rather than sit-down. ~5 min drive from IC, on-street parking on 5th Ave side streets. Phone (917) 405-5759.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "http://www.eattheworldnyc.com/2013/10/tacos-el-bronco-truck.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.johnnyprimesteaks.com/sunset-park-taco-crawl/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://onthegrid.city/brooklyn/sunset-park/tacos-el-bronco",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://tacos-el-bronco.foodjoyy.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T00:15:32.912Z"
+  },
+  {
+    "id": "tacos-el-bronquito",
+    "name": "Tacos El Bronquito",
+    "desc": "Smaller offshoot of Sunset Park's legendary Tacos El Bronco — campechanos, al pastor, $3 tacos at the R-train corner.",
+    "longDesc": "The brick-and-mortar little sibling of Tacos El Bronco, parked at 4th Ave and 45th St as a quick-stop for R-train riders and IC drivers (eattheworldnyc). The menu is a stripped-down, truck-style lineup of tacos, burritos, tostadas and tortas — $3 doubled-up tortillas with onion/cilantro, with the campechanos (salty beef + pork sausage + crispy chicharrón) and al pastor running ahead of the pack (Infatuation). Tight, no-frills room; better as a takeout grab than a sit-down, and it slots cleanly into a three-Bronco crawl with the 4324 4th Ave flagship and the truck.",
+    "url": "https://www.yelp.com/biz/tacos-el-bronquito-brooklyn",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "10:00-22:00",
+    "notes": "Walkable from IC if you wanted (≈0.6 mi) but easier to drive given the Bronco crawl. Pair with Tacos El Bronco flagship at 4324 4th Ave (10 blocks south) and the truck for a three-stop comparison tasting (Infatuation). Cash + cards. 3.5★ on Yelp — the dip vs. the flagship is mostly about atmosphere, not the salsa (Yelp).",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/tacos-el-bronquito-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/tacos-el-bronco",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "http://www.eattheworldnyc.com/2016/07/tacos-el-bronquito.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d14196251-Reviews-Tacos_El_Bronquito-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T00:17:37.460Z"
   }
 ]
