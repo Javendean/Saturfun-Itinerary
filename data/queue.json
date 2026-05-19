@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Don Paco Lopez Panaderia 4703 4th Ave Sunset Park — Mexican bakery for pan dulce",
-    "reason": "Natural dessert/coffee follow-up on the same 4th Ave drag, walkable from Bronco for a multi-stop Mexican track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:39:31.025Z"
-  },
-  {
-    "topic": "Panaderia Mi Mexico Pequeño 4513 5th Ave Sunset Park Brooklyn",
-    "reason": "Actual 5th Ave Mexican bakery — gives the cluster a true 5th-Ave-strip pan dulce alternative if Don Paco is closed Sunday afternoon",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:41:38.341Z"
-  },
-  {
-    "topic": "Tortilleria Mexicana Los Hermanos Bushwick weekend tour",
-    "reason": "Borough-wide Mexican depth: working tortilla factory with taco counter, expands the Mexican-food corpus beyond Sunset Park",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:41:38.341Z"
-  },
-  {
-    "topic": "Sunset Park 5th Ave Mexican corridor walking food crawl best stops",
-    "reason": "Lets the planner build a multi-stop Mexican track instead of single venues — useful for the geographic-cluster track model",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:41:38.341Z"
-  },
-  {
-    "topic": "Mesa Coyoacan Williamsburg",
-    "reason": "Upscale sit-down Mexican in Williamsburg — completes the Mexican-vibe spectrum (factory floor → bakery → date-night) inside the 15-min-drive cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T02:43:54.156Z"
-  },
-  {
     "topic": "Roberta's Bushwick",
     "reason": "Adjacent Bushwick destination — once a guest has driven 22 min to Starr St, Roberta's wood-fired pizza is a 6-min hop and unlocks a full Bushwick track instead of a one-stop detour",
     "requestedBy": "agent",
@@ -20986,5 +20956,95 @@
     "reason": "Pan dulce + tres leches finish for any Sunset Park Mexican-corridor track",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-19T00:17:37.495Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos Bushwick — handmade tortillas + tacos at the factory",
+    "reason": "Caps a Mexican-track run with a 15-min drive to a destination tortilleria/taqueria; pairs with Don Paco's pan dulce as a take-home leg",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:19:42.275Z"
+  },
+  {
+    "topic": "Tacos El Bronco 4324 4th Ave Sunset Park — al pastor trompo on 4th Ave",
+    "reason": "Confirms the same 4th Ave corridor anchor that justifies pairing Don Paco as the dessert stop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:19:42.275Z"
+  },
+  {
+    "topic": "Sunset Park (the park itself) Manhattan skyline overlook",
+    "reason": "Free 5-min photo-vibe stop between Bronco and Don Paco, adds a 'photo' beat to the Mexican track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:19:42.275Z"
+  },
+  {
+    "topic": "Tortilleria Mexicana Los Hermanos Bushwick (fresh tortillas + tacos counter)",
+    "reason": "Pairs with the Sunset Park Mexican corridor as a second-borough Mexican counterpoint for itineraries that swing east",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:22:14.806Z"
+  },
+  {
+    "topic": "Tacos El Bronco 4324 4th Ave Sunset Park (al pastor trompo)",
+    "reason": "One block from Mi Mexico Pequeño — completes a pan dulce + al pastor walking pair on the 4th/5th Ave Sunset Park strip",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:22:14.806Z"
+  },
+  {
+    "topic": "La Gran Via Bakery 4516 5th Ave Sunset Park (Mexican-Salvadoran panaderia, directly across the street)",
+    "reason": "Literal across-the-street comparison venue — lets the corpus offer a 'two-bakery taste test' micro-stop on the same block",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:22:14.806Z"
+  },
+  {
+    "topic": "Mesa Coyoacan Williamsburg modern Mexican dinner",
+    "reason": "Adds a sit-down Mexican option to balance the counter-service tortillería; expands Mexican depth beyond Sunset Park and Bushwick",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:24:03.086Z"
+  },
+  {
+    "topic": "Chilo's Bed-Stuy taco bar with backyard",
+    "reason": "Pairs naturally with a Bushwick stop in the same drive cluster; gives the corpus a backyard/outdoor Mexican vibe",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:24:03.086Z"
+  },
+  {
+    "topic": "Bushwick weekend parking + adjacent stops near Starr St (Roberta's, House of Yes, Syndicated)",
+    "reason": "Builds a Bushwick mini-cluster around Los Hermanos so the track has a logical 3-stop arc instead of a one-off taco run",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:24:03.086Z"
+  },
+  {
+    "topic": "Tacos Matamoros Sunset Park 5th Avenue Brooklyn",
+    "reason": "Sit-down 5th Ave staple with mole and seafood — complements El Bronco's quick-service style for a two-stop crawl",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:26:08.686Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia 5th Avenue Sunset Park Mexican bakery",
+    "reason": "Pan dulce and tres leches on 5th Ave — turns the taco crawl into a sweet-finish loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:26:08.686Z"
+  },
+  {
+    "topic": "Tacos Los Poblanos Sunset Park 5th Avenue late night",
+    "reason": "Offal-forward (lengua, oreja, pastor) counterpoint to El Bronco — late-night third stop option",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:26:08.686Z"
+  },
+  {
+    "topic": "Oxomoco Greenpoint Mexican wood-fired Michelin",
+    "reason": "Completes the Mexican-spectrum 'upscale' tier at the higher end — Michelin-starred, garden room, ~15 min from IC; would let an itinerary scale a date night above Mesa Coyoacan.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:28:25.604Z"
+  },
+  {
+    "topic": "Casa Pública Williamsburg Mexican-Spanish cantina",
+    "reason": "Same 15-min-drive cluster, similar candlelit-cantina vibe but with a Spanish/Mexican mashup menu — useful as a substitute when Mesa Coyoacan is fully booked on weekends.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:28:25.605Z"
+  },
+  {
+    "topic": "La Superior Williamsburg traditional taqueria Berry St",
+    "reason": "Anchors the cheap-and-authentic end of the Williamsburg Mexican cluster — pairs with Mesa Coyoacan to give the corpus a $-vs-$$ choice inside the same zone.",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T00:28:25.605Z"
   }
 ]

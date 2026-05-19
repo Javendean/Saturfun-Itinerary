@@ -1960,33 +1960,36 @@
   {
     "id": "tacos-el-bronco",
     "name": "Tacos El Bronco",
-    "desc": "Sunset Park institution slinging al pastor, lengua, and birria into the early hours.",
-    "longDesc": "A neighborhood staple on 5th Ave (with a sibling truck and 4th Ave dining room nearby) known for its trompo-carved al pastor, mole poblano, tortas, and weekend birria. Cash-friendly counter ordering, Spanish-first menu energy, and a steady late-night line of regulars make it the savory bookend before a Don Paco panaderia dessert stop. Park on 5th or the side streets in the 40s; spots open up between dinner waves.",
-    "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
+    "desc": "Sunset Park's iconic 5th Ave Mexican spot — al pastor and guacamole-piled tacos, late-night ready.",
+    "longDesc": "Tacos El Bronco started as a 2008 food cart on 5th Avenue and grew into a sit-down on 4th Ave plus a 5th Ave food truck — both within minutes of Industry City. Order the al pastor, suadero, or lengua tacos with extra guacamole; tortas and quesadillas are oversized and cheap. The kitchen runs late into the weekend, making it the natural anchor for a Sunset Park 5th Ave Mexican crawl.",
+    "url": "https://www.tacoselbroncony.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "chill"
+      "chill",
+      "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "13:00-02:00",
-    "notes": "Two nearby footprints on/near 5th Ave plus a sit-down at 4324 4th Ave; al pastor, lengua, tripe, mole, and birria are the move (Yelp). Weekend hours run until 2am, ideal as a pre-Don Paco savory anchor (Yelp, Grubhub). Street parking is plentiful in the 40s on weekend afternoons.",
+    "duration": "45-60 min",
+    "driveFromIC": "5 min",
+    "hoursWeekend": "11:00-02:00",
+    "notes": "Sit-down restaurant at 4324 4th Ave is the easiest weekend stop with street parking on 4th Ave/43rd St; food truck at 37th St & 5th Ave runs separate hours and is closer to IC on foot. Tacos $1.50-$4, tortas larger and shareable. Cash-friendly; expect a line late Friday/Saturday. Vegetarian by request (cheese, beans, rajas) but menu is meat-forward (Bklyner). Owner Mariano Tapia opened the original cart in 2008, now a Sunset Park landmark (Johnny Prime; On the Grid).",
     "sources": [
-      {
-        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
       {
         "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.grubhub.com/restaurant/tacos-el-bronco-5001-5th-avenue-brooklyn/8403144",
+        "url": "https://www.johnnyprimesteaks.com/sunset-park-taco-crawl/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://bklyner.com/get-best-taco-sunset-park-sunset-park/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -1997,7 +2000,7 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T23:27:19.297Z"
+    "lastResearchedAt": "2026-05-19T00:26:08.648Z"
   },
   {
     "id": "ba-xuyen",
@@ -5328,51 +5331,47 @@
   {
     "id": "don-paco-lopez-panaderia",
     "name": "Don Paco López Panadería",
-    "desc": "Three-generation Sunset Park Mexican bakery famous for shell-shaped conchas and rainbow trays of pan dulce.",
-    "longDesc": "Opened by Francisco 'Don Paco' López in 1991 at 4703 4th Ave, this family panadería is one of Brooklyn's most-cited spots for authentic Mexican sweet breads — conchas, orejas, campechanas, polvorones — recognized by The New York Times, Today Show, and Localish. Self-serve tongs and trays, cash-friendly, sugary cultural anchor of Sunset Park's Mexican corridor just a few blocks south of Industry City.",
+    "desc": "Third-generation Mexican bakery in Sunset Park — pan dulce, conchas, orejas, iced coffee.",
+    "longDesc": "Founded in 1991 by Francisco 'Don Paco' López, this Sunset Park staple traces its baking lineage back to 1932 Puebla. Glass cases overflow with conchas, campechanas, orejas, mantecadas, nidos, and seasonal pan de muerto / rosca de reyes, plus tortas and tamales for a savory bite. A natural dessert-and-coffee stop after a Bronco Tacos run on the same 4th Ave drag.",
     "url": "https://donpacolopez.com/",
-    "photoUrl": "",
+    "photoUrl": "https://donpacolopez.com/cdn/shop/files/IMG_2336.jpg?v=1727920734&width=1600",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
     "duration": "20-30 min",
-    "driveFromIC": "5 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "Sat 5:30-19:00, Sun 5:30-13:00",
-    "notes": "Sunset Park flagship at 4703 4th Ave — second location is Spanish Harlem, third opened in Westbury LI in 2024 (donpacolopez.com/about). Sunday closes at 1pm so it's a morning-only stop on Sundays (Yelp). Pair with Tacos El Bronco or Industry City Food Hall — street parking on 4th Ave is doable on weekend mornings (Yelp/Tripadvisor). Conchas are the signature; campechanas and orejas are the locals' favorites (Infatuation/Viewing NYC).",
+    "notes": "4703 4th Ave at 47th St in Sunset Park — short hop south of IC on the same 4th Ave corridor as Bronco Tacos, so it slots cleanly into a Mexican-track afternoon (Yelp). Cash-friendly, counter service; The Infatuation calls out the conchas and iced coffee as standouts. Sunday closes early at 1pm — schedule before then or hit on Saturday (donpacolopez.com).",
     "sources": [
       {
         "url": "https://donpacolopez.com/",
-        "accessed": "2026-05-18"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://donpacolopez.com/pages/about-us",
-        "accessed": "2026-05-18"
-      },
-      {
-        "url": "https://www.yelp.com/biz/don-paco-lopez-panaderia-brooklyn",
-        "accessed": "2026-05-18"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.theinfatuation.com/new-york/reviews/don-paco-lopez-panaderia",
-        "accessed": "2026-05-18"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://viewing.nyc/watch-this-family-bakery-in-sunset-park-makes-some-of-brooklyns-favorite-conchas/",
-        "accessed": "2026-05-18"
+        "url": "https://www.yelp.com/biz/don-paco-lopez-panaderia-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T23:48:54.856Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T00:19:42.192Z"
   },
   {
     "id": "thanh-da-sandwich",
@@ -10016,57 +10015,44 @@
   },
   {
     "id": "tortilleria-mexicana-los-hermanos",
-    "name": "Tortilleria Mexicana Los Hermanos",
-    "desc": "Cult Bushwick tortilla factory + BYOB taqueria — tacos served seconds off the line",
-    "longDesc": "A working tortilla factory at 271 Starr St where you eat at folding tables inside the production room and watch fresh corn tortillas come off the line. Anthony Bourdain once called these the best tacos he had in New York; the steak, chorizo, and pork carnitas tacos run around $2.25 each, and it stays cash-only and BYOB. It is the no-frills Bushwick counterpart to a place like El Bronco — same authenticity ethos, different zone.",
-    "url": "https://www.google.com/maps/place/Tortilleria+Mexicana+Los+Hermanos/@40.7048,-73.9282,17z/",
+    "name": "Tortillería Mexicana Los Hermanos",
+    "desc": "Tacos and tortas served inside a working Bushwick tortilla factory.",
+    "longDesc": "Order at the counter inside a fully functioning tortilla factory at 271 Starr St — tacos, tostadas and tortas filled with carnitas, chorizo, suadero and salted beef on tortillas made feet away. A few tables, paper plates, string lights and the machinery clacking behind the line; one of the city's most authentic working-kitchen taco experiences.",
+    "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "bushwick",
     "vibe": [
       "foodie",
       "curious",
-      "photo"
+      "chill"
     ],
     "dietary": [
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "22 min",
     "hoursWeekend": "11:00-23:30",
-    "notes": "Cash only + BYOB — bring small bills and your own beer/mezcal (Infatuation, Atlas Obscura). Tacos ~$2.25, tostadas ~$2.50, quesadillas ~$3.25 — full meal under $15 (Yelp, Tripadvisor). Tortillas are made-to-order and corn-only, so naturally gluten-free; vegetarian options via bean/cheese fillings. Dining is a few tables tucked inside the working factory at 271 Starr St near the Jefferson L — counter ambience, not date-night (Bushwick Daily, Village Voice). Weekend street parking on Starr/Wilson is generally findable; avoid double-parking near the loading bay.",
+    "notes": "Counter service inside an active tortilla factory; ~8 mi from Industry City via BQE, weekend street parking on Starr/Wyckoff is usually doable (NYC Tourism). Cash-friendly, no-frills room; tortillas come straight off the conveyor (Time Out, Yelp). Pair with a Bushwick gallery/coffee stop to round out the cluster.",
     "sources": [
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tortilleria-mexicana-los-hermanos",
-        "accessed": "2026-05-18"
-      },
-      {
-        "url": "https://www.atlasobscura.com/places/tortilleria-mexicana-los-hermanos",
-        "accessed": "2026-05-18"
-      },
-      {
         "url": "https://www.nyctourism.com/restaurants/tortilleria-mexicana-los-hermanos/",
-        "accessed": "2026-05-18"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/tortilleria-mexicana-los-hermanos",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2",
-        "accessed": "2026-05-18"
-      },
-      {
-        "url": "https://bushwickdaily.com/food-and-drink/6685-los-hermanos-tacos-tortilla-factory-bushwick/",
-        "accessed": "2026-05-18"
-      },
-      {
-        "url": "https://www.villagevoice.com/bushwick-tacos-redux-tortilleria-mexicana-los-hermanos/",
-        "accessed": "2026-05-18"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T23:20:41.893Z"
+    "lastResearchedAt": "2026-05-19T00:24:03.046Z"
   },
   {
     "id": "tulcingo-sunset-park",
@@ -34184,17 +34170,17 @@
   },
   {
     "id": "mesa-coyoacan",
-    "name": "Mesa Coyoacán",
-    "desc": "Williamsburg modern Mexican from Oaxaca-born chef Ivan García — handmade tortillas, mole poblano, candlelit communal tables.",
-    "longDesc": "Chef-owner Ivan García's love letter to his Mexico City neighborhood, plating Oaxaca- and Veracruz-leaning classics like chiles en nogada, pollo con mole poblano, and enchiladas verdes with Oaxacan cheese. Tortillas are pressed in-house and the bar pours house-infused premium tequila margaritas that Time Out NYC ranks among the city's best. The aqua-tiled Graham Ave room runs loud and candlelit on weekends — communal tables, dance music, and a Michelin Guide nod for 'spirited cooking.'",
+    "name": "Mesa Coyoacan",
+    "desc": "Candlelit Williamsburg Mexican from a Coyoacán-born chef — handmade tortillas, infused-tequila margaritas, communal tables.",
+    "longDesc": "Chef Ivan Garcia's tribute to his Mexico City neighborhood, Mesa Coyoacan skews toward Oaxacan and Veracruzan flavors with overstuffed tacos, mole-driven plates and a deep agave bar of house-infused tequilas. The room runs warm and rustic with communal tables, candlelight and Latin dance music — a true sit-down date-night counterpoint to the Sunset Park Mexican-food-hall vibe. Weekend brunch (12–4) hands off cleanly to dinner service starting 5pm.",
     "url": "https://www.mesacoyoacan.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "foodie",
       "romantic",
-      "curious"
+      "foodie",
+      "chill"
     ],
     "dietary": [
       "vegetarian"
@@ -34202,30 +34188,38 @@
     "priceBand": "$$",
     "duration": "75-90 min",
     "driveFromIC": "20 min",
-    "hoursWeekend": "12:00-16:00, 17:00-23:00",
-    "notes": "372 Graham Ave, East Williamsburg — BQE → Metropolitan exit from IC, ~20 min on weekends (mesacoyoacan.com). Handmade tortillas, mole poblano, chiles en nogada are the signatures; margaritas with house-infused tequila called out by Time Out NYC. Michelin Guide: 'spirited cooking is simply a joy.' Communal tables + candlelight = party-leaning energy after 8pm — pair with an earlier counter/masa stop in S. Williamsburg or Bushwick. Weekend metered parking on Graham north of Metropolitan, plus unrestricted side streets (Devoe, Ainslie).",
+    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00 (brunch 12-4, dinner from 5)",
+    "notes": "372 Graham Ave at Skillman, East Williamsburg edge — Graham Ave has reliable weekend street parking after the brunch peak (Yelp). Named for the Coyoacán neighborhood of CDMX where chef Ivan Garcia grew up (NYC Tourism). Communal tables + dance music = lively, not quiet-romantic — good for a foursome, not a first date that needs to talk (Time Out). Reservations via OpenTable; brunch plate special lets each guest pick carne asada / carnitas / pescado / tinga / vegetarian, which solves mixed-diet groups (mesacoyoacan.com/brunchmenu).",
     "sources": [
       {
         "url": "https://www.mesacoyoacan.com/",
-        "accessed": "2026-05-18T22:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.mesacoyoacan.com/brunchmenu",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.nyctourism.com/restaurants/mesa-coyoacan/",
-        "accessed": "2026-05-18T22:55:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/mesa-coyoacan",
-        "accessed": "2026-05-18T22:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/mesa-coyoacan-brooklyn",
-        "accessed": "2026-05-18T22:55:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/mesa-coyoacan",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.opentable.com/r/mesa-coyoacan-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T22:57:44.997Z"
+    "lastResearchedAt": "2026-05-19T00:28:25.568Z"
   },
   {
     "id": "casa-publica-williamsburg",
@@ -49138,5 +49132,46 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-19T00:17:37.460Z"
+  },
+  {
+    "id": "panaderia-mi-mexico-pequeno",
+    "name": "Panaderia Mi Mexico Pequeño",
+    "desc": "Tiny 5th Ave panaderia with daily-baked conchas, puerquitos, orejas and tamales verdes — open 6am–9:30pm every day",
+    "longDesc": "A neighborhood Sunset Park bakery on the 5th Ave corridor, fifteen blocks south of Industry City, turning out classic pan dulce — conchas, puerquitos, orejas, tacos de fruta — plus seasonal rosca/pan de muerto and tamales de salsa verde baked fresh daily. Prices are cheap, the room is bare-bones counter service, and conchas/tamales sell out fast so afternoon visits trend lean (Placejoys, Yelp). Open every day 6am–9:30pm, which makes it the reliable Sunday-afternoon pan dulce fallback if Don Paco Lopez is closed.",
+    "url": "https://maps.google.com/?q=Panaderia+Mi+Mexico+Peque%C3%B1o+4513+5th+Ave+Brooklyn",
+    "photoUrl": "https://cdn.placejoys.com/11300-oy-photo-1.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$",
+    "duration": "20-30 min",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "Sat-Sun 06:00-21:30",
+    "notes": "5th Ave & 45th St — straight shot south from IC on 5th Ave, ~1 mi (Google Maps). Counter service only, no seating. Cash-friendly, very cheap. Best window is morning when racks are full; conchas + tamales verdes sell out by mid-afternoon (Placejoys writeup, Yelp reviews). Acts as the always-open Sunday backup to Don Paco Lopez two blocks north on the same strip. Weekend street parking on 45th/46th Sts is usually findable.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/panaderia-mi-mexico-peque%C3%B1o-sunset-park",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://mi-mexico-pequeno.placejoys.com/",
+        "accessed": "2026-05-18"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/beest-mexican-bakeries-panaderias-nyc",
+        "accessed": "2026-05-18"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T00:22:14.759Z"
   }
 ]
