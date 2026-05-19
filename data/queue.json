@@ -1,35 +1,5 @@
 [
   {
-    "topic": "VinylCon NYC at Industry City June 13-14 2026",
-    "reason": "Same weekend/campus as BK Eats Here — natural rainy-day or post-food indoor pivot for the same itinerary slot",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:11:43.284Z"
-  },
-  {
-    "topic": "Ferry Food Fest 2026 at Brooklyn Army Terminal June 7",
-    "reason": "Adjacent waterfront food event 0.5 mi south of IC — fills June calendar for the foodie cluster",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:11:43.284Z"
-  },
-  {
-    "topic": "Industry City Gourmet Food and Drinks Tour (Saturday 4:30-7:30pm)",
-    "reason": "Recurring guided tasting tour that runs every IC Saturday — solid evergreen weekend anchor distinct from one-off festivals",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:11:43.284Z"
-  },
-  {
-    "topic": "Banhmigos / Banhmi Pro at 178 Lincoln Pl, Prospect Heights — banh mi specialist",
-    "reason": "Adds a Prospect Heights / Grand Army Plaza side anchor ~15 min drive northeast of IC, useful for north-side weekend tracks",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:14:12.726Z"
-  },
-  {
-    "topic": "Lotus Vietnamese Sandwiches, Park Slope — alt banh mi if Hanco's is mobbed",
-    "reason": "Backup Park Slope option in same 10-min radius for redundancy when Hanco's wait spikes",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:14:12.726Z"
-  },
-  {
     "topic": "Pho Hoai Bay Ridge — Vietnamese with sub-$6 banh mi",
     "reason": "Southwest anchor ~12 min south of IC for true west-routing weekend itineraries; cheap eats counterweight to pricier 7th Ave spots",
     "requestedBy": "agent",
@@ -21448,5 +21418,101 @@
     "reason": "Adds Thai/pad thai dimension to the IC fallback cluster beyond Japan Village",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-19T01:51:33.846Z"
+  },
+  {
+    "topic": "Japan Village at Industry City — food hall + market on same campus",
+    "reason": "Lunch anchor for VinylCon or BK Eats attendees who want a quieter sit-down option without leaving the campus",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:53:59.723Z"
+  },
+  {
+    "topic": "Avenue beer hall / Hometown Bar-B-Que Industry City",
+    "reason": "Post-VinylCon drink + meat stop on the same campus, weekend-friendly",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:53:59.723Z"
+  },
+  {
+    "topic": "Sunshine Laundromat pinball Greenpoint vs. Industry City alternative arcade",
+    "reason": "Rainy-day indoor activity adjacent to record-fair crowd; expands rainy-pivot inventory",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:53:59.723Z"
+  },
+  {
+    "topic": "Summer at the Terminal 2026 series at Brooklyn Army Terminal — full event lineup",
+    "reason": "Same venue, same summer; fills more June–August dates in the IC-adjacent foodie cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:56:14.827Z"
+  },
+  {
+    "topic": "Bush Terminal Park waterfront — picnic + sunset spot 10 min from IC",
+    "reason": "Adjacent Sunset Park waterfront green space, pairs with BAT/IC for a foodie + walk track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:56:14.827Z"
+  },
+  {
+    "topic": "Sunset Park 5th Avenue taco + dim sum crawl (driving-friendly stretch)",
+    "reason": "Anchors a Sunset Park food crawl alternative when Ferry Food Fest isn't running, same 5-min-from-IC radius",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:56:14.827Z"
+  },
+  {
+    "topic": "Brooklyn Kura sake brewery tasting room Industry City",
+    "reason": "Standalone stop on this tour — first US-made craft sake brewery, worth its own entry for non-tour Saturdays",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:58:46.072Z"
+  },
+  {
+    "topic": "Fort Hamilton Distillery whiskey tasting room Industry City",
+    "reason": "Local distillery inside IC with its own tasting hours — independent anchor for drinks-focused itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:58:46.073Z"
+  },
+  {
+    "topic": "Japan Village food hall Industry City Saturday",
+    "reason": "Mini Japanese marketplace inside IC with multiple food stalls — a half-track unto itself",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:58:46.073Z"
+  },
+  {
+    "topic": "Lilac Chocolates Industry City bonbons",
+    "reason": "Artisan chocolatier inside IC — strong photo/foodie stop and gift pickup for drive-home",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:58:46.073Z"
+  },
+  {
+    "topic": "Hanco's Vietnamese Sandwich + Pho — 350 7th Ave / 134 Smith St Brooklyn",
+    "reason": "Sit-down Vietnamese alternative in Park Slope / Cobble Hill cluster, balances Banhmigos' takeout-only format",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:01:01.080Z"
+  },
+  {
+    "topic": "Olmsted — 659 Vanderbilt Ave, Prospect Heights",
+    "reason": "Higher-end dinner anchor in the same Prospect Heights cluster to round out a north-side weekend track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:01:01.080Z"
+  },
+  {
+    "topic": "Brooklyn Museum / Grand Army Plaza Greenmarket Saturday",
+    "reason": "Weekend cultural+market anchor 5 min walk from Banhmigos, completes a Prospect Heights driving-friendly track",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:01:01.080Z"
+  },
+  {
+    "topic": "Ba Xuyên bánh mì, Sunset Park 8th Ave",
+    "reason": "Gold-standard Brooklyn bánh mì 6 min from IC — natural primary if both Park Slope options are jammed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:03:04.447Z"
+  },
+  {
+    "topic": "Falansai, Bushwick — modern Vietnamese tasting alternative",
+    "reason": "Upgrades the Vietnamese track from counter-service to a sit-down dinner anchor for the same itinerary",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:03:04.447Z"
+  },
+  {
+    "topic": "Hanco's Park Slope 7th Ave — re-research current menu and wait patterns",
+    "reason": "Primary Park Slope banh mi pick; needs paired entry so the backup logic is symmetric",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T02:03:04.447Z"
   }
 ]
