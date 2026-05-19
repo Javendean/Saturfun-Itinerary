@@ -16330,11 +16330,11 @@
   },
   {
     "id": "bagel-pub-sunset-park",
-    "name": "Bagel Pub (Sunset Park)",
-    "desc": "Hand-rolled, kettle-boiled NY bagels directly across from Industry City — the IC breakfast anchor.",
-    "longDesc": "Cozy Sunset Park outpost of the Brooklyn-born Bagel Pub mini-chain, sitting at 313 36th St directly opposite the Industry City campus. Hand-rolled, kettle-boiled bagels with the full schmear/sandwich menu plus coffee — a no-fuss early-morning anchor before the food halls open. Limited outdoor seating; grab-and-go is the move on a busy weekend.",
+    "name": "Bagel Pub — Sunset Park",
+    "desc": "6:30 AM weekend bagels + coffee a 5-minute walk from Industry City's main entrance.",
+    "longDesc": "A neighborhood bagel-and-coffee shop on the same block as Industry City, opening at 6:30 AM on weekends (saturfun-friendly for an overnight or early-start day). Classic NY hand-rolled bagels with house cream cheeses, breakfast sandwiches, and espresso drinks — order at the counter and walk back to IC's courtyards or the Bush Terminal Piers waterfront with food in hand.",
     "url": "https://www.bagelpub.com/locations",
-    "photoUrl": "https://cdn.prod.website-files.com/69133016872682c413a27671/6919db65b4a986f03198119a_3Y1A5180%20Resize%20Photo.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
@@ -16345,32 +16345,36 @@
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "30-45 min",
+    "duration": "20-30 min",
     "driveFromIC": "2 min",
     "hoursWeekend": "06:30-15:30",
-    "notes": "Effectively part of the IC anchor cluster — same block, opposite side of 36th St (bagelpub.com/locations). Hand-rolled, kettle-boiled bagels with a real bagel-shop feel rather than a food-hall stall (tripadvisor). Weekend hours 6:30AM-3:30PM make this a breakfast/late-brunch anchor only — pair with Japan Village or IC Food Hall for mid-day, not dinner. Street parking on 36th St is usually findable Saturday morning before 10AM.",
+    "notes": "Same block as Industry City — ~0.4 mi / ~5-min walk from IC's 33rd St entrance, ~2 min by car (Google Maps). 6:30 AM Sat/Sun open is earlier than most options in the cluster (Bagel Pub locations page). Order ahead via Grubhub/Uber Eats/Seamless if doing a fast pickup before driving elsewhere (Grubhub, Uber Eats). 98+ Yelp reviews, 4-star range as of April 2026 (Yelp). Park on 36th St or 37th St curbside — usually open weekend mornings.",
     "sources": [
       {
         "url": "https://www.bagelpub.com/locations",
-        "accessed": "2026-05-16T18:45:00Z"
-      },
-      {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d21064645-Reviews-Bagel_Pub-Brooklyn_New_York.html",
-        "accessed": "2026-05-16T18:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/bagel-pub-brooklyn-3",
-        "accessed": "2026-05-16T18:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://industrycity.com/eat-drink/",
-        "accessed": "2026-05-16T18:45:00Z"
+        "url": "https://www.grubhub.com/restaurant/bagel-pub-313-36th-st-brooklyn/1465088",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.ubereats.com/store/bagel-pub-36th-st/RN3Ea5_gXnyQ5zWIKqLfFg",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d21064645-Reviews-Bagel_Pub-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-16T18:26:52.470Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:22:44.925Z"
   },
   {
     "id": "industry-city-2nd-ave-lot",
@@ -34171,44 +34175,32 @@
   {
     "id": "mesa-coyoacan",
     "name": "Mesa Coyoacan",
-    "desc": "Candlelit Williamsburg Mexican from a Coyoacán-born chef — handmade tortillas, infused-tequila margaritas, communal tables.",
-    "longDesc": "Chef Ivan Garcia's tribute to his Mexico City neighborhood, Mesa Coyoacan skews toward Oaxacan and Veracruzan flavors with overstuffed tacos, mole-driven plates and a deep agave bar of house-infused tequilas. The room runs warm and rustic with communal tables, candlelight and Latin dance music — a true sit-down date-night counterpoint to the Sunset Park Mexican-food-hall vibe. Weekend brunch (12–4) hands off cleanly to dinner service starting 5pm.",
+    "desc": "Warm, rustic Williamsburg sit-down Mexican with mole, chiles en nogada, and a full agave bar open late.",
+    "longDesc": "Mesa Coyoacan is a candlelit, brick-walled Mexican spot on Graham Ave serving Mexico City-style classics — pollo con mole poblano, chiles en nogada, enchiladas verdes, and camarones al ajillo. It runs a proper dinner service Fri/Sat until 11pm (Sun until 10pm) plus weekend brunch noon–4pm, giving groups a real sit-down alternative to counter-style taquerias. The room is rustic and intimate rather than industrial, with strong margaritas and a deep tequila/mezcal list (source: mesacoyoacan.com).",
     "url": "https://www.mesacoyoacan.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "romantic",
+      "chill",
       "foodie",
-      "chill"
+      "romantic"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$$",
-    "duration": "75-90 min",
+    "duration": "60-90 min",
     "driveFromIC": "20 min",
-    "hoursWeekend": "Sat 12:00-23:00, Sun 12:00-22:00 (brunch 12-4, dinner from 5)",
-    "notes": "372 Graham Ave at Skillman, East Williamsburg edge — Graham Ave has reliable weekend street parking after the brunch peak (Yelp). Named for the Coyoacán neighborhood of CDMX where chef Ivan Garcia grew up (NYC Tourism). Communal tables + dance music = lively, not quiet-romantic — good for a foursome, not a first date that needs to talk (Time Out). Reservations via OpenTable; brunch plate special lets each guest pick carne asada / carnitas / pescado / tinga / vegetarian, which solves mixed-diet groups (mesacoyoacan.com/brunchmenu).",
+    "hoursWeekend": "Fri-Sat 12:00-23:00, Sun 12:00-22:00 (brunch 12-4, dinner 5pm-close)",
+    "notes": "Address 372 Graham Ave, Brooklyn NY 11211 — north Williamsburg/East Williamsburg border (source: mesacoyoacan.com). Weekend brunch 12-4pm bridges the dinner gap so groups can land here off-peak. Street parking is the norm in this stretch of Graham; arrive before 7pm Fri/Sat for easier spots. Signature: chiles en nogada and mole poblano. Phone (718) 782-8171 (source: yelp.com).",
     "sources": [
       {
         "url": "https://www.mesacoyoacan.com/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.mesacoyoacan.com/brunchmenu",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/restaurants/mesa-coyoacan/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/mesa-coyoacan-brooklyn",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/mesa-coyoacan",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
@@ -34219,7 +34211,7 @@
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-19T00:28:25.568Z"
+    "lastResearchedAt": "2026-05-19T01:20:59.338Z"
   },
   {
     "id": "casa-publica-williamsburg",
@@ -49476,5 +49468,123 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-19T01:16:19.557Z"
+  },
+  {
+    "id": "dus-donuts-williamsburg",
+    "name": "Du's Donuts & Coffee (Williamsburg) — PERMANENTLY CLOSED",
+    "desc": "Chef Wylie Dufresne's creative donut shop at the William Vale; closed as of 2026 — do not route guests here.",
+    "longDesc": "Du's Donuts & Coffee operated on the plaza of the William Vale Hotel at 107 N 12th St, helmed by Wylie Dufresne (wd~50, Alder) and known for yeast-raised brioche donuts in flavors like tres leches, hot honey, and birthday cake. Yelp's listing was updated to CLOSED in April 2026, and the official site still carries the 2020 COVID 'temporarily closed' notice without any reopening — the shop never came back. Replace this slot with Peter Pan Donut & Pastry Shop in Greenpoint for the dawn-donut anchor.",
+    "url": "https://www.dusdonuts.com/location/dus/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "CLOSED",
+    "notes": "DO NOT PROMOTE — venue permanently closed (Yelp confirmed April 2026, official site stale on COVID closure since 2020). Logged so the corpus stops resurfacing Du's as a dawn-donut option. Dawn-donut slot remains unfilled; Peter Pan Donut & Pastry Shop (Greenpoint, 4:30am weekdays / 5am weekends, cash-only, iconic) is the strongest live replacement and is ~15 min drive from Industry City.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/dus-donuts-and-coffee-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.dusdonuts.com/location/dus/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T01:25:04.874Z"
+  },
+  {
+    "id": "winner-bakery-park-slope",
+    "name": "Winner Bakery",
+    "desc": "Park Slope viennoiserie + sourdough cafe — sourdough croissants, chocolate croissants, elevated egg-and-cheese muffins from 7 AM.",
+    "longDesc": "Winner's takeout bakery at 367 7th Ave is the South Slope outpost of chef Daniel Eddy's well-regarded cafe, opening at 7 AM daily with sourdough croissants ($5), dark chocolate croissants ($6.50), a rotating daily sourdough loaf, scones, and an upscale egg & cheese English muffin ($8.50) that Infatuation calls a serious upgrade on the McMuffin (theinfatuation.com). Takeout only with limited first-come outdoor seating — grab a pastry and coffee, then drive 12 minutes back down to Industry City or up to Prospect Park.",
+    "url": "https://www.winner.nyc/location/winner-bakery/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "12 min",
+    "hoursWeekend": "07:00-20:00",
+    "notes": "Sourdough croissant $5, chocolate croissant $6.50, cinnamon roll $5.50, egg & cheese English muffin $8.50, currant cream scone $5 (winner.nyc). Open 365 days a year, takeout only with limited outdoor seating. Lines form throughout the morning; items drop progressively so don't show up at noon expecting the full pastry case (theinfatuation.com, 7.9/10). Sibling location 'Runner Up' also exists.",
+    "sources": [
+      {
+        "url": "https://www.winner.nyc/location/winner-bakery/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/winner",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/winner-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:27:15.732Z"
+  },
+  {
+    "id": "grand-army-plaza-greenmarket",
+    "name": "Grand Army Plaza Greenmarket",
+    "desc": "Year-round Saturday farmers market at Prospect Park's NW gateway — 35+ regional producers, since 1989.",
+    "longDesc": "GrowNYC's flagship Brooklyn Greenmarket operates every Saturday year-round at the northwest entrance to Prospect Park, with roughly 35+ Northeast farms selling vegetables, fruit, dairy, meat, bread, honey, flowers, and specialty goods. The plaza setting puts you steps from the Brooklyn Public Library, Brooklyn Museum, and Brooklyn Botanic Garden, so it pairs naturally with a longer Saturday-in-the-park run. Accepts SNAP/EBT with a Health Bucks bonus (spend $2, get $2 back, up to $10/day).",
+    "url": "https://grownyc.org/locations/grand-army-plaza-greenmarket/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "park-slope",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "priceBand": "$",
+    "duration": "45-90 min",
+    "driveFromIC": "14 min",
+    "hoursWeekend": "Sat 08:00-16:00; Sun closed",
+    "notes": "Saturday-only — fills the weekend slot opposite Smorgasburg's Sunday at the same Prospect Park gateway. Year-round operation since 1989, ~35+ vendors (GrowNYC). Sits between Park Slope and Prospect Heights at Plaza St West & Flatbush Ave; weekend metered street parking on the side streets off Plaza St West and Eastern Pkwy, plus paid lot at the Brooklyn Museum a short walk east. Clothing collection runs Sat 08:00-14:00 (GrowNYC). Pairs well with a Botanic Garden / Prospect Park stroll after shopping.",
+    "sources": [
+      {
+        "url": "https://grownyc.org/locations/grand-army-plaza-greenmarket/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.prospectpark.org/visit-the-park/things-to-do/greenmarket/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/grand-army-plaza-greenmarket-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T01:29:26.224Z"
   }
 ]
