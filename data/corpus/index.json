@@ -8022,46 +8022,42 @@
   {
     "id": "brooklyn-botanic-garden",
     "name": "Brooklyn Botanic Garden",
-    "desc": "52-acre garden behind the Brooklyn Museum — cherry esplanade, Japanese pond, fragrance garden",
-    "longDesc": "Right next door to the Brooklyn Museum and sharing its Eastern Parkway parking footprint, BBG packs 52 curated acres into one Saturday-friendly loop: the Cherry Esplanade (peak late April–early May), the Japanese Hill-and-Pond Garden, the Shakespeare Garden, and the Steinhardt Conservatory. The 990 Washington Ave lot ($7 first hour, capped at $20) sits at the back gate, so a museum + garden double-feature only requires moving the car once. Weekend cherry-bloom peak gets crowded — arrive before 10am or grab Fridays before noon when admission is free.",
-    "url": "https://www.bbg.org/visit",
+    "desc": "52-acre garden adjacent to Smorgasburg's Breeze Hill — cherry esplanade, Japanese pond, rose garden.",
+    "longDesc": "Brooklyn Botanic Garden sits directly across Flatbush Ave from Prospect Park's Breeze Hill, where Smorgasburg sets up Saturdays/Sundays — making it the natural extension that turns a 90-min food crawl into a half-day track. Weekends run 10am-6pm with extended 8am openings through May 10, 2026 during cherry-blossom season. A same-day BBG ticket also gets you into the Brooklyn Museum next door (Museum+Garden combo), if you want to push the day further.",
+    "url": "https://www.bbg.org/visit/hours",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "prospect-heights",
     "vibe": [
       "chill",
+      "curious",
       "photo",
-      "romantic",
-      "curious"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$$",
-    "duration": "1.5-2.5 hr",
-    "driveFromIC": "15 min",
-    "hoursWeekend": "10:00-18:00 (8:00 open through May 10)",
-    "notes": "Adults $22 gate / $23.67 online; students+seniors $16; under 12 free; Fridays before noon free (bbg.org). Main lot at 900 Washington Ave: $7/1hr, $10/2hr, $12/3hr, $14/4hr, max $20/day; 7am–10pm, no overnight (ggmcparking.com). Three entrances: 150 Eastern Pkwy, 455 Flatbush Ave, 990 Washington Ave. Cherry blossom peak draws thousands — visit pre-10am or midweek (bbg.org/collections/cherries). Pairs perfectly with Brooklyn Museum same-trip; ~15 min drive from Industry City via Prospect Expwy.",
+    "duration": "2-3 hr",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "10:00-18:00",
+    "notes": "Adult $18, seniors/students $12, under-12 free (bbg.org). Through May 10 2026 garden opens at 8am during bloom season — go early if pairing with 11am Smorgasburg opening. Last entry 30 min before close. Advance tickets recommended weekends. Walk from BBG Washington Ave entrance to Smorgasburg Breeze Hill is ~10 min. Same-day receipt unlocks Brooklyn Museum combo (https://www.bbg.org/visit/hours). Park on Washington Ave or use Brooklyn Museum garage.",
     "sources": [
       {
         "url": "https://www.bbg.org/visit/hours",
-        "accessed": "2026-05-16T08:25:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.bbg.org/visit/directions",
-        "accessed": "2026-05-16T08:25:00Z"
+        "url": "https://visitbrooklyn.nyc/now-in-bklyn/smorgasburg-2026",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.ggmcparking.com/locations/the-brooklyn-museum-and-botanic-garden",
-        "accessed": "2026-05-16T08:25:00Z"
-      },
-      {
-        "url": "https://www.bbg.org/collections/cherries",
-        "accessed": "2026-05-16T08:25:00Z"
+        "url": "https://www.theemptynestexplorers.com/blog/brooklyn-botanic-garden-visitor-guide",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T08:27:31.217Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T01:36:43.245Z"
   },
   {
     "id": "met-cloisters",
@@ -12895,9 +12891,9 @@
   },
   {
     "id": "sunset-park-hilltop",
-    "name": "Sunset Park (Hilltop View)",
-    "desc": "Brooklyn's second-highest point — west-facing hill with Statue of Liberty + Lower Manhattan skyline at golden hour",
-    "longDesc": "A 24.5-acre hilltop park between 41st–44th Streets and 5th–7th Avenues, sited on Brooklyn's second-highest natural rise. The crest near 5th Ave & 44th St delivers a panoramic sweep of Upper New York Bay — Lower Manhattan skyline, the Statue of Liberty, and the hills of Staten Island and New Jersey all line up with the setting sun. Free 3-hour parking on the north side makes it the rare Brooklyn skyline overlook you can actually drive to without circling.",
+    "name": "Sunset Park (Hilltop & Harbor View)",
+    "desc": "24.5-acre hilltop park between 41st-44th & 5th-7th Ave with a panoramic harbor + Statue of Liberty view.",
+    "longDesc": "Sunset Park sits on a 164-ft moraine, the highest natural point in this stretch of Brooklyn, offering a sweeping Saturday-morning view across New York Harbor to Lower Manhattan, the Statue of Liberty, and the Staten Island/New Jersey hills. Free, open-air, and built for lounging — there's a playground at 6th Ave, a 1936 Art Deco WPA pool (summer only), basketball/soccer, and shady lawn at the crest. Pairs perfectly as a pre-IC stop with Industry City just 10 blocks downhill.",
     "url": "https://www.nycgovparks.org/parks/sunset-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -12905,40 +12901,36 @@
     "vibe": [
       "chill",
       "photo",
-      "romantic"
+      "active"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "8 min",
-    "hoursWeekend": "06:00-01:00",
-    "notes": "Climb to the crest at 5th Ave & 44th St for the best sightline (nycgovparks.org). Free parking up to 3 hours in the lot on the north side of the park (parkopedia/prked). The park is the namesake of the surrounding neighborhood — 'derives its name from its vantage point on a hill facing west toward Upper New York Bay' (NYC Parks). Arrive ~30 min before sunset; bring a layer (exposed hilltop, breezy off the harbor). Pairs naturally with Pacificana dim-sum on 55th & 8th (~8 min south) as the closing stop of a Sunset Park track.",
+    "driveFromIC": "6 min",
+    "hoursWeekend": "06:00-21:00",
+    "notes": "Park itself is free and open dawn-to-dusk per NYC Parks (06:00-21:00) (nycgovparks.org). Saturday vibe is family-heavy: stroller laps, Mandarin/Spanish-speaking groups doing tai-chi at the crest, kids' soccer on the lower field. The hilltop bench row along the 41st/42nd St side is the photo spot — Liberty visible on clear days. Driving in from IC: head south on 3rd Ave, cut east on 41st up the hill to 5th Ave. Parking is curb-only street parking in the surrounding grid; 5th Ave commercial frontage is metered Muni-Meter on Saturdays, but residential side streets (42nd, 43rd off 6th/7th Ave) are typically free on weekends — alternate-side rules are suspended Sundays and reduced in this CB7 zone (nyc.gov/dot). Realistically grab a spot on 42nd or 43rd between 5th and 7th and walk in. Avoid 5th Ave proper midday Saturday — it's the neighborhood's busiest retail strip.",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/sunset-park",
-        "accessed": "2026-05-17"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/highlights/best-places-to-watch-sunsets-in-nyc-parks",
-        "accessed": "2026-05-17"
+        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
-        "accessed": "2026-05-17"
+        "url": "https://www.nycgovparks.org/parks/sunset-park/highlights/166",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.parkopedia.com/parking/neighborhood/Sunset-Park-New-York-City-Brooklyn-NY/",
-        "accessed": "2026-05-17"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Sunset_Park,_Brooklyn",
-        "accessed": "2026-05-17"
+        "url": "https://www.nyc.gov/html/dot/html/pr2012/pr12_39.shtml",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T04:25:51.446Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T01:41:00.777Z"
   },
   {
     "id": "sey-coffee-bushwick",
@@ -22425,45 +22417,41 @@
   },
   {
     "id": "tacos-el-bronco-5th-ave",
-    "name": "Tacos El Bronco (5th Ave)",
-    "desc": "Cash-only Sunset Park taqueria with $3 al pastor and campechanos, open until 1-2am",
-    "longDesc": "The original Tacos El Bronco grew out of a 2008 food cart on Sunset Park's 5th Avenue and still slings the neighborhood's benchmark double-tortilla tacos — al pastor, campechanos (beef, sausage, crispy pork skin), lengua, and chiles rellenos. The 5001 5th Ave storefront is a no-frills takeout-leaning room that stays open into the early morning on weekends, which makes it the closest late-night taco anchor to Industry City. Bring cash; expect short waits, generous portions, and the kind of $3-a-taco pricing that survives mostly on volume.",
-    "url": "https://www.grubhub.com/restaurant/tacos-el-bronco-5001-5th-avenue-brooklyn/8403144",
+    "name": "Tacos El Bronco (5th Ave Truck)",
+    "desc": "Cash-only Sunset Park taco truck slinging al pastor, suadero, and lengua tacos at 37th & 5th",
+    "longDesc": "Long-running Mexican food truck parked at the corner of 37th St & 5th Ave in Sunset Park, an icon of the neighborhood's Mexican food corridor. Best-known for $3-ish tacos (al pastor, suadero, lengua, chorizo) and rotating birria specials, all served on doubled-up corn tortillas with chopped onion, cilantro, and house salsas. Cash-only, walk-up window — quick stop after the Sunset Park Greenmarket or before driving back to Industry City.",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tacos+El+Bronco+5th+Ave+37th+St+Brooklyn",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "industry-city",
+    "zone": "park-slope",
     "vibe": [
       "foodie",
       "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
+    "duration": "20-30 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "11:00-02:00",
-    "notes": "Cash only (Infatuation 8.2/10 review). Originated as a 5th Ave food cart in 2008 (Mariano Tapia); the 5th Ave storefront sits at 5001 5th Ave, ~1.2 mi south of Industry City — a ~7-8 min drive on weekend evenings with street parking generally available on side streets off 5th Ave. Order al pastor + campechanos + a chile relleno; tacos run ~$3 each (Infatuation). Fri/Sat close 2am, weekday close 1am (Yelp hours on sibling 4th Ave location, confirmed late-night operation on Grubhub). Better late-night closer to IC than driving to Bushwick if the group is fading.",
+    "hoursWeekend": "13:00-late (typically until ~2:00, cash only)",
+    "notes": "Two affiliated Tacos El Bronco operations exist in Sunset Park: a brick-and-mortar at 4324 4th Ave (Sat 11:00-02:00) and the 5th Ave truck at 37th & 5th (Yelp lists Sat opening at 1:00 pm; closing time cut off but other days run to 1-2 am) (Yelp). On the Grid describes it as 'a simple, homestyle Mexican restaurant with a handful of food trucks dispersed throughout town' specializing in affordable tacos and birria, trucks running late near major subway stations, cash only (onthegrid.city). For a confirmed lunch slot the 4th Ave restaurant is the safer bet; the 5th Ave truck is a tighter post-greenmarket walk-up.",
     "sources": [
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tacos-el-bronco",
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.grubhub.com/restaurant/tacos-el-bronco-5001-5th-avenue-brooklyn/8403144",
+        "url": "https://onthegrid.city/brooklyn/sunset-park/tacos-el-bronco",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-19T01:19:03.276Z"
+    "lastResearchedAt": "2026-05-19T01:38:53.707Z"
   },
   {
     "id": "kelloggs-diner-williamsburg",
@@ -49586,5 +49574,91 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-19T01:29:26.224Z"
+  },
+  {
+    "id": "smorgasburg-wtc-fridays",
+    "name": "Smorgasburg World Trade Center (Friday)",
+    "desc": "Friday open-air food market by the Oculus — 40+ vendors, 11am-6pm, the Manhattan sibling if you missed Sunday Prospect Park.",
+    "longDesc": "The Friday Manhattan edition of Smorgasburg sets up on Fulton Street between Church and Greenwich (right under the Oculus wings) every Thursday and Friday from April 2 through September 4, 2026, 11am-6pm. Same operator as the Sunday Prospect Park flagship, but a tighter 40-vendor cut — including returning heavyweights like Red Hook Lobster Pound, Birria-Landia LES, Dosa, and Paella Party — and easy to combine with a quick Oculus / WTC plaza walk. A solid 'flexible-day' fallback for visitors who can't make the Brooklyn weekend markets.",
+    "url": "https://www.smorgasburg.com/locations",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "brooklyn-heights",
+    "vibe": [
+      "foodie",
+      "curious",
+      "photo"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "18 min",
+    "hoursWeekend": "Fri 11:00-18:00 (closed Sat/Sun — this is the Friday Manhattan market; Sunday lineup is at Prospect Park)",
+    "notes": "Manhattan location flagged intentionally — schema has no FiDi/Lower Manhattan zone, so logged under brooklyn-heights as the closest cross-bridge proximal cluster (WTC sits a 5-min walk from the Brooklyn Bridge). Operates Thu + Fri only, April 2 - Sep 4 2026; do NOT route here on weekends (smorgasburg.com locations page; explorewtc.com events). Parking: WTC garage at 250 Vesey + Battery Parking Garage are walkable; both are paid and fill fast on workday Fridays — leaving IC by ~10:30am keeps the run under 25 min. ~40 vendors per the WTC explorer page vs. 70+ at Prospect Park, so it skews to the bigger-name returnees rather than experimental newcomers (timeout.com). For Saturfun's 'missed Sunday' use case, this is the cleanest fallback: weekday-but-feels-like-weekend, walkable to Oculus / Eataly Downtown / Battery Park.",
+    "sources": [
+      {
+        "url": "https://www.smorgasburg.com/locations",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.explorewtc.com/content/wtc/en/local/things-to-do/events/smorgasburg-world-trade-center.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/smorgasburg-guide",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:31:53.204Z"
+  },
+  {
+    "id": "prospect-park-lincoln-road-entrance",
+    "name": "Prospect Park — Lincoln Road Entrance (Breeze Hill Lot)",
+    "desc": "East-side park entry at Ocean Ave & Lincoln Rd; 120-space Breeze Hill lot is winter-only.",
+    "longDesc": "The Lincoln Road entrance sits at Ocean Avenue & Lincoln Road on the park's east side, feeding directly into Breeze Hill, Lakeside, and the LeFrak Center. The new 120-space Breeze Hill parking lot — reached via the access road off Lincoln Road on Ocean Avenue — is open only during ice-skating season, roughly mid-October through March. Outside that window, plan on street parking along Ocean Ave, Lincoln Rd, or the residential blocks of Prospect-Lefferts Gardens; Saturday alternate-side rules are generally relaxed but signs vary block to block.",
+    "url": "https://www.prospectpark.org/location/entrance-lincoln-road/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "crown-heights",
+    "vibe": [
+      "chill",
+      "active",
+      "photo"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "13 min",
+    "hoursWeekend": "Park 5:00-1:00; Breeze Hill lot mid-Oct–Mar only, ~9:00-18:00",
+    "notes": "Breeze Hill lot is winter/ice-skating-season only — replaces a former 250-space year-round lot (brooklynpaper.com 2014; prospectpark.org). Lot access is a road off the Lincoln Rd entrance on Ocean Ave. In spring/summer, anchor on street parking around Ocean Ave/Lincoln Rd or Parkside Ave; LeFrak Center Open Air Rink runs 9-18 in season (lakeside.prospectpark.org). For Saturfun driving itineraries, treat this entrance as a winter anchor; in warm months, prefer the Park Slope side (15th St entrance) or Grand Army Plaza for on-street options.",
+    "sources": [
+      {
+        "url": "https://www.prospectpark.org/location/entrance-lincoln-road/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.brooklynpaper.com/park-it-at-the-park-prospect-park-getting-new-lot-pedestrian-path/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://lakeside.prospectpark.org/activity/public-ice-skate/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.prospectpark.org/visit-the-park/places-to-go/lefrak-center-lakeside/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:34:34.260Z"
   }
 ]

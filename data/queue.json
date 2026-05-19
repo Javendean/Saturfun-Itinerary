@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Smorgasburg World Trade Center Friday lineup 2026",
-    "reason": "Friday Manhattan sibling — useful as a 'if you missed it Sunday' fallback for visitors with flexible days",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:04:23.151Z"
-  },
-  {
-    "topic": "Prospect Park Breeze Hill parking and Lincoln Road entrance logistics",
-    "reason": "Driving-anchored itineraries need a parking-honest entry; current notes are inferred not confirmed",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:04:23.151Z"
-  },
-  {
-    "topic": "Brooklyn Botanic Garden weekend hours and Smorgasburg combo ticket",
-    "reason": "Natural 1-2 punch within walking distance of Breeze Hill — extends Smorgasburg from a 90-min stop into a half-day track",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:04:23.151Z"
-  },
-  {
-    "topic": "Tacos El Bronco 5th Ave Sunset Park Saturday hours",
-    "reason": "Classic Sunset Park taco truck/restaurant — natural post-market lunch stop walking distance from the greenmarket",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:06:26.925Z"
-  },
-  {
-    "topic": "Sunset Park (the actual park) Saturday vibe and parking near 5th Ave",
-    "reason": "Hilltop views of the harbor, free public space adjacent to the market — completes a Sunset Park morning track before IC",
-    "requestedBy": "agent",
-    "enqueuedAt": "2026-05-17T03:06:26.925Z"
-  },
-  {
     "topic": "Grand Army Plaza Greenmarket Saturday hours and vendors",
     "reason": "Larger Brooklyn greenmarket alternative for comparison — different track if user wants Prospect Heights cluster instead",
     "requestedBy": "agent",
@@ -21310,5 +21280,107 @@
     "reason": "Walkable from Grand Army Plaza Greenmarket — natural same-block pairing for a full Saturday morning anchored at the Prospect Park NW gateway",
     "requestedBy": "agent",
     "enqueuedAt": "2026-05-19T01:29:26.261Z"
+  },
+  {
+    "topic": "Eataly Downtown at 4 World Trade Center — Italian market + rooftop",
+    "reason": "Same WTC plaza, indoor rain-fallback, pairs naturally with a Smorgasburg WTC visit",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:31:53.243Z"
+  },
+  {
+    "topic": "Oculus / WTC Transportation Hub architecture photo walk",
+    "reason": "Free 20-min photo stop adjacent to the Smorgasburg footprint, expands the 'Friday Manhattan side-quest' cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:31:53.243Z"
+  },
+  {
+    "topic": "Smorgasburg Prospect Park Sunday flagship vendor lineup 2026",
+    "reason": "Anchor sibling — Sunday Brooklyn version is the primary; needed to make this Friday entry's 'fallback' framing accurate",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:31:53.243Z"
+  },
+  {
+    "topic": "Battery Parking Garage and 250 Vesey garage weekday rates",
+    "reason": "Driving-anchored corpus needs verified parking data for any Lower Manhattan venue we route to",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:31:53.243Z"
+  },
+  {
+    "topic": "Prospect Park — 15th Street entrance parking logistics (Park Slope side)",
+    "reason": "Year-round west-side alternative when Breeze Hill lot is closed; closest entry to Park Slope dining loop",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:34:34.296Z"
+  },
+  {
+    "topic": "Prospect Park — Grand Army Plaza entrance parking and weekend access",
+    "reason": "North anchor with proximity to Brooklyn Public Library + Botanic Garden; needed for non-winter itineraries",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:34:34.296Z"
+  },
+  {
+    "topic": "Smorgasburg Prospect Park — Breeze Hill Sundays (Apr–Oct) parking + arrival strategy",
+    "reason": "Direct overlap with Breeze Hill geography but Sunday-only; needs honest parking guidance since the lot is closed in season",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:34:34.296Z"
+  },
+  {
+    "topic": "Brooklyn Botanic Garden parking lot — Washington Ave entrance",
+    "reason": "Closest paid lot to Lincoln Rd entrance during non-skating months; viable park-and-walk alternative",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:34:34.297Z"
+  },
+  {
+    "topic": "Brooklyn Museum weekend hours + First Saturday free program",
+    "reason": "Completes the BBG+Museum combo for the Prospect Heights half-day track; First Saturdays are a distinct nighttime anchor",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:36:43.297Z"
+  },
+  {
+    "topic": "Cherry Esplanade Hanami peak bloom dates 2026 + Sakura Matsuri festival",
+    "reason": "Time-sensitive seasonal hook that promotes BBG from year-round nice-to-have into a must-book weekend",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:36:43.297Z"
+  },
+  {
+    "topic": "Washington Avenue parking + Brooklyn Museum garage rates",
+    "reason": "Driving-friendly parking intel is the gating constraint for the Prospect Heights cluster from IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:36:43.297Z"
+  },
+  {
+    "topic": "Tacos Matamoros 5th Ave Sunset Park lunch hours",
+    "reason": "Sit-down Sunset Park taqueria peer to El Bronco — gives chat alternatives when truck is closed",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:38:53.757Z"
+  },
+  {
+    "topic": "Don Paco Lopez Panaderia Sunset Park Saturday hours",
+    "reason": "Classic Mexican bakery on 5th Ave for pan dulce dessert pairing after tacos",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:38:53.757Z"
+  },
+  {
+    "topic": "Sunset Park Greenmarket Saturday hours 4th Ave",
+    "reason": "The anchor event that makes a post-market taco run make sense — should be in corpus as its own entry",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:38:53.757Z"
+  },
+  {
+    "topic": "Tacos El Bronco 5th Ave Sunset Park taqueria",
+    "reason": "Anchors the Sunset Park morning track with a walkable taco stop between the park crest and IC",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:41:00.850Z"
+  },
+  {
+    "topic": "Melody Lanes bowling 37th St Sunset Park",
+    "reason": "Rainy-day fallback inside the same 10-block radius — fills the activity slot if the hilltop view is fogged",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:41:00.851Z"
+  },
+  {
+    "topic": "Bush Terminal Piers Park waterfront 43rd St Brooklyn",
+    "reason": "Companion harbor-level view to Sunset Park's hilltop — closes the loop from elevation to waterline within the same cluster",
+    "requestedBy": "agent",
+    "enqueuedAt": "2026-05-19T01:41:00.851Z"
   }
 ]
