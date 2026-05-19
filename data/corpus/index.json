@@ -22422,8 +22422,8 @@
   {
     "id": "tacos-el-bronco-5th-ave",
     "name": "Tacos El Bronco (5th Ave)",
-    "desc": "Sunset Park institution for $3 al pastor and campechano tacos on the 5th Ave Mexican corridor",
-    "longDesc": "The 5th Ave outpost of Tacos El Bronco, sitting four blocks south of Don Paco Panaderia at 50th & 5th. Order the al pastor and the campechano (beef, longaniza, chicharrón) — $3 each, double tortilla, onions and cilantro — and pair with chiles rellenos or a birria consommé. Cash-only counter operation; open into the early hours on weekends, so it slots in as a late-afternoon or post-walk taqueria stop after the panaderia run.",
+    "desc": "Cash-only Sunset Park taqueria with $3 al pastor and campechanos, open until 1-2am",
+    "longDesc": "The original Tacos El Bronco grew out of a 2008 food cart on Sunset Park's 5th Avenue and still slings the neighborhood's benchmark double-tortilla tacos — al pastor, campechanos (beef, sausage, crispy pork skin), lengua, and chiles rellenos. The 5001 5th Ave storefront is a no-frills takeout-leaning room that stays open into the early morning on weekends, which makes it the closest late-night taco anchor to Industry City. Bring cash; expect short waits, generous portions, and the kind of $3-a-taco pricing that survives mostly on volume.",
     "url": "https://www.grubhub.com/restaurant/tacos-el-bronco-5001-5th-avenue-brooklyn/8403144",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -22436,30 +22436,30 @@
     "priceBand": "$",
     "duration": "30-45 min",
     "driveFromIC": "8 min",
-    "hoursWeekend": "13:00-02:00",
-    "notes": "Address: 5001 5th Ave, Brooklyn, NY 11220 (5th Ave & 50th St). Cash-only — bring small bills (theinfatuation.com). Must-orders: al pastor, campechano, chiles rellenos (yelp.com). Pairs naturally with Don Paco Panaderia at 4703 5th Ave for a four-block 'pan dulce → tacos' walk on the 5th Ave Mexican corridor. Weekend hours run 1pm–2am, so this is a late-afternoon-onward stop, not a brunch slot. Street parking on 5th Ave side streets is generally available on Saturdays.",
+    "hoursWeekend": "11:00-02:00",
+    "notes": "Cash only (Infatuation 8.2/10 review). Originated as a 5th Ave food cart in 2008 (Mariano Tapia); the 5th Ave storefront sits at 5001 5th Ave, ~1.2 mi south of Industry City — a ~7-8 min drive on weekend evenings with street parking generally available on side streets off 5th Ave. Order al pastor + campechanos + a chile relleno; tacos run ~$3 each (Infatuation). Fri/Sat close 2am, weekday close 1am (Yelp hours on sibling 4th Ave location, confirmed late-night operation on Grubhub). Better late-night closer to IC than driving to Bushwick if the group is fading.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.theinfatuation.com/new-york/reviews/tacos-el-bronco",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.grubhub.com/restaurant/tacos-el-bronco-5001-5th-avenue-brooklyn/8403144",
-        "accessed": "2026-05-16T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.theinfatuation.com/new-york/reviews/tacos-el-bronco",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://onthegrid.city/brooklyn/sunset-park/tacos-el-bronco",
-        "accessed": "2026-05-16T00:00:00Z"
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-brooklyn-7",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T02:46:11.557Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:19:03.276Z"
   },
   {
     "id": "kelloggs-diner-williamsburg",
@@ -32594,8 +32594,8 @@
   {
     "id": "peter-pan-donut-pastry-shop",
     "name": "Peter Pan Donut & Pastry Shop",
-    "desc": "1950s Greenpoint donut institution serving hand-cut classics and pillowy crullers from a vintage pink-vinyl counter.",
-    "longDesc": "A Greenpoint icon since the 1950s at 727 Manhattan Ave, Peter Pan still fries small-batch yeast and cake donuts daily, with cult favorites like the red velvet, blueberry, and Bavarian cream pulling weekend lines out the door. The mint-and-pink soda-shop interior, beehive-haired waitresses, and $2-ish donuts make it a fast, photogenic sweet anchor that pairs well with a Wenwen lunch a few blocks south.",
+    "desc": "Old-school Greenpoint donut counter open since the 1950s — glazed, red velvet, fresh-fried, retro pink booths.",
+    "longDesc": "A Greenpoint institution on Manhattan Ave since the 1950s, Peter Pan slings classic raised, cake, and filled donuts from a pink-counter dining room that doubles as a Brooklyn time capsule (Greenpointers). Famous picks include the red velvet, blueberry cake, and Bavarian cream, plus surprisingly strong diner coffee — the kind of stop that rewards an early-morning loop before crowds and Instagram lines form. Cash-friendly, fast-moving counter, and just down Manhattan Ave from McGolrick Park if you want a bench to sit on.",
     "url": "https://www.peterpandonuts.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -32611,26 +32611,34 @@
     "priceBand": "$",
     "duration": "20-30 min",
     "driveFromIC": "22 min",
-    "hoursWeekend": "Sat 5:00-19:00, Sun 5:30-18:00",
-    "notes": "Cash-preferred old-school counter; grab donuts to go and eat in McGolrick or McCarren Park if the counter is packed. Weekend AM lines move fast — best window is before 10am or mid-afternoon. Metered street parking on Manhattan Ave; side streets (Norman, Meserole) are easier on weekends (sources: peterpandonuts.com, yelp.com).",
+    "hoursWeekend": "Sat 05:00-19:00, Sun 05:30-18:00",
+    "notes": "Opens 4:30am weekdays / 5am Saturday — pairs perfectly with a late-night Kellogg's Diner run or an early McCarren Park loop (Yelp). Cash-leaning counter; lines stay short before 9am. Red velvet, blueberry cake, and Bavarian cream are the consensus must-orders (Greenpointers, Trip n Feast).",
     "sources": [
       {
         "url": "https://www.peterpandonuts.com/",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/peter-pan-donut-and-pastry-shop-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://visitbrooklyn.nyc/eatanddrink/neighborhood/greenpoint/peter-pan-donut-pastry-shop",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://visitbrooklyn.nyc/eatanddrink/peter-pan-donut-pastry-shop",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://greenpointers.com/2017/03/31/peter-pan-donuts/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://tripnfeast.com/peter-pan-donut-pastry-shop/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T19:36:14.060Z"
+    "lastResearchedAt": "2026-05-19T01:10:21.844Z"
   },
   {
     "id": "le-crocodile",
@@ -46644,43 +46652,44 @@
   {
     "id": "lucky-dog-williamsburg",
     "name": "Lucky Dog",
-    "desc": "Dive bar with brick-tiled backyard where dogs roam off-leash; 20 taps, shuffleboard, jukebox.",
-    "longDesc": "A no-frills Williamsburg dive at 303 Bedford Ave (S 1st/2nd) run by the Skinny Dennis / Rocka Rolla / Me and Paul's ownership team (Sal Fristensky and Bill Mack). The genuine pull is the brick-tiled backyard — dogs welcome off-leash, a covered nook for weather, mostly uncovered for sun. Inside: jukebox spinning classics, a long shuffleboard table, pinball, ~20 rotating taps including Allagash and Ommegang, full bar, ~$6 a drink. No kitchen, but carry-in food from nearby spots is encouraged.",
-    "url": "https://www.luckydogbrooklyn.com/",
+    "desc": "Dog-friendly Williamsburg dive with back patio, pinball, shuffleboard, and a 4am close.",
+    "longDesc": "Lucky Dog is a no-frills neighborhood bar at 303 Bedford Ave with a buzzy back patio that doubles as an off-leash dog social. Cheap beers, pinball, and shuffleboard inside; the kitchen is BYO-takeout (they encourage food from nearby spots), which sets up the diner hop cleanly. Open daily noon to 4am, making it the late-track anchor before Kellogg's Diner around the corner.",
+    "url": "https://www.luckydogbarbrooklyn.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "williamsburg",
     "vibe": [
-      "chill"
+      "chill",
+      "curious"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "60-90 min",
-    "driveFromIC": "22 min",
+    "driveFromIC": "18 min",
     "hoursWeekend": "12:00-04:00",
-    "notes": "Despite the task title saying 'Greenpoint,' Lucky Dog is at 303 Bedford Ave in S Williamsburg (timeout.com, yelp.com). The Greenpoint-cluster pairing logic still holds: same ownership group as Me and Paul's, Skinny Dennis, and Rocka Rolla (gothamist.com, greenpointers.com). Natural post-dinner drinks move after pizza at Me and Paul's — ~7 min drive south on Bedford. Weekend street parking on S 1st/Bedford is gettable before 8pm, tighter late. Dogs welcome inside and in the backyard.",
+    "notes": "BYO food encouraged — pair with takeout from Bedford Ave or roll straight into Kellogg's Diner (518 Metropolitan) for the late drinks-to-diner sequence (Yelp, The Infatuation). Back patio is the draw in warm months; dog-friendly off-leash crowd. Street parking on side streets off Bedford is workable late-evening but tight on Saturday nights — check Roebling/Driggs blocks.",
     "sources": [
       {
-        "url": "https://www.timeout.com/newyork/bars/lucky-dog",
-        "accessed": "2026-05-18T19:45:00Z"
-      },
-      {
-        "url": "https://gothamist.com/food/williamsburgs-brooklyn-ale-house-closing-lucky-dogskinny-dennis-team-takes-over",
-        "accessed": "2026-05-18T19:45:00Z"
-      },
-      {
-        "url": "https://greenpointers.com/2026/04/30/paulie-gees-original-restaurant-reopens-today-as-me-and-pauls/",
-        "accessed": "2026-05-18T19:45:00Z"
-      },
-      {
         "url": "https://www.yelp.com/biz/luckydog-brooklyn",
-        "accessed": "2026-05-18T19:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/lucky-dog",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://jetsetpets.com/pet-friendly-restaurants/lucky-dog-bar-brooklyn-ny/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.best-brooklyn.com/bars/lucky-dog/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T19:40:32.718Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:14:13.905Z"
   },
   {
     "id": "micol-ceramics-ic",
@@ -49385,5 +49394,87 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-19T01:08:28.515Z"
+  },
+  {
+    "id": "cafe-mogador-williamsburg",
+    "name": "Cafe Mogador (Williamsburg)",
+    "desc": "Family-run Moroccan/Middle Eastern on Wythe — tagines and mezze served late into the night.",
+    "longDesc": "The Brooklyn outpost of NYC's beloved Mogador family (East Village original opened 1983), set in a plant-filled Wythe Ave space with a back garden. Known for fluffy couscous, lamb and chicken tagines, harissa-spiced eggs at brunch, and a deep mezze board — one of the few non-diner spots in north Brooklyn where you can sit down for a real dinner past 11pm on a weekend.",
+    "url": "https://www.cafemogador.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "halal"
+    ],
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "Sat 9:30-00:00, Sun 9:30-23:00",
+    "notes": "Late-night kitchen: Fri-Sat open until midnight, Sun-Thu until 11pm (Yelp). 133 Wythe Ave, Brooklyn NY 11211 — north Williamsburg, ~20 min drive from Industry City via BQE; weekend street parking is tight but doable on Wythe/Berry north of N 9th. Phone (718) 486-9222. Sister to the long-running East Village Mogador (since 1983). Tagines and couscous platters are the move; vegetarians and halal-observant diners are well covered. Pairs well with a pre-stop at Domino Park or post-drinks at the Wythe Hotel rooftop.",
+    "sources": [
+      {
+        "url": "https://www.cafemogador.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/cafe-mogador-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d4617929-Reviews-Cafe_Mogador_Williamsburg-Brooklyn_New_York.html",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:12:17.566Z"
+  },
+  {
+    "id": "birria-landia-williamsburg",
+    "name": "Birria-Landia (Williamsburg)",
+    "desc": "Cult Mexican taco truck on Metropolitan Ave slinging quesabirria + consomé until 1am.",
+    "longDesc": "Birria-Landia's Williamsburg truck parks at the corner of Metropolitan and Meeker Aves, between the L at Lorimer and the JMZ at Hewes/Marcy. Order the quesabirria taco (cheesy, dipped in chile-stained consomé), a side cup of consomé for dunking, and a mulita; eat curbside or on the hood of the car. It's the late-night Mexican counterweight to Bushwick's Los Hermanos — a quesabirria/consomé style vs. al pastor on the spit, both inside a 10-min drive.",
+    "url": "https://thebirrialandia.com/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "foodie",
+      "chill",
+      "curious"
+    ],
+    "dietary": [],
+    "priceBand": "$",
+    "duration": "30-45 min",
+    "driveFromIC": "20 min",
+    "hoursWeekend": "13:00-01:00",
+    "notes": "491 Metropolitan Ave at Meeker, Brooklyn NY 11211 (Yelp). Hours: Mon-Fri 16:00-01:00, Sat-Sun 13:00-01:00 (Yelp). Cash + card. Signature: quesabirria taco + cup of consomé for dipping; mulitas and tostadas also strong. Truck — no seating, expect a short line on weekend nights. Adjacent to the JMZ at Marcy/Hewes and the L at Lorimer; ~4-5 min drive south to Los Hermanos in Bushwick for a back-to-back late-night taco contrast.",
+    "sources": [
+      {
+        "url": "https://www.yelp.com/biz/birria-landia-williamsburg-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://thebirrialandia.com/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/news/nycs-most-popular-birria-taco-truck-is-coming-to-williamsburg-101520",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:16:19.557Z"
   }
 ]
