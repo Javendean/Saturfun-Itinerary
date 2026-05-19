@@ -5409,8 +5409,8 @@
   {
     "id": "yun-nan-flavour-garden",
     "name": "Yun Nan Flavour Garden",
-    "desc": "Tiny Sunset Park counter for Kunming-style rice noodles and crossing-the-bridge bowls.",
-    "longDesc": "Husband-and-wife counter from Kunming serving some of NYC's most legit Yunnanese cooking: crossing-the-bridge rice noodles, cold mixed noodles with chili oil, and herbal broths that lean aromatic rather than heavy. Cash-friendly, tiny dining room, mostly takeout — a perfect light, regional counterpoint to East Harbor dim sum a few blocks north on 8th Ave.",
+    "desc": "Cash-only Yunnanese noodle counter on 8th Ave — crossing-bridge rice noodles run by a Kunming couple.",
+    "longDesc": "A husband-and-wife operation from Kunming serving the rice-noodle traditions of southwestern China's Yunnan province, plus a few Southeast Asian crossovers. The headline dish is Crossing-Bridge Rice Noodles — a bowl of near-boiling broth that you build at the table with raw proteins, vegetables, and chewy mi xian noodles — alongside grilled fish, cold tofu, and stir-fried er kuai rice cakes. Tight room, no frills, cash only.",
     "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -5419,34 +5419,32 @@
       "foodie",
       "curious"
     ],
-    "dietary": [],
+    "dietary": [
+      "vegetarian"
+    ],
     "priceBand": "$",
-    "duration": "30-45 min",
-    "driveFromIC": "10 min",
+    "duration": "45-60 min",
+    "driveFromIC": "8 min",
     "hoursWeekend": "09:00-21:00",
-    "notes": "5121 8th Ave, between 51st & 52nd in Sunset Park's Chinatown; ~1 mi inland from Industry City, easy street parking on 8th Ave side streets on weekends. Order the crossing-the-bridge noodles or the $8.75 quail-egg rice noodle bowl with thin-sliced meat, tofu, and bean sprouts (The Infatuation; Stuy Spec). Lighter and more herbal than the Cantonese/Fujianese spots nearby, so it pairs well as a second stop after dim sum or as the standalone food anchor of the 8th Ave crawl (NYC Tourism).",
+    "notes": "Cash only — closest ATM is the Cathay Bank at 50th/8th. Crossing-Bridge Rice Noodles is the signature; also strong on grilled tilapia and rubing cheese (rare Yunnan goat cheese). About 1.4 mi south of Industry City down 3rd Ave → 8th Ave; weekend street parking on 51st/52nd between 8th and 9th is usually findable but turns over fast at lunch (NYC Tourism Board). Located in the heart of Sunset Park's 8th Ave Chinatown, two blocks south of Xinfa Bakery (Yelp).",
     "sources": [
       {
         "url": "https://www.nyctourism.com/restaurants/yun-nan-flavour-garden-sunset-park/",
-        "accessed": "2026-05-18T15:15:00Z"
-      },
-      {
-        "url": "https://www.theinfatuation.com/new-york/reviews/yun-nan-flavour-garden",
-        "accessed": "2026-05-18T15:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/yun-nan-flavor-garden-brooklyn",
-        "accessed": "2026-05-18T15:15:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://stuyspec.com/article/cheap-ass-food-yun-nan-flavour-garden",
-        "accessed": "2026-05-18T15:15:00Z"
+        "url": "https://www.business.nyctourism.com/places/yun-nan-flavour-garden-sunset-park",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T15:22:52.980Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:26:03.102Z"
   },
   {
     "id": "sunset-park-skyline-viewpoint",
@@ -10478,48 +10476,45 @@
   },
   {
     "id": "ba-xuyen-banh-mi",
-    "name": "Ba Xuyên",
-    "desc": "OG no-frills Vietnamese banh mi shop on Sunset Park's 8th Ave — cheap, packed, classic",
-    "longDesc": "A 20+ year staple of Brooklyn's 8th Ave Chinatown turning out some of the cheapest, most authentic banh mi in NYC. The signature pate thit nguoi layers ham, head cheese, pork roll, pork teriyaki and BBQ pork with pate, butter, cucumber, pickled carrot/daikon, cilantro and green pepper on a crackly baguette (around $7.50). Counter-service, cash-friendly, grab-and-go — perfect to chain with Xin Fa dumplings a few blocks north.",
-    "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
+    "name": "Ba Xuyen",
+    "desc": "Cash-only Vietnamese counter widely cited as NYC's OG banh mi shop",
+    "longDesc": "Sunset Park institution at 8th Ave & 42nd St turning out crackly-baguette banh mi to a steady weekend line. The #1 combo (pâté, headcheese, cha lua, roast pork, pickled daikon-carrot, cilantro, jalapeño) is the order; pho and bun also on the board. No frills, paper-wrapped, cash only.",
+    "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
-      "foodie"
+      "foodie",
+      "chill"
     ],
     "dietary": [],
     "priceBand": "$",
-    "duration": "30-45 min",
+    "duration": "20-30 min",
     "driveFromIC": "7 min",
-    "hoursWeekend": "07:30-18:30",
-    "notes": "4222 8th Ave, Brooklyn NY 11232; phone (718) 633-6601. Open daily 7:30am-6:30pm (TikTok @thebingbuzz lists 7am-6:30pm but Yelp/Tripadvisor consensus is 7:30 open). Signature combo banh mi pate thit nguoi runs about $7.50 (TikTok 2024). Tight storefront, street parking on 8th Ave and side streets is usually doable on weekends but tight at lunch. Pairs naturally with Xin Fa dumplings up the avenue for a single Sunset Park snack crawl.",
+    "hoursWeekend": "07:00-18:30",
+    "notes": "Cash only — bring small bills (yelp). Combo #1 banh mi around $8 in 2025; everything under $10 (mango girl's playground 2025). 7-min drive straight up 3rd Ave → 42nd St; street parking on 8th Ave is doable on weekend mornings but tightens after 11am. Pairs naturally with an Industry City anchor — grab sandwiches to-go and eat at Bush Terminal Park (5 min back south).",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d598579-Reviews-Ba_Xuyen-Brooklyn_New_York.html",
-        "accessed": "2026-05-17T00:00:00Z"
+        "url": "https://www.yelp.com/biz/ba-xuyen-brooklyn-2",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://ywong.com/2025/03/08/ba-xuyen-the-og-and-best-banh-mi-spot-in-nyc-still-to-this-day-in-2025/",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://bklyner.com/ba-xuyen-8th-avenue-serves-delicious-banh-mi-sunset-park/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/",
-        "accessed": "2026-05-17T00:00:00Z"
-      },
-      {
-        "url": "https://www.tiktok.com/@thebingbuzz/video/7359388467417074987",
-        "accessed": "2026-05-17T00:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-17T12:39:36.314Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:28:10.966Z"
   },
   {
     "id": "bamboo-garden-dim-sum",
@@ -12896,9 +12891,9 @@
   },
   {
     "id": "sunset-park-hilltop",
-    "name": "Sunset Park (Hilltop & Harbor View)",
-    "desc": "24.5-acre hilltop park between 41st-44th & 5th-7th Ave with a panoramic harbor + Statue of Liberty view.",
-    "longDesc": "Sunset Park sits on a 164-ft moraine, the highest natural point in this stretch of Brooklyn, offering a sweeping Saturday-morning view across New York Harbor to Lower Manhattan, the Statue of Liberty, and the Staten Island/New Jersey hills. Free, open-air, and built for lounging — there's a playground at 6th Ave, a 1936 Art Deco WPA pool (summer only), basketball/soccer, and shady lawn at the crest. Pairs perfectly as a pre-IC stop with Industry City just 10 blocks downhill.",
+    "name": "Sunset Park Hilltop",
+    "desc": "Hilltop park with panoramic Lower Manhattan, Statue of Liberty, and NY Bay views — free and a short walk from Ba Xuyên.",
+    "longDesc": "The 24.5-acre park climbs from 41st to 44th Street between 5th and 7th Avenues, and the crest near 5th Ave & 44th St delivers one of the most underrated skyline panoramas in NYC — Lower Manhattan towers, the Statue of Liberty, and the sweep of New York Bay. Locals treat it as a quieter alternative to crowded waterfront sunset spots, with plenty of benches and an open horizon perfect for golden hour. Combined with Ba Xuyên a few blocks away on 8th Ave, it forms a self-contained walking mini-track with no driving needed between stops.",
     "url": "https://www.nycgovparks.org/parks/sunset-park",
     "photoUrl": "",
     "aiBackgroundUrl": "",
@@ -12906,36 +12901,40 @@
     "vibe": [
       "chill",
       "photo",
-      "active"
+      "romantic"
     ],
     "dietary": [],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "6 min",
-    "hoursWeekend": "06:00-21:00",
-    "notes": "Park itself is free and open dawn-to-dusk per NYC Parks (06:00-21:00) (nycgovparks.org). Saturday vibe is family-heavy: stroller laps, Mandarin/Spanish-speaking groups doing tai-chi at the crest, kids' soccer on the lower field. The hilltop bench row along the 41st/42nd St side is the photo spot — Liberty visible on clear days. Driving in from IC: head south on 3rd Ave, cut east on 41st up the hill to 5th Ave. Parking is curb-only street parking in the surrounding grid; 5th Ave commercial frontage is metered Muni-Meter on Saturdays, but residential side streets (42nd, 43rd off 6th/7th Ave) are typically free on weekends — alternate-side rules are suspended Sundays and reduced in this CB7 zone (nyc.gov/dot). Realistically grab a spot on 42nd or 43rd between 5th and 7th and walk in. Avoid 5th Ave proper midday Saturday — it's the neighborhood's busiest retail strip.",
+    "driveFromIC": "8 min",
+    "hoursWeekend": "06:00-22:00",
+    "notes": "Hilltop viewing crest sits at 5th Ave & 44th St — climb the slope from the 7th Ave side for the reveal (NYC Parks). Park lot on the north side offers up to 3 free hours; ample weekend street parking on surrounding residential blocks (Parkopedia/NYC Parks). From Ba Xuyên (4222 8th Ave) it is a ~5-block flat walk west to the park entrance, then uphill — no need to move the car between the two stops. Best timed for sunset; the park's namesake view faces directly toward the Manhattan skyline (Your Brooklyn Guide).",
     "sources": [
       {
         "url": "https://www.nycgovparks.org/parks/sunset-park",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Sunset_Park_(Brooklyn_park)",
+        "url": "https://www.nycgovparks.org/highlights/best-views-of-the-Manhattan-skyline-from-a-park",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nycgovparks.org/parks/sunset-park/highlights/166",
+        "url": "https://yourbrooklynguide.com/brooklyn-sunset-spots/",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.nyc.gov/html/dot/html/pr2012/pr12_39.shtml",
+        "url": "https://cornersofnewyork.co/explore/sunset-park-brooklyn-neighborhood-guide-best-things-to-do-eat-and-explore/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://en.parkopedia.com/parking/neighborhood/Sunset-Park-New-York-City-Brooklyn-NY/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-19T01:41:00.777Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T02:20:19.924Z"
   },
   {
     "id": "sey-coffee-bushwick",
@@ -19937,52 +19936,51 @@
   },
   {
     "id": "kam-hing-coffee-shop",
-    "name": "Kam Hing Coffee Shop",
-    "desc": "Family-run Chinatown bakery slinging cloud-soft Hong Kong sponge cakes in 30+ flavors for ~$1",
-    "longDesc": "A multigenerational bakery on Baxter St since 1984, Kam Hing is the canonical stop for fluffy Hong Kong-style steamed sponge cake — original ($1) plus rotating flavors like green tea, ube, black sesame, pandan, lychee rose, and brown sugar milk tea ($1.25). Cash-friendly counter service, no seating; grab a few warm cakes and eat them strolling Columbus Park. A perfect 5-minute walk extension off a Joe's Shanghai soup dumpling stop to round out a tight Chinatown mini-track.",
+    "name": "New Kam Hing Coffee Shop",
+    "desc": "Third-gen Chinatown bakery with the famous $1 steamed sponge cakes at the corner of Canal & Baxter",
+    "longDesc": "A 40-year Manhattan Chinatown institution at 118 Baxter St run by third-generation owner Liz Yee, beloved for impossibly light steamed sponge cakes sold at $1 each (original, chocolate chip) and $1.25 for rotating specialty flavors like green tea, ube, black sesame, coconut, pandan, butterscotch, pumpkin spice, and strawberry. Counter-only, cash-friendly, fast turnover; cakes are made in-house all day and travel well in their classic box of 12 or 20. Hong Kong-style milk tea and coffee round out the menu, but the sponges are the whole point and they pair naturally with a Lower East Side bakery flight before crossing back to Brooklyn.",
     "url": "https://www.newkamhing.com/",
     "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "chill"
+      "curious"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
-    "duration": "15-20 min",
+    "duration": "30-45 min",
     "driveFromIC": "20 min",
     "hoursWeekend": "07:00-19:30",
-    "notes": "118 Baxter St, Ground Floor, Manhattan — Manhattan venue justified as a 5-min walk grab-and-go extension off Joe's Shanghai (9 Pell St) inside a Chinatown mini-track (Yelp). Open daily 7:00am-7:30pm (Yelp/Mottstreetgirls). 30+ sponge cake flavors at $1-1.25 each, cash-friendly, no seating — strictly takeaway (Foodmanchan, Mottstreetgirls). Drive from Industry City: ~20 min weekend via Hugh L. Carey Tunnel; Chinatown street parking is brutal — recommend Mulberry St garage or SP+ at 250 Lafayette. Pair with Columbus Park stroll or Nom Wah dim sum nearby.",
+    "notes": "Topic correction: Kam Hing has no Sunset Park branch — the only location is 118 Baxter St in Manhattan Chinatown (newkamhing.com). Justified as a Manhattan exception because the $1 steamed sponge cake at a third-generation family bakery is genuinely unique in the five boroughs (greatperformances.com profile of owner Liz Yee). Drive from IC: Gowanus Expy → Manhattan Bridge → Canal/Baxter, ~18-22 min off-peak weekend, same approach as the Joe's Shanghai Chinatown entry. Weekend parking is the catch — Chinatown street is essentially impossible Sat afternoon; use the Mulberry/Bayard municipal garage or paid lots on Chrystie/Forsyth (same playbook as the existing Joe's Shanghai notes). Hours 7:00am-7:30pm daily per official site, confirmed via Yelp May 2026. Bakery flight: the 'Xinfa' in our corpus is Sunset Park's Brooklyn Xinfa (8th Ave Chinatown) which closes ~5:30-7pm, so pairing them in one outing only works if Kam Hing is hit before crossing back. A purer Manhattan-Chinatown bakery flight: Kam Hing for sponge cake + Mei Lai Wah for steamed pork buns + a Hong Kong egg-tart stop (Tai Pan Bakery) — all within a 4-block radius (theinfatuation.com asian-owned bakeries guide). Cash and small bills make the $1-$1.25 transactions go faster.",
     "sources": [
       {
-        "url": "https://www.yelp.com/biz/kam-hing-bakery-new-york",
-        "accessed": "2026-05-16T23:30:00Z"
-      },
-      {
         "url": "https://www.newkamhing.com/",
-        "accessed": "2026-05-16T23:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.mottstreetgirls.com/chinatown/kam-hing-coffee-shop",
-        "accessed": "2026-05-16T23:30:00Z"
+        "url": "https://www.yelp.com/biz/kam-hing-bakery-new-york",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://greatperformances.com/blog/new-kam-hing/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/guides/asian-owned-bakeries-nyc",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.foodmanchan.com/blog/kam-hing-coffee-shop-sponge-cakes",
-        "accessed": "2026-05-16T23:30:00Z"
-      },
-      {
-        "url": "https://www.timeout.com/newyork/restaurants/new-kam-hing-coffee-shop",
-        "accessed": "2026-05-16T23:30:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-16T23:28:58.140Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T02:24:02.982Z"
   },
   {
     "id": "the-drawing-center",
@@ -50132,5 +50130,51 @@
     "enriched": true,
     "needsAiBackground": false,
     "lastResearchedAt": "2026-05-19T02:15:13.385Z"
+  },
+  {
+    "id": "kinhfolk-williamsburg",
+    "name": "Kinhfolk",
+    "desc": "Tiny Williamsburg cafe pulling specialty Vietnamese robusta through phin filters into pandan-coconut lattes.",
+    "longDesc": "Kinhfolk is a third-wave Vietnamese coffee bar on Metropolitan Ave that direct-sources specialty robusta beans from Vietnam and brews them through traditional phin filters. The signature pandan coconut latte (housemade pandan syrup, coconut milk, dark robusta) and the Red Boat caramel latte (salted-fish-sauce-brand caramel) anchor a modern menu in a 3–4-seat, dimly-lit, plant-and-green-tile space — closer to a hidden Saigon laneway bar than a corner coffee shop.",
+    "url": "https://kinhfolk.com/",
+    "photoUrl": "https://kinhfolk.com/cdn/shop/files/kinhfolk-vietnamese-coffee-brooklyn-story.jpg",
+    "aiBackgroundUrl": "",
+    "zone": "williamsburg",
+    "vibe": [
+      "chill",
+      "curious",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "22 min",
+    "hoursWeekend": "10:00-16:00",
+    "notes": "710 Metropolitan Ave, Williamsburg — north-Williamsburg edge near Graham Ave L stop (yelp.com/biz/kinhfolk-brooklyn). Specialty robusta direct from Vietnam, phin-brewed (lemon8-app.com). Signature pandan coconut latte and Red Boat caramel latte; coconut-milk pandan latte is the de-facto vegan order. Seating is only ~3–4 stools — best as a quick stop or takeaway, not a long sit. Weekend street parking on Metropolitan/Graham is doable since alternate-side is suspended Sat/Sun, but expect a block or two of walking. Closes at 4pm weekends, so route this as the first or mid-morning stop, not an afternoon one. Pairs naturally with Ba Xuyên for a heritage-vs.-third-wave two-stop coffee crawl.",
+    "sources": [
+      {
+        "url": "https://kinhfolk.com/pages/our-story",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.lemon8-app.com/@tichaung/7584875137527284255?region=us",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/kinhfolk-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://whatnow.com/new-york/restaurants/an-authentic-vietnamese-coffee-concept-is-brewing-in-williamsburg/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T02:18:02.280Z"
   }
 ]
