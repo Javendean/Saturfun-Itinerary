@@ -6414,43 +6414,48 @@
   },
   {
     "id": "panya-bakery-industry-city",
-    "name": "Panya Bakery (Industry City)",
-    "desc": "Japanese bakery inside Japan Village — shokupan, curry pan, matcha, and pastries with indoor + courtyard seating.",
-    "longDesc": "Panya Bakery is the Japan Village outpost of the long-running NYC Japanese bakery, tucked into Industry City's Building 4 courtyard. The menu centers on fresh-baked shokupan, curry pan, melon pan, and seasonal cakes alongside matcha lattes, pour-over coffee, yuzu and loose-leaf teas. It's a strong dessert/snack anchor that pairs cleanly with a Japan Village meal without duplicating the surrounding ramen, sushi, or izakaya tenants.",
+    "name": "Panya Bakery",
+    "desc": "Japanese bakery in IC's Japan Village courtyard known for curry pan and matcha drinks",
+    "longDesc": "Panya relocated from the East Village to Industry City's Japan Village (Building 4) and reopened as a sit-or-grab Japanese bakery. The signature curry pan is deep-fried bread stuffed with spicy veggie curry; the drinks bench covers matcha, hojicha and chai lattes, plus matcha yuzu lemonade and pour-overs. Indoor and outdoor courtyard seating make it an easy 30-45 min pit stop before or between IC stops.",
     "url": "https://industrycity.com/tenants/panya-bakery/",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/68bf3af498e88f485f85087c_Panya%20brunch%20photos.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "chill",
-      "foodie"
+      "foodie",
+      "photo"
     ],
     "dietary": [
       "vegetarian"
     ],
     "priceBand": "$",
     "duration": "30-45 min",
-    "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00 (Japan Village schedule); IC tenant page lists Wed-Sun 8:00-16:00",
-    "notes": "Located in Industry City Building 4, inside the Japan Village courtyard at 934 3rd Ave (industrycity.com tenant page). Hours conflict between sources — IC tenant page says Wed-Sun 8AM-4PM, Japan Village's own listing says Wed-Thu 9-5, Fri 9-6, Sat 11-7, Sun 11-6 (japanvillage.com). Closed Mon-Tue per both sources. Specialties: curry pan, shokupan, matcha lattes (japanvillage.com). Brunch service Wed-Sun. Both indoor and outdoor courtyard seating. Wholesale inquiries: panya@japanvillage.com. Instagram @panyabrooklyn. Pairs naturally with a Sunrise Mart / Japan Village stroll — pastry-and-coffee stop, not a full meal.",
+    "driveFromIC": "0 min (on-site)",
+    "hoursWeekend": "Sat 11:00-19:00, Sun 11:00-18:00",
+    "notes": "Inside the Japan Village courtyard at 934 3rd Ave / 220 36th St, Building 4 (industrycity.com). Curry pan is the signature item — deep-fried bread with spicy veggie curry, vegetarian-friendly (yelp/japanvillage). Drinks include matcha, hojicha, chai lattes, matcha yuzu lemonade, sparkling yuzu tea, espresso (japanvillage.com). Industry City's own page lists Wed-Sun 8am-4pm; Japan Village lists weekend hours Sat 11-7 / Sun 11-6 — verify on Instagram @panyabrooklyn before routing. Parking: standard Industry City lots, abundant on weekends.",
     "sources": [
       {
         "url": "https://industrycity.com/tenants/panya-bakery/",
-        "accessed": "2026-05-17T23:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.japanvillage.com/eat-drink/panya-bakery",
-        "accessed": "2026-05-17T23:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.yelp.com/biz/panya-japanese-bakery-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://commercialobserver.com/2025/07/panya-bakery-opens-in-industry-city/",
-        "accessed": "2026-05-17T23:45:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-17T23:42:53.717Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T01:47:30.684Z"
   },
   {
     "id": "jtunes-karaoke",
@@ -20981,37 +20986,45 @@
   {
     "id": "sushi-uesugi-japan-village",
     "name": "Sushi Uesugi at Japan Village",
-    "desc": "Counter-only omakase tucked at the back of Japan Village inside Industry City; walk-in lunch sets from $40",
-    "longDesc": "An intimate sushi counter at the rear of the Japan Village food hall in Industry City, run by chef Uesugi with a seasonal omakase focus. Lunch is the sweet spot — Sushi Omakase A ($40, 7 nigiri + handroll + miso), Sushi Omakase B ($55, 10 nigiri + handroll + miso), and Sashimi Omakase ($60). Walk-in only, no reservations, so come right at noon for a Saturday seat.",
+    "desc": "Intimate counter omakase tucked beside the Japan Village food hall — Chef Kenji, seasonal nigiri, weekend-friendly.",
+    "longDesc": "A hidden-gem omakase counter physically attached to Industry City's Japan Village complex, run by Chef Kenji. Lunch sets start at $50 for a 10-piece omakase, with dinner omakase and à la carte options that lean creative — signatures include Yukke Don and Garlic Truffle Rice alongside classic nigiri cuts. Reservations are strongly recommended for weekend dinner seatings.",
     "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f7edd693741d3c0d3dbcd4_JV%20sushi%20uesugi.avif",
+    "photoUrl": "",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
-      "curious",
-      "romantic"
+      "romantic",
+      "curious"
     ],
     "dietary": [],
-    "priceBand": "$$",
-    "duration": "60-75 min",
-    "driveFromIC": "0 min",
-    "hoursWeekend": "Sat 12:00-15:00, 17:00-21:00 | Sun 12:00-15:00, 17:00-20:00",
-    "notes": "Counter-only at the back of Japan Village food hall (267 36th St) — direct in-hall substitute for Handroll Sushi Bar. Walk-in only, no reservations; arrive at noon Saturday or expect a wait (japanvillage.com). Omakase lunch tiers: A $40 / B $55 / Sashimi $60; dinner omakase priced higher per server (Yelp reviews). Park in Industry City lots — already at the anchor.",
+    "priceBand": "$$$",
+    "duration": "60-90 min",
+    "driveFromIC": "2 min",
+    "hoursWeekend": "12:00-15:00, 17:00-21:00",
+    "notes": "Located at 267 36th St / 934 3rd Ave, attached to Japan Village inside Industry City (japanvillage.com). Lunch omakase ~$50 for 10 pieces; dinner omakase pricing not posted publicly — Yelp and BKReader reviewers describe it as a 'hidden gem' with thick fish, generous portions, and reasonable pricing relative to Manhattan omakase (yelp.com/biz/sushi-uesugi-brooklyn, bkreader.com). Chef Kenji runs the counter (japanvillage.com). Weekend hours: Fri–Sat 12–3pm & 5–9pm, Sun 12–3pm & 5–8pm. Pairs naturally with Japan Village hall browsing pre/post meal — strong romantic uplevel for the IC anchor track.",
     "sources": [
       {
         "url": "https://www.japanvillage.com/eat-drink/sushi-uesugi",
-        "accessed": "2026-05-18T17:05:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://m.yelp.com/biz/sushi-uesugi-brooklyn",
-        "accessed": "2026-05-18T17:05:00Z"
+        "url": "https://www.yelp.com/biz/sushi-uesugi-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.bkreader.com/best-of-brooklyn/best-of-brooklyn-sushi-11374680",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://nosleep.city/best-omakase-in-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-18T17:07:42.352Z"
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:45:17.907Z"
   },
   {
     "id": "kijitora-williamsburg",
@@ -21569,43 +21582,40 @@
   {
     "id": "ramen-setagaya-japan-village",
     "name": "Ramen Setagaya at Japan Village",
-    "desc": "Authentic Tokyo-style ramen counter inside Japan Village's food hall at Industry City.",
-    "longDesc": "Ramen Setagaya's Industry City outpost sits inside the Japan Village food hall on 3rd Ave, slinging Tokyo-style bowls built on broths the founder spent years dialing in. Signature pours include Black Garlic DX, a delicate Shio, and vegan Tantanmen, plus the cult Mt Fuji ramen (tomato + Parmesan). Counter seating, fast service, and shared Japan Village seating make it an easy stop between Sunrise Mart shopping and a Wegmans/coffee detour.",
-    "url": "https://www.setagayany.com/",
-    "photoUrl": "",
+    "desc": "Tonkotsu specialist stall inside Japan Village — black garlic, classic, spicy miso, tsukemen.",
+    "longDesc": "A standalone ramen counter from Tsukasa Maejima's Tokyo Setagaya lineage (NYC since 2007, Best of New York winner) tucked inside Japan Village at Industry City. The menu leans on rich tonkotsu — Classic, Black Garlic, Black Garlic Tsukemen, and Spicy Miso — with chashu, bamboo shoots, and ajitama. Cite it on its own when you want a ramen anchor without the rest of the food hall.",
+    "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+    "photoUrl": "https://cdn.prod.website-files.com/645c04057f980aa3630c9daf/67f6eb0a5957e114ea6d9073_JV-%20ramen%20setagaya.avif",
     "aiBackgroundUrl": "",
     "zone": "industry-city",
     "vibe": [
       "foodie",
       "chill"
     ],
-    "dietary": [
-      "vegetarian",
-      "vegan"
-    ],
+    "dietary": [],
     "priceBand": "$$",
-    "duration": "45-60 min",
+    "duration": "30-45 min",
     "driveFromIC": "0 min",
-    "hoursWeekend": "Fri-Sat 11:30-20:30, Sun 11:30-19:30",
-    "notes": "Located inside Japan Village at 934 3rd Ave, Brooklyn NY 11232 — same complex as Sunrise Mart and Hachi Maki, completing the handroll/sushi/ramen trio on-site (setagayany.com). Black Garlic DX and Mt Fuji ramen are the standout pulls; vegan Tantanmen and Spicy Miso cover non-meat diners (yelp.com). Counter-style — sit at the bar or grab a Japan Village hall seat. Walk-in only, can queue 15-30 min on peak weekend afternoons.",
+    "hoursWeekend": "Sat 11:30-20:30, Sun 11:30-19:30",
+    "notes": "Inside Japan Village food hall on Industry City campus, Building 4 (934 3rd Ave) — same lot, so park once and eat (japanvillage.com). Signature bowls: Classic Tonkotsu, Black Garlic Tonkotsu, Black Garlic Tsukemen, Spicy Miso (japanvillage.com). Tsukasa Maejima's NYC outpost (open since 2007) won New York magazine's Best of New York the year after opening (restaurantjun.com). Pair with Sunrise Mart across the aisle for a post-ramen Japanese grocery wander.",
     "sources": [
       {
+        "url": "https://www.japanvillage.com/eat-drink/ramen-setagaya",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
         "url": "https://www.setagayany.com/",
-        "accessed": "2026-05-18T17:00:00Z"
+        "accessed": "2026-05-18T00:00:00Z"
       },
       {
-        "url": "https://www.yelp.com/biz/ramen-setagaya-brooklyn-2",
-        "accessed": "2026-05-18T17:00:00Z"
-      },
-      {
-        "url": "https://brooklynbased.com/2018/11/30/nycs-first-japanese-food-hall-japan-village-opens-industry-city/",
-        "accessed": "2026-05-18T17:00:00Z"
+        "url": "https://restaurantjun.com/japanese-restaurant-near-me/setagaya/",
+        "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
-    "needsAiBackground": true,
-    "lastResearchedAt": "2026-05-18T17:01:33.755Z"
+    "needsAiBackground": false,
+    "lastResearchedAt": "2026-05-19T01:49:29.136Z"
   },
   {
     "id": "wakuwaku-izakaya-industry-city",
@@ -49535,45 +49545,45 @@
   {
     "id": "grand-army-plaza-greenmarket",
     "name": "Grand Army Plaza Greenmarket",
-    "desc": "Year-round Saturday farmers market at Prospect Park's NW gateway — 35+ regional producers, since 1989.",
-    "longDesc": "GrowNYC's flagship Brooklyn Greenmarket operates every Saturday year-round at the northwest entrance to Prospect Park, with roughly 35+ Northeast farms selling vegetables, fruit, dairy, meat, bread, honey, flowers, and specialty goods. The plaza setting puts you steps from the Brooklyn Public Library, Brooklyn Museum, and Brooklyn Botanic Garden, so it pairs naturally with a longer Saturday-in-the-park run. Accepts SNAP/EBT with a Health Bucks bonus (spend $2, get $2 back, up to $10/day).",
-    "url": "https://grownyc.org/locations/grand-army-plaza-greenmarket/",
+    "desc": "Brooklyn's flagship Saturday farmers market at Prospect Park's north entrance, 35+ regional producers year-round.",
+    "longDesc": "Founded in 1989 and second only to Union Square in size, this open-air market runs every Saturday 8am-4pm year-round at Prospect Park West & Flatbush Ave. Roughly 35 producers within 250 miles offer vegetables, dairy (Ronnybrook, Cato Corner), bread (Bread Alone, Lost Bread Co), pasture-raised meats (Hudson Valley Duck, DiPaola Turkeys), fish, cider, and prepared foods. SNAP/EBT shoppers double their spend via Health Bucks; clothing collection runs 8am-2pm.",
+    "url": "https://grownyc.org/greenmarket/brooklyn-grand-army-plaza",
     "photoUrl": "",
     "aiBackgroundUrl": "",
-    "zone": "park-slope",
+    "zone": "prospect-heights",
     "vibe": [
       "foodie",
-      "chill",
-      "curious"
+      "curious",
+      "chill"
     ],
     "dietary": [
       "vegetarian",
       "vegan",
       "gluten-free"
     ],
-    "priceBand": "$",
-    "duration": "45-90 min",
-    "driveFromIC": "14 min",
-    "hoursWeekend": "Sat 08:00-16:00; Sun closed",
-    "notes": "Saturday-only — fills the weekend slot opposite Smorgasburg's Sunday at the same Prospect Park gateway. Year-round operation since 1989, ~35+ vendors (GrowNYC). Sits between Park Slope and Prospect Heights at Plaza St West & Flatbush Ave; weekend metered street parking on the side streets off Plaza St West and Eastern Pkwy, plus paid lot at the Brooklyn Museum a short walk east. Clothing collection runs Sat 08:00-14:00 (GrowNYC). Pairs well with a Botanic Garden / Prospect Park stroll after shopping.",
+    "priceBand": "$$",
+    "duration": "60-90 min",
+    "driveFromIC": "15 min",
+    "hoursWeekend": "Sat 08:00-16:00 (year-round); closed Sun",
+    "notes": "Anchor for a Prospect Heights/Park Slope cluster track — pair with Prospect Park loop, Brooklyn Museum, or Park Slope brunch. ~15 min drive from Industry City via 4th Ave or Prospect Expwy (source: GrowNYC). No dedicated lot; street parking on Plaza St/Eastern Pkwy side streets fills up by 10am — arrive early. ~35 producers including Bradley Farm produce, Ronnybrook dairy, Bread Alone, Hudson Valley Duck, NY Cider Co (source: GrowNYC). Accepts cash/credit/SNAP/EBT/Health Bucks (source: GrowNYC). Notably larger than Borough Hall and Cortelyou Greenmarkets — best Brooklyn pick for full-spread foraging.",
     "sources": [
       {
-        "url": "https://grownyc.org/locations/grand-army-plaza-greenmarket/",
-        "accessed": "2026-05-18T00:00:00Z"
-      },
-      {
-        "url": "https://www.prospectpark.org/visit-the-park/things-to-do/greenmarket/",
+        "url": "https://grownyc.org/greenmarket/brooklyn-grand-army-plaza",
         "accessed": "2026-05-18T00:00:00Z"
       },
       {
         "url": "https://www.yelp.com/biz/grand-army-plaza-greenmarket-brooklyn",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.prospectpark.org/visit-the-park/things-to-do/greenmarket/",
         "accessed": "2026-05-18T00:00:00Z"
       }
     ],
     "promotedTo": null,
     "enriched": true,
     "needsAiBackground": false,
-    "lastResearchedAt": "2026-05-19T01:29:26.224Z"
+    "lastResearchedAt": "2026-05-19T01:43:08.916Z"
   },
   {
     "id": "smorgasburg-wtc-fridays",
@@ -49660,5 +49670,45 @@
     "enriched": true,
     "needsAiBackground": true,
     "lastResearchedAt": "2026-05-19T01:34:34.260Z"
+  },
+  {
+    "id": "burger-joint-industry-city",
+    "name": "Burger Joint at Industry City",
+    "desc": "Brooklyn outpost of NYC's iconic speakeasy-style burger spot, parked inside IC's Building 2 food hall.",
+    "longDesc": "An outpost of the legendary Le Parker Meridien hidden-burger spot, this Industry City location keeps the no-frills griddled-cheeseburger DNA but adds craft beers, milkshakes, sweet-potato fries, hot dogs, and a Beyond plant-based option. Sits inside the Building 2 food hall at 220 36th St (Suite B114S), so you can pair it with neighbors like Avocaderia, Bangkok B.A.R., or Ends Meat without leaving the hall (industrycity.com).",
+    "url": "https://industrycity.com/tenants/burger-joint/",
+    "photoUrl": "",
+    "aiBackgroundUrl": "",
+    "zone": "industry-city",
+    "vibe": [
+      "chill",
+      "foodie"
+    ],
+    "dietary": [
+      "vegetarian"
+    ],
+    "priceBand": "$$",
+    "duration": "30-45 min",
+    "driveFromIC": "0 min",
+    "hoursWeekend": "Sat 12:00-22:00, Sun 12:00-19:00",
+    "notes": "Inside Industry City Food Hall, Building 2 (220 36th St, Suite B114S). Plant-based Beyond burger covers vegetarian/flexitarian guests; craft beer list and milkshakes make it an easy fallback when Japan Village queues get long (burgerjointny.com). Weekend kitchen runs latest Fri/Sat (12-10pm).",
+    "sources": [
+      {
+        "url": "https://industrycity.com/tenants/burger-joint/",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://www.burgerjointny.com/industry-city",
+        "accessed": "2026-05-18T00:00:00Z"
+      },
+      {
+        "url": "https://industrycity.com/eat-drink/",
+        "accessed": "2026-05-18T00:00:00Z"
+      }
+    ],
+    "promotedTo": null,
+    "enriched": true,
+    "needsAiBackground": true,
+    "lastResearchedAt": "2026-05-19T01:51:33.801Z"
   }
 ]
