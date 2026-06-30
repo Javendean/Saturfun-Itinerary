@@ -56,6 +56,7 @@ function applyReactions(photoId, reactions) {
     if (html) { if (!s) { tile.insertAdjacentHTML("beforeend", html); } else { s.outerHTML = html; } }
     else if (s) s.remove();
   }
+  lastSig = PHOTOS.map((p) => `${p.id}:${(p.reactions || []).map((r) => r.emoji + r.count).join("")}`).join(",");
 }
 
 async function toggleReaction(emoji) {
