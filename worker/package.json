@@ -8,12 +8,17 @@
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
     "tail": "wrangler tail",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "cf-typegen": "wrangler types",
     "typecheck": "tsc --noEmit",
     "kv:create": "wrangler kv namespace create RATE_LIMIT && wrangler kv namespace create RATE_LIMIT --preview"
   },
   "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "^0.16.20",
     "@cloudflare/workers-types": "^4.20250906.0",
     "typescript": "^5.6.2",
+    "vitest": "^4.1.9",
     "wrangler": "^4.0.0"
   }
 }

@@ -1,0 +1,124 @@
+/* Photo Wall — styled in Saturfun's design system (ink / paper / blood / gold,
+   Playfair Display + Inter). Matches panels.html / manga.html conventions. */
+:root {
+  --ink: #0E0E10;
+  --paper: #F2EFE9;
+  --blood: #B33A3A;
+  --gold: #D4AF37;
+  --muted: #5A5A5A;
+  --card: #161618;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--ink);
+  color: var(--paper);
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+}
+h1, h2, h3, .serif { font-family: 'Playfair Display', serif; }
+a { color: inherit; }
+
+/* ---- Hero ---- */
+.hero {
+  min-height: 44vh;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center; padding: 3.5rem 2rem 2rem; position: relative; overflow: hidden;
+}
+.hero::before {
+  content: ''; position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background:
+    repeating-linear-gradient(0deg, transparent 0 2px, rgba(255,255,255,.012) 2px 4px),
+    radial-gradient(ellipse at center, rgba(179,58,58,.18) 0%, transparent 60%);
+}
+.hero > * { position: relative; z-index: 1; }
+.eyebrow {
+  font-size: .72rem; text-transform: uppercase; letter-spacing: .4em;
+  color: var(--blood); font-weight: 600; margin-bottom: 1rem;
+}
+.hero h1 {
+  font-size: clamp(2.6rem, 8vw, 6rem); font-weight: 800; line-height: .95;
+  letter-spacing: -.03em; margin: 0 0 .9rem;
+}
+.hero h1 em { font-style: italic; font-weight: 400; color: var(--blood); }
+.hero p {
+  font-size: clamp(.95rem, 1.5vw, 1.1rem); color: rgba(242,239,233,.7);
+  max-width: 560px; margin: 0 auto; font-weight: 300; line-height: 1.55;
+}
+
+/* ---- Controls / dropzone ---- */
+.controls { display: flex; gap: .8rem; flex-wrap: wrap; justify-content: center; margin-top: 1.8rem; align-items: center; }
+button.act {
+  display: inline-flex; align-items: center; gap: .5rem; padding: .7rem 1.3rem;
+  border-radius: 999px; border: 1px solid rgba(242,239,233,.18); background: transparent;
+  color: var(--paper); font-size: .82rem; font-weight: 500; letter-spacing: .05em;
+  cursor: pointer; transition: all .18s ease; font-family: 'Inter', sans-serif;
+}
+button.act:hover { background: rgba(212,175,55,.1); border-color: rgba(212,175,55,.5); color: var(--gold); }
+button.act.primary { background: var(--blood); border-color: var(--blood); color: #fff; }
+button.act.primary:hover { background: #c94646; color: #fff; }
+button.act.danger:hover { background: rgba(179,58,58,.16); border-color: var(--blood); color: var(--blood); }
+.dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); box-shadow: 0 0 8px rgba(212,175,55,.7); }
+
+#dropzone {
+  margin: 1.6rem auto 0; max-width: 560px; width: 100%;
+  border: 1px dashed rgba(242,239,233,.22); border-radius: 14px;
+  padding: 1.4rem 1.2rem; color: rgba(242,239,233,.55); font-size: .85rem;
+  cursor: pointer; transition: all .18s ease; background: rgba(255,255,255,.012);
+}
+#dropzone:hover { border-color: rgba(212,175,55,.5); color: var(--gold); }
+#dropzone.drag { border-color: var(--gold); background: rgba(212,175,55,.08); color: var(--gold); }
+#dropzone b { color: var(--paper); font-weight: 600; }
+#uploadProgress { min-height: 1.2rem; margin-top: .9rem; font-size: .82rem; color: var(--gold); letter-spacing: .03em; }
+
+/* ---- Grid ---- */
+section { padding: 2.5rem 0 4rem; border-top: 1px solid rgba(242,239,233,.06); }
+.wrap { max-width: 1280px; margin: 0 auto; padding: 0 1.25rem; }
+.section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1.6rem; flex-wrap: wrap; }
+.section-head h2 { font-size: clamp(1.5rem, 4vw, 2.2rem); margin: 0; font-weight: 600; }
+.section-head h2 em { font-style: italic; color: var(--blood); font-weight: 400; }
+.section-head .hint { font-size: .78rem; color: rgba(242,239,233,.45); }
+
+#photoGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1rem; }
+.tile {
+  padding: 0; border: 1px solid rgba(242,239,233,.07); border-radius: 10px; overflow: hidden;
+  background: var(--card); cursor: pointer; aspect-ratio: 1 / 1; display: block;
+  transition: transform .15s ease, border-color .15s ease;
+}
+.tile:hover { transform: translateY(-3px); border-color: rgba(212,175,55,.4); }
+.tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+#photoEmpty {
+  grid-column: 1 / -1; text-align: center; color: rgba(242,239,233,.5);
+  padding: 3rem 1rem; font-size: .95rem; line-height: 1.6;
+}
+
+footer { text-align: center; padding: 2.5rem 2rem; color: rgba(242,239,233,.4); font-size: .78rem; border-top: 1px solid rgba(242,239,233,.06); line-height: 1.7; }
+
+/* ---- Lightbox ---- */
+#lightbox { position: fixed; inset: 0; z-index: 50; display: none; align-items: center; justify-content: center; padding: 1.25rem; }
+#lightbox.open { display: flex; }
+#lightboxBackdrop { position: absolute; inset: 0; background: rgba(8,8,9,.92); backdrop-filter: blur(2px); }
+.lightbox-panel {
+  position: relative; z-index: 1; max-width: min(1100px, 96vw); max-height: 92vh;
+  display: flex; flex-direction: column; align-items: center; gap: 1rem;
+}
+#lightboxImg { max-width: 100%; max-height: 78vh; object-fit: contain; border: 1px solid rgba(242,239,233,.12); background: #fff; border-radius: 4px; }
+#lightboxName { font-family: 'Playfair Display', serif; font-size: 1rem; color: var(--paper); text-align: center; word-break: break-word; max-width: 90vw; }
+.lightbox-actions { display: flex; gap: .7rem; flex-wrap: wrap; justify-content: center; }
+.is-owner #lbDelete { display: inline-flex; }
+#lbDelete { display: none; }
+
+/* ---- Toast ---- */
+#toast {
+  position: fixed; left: 50%; bottom: 1.5rem; transform: translateX(-50%) translateY(140%);
+  background: #1c1c1f; color: var(--paper); border: 1px solid rgba(242,239,233,.12);
+  padding: .7rem 1.1rem; border-radius: 999px; font-size: .82rem; z-index: 60;
+  transition: transform .25s ease; box-shadow: 0 8px 30px rgba(0,0,0,.5); max-width: 90vw; text-align: center;
+}
+#toast.show { transform: translateX(-50%) translateY(0); }
+
+@media (max-width: 560px) {
+  #photoGrid { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: .6rem; }
+  .hero { min-height: 38vh; padding: 2.5rem 1.25rem 1.5rem; }
+}

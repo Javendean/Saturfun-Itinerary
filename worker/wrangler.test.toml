@@ -1,0 +1,35 @@
+# Test-only Wrangler config for vitest-pool-workers.
+# Identical bindings to wrangler.toml EXCEPT it omits the [ai] binding — Workers AI
+# has no local emulator, so including it forces a remote proxy session (needs CF
+# credentials). The photo-wall tests never touch env.AI, so we drop it here and run
+# 100% locally in miniflare. R2/D1/KV are emulated with isolated per-test storage.
+name = "saturfun-worker"
+main = "src/index.ts"
+compatibility_date = "2025-09-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT"
+id = "test_rate_limit"
+
+[vars]
+RATE_LIMIT_MAX = "10"
+RATE_WINDOW_SECONDS = "60"
+MAX_TOKENS = "800"
+ALLOWED_ORIGINS = "https://javendean.github.io,http://127.0.0.1:5173,http://localhost:5173,http://127.0.0.1:5599,http://localhost:5599"
+PHOTO_MAX_MB = "25"
+PHOTO_MAX_TOTAL_GB = "3"
+PHOTO_MAX_FILES_PER_REQUEST = "20"
+PHOTO_MAX_REQUEST_MB = "100"
+# Known owner token for tests (prod uses a real `wrangler secret put PHOTO_OWNER_TOKEN`).
+PHOTO_OWNER_TOKEN = "test-owner-secret"
+
+[[r2_buckets]]
+binding = "PHOTOS_BUCKET"
+bucket_name = "saturfun-photos-test"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "saturfun-db-test"
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"

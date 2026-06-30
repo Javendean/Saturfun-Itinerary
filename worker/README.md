@@ -104,6 +104,68 @@ while (true) {
 
 ---
 
+## Photo wall (`/api/photos`)
+
+A public image wall (transplanted from Artifact Studio): **anyone can upload + view;
+DELETE is owner-gated.** Image bytes live in **R2** (`PHOTOS_BUCKET`), metadata in
+**D1** (`DB`). Uploads are validated by **magic bytes only** — never Content-Type or
+extension. See `src/photos.ts` (pure logic), `src/photo-store.ts` (R2+D1),
+`src/photo-routes.ts` (routes).
+
+| Method & path | Notes |
+|---|---|
+| `GET /api/photos` | `{photos:[…]}` newest first (no `stored_name`) |
+| `POST /api/photos` | `multipart/form-data`, field **`files`**; partial batch → `200` with `{photos,errors}`; `400` not-image · `413` too-large · `507` store-full only when nothing succeeded |
+| `GET /api/photos/{id}/raw` | original bytes, immutable cache |
+| `GET /api/photos/{id}/thumb` | thumb (falls back to original — the edge has no Pillow) |
+| `GET /api/photos/{id}/download` | original as an attachment |
+| `DELETE /api/photos/{id}` | **owner only** — header `X-Owner-Token: <secret>`; fails closed if the secret is unset |
+
+Caps (public endpoint hardening): `PHOTO_MAX_MB` (default 25) per file → `413`;
+`PHOTO_MAX_TOTAL_GB` (default 3) total → `507`; `PHOTO_MAX_FILES_PER_REQUEST`
+(default 20) → `413`; `PHOTO_MAX_REQUEST_MB` (default 100) body cap checked from
+`Content-Length` *before* buffering → `413`. Per-file size is checked via `File.size`
+before bytes are read (avoids isolate OOM); a failed D1 insert deletes its orphaned R2
+object. Malformed `%`-encoded ids return `404` (not `500`).
+
+> **Known limitation (low risk):** the total-store `507` guardrail is read-then-check
+> per request (D1 `SUM(size)`), so many *concurrent* uploads racing right at the 3 GB
+> boundary can overshoot it slightly. This is a disk-fill guardrail (R2 free tier is
+> 10 GB), not a secrets boundary, and the per-request file/byte caps bound the overshoot.
+> If you ever want it exact, replace the SUM check with an atomic reserve-then-commit on a
+> single `store_meta(total_bytes)` row (`UPDATE … WHERE total_bytes + ? <= ?`, check
+> `meta.changes === 1`) or a Durable Object holding the running total.
+
+### One-time provisioning + deploy
+
+```sh
+cd worker
+npx wrangler login
+
+# R2 bucket + D1 database (paste the printed database_id into wrangler.toml)
+npx wrangler r2 bucket create saturfun-photos
+npx wrangler d1 create saturfun-db
+
+# Owner secret that gates DELETE
+npx wrangler secret put PHOTO_OWNER_TOKEN     # paste a long random string
+
+# Apply the D1 schema (NOT auto-applied by deploy) — remote, then deploy
+npx wrangler d1 migrations apply saturfun-db --remote
+npx wrangler deploy
+```
+
+Local dev/UAT (R2/D1/KV all emulated locally — prod untouched):
+
+```sh
+npx wrangler d1 migrations apply saturfun-db --local   # seeds the local table
+npx wrangler dev                                        # http://127.0.0.1:8787
+```
+
+Tests: `npm test` (watch) / `npm run test:run`. They use `wrangler.test.toml`
+(omits the `[ai]` binding, which has no local emulator) and isolated R2/D1.
+
+---
+
 ## Prerequisites
 
 1. A Cloudflare account (free tier is enough).

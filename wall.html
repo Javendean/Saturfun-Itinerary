@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Photo Wall | Saturfun</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,800;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="wall.css">
+</head>
+<body>
+
+<header class="hero">
+  <span class="eyebrow">Photo Wall · Shared Drop</span>
+  <h1>Drop a photo,<br><em>grab it on your phone</em></h1>
+  <p>A shared wall for the crew. Anyone can add photos; tap any one to save it
+     straight to your phone&rsquo;s camera roll. No app, no login.</p>
+
+  <div class="controls">
+    <button class="act primary" id="addBtn"><span class="dot"></span> Add photos</button>
+    <button class="act" id="ownerBtn" title="Enter the owner token to enable deleting">Owner</button>
+  </div>
+
+  <div id="dropzone">
+    <b>Drag photos here</b> or click to choose &mdash; jpg, png, gif, webp, heic. Up to 25&nbsp;MB each.
+  </div>
+  <div id="uploadProgress" aria-live="polite"></div>
+
+  <!-- file picker (DOM-id contract) -->
+  <input type="file" id="photoInput" accept="image/*" multiple hidden>
+</header>
+
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <h2>On the <em>wall</em></h2>
+      <span class="hint" id="photoStat"></span>
+    </div>
+    <div id="photoGrid"></div>
+    <div id="photoEmpty">The wall is empty. Be the first &mdash; drop a photo above.</div>
+  </div>
+</section>
+
+<footer>
+  Photos are public to anyone with this link. Be kind. Saturfun &middot; Brooklyn
+</footer>
+
+<!-- Lightbox -->
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer">
+  <div id="lightboxBackdrop"></div>
+  <div class="lightbox-panel">
+    <img id="lightboxImg" alt="">
+    <div id="lightboxName"></div>
+    <div class="lightbox-actions">
+      <button class="act primary" id="lbSave"><span class="dot"></span> Save to phone</button>
+      <button class="act" id="lbOpen">Open original</button>
+      <button class="act danger" id="lbDelete">Delete</button>
+      <button class="act" id="lbClose">Close</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script type="module" src="wall.js"></script>
+</body>
+</html>

@@ -32,7 +32,35 @@ RATE_WINDOW_SECONDS = "60"
 # Hard ceiling per generated response (caps worst-case neuron spend).
 MAX_TOKENS = "800"
 # Comma-separated CORS origins. Append your own preview/prod origins as needed.
-ALLOWED_ORIGINS = "https://javendean.github.io,http://127.0.0.1:5173,http://localhost:5173"
+ALLOWED_ORIGINS = "https://javendean.github.io,http://127.0.0.1:5173,http://localhost:5173,http://127.0.0.1:5599,http://localhost:5599"
+# ---- Photo wall knobs ----------------------------------------------------
+# Hard per-file upload cap (the endpoint is public). Magic-byte validated.
+PHOTO_MAX_MB = "25"
+# Total R2 budget for ALL photos combined — disk-fill guardrail (-> 507).
+PHOTO_MAX_TOTAL_GB = "3"
+# Anti-amplification: max files per upload request, and max request body before buffering.
+PHOTO_MAX_FILES_PER_REQUEST = "20"
+PHOTO_MAX_REQUEST_MB = "100"
+# NOTE: PHOTO_OWNER_TOKEN is a SECRET, not a var. Set it with:
+#   wrangler secret put PHOTO_OWNER_TOKEN
+# DELETE is gated by it and fails closed when unset.
+
+# ---- R2 bucket: photo bytes (originals + optional thumbs) ----------------
+# Create it once:  wrangler r2 bucket create saturfun-photos
+# Local `wrangler dev` + vitest use an isolated local bucket keyed by binding.
+[[r2_buckets]]
+binding = "PHOTOS_BUCKET"
+bucket_name = "saturfun-photos"
+
+# ---- D1 database: photo metadata (bytes live in R2) ----------------------
+# Create it once:  wrangler d1 create saturfun-db   (prints the real database_id)
+# The placeholder id below is fine for LOCAL dev/test (miniflare ignores it);
+# paste the real UUID before `wrangler deploy` + `wrangler d1 migrations apply --remote`.
+[[d1_databases]]
+binding = "DB"
+database_name = "saturfun-db"
+database_id = "45d2081f-bcfe-47f4-aed3-1ab15a31e7f6"
+migrations_dir = "migrations"
 
 # ---- Observability -------------------------------------------------------
 [observability]

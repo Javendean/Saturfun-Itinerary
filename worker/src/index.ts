@@ -23,23 +23,13 @@
 
 import { checkRateLimit } from "./rate-limit";
 import { buildSystemPrompt } from "./system-prompt";
+import { corsHeaders } from "./http";
+import { handlePhotoRoute } from "./photo-routes";
 import type { ChatMessage, ChatRequest, Env } from "./types";
 
 const MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 
-// ---- CORS ---------------------------------------------------------------
-
-function corsHeaders(env: Env, origin: string | null): HeadersInit {
-  const allowed = env.ALLOWED_ORIGINS.split(",").map((s) => s.trim()).filter(Boolean);
-  const allow = origin && allowed.includes(origin) ? origin : allowed[0] ?? "*";
-  return {
-    "Access-Control-Allow-Origin": allow,
-    "Access-Control-Allow-Methods": "POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
-    "Access-Control-Max-Age": "86400",
-    Vary: "Origin",
-  };
-}
+// ---- CORS (shared in ./http) --------------------------------------------
 
 function jsonError(status: number, message: string, env: Env, origin: string | null, extra?: HeadersInit): Response {
   return new Response(JSON.stringify({ error: message }), {
@@ -98,6 +88,11 @@ export default {
     // Health probe — handy for status badges.
     if (request.method === "GET" && url.pathname === "/healthz") {
       return new Response("ok", { status: 200, headers: corsHeaders(env, origin) });
+    }
+
+    // Photo wall — public upload + view, owner-gated delete (see ./photo-routes).
+    if (url.pathname === "/api/photos" || url.pathname.startsWith("/api/photos/")) {
+      return handlePhotoRoute(request, env, url, origin);
     }
 
     if (url.pathname !== "/api/chat") {
