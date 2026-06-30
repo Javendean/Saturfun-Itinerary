@@ -167,3 +167,16 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
   #photoGrid { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: .6rem; }
   .hero { min-height: 38vh; padding: 2.5rem 1.25rem 1.5rem; }
 }
+
+/* ---- Likes ---- */
+.tile-likes {
+  position: absolute; left: .4rem; bottom: .4rem;
+  background: rgba(8,8,9,.66); color: var(--paper);
+  font-size: .68rem; letter-spacing: .02em; padding: .12rem .4rem;
+  border-radius: 999px; pointer-events: none;
+}
+#lbLike { background: transparent; border-color: rgba(242,239,233,.18); color: var(--paper); }
+#lbLike:hover { background: rgba(179,58,58,.16); border-color: var(--blood); color: var(--blood); }
+#lbLike.liked { background: var(--blood); border-color: var(--blood); color: #fff; }
+#lbLike .lb-heart { filter: grayscale(1) brightness(1.4); }
+#lbLike.liked .lb-heart { filter: none; }

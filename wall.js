@@ -11,6 +11,20 @@ const PHOTO_API = (() => {
 })();
 
 const OWNER_KEY = "saturfun_photo_owner";
+const DEVICE_KEY = "saturfun_device_id";
+function deviceId() {
+  let id = localStorage.getItem(DEVICE_KEY);
+  if (!id) { id = (crypto.randomUUID ? crypto.randomUUID() : String(Date.now()) + Math.random()); localStorage.setItem(DEVICE_KEY, id); }
+  return id;
+}
+async function postLike(photoId) {
+  const r = await fetch(`${PHOTO_API}/api/photos/${photoId}/like`, {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ device_id: deviceId() }),
+  });
+  if (!r.ok) throw new Error(String(r.status));
+  return r.json(); // { liked, count }
+}
 const IMG_RE = /\.(jpe?g|png|gif|webp|bmp|heic|heif)$/i;
 
 // Bulk dumps are split into batches kept safely under the Worker's per-request
@@ -270,7 +284,7 @@ async function loadPhotos() {
   try {
     let data;
     try {
-      const r = await fetch(`${PHOTO_API}/api/photos`);
+      const r = await fetch(`${PHOTO_API}/api/photos?device=${encodeURIComponent(deviceId())}`);
       data = (await r.json()).photos || [];
     } catch (e) {
       console.warn("[wall] load failed:", e);
@@ -278,7 +292,7 @@ async function loadPhotos() {
     }
 
     const delta = data.length - PHOTOS.length;
-    const newSig = data.map((p) => p.id).join(",");
+    const newSig = data.map((p) => `${p.id}:${p.like_count || 0}`).join(",");
     const changed = newSig !== lastSig;
     PHOTOS = data;
 
@@ -306,7 +320,8 @@ async function loadPhotos() {
           tile.dataset.id = p.id;
           tile.innerHTML =
             `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
-            `<span class="check" aria-hidden="true">✓</span>`;
+            `<span class="check" aria-hidden="true">✓</span>` +
+            (p.like_count ? `<span class="tile-likes">❤ ${p.like_count}</span>` : "");
           tile.addEventListener("click", () => {
             if (selectMode) toggleTile(p, tile);
             else openLightbox(p);
@@ -434,6 +449,7 @@ async function deleteSelected() {
 // ---- lightbox -----------------------------------------------------------
 function openLightbox(p) {
   current = p;
+  renderLightboxLike(p);
   $("lightboxImg").src = `${PHOTO_API}/api/photos/${p.id}/raw`;
   $("lightboxImg").alt = p.filename;
   $("lightboxName").textContent = p.filename;
@@ -444,6 +460,31 @@ function closeLightbox() {
   $("lightbox").classList.remove("open");
   document.body.style.overflow = "";
   current = null;
+}
+function renderLightboxLike(p) {
+  const btn = $("lbLike");
+  if (!btn) return;
+  btn.classList.toggle("liked", !!p.liked);
+  btn.querySelector(".lb-like-count").textContent = p.like_count || 0;
+}
+async function toggleCurrentLike() {
+  if (!current) return;
+  const btn = $("lbLike");
+  try {
+    const res = await postLike(current.id);
+    current.liked = res.liked;
+    current.like_count = res.count;
+    renderLightboxLike(current);
+    // reflect in PHOTOS + grid badge without a full reload
+    const inList = PHOTOS.find((x) => x.id === current.id);
+    if (inList) { inList.liked = res.liked; inList.like_count = res.count; }
+    const tile = document.querySelector(`#photoGrid .tile[data-id="${current.id}"]`);
+    if (tile) {
+      let b = tile.querySelector(".tile-likes");
+      if (res.count) { if (!b) { b = document.createElement("span"); b.className = "tile-likes"; tile.appendChild(b); } b.textContent = `❤ ${res.count}`; }
+      else if (b) b.remove();
+    }
+  } catch (e) { toast("Couldn't update like."); }
 }
 async function deleteCurrent() {
   if (!current) return;
@@ -542,6 +583,7 @@ function init() {
   dz.addEventListener("drop", (e) => uploadFiles(e.dataTransfer.files));
 
   // lightbox actions
+  $("lbLike").addEventListener("click", toggleCurrentLike);
   $("lbSave").addEventListener("click", () => current && savePhoto(current));
   $("lbOpen").addEventListener("click", () => current && window.open(`${PHOTO_API}/api/photos/${current.id}/raw`, "_blank"));
   $("lbDelete").addEventListener("click", deleteCurrent);
