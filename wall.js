@@ -121,7 +121,6 @@ async function savePhotos(photos) {
     chunks: chunkPhotos(photos, SHARE_MAX_FILES, SHARE_MAX_BYTES),
     index: 0,
     total: photos.length,
-    preloaded: null,
   };
   await runShareBatch(); // this user tap shares the first batch
 }
@@ -134,17 +133,14 @@ async function runShareBatch() {
   const { chunks, index } = shareQueue;
   const chunk = chunks[index];
 
-  let files = shareQueue.preloaded;
-  shareQueue.preloaded = null;
-  if (!files) {
-    setProgress(chunks.length > 1 ? `Preparing ${index + 1} of ${chunks.length}…` : "Preparing…");
-    try {
-      files = await fetchAsFiles(chunk);
-    } catch {
-      files = null;
-    }
-    setProgress("");
+  setProgress(chunks.length > 1 ? `Preparing ${index + 1} of ${chunks.length}…` : "Preparing…");
+  let files = null;
+  try {
+    files = await fetchAsFiles(chunk);
+  } catch {
+    files = null;
   }
+  setProgress("");
 
   if (!files || !navigator.canShare({ files })) {
     const rest = chunks.slice(index).flat();
@@ -169,12 +165,6 @@ async function runShareBatch() {
   } else {
     const remaining = chunks.slice(shareQueue.index).flat().length;
     showShareNext(remaining);
-    // Prefetch the next batch so its tap goes straight to share() (preserves activation).
-    // Guard by index so a stale prefetch can't clobber a later batch's files.
-    const want = shareQueue.index;
-    fetchAsFiles(chunks[want])
-      .then((f) => { if (shareQueue && shareQueue.index === want) shareQueue.preloaded = f; })
-      .catch(() => {});
   }
 }
 
