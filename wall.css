@@ -158,6 +158,10 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
   position: fixed; left: 50%; bottom: 4.5rem; transform: translateX(-50%);
   z-index: 61; box-shadow: 0 10px 34px rgba(0,0,0,.55); white-space: nowrap;
 }
+#updateBtn {
+  position: fixed; left: 50%; bottom: 7.5rem; transform: translateX(-50%);
+  z-index: 62; box-shadow: 0 10px 34px rgba(0,0,0,.55); white-space: nowrap; max-width: 90vw;
+}
 
 @media (max-width: 560px) {
   #photoGrid { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: .6rem; }

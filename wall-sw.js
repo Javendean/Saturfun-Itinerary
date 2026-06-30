@@ -12,7 +12,7 @@
 // To reset on a device: DevTools → Application → Service Workers → Unregister, and
 // clear the "saturfun-wall-*" cache.
 
-const CACHE = "saturfun-wall-v4";
+const CACHE = "saturfun-wall-v5";
 const SHELL = [
   "wall.html",
   "wall.css",
@@ -46,9 +46,10 @@ self.addEventListener("fetch", (e) => {
   const url = new URL(req.url);
   // Only our own origin AND only the wall shell. Anything else → default network fetch.
   if (url.origin !== self.location.origin || !SHELL_PATHS.has(url.pathname)) return;
-  // Network-first (always fresh after a deploy) with cache fallback (offline app shell).
+  // Network-first with HTTP-cache BYPASS (cache:"reload") so a deploy is picked up
+  // immediately, not after GitHub Pages' ~10-min asset cache. Cache fallback = offline shell.
   e.respondWith(
-    fetch(req)
+    fetch(req, { cache: "reload" })
       .then((res) => {
         if (res && res.ok) {
           const clone = res.clone();

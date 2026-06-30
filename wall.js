@@ -473,6 +473,46 @@ async function deleteCurrent() {
   }
 }
 
+// ---- PWA app-version update prompt --------------------------------------
+// Polls the deployed SW cache-version string; offers "tap to update" only when a newer
+// version shipped than the one THIS (warm) page is running. Cold launches load the
+// latest already (network-first), so no prompt fires on a fresh open.
+function setupAppUpdate() {
+  let loadedVersion = null;
+  let updating = false;
+  const fetchVersion = async () => {
+    try {
+      const txt = await (await fetch(`wall-sw.js?t=${Date.now()}`, { cache: "no-store" })).text();
+      const m = txt.match(/saturfun-wall-v\d+/);
+      return m ? m[0] : null;
+    } catch {
+      return null;
+    }
+  };
+  const check = async () => {
+    if (updating) return;
+    const v = await fetchVersion();
+    if (!v) return;
+    if (loadedVersion === null) {
+      loadedVersion = v; // the version this page launched with
+      return;
+    }
+    if (v !== loadedVersion) {
+      const btn = $("updateBtn");
+      btn.hidden = false;
+      btn.onclick = () => {
+        updating = true;
+        location.reload();
+      };
+    }
+  };
+  check();
+  setInterval(check, 60000);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) check();
+  });
+}
+
 // ---- wiring -------------------------------------------------------------
 function init() {
   const input = $("photoInput");
@@ -550,6 +590,7 @@ function init() {
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("wall-sw.js", { scope: "wall" }).catch((e) => console.warn("[wall] SW registration failed:", e));
   }
+  setupAppUpdate();
 
   refreshOwnerUI();
   loadPhotos();
