@@ -1,0 +1,17 @@
+{
+  "id": "/Saturfun-Itinerary/wall",
+  "name": "Saturfun Photo Wall",
+  "short_name": "Photo Wall",
+  "description": "A shared photo wall — add photos and save them straight to your phone.",
+  "start_url": "./wall.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E0E10",
+  "theme_color": "#0E0E10",
+  "icons": [
+    { "src": "wall-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "wall-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "wall-icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

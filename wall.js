@@ -495,6 +495,13 @@ function init() {
   $("selDeleteBtn").addEventListener("click", deleteSelected);
   $("shareNext").addEventListener("click", runShareBatch);
 
+  // PWA: register the wall's service worker. scope "wall" narrows control to the wall's
+  // own assets only (prefix /…/wall*) — index.html and the rest of the site are never
+  // controlled. (Narrowing needs no Service-Worker-Allowed header; see wall-sw.js.)
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("wall-sw.js", { scope: "wall" }).catch((e) => console.warn("[wall] SW registration failed:", e));
+  }
+
   refreshOwnerUI();
   loadPhotos();
 }
