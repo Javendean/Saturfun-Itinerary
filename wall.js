@@ -26,6 +26,9 @@ let PHOTOS = [];
 let current = null; // photo open in the lightbox
 let selectMode = false;
 const selected = new Set(); // photo ids selected in select mode
+let lastSig = ""; // signature of the last-rendered photo set (change detection)
+let loading = false; // guard against concurrent loadPhotos
+const AUTO_REFRESH_MS = 20000; // poll for others' uploads while the tab is visible
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) =>
@@ -260,48 +263,84 @@ async function uploadFiles(fileList) {
 }
 
 // ---- grid ---------------------------------------------------------------
+// Fetches the wall; rebuilds the grid ONLY when the photo set changed (so auto-refresh
+// is a cheap no-op when nothing's new). Returns { ok, changed, delta }.
 async function loadPhotos() {
+  if (loading) return { ok: true, skipped: true, delta: 0 };
+  loading = true;
+  let data;
   try {
     const r = await fetch(`${PHOTO_API}/api/photos`);
-    const data = await r.json();
-    PHOTOS = data.photos || [];
+    data = (await r.json()).photos || [];
   } catch (e) {
     console.warn("[wall] load failed:", e);
-    PHOTOS = [];
+    loading = false;
+    return { ok: false, delta: 0 };
   }
+
+  const delta = data.length - PHOTOS.length;
+  const newSig = data.map((p) => p.id).join(",");
+  const changed = newSig !== lastSig;
+  PHOTOS = data;
+
   // drop any selected ids that no longer exist
-  const ids = new Set(PHOTOS.map((p) => p.id));
+  const ids = new Set(data.map((p) => p.id));
   for (const id of Array.from(selected)) if (!ids.has(id)) selected.delete(id);
 
-  const grid = $("photoGrid");
   const empty = $("photoEmpty");
-  const has = PHOTOS.length > 0;
-  $("photoStat").textContent = has ? `${PHOTOS.length} photo${PHOTOS.length === 1 ? "" : "s"}` : "";
+  const has = data.length > 0;
+  $("photoStat").textContent = has ? `${data.length} photo${data.length === 1 ? "" : "s"}` : "";
   $("saveAllBtn").hidden = !has;
   $("selectBtn").hidden = !has;
-  // #photoEmpty is a SIBLING of the grid — toggle it, never move it into the
-  // innerHTML wipe (which would detach it and break the next empty render).
-  grid.innerHTML = "";
+  // #photoEmpty is a SIBLING of the grid — toggle it, never move it into the innerHTML wipe.
   if (empty) empty.style.display = has ? "none" : "";
-  if (!has) {
-    if (selectMode) exitSelectMode();
-    return;
-  }
-  for (const p of PHOTOS) {
-    const tile = document.createElement("button");
-    tile.className = "tile" + (selected.has(p.id) ? " selected" : "");
-    tile.type = "button";
-    tile.dataset.id = p.id;
-    tile.innerHTML =
-      `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
-      `<span class="check" aria-hidden="true">✓</span>`;
-    tile.addEventListener("click", () => {
-      if (selectMode) toggleTile(p, tile);
-      else openLightbox(p);
-    });
-    grid.appendChild(tile);
+
+  if (changed) {
+    lastSig = newSig;
+    const grid = $("photoGrid");
+    grid.innerHTML = "";
+    if (has) {
+      for (const p of data) {
+        const tile = document.createElement("button");
+        tile.className = "tile" + (selected.has(p.id) ? " selected" : "");
+        tile.type = "button";
+        tile.dataset.id = p.id;
+        tile.innerHTML =
+          `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
+          `<span class="check" aria-hidden="true">✓</span>`;
+        tile.addEventListener("click", () => {
+          if (selectMode) toggleTile(p, tile);
+          else openLightbox(p);
+        });
+        grid.appendChild(tile);
+      }
+    } else if (selectMode) {
+      exitSelectMode();
+    }
   }
   updateSelUI();
+  loading = false;
+  return { ok: true, changed, delta };
+}
+
+// Manual "Refresh" button — forces a check + reports the result.
+async function manualRefresh() {
+  const btn = $("refreshBtn");
+  btn.classList.add("spinning");
+  btn.disabled = true;
+  const res = await loadPhotos();
+  btn.classList.remove("spinning");
+  btn.disabled = false;
+  if (!res || res.ok === false) return toast("Couldn't reach the wall.");
+  if (res.delta > 0) toast(`${res.delta} new photo${res.delta === 1 ? "" : "s"}.`);
+  else if (res.delta < 0) toast(`Updated — ${PHOTOS.length} now.`);
+  else toast("Up to date.");
+}
+
+// Auto-refresh tick — silent; skipped when it would disrupt or waste requests.
+function autoRefresh() {
+  if (document.hidden || selectMode || shareQueue || loading) return;
+  loadPhotos();
 }
 
 // ---- multi-select (public: select + save; Delete is owner-only) ---------
@@ -494,6 +533,13 @@ function init() {
   $("selSaveBtn").addEventListener("click", () => savePhotos(selectedPhotos()));
   $("selDeleteBtn").addEventListener("click", deleteSelected);
   $("shareNext").addEventListener("click", runShareBatch);
+
+  // refresh: manual button + auto-poll (paused when hidden) + catch-up on focus
+  $("refreshBtn").addEventListener("click", manualRefresh);
+  setInterval(autoRefresh, AUTO_REFRESH_MS);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) autoRefresh();
+  });
 
   // PWA: register the wall's service worker. scope "wall" narrows control to the wall's
   // own assets only (prefix /…/wall*) — index.html and the rest of the site are never
