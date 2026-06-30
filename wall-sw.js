@@ -12,7 +12,7 @@
 // To reset on a device: DevTools → Application → Service Workers → Unregister, and
 // clear the "saturfun-wall-*" cache.
 
-const CACHE = "saturfun-wall-v3";
+const CACHE = "saturfun-wall-v4";
 const SHELL = [
   "wall.html",
   "wall.css",

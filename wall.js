@@ -266,68 +266,71 @@ async function uploadFiles(fileList) {
 // Fetches the wall; rebuilds the grid ONLY when the photo set changed (so auto-refresh
 // is a cheap no-op when nothing's new). Returns { ok, changed, delta }.
 async function loadPhotos() {
-  if (loading) return { ok: true, skipped: true, delta: 0 };
   loading = true;
-  let data;
   try {
-    const r = await fetch(`${PHOTO_API}/api/photos`);
-    data = (await r.json()).photos || [];
-  } catch (e) {
-    console.warn("[wall] load failed:", e);
-    loading = false;
-    return { ok: false, delta: 0 };
-  }
-
-  const delta = data.length - PHOTOS.length;
-  const newSig = data.map((p) => p.id).join(",");
-  const changed = newSig !== lastSig;
-  PHOTOS = data;
-
-  // drop any selected ids that no longer exist
-  const ids = new Set(data.map((p) => p.id));
-  for (const id of Array.from(selected)) if (!ids.has(id)) selected.delete(id);
-
-  const empty = $("photoEmpty");
-  const has = data.length > 0;
-  $("photoStat").textContent = has ? `${data.length} photo${data.length === 1 ? "" : "s"}` : "";
-  $("saveAllBtn").hidden = !has;
-  $("selectBtn").hidden = !has;
-  // #photoEmpty is a SIBLING of the grid — toggle it, never move it into the innerHTML wipe.
-  if (empty) empty.style.display = has ? "none" : "";
-
-  if (changed) {
-    lastSig = newSig;
-    const grid = $("photoGrid");
-    grid.innerHTML = "";
-    if (has) {
-      for (const p of data) {
-        const tile = document.createElement("button");
-        tile.className = "tile" + (selected.has(p.id) ? " selected" : "");
-        tile.type = "button";
-        tile.dataset.id = p.id;
-        tile.innerHTML =
-          `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
-          `<span class="check" aria-hidden="true">✓</span>`;
-        tile.addEventListener("click", () => {
-          if (selectMode) toggleTile(p, tile);
-          else openLightbox(p);
-        });
-        grid.appendChild(tile);
-      }
-    } else if (selectMode) {
-      exitSelectMode();
+    let data;
+    try {
+      const r = await fetch(`${PHOTO_API}/api/photos`);
+      data = (await r.json()).photos || [];
+    } catch (e) {
+      console.warn("[wall] load failed:", e);
+      return { ok: false, delta: 0 };
     }
+
+    const delta = data.length - PHOTOS.length;
+    const newSig = data.map((p) => p.id).join(",");
+    const changed = newSig !== lastSig;
+    PHOTOS = data;
+
+    // drop any selected ids that no longer exist
+    const ids = new Set(data.map((p) => p.id));
+    for (const id of Array.from(selected)) if (!ids.has(id)) selected.delete(id);
+
+    const empty = $("photoEmpty");
+    const has = data.length > 0;
+    $("photoStat").textContent = has ? `${data.length} photo${data.length === 1 ? "" : "s"}` : "";
+    $("saveAllBtn").hidden = !has;
+    $("selectBtn").hidden = !has;
+    // #photoEmpty is a SIBLING of the grid — toggle it, never move it into the innerHTML wipe.
+    if (empty) empty.style.display = has ? "none" : "";
+
+    if (changed) {
+      lastSig = newSig;
+      const grid = $("photoGrid");
+      grid.innerHTML = "";
+      if (has) {
+        for (const p of data) {
+          const tile = document.createElement("button");
+          tile.className = "tile" + (selected.has(p.id) ? " selected" : "");
+          tile.type = "button";
+          tile.dataset.id = p.id;
+          tile.innerHTML =
+            `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
+            `<span class="check" aria-hidden="true">✓</span>`;
+          tile.addEventListener("click", () => {
+            if (selectMode) toggleTile(p, tile);
+            else openLightbox(p);
+          });
+          grid.appendChild(tile);
+        }
+      } else if (selectMode) {
+        exitSelectMode();
+      }
+    }
+    updateSelUI();
+    return { ok: true, changed, delta };
+  } finally {
+    loading = false;
   }
-  updateSelUI();
-  loading = false;
-  return { ok: true, changed, delta };
 }
 
-// Manual "Refresh" button — forces a check + reports the result.
+// Manual "Refresh" button — guaranteed fresh: waits out any in-flight auto-load
+// (so it's serialized + authoritative), then reports the result.
 async function manualRefresh() {
   const btn = $("refreshBtn");
   btn.classList.add("spinning");
   btn.disabled = true;
+  for (let i = 0; i < 25 && loading; i++) await sleep(100);
   const res = await loadPhotos();
   btn.classList.remove("spinning");
   btn.disabled = false;
