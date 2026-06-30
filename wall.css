@@ -168,15 +168,21 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
   .hero { min-height: 38vh; padding: 2.5rem 1.25rem 1.5rem; }
 }
 
-/* ---- Likes ---- */
-.tile-likes {
-  position: absolute; left: .4rem; bottom: .4rem;
-  background: rgba(8,8,9,.66); color: var(--paper);
-  font-size: .68rem; letter-spacing: .02em; padding: .12rem .4rem;
-  border-radius: 999px; pointer-events: none;
-}
-#lbLike { background: transparent; border-color: rgba(242,239,233,.18); color: var(--paper); }
-#lbLike:hover { background: rgba(179,58,58,.16); border-color: var(--blood); color: var(--blood); }
-#lbLike.liked { background: var(--blood); border-color: var(--blood); color: #fff; }
-#lbLike .lb-heart { filter: grayscale(1) brightness(1.4); }
-#lbLike.liked .lb-heart { filter: none; }
+/* ---- Reactions ---- */
+.tile-react { position: absolute; left: .4rem; bottom: .4rem; background: rgba(8,8,9,.66); color: var(--paper);
+  font-size: .72rem; padding: .12rem .42rem; border-radius: 999px; pointer-events: none; line-height: 1.2; }
+.lb-reactions { display: flex; flex-wrap: wrap; gap: .4rem; justify-content: center; max-width: 90vw; }
+.rx-chip { display: inline-flex; align-items: center; gap: .3rem; padding: .28rem .6rem; border-radius: 999px;
+  border: 1px solid rgba(242,239,233,.18); background: rgba(255,255,255,.04); color: var(--paper);
+  font-size: .95rem; cursor: pointer; transition: all .15s ease; }
+.rx-chip:hover { border-color: rgba(212,175,55,.5); }
+.rx-chip.mine { background: rgba(179,58,58,.22); border-color: var(--blood); }
+.rx-chip .rx-n { font-size: .78rem; color: rgba(242,239,233,.8); }
+.rx-add { font-size: .9rem; }
+.rx-picker { display: flex; flex-direction: column; gap: .5rem; align-items: center; margin-top: .2rem; }
+.rx-quick { display: flex; gap: .4rem; flex-wrap: wrap; justify-content: center; }
+.rx-q { font-size: 1.4rem; line-height: 1; padding: .25rem .35rem; border-radius: 10px; border: 1px solid transparent;
+  background: rgba(255,255,255,.04); cursor: pointer; }
+.rx-q:hover { border-color: rgba(212,175,55,.5); }
+.rx-input { width: min(260px, 80vw); text-align: center; padding: .5rem .7rem; border-radius: 999px;
+  border: 1px solid rgba(242,239,233,.2); background: #161618; color: var(--paper); font-size: 1.1rem; }

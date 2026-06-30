@@ -17,13 +17,51 @@ function deviceId() {
   if (!id) { id = (crypto.randomUUID ? crypto.randomUUID() : String(Date.now()) + Math.random()); localStorage.setItem(DEVICE_KEY, id); }
   return id;
 }
-async function postLike(photoId) {
-  const r = await fetch(`${PHOTO_API}/api/photos/${photoId}/like`, {
+const QUICK_EMOJI = ["❤️", "😂", "‼️", "👍", "😮", "😢"];
+
+async function postReaction(photoId, emoji) {
+  const r = await fetch(`${PHOTO_API}/api/photos/${photoId}/react`, {
     method: "POST", headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ device_id: deviceId() }),
+    body: JSON.stringify({ device_id: deviceId(), emoji }),
   });
   if (!r.ok) throw new Error(String(r.status));
-  return r.json(); // { liked, count }
+  return (await r.json()).reactions; // [{emoji,count,mine}]
+}
+
+// compact tile summary: up to 3 emojis + total count, e.g. "❤️😂 5"
+function tileReactionHTML(reactions) {
+  if (!reactions || !reactions.length) return "";
+  const top = reactions.slice(0, 3).map((r) => esc(r.emoji)).join("");
+  const total = reactions.reduce((n, r) => n + r.count, 0);
+  return `<span class="tile-react">${top} ${total}</span>`;
+}
+
+function renderLightboxReactions(p) {
+  const wrap = $("lbReactions");
+  if (!wrap) return;
+  const chips = (p.reactions || [])
+    .map((r) => `<button type="button" class="rx-chip${r.mine ? " mine" : ""}" data-emoji="${esc(r.emoji)}">${esc(r.emoji)} <span class="rx-n">${r.count}</span></button>`)
+    .join("");
+  wrap.innerHTML = chips + `<button type="button" class="rx-chip rx-add" id="lbReactAdd" aria-label="Add a reaction">➕</button>`;
+}
+
+function applyReactions(photoId, reactions) {
+  if (current && current.id === photoId) { current.reactions = reactions; renderLightboxReactions(current); }
+  const inList = PHOTOS.find((x) => x.id === photoId);
+  if (inList) inList.reactions = reactions;
+  const tile = document.querySelector(`#photoGrid .tile[data-id="${photoId}"]`);
+  if (tile) {
+    let s = tile.querySelector(".tile-react");
+    const html = tileReactionHTML(reactions);
+    if (html) { if (!s) { tile.insertAdjacentHTML("beforeend", html); } else { s.outerHTML = html; } }
+    else if (s) s.remove();
+  }
+}
+
+async function toggleReaction(emoji) {
+  if (!current) return;
+  try { applyReactions(current.id, await postReaction(current.id, emoji)); }
+  catch (e) { toast("Couldn't react."); }
 }
 const IMG_RE = /\.(jpe?g|png|gif|webp|bmp|heic|heif)$/i;
 
@@ -292,7 +330,7 @@ async function loadPhotos() {
     }
 
     const delta = data.length - PHOTOS.length;
-    const newSig = data.map((p) => `${p.id}:${p.like_count || 0}`).join(",");
+    const newSig = data.map((p) => `${p.id}:${(p.reactions || []).map((r) => r.emoji + r.count).join("")}`).join(",");
     const changed = newSig !== lastSig;
     PHOTOS = data;
 
@@ -321,7 +359,7 @@ async function loadPhotos() {
           tile.innerHTML =
             `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
             `<span class="check" aria-hidden="true">✓</span>` +
-            (p.like_count ? `<span class="tile-likes">❤ ${p.like_count}</span>` : "");
+            tileReactionHTML(p.reactions);
           tile.addEventListener("click", () => {
             if (selectMode) toggleTile(p, tile);
             else openLightbox(p);
@@ -449,7 +487,8 @@ async function deleteSelected() {
 // ---- lightbox -----------------------------------------------------------
 function openLightbox(p) {
   current = p;
-  renderLightboxLike(p);
+  $("rxPicker").hidden = true;
+  renderLightboxReactions(p);
   $("lightboxImg").src = `${PHOTO_API}/api/photos/${p.id}/raw`;
   $("lightboxImg").alt = p.filename;
   $("lightboxName").textContent = p.filename;
@@ -460,31 +499,6 @@ function closeLightbox() {
   $("lightbox").classList.remove("open");
   document.body.style.overflow = "";
   current = null;
-}
-function renderLightboxLike(p) {
-  const btn = $("lbLike");
-  if (!btn) return;
-  btn.classList.toggle("liked", !!p.liked);
-  btn.querySelector(".lb-like-count").textContent = p.like_count || 0;
-}
-async function toggleCurrentLike() {
-  if (!current) return;
-  const btn = $("lbLike");
-  try {
-    const res = await postLike(current.id);
-    current.liked = res.liked;
-    current.like_count = res.count;
-    renderLightboxLike(current);
-    // reflect in PHOTOS + grid badge without a full reload
-    const inList = PHOTOS.find((x) => x.id === current.id);
-    if (inList) { inList.liked = res.liked; inList.like_count = res.count; }
-    const tile = document.querySelector(`#photoGrid .tile[data-id="${current.id}"]`);
-    if (tile) {
-      let b = tile.querySelector(".tile-likes");
-      if (res.count) { if (!b) { b = document.createElement("span"); b.className = "tile-likes"; tile.appendChild(b); } b.textContent = `❤ ${res.count}`; }
-      else if (b) b.remove();
-    }
-  } catch (e) { toast("Couldn't update like."); }
 }
 async function deleteCurrent() {
   if (!current) return;
@@ -554,6 +568,31 @@ function setupAppUpdate() {
   });
 }
 
+// ---- reactions wiring ---------------------------------------------------
+function setupReactions() {
+  // chip clicks (existing emoji) + add-button → quick row + emoji keyboard
+  $("lbReactions").addEventListener("click", (e) => {
+    const chip = e.target.closest(".rx-chip");
+    if (!chip) return;
+    if (chip.id === "lbReactAdd") { $("rxPicker").hidden = !$("rxPicker").hidden; return; }
+    const emoji = chip.dataset.emoji;
+    if (emoji) toggleReaction(emoji);
+  });
+  // quick row
+  $("rxQuick").innerHTML = QUICK_EMOJI.map((em) => `<button type="button" class="rx-q" data-emoji="${esc(em)}">${esc(em)}</button>`).join("");
+  $("rxQuick").addEventListener("click", (e) => {
+    const b = e.target.closest(".rx-q");
+    if (b) { $("rxPicker").hidden = true; toggleReaction(b.dataset.emoji); }
+  });
+  // any-emoji input: typing/pasting an emoji (phone emoji keyboard) toggles it
+  $("rxInput").addEventListener("input", (e) => {
+    const v = e.target.value.trim();
+    e.target.value = "";
+    $("rxPicker").hidden = true;
+    if (v) toggleReaction(Array.from(v).slice(0, 8).join(""));
+  });
+}
+
 // ---- wiring -------------------------------------------------------------
 function init() {
   const input = $("photoInput");
@@ -583,7 +622,7 @@ function init() {
   dz.addEventListener("drop", (e) => uploadFiles(e.dataTransfer.files));
 
   // lightbox actions
-  $("lbLike").addEventListener("click", toggleCurrentLike);
+  setupReactions();
   $("lbSave").addEventListener("click", () => current && savePhoto(current));
   $("lbOpen").addEventListener("click", () => current && window.open(`${PHOTO_API}/api/photos/${current.id}/raw`, "_blank"));
   $("lbDelete").addEventListener("click", deleteCurrent);
