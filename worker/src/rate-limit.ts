@@ -27,8 +27,9 @@ export async function checkRateLimit(
   ip: string,
   max: number,
   windowSeconds: number,
+  keyPrefix = "rl",
 ): Promise<RateLimitResult> {
-  const key = `rl:${ip}`;
+  const key = `${keyPrefix}:${ip}`;
   const now = Math.floor(Date.now() / 1000);
   const cutoff = now - windowSeconds;
 

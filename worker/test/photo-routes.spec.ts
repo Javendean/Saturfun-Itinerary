@@ -112,15 +112,27 @@ describe("photo routes", () => {
   });
 
   it("507 when the total-store budget is exhausted", async () => {
-    // Seed a row whose size exceeds the 3 GB cap, so the next upload is refused.
+    // Seed a row whose size exceeds the 9 GB cap, so the next upload is refused.
     await env.DB.prepare(
       "INSERT INTO photos (id, filename, stored_name, content_type, size, width, height, has_thumb, uploaded) VALUES (?,?,?,?,?,?,?,?,?)",
     )
-      .bind("huge", "huge.png", "huge.png", "image/png", 4 * 1024 * 1024 * 1024, 1, 1, 0, 1)
+      .bind("huge", "huge.png", "huge.png", "image/png", 10 * 1024 * 1024 * 1024, 1, 1, 0, 1)
       .run();
     const { r, body } = await uploadOne(PNG_1x1, "cat.png", "image/png");
     expect(r.status).toBe(507);
     expect(String(body.detail).toLowerCase()).toContain("full");
+  });
+
+  it("accepts an upload below the raised total-store cap", async () => {
+    // 4 GB is over the OLD 3 GB cap but under the new 9 GB cap -> must succeed.
+    await env.DB.prepare(
+      "INSERT INTO photos (id, filename, stored_name, content_type, size, width, height, has_thumb, uploaded) VALUES (?,?,?,?,?,?,?,?,?)",
+    )
+      .bind("big", "big.png", "big.png", "image/png", 4 * 1024 * 1024 * 1024, 1, 1, 0, 1)
+      .run();
+    const { r, body } = await uploadOne(PNG_1x1, "cat.png", "image/png");
+    expect(r.status).toBe(200);
+    expect(body.photos).toHaveLength(1);
   });
 
   it("GET on a missing id 404s (raw/thumb/download)", async () => {

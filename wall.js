@@ -13,6 +13,12 @@ const PHOTO_API = (() => {
 const OWNER_KEY = "saturfun_photo_owner";
 const IMG_RE = /\.(jpe?g|png|gif|webp|bmp|heic|heif)$/i;
 
+// Bulk dumps are split into batches kept safely under the Worker's per-request
+// limits (server: <=20 files, <=50 MB body). Conservative margins here.
+const BATCH_MAX_FILES = 15;
+const BATCH_MAX_BYTES = 40 * 1024 * 1024;
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 let PHOTOS = [];
 let current = null; // photo open in the lightbox
 
@@ -64,34 +70,81 @@ async function savePhoto(p) {
   a.remove();
 }
 
-// ---- upload (multipart, image-filtered, partial-batch aware) ------------
+// ---- upload (multipart, image-filtered, batched for bulk dumps) ---------
+// Split a (possibly huge) selection into requests that stay under the server caps.
+// Any single file too big for one request is left in its own batch and the server
+// rejects it cleanly (counted as rejected), so one bad file never blocks the rest.
+function makeBatches(files) {
+  const batches = [];
+  let cur = [];
+  let curBytes = 0;
+  for (const f of files) {
+    if (cur.length && (cur.length >= BATCH_MAX_FILES || curBytes + f.size > BATCH_MAX_BYTES)) {
+      batches.push(cur);
+      cur = [];
+      curBytes = 0;
+    }
+    cur.push(f);
+    curBytes += f.size;
+  }
+  if (cur.length) batches.push(cur);
+  return batches;
+}
+
+// Upload one batch; retries on 429 (honoring Retry-After) and transient network errors.
+async function uploadBatch(batch) {
+  const fd = new FormData();
+  for (const f of batch) fd.append("files", f, f.name); // field name MUST be "files"
+  for (let attempt = 0; attempt < 6; attempt++) {
+    let r;
+    try {
+      r = await fetch(`${PHOTO_API}/api/photos`, { method: "POST", body: fd });
+    } catch (e) {
+      if (attempt < 5) {
+        await sleep(2000);
+        continue;
+      }
+      return { added: 0, rejected: batch.length };
+    }
+    if (r.status === 429 && attempt < 5) {
+      const wait = parseInt(r.headers.get("Retry-After"), 10) || (attempt + 1) * 4;
+      setProgress(`Rate limited — resuming in ${wait}s…`);
+      await sleep(wait * 1000);
+      continue;
+    }
+    if (!r.ok) {
+      return { added: 0, rejected: batch.length }; // whole batch rejected (e.g. 413); keep going
+    }
+    const data = await r.json();
+    return { added: data.photos.length, rejected: data.errors?.length || 0 };
+  }
+  return { added: 0, rejected: batch.length };
+}
+
 async function uploadFiles(fileList) {
   const files = Array.from(fileList || []).filter(
     (f) => (f.type && f.type.startsWith("image/")) || IMG_RE.test(f.name),
   );
   if (!files.length) return toast("No image files selected.");
-  setProgress(`Uploading ${files.length} photo${files.length === 1 ? "" : "s"}…`);
 
-  const fd = new FormData();
-  for (const f of files) fd.append("files", f, f.name); // field name MUST be "files"
-
+  const batches = makeBatches(files);
+  let added = 0;
+  let rejected = 0;
+  let done = 0;
   try {
-    const r = await fetch(`${PHOTO_API}/api/photos`, { method: "POST", body: fd });
-    if (!r.ok) {
-      let d = r.statusText;
-      try {
-        d = (await r.json()).detail || d;
-      } catch {}
-      throw new Error(d);
+    for (const batch of batches) {
+      setProgress(`Uploading ${done + 1}–${done + batch.length} of ${files.length}…`);
+      const res = await uploadBatch(batch);
+      added += res.added;
+      rejected += res.rejected;
+      done += batch.length;
+      await loadPhotos(); // grid fills progressively as each batch lands
     }
-    const data = await r.json();
-    toast(`Added ${data.photos.length}` + (data.errors?.length ? `, ${data.errors.length} rejected` : ""));
-    await loadPhotos();
-  } catch (e) {
-    toast(`Upload failed: ${e.message}`);
   } finally {
     setProgress("");
   }
+  const summary = files.length > 1 ? `Added ${added} of ${files.length}` : `Added ${added}`;
+  toast(summary + (rejected ? `, ${rejected} rejected` : ""));
 }
 
 // ---- grid ---------------------------------------------------------------

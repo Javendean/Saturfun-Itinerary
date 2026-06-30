@@ -118,12 +118,13 @@ async function uploadPhotos(request: Request, env: Env, origin: string | null): 
     return detail(413, "request too large", env, origin);
   }
 
-  // Per-IP rate limit (the endpoint is public) — skipped when IP is unknown.
+  // Upload has its own (higher) per-IP limit + counter ("rlu") so bulk batches
+  // don't collide with the chat limiter. Skipped when IP is unknown.
   const ip = request.headers.get("CF-Connecting-IP") ?? "unknown";
   if (ip !== "unknown") {
-    const max = parseInt(env.RATE_LIMIT_MAX, 10) || 10;
+    const max = parseInt(env.PHOTO_RATE_LIMIT_MAX, 10) || 60;
     const win = parseInt(env.RATE_WINDOW_SECONDS, 10) || 60;
-    const rl = await checkRateLimit(env.RATE_LIMIT, ip, max, win);
+    const rl = await checkRateLimit(env.RATE_LIMIT, ip, max, win, "rlu");
     if (!rl.allowed) {
       return detail(429, `rate limit exceeded — retry in ${rl.resetSeconds}s`, env, origin, {
         "Retry-After": String(rl.resetSeconds),

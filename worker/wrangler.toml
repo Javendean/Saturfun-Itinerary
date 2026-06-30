@@ -37,10 +37,16 @@ ALLOWED_ORIGINS = "https://javendean.github.io,http://127.0.0.1:5173,http://loca
 # Hard per-file upload cap (the endpoint is public). Magic-byte validated.
 PHOTO_MAX_MB = "25"
 # Total R2 budget for ALL photos combined — disk-fill guardrail (-> 507).
-PHOTO_MAX_TOTAL_GB = "3"
-# Anti-amplification: max files per upload request, and max request body before buffering.
+# 9 GB stays under R2's free 10 GB tier; raise (and accept ~$0.015/GB/mo) for more.
+PHOTO_MAX_TOTAL_GB = "9"
+# Anti-amplification + isolate-OOM safety. Per request: max files (<=24 keeps the
+# free-tier 50-subrequest budget) and max body before buffering. 50 MB keeps peak
+# isolate memory safe (<128 MB); the frontend batches big dumps into many such requests.
 PHOTO_MAX_FILES_PER_REQUEST = "20"
-PHOTO_MAX_REQUEST_MB = "100"
+PHOTO_MAX_REQUEST_MB = "50"
+# Upload gets its own (higher) per-IP rate limit + counter, so bulk batches flow
+# without competing with the chat limiter (RATE_LIMIT_MAX). Window = RATE_WINDOW_SECONDS.
+PHOTO_RATE_LIMIT_MAX = "60"
 # NOTE: PHOTO_OWNER_TOKEN is a SECRET, not a var. Set it with:
 #   wrangler secret put PHOTO_OWNER_TOKEN
 # DELETE is gated by it and fails closed when unset.

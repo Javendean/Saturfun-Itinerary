@@ -18,9 +18,10 @@ RATE_WINDOW_SECONDS = "60"
 MAX_TOKENS = "800"
 ALLOWED_ORIGINS = "https://javendean.github.io,http://127.0.0.1:5173,http://localhost:5173,http://127.0.0.1:5599,http://localhost:5599"
 PHOTO_MAX_MB = "25"
-PHOTO_MAX_TOTAL_GB = "3"
+PHOTO_MAX_TOTAL_GB = "9"
 PHOTO_MAX_FILES_PER_REQUEST = "20"
-PHOTO_MAX_REQUEST_MB = "100"
+PHOTO_MAX_REQUEST_MB = "50"
+PHOTO_RATE_LIMIT_MAX = "60"
 # Known owner token for tests (prod uses a real `wrangler secret put PHOTO_OWNER_TOKEN`).
 PHOTO_OWNER_TOKEN = "test-owner-secret"
 
