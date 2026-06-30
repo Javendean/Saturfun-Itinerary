@@ -8,11 +8,11 @@ import { corsHeaders, isAllowedOrigin } from "./http";
 import { checkRateLimit } from "./rate-limit";
 import * as store from "./photo-store";
 import { PhotoError, type PhotoMeta } from "./photo-store";
-import * as likes from "./like-store";
+import * as reactions from "./reaction-store";
 
 const IMMUTABLE = "public, max-age=31536000, immutable"; // ids are content-stable
 
-function publicPhoto(p: PhotoMeta & { like_count?: number; liked?: boolean }) {
+function publicPhoto(p: PhotoMeta & { reactions?: import("./reaction-store").Reaction[] }) {
   // stored_name is the R2 key — it is NEVER exposed to clients.
   return {
     id: p.id,
@@ -23,7 +23,7 @@ function publicPhoto(p: PhotoMeta & { like_count?: number; liked?: boolean }) {
     height: p.height,
     has_thumb: Boolean(p.has_thumb),
     uploaded: p.uploaded,
-    ...(p.like_count !== undefined ? { like_count: p.like_count, liked: !!p.liked } : {}),
+    ...(p.reactions !== undefined ? { reactions: p.reactions } : {}),
   };
 }
 
@@ -58,7 +58,7 @@ function isOwner(request: Request, env: Env): boolean {
   return timingSafeEqual(request.headers.get("X-Owner-Token") ?? "", token);
 }
 
-const ITEM_RE = /^\/api\/photos\/([^/]+)(?:\/(raw|thumb|download|like))?$/;
+const ITEM_RE = /^\/api\/photos\/([^/]+)(?:\/(raw|thumb|download|react))?$/;
 
 export async function handlePhotoRoute(
   request: Request,
@@ -79,7 +79,7 @@ export async function handlePhotoRoute(
     if (path === "/api/photos") {
       if (method === "GET") {
         const device = url.searchParams.get("device");
-        const photos = (await likes.listPhotosWithLikes(env, device)).map(publicPhoto);
+        const photos = (await reactions.listPhotosWithReactions(env, device)).map(publicPhoto);
         return jsonOk({ photos }, env, origin);
       }
       if (method === "POST") return await uploadPhotos(request, env, origin);
@@ -101,14 +101,16 @@ export async function handlePhotoRoute(
       if (method === "DELETE") return await deletePhoto(request, env, origin, id);
       return detail(405, "method not allowed", env, origin, { Allow: "DELETE, OPTIONS" });
     }
-    if (action === "like") {
+    if (action === "react") {
       if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
-      let body: any;
+      let body: Record<string, unknown>;
       try { body = await request.json(); } catch { body = {}; }
       const device = typeof body.device_id === "string" ? body.device_id.trim() : "";
+      const emoji = typeof body.emoji === "string" ? body.emoji : "";
       if (!device) return detail(400, "device_id required", env, origin);
-      const res = await likes.toggleLike(env, id, device);
-      return jsonOk(res, env, origin);
+      if (!reactions.isValidEmoji(emoji)) return detail(400, "invalid emoji", env, origin);
+      const summary = await reactions.toggleReaction(env, id, device, emoji);
+      return jsonOk({ reactions: summary }, env, origin);
     }
     if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
 
@@ -249,7 +251,7 @@ async function deletePhoto(request: Request, env: Env, origin: string | null, id
   const p = await store.getPhoto(env, id);
   if (!p) return detail(404, "photo not found", env, origin);
   await store.deleteFiles(env, p.stored_name, p.id);
-  await likes.deleteLikesFor(env, p.id);
+  await reactions.deleteReactionsFor(env, p.id);
   await store.deletePhoto(env, p.id);
   return jsonOk({ ok: true }, env, origin);
 }
