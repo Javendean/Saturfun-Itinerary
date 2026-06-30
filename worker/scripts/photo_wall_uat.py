@@ -91,6 +91,17 @@ def round_once(client: httpx.Client, base: str, token: str, r: Results, rnd: int
     if resp.status_code == 200:
         p = resp.json()["photos"][0]
         created_ids.append(p["id"])
+
+        # likes: toggle on, verify count + liked via ?device, toggle off
+        dev = f"uat-dev-{rnd}"
+        lr = client.post(f"{base}/api/photos/{p['id']}/like", json={"device_id": dev}, timeout=15)
+        r.check("like_on_200", lr.status_code == 200 and lr.json().get("liked") is True and lr.json().get("count") == 1, lr.text[:120])
+        listed = client.get(f"{base}/api/photos?device={dev}", timeout=15).json()["photos"]
+        me = next((x for x in listed if x["id"] == p["id"]), {})
+        r.check("like_reflected", me.get("like_count") == 1 and me.get("liked") is True, str(me)[:160])
+        lr2 = client.post(f"{base}/api/photos/{p['id']}/like", json={"device_id": dev}, timeout=15)
+        r.check("like_off", lr2.status_code == 200 and lr2.json().get("liked") is False, lr2.text[:120])
+
         # No server-side thumbnails on the edge.
         r.check("png_has_thumb_false", p["has_thumb"] is False, str(p))
         r.check("png_dims", p["width"] == 1 and p["height"] == 1, str(p))
