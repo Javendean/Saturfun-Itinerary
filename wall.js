@@ -59,10 +59,14 @@ function applyReactions(photoId, reactions) {
   lastSig = PHOTOS.map((p) => `${p.id}:${(p.reactions || []).map((r) => r.emoji + r.count).join("")}`).join(",");
 }
 
-async function toggleReaction(emoji) {
+let rxChain = Promise.resolve();
+function toggleReaction(emoji) {
   if (!current) return;
-  try { applyReactions(current.id, await postReaction(current.id, emoji)); }
-  catch (e) { toast("Couldn't react."); }
+  const photoId = current.id;
+  rxChain = rxChain.then(async () => {
+    try { applyReactions(photoId, await postReaction(photoId, emoji)); }
+    catch (e) { toast("Couldn't react."); }
+  });
 }
 const IMG_RE = /\.(jpe?g|png|gif|webp|bmp|heic|heif)$/i;
 
@@ -369,6 +373,10 @@ async function loadPhotos() {
         }
       } else if (selectMode) {
         exitSelectMode();
+      }
+      if (current) {
+        const u = PHOTOS.find((p) => p.id === current.id);
+        if (u) { current.reactions = u.reactions; renderLightboxReactions(current); }
       }
     }
     updateSelUI();
