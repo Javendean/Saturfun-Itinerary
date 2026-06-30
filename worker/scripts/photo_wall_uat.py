@@ -92,15 +92,20 @@ def round_once(client: httpx.Client, base: str, token: str, r: Results, rnd: int
         p = resp.json()["photos"][0]
         created_ids.append(p["id"])
 
-        # likes: toggle on, verify count + liked via ?device, toggle off
+        # reactions: add two emojis, verify summary + per-device mine, remove one
         dev = f"uat-dev-{rnd}"
-        lr = client.post(f"{base}/api/photos/{p['id']}/like", json={"device_id": dev}, timeout=15)
-        r.check("like_on_200", lr.status_code == 200 and lr.json().get("liked") is True and lr.json().get("count") == 1, lr.text[:120])
+        rr = client.post(f"{base}/api/photos/{p['id']}/react", json={"device_id": dev, "emoji": "😂"}, timeout=15)
+        ok1 = rr.status_code == 200 and rr.json().get("reactions") == [{"emoji": "😂", "count": 1, "mine": True}]
+        r.check("react_add_200", ok1, rr.text[:140])
+        client.post(f"{base}/api/photos/{p['id']}/react", json={"device_id": dev, "emoji": "❤️"}, timeout=15)
         listed = client.get(f"{base}/api/photos?device={dev}", timeout=15).json()["photos"]
         me = next((x for x in listed if x["id"] == p["id"]), {})
-        r.check("like_reflected", me.get("like_count") == 1 and me.get("liked") is True, str(me)[:160])
-        lr2 = client.post(f"{base}/api/photos/{p['id']}/like", json={"device_id": dev}, timeout=15)
-        r.check("like_off", lr2.status_code == 200 and lr2.json().get("liked") is False, lr2.text[:120])
+        emojis = {x["emoji"] for x in me.get("reactions", [])}
+        r.check("react_reflected", emojis == {"😂", "❤️"} and all(x["mine"] for x in me["reactions"]), str(me)[:180])
+        bad = client.post(f"{base}/api/photos/{p['id']}/react", json={"device_id": dev, "emoji": "haha"}, timeout=15)
+        r.check("react_rejects_text", bad.status_code == 400, bad.text[:120])
+        off = client.post(f"{base}/api/photos/{p['id']}/react", json={"device_id": dev, "emoji": "😂"}, timeout=15)
+        r.check("react_remove", off.status_code == 200 and all(x["emoji"] != "😂" for x in off.json()["reactions"]), off.text[:140])
 
         # No server-side thumbnails on the edge.
         r.check("png_has_thumb_false", p["has_thumb"] is False, str(p))
