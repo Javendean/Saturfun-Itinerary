@@ -17,10 +17,15 @@ const IMG_RE = /\.(jpe?g|png|gif|webp|bmp|heic|heif)$/i;
 // limits (server: <=20 files, <=50 MB body). Conservative margins here.
 const BATCH_MAX_FILES = 15;
 const BATCH_MAX_BYTES = 40 * 1024 * 1024;
+// Multi-file save (Web Share) is chunked to bound memory + per-share-sheet size.
+const SHARE_MAX_FILES = 10;
+const SHARE_MAX_BYTES = 45 * 1024 * 1024;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 let PHOTOS = [];
 let current = null; // photo open in the lightbox
+let selectMode = false;
+const selected = new Set(); // photo ids selected in select mode
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) =>
@@ -46,29 +51,146 @@ function refreshOwnerUI() {
 }
 
 // ---- the crown jewel: phone-aware save (iOS Web Share → anchor fallback) --
-async function savePhoto(p) {
-  // iOS Safari ignores <a download>; Web Share opens the native sheet ("Save Image").
-  // Desktop / older Android fall back to a direct attachment download.
-  const dlUrl = `${PHOTO_API}/api/photos/${p.id}/download`;
-  try {
-    if (navigator.canShare) {
-      const blob = await (await fetch(dlUrl)).blob();
-      const file = new File([blob], p.filename, { type: p.content_type });
-      if (navigator.canShare({ files: [file] })) {
-        await navigator.share({ files: [file], title: p.filename });
-        return;
-      }
+// Works for one photo, a selection, or the whole wall. On iOS/Android the Web Share
+// API takes a files[] array and the native sheet offers "Save N Images" → Photos.
+// Desktop (no Web Share files) falls back to direct attachment downloads.
+
+// Chunk a save by count + total bytes so a share sheet / memory stays bounded.
+function chunkPhotos(photos, maxCount, maxBytes) {
+  const chunks = [];
+  let cur = [];
+  let bytes = 0;
+  for (const p of photos) {
+    const sz = p.size || 0;
+    if (cur.length && (cur.length >= maxCount || bytes + sz > maxBytes)) {
+      chunks.push(cur);
+      cur = [];
+      bytes = 0;
     }
-  } catch (e) {
-    if (e && e.name === "AbortError") return; // user dismissed the share sheet
+    cur.push(p);
+    bytes += sz;
   }
-  const a = document.createElement("a");
-  a.href = dlUrl;
-  a.download = p.filename;
-  document.body.appendChild(a);
-  a.click();
-  a.remove();
+  if (cur.length) chunks.push(cur);
+  return chunks;
 }
+
+// Fetch each photo's bytes as a File (limited concurrency to bound memory).
+async function fetchAsFiles(photos) {
+  const files = new Array(photos.length);
+  let idx = 0;
+  async function worker() {
+    while (idx < photos.length) {
+      const i = idx++;
+      const p = photos[i];
+      const blob = await (await fetch(`${PHOTO_API}/api/photos/${p.id}/raw`)).blob();
+      files[i] = new File([blob], p.filename, { type: p.content_type || blob.type });
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(4, photos.length) }, worker));
+  return files;
+}
+
+// Desktop / no-Web-Share fallback: download each as an attachment, lightly staggered.
+async function downloadFallback(photos) {
+  for (const p of photos) {
+    const a = document.createElement("a");
+    a.href = `${PHOTO_API}/api/photos/${p.id}/download`;
+    a.download = p.filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    if (photos.length > 1) await sleep(400);
+  }
+  if (photos.length > 1) toast(`Downloading ${photos.length}…`);
+}
+
+// share() consumes the tap's transient activation, so it can be called only ONCE per
+// user gesture. Large saves therefore advance one batch per tap (the Save tap shares
+// the first batch; a "Save the next N" button drives each subsequent batch).
+let shareQueue = null;
+
+async function savePhotos(photos) {
+  if (!photos || !photos.length) return toast("Nothing to save.");
+  // Cheap probe: does this platform share image files at all? (avoids fetching
+  // every blob on desktop only to discard it.) Per-chunk canShare still re-checks.
+  const probe = new File([new Uint8Array([255, 216, 255])], "p.jpg", { type: "image/jpeg" });
+  if (typeof navigator.canShare !== "function" || !navigator.canShare({ files: [probe] })) {
+    return downloadFallback(photos);
+  }
+  shareQueue = {
+    chunks: chunkPhotos(photos, SHARE_MAX_FILES, SHARE_MAX_BYTES),
+    index: 0,
+    total: photos.length,
+    preloaded: null,
+  };
+  await runShareBatch(); // this user tap shares the first batch
+}
+
+// Shares the current batch. MUST run inside a user gesture (the Save tap or the
+// "Save the next N" tap). Falls back to downloads when sharing isn't possible.
+async function runShareBatch() {
+  if (!shareQueue) return;
+  hideShareNext();
+  const { chunks, index } = shareQueue;
+  const chunk = chunks[index];
+
+  let files = shareQueue.preloaded;
+  shareQueue.preloaded = null;
+  if (!files) {
+    setProgress(chunks.length > 1 ? `Preparing ${index + 1} of ${chunks.length}…` : "Preparing…");
+    try {
+      files = await fetchAsFiles(chunk);
+    } catch {
+      files = null;
+    }
+    setProgress("");
+  }
+
+  if (!files || !navigator.canShare({ files })) {
+    const rest = chunks.slice(index).flat();
+    shareQueue = null;
+    return downloadFallback(rest); // unsupported file types / no file sharing
+  }
+
+  try {
+    await navigator.share({ files }); // ONLY files — no title/text (iOS would share text)
+  } catch (e) {
+    const rest = chunks.slice(index).flat();
+    shareQueue = null;
+    if (e && e.name === "AbortError") return; // user cancelled the sheet
+    return downloadFallback(rest); // activation lost / target rejected → download
+  }
+
+  shareQueue.index++;
+  if (shareQueue.index >= chunks.length) {
+    const total = shareQueue.total;
+    shareQueue = null;
+    if (total > chunk.length) toast(`Saved all ${total}. Choose “Save Images” on each sheet.`);
+  } else {
+    const remaining = chunks.slice(shareQueue.index).flat().length;
+    showShareNext(remaining);
+    // Prefetch the next batch so its tap goes straight to share() (preserves activation).
+    // Guard by index so a stale prefetch can't clobber a later batch's files.
+    const want = shareQueue.index;
+    fetchAsFiles(chunks[want])
+      .then((f) => { if (shareQueue && shareQueue.index === want) shareQueue.preloaded = f; })
+      .catch(() => {});
+  }
+}
+
+function showShareNext(remaining) {
+  const b = $("shareNext");
+  if (!b) return;
+  b.textContent = `Save the next ${remaining} →`;
+  b.hidden = false;
+}
+function hideShareNext() {
+  const b = $("shareNext");
+  if (b) b.hidden = true;
+}
+
+// Lightbox single-save reuses the same path.
+const savePhoto = (p) => savePhotos([p]);
 
 // ---- upload (multipart, image-filtered, batched for bulk dumps) ---------
 // Split a (possibly huge) selection into requests that stay under the server caps.
@@ -157,22 +279,124 @@ async function loadPhotos() {
     console.warn("[wall] load failed:", e);
     PHOTOS = [];
   }
+  // drop any selected ids that no longer exist
+  const ids = new Set(PHOTOS.map((p) => p.id));
+  for (const id of Array.from(selected)) if (!ids.has(id)) selected.delete(id);
+
   const grid = $("photoGrid");
   const empty = $("photoEmpty");
-  $("photoStat").textContent = PHOTOS.length ? `${PHOTOS.length} photo${PHOTOS.length === 1 ? "" : "s"}` : "";
+  const has = PHOTOS.length > 0;
+  $("photoStat").textContent = has ? `${PHOTOS.length} photo${PHOTOS.length === 1 ? "" : "s"}` : "";
+  $("saveAllBtn").hidden = !has;
+  $("selectBtn").hidden = !has;
   // #photoEmpty is a SIBLING of the grid — toggle it, never move it into the
   // innerHTML wipe (which would detach it and break the next empty render).
   grid.innerHTML = "";
-  if (empty) empty.style.display = PHOTOS.length ? "none" : "";
-  if (!PHOTOS.length) return;
+  if (empty) empty.style.display = has ? "none" : "";
+  if (!has) {
+    if (selectMode) exitSelectMode();
+    return;
+  }
   for (const p of PHOTOS) {
     const tile = document.createElement("button");
-    tile.className = "tile";
+    tile.className = "tile" + (selected.has(p.id) ? " selected" : "");
     tile.type = "button";
-    tile.innerHTML = `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">`;
-    tile.addEventListener("click", () => openLightbox(p));
+    tile.dataset.id = p.id;
+    tile.innerHTML =
+      `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
+      `<span class="check" aria-hidden="true">✓</span>`;
+    tile.addEventListener("click", () => {
+      if (selectMode) toggleTile(p, tile);
+      else openLightbox(p);
+    });
     grid.appendChild(tile);
   }
+  updateSelUI();
+}
+
+// ---- multi-select (public: select + save; Delete is owner-only) ---------
+function selectedPhotos() {
+  return PHOTOS.filter((p) => selected.has(p.id));
+}
+function updateSelUI() {
+  const c = $("selCount");
+  if (c) c.textContent = `${selected.size} selected`;
+  const save = $("selSaveBtn");
+  const del = $("selDeleteBtn");
+  if (save) save.disabled = selected.size === 0;
+  if (del) del.disabled = selected.size === 0;
+}
+function enterSelectMode() {
+  selectMode = true;
+  $("photoGrid").classList.add("selecting");
+  $("selectBar").hidden = false;
+  $("selectBtn").textContent = "Cancel";
+  updateSelUI();
+}
+function exitSelectMode() {
+  selectMode = false;
+  selected.clear();
+  shareQueue = null;
+  hideShareNext();
+  $("photoGrid").classList.remove("selecting");
+  $("selectBar").hidden = true;
+  $("selectBtn").textContent = "Select";
+  document.querySelectorAll("#photoGrid .tile.selected").forEach((t) => t.classList.remove("selected"));
+  updateSelUI();
+}
+function toggleSelectMode() {
+  if (selectMode) exitSelectMode();
+  else enterSelectMode();
+}
+function toggleTile(p, tile) {
+  if (selected.has(p.id)) {
+    selected.delete(p.id);
+    tile.classList.remove("selected");
+  } else {
+    selected.add(p.id);
+    tile.classList.add("selected");
+  }
+  updateSelUI();
+}
+function selectAll() {
+  PHOTOS.forEach((p) => selected.add(p.id));
+  document.querySelectorAll("#photoGrid .tile").forEach((t) => t.classList.add("selected"));
+  updateSelUI();
+}
+async function deleteSelected() {
+  const token = ownerToken();
+  if (!token) return toast("Owner token required to delete.");
+  const ps = selectedPhotos();
+  if (!ps.length) return;
+  if (!confirm(`Delete ${ps.length} photo${ps.length === 1 ? "" : "s"}? This removes them for everyone.`)) return;
+  setProgress(`Deleting ${ps.length}…`);
+  let ok = 0;
+  let rejected = false;
+  let idx = 0;
+  async function worker() {
+    while (idx < ps.length) {
+      const p = ps[idx++];
+      try {
+        const r = await fetch(`${PHOTO_API}/api/photos/${p.id}`, {
+          method: "DELETE",
+          headers: { "X-Owner-Token": token },
+        });
+        if (r.status === 403) rejected = true;
+        else if (r.ok) ok++;
+      } catch {}
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(6, ps.length) }, worker));
+  setProgress("");
+  if (rejected) {
+    toast("Owner token rejected.");
+    localStorage.removeItem(OWNER_KEY);
+    refreshOwnerUI();
+  } else {
+    toast(`Deleted ${ok}.`);
+  }
+  exitSelectMode();
+  await loadPhotos();
 }
 
 // ---- lightbox -----------------------------------------------------------
@@ -252,7 +476,9 @@ function init() {
   $("lbClose").addEventListener("click", closeLightbox);
   $("lightboxBackdrop").addEventListener("click", closeLightbox);
   document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape" && $("lightbox").classList.contains("open")) closeLightbox();
+    if (e.key !== "Escape") return;
+    if ($("lightbox").classList.contains("open")) closeLightbox();
+    else if (selectMode) exitSelectMode();
   });
 
   // owner toggle
@@ -269,6 +495,15 @@ function init() {
     }
     refreshOwnerUI();
   });
+
+  // multi-select + bulk save (public; Delete in the bar is owner-only via CSS)
+  $("selectBtn").addEventListener("click", toggleSelectMode);
+  $("selDoneBtn").addEventListener("click", exitSelectMode);
+  $("selAllBtn").addEventListener("click", selectAll);
+  $("saveAllBtn").addEventListener("click", () => savePhotos(PHOTOS));
+  $("selSaveBtn").addEventListener("click", () => savePhotos(selectedPhotos()));
+  $("selDeleteBtn").addEventListener("click", deleteSelected);
+  $("shareNext").addEventListener("click", runShareBatch);
 
   refreshOwnerUI();
   loadPhotos();
