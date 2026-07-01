@@ -139,7 +139,7 @@ export async function handlePhotoRoute(
       return jsonOk({ reactions: summary }, env, origin);
     }
     if (action === "comments") {
-      if (method === "GET") return jsonOk({ comments: (await comments.listComments(env, id)).map((c) => ({ id: c.id, body: c.body, created: c.created, name: c.name, device_id: c.device_id })) }, env, origin);
+      if (method === "GET") { const device = url.searchParams.get("device"); return jsonOk({ comments: await comments.listComments(env, id, device) }, env, origin); }
       if (method === "POST") {
         if (commentId) return detail(404, "not found", env, origin);
         let body: Record<string, unknown>; try { body = await request.json(); } catch { body = {}; }

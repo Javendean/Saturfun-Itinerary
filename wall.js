@@ -100,11 +100,11 @@ async function loadComments(photoId) {
   const wrap = $("lbComments");
   wrap.innerHTML = `<div class="lc-empty">Loading…</div>`;
   let list = [];
-  try { list = (await (await fetch(`${PHOTO_API}/api/photos/${photoId}/comments`)).json()).comments || []; } catch { wrap.innerHTML = ""; return; }
+  try { list = (await (await fetch(`${PHOTO_API}/api/photos/${photoId}/comments?device=${encodeURIComponent(deviceId())}`)).json()).comments || []; } catch { wrap.innerHTML = ""; return; }
   if (!list.length) { wrap.innerHTML = `<div class="lc-empty">No comments yet.</div>`; return; }
   const canOwner = document.body.classList.contains("is-owner");
   wrap.innerHTML = list.map((c) => {
-    const del = (canOwner || c.device_id === deviceId()) ? `<button class="lc-del" data-id="${esc(String(c.id))}" aria-label="Delete">✕</button>` : "";
+    const del = (canOwner || c.mine) ? `<button class="lc-del" data-id="${esc(String(c.id))}" aria-label="Delete">✕</button>` : "";
     return `<div class="lc-item"><span class="lc-name">${esc(c.name || "")}</span> <span class="lc-body">${esc(c.body || "")}</span> <span class="lc-time">${timeAgo(c.created)}</span>${del}</div>`;
   }).join("");
 }

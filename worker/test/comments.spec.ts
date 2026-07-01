@@ -33,7 +33,7 @@ describe("comment store", () => {
     const c = await addComment(env, p.id, "dev-1", "nice shot");
     expect(c.body).toBe("nice shot");
     expect(c.name).toBe("Someone");
-    const list = await listComments(env, p.id);
+    const list = await listComments(env, p.id, null);
     expect(list.map((x) => x.body)).toEqual(["nice shot"]);
   });
 
@@ -41,9 +41,9 @@ describe("comment store", () => {
     const p = await seed();
     await addComment(env, p.id, "dev-1", "first");
     await setName(env, "dev-1", "Jo");
-    expect((await listComments(env, p.id))[0].name).toBe("Jo");
+    expect((await listComments(env, p.id, "dev-1"))[0].name).toBe("Jo");
     await setName(env, "dev-1", "Josephine"); // rename updates the existing comment's shown name
-    expect((await listComments(env, p.id))[0].name).toBe("Josephine");
+    expect((await listComments(env, p.id, "dev-1"))[0].name).toBe("Josephine");
     expect(await getName(env, "dev-1")).toBe("Josephine");
   });
 
@@ -52,7 +52,24 @@ describe("comment store", () => {
     const a = await addComment(env, p.id, "d", "one");
     const b = await addComment(env, p.id, "d", "two");
     expect(a.created).toBeLessThanOrEqual(b.created);
-    expect((await listComments(env, p.id)).map((x) => x.body)).toEqual(["one", "two"]);
+    expect((await listComments(env, p.id, "d")).map((x) => x.body)).toEqual(["one", "two"]);
+  });
+
+  it("mine flag: true for requester's own comment, false for another device's, false when null", async () => {
+    const p = await seed();
+    await addComment(env, p.id, "dev-1", "mine");
+    await addComment(env, p.id, "dev-2", "theirs");
+    const list = await listComments(env, p.id, "dev-1");
+    expect(list).toHaveLength(2);
+    expect(list[0].mine).toBe(true);
+    expect(list[1].mine).toBe(false);
+    // device_id must NOT appear in list results
+    expect(list[0]).not.toHaveProperty("device_id");
+    expect(list[1]).not.toHaveProperty("device_id");
+    // null device → mine always false
+    const guestList = await listComments(env, p.id, null);
+    expect(guestList[0].mine).toBe(false);
+    expect(guestList[1].mine).toBe(false);
   });
 
   it("getComment returns the author device; delete removes it", async () => {
@@ -93,8 +110,10 @@ describe("comment routes", () => {
     const r = await postComment(p.id, { device_id: "d1", body: "hi there" });
     expect(r.status).toBe(201);
     expect((await r.json() as any).name).toBe("Ada");
-    const list = await (await SELF.fetch(`${BASE}/api/photos/${p.id}/comments`)).json() as any;
+    const list = await (await SELF.fetch(`${BASE}/api/photos/${p.id}/comments?device=d1`)).json() as any;
     expect(list.comments.map((c: any) => c.body)).toEqual(["hi there"]);
+    expect(list.comments[0].mine).toBe(true);           // d1's own comment
+    expect(list.comments[0].device_id).toBeUndefined(); // device_id must NOT be exposed
     const photos = await (await SELF.fetch(`${BASE}/api/photos?device=d1`)).json() as any;
     expect(photos.photos[0].comment_count).toBe(1);
   });

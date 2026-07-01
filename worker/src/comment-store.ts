@@ -2,6 +2,7 @@
 import type { Env } from "./types";
 type CEnv = Pick<Env, "DB">;
 export interface CommentRow { id: string; body: string; created: number; name: string; device_id: string; }
+export interface CommentListItem { id: string; body: string; created: number; name: string; mine: boolean; }
 
 export function sanitizeName(s: unknown): string | null {
   if (typeof s !== "string") return null;
@@ -38,13 +39,14 @@ export async function addComment(env: CEnv, photoId: string, deviceId: string, b
   return { id, body, created, name, device_id: deviceId };
 }
 
-export async function listComments(env: CEnv, photoId: string): Promise<CommentRow[]> {
+export async function listComments(env: CEnv, photoId: string, deviceId: string | null): Promise<CommentListItem[]> {
   const { results } = await env.DB.prepare(
-    `SELECT c.id, c.body, c.created, c.device_id, COALESCE(p.name, 'Someone') AS name
+    `SELECT c.id, c.body, c.created, COALESCE(p.name, 'Someone') AS name,
+            (c.device_id = ?2) AS mine
        FROM comments c LEFT JOIN profiles p ON p.device_id = c.device_id
-      WHERE c.photo_id = ? ORDER BY c.created ASC, c.id ASC`,
-  ).bind(photoId).all<CommentRow>();
-  return results;
+      WHERE c.photo_id = ?1 ORDER BY c.created ASC, c.id ASC`,
+  ).bind(photoId, deviceId ?? "").all<{ id: string; body: string; created: number; name: string; mine: number }>();
+  return results.map((row) => ({ id: row.id, body: row.body, created: row.created, name: row.name, mine: (row.mine ?? 0) > 0 }));
 }
 
 export async function getComment(env: CEnv, id: string): Promise<{ device_id: string } | null> {
