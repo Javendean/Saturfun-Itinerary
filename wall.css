@@ -274,13 +274,18 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
 /* ---- Whirlwind opening reveal ---- */
 #whirl {
   position: fixed; inset: 0; z-index: 70;
-  background: rgba(14,14,16,0.96);
+  background: transparent;
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   overflow: hidden; cursor: pointer;
 }
+#whirlInk {
+  position: absolute; inset: 0;
+  background: var(--ink); opacity: 1;
+  pointer-events: none;
+}
 #whirlStage {
   position: absolute; inset: 0;
-  pointer-events: none;
+  pointer-events: none; z-index: 1;
 }
 .whirl-photo {
   position: absolute; top: 0; left: 0;
@@ -317,6 +322,7 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
 }
 #whirlSkip {
   position: absolute; bottom: 2rem; left: 50%; transform: translateX(-50%);
+  z-index: 1;
   font-size: 0.69rem; color: rgba(242,239,233,0.28);
   letter-spacing: 0.12em; text-transform: uppercase;
   pointer-events: none; user-select: none;

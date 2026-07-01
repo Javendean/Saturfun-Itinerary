@@ -796,8 +796,10 @@ function playWhirlwind(act, newCounts) {
   const overlay = $("whirl");
   const stage   = $("whirlStage");
   const recap   = $("whirlRecap");
+  const inkEl   = document.getElementById("whirlInk");
 
   overlay.hidden = false;
+  inkEl.style.opacity = "1";
 
   const vw = window.innerWidth;
   const vh = window.innerHeight;
@@ -901,7 +903,7 @@ function playWhirlwind(act, newCounts) {
     overlay.removeEventListener("pointerdown", onSkip);
     if (rafId) { cancelAnimationFrame(rafId); rafId = null; }
     overlay.hidden = true;
-    overlay.style.background = "";
+    inkEl.style.opacity = "1";
     recap.style.opacity = "0";
     recap.textContent = "";
     stage.innerHTML = "";
@@ -917,95 +919,99 @@ function playWhirlwind(act, newCounts) {
   overlay.addEventListener("pointerdown", onSkip);
 
   function tick(ts) {
-    if (skipped) return;
-    if (!startTime) startTime = ts;
-    const elapsed = ts - startTime;
+    try {
+      if (skipped) return;
+      if (!startTime) startTime = ts;
+      const elapsed = ts - startTime;
 
-    if (elapsed >= T_TOTAL) { finish(); return; }
+      if (elapsed >= T_TOTAL) { finish(); return; }
 
-    if (elapsed < T_VORTEX) {
-      // === VORTEX (0 – 1.6 s): spiral inward ===
-      const tv = elapsed / T_VORTEX; // 0→1
+      if (elapsed < T_VORTEX) {
+        // === VORTEX (0 – 1.6 s): spiral inward ===
+        const tv = elapsed / T_VORTEX; // 0→1
 
-      photoItems.forEach(({ el, θ, r, rotSpeed, rotDir, selfRot0, selfSpeed }) => {
-        const angle  = θ + tv * rotSpeed * rotDir * Math.PI * 2;
-        const radius = r * Math.pow(1 - tv, 1.5); // r→0 smoothly at tv=1
-        const x = cx + Math.cos(angle) * radius - 46;
-        const y = cy + Math.sin(angle) * radius - 46;
-        const scale = 0.5 + easeOut(tv) * 0.5;
-        el.style.transform = `translate3d(${x}px,${y}px,0) rotate(${selfRot0 + tv * selfSpeed}deg) scale(${scale})`;
-        el.style.opacity = String(Math.min(0.96, tv * 5));
-      });
+        photoItems.forEach(({ el, θ, r, rotSpeed, rotDir, selfRot0, selfSpeed }) => {
+          const angle  = θ + tv * rotSpeed * rotDir * Math.PI * 2;
+          const radius = r * Math.pow(1 - tv, 1.5); // r→0 smoothly at tv=1
+          const x = cx + Math.cos(angle) * radius - 46;
+          const y = cy + Math.sin(angle) * radius - 46;
+          const scale = 0.5 + easeOut(tv) * 0.5;
+          el.style.transform = `translate3d(${x}px,${y}px,0) rotate(${selfRot0 + tv * selfSpeed}deg) scale(${scale})`;
+          el.style.opacity = String(Math.min(0.96, tv * 5));
+        });
 
-      emberItems.forEach(({ el, θ, r, rotSpeed, rotDir, selfSpeed }) => {
-        const angle  = θ + tv * rotSpeed * rotDir * Math.PI * 2;
-        const radius = r * Math.pow(1 - tv, 1.5);
-        const x = cx + Math.cos(angle) * radius - 14;
-        const y = cy + Math.sin(angle) * radius - 14;
-        el.style.transform = `translate3d(${x}px,${y}px,0) rotate(${tv * selfSpeed}deg)`;
-        el.style.opacity = String(Math.min(0.85, tv * 3.5));
-      });
+        emberItems.forEach(({ el, θ, r, rotSpeed, rotDir, selfSpeed }) => {
+          const angle  = θ + tv * rotSpeed * rotDir * Math.PI * 2;
+          const radius = r * Math.pow(1 - tv, 1.5);
+          const x = cx + Math.cos(angle) * radius - 14;
+          const y = cy + Math.sin(angle) * radius - 14;
+          el.style.transform = `translate3d(${x}px,${y}px,0) rotate(${tv * selfSpeed}deg)`;
+          el.style.opacity = String(Math.min(0.85, tv * 3.5));
+        });
 
-      ghostItems.forEach(({ el, startX, y, speed }) => {
-        const gx = startX - elapsed * speed / 1000;
-        el.style.transform = `translate3d(${gx}px,${y}px,0)`;
-        el.style.opacity = String(Math.min(0.14, tv * 0.22));
-      });
+        ghostItems.forEach(({ el, startX, y, speed }) => {
+          const gx = startX - elapsed * speed / 1000;
+          el.style.transform = `translate3d(${gx}px,${y}px,0)`;
+          el.style.opacity = String(Math.min(0.14, tv * 0.22));
+        });
 
-    } else if (elapsed < T_VORTEX + T_ASSEMBLE) {
-      // === ASSEMBLE (1.6 – 2.6 s): photos → tile rects; overlay fades out ===
-      const ta = (elapsed - T_VORTEX) / T_ASSEMBLE; // 0→1
-      const rects = readRects();
+      } else if (elapsed < T_VORTEX + T_ASSEMBLE) {
+        // === ASSEMBLE (1.6 – 2.6 s): photos → tile rects; overlay fades out ===
+        const ta = (elapsed - T_VORTEX) / T_ASSEMBLE; // 0→1
+        const rects = readRects();
 
-      photoItems.forEach(({ el, id }) => {
-        const rect = rects[id];
-        if (rect) {
-          const destX = rect.left + rect.width  / 2 - 46;
-          const destY = rect.top  + rect.height / 2 - 46;
-          const x     = (cx - 46) + (destX - (cx - 46)) * easeInOut(ta);
-          const y     = (cy - 46) + (destY - (cy - 46)) * easeInOut(ta);
-          const scale = 1 + (rect.width / 92 - 1) * easeInOut(ta);
-          // fade out as it lands (last 35% of assemble)
-          const fadeOut = ta > 0.65 ? 1 - (ta - 0.65) / 0.35 : 1;
-          el.style.transform = `translate3d(${x}px,${y}px,0) scale(${scale})`;
-          el.style.opacity = String(Math.max(0, 0.96 * fadeOut));
-        } else {
-          el.style.opacity = String(Math.max(0, 0.96 * (1 - easeOut(ta))));
-        }
-      });
+        photoItems.forEach(({ el, id }) => {
+          const rect = rects[id];
+          if (rect) {
+            const destX = rect.left + rect.width  / 2 - 46;
+            const destY = rect.top  + rect.height / 2 - 46;
+            const x     = (cx - 46) + (destX - (cx - 46)) * easeInOut(ta);
+            const y     = (cy - 46) + (destY - (cy - 46)) * easeInOut(ta);
+            const scale = 1 + (rect.width / 92 - 1) * easeInOut(ta);
+            // fade out as it lands (last 35% of assemble)
+            const fadeOut = ta > 0.65 ? 1 - (ta - 0.65) / 0.35 : 1;
+            el.style.transform = `translate3d(${x}px,${y}px,0) scale(${scale})`;
+            el.style.opacity = String(Math.max(0, 0.96 * fadeOut));
+          } else {
+            el.style.opacity = String(Math.max(0, 0.96 * (1 - easeOut(ta))));
+          }
+        });
 
-      emberItems.forEach(({ el }, i) => {
-        const outR = easeOut(ta) * rBig * 1.35;
-        const outA = (i / emberItems.length) * Math.PI * 2;
-        const x = cx + Math.cos(outA) * outR - 14;
-        const y = cy + Math.sin(outA) * outR - 14;
-        el.style.transform = `translate3d(${x}px,${y}px,0) scale(${1 + ta * 0.35})`;
-        el.style.opacity = String(Math.max(0, 0.85 * (1 - easeOut(ta))));
-      });
+        emberItems.forEach(({ el }, i) => {
+          const outR = easeOut(ta) * rBig * 1.35;
+          const outA = (i / emberItems.length) * Math.PI * 2;
+          const x = cx + Math.cos(outA) * outR - 14;
+          const y = cy + Math.sin(outA) * outR - 14;
+          el.style.transform = `translate3d(${x}px,${y}px,0) scale(${1 + ta * 0.35})`;
+          el.style.opacity = String(Math.max(0, 0.85 * (1 - easeOut(ta))));
+        });
 
-      ghostItems.forEach(({ el, startX, y, speed }) => {
-        const gx = startX - elapsed * speed / 1000;
-        el.style.transform = `translate3d(${gx}px,${y}px,0)`;
-        el.style.opacity = String(Math.max(0, 0.14 * (1 - easeOut(ta))));
-      });
+        ghostItems.forEach(({ el, startX, y, speed }) => {
+          const gx = startX - elapsed * speed / 1000;
+          el.style.transform = `translate3d(${gx}px,${y}px,0)`;
+          el.style.opacity = String(Math.max(0, 0.14 * (1 - easeOut(ta))));
+        });
 
-      // Fade the ink background to reveal the real grid beneath
-      const bgAlpha = (0.96 * (1 - easeInOut(ta))).toFixed(3);
-      overlay.style.background = `rgba(14,14,16,${bgAlpha})`;
+        // Fade the ink layer to reveal the real grid beneath
+        const bgAlpha = (0.96 * (1 - easeInOut(ta))).toFixed(3);
+        inkEl.style.opacity = String(bgAlpha);
+      }
+      // else: post-assemble hold (2.6 – 3 s) — overlay transparent, recap floating above grid
+
+      // === RECAP (2.2 – 3 s): fade in → hold → fade out ===
+      if (elapsed >= T_RECAP_START && recap.textContent) {
+        const tr = elapsed - T_RECAP_START;
+        let op;
+        if      (tr < T_RECAP_IN)                      op = tr / T_RECAP_IN;
+        else if (tr < T_RECAP_IN + T_RECAP_HOLD)       op = 1;
+        else op = Math.max(0, 1 - (tr - T_RECAP_IN - T_RECAP_HOLD) / T_RECAP_OUT);
+        recap.style.opacity = String(op);
+      }
+
+      rafId = requestAnimationFrame(tick);
+    } catch {
+      finish();
     }
-    // else: post-assemble hold (2.6 – 3 s) — overlay transparent, recap floating above grid
-
-    // === RECAP (2.2 – 3 s): fade in → hold → fade out ===
-    if (elapsed >= T_RECAP_START && recap.textContent) {
-      const tr = elapsed - T_RECAP_START;
-      let op;
-      if      (tr < T_RECAP_IN)                      op = tr / T_RECAP_IN;
-      else if (tr < T_RECAP_IN + T_RECAP_HOLD)       op = 1;
-      else op = Math.max(0, 1 - (tr - T_RECAP_IN - T_RECAP_HOLD) / T_RECAP_OUT);
-      recap.style.opacity = String(op);
-    }
-
-    rafId = requestAnimationFrame(tick);
   }
 
   rafId = requestAnimationFrame(tick);
