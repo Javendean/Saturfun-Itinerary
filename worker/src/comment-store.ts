@@ -1,8 +1,9 @@
 // Comments + a name-only profile. Comments join profiles for the current display name.
 import type { Env } from "./types";
-type CEnv = Pick<Env, "DB">;
+import { sniffImage } from "./photos";
+type CEnv = Pick<Env, "DB" | "PHOTOS_BUCKET">;
 export interface CommentRow { id: string; body: string; created: number; name: string; device_id: string; }
-export interface CommentListItem { id: string; body: string; created: number; name: string; mine: boolean; }
+export interface CommentListItem { id: string; body: string; created: number; name: string; mine: boolean; avatar_url: string | null; }
 
 export function sanitizeName(s: unknown): string | null {
   if (typeof s !== "string") return null;
@@ -42,11 +43,18 @@ export async function addComment(env: CEnv, photoId: string, deviceId: string, b
 export async function listComments(env: CEnv, photoId: string, deviceId: string | null): Promise<CommentListItem[]> {
   const { results } = await env.DB.prepare(
     `SELECT c.id, c.body, c.created, COALESCE(p.name, 'Someone') AS name,
-            (c.device_id = ?2) AS mine
+            (c.device_id = ?2) AS mine, p.avatar_id AS avatar_id
        FROM comments c LEFT JOIN profiles p ON p.device_id = c.device_id
       WHERE c.photo_id = ?1 ORDER BY c.created ASC, c.id ASC`,
-  ).bind(photoId, deviceId ?? "").all<{ id: string; body: string; created: number; name: string; mine: number }>();
-  return results.map((row) => ({ id: row.id, body: row.body, created: row.created, name: row.name, mine: (row.mine ?? 0) > 0 }));
+  ).bind(photoId, deviceId ?? "").all<{ id: string; body: string; created: number; name: string; mine: number; avatar_id: string | null }>();
+  return results.map((row) => ({
+    id: row.id,
+    body: row.body,
+    created: row.created,
+    name: row.name,
+    mine: (row.mine ?? 0) > 0,
+    avatar_url: row.avatar_id ? `/api/avatar/${row.avatar_id}` : null,
+  }));
 }
 
 export async function getComment(env: CEnv, id: string): Promise<{ device_id: string } | null> {
@@ -65,4 +73,30 @@ export async function commentCounts(env: CEnv): Promise<Record<string, number>> 
   const out: Record<string, number> = {};
   for (const r of results) out[r.photo_id] = r.n;
   return out;
+}
+
+// ---- Avatar ops (R2 + D1) ------------------------------------------------
+
+export async function getAvatarId(env: CEnv, deviceId: string): Promise<string | null> {
+  const row = await env.DB.prepare("SELECT avatar_id FROM profiles WHERE device_id = ?").bind(deviceId).first<{ avatar_id: string | null }>();
+  return row?.avatar_id ?? null;
+}
+
+export async function setAvatar(env: CEnv, deviceId: string, bytes: Uint8Array): Promise<{ avatar_id: string }> {
+  const kind = sniffImage(bytes);
+  if (!kind) throw new Error("not an image");
+  let avatarId = await getAvatarId(env, deviceId);
+  if (!avatarId) avatarId = crypto.randomUUID().replace(/-/g, "");
+  await env.PHOTOS_BUCKET.put(`avatars/${avatarId}`, bytes, { httpMetadata: { contentType: kind.contentType } });
+  await env.DB.prepare(
+    `INSERT INTO profiles (device_id, name, avatar_id, updated) VALUES (?, 'Someone', ?, ?)
+     ON CONFLICT(device_id) DO UPDATE SET avatar_id = excluded.avatar_id, updated = excluded.updated`,
+  ).bind(deviceId, avatarId, Date.now() / 1000).run();
+  return { avatar_id: avatarId };
+}
+
+export async function getAvatarBytes(env: CEnv, avatarId: string): Promise<{ body: ArrayBuffer; contentType: string } | null> {
+  const obj = await env.PHOTOS_BUCKET.get(`avatars/${avatarId}`);
+  if (!obj) return null;
+  return { body: await obj.arrayBuffer(), contentType: obj.httpMetadata?.contentType || "image/jpeg" };
 }

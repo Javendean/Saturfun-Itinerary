@@ -1,7 +1,7 @@
 import { env, SELF } from "cloudflare:test";
 import { describe, it, expect, beforeEach } from "vitest";
 import { saveUpload, addPhoto } from "../src/photo-store";
-import { sanitizeName, sanitizeBody, setName, getName, addComment, listComments, getComment, deleteComment, deleteCommentsFor, commentCounts } from "../src/comment-store";
+import { sanitizeName, sanitizeBody, setName, getName, addComment, listComments, getComment, deleteComment, deleteCommentsFor, commentCounts, setAvatar, getAvatarBytes, getAvatarId } from "../src/comment-store";
 
 const PNG = Uint8Array.from(atob("iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=="), (c) => c.charCodeAt(0));
 async function seed(name = "p.png") { const m = await saveUpload(env, PNG, name); await addPhoto(env, m); return m; }
@@ -148,5 +148,49 @@ describe("comment routes", () => {
     await SELF.fetch(`${BASE}/api/photos/${p.id}`, { method: "DELETE", headers: { "X-Owner-Token": OWNER } });
     const n = await env.DB.prepare("SELECT COUNT(*) AS n FROM comments WHERE photo_id = ?").bind(p.id).first<number>("n");
     expect(n).toBe(0);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// Avatar store tests
+// ---------------------------------------------------------------------------
+const GIFBYTES = Uint8Array.from(atob("R0lGODlhAQABAAAAACwAAAAAAQABAAA="), (c) => c.charCodeAt(0));
+
+describe("avatars", () => {
+  beforeEach(async () => {
+    await env.DB.prepare("DELETE FROM comments").run();
+    await env.DB.prepare("DELETE FROM profiles").run();
+    await env.DB.prepare("DELETE FROM photos").run();
+  });
+
+  it("stores an avatar, sets avatar_id, serves the bytes", async () => {
+    const { avatar_id } = await setAvatar(env, "dev-1", PNG);
+    expect(typeof avatar_id).toBe("string");
+    expect(avatar_id.length).toBeGreaterThan(8);
+    expect(await getAvatarId(env, "dev-1")).toBe(avatar_id);
+    const got = await getAvatarBytes(env, avatar_id);
+    expect(got).not.toBeNull();
+    expect(got!.contentType).toContain("image/");
+    expect(new Uint8Array(got!.body).length).toBe(PNG.length);
+  });
+
+  it("rejects a non-image (magic-byte validation)", async () => {
+    await expect(setAvatar(env, "dev-1", Uint8Array.from([1, 2, 3, 4, 5]))).rejects.toBeTruthy();
+  });
+
+  it("re-upload keeps a stable avatar_id for the device", async () => {
+    const a = await setAvatar(env, "dev-1", PNG);
+    const b = await setAvatar(env, "dev-1", GIFBYTES);
+    expect(b.avatar_id).toBe(a.avatar_id);
+  });
+
+  it("listComments includes avatar_url when the commenter has an avatar", async () => {
+    const m = await saveUpload(env, PNG, "p.png"); await addPhoto(env, m);
+    await addComment(env, m.id, "dev-1", "hi");
+    const before = await listComments(env, m.id, "dev-1");
+    expect(before[0].avatar_url).toBeNull();
+    const { avatar_id } = await setAvatar(env, "dev-1", PNG);
+    const after = await listComments(env, m.id, "dev-1");
+    expect(after[0].avatar_url).toBe(`/api/avatar/${avatar_id}`);
   });
 });
