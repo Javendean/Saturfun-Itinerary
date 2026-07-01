@@ -34,8 +34,9 @@
     // Migrate: unregister the old wall-scoped SW so the unified root SW takes over.
     navigator.serviceWorker.getRegistrations().then(function (regs) {
       regs.forEach(function (r) {
-        var u = (r.active && r.active.scriptURL) || "";
-        if (u.indexOf("wall-sw.js") !== -1) r.unregister();
+        var w = r.active || r.waiting || r.installing;
+        var u = w ? w.scriptURL : "";
+        if (u.indexOf("/wall-sw.js") !== -1 || /(^|\/)wall-sw\.js$/.test(u)) r.unregister();
       });
     }).catch(function () {});
     navigator.serviceWorker.register("sw.js").catch(function (e) { console.warn("[shell] SW register failed:", e); });
