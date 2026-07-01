@@ -242,3 +242,26 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
 }
 .ns-title { margin: 0; font-size: .88rem; color: rgba(242,239,233,.8); text-align: center; }
 .ns-actions { display: flex; gap: .6rem; justify-content: flex-end; }
+/* Avatar picker inside name sheet */
+.ns-avatar {
+  display: flex; align-items: center; justify-content: center; gap: .6rem;
+  cursor: pointer; padding: .45rem .6rem; border-radius: 10px;
+  border: 1px dashed rgba(242,239,233,.2); transition: border-color .15s ease;
+  min-height: 52px;
+}
+.ns-avatar:hover { border-color: rgba(212,175,55,.45); }
+.ns-avatar img {
+  width: 44px; height: 44px; border-radius: 50%; object-fit: cover; flex-shrink: 0;
+}
+#nameAvatarPreview:not([src]),
+#nameAvatarPreview[src=""] { display: none; }
+.ns-avatar span { font-size: .8rem; color: rgba(242,239,233,.55); }
+/* Comment avatars */
+.lc-avatar {
+  width: 22px; height: 22px; border-radius: 50%; object-fit: cover;
+  flex-shrink: 0; align-self: center;
+}
+.lc-avatar-none {
+  display: inline-block; background: rgba(242,239,233,.1);
+  border: 1px solid rgba(242,239,233,.12);
+}

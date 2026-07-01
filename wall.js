@@ -105,7 +105,8 @@ async function loadComments(photoId) {
   const canOwner = document.body.classList.contains("is-owner");
   wrap.innerHTML = list.map((c) => {
     const del = (canOwner || c.mine) ? `<button class="lc-del" data-id="${esc(String(c.id))}" aria-label="Delete">✕</button>` : "";
-    return `<div class="lc-item"><span class="lc-name">${esc(c.name || "")}</span> <span class="lc-body">${esc(c.body || "")}</span> <span class="lc-time">${timeAgo(c.created)}</span>${del}</div>`;
+    const av = c.avatar_url ? `<img class="lc-avatar" src="${esc(PHOTO_API + c.avatar_url)}" alt="">` : `<span class="lc-avatar lc-avatar-none" aria-hidden="true"></span>`;
+    return `<div class="lc-item">${av}<span class="lc-name">${esc(c.name || "")}</span> <span class="lc-body">${esc(c.body || "")}</span> <span class="lc-time">${timeAgo(c.created)}</span>${del}</div>`;
   }).join("");
 }
 async function postComment(photoId, body) {
@@ -650,9 +651,43 @@ function setupAppUpdate() {
   });
 }
 
+// ---- avatar helpers -----------------------------------------------------
+function downscaleImage(file, max = 256) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = () => {
+      const s = Math.min(max / img.width, max / img.height, 1);
+      const w = Math.round(img.width * s), h = Math.round(img.height * s);
+      const cv = document.createElement("canvas"); cv.width = w; cv.height = h;
+      cv.getContext("2d").drawImage(img, 0, 0, w, h);
+      cv.toBlob((b) => (b ? resolve(b) : reject(new Error("encode"))), "image/jpeg", 0.85);
+    };
+    img.onerror = reject;
+    img.src = URL.createObjectURL(file);
+  });
+}
+async function uploadAvatar(blob) {
+  const fd = new FormData();
+  fd.append("device_id", deviceId());
+  fd.append("avatar", blob, "avatar.jpg");
+  const r = await fetch(`${PHOTO_API}/api/profile/avatar`, { method: "POST", body: fd });
+  if (!r.ok) { toast("Couldn't upload the picture."); return null; }
+  const url = (await r.json()).avatar_url;
+  localStorage.setItem("saturfun_avatar", url);
+  return url;
+}
+
 // ---- comment wiring + name sheet ----------------------------------------
 let pendingComment = null; // {photoId, body} awaiting a name decision
-function openNameSheet() { $("nameSheetInput").value = myName(); $("nameSheet").hidden = false; $("nameSheetInput").focus(); }
+let pendingAvatarBlob = null;
+function openNameSheet() {
+  $("nameSheetInput").value = myName();
+  $("nameAvatarPreview").src = "";
+  $("nameAvatarInput").value = "";
+  pendingAvatarBlob = null;
+  $("nameSheet").hidden = false;
+  $("nameSheetInput").focus();
+}
 function closeNameSheet() { $("nameSheet").hidden = true; }
 async function saveName(name) {
   const n = (name || "").trim().slice(0, 40);
@@ -673,10 +708,22 @@ function setupComments() {
     const r = await fetch(`${PHOTO_API}/api/photos/${current.id}/comments/${encodeURIComponent(b.dataset.id)}`, { method: "DELETE", headers: { "Content-Type": "application/json", ...(ownerToken() ? { "X-Owner-Token": ownerToken() } : {}) }, body: JSON.stringify({ device_id: deviceId() }) });
     if (r.ok) { await loadComments(current.id); bumpCommentCount(current.id, -1); } else toast("Couldn't delete.");
   });
-  const finish = async () => { closeNameSheet(); if (pendingComment) { const pc = pendingComment; pendingComment = null; if (await postComment(pc.photoId, pc.body)) { if (current && current.id === pc.photoId) await loadComments(pc.photoId); bumpCommentCount(pc.photoId, 1); } } };
-  $("nameSave").addEventListener("click", async () => { await saveName($("nameSheetInput").value); await finish(); });
+  const finish = async () => { pendingAvatarBlob = null; closeNameSheet(); if (pendingComment) { const pc = pendingComment; pendingComment = null; if (await postComment(pc.photoId, pc.body)) { if (current && current.id === pc.photoId) await loadComments(pc.photoId); bumpCommentCount(pc.photoId, 1); } } };
+  $("nameSave").addEventListener("click", async () => {
+    await saveName($("nameSheetInput").value);
+    if (pendingAvatarBlob) { await uploadAvatar(pendingAvatarBlob); pendingAvatarBlob = null; }
+    await finish();
+  });
   $("nameSkip").addEventListener("click", finish);
-  $("nameSheetBackdrop").addEventListener("click", () => { closeNameSheet(); pendingComment = null; });
+  $("nameSheetBackdrop").addEventListener("click", () => { closeNameSheet(); pendingComment = null; pendingAvatarBlob = null; });
+  $("nameAvatarInput").addEventListener("change", async (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    try {
+      pendingAvatarBlob = await downscaleImage(file);
+      $("nameAvatarPreview").src = URL.createObjectURL(pendingAvatarBlob);
+    } catch { toast("Couldn't process that image."); }
+  });
 }
 function bumpCommentCount(photoId, delta) {
   const p = PHOTOS.find((x) => x.id === photoId); if (!p) return;
@@ -750,7 +797,7 @@ function init() {
   $("lightboxBackdrop").addEventListener("click", closeLightbox);
   document.addEventListener("keydown", (e) => {
     if (e.key !== "Escape") return;
-    if (!$("nameSheet").hidden) { closeNameSheet(); pendingComment = null; }
+    if (!$("nameSheet").hidden) { closeNameSheet(); pendingComment = null; pendingAvatarBlob = null; }
     else if (!$("reactMenu").hidden) closeReactMenu();
     else if ($("lightbox").classList.contains("open")) closeLightbox();
     else if (selectMode) exitSelectMode();
