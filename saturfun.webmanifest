@@ -1,0 +1,17 @@
+{
+  "id": "/Saturfun-Itinerary/",
+  "name": "Saturfun",
+  "short_name": "Saturfun",
+  "description": "Brooklyn itinerary, shared photo wall, and manga panel vault — one app.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E0E10",
+  "theme_color": "#0E0E10",
+  "icons": [
+    { "src": "wall-icon-192.png", "sizes": "192x192", "purpose": "any" },
+    { "src": "wall-icon-512.png", "sizes": "512x512", "purpose": "any" },
+    { "src": "wall-icon-maskable.png", "sizes": "512x512", "purpose": "maskable" }
+  ]
+}

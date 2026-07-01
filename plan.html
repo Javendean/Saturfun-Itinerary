@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Plan | Saturfun</title>
+<!-- PWA -->
+<link rel="manifest" href="saturfun.webmanifest">
+<meta name="theme-color" content="#0E0E10">
+<link rel="icon" href="wall-icon-192.png">
+<link rel="apple-touch-icon" href="wall-apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Saturfun">
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,800;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<!-- Design system -->
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="app-shell.css">
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ink);
+    color: var(--paper);
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+    min-height: 100dvh;
+  }
+  h1, h2, h3, .serif { font-family: 'Playfair Display', serif; }
+
+  .plan-hero {
+    min-height: calc(100dvh - var(--tab-bar-h));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 4rem 2rem 3rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .plan-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background:
+      repeating-linear-gradient(0deg, transparent 0 2px, rgba(255,255,255,.012) 2px 4px),
+      radial-gradient(ellipse at center, rgba(212,175,55,.12) 0%, transparent 65%);
+  }
+  .plan-hero > * { position: relative; z-index: 1; }
+
+  .plan-eyebrow {
+    font-size: .72rem;
+    text-transform: uppercase;
+    letter-spacing: .4em;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 1.2rem;
+  }
+  .plan-hero h1 {
+    font-size: clamp(3rem, 10vw, 6.5rem);
+    font-weight: 800;
+    line-height: .95;
+    letter-spacing: -.03em;
+    margin: 0 0 1.2rem;
+  }
+  .plan-hero h1 em {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--gold);
+  }
+  .plan-hero p {
+    font-size: clamp(.95rem, 1.6vw, 1.15rem);
+    color: rgba(242,239,233,.65);
+    max-width: 520px;
+    margin: 0 auto;
+    font-weight: 300;
+    line-height: 1.6;
+  }
+  .plan-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    margin-top: 2.4rem;
+    padding: .55rem 1.2rem;
+    border-radius: 999px;
+    border: 1px solid rgba(212,175,55,.3);
+    background: rgba(212,175,55,.07);
+    color: rgba(212,175,55,.8);
+    font-size: .78rem;
+    font-weight: 500;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+</style>
+</head>
+<body class="has-tabbar">
+
+<main class="plan-hero">
+  <p class="plan-eyebrow">Coming soon</p>
+  <h1>✨ <em>Plan</em></h1>
+  <p>Your itinerary planner is coming — it'll suggest new stops and let you shape them.</p>
+  <span class="plan-badge">In the works</span>
+</main>
+
+<script src="app-shell.js" defer></script>
+</body>
+</html>
