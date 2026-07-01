@@ -96,6 +96,14 @@
 <!-- appears when a newer version shipped while this app was open -->
 <button id="updateBtn" class="act primary" hidden>↑ New version — tap to update</button>
 
+<div id="reactMenu" hidden>
+  <div id="reactMenuBackdrop"></div>
+  <div id="reactMenuBar" role="menu" aria-label="React">
+    <div id="reactMenuQuick"></div>
+    <input id="reactMenuInput" class="rx-input" inputmode="text" enterkeyhint="done" placeholder="type any emoji…" aria-label="Type any emoji" hidden>
+  </div>
+</div>
+
 <div id="toast" role="status" aria-live="polite"></div>
 
 <script type="module" src="wall.js"></script>

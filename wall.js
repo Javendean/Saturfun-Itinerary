@@ -19,6 +19,36 @@ function deviceId() {
 }
 const QUICK_EMOJI = ["❤️", "😂", "‼️", "👍", "😮", "😢"];
 
+// ---- react menu (long-press / right-click from grid) --------------------
+let reactMenuPhoto = null;
+function openReactMenu(photoId) {
+  reactMenuPhoto = photoId;
+  const quick = $("reactMenuQuick");
+  quick.innerHTML = QUICK_EMOJI.map((em) => `<button type="button" class="rm-q" data-emoji="${esc(em)}">${esc(em)}</button>`).join("")
+    + `<button type="button" class="rm-q rm-more" id="reactMenuMore" aria-label="Any emoji">➕</button>`;
+  $("reactMenuInput").hidden = true;
+  $("reactMenuInput").value = "";
+  $("reactMenu").hidden = false;
+}
+function closeReactMenu() { $("reactMenu").hidden = true; reactMenuPhoto = null; }
+function setupReactMenu() {
+  $("reactMenuBackdrop").addEventListener("click", closeReactMenu);
+  $("reactMenuQuick").addEventListener("click", (e) => {
+    const b = e.target.closest(".rm-q");
+    if (!b) return;
+    if (b.id === "reactMenuMore") { $("reactMenuInput").hidden = false; $("reactMenuInput").focus(); return; }
+    const pid = reactMenuPhoto;
+    closeReactMenu();
+    if (pid && b.dataset.emoji) reactOn(pid, b.dataset.emoji);
+  });
+  $("reactMenuInput").addEventListener("input", (e) => {
+    const v = e.target.value.trim(); e.target.value = "";
+    const pid = reactMenuPhoto;
+    closeReactMenu();
+    if (pid && v) reactOn(pid, Array.from(v).slice(0, 8).join(""));
+  });
+}
+
 async function postReaction(photoId, emoji) {
   const r = await fetch(`${PHOTO_API}/api/photos/${photoId}/react`, {
     method: "POST", headers: { "Content-Type": "application/json" },
@@ -367,7 +397,16 @@ async function loadPhotos() {
           tile.innerHTML =
             `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
             `<span class="check" aria-hidden="true">✓</span>`;
-          tile.addEventListener("click", () => {
+          let lpTimer = null, lpFired = false;
+          const startLP = () => { lpFired = false; lpTimer = setTimeout(() => { lpFired = true; openReactMenu(p.id); }, 450); };
+          const cancelLP = () => { if (lpTimer) { clearTimeout(lpTimer); lpTimer = null; } };
+          tile.addEventListener("touchstart", startLP, { passive: true });
+          tile.addEventListener("touchend", cancelLP);
+          tile.addEventListener("touchmove", cancelLP, { passive: true });
+          tile.addEventListener("touchcancel", cancelLP);
+          tile.addEventListener("contextmenu", (e) => { e.preventDefault(); openReactMenu(p.id); }); // desktop right-click
+          tile.addEventListener("click", (e) => {
+            if (lpFired) { lpFired = false; e.preventDefault(); return; }
             if (selectMode) toggleTile(p, tile);
             else openLightbox(p);
           });
@@ -637,6 +676,7 @@ function init() {
 
   // lightbox actions
   setupReactions();
+  setupReactMenu();
   $("lbSave").addEventListener("click", () => current && savePhoto(current));
   $("lbOpen").addEventListener("click", () => current && window.open(`${PHOTO_API}/api/photos/${current.id}/raw`, "_blank"));
   $("lbDelete").addEventListener("click", deleteCurrent);

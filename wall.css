@@ -171,7 +171,7 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
 /* ---- Reactions ---- */
 .tile-card { display: flex; flex-direction: column; gap: .3rem; }
 .tile-card .tile { width: 100%; }
-.tile-reactions { display: flex; flex-wrap: wrap; gap: .25rem; padding: 0 .1rem; }
+.tile-reactions { display: flex; flex-wrap: wrap; gap: .25rem; padding: 0 .1rem; pointer-events: none; }
 .tr-chip { display: inline-flex; align-items: center; gap: .15rem; font-size: .72rem; line-height: 1.4;
   padding: .05rem .32rem; border-radius: 999px; background: rgba(255,255,255,.05);
   border: 1px solid rgba(242,239,233,.1); color: rgba(242,239,233,.85); }
@@ -191,3 +191,16 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
 .rx-q:hover { border-color: rgba(212,175,55,.5); }
 .rx-input { width: min(260px, 80vw); text-align: center; padding: .5rem .7rem; border-radius: 999px;
   border: 1px solid rgba(242,239,233,.2); background: #161618; color: var(--paper); font-size: 1.1rem; }
+
+/* ---- Long-press / right-click react menu ---- */
+.tile { -webkit-touch-callout: none; user-select: none; }
+#reactMenu { position: fixed; inset: 0; z-index: 55; display: flex; align-items: center; justify-content: center; }
+#reactMenuBackdrop { position: absolute; inset: 0; background: rgba(8,8,9,.55); }
+#reactMenuBar { position: relative; z-index: 1; display: flex; flex-direction: column; gap: .5rem; align-items: center;
+  padding: .7rem .8rem; border-radius: 16px; background: #161618; border: 1px solid rgba(242,239,233,.14);
+  box-shadow: 0 16px 44px rgba(0,0,0,.6); max-width: 92vw; }
+#reactMenuQuick { display: flex; gap: .35rem; flex-wrap: wrap; justify-content: center; }
+.rm-q { font-size: 1.6rem; line-height: 1; padding: .3rem .4rem; border-radius: 12px; border: 1px solid transparent;
+  background: rgba(255,255,255,.04); cursor: pointer; }
+.rm-q:hover { border-color: rgba(212,175,55,.5); }
+.rm-more { font-size: 1.2rem; }
