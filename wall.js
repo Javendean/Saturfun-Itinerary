@@ -767,6 +767,250 @@ function setupReactions() {
   });
 }
 
+// ---- whirlwind opening reveal -------------------------------------------
+const SEEN_KEY = "saturfun_seen";
+let _whirlRunning = false;
+
+async function maybePlayWhirlwind() {
+  let act;
+  try { act = await (await fetch(`${PHOTO_API}/api/activity`)).json(); } catch { return; }
+  if (!act || !act.latest) return;
+  const seen = parseFloat(localStorage.getItem(SEEN_KEY) || "0");
+  localStorage.setItem(SEEN_KEY, String(act.latest)); // always advance the marker
+  if (!seen) return;                 // first visit: mark, don't play
+  if (act.latest <= seen) return;    // nothing new
+  const newCounts = {
+    photos:    (act.photos    || []).filter((p) => p.uploaded > seen).length,
+    reactions: (act.reactions || []).filter((r) => r.created  > seen).length,
+    comments:  (act.comments  || []).filter((c) => c.created  > seen).length,
+  };
+  if (newCounts.photos + newCounts.reactions + newCounts.comments === 0) return;
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  playWhirlwind(act, newCounts);
+}
+
+function playWhirlwind(act, newCounts) {
+  if (_whirlRunning) return;
+  _whirlRunning = true;
+
+  const overlay = $("whirl");
+  const stage   = $("whirlStage");
+  const recap   = $("whirlRecap");
+
+  overlay.hidden = false;
+
+  const vw = window.innerWidth;
+  const vh = window.innerHeight;
+  const cx = vw / 2;
+  const cy = vh / 2;
+
+  // Timings (ms) — total 3 s
+  const T_VORTEX      = 1600; // 0 → 1600 ms
+  const T_ASSEMBLE    = 1000; // 1600 → 2600 ms
+  const T_TOTAL       = 3000; // animation ends here
+  const T_RECAP_START = 2200; // recap fades in from here
+  const T_RECAP_IN    = 200;
+  const T_RECAP_HOLD  = 280;
+  const T_RECAP_OUT   = 320;  // 2200+200+280+320 = 3000 = T_TOTAL
+
+  const rBig = Math.max(vw, vh) * 0.55;
+
+  // ---- Build nodes (≤ 10 photos + ≤ 20 embers + ≤ 4 ghosts = ≤ 34 nodes) ----
+  const photos    = (act.photos    || []).slice(0, 10);
+  const reactions = (act.reactions || []).slice(0, 20);
+  const comments  = (act.comments  || []).slice(0, 4);
+
+  const photoItems = photos.map((p, i) => {
+    const el = document.createElement("img");
+    el.className = "whirl-photo";
+    el.src = `${PHOTO_API}/api/photos/${esc(p.id)}/thumb`;
+    el.alt = "";
+    el.draggable = false;
+    el.style.opacity = "0";
+    stage.appendChild(el);
+    return {
+      el, id: p.id,
+      θ:         (i / Math.max(photos.length, 1)) * Math.PI * 2,
+      r:         rBig * (0.72 + Math.random() * 0.32),
+      rotSpeed:  0.5 + Math.random() * 0.9,
+      rotDir:    Math.random() < 0.5 ? 1 : -1,
+      selfRot0:  Math.random() * 360,
+      selfSpeed: (12 + Math.random() * 28) * (Math.random() < 0.5 ? 1 : -1),
+    };
+  });
+
+  const emojis = reactions.map((r) => r.emoji).filter(Boolean);
+  while (emojis.length < 12) emojis.push(["✦","★","♥","✿","◆"][emojis.length % 5]);
+  const emberItems = emojis.slice(0, 20).map((emoji, i) => {
+    const el = document.createElement("span");
+    el.className = "whirl-ember";
+    el.textContent = emoji;
+    el.style.opacity = "0";
+    stage.appendChild(el);
+    return {
+      el,
+      θ:         (i / 20) * Math.PI * 2 + Math.random() * 0.5,
+      r:         rBig * (0.48 + Math.random() * 0.57),
+      rotSpeed:  1.0 + Math.random() * 1.3,
+      rotDir:    Math.random() < 0.5 ? 1 : -1,
+      selfSpeed: (25 + Math.random() * 55) * (Math.random() < 0.5 ? 1 : -1),
+    };
+  });
+
+  const ghostItems = comments.map((c, i) => {
+    const el = document.createElement("span");
+    el.className = "whirl-ghost";
+    el.textContent = String(c.name || "?").slice(0, 20) + ": " + String(c.body || "").slice(0, 60);
+    const startX = vw * (0.08 + Math.random() * 0.5);
+    const y      = vh * (0.18 + i * 0.21);
+    el.style.transform = `translate3d(${startX}px,${y}px,0)`;
+    el.style.opacity = "0";
+    stage.appendChild(el);
+    return { el, startX, y, speed: 45 + Math.random() * 35 };
+  });
+
+  // Recap text
+  const parts = [];
+  if (newCounts.reactions) parts.push(`${newCounts.reactions} reaction${newCounts.reactions === 1 ? "" : "s"}`);
+  if (newCounts.comments)  parts.push(`${newCounts.comments} comment${newCounts.comments === 1 ? "" : "s"}`);
+  if (newCounts.photos)    parts.push(`${newCounts.photos} photo${newCounts.photos === 1 ? "" : "s"}`);
+  recap.textContent = parts.length ? `✶ ${parts.join(" · ")} since you were here` : "";
+  recap.style.opacity = "0";
+
+  // Easing helpers
+  function easeOut(t)   { return 1 - (1 - t) * (1 - t); }
+  function easeInOut(t) { return t < 0.5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2; }
+
+  // Tile rects — read once when assemble phase begins
+  let assembleRects = null;
+  function readRects() {
+    if (assembleRects) return assembleRects;
+    assembleRects = {};
+    photoItems.forEach(({ id }) => {
+      const tile = document.querySelector(`#photoGrid .tile-card[data-id="${id}"]`);
+      if (tile) assembleRects[id] = tile.getBoundingClientRect();
+    });
+    return assembleRects;
+  }
+
+  let rafId     = null;
+  let startTime = null;
+  let skipped   = false;
+
+  function finish() {
+    overlay.removeEventListener("pointerdown", onSkip);
+    if (rafId) { cancelAnimationFrame(rafId); rafId = null; }
+    overlay.hidden = true;
+    overlay.style.background = "";
+    recap.style.opacity = "0";
+    recap.textContent = "";
+    stage.innerHTML = "";
+    _whirlRunning = false;
+  }
+
+  function onSkip() {
+    if (skipped) return;
+    skipped = true;
+    finish();
+  }
+
+  overlay.addEventListener("pointerdown", onSkip);
+
+  function tick(ts) {
+    if (skipped) return;
+    if (!startTime) startTime = ts;
+    const elapsed = ts - startTime;
+
+    if (elapsed >= T_TOTAL) { finish(); return; }
+
+    if (elapsed < T_VORTEX) {
+      // === VORTEX (0 – 1.6 s): spiral inward ===
+      const tv = elapsed / T_VORTEX; // 0→1
+
+      photoItems.forEach(({ el, θ, r, rotSpeed, rotDir, selfRot0, selfSpeed }) => {
+        const angle  = θ + tv * rotSpeed * rotDir * Math.PI * 2;
+        const radius = r * Math.pow(1 - tv, 1.5); // r→0 smoothly at tv=1
+        const x = cx + Math.cos(angle) * radius - 46;
+        const y = cy + Math.sin(angle) * radius - 46;
+        const scale = 0.5 + easeOut(tv) * 0.5;
+        el.style.transform = `translate3d(${x}px,${y}px,0) rotate(${selfRot0 + tv * selfSpeed}deg) scale(${scale})`;
+        el.style.opacity = String(Math.min(0.96, tv * 5));
+      });
+
+      emberItems.forEach(({ el, θ, r, rotSpeed, rotDir, selfSpeed }) => {
+        const angle  = θ + tv * rotSpeed * rotDir * Math.PI * 2;
+        const radius = r * Math.pow(1 - tv, 1.5);
+        const x = cx + Math.cos(angle) * radius - 14;
+        const y = cy + Math.sin(angle) * radius - 14;
+        el.style.transform = `translate3d(${x}px,${y}px,0) rotate(${tv * selfSpeed}deg)`;
+        el.style.opacity = String(Math.min(0.85, tv * 3.5));
+      });
+
+      ghostItems.forEach(({ el, startX, y, speed }) => {
+        const gx = startX - elapsed * speed / 1000;
+        el.style.transform = `translate3d(${gx}px,${y}px,0)`;
+        el.style.opacity = String(Math.min(0.14, tv * 0.22));
+      });
+
+    } else if (elapsed < T_VORTEX + T_ASSEMBLE) {
+      // === ASSEMBLE (1.6 – 2.6 s): photos → tile rects; overlay fades out ===
+      const ta = (elapsed - T_VORTEX) / T_ASSEMBLE; // 0→1
+      const rects = readRects();
+
+      photoItems.forEach(({ el, id }) => {
+        const rect = rects[id];
+        if (rect) {
+          const destX = rect.left + rect.width  / 2 - 46;
+          const destY = rect.top  + rect.height / 2 - 46;
+          const x     = (cx - 46) + (destX - (cx - 46)) * easeInOut(ta);
+          const y     = (cy - 46) + (destY - (cy - 46)) * easeInOut(ta);
+          const scale = 1 + (rect.width / 92 - 1) * easeInOut(ta);
+          // fade out as it lands (last 35% of assemble)
+          const fadeOut = ta > 0.65 ? 1 - (ta - 0.65) / 0.35 : 1;
+          el.style.transform = `translate3d(${x}px,${y}px,0) scale(${scale})`;
+          el.style.opacity = String(Math.max(0, 0.96 * fadeOut));
+        } else {
+          el.style.opacity = String(Math.max(0, 0.96 * (1 - easeOut(ta))));
+        }
+      });
+
+      emberItems.forEach(({ el }, i) => {
+        const outR = easeOut(ta) * rBig * 1.35;
+        const outA = (i / emberItems.length) * Math.PI * 2;
+        const x = cx + Math.cos(outA) * outR - 14;
+        const y = cy + Math.sin(outA) * outR - 14;
+        el.style.transform = `translate3d(${x}px,${y}px,0) scale(${1 + ta * 0.35})`;
+        el.style.opacity = String(Math.max(0, 0.85 * (1 - easeOut(ta))));
+      });
+
+      ghostItems.forEach(({ el, startX, y, speed }) => {
+        const gx = startX - elapsed * speed / 1000;
+        el.style.transform = `translate3d(${gx}px,${y}px,0)`;
+        el.style.opacity = String(Math.max(0, 0.14 * (1 - easeOut(ta))));
+      });
+
+      // Fade the ink background to reveal the real grid beneath
+      const bgAlpha = (0.96 * (1 - easeInOut(ta))).toFixed(3);
+      overlay.style.background = `rgba(14,14,16,${bgAlpha})`;
+    }
+    // else: post-assemble hold (2.6 – 3 s) — overlay transparent, recap floating above grid
+
+    // === RECAP (2.2 – 3 s): fade in → hold → fade out ===
+    if (elapsed >= T_RECAP_START && recap.textContent) {
+      const tr = elapsed - T_RECAP_START;
+      let op;
+      if      (tr < T_RECAP_IN)                      op = tr / T_RECAP_IN;
+      else if (tr < T_RECAP_IN + T_RECAP_HOLD)       op = 1;
+      else op = Math.max(0, 1 - (tr - T_RECAP_IN - T_RECAP_HOLD) / T_RECAP_OUT);
+      recap.style.opacity = String(op);
+    }
+
+    rafId = requestAnimationFrame(tick);
+  }
+
+  rafId = requestAnimationFrame(tick);
+}
+
 // ---- wiring -------------------------------------------------------------
 function init() {
   const input = $("photoInput");
@@ -853,7 +1097,7 @@ function init() {
   setupAppUpdate();
 
   refreshOwnerUI();
-  loadPhotos();
+  loadPhotos().then(() => { maybePlayWhirlwind().catch(() => {}); });
 }
 
 init();

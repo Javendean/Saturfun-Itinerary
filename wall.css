@@ -270,3 +270,54 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
   display: inline-block; background: rgba(242,239,233,.1);
   border: 1px solid rgba(242,239,233,.12);
 }
+
+/* ---- Whirlwind opening reveal ---- */
+#whirl {
+  position: fixed; inset: 0; z-index: 70;
+  background: rgba(14,14,16,0.96);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  overflow: hidden; cursor: pointer;
+}
+#whirlStage {
+  position: absolute; inset: 0;
+  pointer-events: none;
+}
+.whirl-photo {
+  position: absolute; top: 0; left: 0;
+  width: 92px; height: 92px;
+  border-radius: 12px; object-fit: cover;
+  will-change: transform, opacity;
+  pointer-events: none;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.65);
+}
+.whirl-ember {
+  position: absolute; top: 0; left: 0;
+  font-size: 1.6rem; line-height: 1;
+  will-change: transform, opacity;
+  filter: drop-shadow(0 0 6px var(--blood)) drop-shadow(0 0 14px var(--gold));
+  pointer-events: none;
+}
+.whirl-ghost {
+  position: absolute; top: 0; left: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(0.72rem, 1.8vw, 0.95rem);
+  color: rgba(242,239,233,0.15);
+  white-space: nowrap;
+  will-change: transform, opacity;
+  pointer-events: none;
+}
+#whirlRecap {
+  position: relative; z-index: 1;
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(0.88rem, 2.5vw, 1.15rem);
+  color: var(--gold); text-align: center;
+  padding: 0 2rem; letter-spacing: 0.03em;
+  text-shadow: 0 0 24px rgba(212,175,55,0.6);
+  pointer-events: none;
+}
+#whirlSkip {
+  position: absolute; bottom: 2rem; left: 50%; transform: translateX(-50%);
+  font-size: 0.69rem; color: rgba(242,239,233,0.28);
+  letter-spacing: 0.12em; text-transform: uppercase;
+  pointer-events: none; user-select: none;
+}
