@@ -138,6 +138,11 @@ def round_once(client: httpx.Client, base: str, token: str, r: Results, rnd: int
         bad = client.post(f"{base}/api/profile/avatar", files={"avatar": ("x.png", b"not an image", "image/png")}, data={"device_id": dev}, timeout=15)
         r.check("avatar_rejects_nonimage", bad.status_code == 400, bad.text[:120])
 
+        # activity feed (opening whirlwind): shape + no device_id leak
+        av = client.get(f"{base}/api/activity", timeout=15).json()
+        r.check("activity_shape", isinstance(av.get("photos"), list) and isinstance(av.get("reactions"), list) and isinstance(av.get("comments"), list) and isinstance(av.get("latest"), (int, float)), str(list(av.keys()))[:100])
+        r.check("activity_no_device_id", all("device_id" not in c for c in av.get("comments", [])), "device_id leaked in activity feed!")
+
         # No server-side thumbnails on the edge.
         r.check("png_has_thumb_false", p["has_thumb"] is False, str(p))
         r.check("png_dims", p["width"] == 1 and p["height"] == 1, str(p))
