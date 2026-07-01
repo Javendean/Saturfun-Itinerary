@@ -15,10 +15,12 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <style>
         :root {
-            --bg-color: #FAFAFA;
-            --text-main: #1C1C1C;
-            --text-muted: #6B6B6B;
+            --bg-color: #0E0E10;
+            --text-main: #F2EFE9;
+            --text-muted: #9A968E;
             --accent: #D4AF37;
+            --card: #161618;
+            --blood: #B33A3A;
         }
         body {
             background-color: var(--bg-color);
@@ -71,7 +73,7 @@
 
         .itinerary-item {
             padding: 8rem 0;
-            border-bottom: 1px solid rgba(0,0,0,0.05);
+            border-bottom: 1px solid rgba(242,239,233,0.05);
         }
         
         .item-content {
@@ -107,11 +109,11 @@
             height: 6px;
         }
         .options-scroll-container::-webkit-scrollbar-track {
-            background: #f1f1f1; 
+            background: #1a1a1c;
             border-radius: 4px;
         }
         .options-scroll-container::-webkit-scrollbar-thumb {
-            background: #d4d4d4; 
+            background: rgba(242,239,233,0.2);
             border-radius: 4px;
         }
 
@@ -131,7 +133,7 @@
             overflow: hidden;
             box-shadow: 0 20px 40px rgba(0,0,0,0.06);
             cursor: pointer;
-            background: #f0f0f0;
+            background: var(--card);
             margin-bottom: 1.5rem;
             transition: box-shadow 0.4s ease;
         }
@@ -153,7 +155,7 @@
             position: absolute;
             top: 1rem;
             right: 1rem;
-            background: rgba(28, 28, 28, 0.85);
+            background: rgba(14,14,16,0.88);
             backdrop-filter: blur(4px);
             color: #fff;
             padding: 0.4rem 0.8rem;
@@ -171,7 +173,7 @@
             position: absolute;
             top: 1rem;
             left: 1rem;
-            background: rgba(28, 28, 28, 0.85);
+            background: rgba(14,14,16,0.88);
             backdrop-filter: blur(4px);
             color: #fff;
             padding: 0.4rem 0.7rem 0.4rem 0.55rem;
@@ -246,7 +248,7 @@
             color: var(--text-main);
         }
         .price-band .price-rest {
-            color: rgba(28, 28, 28, 0.18);
+            color: rgba(242,239,233,0.18);
         }
 
         /* Vibe + dietary row: lives below the description, above the CTA link.
@@ -263,7 +265,7 @@
             text-transform: lowercase;
             letter-spacing: 0.05em;
             padding: 0.2rem 0.55rem;
-            border: 1px solid rgba(28, 28, 28, 0.14);
+            border: 1px solid rgba(242,239,233,0.14);
             border-radius: 30px;
             color: var(--text-muted);
             background: transparent;
@@ -281,7 +283,7 @@
             font-weight: 700;
             letter-spacing: 0.04em;
             color: var(--text-muted);
-            border: 1px solid rgba(28, 28, 28, 0.14);
+            border: 1px solid rgba(242,239,233,0.14);
             border-radius: 50%;
             background: transparent;
             font-family: 'Inter', sans-serif;
@@ -365,9 +367,9 @@
            highlight one coherent thread through the 68 venues.
            ============================================================ */
         #track-picker {
-            background: #FFFFFF;
-            border-top: 1px solid rgba(0,0,0,0.05);
-            border-bottom: 1px solid rgba(0,0,0,0.05);
+            background: var(--bg-color);
+            border-top: 1px solid rgba(242,239,233,0.05);
+            border-bottom: 1px solid rgba(242,239,233,0.05);
             padding: 5rem 0 4rem;
         }
         .track-picker-intro {
@@ -415,15 +417,15 @@
             -webkit-overflow-scrolling: touch;
         }
         .track-scroll::-webkit-scrollbar { height: 6px; }
-        .track-scroll::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 4px; }
-        .track-scroll::-webkit-scrollbar-thumb { background: #d4d4d4; border-radius: 4px; }
+        .track-scroll::-webkit-scrollbar-track { background: #1a1a1c; border-radius: 4px; }
+        .track-scroll::-webkit-scrollbar-thumb { background: rgba(242,239,233,0.2); border-radius: 4px; }
 
         .track-card {
             flex: 0 0 auto;
             width: 280px;
             min-height: 200px;
             background: var(--bg-color);
-            border: 1px solid rgba(0,0,0,0.08);
+            border: 1px solid rgba(242,239,233,0.08);
             border-radius: 6px;
             padding: 1.25rem 1.25rem 1.1rem;
             text-align: left;
@@ -444,7 +446,7 @@
         }
         .track-card[data-active="true"] {
             border-color: var(--accent);
-            background: #FFFDF6;
+            background: var(--card);
             box-shadow:
                 0 0 0 1px var(--accent),
                 0 14px 32px rgba(212, 175, 55, 0.18);
@@ -484,7 +486,7 @@
             font-weight: 500;
             font-variant-numeric: tabular-nums;
             padding-top: 0.6rem;
-            border-top: 1px solid rgba(0,0,0,0.06);
+            border-top: 1px solid rgba(242,239,233,0.06);
         }
         .track-card .track-stats .track-sep {
             opacity: 0.4;
@@ -494,11 +496,11 @@
         .track-card.is-all-options {
             background: transparent;
             border-style: dashed;
-            border-color: rgba(0,0,0,0.18);
+            border-color: rgba(242,239,233,0.18);
         }
         .track-card.is-all-options[data-active="true"] {
             border-style: solid;
-            background: #FFFDF6;
+            background: var(--card);
         }
         .track-card.is-all-options .track-name {
             font-style: italic;
@@ -567,7 +569,7 @@
         }
         .track-status-strip .status-clear {
             background: transparent;
-            border: 1px solid rgba(28,28,28,0.2);
+            border: 1px solid rgba(242,239,233,0.2);
             color: var(--text-main);
             font-size: 0.7rem;
             text-transform: uppercase;
@@ -581,7 +583,7 @@
         }
         .track-status-strip .status-clear:hover {
             background: var(--text-main);
-            color: #fff;
+            color: var(--bg-color);
             border-color: var(--text-main);
         }
 
@@ -617,7 +619,7 @@
             align-self: flex-start;
             margin: 0 0 0.4rem 0;
             padding: 0.25rem 0.6rem;
-            background: #1C1C1C;
+            background: var(--card);
             color: var(--accent);
             font-size: 0.625rem;
             font-weight: 700;
@@ -689,7 +691,7 @@
             display: none;
             margin: 0.5rem auto 0;
             background: transparent;
-            border: 1px solid rgba(0,0,0,0.2);
+            border: 1px solid rgba(242,239,233,0.2);
             color: var(--text-main);
             font-family: 'Inter', sans-serif;
             font-size: 0.78rem;
@@ -705,7 +707,7 @@
         }
         .track-collapsed-pill:hover {
             background: var(--text-main);
-            color: #fff;
+            color: var(--bg-color);
             border-color: var(--text-main);
         }
         .track-collapsed-pill .pill-arrow { font-size: 0.9rem; }
@@ -748,7 +750,7 @@
         }
         #saturfun-map-toggle {
             background: var(--text-main);
-            color: #fff;
+            color: var(--bg-color);
             border: 1px solid var(--text-main);
             font-family: 'Inter', sans-serif;
             font-size: 0.78rem;
@@ -763,7 +765,7 @@
             gap: 0.5rem;
             transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
         }
-        #saturfun-map-toggle:hover { background: #000; transform: translateY(-1px); }
+        #saturfun-map-toggle:hover { background: var(--card); transform: translateY(-1px); }
         #saturfun-map-toggle .toggle-arrow {
             display: inline-block;
             font-size: 0.7rem;
@@ -793,9 +795,9 @@
             max-height: 720px;
             width: 100%;
             border-radius: 14px;
-            border: 1px solid rgba(0,0,0,0.08);
+            border: 1px solid rgba(242,239,233,0.08);
             box-shadow: 0 14px 28px -16px rgba(0,0,0,0.18);
-            background: #f1efe9; /* soft tile-load placeholder */
+            background: var(--card); /* soft tile-load placeholder */
         }
         .saturfun-map-footer {
             margin-top: 0.9rem;
@@ -909,7 +911,7 @@
             justify-content: space-between;
             gap: 1.5rem;
             padding-bottom: 1.25rem;
-            border-bottom: 1px solid rgba(0,0,0,0.08);
+            border-bottom: 1px solid rgba(242,239,233,0.08);
             margin-bottom: 1.5rem;
         }
         .schedule-header-text { flex: 1; min-width: 0; }
@@ -975,7 +977,7 @@
         }
         .schedule-reset, .schedule-clear {
             background: transparent;
-            border: 1px solid rgba(0,0,0,0.2);
+            border: 1px solid rgba(242,239,233,0.2);
             color: var(--text-main);
             font-family: 'Inter', sans-serif;
             font-size: 0.68rem;
@@ -990,7 +992,7 @@
         }
         .schedule-reset:hover, .schedule-clear:hover {
             background: var(--text-main);
-            color: #fff;
+            color: var(--bg-color);
             border-color: var(--text-main);
         }
 
@@ -1261,7 +1263,7 @@
             bottom: 0;
             background: var(--bg-color);
             color: var(--text-main);
-            border-top: 1px solid rgba(0,0,0,0.08);
+            border-top: 1px solid rgba(242,239,233,0.08);
             box-shadow: 0 -20px 60px rgba(0,0,0,0.22);
             z-index: 39;
             display: flex;
@@ -1291,7 +1293,7 @@
         .alts-drag-handle {
             width: 40px;
             height: 4px;
-            background: rgba(0,0,0,0.18);
+            background: rgba(242,239,233,0.18);
             border-radius: 2px;
             margin: 10px auto 0;
             flex-shrink: 0;
@@ -1299,7 +1301,7 @@
         .alts-header {
             position: relative;
             padding: 1rem 1.25rem 0.85rem;
-            border-bottom: 1px solid rgba(0,0,0,0.06);
+            border-bottom: 1px solid rgba(242,239,233,0.06);
         }
         .alts-title {
             font-family: 'Playfair Display', serif;
@@ -1343,12 +1345,12 @@
             scrollbar-width: thin;
         }
         .alts-grid::-webkit-scrollbar { height: 6px; }
-        .alts-grid::-webkit-scrollbar-thumb { background: #d4d4d4; border-radius: 4px; }
+        .alts-grid::-webkit-scrollbar-thumb { background: rgba(242,239,233,0.2); border-radius: 4px; }
         .alts-card {
             flex: 0 0 180px;
             scroll-snap-align: start;
-            background: #fff;
-            border: 1px solid rgba(0,0,0,0.07);
+            background: var(--card);
+            border: 1px solid rgba(242,239,233,0.07);
             border-radius: 10px;
             display: flex;
             flex-direction: column;
@@ -1359,7 +1361,7 @@
         .alts-card-photo {
             width: 100%;
             height: 110px;
-            background: #f0f0f0;
+            background: var(--card);
             object-fit: cover;
             display: block;
         }
@@ -1402,7 +1404,7 @@
         }
         .alts-card-swap {
             background: var(--text-main);
-            color: #fff;
+            color: var(--bg-color);
             border: none;
             font-family: 'Inter', sans-serif;
             font-size: 0.7rem;
@@ -1449,13 +1451,13 @@
         }
         .alts-footer {
             padding: 0.85rem 1.25rem 1.1rem;
-            border-top: 1px solid rgba(0,0,0,0.06);
+            border-top: 1px solid rgba(242,239,233,0.06);
             text-align: center;
-            background: #fff;
+            background: var(--card);
         }
         .alts-reset-track {
             background: transparent;
-            border: 1px solid rgba(0,0,0,0.18);
+            border: 1px solid rgba(242,239,233,0.18);
             color: var(--text-main);
             font-family: 'Inter', sans-serif;
             font-size: 0.7rem;
@@ -1525,6 +1527,15 @@
             #track-picker.is-track-expanded .track-collapsed-pill {
                 display: none;
             }
+        }
+
+        /* ============================================================
+           BOTTOM TAB BAR CLEARANCE
+           Prevent the fixed bottom tab bar from hiding the page footer.
+           GSAP ScrollSmoother scrolls #smooth-content so we pad it.
+           ============================================================ */
+        #smooth-content {
+            padding-bottom: var(--tab-bar-h, 62px);
         }
     </style>
 <link rel="manifest" href="saturfun.webmanifest">
