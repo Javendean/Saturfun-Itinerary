@@ -22,7 +22,7 @@ export function corsHeaders(env: OriginEnv, origin: string | null): HeadersInit 
   const allow = origin && allowed.includes(origin) ? origin : (allowed[0] ?? "*");
   return {
     "Access-Control-Allow-Origin": allow,
-    "Access-Control-Allow-Methods": "GET, POST, DELETE, OPTIONS",
+    "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type, X-Owner-Token",
     "Access-Control-Expose-Headers": "Retry-After", // so the frontend can read 429 backoff
     "Access-Control-Max-Age": "86400",

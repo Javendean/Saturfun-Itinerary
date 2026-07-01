@@ -9,6 +9,7 @@ import { checkRateLimit } from "./rate-limit";
 import * as store from "./photo-store";
 import { PhotoError, type PhotoMeta } from "./photo-store";
 import * as reactions from "./reaction-store";
+import * as comments from "./comment-store";
 
 const IMMUTABLE = "public, max-age=31536000, immutable"; // ids are content-stable
 
@@ -34,9 +35,9 @@ function detail(status: number, message: string, env: Env, origin: string | null
   });
 }
 
-function jsonOk(obj: unknown, env: Env, origin: string | null): Response {
+function jsonOk(obj: unknown, env: Env, origin: string | null, status = 200): Response {
   return new Response(JSON.stringify(obj), {
-    status: 200,
+    status,
     headers: { "Content-Type": "application/json", ...corsHeaders(env, origin) },
   });
 }
@@ -58,7 +59,7 @@ function isOwner(request: Request, env: Env): boolean {
   return timingSafeEqual(request.headers.get("X-Owner-Token") ?? "", token);
 }
 
-const ITEM_RE = /^\/api\/photos\/([^/]+)(?:\/(raw|thumb|download|react))?$/;
+const ITEM_RE = /^\/api\/photos\/([^/]+)(?:\/(raw|thumb|download|react|comments))?(?:\/([^/]+))?$/;
 
 export async function handlePhotoRoute(
   request: Request,
@@ -75,18 +76,40 @@ export async function handlePhotoRoute(
     const path = url.pathname;
     const method = request.method;
 
+    // Profile — /api/profile and /api/profile/{device_id}
+    if (path === "/api/profile") {
+      if (method === "PUT") {
+        let body: Record<string, unknown>; try { body = await request.json(); } catch { body = {}; }
+        const device = typeof body.device_id === "string" ? body.device_id.trim() : "";
+        const name = comments.sanitizeName(body.name);
+        if (!device) return detail(400, "device_id required", env, origin);
+        if (!name) return detail(400, "name required", env, origin);
+        await comments.setName(env, device, name);
+        return jsonOk({ name }, env, origin);
+      }
+      return detail(405, "method not allowed", env, origin, { Allow: "PUT, OPTIONS" });
+    }
+    { const pm = path.match(/^\/api\/profile\/([^/]+)$/);
+      if (pm) {
+        if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
+        const name = await comments.getName(env, decodeURIComponent(pm[1]));
+        return name ? jsonOk({ name }, env, origin) : detail(404, "no profile", env, origin);
+      } }
+
     // Collection — /api/photos
     if (path === "/api/photos") {
       if (method === "GET") {
         const device = url.searchParams.get("device");
-        const photos = (await reactions.listPhotosWithReactions(env, device)).map(publicPhoto);
+        const withRx = await reactions.listPhotosWithReactions(env, device);
+        const counts = await comments.commentCounts(env);
+        const photos = withRx.map((p) => ({ ...publicPhoto(p), comment_count: counts[p.id] ?? 0 }));
         return jsonOk({ photos }, env, origin);
       }
       if (method === "POST") return await uploadPhotos(request, env, origin);
       return detail(405, "method not allowed", env, origin, { Allow: "GET, POST, OPTIONS" });
     }
 
-    // Item — /api/photos/{id}[/raw|/thumb|/download]
+    // Item — /api/photos/{id}[/raw|/thumb|/download|/react|/comments[/{cid}]]
     const m = path.match(ITEM_RE);
     if (!m) return detail(404, "not found", env, origin);
     let id: string;
@@ -96,6 +119,7 @@ export async function handlePhotoRoute(
       return detail(404, "not found", env, origin); // malformed %-escape -> contract 404
     }
     const action = m[2];
+    const commentId = m[3];
 
     if (!action) {
       if (method === "DELETE") return await deletePhoto(request, env, origin, id);
@@ -111,6 +135,33 @@ export async function handlePhotoRoute(
       if (!reactions.isValidEmoji(emoji)) return detail(400, "invalid emoji", env, origin);
       const summary = await reactions.toggleReaction(env, id, device, emoji);
       return jsonOk({ reactions: summary }, env, origin);
+    }
+    if (action === "comments") {
+      if (method === "GET") return jsonOk({ comments: (await comments.listComments(env, id)).map((c) => ({ id: c.id, body: c.body, created: c.created, name: c.name, device_id: c.device_id })) }, env, origin);
+      if (method === "POST") {
+        if (commentId) return detail(404, "not found", env, origin);
+        let body: Record<string, unknown>; try { body = await request.json(); } catch { body = {}; }
+        const device = typeof body.device_id === "string" ? body.device_id.trim() : "";
+        const text = comments.sanitizeBody(body.body);
+        if (!device) return detail(400, "device_id required", env, origin);
+        if (!text) return detail(400, "comment required", env, origin);
+        const ip = request.headers.get("cf-connecting-ip") || "anon";
+        const limited = await checkRateLimit(env.RATE_LIMIT, ip, Number(env.PHOTO_RATE_LIMIT_MAX) || 60, 60, "rlc");
+        if (!limited.allowed) return detail(429, "slow down", env, origin, { "Retry-After": String(limited.resetSeconds) });
+        const c = await comments.addComment(env, id, device, text);
+        return jsonOk({ id: c.id, body: c.body, created: c.created, name: c.name }, env, origin, 201);
+      }
+      if (method === "DELETE") {
+        if (!commentId) return detail(404, "not found", env, origin);
+        const row = await comments.getComment(env, commentId);
+        if (!row) return detail(404, "not found", env, origin);
+        let body: Record<string, unknown>; try { body = await request.json(); } catch { body = {}; }
+        const device = typeof body.device_id === "string" ? body.device_id : "";
+        if (!isOwner(request, env) && device !== row.device_id) return detail(403, "not allowed", env, origin);
+        await comments.deleteComment(env, commentId);
+        return jsonOk({ ok: true }, env, origin);
+      }
+      return detail(405, "method not allowed", env, origin, { Allow: "GET, POST, DELETE, OPTIONS" });
     }
     if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
 
@@ -252,6 +303,7 @@ async function deletePhoto(request: Request, env: Env, origin: string | null, id
   if (!p) return detail(404, "photo not found", env, origin);
   await store.deleteFiles(env, p.stored_name, p.id);
   await reactions.deleteReactionsFor(env, p.id);
+  await comments.deleteCommentsFor(env, p.id);
   await store.deletePhoto(env, p.id);
   return jsonOk({ ok: true }, env, origin);
 }

@@ -1,4 +1,4 @@
-import { env } from "cloudflare:test";
+import { env, SELF } from "cloudflare:test";
 import { describe, it, expect, beforeEach } from "vitest";
 import { saveUpload, addPhoto } from "../src/photo-store";
 import { sanitizeName, sanitizeBody, setName, getName, addComment, listComments, getComment, deleteComment, deleteCommentsFor, commentCounts } from "../src/comment-store";
@@ -70,5 +70,64 @@ describe("comment store", () => {
     expect((await commentCounts(env))[p2.id]).toBeUndefined();
     await deleteCommentsFor(env, p1.id);
     expect((await commentCounts(env))[p1.id]).toBeUndefined();
+  });
+});
+
+// ---------------------------------------------------------------------------
+// Route integration tests (via SELF.fetch)
+// ---------------------------------------------------------------------------
+const OWNER = "test-owner-secret";
+const BASE = "https://wall.test";
+async function uploadOne() {
+  const f = new FormData(); f.append("files", new File([PNG], "c.png", { type: "image/png" }));
+  return (await (await SELF.fetch(`${BASE}/api/photos`, { method: "POST", body: f })).json() as any).photos[0];
+}
+const postComment = (id: string, b: object) => SELF.fetch(`${BASE}/api/photos/${id}/comments`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(b) });
+
+describe("comment routes", () => {
+  beforeEach(async () => { await env.DB.prepare("DELETE FROM comments").run(); await env.DB.prepare("DELETE FROM profiles").run(); await env.DB.prepare("DELETE FROM photos").run(); });
+
+  it("posts + lists a comment; name via profile; comment_count in the list", async () => {
+    const p = await uploadOne();
+    await SELF.fetch(`${BASE}/api/profile`, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: "d1", name: "Ada" }) });
+    const r = await postComment(p.id, { device_id: "d1", body: "hi there" });
+    expect(r.status).toBe(201);
+    expect((await r.json() as any).name).toBe("Ada");
+    const list = await (await SELF.fetch(`${BASE}/api/photos/${p.id}/comments`)).json() as any;
+    expect(list.comments.map((c: any) => c.body)).toEqual(["hi there"]);
+    const photos = await (await SELF.fetch(`${BASE}/api/photos?device=d1`)).json() as any;
+    expect(photos.photos[0].comment_count).toBe(1);
+  });
+
+  it("rejects empty body (400)", async () => {
+    const p = await uploadOne();
+    expect((await postComment(p.id, { device_id: "d1", body: "   " })).status).toBe(400);
+    expect((await postComment(p.id, { device_id: "d1" })).status).toBe(400);
+  });
+
+  it("author deletes own; a stranger cannot (403); owner deletes any", async () => {
+    const p = await uploadOne();
+    const c1 = await (await postComment(p.id, { device_id: "d1", body: "mine" })).json() as any;
+    // stranger device → 403
+    expect((await SELF.fetch(`${BASE}/api/photos/${p.id}/comments/${c1.id}`, { method: "DELETE", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: "d2" }) })).status).toBe(403);
+    // author → 200
+    expect((await SELF.fetch(`${BASE}/api/photos/${p.id}/comments/${c1.id}`, { method: "DELETE", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: "d1" }) })).status).toBe(200);
+    // owner deletes any
+    const c2 = await (await postComment(p.id, { device_id: "d1", body: "again" })).json() as any;
+    expect((await SELF.fetch(`${BASE}/api/photos/${p.id}/comments/${c2.id}`, { method: "DELETE", headers: { "X-Owner-Token": OWNER } })).status).toBe(200);
+  });
+
+  it("PUT /profile validates the name; GET returns it", async () => {
+    expect((await SELF.fetch(`${BASE}/api/profile`, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: "d1", name: "  " }) })).status).toBe(400);
+    await SELF.fetch(`${BASE}/api/profile`, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: "d1", name: "Grace" }) });
+    expect((await (await SELF.fetch(`${BASE}/api/profile/d1`)).json() as any).name).toBe("Grace");
+  });
+
+  it("deleting a photo cascades its comments", async () => {
+    const p = await uploadOne();
+    await postComment(p.id, { device_id: "d1", body: "x" });
+    await SELF.fetch(`${BASE}/api/photos/${p.id}`, { method: "DELETE", headers: { "X-Owner-Token": OWNER } });
+    const n = await env.DB.prepare("SELECT COUNT(*) AS n FROM comments WHERE photo_id = ?").bind(p.id).first<number>("n");
+    expect(n).toBe(0);
   });
 });

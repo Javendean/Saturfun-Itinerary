@@ -91,7 +91,11 @@ export default {
     }
 
     // Photo wall — public upload + view, owner-gated delete (see ./photo-routes).
-    if (url.pathname === "/api/photos" || url.pathname.startsWith("/api/photos/")) {
+    // Also handles /api/profile (name store) which is part of the same feature.
+    if (
+      url.pathname === "/api/photos" || url.pathname.startsWith("/api/photos/") ||
+      url.pathname === "/api/profile" || url.pathname.startsWith("/api/profile/")
+    ) {
       return handlePhotoRoute(request, env, url, origin);
     }
 
