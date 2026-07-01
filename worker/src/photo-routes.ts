@@ -76,6 +76,29 @@ export async function handlePhotoRoute(
     const path = url.pathname;
     const method = request.method;
 
+    // Avatar — /api/profile/avatar (upload) and /api/avatar/{avatar_id} (serve)
+    if (path === "/api/profile/avatar") {
+      if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
+      const form = await request.formData();
+      const device = String(form.get("device_id") || "").trim();
+      const file = form.get("avatar");
+      if (!device) return detail(400, "device_id required", env, origin);
+      if (!(file instanceof File)) return detail(400, "avatar file required", env, origin);
+      if (file.size > 2 * 1024 * 1024) return detail(413, "avatar too large", env, origin);
+      const bytes = new Uint8Array(await file.arrayBuffer());
+      try {
+        const { avatar_id } = await comments.setAvatar(env, device, bytes);
+        return jsonOk({ avatar_url: `/api/avatar/${avatar_id}` }, env, origin);
+      } catch { return detail(400, "not an image", env, origin); }
+    }
+    { const am = path.match(/^\/api\/avatar\/([^/]+)$/);
+      if (am) {
+        if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
+        const got = await comments.getAvatarBytes(env, decodeURIComponent(am[1]));
+        if (!got) return detail(404, "not found", env, origin);
+        return new Response(got.body, { headers: { "Content-Type": got.contentType, "Cache-Control": "public, max-age=31536000, immutable", ...corsHeaders(env, origin) } });
+      } }
+
     // Profile — /api/profile and /api/profile/{device_id}
     if (path === "/api/profile") {
       if (method === "PUT") {

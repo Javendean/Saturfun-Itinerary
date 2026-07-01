@@ -94,7 +94,8 @@ export default {
     // Also handles /api/profile (name store) which is part of the same feature.
     if (
       url.pathname === "/api/photos" || url.pathname.startsWith("/api/photos/") ||
-      url.pathname === "/api/profile" || url.pathname.startsWith("/api/profile/")
+      url.pathname === "/api/profile" || url.pathname.startsWith("/api/profile/") ||
+      url.pathname.startsWith("/api/avatar/")
     ) {
       return handlePhotoRoute(request, env, url, origin);
     }

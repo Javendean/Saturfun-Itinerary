@@ -194,3 +194,31 @@ describe("avatars", () => {
     expect(after[0].avatar_url).toBe(`/api/avatar/${avatar_id}`);
   });
 });
+
+// ---------------------------------------------------------------------------
+// Avatar route integration tests (via SELF.fetch)
+// ---------------------------------------------------------------------------
+describe("avatar routes", () => {
+  beforeEach(async () => { await env.DB.prepare("DELETE FROM profiles").run(); });
+  it("uploads an avatar (multipart) then serves it; comment shows avatar_url", async () => {
+    const f = new FormData();
+    f.append("device_id", "d1");
+    f.append("avatar", new File([PNG], "a.png", { type: "image/png" }));
+    const up = await SELF.fetch(`${BASE}/api/profile/avatar`, { method: "POST", body: f });
+    expect(up.status).toBe(200);
+    const url = (await up.json() as any).avatar_url as string;
+    expect(url).toMatch(/^\/api\/avatar\//);
+    const img = await SELF.fetch(`${BASE}${url}`);
+    expect(img.status).toBe(200);
+    expect(img.headers.get("content-type")).toContain("image/");
+  });
+  it("rejects a non-image upload", async () => {
+    const f = new FormData();
+    f.append("device_id", "d1");
+    f.append("avatar", new File([Uint8Array.from([1,2,3,4])], "x.bin", { type: "image/png" }));
+    expect((await SELF.fetch(`${BASE}/api/profile/avatar`, { method: "POST", body: f })).status).toBe(400);
+  });
+  it("GET unknown avatar → 404", async () => {
+    expect((await SELF.fetch(`${BASE}/api/avatar/nope`)).status).toBe(404);
+  });
+});
