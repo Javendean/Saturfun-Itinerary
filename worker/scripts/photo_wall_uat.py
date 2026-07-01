@@ -107,6 +107,20 @@ def round_once(client: httpx.Client, base: str, token: str, r: Results, rnd: int
         off = client.post(f"{base}/api/photos/{p['id']}/react", json={"device_id": dev, "emoji": "😂"}, timeout=15)
         r.check("react_remove", off.status_code == 200 and all(x["emoji"] != "😂" for x in off.json()["reactions"]), off.text[:140])
 
+        # comments: set name, post, list, count, author-delete
+        client.put(f"{base}/api/profile", json={"device_id": dev, "name": f"uat-{rnd}"}, timeout=15)
+        cr = client.post(f"{base}/api/photos/{p['id']}/comments", json={"device_id": dev, "body": "uat comment"}, timeout=15)
+        cid = cr.json().get("id")
+        r.check("comment_post_201", cr.status_code == 201 and cr.json().get("name") == f"uat-{rnd}", cr.text[:140])
+        lst = client.get(f"{base}/api/photos/{p['id']}/comments", timeout=15).json()["comments"]
+        r.check("comment_listed", any(c["id"] == cid and c["body"] == "uat comment" for c in lst), str(lst)[:160])
+        cc = next((x for x in client.get(f"{base}/api/photos?device={dev}", timeout=15).json()["photos"] if x["id"] == p["id"]), {})
+        r.check("comment_count", cc.get("comment_count") == 1, str(cc)[:140])
+        bad = client.post(f"{base}/api/photos/{p['id']}/comments", json={"device_id": dev, "body": "   "}, timeout=15)
+        r.check("comment_rejects_empty", bad.status_code == 400, bad.text[:120])
+        dl = client.request("DELETE", f"{base}/api/photos/{p['id']}/comments/{cid}", json={"device_id": dev}, timeout=15)
+        r.check("comment_author_delete", dl.status_code == 200, dl.text[:120])
+
         # No server-side thumbnails on the edge.
         r.check("png_has_thumb_false", p["has_thumb"] is False, str(p))
         r.check("png_dims", p["width"] == 1 and p["height"] == 1, str(p))
