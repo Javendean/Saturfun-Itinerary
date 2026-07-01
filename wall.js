@@ -28,12 +28,19 @@ async function postReaction(photoId, emoji) {
   return (await r.json()).reactions; // [{emoji,count,mine}]
 }
 
-// compact tile summary: up to 3 emojis + total count, e.g. "❤️😂 5"
-function tileReactionHTML(reactions) {
+// Display-only reaction row under a tile: "❤️ 2" chips (not interactive).
+function tileReactionsHTML(reactions) {
   if (!reactions || !reactions.length) return "";
-  const top = reactions.slice(0, 3).map((r) => esc(r.emoji)).join("");
-  const total = reactions.reduce((n, r) => n + r.count, 0);
-  return `<span class="tile-react">${top} ${total}</span>`;
+  return reactions.map((r) => `<span class="tr-chip${r.mine ? " mine" : ""}">${esc(r.emoji)} ${r.count}</span>`).join("");
+}
+function renderTileReactions(photoId, reactions) {
+  const card = document.querySelector(`#photoGrid .tile-card[data-id="${photoId}"]`);
+  if (!card) return;
+  let row = card.querySelector(".tile-reactions");
+  const html = tileReactionsHTML(reactions);
+  if (!html) { if (row) row.remove(); return; }
+  if (!row) { row = document.createElement("div"); row.className = "tile-reactions"; card.appendChild(row); }
+  row.innerHTML = html;
 }
 
 function renderLightboxReactions(p) {
@@ -49,25 +56,18 @@ function applyReactions(photoId, reactions) {
   if (current && current.id === photoId) { current.reactions = reactions; renderLightboxReactions(current); }
   const inList = PHOTOS.find((x) => x.id === photoId);
   if (inList) inList.reactions = reactions;
-  const tile = document.querySelector(`#photoGrid .tile[data-id="${photoId}"]`);
-  if (tile) {
-    let s = tile.querySelector(".tile-react");
-    const html = tileReactionHTML(reactions);
-    if (html) { if (!s) { tile.insertAdjacentHTML("beforeend", html); } else { s.outerHTML = html; } }
-    else if (s) s.remove();
-  }
+  renderTileReactions(photoId, reactions);
   lastSig = PHOTOS.map((p) => `${p.id}:${(p.reactions || []).map((r) => r.emoji + r.count).join("")}`).join(",");
 }
 
 let rxChain = Promise.resolve();
-function toggleReaction(emoji) {
-  if (!current) return;
-  const photoId = current.id;
+function reactOn(photoId, emoji) {
   rxChain = rxChain.then(async () => {
     try { applyReactions(photoId, await postReaction(photoId, emoji)); }
     catch (e) { toast("Couldn't react."); }
   });
 }
+function toggleReaction(emoji) { if (current) reactOn(current.id, emoji); }
 const IMG_RE = /\.(jpe?g|png|gif|webp|bmp|heic|heif)$/i;
 
 // Bulk dumps are split into batches kept safely under the Worker's per-request
@@ -357,19 +357,24 @@ async function loadPhotos() {
       grid.innerHTML = "";
       if (has) {
         for (const p of data) {
+          const card = document.createElement("div");
+          card.className = "tile-card";
+          card.dataset.id = p.id;
           const tile = document.createElement("button");
           tile.className = "tile" + (selected.has(p.id) ? " selected" : "");
           tile.type = "button";
           tile.dataset.id = p.id;
           tile.innerHTML =
             `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
-            `<span class="check" aria-hidden="true">✓</span>` +
-            tileReactionHTML(p.reactions);
+            `<span class="check" aria-hidden="true">✓</span>`;
           tile.addEventListener("click", () => {
             if (selectMode) toggleTile(p, tile);
             else openLightbox(p);
           });
-          grid.appendChild(tile);
+          card.appendChild(tile);
+          const rxHTML = tileReactionsHTML(p.reactions);
+          if (rxHTML) { const row = document.createElement("div"); row.className = "tile-reactions"; row.innerHTML = rxHTML; card.appendChild(row); }
+          grid.appendChild(card);
         }
       } else if (selectMode) {
         exitSelectMode();

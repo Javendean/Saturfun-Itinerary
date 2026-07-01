@@ -169,8 +169,13 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
 }
 
 /* ---- Reactions ---- */
-.tile-react { position: absolute; left: .4rem; bottom: .4rem; background: rgba(8,8,9,.66); color: var(--paper);
-  font-size: .72rem; padding: .12rem .42rem; border-radius: 999px; pointer-events: none; line-height: 1.2; }
+.tile-card { display: flex; flex-direction: column; gap: .3rem; }
+.tile-card .tile { width: 100%; }
+.tile-reactions { display: flex; flex-wrap: wrap; gap: .25rem; padding: 0 .1rem; }
+.tr-chip { display: inline-flex; align-items: center; gap: .15rem; font-size: .72rem; line-height: 1.4;
+  padding: .05rem .32rem; border-radius: 999px; background: rgba(255,255,255,.05);
+  border: 1px solid rgba(242,239,233,.1); color: rgba(242,239,233,.85); }
+.tr-chip.mine { background: rgba(179,58,58,.2); border-color: rgba(179,58,58,.5); color: var(--paper); }
 .lb-reactions { display: flex; flex-wrap: wrap; gap: .4rem; justify-content: center; max-width: 90vw; }
 .rx-chip { display: inline-flex; align-items: center; gap: .3rem; padding: .28rem .6rem; border-radius: 999px;
   border: 1px solid rgba(242,239,233,.18); background: rgba(255,255,255,.04); color: var(--paper);
