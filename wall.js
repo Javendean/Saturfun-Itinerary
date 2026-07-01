@@ -395,16 +395,16 @@ async function loadPhotos() {
           tile.type = "button";
           tile.dataset.id = p.id;
           tile.innerHTML =
-            `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" alt="${esc(p.filename)}">` +
+            `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" draggable="false" alt="${esc(p.filename)}">` +
             `<span class="check" aria-hidden="true">✓</span>`;
           let lpTimer = null, lpFired = false;
-          const startLP = () => { lpFired = false; lpTimer = setTimeout(() => { lpFired = true; openReactMenu(p.id); }, 450); };
+          const startLP = () => { lpFired = false; lpTimer = setTimeout(() => { if (selectMode) return; lpFired = true; openReactMenu(p.id); }, 450); };
           const cancelLP = () => { if (lpTimer) { clearTimeout(lpTimer); lpTimer = null; } };
           tile.addEventListener("touchstart", startLP, { passive: true });
           tile.addEventListener("touchend", cancelLP);
           tile.addEventListener("touchmove", cancelLP, { passive: true });
           tile.addEventListener("touchcancel", cancelLP);
-          tile.addEventListener("contextmenu", (e) => { e.preventDefault(); openReactMenu(p.id); }); // desktop right-click
+          tile.addEventListener("contextmenu", (e) => { e.preventDefault(); if (!selectMode) openReactMenu(p.id); }); // desktop right-click
           tile.addEventListener("click", (e) => {
             if (lpFired) { lpFired = false; e.preventDefault(); return; }
             if (selectMode) toggleTile(p, tile);
@@ -685,6 +685,7 @@ function init() {
   document.addEventListener("keydown", (e) => {
     if (e.key !== "Escape") return;
     if ($("lightbox").classList.contains("open")) closeLightbox();
+    else if (!$("reactMenu").hidden) closeReactMenu();
     else if (selectMode) exitSelectMode();
   });
 
