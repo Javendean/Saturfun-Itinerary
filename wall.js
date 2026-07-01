@@ -624,8 +624,8 @@ function setupAppUpdate() {
   let updating = false;
   const fetchVersion = async () => {
     try {
-      const txt = await (await fetch(`wall-sw.js?t=${Date.now()}`, { cache: "no-store" })).text();
-      const m = txt.match(/saturfun-wall-v\d+/);
+      const txt = await (await fetch(`sw.js?t=${Date.now()}`, { cache: "no-store" })).text();
+      const m = txt.match(/saturfun-app-v\d+/);
       return m ? m[0] : null;
     } catch {
       return null;

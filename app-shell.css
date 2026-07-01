@@ -1,6 +1,8 @@
 /* Bottom tab bar — fixed, app-like. Injected on every page by app-shell.js. */
 #app-tabbar {
-  position: fixed; left: 0; right: 0; bottom: 0; z-index: 90;
+  /* z-index 40: above normal page content, but BELOW the wall's full-screen modals
+     (lightbox 50, react menu 55, toast 60, whirlwind 70) so they cover the bar. */
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 40;
   display: flex; height: var(--tab-bar-h);
   background: rgba(14,14,16,.92); backdrop-filter: blur(12px);
   border-top: 1px solid rgba(242,239,233,.10);
