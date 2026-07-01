@@ -22,6 +22,10 @@ function myName() { return localStorage.getItem(NAME_KEY) || ""; }
 function timeAgo(sec) { const s = Date.now() / 1000 - sec; if (s < 60) return "now"; if (s < 3600) return Math.floor(s / 60) + "m"; if (s < 86400) return Math.floor(s / 3600) + "h"; return Math.floor(s / 86400) + "d"; }
 const QUICK_EMOJI = ["❤️", "😂", "‼️", "👍", "😮", "😢"];
 
+// ---- haptics + visual pop -----------------------------------------------
+function haptic(ms = 12) { try { if (navigator.vibrate) navigator.vibrate(ms); } catch {} }
+function popTile(el) { if (!el) return; el.classList.remove("pop"); void el.offsetWidth; el.classList.add("pop"); }
+
 // ---- react menu (long-press / right-click from grid) --------------------
 let reactMenuPhoto = null;
 function openReactMenu(photoId) {
@@ -119,7 +123,7 @@ async function postComment(photoId, body) {
 let rxChain = Promise.resolve();
 function reactOn(photoId, emoji) {
   rxChain = rxChain.then(async () => {
-    try { applyReactions(photoId, await postReaction(photoId, emoji)); }
+    try { applyReactions(photoId, await postReaction(photoId, emoji)); haptic(10); }
     catch (e) { toast("Couldn't react."); }
   });
 }
@@ -424,7 +428,7 @@ async function loadPhotos() {
             `<img src="${PHOTO_API}/api/photos/${esc(p.id)}/thumb" loading="lazy" draggable="false" alt="${esc(p.filename)}">` +
             `<span class="check" aria-hidden="true">✓</span>`;
           let lpTimer = null, lpFired = false;
-          const startLP = () => { lpFired = false; lpTimer = setTimeout(() => { if (selectMode) return; lpFired = true; openReactMenu(p.id); }, 450); };
+          const startLP = () => { lpFired = false; lpTimer = setTimeout(() => { if (selectMode) return; lpFired = true; haptic(15); popTile(tile); openReactMenu(p.id); }, 450); };
           const cancelLP = () => { if (lpTimer) { clearTimeout(lpTimer); lpTimer = null; } };
           tile.addEventListener("touchstart", startLP, { passive: true });
           tile.addEventListener("touchend", cancelLP);

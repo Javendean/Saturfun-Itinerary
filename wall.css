@@ -203,7 +203,12 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
 .rm-q { font-size: 1.6rem; line-height: 1; padding: .3rem .4rem; border-radius: 12px; border: 1px solid transparent;
   background: rgba(255,255,255,.04); cursor: pointer; }
 .rm-q:hover { border-color: rgba(212,175,55,.5); }
+.rm-q:active { transform: scale(.9); }
 .rm-more { font-size: 1.2rem; }
+
+/* ---- Tile pop (long-press visual confirm; haptic on Android, pop on all) ---- */
+.tile.pop { animation: tilepop .28s ease; }
+@keyframes tilepop { 0% { transform: scale(1); } 40% { transform: scale(.94); } 100% { transform: scale(1); } }
 
 /* ---- Comments ---- */
 .lb-comments {
