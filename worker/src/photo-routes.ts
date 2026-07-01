@@ -12,6 +12,7 @@ import * as reactions from "./reaction-store";
 import * as comments from "./comment-store";
 
 const IMMUTABLE = "public, max-age=31536000, immutable"; // ids are content-stable
+const AVATAR_MAX_BYTES = 2 * 1024 * 1024;
 
 function publicPhoto(p: PhotoMeta & { reactions?: import("./reaction-store").Reaction[] }) {
   // stored_name is the R2 key — it is NEVER exposed to clients.
@@ -79,12 +80,15 @@ export async function handlePhotoRoute(
     // Avatar — /api/profile/avatar (upload) and /api/avatar/{avatar_id} (serve)
     if (path === "/api/profile/avatar") {
       if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
-      const form = await request.formData();
+      const cl = parseInt(request.headers.get("content-length") ?? "", 10);
+      if (Number.isFinite(cl) && cl > AVATAR_MAX_BYTES + 1024) return detail(413, "avatar too large", env, origin);
+      let form: FormData;
+      try { form = await request.formData(); } catch { return detail(400, "expected multipart/form-data", env, origin); }
       const device = String(form.get("device_id") || "").trim();
       const file = form.get("avatar");
       if (!device) return detail(400, "device_id required", env, origin);
       if (!(file instanceof File)) return detail(400, "avatar file required", env, origin);
-      if (file.size > 2 * 1024 * 1024) return detail(413, "avatar too large", env, origin);
+      if (file.size > AVATAR_MAX_BYTES) return detail(413, "avatar too large", env, origin);
       const bytes = new Uint8Array(await file.arrayBuffer());
       try {
         const { avatar_id } = await comments.setAvatar(env, device, bytes);

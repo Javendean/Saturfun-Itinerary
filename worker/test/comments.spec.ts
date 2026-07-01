@@ -221,4 +221,8 @@ describe("avatar routes", () => {
   it("GET unknown avatar → 404", async () => {
     expect((await SELF.fetch(`${BASE}/api/avatar/nope`)).status).toBe(404);
   });
+  it("rejects a non-multipart body with 400", async () => {
+    const r = await SELF.fetch(`${BASE}/api/profile/avatar`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: "d1" }) });
+    expect(r.status).toBe(400);
+  });
 });
