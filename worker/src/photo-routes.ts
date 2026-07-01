@@ -10,6 +10,7 @@ import * as store from "./photo-store";
 import { PhotoError, type PhotoMeta } from "./photo-store";
 import * as reactions from "./reaction-store";
 import * as comments from "./comment-store";
+import * as activity from "./activity-store";
 
 const IMMUTABLE = "public, max-age=31536000, immutable"; // ids are content-stable
 const AVATAR_MAX_BYTES = 2 * 1024 * 1024;
@@ -76,6 +77,12 @@ export async function handlePhotoRoute(
 
     const path = url.pathname;
     const method = request.method;
+
+    // Activity feed — /api/activity
+    if (path === "/api/activity") {
+      if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
+      return jsonOk(await activity.getRecentActivity(env), env, origin);
+    }
 
     // Avatar — /api/profile/avatar (upload) and /api/avatar/{avatar_id} (serve)
     if (path === "/api/profile/avatar") {

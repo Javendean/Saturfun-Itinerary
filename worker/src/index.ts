@@ -95,7 +95,8 @@ export default {
     if (
       url.pathname === "/api/photos" || url.pathname.startsWith("/api/photos/") ||
       url.pathname === "/api/profile" || url.pathname.startsWith("/api/profile/") ||
-      url.pathname.startsWith("/api/avatar/")
+      url.pathname.startsWith("/api/avatar/") ||
+      url.pathname === "/api/activity"
     ) {
       return handlePhotoRoute(request, env, url, origin);
     }
