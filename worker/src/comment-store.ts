@@ -42,7 +42,7 @@ export async function listComments(env: CEnv, photoId: string): Promise<CommentR
   const { results } = await env.DB.prepare(
     `SELECT c.id, c.body, c.created, c.device_id, COALESCE(p.name, 'Someone') AS name
        FROM comments c LEFT JOIN profiles p ON p.device_id = c.device_id
-      WHERE c.photo_id = ? ORDER BY c.created ASC`,
+      WHERE c.photo_id = ? ORDER BY c.created ASC, c.id ASC`,
   ).bind(photoId).all<CommentRow>();
   return results;
 }

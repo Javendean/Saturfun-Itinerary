@@ -72,7 +72,7 @@ function renderTileMeta(photoId) {
   const p = PHOTOS.find((x) => x.id === photoId);
   let row = card.querySelector(".tile-meta");
   const rxHTML = tileReactionsHTML(p ? p.reactions : []);
-  const countHTML = (p && p.comment_count) ? `<span class="tr-chip">💬 ${p.comment_count}</span>` : "";
+  const countHTML = (p && p.comment_count) ? `<span class="tr-chip">💬 ${parseInt(p.comment_count, 10) || 0}</span>` : "";
   const html = rxHTML + countHTML;
   if (!html) { if (row) row.remove(); return; }
   if (!row) { row = document.createElement("div"); row.className = "tile-meta"; card.appendChild(row); }
@@ -437,7 +437,7 @@ async function loadPhotos() {
           });
           card.appendChild(tile);
           const rxHTML = tileReactionsHTML(p.reactions);
-          const countHTML = p.comment_count ? `<span class="tr-chip">💬 ${p.comment_count}</span>` : "";
+          const countHTML = p.comment_count ? `<span class="tr-chip">💬 ${parseInt(p.comment_count, 10) || 0}</span>` : "";
           const metaHTML = rxHTML + countHTML;
           if (metaHTML) { const row = document.createElement("div"); row.className = "tile-meta"; row.innerHTML = metaHTML; card.appendChild(row); }
           grid.appendChild(card);
@@ -670,7 +670,7 @@ function setupComments() {
   $("lbComments").addEventListener("click", async (e) => {
     const b = e.target.closest(".lc-del"); if (!b || !current) return;
     if (!confirm("Delete this comment?")) return;
-    const r = await fetch(`${PHOTO_API}/api/photos/${current.id}/comments/${b.dataset.id}`, { method: "DELETE", headers: { "Content-Type": "application/json", ...(ownerToken() ? { "X-Owner-Token": ownerToken() } : {}) }, body: JSON.stringify({ device_id: deviceId() }) });
+    const r = await fetch(`${PHOTO_API}/api/photos/${current.id}/comments/${encodeURIComponent(b.dataset.id)}`, { method: "DELETE", headers: { "Content-Type": "application/json", ...(ownerToken() ? { "X-Owner-Token": ownerToken() } : {}) }, body: JSON.stringify({ device_id: deviceId() }) });
     if (r.ok) { await loadComments(current.id); bumpCommentCount(current.id, -1); } else toast("Couldn't delete.");
   });
   const finish = async () => { closeNameSheet(); if (pendingComment) { const pc = pendingComment; pendingComment = null; if (await postComment(pc.photoId, pc.body)) { if (current && current.id === pc.photoId) await loadComments(pc.photoId); bumpCommentCount(pc.photoId, 1); } } };
@@ -750,9 +750,9 @@ function init() {
   $("lightboxBackdrop").addEventListener("click", closeLightbox);
   document.addEventListener("keydown", (e) => {
     if (e.key !== "Escape") return;
-    if ($("lightbox").classList.contains("open")) closeLightbox();
+    if (!$("nameSheet").hidden) { closeNameSheet(); pendingComment = null; }
     else if (!$("reactMenu").hidden) closeReactMenu();
-    else if (!$("nameSheet").hidden) { closeNameSheet(); pendingComment = null; }
+    else if ($("lightbox").classList.contains("open")) closeLightbox();
     else if (selectMode) exitSelectMode();
   });
 

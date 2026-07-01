@@ -121,6 +121,8 @@ export async function handlePhotoRoute(
     const action = m[2];
     const commentId = m[3];
 
+    if (commentId && action !== "comments") return detail(404, "not found", env, origin);
+
     if (!action) {
       if (method === "DELETE") return await deletePhoto(request, env, origin, id);
       return detail(405, "method not allowed", env, origin, { Allow: "DELETE, OPTIONS" });
@@ -156,7 +158,7 @@ export async function handlePhotoRoute(
         const row = await comments.getComment(env, commentId);
         if (!row) return detail(404, "not found", env, origin);
         let body: Record<string, unknown>; try { body = await request.json(); } catch { body = {}; }
-        const device = typeof body.device_id === "string" ? body.device_id : "";
+        const device = typeof body.device_id === "string" ? body.device_id.trim() : "";
         if (!isOwner(request, env) && device !== row.device_id) return detail(403, "not allowed", env, origin);
         await comments.deleteComment(env, commentId);
         return jsonOk({ ok: true }, env, origin);
