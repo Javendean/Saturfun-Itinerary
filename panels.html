@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panel Vault · Live | Saturfun</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,800;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="manifest" href="saturfun.webmanifest">
+<meta name="theme-color" content="#0E0E10">
+<link rel="icon" href="wall-icon-192.png">
+<link rel="apple-touch-icon" href="wall-apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Saturfun">
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="app-shell.css">
+<style>
+  :root{
+    --ink:#0E0E10; --paper:#F2EFE9; --blood:#B33A3A; --gold:#D4AF37; --muted:#5A5A5A;
+  }
+  *{box-sizing:border-box}
+  body{background:var(--ink);color:var(--paper);font-family:'Inter',sans-serif;margin:0;overflow-x:hidden}
+  h1,h2,h3,.serif{font-family:'Playfair Display',serif}
+  a{color:inherit}
+
+  .hero{min-height:42vh;display:flex;flex-direction:column;align-items:center;justify-content:center;
+        text-align:center;padding:3.5rem 2rem 2rem;position:relative;overflow:hidden}
+  .hero::before{content:'';position:absolute;inset:0;z-index:0;pointer-events:none;
+    background:repeating-linear-gradient(0deg,transparent 0 2px,rgba(255,255,255,.012) 2px 4px),
+               radial-gradient(ellipse at center,rgba(179,58,58,.18) 0%,transparent 60%)}
+  .hero>*{position:relative;z-index:1}
+  .eyebrow{font-size:.72rem;text-transform:uppercase;letter-spacing:.4em;color:var(--blood);font-weight:600;margin-bottom:1rem}
+  .hero h1{font-size:clamp(2.6rem,8vw,6rem);font-weight:800;line-height:.95;letter-spacing:-.03em;margin:0 0 .9rem}
+  .hero h1 em{font-style:italic;font-weight:400;color:var(--blood)}
+  .hero p{font-size:clamp(.95rem,1.5vw,1.1rem);color:rgba(242,239,233,.7);max-width:560px;margin:0 auto;font-weight:300;line-height:1.55}
+  .stats{margin-top:1.6rem;display:flex;gap:2.2rem;font-family:'Playfair Display',serif;font-size:.8rem;color:rgba(242,239,233,.55);letter-spacing:.05em}
+  .stats strong{display:block;font-size:1.4rem;color:var(--paper);font-weight:600;margin-bottom:.2rem}
+
+  .controls{display:flex;gap:.8rem;flex-wrap:wrap;justify-content:center;margin-top:1.8rem}
+  button.act{display:inline-flex;align-items:center;gap:.5rem;padding:.7rem 1.3rem;border-radius:999px;
+    border:1px solid rgba(242,239,233,.18);background:transparent;color:var(--paper);font-size:.82rem;
+    font-weight:500;letter-spacing:.05em;cursor:pointer;transition:all .18s ease;font-family:'Inter',sans-serif}
+  button.act:hover{background:rgba(212,175,55,.1);border-color:rgba(212,175,55,.5);color:var(--gold)}
+  button.act.primary{background:var(--blood);border-color:var(--blood);color:#fff}
+  button.act.primary:hover{background:#c94646;color:#fff}
+  button.act[disabled]{opacity:.4;cursor:default}
+  .dot{width:6px;height:6px;border-radius:50%;background:var(--gold);box-shadow:0 0 8px rgba(212,175,55,.7)}
+
+  section{padding:2.5rem 0 4rem;border-top:1px solid rgba(242,239,233,.06)}
+  .wrap{max-width:1280px;margin:0 auto;padding:0 1.25rem}
+  .section-head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;margin-bottom:1.6rem;flex-wrap:wrap}
+  .section-head h2{font-size:clamp(1.5rem,4vw,2.2rem);margin:0;font-weight:600}
+  .section-head h2 em{font-style:italic;color:var(--blood);font-weight:400}
+  .section-head .hint{font-size:.78rem;color:rgba(242,239,233,.45)}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1.1rem}
+  .card{background:#161618;border:1px solid rgba(242,239,233,.07);border-radius:10px;overflow:hidden;
+        display:flex;flex-direction:column;cursor:pointer;transition:transform .15s ease,border-color .15s ease}
+  .card:hover{transform:translateY(-3px);border-color:rgba(212,175,55,.4)}
+  .card .imgwrap{position:relative;width:100%;aspect-ratio:3/4;background:#0a0a0b;overflow:hidden}
+  .card img{width:100%;height:100%;object-fit:cover;display:block;filter:saturate(0)}
+  .card .badge{position:absolute;top:.5rem;left:.5rem;background:rgba(14,14,16,.82);color:var(--gold);
+    font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;padding:.25rem .5rem;border-radius:4px}
+  .card .meta{padding:.7rem .8rem .9rem}
+  .card .artist{font-size:.66rem;text-transform:uppercase;letter-spacing:.14em;color:var(--blood);font-weight:600}
+  .card .title{font-family:'Playfair Display',serif;font-size:1rem;margin:.15rem 0 .25rem;line-height:1.15}
+  .card .note{font-size:.74rem;color:rgba(242,239,233,.5);line-height:1.35}
+
+  .card.skeleton{cursor:default}
+  .card.skeleton .imgwrap{background:linear-gradient(100deg,#141416 30%,#1d1d20 50%,#141416 70%);
+    background-size:200% 100%;animation:sh 1.3s linear infinite}
+  @keyframes sh{to{background-position:-200% 0}}
+
+  .empty{grid-column:1/-1;text-align:center;color:rgba(242,239,233,.5);padding:3rem 1rem;font-size:.95rem;line-height:1.6}
+  .empty code{color:var(--blood)}
+
+  footer{text-align:center;padding:2.5rem 2rem;color:rgba(242,239,233,.4);font-size:.78rem;border-top:1px solid rgba(242,239,233,.06);line-height:1.7}
+
+  /* ---- 10-minute challenge overlay ---- */
+  .stage{position:fixed;inset:0;z-index:50;background:rgba(8,8,9,.97);display:none;flex-direction:column;align-items:center}
+  .stage.open{display:flex}
+  .stage-bar{width:100%;max-width:1100px;display:flex;align-items:center;justify-content:space-between;
+    gap:1rem;padding:1rem 1.25rem;flex-wrap:wrap}
+  .stage-bar .who{font-size:.8rem;color:rgba(242,239,233,.6)}
+  .stage-bar .who b{color:var(--paper);font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:600}
+  .timer{font-family:'Playfair Display',serif;font-size:2.6rem;font-weight:700;letter-spacing:.04em;line-height:1}
+  .timer.warn{color:var(--blood)}
+  .timer.done{color:var(--gold)}
+  .stage-mid{flex:1;width:100%;display:flex;align-items:center;justify-content:center;padding:0 1rem 1rem;min-height:0}
+  .stage-mid img{max-width:min(1100px,96vw);max-height:78vh;object-fit:contain;border:1px solid rgba(242,239,233,.1);background:#fff}
+  .stage-actions{display:flex;gap:.7rem;flex-wrap:wrap;justify-content:center;padding-bottom:1rem}
+  .invert-toggle{font-size:.72rem;color:rgba(242,239,233,.5)}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <span class="eyebrow">Panel Vault · Live Drawing Reference</span>
+  <h1>Black &amp; white<br><em>panels on tap</em></h1>
+  <p>Real pages pulled live from canonical black-and-white manga — Miura, Inoue, Hayashida, Ito and more.
+     Pull a page, set a 10-minute timer, draw it. No setup, nothing to install.</p>
+  <div class="stats">
+    <span><strong id="stat-panels">—</strong>pages loaded</span>
+    <span><strong id="stat-series">6</strong>series</span>
+    <span><strong id="stat-artists">6</strong>masters</span>
+  </div>
+  <div class="controls">
+    <button class="act primary" id="btn-shuffle"><span class="dot"></span> Pull new pages</button>
+    <button class="act" id="btn-random">🎲 Random 10-min challenge</button>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Fresh <em>finds</em></h2>
+      <span class="hint">Click any page to start a 10-minute drawing challenge</span>
+    </div>
+    <div class="grid" id="grid"></div>
+  </div>
+</section>
+
+<footer>
+  Panel Vault is a personal drawing-reference tool. Pages are streamed live from the MangaDex reader API
+  and are not stored. All artwork © its respective creators &amp; publishers — for private study only.
+  <br>Saturfun · Brooklyn
+</footer>
+
+<!-- 10-minute challenge stage -->
+<div class="stage" id="stage" role="dialog" aria-modal="true" aria-label="10 minute drawing challenge">
+  <div class="stage-bar">
+    <div class="who"><b id="stage-title">—</b><br><span id="stage-sub"></span></div>
+    <div class="timer" id="timer">10:00</div>
+    <div class="stage-actions">
+      <button class="act" id="btn-invert">Invert</button>
+      <button class="act" id="btn-restart">Restart timer</button>
+      <button class="act" id="btn-next">Next page →</button>
+      <button class="act primary" id="btn-close">Done</button>
+    </div>
+  </div>
+  <div class="stage-mid"><img id="stage-img" alt="drawing reference page"></div>
+</div>
+
+<script type="module">
+/* ──────────────────────────────────────────────────────────────────────────
+   Panel Vault · Live
+   Pulls black-and-white manga pages straight from the MangaDex reader API.
+   No backend, no API key, no harvest loop — everything happens in the browser.
+   Curated manga IDs were resolved + verified to have live English chapters.
+   ────────────────────────────────────────────────────────────────────────── */
+
+const API = 'https://api.mangadex.org';
+
+// Verified 2026-06-28: each has live English chapters with downloadable pages.
+const MANGA = [
+  { name:'Berserk',       id:'801513ba-a712-498c-8f57-cae55b38cc92', artist:'Kentaro Miura',    chapters:423, note:'Screentone density · dramatic lighting' },
+  { name:'Vagabond',      id:'d1a9fdeb-f713-407f-960c-8326b586e6fd', artist:'Takehiko Inoue',   chapters:114, note:'Brush economy · negative space' },
+  { name:'Slam Dunk',     id:'319df2e2-e6a6-4e3a-a31c-68539c140a84', artist:'Takehiko Inoue',   chapters:291, note:'Kinetic line · frame rhythm' },
+  { name:'Dorohedoro',    id:'34f45c13-2b78-4900-8af2-d0bb551101f4', artist:'Q Hayashida',      chapters:207, note:'Dense textured pen work' },
+  { name:'Made in Abyss', id:'80422e14-b9ad-4fda-970f-de370d5fa4e5', artist:'Akihito Tsukushi', chapters:106, note:'Environmental detail' },
+  { name:'Uzumaki',       id:'f4cfbb1c-766e-49db-ae80-1a5db3cbcc1b', artist:'Junji Ito',        chapters:3,   note:'Hatching · horror composition' },
+];
+
+const PAGES_PER_DRAW = 12;       // how many cards to show
+const PAGES_PER_CHAPTER = 3;     // sample a few pages from each chapter we open
+const CR = 'contentRating%5B%5D=safe&contentRating%5B%5D=suggestive&contentRating%5B%5D=erotica';
+
+const gridEl  = document.getElementById('grid');
+const statEl  = document.getElementById('stat-panels');
+let   loaded  = [];   // {manga, chapter, dataUrl, saverUrl}
+
+const rnd  = (n) => Math.floor(Math.random() * n);
+const pick = (arr) => arr[rnd(arr.length)];
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+const shuffle = (a) => a.map(v => [Math.random(), v]).sort((x,y)=>x[0]-y[0]).map(p=>p[1]);
+
+async function jget(url, tries = 3) {
+  for (let i = 0; i < tries; i++) {
+    try {
+      const r = await fetch(url, { headers: { 'Accept': 'application/json' } });
+      if (r.status === 429) { await sleep(1200 * (i + 1)); continue; }   // rate limited → back off
+      if (!r.ok) throw new Error('http ' + r.status);
+      return await r.json();
+    } catch (e) {
+      if (i === tries - 1) throw e;
+      await sleep(500 * (i + 1));
+    }
+  }
+}
+
+// Open one random English chapter of a manga and return a few page URLs.
+async function pagesFromManga(m) {
+  // random chapter via offset; order asc so offsets are meaningful
+  const offset = rnd(Math.max(1, m.chapters));
+  const feed = await jget(
+    `${API}/manga/${m.id}/feed?translatedLanguage%5B%5D=en&${CR}` +
+    `&order%5Bchapter%5D=asc&limit=1&offset=${offset}` +
+    `&includeEmptyPages=0&includeFuturePublishAt=0`
+  );
+  const ch = feed?.data?.[0];
+  if (!ch) return [];
+  await sleep(220);                                   // be polite to the API
+  const ah = await jget(`${API}/at-home/server/${ch.id}`);
+  const base = ah.baseUrl, hash = ah.chapter.hash;
+  const data = ah.chapter.data || [];
+  const saver = ah.chapter.dataSaver || data;
+  if (!data.length) return [];
+  // pick a few distinct page indexes, skipping covers/credits at the very edges
+  const lo = data.length > 6 ? 2 : 0;
+  const hi = data.length > 6 ? data.length - 2 : data.length;
+  const idxs = shuffle([...Array(hi - lo).keys()].map(i => i + lo)).slice(0, PAGES_PER_CHAPTER);
+  return idxs.map(i => ({
+    manga: m,
+    chapter: ch.attributes.chapter || '?',
+    full:  `${base}/data/${hash}/${data[i]}`,
+    thumb: `${base}/data-saver/${hash}/${saver[Math.min(i, saver.length - 1)]}`,
+  }));
+}
+
+function skeletons(n) {
+  gridEl.innerHTML = '';
+  for (let i = 0; i < n; i++) {
+    const c = document.createElement('div');
+    c.className = 'card skeleton';
+    c.innerHTML = '<div class="imgwrap"></div><div class="meta"></div>';
+    gridEl.appendChild(c);
+  }
+}
+
+function renderCard(p) {
+  const card = document.createElement('article');
+  card.className = 'card';
+  card.innerHTML = `
+    <div class="imgwrap">
+      <span class="badge">ch ${escapeHtml(String(p.chapter))}</span>
+      <img loading="lazy" src="${p.thumb}" alt="${escapeHtml(p.manga.name)} page">
+    </div>
+    <div class="meta">
+      <div class="artist">${escapeHtml(p.manga.artist)}</div>
+      <div class="title">${escapeHtml(p.manga.name)}</div>
+      <div class="note">${escapeHtml(p.manga.note)}</div>
+    </div>`;
+  card.querySelector('img').addEventListener('error', () => card.remove());
+  card.addEventListener('click', () => openStage(p));
+  return card;
+}
+
+async function draw() {
+  document.getElementById('btn-shuffle').disabled = true;
+  skeletons(PAGES_PER_DRAW);
+  loaded = [];
+
+  // Open ~5 chapters across a shuffled subset of the 6 series, with light
+  // concurrency so we fill the grid fast without tripping the rate limiter.
+  const chosen = shuffle(MANGA).slice(0, 5);
+  let first = true;
+  await Promise.all(chosen.map(async (m, k) => {
+    await sleep(k * 180);                              // stagger starts
+    try {
+      const pages = await pagesFromManga(m);
+      for (const p of pages) {
+        if (loaded.length >= PAGES_PER_DRAW) break;
+        loaded.push(p);
+        if (first) { gridEl.innerHTML = ''; first = false; }  // clear skeletons on first real page
+        gridEl.appendChild(renderCard(p));
+        statEl.textContent = loaded.length;
+      }
+    } catch (e) { console.warn('[panels]', m.name, 'failed:', e.message); }
+  }));
+
+  if (!loaded.length) {
+    gridEl.innerHTML = `<div class="empty">Couldn't reach the panel source just now.
+      Check your connection and hit <b>Pull new pages</b> again.<br>
+      (The page streams from <code>api.mangadex.org</code> — it must be served over http, not opened as a file.)</div>`;
+  }
+  document.getElementById('btn-shuffle').disabled = false;
+}
+
+/* ---- 10-minute challenge ---- */
+const stage   = document.getElementById('stage');
+const stImg   = document.getElementById('stage-img');
+const stTitle = document.getElementById('stage-title');
+const stSub   = document.getElementById('stage-sub');
+const timerEl = document.getElementById('timer');
+let   tHandle = null, tLeft = 600, current = null, inverted = false;
+
+function fmt(s){ const m = Math.floor(s/60), ss = s%60; return `${m}:${String(ss).padStart(2,'0')}`; }
+function tick(){
+  tLeft--; timerEl.textContent = fmt(Math.max(0, tLeft));
+  timerEl.classList.toggle('warn', tLeft <= 60 && tLeft > 0);
+  if (tLeft <= 0){ clearInterval(tHandle); tHandle = null; timerEl.classList.remove('warn'); timerEl.classList.add('done'); timerEl.textContent = "TIME"; }
+}
+function startTimer(){
+  clearInterval(tHandle); tLeft = 600; timerEl.className = 'timer'; timerEl.textContent = fmt(tLeft);
+  tHandle = setInterval(tick, 1000);
+}
+function openStage(p){
+  current = p; inverted = false;
+  stImg.style.filter = 'none';
+  stImg.src = p.full;
+  stTitle.textContent = `${p.manga.name} · ch ${p.chapter}`;
+  stSub.textContent = p.manga.artist;
+  stage.classList.add('open'); document.body.style.overflow = 'hidden';
+  startTimer();
+}
+function closeStage(){
+  stage.classList.remove('open'); document.body.style.overflow = '';
+  clearInterval(tHandle); tHandle = null;
+}
+document.getElementById('btn-close').addEventListener('click', closeStage);
+document.getElementById('btn-restart').addEventListener('click', startTimer);
+document.getElementById('btn-invert').addEventListener('click', () => {
+  inverted = !inverted; stImg.style.filter = inverted ? 'invert(1)' : 'none';
+});
+document.getElementById('btn-next').addEventListener('click', () => {
+  if (loaded.length){ openStage(pick(loaded)); }
+});
+document.getElementById('btn-random').addEventListener('click', () => {
+  if (loaded.length) openStage(pick(loaded));
+});
+document.getElementById('btn-shuffle').addEventListener('click', draw);
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && stage.classList.contains('open')) closeStage(); });
+
+function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+draw();   // go on load
+</script>
+<script src="app-shell.js" defer></script>
+</body>
+</html>
