@@ -121,6 +121,23 @@ def round_once(client: httpx.Client, base: str, token: str, r: Results, rnd: int
         dl = client.request("DELETE", f"{base}/api/photos/{p['id']}/comments/{cid}", json={"device_id": dev}, timeout=15)
         r.check("comment_author_delete", dl.status_code == 200, dl.text[:120])
 
+        # avatars: upload a PNG avatar, serve it, confirm it lands on the comment, reject a non-image
+        up = client.post(f"{base}/api/profile/avatar", files={"avatar": ("a.png", PNG_1x1, "image/png")}, data={"device_id": dev}, timeout=20)
+        ok = up.status_code == 200 and up.json().get("avatar_url", "").startswith("/api/avatar/")
+        r.check("avatar_upload_200", ok, up.text[:140])
+        if ok:
+            url = up.json()["avatar_url"]
+            img = client.get(f"{base}{url}", timeout=20)
+            r.check("avatar_served", img.status_code == 200 and img.headers.get("content-type", "").startswith("image/"), str(img.status_code))
+            cr = client.post(f"{base}/api/photos/{p['id']}/comments", json={"device_id": dev, "body": "with avatar"}, timeout=15)
+            cid = cr.json().get("id")
+            lst = client.get(f"{base}/api/photos/{p['id']}/comments?device={dev}", timeout=15).json()["comments"]
+            me = next((c for c in lst if c["id"] == cid), {})
+            r.check("avatar_on_comment", me.get("avatar_url") == url, str(me)[:160])
+            client.request("DELETE", f"{base}/api/photos/{p['id']}/comments/{cid}", json={"device_id": dev}, timeout=15)
+        bad = client.post(f"{base}/api/profile/avatar", files={"avatar": ("x.png", b"not an image", "image/png")}, data={"device_id": dev}, timeout=15)
+        r.check("avatar_rejects_nonimage", bad.status_code == 400, bad.text[:120])
+
         # No server-side thumbnails on the edge.
         r.check("png_has_thumb_false", p["has_thumb"] is False, str(p))
         r.check("png_dims", p["width"] == 1 and p["height"] == 1, str(p))
