@@ -1,0 +1,10 @@
+/* Saturfun shared design tokens — dark ink/paper/blood/gold. Linked by every page. */
+:root {
+  --ink: #0E0E10;
+  --paper: #F2EFE9;
+  --blood: #B33A3A;
+  --gold: #D4AF37;
+  --muted: #5A5A5A;
+  --card: #161618;
+  --tab-bar-h: 62px;
+}
