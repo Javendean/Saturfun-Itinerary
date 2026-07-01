@@ -773,25 +773,23 @@ let _whirlRunning = false;
 
 async function maybePlayWhirlwind() {
   let act;
-  try { act = await (await fetch(`${PHOTO_API}/api/activity`)).json(); } catch (e) { console.log("WHIRL fetch-fail", e); return; }
-  const force = new URLSearchParams(location.search).has("whirl"); // ?whirl forces a demo play
-  console.log("WHIRL act.latest", act && act.latest, "photos", act && act.photos && act.photos.length, "force", force);
-  if (!act || !act.latest) { console.log("WHIRL bail:no-act"); return; }
+  try { act = await (await fetch(`${PHOTO_API}/api/activity`)).json(); } catch { return; }
+  if (!act || !act.latest) return;
   const seen = parseFloat(localStorage.getItem(SEEN_KEY) || "0");
   localStorage.setItem(SEEN_KEY, String(act.latest)); // always advance the marker
-  console.log("WHIRL seen", seen, "latest", act.latest, "reduced", window.matchMedia("(prefers-reduced-motion: reduce)").matches);
-  if (force) { playWhirlwind(act, { photos: (act.photos||[]).length, reactions: (act.reactions||[]).length, comments: (act.comments||[]).length }); return; }
-  if (!seen) { console.log("WHIRL bail:first-visit"); return; }        // first visit: mark, don't play
-  if (act.latest <= seen) { console.log("WHIRL bail:nothing-new"); return; } // nothing new
+  // ?whirl forces a demo play (handy for showing it off on demand)
+  if (new URLSearchParams(location.search).has("whirl")) {
+    return playWhirlwind(act, { photos: (act.photos || []).length, reactions: (act.reactions || []).length, comments: (act.comments || []).length });
+  }
+  if (!seen) return;                 // first visit: mark, don't play
+  if (act.latest <= seen) return;    // nothing new since last visit
   const newCounts = {
     photos:    (act.photos    || []).filter((p) => p.uploaded > seen).length,
     reactions: (act.reactions || []).filter((r) => r.created  > seen).length,
     comments:  (act.comments  || []).filter((c) => c.created  > seen).length,
   };
-  console.log("WHIRL newCounts", JSON.stringify(newCounts));
-  if (newCounts.photos + newCounts.reactions + newCounts.comments === 0) { console.log("WHIRL bail:zero-new"); return; }
-  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) { console.log("WHIRL bail:reduced-motion"); return; }
-  console.log("WHIRL PLAY");
+  if (newCounts.photos + newCounts.reactions + newCounts.comments === 0) return;
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
   playWhirlwind(act, newCounts);
 }
 
@@ -806,7 +804,6 @@ function playWhirlwind(act, newCounts) {
 
   overlay.hidden = false;
   inkEl.style.opacity = "1";
-  console.log("WHIRL overlay-shown");
 
   const vw = window.innerWidth;
   const vh = window.innerHeight;
@@ -1016,8 +1013,7 @@ function playWhirlwind(act, newCounts) {
       }
 
       rafId = requestAnimationFrame(tick);
-    } catch (e) {
-      if (!window._wt) { window._wt = 1; console.log("WHIRL tick-throw:", e && (e.stack || e.message || e)); }
+    } catch {
       finish();
     }
   }
