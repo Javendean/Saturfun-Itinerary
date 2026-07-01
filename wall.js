@@ -655,15 +655,17 @@ function setupAppUpdate() {
 function downscaleImage(file, max = 256) {
   return new Promise((resolve, reject) => {
     const img = new Image();
+    const url = URL.createObjectURL(file);
     img.onload = () => {
       const s = Math.min(max / img.width, max / img.height, 1);
       const w = Math.round(img.width * s), h = Math.round(img.height * s);
       const cv = document.createElement("canvas"); cv.width = w; cv.height = h;
       cv.getContext("2d").drawImage(img, 0, 0, w, h);
+      URL.revokeObjectURL(url);
       cv.toBlob((b) => (b ? resolve(b) : reject(new Error("encode"))), "image/jpeg", 0.85);
     };
-    img.onerror = reject;
-    img.src = URL.createObjectURL(file);
+    img.onerror = () => { URL.revokeObjectURL(url); reject(new Error("decode")); };
+    img.src = url;
   });
 }
 async function uploadAvatar(blob) {
@@ -680,9 +682,11 @@ async function uploadAvatar(blob) {
 // ---- comment wiring + name sheet ----------------------------------------
 let pendingComment = null; // {photoId, body} awaiting a name decision
 let pendingAvatarBlob = null;
+let avatarPreviewUrl = null;
 function openNameSheet() {
   $("nameSheetInput").value = myName();
-  $("nameAvatarPreview").src = "";
+  if (avatarPreviewUrl) { URL.revokeObjectURL(avatarPreviewUrl); avatarPreviewUrl = null; }
+  $("nameAvatarPreview").removeAttribute("src");
   $("nameAvatarInput").value = "";
   pendingAvatarBlob = null;
   $("nameSheet").hidden = false;
@@ -721,7 +725,9 @@ function setupComments() {
     if (!file) return;
     try {
       pendingAvatarBlob = await downscaleImage(file);
-      $("nameAvatarPreview").src = URL.createObjectURL(pendingAvatarBlob);
+      if (avatarPreviewUrl) URL.revokeObjectURL(avatarPreviewUrl);
+      avatarPreviewUrl = URL.createObjectURL(pendingAvatarBlob);
+      $("nameAvatarPreview").src = avatarPreviewUrl;
     } catch { toast("Couldn't process that image."); }
   });
 }
