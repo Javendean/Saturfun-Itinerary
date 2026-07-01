@@ -171,7 +171,7 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
 /* ---- Reactions ---- */
 .tile-card { display: flex; flex-direction: column; gap: .3rem; }
 .tile-card .tile { width: 100%; }
-.tile-reactions { display: flex; flex-wrap: wrap; gap: .25rem; padding: 0 .1rem; pointer-events: none; }
+.tile-meta { display: flex; flex-wrap: wrap; gap: .25rem; padding: 0 .1rem; pointer-events: none; }
 .tr-chip { display: inline-flex; align-items: center; gap: .15rem; font-size: .72rem; line-height: 1.4;
   padding: .05rem .32rem; border-radius: 999px; background: rgba(255,255,255,.05);
   border: 1px solid rgba(242,239,233,.1); color: rgba(242,239,233,.85); }
@@ -204,3 +204,41 @@ button.act.primary[disabled]:hover { background: var(--blood); border-color: var
   background: rgba(255,255,255,.04); cursor: pointer; }
 .rm-q:hover { border-color: rgba(212,175,55,.5); }
 .rm-more { font-size: 1.2rem; }
+
+/* ---- Comments ---- */
+.lb-comments {
+  width: 100%; max-width: min(520px, 92vw);
+  max-height: 30vh; overflow-y: auto;
+  display: flex; flex-direction: column; gap: .4rem;
+}
+.lc-empty { font-size: .8rem; color: rgba(242,239,233,.4); text-align: center; padding: .5rem 0; }
+.lc-item {
+  display: flex; align-items: baseline; gap: .35rem; flex-wrap: wrap;
+  font-size: .82rem; line-height: 1.45;
+  padding: .28rem .4rem; border-radius: 8px;
+  background: rgba(255,255,255,.03); border: 1px solid rgba(242,239,233,.06);
+}
+.lc-name { font-weight: 600; color: var(--gold); white-space: nowrap; }
+.lc-body { color: rgba(242,239,233,.88); flex: 1 1 auto; word-break: break-word; }
+.lc-time { font-size: .72rem; color: var(--muted); white-space: nowrap; }
+.lc-del {
+  background: none; border: none; color: var(--muted); cursor: pointer;
+  font-size: .72rem; padding: 0 .2rem; line-height: 1; flex-shrink: 0;
+}
+.lc-del:hover { color: var(--blood); }
+.lb-comment-form {
+  display: flex; gap: .5rem; align-items: center;
+  width: 100%; max-width: min(520px, 92vw);
+}
+.lb-comment-form .rx-input { flex: 1 1 auto; font-size: .9rem; }
+
+/* ---- Name sheet (like #reactMenu) ---- */
+#nameSheet { position: fixed; inset: 0; z-index: 55; display: flex; align-items: center; justify-content: center; }
+#nameSheetBackdrop { position: absolute; inset: 0; background: rgba(8,8,9,.55); }
+#nameSheetBar {
+  position: relative; z-index: 1; display: flex; flex-direction: column; gap: .7rem; align-items: stretch;
+  padding: 1rem 1.1rem; border-radius: 16px; background: #161618; border: 1px solid rgba(242,239,233,.14);
+  box-shadow: 0 16px 44px rgba(0,0,0,.6); max-width: 92vw; width: min(320px, 92vw);
+}
+.ns-title { margin: 0; font-size: .88rem; color: rgba(242,239,233,.8); text-align: center; }
+.ns-actions { display: flex; gap: .6rem; justify-content: flex-end; }

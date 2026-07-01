@@ -27,6 +27,7 @@
 
   <div class="controls">
     <button class="act primary" id="addBtn"><span class="dot"></span> Add photos</button>
+    <button class="act small" id="setNameBtn" title="Set your display name for comments">✎ Name</button>
     <button class="act" id="ownerBtn" title="Enter the owner token to enable deleting">Owner</button>
   </div>
 
@@ -82,6 +83,11 @@
       <div id="rxQuick" class="rx-quick"></div>
       <input id="rxInput" class="rx-input" inputmode="text" enterkeyhint="done" placeholder="type any emoji…" aria-label="Type any emoji">
     </div>
+    <div id="lbComments" class="lb-comments"></div>
+    <form id="lbCommentForm" class="lb-comment-form">
+      <input id="lbCommentInput" class="rx-input" maxlength="500" placeholder="Add a comment…" aria-label="Add a comment" autocomplete="off">
+      <button type="submit" class="act small primary">Post</button>
+    </form>
     <div class="lightbox-actions">
       <button class="act primary" id="lbSave"><span class="dot"></span> Save to phone</button>
       <button class="act" id="lbOpen">Open original</button>
@@ -101,6 +107,15 @@
   <div id="reactMenuBar" role="menu" aria-label="React">
     <div id="reactMenuQuick"></div>
     <input id="reactMenuInput" class="rx-input" inputmode="text" enterkeyhint="done" placeholder="type any emoji…" aria-label="Type any emoji" hidden>
+  </div>
+</div>
+
+<div id="nameSheet" hidden>
+  <div id="nameSheetBackdrop"></div>
+  <div id="nameSheetBar" role="dialog" aria-label="Set your name">
+    <p class="ns-title">What name shows on your comments?</p>
+    <input id="nameSheetInput" class="rx-input" maxlength="40" placeholder="Your name" aria-label="Your name">
+    <div class="ns-actions"><button type="button" class="act small" id="nameSkip">Skip</button><button type="button" class="act small primary" id="nameSave">Save</button></div>
   </div>
 </div>
 

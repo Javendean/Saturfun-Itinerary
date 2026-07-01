@@ -12,11 +12,14 @@ const PHOTO_API = (() => {
 
 const OWNER_KEY = "saturfun_photo_owner";
 const DEVICE_KEY = "saturfun_device_id";
+const NAME_KEY = "saturfun_name";
 function deviceId() {
   let id = localStorage.getItem(DEVICE_KEY);
   if (!id) { id = (crypto.randomUUID ? crypto.randomUUID() : String(Date.now()) + Math.random()); localStorage.setItem(DEVICE_KEY, id); }
   return id;
 }
+function myName() { return localStorage.getItem(NAME_KEY) || ""; }
+function timeAgo(sec) { const s = Date.now() / 1000 - sec; if (s < 60) return "now"; if (s < 3600) return Math.floor(s / 60) + "m"; if (s < 86400) return Math.floor(s / 3600) + "h"; return Math.floor(s / 86400) + "d"; }
 const QUICK_EMOJI = ["❤️", "😂", "‼️", "👍", "😮", "😢"];
 
 // ---- react menu (long-press / right-click from grid) --------------------
@@ -63,13 +66,16 @@ function tileReactionsHTML(reactions) {
   if (!reactions || !reactions.length) return "";
   return reactions.map((r) => `<span class="tr-chip${r.mine ? " mine" : ""}">${esc(r.emoji)} ${r.count}</span>`).join("");
 }
-function renderTileReactions(photoId, reactions) {
+function renderTileMeta(photoId) {
   const card = document.querySelector(`#photoGrid .tile-card[data-id="${photoId}"]`);
   if (!card) return;
-  let row = card.querySelector(".tile-reactions");
-  const html = tileReactionsHTML(reactions);
+  const p = PHOTOS.find((x) => x.id === photoId);
+  let row = card.querySelector(".tile-meta");
+  const rxHTML = tileReactionsHTML(p ? p.reactions : []);
+  const countHTML = (p && p.comment_count) ? `<span class="tr-chip">💬 ${p.comment_count}</span>` : "";
+  const html = rxHTML + countHTML;
   if (!html) { if (row) row.remove(); return; }
-  if (!row) { row = document.createElement("div"); row.className = "tile-reactions"; card.appendChild(row); }
+  if (!row) { row = document.createElement("div"); row.className = "tile-meta"; card.appendChild(row); }
   row.innerHTML = html;
 }
 
@@ -86,8 +92,27 @@ function applyReactions(photoId, reactions) {
   if (current && current.id === photoId) { current.reactions = reactions; renderLightboxReactions(current); }
   const inList = PHOTOS.find((x) => x.id === photoId);
   if (inList) inList.reactions = reactions;
-  renderTileReactions(photoId, reactions);
-  lastSig = PHOTOS.map((p) => `${p.id}:${(p.reactions || []).map((r) => r.emoji + r.count).join("")}`).join(",");
+  renderTileMeta(photoId);
+  lastSig = PHOTOS.map((x) => `${x.id}:${(x.reactions || []).map((r) => r.emoji + r.count).join("")}:${x.comment_count || 0}`).join(",");
+}
+
+async function loadComments(photoId) {
+  const wrap = $("lbComments");
+  wrap.innerHTML = `<div class="lc-empty">Loading…</div>`;
+  let list = [];
+  try { list = (await (await fetch(`${PHOTO_API}/api/photos/${photoId}/comments`)).json()).comments || []; } catch { wrap.innerHTML = ""; return; }
+  if (!list.length) { wrap.innerHTML = `<div class="lc-empty">No comments yet.</div>`; return; }
+  const canOwner = document.body.classList.contains("is-owner");
+  wrap.innerHTML = list.map((c) => {
+    const del = (canOwner || c.device_id === deviceId()) ? `<button class="lc-del" data-id="${esc(String(c.id))}" aria-label="Delete">✕</button>` : "";
+    return `<div class="lc-item"><span class="lc-name">${esc(c.name || "")}</span> <span class="lc-body">${esc(c.body || "")}</span> <span class="lc-time">${timeAgo(c.created)}</span>${del}</div>`;
+  }).join("");
+}
+async function postComment(photoId, body) {
+  const r = await fetch(`${PHOTO_API}/api/photos/${photoId}/comments`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: deviceId(), body }) });
+  if (r.status === 429) { toast("Slow down a moment."); return false; }
+  if (!r.ok) { toast("Couldn't post."); return false; }
+  return true;
 }
 
 let rxChain = Promise.resolve();
@@ -365,7 +390,7 @@ async function loadPhotos() {
     }
 
     const delta = data.length - PHOTOS.length;
-    const newSig = data.map((p) => `${p.id}:${(p.reactions || []).map((r) => r.emoji + r.count).join("")}`).join(",");
+    const newSig = data.map((p) => `${p.id}:${(p.reactions || []).map((r) => r.emoji + r.count).join("")}:${p.comment_count || 0}`).join(",");
     const changed = newSig !== lastSig;
     PHOTOS = data;
 
@@ -412,7 +437,9 @@ async function loadPhotos() {
           });
           card.appendChild(tile);
           const rxHTML = tileReactionsHTML(p.reactions);
-          if (rxHTML) { const row = document.createElement("div"); row.className = "tile-reactions"; row.innerHTML = rxHTML; card.appendChild(row); }
+          const countHTML = p.comment_count ? `<span class="tr-chip">💬 ${p.comment_count}</span>` : "";
+          const metaHTML = rxHTML + countHTML;
+          if (metaHTML) { const row = document.createElement("div"); row.className = "tile-meta"; row.innerHTML = metaHTML; card.appendChild(row); }
           grid.appendChild(card);
         }
       } else if (selectMode) {
@@ -547,6 +574,8 @@ function openLightbox(p) {
   $("lightboxName").textContent = p.filename;
   $("lightbox").classList.add("open");
   document.body.style.overflow = "hidden";
+  $("lbCommentInput").value = "";
+  loadComments(p.id);
 }
 function closeLightbox() {
   $("lightbox").classList.remove("open");
@@ -621,6 +650,41 @@ function setupAppUpdate() {
   });
 }
 
+// ---- comment wiring + name sheet ----------------------------------------
+let pendingComment = null; // {photoId, body} awaiting a name decision
+function openNameSheet() { $("nameSheetInput").value = myName(); $("nameSheet").hidden = false; $("nameSheetInput").focus(); }
+function closeNameSheet() { $("nameSheet").hidden = true; }
+async function saveName(name) {
+  const n = (name || "").trim().slice(0, 40);
+  if (n) { localStorage.setItem(NAME_KEY, n); try { await fetch(`${PHOTO_API}/api/profile`, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: deviceId(), name: n }) }); } catch {} }
+}
+function setupComments() {
+  $("lbCommentForm").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const input = $("lbCommentInput"); const body = input.value.trim();
+    if (!body || !current) return;
+    if (!myName()) { pendingComment = { photoId: current.id, body }; input.value = ""; openNameSheet(); return; }
+    input.value = "";
+    if (await postComment(current.id, body)) { await loadComments(current.id); bumpCommentCount(current.id, 1); }
+  });
+  $("lbComments").addEventListener("click", async (e) => {
+    const b = e.target.closest(".lc-del"); if (!b || !current) return;
+    if (!confirm("Delete this comment?")) return;
+    const r = await fetch(`${PHOTO_API}/api/photos/${current.id}/comments/${b.dataset.id}`, { method: "DELETE", headers: { "Content-Type": "application/json", ...(ownerToken() ? { "X-Owner-Token": ownerToken() } : {}) }, body: JSON.stringify({ device_id: deviceId() }) });
+    if (r.ok) { await loadComments(current.id); bumpCommentCount(current.id, -1); } else toast("Couldn't delete.");
+  });
+  const finish = async () => { closeNameSheet(); if (pendingComment) { const pc = pendingComment; pendingComment = null; if (await postComment(pc.photoId, pc.body)) { if (current && current.id === pc.photoId) await loadComments(pc.photoId); bumpCommentCount(pc.photoId, 1); } } };
+  $("nameSave").addEventListener("click", async () => { await saveName($("nameSheetInput").value); await finish(); });
+  $("nameSkip").addEventListener("click", finish);
+  $("nameSheetBackdrop").addEventListener("click", () => { closeNameSheet(); pendingComment = null; });
+}
+function bumpCommentCount(photoId, delta) {
+  const p = PHOTOS.find((x) => x.id === photoId); if (!p) return;
+  p.comment_count = Math.max(0, (p.comment_count || 0) + delta);
+  renderTileMeta(photoId);
+  lastSig = PHOTOS.map((x) => `${x.id}:${(x.reactions || []).map((r) => r.emoji + r.count).join("")}:${x.comment_count || 0}`).join(",");
+}
+
 // ---- reactions wiring ---------------------------------------------------
 function setupReactions() {
   // chip clicks (existing emoji) + add-button → quick row + emoji keyboard
@@ -677,6 +741,8 @@ function init() {
   // lightbox actions
   setupReactions();
   setupReactMenu();
+  setupComments();
+  $("setNameBtn").addEventListener("click", openNameSheet);
   $("lbSave").addEventListener("click", () => current && savePhoto(current));
   $("lbOpen").addEventListener("click", () => current && window.open(`${PHOTO_API}/api/photos/${current.id}/raw`, "_blank"));
   $("lbDelete").addEventListener("click", deleteCurrent);
@@ -686,6 +752,7 @@ function init() {
     if (e.key !== "Escape") return;
     if ($("lightbox").classList.contains("open")) closeLightbox();
     else if (!$("reactMenu").hidden) closeReactMenu();
+    else if (!$("nameSheet").hidden) { closeNameSheet(); pendingComment = null; }
     else if (selectMode) exitSelectMode();
   });
 
