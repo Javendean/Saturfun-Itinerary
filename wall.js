@@ -806,6 +806,7 @@ function playWhirlwind(act, newCounts) {
 
   overlay.hidden = false;
   inkEl.style.opacity = "1";
+  console.log("WHIRL overlay-shown");
 
   const vw = window.innerWidth;
   const vh = window.innerHeight;
@@ -1015,7 +1016,8 @@ function playWhirlwind(act, newCounts) {
       }
 
       rafId = requestAnimationFrame(tick);
-    } catch {
+    } catch (e) {
+      if (!window._wt) { window._wt = 1; console.log("WHIRL tick-throw:", e && (e.stack || e.message || e)); }
       finish();
     }
   }
