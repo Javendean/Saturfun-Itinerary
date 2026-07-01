@@ -100,7 +100,7 @@ export async function handlePhotoRoute(
         if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
         const got = await comments.getAvatarBytes(env, decodeURIComponent(am[1]));
         if (!got) return detail(404, "not found", env, origin);
-        return new Response(got.body, { headers: { "Content-Type": got.contentType, "Cache-Control": "public, max-age=31536000, immutable", ...corsHeaders(env, origin) } });
+        return new Response(got.body, { headers: { "Content-Type": got.contentType, "Cache-Control": "public, max-age=60", "X-Content-Type-Options": "nosniff", ...corsHeaders(env, origin) } });
       } }
 
     // Profile — /api/profile and /api/profile/{device_id}

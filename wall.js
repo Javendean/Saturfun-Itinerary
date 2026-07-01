@@ -692,7 +692,7 @@ function openNameSheet() {
   $("nameSheet").hidden = false;
   $("nameSheetInput").focus();
 }
-function closeNameSheet() { $("nameSheet").hidden = true; }
+function closeNameSheet() { $("nameSheet").hidden = true; if (avatarPreviewUrl) { URL.revokeObjectURL(avatarPreviewUrl); avatarPreviewUrl = null; } }
 async function saveName(name) {
   const n = (name || "").trim().slice(0, 40);
   if (n) { localStorage.setItem(NAME_KEY, n); try { await fetch(`${PHOTO_API}/api/profile`, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ device_id: deviceId(), name: n }) }); } catch {} }

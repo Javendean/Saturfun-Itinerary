@@ -211,6 +211,7 @@ describe("avatar routes", () => {
     const img = await SELF.fetch(`${BASE}${url}`);
     expect(img.status).toBe(200);
     expect(img.headers.get("content-type")).toContain("image/");
+    expect(img.headers.get("cache-control") || "").not.toContain("immutable");
   });
   it("rejects a non-image upload", async () => {
     const f = new FormData();
