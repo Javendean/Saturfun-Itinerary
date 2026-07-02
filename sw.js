@@ -2,7 +2,7 @@
 // Network-first for the app shell (fresh after deploy) + cache fallback (offline).
 // Handles ONLY same-origin shell paths; passes through everything else — including
 // all cross-origin calls to saturfun-worker (never caches /api/*).
-const CACHE = "saturfun-app-v4";
+const CACHE = "saturfun-app-v5";
 const SHELL = [
   "index.html", "wall.html", "manga.html", "panels.html", "plan.html",
   "tokens.css", "app-shell.css", "app-shell.js",
