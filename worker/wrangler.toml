@@ -50,6 +50,10 @@ PHOTO_RATE_LIMIT_MAX = "60"
 # NOTE: PHOTO_OWNER_TOKEN is a SECRET, not a var. Set it with:
 #   wrangler secret put PHOTO_OWNER_TOKEN
 # DELETE is gated by it and fails closed when unset.
+# Web Push (VAPID): public key + subject are non-sensitive vars; the PRIVATE key is a
+# secret (wrangler secret put VAPID_PRIVATE_KEY — the P-256 private JWK JSON).
+VAPID_PUBLIC_KEY = "BGRu2bIRZcfaSYd2A45hs7cTDYwKjOOT-90ZZ9CKpKv8r5l64vAeU-zn85tott6CWoJIiVJ_f4a5Wc1Pi7zijMM"
+VAPID_SUBJECT = "mailto:javendeannaipaul@gmail.com"
 
 # ---- R2 bucket: photo bytes (originals + optional thumbs) ----------------
 # Create it once:  wrangler r2 bucket create saturfun-photos
