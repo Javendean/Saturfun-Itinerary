@@ -1,4 +1,4 @@
-import { env } from "cloudflare:test";
+import { env, SELF } from "cloudflare:test";
 import { describe, it, expect, beforeEach } from "vitest";
 import {
   ASPECTS,
@@ -194,5 +194,165 @@ describe("getTaste / setTaste", () => {
 
     expect(await getTaste(env, "dev-1", "manga")).toEqual({ manga: true });
     expect(await getTaste(env, "dev-1", "photos")).toEqual({ photos: true });
+  });
+});
+
+// ---------------------------------------------------------------------------
+// HTTP routes via SELF.fetch — manga panels + taste
+// ---------------------------------------------------------------------------
+
+const BASE = "https://wall.test";
+
+function panelForm(bytes: Uint8Array, deviceId: string): FormData {
+  const fd = new FormData();
+  fd.append("device_id", deviceId);
+  fd.append("panel", new File([bytes], "panel.png", { type: "image/png" }));
+  return fd;
+}
+
+describe("manga panel upload routes", () => {
+  beforeEach(async () => {
+    await env.DB.prepare("DELETE FROM manga_panels").run();
+  });
+
+  it("POST /api/manga/panels uploads and returns id + url", async () => {
+    const r = await SELF.fetch(`${BASE}/api/manga/panels`, {
+      method: "POST",
+      body: panelForm(PNG, "dev-1"),
+    });
+    expect(r.status).toBe(200);
+    const body = await r.json() as any;
+    expect(typeof body.id).toBe("string");
+    expect(body.url).toMatch(/^\/api\/manga\/panels\/.+\/raw$/);
+  });
+
+  it("POST /api/manga/panels with non-multipart body → 400", async () => {
+    const r = await SELF.fetch(`${BASE}/api/manga/panels`, {
+      method: "POST",
+      body: JSON.stringify({ device_id: "dev-1" }),
+      headers: { "Content-Type": "application/json" },
+    });
+    expect(r.status).toBe(400);
+    expect(String((await r.json() as any).detail).toLowerCase()).toContain("multipart");
+  });
+
+  it("POST /api/manga/panels with non-image bytes → 400", async () => {
+    const fd = new FormData();
+    fd.append("device_id", "dev-1");
+    fd.append("panel", new File([new TextEncoder().encode("not an image")], "bad.png", { type: "image/png" }));
+    const r = await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: fd });
+    expect(r.status).toBe(400);
+    expect(String((await r.json() as any).detail).toLowerCase()).toContain("image");
+  });
+
+  it("POST /api/manga/panels without device_id → 400", async () => {
+    const fd = new FormData();
+    fd.append("panel", new File([PNG], "panel.png", { type: "image/png" }));
+    const r = await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: fd });
+    expect(r.status).toBe(400);
+    expect(String((await r.json() as any).detail)).toMatch(/device_id/);
+  });
+
+  it("GET /api/manga/panels lists device panels with url field", async () => {
+    await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") });
+    await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") });
+    await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-2") });
+    const r = await SELF.fetch(`${BASE}/api/manga/panels?device=dev-1`);
+    expect(r.status).toBe(200);
+    const body = await r.json() as any;
+    expect(body.panels).toHaveLength(2);
+    for (const p of body.panels) {
+      expect(p.url).toMatch(/^\/api\/manga\/panels\/.+\/raw$/);
+    }
+  });
+
+  it("GET /api/manga/panels/{id}/raw serves image bytes", async () => {
+    const up = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const r = await SELF.fetch(`${BASE}${up.url}`);
+    expect(r.status).toBe(200);
+    expect(r.headers.get("content-type")).toMatch(/^image\//);
+    expect(new Uint8Array(await r.arrayBuffer()).length).toBe(PNG.length);
+  });
+
+  it("GET /api/manga/panels/{id}/raw for unknown id → 404", async () => {
+    const r = await SELF.fetch(`${BASE}/api/manga/panels/doesnotexist/raw`);
+    expect(r.status).toBe(404);
+  });
+});
+
+describe("manga tag route", () => {
+  beforeEach(async () => {
+    await env.DB.prepare("DELETE FROM manga_panels").run();
+    await env.DB.prepare("DELETE FROM taste_signals").run();
+  });
+
+  it("POST /api/manga/panels/{id}/tag with valid aspects → 200 + taste_signals row", async () => {
+    const { id } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const r = await SELF.fetch(`${BASE}/api/manga/panels/${id}/tag`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ device_id: "dev-1", aspects: ["linework", "inking"], note: "great" }),
+    });
+    expect(r.status).toBe(200);
+    expect((await r.json() as any).ok).toBe(true);
+    const row = await env.DB.prepare("SELECT id FROM taste_signals WHERE device_id = ? AND domain = 'manga'").bind("dev-1").first();
+    expect(row).not.toBeNull();
+  });
+
+  it("POST tag with empty/invalid aspects and no note → 400", async () => {
+    const { id } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const r = await SELF.fetch(`${BASE}/api/manga/panels/${id}/tag`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ device_id: "dev-1", aspects: ["notvalid"], note: "" }),
+    });
+    expect(r.status).toBe(400);
+  });
+
+  it("POST tag without device_id → 400", async () => {
+    const { id } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const r = await SELF.fetch(`${BASE}/api/manga/panels/${id}/tag`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ aspects: ["linework"] }),
+    });
+    expect(r.status).toBe(400);
+    expect(String((await r.json() as any).detail)).toMatch(/device_id/);
+  });
+});
+
+describe("taste routes", () => {
+  beforeEach(async () => {
+    await env.DB.prepare("DELETE FROM taste_profiles").run();
+  });
+
+  it("GET /api/taste/{domain} for unknown device → {data: null}", async () => {
+    const r = await SELF.fetch(`${BASE}/api/taste/manga?device=nobody`);
+    expect(r.status).toBe(200);
+    expect((await r.json() as any).data).toBeNull();
+  });
+
+  it("PUT /api/taste/{domain} then GET round-trips the data", async () => {
+    const data = { favoriteAspects: ["linework"], threshold: 0.7 };
+    const put = await SELF.fetch(`${BASE}/api/taste/manga`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ device_id: "dev-1", data }),
+    });
+    expect(put.status).toBe(200);
+    expect((await put.json() as any).ok).toBe(true);
+    const get = await SELF.fetch(`${BASE}/api/taste/manga?device=dev-1`);
+    expect(get.status).toBe(200);
+    expect((await get.json() as any).data).toEqual(data);
+  });
+
+  it("PUT /api/taste/{domain} without device_id → 400", async () => {
+    const r = await SELF.fetch(`${BASE}/api/taste/manga`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ data: {} }),
+    });
+    expect(r.status).toBe(400);
+    expect(String((await r.json() as any).detail)).toMatch(/device_id/);
   });
 });

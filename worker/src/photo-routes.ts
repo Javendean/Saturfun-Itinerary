@@ -11,9 +11,11 @@ import { PhotoError, type PhotoMeta } from "./photo-store";
 import * as reactions from "./reaction-store";
 import * as comments from "./comment-store";
 import * as activity from "./activity-store";
+import * as manga from "./manga-store";
 
 const IMMUTABLE = "public, max-age=31536000, immutable"; // ids are content-stable
 const AVATAR_MAX_BYTES = 2 * 1024 * 1024;
+const PANEL_MAX_BYTES = 8 * 1024 * 1024;
 
 function publicPhoto(p: PhotoMeta & { reactions?: import("./reaction-store").Reaction[] }) {
   // stored_name is the R2 key — it is NEVER exposed to clients.
@@ -142,6 +144,70 @@ export async function handlePhotoRoute(
       if (method === "POST") return await uploadPhotos(request, env, origin);
       return detail(405, "method not allowed", env, origin, { Allow: "GET, POST, OPTIONS" });
     }
+
+    // Manga panels — /api/manga/panels[/{id}/raw|tag] and taste — /api/taste/{domain}
+    if (path === "/api/manga/panels") {
+      if (method === "GET") {
+        const device = url.searchParams.get("device") || "";
+        const panels = (await manga.listPanels(env, device)).map((p) => ({ ...p, url: `/api/manga/panels/${p.id}/raw` }));
+        return jsonOk({ panels }, env, origin);
+      }
+      if (method === "POST") {
+        const cl = parseInt(request.headers.get("content-length") ?? "", 10);
+        if (Number.isFinite(cl) && cl > PANEL_MAX_BYTES + 1024) return detail(413, "panel too large", env, origin);
+        let form: FormData;
+        try { form = await request.formData(); } catch { return detail(400, "expected multipart/form-data", env, origin); }
+        const device = String(form.get("device_id") || "").trim();
+        const file = form.get("panel");
+        if (!device) return detail(400, "device_id required", env, origin);
+        if (!(file instanceof File)) return detail(400, "panel file required", env, origin);
+        if (file.size > PANEL_MAX_BYTES) return detail(413, "panel too large", env, origin);
+        const ip = request.headers.get("cf-connecting-ip") || "anon";
+        const rl = await checkRateLimit(env.RATE_LIMIT, ip, Number(env.PHOTO_RATE_LIMIT_MAX) || 60, 60, "rlm");
+        if (!rl.allowed) return detail(429, "slow down", env, origin, { "Retry-After": String(rl.resetSeconds) });
+        const bytes = new Uint8Array(await file.arrayBuffer());
+        try {
+          const { id } = await manga.savePanel(env, device, bytes);
+          return jsonOk({ id, url: `/api/manga/panels/${id}/raw` }, env, origin);
+        } catch { return detail(400, "not an image", env, origin); }
+      }
+      return detail(405, "method not allowed", env, origin, { Allow: "GET, POST, OPTIONS" });
+    }
+    { const mm = path.match(/^\/api\/manga\/panels\/([^/]+)(?:\/(raw|tag))?$/);
+      if (mm) {
+        const id = mm[1], action = mm[2];
+        if (action === "raw") {
+          if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
+          const got = await manga.getPanelBytes(env, id);
+          if (!got) return detail(404, "not found", env, origin);
+          return new Response(got.body, { headers: { "Content-Type": got.contentType, "Cache-Control": "public, max-age=31536000, immutable", ...corsHeaders(env, origin) } });
+        }
+        if (action === "tag") {
+          if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
+          let body: Record<string, unknown>; try { body = await request.json(); } catch { body = {}; }
+          const device = typeof body.device_id === "string" ? body.device_id.trim() : "";
+          const aspects = manga.isValidAspects(body.aspects);
+          const note = typeof body.note === "string" ? body.note.trim().slice(0, 500) : "";
+          if (!device) return detail(400, "device_id required", env, origin);
+          if (!aspects.length && !note) return detail(400, "aspects or note required", env, origin);
+          await manga.tagPanel(env, device, id, aspects, note);
+          return jsonOk({ ok: true }, env, origin);
+        }
+        return detail(404, "not found", env, origin);
+      } }
+    { const tm = path.match(/^\/api\/taste\/([a-z]+)$/);
+      if (tm) {
+        const domain = tm[1];
+        if (method === "GET") { const device = url.searchParams.get("device") || ""; return jsonOk({ data: await manga.getTaste(env, device, domain) }, env, origin); }
+        if (method === "PUT") {
+          let body: Record<string, unknown>; try { body = await request.json(); } catch { body = {}; }
+          const device = typeof body.device_id === "string" ? body.device_id.trim() : "";
+          if (!device) return detail(400, "device_id required", env, origin);
+          await manga.setTaste(env, device, domain, body.data ?? {});
+          return jsonOk({ ok: true }, env, origin);
+        }
+        return detail(405, "method not allowed", env, origin, { Allow: "GET, PUT, OPTIONS" });
+      } }
 
     // Item — /api/photos/{id}[/raw|/thumb|/download|/react|/comments[/{cid}]]
     const m = path.match(ITEM_RE);
