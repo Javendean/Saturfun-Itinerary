@@ -17,6 +17,8 @@ const PNG = Uint8Array.from(
   (c) => c.charCodeAt(0),
 );
 
+const MANGA_MAX_FILES = 20;
+
 // ---------------------------------------------------------------------------
 // isValidAspects
 // ---------------------------------------------------------------------------
@@ -203,10 +205,13 @@ describe("getTaste / setTaste", () => {
 
 const BASE = "https://wall.test";
 
-function panelForm(bytes: Uint8Array, deviceId: string): FormData {
+function panelForm(bytes: Uint8Array | Uint8Array[], deviceId: string): FormData {
   const fd = new FormData();
   fd.append("device_id", deviceId);
-  fd.append("panel", new File([bytes], "panel.png", { type: "image/png" }));
+  const arr = bytes instanceof Uint8Array ? [bytes] : bytes;
+  for (const b of arr) {
+    fd.append("panel", new File([b], "panel.png", { type: "image/png" }));
+  }
   return fd;
 }
 
@@ -215,15 +220,17 @@ describe("manga panel upload routes", () => {
     await env.DB.prepare("DELETE FROM manga_panels").run();
   });
 
-  it("POST /api/manga/panels uploads and returns id + url", async () => {
+  it("POST /api/manga/panels uploads one file and returns panels array with id + url", async () => {
     const r = await SELF.fetch(`${BASE}/api/manga/panels`, {
       method: "POST",
       body: panelForm(PNG, "dev-1"),
     });
     expect(r.status).toBe(200);
     const body = await r.json() as any;
-    expect(typeof body.id).toBe("string");
-    expect(body.url).toMatch(/^\/api\/manga\/panels\/.+\/raw$/);
+    expect(body.panels).toHaveLength(1);
+    expect(typeof body.panels[0].id).toBe("string");
+    expect(body.panels[0].url).toMatch(/^\/api\/manga\/panels\/.+\/raw$/);
+    expect(body.errors).toHaveLength(0);
   });
 
   it("POST /api/manga/panels with non-multipart body → 400", async () => {
@@ -236,13 +243,16 @@ describe("manga panel upload routes", () => {
     expect(String((await r.json() as any).detail).toLowerCase()).toContain("multipart");
   });
 
-  it("POST /api/manga/panels with non-image bytes → 400", async () => {
+  it("POST /api/manga/panels with non-image bytes → 200 with errors entry", async () => {
     const fd = new FormData();
     fd.append("device_id", "dev-1");
     fd.append("panel", new File([new TextEncoder().encode("not an image")], "bad.png", { type: "image/png" }));
     const r = await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: fd });
-    expect(r.status).toBe(400);
-    expect(String((await r.json() as any).detail).toLowerCase()).toContain("image");
+    expect(r.status).toBe(200);
+    const body = await r.json() as any;
+    expect(body.panels).toHaveLength(0);
+    expect(body.errors).toHaveLength(1);
+    expect(body.errors[0].error.toLowerCase()).toContain("image");
   });
 
   it("POST /api/manga/panels without device_id → 400", async () => {
@@ -251,6 +261,53 @@ describe("manga panel upload routes", () => {
     const r = await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: fd });
     expect(r.status).toBe(400);
     expect(String((await r.json() as any).detail)).toMatch(/device_id/);
+  });
+
+  it("POST /api/manga/panels with 2 valid files → panels.length===2, errors empty", async () => {
+    const r = await SELF.fetch(`${BASE}/api/manga/panels`, {
+      method: "POST",
+      body: panelForm([PNG, PNG], "dev-1"),
+    });
+    expect(r.status).toBe(200);
+    const body = await r.json() as any;
+    expect(body.panels).toHaveLength(2);
+    for (const p of body.panels) {
+      expect(typeof p.id).toBe("string");
+      expect(p.url).toMatch(/^\/api\/manga\/panels\/.+\/raw$/);
+    }
+    expect(body.errors).toHaveLength(0);
+  });
+
+  it("POST /api/manga/panels partial batch: 1 valid + 1 bad → panels.length===1, errors.length===1", async () => {
+    const fd = new FormData();
+    fd.append("device_id", "dev-1");
+    fd.append("panel", new File([PNG], "good.png", { type: "image/png" }));
+    fd.append("panel", new File([new TextEncoder().encode("not an image")], "bad.png", { type: "image/png" }));
+    const r = await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: fd });
+    expect(r.status).toBe(200);
+    const body = await r.json() as any;
+    expect(body.panels).toHaveLength(1);
+    expect(body.errors).toHaveLength(1);
+    expect(body.errors[0].filename).toBe("bad.png");
+    expect(body.errors[0].error.toLowerCase()).toContain("image");
+  });
+
+  it("POST /api/manga/panels with zero panel files → 400", async () => {
+    const fd = new FormData();
+    fd.append("device_id", "dev-1");
+    const r = await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: fd });
+    expect(r.status).toBe(400);
+    expect(String((await r.json() as any).detail).toLowerCase()).toMatch(/panel/);
+  });
+
+  it(`POST /api/manga/panels with more than ${MANGA_MAX_FILES} files → 400`, async () => {
+    const tooMany = Array.from({ length: MANGA_MAX_FILES + 1 }, () => PNG);
+    const r = await SELF.fetch(`${BASE}/api/manga/panels`, {
+      method: "POST",
+      body: panelForm(tooMany, "dev-1"),
+    });
+    expect(r.status).toBe(400);
+    expect(String((await r.json() as any).detail).toLowerCase()).toContain("too many");
   });
 
   it("GET /api/manga/panels lists device panels with url field", async () => {
@@ -268,7 +325,7 @@ describe("manga panel upload routes", () => {
 
   it("GET /api/manga/panels/{id}/raw serves image bytes", async () => {
     const up = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
-    const r = await SELF.fetch(`${BASE}${up.url}`);
+    const r = await SELF.fetch(`${BASE}${up.panels[0].url}`);
     expect(r.status).toBe(200);
     expect(r.headers.get("content-type")).toMatch(/^image\//);
     expect(new Uint8Array(await r.arrayBuffer()).length).toBe(PNG.length);
@@ -287,7 +344,8 @@ describe("manga tag route", () => {
   });
 
   it("POST /api/manga/panels/{id}/tag with valid aspects → 200 + taste_signals row", async () => {
-    const { id } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const { panels } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const id = panels[0].id;
     const r = await SELF.fetch(`${BASE}/api/manga/panels/${id}/tag`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -300,7 +358,8 @@ describe("manga tag route", () => {
   });
 
   it("POST tag with empty/invalid aspects and no note → 400", async () => {
-    const { id } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const { panels } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const id = panels[0].id;
     const r = await SELF.fetch(`${BASE}/api/manga/panels/${id}/tag`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -310,7 +369,8 @@ describe("manga tag route", () => {
   });
 
   it("POST tag without device_id → 400", async () => {
-    const { id } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const { panels } = await (await SELF.fetch(`${BASE}/api/manga/panels`, { method: "POST", body: panelForm(PNG, "dev-1") })).json() as any;
+    const id = panels[0].id;
     const r = await SELF.fetch(`${BASE}/api/manga/panels/${id}/tag`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },

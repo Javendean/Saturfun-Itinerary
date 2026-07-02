@@ -19,6 +19,8 @@ import { sendToAll } from "./web-push";
 const IMMUTABLE = "public, max-age=31536000, immutable"; // ids are content-stable
 const AVATAR_MAX_BYTES = 2 * 1024 * 1024;
 const PANEL_MAX_BYTES = 8 * 1024 * 1024;
+const MANGA_MAX_FILES = 20;
+const MANGA_MAX_REQUEST_BYTES = 60 * 1024 * 1024;
 
 function publicPhoto(p: PhotoMeta & { reactions?: import("./reaction-store").Reaction[] }) {
   // stored_name is the R2 key — it is NEVER exposed to clients.
@@ -253,22 +255,27 @@ export async function handlePhotoRoute(
       }
       if (method === "POST") {
         const cl = parseInt(request.headers.get("content-length") ?? "", 10);
-        if (Number.isFinite(cl) && cl > PANEL_MAX_BYTES + 1024) return detail(413, "panel too large", env, origin);
+        if (Number.isFinite(cl) && cl > MANGA_MAX_REQUEST_BYTES + 1024) return detail(413, "request too large", env, origin);
         let form: FormData;
         try { form = await request.formData(); } catch { return detail(400, "expected multipart/form-data", env, origin); }
         const device = String(form.get("device_id") || "").trim();
-        const file = form.get("panel");
         if (!device) return detail(400, "device_id required", env, origin);
-        if (!(file instanceof File)) return detail(400, "panel file required", env, origin);
-        if (file.size > PANEL_MAX_BYTES) return detail(413, "panel too large", env, origin);
+        const files = form.getAll("panel").filter((f): f is File => f instanceof File);
+        if (files.length === 0) return detail(400, "panel file(s) required", env, origin);
+        if (files.length > MANGA_MAX_FILES) return detail(400, `too many files (max ${MANGA_MAX_FILES})`, env, origin);
         const ip = request.headers.get("cf-connecting-ip") || "anon";
         const rl = await checkRateLimit(env.RATE_LIMIT, ip, Number(env.PHOTO_RATE_LIMIT_MAX) || 60, 60, "rlm");
         if (!rl.allowed) return detail(429, "slow down", env, origin, { "Retry-After": String(rl.resetSeconds) });
-        const bytes = new Uint8Array(await file.arrayBuffer());
-        try {
-          const { id } = await manga.savePanel(env, device, bytes);
-          return jsonOk({ id, url: `/api/manga/panels/${id}/raw` }, env, origin);
-        } catch { return detail(400, "not an image", env, origin); }
+        const panels: { id: string; url: string }[] = [];
+        const errors: { filename: string; error: string }[] = [];
+        for (const file of files) {
+          if (file.size > PANEL_MAX_BYTES) { errors.push({ filename: file.name, error: "too large" }); continue; }
+          try {
+            const { id } = await manga.savePanel(env, device, new Uint8Array(await file.arrayBuffer()));
+            panels.push({ id, url: `/api/manga/panels/${id}/raw` });
+          } catch { errors.push({ filename: file.name, error: "not an image" }); }
+        }
+        return jsonOk({ panels, errors }, env, origin);
       }
       return detail(405, "method not allowed", env, origin, { Allow: "GET, POST, OPTIONS" });
     }
