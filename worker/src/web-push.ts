@@ -26,7 +26,9 @@ function jsonB64url(o: unknown): string {
 
 // Sign a VAPID JWT (ES256) with the private key JWK stored in the VAPID_PRIVATE_KEY secret.
 export async function vapidAuthHeader(audience: string, env: Env): Promise<string> {
-  const jwk = JSON.parse((env as unknown as Record<string, string>).VAPID_PRIVATE_KEY); // {kty:"EC",crv:"P-256",x,y,d}
+  const raw = (env as unknown as Record<string, string>).VAPID_PRIVATE_KEY;
+  if (!raw) throw new Error("VAPID_PRIVATE_KEY not configured");
+  const jwk = JSON.parse(raw); // {kty:"EC",crv:"P-256",x,y,d}
   const key = await crypto.subtle.importKey("jwk", jwk, { name: "ECDSA", namedCurve: "P-256" }, false, ["sign"]);
   const header = jsonB64url({ typ: "JWT", alg: "ES256" });
   const payload = jsonB64url({
@@ -73,8 +75,7 @@ export async function sendToAll(env: Env): Promise<{ sent: number; pruned: numbe
       status = 0;
     }
     if (status === 404 || status === 410) {
-      await deleteSubscription(env, sub.endpoint);
-      pruned++;
+      try { await deleteSubscription(env, sub.endpoint); pruned++; } catch { /* skip; don't abort the loop */ }
     } else if (status >= 200 && status < 300) {
       sent++;
     }
