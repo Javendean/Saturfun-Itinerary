@@ -42,4 +42,9 @@ export interface Env {
   PHOTO_MAX_REQUEST_MB: string; // request body cap before buffering (default 50)
   PHOTO_RATE_LIMIT_MAX: string; // upload-only per-IP rate limit (default 60)
   PHOTO_OWNER_TOKEN?: string; // secret; gates DELETE (fails closed when unset)
+
+  // ---- Web Push (VAPID) ----
+  VAPID_PUBLIC_KEY?: string;   // base64url uncompressed P-256 public key (65 bytes)
+  VAPID_PRIVATE_KEY?: string;  // JSON string — {kty:"EC",crv:"P-256",x,y,d}
+  VAPID_SUBJECT?: string;      // mailto: or https: contact URI for VAPID JWT sub
 }

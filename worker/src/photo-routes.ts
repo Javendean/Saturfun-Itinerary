@@ -12,6 +12,8 @@ import * as reactions from "./reaction-store";
 import * as comments from "./comment-store";
 import * as activity from "./activity-store";
 import * as manga from "./manga-store";
+import * as push from "./push-store";
+import { sendToAll } from "./web-push";
 
 const IMMUTABLE = "public, max-age=31536000, immutable"; // ids are content-stable
 const AVATAR_MAX_BYTES = 2 * 1024 * 1024;
@@ -143,6 +145,43 @@ export async function handlePhotoRoute(
       }
       if (method === "POST") return await uploadPhotos(request, env, origin);
       return detail(405, "method not allowed", env, origin, { Allow: "GET, POST, OPTIONS" });
+    }
+
+    // Web Push — /api/push/*
+    if (path === "/api/push/key") {
+      if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
+      return jsonOk({ key: (env as unknown as Record<string, string>).VAPID_PUBLIC_KEY || "" }, env, origin);
+    }
+    if (path === "/api/push/digest") {
+      if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
+      return jsonOk({ title: "Saturfun", body: "Open Saturfun to see what's new.", url: "plan.html" }, env, origin);
+    }
+    if (path === "/api/push/subscribe") {
+      if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
+      let body: unknown; try { body = await request.json(); } catch { body = {}; }
+      const b = body as Record<string, unknown>;
+      const device = typeof b.device_id === "string" ? b.device_id.trim() : "";
+      const s = b.subscription as Record<string, unknown> | undefined;
+      if (!device || !s || typeof s.endpoint !== "string" || !s.keys || typeof (s.keys as Record<string, unknown>).p256dh !== "string" || typeof (s.keys as Record<string, unknown>).auth !== "string") {
+        return detail(400, "bad subscription", env, origin);
+      }
+      const keys = s.keys as { p256dh: string; auth: string };
+      await push.saveSubscription(env, device, { endpoint: s.endpoint as string, p256dh: keys.p256dh, auth: keys.auth });
+      return jsonOk({ ok: true }, env, origin);
+    }
+    if (path === "/api/push/unsubscribe") {
+      if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
+      let body: unknown; try { body = await request.json(); } catch { body = {}; }
+      const b = body as Record<string, unknown>;
+      const endpoint = typeof b.endpoint === "string" ? b.endpoint : "";
+      if (!endpoint) return detail(400, "endpoint required", env, origin);
+      await push.deleteSubscription(env, endpoint);
+      return jsonOk({ ok: true }, env, origin);
+    }
+    if (path === "/api/push/test") {
+      if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
+      if (!isOwner(request, env)) return detail(403, "owner only", env, origin);
+      return jsonOk(await sendToAll(env), env, origin);
     }
 
     // Manga panels — /api/manga/panels[/{id}/raw|tag] and taste — /api/taste/{domain}

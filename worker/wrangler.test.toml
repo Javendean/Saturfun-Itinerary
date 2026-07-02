@@ -24,6 +24,10 @@ PHOTO_MAX_REQUEST_MB = "50"
 PHOTO_RATE_LIMIT_MAX = "60"
 # Known owner token for tests (prod uses a real `wrangler secret put PHOTO_OWNER_TOKEN`).
 PHOTO_OWNER_TOKEN = "test-owner-secret"
+# VAPID test keys — generated with Node.js crypto.subtle P-256; NEVER use in production.
+VAPID_PUBLIC_KEY = "BDwbIMDqLo02dNrKx4RskLLvaFHgl7a4fru3NRF7apbkj_UCGo9OLMmsuuk4IJ9-3N5b-6pfbUIC0hRL88FsWnE"
+VAPID_PRIVATE_KEY = '{"kty":"EC","crv":"P-256","x":"PBsgwOoujTZ02srHhGyQsu9oUeCXtrh-u7c1EXtqluQ","y":"j_UCGo9OLMmsuuk4IJ9-3N5b-6pfbUIC0hRL88FsWnE","d":"QwBj6nK8_c3-LVHakra030XbbAyBGXEtt6ob2scx46I"}'
+VAPID_SUBJECT = "mailto:test@saturfun.test"
 
 [[r2_buckets]]
 binding = "PHOTOS_BUCKET"
