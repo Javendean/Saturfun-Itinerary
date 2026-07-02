@@ -180,7 +180,7 @@ export async function handlePhotoRoute(
           if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
           const got = await manga.getPanelBytes(env, id);
           if (!got) return detail(404, "not found", env, origin);
-          return new Response(got.body, { headers: { "Content-Type": got.contentType, "Cache-Control": "public, max-age=31536000, immutable", ...corsHeaders(env, origin) } });
+          return new Response(got.body, { headers: { "Content-Type": got.contentType, "Cache-Control": "public, max-age=31536000, immutable", "X-Content-Type-Options": "nosniff", ...corsHeaders(env, origin) } });
         }
         if (action === "tag") {
           if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
