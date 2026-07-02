@@ -165,6 +165,132 @@
     border-top: 1px solid rgba(255,255,255,.06);
     padding-top: .9rem;
   }
+
+  /* ── Proposals review ─────────────────────────────────────────────── */
+  #proposals-section {
+    max-width: 520px;
+    width: 100%;
+    margin-top: 2.8rem;
+  }
+  .vault-section-eyebrow {
+    font-size: .72rem;
+    text-transform: uppercase;
+    letter-spacing: .4em;
+    color: var(--gold);
+    font-weight: 600;
+    margin: 0 0 1rem;
+  }
+  .proposal-card {
+    background: var(--card, rgba(255,255,255,.05));
+    border: 1px solid rgba(212,175,55,.18);
+    border-radius: 16px;
+    padding: 1.4rem 1.6rem 1.2rem;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  .proposal-neighborhood {
+    font-size: .72rem;
+    text-transform: uppercase;
+    letter-spacing: .4em;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: .45rem;
+  }
+  .proposal-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--paper);
+    margin: 0 0 .45rem;
+    line-height: 1.25;
+  }
+  .proposal-pitch {
+    font-size: .88rem;
+    color: rgba(242,239,233,.65);
+    margin: 0 0 .45rem;
+    line-height: 1.5;
+  }
+  .proposal-fits {
+    font-size: .8rem;
+    color: rgba(242,239,233,.45);
+    margin: 0 0 .75rem;
+    line-height: 1.4;
+    font-style: italic;
+  }
+  .badge-verify {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: .75rem;
+    padding: .22rem .65rem;
+    border-radius: 999px;
+    border: 1px solid rgba(212,175,55,.4);
+    background: rgba(212,175,55,.1);
+    color: var(--gold);
+    font-size: .68rem;
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  .proposal-note {
+    width: 100%;
+    background: rgba(255,255,255,.04);
+    border: 1px solid rgba(255,255,255,.1);
+    border-radius: 8px;
+    color: var(--paper);
+    font-family: 'Inter', sans-serif;
+    font-size: .85rem;
+    padding: .5rem .75rem;
+    margin-bottom: .85rem;
+    outline: none;
+  }
+  .proposal-note:focus { border-color: rgba(212,175,55,.4); }
+  .proposal-note::placeholder { color: rgba(242,239,233,.3); }
+  .proposal-actions { display: flex; gap: .6rem; flex-wrap: wrap; }
+  .btn-approve,
+  .btn-reject {
+    display: inline-flex;
+    align-items: center;
+    padding: .55rem 1.2rem;
+    border-radius: 999px;
+    font-family: 'Inter', sans-serif;
+    font-size: .85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity .15s, transform .1s;
+    letter-spacing: .02em;
+  }
+  .btn-approve:active,
+  .btn-reject:active { transform: scale(.97); }
+  .btn-approve:disabled,
+  .btn-reject:disabled { opacity: .45; cursor: not-allowed; }
+  .btn-approve {
+    background: var(--gold, #d4af37);
+    color: var(--ink, #0E0E10);
+    border: none;
+  }
+  .btn-reject {
+    background: transparent;
+    border: 1px solid rgba(242,239,233,.25);
+    color: rgba(242,239,233,.65);
+  }
+  /* Toast */
+  .plan-toast {
+    position: fixed;
+    bottom: calc(var(--tab-bar-h, 64px) + 1rem);
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(20,20,22,.97);
+    border: 1px solid rgba(212,175,55,.25);
+    color: var(--paper);
+    font-size: .88rem;
+    font-family: 'Inter', sans-serif;
+    padding: .6rem 1.3rem;
+    border-radius: 999px;
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 1;
+    transition: opacity .4s;
+  }
+  .plan-toast.fade { opacity: 0; }
 </style>
 </head>
 <body class="has-tabbar">
@@ -174,6 +300,8 @@
   <h1>✨ <em>Plan</em></h1>
   <p class="plan-desc">Your itinerary planner is on its way — it'll suggest new stops and let you shape them.</p>
   <span class="plan-badge">In the works</span>
+
+  <div id="proposals-section"></div>
 
   <div class="notif-card">
     <h2>Stay in the loop</h2>
@@ -305,6 +433,119 @@
     }
   }
 
+  // ── Proposal review ────────────────────────────────────────────────────
+  function esc(str) {
+    return String(str)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
+  let pendingCount = 0;
+
+  function showToast(msg) {
+    const t = document.createElement("div");
+    t.className = "plan-toast";
+    t.textContent = msg;
+    document.body.appendChild(t);
+    setTimeout(() => {
+      t.classList.add("fade");
+      setTimeout(() => t.remove(), 450);
+    }, 2000);
+  }
+
+  function buildProposalCard(proposal) {
+    const card = document.createElement("div");
+    card.className = "proposal-card";
+    card.dataset.id = proposal.id;
+
+    let html = "";
+    if (proposal.neighborhood) {
+      html += `<div class="proposal-neighborhood">${esc(proposal.neighborhood)}</div>`;
+    }
+    html += `<div class="proposal-title serif">${esc(proposal.title)}</div>`;
+    if (proposal.pitch) {
+      html += `<p class="proposal-pitch">${esc(proposal.pitch)}</p>`;
+    }
+    if (proposal.fits_where) {
+      html += `<p class="proposal-fits">Why it fits: ${esc(proposal.fits_where)}</p>`;
+    }
+    if (proposal.needs_verifying) {
+      html += `<span class="badge-verify">Needs verifying</span><br>`;
+    }
+    html += `<input type="text" class="proposal-note" placeholder="Optional note…" aria-label="Optional note">`;
+    html += `<div class="proposal-actions">`;
+    html += `  <button class="btn-approve" data-verdict="approve">Approve</button>`;
+    html += `  <button class="btn-reject" data-verdict="reject">Reject</button>`;
+    html += `</div>`;
+
+    card.innerHTML = html;
+
+    card.querySelectorAll("[data-verdict]").forEach(btn => {
+      btn.addEventListener("click", async () => {
+        const verdict = btn.dataset.verdict;
+        const note = card.querySelector(".proposal-note").value.trim();
+        card.querySelectorAll("button").forEach(b => { b.disabled = true; });
+        try {
+          const res = await fetch(`${API}/api/planner/proposals/${proposal.id}/feedback`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ device_id: deviceId(), verdict, note }),
+          });
+          if (!res.ok) throw new Error("Server error");
+          card.remove();
+          pendingCount--;
+          showToast(verdict === "approve" ? "Approved ✓" : "Rejected");
+          if (pendingCount <= 0) {
+            pendingCount = 0;
+            const sec = document.getElementById("proposals-section");
+            if (sec) sec.innerHTML = "";
+            if (typeof window.saturfunSetPlanBadge === "function") {
+              window.saturfunSetPlanBadge(false);
+            }
+          }
+        } catch (_err) {
+          card.querySelectorAll("button").forEach(b => { b.disabled = false; });
+          showToast("Error — try again.");
+        }
+      });
+    });
+
+    return card;
+  }
+
+  async function loadProposals() {
+    try {
+      const res = await fetch(`${API}/api/planner/proposals?status=pending`);
+      if (!res.ok) return;
+      const data = await res.json();
+      const proposals = Array.isArray(data.proposals) ? data.proposals : [];
+      pendingCount = proposals.length;
+      if (pendingCount === 0) return;
+
+      const sec = document.getElementById("proposals-section");
+      if (!sec) return;
+
+      const wrapper = document.createElement("div");
+      wrapper.className = "vault-section";
+      const heading = document.createElement("p");
+      heading.className = "vault-section-eyebrow";
+      heading.textContent = "New ideas";
+      wrapper.appendChild(heading);
+      proposals.forEach(p => wrapper.appendChild(buildProposalCard(p)));
+      sec.appendChild(wrapper);
+
+      if (typeof window.saturfunSetPlanBadge === "function") {
+        window.saturfunSetPlanBadge(true);
+      }
+    } catch (_) {
+      // silently fail — proposals are a bonus feature
+    }
+  }
+
+  loadProposals();
   init();
 })();
 </script>
