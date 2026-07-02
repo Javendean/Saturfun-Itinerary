@@ -1537,6 +1537,21 @@
         #smooth-content {
             padding-bottom: var(--tab-bar-h, 62px);
         }
+
+        /* ============================================================
+           DARK-THEME OVERRIDES for Tailwind CDN utility classes.
+           Tailwind (cdn.tailwindcss.com) injects its styles AFTER this
+           block, so !important is required to win the cascade. Only the
+           light-on-light utilities used in the markup are remapped; the
+           already-dark-safe ones (stone-400/300, orange-*, stone-950)
+           are intentionally left as-is.
+           ============================================================ */
+        .bg-white { background-color: var(--bg-color) !important; }
+        .text-stone-900,
+        .text-stone-800,
+        .text-stone-700 { color: var(--text-main) !important; }
+        .text-stone-600,
+        .text-stone-500 { color: var(--text-muted) !important; }
     </style>
 <link rel="manifest" href="saturfun.webmanifest">
 <meta name="theme-color" content="#0E0E10">
