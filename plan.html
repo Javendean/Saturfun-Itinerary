@@ -73,7 +73,7 @@
     font-weight: 400;
     color: var(--gold);
   }
-  .plan-hero p {
+  .plan-hero > p.plan-desc {
     font-size: clamp(.95rem, 1.6vw, 1.15rem);
     color: rgba(242,239,233,.65);
     max-width: 520px;
@@ -96,6 +96,75 @@
     letter-spacing: .06em;
     text-transform: uppercase;
   }
+
+  /* Notifications card */
+  .notif-card {
+    margin-top: 2.8rem;
+    max-width: 420px;
+    width: 100%;
+    background: var(--card, rgba(255,255,255,.05));
+    border: 1px solid rgba(212,175,55,.18);
+    border-radius: 16px;
+    padding: 1.6rem 1.8rem;
+    text-align: left;
+  }
+  .notif-card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin: 0 0 .5rem;
+    color: var(--paper);
+  }
+  .notif-card .notif-sub {
+    font-size: .85rem;
+    color: rgba(242,239,233,.55);
+    margin: 0 0 1.2rem;
+    line-height: 1.5;
+  }
+  .notif-status {
+    font-size: .88rem;
+    min-height: 1.4em;
+    margin-bottom: .9rem;
+    color: rgba(242,239,233,.7);
+  }
+  .notif-status.on  { color: #4ade80; }
+  .notif-status.off { color: rgba(242,239,233,.55); }
+  .notif-status.blocked { color: var(--blood, #c0392b); }
+
+  .btn-notif {
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .65rem 1.4rem;
+    border-radius: 999px;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    font-size: .88rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity .15s, transform .1s;
+    letter-spacing: .02em;
+  }
+  .btn-notif:active { transform: scale(.97); }
+  .btn-notif.enable {
+    background: var(--gold, #d4af37);
+    color: var(--ink, #0E0E10);
+  }
+  .btn-notif.disable {
+    background: transparent;
+    border: 1px solid rgba(242,239,233,.25);
+    color: rgba(242,239,233,.65);
+  }
+  .btn-notif:disabled { opacity: .45; cursor: not-allowed; }
+
+  .notif-iphone-note {
+    margin-top: 1.1rem;
+    font-size: .75rem;
+    color: rgba(242,239,233,.4);
+    line-height: 1.55;
+    border-top: 1px solid rgba(255,255,255,.06);
+    padding-top: .9rem;
+  }
 </style>
 </head>
 <body class="has-tabbar">
@@ -103,10 +172,141 @@
 <main class="plan-hero">
   <p class="plan-eyebrow">Coming soon</p>
   <h1>✨ <em>Plan</em></h1>
-  <p>Your itinerary planner is coming — it'll suggest new stops and let you shape them.</p>
+  <p class="plan-desc">Your itinerary planner is on its way — it'll suggest new stops and let you shape them.</p>
   <span class="plan-badge">In the works</span>
+
+  <div class="notif-card">
+    <h2>Stay in the loop</h2>
+    <p class="notif-sub">Get a nudge when new stop ideas drop for your next Saturday.</p>
+    <div class="notif-status off" id="notif-status">Checking…</div>
+    <div id="notif-actions"></div>
+    <p class="notif-iphone-note">On iPhone: add Saturfun to your Home Screen first (Share &rarr; Add to Home Screen), then enable.</p>
+  </div>
 </main>
 
 <script src="app-shell.js" defer></script>
+<script>
+(function () {
+  const API = location.hostname === "127.0.0.1" || location.hostname === "localhost"
+    ? "http://127.0.0.1:8787"
+    : "https://saturfun-worker.javendean.workers.dev";
+
+  function deviceId() {
+    let id = localStorage.getItem("saturfun_device_id");
+    if (!id) { id = crypto.randomUUID(); localStorage.setItem("saturfun_device_id", id); }
+    return id;
+  }
+
+  function urlB64ToUint8Array(base64String) {
+    const padding = "=".repeat((4 - (base64String.length % 4)) % 4);
+    const base64 = (base64String + padding).replace(/-/g, "+").replace(/_/g, "/");
+    const rawData = atob(base64);
+    const outputArray = new Uint8Array(rawData.length);
+    for (let i = 0; i < rawData.length; ++i) outputArray[i] = rawData.charCodeAt(i);
+    return outputArray;
+  }
+
+  const statusEl  = document.getElementById("notif-status");
+  const actionsEl = document.getElementById("notif-actions");
+
+  function setStatus(text, cls) {
+    statusEl.textContent = text;
+    statusEl.className = "notif-status " + (cls || "");
+  }
+
+  function renderEnabled(sub) {
+    actionsEl.innerHTML = "";
+    setStatus("Notifications on", "on");
+    const btn = document.createElement("button");
+    btn.className = "btn-notif disable";
+    btn.textContent = "Turn off";
+    btn.addEventListener("click", async () => {
+      btn.disabled = true;
+      try {
+        await sub.unsubscribe();
+        await fetch(API + "/api/push/unsubscribe", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ endpoint: sub.endpoint }),
+        });
+        renderDisabled();
+      } catch (err) {
+        setStatus("Error turning off — try again.", "blocked");
+        btn.disabled = false;
+      }
+    });
+    actionsEl.appendChild(btn);
+  }
+
+  function renderDisabled() {
+    actionsEl.innerHTML = "";
+    setStatus("Notifications off", "off");
+    const btn = document.createElement("button");
+    btn.className = "btn-notif enable";
+    btn.textContent = "🔔 Enable notifications";
+    btn.addEventListener("click", async () => {
+      btn.disabled = true;
+      setStatus("Requesting permission…", "off");
+      try {
+        const perm = await Notification.requestPermission();
+        if (perm !== "granted") { renderBlocked(); return; }
+        setStatus("Subscribing…", "off");
+        const reg = await navigator.serviceWorker.ready;
+        const keyRes = await fetch(API + "/api/push/key");
+        if (!keyRes.ok) throw new Error("Failed to fetch VAPID key");
+        const { key } = await keyRes.json();
+        const sub = await reg.pushManager.subscribe({
+          userVisibleOnly: true,
+          applicationServerKey: urlB64ToUint8Array(key),
+        });
+        await fetch(API + "/api/push/subscribe", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ device_id: deviceId(), subscription: sub.toJSON() }),
+        });
+        renderEnabled(sub);
+      } catch (err) {
+        setStatus("Something went wrong — try again.", "blocked");
+        btn.disabled = false;
+      }
+    });
+    actionsEl.appendChild(btn);
+  }
+
+  function renderBlocked() {
+    actionsEl.innerHTML = "";
+    setStatus("Blocked — enable in your browser settings.", "blocked");
+  }
+
+  function renderUnsupported() {
+    actionsEl.innerHTML = "";
+    setStatus("Push notifications aren't supported on this browser.", "blocked");
+  }
+
+  async function init() {
+    if (!("serviceWorker" in navigator) || !("PushManager" in window) || !("Notification" in window)) {
+      renderUnsupported();
+      return;
+    }
+    if (Notification.permission === "denied") {
+      renderBlocked();
+      return;
+    }
+    try {
+      const reg = await navigator.serviceWorker.ready;
+      const sub = await reg.pushManager.getSubscription();
+      if (sub) {
+        renderEnabled(sub);
+      } else {
+        renderDisabled();
+      }
+    } catch (_) {
+      renderDisabled();
+    }
+  }
+
+  init();
+})();
+</script>
 </body>
 </html>

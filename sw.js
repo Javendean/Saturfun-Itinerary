@@ -26,3 +26,23 @@ self.addEventListener("fetch", (e) => {
       .catch(() => caches.match(req).then((m) => m || caches.match(new URL("index.html", self.location).pathname)))
   );
 });
+self.addEventListener("push", (e) => {
+  e.waitUntil((async () => {
+    let title = "Saturfun", body = "You have something new.", url = "plan.html";
+    try {
+      const r = await fetch("https://saturfun-worker.javendean.workers.dev/api/push/digest", { cache: "no-store" });
+      if (r.ok) { const d = await r.json(); if (d && d.body) { title = d.title || title; body = d.body; url = d.url || url; } }
+    } catch (_) { /* offline → generic notification below */ }
+    await self.registration.showNotification(title, { body, icon: "wall-icon-192.png", badge: "wall-icon-192.png", data: { url } });
+  })());
+});
+self.addEventListener("notificationclick", (e) => {
+  e.notification.close();
+  const target = (e.notification.data && e.notification.data.url) || "plan.html";
+  e.waitUntil((async () => {
+    const all = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
+    const scope = new URL("./", self.location).href;
+    for (const c of all) { if (c.url.startsWith(scope) && "focus" in c) { await c.focus(); if ("navigate" in c) { try { await c.navigate(scope + target); } catch (_) {} } return; } }
+    await self.clients.openWindow(scope + target);
+  })());
+});
