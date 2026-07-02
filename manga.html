@@ -419,7 +419,7 @@
     <h2>Your <em>reference panels</em></h2>
     <div class="upload-row">
         <button class="upload-btn" id="upload-panel-btn">&#xFF0B; Upload a panel</button>
-        <input type="file" id="panel-file-input" accept="image/*" style="display:none">
+        <input type="file" id="panel-file-input" accept="image/*" multiple style="display:none">
     </div>
     <p id="upload-status"></p>
     <div id="my-panels" class="panel-grid"></div>
@@ -612,8 +612,9 @@
         }
     }
 
-    // ── Upload handler ───────────────────────────────────────────────────────
+    // ── Upload handler (bulk) ────────────────────────────────────────────────
     (function initUpload() {
+        const BATCH_SIZE = 10;
         const uploadBtn = document.getElementById('upload-panel-btn');
         const fileInput = document.getElementById('panel-file-input');
         const statusEl = document.getElementById('upload-status');
@@ -622,29 +623,63 @@
         uploadBtn.addEventListener('click', function() { fileInput.click(); });
 
         fileInput.addEventListener('change', async function() {
-            const file = fileInput.files[0];
-            if (!file) return;
+            const files = [...fileInput.files];
             fileInput.value = '';
-            if (statusEl) statusEl.textContent = 'Downscaling…';
-            try {
-                const blob = await downscaleImage(file);
-                if (statusEl) statusEl.textContent = 'Uploading…';
-                const fd = new FormData();
-                fd.append('device_id', deviceId());
-                fd.append('panel', blob, 'panel.jpg');
-                const res = await fetch(MANGA_API + '/api/manga/panels', { method: 'POST', body: fd });
-                if (!res.ok) {
-                    const txt = await res.text();
-                    throw new Error(txt);
+            if (!files.length) return;
+
+            const total = files.length;
+            let uploaded = 0;
+            let failed = 0;
+
+            if (statusEl) statusEl.textContent = 'Downscaling ' + total + ' panel' + (total > 1 ? 's' : '') + '…';
+
+            // Downscale all files first (sequential to avoid memory spikes on large dumps)
+            const blobs = [];
+            for (let i = 0; i < files.length; i++) {
+                try {
+                    const blob = await downscaleImage(files[i]);
+                    blobs.push({ blob: blob, name: files[i].name.replace(/\.[^.]+$/, '') + '.jpg' });
+                } catch (err) {
+                    console.warn('[manga] downscale failed for', files[i].name, err);
+                    failed++;
                 }
-                if (statusEl) statusEl.textContent = 'Uploaded!';
-                showToast('Panel uploaded ✓');
-                await loadMyPanels();
-                setTimeout(function() { if (statusEl) statusEl.textContent = ''; }, 2500);
-            } catch (err) {
-                console.error('[manga] upload failed:', err);
-                if (statusEl) statusEl.textContent = 'Upload failed: ' + String(err.message || err);
             }
+
+            // Batch into groups of BATCH_SIZE and upload sequentially
+            for (let start = 0; start < blobs.length; start += BATCH_SIZE) {
+                const batch = blobs.slice(start, start + BATCH_SIZE);
+                if (statusEl) statusEl.textContent = 'Uploading… ' + (uploaded + failed) + ' of ' + total;
+                try {
+                    const fd = new FormData();
+                    fd.append('device_id', deviceId());
+                    for (const item of batch) {
+                        fd.append('panel', item.blob, item.name);
+                    }
+                    const res = await fetch(MANGA_API + '/api/manga/panels', { method: 'POST', body: fd });
+                    if (!res.ok) {
+                        // Count all files in this batch as failed; continue with next batch
+                        console.warn('[manga] batch upload failed, status', res.status);
+                        failed += batch.length;
+                    } else {
+                        const json = await res.json();
+                        const batchOk = (json.panels || []).length;
+                        const batchErr = (json.errors || []).length;
+                        uploaded += batchOk;
+                        failed += batchErr;
+                    }
+                } catch (err) {
+                    console.warn('[manga] batch request error:', err);
+                    failed += batch.length;
+                }
+            }
+
+            // Final status
+            let summary = 'Added ' + uploaded + ' panel' + (uploaded !== 1 ? 's' : '');
+            if (failed > 0) summary += ', ' + failed + ' failed';
+            if (statusEl) statusEl.textContent = summary;
+            if (uploaded > 0) showToast(summary + ' ✓');
+            await loadMyPanels();
+            setTimeout(function() { if (statusEl) statusEl.textContent = ''; }, 3500);
         });
     })();
 
