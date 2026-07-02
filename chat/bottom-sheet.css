@@ -3,10 +3,10 @@
 
 :root {
   --sheet-accent: #D4AF37;
-  --sheet-bg: #FAFAFA;
-  --sheet-fg: #1C1C1C;
-  --sheet-muted: #6B6B6B;
-  --sheet-border: rgba(0, 0, 0, 0.08);
+  --sheet-bg: #161618;
+  --sheet-fg: #F2EFE9;
+  --sheet-muted: #9A968E;
+  --sheet-border: rgba(242, 239, 233, 0.12);
 }
 
 #chat-pill {
@@ -17,7 +17,7 @@
   width: 60px;
   height: 60px;
   border-radius: 30px;
-  background: var(--sheet-fg);
+  background: #B33A3A;
   color: #fff;
   border: 2px solid var(--sheet-accent);
   display: flex;
@@ -118,13 +118,13 @@
 }
 .sheet-msg[data-role="user"] {
   align-self: flex-end;
-  background: var(--sheet-fg);
+  background: #B33A3A;
   color: #fff;
   border-bottom-right-radius: 4px;
 }
 .sheet-msg[data-role="assistant"] {
   align-self: flex-start;
-  background: #fff;
+  background: rgba(242, 239, 233, 0.06);
   border: 1px solid var(--sheet-border);
   border-bottom-left-radius: 4px;
 }
@@ -140,7 +140,7 @@
   align-self: stretch;
   background: rgba(220, 38, 38, 0.06);
   border: 1px solid rgba(220, 38, 38, 0.3);
-  color: #991B1B;
+  color: #F87171;
 }
 
 .sheet-banner {
@@ -174,14 +174,14 @@
 .sheet-input-row textarea {
   flex: 1;
   resize: none;
-  border: 1px solid var(--sheet-border);
+  border: 1px solid rgba(242, 239, 233, 0.14);
   border-radius: 8px;
   padding: 0.6rem 0.75rem;
   font-family: inherit;
   font-size: 0.95rem;
   min-height: 44px;
   max-height: 120px;
-  background: #fff;
+  background: #1c1c1e;
   color: var(--sheet-fg);
 }
 .sheet-input-row textarea:focus {
@@ -189,7 +189,7 @@
   border-color: var(--sheet-accent);
 }
 .sheet-send {
-  background: var(--sheet-fg);
+  background: #B33A3A;
   color: #fff;
   border: none;
   border-radius: 8px;
@@ -214,7 +214,7 @@
   margin-bottom: 0.5rem;
   border: 1px solid var(--sheet-border);
   border-radius: 10px;
-  background: #fff;
+  background: #1c1c1e;
   overflow: hidden;
 }
 
@@ -269,7 +269,7 @@
   padding: 0.55rem 0.7rem;
   border: 1px solid var(--sheet-border);
   border-radius: 8px;
-  background: #fff;
+  background: #1c1c1e;
   color: var(--sheet-fg);
   font-family: 'Inter', sans-serif;
   font-size: 0.92rem;
@@ -316,7 +316,7 @@
   min-height: 44px;
   min-width: 44px;
   padding: 0 0.9rem;
-  background: #fff;
+  background: #1c1c1e;
   color: var(--sheet-muted);
   border: 1px solid var(--sheet-border);
   border-radius: 8px;
@@ -327,7 +327,7 @@
   font-size: 0.72rem;
   cursor: pointer;
 }
-.sheet-remote-forget:hover { background: rgba(0, 0, 0, 0.03); }
+.sheet-remote-forget:hover { background: rgba(242, 239, 233, 0.05); }
 
 .sheet-remote-status {
   font-family: 'Inter', sans-serif;
@@ -336,9 +336,9 @@
   padding-top: 0.2rem;
   word-break: break-word;
 }
-.sheet-remote-status[data-tone="ok"]    { color: #2F6F3F; }
-.sheet-remote-status[data-tone="warn"]  { color: #8A6A14; }
-.sheet-remote-status[data-tone="error"] { color: #991B1B; }
+.sheet-remote-status[data-tone="ok"]    { color: #4ADE80; }
+.sheet-remote-status[data-tone="warn"]  { color: #F0B429; }
+.sheet-remote-status[data-tone="error"] { color: #F87171; }
 
 @media (max-width: 480px) {
   .sheet-remote-btnrow { flex-direction: column; }
