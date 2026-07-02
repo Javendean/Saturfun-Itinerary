@@ -13,6 +13,7 @@ import * as comments from "./comment-store";
 import * as activity from "./activity-store";
 import * as manga from "./manga-store";
 import * as push from "./push-store";
+import * as planner from "./planner-store";
 import { sendToAll } from "./web-push";
 
 const IMMUTABLE = "public, max-age=31536000, immutable"; // ids are content-stable
@@ -154,7 +155,12 @@ export async function handlePhotoRoute(
     }
     if (path === "/api/push/digest") {
       if (method !== "GET") return detail(405, "method not allowed", env, origin, { Allow: "GET, OPTIONS" });
-      return jsonOk({ title: "Saturfun", body: "Open Saturfun to see what's new.", url: "plan.html" }, env, origin);
+      const pending = await planner.pendingCount(env);
+      return jsonOk({
+        title: "Saturfun",
+        body: pending > 0 ? `✨ ${pending} new stop idea${pending === 1 ? "" : "s"} to review` : "Open Saturfun to see what's new.",
+        url: "plan.html",
+      }, env, origin);
     }
     if (path === "/api/push/subscribe") {
       if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
@@ -183,6 +189,60 @@ export async function handlePhotoRoute(
       if (!isOwner(request, env)) return detail(403, "owner only", env, origin);
       return jsonOk(await sendToAll(env), env, origin);
     }
+
+    // Planner — /api/planner/proposals[/{id}/feedback]
+    const FEEDBACK_RE = /^\/api\/planner\/proposals\/([^/]+)\/feedback$/;
+    if (path === "/api/planner/proposals") {
+      if (method === "POST") {
+        if (!isOwner(request, env)) return detail(403, "owner only", env, origin);
+        let body: unknown;
+        try { body = await request.json(); } catch { return detail(400, "invalid JSON", env, origin); }
+        const b = body as Record<string, unknown>;
+        if (!Array.isArray(b.proposals)) return detail(400, "proposals must be an array", env, origin);
+        const items: { title: string; pitch: string; fits_where: string; neighborhood: string; needs_verifying: number }[] = [];
+        for (const raw of b.proposals) {
+          if (!raw || typeof raw !== "object") continue;
+          const r = raw as Record<string, unknown>;
+          const title = typeof r.title === "string" ? r.title.trim().slice(0, 120) : "";
+          const pitch = typeof r.pitch === "string" ? r.pitch.trim().slice(0, 500) : "";
+          if (!title || !pitch) continue;
+          items.push({
+            title,
+            pitch,
+            fits_where: typeof r.fits_where === "string" ? r.fits_where : "",
+            neighborhood: typeof r.neighborhood === "string" ? r.neighborhood : "",
+            needs_verifying: 1,
+          });
+        }
+        if (items.length === 0) return detail(400, "no valid proposals", env, origin);
+        const created = await planner.createProposals(env, items);
+        let pushed = 0;
+        try { pushed = (await sendToAll(env)).sent; } catch {}
+        return jsonOk({ created, pushed }, env, origin);
+      }
+      if (method === "GET") {
+        const status = url.searchParams.get("status") || "pending";
+        return jsonOk({ proposals: await planner.listProposals(env, status) }, env, origin);
+      }
+      return detail(405, "method not allowed", env, origin, { Allow: "GET, POST, OPTIONS" });
+    }
+    { const fm = path.match(FEEDBACK_RE);
+      if (fm) {
+        const id = fm[1];
+        if (method !== "POST") return detail(405, "method not allowed", env, origin, { Allow: "POST, OPTIONS" });
+        const proposal = await planner.getProposal(env, id);
+        if (!proposal) return detail(404, "proposal not found", env, origin);
+        let body: unknown;
+        try { body = await request.json(); } catch { return detail(400, "invalid JSON", env, origin); }
+        const b = body as Record<string, unknown>;
+        const device = typeof b.device_id === "string" ? b.device_id.trim() : "";
+        if (!device) return detail(400, "device_id required", env, origin);
+        const verdict = b.verdict;
+        if (verdict !== "approve" && verdict !== "reject") return detail(400, "verdict must be approve or reject", env, origin);
+        const note = typeof b.note === "string" ? b.note.slice(0, 500) : "";
+        await planner.setFeedback(env, id, device, verdict, note);
+        return jsonOk({ ok: true }, env, origin);
+      } }
 
     // Manga panels — /api/manga/panels[/{id}/raw|tag] and taste — /api/taste/{domain}
     if (path === "/api/manga/panels") {

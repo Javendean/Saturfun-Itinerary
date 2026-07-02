@@ -1,4 +1,4 @@
-import { env } from "cloudflare:test";
+import { env, SELF } from "cloudflare:test";
 import { describe, it, expect, beforeEach } from "vitest";
 import {
   createProposals,
@@ -269,5 +269,291 @@ describe("setFeedback", () => {
     expect(row).not.toBeNull();
     expect(typeof row!.id).toBe("string");
     expect(row!.id.length).toBeGreaterThan(8);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// HTTP route tests — /api/planner/*
+// ---------------------------------------------------------------------------
+
+const BASE = "https://wall.test";
+const OWNER = "test-owner-secret"; // matches PHOTO_OWNER_TOKEN in wrangler.test.toml
+
+describe("POST /api/planner/proposals", () => {
+  beforeEach(async () => {
+    await env.DB.prepare("DELETE FROM proposals").run();
+  });
+
+  it("returns 403 without owner token", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ proposals: [{ title: "Test", pitch: "A test pitch" }] }),
+    });
+    expect(r.status).toBe(403);
+  });
+
+  it("returns 403 with wrong owner token", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": "wrong-token" },
+      body: JSON.stringify({ proposals: [{ title: "Test", pitch: "A test pitch" }] }),
+    });
+    expect(r.status).toBe(403);
+  });
+
+  it("returns 400 when body is not valid JSON", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: "not-json",
+    });
+    expect(r.status).toBe(400);
+  });
+
+  it("returns 400 when proposals array is missing", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({ not_proposals: [] }),
+    });
+    expect(r.status).toBe(400);
+  });
+
+  it("returns 400 when all items are invalid (missing title/pitch)", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({ proposals: [{ title: "", pitch: "" }] }),
+    });
+    expect(r.status).toBe(400);
+  });
+
+  it("creates proposals with owner token and returns {created, pushed}", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({
+        proposals: [
+          { title: "Ramen stop", pitch: "Solo ramen booths", fits_where: "dinner", neighborhood: "East Village" },
+          { title: "Coffee break", pitch: "Third-wave pour-overs", fits_where: "morning", neighborhood: "Williamsburg" },
+        ],
+      }),
+    });
+    expect(r.status).toBe(200);
+    const body = (await r.json()) as { created: number; pushed: number };
+    expect(body.created).toBe(2);
+    expect(typeof body.pushed).toBe("number"); // no subs → 0, but shape is correct
+  });
+
+  it("skips invalid items and only counts valid ones", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({
+        proposals: [
+          { title: "Valid stop", pitch: "Good pitch" },
+          { title: "", pitch: "No title — skip" },
+        ],
+      }),
+    });
+    expect(r.status).toBe(200);
+    const body = (await r.json()) as { created: number; pushed: number };
+    expect(body.created).toBe(1);
+  });
+
+  it("stores proposals in DB with status=pending", async () => {
+    await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({
+        proposals: [{ title: "Park Slope taco", pitch: "Three taquerias", fits_where: "lunch", neighborhood: "Park Slope" }],
+      }),
+    });
+    const row = await env.DB.prepare("SELECT status FROM proposals WHERE title = 'Park Slope taco'").first<{ status: string }>();
+    expect(row).not.toBeNull();
+    expect(row!.status).toBe("pending");
+  });
+});
+
+describe("GET /api/planner/proposals", () => {
+  beforeEach(async () => {
+    await env.DB.prepare("DELETE FROM proposals").run();
+  });
+
+  it("returns 405 for non-GET methods", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "DELETE",
+    });
+    expect(r.status).toBe(405);
+  });
+
+  it("returns pending proposals by default (no status param)", async () => {
+    await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({
+        proposals: [
+          { title: "Stop A", pitch: "Pitch A" },
+          { title: "Stop B", pitch: "Pitch B" },
+        ],
+      }),
+    });
+
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals`);
+    expect(r.status).toBe(200);
+    const body = (await r.json()) as { proposals: Array<{ title: string; status: string }> };
+    expect(body.proposals).toHaveLength(2);
+    for (const p of body.proposals) expect(p.status).toBe("pending");
+  });
+
+  it("filters by ?status=approved after approving one", async () => {
+    await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({ proposals: [{ title: "Stop A", pitch: "Pitch A" }] }),
+    });
+    const listed = (await (await SELF.fetch(`${BASE}/api/planner/proposals`)).json()) as { proposals: Array<{ id: string }> };
+    const id = listed.proposals[0].id;
+    await env.DB.prepare("UPDATE proposals SET status = 'approved' WHERE id = ?").bind(id).run();
+
+    const pending = (await (await SELF.fetch(`${BASE}/api/planner/proposals?status=pending`)).json()) as { proposals: unknown[] };
+    expect(pending.proposals).toHaveLength(0);
+
+    const approved = (await (await SELF.fetch(`${BASE}/api/planner/proposals?status=approved`)).json()) as { proposals: Array<{ id: string }> };
+    expect(approved.proposals).toHaveLength(1);
+    expect(approved.proposals[0].id).toBe(id);
+  });
+});
+
+describe("POST /api/planner/proposals/{id}/feedback", () => {
+  let proposalId: string;
+
+  beforeEach(async () => {
+    await env.DB.prepare("DELETE FROM proposals").run();
+    await env.DB.prepare("DELETE FROM taste_signals").run();
+    // Seed one proposal
+    await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({ proposals: [{ title: "Test stop", pitch: "A test pitch" }] }),
+    });
+    const list = (await (await SELF.fetch(`${BASE}/api/planner/proposals`)).json()) as { proposals: Array<{ id: string }> };
+    proposalId = list.proposals[0].id;
+  });
+
+  it("returns 404 for unknown proposal id", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals/doesnotexist/feedback`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ device_id: "dev-1", verdict: "approve" }),
+    });
+    expect(r.status).toBe(404);
+  });
+
+  it("returns 400 when device_id is missing", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals/${proposalId}/feedback`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ verdict: "approve" }),
+    });
+    expect(r.status).toBe(400);
+  });
+
+  it("returns 400 for invalid verdict", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals/${proposalId}/feedback`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ device_id: "dev-1", verdict: "maybe" }),
+    });
+    expect(r.status).toBe(400);
+  });
+
+  it("returns 400 when body is not valid JSON", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals/${proposalId}/feedback`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: "not-json",
+    });
+    expect(r.status).toBe(400);
+  });
+
+  it("approve → 200 + {ok:true} + status flips to approved", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals/${proposalId}/feedback`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ device_id: "dev-1", verdict: "approve", note: "love it" }),
+    });
+    expect(r.status).toBe(200);
+    const body = (await r.json()) as { ok: boolean };
+    expect(body.ok).toBe(true);
+
+    // Verify via GET
+    const list = (await (await SELF.fetch(`${BASE}/api/planner/proposals?status=approved`)).json()) as { proposals: Array<{ id: string; status: string }> };
+    expect(list.proposals).toHaveLength(1);
+    expect(list.proposals[0].id).toBe(proposalId);
+    expect(list.proposals[0].status).toBe("approved");
+  });
+
+  it("reject → 200 + {ok:true} + status flips to rejected", async () => {
+    const r = await SELF.fetch(`${BASE}/api/planner/proposals/${proposalId}/feedback`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ device_id: "dev-2", verdict: "reject", note: "not feeling it" }),
+    });
+    expect(r.status).toBe(200);
+    const body = (await r.json()) as { ok: boolean };
+    expect(body.ok).toBe(true);
+
+    const list = (await (await SELF.fetch(`${BASE}/api/planner/proposals?status=rejected`)).json()) as { proposals: Array<{ id: string; status: string }> };
+    expect(list.proposals).toHaveLength(1);
+    expect(list.proposals[0].status).toBe("rejected");
+  });
+});
+
+describe("GET /api/push/digest — pending count integration", () => {
+  beforeEach(async () => {
+    await env.DB.prepare("DELETE FROM proposals").run();
+  });
+
+  it("returns 'see what's new' body when no pending proposals", async () => {
+    const r = await SELF.fetch(`${BASE}/api/push/digest`);
+    expect(r.status).toBe(200);
+    const body = (await r.json()) as { title: string; body: string; url: string };
+    expect(body.title).toBe("Saturfun");
+    expect(body.body).toBe("Open Saturfun to see what's new.");
+    expect(body.url).toBe("plan.html");
+  });
+
+  it("reflects pending count when proposals exist", async () => {
+    await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({
+        proposals: [
+          { title: "Stop A", pitch: "Pitch A" },
+          { title: "Stop B", pitch: "Pitch B" },
+        ],
+      }),
+    });
+
+    const r = await SELF.fetch(`${BASE}/api/push/digest`);
+    expect(r.status).toBe(200);
+    const body = (await r.json()) as { title: string; body: string; url: string };
+    expect(body.title).toBe("Saturfun");
+    expect(body.body).toBe("✨ 2 new stop ideas to review");
+    expect(body.url).toBe("plan.html");
+  });
+
+  it("uses singular 'idea' for exactly 1 pending proposal", async () => {
+    await SELF.fetch(`${BASE}/api/planner/proposals`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Owner-Token": OWNER },
+      body: JSON.stringify({ proposals: [{ title: "Stop A", pitch: "Pitch A" }] }),
+    });
+
+    const r = await SELF.fetch(`${BASE}/api/push/digest`);
+    const body = (await r.json()) as { body: string };
+    expect(body.body).toBe("✨ 1 new stop idea to review");
   });
 });
