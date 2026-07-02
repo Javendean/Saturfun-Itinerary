@@ -151,6 +151,237 @@
             font-size: 0.8rem;
             border-top: 1px solid rgba(242, 239, 233, 0.06);
         }
+
+        /* ── Upload + my-panels ─────────────────────────────────────────── */
+        .upload-row {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            justify-content: center;
+            margin-bottom: 1.5rem;
+        }
+        .upload-btn {
+            background: transparent;
+            border: 1px solid rgba(242, 239, 233, 0.25);
+            color: var(--vault-paper);
+            border-radius: 999px;
+            padding: 0.6rem 1.4rem;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            cursor: pointer;
+            transition: all 0.18s ease;
+        }
+        .upload-btn:hover {
+            background: rgba(212, 175, 55, 0.1);
+            border-color: rgba(212, 175, 55, 0.5);
+            color: #D4AF37;
+        }
+        #upload-status {
+            font-size: 0.8rem;
+            color: rgba(242, 239, 233, 0.55);
+            min-height: 1.2em;
+            text-align: center;
+            margin: 0 0 1rem;
+        }
+        .my-panels-card-btn {
+            margin: 0.5rem 0.75rem 0.75rem;
+            background: transparent;
+            color: var(--vault-blood);
+            border: 1px solid var(--vault-blood);
+            border-radius: 3px;
+            padding: 0.45rem 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            font-size: 0.7rem;
+            font-weight: 700;
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.15s ease;
+        }
+        .my-panels-card-btn:hover {
+            background: var(--vault-blood);
+            color: #fff;
+        }
+
+        /* ── Tag sheet ───────────────────────────────────────────────────── */
+        #tag-sheet {
+            position: fixed;
+            left: 0; right: 0; bottom: 0;
+            background: #161618;
+            color: var(--vault-paper);
+            border-top: 1px solid rgba(242, 239, 233, 0.12);
+            z-index: 50;
+            padding: 1.5rem 1.25rem 2rem;
+            transform: translateY(100%);
+            transition: transform 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+            font-family: 'Inter', sans-serif;
+        }
+        #tag-sheet[data-open="true"] { transform: translateY(0); }
+        @media (min-width: 640px) {
+            #tag-sheet {
+                max-width: 480px;
+                left: 50%; right: auto;
+                transform: translateX(-50%) translateY(100%);
+                border-radius: 12px 12px 0 0;
+            }
+            #tag-sheet[data-open="true"] { transform: translateX(-50%) translateY(0); }
+        }
+        .tag-sheet-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+        }
+        .tag-sheet-header h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.1rem;
+            margin: 0;
+        }
+        .tag-sheet-close {
+            background: none;
+            border: none;
+            font-size: 1.4rem;
+            color: rgba(242, 239, 233, 0.5);
+            cursor: pointer;
+            padding: 0 0.25rem;
+            line-height: 1;
+        }
+        .aspect-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        .aspect-chip {
+            padding: 0.35rem 0.8rem;
+            border-radius: 999px;
+            border: 1px solid rgba(242, 239, 233, 0.2);
+            background: transparent;
+            color: var(--vault-paper);
+            font-size: 0.78rem;
+            font-family: 'Inter', sans-serif;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            text-transform: capitalize;
+        }
+        .aspect-chip.active {
+            background: var(--vault-blood);
+            border-color: var(--vault-blood);
+            color: #fff;
+        }
+        .tag-note {
+            width: 100%;
+            box-sizing: border-box;
+            background: #1c1c1e;
+            border: 1px solid rgba(242, 239, 233, 0.14);
+            border-radius: 8px;
+            color: var(--vault-paper);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.9rem;
+            padding: 0.6rem 0.75rem;
+            resize: none;
+            margin-bottom: 0.75rem;
+        }
+        .tag-note:focus { outline: none; border-color: #D4AF37; }
+        .tag-save-btn {
+            width: 100%;
+            padding: 0.7rem;
+            background: var(--vault-blood);
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            font-family: 'Inter', sans-serif;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-size: 0.8rem;
+            cursor: pointer;
+        }
+        .tag-save-btn:hover { filter: brightness(1.1); }
+
+        /* ── Taste editor ────────────────────────────────────────────────── */
+        .taste-editor {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        .taste-row {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 0.6rem;
+        }
+        .taste-label {
+            font-size: 0.8rem;
+            text-transform: capitalize;
+            letter-spacing: 0.04em;
+            color: rgba(242, 239, 233, 0.7);
+            min-width: 120px;
+        }
+        .taste-slider {
+            flex: 1;
+            accent-color: var(--vault-blood);
+        }
+        .taste-val {
+            font-size: 0.75rem;
+            color: rgba(242, 239, 233, 0.45);
+            min-width: 2ch;
+            text-align: right;
+        }
+        .taste-text-field {
+            width: 100%;
+            box-sizing: border-box;
+            background: #161618;
+            border: 1px solid rgba(242, 239, 233, 0.12);
+            border-radius: 6px;
+            color: var(--vault-paper);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.88rem;
+            padding: 0.55rem 0.75rem;
+            margin-bottom: 0.5rem;
+        }
+        .taste-text-field:focus { outline: none; border-color: #D4AF37; }
+        .taste-section-label {
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: rgba(242, 239, 233, 0.4);
+            margin: 1.25rem 0 0.5rem;
+        }
+        #taste-save-status {
+            font-size: 0.75rem;
+            color: rgba(212, 175, 55, 0.7);
+            margin-top: 0.75rem;
+            min-height: 1.2em;
+            text-align: center;
+        }
+
+        /* ── Toast ───────────────────────────────────────────────────────── */
+        #manga-toast {
+            position: fixed;
+            bottom: calc(var(--tab-bar-h, 62px) + 1rem);
+            left: 50%;
+            transform: translateX(-50%) translateY(12px);
+            background: #161618;
+            color: var(--vault-paper);
+            border: 1px solid rgba(242, 239, 233, 0.15);
+            border-radius: 999px;
+            padding: 0.55rem 1.2rem;
+            font-size: 0.82rem;
+            font-family: 'Inter', sans-serif;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s ease, transform 0.2s ease;
+            z-index: 60;
+            white-space: nowrap;
+        }
+        #manga-toast.show {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+        }
     </style>
 </head>
 <body>
@@ -183,10 +414,50 @@
     </div>
 </section>
 
+<!-- ── My reference panels ───────────────────────────────────────────── -->
+<section class="vault-section" id="my-panels-section">
+    <h2>Your <em>reference panels</em></h2>
+    <div class="upload-row">
+        <button class="upload-btn" id="upload-panel-btn">&#xFF0B; Upload a panel</button>
+        <input type="file" id="panel-file-input" accept="image/*" style="display:none">
+    </div>
+    <p id="upload-status"></p>
+    <div id="my-panels" class="panel-grid"></div>
+</section>
+
+<!-- ── Your taste ────────────────────────────────────────────────────── -->
+<section class="vault-section" id="taste-section">
+    <h2>Your <em>taste</em></h2>
+    <div class="taste-editor" id="taste-editor">
+        <p class="taste-section-label">Aspect weights</p>
+        <div id="taste-sliders"></div>
+        <p class="taste-section-label">Pinned artists &amp; series (one per line)</p>
+        <textarea id="taste-pins" class="taste-text-field" rows="4"
+            placeholder="e.g. Inoue Takehiko&#10;Vagabond&#10;Otomo Katsuhiro"></textarea>
+        <p class="taste-section-label">Current focus</p>
+        <input id="taste-focus" class="taste-text-field" type="text"
+            placeholder="e.g. brush inking, panel transitions, foreshortening">
+        <p id="taste-save-status"></p>
+    </div>
+</section>
+
 <footer class="vault-footer">
     Panel Vault is owner-only. Friends draw from the same archive via shared collections.
     <br>Saturfun · Brooklyn
 </footer>
+
+<!-- ── Tag sheet (opens when "♡ What I like" is tapped) ──────────────── -->
+<aside id="tag-sheet" data-open="false">
+    <div class="tag-sheet-header">
+        <h3>&#x2665; What I like</h3>
+        <button class="tag-sheet-close" id="tag-sheet-close" aria-label="Close tag sheet">&#x00D7;</button>
+    </div>
+    <div class="aspect-chips" id="aspect-chips"></div>
+    <textarea id="tag-note" class="tag-note" rows="2" placeholder="Optional note&#x2026;"></textarea>
+    <button class="tag-save-btn" id="tag-save-btn">Save</button>
+</aside>
+
+<div id="manga-toast" role="status" aria-live="polite"></div>
 
 <!-- Manga chat (bottom-sheet). Owner mode only — talks to manga-sidecar.mjs on :7332. -->
 <button id="chat-pill" aria-expanded="false" aria-controls="chat-sheet" title="Open Panel Vault chat">
@@ -253,6 +524,278 @@
         }[c]));
     }
     hydrate();
+
+    // ── API config + helpers ─────────────────────────────────────────────────
+    const MANGA_API = (location.hostname === 'localhost' || location.hostname === '127.0.0.1' || location.hostname === '')
+        ? 'http://127.0.0.1:8787'
+        : 'https://saturfun-worker.javendean.workers.dev';
+    const DEVICE_KEY = 'saturfun_device_id';
+    function deviceId() {
+        let id = localStorage.getItem(DEVICE_KEY);
+        if (!id) {
+            id = (crypto.randomUUID ? crypto.randomUUID() : String(Date.now()) + Math.random());
+            localStorage.setItem(DEVICE_KEY, id);
+        }
+        return id;
+    }
+    const esc = escapeHtml;
+    const ASPECTS = ['linework', 'composition', 'inking', 'shading', 'negative_space', 'dynamism', 'mood', 'expression', 'texture'];
+
+    // ── Toast ────────────────────────────────────────────────────────────────
+    function showToast(msg, ms) {
+        if (ms === undefined) ms = 2200;
+        const t = document.getElementById('manga-toast');
+        if (!t) return;
+        t.textContent = msg;
+        t.classList.add('show');
+        setTimeout(function() { t.classList.remove('show'); }, ms);
+    }
+
+    // ── Image downscale (canvas → JPEG blob, max 1200 px) ───────────────────
+    function downscaleImage(file, maxPx, quality) {
+        if (maxPx === undefined) maxPx = 1200;
+        if (quality === undefined) quality = 0.85;
+        return new Promise(function(resolve, reject) {
+            const img = new Image();
+            const blobUrl = URL.createObjectURL(file);
+            img.onload = function() {
+                URL.revokeObjectURL(blobUrl);
+                const scale = Math.min(1, maxPx / Math.max(img.width, img.height));
+                const w = Math.round(img.width * scale);
+                const h = Math.round(img.height * scale);
+                const canvas = document.createElement('canvas');
+                canvas.width = w;
+                canvas.height = h;
+                canvas.getContext('2d').drawImage(img, 0, 0, w, h);
+                canvas.toBlob(function(blob) {
+                    if (!blob) { reject(new Error('canvas toBlob failed')); return; }
+                    resolve(blob);
+                }, 'image/jpeg', quality);
+            };
+            img.onerror = function() {
+                URL.revokeObjectURL(blobUrl);
+                reject(new Error('image load failed'));
+            };
+            img.src = blobUrl;
+        });
+    }
+
+    // ── My Panels grid ──────────────────────────────────────────────────────
+    async function loadMyPanels() {
+        const grid = document.getElementById('my-panels');
+        if (!grid) return;
+        try {
+            const res = await fetch(MANGA_API + '/api/manga/panels?device=' + encodeURIComponent(deviceId()));
+            if (!res.ok) {
+                grid.innerHTML = '<p style="text-align:center;color:rgba(242,239,233,0.4);padding:2rem;">No panels yet.</p>';
+                return;
+            }
+            const json = await res.json();
+            const panels = json.panels || [];
+            if (!panels.length) {
+                grid.innerHTML = '<p style="text-align:center;color:rgba(242,239,233,0.4);padding:2rem;">No panels yet. Upload your first reference!</p>';
+                return;
+            }
+            grid.innerHTML = '';
+            for (const p of panels) {
+                const card = document.createElement('article');
+                card.className = 'panel-card';
+                card.innerHTML =
+                    '<img class="panel-image" loading="lazy" src="' + esc(MANGA_API + p.url) + '" alt="Reference panel">' +
+                    '<button class="my-panels-card-btn panel-tag-btn" data-panel-id="' + esc(p.id) + '">&#x2665; What I like</button>';
+                grid.appendChild(card);
+            }
+        } catch (err) {
+            console.warn('[manga] loadMyPanels failed:', err);
+            const g = document.getElementById('my-panels');
+            if (g) g.innerHTML = '<p style="text-align:center;color:rgba(242,239,233,0.4);padding:2rem;">Could not load panels.</p>';
+        }
+    }
+
+    // ── Upload handler ───────────────────────────────────────────────────────
+    (function initUpload() {
+        const uploadBtn = document.getElementById('upload-panel-btn');
+        const fileInput = document.getElementById('panel-file-input');
+        const statusEl = document.getElementById('upload-status');
+        if (!uploadBtn || !fileInput) return;
+
+        uploadBtn.addEventListener('click', function() { fileInput.click(); });
+
+        fileInput.addEventListener('change', async function() {
+            const file = fileInput.files[0];
+            if (!file) return;
+            fileInput.value = '';
+            if (statusEl) statusEl.textContent = 'Downscaling…';
+            try {
+                const blob = await downscaleImage(file);
+                if (statusEl) statusEl.textContent = 'Uploading…';
+                const fd = new FormData();
+                fd.append('device_id', deviceId());
+                fd.append('panel', blob, 'panel.jpg');
+                const res = await fetch(MANGA_API + '/api/manga/panels', { method: 'POST', body: fd });
+                if (!res.ok) {
+                    const txt = await res.text();
+                    throw new Error(txt);
+                }
+                if (statusEl) statusEl.textContent = 'Uploaded!';
+                showToast('Panel uploaded ✓');
+                await loadMyPanels();
+                setTimeout(function() { if (statusEl) statusEl.textContent = ''; }, 2500);
+            } catch (err) {
+                console.error('[manga] upload failed:', err);
+                if (statusEl) statusEl.textContent = 'Upload failed: ' + String(err.message || err);
+            }
+        });
+    })();
+
+    // ── Tag sheet ────────────────────────────────────────────────────────────
+    var _tagPanelId = null;
+    (function initTagSheet() {
+        const sheet = document.getElementById('tag-sheet');
+        const closeBtn = document.getElementById('tag-sheet-close');
+        const chipsEl = document.getElementById('aspect-chips');
+        const noteEl = document.getElementById('tag-note');
+        const saveBtn = document.getElementById('tag-save-btn');
+        if (!sheet || !chipsEl) return;
+
+        ASPECTS.forEach(function(a) {
+            const chip = document.createElement('button');
+            chip.className = 'aspect-chip';
+            chip.textContent = a.replace(/_/g, ' ');
+            chip.dataset.aspect = a;
+            chip.addEventListener('click', function() { chip.classList.toggle('active'); });
+            chipsEl.appendChild(chip);
+        });
+
+        document.addEventListener('click', function(e) {
+            const btn = e.target && e.target.closest ? e.target.closest('.panel-tag-btn') : null;
+            if (!btn) return;
+            _tagPanelId = btn.dataset.panelId;
+            chipsEl.querySelectorAll('.aspect-chip').forEach(function(c) { c.classList.remove('active'); });
+            if (noteEl) noteEl.value = '';
+            sheet.dataset.open = 'true';
+        });
+
+        if (closeBtn) {
+            closeBtn.addEventListener('click', function() { sheet.dataset.open = 'false'; });
+        }
+
+        if (saveBtn) {
+            saveBtn.addEventListener('click', async function() {
+                if (!_tagPanelId) return;
+                const aspects = Array.from(chipsEl.querySelectorAll('.aspect-chip.active')).map(function(c) { return c.dataset.aspect; });
+                const note = noteEl ? noteEl.value.trim() : '';
+                if (!aspects.length && !note) { showToast('Pick at least one aspect or add a note.'); return; }
+                try {
+                    const res = await fetch(
+                        MANGA_API + '/api/manga/panels/' + encodeURIComponent(_tagPanelId) + '/tag',
+                        {
+                            method: 'POST',
+                            headers: { 'Content-Type': 'application/json' },
+                            body: JSON.stringify({ device_id: deviceId(), aspects: aspects, note: note }),
+                        }
+                    );
+                    if (!res.ok) {
+                        const txt = await res.text();
+                        throw new Error(txt);
+                    }
+                    showToast('Saved ✓');
+                    sheet.dataset.open = 'false';
+                } catch (err) {
+                    console.error('[manga] tag failed:', err);
+                    showToast('Could not save.');
+                }
+            });
+        }
+    })();
+
+    // ── Taste editor ─────────────────────────────────────────────────────────
+    (function initTaste() {
+        const pinsEl = document.getElementById('taste-pins');
+        const focusEl = document.getElementById('taste-focus');
+        const statusEl = document.getElementById('taste-save-status');
+        const sliderDiv = document.getElementById('taste-sliders');
+        if (!sliderDiv) return;
+
+        const defaults = { weights: {}, pins: [], focus: '' };
+        ASPECTS.forEach(function(a) { defaults.weights[a] = 5; });
+        let state = JSON.parse(JSON.stringify(defaults));
+        let saveTimer = null;
+
+        function buildSliders(weights) {
+            sliderDiv.innerHTML = '';
+            ASPECTS.forEach(function(a) {
+                const row = document.createElement('div');
+                row.className = 'taste-row';
+                const val = (weights && weights[a] != null) ? weights[a] : 5;
+                row.innerHTML =
+                    '<span class="taste-label">' + esc(a.replace(/_/g, ' ')) + '</span>' +
+                    '<input type="range" class="taste-slider" data-aspect="' + esc(a) + '" min="0" max="10" step="1" value="' + val + '">' +
+                    '<span class="taste-val">' + val + '</span>';
+                row.querySelector('.taste-slider').addEventListener('input', function(e) {
+                    row.querySelector('.taste-val').textContent = e.target.value;
+                    state.weights[a] = Number(e.target.value);
+                    scheduleSave();
+                });
+                sliderDiv.appendChild(row);
+            });
+        }
+
+        function scheduleSave() {
+            clearTimeout(saveTimer);
+            saveTimer = setTimeout(saveTaste, 600);
+            if (statusEl) statusEl.textContent = 'Saving…';
+        }
+
+        async function saveTaste() {
+            if (pinsEl) state.pins = pinsEl.value.split('\n').map(function(s) { return s.trim(); }).filter(Boolean);
+            if (focusEl) state.focus = focusEl.value.trim();
+            try {
+                const res = await fetch(MANGA_API + '/api/taste/manga', {
+                    method: 'PUT',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ device_id: deviceId(), data: state }),
+                });
+                if (!res.ok) {
+                    const txt = await res.text();
+                    throw new Error(txt);
+                }
+                if (statusEl) statusEl.textContent = 'Saved ✓';
+                setTimeout(function() { if (statusEl) statusEl.textContent = ''; }, 1800);
+            } catch (err) {
+                console.error('[manga] taste save failed:', err);
+                if (statusEl) statusEl.textContent = 'Could not save.';
+            }
+        }
+
+        async function loadTaste() {
+            try {
+                const res = await fetch(MANGA_API + '/api/taste/manga?device=' + encodeURIComponent(deviceId()));
+                if (res.ok) {
+                    const json = await res.json();
+                    const data = json && json.data ? json.data : null;
+                    if (data) {
+                        state = {
+                            weights: Object.assign({}, defaults.weights, data.weights || {}),
+                            pins: data.pins || [],
+                            focus: data.focus || '',
+                        };
+                    }
+                }
+            } catch (err) {
+                console.warn('[manga] loadTaste failed:', err);
+            }
+            buildSliders(state.weights);
+            if (pinsEl) pinsEl.value = (state.pins || []).join('\n');
+            if (focusEl) focusEl.value = state.focus || '';
+            if (pinsEl) pinsEl.addEventListener('input', scheduleSave);
+            if (focusEl) focusEl.addEventListener('input', scheduleSave);
+        }
+
+        loadTaste();
+    })();
+
+    loadMyPanels();
 </script>
 
 <script type="module" src="chat/chat.js" data-bot="manga"></script>
